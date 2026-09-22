@@ -1,0 +1,1213 @@
+{
+  "search_metadata": {
+    "id": "6ab29f2b73ae607a37f768f4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/7McgBJjkdzniuO5o997C6cQBHHDIBzELDZ_5f3pQrrY/6ab29f2b73ae607a37f768f4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/7McgBJjkdzniuO5o997C6cQBHHDIBzELDZ_5f3pQrrY/6ab29f2b73ae607a37f768f4.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/7McgBJjkdzniuO5o997C6cQBHHDIBzELDZ_5f3pQrrY/6ab29f2b73ae607a37f768f4.json_with_pixel_position",
+    "created_at": "2026-09-22 15:30:51 UTC",
+    "processed_at": "2026-09-22 15:30:51 UTC",
+    "google_url": "https://www.google.com/search?q=top+noise+canceling+wireless+earbuds&oq=top+noise+canceling+wireless+earbuds&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/7McgBJjkdzniuO5o997C6cQBHHDIBzELDZ_5f3pQrrY/6ab29f2b73ae607a37f768f4.html",
+    "total_time_taken": 2.06
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top noise canceling wireless earbuds",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top noise canceling wireless earbuds",
+    "total_results": 183,
+    "time_taken_displayed": 0.32,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Best Noise Cancelling Wireless Earbuds 2026 [watch before ...",
+      "link": "https://www.youtube.com/watch?v=PxvYexxQnrw",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3LEZ7CClGikJ3r4-wfiODCtbjOiPyiQNpeZF0-FcgFc-sL_oQYUPhA&s",
+      "channel": "The ReviewLab",
+      "duration": "11:09",
+      "platform": "YouTube",
+      "date": "1 week ago",
+      "snippet": "The Soundcore P30i offers adaptive ANC up to 42dB, 45-hour battery life, and a charging case that doubles as a phone stand.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcREKyUnMtv-cE5U2VcpOgVA71REZs63qTEIkg"
+    },
+    {
+      "position": 2,
+      "title": "Top 5 Premium ANC Earbuds 2026 (The Winner Surprised Me)",
+      "link": "https://www.youtube.com/watch?v=UavloqEd89k",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZD-wrAy_IICYwWAIpsPCpccuuoo7CJrcI6eF5i_pXBqoYzTxwrmPlw&s",
+      "channel": "EL JEFE REVIEWS",
+      "duration": "11:27",
+      "platform": "YouTube",
+      "date": "Jun 10, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTGIkakkCUvMpb1EosWXUkOm9_OrLWMmaMRAw"
+    },
+    {
+      "position": 3,
+      "title": "These Are The BEST Noise Cancelling Earbuds I'd Buy in 2026",
+      "link": "https://www.youtube.com/watch?v=oNY30F0Jm10",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFkZVyHUqn2IK9jLO1gUx91xfwalVdFc_99yGu_MbPfbk1RnCT0VlSQQ&s",
+      "channel": "10BestOnes",
+      "duration": "8:32",
+      "platform": "YouTube",
+      "date": "Jun 24, 2026",
+      "snippet": "Bose QuietComfort Ultra Earbuds are the king of silence, offering superior comfort & noise cancellation for loud environments."
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT2mLf9g93TKDMsF785WJbftpGvJjZVxBOZNbeosfkemysPB8q2SIHsGI-yYfd_9Naf7AR2HSRCZkDmBIEdmIOTCYOjbEObRkLN4ygO_nGE",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "Bose QuietComfort Noise-Cancelling Wireless Earbuds",
+      "rating": 4.2,
+      "reviews": 4700,
+      "price": "$179.00",
+      "extracted_price": 179.0,
+      "location": "Also nearby",
+      "immersive_product_page_token": "5wf0fnicdVLLbuM2FAX6Ld0FBUhJlK3uEsuyrViySYmkrc1AIhnrQT0iy3Ei9B_6C4UzU2C6nBbot6RfU7Xrdndxz8E55z5-vqniz63_w1s6lHyR9Vm13-zhblUWOPja9a28iKGQv8-hMTNs4Di2aZnQms0R-CrSIdXtqZB_QGSZM8uZ2YZjONBwEALOt1ylUheN2j09qd5txaQCZ4Zp2wDMwNyywFRb5m9FnZ7Uv_Av7708f1j7xSdoIQsCY6IA5DiWY0zuP-3Jzv30P-CX54vq3z6-H9rurmmLs7oTaSPUZH-6uxa90up8vlNpn13k-cupE_9k_g-Z97qQ39DMtmzDsu25CSbCNMt79zLc8tPny0WrD_d6t7jf4M1i0zPDG9OVviQmecmK1yV-u2-jldckB3-UK8eceiFZVGfGUSdXrNp4ITgeiBbX20nfLudbrm-q-bVNu5cn8dd35fJ8dRft1cW065hLQOy11mEk112c46OuTNZ0zbGCOa3ESJvuEq1YR1xssZUeBRjwkep1YlwtAgYrhB1PDb0SukIJ9aPMffCF0e2YJvDIcj_icysuIMHwARMgOVnLK63FSEymY3oeZRmgZCXrxHO2ykt4ZHQ0pOFBNOELBbIVXG-y9RFxdhwkdx4xR3t18NcHwIaQsWDH4SZdVwOpuylvSBPY7ZP6BFWTG7h-ZVuaHJmBMIYa7KjvbbmXpDw00jh55Es9cM0iUUDKmnagSx9mjTcKHfaM6yQAAwhAfo1M8cZGlqvaH0kst5gTLGM8YkBM6ZEtL3WiYs1I6a3j2nvLtKeDhhSpmT-lWpesHmIMWRqu5MDMB8yqyuRrOQpT51uOjAyy6ABkmgHdsDIMQv3QS9NLsjpHW1YNkZtTUZG1MDuOK3lUS3ihXO633LdV7AdKS_dgdpe09Hmok2WsnceMsSoAc1Ma8lEdwnVQvz5Lmux3rper8gjTMlxRivSRbaAwIApdb1jmMogKiKbfeWYgLETt93SpcUCddVprEpO2wJSMotQ1rUk77eQhAGFCDt02WyIaNfkzX26mK0NCY9_G-PPruX_6APceGqLdDF_T-70p10vXgrq3CXTTKp3NHZngH-HMAcCBABkIoL8B2cFmog",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5wf0fnicdVLLbuM2FAX6Ld0FBUhJlK3uEsuyrViySYmkrc1AIhnrQT0iy3Ei9B_6C4UzU2C6nBbot6RfU7Xrdndxz8E55z5-vqniz63_w1s6lHyR9Vm13-zhblUWOPja9a28iKGQv8-hMTNs4Di2aZnQms0R-CrSIdXtqZB_QGSZM8uZ2YZjONBwEALOt1ylUheN2j09qd5txaQCZ4Zp2wDMwNyywFRb5m9FnZ7Uv_Av7708f1j7xSdoIQsCY6IA5DiWY0zuP-3Jzv30P-CX54vq3z6-H9rurmmLs7oTaSPUZH-6uxa90up8vlNpn13k-cupE_9k_g-Z97qQ39DMtmzDsu25CSbCNMt79zLc8tPny0WrD_d6t7jf4M1i0zPDG9OVviQmecmK1yV-u2-jldckB3-UK8eceiFZVGfGUSdXrNp4ITgeiBbX20nfLudbrm-q-bVNu5cn8dd35fJ8dRft1cW065hLQOy11mEk112c46OuTNZ0zbGCOa3ESJvuEq1YR1xssZUeBRjwkep1YlwtAgYrhB1PDb0SukIJ9aPMffCF0e2YJvDIcj_icysuIMHwARMgOVnLK63FSEymY3oeZRmgZCXrxHO2ykt4ZHQ0pOFBNOELBbIVXG-y9RFxdhwkdx4xR3t18NcHwIaQsWDH4SZdVwOpuylvSBPY7ZP6BFWTG7h-ZVuaHJmBMIYa7KjvbbmXpDw00jh55Es9cM0iUUDKmnagSx9mjTcKHfaM6yQAAwhAfo1M8cZGlqvaH0kst5gTLGM8YkBM6ZEtL3WiYs1I6a3j2nvLtKeDhhSpmT-lWpesHmIMWRqu5MDMB8yqyuRrOQpT51uOjAyy6ABkmgHdsDIMQv3QS9NLsjpHW1YNkZtTUZG1MDuOK3lUS3ihXO633LdV7AdKS_dgdpe09Hmok2WsnceMsSoAc1Ma8lEdwnVQvz5Lmux3rper8gjTMlxRivSRbaAwIApdb1jmMogKiKbfeWYgLETt93SpcUCddVprEpO2wJSMotQ1rUk77eQhAGFCDt02WyIaNfkzX26mK0NCY9_G-PPruX_6APceGqLdDF_T-70p10vXgrq3CXTTKp3NHZngH-HMAcCBABkIoL8B2cFmog"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTVqCEDBUtM8X-O0obt8RaBQZVq3aVRz4RSlL7LhstohmzfToP5GqIdCKvCKPWOPji6HpKrVD7eMJYxbjg8iEXLoc5SsxAX6D8eTSq_SN8",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Apple AirPods Pro 3",
+      "rating": 4.7,
+      "reviews": 21000,
+      "price": "$199.00",
+      "extracted_price": 199.0,
+      "original_price": "$249",
+      "extracted_original_price": 249,
+      "location": "Nearby, 3 mi",
+      "delivery": "1 hour delivery $20",
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "9zvTBHicbZJLrqNGFIalrCWzq0hVxTsz2xTYxMClDAXUpIUpbDDF42L8APUesgd3d6TOsBMpa7lZTdwZZJTJGfy_dL7vSOfXR1H9tXV-mrLxFK_2w75-3bxC3z5Vgfu1Hzp-yceK_wkVQzU0VZc0WYWyJAGoK1_zbMxEd6z4H0hCmoyAqkOkGbIMDBl-K4uMi6ot_MOhGMwu_74FGqqsGUhVdPh9Spqh_F412bH4r9d0oCkKVGSg6zKUFf3TwM_v6HX1QZKQpBuapKnGk25IQJU-vhLf_PD_3Ze3SzFM7z-OXf_SdtW5eMmzNi-eRseXWzUUojifX4ps2F_4-cux_xePFE3VDP1JBTrUEDCQ8amp-LdnLKtI11QJIQkgBWqf-uv4KI-fLxdRvJu3l9ViE2xWm4Eia85scWESue6rOw6mRbezrZYlzsxtQ3pmHlnVZxorPbdpvbE8kCZE5LfHUTwu50cpHkX7W5f110P-9w8Iv23M1WWzCqK-pyYBu6i0IrQZI4vf6bqfYhsuXQxLN1nMrn23SHST81DMPh4PAazlHN9jDnU5SmgcNcY6DZ3AlbwTx1abQrGLak53TX-NY9p6yNoWOJ0JEK9BmMICC7to-rM3U7SzllFsRjBcL73MpIwKkj79k7AhwgXdnICyTZMjjOP7W2FazjYucdo4dbQm6j6sJ4ZZQAQbvca6ZLWi5hJ1gpgteUhXRRKMAfUS13a8vBYXb3ayaG1ZzzsO25AShrganBa3sCVnz2Q4qMvOxQYL8WiTSNyL5h6EgrBQ4r8EMTF9GiAfp1KMy-s2XE6UEjuAYpvF8ByII8gbPHLbaaN52YVJnxaUtXFsWSFiuwiVYyq8icdsyBIPk8SZWGy8uVJ_oYL6BCnUtZ4wUUYJMIY9YmAf6_LTJSGxxZ529x2ubzEmjJqMhCcKmcVt7xTdPCCmoB5BENLMTXjqrnsJl9zdVVB5_sAbBV6VN84QYRG4kbHOGkFC0lVBROb8JJqo5W0K2JIJPEW4P2SIT2nNpszu5xw6YYZ6i90-38_D4R0sLGXc-YpUtsLhfrEAnYbi6Or7d9Pv6Ubxbj9DzQDAgEBBClD_Ac49WNs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9zvTBHicbZJLrqNGFIalrCWzq0hVxTsz2xTYxMClDAXUpIUpbDDF42L8APUesgd3d6TOsBMpa7lZTdwZZJTJGfy_dL7vSOfXR1H9tXV-mrLxFK_2w75-3bxC3z5Vgfu1Hzp-yceK_wkVQzU0VZc0WYWyJAGoK1_zbMxEd6z4H0hCmoyAqkOkGbIMDBl-K4uMi6ot_MOhGMwu_74FGqqsGUhVdPh9Spqh_F412bH4r9d0oCkKVGSg6zKUFf3TwM_v6HX1QZKQpBuapKnGk25IQJU-vhLf_PD_3Ze3SzFM7z-OXf_SdtW5eMmzNi-eRseXWzUUojifX4ps2F_4-cux_xePFE3VDP1JBTrUEDCQ8amp-LdnLKtI11QJIQkgBWqf-uv4KI-fLxdRvJu3l9ViE2xWm4Eia85scWESue6rOw6mRbezrZYlzsxtQ3pmHlnVZxorPbdpvbE8kCZE5LfHUTwu50cpHkX7W5f110P-9w8Iv23M1WWzCqK-pyYBu6i0IrQZI4vf6bqfYhsuXQxLN1nMrn23SHST81DMPh4PAazlHN9jDnU5SmgcNcY6DZ3AlbwTx1abQrGLak53TX-NY9p6yNoWOJ0JEK9BmMICC7to-rM3U7SzllFsRjBcL73MpIwKkj79k7AhwgXdnICyTZMjjOP7W2FazjYucdo4dbQm6j6sJ4ZZQAQbvca6ZLWi5hJ1gpgteUhXRRKMAfUS13a8vBYXb3ayaG1ZzzsO25AShrganBa3sCVnz2Q4qMvOxQYL8WiTSNyL5h6EgrBQ4r8EMTF9GiAfp1KMy-s2XE6UEjuAYpvF8ByII8gbPHLbaaN52YVJnxaUtXFsWSFiuwiVYyq8icdsyBIPk8SZWGy8uVJ_oYL6BCnUtZ4wUUYJMIY9YmAf6_LTJSGxxZ529x2ubzEmjJqMhCcKmcVt7xTdPCCmoB5BENLMTXjqrnsJl9zdVVB5_sAbBV6VN84QYRG4kbHOGkFC0lVBROb8JJqo5W0K2JIJPEW4P2SIT2nNpszu5xw6YYZ6i90-38_D4R0sLGXc-YpUtsLhfrEAnYbi6Or7d9Pv6Ubxbj9DzQDAgEBBClD_Ac49WNs"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRLU9jpAmARmy6KWSTR0QSi38bvtcr_fcB1pnV7x5gOCk4nFGiUpQeQnrz7Of2s_PPXFXZqJ1Kfio9WcAMbEM_ztvUImR50IBc3rAFVGKA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Beats Powerbeats Pro 2 Wireless Earbuds",
+      "rating": 4.3,
+      "reviews": 3900,
+      "price": "$199.99",
+      "extracted_price": 199.99,
+      "original_price": "$250",
+      "extracted_original_price": 250,
+      "location": "Nearby, 4 mi",
+      "delivery": "Same-day delivery $10",
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "HJYk_3icbVNLjqRGEJV8Fu9aljL5411X8WnoIqtJICly0wKSKj5JQQP1Q3MH36F6xtJ4OWPJZ2mfxozXswhFKJ4iXoRexB_3ovpn4_52S6c6XmdD1rw4L3Br15Xvfe2Hjp3yqWLfRQmIsiZJOgRgibXFf83TKeXd4QcqSpKoq5om66IuaOoSfiuLlPHqWGz3-2Iwurxif0NVlRZTBFGHSycJijL4q2rTQ_E__l0GgqxKkixCSZElSdV1_X1g44fwsn7VNFWAC6ugqwv7QgP1Ty94a7z-HPvydiqG28evU9c_HLtqLB7y9JgXy0CHh0s1FLwYx4ciHbITG78c-h_sP-ny3lbsm6wqkiJoUBEkQYa6pqjv_Xm6l4fPpxMvPozLw_rR8Z21MxDBmlObn6iIz1l1Nf3bYxfY1pHu3JnZurjkEF43I4nlntmkcSwEkh3m-eV-4PfTeC_5vTj-2aX9eZ__-wsyh9xYn_O1H_U9MTAIbR74bXnNj8wixkoKbCoEsDdpdLlgyPzwSOwgcmMMmtkXnVtkQjGN5ZciHoVoppDUvPVivfJsd8Yx2-dNLuQt3wcElx4ku2yXyDnMod9aIBcpx3WJox23aESeEcGYPVl1EloO5dY-Fdk6JWUd1auNFzswbCa3MPWV11IjXTb2axREBt4w7sqB5cxJiO04zoWU92Zqw6rg2MwaWQhu0MhEBILYl6NoGhDIheKJTZsIP3vHVU8gdRmgp5C4mwx2kydSGfMShqYkeoSVGFheEdIwbEsPNdbFh_02hSX3KjgknG7QU1kTYRRRpBushfWiD9pBTKNdT6IGP1Oh9NlxqQGexOLLtAMujZ9Il9WlEkErQQb2op0_FWb_hsB4obMlkBkF3owadOwTSkyYN1cFiyuazMxBECMSuQGyWByQRCKWNiHCPdzkUho21218bVKLWDi0EgzkTTqvHAx4jwjaY4GUmS0J2O6AWTIvqKC83McbAajKW3eITO57kf6UthyHuKv8CM_5omlUwefQvDY-YBUVy63PdYRsSlKLIlQ3MyUri10-X8dh_wEeLXkKtsoJ9KmWuH2oH7bC9nwwFCrdlNesB_7vUNUBWD5BXu4d_Aes7l5t",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=HJYk_3icbVNLjqRGEJV8Fu9aljL5411X8WnoIqtJICly0wKSKj5JQQP1Q3MH36F6xtJ4OWPJZ2mfxozXswhFKJ4iXoRexB_3ovpn4_52S6c6XmdD1rw4L3Br15Xvfe2Hjp3yqWLfRQmIsiZJOgRgibXFf83TKeXd4QcqSpKoq5om66IuaOoSfiuLlPHqWGz3-2Iwurxif0NVlRZTBFGHSycJijL4q2rTQ_E__l0GgqxKkixCSZElSdV1_X1g44fwsn7VNFWAC6ugqwv7QgP1Ty94a7z-HPvydiqG28evU9c_HLtqLB7y9JgXy0CHh0s1FLwYx4ciHbITG78c-h_sP-ny3lbsm6wqkiJoUBEkQYa6pqjv_Xm6l4fPpxMvPozLw_rR8Z21MxDBmlObn6iIz1l1Nf3bYxfY1pHu3JnZurjkEF43I4nlntmkcSwEkh3m-eV-4PfTeC_5vTj-2aX9eZ__-wsyh9xYn_O1H_U9MTAIbR74bXnNj8wixkoKbCoEsDdpdLlgyPzwSOwgcmMMmtkXnVtkQjGN5ZciHoVoppDUvPVivfJsd8Yx2-dNLuQt3wcElx4ku2yXyDnMod9aIBcpx3WJox23aESeEcGYPVl1EloO5dY-Fdk6JWUd1auNFzswbCa3MPWV11IjXTb2axREBt4w7sqB5cxJiO04zoWU92Zqw6rg2MwaWQhu0MhEBILYl6NoGhDIheKJTZsIP3vHVU8gdRmgp5C4mwx2kydSGfMShqYkeoSVGFheEdIwbEsPNdbFh_02hSX3KjgknG7QU1kTYRRRpBushfWiD9pBTKNdT6IGP1Oh9NlxqQGexOLLtAMujZ9Il9WlEkErQQb2op0_FWb_hsB4obMlkBkF3owadOwTSkyYN1cFiyuazMxBECMSuQGyWByQRCKWNiHCPdzkUho21218bVKLWDi0EgzkTTqvHAx4jwjaY4GUmS0J2O6AWTIvqKC83McbAajKW3eITO57kf6UthyHuKv8CM_5omlUwefQvDY-YBUVy63PdYRsSlKLIlQ3MyUri10-X8dh_wEeLXkKtsoJ9KmWuH2oH7bC9nwwFCrdlNesB_7vUNUBWD5BXu4d_Aes7l5t"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbwXwRiwZubRcc-FxK5LzwY8xhF6Cs_NXbosijv1Iw8AHLgPwzvZx35-nu_rz1OEi-VZDokaxnhmlNlYT0RypPLDhexFanh4dEP9buQKww",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSZcTCso2bbWMt-GpTT-2qAZXqaaaHPjw8ZQpDuRQwZfs-uIK3b_iKaqvnQI46wGzXuKWkd_q15_1lREIUCeA8XL9CILE4",
+      "source": "Bose",
+      "title": "Bose QuietComfort Ultra Wireless Noise Cancelling Earbuds",
+      "rating": 4.5,
+      "reviews": 2700,
+      "price": "$299.00",
+      "extracted_price": 299.0,
+      "original_price": "$150/ct",
+      "extracted_original_price": 150,
+      "location": "Also nearby",
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "zffkIXicbVPLjqNGFJXyLdm1IhUFhU12jXnYjAFTQIHZtAoKY6B4tME2tuYf8guReybSZDmJlG_pfE3orGd7z7mPc-89vz3y8p-t9cuNjlW0Sk9pvdvsBNesSs_-1p86ds7Gkv0tLJAiIWWxWAIJAgkIUIDfMjpS3hUfsCSKMhQEICxkESyQJC_B92NOGS_b3D0c8pPWZSX7SwBIEiVhiRBEoiQuIQB_lg0t8v_h399ObHiHu9XLYilJiiIsZSQoUPwohz7vsKu9_Bj7-nrOT7f3n8euf2q7csifMtpm-dy8eLqWp5znw_CU01N6ZsPXov-Y5AdV3pqSfUcLWZLBQgELICjiTFq-9ZfxcSy-nM88f9euT6vnjbdZbU4EGndq8nMi4ktaTrp3e-5802iT2LozUxHnmINX9UAi1DOT1BvDAfsY8-z6KPjjPDyO_JG3f3S0vxyyf3-q9OGqrbqr5oV9TzQM_KgWcnNKKJi21CBlYJAhr_CZRqgMwFQyiKANFTvXuZsa1iEVEw2LeGBxds8gqkPTuNBoQNvYIl5sTKSpQdQIEwVKncHeIk1f-3pfBc3kMh25rLKltMVyXlswNch2H6tnKvA7iRQ7W9vIWSc8C6c2NFjNYqtLBfbJFsJbEir7YF3DhBzFSE-CICJSWLFpzruFgCEiJqugPvauVk9RGwKntYDNa8nhBOfkuMk5NljEXBIkFxIYJ3_Nm6wRRB9aMtY8uCd4zMnmGmkFwpV6Z_VEncYZ553cbJLsaM3MmWsnxnHK7jzYBmrsRJNOdPJKAN9G-gRwg3hgTqGt4W7WWmZrZ8xj_imP8ColymvUMpWsa8k2-h0jBfLDxAliiydmEjhN39N7NlFxcw3uamOL2E1ILeEak0xUAY6Gu6-pVQw5TSN29cEIU30AqWDN91YHGuEtC7g7750SjatRw4Bv9tc91CGtCPTXZKRr1aawADQce99IUGo6QxCTmIa9ox-Z7ZcCmn9n1uOUWWOdQp17dqisacNxgLvSC_E9q3gTcu_mg-watPicNIT7kHupXksR2dxSTlBE1DL0vkzD6fAOng00-q58Bj1d7q0-UAoXupdCkxPpJr-kPfB-FWYjAGV2LUQC-A_eimdp",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zffkIXicbVPLjqNGFJXyLdm1IhUFhU12jXnYjAFTQIHZtAoKY6B4tME2tuYf8guReybSZDmJlG_pfE3orGd7z7mPc-89vz3y8p-t9cuNjlW0Sk9pvdvsBNesSs_-1p86ds7Gkv0tLJAiIWWxWAIJAgkIUIDfMjpS3hUfsCSKMhQEICxkESyQJC_B92NOGS_b3D0c8pPWZSX7SwBIEiVhiRBEoiQuIQB_lg0t8v_h399ObHiHu9XLYilJiiIsZSQoUPwohz7vsKu9_Bj7-nrOT7f3n8euf2q7csifMtpm-dy8eLqWp5znw_CU01N6ZsPXov-Y5AdV3pqSfUcLWZLBQgELICjiTFq-9ZfxcSy-nM88f9euT6vnjbdZbU4EGndq8nMi4ktaTrp3e-5802iT2LozUxHnmINX9UAi1DOT1BvDAfsY8-z6KPjjPDyO_JG3f3S0vxyyf3-q9OGqrbqr5oV9TzQM_KgWcnNKKJi21CBlYJAhr_CZRqgMwFQyiKANFTvXuZsa1iEVEw2LeGBxds8gqkPTuNBoQNvYIl5sTKSpQdQIEwVKncHeIk1f-3pfBc3kMh25rLKltMVyXlswNch2H6tnKvA7iRQ7W9vIWSc8C6c2NFjNYqtLBfbJFsJbEir7YF3DhBzFSE-CICJSWLFpzruFgCEiJqugPvauVk9RGwKntYDNa8nhBOfkuMk5NljEXBIkFxIYJ3_Nm6wRRB9aMtY8uCd4zMnmGmkFwpV6Z_VEncYZ553cbJLsaM3MmWsnxnHK7jzYBmrsRJNOdPJKAN9G-gRwg3hgTqGt4W7WWmZrZ8xj_imP8ColymvUMpWsa8k2-h0jBfLDxAliiydmEjhN39N7NlFxcw3uamOL2E1ILeEak0xUAY6Gu6-pVQw5TSN29cEIU30AqWDN91YHGuEtC7g7750SjatRw4Bv9tc91CGtCPTXZKRr1aawADQce99IUGo6QxCTmIa9ox-Z7ZcCmn9n1uOUWWOdQp17dqisacNxgLvSC_E9q3gTcu_mg-watPicNIT7kHupXksR2dxSTlBE1DL0vkzD6fAOng00-q58Bj1d7q0-UAoXupdCkxPpJr-kPfB-FWYjAGV2LUQC-A_eimdp"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS_G3_8ZktEv1DzBsr3Nx7AuBT54EqIA1uJMvNWvVAs7onUVeE1YjDqCrwKh-_Tt-0wfdYzRYcVsbHy4Xe_FCrkRyG3BX-n3_ZhoElkJmo8",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "JBL Vibe Beam 2 Noise Cancelling True Wireless Earbuds",
+      "rating": 4.2,
+      "reviews": 1400,
+      "price": "$39.95",
+      "extracted_price": 39.95,
+      "original_price": "$65",
+      "extracted_original_price": 65,
+      "location": "Also nearby",
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "38% OFF"
+      ],
+      "immersive_product_page_token": "XFDe-HicbVPNjqNGEJbyLLmNInU3Pza5jQ0Ye03bNHQ3cBlhmsGYHzP8GIP2HfIOM7uRNsfdSHmWydOEyXnrUIf6qur7SlX1x2uS_bPf_TZG3YWvT80pP26P8LC5ZI79rW6uoo-7TPwNZSQpi6WqIRUoAAAJyvK3OOqi4ppm4gdcyJoCNVVbIqhqqjS77-ckEkVWJYfn56TRr_FHF0lSkCovVaQgtIDyQtPgX1kZpcn_-A8kzwkAIk2RtRmFsqK-NaJ9R8f101KVZIBm05ZLDWgAqMvPR3LQn36OfX3pk2Z8_7W71g_VNWuThziq4mQWlD4MWZMUSds-JFFz6kX7Na0_2H_S5a3MxHdlocqzYhXNg2nLBVDkt_rWvZ7TL31fJO_68LB-3Drb9bZhyJyiTdGHErmdsrvhjI9Xd2NWob-bxEaT5hgm67xlXKnFhuVbE4PAJ0U8vKbFa9--novXpPrzGtW35_jfXy5GO-jr66A7tK6ZToBb7ULXLGTMsC6k8yfMz_uohEpQMWRb4f1U1iOhpI5Ad8G-2dkV2Ue0nSK_zu2iNiJEersIRmoZd2-j1CHbHQVPFTHlkwNXFudM5Xow4QuT7HIAIXucuLmTBVe4N7FP7lyGN-HGAWK192w5hGZlAzFEeaxgo7AwBXfqsxstuzbxa5ug3TrJO-gxbWQUD1HFgsQX-8QjTmQSfDIU9VQV-6QU7sEzM35ZXam0mlyDmJ5OytMIO8qF4kMRHlw4MbjjJ_2894FSEEMeMA2nSMo7F0Hs0BRRWls-gndirfCcf4tyAN2CBfwShl5FlFMe3El5DjkTKKCiJEZI9x6dopJwt4xHUmIqqlAOgdnYpWmxTT06OVkFXj6IywoRF4wxKraU47s3EcB5OFD93NuW2YsJ-9j64IDIYSbmVi4LQzkSel_zwqyohC_BxR54uZt3uWpnPaPLta2w6tXBKo5eZZ4JMLcHFsuRFb5gyfQxAsN8Uzot4w5bRR-z9E6qFBpnYbvZvHefvDCAs7jcNdQoHJtqVlQWxCPXzKFkii9FSfPlaHNsRBYGnlVsSE4CxsSWm8S0eYcFwo3jfLm3zfM7eDSVzj2oPaijZbCrPS09oMMt1dVQHtWnUw2c3-Fi_gwNAgUpEPwHIZlqsw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XFDe-HicbVPNjqNGEJbyLLmNInU3Pza5jQ0Ye03bNHQ3cBlhmsGYHzP8GIP2HfIOM7uRNsfdSHmWydOEyXnrUIf6qur7SlX1x2uS_bPf_TZG3YWvT80pP26P8LC5ZI79rW6uoo-7TPwNZSQpi6WqIRUoAAAJyvK3OOqi4ppm4gdcyJoCNVVbIqhqqjS77-ckEkVWJYfn56TRr_FHF0lSkCovVaQgtIDyQtPgX1kZpcn_-A8kzwkAIk2RtRmFsqK-NaJ9R8f101KVZIBm05ZLDWgAqMvPR3LQn36OfX3pk2Z8_7W71g_VNWuThziq4mQWlD4MWZMUSds-JFFz6kX7Na0_2H_S5a3MxHdlocqzYhXNg2nLBVDkt_rWvZ7TL31fJO_68LB-3Drb9bZhyJyiTdGHErmdsrvhjI9Xd2NWob-bxEaT5hgm67xlXKnFhuVbE4PAJ0U8vKbFa9--novXpPrzGtW35_jfXy5GO-jr66A7tK6ZToBb7ULXLGTMsC6k8yfMz_uohEpQMWRb4f1U1iOhpI5Ad8G-2dkV2Ue0nSK_zu2iNiJEersIRmoZd2-j1CHbHQVPFTHlkwNXFudM5Xow4QuT7HIAIXucuLmTBVe4N7FP7lyGN-HGAWK192w5hGZlAzFEeaxgo7AwBXfqsxstuzbxa5ug3TrJO-gxbWQUD1HFgsQX-8QjTmQSfDIU9VQV-6QU7sEzM35ZXam0mlyDmJ5OytMIO8qF4kMRHlw4MbjjJ_2894FSEEMeMA2nSMo7F0Hs0BRRWls-gndirfCcf4tyAN2CBfwShl5FlFMe3El5DjkTKKCiJEZI9x6dopJwt4xHUmIqqlAOgdnYpWmxTT06OVkFXj6IywoRF4wxKraU47s3EcB5OFD93NuW2YsJ-9j64IDIYSbmVi4LQzkSel_zwqyohC_BxR54uZt3uWpnPaPLta2w6tXBKo5eZZ4JMLcHFsuRFb5gyfQxAsN8Uzot4w5bRR-z9E6qFBpnYbvZvHefvDCAs7jcNdQoHJtqVlQWxCPXzKFkii9FSfPlaHNsRBYGnlVsSE4CxsSWm8S0eYcFwo3jfLm3zfM7eDSVzj2oPaijZbCrPS09oMMt1dVQHtWnUw2c3-Fi_gwNAgUpEPwHIZlqsw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ7feFrJJ-lZQA2eee9zcfF0Mqu58MdORT5Xz7yzBQpKvMoFANHk6KmLWEyLm2gq5OTw4twfxwVi3aRrtX9JOBurEssjrXU3vXloCDINvE",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart - TheRightOne",
+      "title": "Sony WF-1000XM5 Wireless Noise-Canceling Earbuds",
+      "rating": 4.2,
+      "reviews": 4400,
+      "price": "$199.99",
+      "extracted_price": 199.99,
+      "original_price": "$278",
+      "extracted_original_price": 278,
+      "delivery": "Free delivery",
+      "extensions": [
+        "28% OFF"
+      ],
+      "immersive_product_page_token": "djewGXicbVPNjqNGEJbyLLmNVmoaGkNuY_NjIwPuhgbDZdTQjME0hsEY22jfIa8QeXYjbY67hzzL5GlCct5j1Veqr76q-n5_FNXfW-fTnQ3HeJX1Wb3b7CTfPlbY_db1Lb_kQ8V_qAuEZKTo2kJXoIoWcKF-y9nARHuYUbiQZU1HigxUXQEaRNLie1kwLqpT4b--Fr3R5nOZpOhQ0xBCQJN0qCx0Xf-ratih-B_-473n5w-4W70sdDDTaZoGVUnSVVUB6ucd8Y2Xn2Nf3y5Ff__4dWi7p1NbnYunnJ3yYiY_PF2rvhDF-fxUsD678PPXQ_ffJD_p8t5U_DtaqIoKFRUARdYWqqQp7904PMrDl8tFFB_G9Wn1vMGb1aaPoDUxW1xSmYxZdTPx_bkNbOuU7p2J27o85zyyqs9RjDpuR_XG8kCyJyK_Pg7icTk_SvEoTn-2rBtf839-8cw-N1ZjvsK06yKDgEDu3NjiJ3zyTh5ALpfE3bWddQTLY1yj-zZ24F7inW-VPTlyRmxi0HWEOBzqrEZxIKjs1alCbQTx5NE43ii5VZo4LhMMPG9Ly3tu8TK3E5SDfCDrZzlqPICPXkAMK8kNwYIwUYKanPgkcNY4SbRPWy6XFpM5IgZvUjt1mN3KuC53nq1PuSDHbViOJEZj1AxbMkVpPuvBIAX-2rtEMSdcSqBvXhVmpQml4i2BTlKYtzMzxC2LweAJbciAI2VTrYSRtSPh0gqm5T1eL1t_vQwZFRsPWl0GkjuBwqAyD8i03PMwUrOayzy2hiRGRmjqXm5rtzTSh2wSkNZkTRtdmu_jzrHMAWKuREguu1JmijCd-JLQrgroFaYN36R1GgQGHYgoHQYjF9dIxZFg6d6T6OR0-Bhh1jgjb6I0pBp0oRhdM6pCk4wMlrcEYjmONjcMNiAHyjUWHd1SaeU2UhMbyzG1uiWVyLz_lJgld4NKQvN_vEXAq_LG6akpsEv1NWsECUlbYUqm_CgaCq_TlkZqAIjk77nNmm7v2fwYQqv14K2mgDcUf7md-9cP8GyhIfDVC-iYljhdqB986I8HQ02Vu_qSdQD_Js1WALoE0Gxa8C82YVq0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=djewGXicbVPNjqNGEJbyLLmNVmoaGkNuY_NjIwPuhgbDZdTQjME0hsEY22jfIa8QeXYjbY67hzzL5GlCct5j1Veqr76q-n5_FNXfW-fTnQ3HeJX1Wb3b7CTfPlbY_db1Lb_kQ8V_qAuEZKTo2kJXoIoWcKF-y9nARHuYUbiQZU1HigxUXQEaRNLie1kwLqpT4b--Fr3R5nOZpOhQ0xBCQJN0qCx0Xf-ratih-B_-473n5w-4W70sdDDTaZoGVUnSVVUB6ucd8Y2Xn2Nf3y5Ff__4dWi7p1NbnYunnJ3yYiY_PF2rvhDF-fxUsD678PPXQ_ffJD_p8t5U_DtaqIoKFRUARdYWqqQp7904PMrDl8tFFB_G9Wn1vMGb1aaPoDUxW1xSmYxZdTPx_bkNbOuU7p2J27o85zyyqs9RjDpuR_XG8kCyJyK_Pg7icTk_SvEoTn-2rBtf839-8cw-N1ZjvsK06yKDgEDu3NjiJ3zyTh5ALpfE3bWddQTLY1yj-zZ24F7inW-VPTlyRmxi0HWEOBzqrEZxIKjs1alCbQTx5NE43ii5VZo4LhMMPG9Ly3tu8TK3E5SDfCDrZzlqPICPXkAMK8kNwYIwUYKanPgkcNY4SbRPWy6XFpM5IgZvUjt1mN3KuC53nq1PuSDHbViOJEZj1AxbMkVpPuvBIAX-2rtEMSdcSqBvXhVmpQml4i2BTlKYtzMzxC2LweAJbciAI2VTrYSRtSPh0gqm5T1eL1t_vQwZFRsPWl0GkjuBwqAyD8i03PMwUrOayzy2hiRGRmjqXm5rtzTSh2wSkNZkTRtdmu_jzrHMAWKuREguu1JmijCd-JLQrgroFaYN36R1GgQGHYgoHQYjF9dIxZFg6d6T6OR0-Bhh1jgjb6I0pBp0oRhdM6pCk4wMlrcEYjmONjcMNiAHyjUWHd1SaeU2UhMbyzG1uiWVyLz_lJgld4NKQvN_vEXAq_LG6akpsEv1NWsECUlbYUqm_CgaCq_TlkZqAIjk77nNmm7v2fwYQqv14K2mgDcUf7md-9cP8GyhIfDVC-iYljhdqB986I8HQ02Vu_qSdQD_Js1WALoE0Gxa8C82YVq0"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR7PTVIIUzUBmKjrBiiNr14aho7Rva6xNekx6TvM_MJi2UnxP0LVImG3JoSlnnYj8ZWgyA04inyCmY38jv_raiM_whD0Bqig5D_R7jpFm6bB6XmdeCSS7n3",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Sony WF-C710N Wireless Noise Canceling Earbuds",
+      "rating": 4.4,
+      "reviews": 3600,
+      "price": "$119.99",
+      "extracted_price": 119.99,
+      "location": "Nearby, 4 mi",
+      "delivery": "Same-day delivery $10",
+      "immersive_product_page_token": "yTBzanicbZLbjqNGEIalPEvuRpH6AAzkbmxzMDs0BtON6ZsR0NhgGsMYfEL7DnkHz26kzeUmUp5l8jRh9ja5rf__v6pS1W_3ovr72f3llg77eJ4ds3q1XEHf3leB9607tuKUD5X4C-JHVdOAquqqpgIdA6Tjb3k6pLLdfchQ01QFGxA-IoR1rOBH5XtZpEJWh8Lfbovjos0_fNqUxTp81KGCNNXQsKH8UTXprvih_4k03VAQxFjRDE1XVA1pb0fRv6PV_AUBAyhQU9QppusQQ2x8XoX-4uX_ta-vp-J4e_95aLuHQ1v1xUOeHvJiGmj3cKmOhSz6_qFIj9lJ9F933Y_u_6W8NZX4rj5qioZ0ZBhYMbA2DfjWnYd7uftyOsnifXF5mD8tg-V8eWTIGlNbnjgOz1l1NYPbU7u2rQPfuKOwDTzVSDivexarnbBZvbQISDahzC_3nbyf-nsp78Xh9zbtztv8n5_2Zn9ZzNvLIqBdxxYhWOMu8vZPcF0bUsAWCFuUDFpjbIcpH93QZ6WZWSWMmu4UM8OnjeEne_fGzQTlZtdnY6jk-9Kl0L0UjYcZgr2g4XMe0UtUMyoWsyaXpU82ZPSa4Szo4BQLGft2eEpocCHM7QI5o37MB-oEat7UalHDszD5jFNrmx-86zOzzGxhXiKbrdcO9xgSWtBYm6Aun0PobtY2N9O9CFImfbJgMGu6KAKuFptLGAFIfLsf145MGUrUrHaDoOZrjqAZf3jt64HaRuttdriwrTFA3Tptruh5Q-YsHmbFZjZhOWOW-ylzZshrShpaIkkwdwTgbWRDJ8OhHdYMkFg0xCY3UXcmiegg5MzO6uUQ16U6ZW-RqQABCOA1O0Q23xcNTyg0XosNeRUbUhaR7JkVbgXjXEDrEDruNQOQJpKkfCNW090pod0lZK7FgFxljuhicwjyxg18MwEC9ROfH0OL-ASwIQMJSPbWJw5kl9BBI02IfNtVBbMcD8oqa8RcsKcxiuTKLIW3rqA6_c7rtEk1MY_UlIFHDSdtZBiFbRXQcMz3sqGSlanZdcUcVkEMFW9PHDJaJMf5mEIXELq8BMGXa3_cvoMnSx3WvnYCXaonbhcZOx_5591C48pNe8k6EPwKHw0ADAhUpELwL8AHaRs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yTBzanicbZLbjqNGEIalPEvuRpH6AAzkbmxzMDs0BtON6ZsR0NhgGsMYfEL7DnkHz26kzeUmUp5l8jRh9ja5rf__v6pS1W_3ovr72f3llg77eJ4ds3q1XEHf3leB9607tuKUD5X4C-JHVdOAquqqpgIdA6Tjb3k6pLLdfchQ01QFGxA-IoR1rOBH5XtZpEJWh8Lfbovjos0_fNqUxTp81KGCNNXQsKH8UTXprvih_4k03VAQxFjRDE1XVA1pb0fRv6PV_AUBAyhQU9QppusQQ2x8XoX-4uX_ta-vp-J4e_95aLuHQ1v1xUOeHvJiGmj3cKmOhSz6_qFIj9lJ9F933Y_u_6W8NZX4rj5qioZ0ZBhYMbA2DfjWnYd7uftyOsnifXF5mD8tg-V8eWTIGlNbnjgOz1l1NYPbU7u2rQPfuKOwDTzVSDivexarnbBZvbQISDahzC_3nbyf-nsp78Xh9zbtztv8n5_2Zn9ZzNvLIqBdxxYhWOMu8vZPcF0bUsAWCFuUDFpjbIcpH93QZ6WZWSWMmu4UM8OnjeEne_fGzQTlZtdnY6jk-9Kl0L0UjYcZgr2g4XMe0UtUMyoWsyaXpU82ZPSa4Szo4BQLGft2eEpocCHM7QI5o37MB-oEat7UalHDszD5jFNrmx-86zOzzGxhXiKbrdcO9xgSWtBYm6Aun0PobtY2N9O9CFImfbJgMGu6KAKuFptLGAFIfLsf145MGUrUrHaDoOZrjqAZf3jt64HaRuttdriwrTFA3Tptruh5Q-YsHmbFZjZhOWOW-ylzZshrShpaIkkwdwTgbWRDJ8OhHdYMkFg0xCY3UXcmiegg5MzO6uUQ16U6ZW-RqQABCOA1O0Q23xcNTyg0XosNeRUbUhaR7JkVbgXjXEDrEDruNQOQJpKkfCNW090pod0lZK7FgFxljuhicwjyxg18MwEC9ROfH0OL-ASwIQMJSPbWJw5kl9BBI02IfNtVBbMcD8oqa8RcsKcxiuTKLIW3rqA6_c7rtEk1MY_UlIFHDSdtZBiFbRXQcMz3sqGSlanZdcUcVkEMFW9PHDJaJMf5mEIXELq8BMGXa3_cvoMnSx3WvnYCXaonbhcZOx_5591C48pNe8k6EPwKHw0ADAhUpELwL8AHaRs"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQrCKjo3qDqfB8H0VZrjjPlN0eWxNCdzuNKejSJBKaRm5_5V4nJ4ntHnBphkRyJ3lW7wB_F4AQSNzgkPTrklaeVapLn0_N-mOZaJylkCuChRW9LNxWFDkLD-Q",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "Sony WF-1000XM6 Wireless Noise Cancelling Earbuds",
+      "rating": 4.4,
+      "reviews": 735,
+      "price": "$328.00",
+      "extracted_price": 328.0,
+      "location": "Also nearby",
+      "immersive_product_page_token": "CKbAW3icbZPbjqNGEIalPEvuRiN1N-fcDeZgswabBprDzQrotsE0h8V4jFHeIe_g2Y20udxdKc8yeZo4Ui5Xqqv6q776S6r6487qv7fO8y2fTvGqGItmv9nDnX2qfffrMPb0Uk41_SYjUVQ0UZI0JKmKoCrS1zKfct4fa_oDQiCqElSgLAiSLCIVqfBbxXLK647tDgc2Gn35X50gQyRLsvJgQRXIACngr7rNj-x_XQJAE6AiaoqqQgVBUUJvIz2_o_3qowA0TUNAFjRFeoQAkfr7Hu-Mjz_Xvny6sPH2_uvUD09dX5_ZU5l3JXs4Oj5d65Fxdj4_sXwsLvT85Tg8xn__CeWtfewuKbIoI1VDsio_fKkaeBtep3t1_Hy5cPZuXJ9WLxt_s9qMBFlLbvNLJuDXop5N__bSB7bVZYmzUFsTHjkPr5oziaWB2qTZWB5IE8zL6_3I75fzveJ31v3Z58Profznl5N5vhqr_mr40TAQA4OA8y5ovGthawcSeqstcayisz6UkCLCtW3R4XPEsyQnmeE3x3kX4Ti2sI6JPrKukSJuBUFEqjS2Ms9wl7Kjc2FthDSifSS8zH7oTvGJrDOkYdwSG0eUk6WciGClLLF2UYtB2g4pXTtNSUjgx3ND19aWhE5eIM8LY2cTELqJmupWmPOMO90nZtVkSzZkHbn5sBRLNDu5Ra4uHyZiOFEO-qvb8UsIhtw7pROzvCBt-qtnV1vcQtEXdE4gTYjpjCyuiHvCOI28nMbTOjCnA26PYmHzQ3zSwyKAYQGkvQusxQUejxJv7UFPCBfLxo0LCwTblGfDNoa4bM0bbWYSWzpI0bTyEInKpVyiRP_g3qBRGuRA20zHicdTkJ0TRHbM9NJioTWx1TkQ8MWHRI9CPaaCd2FGBkJTkhivKh_gLmvhgbSOF3W0ybt-JoRkBEgZOz24Cd3vYtwXYboEBO-LVmsDM8sDS725Qi_mVpaX6yEuQnN69CEMaJ9B3sWmJ2xDvTcr6gY1lB6384kAry5bZ4xM7ruRts5bjkPc136El_LEW2JCUnTZ6zYeOtbMSQTdW0kqEppwnVuVWRIHRf7n-Twe3sGLJU3BTmb2y23fT7N51OrCdVo_UFi-PD8b6PobVLTHl0IgIQlo_wJtamzZ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=CKbAW3icbZPbjqNGEIalPEvuRiN1N-fcDeZgswabBprDzQrotsE0h8V4jFHeIe_g2Y20udxdKc8yeZo4Ui5Xqqv6q776S6r6487qv7fO8y2fTvGqGItmv9nDnX2qfffrMPb0Uk41_SYjUVQ0UZI0JKmKoCrS1zKfct4fa_oDQiCqElSgLAiSLCIVqfBbxXLK647tDgc2Gn35X50gQyRLsvJgQRXIACngr7rNj-x_XQJAE6AiaoqqQgVBUUJvIz2_o_3qowA0TUNAFjRFeoQAkfr7Hu-Mjz_Xvny6sPH2_uvUD09dX5_ZU5l3JXs4Oj5d65Fxdj4_sXwsLvT85Tg8xn__CeWtfewuKbIoI1VDsio_fKkaeBtep3t1_Hy5cPZuXJ9WLxt_s9qMBFlLbvNLJuDXop5N__bSB7bVZYmzUFsTHjkPr5oziaWB2qTZWB5IE8zL6_3I75fzveJ31v3Z58Profznl5N5vhqr_mr40TAQA4OA8y5ovGthawcSeqstcayisz6UkCLCtW3R4XPEsyQnmeE3x3kX4Ti2sI6JPrKukSJuBUFEqjS2Ms9wl7Kjc2FthDSifSS8zH7oTvGJrDOkYdwSG0eUk6WciGClLLF2UYtB2g4pXTtNSUjgx3ND19aWhE5eIM8LY2cTELqJmupWmPOMO90nZtVkSzZkHbn5sBRLNDu5Ra4uHyZiOFEO-qvb8UsIhtw7pROzvCBt-qtnV1vcQtEXdE4gTYjpjCyuiHvCOI28nMbTOjCnA26PYmHzQ3zSwyKAYQGkvQusxQUejxJv7UFPCBfLxo0LCwTblGfDNoa4bM0bbWYSWzpI0bTyEInKpVyiRP_g3qBRGuRA20zHicdTkJ0TRHbM9NJioTWx1TkQ8MWHRI9CPaaCd2FGBkJTkhivKh_gLmvhgbSOF3W0ybt-JoRkBEgZOz24Cd3vYtwXYboEBO-LVmsDM8sDS725Qi_mVpaX6yEuQnN69CEMaJ9B3sWmJ2xDvTcr6gY1lB6384kAry5bZ4xM7ruRts5bjkPc136El_LEW2JCUnTZ6zYeOtbMSQTdW0kqEppwnVuVWRIHRf7n-Twe3sGLJU3BTmb2y23fT7N51OrCdVo_UFi-PD8b6PobVLTHl0IgIQlo_wJtamzZ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSBihL0nhe_JYnIUGglBQjjDPGydbM0ABDbnbK4RymnFzZiImurVEpwkFo2SjHlDxepNubIQzlmiRD8SewqjTTb5lerQTWqxSaRu0EflEkH",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSmUHwy1L2uTOlLCd7eiJkBEww43jPqCJuuL9IPjNgSZd7Qi-vbDDoOp5y5aeXAsf5XhdT4yGRyadjmStGKgVQq8jZY",
+      "source": "Verizon",
+      "title": "Samsung Galaxy Buds4 Pro",
+      "rating": 4.8,
+      "reviews": 10000,
+      "price": "$209.99",
+      "extracted_price": 209.99,
+      "original_price": "$250",
+      "extracted_original_price": 250,
+      "location": "Nearby, 22 mi",
+      "delivery": "Free delivery",
+      "extensions": [
+        "16% OFF"
+      ],
+      "immersive_product_page_token": "s_6udXicbVPLjqNGFJXyLdm1IlUVD5vs2saFTTd0U1QVUJsRpmjzKAzGuE2j_EP-wT0TabKciZRv6XxNSNYj3dU5R_fcc3Xv77e8_PvR_eUtHapove_39fPuGT45VRl4X7u-lZdsKOV3E5lLa6EbaAmROdfSAF-zdEhVeyjlt4Wh6wvN1E0DoMVygSD4VuSpVOUxf3p5yXu7zUr5FzRm3tKXyEKGoUPTgpr5Z9mkh_x__ruma5oJjQVEQLOAbpmm-d7L8wd6Xn9CuoV0HYIlAIZpaYa-tH57Jk_2px9zX06XvH_7-Hlou7tjW57zuyw9Zvk80OHuWva5ys_nuzzt9xd5_nLo_nP_QZf3Zs5mLOZcaDkjBtAX1jz5e_c63IrD58tF5R_29W59vwt2613PEZ5SR12ERl735bgJ3u7b0MFHEbuTdCxtxnyyrs88Mjrp8HqHfZDERGXX20HdLudboW758Y827V5fsn9-QpvTzl5fduuAdR23CQgjoBGnHRngsw8JqNOdKBCYNcE1q0hNlT_7SEUVdhhQCWvEA2dFtQfGRdjMEBX2HqNiSzQy0Aa2dHInz8E8jEXsx2qklPse97c0Gl8ElR7lZJ0r14vq4pyALvLg7i2KcSDxKuS8HbJ6M3mcsLAWz7MWhtsueKK8euRu4E9FSVgNWQ0GoqyEAPzgY2myyb3Kjd_zqoaZLbz9dmWGYKSCu6ugEleO5MC1DZBodL2taDMuQMTcNt9ASKZkSoE0g6YjVHkoj6CeKddmmwIx5RZeNPipreK0wiWBgpINaaWSZ-6QigN1og2GfghXRDFIQvhAgQtk440E4XknMg5q15RUVQlKJg_4ScS4mdmrtWhkye2ChdUqDPisRGRMmK_FwFJhPTgR900CulO2zbS9Nj9MzV89hh9zdhh9NDCP8Sai_HF_xGa4FanHpZ5jsdoU0gtLaMw3cOLAL7PG7dlGBR6ztmmjCCVtGTAyZZVq2FG8epUENCZG1PAprPFAYQLSoxi4LboUq1heP4_n_uUD3GNjCJ8WLhodLU2xnh_b5FTCYGUv29h-0K6HX-HCAsCCwEAGWP4LuRFV-Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=s_6udXicbVPLjqNGFJXyLdm1IlUVD5vs2saFTTd0U1QVUJsRpmjzKAzGuE2j_EP-wT0TabKciZRv6XxNSNYj3dU5R_fcc3Xv77e8_PvR_eUtHapove_39fPuGT45VRl4X7u-lZdsKOV3E5lLa6EbaAmROdfSAF-zdEhVeyjlt4Wh6wvN1E0DoMVygSD4VuSpVOUxf3p5yXu7zUr5FzRm3tKXyEKGoUPTgpr5Z9mkh_x__ruma5oJjQVEQLOAbpmm-d7L8wd6Xn9CuoV0HYIlAIZpaYa-tH57Jk_2px9zX06XvH_7-Hlou7tjW57zuyw9Zvk80OHuWva5ys_nuzzt9xd5_nLo_nP_QZf3Zs5mLOZcaDkjBtAX1jz5e_c63IrD58tF5R_29W59vwt2613PEZ5SR12ERl735bgJ3u7b0MFHEbuTdCxtxnyyrs88Mjrp8HqHfZDERGXX20HdLudboW758Y827V5fsn9-QpvTzl5fduuAdR23CQgjoBGnHRngsw8JqNOdKBCYNcE1q0hNlT_7SEUVdhhQCWvEA2dFtQfGRdjMEBX2HqNiSzQy0Aa2dHInz8E8jEXsx2qklPse97c0Gl8ElR7lZJ0r14vq4pyALvLg7i2KcSDxKuS8HbJ6M3mcsLAWz7MWhtsueKK8euRu4E9FSVgNWQ0GoqyEAPzgY2myyb3Kjd_zqoaZLbz9dmWGYKSCu6ugEleO5MC1DZBodL2taDMuQMTcNt9ASKZkSoE0g6YjVHkoj6CeKddmmwIx5RZeNPipreK0wiWBgpINaaWSZ-6QigN1og2GfghXRDFIQvhAgQtk440E4XknMg5q15RUVQlKJg_4ScS4mdmrtWhkye2ChdUqDPisRGRMmK_FwFJhPTgR900CulO2zbS9Nj9MzV89hh9zdhh9NDCP8Sai_HF_xGa4FanHpZ5jsdoU0gtLaMw3cOLAL7PG7dlGBR6ztmmjCCVtGTAyZZVq2FG8epUENCZG1PAprPFAYQLSoxi4LboUq1heP4_n_uUD3GNjCJ8WLhodLU2xnh_b5FTCYGUv29h-0K6HX-HCAsCCwEAGWP4LuRFV-Q"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQwzZu1tQ1lj1YhVnUkm_QwMqcVIiI9ZOaOeZKlo4dLiS_fagIMk6JWdMcaZAfzpSCMU-CFfv2RCEPlcToNM55O-YVdUDCa1CuLkK79SnM",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Beats Studio Buds + True Wireless Noise Cancelling Earbuds",
+      "rating": 3.8,
+      "reviews": 6700,
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "original_price": "$170",
+      "extracted_original_price": 170,
+      "location": "Nearby, 3 mi",
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "41% OFF"
+      ],
+      "immersive_product_page_token": "RHsWF3icdZPBjqNGEIalPEtuo0jdDY0ht7GhbbymbZqmgb6MMM0YmzYwNh7bKPcc8w6zu5E2x02kPMvkacLkHqkOpfpLVX99Uv32Vu7_Xi1_uuf9IZltT9t642_gen7Yh8G37tSqS9Hv1V8QI2iZCGOMHDSmBgDmtyLvc93uPmRoGxNo2WAyAWgMjEzwvSpzpfdNuX5-Lk9uW3z0WYbtGCaCGDsTCCzDccw_9sd8V_6nfzehMbENa2JiC-FxpoE-n9T53dzMniCcWBiYJrYtG5n2xIEQ_rJha_fpf8SvL5fydH__sW-7h6bdn8uHIm-KcnS0e7juT6Uuz-eHMj9tL-r8ddeN6_9EyJ7gcRLGEwcAG4_uPh9HW2PNtJCNLDhCmNjAsj93r_1btftyuejy3b0-zB790J_5J4HIkM_1RRrsdbu_eeH9sY3mpJHpclBzxxhrlM3qs0hwp-ai9gkFWcp0cX3b6bfL-a3Sb2Xze5t3r8_FPz_86l18d_biu2HcdcJlIAKkCYha54mEHGGdcdZFC8akQV4lpFMZ37DQbFoYupYuuVEPXFVCW5qK9bbuqzyWAeP1sEqpG3nVEB6oyBAdspSs-IHNuCePLHF4BmAmGr3hc1oJUOGY0EuektkqIW2e4HCVklNMqjDTKhC1nEaNlNRz5kUju-Qg89Ibb9f2fZt2p_AoZjzGRzEsN-yocaH1idcVCQeiA6MwFaHx1tiZVDwavAZ9lNwO4RDe85o8h0dJOJCaI9VHILwXdYZZQ0xxFNdtzRCvVZ5CmSuXgDz1MV3IdTzomVqoT8G8OydHeFM14TGUiXQpXXOBt1yDLexext6I8WqeoQxG7g5zIzbkoboXQpxp7FSBx-40re4igUvOq0jVuI00WY2cw1UMrS2Un4JBNXnzOCioqfDoIdPdKoIkCOO4j0g3SK68JMG4XHQZBzf-wVvoaiVI5zKP1TFUrkA9E3U_i5tpW7iaMXdK5WJ6iQfVp6Dfcw83fMGi4OjfRx4uhcujFB4oF2oIhqlWohsCxJqyYXEG2TFkfsq9ti-TkYlWbtYs9zmcLmOXbBjqujgGuV8TrzB8LDWr5KILE4_M4kRdI6Q2Yl701K1NBtQLjZdT1hRfbufT8zt4JLiP1haPHOfliWXP23PQ13DqL_1d266f5sPuZ_jxOQ4EGGEw-RfuxXPw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=RHsWF3icdZPBjqNGEIalPEtuo0jdDY0ht7GhbbymbZqmgb6MMM0YmzYwNh7bKPcc8w6zu5E2x02kPMvkacLkHqkOpfpLVX99Uv32Vu7_Xi1_uuf9IZltT9t642_gen7Yh8G37tSqS9Hv1V8QI2iZCGOMHDSmBgDmtyLvc93uPmRoGxNo2WAyAWgMjEzwvSpzpfdNuX5-Lk9uW3z0WYbtGCaCGDsTCCzDccw_9sd8V_6nfzehMbENa2JiC-FxpoE-n9T53dzMniCcWBiYJrYtG5n2xIEQ_rJha_fpf8SvL5fydH__sW-7h6bdn8uHIm-KcnS0e7juT6Uuz-eHMj9tL-r8ddeN6_9EyJ7gcRLGEwcAG4_uPh9HW2PNtJCNLDhCmNjAsj93r_1btftyuejy3b0-zB790J_5J4HIkM_1RRrsdbu_eeH9sY3mpJHpclBzxxhrlM3qs0hwp-ai9gkFWcp0cX3b6bfL-a3Sb2Xze5t3r8_FPz_86l18d_biu2HcdcJlIAKkCYha54mEHGGdcdZFC8akQV4lpFMZ37DQbFoYupYuuVEPXFVCW5qK9bbuqzyWAeP1sEqpG3nVEB6oyBAdspSs-IHNuCePLHF4BmAmGr3hc1oJUOGY0EuektkqIW2e4HCVklNMqjDTKhC1nEaNlNRz5kUju-Qg89Ibb9f2fZt2p_AoZjzGRzEsN-yocaH1idcVCQeiA6MwFaHx1tiZVDwavAZ9lNwO4RDe85o8h0dJOJCaI9VHILwXdYZZQ0xxFNdtzRCvVZ5CmSuXgDz1MV3IdTzomVqoT8G8OydHeFM14TGUiXQpXXOBt1yDLexext6I8WqeoQxG7g5zIzbkoboXQpxp7FSBx-40re4igUvOq0jVuI00WY2cw1UMrS2Un4JBNXnzOCioqfDoIdPdKoIkCOO4j0g3SK68JMG4XHQZBzf-wVvoaiVI5zKP1TFUrkA9E3U_i5tpW7iaMXdK5WJ6iQfVp6Dfcw83fMGi4OjfRx4uhcujFB4oF2oIhqlWohsCxJqyYXEG2TFkfsq9ti-TkYlWbtYs9zmcLmOXbBjqujgGuV8TrzB8LDWr5KILE4_M4kRdI6Q2Yl701K1NBtQLjZdT1hRfbufT8zt4JLiP1haPHOfliWXP23PQ13DqL_1d266f5sPuZ_jxOQ4EGGEw-RfuxXPw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR6X7J4D1nzNfFlBUwcct-OKJ8n71f73jvbe_v74DZyrTOqOwXr9FnrwS6vP7PeLYcHjADrapFLL69QjXFqqyTTlusevT-wYIlCjr8S3x_11ZPvGboGRy5oGg",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSjiqt_PZyZePtM9nc6-MTe2CDOJK0leEmKalOoogEaRVJK6rEt2cYhncKPeuKuiYp1ec9K-d63OCoxXQaSqRcufLv9OIHluXI",
+      "source": "Nothing US",
+      "title": "Nothing Ear 3 Wireless Earbuds",
+      "rating": 4.4,
+      "reviews": 261,
+      "price": "$149.00",
+      "extracted_price": 149.0,
+      "original_price": "$179",
+      "extracted_original_price": 179,
+      "extensions": [
+        "16% OFF"
+      ],
+      "immersive_product_page_token": "2ZM-ynicbZLLrqNGEIalPEt2R5G6gQaT3TE3mxzapk03uDcj6MYG08YMxjeUd8g7eGYiTZajSHmWk6cJUbJLdqX_r_qqVFW_PMv6j7fwh0c-HFKn6ItmvVzDVXCo4-hr15_kRQy1_B1C0zItBCA0dNsESDeR8VXkQ65O-79t3TZM0wJAh0CzZjMdWLNvVZlLVbflarcre_ck_sHAmWmgmYGmNGRbtm7-Vh_zffmvbxi2pps2QCYEMxMYyECfenl-B2vng6Gh2WwGoAE1c2pnafbPa7JyP_yv9eXjpewf798Pp-6lPdXn8kXkrSinefYvt7ovVXk-v5R5X1zk-cu-m5p_-y_k03GSkWUapjazLN0Clm0iU__UXYdntf98uajy3b29OK_LeOkse6b5Yx6oC9fJtajvXvx4PW0Cv-VZOMrA1icNE6c5sxR1MmDN0sdgmxElbs-9el7Oz0o9y_bXU95dd-LP77DXC9e5CiemXcdcAjbQBnlAB5GKB08qkHhot9XYtQDdT5tgSIgXPSLFYKEhN2avQGg3A-vySLN5tz3gHV2chvIgpzq-ycaqjVqZsESqImV5pkdjlDAnSVUum-FYMtukDiTcIyTWuc8y1bMAR1FgO7RliVDzOA_Cqjx290mjyaJ74OCeJNSvqNboso1gnt79jY6vOOU5P1QHMeLztmUTs6tiwI0p5hzgXXoMl7nPuATkumV2VTbEkxQdGCBQ-nxb-OG6cMNrqub-Ngl7oldvOPM1AQYsjqihHoOCqUXBwpEc-RkD41Ek0YMc-J2OOCtcxjcAG5mGdlgpQloKokY-Mo2duKu8N1Yp0lQO9Rs9PUTjWyY0tsBm4qssrqGW0i6hWhgJD87jlkI5Vtu4JTrVGJTJfsxVpFOKb9RlEQl4i4PlwPVuRVQ3Jmq-ShV-RP5-IIvuQAHhMpmHmwb7pTu_kyxkTNvfBfCg1D1t0_jatgmxV8loU0M0_cdHBnAtjmFPPRVH1F7kR0UScqpjSkZxUEfmeYgxHG9plWGPLYQGVxNgPu0vTn0-n-6m-O3z_dzv3sGrj4bNyopv-etalwvPNaDqTQLdvMmtmS15_CO0bABsCJCGAPoLrXFeIQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2ZM-ynicbZLLrqNGEIalPEt2R5G6gQaT3TE3mxzapk03uDcj6MYG08YMxjeUd8g7eGYiTZajSHmWk6cJUbJLdqX_r_qqVFW_PMv6j7fwh0c-HFKn6ItmvVzDVXCo4-hr15_kRQy1_B1C0zItBCA0dNsESDeR8VXkQ65O-79t3TZM0wJAh0CzZjMdWLNvVZlLVbflarcre_ck_sHAmWmgmYGmNGRbtm7-Vh_zffmvbxi2pps2QCYEMxMYyECfenl-B2vng6Gh2WwGoAE1c2pnafbPa7JyP_yv9eXjpewf798Pp-6lPdXn8kXkrSinefYvt7ovVXk-v5R5X1zk-cu-m5p_-y_k03GSkWUapjazLN0Clm0iU__UXYdntf98uajy3b29OK_LeOkse6b5Yx6oC9fJtajvXvx4PW0Cv-VZOMrA1icNE6c5sxR1MmDN0sdgmxElbs-9el7Oz0o9y_bXU95dd-LP77DXC9e5CiemXcdcAjbQBnlAB5GKB08qkHhot9XYtQDdT5tgSIgXPSLFYKEhN2avQGg3A-vySLN5tz3gHV2chvIgpzq-ycaqjVqZsESqImV5pkdjlDAnSVUum-FYMtukDiTcIyTWuc8y1bMAR1FgO7RliVDzOA_Cqjx290mjyaJ74OCeJNSvqNboso1gnt79jY6vOOU5P1QHMeLztmUTs6tiwI0p5hzgXXoMl7nPuATkumV2VTbEkxQdGCBQ-nxb-OG6cMNrqub-Ngl7oldvOPM1AQYsjqihHoOCqUXBwpEc-RkD41Ek0YMc-J2OOCtcxjcAG5mGdlgpQloKokY-Mo2duKu8N1Yp0lQO9Rs9PUTjWyY0tsBm4qssrqGW0i6hWhgJD87jlkI5Vtu4JTrVGJTJfsxVpFOKb9RlEQl4i4PlwPVuRVQ3Jmq-ShV-RP5-IIvuQAHhMpmHmwb7pTu_kyxkTNvfBfCg1D1t0_jatgmxV8loU0M0_cdHBnAtjmFPPRVH1F7kR0UScqpjSkZxUEfmeYgxHG9plWGPLYQGVxNgPu0vTn0-n-6m-O3z_dzv3sGrj4bNyopv-etalwvPNaDqTQLdvMmtmS15_CO0bABsCJCGAPoLrXFeIQ"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcToszhiNYy4NyRYQM06wsDnr4CGP5jwfh4sMckD2T_-Gu3UUwxm7RRf19kcqs4LBcrJjQV5dMxcG-kvDg7Rr-sPWON4qNsEoPIdjrKR2g",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRugzhMlXypiUfXe9wZZNLQfvNcH1jkxVgM7qMXKMACzCICmVpIEnfFG881FgsqtBHQ9JDEg-BGrqxY9H3w0Tg8ucvETng",
+      "source": "Nordstrom",
+      "title": "JBL Vibe Buds 2 Noise Cancelling True Wireless Earbuds",
+      "rating": 3.6,
+      "reviews": 423,
+      "price": "$39.95",
+      "extracted_price": 39.95,
+      "original_price": "$65",
+      "extracted_original_price": 65,
+      "location": "Also nearby",
+      "delivery": "Free delivery",
+      "extensions": [
+        "38% OFF"
+      ],
+      "immersive_product_page_token": "rA7L1HicdZPLjqNGGIWlPEt2rUh1oTDOrm0uhjG4KVPFZTMCijaYwmCDbWzNPsu8g3sm0mQ5iZRn6TxNyKyT7fmOjo7-y6-Povpr7fx0S4d9uMxOWf1iv8CNta9892t3asU5HyrxJwRAVRCcE6wRFUGsqHP0NU-HVLa7fzEBQENYm80USGZ4BmaYfCuLVMjqUGxeX4uT3uaV-GNCmqqiuTLDCpwhTYHo96pJd8V3PMVgDSsYQ4wwRiqECiZvJ9G_Ky_Lj3ByE4JUpAENzOFkQNqnF7rRP_4P_HI8F6fb-49D2z0d2qovnvL0kBdTpd3TtToVsuj7pyI9ZWfRf9l13wv8R8xbU4lvZKYqkzqfzYCmYIDn2lt3GR7l7vP5LIt3_fq0fLZ9e2mfODLvqSXPCaaXrBoN__bcbi3zkETOXVhzPGkeXdY9D0knLF7bpgfiiMr8-tjJx7l_lPJRHH5r0-7ymv_9wy_G2daXR1v3WddxnYLA2CmMJTZvymOOxYcEimvcCDuPkqqoYevePcrqJAgMaLkGwwI5F9pQxTW6UGBZpoCsucFPoWGyzOhHFtFQNEnq48U5hc4hAd1yq_t3gUTlh9J1I17lhgeDVU0C6bxuzZIG3Aw2S4hYKHhi-STDi9YPSsyleczA4Is7XblhPwTMaYKARkHo7V1ALoxx6XFz2O5LmejGmOnUTwO5DiUjeUhVd7UjcdMrEeRDjAiLQTcmRgncaFFGIDHSu7mgVhkHiFe85m0GoLmtxdoNfYXL8sPG2N0DKI4ZLlUayXiL6oHBelyHok8amSaY24UUZgJMWTS050iDYWDfOKuvYiWbNdNQalGcGeNtCyDKrHmU7E0zMEvmA0NZh2Oc1fbg351FYIGBwqShwJN-2NUp41uGwLhZ7YBotDEG5lrsd9BFxs1dedi1xF3ocroFqqTNfOtayr1YQp9HhsIP8Y0FNkoPnpqsKI0RuLlSBmLlEL4XRwFtErDBnGZ485hzzO60SaZNZYgOIjKrqeM-k-JacPfm8a4Rox0FRjsUoQlSKfT44FQpXDhMN18o6jrGQGrXppFjmyTSvCSovwrurPKV98G1-vuGl6_iUMZxmBxT1I5ZlH8e-9PrO3g2ybDdEFwepCM2xTNoZyhkl81m1Dcdt4l3_RnO5mD6HUAQAeo_yiJy4A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=rA7L1HicdZPLjqNGGIWlPEt2rUh1oTDOrm0uhjG4KVPFZTMCijaYwmCDbWzNPsu8g3sm0mQ5iZRn6TxNyKyT7fmOjo7-y6-Povpr7fx0S4d9uMxOWf1iv8CNta9892t3asU5HyrxJwRAVRCcE6wRFUGsqHP0NU-HVLa7fzEBQENYm80USGZ4BmaYfCuLVMjqUGxeX4uT3uaV-GNCmqqiuTLDCpwhTYHo96pJd8V3PMVgDSsYQ4wwRiqECiZvJ9G_Ky_Lj3ByE4JUpAENzOFkQNqnF7rRP_4P_HI8F6fb-49D2z0d2qovnvL0kBdTpd3TtToVsuj7pyI9ZWfRf9l13wv8R8xbU4lvZKYqkzqfzYCmYIDn2lt3GR7l7vP5LIt3_fq0fLZ9e2mfODLvqSXPCaaXrBoN__bcbi3zkETOXVhzPGkeXdY9D0knLF7bpgfiiMr8-tjJx7l_lPJRHH5r0-7ymv_9wy_G2daXR1v3WddxnYLA2CmMJTZvymOOxYcEimvcCDuPkqqoYevePcrqJAgMaLkGwwI5F9pQxTW6UGBZpoCsucFPoWGyzOhHFtFQNEnq48U5hc4hAd1yq_t3gUTlh9J1I17lhgeDVU0C6bxuzZIG3Aw2S4hYKHhi-STDi9YPSsyleczA4Is7XblhPwTMaYKARkHo7V1ALoxx6XFz2O5LmejGmOnUTwO5DiUjeUhVd7UjcdMrEeRDjAiLQTcmRgncaFFGIDHSu7mgVhkHiFe85m0GoLmtxdoNfYXL8sPG2N0DKI4ZLlUayXiL6oHBelyHok8amSaY24UUZgJMWTS050iDYWDfOKuvYiWbNdNQalGcGeNtCyDKrHmU7E0zMEvmA0NZh2Oc1fbg351FYIGBwqShwJN-2NUp41uGwLhZ7YBotDEG5lrsd9BFxs1dedi1xF3ocroFqqTNfOtayr1YQp9HhsIP8Y0FNkoPnpqsKI0RuLlSBmLlEL4XRwFtErDBnGZ485hzzO60SaZNZYgOIjKrqeM-k-JacPfm8a4Rox0FRjsUoQlSKfT44FQpXDhMN18o6jrGQGrXppFjmyTSvCSovwrurPKV98G1-vuGl6_iUMZxmBxT1I5ZlH8e-9PrO3g2ybDdEFwepCM2xTNoZyhkl81m1Dcdt4l3_RnO5mD6HUAQAeo_yiJy4A"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNIPQiBtnxBpB45e3eR0um__hr8lJNTK1PnwGdrYclvqFDQGN998lZ6MG6F-2zanFXeo5FUN3vZCjJpznC_cIiH3REJt1nmCjJcv1ZAHI",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart - Verdi",
+      "title": "JBL Live Beam 3 True Wireless Earbuds",
+      "rating": 4.3,
+      "reviews": 1600,
+      "price": "$89.99",
+      "extracted_price": 89.99,
+      "original_price": "$130",
+      "extracted_original_price": 130,
+      "location": "Also nearby",
+      "delivery": "Free delivery",
+      "extensions": [
+        "30% OFF"
+      ],
+      "immersive_product_page_token": "75agG3icdVPJjqRGFJT8Lb61LGWyFfjWxVbFNEmxZLJcRkBSQJMsDbUA8j_4H6pnLI2PY0v-lvbXGMlX-_SkiKeIF9KLXx9F_deL9dOSXl5DNRuz5nQ8Qcd8rV372zD29JpfavoHJ-4glCVhJ0vcjoeywAnf8vSSsr7cWB7wvAQkKO8ECUIFcjvwvSpSyuqucM7nYtT6fFsTOFkCEAKgCCIUJF6SxN_rNi2Lf2kFyqLEi8omIgEZipwkvY90-hBO6me4UwRJlGVeViSFVyQOcuCXk-don_-H_Pp2Lcbl48dLPzx1fT0VT3na5cV2Ufl0r8eCFdP0VKRjdqXT13LY_P_8L5n3tqbfxZ0kbLF3O7hBO07guPfhdnlU5ZfrlRUf2v1JfT66R_U4Es5YU5NdE967ZfWsu8tz75tGl0TWSk2F3zDkqc1EQnGgJmmOBgJx5LH8_ijZ4zo9KvYout_6dLid879_QPqYa-otV108DETzQGCizl3d2QZ4joPq7uHKxxHqU2gNSM_vGWHj5jc5wf7gmJcLwnPrw0TyjP3d0Zkac0ZXsHIOW2pnDUr8lfDUFGAWGCfvYIluaJ0DfRYjblCRRscIDqNjejgNL5HNl0JI3NXTK582aJviOQsVNW8F4Jno9oIV3tExb4eXV4_rlyDweJ-gDgcowJFlJiE5FLq3-kCx_dbqssNepKaxJA2NaVAJto4SzNgxDBmf6839hRAQMvpCGekJ6e8ufOYQM1w_oCSNECxM8ZOjwzfUDRbiWZxB6-yZZHDxBFIDWYm2D3w4TDhI3kJM_aQdCDUpTqLKCzvWk4a4Lia2y9iUckpEVQhsU-YJICFqIB8Tcix0I_aj_ZJwYkUgWgrNwGFosaQbVhShk6PC1Tm4c068yj4Ygr0yLViNV5sTewdfjMJQbhRWcxyimWpUsM1-9YNGiHl7iVfLtWG-xF1FigCppBn6eIFuHpRrHO07vaK2X0Nx-483AlCdt9aIdebaWDmkLfMCr69d7K35K2sxngeXJ8huUZWE3sHREmhDAyR68uK28BONKiG5f5mn8fwBng3x4jvSFQypHFtDoJQO59xKTUqERfqcDcD9eavC1lIIRE6E4B9C_GAM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=75agG3icdVPJjqRGFJT8Lb61LGWyFfjWxVbFNEmxZLJcRkBSQJMsDbUA8j_4H6pnLI2PY0v-lvbXGMlX-_SkiKeIF9KLXx9F_deL9dOSXl5DNRuz5nQ8Qcd8rV372zD29JpfavoHJ-4glCVhJ0vcjoeywAnf8vSSsr7cWB7wvAQkKO8ECUIFcjvwvSpSyuqucM7nYtT6fFsTOFkCEAKgCCIUJF6SxN_rNi2Lf2kFyqLEi8omIgEZipwkvY90-hBO6me4UwRJlGVeViSFVyQOcuCXk-don_-H_Pp2Lcbl48dLPzx1fT0VT3na5cV2Ufl0r8eCFdP0VKRjdqXT13LY_P_8L5n3tqbfxZ0kbLF3O7hBO07guPfhdnlU5ZfrlRUf2v1JfT66R_U4Es5YU5NdE967ZfWsu8tz75tGl0TWSk2F3zDkqc1EQnGgJmmOBgJx5LH8_ijZ4zo9KvYout_6dLid879_QPqYa-otV108DETzQGCizl3d2QZ4joPq7uHKxxHqU2gNSM_vGWHj5jc5wf7gmJcLwnPrw0TyjP3d0Zkac0ZXsHIOW2pnDUr8lfDUFGAWGCfvYIluaJ0DfRYjblCRRscIDqNjejgNL5HNl0JI3NXTK582aJviOQsVNW8F4Jno9oIV3tExb4eXV4_rlyDweJ-gDgcowJFlJiE5FLq3-kCx_dbqssNepKaxJA2NaVAJto4SzNgxDBmf6839hRAQMvpCGekJ6e8ufOYQM1w_oCSNECxM8ZOjwzfUDRbiWZxB6-yZZHDxBFIDWYm2D3w4TDhI3kJM_aQdCDUpTqLKCzvWk4a4Lia2y9iUckpEVQhsU-YJICFqIB8Tcix0I_aj_ZJwYkUgWgrNwGFosaQbVhShk6PC1Tm4c068yj4Ygr0yLViNV5sTewdfjMJQbhRWcxyimWpUsM1-9YNGiHl7iVfLtWG-xF1FigCppBn6eIFuHpRrHO07vaK2X0Nx-483AlCdt9aIdebaWDmkLfMCr69d7K35K2sxngeXJ8huUZWE3sHREmhDAyR68uK28BONKiG5f5mn8fwBng3x4jvSFQypHFtDoJQO59xKTUqERfqcDcD9eavC1lIIRE6E4B9C_GAM"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQYJIwE2iyAJziha7IuQph7qaa4Ok4emSn0TqCjv3JoV_NhdFdM52G_y1hzsp8I-Q_wJMxHi86fvwUIN9U_4q4OsfMgm56fhH9AWClcbVE",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Nothing Ear True Wireless Earbuds",
+      "rating": 4.6,
+      "reviews": 1900,
+      "price": "$59.00",
+      "extracted_price": 59.0,
+      "original_price": "$79",
+      "extracted_original_price": 79,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "25% OFF"
+      ],
+      "immersive_product_page_token": "IC2kwXicdZPLiuNGFIYhz5JdE1BVqWRVdm1bkq225FapLnZtGt3aupRstS3fxLxD3sE9E5gsZwJ5ls7TxEmWIXBW54eP78B_frkV1R8L_6dr0tdyku7T5nn-DJZeXUXB126_y49ZX-W_AwDJCGNiIjAiNkYmBOhrlvSJ3m2q_LtpGxYhNsKEgBGGIwMY38oiyXW1LZavr8V-usv-ptgQWxaANrGQhQhENkS_VW2yKf7Jv1sWRiOCR9YIW8SwMTTg-z4_fJjPkxdg38nEJtA0IcYQWgYBn57pcvryP-GXt2Oxv3782O-6h-2uOhQPWbLNirvS5uFc7QtdHA4PRbJPj_nhy6b71--_mPe2yr_dlUwL2sbIhBaxTQzs9-7U38rN5-NRFx_T88PkcR7NJ_O9gO6QePqoED2l1cWJro-72HO3auUPuUfQfRfSSXMQEne5J5q5GxrrFdXZ-bbRt-PhVupbsf11l3Sn1-zPH0Jnn00np2wS8a4TU2rEtdtnjogSuTMEKksp-UA92tOWCDrTT0vpvjKQnZmncOiWSDYCsCmlDI0x5-oSTvNZZnC05GWsvM7l2l8EW9ehq3Cbz_Ko4PQqeO8zp19QMcZMdLPUcSHz8pjXviub4BpVgEUsP6oWd2IWDRF334pVeBKgO0vtrjII4kIKEHpapcBF0UolgedaohUX1iqwRo840o9myn3FUNhILToqqVpDfFVobCQ8tJaecJXeXCPRPTExZpmgMVt1ddKUIEWaxhU4RtB_XvDAzGqqhfTjCPkylvmkmPnWgrkW98qmaPphBXXCEB8E0mu2VXAhmyGBPWCznImZP1e1gpKtzWDlB1G9HtJaLSQH40KqmjbUS5ywz2pRU9695dNwydu-jKe-E7DSCFE4SAccM0EkdYVa3CfT5KlY-d5aKp20lyh2ymeFeL-QZFCtO88Gf5Lqpg-NbqFm_hC0fSSFGFOt4zVSQerlgNdj5ZR5cL8T3_vxJoywylp_zx0dBZzMklZTRndVxOmQ1brlbTdPp-tz6BIWSLcWjdasuYj8zknE-prWPuDR58th__phPLq4j5fW0egSe-13jGyWcHnaTC1lXq2XtDOin-9vbtzbb2CIgfEXCONgfw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=IC2kwXicdZPLiuNGFIYhz5JdE1BVqWRVdm1bkq225FapLnZtGt3aupRstS3fxLxD3sE9E5gsZwJ5ls7TxEmWIXBW54eP78B_frkV1R8L_6dr0tdyku7T5nn-DJZeXUXB126_y49ZX-W_AwDJCGNiIjAiNkYmBOhrlvSJ3m2q_LtpGxYhNsKEgBGGIwMY38oiyXW1LZavr8V-usv-ptgQWxaANrGQhQhENkS_VW2yKf7Jv1sWRiOCR9YIW8SwMTTg-z4_fJjPkxdg38nEJtA0IcYQWgYBn57pcvryP-GXt2Oxv3782O-6h-2uOhQPWbLNirvS5uFc7QtdHA4PRbJPj_nhy6b71--_mPe2yr_dlUwL2sbIhBaxTQzs9-7U38rN5-NRFx_T88PkcR7NJ_O9gO6QePqoED2l1cWJro-72HO3auUPuUfQfRfSSXMQEne5J5q5GxrrFdXZ-bbRt-PhVupbsf11l3Sn1-zPH0Jnn00np2wS8a4TU2rEtdtnjogSuTMEKksp-UA92tOWCDrTT0vpvjKQnZmncOiWSDYCsCmlDI0x5-oSTvNZZnC05GWsvM7l2l8EW9ehq3Cbz_Ko4PQqeO8zp19QMcZMdLPUcSHz8pjXviub4BpVgEUsP6oWd2IWDRF334pVeBKgO0vtrjII4kIKEHpapcBF0UolgedaohUX1iqwRo840o9myn3FUNhILToqqVpDfFVobCQ8tJaecJXeXCPRPTExZpmgMVt1ddKUIEWaxhU4RtB_XvDAzGqqhfTjCPkylvmkmPnWgrkW98qmaPphBXXCEB8E0mu2VXAhmyGBPWCznImZP1e1gpKtzWDlB1G9HtJaLSQH40KqmjbUS5ywz2pRU9695dNwydu-jKe-E7DSCFE4SAccM0EkdYVa3CfT5KlY-d5aKp20lyh2ymeFeL-QZFCtO88Gf5Lqpg-NbqFm_hC0fSSFGFOt4zVSQerlgNdj5ZR5cL8T3_vxJoywylp_zx0dBZzMklZTRndVxOmQ1brlbTdPp-tz6BIWSLcWjdasuYj8zknE-prWPuDR58th__phPLq4j5fW0egSe-13jGyWcHnaTC1lXq2XtDOin-9vbtzbb2CIgfEXCONgfw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQsQ7CPoFl9p8_tn0mE48D497p9KKLz54VCgC8noe0kQPs09aGDljmcPkW58m8KpnQQZ3c6b5S3zjWCfyOr8rubeVa507Isa5-tVYVk69b_uGnjKFiEi7HF",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSW-S-_luarU-55pAdwqk0DIf3EVz5Tfk_AKhJqn8kL9vXqP39a-JMSIUXr8lioUiDaNf63l916xuryKrNsmx8QRDUv788OsugKjQ",
+      "source": "soundcore US",
+      "title": "Anker Soundcore Space A40 Noise Cancelling Wireless Earbuds",
+      "rating": 4.3,
+      "reviews": 512,
+      "price": "$59.99",
+      "extracted_price": 59.99,
+      "original_price": "$100",
+      "extracted_original_price": 100,
+      "delivery": "Free delivery",
+      "extensions": [
+        "40% OFF"
+      ],
+      "immersive_product_page_token": "ayPxenicdZDNjqNGFEalPEt2rZHqh8KQXWMoN3SDzU9VAZsRBtrQFFBj47aNss8y7-CeiTRZzkTKs3SeJs7sc_Wt7tkcnd-vdfv3k_fhUkwvYrndb7uNu4Hr1Usb-l_VfqyO5dRW3yHAxDSQhoiOFgYwNYi-lsVUyHF3o6ZGTKjpEBgI3zBcAPytqYtKtkO9fn6u9_ZYttVfUDM0HQMCDGwQA5pAJ4s_277Y1T_4d43oGiSGsdCRAcCCmAi87avDu7ZZfoQaNHVMsK6Zt2kmNCD4dROt7Y__A798Otb7y_vP06juhrE91HdlMZT1TWl3d2r3tawPh7u62G-P1eHLTv3wwzoiCBoA3g7jmweAb31bfSMLXdORbmLTAMgEGkJv6nW6NrvPx6Os3-3T3fLeDd2lu-eIzsVKHnMcvW7bsxNe7sd4RYc89eZqZeLbL4iW3YELoqoV71wagCyNZHm67uT1eLg28loPf4yFen0u__npN-fo2stPrh0ypbgdgWQlQS0ykoPG8jG1spkW3BkBx6pJcK5CIEXlmAc_paRKQpzg5uQnluavpllwBeLU0hJePfqOgv7cIS6VU4BzEQqTJlhuIk6XdUeWEaRW0k-u3zfWU9r4cdJdEhZlkeRxgqgSKzb5vXfhNp24CGBCXS3v2WUr5LpA5zQaeLQF8pSx_JihgJUP1ksYw6LsoOKppUrqNeWgxK0BLmYLRXg3b21JQnFzZM2nUpqA4WpfM2JnMsfBwGnwQp9iyA_lXALOzJAn2VQ7U-qLJs5wCG5NZDBkM4PRhUtvCi9QC5GmbfspWKfRi-gmEq9MngAJmfRywYMgnBuVyeziU7XZMjMPwBmUgpzipGnz1DmFkqGor0LW5a-F7W18wTclDLqyV2qbWHoFq9ecNVnITF-kqo-Yd2bODlQ91xhriC_OWgJ25wwdkD-oMUspFCJYZ9zqYwBg8OD-13EUjC99zu18pYDovJZ3-ZgxlfksWuZD5Ud2eSp7OeYDfaiS3K14lGZz3iXIVPFcXsJOidohjz6QcRi5aeKMUy0oKGRlZ4PXFtDymE03EVKKMVC4HXVK7JJcekGCPVx2E8_nyk_SRvrd-ZIDb8hfIs_vqCgc5_P5sH9-B_eUTPF6AYC06YNh7epD2E31M9hMBn1k-w-r0y9wYQJgQkAQgfBfK-pyxg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ayPxenicdZDNjqNGFEalPEt2rZHqh8KQXWMoN3SDzU9VAZsRBtrQFFBj47aNss8y7-CeiTRZzkTKs3SeJs7sc_Wt7tkcnd-vdfv3k_fhUkwvYrndb7uNu4Hr1Usb-l_VfqyO5dRW3yHAxDSQhoiOFgYwNYi-lsVUyHF3o6ZGTKjpEBgI3zBcAPytqYtKtkO9fn6u9_ZYttVfUDM0HQMCDGwQA5pAJ4s_277Y1T_4d43oGiSGsdCRAcCCmAi87avDu7ZZfoQaNHVMsK6Zt2kmNCD4dROt7Y__A798Otb7y_vP06juhrE91HdlMZT1TWl3d2r3tawPh7u62G-P1eHLTv3wwzoiCBoA3g7jmweAb31bfSMLXdORbmLTAMgEGkJv6nW6NrvPx6Os3-3T3fLeDd2lu-eIzsVKHnMcvW7bsxNe7sd4RYc89eZqZeLbL4iW3YELoqoV71wagCyNZHm67uT1eLg28loPf4yFen0u__npN-fo2stPrh0ypbgdgWQlQS0ykoPG8jG1spkW3BkBx6pJcK5CIEXlmAc_paRKQpzg5uQnluavpllwBeLU0hJePfqOgv7cIS6VU4BzEQqTJlhuIk6XdUeWEaRW0k-u3zfWU9r4cdJdEhZlkeRxgqgSKzb5vXfhNp24CGBCXS3v2WUr5LpA5zQaeLQF8pSx_JihgJUP1ksYw6LsoOKppUrqNeWgxK0BLmYLRXg3b21JQnFzZM2nUpqA4WpfM2JnMsfBwGnwQp9iyA_lXALOzJAn2VQ7U-qLJs5wCG5NZDBkM4PRhUtvCi9QC5GmbfspWKfRi-gmEq9MngAJmfRywYMgnBuVyeziU7XZMjMPwBmUgpzipGnz1DmFkqGor0LW5a-F7W18wTclDLqyV2qbWHoFq9ecNVnITF-kqo-Yd2bODlQ91xhriC_OWgJ25wwdkD-oMUspFCJYZ9zqYwBg8OD-13EUjC99zu18pYDovJZ3-ZgxlfksWuZD5Ud2eSp7OeYDfaiS3K14lGZz3iXIVPFcXsJOidohjz6QcRi5aeKMUy0oKGRlZ4PXFtDymE03EVKKMVC4HXVK7JJcekGCPVx2E8_nyk_SRvrd-ZIDb8hfIs_vqCgc5_P5sH9-B_eUTPF6AYC06YNh7epD2E31M9hMBn1k-w-r0y9wYQJgQkAQgfBfK-pyxg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQk9EInfKysa87t29dh813vbYBsaMqa2lvCrBjWNb-l4Etaqc3zIiPqbfsoo9ISl_UFiVR8RDM2ukWst6BzJ6vpvLEq0eQZbxqrikgOF3awYAa5FAK02Ki1vw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "JBL Endurance Peak 4 True Wireless Earbuds",
+      "rating": 4.2,
+      "reviews": 545,
+      "price": "$89.95",
+      "extracted_price": 89.95,
+      "original_price": "$130",
+      "extracted_original_price": 130,
+      "location": "Nearby, 12 mi",
+      "delivery": "Free next-day delivery",
+      "extensions": [
+        "30% OFF"
+      ],
+      "immersive_product_page_token": "JiDXLnicbVPLrqNGEJXyLdldjdTd0DyyuzG0MQPYNHRj2IyAxuZpsMFP5R_yD74zkSbLSaR8y83XhJGynE2VVKd0zilV1e_PovrHsT_c06mOFtkpazarDVwv68p3vw6nXpzzqRJ_Q4xVTdaRrkCsQknRMJC_5umUtv3-O6wqQMJYxpKiQgyhPqdvZZGKtjoU692uOBl9_r1PAwpCGEhQxaoMsSap8M-qS_fF_ziQZKAqMxGUMZIkSZX1t5MY39Fm8QljKGkzAdawrmiSLGnqbxu6Nj79GPtyPBen-_vPUz-8HPpqLF7y9JAXs6P9y7U6FW0xji9FesrOYvyyH2b5v37A8tZV4htWFVlBmozxHOYhVeVtuEzPcv_5fG6Ld-P6snhd-avF6sQReaTL9pxI9JJVN9O_v_bBkhySrf0QS12aax5dNCOP8CCWvFkRD8Rb2ubX5759nsdn2T6Lwx99Olx2-b8_1eZ4NRb91fDZMHCDggDlMG60iQL7ErLScVgyhkRD3sOmnlE6DAwm582VP1ovYAwUrej8rtzkzQSoUQb-tkFRJBxREybQdHQtD-fLPQhJW2ZbKoWEkDjS5bCjzKsgTM228tnt7LA2zBsPiTu0Waddg4gfGdTu3KR2Blzsg1sSd2UloD7lC4jTVm9oLRas3oMUYMbNcvZVOnnXHt0H74ThraOD12eNQAINVtgMJNsOid8lKwrgOp25MkRRannymutN1tnbeHacbcs0rQn3QtFkgEkueb0VJgYUiV3a3Ehu-XIeekPwKF3RUZdy23AjAXgDe6_TVzHX7qmUgMjUD_nSq4LQRsnWlLzGnDIE64KVfdDId4pWcsbEJQbmPQqgIhqIo5BUTkRQ1HoVY6WS1J7lAmjFqHVSJggzyZiFXpuj6yM-0F20gMsAcRZCD2QWdTOU-BG7QX4Y7OzhwaCZ9ThNi7A8s-3QM0gDh-GR16trKImPoSWkUIrvMdL7mOubBJIoN5M-2RLfLIUbVBDPt3PkwKvyzj4xs_Vdpltp19KQ9vPe6COv245JXA5qUdOIWAmADifmjZq3TizLC43wwWfuxPzPt_G0ewevBE_BWgWgNYil_bovRr-Zih3YTBr5yE4fltdfoKoDoEOA0fzp_wF8c2fX",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=JiDXLnicbVPLrqNGEJXyLdldjdTd0DyyuzG0MQPYNHRj2IyAxuZpsMFP5R_yD74zkSbLSaR8y83XhJGynE2VVKd0zilV1e_PovrHsT_c06mOFtkpazarDVwv68p3vw6nXpzzqRJ_Q4xVTdaRrkCsQknRMJC_5umUtv3-O6wqQMJYxpKiQgyhPqdvZZGKtjoU692uOBl9_r1PAwpCGEhQxaoMsSap8M-qS_fF_ziQZKAqMxGUMZIkSZX1t5MY39Fm8QljKGkzAdawrmiSLGnqbxu6Nj79GPtyPBen-_vPUz-8HPpqLF7y9JAXs6P9y7U6FW0xji9FesrOYvyyH2b5v37A8tZV4htWFVlBmozxHOYhVeVtuEzPcv_5fG6Ld-P6snhd-avF6sQReaTL9pxI9JJVN9O_v_bBkhySrf0QS12aax5dNCOP8CCWvFkRD8Rb2ubX5759nsdn2T6Lwx99Olx2-b8_1eZ4NRb91fDZMHCDggDlMG60iQL7ErLScVgyhkRD3sOmnlE6DAwm582VP1ovYAwUrej8rtzkzQSoUQb-tkFRJBxREybQdHQtD-fLPQhJW2ZbKoWEkDjS5bCjzKsgTM228tnt7LA2zBsPiTu0Waddg4gfGdTu3KR2Blzsg1sSd2UloD7lC4jTVm9oLRas3oMUYMbNcvZVOnnXHt0H74ThraOD12eNQAINVtgMJNsOid8lKwrgOp25MkRRannymutN1tnbeHacbcs0rQn3QtFkgEkueb0VJgYUiV3a3Ehu-XIeekPwKF3RUZdy23AjAXgDe6_TVzHX7qmUgMjUD_nSq4LQRsnWlLzGnDIE64KVfdDId4pWcsbEJQbmPQqgIhqIo5BUTkRQ1HoVY6WS1J7lAmjFqHVSJggzyZiFXpuj6yM-0F20gMsAcRZCD2QWdTOU-BG7QX4Y7OzhwaCZ9ThNi7A8s-3QM0gDh-GR16trKImPoSWkUIrvMdL7mOubBJIoN5M-2RLfLIUbVBDPt3PkwKvyzj4xs_Vdpltp19KQ9vPe6COv245JXA5qUdOIWAmADifmjZq3TizLC43wwWfuxPzPt_G0ewevBE_BWgWgNYil_bovRr-Zih3YTBr5yE4fltdfoKoDoEOA0fzp_wF8c2fX"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRriFHOYbEf05FHhwGySz2GxarP5MCdM2VKoE7WQA_0urpGYJ5u1Dh5e_FzdULNwxghmGwbW6UM6qrFZMWcy895Y5keeBilSx7GethU_NEM",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "Samsung Galaxy Buds3 Pro Wireless",
+      "rating": 4.3,
+      "reviews": 20000,
+      "price": "$148.99",
+      "extracted_price": 148.99,
+      "original_price": "$250",
+      "extracted_original_price": 250,
+      "location": "Also nearby",
+      "extensions": [
+        "40% OFF"
+      ],
+      "immersive_product_page_token": "GsJux3icbZLLjqNGFIalPEt2rUhVBcUluzZQjFEbTHE1mxauqjaYawO-YM075B3cM5FmljOR8iydpwmtbLM7-r__SP-5_HEX5d9Pzm9zPh0TYz_sq-16Cz37WPqbb_3Q8RObSv4XRJKKAFYkGes6gqosK9o3lk953R0-sLwgBQOoqRArGCKgaT8KkfO6bIX38iIGs2Ml_6nLUIZIBQBJi0ORVYS_l01-EP9hTdKRDrGmybquyTJUsPY28PEdbY1nRdZUjFQFagirqqYuzs9b6pnP_8--vp7EML__OnX9Q9uVo3hgecvEkufwcCkHUYtxfBD5sD_x8euhZx9DYAkipEJdVTGQJUkHsvzWlPwHVhVZQaq2LGDJtAD81p-ne3H4cjrV4t28PBiPa39trIcYkVtu16dMoud9ebX8-bELbNJmqXPjti4tmkuNaowT3HM7rtbEBbuU1uxyP9T303gv6rto_-zy_vzC_vnFtQZmGmdm-FHfxyYFQeRCnvKBt0WcNW7gIh6xym24xJXM5p5I-1UKXBJJqxtD2lWQbgqrabu_8XyfruYoukxhu0qzm4-DqLv6DfVEW82ZNU5ZSMINcNrMWiMXZm0KJoMlFuaQgRR0E_1UYBo6C1mtN5a7ZSk3A4lSBvXLLnFibsZKHvF481HZ13NWOT0lnOawmndId0Pkvj6FFLlRLMdInnKbkigls2vRU9bQgSI6h8fMFg20QruPQxvfaFNcKSE1TesneuOvGzRdeKObotIb14xHnrJ5B52Wkn4bWtFMbVKyKkOBXU9P4dJrul7e9KfY5oiCbAzrVR_EPOFJ7yVNnUUlPPM0rrgF7ZD0ckQKlyUdFHXtiwQHQbg6urDe5VZhLDdUfOgYQbi7CauoMnNV5I1O9yQ2fKmwI5Nso4QEu4aWQewGuaVDjmIzjK3b5phFvpQpO0QsKlkXkVjX-EjPi4apPV0Z0OvNkaw8q8Ki0SfaZoNV8E1QQrz8x2sM3JI1zhBZtb-J9E95U9OQdqUf0Rs71s3yG3YE6JUlfenFDuERtXJpg1JAKtdyzn69sn3_y3UcXt7BI8FT4Ckn0OfazulD_eAh73wwlUyeled9D_zfoaoDoEOAEYbgX1a-YHM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=GsJux3icbZLLjqNGFIalPEt2rUhVBcUluzZQjFEbTHE1mxauqjaYawO-YM075B3cM5FmljOR8iydpwmtbLM7-r__SP-5_HEX5d9Pzm9zPh0TYz_sq-16Cz37WPqbb_3Q8RObSv4XRJKKAFYkGes6gqosK9o3lk953R0-sLwgBQOoqRArGCKgaT8KkfO6bIX38iIGs2Ml_6nLUIZIBQBJi0ORVYS_l01-EP9hTdKRDrGmybquyTJUsPY28PEdbY1nRdZUjFQFagirqqYuzs9b6pnP_8--vp7EML__OnX9Q9uVo3hgecvEkufwcCkHUYtxfBD5sD_x8euhZx9DYAkipEJdVTGQJUkHsvzWlPwHVhVZQaq2LGDJtAD81p-ne3H4cjrV4t28PBiPa39trIcYkVtu16dMoud9ebX8-bELbNJmqXPjti4tmkuNaowT3HM7rtbEBbuU1uxyP9T303gv6rto_-zy_vzC_vnFtQZmGmdm-FHfxyYFQeRCnvKBt0WcNW7gIh6xym24xJXM5p5I-1UKXBJJqxtD2lWQbgqrabu_8XyfruYoukxhu0qzm4-DqLv6DfVEW82ZNU5ZSMINcNrMWiMXZm0KJoMlFuaQgRR0E_1UYBo6C1mtN5a7ZSk3A4lSBvXLLnFibsZKHvF481HZ13NWOT0lnOawmndId0Pkvj6FFLlRLMdInnKbkigls2vRU9bQgSI6h8fMFg20QruPQxvfaFNcKSE1TesneuOvGzRdeKObotIb14xHnrJ5B52Wkn4bWtFMbVKyKkOBXU9P4dJrul7e9KfY5oiCbAzrVR_EPOFJ7yVNnUUlPPM0rrgF7ZD0ckQKlyUdFHXtiwQHQbg6urDe5VZhLDdUfOgYQbi7CauoMnNV5I1O9yQ2fKmwI5Nso4QEu4aWQewGuaVDjmIzjK3b5phFvpQpO0QsKlkXkVjX-EjPi4apPV0Z0OvNkaw8q8Ki0SfaZoNV8E1QQrz8x2sM3JI1zhBZtb-J9E95U9OQdqUf0Rs71s3yG3YE6JUlfenFDuERtXJpg1JAKtdyzn69sn3_y3UcXt7BI8FT4Ckn0OfazulD_eAh73wwlUyeled9D_zfoaoDoEOAEYbgX1a-YHM"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROkvwKIHMUH__wQtDyQNpZK_QsJEEZR-jMzDIUDgofLKpQZ4-KZN7SjKSfGQ55X517f5mEQcFGsNjtsAqipekdI0j0l66GsBm_4GoTBgKCpYm3TM0v1KRF4w",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRrWdDiY87XfjlrAFI0u-oU4MLrN0YnfNqc4wGOihvHinYgqHSukM-Eq6YABxlCwQ9j_GuHeWvZpTSbFMBH3KCD7BtD0vjA5X6HNrc",
+      "source": "Skullcandy",
+      "title": "Skullcandy Method 360 ANC Wireless Earbuds",
+      "rating": 4.2,
+      "reviews": 1500,
+      "price": "$129.99",
+      "extracted_price": 129.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "Gn9453icbVJNjqNGFJZyluxaLVUVFLiyaxsDJg02BVXYbEZAYYMpDAO4jVHukDu4ZyJNlpNFztI5TYiyne37vvf96L3fH3n596vzfE-Gc7RKu7TabXZwa51L3_3Wdo24ZkMp_tJUVV9gnSw0jIkCkY7Vb1kyJLI5zaiiAR1DrGsahEhbYATQ9yJPhCwv-fZ4zDujyWYaXmAN6wtd02e-jqCK9D_LOjnl_8PaLIqhAjSiKwghoiL03on-A-1WnxYQKVglqq5DRHSiQR39tqNb49OPsa-fr3l3__h5aNqnS1P2-VOWXLJ8znN6upVdLvO-f8qTLr2K_uup_c_9ByrvdSm-z61UDc3ddX3upaqAvLdvw6M4fbleZf5h3J5WLxt_s9p0HJlTYslrrNC3tBzX_v2lCSzzEu-dSVhEmWceXVU9j3ArLF5tTA8c9lRmt8dJPq79o5CP_PJHk7Rvx-yfn7x1lxmrt2zls7blBgUBI4wh8poqouDmCe4RNAIp3PjS1sLktQs4Da3Y9uu2yoxlnK9HFDECmLEe3cn0X_dOwaN2EPayZfwAvHPcegZdUpua1HLKLTMVCjwZVOM1ls6F1Q0MWBGIvXTjMLY8MPiHaDGFsL3P20M2xZvQiF2KJE8mp81sbiUMYC-M7zFqjxFrm1R6jnfmiWsRTBEZaD30HJhTGJk7wcV2zr6JI1jyyqN5NcSzH0oZvjMGphiNzTaiYWy66nbfqgEbNV-SaMuGgXGyzevTcJi8Xw-S38Q-bpKzDCPmuLlpqhy6Nw-2aA9NzY2q0Wfj4cCdjRcVu8ymNbOdm6fwY1iLI6_gPT0XZhg5l3x_GAQjbip9wKXoPbtgaQDNPVKhW1EjnXVm5DWGYnUI6XxX954zWicW9NKoDbyzyaktk0Rhis8k5KHs8mjWkeLMAQw4IhaPhktosZt_h1FQwSK-LJNk4iwyxDWwlzi1K3VdCDcoIZ7_4zMHXpnVTsfW0ncZsZNa0pA2pc_olJ1lzddeLyqAozU8CzAcApvDsHLaxDTH2FzGFDjY97-MfXf8AC8mHoKtllsv910zjOsTKVPXqf1Az5Pp-dlAt1-gTgAgEGCEAfkXofFggg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Gn9453icbVJNjqNGFJZyluxaLVUVFLiyaxsDJg02BVXYbEZAYYMpDAO4jVHukDu4ZyJNlpNFztI5TYiyne37vvf96L3fH3n596vzfE-Gc7RKu7TabXZwa51L3_3Wdo24ZkMp_tJUVV9gnSw0jIkCkY7Vb1kyJLI5zaiiAR1DrGsahEhbYATQ9yJPhCwv-fZ4zDujyWYaXmAN6wtd02e-jqCK9D_LOjnl_8PaLIqhAjSiKwghoiL03on-A-1WnxYQKVglqq5DRHSiQR39tqNb49OPsa-fr3l3__h5aNqnS1P2-VOWXLJ8znN6upVdLvO-f8qTLr2K_uup_c_9ByrvdSm-z61UDc3ddX3upaqAvLdvw6M4fbleZf5h3J5WLxt_s9p0HJlTYslrrNC3tBzX_v2lCSzzEu-dSVhEmWceXVU9j3ArLF5tTA8c9lRmt8dJPq79o5CP_PJHk7Rvx-yfn7x1lxmrt2zls7blBgUBI4wh8poqouDmCe4RNAIp3PjS1sLktQs4Da3Y9uu2yoxlnK9HFDECmLEe3cn0X_dOwaN2EPayZfwAvHPcegZdUpua1HLKLTMVCjwZVOM1ls6F1Q0MWBGIvXTjMLY8MPiHaDGFsL3P20M2xZvQiF2KJE8mp81sbiUMYC-M7zFqjxFrm1R6jnfmiWsRTBEZaD30HJhTGJk7wcV2zr6JI1jyyqN5NcSzH0oZvjMGphiNzTaiYWy66nbfqgEbNV-SaMuGgXGyzevTcJi8Xw-S38Q-bpKzDCPmuLlpqhy6Nw-2aA9NzY2q0Wfj4cCdjRcVu8ymNbOdm6fwY1iLI6_gPT0XZhg5l3x_GAQjbip9wKXoPbtgaQDNPVKhW1EjnXVm5DWGYnUI6XxX954zWicW9NKoDbyzyaktk0Rhis8k5KHs8mjWkeLMAQw4IhaPhktosZt_h1FQwSK-LJNk4iwyxDWwlzi1K3VdCDcoIZ7_4zMHXpnVTsfW0ncZsZNa0pA2pc_olJ1lzddeLyqAozU8CzAcApvDsHLaxDTH2FzGFDjY97-MfXf8AC8mHoKtllsv910zjOsTKVPXqf1Az5Pp-dlAt1-gTgAgEGCEAfkXofFggg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSKvq7R-tbmp8_dwWifJ0x2vKFRlL317fA0LDiw7Vz77g6PZvNBrtdoWl-2CKT3ED-RhTvos_OPUrx_Er48siWbZis9zLkrbIQKLRzjvyME",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTjeNVnu15PZVMai3rO4qdtwgttMIED-RxKTeigP4NwQ3KuaDIFyIH9FWhpCCykuJyZs-NFn16vB9OojWk4Y1EIOOySPh4",
+      "source": "JLab",
+      "title": "JLab Go Pods ANC True Wireless Earbuds",
+      "rating": 4.5,
+      "reviews": 6800,
+      "price": "$31.99",
+      "extracted_price": 31.99,
+      "location": "Also nearby",
+      "immersive_product_page_token": "mw2AGHicdVPLrqNGFJTyLdldRaJ5muyuedmMDaaBxvRm1NDYPJrHBXzBKP-Qf_CdiTRZTkbKt9x8TZhZJ9uqUp3SOad-f2TF3wf7lzsZy0hL-qQ67U_AtcrCO37p-pbe0rGg34AgAlHlN6Io8htF5hVF5b6kZCSsvX6nZUnkBVmRwUZRREXleVH8mmeEsqLJ3Msl6_U2LehfiqoCbjUQVZGTZEUVZPnPoibX7Af9DSg8WL1lWf4-arVUN9JbT4d38aR9BBt-1UsbVeA5UdwIoiILv52gq3_8H_Lzyy3r7-8_j2331LTFkD2lpEmzNdL1aSr6jGXD8JSRPrnR4fO1-xHgP2ze6oJ-lRRZlPmNzIkcJwCgCOJb9zo-8uun241l7_r0pD3vvb227xFvLsRiNyzA16SYDe_-3PqW2eCzvVBLFVbMgVo1oEjqqIWqvelw8RmydHpc2eM2PHL2yJo_WtK9XtJ_fiqNYdK1dtK9sOuQDjkfwdk3bNc_Q5lwo5kEsIyFdiHGhqMCBXG9v3vRIIU8qmIB7_wGCYFJT4Fu60HF_ICfNRo4RVKz13jJBY-zaxQiJ-E6zWlwH4b0doy6E9y1I6klx93huxOpYWKBPrXYnoKO0ABhp8SLF9CWRNTHO3wikRmniNaHCN-SM9RQ04rubpvjiOPTym7TndOn4exRlMvhbou8ahIxjz5kBja9AnjpQqcUqZZv0MkvGaO6-UIteogbeHcMKkMDbkMTjVDjFtdCEzbm0GF4CNZ9RFXKr9jR33VDUM0ELscRGbQNhC3vlcglYW7GqBXiWq1CAxneGUcOB_YxJ03Jsq1okxsQbUtkhktk5hf3TLfBkk--gU6hTgGpaRuX6ByjDjqM3o8I3j2eHQi6jthiF1rPjhuJIIpoT3V7m57tDx6AhVPRObIwCYVu9JDt-6HZu0buUmM_kwgeaYMPOEIsMUxAdHpK63DNg3CkHyVSqT01jsATOg3tzD0qkXyI2CUttwNFTmnk9OgXQFp_5wVxTpHWdh8azDuG6o7UDAawLbwQLmnJ6hDZmhfRHa7UAjUOt2rGKMAtOrMg0U0-8oFNp0_z0F_euWdTGn1XsfnZEggxxaxp45f1QFt90571D8J0_RWs7efWJku8xG3-BQBSbf0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=mw2AGHicdVPLrqNGFJTyLdldRaJ5muyuedmMDaaBxvRm1NDYPJrHBXzBKP-Qf_CdiTRZTkbKt9x8TZhZJ9uqUp3SOad-f2TF3wf7lzsZy0hL-qQ67U_AtcrCO37p-pbe0rGg34AgAlHlN6Io8htF5hVF5b6kZCSsvX6nZUnkBVmRwUZRREXleVH8mmeEsqLJ3Msl6_U2LehfiqoCbjUQVZGTZEUVZPnPoibX7Af9DSg8WL1lWf4-arVUN9JbT4d38aR9BBt-1UsbVeA5UdwIoiILv52gq3_8H_Lzyy3r7-8_j2331LTFkD2lpEmzNdL1aSr6jGXD8JSRPrnR4fO1-xHgP2ze6oJ-lRRZlPmNzIkcJwCgCOJb9zo-8uun241l7_r0pD3vvb227xFvLsRiNyzA16SYDe_-3PqW2eCzvVBLFVbMgVo1oEjqqIWqvelw8RmydHpc2eM2PHL2yJo_WtK9XtJ_fiqNYdK1dtK9sOuQDjkfwdk3bNc_Q5lwo5kEsIyFdiHGhqMCBXG9v3vRIIU8qmIB7_wGCYFJT4Fu60HF_ICfNRo4RVKz13jJBY-zaxQiJ-E6zWlwH4b0doy6E9y1I6klx93huxOpYWKBPrXYnoKO0ABhp8SLF9CWRNTHO3wikRmniNaHCN-SM9RQ04rubpvjiOPTym7TndOn4exRlMvhbou8ahIxjz5kBja9AnjpQqcUqZZv0MkvGaO6-UIteogbeHcMKkMDbkMTjVDjFtdCEzbm0GF4CNZ9RFXKr9jR33VDUM0ELscRGbQNhC3vlcglYW7GqBXiWq1CAxneGUcOB_YxJ03Jsq1okxsQbUtkhktk5hf3TLfBkk--gU6hTgGpaRuX6ByjDjqM3o8I3j2eHQi6jthiF1rPjhuJIIpoT3V7m57tDx6AhVPRObIwCYVu9JDt-6HZu0buUmM_kwgeaYMPOEIsMUxAdHpK63DNg3CkHyVSqT01jsATOg3tzD0qkXyI2CUttwNFTmnk9OgXQFp_5wVxTpHWdh8azDuG6o7UDAawLbwQLmnJ6hDZmhfRHa7UAjUOt2rGKMAtOrMg0U0-8oFNp0_z0F_euWdTGn1XsfnZEggxxaxp45f1QFt90571D8J0_RWs7efWJku8xG3-BQBSbf0"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-VVaA7BaLya68gxaSqWlQrLgqy9FWNi3HOxrP_eeDizhGuQyNPz3inAPjLSKfOMLvaVd4IIbPnuWAjphm6JpIHZ5mflajkT-saKpakgs",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "JBL Tune 245NC True Wireless Noise Cancelling Earbuds",
+      "rating": 4.3,
+      "reviews": 1200,
+      "price": "$59.95",
+      "extracted_price": 59.95,
+      "original_price": "$110",
+      "extracted_original_price": 110,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "45% OFF"
+      ],
+      "immersive_product_page_token": "IYs1f3icdVPLjqNGFJXyLdm1RqoqKDDZtQ3YJg1uiqrCsGkBhXk_GuMGW_mH_INnJtJk2RMp39L5mpCsk-05V-ecq3vur_e0-PPJ-nSNxtLfxENcPe-f4WFbFq79rR86cUnGQrwrUMHqCq9WAAEVrTS0-pZEY1R3WSG-I1VRNBkBDakqUBAGivqep5GoizY9nE7poHfJMiZJKloUJIyVRUfFKgC_F02Upf_S77KGJBUrkiovpIKhjD8P4vwhP29eoIIUvMKqLAOAJU1bqZL2yzM56C__Q359vaTD9ePHsesf2q44pw9J1CbpEih7mIohrdPz-SGNhvgizl-zfrH_479kPjdLLqwqsoJWSJKkFdYwWuD-bbzn2ZfLpU4_9Olh87h395v9wJF5i7b1JZTIW1zMhnt97Lyt2YZH6ya2mrRgDtlUZ-7jXmx5tTcdEBxJnUz3rL5fzve8vqftb13Uv52Sv34ojfOkb7pJd1nfc50Aj2aQAXuKgNk6BtSZKSxa1SEvbfREzSYC1S0yoBFV8uxBont0rTNkw7g2JF5mcmKYe86sIt7xzt46ZtLYyCvNY6IniPmr0QOzTure5lXfp1SQg0lI6tswZIt3Ge5JM7_GzRgRP_zZo9UU0rpwqwzapgV9YxwZz1vBnM72nauDcJVWyY0w7URBdY2qFXryLV8wMlGjdyknFuePONZDKWAdtv38KTE0JYEWiKREFiynoT-CUMqpXYopNKvpoK9ZDEPsGxMgOpnS0sZB6wSuFNwCQAKfC8Vl2PWbWYlQXnGeyQdaSZxWM5Vy7mzHgpbBTHZ5zwuYR7BXQr1CXsUmp17XabtuvDq0KSAD9bEsbtyk_tzG5nqy9T1ITNEfaHD1qSszhgH3nSkGvIyAPTNzbUdN3Yhd79G2v7p-fU1uPLIRcZLSmrlezx4YzRAIKqBA1MARq8VTenTllIkgKUMjqHBjS-aw7E28KkehMW5EywdX6nPGw2tqGChpxMnIhe0VEC_deeXAKZLGGphRuzbTdksGQklXuIzckrJu_rkJb61d0JjWEXLfb62ANuYmXTrJduZ8RBi67pf5PJw-wKOJR--gUE_TXl9IcIrP9ljB9d7aZ113eNnesp-gqgGgQYCXN1f_BtFcarM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=IYs1f3icdVPLjqNGFJXyLdm1RqoqKDDZtQ3YJg1uiqrCsGkBhXk_GuMGW_mH_INnJtJk2RMp39L5mpCsk-05V-ecq3vur_e0-PPJ-nSNxtLfxENcPe-f4WFbFq79rR86cUnGQrwrUMHqCq9WAAEVrTS0-pZEY1R3WSG-I1VRNBkBDakqUBAGivqep5GoizY9nE7poHfJMiZJKloUJIyVRUfFKgC_F02Upf_S77KGJBUrkiovpIKhjD8P4vwhP29eoIIUvMKqLAOAJU1bqZL2yzM56C__Q359vaTD9ePHsesf2q44pw9J1CbpEih7mIohrdPz-SGNhvgizl-zfrH_479kPjdLLqwqsoJWSJKkFdYwWuD-bbzn2ZfLpU4_9Olh87h395v9wJF5i7b1JZTIW1zMhnt97Lyt2YZH6ya2mrRgDtlUZ-7jXmx5tTcdEBxJnUz3rL5fzve8vqftb13Uv52Sv34ojfOkb7pJd1nfc50Aj2aQAXuKgNk6BtSZKSxa1SEvbfREzSYC1S0yoBFV8uxBont0rTNkw7g2JF5mcmKYe86sIt7xzt46ZtLYyCvNY6IniPmr0QOzTure5lXfp1SQg0lI6tswZIt3Ge5JM7_GzRgRP_zZo9UU0rpwqwzapgV9YxwZz1vBnM72nauDcJVWyY0w7URBdY2qFXryLV8wMlGjdyknFuePONZDKWAdtv38KTE0JYEWiKREFiynoT-CUMqpXYopNKvpoK9ZDEPsGxMgOpnS0sZB6wSuFNwCQAKfC8Vl2PWbWYlQXnGeyQdaSZxWM5Vy7mzHgpbBTHZ5zwuYR7BXQr1CXsUmp17XabtuvDq0KSAD9bEsbtyk_tzG5nqy9T1ITNEfaHD1qSszhgH3nSkGvIyAPTNzbUdN3Yhd79G2v7p-fU1uPLIRcZLSmrlezx4YzRAIKqBA1MARq8VTenTllIkgKUMjqHBjS-aw7E28KkehMW5EywdX6nPGw2tqGChpxMnIhe0VEC_deeXAKZLGGphRuzbTdksGQklXuIzckrJu_rkJb61d0JjWEXLfb62ANuYmXTrJduZ8RBi67pf5PJw-wKOJR--gUE_TXl9IcIrP9ljB9d7aZ113eNnesp-gqgGgQYCXN1f_BtFcarM"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Which earbuds have the highest noise cancellation?",
+      "type": "ai_overview",
+      "page_token": "HRtRNXicHdBNbqMwAEBh9TJdNnYpqYgUjcoMDEODU9vYBm9GYBL-bKCEFoZdr9Az9FQ9TavZP32L9_ah6679vHqvpmm47DabeZ5vyr4v9elG9WaTXf51aqMyrfNMtbvt_Rb-OKu996rcn6NyMRsG_osAqt2ANvoxgdVLpB1JLT0euJMdeTtjEBJ1qyzOkB_fLuZkSqBEMRctWmkcbnHsnzksoeD6knmTH_Pid2GGRQT-KqGyEst1sQgR80obWWwS3YMtY3_AWgaEFzgB9kxYu6S8gAhEkK0ypdoDqsErhWiMgBOi1f-2nafcDEciliMLqmfaoTqHasbaEdx8t53ucjb5J0_LHJTWUcxL2hALJS4-MHgoALCZAHdeVUS0hnaakGcOUK1MODJP44g5QWY0iUlfY0ZW1WjDBEKKo142ssKcp8z8WUhcPSIu2wMjI234HcPXZ_W6t67_v97_PZtpN4x9-QUy940K",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HRtRNXicHdBNbqMwAEBh9TJdNnYpqYgUjcoMDEODU9vYBm9GYBL-bKCEFoZdr9Az9FQ9TavZP32L9_ah6679vHqvpmm47DabeZ5vyr4v9elG9WaTXf51aqMyrfNMtbvt_Rb-OKu996rcn6NyMRsG_osAqt2ANvoxgdVLpB1JLT0euJMdeTtjEBJ1qyzOkB_fLuZkSqBEMRctWmkcbnHsnzksoeD6knmTH_Pid2GGRQT-KqGyEst1sQgR80obWWwS3YMtY3_AWgaEFzgB9kxYu6S8gAhEkK0ypdoDqsErhWiMgBOi1f-2nafcDEciliMLqmfaoTqHasbaEdx8t53ucjb5J0_LHJTWUcxL2hALJS4-MHgoALCZAHdeVUS0hnaakGcOUK1MODJP44g5QWY0iUlfY0ZW1WjDBEKKo142ssKcp8z8WUhcPSIu2wMjI234HcPXZ_W6t67_v97_PZtpN4x9-QUy940K",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlltZENValZTVEdzMlVFVmFTbTl4TlZkWVRHbHhSRlpUU2tKaWQzWmpTSEpITjBsNWMwaHJkMDF6TmtFdGRFeENVVXhoVkU5c0xUTlNXRVEwUzI1cE1ERnhkMkk0V0hnellqaEdOV2hVUldVNU9XRlJaVWxZVjA1QmR4SVhURW90ZVdGMGFsZERZbkppYTFCSlVERlBSMnBwVVUwYUlrRkVjM0k1WmxSUlEzUlJaMDU1YWpSdlIzUkxjbEZqUjFoV2FsSnNiMTgzTUhjIiwiZmN2IjoiMyIsImVpIjoiTEoteWF0aldDYnJia1BJUDFPR2ppUU0iLCJxYyI6IkNpUjBiM0FnYm05cGMyVWdZMkZ1WTJWc2FXNW5JSGRwY21Wc1pYTnpJR1ZoY21KMVpITVFBSDE1SGdjXyIsInF1ZXN0aW9uIjoiV2hpY2ggZWFyYnVkcyBoYXZlIHRoZSBoaWdoZXN0IG5vaXNlIGNhbmNlbGxhdGlvbj8iLCJsayI6IkdpMTNhR2xqYUNCbFlYSmlkV1J6SUdoaGRtVWdhR2xuYUdWemRDQnViMmx6WlNCallXNWpaV3hzWVhScGIyNCIsImJzIjoiYzVXT3NRckNNQlJGY2Mza0lrSVhueDlRVzFKd0xRNnU0dFk1VFI5OUQwb1NtbWp4NzIyS0ZvcDBjTDduM25zRUNsa1Jhd0pVZmYxb1BKQjZJZ1JDSUc0SmZRQmoyU05vWlRSMm5RcHNUU216SkIxLVctc05jUlZRMFF0VWotRFF1ZzZoNGFDSlRRc1g3dS0yOGFVOEpvZGhoVkhjdTVFUk4xRlVwTUxFUk1kNnZrc19kNUgtU3JFQm1jdHpLZmZKYmlKSFpBNWpJclRJRm52Qk9paVdfbkdRVURXT3JNSFJNazlPdzEtVjdlWU4iLCJpZCI6ImZjX0xKLXlhdGpXQ2JyYmtQSVAxT0dqaVFNXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlltZENValZTVEdzMlVFVmFTbTl4TlZkWVRHbHhSRlpUU2tKaWQzWmpTSEpITjBsNWMwaHJkMDF6TmtFdGRFeENVVXhoVkU5c0xUTlNXRVEwUzI1cE1ERnhkMkk0V0hnellqaEdOV2hVUldVNU9XRlJaVWxZVjA1QmR4SVhURW90ZVdGMGFsZERZbkppYTFCSlVERlBSMnBwVVUwYUlrRkVjM0k1WmxSUlEzUlJaMDU1YWpSdlIzUkxjbEZqUjFoV2FsSnNiMTgzTUhjIiwiZmN2IjoiMyIsImVpIjoiTEoteWF0aldDYnJia1BJUDFPR2ppUU0iLCJxYyI6IkNpUjBiM0FnYm05cGMyVWdZMkZ1WTJWc2FXNW5JSGRwY21Wc1pYTnpJR1ZoY21KMVpITVFBSDE1SGdjXyIsInF1ZXN0aW9uIjoiV2hpY2ggZWFyYnVkcyBoYXZlIHRoZSBoaWdoZXN0IG5vaXNlIGNhbmNlbGxhdGlvbj8iLCJsayI6IkdpMTNhR2xqYUNCbFlYSmlkV1J6SUdoaGRtVWdhR2xuYUdWemRDQnViMmx6WlNCallXNWpaV3hzWVhScGIyNCIsImJzIjoiYzVXT3NRckNNQlJGY2Mza0lrSVhueDlRVzFKd0xRNnU0dFk1VFI5OUQwb1NtbWp4NzIyS0ZvcDBjTDduM25zRUNsa1Jhd0pVZmYxb1BKQjZJZ1JDSUc0SmZRQmoyU05vWlRSMm5RcHNUU216SkIxLVctc05jUlZRMFF0VWotRFF1ZzZoNGFDSlRRc1g3dS0yOGFVOEpvZGhoVkhjdTVFUk4xRlVwTUxFUk1kNnZrc19kNUgtU3JFQm1jdHpLZmZKYmlKSFpBNWpJclRJRm52Qk9paVdfbkdRVURXT3JNSFJNazlPdzEtVjdlWU4iLCJpZCI6ImZjX0xKLXlhdGpXQ2JyYmtQSVAxT0dqaVFNXzQifQ%3D%3D"
+    },
+    {
+      "question": "Why are people ditching AirPods?",
+      "type": "ai_overview",
+      "page_token": "NjUiRnicHdBfboIwHADg7DJ7HP9kCyZmmdoOUZi0_AryskCrAm0FlOHm2-6yU-00S_Yd4fv-UfVJ_t6N1TB0l6lhXK_Xh2PbHtX-gbfaKC5fJ27wQqmy4HL6-PRoPR_4DH2s5ot-NY-h69iSmFRaW34iOE0DN6LWhPr48pbiBfNZLRKGc0c4VHukvL04AMLa6W4eZd2Y2Z-KIHcSSwtTJBYJiEnpYx3hHIVAFEWMlv6LQzIVxNLblhqP7LUKc8btTYZukKlxL5FJ5DCEDfug6eeaJ8ThUtgR5OvC2ZllOrhpEi1zk9SiCaqdNs09hG55Yq_c4l-hjfvc9mKuSSCsYEP9jqBKhLS23F1GemZGNdfBGZCKQ_D8QiuSkLaOgdx4ozSAiwuoemjYmsrVjSzzXrCKJg64VLHtG_MaiO8PfJw59_-fs_eDHqbduT3-AYOQgaA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NjUiRnicHdBfboIwHADg7DJ7HP9kCyZmmdoOUZi0_AryskCrAm0FlOHm2-6yU-00S_Yd4fv-UfVJ_t6N1TB0l6lhXK_Xh2PbHtX-gbfaKC5fJ27wQqmy4HL6-PRoPR_4DH2s5ot-NY-h69iSmFRaW34iOE0DN6LWhPr48pbiBfNZLRKGc0c4VHukvL04AMLa6W4eZd2Y2Z-KIHcSSwtTJBYJiEnpYx3hHIVAFEWMlv6LQzIVxNLblhqP7LUKc8btTYZukKlxL5FJ5DCEDfug6eeaJ8ThUtgR5OvC2ZllOrhpEi1zk9SiCaqdNs09hG55Yq_c4l-hjfvc9mKuSSCsYEP9jqBKhLS23F1GemZGNdfBGZCKQ_D8QiuSkLaOgdx4ozSAiwuoemjYmsrVjSzzXrCKJg64VLHtG_MaiO8PfJw59_-fs_eDHqbduT3-AYOQgaA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlltZENValZTVEdzMlVFVmFTbTl4TlZkWVRHbHhSRlpUU2tKaWQzWmpTSEpITjBsNWMwaHJkMDF6TmtFdGRFeENVVXhoVkU5c0xUTlNXRVEwUzI1cE1ERnhkMkk0V0hnellqaEdOV2hVUldVNU9XRlJaVWxZVjA1QmR4SVhURW90ZVdGMGFsZERZbkppYTFCSlVERlBSMnBwVVUwYUlrRkVjM0k1WmxSUlEzUlJaMDU1YWpSdlIzUkxjbEZqUjFoV2FsSnNiMTgzTUhjIiwiZmN2IjoiMyIsImVpIjoiTEoteWF0aldDYnJia1BJUDFPR2ppUU0iLCJxYyI6IkNpUjBiM0FnYm05cGMyVWdZMkZ1WTJWc2FXNW5JSGRwY21Wc1pYTnpJR1ZoY21KMVpITVFBSDE1SGdjXyIsInF1ZXN0aW9uIjoiV2h5IGFyZSBwZW9wbGUgZGl0Y2hpbmcgQWlyUG9kcz8iLCJsayI6IkdoOTNhSGtnWVhKbElIQmxiM0JzWlNCa2FYUmphR2x1WnlCaGFYSndiMlJ6IiwiYnMiOiJjNVdPc1FyQ01CUkZjYzNrSWtJWG54OVFXMUp3TFE2dTR0WTVUUjk5RDBvU21tang3MjJLRm9wMGNMN24zbnNFQ2xrUmF3SlVmZjFvUEpCNklnUkNJRzRKZlFCajJTTm9aVFIyblFwc1RTbXpKQjEtVy1zTmNSVlEwUXRVai1EUXVnNmg0YUNKVFFzWDd1LTI4YVU4Sm9kaGhWSGN1NUVSTjFGVXBNTEVSTWQ2dmtzX2Q1SC1TckVCbWN0ektmZkpiaUpIWkE1aklyVElGbnZCT2lpV19uR1FVRFdPck1IUk1rOU93MS1WN2VZTiIsImlkIjoiZmNfTEoteWF0aldDYnJia1BJUDFPR2ppUU1fNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlltZENValZTVEdzMlVFVmFTbTl4TlZkWVRHbHhSRlpUU2tKaWQzWmpTSEpITjBsNWMwaHJkMDF6TmtFdGRFeENVVXhoVkU5c0xUTlNXRVEwUzI1cE1ERnhkMkk0V0hnellqaEdOV2hVUldVNU9XRlJaVWxZVjA1QmR4SVhURW90ZVdGMGFsZERZbkppYTFCSlVERlBSMnBwVVUwYUlrRkVjM0k1WmxSUlEzUlJaMDU1YWpSdlIzUkxjbEZqUjFoV2FsSnNiMTgzTUhjIiwiZmN2IjoiMyIsImVpIjoiTEoteWF0aldDYnJia1BJUDFPR2ppUU0iLCJxYyI6IkNpUjBiM0FnYm05cGMyVWdZMkZ1WTJWc2FXNW5JSGRwY21Wc1pYTnpJR1ZoY21KMVpITVFBSDE1SGdjXyIsInF1ZXN0aW9uIjoiV2h5IGFyZSBwZW9wbGUgZGl0Y2hpbmcgQWlyUG9kcz8iLCJsayI6IkdoOTNhSGtnWVhKbElIQmxiM0JzWlNCa2FYUmphR2x1WnlCaGFYSndiMlJ6IiwiYnMiOiJjNVdPc1FyQ01CUkZjYzNrSWtJWG54OVFXMUp3TFE2dTR0WTVUUjk5RDBvU21tang3MjJLRm9wMGNMN24zbnNFQ2xrUmF3SlVmZjFvUEpCNklnUkNJRzRKZlFCajJTTm9aVFIyblFwc1RTbXpKQjEtVy1zTmNSVlEwUXRVai1EUXVnNmg0YUNKVFFzWDd1LTI4YVU4Sm9kaGhWSGN1NUVSTjFGVXBNTEVSTWQ2dmtzX2Q1SC1TckVCbWN0ektmZkpiaUpIWkE1aklyVElGbnZCT2lpV19uR1FVRFdPck1IUk1rOU93MS1WN2VZTiIsImlkIjoiZmNfTEoteWF0aldDYnJia1BJUDFPR2ppUU1fNCJ9"
+    },
+    {
+      "question": "What are the best noise-cancelling earbuds in 2026?",
+      "type": "ai_overview",
+      "page_token": "xp2VAnicHdBLjpswAABQ9TKznGDyaSdSVJWJHQYVpxjbgDcVsZMYMNgBJjTseoWeoafqaVp1-bbv529Tdc2fD7_0OLphu1hM0_R8tfZqzs_StotyeHRyIUtjTqVstpuPG_D5InfwLoPXXgYJc47viZc2L3nGRXTu9E20qlYo2sd1gDAcv5GcvxU-ecedqCT68uCNHkgTJSXXHvfxhbd8UECHpwfYEKB87EX2nwk1IqFQuCMUDwoxESgYFMI3WpO7DJ0tl3DNQp0J4MITx2056z4-mJkcxiM3Yk0NAifjjgUXfvYKEN-jVYyU_UpVqma4wkgbHOoioc0yXWqft3bEdZCJXL1hzvwj1b0E1zHe6_pcgUKBT3PiAQS1itMKrIuc3LiHK9lGPYMmidlLWLaGUGKrhJFZ1qZlHB-KbBqpv6Yp0l1mHEooghkDDcv5CrMfs5qeLvK-Wz79v959v7Tj1vX2-hfjZo1v",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xp2VAnicHdBLjpswAABQ9TKznGDyaSdSVJWJHQYVpxjbgDcVsZMYMNgBJjTseoWeoafqaVp1-bbv529Tdc2fD7_0OLphu1hM0_R8tfZqzs_StotyeHRyIUtjTqVstpuPG_D5InfwLoPXXgYJc47viZc2L3nGRXTu9E20qlYo2sd1gDAcv5GcvxU-ecedqCT68uCNHkgTJSXXHvfxhbd8UECHpwfYEKB87EX2nwk1IqFQuCMUDwoxESgYFMI3WpO7DJ0tl3DNQp0J4MITx2056z4-mJkcxiM3Yk0NAifjjgUXfvYKEN-jVYyU_UpVqma4wkgbHOoioc0yXWqft3bEdZCJXL1hzvwj1b0E1zHe6_pcgUKBT3PiAQS1itMKrIuc3LiHK9lGPYMmidlLWLaGUGKrhJFZ1qZlHB-KbBqpv6Yp0l1mHEooghkDDcv5CrMfs5qeLvK-Wz79v959v7Tj1vX2-hfjZo1v",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlltZENValZTVEdzMlVFVmFTbTl4TlZkWVRHbHhSRlpUU2tKaWQzWmpTSEpITjBsNWMwaHJkMDF6TmtFdGRFeENVVXhoVkU5c0xUTlNXRVEwUzI1cE1ERnhkMkk0V0hnellqaEdOV2hVUldVNU9XRlJaVWxZVjA1QmR4SVhURW90ZVdGMGFsZERZbkppYTFCSlVERlBSMnBwVVUwYUlrRkVjM0k1WmxSUlEzUlJaMDU1YWpSdlIzUkxjbEZqUjFoV2FsSnNiMTgzTUhjIiwiZmN2IjoiMyIsImVpIjoiTEoteWF0aldDYnJia1BJUDFPR2ppUU0iLCJxYyI6IkNpUjBiM0FnYm05cGMyVWdZMkZ1WTJWc2FXNW5JSGRwY21Wc1pYTnpJR1ZoY21KMVpITVFBSDE1SGdjXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlc3Qgbm9pc2UtY2FuY2VsbGluZyBlYXJidWRzIGluIDIwMjY/IiwibGsiOiJHaFZpWlhOMElHRnVZeUJsWVhKaWRXUnpJREl3TWpZIiwiYnMiOiJjNVdPc1FyQ01CUkZjYzNrSWtJWG54OVFXMUp3TFE2dTR0WTVUUjk5RDBvU21tang3MjJLRm9wMGNMN24zbnNFQ2xrUmF3SlVmZjFvUEpCNklnUkNJRzRKZlFCajJTTm9aVFIyblFwc1RTbXpKQjEtVy1zTmNSVlEwUXRVai1EUXVnNmg0YUNKVFFzWDd1LTI4YVU4Sm9kaGhWSGN1NUVSTjFGVXBNTEVSTWQ2dmtzX2Q1SC1TckVCbWN0ektmZkpiaUpIWkE1aklyVElGbnZCT2lpV19uR1FVRFdPck1IUk1rOU93MS1WN2VZTiIsImlkIjoiZmNfTEoteWF0aldDYnJia1BJUDFPR2ppUU1fNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlltZENValZTVEdzMlVFVmFTbTl4TlZkWVRHbHhSRlpUU2tKaWQzWmpTSEpITjBsNWMwaHJkMDF6TmtFdGRFeENVVXhoVkU5c0xUTlNXRVEwUzI1cE1ERnhkMkk0V0hnellqaEdOV2hVUldVNU9XRlJaVWxZVjA1QmR4SVhURW90ZVdGMGFsZERZbkppYTFCSlVERlBSMnBwVVUwYUlrRkVjM0k1WmxSUlEzUlJaMDU1YWpSdlIzUkxjbEZqUjFoV2FsSnNiMTgzTUhjIiwiZmN2IjoiMyIsImVpIjoiTEoteWF0aldDYnJia1BJUDFPR2ppUU0iLCJxYyI6IkNpUjBiM0FnYm05cGMyVWdZMkZ1WTJWc2FXNW5JSGRwY21Wc1pYTnpJR1ZoY21KMVpITVFBSDE1SGdjXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlc3Qgbm9pc2UtY2FuY2VsbGluZyBlYXJidWRzIGluIDIwMjY%2FIiwibGsiOiJHaFZpWlhOMElHRnVZeUJsWVhKaWRXUnpJREl3TWpZIiwiYnMiOiJjNVdPc1FyQ01CUkZjYzNrSWtJWG54OVFXMUp3TFE2dTR0WTVUUjk5RDBvU21tang3MjJLRm9wMGNMN24zbnNFQ2xrUmF3SlVmZjFvUEpCNklnUkNJRzRKZlFCajJTTm9aVFIyblFwc1RTbXpKQjEtVy1zTmNSVlEwUXRVai1EUXVnNmg0YUNKVFFzWDd1LTI4YVU4Sm9kaGhWSGN1NUVSTjFGVXBNTEVSTWQ2dmtzX2Q1SC1TckVCbWN0ektmZkpiaUpIWkE1aklyVElGbnZCT2lpV19uR1FVRFdPck1IUk1rOU93MS1WN2VZTiIsImlkIjoiZmNfTEoteWF0aldDYnJia1BJUDFPR2ppUU1fNCJ9"
+    },
+    {
+      "question": "What are the top 3 noise cancelling headphones?",
+      "type": "ai_overview",
+      "page_token": "jhHmaHicHdBRbpswGABg9TJ9bDAJmYgUVaIxILfAMPw2-GUCOwkJNjCSFspbr7Az7FQ7zaad4JO-r9_60rV_Hn419_tw261W0zQ9nfv-rI9Psjer6vbZyZWstK4r2e6237bo-ST3-EN6L6P0UhgGdqBWZou0OtCRa_ctKoaQalVm3EkimNcForc0b6fEdwd2VS0Dx1f2HIBBUHexdeSaS-TNrPMShmdcY0Hq0MvfcrIBTEmMqJFYLKqgnGH2GtnxlvmiiTRsGPOwChSpLZ9lobcWFnmBkBygJSBDio5mzjl2iogpI3VzKguvzBbyHRa1qbn7Su3GVNDPijvryle6ClyShU3C8_gd-O2fjBplUJdfRQfXmEChF9yoKLsgpyzoT2bFF2nICFinEbhhZTTNaX9JgS7yqg1YyCpsFZZLnItAj6yLD0dDdMLZyAIx5EY4Yno8yY_9-vH_9f7Hydx3w9if_wIHyowV",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jhHmaHicHdBRbpswGABg9TJ9bDAJmYgUVaIxILfAMPw2-GUCOwkJNjCSFspbr7Az7FQ7zaad4JO-r9_60rV_Hn419_tw261W0zQ9nfv-rI9Psjer6vbZyZWstK4r2e6237bo-ST3-EN6L6P0UhgGdqBWZou0OtCRa_ctKoaQalVm3EkimNcForc0b6fEdwd2VS0Dx1f2HIBBUHexdeSaS-TNrPMShmdcY0Hq0MvfcrIBTEmMqJFYLKqgnGH2GtnxlvmiiTRsGPOwChSpLZ9lobcWFnmBkBygJSBDio5mzjl2iogpI3VzKguvzBbyHRa1qbn7Su3GVNDPijvryle6ClyShU3C8_gd-O2fjBplUJdfRQfXmEChF9yoKLsgpyzoT2bFF2nICFinEbhhZTTNaX9JgS7yqg1YyCpsFZZLnItAj6yLD0dDdMLZyAIx5EY4Yno8yY_9-vH_9f7Hydx3w9if_wIHyowV",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlltZENValZTVEdzMlVFVmFTbTl4TlZkWVRHbHhSRlpUU2tKaWQzWmpTSEpITjBsNWMwaHJkMDF6TmtFdGRFeENVVXhoVkU5c0xUTlNXRVEwUzI1cE1ERnhkMkk0V0hnellqaEdOV2hVUldVNU9XRlJaVWxZVjA1QmR4SVhURW90ZVdGMGFsZERZbkppYTFCSlVERlBSMnBwVVUwYUlrRkVjM0k1WmxSUlEzUlJaMDU1YWpSdlIzUkxjbEZqUjFoV2FsSnNiMTgzTUhjIiwiZmN2IjoiMyIsImVpIjoiTEoteWF0aldDYnJia1BJUDFPR2ppUU0iLCJxYyI6IkNpUjBiM0FnYm05cGMyVWdZMkZ1WTJWc2FXNW5JSGRwY21Wc1pYTnpJR1ZoY21KMVpITVFBSDE1SGdjXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAzIG5vaXNlIGNhbmNlbGxpbmcgaGVhZHBob25lcz8iLCJsayI6IkdpNTNhR0YwSUdGeVpTQjBhR1VnZEc5d0lETWdibTlwYzJVZ1kyRnVZMlZzYkdsdVp5Qm9aV0ZrY0dodmJtVnoiLCJicyI6ImM1V09zUXJDTUJSRmNjM2tJa0lYbng5UVcxSndMUTZ1NHRZNVRSOTlEMG9TbW1qeDcyMktGb3AwY0w3bjNuc0VDbGtSYXdKVWZmMW9QSkI2SWdSQ0lHNEpmUUJqMlNOb1pUUjJuUXBzVFNtekpCMS1XLXNOY1JWUTBRdFVqLURRdWc2aDRhQ0pUUXNYN3UtMjhhVThKb2RoaFZIY3U1RVJOMUZVcE1MRVJNZDZ2a3NfZDVILVNyRUJtY3R6S2ZmSmJpSkhaQTVqSXJUSUZudkJPaWlXX25HUVVEV09yTUhSTWs5T3cxLVY3ZVlOIiwiaWQiOiJmY19MSi15YXRqV0NicmJrUElQMU9HamlRTV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlltZENValZTVEdzMlVFVmFTbTl4TlZkWVRHbHhSRlpUU2tKaWQzWmpTSEpITjBsNWMwaHJkMDF6TmtFdGRFeENVVXhoVkU5c0xUTlNXRVEwUzI1cE1ERnhkMkk0V0hnellqaEdOV2hVUldVNU9XRlJaVWxZVjA1QmR4SVhURW90ZVdGMGFsZERZbkppYTFCSlVERlBSMnBwVVUwYUlrRkVjM0k1WmxSUlEzUlJaMDU1YWpSdlIzUkxjbEZqUjFoV2FsSnNiMTgzTUhjIiwiZmN2IjoiMyIsImVpIjoiTEoteWF0aldDYnJia1BJUDFPR2ppUU0iLCJxYyI6IkNpUjBiM0FnYm05cGMyVWdZMkZ1WTJWc2FXNW5JSGRwY21Wc1pYTnpJR1ZoY21KMVpITVFBSDE1SGdjXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAzIG5vaXNlIGNhbmNlbGxpbmcgaGVhZHBob25lcz8iLCJsayI6IkdpNTNhR0YwSUdGeVpTQjBhR1VnZEc5d0lETWdibTlwYzJVZ1kyRnVZMlZzYkdsdVp5Qm9aV0ZrY0dodmJtVnoiLCJicyI6ImM1V09zUXJDTUJSRmNjM2tJa0lYbng5UVcxSndMUTZ1NHRZNVRSOTlEMG9TbW1qeDcyMktGb3AwY0w3bjNuc0VDbGtSYXdKVWZmMW9QSkI2SWdSQ0lHNEpmUUJqMlNOb1pUUjJuUXBzVFNtekpCMS1XLXNOY1JWUTBRdFVqLURRdWc2aDRhQ0pUUXNYN3UtMjhhVThKb2RoaFZIY3U1RVJOMUZVcE1MRVJNZDZ2a3NfZDVILVNyRUJtY3R6S2ZmSmJpSkhaQTVqSXJUSUZudkJPaWlXX25HUVVEV09yTUhSTWs5T3cxLVY3ZVlOIiwiaWQiOiJmY19MSi15YXRqV0NicmJrUElQMU9HamlRTV80In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best overall wireless noise-cancelling earbuds are the Sony WF-1000XM6Go to product viewer dialog for this item., which offer top-tier active noise cancellation (ANC), crystal-clear mic quality, and exceptional high-resolution sound.",
+        "snippet_links": [
+          {
+            "link": "https://electronics.sony.com/audio/headphones/truly-wireless-earbuds/p/wf1000xm6-b"
+          },
+          {
+            "text": "Sony WF-1000XM6Go to product viewer dialog for this item.",
+            "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462892686881890,imageDocid:11021792116911194553,gpcid:3099920639759753128,headlineOfferDocid:13800714119868229891,catalogid:11048517163356428281,productDocid:624479455925873875,rds:PC_3099920639759753128%7CPROD_PC_3099920639759753128&q=product&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQxa4PegoIAggACAAICBAI"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "Sony WF-1000XM6Go to product viewer dialog for this item."
+        ],
+        "reference_indexes": [
+          5
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Wireless Noise-Cancelling Earbuds"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Best Overall: Sony WF-1000XM6Go to product viewer dialog for this item. (~$330)",
+            "snippet_links": [
+              {
+                "text": "Sony WF-1000XM6Go to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462892686881890,imageDocid:11021792116911194553,gpcid:3099920639759753128,headlineOfferDocid:13800714119868229891,catalogid:11048517163356428281,productDocid:624479455925873875,rds:PC_3099920639759753128%7CPROD_PC_3099920639759753128&q=product&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQxa4PegoIAggACAAICBAS"
+              }
+            ],
+            "list": [
+              {
+                "snippet": "Pros: Industry-leading adaptive ANC, LDAC high-res audio support, and an improved multi-microphone setup for clear calls."
+              },
+              {
+                "snippet": "Battery: Up to 24 hours total with the Qi wireless charging case."
+              }
+            ]
+          },
+          {
+            "snippet": "Most Comfortable & Best Isolation: Bose QuietComfort Ultra Earbuds (2nd Gen)Go to product viewer dialog for this item.",
+            "snippet_links": [
+              {
+                "link": "https://bose.com/p/in-ear/bose-quietcomfort-ultra-earbuds-2nd-gen/QCUE2-HEADPHONEIN-BLK-WW.html?srsltid=AfmBOoqST_BfoAuXvMjZyHWe2jQ_xRJZAcz4ZuC-RY39o38JTsCmwsV7t0M"
+              },
+              {
+                "text": "Bose QuietComfort Ultra Earbuds (2nd Gen)Go to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576460790701938448,imageDocid:13269723773478758252,gpcid:7844991865192354685,headlineOfferDocid:18092515799623189922,catalogid:12285099940235002618,productDocid:4911299340521052104,rds:PC_7844991865192354685%7CPROD_PC_7844991865192354685&q=product&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQxa4PegoIAggACAAICBAc"
+              }
+            ],
+            "list": [
+              {
+                "snippet": "Pros: World-class CustomTune noise cancellation, plush stability bands for a secure fit, and immersive spatial audio."
+              },
+              {
+                "snippet": "Battery: Up to 6 hours per charge (4 hours with immersive audio) plus three extra charges in the case."
+              }
+            ],
+            "reference_indexes": [
+              6
+            ]
+          },
+          {
+            "snippet": "Best for Apple Users: Apple AirPods Pro 3Go to product viewer dialog for this item. (~$199)",
+            "snippet_links": [
+              {
+                "text": "Apple AirPods Pro 3Go to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462898602156589,imageDocid:11219052177653740477,gpcid:166627121119481402,headlineOfferDocid:10270576211092198479,catalogid:3389053951126373050,productDocid:12598516007978106043,rds:PC_3611280999313233602%7CPROD_PC_3611280999313233602&q=product&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQxa4PegoIAggACAAIGxAD"
+              }
+            ],
+            "list": [
+              {
+                "snippet": "Pros: Seamless iOS ecosystem integration, exceptional quiet performance against ambient noise, and advanced conversation awareness."
+              }
+            ],
+            "reference_indexes": [
+              9
+            ]
+          },
+          {
+            "snippet": "Best Budget Pick: Anker Soundcore P31iGo to product viewer dialog for this item.",
+            "snippet_links": [
+              {
+                "link": "https://www.soundcore.com/products/d1202-p31i-wirless-earbuds-with-anc?variant=45508588208318&srsltid=AfmBOopI_kpa2ulTJ0HPGOqodgMzKRORVt6cyMGbrDSEzpaFh2s8zwKioRA"
+              },
+              {
+                "text": "Anker Soundcore P31iGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462869876878003,imageDocid:16555863374611976224,gpcid:4423948571700959631,headlineOfferDocid:10564607306790038108,catalogid:8351549705576353052,productDocid:11127797448468676590,rds:PC_4423948571700959631%7CPROD_PC_4423948571700959631&q=product&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQxa4PegoIAggACAAIGxAO"
+              }
+            ],
+            "list": [
+              {
+                "snippet": "Pros: Impressive adaptive ANC cutting up to 52 dB of noise, Hi-Res LDAC sound, and multi-hour battery life at a fraction of the cost."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Watch a review comparing top noise-cancelling models to see which fits your needs:"
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.rtings.com/headphones/reviews/best/noise-cancelling-earbuds",
+        "source": "rtings.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.google.com/",
+        "source": "Google",
+        "index": 1
+      },
+      {
+        "link": "https://mashable.com/roundup/best-noise-cancelling-earbuds-2026",
+        "source": "mashable.com",
+        "index": 2
+      },
+      {
+        "link": "https://www.reddit.com/r/digitalnomad/comments/1rzsw7o/best_noise_cancelling_earbuds_people_actually/",
+        "source": "reddit.com",
+        "index": 3
+      },
+      {
+        "title": "The 5 Best Noise Cancelling Earbuds of 2026 - RTINGS.com",
+        "link": "https://www.rtings.com/headphones/reviews/best/noise-cancelling-earbuds",
+        "snippet": "The best noise cancelling earbuds we've tested are the Sony WF-1000XM6. They continue the legacy of the Sony WF-1000XM5, providing access to top-of-the-line noise ...",
+        "source": "RTINGS.com",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSka8tCwOsy4Skl4f_m-RKTSLc77hrkc3oUTeGWyF4R2IzyLH1H2Spkw53TfqyV0G4OxisyJW0vHOfnL7is19GpkPiV",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.rtings.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 4
+      },
+      {
+        "title": "Sony WF-1000XM6 Wireless Noise Cancelling Earbuds",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:624479455925873875,catalogid:11048517163356428281,gpcid:3099920639759753128,mid:576462892686881890&ibp=oshop",
+        "snippet": "Experience studio-quality on the move with the Sony WF-1000XM6, true wireless earbuds with adaptive noise canceling and Hi-Res-certified audio, codeveloped by four major mastering engineers. With a supremely ergonomic design for a secure yet lightweight fit and highly customizable premium sound quality via the Sound Connect app, these earbuds keep you immersed in your audio anywhere you are. These earbuds support high-resolution LDAC wireless audio and can use Edge-AI and the DSEE Extreme algorithm to upscale compressed audio in real time, breathing new life into old, lower-resolution audio files. Dual beamforming mics ensure crystal clear call quality in any environment. The AI-powered noise canceling learns about your environment and can dynamically adjust for an optimal experience. The wireless Qi charging case can ensure you get up to 24 hours of playback; a quick 5-minute charge yields up to an hour in a pinch. With an IPX4 rating, these earbuds are safe from sweat and water splashes. The WF-1000XM6 earbuds include a wireless charging case, a USB-C to USB-A cable, and four sizes of eartip pairs.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSuAaY77fzjhY5LJdYGT0ddv-875qco3-3BbhE62NDXAKmCITAdh1JmqjmAH2Q1lH2AOSRjG-zVMPF0-tY",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Bose QuietComfort Ultra Wireless Noise Cancelling Earbuds",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:12167662584876666260,catalogid:17452493350315801047,gpcid:7844991865192354685,mid:576460790701938448&ibp=oshop",
+        "snippet": "Every listen deserves the premium, personalized audio, world-class noise cancellation, and entirely seamless experience of Bose QuietComfort Ultra Earbuds (2nd Gen). Feel all the feels with each song you play as CustomTune technology adapts the noise cancellation and audio performance to the shape of your ears. Because all you want is music, there’s the best Bose in-ear noise cancellation. Now it’s even smarter thanks to ActiveSense technology. In Aware Mode, it automatically smooths spikes in unwanted sounds. And Bose Immersive Audio spatializes what you hear, so it’s like listening from the acoustic sweet spot. Nine combinations of eartips and stability bands give you a fit that won’t quit, while up to 6 hours of battery life (up to 4 hours with Immersive Audio)* keep your favorites playing. The included case charges wirelessly and holds up to three additional full charges (wireless charger sold separately). Calls count, too, so AI-based background noise suppression filters out your surroundings and mics focus only on the sound of your voice for the clearest conversations. Available in Black, White Smoke, or limited-edition Deep Plum.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNTGfYLkeKjYfk4k1eh7q92NDKWUjjtS_V5oGncCIfzzxQLaTzMbimca8JttRWuzkurdKH5pMyP2lANGo",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "I found the 7 best noise-cancelling earbuds in 2026 - Mashable",
+        "link": "https://mashable.com/roundup/best-noise-cancelling-earbuds-2026",
+        "snippet": "Overview Best noise-cancelling earbuds overall. Sony WF-1000XM6 Noise-Cancelling Earbuds. Jump to Details. $328.00 Amazon. Most comfortable ANC earbuds. Bose Quiet...",
+        "source": "Mashable",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAWZJO-MUV0T3U8Xmhz6jI9ClES40bop0VjuIrrJpKuDVnAdGVdXUE9AoSYQged6fag8bNGBzGS71MmMWoKmM8qEDwUIDtZ0zL3pMT",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "Best noise cancelling earbuds people actually recommend right now?",
+        "link": "https://www.reddit.com/r/digitalnomad/comments/1rzsw7o/best_noise_cancelling_earbuds_people_actually/",
+        "snippet": "Apple AirPods Pro Recommendation: Apple AirPods Pro (2 or 3) are widely recommended, particularly for users within the Apple ecosystem, due to their effective nois...",
+        "source": "Reddit",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRg570ybSPp7CR8cARkxPkfnLcUbeQJj2esnSRhhUQZFYA2QxhW95K8MJLVtIM58w5hDRpjWO3f9SVCrlzj08o72dWMo8M-un894OdT",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "Anker Soundcore P31i",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:11127797448468676590,catalogid:8351549705576353052,gpcid:4423948571700959631,mid:576462869876878003&ibp=oshop",
+        "snippet": "Bulk Headphones, Earbuds, and Speakers for Business Real-Time Adaptive Noise Cancelling Advanced ANC reduces noise by up to 52 dB. Adaptive technology detects your surroundings and automatically chooses the best noise-cancelling level for you. Hi-Res Certified Sound with LDAC Experience stunning, lossless Hi-Fi audio. Powered by LDAC, and Hi-Res Audio, these noise-cancelling earbuds reproduce musical nuances, delivering rich, well-balanced treble and bass. Real-Time 100+ AI Translation Communicate effortlessly in over 100 languages. AI instantly translates speech with high accuracy, keeping conversations smooth and natural. 6 AI-Enhanced Mics for Clear Calls Six microphones work with an AI noise reduction algorithm to separate your voice from background noise. The wind-noise reduction algorithm keeps calls clear even outdoors. Ultra-Long Playtime & Fast Charging Enjoy up to 10 hours of playtime on a single charge (50 hours with the case). Even with ANC on, get 8 hours per charge and 40 hours total. A quick 10-minute charge gives 3.5 hours of listening.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNREWgGG2Q6F23ZhmBE6AbTzNJCC0r8YuePQJP-qPvh3cZx2OQwqSDWqt94eByY2K6huirb8J29unjoI",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best Noise Cancelling Earbuds of 2026 (30+ Tested!)",
+      "link": "https://recordingnow.com/blog/best-wireless-noise-cancelling-earbuds/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV708BbNwK7rlxZMo0jgQEQqszlCd2i7ZRRFBOOeXsHAbAHjYDykXGXscGbXTkhF2qMqFq4NChCnRtDVNJqp38LWsHCLwZE7hsCZngQnE5UdiHSWfmc4bp5EDwpDTQ7tBOKtqMqfow6zDzpp-zY4gGLfA4mArYeTg0&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://recordingnow.com › blog › best-wireless-noise-ca...",
+      "snippet": "Best Overall: Sony WF-1000XM6 · See our Full Sony WF-1000XM6 Review on YouTube below · Runner Up #1: Technics EAH-AZ100 · “Best Overall” Honorable Mentions: ...",
+      "snippet_highlighted_words": [
+        "Sony WF-1000XM6"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Best Overall: Sony WF-1000XM6 · See our Full Sony WF-1000XM6 Review on YouTube below · Runner Up #1: Technics EAH-AZ100 · “Best Overall” Honorable Mentions: ...",
+          "source_info_link": "https://recordingnow.com/blog/best-wireless-noise-cancelling-earbuds/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAV1BMVEUASoBejK6Dp8EMU4aeus7___83cZsLUYXH1-P-_v6zydlOgabr8PT09vmWtMqMrcXV4erl7PEVWYolZJKowdNZiazC0-BFe6JrlrWwxtebuM0va5cdXo4R133PAAAAcElEQVR4AXWLAxbEQBBEK2gMY-f-11wz-E9FfEnSDH_kxH9e1Ni_ifMmJL9BpKKsfnytVdPS7yPkiL9BSh36dzCMLDZwSuXzHT2VU5gX7xl3ZiIyhkZ0Tw9zh4LDG3PvTb9-gtncgxEfVmuI2gwnXAH9zQRb9nYflAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjcwOEJiTndLN3JseFpNbzBqZ1FFUXFzemxDZDJpN1pSUkZCT09lWHNIQWJBSGpZRHlrWEdYc2NHYlhUa2hGMnFNcUZxNE5DaENuUnREVk5KcXAzOExXc0hDTHdaRTdoc0NabmdRbkU1VWRpSFNXZm1jNGJwNUVEd3BEVFE3dEJPS3RxTXFmb3c2ekR6cHAtelk0Z0dMZkE0bUFyWWVUZzASBBoCCAAa1wYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCxBggAEAAYACAAKkAKA3RvcBVDrD4-GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGghncmVhdGVzdBoGcmV2aWV3GgdyZXZpZXdzKigKBW5vaXNlFdDM0UAaDm5vaXNlY2FuY2VsaW5nGgppdjtwO25vaXNlKnQKCWNhbmNlbGluZxUAAAAAGg1jYW4gY2FuY2VsIG15GgZjYW5jZWwaCWNhbmNlbGxlZBoVY2FuY2VsbGluZyBoZWFkcGhvbmVzGglpc29sYXRpbmcaDm5vaXNlY2FuY2VsaW5nGg5pdjtwO2NhbmNlbGluZyovCgh3aXJlbGVzcxW_aZhAGg93aXJlbGVzc2VhcmJ1ZHMaDWl2O3A7d2lyZWxlc3MqSgoHZWFyYnVkcxVcGOhAGghlYXIgYnVkcxoGZWFyYnVkGgllYXJwaG9uZXMaD3dpcmVsZXNzZWFyYnVkcxoMaXY7cDtlYXJidWRzMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjcwOEJiTndLN3JseFpNbzBqZ1FFUXFzemxDZDJpN1pSUkZCT09lWHNIQWJBSGpZRHlrWEdYc2NHYlhUa2hGMnFNcUZxNE5DaENuUnREVk5KcXAzOExXc0hDTHdaRTdoc0NabmdRbkU1VWRpSFNXZm1jNGJwNUVEd3BEVFE3dEJPS3RxTXFmb3c2ekR6cHAtelk0Z0dMZkE0bUFyWWVUZzA6QTxiPkJlc3QgTm9pc2U8L2I-IENhbmNlbGxpbmcgPGI-RWFyYnVkczwvYj4gb2YgMjAyNiAoMzArIFRlc3RlZCEpQsUBQmVzdCBPdmVyYWxsOiA8Yj5Tb255IFdGLTEwMDBYTTY8L2I-ICZtaWRkb3Q7IFNlZSBvdXIgRnVsbCBTb255IFdGLTEwMDBYTTYgUmV2aWV3IG9uIFlvdVR1YmUgYmVsb3cgJm1pZGRvdDsgUnVubmVyIFVwICMxOiBUZWNobmljcyBFQUgtQVoxMDAgJm1pZGRvdDsg4oCcQmVzdCBPdmVyYWxs4oCdIEhvbm9yYWJsZSBNZW50aW9uczombmJzcDsuLi5SBGJlc3QiAhABSAFYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjcwOEJiTndLN3JseFpNbzBqZ1FFUXFzemxDZDJpN1pSUkZCT09lWHNIQWJBSGpZRHlrWEdYc2NHYlhUa2hGMnFNcUZxNE5DaENuUnREVk5KcXAzOExXc0hDTHdaRTdoc0NabmdRbkU1VWRpSFNXZm1jNGJwNUVEd3BEVFE3dEJPS3RxTXFmb3c2ekR6cHAtelk0Z0dMZkE0bUFyWWVUZzASBBoCCAAa1wYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCxBggAEAAYACAAKkAKA3RvcBVDrD4-GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGghncmVhdGVzdBoGcmV2aWV3GgdyZXZpZXdzKigKBW5vaXNlFdDM0UAaDm5vaXNlY2FuY2VsaW5nGgppdjtwO25vaXNlKnQKCWNhbmNlbGluZxUAAAAAGg1jYW4gY2FuY2VsIG15GgZjYW5jZWwaCWNhbmNlbGxlZBoVY2FuY2VsbGluZyBoZWFkcGhvbmVzGglpc29sYXRpbmcaDm5vaXNlY2FuY2VsaW5nGg5pdjtwO2NhbmNlbGluZyovCgh3aXJlbGVzcxW_aZhAGg93aXJlbGVzc2VhcmJ1ZHMaDWl2O3A7d2lyZWxlc3MqSgoHZWFyYnVkcxVcGOhAGghlYXIgYnVkcxoGZWFyYnVkGgllYXJwaG9uZXMaD3dpcmVsZXNzZWFyYnVkcxoMaXY7cDtlYXJidWRzMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjcwOEJiTndLN3JseFpNbzBqZ1FFUXFzemxDZDJpN1pSUkZCT09lWHNIQWJBSGpZRHlrWEdYc2NHYlhUa2hGMnFNcUZxNE5DaENuUnREVk5KcXAzOExXc0hDTHdaRTdoc0NabmdRbkU1VWRpSFNXZm1jNGJwNUVEd3BEVFE3dEJPS3RxTXFmb3c2ekR6cHAtelk0Z0dMZkE0bUFyWWVUZzA6QTxiPkJlc3QgTm9pc2U8L2I-IENhbmNlbGxpbmcgPGI-RWFyYnVkczwvYj4gb2YgMjAyNiAoMzArIFRlc3RlZCEpQsUBQmVzdCBPdmVyYWxsOiA8Yj5Tb255IFdGLTEwMDBYTTY8L2I-ICZtaWRkb3Q7IFNlZSBvdXIgRnVsbCBTb255IFdGLTEwMDBYTTYgUmV2aWV3IG9uIFlvdVR1YmUgYmVsb3cgJm1pZGRvdDsgUnVubmVyIFVwICMxOiBUZWNobmljcyBFQUgtQVoxMDAgJm1pZGRvdDsg4oCcQmVzdCBPdmVyYWxs4oCdIEhvbm9yYWJsZSBNZW50aW9uczombmJzcDsuLi5SBGJlc3QiAhABSAFYAGgA",
+      "source": "RecordingNOW.com",
+      "read_more_link": "https://recordingnow.com/blog/best-wireless-noise-cancelling-earbuds/#:~:text=Best%20Overall%3A%20Sony%20WF%2D1000XM6&text=See%20our%20Full%20Sony%20WF%2D1000XM6,Review%20on%20YouTube%20below&text=Runner%20Up%20%231%3A%20Technics%20EAH%2DAZ100&text=%E2%80%9CBest%20Overall%E2%80%9D%20Honorable%20Mentions%3A%20AirPods,Pro%2C%20Huawei%20Freebuds%20Pro%205"
+    },
+    {
+      "position": 2,
+      "title": "The 5 Best Noise Cancelling Earbuds of 2026",
+      "link": "https://www.rtings.com/headphones/reviews/best/noise-cancelling-earbuds",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAV_AhVm8YTYHSecl__wAIoj11ezKcqlk0kZXLLr_2CyHvufkQC-dH-6T_L6e8VH0s9MOV3EcwfyolDWp1HamLqDJfVQVy-YlIRVJpqa6aBlXjZ3cYMd4-ippT1llt_eH_E7qO9e9QgWf6DmLhGon5qrVdZ5UVI4HzEK9g&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://www.rtings.com › Headphones › Best",
+      "date": "Aug 10, 2026",
+      "snippet": "The best noise cancelling earbuds we've tested are the Sony WF-1000XM6. the Anker Soundcore Liberty 5 Pro, the best in-ear noise cancelling ...",
+      "snippet_highlighted_words": [
+        "Sony WF-1000XM6"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The best noise cancelling earbuds we've tested are the Sony WF-1000XM6. the Anker Soundcore Liberty 5 Pro, the best in-ear noise cancelling ...",
+          "source_info_link": "https://www.rtings.com/headphones/reviews/best/noise-cancelling-earbuds",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEVHcEzwZWXpAADoAADuSkrjAADnAADnAADoAADxcnLoAADqHx_oAADoAADoAADpAADpLsn____pAADsLi76ycnnAAD_9PT95OTqExP5vb372trziorsPDz2pKT3sLDvWFj5wsL1mJie108DAAAAEHRSTlMA_Zhg_w0yWWf-9vofR6-gkCts8AAAANBJREFUKJHl0c1uwyAQBGBTk9SLk0YDLNj8Gb__SxacRDnlmh46pxWfxEi7w_BPcv5-l_E03Iothmy1FPfZJios18xMNfJ5-HIh-K3CitUa5Oi1C65IWFBHkaA1Enf00RvoaKNju3fM2fECeSDWhkZsBoX7tx7YX4hgIOFZoB6dJKCfmDvqPZgt3TtJvlB2NCVEp30-cLtjbbgEzxagxQGpoTAzKUWzknIhThsrIZWahWmdp57rNI0__Eibp0t_fezwOo3j-Fxbm6fLn5700_kFS6IUSXkiQvMAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVl9BaFZtOFlUWUhTZWNsX193QUlvajExZXpLY3FsazBrWlhMTHJfMkN5SHZ1ZmtRQy1kSC02VF9MNmU4VkgwczlNT1YzRWN3ZnlvbERXcDFIYW1McURKZlZRVnktWWxJUlZKcHFhNmFCbFhqWjNjWU1kNC1pcHBUMWxsdF9lSF9FN3FPOWU5UWdXZjZEbUxoR29uNXFyVmRaNVVWSTRIekVLOWcSBBoCCAAauQYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCTBggAEAAYACAAKkAKA3RvcBWBQXI_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGghncmVhdGVzdBoGcmV2aWV3GgdyZXZpZXdzKigKBW5vaXNlFVZe1UAaDm5vaXNlY2FuY2VsaW5nGgppdjtwO25vaXNlKnQKCWNhbmNlbGluZxUAAAAAGg1jYW4gY2FuY2VsIG15GgZjYW5jZWwaCWNhbmNlbGxlZBoVY2FuY2VsbGluZyBoZWFkcGhvbmVzGglpc29sYXRpbmcaDm5vaXNlY2FuY2VsaW5nGg5pdjtwO2NhbmNlbGluZyovCgh3aXJlbGVzcxVBhVZAGg93aXJlbGVzc2VhcmJ1ZHMaDWl2O3A7d2lyZWxlc3MqSgoHZWFyYnVkcxU89dBAGghlYXIgYnVkcxoGZWFyYnVkGgllYXJwaG9uZXMaD3dpcmVsZXNzZWFyYnVkcxoMaXY7cDtlYXJidWRzMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVl9BaFZtOFlUWUhTZWNsX193QUlvajExZXpLY3FsazBrWlhMTHJfMkN5SHZ1ZmtRQy1kSC02VF9MNmU4VkgwczlNT1YzRWN3ZnlvbERXcDFIYW1McURKZlZRVnktWWxJUlZKcHFhNmFCbFhqWjNjWU1kNC1pcHBUMWxsdF9lSF9FN3FPOWU5UWdXZjZEbUxoR29uNXFyVmRaNVVWSTRIekVLOWc6RlRoZSA1IDxiPkJlc3QgTm9pc2U8L2I-IENhbmNlbGxpbmcgPGI-RWFyYnVkczwvYj4gb2YgMjAyNiAtIFJUSU5HUy5jb21CnwFUaGUgYmVzdCBub2lzZSBjYW5jZWxsaW5nIGVhcmJ1ZHMgd2UmIzM5O3ZlIHRlc3RlZCBhcmUgdGhlIDxiPlNvbnkgV0YtMTAwMFhNNjwvYj4uIHRoZSBBbmtlciBTb3VuZGNvcmUgTGliZXJ0eSA1IFBybywgdGhlIGJlc3QgaW4tZWFyIG5vaXNlIGNhbmNlbGxpbmcmbmJzcDsuLi5SBGJlc3QiAhABSAFYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVl9BaFZtOFlUWUhTZWNsX193QUlvajExZXpLY3FsazBrWlhMTHJfMkN5SHZ1ZmtRQy1kSC02VF9MNmU4VkgwczlNT1YzRWN3ZnlvbERXcDFIYW1McURKZlZRVnktWWxJUlZKcHFhNmFCbFhqWjNjWU1kNC1pcHBUMWxsdF9lSF9FN3FPOWU5UWdXZjZEbUxoR29uNXFyVmRaNVVWSTRIekVLOWcSBBoCCAAauQYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCTBggAEAAYACAAKkAKA3RvcBWBQXI_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGghncmVhdGVzdBoGcmV2aWV3GgdyZXZpZXdzKigKBW5vaXNlFVZe1UAaDm5vaXNlY2FuY2VsaW5nGgppdjtwO25vaXNlKnQKCWNhbmNlbGluZxUAAAAAGg1jYW4gY2FuY2VsIG15GgZjYW5jZWwaCWNhbmNlbGxlZBoVY2FuY2VsbGluZyBoZWFkcGhvbmVzGglpc29sYXRpbmcaDm5vaXNlY2FuY2VsaW5nGg5pdjtwO2NhbmNlbGluZyovCgh3aXJlbGVzcxVBhVZAGg93aXJlbGVzc2VhcmJ1ZHMaDWl2O3A7d2lyZWxlc3MqSgoHZWFyYnVkcxU89dBAGghlYXIgYnVkcxoGZWFyYnVkGgllYXJwaG9uZXMaD3dpcmVsZXNzZWFyYnVkcxoMaXY7cDtlYXJidWRzMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVl9BaFZtOFlUWUhTZWNsX193QUlvajExZXpLY3FsazBrWlhMTHJfMkN5SHZ1ZmtRQy1kSC02VF9MNmU4VkgwczlNT1YzRWN3ZnlvbERXcDFIYW1McURKZlZRVnktWWxJUlZKcHFhNmFCbFhqWjNjWU1kNC1pcHBUMWxsdF9lSF9FN3FPOWU5UWdXZjZEbUxoR29uNXFyVmRaNVVWSTRIekVLOWc6RlRoZSA1IDxiPkJlc3QgTm9pc2U8L2I-IENhbmNlbGxpbmcgPGI-RWFyYnVkczwvYj4gb2YgMjAyNiAtIFJUSU5HUy5jb21CnwFUaGUgYmVzdCBub2lzZSBjYW5jZWxsaW5nIGVhcmJ1ZHMgd2UmIzM5O3ZlIHRlc3RlZCBhcmUgdGhlIDxiPlNvbnkgV0YtMTAwMFhNNjwvYj4uIHRoZSBBbmtlciBTb3VuZGNvcmUgTGliZXJ0eSA1IFBybywgdGhlIGJlc3QgaW4tZWFyIG5vaXNlIGNhbmNlbGxpbmcmbmJzcDsuLi5SBGJlc3QiAhABSAFYAGgA",
+      "source": "RTINGS.com"
+    },
+    {
+      "position": 3,
+      "title": "Best noise cancelling earbuds people actually recommend ...",
+      "link": "https://www.reddit.com/r/digitalnomad/comments/1rzsw7o/best_noise_cancelling_earbuds_people_actually/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFYZSoNm4w2w28oQp-CNOpS3v31mYDn7sJOwgX_gHZa8hl8EYSX5DLTG8cZvv6gaCnUJTSpr3FZBGL4XpE07tlFFOrgyOB04_IRoAE0EfmhJg_u5Dc1oZSgXe5c3wCa3FEOfzix6jflA_u_FUnzlC-qB6pCocO-dDw01dSsVGWKJ5t2tb7zVxbV0uRw0U26r1QUij38vvV8S6&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQFnoECDgQAQ&uoh=1",
+      "displayed_link": "20+ comments · 6 months ago",
+      "snippet": "A lot of ANC earbuds look great on paper now, but once you actually start using them every day, comfort, fit, and real-world noise cancelling matter ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What are the best noise cancelling earbuds right ...",
+            "link": "https://www.reddit.com/r/Earbuds/comments/1d0lm74/what_are_the_best_noise_cancelling_earbuds_right/",
+            "answer_count": 281,
+            "date": "May 25, 2024"
+          },
+          {
+            "title": "Which earbuds have the best Noise Cancelling ...",
+            "link": "https://www.reddit.com/r/bose/comments/1kprse6/which_earbuds_have_the_best_noise_cancelling/",
+            "answer_count": 56,
+            "date": "May 18, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Best Noise Cancelling Earbuds Worth Looking at in 2026 · Sony WF-1000XM6 · Bose QuietComfort Ultra Earbuds (2nd Gen) · Technics EAH-AZ100 · Nothing ...",
+          "source_info_link": "https://www.reddit.com/r/digitalnomad/comments/1rzsw7o/best_noise_cancelling_earbuds_people_actually/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZZWlNvTm00dzJ3MjhvUXAtQ05PcFMzdjMxbVlEbjdzSk93Z1hfZ0haYThobDhFWVNYNURMVEc4Y1p2djZnYUNuVUpUU3ByM0ZaQkdMNFhwRTA3dGxGRk9yZ3lPQjA0X0lSb0FFMEVmbWhKZ191NURjMW9aU2dYZTVjM3dDYTNGRU9meml4NmpmbEFfdV9GVW56bEMtcUI2cENvY08tZER3MDFkU3NWR1dLSjV0MnRiN3pWeGJWMHVSdzBVMjZyMVFVaWozOHZ2VjhTNhIEGgIIABqDBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDfBggAEAAYACAAKkAKA3RvcBUAAAAAGgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGghncmVhdGVzdBoGcmV2aWV3GgdyZXZpZXdzKigKBW5vaXNlFRQ_okAaDm5vaXNlY2FuY2VsaW5nGgppdjtwO25vaXNlKnQKCWNhbmNlbGluZxUCruw-Gg1jYW4gY2FuY2VsIG15GgZjYW5jZWwaCWNhbmNlbGxlZBoVY2FuY2VsbGluZyBoZWFkcGhvbmVzGglpc29sYXRpbmcaDm5vaXNlY2FuY2VsaW5nGg5pdjtwO2NhbmNlbGluZyovCgh3aXJlbGVzcxXY428-Gg93aXJlbGVzc2VhcmJ1ZHMaDWl2O3A7d2lyZWxlc3MqSgoHZWFyYnVkcxVyRZpAGghlYXIgYnVkcxoGZWFyYnVkGgllYXJwaG9uZXMaD3dpcmVsZXNzZWFyYnVkcxoMaXY7cDtlYXJidWRzMuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZZWlNvTm00dzJ3MjhvUXAtQ05PcFMzdjMxbVlEbjdzSk93Z1hfZ0haYThobDhFWVNYNURMVEc4Y1p2djZnYUNuVUpUU3ByM0ZaQkdMNFhwRTA3dGxGRk9yZ3lPQjA0X0lSb0FFMEVmbWhKZ191NURjMW9aU2dYZTVjM3dDYTNGRU9meml4NmpmbEFfdV9GVW56bEMtcUI2cENvY08tZER3MDFkU3NWR1dLSjV0MnRiN3pWeGJWMHVSdzBVMjZyMVFVaWozOHZ2VjhTNjpJPGI-QmVzdCBub2lzZTwvYj4gY2FuY2VsbGluZyA8Yj5lYXJidWRzPC9iPiBwZW9wbGUgYWN0dWFsbHkgcmVjb21tZW5kIC4uLkK_AUJlc3QgTm9pc2UgQ2FuY2VsbGluZyBFYXJidWRzIFdvcnRoIExvb2tpbmcgYXQgaW4gMjAyNiAmbWlkZG90OyA8Yj5Tb255IFdGLTEwMDBYTTY8L2I-ICZtaWRkb3Q7IEJvc2UgUXVpZXRDb21mb3J0IFVsdHJhIEVhcmJ1ZHMgKDJuZCBHZW4pICZtaWRkb3Q7IFRlY2huaWNzIEVBSC1BWjEwMCAmbWlkZG90OyBOb3RoaW5nJm5ic3A7Li4uUgRiZXN0IgIQAUgBWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZZWlNvTm00dzJ3MjhvUXAtQ05PcFMzdjMxbVlEbjdzSk93Z1hfZ0haYThobDhFWVNYNURMVEc4Y1p2djZnYUNuVUpUU3ByM0ZaQkdMNFhwRTA3dGxGRk9yZ3lPQjA0X0lSb0FFMEVmbWhKZ191NURjMW9aU2dYZTVjM3dDYTNGRU9meml4NmpmbEFfdV9GVW56bEMtcUI2cENvY08tZER3MDFkU3NWR1dLSjV0MnRiN3pWeGJWMHVSdzBVMjZyMVFVaWozOHZ2VjhTNhIEGgIIABqDBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDfBggAEAAYACAAKkAKA3RvcBUAAAAAGgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGghncmVhdGVzdBoGcmV2aWV3GgdyZXZpZXdzKigKBW5vaXNlFRQ_okAaDm5vaXNlY2FuY2VsaW5nGgppdjtwO25vaXNlKnQKCWNhbmNlbGluZxUCruw-Gg1jYW4gY2FuY2VsIG15GgZjYW5jZWwaCWNhbmNlbGxlZBoVY2FuY2VsbGluZyBoZWFkcGhvbmVzGglpc29sYXRpbmcaDm5vaXNlY2FuY2VsaW5nGg5pdjtwO2NhbmNlbGluZyovCgh3aXJlbGVzcxXY428-Gg93aXJlbGVzc2VhcmJ1ZHMaDWl2O3A7d2lyZWxlc3MqSgoHZWFyYnVkcxVyRZpAGghlYXIgYnVkcxoGZWFyYnVkGgllYXJwaG9uZXMaD3dpcmVsZXNzZWFyYnVkcxoMaXY7cDtlYXJidWRzMuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZZWlNvTm00dzJ3MjhvUXAtQ05PcFMzdjMxbVlEbjdzSk93Z1hfZ0haYThobDhFWVNYNURMVEc4Y1p2djZnYUNuVUpUU3ByM0ZaQkdMNFhwRTA3dGxGRk9yZ3lPQjA0X0lSb0FFMEVmbWhKZ191NURjMW9aU2dYZTVjM3dDYTNGRU9meml4NmpmbEFfdV9GVW56bEMtcUI2cENvY08tZER3MDFkU3NWR1dLSjV0MnRiN3pWeGJWMHVSdzBVMjZyMVFVaWozOHZ2VjhTNjpJPGI-QmVzdCBub2lzZTwvYj4gY2FuY2VsbGluZyA8Yj5lYXJidWRzPC9iPiBwZW9wbGUgYWN0dWFsbHkgcmVjb21tZW5kIC4uLkK_AUJlc3QgTm9pc2UgQ2FuY2VsbGluZyBFYXJidWRzIFdvcnRoIExvb2tpbmcgYXQgaW4gMjAyNiAmbWlkZG90OyA8Yj5Tb255IFdGLTEwMDBYTTY8L2I-ICZtaWRkb3Q7IEJvc2UgUXVpZXRDb21mb3J0IFVsdHJhIEVhcmJ1ZHMgKDJuZCBHZW4pICZtaWRkb3Q7IFRlY2huaWNzIEVBSC1BWjEwMCAmbWlkZG90OyBOb3RoaW5nJm5ic3A7Li4uUgRiZXN0IgIQAUgBWABoAA",
+      "source": "Reddit · r/digitalnomad"
+    },
+    {
+      "position": 4,
+      "title": "The Best Noise Cancelling Earbuds of 2026",
+      "link": "https://www.audiophileon.com/news/best-noise-cancelling-earbuds-earphones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFav505YAECmpBWwtaA8l8MpQ6vCeO9bulrkUqyhoNEY92bNiBdeVBbwDgRs3GQjOTyFPnrmQuE9Jw3A6JbLLfo_A9BnVUnKD3HRQ68uMxIA0oCPF1NnxKgmuKfo1stJRzq4i8uIK32MYFhQB_w6H9iNGsPMeoZNqAKXXADk&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQFnoECDMQAQ&uoh=1",
+      "displayed_link": "https://www.audiophileon.com › news › best-noise-cance...",
+      "date": "May 23, 2026",
+      "snippet": "The Best Noise Cancelling Earbuds of 2026 · 1. Apple Airpods Pro 3 · 2. Sony WF-1000XM6 · 3. Sony WF-1000XM5 · 4. Bose QuietComfort Ultra · 5.",
+      "snippet_highlighted_words": [
+        "1. Apple Airpods Pro 3"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Best Noise Cancelling Earbuds of 2026 · 1. Apple Airpods Pro 3 · 2. Sony WF-1000XM6 · 3. Sony WF-1000XM5 · 4. Bose QuietComfort Ultra · 5.",
+          "source_info_link": "https://www.audiophileon.com/news/best-noise-cancelling-earbuds-earphones",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAY1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgICALCws3NzcAAABXV1csLCxvb29BQUEAAAAAAABJSUlRUVEVFRVhYWGcnJyIiIjU1NT___8AAACmpqaRkZG8vLzn5-d7e3v3LcAJAAAAHHRSTlMAAk2Tyur_Gab____g_____yn6__________8BTmCnKgAAAaZJREFUeAFk0wd2wyAQAFG5jY0wJVlAqOv-p8wDx_2rF3apzdNufzie4HQ87HfNt_OFF5dz8-EAoFq0VloBHN6LXwGljcUY7TzF9SXIzy9YCcoLwYhYHwF-fx7lf0FEvA4GEZNsNKb-cY9xBe-0mJAs0FpAuZrlUT8tOpkQeeEeNT2DCsEbAZBOv_1RklzAi3iK3A_ZOSplgEvTjGCDCQIw0Q1C66hMBMZmXwPUh2yZBoEYKOplX6rovQjATFzWGfBUqVbziBUJCogbee27BFpRRGk5Nie0mJqBjWlI0_aIsPSJUwNaS6DITNOyONCaYusMNBCC8S1AkK0fFg-4-uw6DSWF1okiGrY-AMlQTEvmVCoZXK0kSqAH6BTFnOHYHFCib9XWFmarIFO082I5lI7iVgWdAe-7LSeK3G-lo8Z7t5MiReLOBRjLYD2-VZqbLgOX23CD4yFSudx7ON8ndHS8C_36nNrX-kfkRTfPCa4vkxZSaLnxaekWXSbt67QHZVI7T12e-rkP5fvP-8IpfF7XvM3Zvi-c4kARY3JKURz-RmzmJZj9ASRxJCYWQehiAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZhdjUwNVlBRUNtcEJXd3RhQThsOE1wUTZ2Q2VPOWJ1bHJrVXF5aG9ORVk5MmJOaUJkZVZCYndEZ1JzM0dRak9UeUZQbnJtUXVFOUp3M0E2SmJMTGZvX0E5Qm5WVW5LRDNIUlE2OHVNeElBMG9DUEYxTm54S2dtdUtmbzFzdEpSenE0aTh1SUszMk1ZRmhRQl93Nkg5aU5Hc1BNZW9aTnFBS1hYQURrEgQaAggAGtcGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsQYIABAAGAAgACpACgN0b3AVAnViPxoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoIZ3JlYXRlc3QaBnJldmlldxoHcmV2aWV3cyooCgVub2lzZRXJxMtAGg5ub2lzZWNhbmNlbGluZxoKaXY7cDtub2lzZSp0CgljYW5jZWxpbmcVshs8QBoNY2FuIGNhbmNlbCBteRoGY2FuY2VsGgljYW5jZWxsZWQaFWNhbmNlbGxpbmcgaGVhZHBob25lcxoJaXNvbGF0aW5nGg5ub2lzZWNhbmNlbGluZxoOaXY7cDtjYW5jZWxpbmcqLwoId2lyZWxlc3MVuLwYQBoPd2lyZWxlc3NlYXJidWRzGg1pdjtwO3dpcmVsZXNzKkoKB2VhcmJ1ZHMVhQm_QBoIZWFyIGJ1ZHMaBmVhcmJ1ZBoJZWFycGhvbmVzGg93aXJlbGVzc2VhcmJ1ZHMaDGl2O3A7ZWFyYnVkczK9AS9nb3RvP3VybD1DQUVTZ1FFQjZ6c3dGYXY1MDVZQUVDbXBCV3d0YUE4bDhNcFE2dkNlTzlidWxya1VxeWhvTkVZOTJiTmlCZGVWQmJ3RGdSczNHUWpPVHlGUG5ybVF1RTlKdzNBNkpiTExmb19BOUJuVlVuS0QzSFJRNjh1TXhJQTBvQ1BGMU5ueEtnbXVLZm8xc3RKUnpxNGk4dUlLMzJNWUZoUUJfdzZIOWlOR3NQTWVvWk5xQUtYWEFEazpHVGhlIDxiPkJlc3QgTm9pc2U8L2I-IENhbmNlbGxpbmcgPGI-RWFyYnVkczwvYj4gb2YgMjAyNiAtIEF1ZGlvcGhpbGUgT05CuAFUaGUgQmVzdCBOb2lzZSBDYW5jZWxsaW5nIEVhcmJ1ZHMgb2YgMjAyNiAmbWlkZG90OyA8Yj4xLiBBcHBsZSBBaXJwb2RzIFBybyAzPC9iPiAmbWlkZG90OyAyLiBTb255IFdGLTEwMDBYTTYgJm1pZGRvdDsgMy4gU29ueSBXRi0xMDAwWE01ICZtaWRkb3Q7IDQuIEJvc2UgUXVpZXRDb21mb3J0IFVsdHJhICZtaWRkb3Q7IDUuUgRiZXN0IgIQAUgBWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZhdjUwNVlBRUNtcEJXd3RhQThsOE1wUTZ2Q2VPOWJ1bHJrVXF5aG9ORVk5MmJOaUJkZVZCYndEZ1JzM0dRak9UeUZQbnJtUXVFOUp3M0E2SmJMTGZvX0E5Qm5WVW5LRDNIUlE2OHVNeElBMG9DUEYxTm54S2dtdUtmbzFzdEpSenE0aTh1SUszMk1ZRmhRQl93Nkg5aU5Hc1BNZW9aTnFBS1hYQURrEgQaAggAGtcGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsQYIABAAGAAgACpACgN0b3AVAnViPxoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoIZ3JlYXRlc3QaBnJldmlldxoHcmV2aWV3cyooCgVub2lzZRXJxMtAGg5ub2lzZWNhbmNlbGluZxoKaXY7cDtub2lzZSp0CgljYW5jZWxpbmcVshs8QBoNY2FuIGNhbmNlbCBteRoGY2FuY2VsGgljYW5jZWxsZWQaFWNhbmNlbGxpbmcgaGVhZHBob25lcxoJaXNvbGF0aW5nGg5ub2lzZWNhbmNlbGluZxoOaXY7cDtjYW5jZWxpbmcqLwoId2lyZWxlc3MVuLwYQBoPd2lyZWxlc3NlYXJidWRzGg1pdjtwO3dpcmVsZXNzKkoKB2VhcmJ1ZHMVhQm_QBoIZWFyIGJ1ZHMaBmVhcmJ1ZBoJZWFycGhvbmVzGg93aXJlbGVzc2VhcmJ1ZHMaDGl2O3A7ZWFyYnVkczK9AS9nb3RvP3VybD1DQUVTZ1FFQjZ6c3dGYXY1MDVZQUVDbXBCV3d0YUE4bDhNcFE2dkNlTzlidWxya1VxeWhvTkVZOTJiTmlCZGVWQmJ3RGdSczNHUWpPVHlGUG5ybVF1RTlKdzNBNkpiTExmb19BOUJuVlVuS0QzSFJRNjh1TXhJQTBvQ1BGMU5ueEtnbXVLZm8xc3RKUnpxNGk4dUlLMzJNWUZoUUJfdzZIOWlOR3NQTWVvWk5xQUtYWEFEazpHVGhlIDxiPkJlc3QgTm9pc2U8L2I-IENhbmNlbGxpbmcgPGI-RWFyYnVkczwvYj4gb2YgMjAyNiAtIEF1ZGlvcGhpbGUgT05CuAFUaGUgQmVzdCBOb2lzZSBDYW5jZWxsaW5nIEVhcmJ1ZHMgb2YgMjAyNiAmbWlkZG90OyA8Yj4xLiBBcHBsZSBBaXJwb2RzIFBybyAzPC9iPiAmbWlkZG90OyAyLiBTb255IFdGLTEwMDBYTTYgJm1pZGRvdDsgMy4gU29ueSBXRi0xMDAwWE01ICZtaWRkb3Q7IDQuIEJvc2UgUXVpZXRDb21mb3J0IFVsdHJhICZtaWRkb3Q7IDUuUgRiZXN0IgIQAUgBWABoAA",
+      "source": "Audiophile ON",
+      "read_more_link": "https://www.audiophileon.com/news/best-noise-cancelling-earbuds-earphones#:~:text=The%20Best%20Noise%20Cancelling%20Earbuds,of%202026&text=1.%20Apple%20Airpods%20Pro%203&text=2.%20Sony%20WF%2D1000XM6&text=3.%20Sony%20WF%2D1000XM5&text=4.%20Bose%20QuietComfort%20Ultra&text=5.%20SOundcore%20Liberty%204%20by"
+    },
+    {
+      "position": 5,
+      "title": "The best wireless earbuds of 2026: Lab-tested by experts",
+      "link": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVlA0L33b8ImelbUoo_cAr_sIbZgnkLtK_agKKgSKyVT0zMa27yLEDtNRmBh-cW_39niSuHjfIcvWE-5mrs5QVnRQ2BXDPcm4ID--elqV5TvY9aUVNMbOqbtb0tgJM2qEzuW-mOdAj1cP8YFw&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQFnoECDIQAQ&uoh=1",
+      "displayed_link": "https://www.soundguys.com › Earbuds & headphones",
+      "date": "Sep 11, 2026",
+      "snippet": "The AirPods Pro 3 have the best noise canceling we've ever measured, pair instantly with your iPhone, and switch automatically between your ...",
+      "snippet_highlighted_words": [
+        "AirPods Pro 3"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The AirPods Pro 3 have the best noise canceling we've ever measured, pair instantly with your iPhone, and switch automatically between your ...",
+          "source_info_link": "https://www.soundguys.com/best-wireless-earbuds-2-14313/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEX____-_v7K1uNxkrR4mLj4-fv-_v9qjbH8_f37_P3v8_YmWY2OqMOBnr1VfKWiuM7P2ubk6vE5Z5dNd6KpvdJghauHo8DV3-mascoPR4EAO3nq7_QnWo4EP3u3x9kALG5GcJ2-zdzEjqfiAAAAn0lEQVR4AT3MxQHDQBDAQJkuuwdmZvdfZDiZl17iI4qTNMPwZ-CWEvElimKdRwGyLAIwhJx3FSVVqJu26vpiQGCM_TRPc5O4fikyYFhdmLZ5ty4MpQXCcaPsd6E5fUsE-xFQMFR13WJAfIWqslTVpYBS9AjKGF8lAhj8K6paL48AYL0xQ32yuPcDoW2aLgTYu4E3XYZi3FF-IiIZFxCFB02QCPOdzlqCAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVmxBMEwzM2I4SW1lbGJVb29fY0FyX3NJYlpnbmtMdEtfYWdLS2dTS3lWVDB6TWEyN3lMRUR0TlJtQmgtY1dfMzluaVN1SGpmSWN2V0UtNW1yczVRVm5SUTJCWERQY200SUQtLWVscVY1VHZZOWFVVk5NYk9xYnRiMHRnSk0ycUV6dVctbU9kQWoxY1A4WUZ3EgQaAggAGp4GEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA-AUIABAAGAAgACpACgN0b3AVZa4aPxoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoIZ3JlYXRlc3QaBnJldmlldxoHcmV2aWV3cyooCgVub2lzZRXfiQJAGg5ub2lzZWNhbmNlbGluZxoKaXY7cDtub2lzZSp0CgljYW5jZWxpbmcVwQuwPxoNY2FuIGNhbmNlbCBteRoGY2FuY2VsGgljYW5jZWxsZWQaFWNhbmNlbGxpbmcgaGVhZHBob25lcxoJaXNvbGF0aW5nGg5ub2lzZWNhbmNlbGluZxoOaXY7cDtjYW5jZWxpbmcqLwoId2lyZWxlc3MVmDqrQBoPd2lyZWxlc3NlYXJidWRzGg1pdjtwO3dpcmVsZXNzKkoKB2VhcmJ1ZHMVMI-5QBoIZWFyIGJ1ZHMaBmVhcmJ1ZBoJZWFycGhvbmVzGg93aXJlbGVzc2VhcmJ1ZHMaDGl2O3A7ZWFyYnVkczKlAS9nb3RvP3VybD1DQUVTY0FIck96QVZsQTBMMzNiOEltZWxiVW9vX2NBcl9zSWJaZ25rTHRLX2FnS0tnU0t5VlQwek1hMjd5TEVEdE5SbUJoLWNXXzM5bmlTdUhqZkljdldFLTVtcnM1UVZuUlEyQlhEUGNtNElELS1lbHFWNVR2WTlhVVZOTWJPcWJ0YjB0Z0pNMnFFenVXLW1PZEFqMWNQOFlGdzo_VGhlIDxiPmJlc3Qgd2lyZWxlc3MgZWFyYnVkczwvYj4gb2YgMjAyNjogTGFiLXRlc3RlZCBieSBleHBlcnRzQp8BVGhlIDxiPkFpclBvZHMgUHJvIDM8L2I-IGhhdmUgdGhlIGJlc3Qgbm9pc2UgY2FuY2VsaW5nIHdlJiMzOTt2ZSBldmVyIG1lYXN1cmVkLCBwYWlyIGluc3RhbnRseSB3aXRoIHlvdXIgaVBob25lLCBhbmQgc3dpdGNoIGF1dG9tYXRpY2FsbHkgYmV0d2VlbiB5b3VyJm5ic3A7Li4uUgRiZXN0IgIQAUgBWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVmxBMEwzM2I4SW1lbGJVb29fY0FyX3NJYlpnbmtMdEtfYWdLS2dTS3lWVDB6TWEyN3lMRUR0TlJtQmgtY1dfMzluaVN1SGpmSWN2V0UtNW1yczVRVm5SUTJCWERQY200SUQtLWVscVY1VHZZOWFVVk5NYk9xYnRiMHRnSk0ycUV6dVctbU9kQWoxY1A4WUZ3EgQaAggAGp4GEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA-AUIABAAGAAgACpACgN0b3AVZa4aPxoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoIZ3JlYXRlc3QaBnJldmlldxoHcmV2aWV3cyooCgVub2lzZRXfiQJAGg5ub2lzZWNhbmNlbGluZxoKaXY7cDtub2lzZSp0CgljYW5jZWxpbmcVwQuwPxoNY2FuIGNhbmNlbCBteRoGY2FuY2VsGgljYW5jZWxsZWQaFWNhbmNlbGxpbmcgaGVhZHBob25lcxoJaXNvbGF0aW5nGg5ub2lzZWNhbmNlbGluZxoOaXY7cDtjYW5jZWxpbmcqLwoId2lyZWxlc3MVmDqrQBoPd2lyZWxlc3NlYXJidWRzGg1pdjtwO3dpcmVsZXNzKkoKB2VhcmJ1ZHMVMI-5QBoIZWFyIGJ1ZHMaBmVhcmJ1ZBoJZWFycGhvbmVzGg93aXJlbGVzc2VhcmJ1ZHMaDGl2O3A7ZWFyYnVkczKlAS9nb3RvP3VybD1DQUVTY0FIck96QVZsQTBMMzNiOEltZWxiVW9vX2NBcl9zSWJaZ25rTHRLX2FnS0tnU0t5VlQwek1hMjd5TEVEdE5SbUJoLWNXXzM5bmlTdUhqZkljdldFLTVtcnM1UVZuUlEyQlhEUGNtNElELS1lbHFWNVR2WTlhVVZOTWJPcWJ0YjB0Z0pNMnFFenVXLW1PZEFqMWNQOFlGdzo_VGhlIDxiPmJlc3Qgd2lyZWxlc3MgZWFyYnVkczwvYj4gb2YgMjAyNjogTGFiLXRlc3RlZCBieSBleHBlcnRzQp8BVGhlIDxiPkFpclBvZHMgUHJvIDM8L2I-IGhhdmUgdGhlIGJlc3Qgbm9pc2UgY2FuY2VsaW5nIHdlJiMzOTt2ZSBldmVyIG1lYXN1cmVkLCBwYWlyIGluc3RhbnRseSB3aXRoIHlvdXIgaVBob25lLCBhbmQgc3dpdGNoIGF1dG9tYXRpY2FsbHkgYmV0d2VlbiB5b3VyJm5ic3A7Li4uUgRiZXN0IgIQAUgBWABoAA",
+      "source": "SoundGuys",
+      "read_more_link": "https://www.soundguys.com/best-wireless-earbuds-2-14313/#:~:text=How%20has%20this%20article%20been"
+    },
+    {
+      "position": 6,
+      "title": "The 4 Best Noise-Cancelling Headphones of 2026",
+      "link": "https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFdUjvOyhHh6wj4mejxy3XnXUoAt39kx-47cy9ukBuC8KoJqwkG8byJPxJXcKpXuab_lEs6PN0S-wWoUAZe_8cNPalk3RnpBSrXs9sSP_-SXn80q6ijj2aXtdPumlzS9tSrgyjGcCM0fTUZ11q1052HQKxPL7KuQsrMn2l_usK0E&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQFnoECF8QAQ&uoh=1",
+      "displayed_link": "https://www.nytimes.com › Electronics › Headphones",
+      "date": "Sep 11, 2026",
+      "snippet": "The EarFun Air Pro 4 is an affordable pair of wireless earbuds that provides good ANC on a par with sets that cost hundreds more. The sound ...",
+      "snippet_highlighted_words": [
+        "EarFun Air Pro 4"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The EarFun Air Pro 4 is an affordable pair of wireless earbuds that provides good ANC on a par with sets that cost hundreds more. The sound ...",
+          "source_info_link": "https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAABPklEQVR4AX3QIWyEMBiG4c9V18wn2PMJ6rxY8BY3h0_m0NizuHO400hsNQ4LOygtbVLVQflBLAtvQhq-J6ko7EUwF13jcmTWtsM6a2jCac5758wyN4_O_UE75nGcVZN3voKwhDq0jByMAUifdYLE7SuhK7DGOMfW_UAVcimyMr8D4JzjYfeV0D5u3jdV-0wAfJMdqEzR3r98X4ilGZyiMO-ZFlGbAY0V8xmhGrbbwND4Z2dOlCGbY90ZhygBoeQeodv2DZsEKM1MOG3JEese0GUvp3oZZsJ5xTKgEVKJWp04TpOLGIs8kHaqGe2tk9s4YQwtBTjSvPPaiC75cPtKOPVgHFHxqqsMKDXhe08157Mj1jTiTWlxAxhjwOcwHfhzNOlXFn_EWW3ex0QYktpYoyX9EQ7r9--B4aJr7C_6Bc8dYlLn_oamAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZkVWp2T3loSGg2d2o0bWVqeHkzWG5YVW9BdDM5a3gtNDdjeTl1a0J1QzhLb0pxd2tHOGJ5SlB4SlhjS3BYdWFiX2xFczZQTjBTLXdXb1VBWmVfOGNOUGFsazNSbnBCU3JYczlzU1BfLVNYbjgwcTZpamoyYVh0ZFB1bWx6Uzl0U3JneWpHY0NNMGZUVVoxMXExMDUySFFLeFBMN0t1UXNyTW4ybF91c0swRRIEGgIIABq-BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJgGCAAQABgAIAAqQAoDdG9wFSwR5j4aBGJlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aCGdyZWF0ZXN0GgZyZXZpZXcaB3Jldmlld3MqKAoFbm9pc2UV_ZpjQBoObm9pc2VjYW5jZWxpbmcaCml2O3A7bm9pc2UqdAoJY2FuY2VsaW5nFZGGrz4aDWNhbiBjYW5jZWwgbXkaBmNhbmNlbBoJY2FuY2VsbGVkGhVjYW5jZWxsaW5nIGhlYWRwaG9uZXMaCWlzb2xhdGluZxoObm9pc2VjYW5jZWxpbmcaDml2O3A7Y2FuY2VsaW5nKi8KCHdpcmVsZXNzFT4oPz8aD3dpcmVsZXNzZWFyYnVkcxoNaXY7cDt3aXJlbGVzcypKCgdlYXJidWRzFSzzdD8aCGVhciBidWRzGgZlYXJidWQaCWVhcnBob25lcxoPd2lyZWxlc3NlYXJidWRzGgxpdjtwO2VhcmJ1ZHMywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RmRVanZPeWhIaDZ3ajRtZWp4eTNYblhVb0F0MzlreC00N2N5OXVrQnVDOEtvSnF3a0c4YnlKUHhKWGNLcFh1YWJfbEVzNlBOMFMtd1dvVUFaZV84Y05QYWxrM1JucEJTclhzOXNTUF8tU1huODBxNmlqajJhWHRkUHVtbHpTOXRTcmd5akdjQ00wZlRVWjExcTEwNTJIUUt4UEw3S3VRc3JNbjJsX3VzSzBFOkdUaGUgPGI-QmVzdCBOb2lzZTwvYj4tPGI-Q2FuY2VsbGluZyBIZWFkcGhvbmVzPC9iPiAtIFRoZSBOZXcgWW9yayBUaW1lc0KbAVRoZSA8Yj5FYXJGdW4gQWlyIFBybyA0PC9iPiBpcyBhbiBhZmZvcmRhYmxlIHBhaXIgb2Ygd2lyZWxlc3MgZWFyYnVkcyB0aGF0IHByb3ZpZGVzIGdvb2QgQU5DIG9uIGEgcGFyIHdpdGggc2V0cyB0aGF0IGNvc3QgaHVuZHJlZHMgbW9yZS4gVGhlIHNvdW5kJm5ic3A7Li4uUgRiZXN0IgIQAUgBWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZkVWp2T3loSGg2d2o0bWVqeHkzWG5YVW9BdDM5a3gtNDdjeTl1a0J1QzhLb0pxd2tHOGJ5SlB4SlhjS3BYdWFiX2xFczZQTjBTLXdXb1VBWmVfOGNOUGFsazNSbnBCU3JYczlzU1BfLVNYbjgwcTZpamoyYVh0ZFB1bWx6Uzl0U3JneWpHY0NNMGZUVVoxMXExMDUySFFLeFBMN0t1UXNyTW4ybF91c0swRRIEGgIIABq-BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJgGCAAQABgAIAAqQAoDdG9wFSwR5j4aBGJlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aCGdyZWF0ZXN0GgZyZXZpZXcaB3Jldmlld3MqKAoFbm9pc2UV_ZpjQBoObm9pc2VjYW5jZWxpbmcaCml2O3A7bm9pc2UqdAoJY2FuY2VsaW5nFZGGrz4aDWNhbiBjYW5jZWwgbXkaBmNhbmNlbBoJY2FuY2VsbGVkGhVjYW5jZWxsaW5nIGhlYWRwaG9uZXMaCWlzb2xhdGluZxoObm9pc2VjYW5jZWxpbmcaDml2O3A7Y2FuY2VsaW5nKi8KCHdpcmVsZXNzFT4oPz8aD3dpcmVsZXNzZWFyYnVkcxoNaXY7cDt3aXJlbGVzcypKCgdlYXJidWRzFSzzdD8aCGVhciBidWRzGgZlYXJidWQaCWVhcnBob25lcxoPd2lyZWxlc3NlYXJidWRzGgxpdjtwO2VhcmJ1ZHMywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RmRVanZPeWhIaDZ3ajRtZWp4eTNYblhVb0F0MzlreC00N2N5OXVrQnVDOEtvSnF3a0c4YnlKUHhKWGNLcFh1YWJfbEVzNlBOMFMtd1dvVUFaZV84Y05QYWxrM1JucEJTclhzOXNTUF8tU1huODBxNmlqajJhWHRkUHVtbHpTOXRTcmd5akdjQ00wZlRVWjExcTEwNTJIUUt4UEw3S3VRc3JNbjJsX3VzSzBFOkdUaGUgPGI-QmVzdCBOb2lzZTwvYj4tPGI-Q2FuY2VsbGluZyBIZWFkcGhvbmVzPC9iPiAtIFRoZSBOZXcgWW9yayBUaW1lc0KbAVRoZSA8Yj5FYXJGdW4gQWlyIFBybyA0PC9iPiBpcyBhbiBhZmZvcmRhYmxlIHBhaXIgb2Ygd2lyZWxlc3MgZWFyYnVkcyB0aGF0IHByb3ZpZGVzIGdvb2QgQU5DIG9uIGEgcGFyIHdpdGggc2V0cyB0aGF0IGNvc3QgaHVuZHJlZHMgbW9yZS4gVGhlIHNvdW5kJm5ic3A7Li4uUgRiZXN0IgIQAUgBWABoAA",
+      "source": "The New York Times",
+      "read_more_link": "https://www.nytimes.com/wirecutter/reviews/best-noise-cancelling-headphones/#:~:text=The%20EarFun%20Air%20Pro%204,get%20from%20more%20expensive%20earbuds."
+    },
+    {
+      "position": 7,
+      "title": "noise cancelling earbuds",
+      "link": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=noise%20cancelling%20earbuds",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFcVeEkb4JeuLyVy1zIKhx4zFBRgiUqVxJKflSTbGo-CfXuwRl3wUvOlEKTjEBrt0vGoLTaGhrDclLMAI_QbzC9JXCf2EHbFrZvR1o8Gyptpq0O-PbKAiqQ72jFijNLQ1xymvJZVPX7Ca7CEF6gcqtUmy5UaLkWNuOOY9iS4Lw44P_Y4bo6RSDXJDbZI&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQFnoECF4QAQ&uoh=1",
+      "displayed_link": "https://www.bestbuy.com › site › searchpage › st=noise c...",
+      "snippet": "Best selling earbuds and in-ear headphones ; Samsung - Galaxy Buds3 Pro Wireless Earbud Headphones. 4.5(3859) · $149.99 ; Beats - Solo Buds True Wireless Earbuds.",
+      "snippet_highlighted_words": [
+        "Samsung - Galaxy Buds3 Pro Wireless Earbud Headphones"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "price_from": 30,
+            "price_to": 599,
+            "currency": "$",
+            "store_nearby_mi": 3.0,
+            "day_returns": 15
+          },
+          "extensions": [
+            "4.6",
+            "store rating (1.8K)",
+            "$30 to $599",
+            "Store nearby (3.0 mi)",
+            "15-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Best selling earbuds and in-ear headphones ; Samsung - Galaxy Buds3 Pro Wireless Earbud Headphones. 4.5(3859) · $149.99 ; Beats - Solo Buds True Wireless Earbuds.",
+          "source_info_link": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=noise%20cancelling%20earbuds",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZjVmVFa2I0SmV1THlWeTF6SUtoeDR6RkJSZ2lVcVZ4SktmbFNUYkdvLUNmWHV3Umwzd1V2T2xFS1RqRUJydDB2R29MVGFHaHJEY2xMTUFJX1FiekM5SlhDZjJFSGJGclp2UjFvOEd5cHRwcTBPLVBiS0FpcVE3MmpGaWpOTFExeHltdkpaVlBYN0NhN0NFRjZnY3F0VW15NVVhTGtXTnVPT1k5aVM0THc0NFBfWTRibzZSU0RYSkRiWkkSBBoCCAAa1AYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCuBggAEAAYACAAKkAKA3RvcBWG0SFAGgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGghncmVhdGVzdBoGcmV2aWV3GgdyZXZpZXdzKigKBW5vaXNlFaNFjkAaDm5vaXNlY2FuY2VsaW5nGgppdjtwO25vaXNlKnQKCWNhbmNlbGluZxW695A_Gg1jYW4gY2FuY2VsIG15GgZjYW5jZWwaCWNhbmNlbGxlZBoVY2FuY2VsbGluZyBoZWFkcGhvbmVzGglpc29sYXRpbmcaDm5vaXNlY2FuY2VsaW5nGg5pdjtwO2NhbmNlbGluZyovCgh3aXJlbGVzcxX0c9U_Gg93aXJlbGVzc2VhcmJ1ZHMaDWl2O3A7d2lyZWxlc3MqSgoHZWFyYnVkcxXKN45AGghlYXIgYnVkcxoGZWFyYnVkGgllYXJwaG9uZXMaD3dpcmVsZXNzZWFyYnVkcxoMaXY7cDtlYXJidWRzMtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZjVmVFa2I0SmV1THlWeTF6SUtoeDR6RkJSZ2lVcVZ4SktmbFNUYkdvLUNmWHV3Umwzd1V2T2xFS1RqRUJydDB2R29MVGFHaHJEY2xMTUFJX1FiekM5SlhDZjJFSGJGclp2UjFvOEd5cHRwcTBPLVBiS0FpcVE3MmpGaWpOTFExeHltdkpaVlBYN0NhN0NFRjZnY3F0VW15NVVhTGtXTnVPT1k5aVM0THc0NFBfWTRibzZSU0RYSkRiWkk6ODxiPm5vaXNlPC9iPiBjYW5jZWxsaW5nIDxiPmVhcmJ1ZHM8L2I-IC0gPGI-QmVzdDwvYj4gQnV5QrABQmVzdCBzZWxsaW5nIGVhcmJ1ZHMgYW5kIGluLWVhciBoZWFkcGhvbmVzIDsgPGI-U2Ftc3VuZyAtIEdhbGF4eSBCdWRzMyBQcm8gV2lyZWxlc3MgRWFyYnVkIEhlYWRwaG9uZXM8L2I-LiA0LjUoMzg1OSkgJm1pZGRvdDsgJDE0OS45OSA7IEJlYXRzIC0gU29sbyBCdWRzIFRydWUgV2lyZWxlc3MgRWFyYnVkcy5SBGJlc3QiAhABSAFYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZjVmVFa2I0SmV1THlWeTF6SUtoeDR6RkJSZ2lVcVZ4SktmbFNUYkdvLUNmWHV3Umwzd1V2T2xFS1RqRUJydDB2R29MVGFHaHJEY2xMTUFJX1FiekM5SlhDZjJFSGJGclp2UjFvOEd5cHRwcTBPLVBiS0FpcVE3MmpGaWpOTFExeHltdkpaVlBYN0NhN0NFRjZnY3F0VW15NVVhTGtXTnVPT1k5aVM0THc0NFBfWTRibzZSU0RYSkRiWkkSBBoCCAAa1AYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCuBggAEAAYACAAKkAKA3RvcBWG0SFAGgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGghncmVhdGVzdBoGcmV2aWV3GgdyZXZpZXdzKigKBW5vaXNlFaNFjkAaDm5vaXNlY2FuY2VsaW5nGgppdjtwO25vaXNlKnQKCWNhbmNlbGluZxW695A_Gg1jYW4gY2FuY2VsIG15GgZjYW5jZWwaCWNhbmNlbGxlZBoVY2FuY2VsbGluZyBoZWFkcGhvbmVzGglpc29sYXRpbmcaDm5vaXNlY2FuY2VsaW5nGg5pdjtwO2NhbmNlbGluZyovCgh3aXJlbGVzcxX0c9U_Gg93aXJlbGVzc2VhcmJ1ZHMaDWl2O3A7d2lyZWxlc3MqSgoHZWFyYnVkcxXKN45AGghlYXIgYnVkcxoGZWFyYnVkGgllYXJwaG9uZXMaD3dpcmVsZXNzZWFyYnVkcxoMaXY7cDtlYXJidWRzMtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZjVmVFa2I0SmV1THlWeTF6SUtoeDR6RkJSZ2lVcVZ4SktmbFNUYkdvLUNmWHV3Umwzd1V2T2xFS1RqRUJydDB2R29MVGFHaHJEY2xMTUFJX1FiekM5SlhDZjJFSGJGclp2UjFvOEd5cHRwcTBPLVBiS0FpcVE3MmpGaWpOTFExeHltdkpaVlBYN0NhN0NFRjZnY3F0VW15NVVhTGtXTnVPT1k5aVM0THc0NFBfWTRibzZSU0RYSkRiWkk6ODxiPm5vaXNlPC9iPiBjYW5jZWxsaW5nIDxiPmVhcmJ1ZHM8L2I-IC0gPGI-QmVzdDwvYj4gQnV5QrABQmVzdCBzZWxsaW5nIGVhcmJ1ZHMgYW5kIGluLWVhciBoZWFkcGhvbmVzIDsgPGI-U2Ftc3VuZyAtIEdhbGF4eSBCdWRzMyBQcm8gV2lyZWxlc3MgRWFyYnVkIEhlYWRwaG9uZXM8L2I-LiA0LjUoMzg1OSkgJm1pZGRvdDsgJDE0OS45OSA7IEJlYXRzIC0gU29sbyBCdWRzIFRydWUgV2lyZWxlc3MgRWFyYnVkcy5SBGJlc3QiAhABSAFYAGgA",
+      "source": "Best Buy",
+      "read_more_link": "https://www.bestbuy.com/site/searchpage.jsp?id=pcat17071&st=noise+cancelling+earbuds#:~:text=Best%20selling%20earbuds%20and%20in%2Dear,headphones&text=Samsung%20%2D%20Galaxy%20Buds3%20Pro,4.5(3859)&text=%2414999&text=Beats%20%2D%20Solo%20Buds%20True,Wireless%20Earbuds"
+    },
+    {
+      "position": 8,
+      "title": "Best Wireless Earbuds of 2026 | Lab Tested & Ranked",
+      "link": "https://www.techgearlab.com/topics/audio/best-wireless-earbuds",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVG0Cu8xMYGPl8ampsIPXovjaQhnyfYUfBUEd0CBkEVNJXnMVgNimhxYSsreWxnx8TpdV_vkuwSndlv_WUwB4vW7VvNGGdGGqF9-0lce3jdCxxMq58BI-g6KYHkHxQbUPLh1XFRXvxjudyAaBXD-2DJEg&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://www.techgearlab.com › ... › Headphone Reviews",
+      "snippet": "The best buds for noise cancellation are the Sony WF-1000XM6 and the Apple AirPods Pro 3, with the Sony WF-1000XM5, and the Bose QuietComfort Ultra (Gen 2) ...",
+      "snippet_highlighted_words": [
+        "Sony WF-1000XM6"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7
+          },
+          "extensions": [
+            "4.7",
+            "Review by Rachael Lamore"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The best buds for noise cancellation are the Sony WF-1000XM6 and the Apple AirPods Pro 3, with the Sony WF-1000XM5, and the Bose QuietComfort Ultra (Gen 2) ...",
+          "source_info_link": "https://www.techgearlab.com/topics/audio/best-wireless-earbuds",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAxlBMVEX____29fXNy8upp6aRk5aGi4_e3t7X1tePj5GQnKSqxtWo0OaHrsJjbnVucHK0vsSXpK2in57d2dfp6Oizs7SKioz3_v_n-P_E6f3AwcLN6_u54_ra8PzQ7v-bnJ3Nzs6OubF1qJaw4Pro_P-Cq5Hc5duby9RAjHDC4u2uxK5LhVNMjWrS6u_u8u2508ioxrh6o4Pn8OjA1MFEgk0Sbi0AZRhVjFsteETM3c0hcjcIaisAVwA-f0aVtJhpl28AZiSPs5JxnnVeXyWlAAABGElEQVR4Aa3SRWKDUBRA0YdTb4LHPbi7s_9NNa5_1tzpge_w_zCcICkaSQz79v7x-cUg7fvnl-r1OR5QCQwmSrLIIlGhpYE8lNDIEeJIHo4VBqkCSLI85AgkTrD9uKKAnpTZ46A_QSGt7CbdLQnvIXCKi6PZXF4sd4qac7RazzfbJU6gVqtqsNYxw3xSjhelmQWAAazsR-U5zVnBLs31NO1BBfBhDRpAEEZx4ivKjWGT1PMhDd00zLIwL9YkdrORqa-VVR2UWZJlWd7ozPR2I5Ub67oelOVO88hjsZspvbaL4xNGtTW5-REmaevGO92NG9ZrTqDhJtJrd78GZeD6FiM8PBaCxyzPsywOn7A4PEb32F0TnoHX9Afc4yIMhIqzfAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkcwQ3U4eE1ZR1BsOGFtcHNJUFhvdmphUWhueWZZVWZCVUVkMENCa0VWTkpYbk1WZ05pbWh4WVNzcmVXeG54OFRwZFZfdmt1d1NuZGx2X1dVd0I0dlc3VnZOR0dkR0dxRjktMGxjZTNqZEN4eE1xNThCSS1nNktZSGtIeFFiVVBMaDFYRlJYdnhqdWR5QWFCWEQtMkRKRWcSBBoCCAAapQYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD_BQgAEAAYACAAKkAKA3RvcBUtqjQ_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGghncmVhdGVzdBoGcmV2aWV3GgdyZXZpZXdzKigKBW5vaXNlFRavxD8aDm5vaXNlY2FuY2VsaW5nGgppdjtwO25vaXNlKnQKCWNhbmNlbGluZxWUSsY9Gg1jYW4gY2FuY2VsIG15GgZjYW5jZWwaCWNhbmNlbGxlZBoVY2FuY2VsbGluZyBoZWFkcGhvbmVzGglpc29sYXRpbmcaDm5vaXNlY2FuY2VsaW5nGg5pdjtwO2NhbmNlbGluZyovCgh3aXJlbGVzcxUi55BAGg93aXJlbGVzc2VhcmJ1ZHMaDWl2O3A7d2lyZWxlc3MqSgoHZWFyYnVkcxWM4KFAGghlYXIgYnVkcxoGZWFyYnVkGgllYXJwaG9uZXMaD3dpcmVsZXNzZWFyYnVkcxoMaXY7cDtlYXJidWRzMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkcwQ3U4eE1ZR1BsOGFtcHNJUFhvdmphUWhueWZZVWZCVUVkMENCa0VWTkpYbk1WZ05pbWh4WVNzcmVXeG54OFRwZFZfdmt1d1NuZGx2X1dVd0I0dlc3VnZOR0dkR0dxRjktMGxjZTNqZEN4eE1xNThCSS1nNktZSGtIeFFiVVBMaDFYRlJYdnhqdWR5QWFCWEQtMkRKRWc6MjxiPkJlc3QgV2lyZWxlc3MgRWFyYnVkczwvYj4gb2YgMjAyNiAtIFRlY2hHZWFyTGFiQqsBVGhlIGJlc3QgYnVkcyBmb3Igbm9pc2UgY2FuY2VsbGF0aW9uIGFyZSB0aGUgPGI-U29ueSBXRi0xMDAwWE02PC9iPiBhbmQgdGhlIEFwcGxlIEFpclBvZHMgUHJvIDMsIHdpdGggdGhlIFNvbnkgV0YtMTAwMFhNNSwgYW5kIHRoZSBCb3NlIFF1aWV0Q29tZm9ydCBVbHRyYSAoR2VuIDIpJm5ic3A7Li4uUgRiZXN0IgIQAUgBWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkcwQ3U4eE1ZR1BsOGFtcHNJUFhvdmphUWhueWZZVWZCVUVkMENCa0VWTkpYbk1WZ05pbWh4WVNzcmVXeG54OFRwZFZfdmt1d1NuZGx2X1dVd0I0dlc3VnZOR0dkR0dxRjktMGxjZTNqZEN4eE1xNThCSS1nNktZSGtIeFFiVVBMaDFYRlJYdnhqdWR5QWFCWEQtMkRKRWcSBBoCCAAapQYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD_BQgAEAAYACAAKkAKA3RvcBUtqjQ_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGghncmVhdGVzdBoGcmV2aWV3GgdyZXZpZXdzKigKBW5vaXNlFRavxD8aDm5vaXNlY2FuY2VsaW5nGgppdjtwO25vaXNlKnQKCWNhbmNlbGluZxWUSsY9Gg1jYW4gY2FuY2VsIG15GgZjYW5jZWwaCWNhbmNlbGxlZBoVY2FuY2VsbGluZyBoZWFkcGhvbmVzGglpc29sYXRpbmcaDm5vaXNlY2FuY2VsaW5nGg5pdjtwO2NhbmNlbGluZyovCgh3aXJlbGVzcxUi55BAGg93aXJlbGVzc2VhcmJ1ZHMaDWl2O3A7d2lyZWxlc3MqSgoHZWFyYnVkcxWM4KFAGghlYXIgYnVkcxoGZWFyYnVkGgllYXJwaG9uZXMaD3dpcmVsZXNzZWFyYnVkcxoMaXY7cDtlYXJidWRzMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkcwQ3U4eE1ZR1BsOGFtcHNJUFhvdmphUWhueWZZVWZCVUVkMENCa0VWTkpYbk1WZ05pbWh4WVNzcmVXeG54OFRwZFZfdmt1d1NuZGx2X1dVd0I0dlc3VnZOR0dkR0dxRjktMGxjZTNqZEN4eE1xNThCSS1nNktZSGtIeFFiVVBMaDFYRlJYdnhqdWR5QWFCWEQtMkRKRWc6MjxiPkJlc3QgV2lyZWxlc3MgRWFyYnVkczwvYj4gb2YgMjAyNiAtIFRlY2hHZWFyTGFiQqsBVGhlIGJlc3QgYnVkcyBmb3Igbm9pc2UgY2FuY2VsbGF0aW9uIGFyZSB0aGUgPGI-U29ueSBXRi0xMDAwWE02PC9iPiBhbmQgdGhlIEFwcGxlIEFpclBvZHMgUHJvIDMsIHdpdGggdGhlIFNvbnkgV0YtMTAwMFhNNSwgYW5kIHRoZSBCb3NlIFF1aWV0Q29tZm9ydCBVbHRyYSAoR2VuIDIpJm5ic3A7Li4uUgRiZXN0IgIQAUgBWABoAA",
+      "source": "TechGearLab",
+      "read_more_link": "https://www.techgearlab.com/topics/audio/best-wireless-earbuds#:~:text=The%20best%20buds%20for%20noise,2)%20following%20in%20that%20order."
+    },
+    {
+      "position": 9,
+      "title": "Best Noise-Canceling Earbuds for 2026",
+      "link": "https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVV5YTwZPEZ0BtKZk4nN5EgH_N3hYG16iaMYlcXpJxa2sEs1r77q9fvNafxhoR5Y8KrycTyeMYh9YPwREecbM_-kR_-UNddLtgwEqRCDZTIplIiFd6h7nnHZE3QwFghHe8X53iaKNproDzNstuoY-bvpA_1kVCk00exlk&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://www.cnet.com › Tech › Mobile › Headphones",
+      "date": "Feb 13, 2026",
+      "snippet": "Other noise-canceling wireless earbuds we've tested · Samsung Galaxy Buds 3 Pro · Sennheiser Momentum True Wireless 4 · Sony WF-1000XM5 · Beats ...",
+      "snippet_highlighted_words": [
+        "Samsung Galaxy Buds 3 Pro"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What are the best noise...",
+            "link": "https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#86452652-615c-4b4a-a37c-826ffa70c81c"
+          },
+          {
+            "title": "Budget",
+            "link": "https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ace67296-6722-40f6-bbb7-051182616c0d"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Other noise-canceling wireless earbuds we've tested · Samsung Galaxy Buds 3 Pro · Sennheiser Momentum True Wireless 4 · Sony WF-1000XM5 · Beats ...",
+          "source_info_link": "https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/",
+          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDSQUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys_RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Mjc3Nzc3Nzc3Nzc2Nzc3Ny01Nzc3NzA3Nzc3Lzc3Nzc3Nzc3Nzc3NTc3L__AABEIABwAHAMBEQACEQEDEQH_xAAZAAACAwEAAAAAAAAAAAAAAAABBQQGBwP_xAArEAABAwMBBgUFAAAAAAAAAAACAQMEAAUREgYhQVFxgQdhc6GxFBYiJjH_xAAaAQACAwEBAAAAAAAAAAAAAAACBAEDBQYA_8QAKhEAAgIBAgIJBQAAAAAAAAAAAQIAAxEEMQUSBiEkYXGBwdHwEyIjQVH_2gAMAwEAAhEDEQA_ANPmSmIUZyTLdFpltMkZcK5BQWOBAqosucV1jJMVQtpYlwQygRJ0hsF0qYMfjnlvVKuNZXeO38It0-Bc6qT-ifYQfcsQbixAejTWH3y0to6zpRe-d6VPIcZgng9xpa9GVlXfBzHWKHMycSteJGU2cxwV8M-9RpT986fo8O2-Rh8Ok_Wg9Zz5qdQfyQOkQ7afARzc4TUv6U3CETjyAdAi55xjui4oFbEy9Nc1XOBsykH53SbXsxPEUbYWp-72NyNF0q-Ji4AkuEJU4Z6ZquiwI-TNzhWqTS6kWPt1gxTsc7LtFrKDcLVPAwdIhIGtaEi9Kvu5XbmUiOcXrq1V_wBaq1SCBucbSRcJ9wn3O3R41rmtRAkg4-863pRUT-JjlnfnyqFVVUknrlFGm09FFrvapYqQAD_fWWaqczCxOi0uI0YKIQDBRCCRBRQZ_9k.jpeg"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlY1WVR3WlBFWjBCdEtaazRuTjVFZ0hfTjNoWUcxNmlhTVlsY1hwSnhhMnNFczFyNzdxOWZ2TmFmeGhvUjVZOEtyeWNUeWVNWWg5WVB3UkVlY2JNXy1rUl8tVU5kZEx0Z3dFcVJDRFpUSXBsSWlGZDZoN25uSFpFM1F3RmdoSGU4WDUzaWFLTnByb0R6TnN0dW9ZLWJ2cEFfMWtWQ2swMGV4bGsSBBoCCAAazQYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCnBggAEAAYACAAKkAKA3RvcBVAOug_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGghncmVhdGVzdBoGcmV2aWV3GgdyZXZpZXdzKigKBW5vaXNlFZDkzEAaDm5vaXNlY2FuY2VsaW5nGgppdjtwO25vaXNlKnQKCWNhbmNlbGluZxUU8sVAGg1jYW4gY2FuY2VsIG15GgZjYW5jZWwaCWNhbmNlbGxlZBoVY2FuY2VsbGluZyBoZWFkcGhvbmVzGglpc29sYXRpbmcaDm5vaXNlY2FuY2VsaW5nGg5pdjtwO2NhbmNlbGluZyovCgh3aXJlbGVzcxXj7ydAGg93aXJlbGVzc2VhcmJ1ZHMaDWl2O3A7d2lyZWxlc3MqSgoHZWFyYnVkcxXiVtNAGghlYXIgYnVkcxoGZWFyYnVkGgllYXJwaG9uZXMaD3dpcmVsZXNzZWFyYnVkcxoMaXY7cDtlYXJidWRzMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlY1WVR3WlBFWjBCdEtaazRuTjVFZ0hfTjNoWUcxNmlhTVlsY1hwSnhhMnNFczFyNzdxOWZ2TmFmeGhvUjVZOEtyeWNUeWVNWWg5WVB3UkVlY2JNXy1rUl8tVU5kZEx0Z3dFcVJDRFpUSXBsSWlGZDZoN25uSFpFM1F3RmdoSGU4WDUzaWFLTnByb0R6TnN0dW9ZLWJ2cEFfMWtWQ2swMGV4bGs6OjxiPkJlc3QgTm9pc2U8L2I-LTxiPkNhbmNlbGluZyBFYXJidWRzPC9iPiBmb3IgMjAyNiAtIENORVRCvwFPdGhlciBub2lzZS1jYW5jZWxpbmcgd2lyZWxlc3MgZWFyYnVkcyB3ZSYjMzk7dmUgdGVzdGVkICZtaWRkb3Q7IDxiPlNhbXN1bmcgR2FsYXh5IEJ1ZHMgMyBQcm88L2I-ICZtaWRkb3Q7IFNlbm5oZWlzZXIgTW9tZW50dW0gVHJ1ZSBXaXJlbGVzcyA0ICZtaWRkb3Q7IFNvbnkgV0YtMTAwMFhNNSAmbWlkZG90OyBCZWF0cyZuYnNwOy4uLlIEYmVzdCICEAFIAVgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlY1WVR3WlBFWjBCdEtaazRuTjVFZ0hfTjNoWUcxNmlhTVlsY1hwSnhhMnNFczFyNzdxOWZ2TmFmeGhvUjVZOEtyeWNUeWVNWWg5WVB3UkVlY2JNXy1rUl8tVU5kZEx0Z3dFcVJDRFpUSXBsSWlGZDZoN25uSFpFM1F3RmdoSGU4WDUzaWFLTnByb0R6TnN0dW9ZLWJ2cEFfMWtWQ2swMGV4bGsSBBoCCAAazQYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCnBggAEAAYACAAKkAKA3RvcBVAOug_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGghncmVhdGVzdBoGcmV2aWV3GgdyZXZpZXdzKigKBW5vaXNlFZDkzEAaDm5vaXNlY2FuY2VsaW5nGgppdjtwO25vaXNlKnQKCWNhbmNlbGluZxUU8sVAGg1jYW4gY2FuY2VsIG15GgZjYW5jZWwaCWNhbmNlbGxlZBoVY2FuY2VsbGluZyBoZWFkcGhvbmVzGglpc29sYXRpbmcaDm5vaXNlY2FuY2VsaW5nGg5pdjtwO2NhbmNlbGluZyovCgh3aXJlbGVzcxXj7ydAGg93aXJlbGVzc2VhcmJ1ZHMaDWl2O3A7d2lyZWxlc3MqSgoHZWFyYnVkcxXiVtNAGghlYXIgYnVkcxoGZWFyYnVkGgllYXJwaG9uZXMaD3dpcmVsZXNzZWFyYnVkcxoMaXY7cDtlYXJidWRzMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVlY1WVR3WlBFWjBCdEtaazRuTjVFZ0hfTjNoWUcxNmlhTVlsY1hwSnhhMnNFczFyNzdxOWZ2TmFmeGhvUjVZOEtyeWNUeWVNWWg5WVB3UkVlY2JNXy1rUl8tVU5kZEx0Z3dFcVJDRFpUSXBsSWlGZDZoN25uSFpFM1F3RmdoSGU4WDUzaWFLTnByb0R6TnN0dW9ZLWJ2cEFfMWtWQ2swMGV4bGs6OjxiPkJlc3QgTm9pc2U8L2I-LTxiPkNhbmNlbGluZyBFYXJidWRzPC9iPiBmb3IgMjAyNiAtIENORVRCvwFPdGhlciBub2lzZS1jYW5jZWxpbmcgd2lyZWxlc3MgZWFyYnVkcyB3ZSYjMzk7dmUgdGVzdGVkICZtaWRkb3Q7IDxiPlNhbXN1bmcgR2FsYXh5IEJ1ZHMgMyBQcm88L2I-ICZtaWRkb3Q7IFNlbm5oZWlzZXIgTW9tZW50dW0gVHJ1ZSBXaXJlbGVzcyA0ICZtaWRkb3Q7IFNvbnkgV0YtMTAwMFhNNSAmbWlkZG90OyBCZWF0cyZuYnNwOy4uLlIEYmVzdCICEAFIAVgAaAA",
+      "source": "CNET",
+      "read_more_link": "https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#:~:text=Other%20noise%2Dcanceling%20wireless%20earbuds%20we've,tested&text=Samsung%20Galaxy%20Buds%203%20Pro%3A&text=Sennheiser%20Momentum%20True%20Wireless%204%3A&text=Sony%20WF%2D1000XM5%3A%20Sony%20has%20released&text=Beats%20Studio%20Buds%20Plus%3A%20Compared"
+    },
+    {
+      "position": 10,
+      "title": "Best Noise Cancelling Bluetooth Earbuds",
+      "link": "https://www.amazon.com/Best-Noise-Cancelling-Bluetooth-Earbuds/s?k=Best+Noise+Cancelling+Bluetooth+Earbuds",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESogEB6zswFbqJQ5NFLe9_QD2zzrA99TCNlZIQx5DY-eEcdyyO60Y3obASAaq2mnxNF-JDqQoTyTAKtLPP-nAZhcdamIBu9evwrJGH-zQrGOJkj2H9654OK6FOpTN1nGUq8AsYEa3n27cn8rMTH7Z8eicuFd04Pg0ldLmJSqS96K9d2zrqVeSAdcFFIBp41f61UmRXfYjjG9-geRB7AQbFcDA5MVQ&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › Best-Noise-Cancelling-Blueto...",
+      "snippet": "Wireless earbuds featuring advanced noise cancelling technology, immersive audio, clear calls, and water-resistant construction for secure wear.",
+      "snippet_highlighted_words": [
+        "Wireless earbuds featuring advanced noise cancelling technology"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.5",
+            "store rating (9.2K)",
+            "Free delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Wireless earbuds featuring advanced noise cancelling technology, immersive audio, clear calls, and water-resistant construction for secure wear.",
+          "source_info_link": "https://www.amazon.com/Best-Noise-Cancelling-Bluetooth-Earbuds/s?k=Best+Noise+Cancelling+Bluetooth+Earbuds",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZicUpRNU5GTGU5X1FEMnp6ckE5OVRDTmxaSVF4NURZLWVFY2R5eU82MFkzb2JBU0FhcTJtbnhORi1KRHFRb1R5VEFLdExQUC1uQVpoY2RhbUlCdTlldndySkdILXpRckdPSmtqMkg5NjU0T0s2Rk9wVE4xbkdVcThBc1lFYTNuMjdjbjhyTVRIN1o4ZWljdUZkMDRQZzBsZExtSlNxUzk2SzlkMnpycVZlU0FkY0ZGSUJwNDFmNjFVbVJYZllqakc5LWdlUkI3QVFiRmNEQTVNVlESBBoCCAAazQYSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAqQYIABAAGAAgACpACgN0b3AVZYKYPxoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoIZ3JlYXRlc3QaBnJldmlldxoHcmV2aWV3cyooCgVub2lzZRXgl6hAGg5ub2lzZWNhbmNlbGluZxoKaXY7cDtub2lzZSp0CgljYW5jZWxpbmcVC79gPxoNY2FuIGNhbmNlbCBteRoGY2FuY2VsGgljYW5jZWxsZWQaFWNhbmNlbGxpbmcgaGVhZHBob25lcxoJaXNvbGF0aW5nGg5ub2lzZWNhbmNlbGluZxoOaXY7cDtjYW5jZWxpbmcqLwoId2lyZWxlc3MV-dv5PxoPd2lyZWxlc3NlYXJidWRzGg1pdjtwO3dpcmVsZXNzKkoKB2VhcmJ1ZHMVNUunQBoIZWFyIGJ1ZHMaBmVhcmJ1ZBoJZWFycGhvbmVzGg93aXJlbGVzc2VhcmJ1ZHMaDGl2O3A7ZWFyYnVkczLpAS9nb3RvP3VybD1DQUVTb2dFQjZ6c3dGYnFKUTVORkxlOV9RRDJ6enJBOTlUQ05sWklReDVEWS1lRWNkeXlPNjBZM29iQVNBYXEybW54TkYtSkRxUW9UeVRBS3RMUFAtbkFaaGNkYW1JQnU5ZXZ3ckpHSC16UXJHT0prajJIOTY1NE9LNkZPcFROMW5HVXE4QXNZRWEzbjI3Y244ck1USDdaOGVpY3VGZDA0UGcwbGRMbUpTcVM5Nks5ZDJ6cnFWZVNBZGNGRklCcDQxZjYxVW1SWGZZampHOS1nZVJCN0FRYkZjREE1TVZROjRCZXN0IE5vaXNlIENhbmNlbGxpbmcgQmx1ZXRvb3RoIEVhcmJ1ZHMgLSBBbWF6b24uY29tQpcBPGI-V2lyZWxlc3MgZWFyYnVkcyBmZWF0dXJpbmcgYWR2YW5jZWQgbm9pc2UgY2FuY2VsbGluZyB0ZWNobm9sb2d5PC9iPiwgaW1tZXJzaXZlIGF1ZGlvLCBjbGVhciBjYWxscywgYW5kIHdhdGVyLXJlc2lzdGFudCBjb25zdHJ1Y3Rpb24gZm9yIHNlY3VyZSB3ZWFyLlIEYmVzdCICEAFIAVgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CukBL2dvdG8_dXJsPUNBRVNvZ0VCNnpzd0ZicUpRNU5GTGU5X1FEMnp6ckE5OVRDTmxaSVF4NURZLWVFY2R5eU82MFkzb2JBU0FhcTJtbnhORi1KRHFRb1R5VEFLdExQUC1uQVpoY2RhbUlCdTlldndySkdILXpRckdPSmtqMkg5NjU0T0s2Rk9wVE4xbkdVcThBc1lFYTNuMjdjbjhyTVRIN1o4ZWljdUZkMDRQZzBsZExtSlNxUzk2SzlkMnpycVZlU0FkY0ZGSUJwNDFmNjFVbVJYZllqakc5LWdlUkI3QVFiRmNEQTVNVlESBBoCCAAazQYSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAqQYIABAAGAAgACpACgN0b3AVZYKYPxoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoIZ3JlYXRlc3QaBnJldmlldxoHcmV2aWV3cyooCgVub2lzZRXgl6hAGg5ub2lzZWNhbmNlbGluZxoKaXY7cDtub2lzZSp0CgljYW5jZWxpbmcVC79gPxoNY2FuIGNhbmNlbCBteRoGY2FuY2VsGgljYW5jZWxsZWQaFWNhbmNlbGxpbmcgaGVhZHBob25lcxoJaXNvbGF0aW5nGg5ub2lzZWNhbmNlbGluZxoOaXY7cDtjYW5jZWxpbmcqLwoId2lyZWxlc3MV-dv5PxoPd2lyZWxlc3NlYXJidWRzGg1pdjtwO3dpcmVsZXNzKkoKB2VhcmJ1ZHMVNUunQBoIZWFyIGJ1ZHMaBmVhcmJ1ZBoJZWFycGhvbmVzGg93aXJlbGVzc2VhcmJ1ZHMaDGl2O3A7ZWFyYnVkczLpAS9nb3RvP3VybD1DQUVTb2dFQjZ6c3dGYnFKUTVORkxlOV9RRDJ6enJBOTlUQ05sWklReDVEWS1lRWNkeXlPNjBZM29iQVNBYXEybW54TkYtSkRxUW9UeVRBS3RMUFAtbkFaaGNkYW1JQnU5ZXZ3ckpHSC16UXJHT0prajJIOTY1NE9LNkZPcFROMW5HVXE4QXNZRWEzbjI3Y244ck1USDdaOGVpY3VGZDA0UGcwbGRMbUpTcVM5Nks5ZDJ6cnFWZVNBZGNGRklCcDQxZjYxVW1SWGZZampHOS1nZVJCN0FRYkZjREE1TVZROjRCZXN0IE5vaXNlIENhbmNlbGxpbmcgQmx1ZXRvb3RoIEVhcmJ1ZHMgLSBBbWF6b24uY29tQpcBPGI-V2lyZWxlc3MgZWFyYnVkcyBmZWF0dXJpbmcgYWR2YW5jZWQgbm9pc2UgY2FuY2VsbGluZyB0ZWNobm9sb2d5PC9iPiwgaW1tZXJzaXZlIGF1ZGlvLCBjbGVhciBjYWxscywgYW5kIHdhdGVyLXJlc2lzdGFudCBjb25zdHJ1Y3Rpb24gZm9yIHNlY3VyZSB3ZWFyLlIEYmVzdCICEAFIAVgAaAA",
+      "source": "Amazon.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Top noise canceling wireless earbuds under $100",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Top+noise+canceling+wireless+earbuds+under+%24100&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Top+noise+canceling+wireless+earbuds+under+%24100"
+    },
+    {
+      "block_position": 1,
+      "query": "Top noise canceling wireless earbuds for work",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Top+noise+canceling+wireless+earbuds+for+work&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Top+noise+canceling+wireless+earbuds+for+work"
+    },
+    {
+      "block_position": 1,
+      "query": "Top noise canceling wireless earbuds for iphone",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Top+noise+canceling+wireless+earbuds+for+iphone&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Top+noise+canceling+wireless+earbuds+for+iphone"
+    },
+    {
+      "block_position": 1,
+      "query": "Best noise cancelling earbuds for sleeping",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Best+noise+cancelling+earbuds+for+sleeping&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+noise+cancelling+earbuds+for+sleeping"
+    },
+    {
+      "block_position": 1,
+      "query": "Best noise cancelling earbuds for Android",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Best+noise+cancelling+earbuds+for+Android&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+noise+cancelling+earbuds+for+Android"
+    },
+    {
+      "block_position": 1,
+      "query": "Best earbuds with noise cancelling microphone",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Best+earbuds+with+noise+cancelling+microphone&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+earbuds+with+noise+cancelling+microphone"
+    },
+    {
+      "block_position": 1,
+      "query": "Noise cancelling earbuds Sleep",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Noise+cancelling+earbuds+Sleep&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Noise+cancelling+earbuds+Sleep"
+    },
+    {
+      "block_position": 1,
+      "query": "Best budget noise cancelling earbuds",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Best+budget+noise+cancelling+earbuds&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+budget+noise+cancelling+earbuds"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Sports",
+      "link": "https://www.google.com/search?hl=en&q=sports+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhgIARIGU3BvcnRzOgwIp6KAARCMgaEBMABYg-ggYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKAF6BQgtEIAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=sports+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Bluetooth",
+      "link": "https://www.google.com/search?hl=en&q=bluetooth+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhsIARIJQmx1ZXRvb3RoOgwIi4KAARCNgoABMABYg-ggYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKAJ6BQgtEIEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=bluetooth+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "With Charging Case",
+      "link": "https://www.google.com/search?hl=en&q=top+noise+canceling+wireless+earbuds+with+charging+case&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMiQIARISV2l0aCBDaGFyZ2luZyBDYXNlGAI6CgiUrH0Qlax9MANYg-ggYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKAN6BQgtEIIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds+with+charging+case"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=top+noise+canceling+wireless+earbuds+sale&gl=us&shoprs=CAESBEoCGAEYBiokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhMIBhIHT24gc2FsZRgCIgRKAhgBWIPoIGAB&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKAR6BQgtEIMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds+sale"
+    },
+    {
+      "query": "Under $50",
+      "link": "https://www.google.com/search?hl=en&q=top+noise+canceling+wireless+earbuds+under+$50&gl=us&shoprs=CAESDRILEQAAAACE14dBGAEYBSokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMiIIBRIJVW5kZXIgJDUwGAIiDRILEQAAAACE14dBGAEqAhgBWIPoIGAB&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKAV6BQgtEIQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds+under+%2450"
+    },
+    {
+      "query": "With Touch Controls",
+      "link": "https://www.google.com/search?hl=en&q=top+noise+canceling+wireless+earbuds+with+touch+controls&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMiUIARITV2l0aCBUb3VjaCBDb250cm9scxgCOgoIl6x9EJisfTADWIPoIGAB&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKAZ6BQgtEIUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds+with+touch+controls"
+    },
+    {
+      "query": "With Microphone",
+      "link": "https://www.google.com/search?hl=en&q=top+noise+canceling+wireless+earbuds+with+microphone&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMiEIARIPV2l0aCBNaWNyb3Bob25lGAI6Cgiwwj4QscI-MANYg-ggYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKAd6BQgtEIYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds+with+microphone"
+    },
+    {
+      "query": "Waterproof",
+      "link": "https://www.google.com/search?hl=en&q=waterproof+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhoIARIKV2F0ZXJwcm9vZjoKCNjsOhDZ7DowA1iD6CBgAQ&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKAh6BQgtEIcB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=waterproof+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Mobile Phone",
+      "link": "https://www.google.com/search?hl=en&q=mobile+phone+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMh4IARIMTW9iaWxlIFBob25lOgwIp6KAARDj1csDMABYg-ggYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKAl6BQgtEIgB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=mobile+phone+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Get it today",
+      "link": "https://www.google.com/search?hl=en&q=top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAESDZoBCgoIEAA4AUACSAEYFCokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMiUIFBIMR2V0IGl0IHRvZGF5Ig2aAQoKCBAAOAFAAkgBKgQQARgBYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKAp6BQgtEIkB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?hl=en&q=black+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhUIARIFQmxhY2s6CgjO7mYQ0e5mMABYg-ggYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKAt6BQgtEIoB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=black+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "In-ear",
+      "link": "https://www.google.com/search?hl=en&q=in-ear+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhgIARIGSW4tZWFyOgwIi4GAARCSgYABMAJYg-ggYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKAx6BQgtEIsB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=in-ear+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "For Gaming",
+      "link": "https://www.google.com/search?hl=en&q=top+noise+canceling+wireless+earbuds+for+gaming&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhwIARIKRm9yIEdhbWluZxgCOgoIqaM-EKqjPjADWIPoIGAB&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKA16BQgtEIwB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds+for+gaming"
+    },
+    {
+      "query": "Surround Sound",
+      "link": "https://www.google.com/search?hl=en&q=surround+sound+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMh4IARIOU3Vycm91bmQgU291bmQ6CgiwmjsQsZo7MANYg-ggYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKA56BQgtEI0B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=surround+sound+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Noise Canceling Headphones",
+      "link": "https://www.google.com/search?hl=en&q=noise+canceling+headphones+top+wireless+earbuds&gl=us&shoprs=CAEYCSokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMh4ICRIaTm9pc2UgQ2FuY2VsaW5nIEhlYWRwaG9uZXNgAQ&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKA96BQgtEI4B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=noise+canceling+headphones+top+wireless+earbuds"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?hl=en&q=white+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhUIARIFV2hpdGU6CgjO7mYQ0u5mMABYg-ggYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKBB6BQgtEI8B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=white+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Pink",
+      "link": "https://www.google.com/search?hl=en&q=pink+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhQIARIEUGluazoKCM7uZhDf7mYwAFiD6CBgAQ&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKBF6BQgtEJAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=pink+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "TV",
+      "link": "https://www.google.com/search?hl=en&q=tv+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhQIARICVFY6DAinooABELj2ywMwAFiD6CBgAQ&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKBJ6BQgtEJEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=tv+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Wireless Headphones",
+      "link": "https://www.google.com/search?hl=en&q=wireless+headphones+top+noise+canceling+earbuds&gl=us&shoprs=CAEYCSokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhcICRITV2lyZWxlc3MgSGVhZHBob25lc2AB&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKBN6BQgtEJIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=wireless+headphones+top+noise+canceling+earbuds"
+    },
+    {
+      "query": "10 – 12 mm driver",
+      "link": "https://www.google.com/search?hl=en&q=10+mm+driver+to+12+mm+driver+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAESGyoZCLKK2QMSEgkAAAAAAADwPxEAAABAMzPzPxgBKiR0b3Agbm9pc2UgY2FuY2VsaW5nIHdpcmVsZXNzIGVhcmJ1ZHMyYQgBEhMxMCDigJMgMTIgbW0gZHJpdmVyIhsqGQiyitkDEhIJAAAAAAAA8D8RAAAAQDMz8z8qIAocMTAgbW0gZHJpdmVyIHRvIDEyIG1tIGRyaXZlchgBOgkIsorZAxAAMAZYg-ggYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKBR6BQgtEJMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=10+mm+driver+to+12+mm+driver+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Siri",
+      "link": "https://www.google.com/search?hl=en&q=siri+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhYIARIEU2lyaToMCLu8ngEQvryeATAAWIPoIGAB&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKBV6BQgtEJQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=siri+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Amazon Alexa",
+      "link": "https://www.google.com/search?hl=en&q=amazon+alexa+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMh4IARIMQW1hem9uIEFsZXhhOgwIu7yeARC9vJ4BMABYg-ggYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKBZ6BQgtEJUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=amazon+alexa+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Gaming Headsets",
+      "link": "https://www.google.com/search?hl=en&q=gaming+headsets+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYCSokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhMICRIPR2FtaW5nIEhlYWRzZXRzYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKBd6BQgtEJYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=gaming+headsets+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Google Assistant",
+      "link": "https://www.google.com/search?hl=en&q=google+assistant+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMiIIARIQR29vZ2xlIEFzc2lzdGFudDoMCLu8ngEQvLyeATAAWIPoIGAB&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKBh6BQgtEJcB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=google+assistant+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Water-resistant",
+      "link": "https://www.google.com/search?hl=en&q=water-resistant+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMiEIARIPV2F0ZXItcmVzaXN0YW50OgwI9PCfBBDb-J8EMANYg-ggYAE&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKBl6BQgtEJgB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=water-resistant+top+noise+canceling+wireless+earbuds"
+    },
+    {
+      "query": "Blue",
+      "link": "https://www.google.com/search?hl=en&q=blue+top+noise+canceling+wireless+earbuds&gl=us&shoprs=CAEYASokdG9wIG5vaXNlIGNhbmNlbGluZyB3aXJlbGVzcyBlYXJidWRzMhQIARIEQmx1ZToKCM7uZhDT7mYwAFiD6CBgAQ&sa=X&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQip4GKBp6BQgtEJkB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=blue+top+noise+canceling+wireless+earbuds"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+noise+canceling+wireless+earbuds&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=LJ-yatjWCbrbkPIP1OGjiQM&start=10&sa=N&sstk=AS6-VmJOUfwzB5SKwTF13TSjle9yAWMXBWoAE5K0nRNt3hSaUwrE66FnxOmkIFsUkbwtIqKc0te843qoaxcCUb59CvdzUCfEc28Z5w&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ8NMDegQITRAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+noise+canceling+wireless+earbuds&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=LJ-yatjWCbrbkPIP1OGjiQM&start=10&sa=N&sstk=AS6-VmJOUfwzB5SKwTF13TSjle9yAWMXBWoAE5K0nRNt3hSaUwrE66FnxOmkIFsUkbwtIqKc0te843qoaxcCUb59CvdzUCfEc28Z5w&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ8tMDegQITRAE",
+      "3": "https://www.google.com/search?q=top+noise+canceling+wireless+earbuds&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=LJ-yatjWCbrbkPIP1OGjiQM&start=20&sa=N&sstk=AS6-VmJOUfwzB5SKwTF13TSjle9yAWMXBWoAE5K0nRNt3hSaUwrE66FnxOmkIFsUkbwtIqKc0te843qoaxcCUb59CvdzUCfEc28Z5w&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ8tMDegQITRAG",
+      "4": "https://www.google.com/search?q=top+noise+canceling+wireless+earbuds&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=LJ-yatjWCbrbkPIP1OGjiQM&start=30&sa=N&sstk=AS6-VmJOUfwzB5SKwTF13TSjle9yAWMXBWoAE5K0nRNt3hSaUwrE66FnxOmkIFsUkbwtIqKc0te843qoaxcCUb59CvdzUCfEc28Z5w&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ8tMDegQITRAI",
+      "5": "https://www.google.com/search?q=top+noise+canceling+wireless+earbuds&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=LJ-yatjWCbrbkPIP1OGjiQM&start=40&sa=N&sstk=AS6-VmJOUfwzB5SKwTF13TSjle9yAWMXBWoAE5K0nRNt3hSaUwrE66FnxOmkIFsUkbwtIqKc0te843qoaxcCUb59CvdzUCfEc28Z5w&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ8tMDegQITRAK",
+      "6": "https://www.google.com/search?q=top+noise+canceling+wireless+earbuds&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=LJ-yatjWCbrbkPIP1OGjiQM&start=50&sa=N&sstk=AS6-VmJOUfwzB5SKwTF13TSjle9yAWMXBWoAE5K0nRNt3hSaUwrE66FnxOmkIFsUkbwtIqKc0te843qoaxcCUb59CvdzUCfEc28Z5w&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ8tMDegQITRAM",
+      "7": "https://www.google.com/search?q=top+noise+canceling+wireless+earbuds&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=LJ-yatjWCbrbkPIP1OGjiQM&start=60&sa=N&sstk=AS6-VmJOUfwzB5SKwTF13TSjle9yAWMXBWoAE5K0nRNt3hSaUwrE66FnxOmkIFsUkbwtIqKc0te843qoaxcCUb59CvdzUCfEc28Z5w&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ8tMDegQITRAO",
+      "8": "https://www.google.com/search?q=top+noise+canceling+wireless+earbuds&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=LJ-yatjWCbrbkPIP1OGjiQM&start=70&sa=N&sstk=AS6-VmJOUfwzB5SKwTF13TSjle9yAWMXBWoAE5K0nRNt3hSaUwrE66FnxOmkIFsUkbwtIqKc0te843qoaxcCUb59CvdzUCfEc28Z5w&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ8tMDegQITRAQ",
+      "9": "https://www.google.com/search?q=top+noise+canceling+wireless+earbuds&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=LJ-yatjWCbrbkPIP1OGjiQM&start=80&sa=N&sstk=AS6-VmJOUfwzB5SKwTF13TSjle9yAWMXBWoAE5K0nRNt3hSaUwrE66FnxOmkIFsUkbwtIqKc0te843qoaxcCUb59CvdzUCfEc28Z5w&ved=2ahUKEwjYnJ7qwIKXAxW6LUQIHdTwKDEQ8tMDegQITRAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+noise+canceling+wireless+earbuds&start=80"
+    }
+  }
+}
