@@ -1,0 +1,1161 @@
+{
+  "search_metadata": {
+    "id": "6ab2abecb2c6134101d43126",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-bw-t1V-KI3AWEe4ii_RHplTzVuOJvZah5Hoqy-E0c4/6ab2abecb2c6134101d43126.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-bw-t1V-KI3AWEe4ii_RHplTzVuOJvZah5Hoqy-E0c4/6ab2abecb2c6134101d43126.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/-bw-t1V-KI3AWEe4ii_RHplTzVuOJvZah5Hoqy-E0c4/6ab2abecb2c6134101d43126.json_with_pixel_position",
+    "created_at": "2026-09-22 16:25:16 UTC",
+    "processed_at": "2026-09-22 16:25:16 UTC",
+    "google_url": "https://www.google.com/search?q=top+mechanical+keyboards+for+programming&oq=top+mechanical+keyboards+for+programming&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/-bw-t1V-KI3AWEe4ii_RHplTzVuOJvZah5Hoqy-E0c4/6ab2abecb2c6134101d43126.html",
+    "total_time_taken": 1.21
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top mechanical keyboards for programming",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top mechanical keyboards for programming",
+    "total_results": 155,
+    "time_taken_displayed": 0.46,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Top 5 Best Keyboards For Programming in 2026",
+      "link": "https://www.youtube.com/watch?v=ckUD5vYQpVs",
+      "thumbnail": "https://serpapi.com/searches/6ab2abecb2c6134101d43126/images/Mt4AOsMM0szkST6xsMKIIY-cfJ5q0-m-E9IOnVXY5Sw.jpeg",
+      "channel": "Best Product Reviews",
+      "duration": "11:54",
+      "platform": "YouTube",
+      "date": "May 6, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTy1C4I0rkBjpaImtfqcoi1HPqa6M7vmGkCyg",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=ckUD5vYQpVs&t=0"
+        },
+        {
+          "time": "00:37",
+          "title": "Logitech MX Keys S",
+          "link": "https://www.youtube.com/watch?v=ckUD5vYQpVs&t=37"
+        },
+        {
+          "time": "02:37",
+          "title": "ROYAL KLUDGE RK61",
+          "link": "https://www.youtube.com/watch?v=ckUD5vYQpVs&t=157"
+        },
+        {
+          "time": "04:26",
+          "title": "AULA F99/F75",
+          "link": "https://www.youtube.com/watch?v=ckUD5vYQpVs&t=266"
+        },
+        {
+          "time": "06:31",
+          "title": "Keychron V5 Max",
+          "link": "https://www.youtube.com/watch?v=ckUD5vYQpVs&t=391"
+        },
+        {
+          "time": "08:41",
+          "title": "Keychron Q5 Max",
+          "link": "https://www.youtube.com/watch?v=ckUD5vYQpVs&t=521"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Best Keyboard for Programming 2026",
+      "link": "https://www.youtube.com/watch?v=2xhyVCpxiZc",
+      "thumbnail": "https://serpapi.com/searches/6ab2abecb2c6134101d43126/images/qAQbEqqi1Zpry9rUuWddcoiLlC0ZTJLvIaN3W4LEvkg.jpeg",
+      "channel": "TheTechMag",
+      "duration": "4:55",
+      "platform": "YouTube",
+      "date": "Apr 5, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRUWtHV07TEA5DQWglg4WzANDY1UbZRbOt_FQ",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=2xhyVCpxiZc&t=0"
+        },
+        {
+          "time": "00:23",
+          "title": "Keychron Q5 Max",
+          "link": "https://www.youtube.com/watch?v=2xhyVCpxiZc&t=23"
+        },
+        {
+          "time": "01:15",
+          "title": "nuphy Air75 V3",
+          "link": "https://www.youtube.com/watch?v=2xhyVCpxiZc&t=75"
+        },
+        {
+          "time": "02:01",
+          "title": "AULA F99",
+          "link": "https://www.youtube.com/watch?v=2xhyVCpxiZc&t=121"
+        },
+        {
+          "time": "02:44",
+          "title": "Keychron K10 Pro",
+          "link": "https://www.youtube.com/watch?v=2xhyVCpxiZc&t=164"
+        },
+        {
+          "time": "03:29",
+          "title": "Keychron V1 75",
+          "link": "https://www.youtube.com/watch?v=2xhyVCpxiZc&t=209"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "The BEST Keyboard For Programming in 2025? STAY AWAY ...",
+      "link": "https://www.youtube.com/watch?v=5jFYgjw_MPM",
+      "thumbnail": "https://serpapi.com/searches/6ab2abecb2c6134101d43126/images/vcOM_qshyRBzPICIIeTnEajLVC0Fp7POjnSF8sEyBcw.jpeg",
+      "channel": "10BestOnes",
+      "duration": "9:55",
+      "platform": "YouTube",
+      "date": "Nov 17, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTg4a-OdK1WoVWu8wy4EyFTFyIOkJ_jE7SVJw"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTtgWC4f8zXMY2h4CvlKmLOWhNUL30FBBHbbQESbxK5jdEBTFi0a7WU8aFGoZZ93NGIsgxQoq7EXOaXwa54Uiht_ARCaIkV6HaQ2hiQM4oe",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Razer BlackWidow V4 X Mechanical Gaming Keyboard",
+      "rating": 4.5,
+      "reviews": 133,
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "original_price": "$130",
+      "extracted_original_price": 130,
+      "location": "Nearby, 4 mi",
+      "extensions": [
+        "23% OFF"
+      ],
+      "immersive_product_page_token": "eV3wJHicbVFNjqNGFJZyhhwiUm-KguInu7ahsJkGN0VRYDajgsKGpgw0Nv5BuUPu4J6JNFnOjJSzdE4TZtbRWzzpfU_v-3l_3sv6H-PDeONn2m7WZ2yN5nMVjLIOuy_90ImxONXiG7RMaCIINEWDloZ0y0JfCn7istvPqKUDXQGGgjRgGEBVgIW-ViUXsm7LzW5XDnZXzGumbiJDRcgwTV2HlmEC4-_6wPflT_i7AnVLUecyrZnJMCDS1LdBHN_h8_IjRCbSVcOyLOVHn6n0P57Jxv74_9jn17Ecbu-_nbr-4VAWFW_rgsuHprzlHZ9vPuy64WG2tx_44VC3-8_7_qcEpFqzlZlend2aim7oxtuhFl-RoWs6NHRVtWbpqmrob_35dK_2n8ZRlu_25WH5uA7Xy_XAIJ64K8dMJee8vjrh7bGLXNxmqTcJ11LnWUCWzZElqBcua9Y4ANuUyOJy38v7eLxX8l62f3W8P--Kf3_51eku9vJ4WYZx3zObgIgKPbKJFtnB-omyJnEwzJ3qkALE4wbxUKnoxmE-b652rj5efgwTFtxSqLxyiuMEs4TH144BH1JIDgVkL7SxYPayQAkOfIE7hYD-VRx66KtewFpBChy4bOUNGxfA3M1QnsoppAsS2TiIgbcq5MJjsXDDpGqjNAvZCi9JYt6yOGtLR7v4rUc5WN_iNLBz1mhkzqGkbBBYDkmioULdwmLyskghOG_7JLc9ErwEY2YXWtIcJyF7PUkLjdrynLmVG0JyKZTs5jdXvk2ssGzw4FPs8ba6RdDrUqV6jpwr3Sb9irC-F9gbaA0U6jJ7G5tK_tJMQXPUyrSf8qR6ip2g9VdipHKrbeIKZ4xMT2lw4Ic-Yirz2eQhlshjEWOHSuKHoF9GrLvEVEw8OTk57mvmCKVI1yhoFzUD8iLsIC6SE0hoE-FJPIlUVkKSkQIJyYtUNnjR0ZYdOcNnt_YWZBXcNkkWkYZR2siUzL_k2LPzVXMSrA_TKVht3Kwp5-w-XY_D7h08YnSKNjo32lcUnoyUrs7h7gNoU-Lvektd6fvfFcMCwNJUxdB09T9CNE7f",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eV3wJHicbVFNjqNGFJZyhhwiUm-KguInu7ahsJkGN0VRYDajgsKGpgw0Nv5BuUPu4J6JNFnOjJSzdE4TZtbRWzzpfU_v-3l_3sv6H-PDeONn2m7WZ2yN5nMVjLIOuy_90ImxONXiG7RMaCIINEWDloZ0y0JfCn7istvPqKUDXQGGgjRgGEBVgIW-ViUXsm7LzW5XDnZXzGumbiJDRcgwTV2HlmEC4-_6wPflT_i7AnVLUecyrZnJMCDS1LdBHN_h8_IjRCbSVcOyLOVHn6n0P57Jxv74_9jn17Ecbu-_nbr-4VAWFW_rgsuHprzlHZ9vPuy64WG2tx_44VC3-8_7_qcEpFqzlZlend2aim7oxtuhFl-RoWs6NHRVtWbpqmrob_35dK_2n8ZRlu_25WH5uA7Xy_XAIJ64K8dMJee8vjrh7bGLXNxmqTcJ11LnWUCWzZElqBcua9Y4ANuUyOJy38v7eLxX8l62f3W8P--Kf3_51eku9vJ4WYZx3zObgIgKPbKJFtnB-omyJnEwzJ3qkALE4wbxUKnoxmE-b652rj5efgwTFtxSqLxyiuMEs4TH144BH1JIDgVkL7SxYPayQAkOfIE7hYD-VRx66KtewFpBChy4bOUNGxfA3M1QnsoppAsS2TiIgbcq5MJjsXDDpGqjNAvZCi9JYt6yOGtLR7v4rUc5WN_iNLBz1mhkzqGkbBBYDkmioULdwmLyskghOG_7JLc9ErwEY2YXWtIcJyF7PUkLjdrynLmVG0JyKZTs5jdXvk2ssGzw4FPs8ba6RdDrUqV6jpwr3Sb9irC-F9gbaA0U6jJ7G5tK_tJMQXPUyrSf8qR6ip2g9VdipHKrbeIKZ4xMT2lw4Ic-Yirz2eQhlshjEWOHSuKHoF9GrLvEVEw8OTk57mvmCKVI1yhoFzUD8iLsIC6SE0hoE-FJPIlUVkKSkQIJyYtUNnjR0ZYdOcNnt_YWZBXcNkkWkYZR2siUzL_k2LPzVXMSrA_TKVht3Kwp5-w-XY_D7h08YnSKNjo32lcUnoyUrs7h7gNoU-Lvektd6fvfFcMCwNJUxdB09T9CNE7f"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTLBsl6DU1K3nAbMHm5YEa5Qh887mcmmT7HtLSLWwYooclbtPlivb-k_DilRCs2V6ezg3FdRl3ZILLPywXazuXtCFd5vtrOWVdyharPiLUkw5sh21MJhBBCgA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Logitech MX Mechanical Illuminated Wireless Keyboard",
+      "rating": 4.5,
+      "reviews": 1700,
+      "price": "$179.99",
+      "extracted_price": 179.99,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "V0IRZ3icdVFLkqNGFIzwGXwIR_SmqqD4eNeSKKRugZoCCqjNBKJA0BSfRkhCCt_Bd1DPOGK8nHGEz9I-jfHsvXvxMiNfZr7f73n1t_58uqbnoN1tzsQ8GS-le5KV133th06csrES3zUVKJoJFaxiA-lABwr8mqVjKrvDfyjSgKEBhLABDQVi08DfyjwVsmrzXVHkw6rLKvEXVAygmJqBMNI0rOozVf2zatJD_gP_jqACgAqQCjQTYB1oGngfxPFDfVl-gsiYD2uKrhmzCjAwVvBvL3S3-vQ_4Je3Uz5cP34Zu_6hybMybasslQ91ft136az6UHTDwxzwMKRNU7WHL4f-h0cNGqammVg1dR0BoGuq8t5U4hueJw3p-uxRNU1d1fX3_jzey8Pn00nmH6vLw_Jx422Wm4EhcktteeIKPe-ryfKuj51vk5bHTzdhm8q8c-myPrII98Jm9Ya4IImpzC73g7yfjvdS3vP2jy7tz0X2z08_W91ltTxell7Y92xFQWCVfBuxwbf61LHGhRMzLYhwEqCjym_imDDTDpH77MonlstspOG09dc82Ndc8hpvqcU7B_Yyabjqgn4MwIQzC6ippNKFveLUmCXyyaKhuPhoKmgzkT2ibcLmXKCe_FuiBiv2TCMchK10Kelf4htb8lfZezFB-bqMmAWntGHQDzskQmFzy0N-XAZ-ewAcysUudKEgZckbeeE1Dd0Gdz4sgyTiLK9JlUg-ckI2e0i4F3ujG4pU1JOSSer5FulDxJHTXJATWUpST9fQotv9-nGMQlNNQ3wJ6t6nDRwdS9Zuy3tBWJLXJWeNucptk-5rNobAvTqMeKF1xLtITOkSHoO5HyciCodk7pREs7-3zNooGegDL3JQHuHOkbTY2aLYRnJwyWLhxmRFbXPYrejorDZw39Aiq6fXNCzXaTNBR_F8chNbEctSSHoKgET0VcIdWXRBy44pI2e7elrQtXvdRdyff7oRbcn3DV_6a-E50rSjmrpey0-sltv9a0k_T8eh-ACPBI_-Tkv19g17ox4H67NXPIM2pk7Rm8paO_wKdRMAU1WgrmrKv_a2UFo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=V0IRZ3icdVFLkqNGFIzwGXwIR_SmqqD4eNeSKKRugZoCCqjNBKJA0BSfRkhCCt_Bd1DPOGK8nHGEz9I-jfHsvXvxMiNfZr7f73n1t_58uqbnoN1tzsQ8GS-le5KV133th06csrES3zUVKJoJFaxiA-lABwr8mqVjKrvDfyjSgKEBhLABDQVi08DfyjwVsmrzXVHkw6rLKvEXVAygmJqBMNI0rOozVf2zatJD_gP_jqACgAqQCjQTYB1oGngfxPFDfVl-gsiYD2uKrhmzCjAwVvBvL3S3-vQ_4Je3Uz5cP34Zu_6hybMybasslQ91ft136az6UHTDwxzwMKRNU7WHL4f-h0cNGqammVg1dR0BoGuq8t5U4hueJw3p-uxRNU1d1fX3_jzey8Pn00nmH6vLw_Jx422Wm4EhcktteeIKPe-ryfKuj51vk5bHTzdhm8q8c-myPrII98Jm9Ya4IImpzC73g7yfjvdS3vP2jy7tz0X2z08_W91ltTxell7Y92xFQWCVfBuxwbf61LHGhRMzLYhwEqCjym_imDDTDpH77MonlstspOG09dc82Ndc8hpvqcU7B_Yyabjqgn4MwIQzC6ippNKFveLUmCXyyaKhuPhoKmgzkT2ibcLmXKCe_FuiBiv2TCMchK10Kelf4htb8lfZezFB-bqMmAWntGHQDzskQmFzy0N-XAZ-ewAcysUudKEgZckbeeE1Dd0Gdz4sgyTiLK9JlUg-ckI2e0i4F3ujG4pU1JOSSer5FulDxJHTXJATWUpST9fQotv9-nGMQlNNQ3wJ6t6nDRwdS9Zuy3tBWJLXJWeNucptk-5rNobAvTqMeKF1xLtITOkSHoO5HyciCodk7pREs7-3zNooGegDL3JQHuHOkbTY2aLYRnJwyWLhxmRFbXPYrejorDZw39Aiq6fXNCzXaTNBR_F8chNbEctSSHoKgET0VcIdWXRBy44pI2e7elrQtXvdRdyff7oRbcn3DV_6a-E50rSjmrpey0-sltv9a0k_T8eh-ACPBI_-Tkv19g17ox4H67NXPIM2pk7Rm8paO_wKdRMAU1WgrmrKv_a2UFo"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcScQwtfBtlay825ws5mOVLNaoMGGF-Lh5g6CxrsybAaMm8onDPBpUe7q_V8StinLtiFC5AgQiwJoiffJ6Il9FNAnBSbWc7V_SeXJdImY05ZW5FY2tH5m26u",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "AULA F75 75% Wireless Mechanical Gaming Keyboard-4000m Bat Creamy HotSwap RGB Tri-Connect",
+      "rating": 4.8,
+      "reviews": 935,
+      "price": "$82.99",
+      "extracted_price": 82.99,
+      "location": "Nearby, 4 mi",
+      "immersive_product_page_token": "Er9SeHicbZHLjqNGFIalPEMeIlJvqgqKS3aNudgMLjcFFJjNCChsMMWlbfAFzTvkHdwzkWaWM5HyLJ2niRUpq2RxNuf79R99Or_dy_pP9cN0y85ht1mdbX3SXioyidrvvw7Hnk_FWPMfGtYxwDKEMlYwAhpW4dciGzPR7x8UKRqSoQo1TYI6AoqO8PeqzLiou3Kz25VHsy9q_gdEUAWKKmu6JClIVdXHfKvbbF_-yzHSJIShpGuSJqu6oqlvR356Ry-LjxqWFYiADhCUJVnCEEqfXujG_Pj_7MvrVB5v77-M_fDUlkWVdXWRiaemvOV99uh82vXHp4ff_pi1bd3tv-yH4h_P_zS9tTX_jlVFVtDDT8cYKhAi-W04j_dq_3maRPluXp4Wzyt_tVgdGbLnzBFTKtFzXl8t__bcB47dpYk7c0eXHjtCF82JxXjgDmtWNgHbhIrict-L-3S6V-Jedr_32XDeFX_99LPVX8zF6bLwo2FgJgWhtZ3jpLmGsX72OxpzIEZiUpc1140XEc8HJAut67yV0o5D19hExPSFLafMDh_3XvNGEC6MRbAUW95yFDdsmYOqYaaxyEN-JI_s9lB1RTKcosS_bJyLHEUUZBZGa2uoaAtupBNmKq1l3gorbPhyzQyyBTjxmEgTyX5JIPfWS9YECQ8yVKVh4lbBksqkBuNa8DBuXRE5RFAkzynkOJPEOT-IBUlIEHYDC5popEwfw6V7y9EW5p3wvFC4ecMpcTDMOhZQBycB86-5KQ6BPQiWpHZ8sE8RGLyg1d1UuGPm4EMmnq-RbRwSdEHcsm8U6TaHLOYWHdODO5KZu8nMwtxyrRwxj0upH8025HYVR524RHM182ZYB9aVhrZreMz4QBBOY4fWJB5PCapWeQt3cZwam1DsQsn1CmiQwh6SLdPTwtoG9sw9noiKCzqFQCB6EHBjG33YsVPG7LNTuwZdktsmTmkZRyAF1OWwitOYXmhHRf74VSB8mcxkuxZD9_l6Ou7ewbONx2CDQ8JX_YpGrw6PcQZytTSLyd1fb8HlV6jqAOiyBFVZkf8GbiFP7Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Er9SeHicbZHLjqNGFIalPEMeIlJvqgqKS3aNudgMLjcFFJjNCChsMMWlbfAFzTvkHdwzkWaWM5HyLJ2niRUpq2RxNuf79R99Or_dy_pP9cN0y85ht1mdbX3SXioyidrvvw7Hnk_FWPMfGtYxwDKEMlYwAhpW4dciGzPR7x8UKRqSoQo1TYI6AoqO8PeqzLiou3Kz25VHsy9q_gdEUAWKKmu6JClIVdXHfKvbbF_-yzHSJIShpGuSJqu6oqlvR356Ry-LjxqWFYiADhCUJVnCEEqfXujG_Pj_7MvrVB5v77-M_fDUlkWVdXWRiaemvOV99uh82vXHp4ff_pi1bd3tv-yH4h_P_zS9tTX_jlVFVtDDT8cYKhAi-W04j_dq_3maRPluXp4Wzyt_tVgdGbLnzBFTKtFzXl8t__bcB47dpYk7c0eXHjtCF82JxXjgDmtWNgHbhIrict-L-3S6V-Jedr_32XDeFX_99LPVX8zF6bLwo2FgJgWhtZ3jpLmGsX72OxpzIEZiUpc1140XEc8HJAut67yV0o5D19hExPSFLafMDh_3XvNGEC6MRbAUW95yFDdsmYOqYaaxyEN-JI_s9lB1RTKcosS_bJyLHEUUZBZGa2uoaAtupBNmKq1l3gorbPhyzQyyBTjxmEgTyX5JIPfWS9YECQ8yVKVh4lbBksqkBuNa8DBuXRE5RFAkzynkOJPEOT-IBUlIEHYDC5popEwfw6V7y9EW5p3wvFC4ecMpcTDMOhZQBycB86-5KQ6BPQiWpHZ8sE8RGLyg1d1UuGPm4EMmnq-RbRwSdEHcsm8U6TaHLOYWHdODO5KZu8nMwtxyrRwxj0upH8025HYVR524RHM182ZYB9aVhrZreMz4QBBOY4fWJB5PCapWeQt3cZwam1DsQsn1CmiQwh6SLdPTwtoG9sw9noiKCzqFQCB6EHBjG33YsVPG7LNTuwZdktsmTmkZRyAF1OWwitOYXmhHRf74VSB8mcxkuxZD9_l6Ou7ewbONx2CDQ8JX_YpGrw6PcQZytTSLyd1fb8HlV6jqAOiyBFVZkf8GbiFP7Q"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQQg2oUS4YQHIA0qUMHK3IJN3vnrQ8doKjmPBE-79en84gHJzaVaw5OrfvgYMfxwY_sUFTsDmsaskTlzqfxquq6Ft-cUQzhv9M6fw_cf6XzjJXOBvFGHR0ALg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRGj77Bp2MtyuBjRh6ORUjyPRrKInP7XrHQbcgGLvMacgiVIf4ApZG2EbFv27Di12xoo3RrxcOgWtVxjU6qqDaMIb7zQERnmacn",
+      "source": "Sam's Club",
+      "title": "SteelSeries Apex 7 Mechanical Gaming Keyboard",
+      "rating": 4.7,
+      "reviews": 495,
+      "price": "$98.87",
+      "extracted_price": 98.87,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "0oyPRnicbVNLjuM2FARyhhwiQG9IStQnu5Ylyla3ZJuSKFmbAS3K-pj6tP8W5g65g3smwGQ5CZCzdE4TDZBldg9V7z1UFVC_PYr6b_3lfOeXqFsuLsQ8G6sqOMt63X8bDr0456da_ImhrpnQhAAYECFNVYD6LecnLvuyFn9BpJsAGVg3VKgh0zQMYHyvCi5k3RXL3a442H3-Yw9Pp6YJVUPVFKxizVSUP-qWl8V_vA4nFOsqUnVFAbqCgfJ-EMcPtJp90rBp6BpSJx26AVUdQfx5RZf2p__nvr6di8P945dTPzy1RV7xrs65fNoX923Pp59Pu_7wNBksD7xt6678Wg75D6NAxxghqJkIGJNazTDe21p8x_o0I6zpwDANE-m68T5cTo-q_HI-y-LDvj7NnhfrxWxxYIiM3JXnTKGXbX1z1vfnPnRJl6XeKFxTmbCAzvZHluBBuGy_IAHYpFTm10cpH-fjo5KPovu958Nll__z089Of7Vnx-tsHQ8DsymIiPTXCEc8ob5I8ms0BjxxoLVkHt2kpAkbeqRpqebMuOdRhZesV5MW-vE-mAdNsNu0rMpiOQvnXkiJvPskA9s9o5uxuhd20Ie29PzII1QJJE2Ism1znI0kZHPZsKZUqTQAIxbxXXwObGLT5Obwjr3GNRz8VCYpOAKWsDpuFoCmwSUYg3TdVCPvNoij6hChm5-j24pLYgk7223JwGK3VMJkf4qlh2MlQBzAW9bRWRLCFxFZr7nDeAozx0c5zNLK9udkFUzJxorYZHsvZqNohDMA2nmLPPWOAWIvk49OdD0oIovnjGAfULYk1lvYDR5v6IaSZ8ja2z1y8JiBKqGRcDdRPBaxdAVbj0Uk05CIgbtmt0wCN1fEy7bLHAqHVd5Wr9tW4qIbNCqFFTmVF3RiHhJL2TBnZN36ytqB5fP9yJRFSEbxKlJZCUnPEZCINhJOWvqoY0fOyMWtPYvOg_syySLWkC6RdE8RtSigI2Ny5AiTqGVZbAfaFjLry-142H2AZ4JP4VLjeveG1yc9jeaX9e4FdCn1d4OpzLXyVzg1E5iqAvWpcv8CKFRPIA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0oyPRnicbVNLjuM2FARyhhwiQG9IStQnu5Ylyla3ZJuSKFmbAS3K-pj6tP8W5g65g3smwGQ5CZCzdE4TDZBldg9V7z1UFVC_PYr6b_3lfOeXqFsuLsQ8G6sqOMt63X8bDr0456da_ImhrpnQhAAYECFNVYD6LecnLvuyFn9BpJsAGVg3VKgh0zQMYHyvCi5k3RXL3a442H3-Yw9Pp6YJVUPVFKxizVSUP-qWl8V_vA4nFOsqUnVFAbqCgfJ-EMcPtJp90rBp6BpSJx26AVUdQfx5RZf2p__nvr6di8P945dTPzy1RV7xrs65fNoX923Pp59Pu_7wNBksD7xt6678Wg75D6NAxxghqJkIGJNazTDe21p8x_o0I6zpwDANE-m68T5cTo-q_HI-y-LDvj7NnhfrxWxxYIiM3JXnTKGXbX1z1vfnPnRJl6XeKFxTmbCAzvZHluBBuGy_IAHYpFTm10cpH-fjo5KPovu958Nll__z089Of7Vnx-tsHQ8DsymIiPTXCEc8ob5I8ms0BjxxoLVkHt2kpAkbeqRpqebMuOdRhZesV5MW-vE-mAdNsNu0rMpiOQvnXkiJvPskA9s9o5uxuhd20Ie29PzII1QJJE2Ism1znI0kZHPZsKZUqTQAIxbxXXwObGLT5Obwjr3GNRz8VCYpOAKWsDpuFoCmwSUYg3TdVCPvNoij6hChm5-j24pLYgk7223JwGK3VMJkf4qlh2MlQBzAW9bRWRLCFxFZr7nDeAozx0c5zNLK9udkFUzJxorYZHsvZqNohDMA2nmLPPWOAWIvk49OdD0oIovnjGAfULYk1lvYDR5v6IaSZ8ja2z1y8JiBKqGRcDdRPBaxdAVbj0Uk05CIgbtmt0wCN1fEy7bLHAqHVd5Wr9tW4qIbNCqFFTmVF3RiHhJL2TBnZN36ytqB5fP9yJRFSEbxKlJZCUnPEZCINhJOWvqoY0fOyMWtPYvOg_syySLWkC6RdE8RtSigI2Ny5AiTqGVZbAfaFjLry-142H2AZ4JP4VLjeveG1yc9jeaX9e4FdCn1d4OpzLXyVzg1E5iqAvWpcv8CKFRPIA"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTkNH2wODSyGtWHPljhCdf3qiy0M0AUX5Mrv6Nx3Yj8lHorP3Tzo3JqscfjZIZqjvy1udZlKGDXRnQebmvrwPfJDhx1YAr2nEYOxc_laEg",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Razer Huntsman Mini 60% Optical Gaming Keyboard",
+      "rating": 4.7,
+      "reviews": 2100,
+      "price": "$69.00",
+      "extracted_price": 69.0,
+      "original_price": "$100",
+      "extracted_original_price": 100,
+      "location": "Nearby, 4 mi",
+      "extensions": [
+        "30% OFF"
+      ],
+      "immersive_product_page_token": "4Z-7c3icbZPLjqNGGIWVt4nUm7pQYGfXvhQ2M0BTQIHZjMoUBkxxaQxuG8075BUi90ykyXJmMc_SeZIsY_U22f6f9OmcI_2_37Lyp_FhvIpz0LjbM52Ps6fCGVXptd-6vpVjOpTyh24ABDUMNYA1ohsEAfgtFYNQbX6nmqYbGBADE4w0AubYgN-LTEhVNpl7OGT9qk3fJRiAmUEw0dBsDiDW8V9lLfLsHf_x2svTG3paftKxMZuRGSTQ0CGeE6LPPj8xd_Xp_9nX5zHrr2-_Dm33UGdpIZoyFeqhyq77VtydD4e2f7hXyXtR12WTf8279zT_Nb3WpfxODF3TEdHxbK7PACY6eO3Ow63Iv4yjyt5WLw_Lx623XW57jugkTDUmmJ335WXtXR9b36RNEluTNOf4fnPYsjrxiHTS5NWWOmAXM5W-3HJ1G0-3Qt2y5s9WdOdD-vcv_6zP6XLZp0sv7Dq-YsAvYRuaKtrFyZMP4NFuui0D3TFAibuvoC0Qa-3Y2kVR0ewqYvq0Gx1MgyBy6rCuJtkwM1lRK4mUGURs6x0VTHhx4uG8DiJ6kIjpHFXTvnJqe0P1FM3jeFrQADrXGEqPI76wKyfahcz0KksEZtKzNU_cOJ9CxHYSkAOP4DJbky5pHoG7Wrh2CPG-6VBoyuckHBBTxRDgzotW0hLrHNpHOqYb-oEvodhPPBRrZvvhC_GgY_GG-2lNoIQLHmwKLwVMhVPxnBx5sqtTHCjuRkfuBSoHPNhefLVDYaVd9hUN-bFAHnC0JNxpWcxNx6TsY3Q58cYeWMSovUmIoNbaD2ns8RD71WWdmPngBd7EqnRIqfLFtNhk3Om8amiED1-8Y1HtImvlhA6KGtp4QQ4Zsn06yY8yVoVUbAyAQuy-q0sXbdDwk-D0bJbWgm2cqxslLNgoxmJu-RtL2Mci5BVd22iG40munZD0clWwL5dTf3gDj5QMvksCR27bLQufTRkRAfZGtkpHK79c_ZffoDEHYH7_Q0PTtX8B89ZBNA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4Z-7c3icbZPLjqNGGIWVt4nUm7pQYGfXvhQ2M0BTQIHZjMoUBkxxaQxuG8075BUi90ykyXJmMc_SeZIsY_U22f6f9OmcI_2_37Lyp_FhvIpz0LjbM52Ps6fCGVXptd-6vpVjOpTyh24ABDUMNYA1ohsEAfgtFYNQbX6nmqYbGBADE4w0AubYgN-LTEhVNpl7OGT9qk3fJRiAmUEw0dBsDiDW8V9lLfLsHf_x2svTG3paftKxMZuRGSTQ0CGeE6LPPj8xd_Xp_9nX5zHrr2-_Dm33UGdpIZoyFeqhyq77VtydD4e2f7hXyXtR12WTf8279zT_Nb3WpfxODF3TEdHxbK7PACY6eO3Ow63Iv4yjyt5WLw_Lx623XW57jugkTDUmmJ335WXtXR9b36RNEluTNOf4fnPYsjrxiHTS5NWWOmAXM5W-3HJ1G0-3Qt2y5s9WdOdD-vcv_6zP6XLZp0sv7Dq-YsAvYRuaKtrFyZMP4NFuui0D3TFAibuvoC0Qa-3Y2kVR0ewqYvq0Gx1MgyBy6rCuJtkwM1lRK4mUGURs6x0VTHhx4uG8DiJ6kIjpHFXTvnJqe0P1FM3jeFrQADrXGEqPI76wKyfahcz0KksEZtKzNU_cOJ9CxHYSkAOP4DJbky5pHoG7Wrh2CPG-6VBoyuckHBBTxRDgzotW0hLrHNpHOqYb-oEvodhPPBRrZvvhC_GgY_GG-2lNoIQLHmwKLwVMhVPxnBx5sqtTHCjuRkfuBSoHPNhefLVDYaVd9hUN-bFAHnC0JNxpWcxNx6TsY3Q58cYeWMSovUmIoNbaD2ns8RD71WWdmPngBd7EqnRIqfLFtNhk3Om8amiED1-8Y1HtImvlhA6KGtp4QQ4Zsn06yY8yVoVUbAyAQuy-q0sXbdDwk-D0bJbWgm2cqxslLNgoxmJu-RtL2Mci5BVd22iG40munZD0clWwL5dTf3gDj5QMvksCR27bLQufTRkRAfZGtkpHK79c_ZffoDEHYH7_Q0PTtX8B89ZBNA"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSzGSPBygnNefnXyHu6O-wHmkcz9pfO8gTzbEzpKmR5hB6tYIucatval0BaIes4tQC-4r7NEyV9IbvFhBFxWxmRVv0GP7aer3c3dZMXL4Ni",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Razer BlackWidow V3 Mechanical Gaming Keyboard",
+      "rating": 4.4,
+      "reviews": 165,
+      "price": "$119.00",
+      "extracted_price": 119.0,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "AX_tOXicdZNdjqNGEMelnCGHiDRaiW6-82YbGttjN6ahG7tfVj2ADUPzsTbYBuUOuYNnN9LmcRMpZ5mcJiTKY_JSUtWv9K_6S1U_P7LiD_O5H8Q1qv3VFdm9tctxL4ug-dqem7RPuiL9zdB0ywK6Ckwd6CZQDVv_mohOyOZUpL8DTTeAppiaCU1gWJpuWvBbnolUFnXmH4_Z2WmSv_t0y54QNKBiWxqcEk39tajEKfuXm5oOITRVdYqWYSi6qr-d08u7tlt8BMY0XYWWogFbU01N0yzzpx3xnY__A7986rPz8P5D17RPVZbkoi4SIZ_KbHhpxKT6dGzOT5PF01lUVVGfvpzaf5b4D6m3qki_6aahGdAGUFM00zKADd_aa_fIT5_7Xmbvzu1pMVsFq8XqzCAahSd7rpLrS3F3g2HWhB6q-X49pp6tTjVMFuWFxXqbeqxcIawc9kQmt8dJPvrLI5ePrP6lEe31mPz53fduc3MWl9sioG3LHKJEaM4ih2Hs4VtUtSqrTvDlNR2SCK-3JV9gNgOZiyLfoZpABMQlL8Q-DbYI7ehIOHa7YBsCHrtICUdXTZCNwwgv_CWJw5KLF9YC9pqfOcLbpLpLtuSvBFk3NgaQUv58kC3zIzlSb01DikXmBsoh7hBbsrNg83sI5I5WBy115oIytmGe7iUeDuge15mTQj6Ao4jtQri34aDgXjiyD9hqpK6s4wjrpFyjCGKAYxRGY44CutYCKQ28JIKX_MZHdsg8etvE-YjHtcRq20Yeue_huqJx90rjfJEOIEhYcw_HeZzVpCKebHyvhLTMu60HSjp53bKVShTg7tUUYYqfg3H-6QDmzaFE2Ge44C4jm30apU6p-wwFQXk3iNJd-BI_pyXIfbfjMZpP2vcqceZuRrsw9rpdWLXHjCH_UJJR7MmaO0mIxnST7mWeStJHioTkVQIfzZuoZhfB0NUr1nOyxIMfcxoBdqXlfZNS3mSSxyTCdzpyJMpyoCwPXyivP98v5-O7MkN6F_omXzfNOKODOmMfQn33Ae6OnxrYVMvN7Udg2ooynfL0uzr8CxVMUZQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=AX_tOXicdZNdjqNGEMelnCGHiDRaiW6-82YbGttjN6ahG7tfVj2ADUPzsTbYBuUOuYNnN9LmcRMpZ5mcJiTKY_JSUtWv9K_6S1U_P7LiD_O5H8Q1qv3VFdm9tctxL4ug-dqem7RPuiL9zdB0ywK6Ckwd6CZQDVv_mohOyOZUpL8DTTeAppiaCU1gWJpuWvBbnolUFnXmH4_Z2WmSv_t0y54QNKBiWxqcEk39tajEKfuXm5oOITRVdYqWYSi6qr-d08u7tlt8BMY0XYWWogFbU01N0yzzpx3xnY__A7986rPz8P5D17RPVZbkoi4SIZ_KbHhpxKT6dGzOT5PF01lUVVGfvpzaf5b4D6m3qki_6aahGdAGUFM00zKADd_aa_fIT5_7Xmbvzu1pMVsFq8XqzCAahSd7rpLrS3F3g2HWhB6q-X49pp6tTjVMFuWFxXqbeqxcIawc9kQmt8dJPvrLI5ePrP6lEe31mPz53fduc3MWl9sioG3LHKJEaM4ih2Hs4VtUtSqrTvDlNR2SCK-3JV9gNgOZiyLfoZpABMQlL8Q-DbYI7ehIOHa7YBsCHrtICUdXTZCNwwgv_CWJw5KLF9YC9pqfOcLbpLpLtuSvBFk3NgaQUv58kC3zIzlSb01DikXmBsoh7hBbsrNg83sI5I5WBy115oIytmGe7iUeDuge15mTQj6Ao4jtQri34aDgXjiyD9hqpK6s4wjrpFyjCGKAYxRGY44CutYCKQ28JIKX_MZHdsg8etvE-YjHtcRq20Yeue_huqJx90rjfJEOIEhYcw_HeZzVpCKebHyvhLTMu60HSjp53bKVShTg7tUUYYqfg3H-6QDmzaFE2Ge44C4jm30apU6p-wwFQXk3iNJd-BI_pyXIfbfjMZpP2vcqceZuRrsw9rpdWLXHjCH_UJJR7MmaO0mIxnST7mWeStJHioTkVQIfzZuoZhfB0NUr1nOyxIMfcxoBdqXlfZNS3mSSxyTCdzpyJMpyoCwPXyivP98v5-O7MkN6F_omXzfNOKODOmMfQn33Ae6OnxrYVMvN7Udg2ooynfL0uzr8CxVMUZQ"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT9vm6RiuF5JgJWGNL0-DwEH3sFHgJH3mWIXYNPLcLT8KInJeIzXcMDps8nCS0Pg34nsOE9wh0ecEcnj9WR3HQKEHd9gj-8HGbvgTpolU-PcFPirQ6a9f21",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "AULA S75Pro 75% Wireless Mechanical Gaming Keyboard TFT Screen Tri Connect Creamy HotSwap RGB",
+      "rating": 4.8,
+      "reviews": 15,
+      "price": "$89.99",
+      "extracted_price": 89.99,
+      "location": "Nearby, 4 mi",
+      "immersive_product_page_token": "pbJXUXicdVNbjqNGFJWyhiwikjVSVUFhyF9jG9pug5uCKjA_ozKFAVM8xgbboOwhe3DPRJp8RZNIWUtnNSHzn597pXPuPTpHV_fXR1r8PX_pB34N6t36ahm9_pq7vSy85mt7bkSfdIX4Q8eabmBsTEU15gh9TXjHZZMV4i84VzWMoKoaClKhbgBV077lKReyqNPd8Ziel03y3xyAKlAMPAfAAIaq6TrCvxcVz9Lv_J86UnSkIgUoUINY0zSsvZ3F5V19XXyESNfmCCBNVwEysDHXgPbLK9ktP_4P-eVTn56H95-6pp1VaZLzuki4nJXpcGj4pDo7NufZFC8786oq6uxL1n73iDRlCqLhSUPVFKxM_a0qxLcJUDWkG1AHUIfGXNff2mv3yLPPfS_T9-Vttnhae-vF-syQNXJb9rFCrofivvKGp8a3rTqONqOwDWXCXLIoLyzErbBZubZcsI-ITG6PTD76yyOXj7T-reHt9Zj888OPq-a2XFxuC4-2LVsS4PtgiCMTHJ4FD8OcU9otaZCbe7YB1BYqo7npBRvXDckyQC71qLy74WXcQ7ejZUv5mK8ZEOYeiXxPjZCVN5WsCPZYpvgVidLI9KYMjFuGH5cEiec1CqV1opU3cCROvBYdtTK8Zd7dj8g2XG6mLVMJg2xMLTZwIFyvNtd8ZGe3EmxfkzqAcpGuKA5OTHHs242E6l2wXGE2eSFjDD2UL0Ul7LQuh7BunX2dL4IK39MyNx0fOq7NrnvWeqHVai6A16TEFa3axSGioxduRnbKsR-w2LHFSVRtcUA4PNBuwUGnuFIODIpor0jugW6VRpbjnVwljvK9EzGVUB24lCjOqlODZe5P_DpGLHCgReJVOTjSJUnpwLR2pvsJ25PC9pkJA7hRk3LVcdBAF24uAb3vWJTXEXClsPJLEImeRwlMo8y3RrEVkcyFJH0AJCInCXeW2QQ1u3BmXe1iY5Jnd9iFsR-E8ZZGliR1u3Epe2GrixJY7lVYselI2exWmHy-X87Hd_Bk4c7fzeNN04xPdFCe2Acfv35Ar8dPDWqq5-3tZzg3pndTFTjHGP0LKAtPZA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pbJXUXicdVNbjqNGFJWyhiwikjVSVUFhyF9jG9pug5uCKjA_ozKFAVM8xgbboOwhe3DPRJp8RZNIWUtnNSHzn597pXPuPTpHV_fXR1r8PX_pB34N6t36ahm9_pq7vSy85mt7bkSfdIX4Q8eabmBsTEU15gh9TXjHZZMV4i84VzWMoKoaClKhbgBV077lKReyqNPd8Ziel03y3xyAKlAMPAfAAIaq6TrCvxcVz9Lv_J86UnSkIgUoUINY0zSsvZ3F5V19XXyESNfmCCBNVwEysDHXgPbLK9ktP_4P-eVTn56H95-6pp1VaZLzuki4nJXpcGj4pDo7NufZFC8786oq6uxL1n73iDRlCqLhSUPVFKxM_a0qxLcJUDWkG1AHUIfGXNff2mv3yLPPfS_T9-Vttnhae-vF-syQNXJb9rFCrofivvKGp8a3rTqONqOwDWXCXLIoLyzErbBZubZcsI-ITG6PTD76yyOXj7T-reHt9Zj888OPq-a2XFxuC4-2LVsS4PtgiCMTHJ4FD8OcU9otaZCbe7YB1BYqo7npBRvXDckyQC71qLy74WXcQ7ejZUv5mK8ZEOYeiXxPjZCVN5WsCPZYpvgVidLI9KYMjFuGH5cEiec1CqV1opU3cCROvBYdtTK8Zd7dj8g2XG6mLVMJg2xMLTZwIFyvNtd8ZGe3EmxfkzqAcpGuKA5OTHHs242E6l2wXGE2eSFjDD2UL0Ul7LQuh7BunX2dL4IK39MyNx0fOq7NrnvWeqHVai6A16TEFa3axSGioxduRnbKsR-w2LHFSVRtcUA4PNBuwUGnuFIODIpor0jugW6VRpbjnVwljvK9EzGVUB24lCjOqlODZe5P_DpGLHCgReJVOTjSJUnpwLR2pvsJ25PC9pkJA7hRk3LVcdBAF24uAb3vWJTXEXClsPJLEImeRwlMo8y3RrEVkcyFJH0AJCInCXeW2QQ1u3BmXe1iY5Jnd9iFsR-E8ZZGliR1u3Epe2GrixJY7lVYselI2exWmHy-X87Hd_Bk4c7fzeNN04xPdFCe2Acfv35Ar8dPDWqq5-3tZzg3pndTFTjHGP0LKAtPZA"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRgwX_JKTDEPkaWOgiXqFGScS0Z6EXUbWnjZIBjvGEQf217mWAsuazg4gI8GK6xHJM4Yl7Ur2ul3WiG5FXBiYB8KYf693-bClVUOD_1IR8",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTXV3w4Nn8sVCPhDktAY7NDzVyR-vNBiptQW_bqhwO4-bcQE9AY5tTnKs9mDw7npcSA-31OLnFGLOxuZIgebRhMBTdGfJY0MQ",
+      "source": "Staples",
+      "title": "Razer BlackWidow V4 Wired Mechanical Gaming Keyboard",
+      "rating": 4.5,
+      "reviews": 353,
+      "price": "$179.99",
+      "extracted_price": 179.99,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "RtdyOnicbY_brptGFEClfkM_otJRpLlwMXnzhcH2MWCPYQbPS4QZbDDXYMAG9R_6D05SKX1MKvVbTr-mTp_zutfWWnv_8YjTf_TXbgh7r3RXPTG6yTZxujzdVV_rppJd1Kbyb6ipOlZ0HWk6UieGrmkIfI3CNsyrcyq_G7oOVQNBBWoTAwMVaehbEocyT8vYPZ3iZlFFPyz6BAMdI6hDZaJNEEAK-CstwnP8P_-uKhp8MmwoigG1Z07Hnxp5fUPb-QfD0BUEsYoU9VkAaKLA37fUXXz4OfvysYub4e23tqpfijhKwjKNwvwli4djFT6dL6eqeXn-d27CokjL85dz_eOCn5g-Fan8puqaoqGJoSpI1bQJNJRPdd8-kvPnrsvjt8XtZT5d7VbzVcMQGUMr7wSm_TG9m7thWu0tUopgPUrLwM-ZQ-fZlXG1lhbLVsQBh4Dm0e1xzh_d9ZHkj7j8swrr_hT9-8uvZnVbzK-3-c6va7agYF_I3gO3u8wm6ACd6hjQy9GnbVgQk1mt41ttyS5iuwP1OiqnN9e695KvUOzlO4raQY7Cd5azV16or-zCiFiSdeQ5pziTjUPy6wHIbWyx5oDpICzmHzNBj89eWObEZ0bGLdXeMLZxTXGSqD4JLJcBgsILiLLbw40_rjMeUC1e1r2HWuFhUfGLWPkLuWHeWuFFPR6DaOClDbzCoL7FahaIixyJ2BMnjT1nGQLHDbDZCkygA6hmEyY8s_V3wazdcTqLPOFHhM2PC1oJQLnDRUJLmu9GaXuWDBxEgA8iKMEBOVmkMMB6u2DQNZ2Fg9bCNu-uKBLslLRkWBBqycYuHJszNkaAcAGpfWDUeu7dvQXB3DJ8L68ve8iK2BShawIcmuqC4bqzocQHXrXBOIMeJI0kshdZ-0pHvw1gNvBLtCej3MggT2ROOw_kiF5y6JJZ5ZXsGjLSW-l6RpfO4HLhcw6AzdVO8ESlZn63vWTwS-cQW4JykmxiIvHn-7U5vYEpUdu9q4t1VY1Tf8BT9m6vbt-h7eljhapiubm9h7oBgKFgqKsq-g-db05E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=RtdyOnicbY_brptGFEClfkM_otJRpLlwMXnzhcH2MWCPYQbPS4QZbDDXYMAG9R_6D05SKX1MKvVbTr-mTp_zutfWWnv_8YjTf_TXbgh7r3RXPTG6yTZxujzdVV_rppJd1Kbyb6ipOlZ0HWk6UieGrmkIfI3CNsyrcyq_G7oOVQNBBWoTAwMVaehbEocyT8vYPZ3iZlFFPyz6BAMdI6hDZaJNEEAK-CstwnP8P_-uKhp8MmwoigG1Z07Hnxp5fUPb-QfD0BUEsYoU9VkAaKLA37fUXXz4OfvysYub4e23tqpfijhKwjKNwvwli4djFT6dL6eqeXn-d27CokjL85dz_eOCn5g-Fan8puqaoqGJoSpI1bQJNJRPdd8-kvPnrsvjt8XtZT5d7VbzVcMQGUMr7wSm_TG9m7thWu0tUopgPUrLwM-ZQ-fZlXG1lhbLVsQBh4Dm0e1xzh_d9ZHkj7j8swrr_hT9-8uvZnVbzK-3-c6va7agYF_I3gO3u8wm6ACd6hjQy9GnbVgQk1mt41ttyS5iuwP1OiqnN9e695KvUOzlO4raQY7Cd5azV16or-zCiFiSdeQ5pziTjUPy6wHIbWyx5oDpICzmHzNBj89eWObEZ0bGLdXeMLZxTXGSqD4JLJcBgsILiLLbw40_rjMeUC1e1r2HWuFhUfGLWPkLuWHeWuFFPR6DaOClDbzCoL7FahaIixyJ2BMnjT1nGQLHDbDZCkygA6hmEyY8s_V3wazdcTqLPOFHhM2PC1oJQLnDRUJLmu9GaXuWDBxEgA8iKMEBOVmkMMB6u2DQNZ2Fg9bCNu-uKBLslLRkWBBqycYuHJszNkaAcAGpfWDUeu7dvQXB3DJ8L68ve8iK2BShawIcmuqC4bqzocQHXrXBOIMeJI0kshdZ-0pHvw1gNvBLtCej3MggT2ROOw_kiF5y6JJZ5ZXsGjLSW-l6RpfO4HLhcw6AzdVO8ESlZn63vWTwS-cQW4JykmxiIvHn-7U5vYEpUdu9q4t1VY1Tf8BT9m6vbt-h7eljhapiubm9h7oBgKFgqKsq-g-db05E"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSwPhMDP-R2cSAhAhaZ5zHXhEmxZVzvJD0CFITn892MjvYhzEXpxoLUpmHFL3dbSpPo9WwHCFTbsC6pkWObMlgupox3pU8odKoUnJfVrt4",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Logitech G PRO Gaming Mechanical Keyboard",
+      "rating": 4.6,
+      "reviews": 1200,
+      "price": "$119.00",
+      "extracted_price": 119.0,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "pn-X_XicbZBLjttGEIaR2wQYGOgHH2J2ejUlzQxJNdlNqjdGi02JlJqPoURpROQOuUKgsQM4SydAzjI5SZahvfamUKi__vrw12_3rPjHfuxu8hJV_vJCnG4U5F6ni3X9pWlr1aXnQv0NrRGChmUZyEAAG9ByoPMllWep6_03GdgOti1oI4wxxBaG0P6aZ1Lposr83S5rZ3X6fQ8B27RHEI--FeCYBvyzKOU--67__taq0zsKph8daEIIRgPWHgETAguMfg2oP_v4Y-3zS5e1t_efz3XzUGZpLqsilfrhmN22tRxuPuzq9mFIs29lWRbV_vO-GXB__eDSW1mor6ZtGRYyHAdbQ1gTmaO35nK-5_tPXaez99n1YTperpfTZcsR6aWrO4HpZVu8zte3cR26pBLJqleug4eZR6fHE4_NRrn8uCQe2CRUp9f7Xt-70z3X96z6o5bNZZf--9N_80s6nbbpdM2ahs8oCBNabmLdqn7yuq3Eo6r0JgQi4KBp0yO0Ejw5CO4dOYKux_OEJR7IGNHUXfU8XpXPbFULl7wwYLpi5tWs0mc2yzdCi9jDIt-gJlIlb1isg1g7muONKXrthxHtUsDrqBq8hLhyRsrBcfBnXPJSH-JFYw19ouZHg5VcxwfvdWCU8ZE_Uk2CTZzH_iw_sBD0WcyfBGyER7yK6jF6dk_nEDcRL2GtgLeQ7mq6xQKJGV9L1JTPSN9iPr9li7W5LXlFySR4PtJKxR5RA9NjV7Q9niXDzNhqJ4h6ioVeWRLnkR8tjXThzeNKB5IoPywbmpVXI40mm3Xk1dlC-axnZpaIJ8rEXDI1kSUx1yxPFBLPcaRDenSW66QJ1wzCBPBlWHlYuZur1LTYIHpJcRqSXj2pROdK0y4CGtGDhj6ZDP_iJ8nJxS1WE7rwbn4sQqZzqQjxowOHEec06VdacAHSiuyisrEi5uBPr6d29w7GxDyHvi1Wdd2P2Q2P-YfQDD6gYPdSo7pcPF1_gbYDgGNgaJsm-h_bgULq",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pn-X_XicbZBLjttGEIaR2wQYGOgHH2J2ejUlzQxJNdlNqjdGi02JlJqPoURpROQOuUKgsQM4SydAzjI5SZahvfamUKi__vrw12_3rPjHfuxu8hJV_vJCnG4U5F6ni3X9pWlr1aXnQv0NrRGChmUZyEAAG9ByoPMllWep6_03GdgOti1oI4wxxBaG0P6aZ1Lposr83S5rZ3X6fQ8B27RHEI--FeCYBvyzKOU--67__taq0zsKph8daEIIRgPWHgETAguMfg2oP_v4Y-3zS5e1t_efz3XzUGZpLqsilfrhmN22tRxuPuzq9mFIs29lWRbV_vO-GXB__eDSW1mor6ZtGRYyHAdbQ1gTmaO35nK-5_tPXaez99n1YTperpfTZcsR6aWrO4HpZVu8zte3cR26pBLJqleug4eZR6fHE4_NRrn8uCQe2CRUp9f7Xt-70z3X96z6o5bNZZf--9N_80s6nbbpdM2ahs8oCBNabmLdqn7yuq3Eo6r0JgQi4KBp0yO0Ejw5CO4dOYKux_OEJR7IGNHUXfU8XpXPbFULl7wwYLpi5tWs0mc2yzdCi9jDIt-gJlIlb1isg1g7muONKXrthxHtUsDrqBq8hLhyRsrBcfBnXPJSH-JFYw19ouZHg5VcxwfvdWCU8ZE_Uk2CTZzH_iw_sBD0WcyfBGyER7yK6jF6dk_nEDcRL2GtgLeQ7mq6xQKJGV9L1JTPSN9iPr9li7W5LXlFySR4PtJKxR5RA9NjV7Q9niXDzNhqJ4h6ioVeWRLnkR8tjXThzeNKB5IoPywbmpVXI40mm3Xk1dlC-axnZpaIJ8rEXDI1kSUx1yxPFBLPcaRDenSW66QJ1wzCBPBlWHlYuZur1LTYIHpJcRqSXj2pROdK0y4CGtGDhj6ZDP_iJ8nJxS1WE7rwbn4sQqZzqQjxowOHEec06VdacAHSiuyisrEi5uBPr6d29w7GxDyHvi1Wdd2P2Q2P-YfQDD6gYPdSo7pcPF1_gbYDgGNgaJsm-h_bgULq"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTI70RjNKKYZ60e2suEeYczKNRTn_Q3z4PnAG_84gX1I_Xq1OvUAVKmpM7spUYPFsOEsuUsknor9vGBMg5f5LtDYoJL62WOetJ2aINJuKI",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTUxcbAOp1W7saYdqcZvnnEGAgF4vylB2H-jyfij0iYPj-dwqlZe18y3pA7TtEvPHbzYxf-lajTL0rmS6X_ImuDdbAYjIZ3jyRB",
+      "source": "Home Depot",
+      "title": "OBJLGEV Typewriter Style Mechanical Gaming Keyboard Pink Retro Punk with White Backlit 104 Keys Blue Switch Wired Round Keycaps",
+      "price": "$91.97",
+      "extracted_price": 91.97,
+      "location": "Pickup, 3 mi",
+      "immersive_product_page_token": "l-VS53icLVNLjts4EEVuE8AIQIqkJWVnW59Wx6ZtSiRt7mRJtv5Sy5Ld9iXmCgN3MkBmmQSYs_ScZjRAalOoV1XvvVrUH48k-0f_MtzCS1CvvYtjDsYmpUOZbZvvbdfEQ9Rn8S-oGRrQINR1jRBtamKCyfco7MOyOWXxT4MQAAykYRMgDLSxxD_SJIzLrE7Wx2PSWU30PwvBGBjTKcSYGMgwDQTw31kVnpLf_amhjQo61A08hkFMXX_r4vOf316GpLu9f-ybdlIlURrWWRSWkyK5HZpwHJgcm24yuj11YVVl9enbqR35fkADYqSPNIAAMsVjfqtGmOhTPB0PQnD0aWgm1N_aS_9IT1-HoUzeretkMfO23sLrhObcQ7ccFGKXQ_Zqb2-zxnedWu2e77FrohGjbFGchSRt7IrCcyjY71gZXR-n8jGcH2n5SOq_mrC9HKN_P7zZXbRYXKL5lretsBjwi_4LK-x-zSnzc2X7gfBF1V_jfIVEqQR7UmngpjuWx_3aolflpkja_XJtOxbjJyglvgpLrVTFOlq0UIl0G-XsTnNR7-7zNnCfrYSnN7XbgsR1buNuwOqUy3qOVvfSk7zPD9b8wsr5qJtuKI-n1KV2APpgnxcar9LKF6mKHGYx2eJIOMvAhgEHFLFK5Qw6L9QWkLnm_CBJoSQle6BozB1CM-js4fwsNEHDe6wdeCx9bXUVT0yJCmPxtEWyYjuBChJymimH9tuAuQxSGAizjwGDK-lIKgsU2SxkgUJRGV8PnBWJC8OoLPf7V29HQQ8T6WjCJRt_p9z1jmPuputYvrZcGqFXOHaEPKJKuuTcyf2KVlKugO_ElRLtcpXTLeVKqnvMVzL6-nruju9g5pDeX-vquWnuM35DM_HJJ5tP2ub40mhN9bS8foa6CYCJEdTHl_gP25Qbsg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=l-VS53icLVNLjts4EEVuE8AIQIqkJWVnW59Wx6ZtSiRt7mRJtv5Sy5Ld9iXmCgN3MkBmmQSYs_ScZjRAalOoV1XvvVrUH48k-0f_MtzCS1CvvYtjDsYmpUOZbZvvbdfEQ9Rn8S-oGRrQINR1jRBtamKCyfco7MOyOWXxT4MQAAykYRMgDLSxxD_SJIzLrE7Wx2PSWU30PwvBGBjTKcSYGMgwDQTw31kVnpLf_amhjQo61A08hkFMXX_r4vOf316GpLu9f-ybdlIlURrWWRSWkyK5HZpwHJgcm24yuj11YVVl9enbqR35fkADYqSPNIAAMsVjfqtGmOhTPB0PQnD0aWgm1N_aS_9IT1-HoUzeretkMfO23sLrhObcQ7ccFGKXQ_Zqb2-zxnedWu2e77FrohGjbFGchSRt7IrCcyjY71gZXR-n8jGcH2n5SOq_mrC9HKN_P7zZXbRYXKL5lretsBjwi_4LK-x-zSnzc2X7gfBF1V_jfIVEqQR7UmngpjuWx_3aolflpkja_XJtOxbjJyglvgpLrVTFOlq0UIl0G-XsTnNR7-7zNnCfrYSnN7XbgsR1buNuwOqUy3qOVvfSk7zPD9b8wsr5qJtuKI-n1KV2APpgnxcar9LKF6mKHGYx2eJIOMvAhgEHFLFK5Qw6L9QWkLnm_CBJoSQle6BozB1CM-js4fwsNEHDe6wdeCx9bXUVT0yJCmPxtEWyYjuBChJymimH9tuAuQxSGAizjwGDK-lIKgsU2SxkgUJRGV8PnBWJC8OoLPf7V29HQQ8T6WjCJRt_p9z1jmPuputYvrZcGqFXOHaEPKJKuuTcyf2KVlKugO_ElRLtcpXTLeVKqnvMVzL6-nruju9g5pDeX-vquWnuM35DM_HJJ5tP2ub40mhN9bS8foa6CYCJEdTHl_gP25Qbsg"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQYiSJrLIDfqgtbw5EYZ2k3X2ZfO6iqeyaGAEfH1restwujQy4urarWaoGm5dLY8YMQofsgztvWR8Ri3e_QKfqhrODvYW3EfBvcv-dKb0A",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Razer Ornata V3 X Low Profile Gaming Keyboard",
+      "rating": 4.6,
+      "reviews": 2200,
+      "price": "$34.98",
+      "extracted_price": 34.98,
+      "original_price": "$42",
+      "extracted_original_price": 42,
+      "location": "Nearby, 3 mi",
+      "extensions": [
+        "17% OFF"
+      ],
+      "immersive_product_page_token": "V9JltHicbZPNjqNGFIWlPEMeIpI1Uv1QGLLzH7TdDTYFVWWzGZUpbGh-G4MNVt4h7-CeiTRZThZ5ls7ThCjb2d5zde53dHR_f8Tp39PnbpDXoNyur5bZGbvE7fLUq77VTaW6qE3VX6amY9PAABGMICKIGOBbJFuZV-dRJdjUCTZ0ONV0iExD19D3JJYqT8t4ezrFzbKKxjXDIEgDJgFTw4AmMAHGf6aFPMf_yxoyAAL6FJsaBlA3IADvjbp8oN3iMwbGeF0HGACIoAHRVPttR7fLzz_Wvr51cTN8_NJW9aSIo0SWaSTzSRYPx0qOnpNT1UzGdOdGFkVanr-e6_8IfuD0XqTqO5nqmo5GIAKgYSAd4ff62j6S85euy-OP5W2ymK299WLdcGTdpZ13IabXY9qvvGFW-bZVhvvNXdkmHmcuXWQXLkitbJ6tLRcc9jSPbo9z_ugujyR_xOUflayvp-ifn35eVbfl4nJbeKyu-ZICH4bAgzPMUN3xzLq7hctCxnG0zwbOE81JIZavHuKC1wfB7RfmDYxxHtp9_rKP7s6K3A77zSAyDfL7auDQfKblRrKRLYBhdYDhU3RPehrQXWiTmsLao3Ce-AsI2cptjstkGQnlSwALxRIZoo0d7dX6aDMYZPTmZLA7iFp3cUacgPWKm-CII-wz1RwtuvWF-SZE3yhBV4fX7B7mCYkC_hzzOXKt9RBwiiRQc4fPO5VtPL8cc-fWE30NnQBTerSz4YBrW4KzFtgODhntjihBwVN9kkXVc06FB9Uw9lB73LUYN3tlUTCyozCw5sG-Xoqy1pxVu1DCTBgLL7Hdp0dYPweF8lzQS0esYSi4JXiYjJ6aa9M2znLi7_nblieeA5MkXpFky1gb2-REi9ylmTqEllo4du8IUUsf8yEuYO_YkW_d1Yva54nKaReAHNHXHG6teRWU_CK5dbXTzZw-ucNWhIxhpgm2cUNB_Lhw2mCl_Hg5Qw5XROacCbvFX_pLc_oAM4u0_nYabqrqPmMDnvFPPtl9QrvTW4Wq4unl9iucmgCM3wSnhKB_AR0ITPk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=V9JltHicbZPNjqNGFIWlPEMeIpI1Uv1QGLLzH7TdDTYFVWWzGZUpbGh-G4MNVt4h7-CeiTRZThZ5ls7ThCjb2d5zde53dHR_f8Tp39PnbpDXoNyur5bZGbvE7fLUq77VTaW6qE3VX6amY9PAABGMICKIGOBbJFuZV-dRJdjUCTZ0ONV0iExD19D3JJYqT8t4ezrFzbKKxjXDIEgDJgFTw4AmMAHGf6aFPMf_yxoyAAL6FJsaBlA3IADvjbp8oN3iMwbGeF0HGACIoAHRVPttR7fLzz_Wvr51cTN8_NJW9aSIo0SWaSTzSRYPx0qOnpNT1UzGdOdGFkVanr-e6_8IfuD0XqTqO5nqmo5GIAKgYSAd4ff62j6S85euy-OP5W2ymK299WLdcGTdpZ13IabXY9qvvGFW-bZVhvvNXdkmHmcuXWQXLkitbJ6tLRcc9jSPbo9z_ugujyR_xOUflayvp-ifn35eVbfl4nJbeKyu-ZICH4bAgzPMUN3xzLq7hctCxnG0zwbOE81JIZavHuKC1wfB7RfmDYxxHtp9_rKP7s6K3A77zSAyDfL7auDQfKblRrKRLYBhdYDhU3RPehrQXWiTmsLao3Ce-AsI2cptjstkGQnlSwALxRIZoo0d7dX6aDMYZPTmZLA7iFp3cUacgPWKm-CII-wz1RwtuvWF-SZE3yhBV4fX7B7mCYkC_hzzOXKt9RBwiiRQc4fPO5VtPL8cc-fWE30NnQBTerSz4YBrW4KzFtgODhntjihBwVN9kkXVc06FB9Uw9lB73LUYN3tlUTCyozCw5sG-Xoqy1pxVu1DCTBgLL7Hdp0dYPweF8lzQS0esYSi4JXiYjJ6aa9M2znLi7_nblieeA5MkXpFky1gb2-REi9ylmTqEllo4du8IUUsf8yEuYO_YkW_d1Yva54nKaReAHNHXHG6teRWU_CK5dbXTzZw-ucNWhIxhpgm2cUNB_Lhw2mCl_Hg5Qw5XROacCbvFX_pLc_oAM4u0_nYabqrqPmMDnvFPPtl9QrvTW4Wq4unl9iucmgCM3wSnhKB_AR0ITPk"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRr1oebyIqI1qWYia1dUyDcBddFEiseDLzRLIlHBQALXfECtImkdBwYnesrNwlChdldHfgP5_w9lEeyuXrKvpr_ZXv_h-szublsg6iXQ3U2AJQBrvojmEzP",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Logitech G316 X 98 Gaming Keyboard",
+      "rating": 4.6,
+      "reviews": 23,
+      "price": "$119.99",
+      "extracted_price": 119.99,
+      "location": "Nearby, 4 mi",
+      "immersive_product_page_token": "HxXf2XicdZFNrqNGFIWlrCGLiGS1VFVQBjLzHxjeM5gCqmwmLaCwwRQ_bYPBKHvIHvy6I3WGnUhZy8tqQvc80_NJn8659_dnmv-jvHSP6O5XjnnXtU7dZ3Yncrf-2lxr3iVtzv9SZU1WFW0uqQBhBOYYql-TqI1EfZ6ohoGmAaypEEJJVSUk429ZGnGRV6lzOqXXdZ18l2iqDACACoKyomE0V-Q_8zI6pz_w3xArKpJVoCEJAAVr35VvV357l_erjxCrMkSyospIgiqQJpP8254464__A7986tLr4_2Xtm5mZZpkUZUnkZgV6SOuo8k6O9XX2TTwfI3KMq_OX87NjxJAk6apEAGIMAZzRQHztzLn37Ayl-dI1dCknzKszd-ae_vMzp-7TqTv6362WpiuuTKvFOljZIgulMg9zoeN-1jUnqFX4cEauaFJU2aTVXGjDDfcoIWp2-B4ICLpn2fx7G7PTDzT6o86au6n5N-fft7U_Xp161du0DR0TYAnLQbPyBwOcDk5bUJ1GhZaz6gwGNVsF5HO3upVfDAB9TmIKSnsAINo065fGcYBG-iurGVWum0MucEZtyNUj6yidcrOg093clJaF3axaQy13oWhGSB1fGU68qn14mzsQ1QMxB6JmSAT7QqbpQYtw5LegzJsku3y4V_Mnq257JXZLtXt0KeEEGbVbrEb3csSUEFK119aBDTyAWrQA43Bt4sh2JI23mQtDYQVXfjN3wxOPIojkbgcS2QfFvaOV9kLB_QSCevOdB0cReYHaIAREpsQahdihDYrQhL4FkgrLgUgkTniu6jMrn4AV4mUtQ6zaKo3gK95foDWI2b23r-IbGcIkbDmEIy886TmxCq39wLQ8xX004DUwVpEFOpFoItuN9qRV5zbY0nDY2lPV5B7XsCMCb3fBTKefn1y9KMUSwtPH_krP4iMC9L5QCByEdDRl7Vf0VtE9buRW0uytR8OC70EtNujrwcepDdiDEMg6Qef7VrHIA1lpuRvrOXn4XY9vYOFjlvPUUKrrsdF8JAW9IOH9x_Q_vSpRnW5fe1_hYoGgCZLUMEY_Qe-qk9u",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=HxXf2XicdZFNrqNGFIWlrCGLiGS1VFVQBjLzHxjeM5gCqmwmLaCwwRQ_bYPBKHvIHvy6I3WGnUhZy8tqQvc80_NJn8659_dnmv-jvHSP6O5XjnnXtU7dZ3Yncrf-2lxr3iVtzv9SZU1WFW0uqQBhBOYYql-TqI1EfZ6ohoGmAaypEEJJVSUk429ZGnGRV6lzOqXXdZ18l2iqDACACoKyomE0V-Q_8zI6pz_w3xArKpJVoCEJAAVr35VvV357l_erjxCrMkSyospIgiqQJpP8254464__A7986tLr4_2Xtm5mZZpkUZUnkZgV6SOuo8k6O9XX2TTwfI3KMq_OX87NjxJAk6apEAGIMAZzRQHztzLn37Ayl-dI1dCknzKszd-ae_vMzp-7TqTv6362WpiuuTKvFOljZIgulMg9zoeN-1jUnqFX4cEauaFJU2aTVXGjDDfcoIWp2-B4ICLpn2fx7G7PTDzT6o86au6n5N-fft7U_Xp161du0DR0TYAnLQbPyBwOcDk5bUJ1GhZaz6gwGNVsF5HO3upVfDAB9TmIKSnsAINo065fGcYBG-iurGVWum0MucEZtyNUj6yidcrOg093clJaF3axaQy13oWhGSB1fGU68qn14mzsQ1QMxB6JmSAT7QqbpQYtw5LegzJsku3y4V_Mnq257JXZLtXt0KeEEGbVbrEb3csSUEFK119aBDTyAWrQA43Bt4sh2JI23mQtDYQVXfjN3wxOPIojkbgcS2QfFvaOV9kLB_QSCevOdB0cReYHaIAREpsQahdihDYrQhL4FkgrLgUgkTniu6jMrn4AV4mUtQ6zaKo3gK95foDWI2b23r-IbGcIkbDmEIy886TmxCq39wLQ8xX004DUwVpEFOpFoItuN9qRV5zbY0nDY2lPV5B7XsCMCb3fBTKefn1y9KMUSwtPH_krP4iMC9L5QCByEdDRl7Vf0VtE9buRW0uytR8OC70EtNujrwcepDdiDEMg6Qef7VrHIA1lpuRvrOXn4XY9vYOFjlvPUUKrrsdF8JAW9IOH9x_Q_vSpRnW5fe1_hYoGgCZLUMEY_Qe-qk9u"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSc4T7znlY3C4QdiDH5e63-SIx_AMO0YVMv4QOXgnsIi2f6d3mb_vbnI_StasR_em6fwftfM-krl66mvDuUGwgGMYL1cRHPiGWT4npa2-Vup8gaQlw7UKAy",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Onn. Mechanical Gaming Keyboard",
+      "rating": 4.2,
+      "reviews": 283,
+      "price": "$46.00",
+      "extracted_price": 46.0,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "bpUVunicdZNNjqNGFIClnCGHiNQbigKXya5tujC0XZgCCrs2I6Aw0BQ_g42NUe6QO3hmIk2Wk0g5S-c0IVGWyfZ9733vR3o_P7LyD_Q63ONr0Lj2FRvDcl-QQZZe-7XrWzGkl1L8DpAOlwsVIqAgACEAUEFf0_gSyzYvxW8AIaQBqBtINTSgQ7hA34osFrJsMvd0ynqzTf-2gKUBdFU1FgpcGgjMVvBrWcd59i9XlnABjbkRArNHVaEOP_Xi_K7t1x-ACmYONDDnIIiQrunopz11zQ__A798HLL-_v7Dpe2e6iwt4qZMY_lUZfekjWfr06ntn-YV8z6u67LJv-TdP0P8h-pTXYpvOlpoC1VTlrqxQCpCUP_UXS-PIv88DDJ7N29P62fbs9d2z1Q8xZYcOKTXpBxfvPtz61u44QdnEpYB5xih6-rMIr0TFqtsTJTjgcr09sjlYzg_CvnIml_auLue0j-_-_6lvZnr823thV3HTKr4FbsnlvMqDs5HX1mOHBt2YI2UsG4rrOV9VzltisXet6ibstXary93shFXUtExPThDZEknazAW1e5CLLAKN1hL687joVHxRlrp22obTuTmBvgmIq5mUVH6B0dG0VHlKl_4Cm09QCwChO5HvOANc3xow9gadyksaMIKO4mWN1JfAJVkxZX0tqvtkYaY-UGleoB1AogxVXN11xDXq7oDD8hrHLENtyo9lM7Zk8YYT5gdq0ojcnWKTAliKLskFH4AcJFayykJb4BjEYoNPu6AYx2bSmXMoIlpaxR0PplwIcJKO4Z8H0WXPbXaca67J3BlC5PoHHdKqjqex1LF3RSlx7jODiwmZgHTN6ePAjmRUJLAMpyYkT5ktNmynRqFo5U1hedGklPz5cJr1u4A3kdvOCAqjQIm6xTIKQasppgrh2nn40lsxUEWQtIhUKRK3yRw8aoNGnaOGb5apbOiG3J3I-6TzQtM5juG1aU8wFCJK24Gym1KgHMnASeCkdXn8dyf3pVnrF98d9FtV2jba1bu-gMyWX563Qm8Pk1-lv8IkKEohgbnb9PQX7Q9T5A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bpUVunicdZNNjqNGFIClnCGHiNQbigKXya5tujC0XZgCCrs2I6Aw0BQ_g42NUe6QO3hmIk2Wk0g5S-c0IVGWyfZ9733vR3o_P7LyD_Q63ONr0Lj2FRvDcl-QQZZe-7XrWzGkl1L8DpAOlwsVIqAgACEAUEFf0_gSyzYvxW8AIaQBqBtINTSgQ7hA34osFrJsMvd0ynqzTf-2gKUBdFU1FgpcGgjMVvBrWcd59i9XlnABjbkRArNHVaEOP_Xi_K7t1x-ACmYONDDnIIiQrunopz11zQ__A798HLL-_v7Dpe2e6iwt4qZMY_lUZfekjWfr06ntn-YV8z6u67LJv-TdP0P8h-pTXYpvOlpoC1VTlrqxQCpCUP_UXS-PIv88DDJ7N29P62fbs9d2z1Q8xZYcOKTXpBxfvPtz61u44QdnEpYB5xih6-rMIr0TFqtsTJTjgcr09sjlYzg_CvnIml_auLue0j-_-_6lvZnr823thV3HTKr4FbsnlvMqDs5HX1mOHBt2YI2UsG4rrOV9VzltisXet6ibstXary93shFXUtExPThDZEknazAW1e5CLLAKN1hL687joVHxRlrp22obTuTmBvgmIq5mUVH6B0dG0VHlKl_4Cm09QCwChO5HvOANc3xow9gadyksaMIKO4mWN1JfAJVkxZX0tqvtkYaY-UGleoB1AogxVXN11xDXq7oDD8hrHLENtyo9lM7Zk8YYT5gdq0ojcnWKTAliKLskFH4AcJFayykJb4BjEYoNPu6AYx2bSmXMoIlpaxR0PplwIcJKO4Z8H0WXPbXaca67J3BlC5PoHHdKqjqex1LF3RSlx7jODiwmZgHTN6ePAjmRUJLAMpyYkT5ktNmynRqFo5U1hedGklPz5cJr1u4A3kdvOCAqjQIm6xTIKQasppgrh2nn40lsxUEWQtIhUKRK3yRw8aoNGnaOGb5apbOiG3J3I-6TzQtM5juG1aU8wFCJK24Gym1KgHMnASeCkdXn8dyf3pVnrF98d9FtV2jba1bu-gMyWX563Qm8Pk1-lv8IkKEohgbnb9PQX7Q9T5A"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSM86DKtd0eFh7rt81mUT5CpnO37_kttZ0oMgBRbin7IWO-kagD3T4pH7iL4GPF3GgfHs34MoMnqPVNZ_NbI4n72XEdWN3IJjpCgqPOzhS3GcsT4n1p5z61xA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTXV3w4Nn8sVCPhDktAY7NDzVyR-vNBiptQW_bqhwO4-bcQE9AY5tTnKs9mDw7npcSA-31OLnFGLOxuZIgebRhMBTdGfJY0MQ",
+      "source": "Staples",
+      "title": "Razer Ornata V3 Mecha-Membrane Gaming Keyboard",
+      "rating": 4.6,
+      "reviews": 345,
+      "price": "$83.99",
+      "extracted_price": 83.99,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "Py2AxnicbVNLrqNGFJWyhiwi0ptU8Scz21DGPBuey1BATVplCgOm-LQNNka9h-zB3R2pM-y0lLW8rCYk48yu7rn3nnN0dH97ZuVf-uvwYLeg8Tc3ZA7GW-ENoty337pLy4e0L_kPqCpAViVFB1CXDEVRZBN8S1nPRJv_C0umJhtQh4Y0zxhQ0hT5e5ExLsom80-n7GK1acm_G4oGoKaosmxqKlQ1YP5R1izP_kN_QB2YAAANytCYS9XUIPx84dd36W31wZgZTVNXVAAgNICqmeDTG_atD_-Pff04ZJfH-y99273UWVqwpkyZeKmyx7Fl882XU3t5mf3lF1bXZZN_zbtZwp8KVDTVnCXqGtQkYCoG_FzPwlVdUzTJmF3O2hRJkszP3a1_FvmXYRDZu3V_WS02-81qcyESmthaDFTGt2M52vvHoj2sUUNjd-JrU557Hl5VVxKpHV-TaoM8kMRYpPdnLp7D9VmIZ9b83rLudkr__ulnu71bq-t9tQ-7jlgYHKT7gwq3oJW6pRVOQpCOFLgnjDovdSoJkyLGMqHbWBBqLQCW4LwFV0xO5F2UKLuYv-2rDTw2bhWEsEwbtMQi74lV9Tswx23DLom6ZWCPTgipOMiYHGtsc1vtM7JQA4dqflTIGRFWagt4IHznyR5Lq42aRYXtSSlkUf_KmlDdoUQ9RshNzyIMxLJOJndIIf_InaJmcbcO5MIloGMpQEkWcTkhZkXqzqUAlQls1WPdT_vJ7j0Hdceom7KaJJhQh9X0EjbCx9JV4o7wZt57FCGaQqTRGJUkwmc-8X0W0W2IuhI3aOSOlwQAnz17jLlIx100rrJYuGQqdjuAWrp2X7dxMuKQB6nDX0moWgdhjP4aepHDpf3knXBDe44K5-jgmJFCkGaj-oSu2JzugQgFW5QGoRA7iYyptdTYVHhHYR_QxLc8FgUXeAiAkPBZQB8t26AhV0bQbV26S-x4Dz-iAY68e3rm56jmChP8sZMUJSCCHicS-vHiEVTF8st4vZzewQKp_cHXuu1S316Ude4fBt0i-el1x9HqNB2y_Feozx9lKjLUVUX_B8Q3UJo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Py2AxnicbVNLrqNGFJWyhiwi0ptU8Scz21DGPBuey1BATVplCgOm-LQNNka9h-zB3R2pM-y0lLW8rCYk48yu7rn3nnN0dH97ZuVf-uvwYLeg8Tc3ZA7GW-ENoty337pLy4e0L_kPqCpAViVFB1CXDEVRZBN8S1nPRJv_C0umJhtQh4Y0zxhQ0hT5e5ExLsom80-n7GK1acm_G4oGoKaosmxqKlQ1YP5R1izP_kN_QB2YAAANytCYS9XUIPx84dd36W31wZgZTVNXVAAgNICqmeDTG_atD_-Pff04ZJfH-y99273UWVqwpkyZeKmyx7Fl882XU3t5mf3lF1bXZZN_zbtZwp8KVDTVnCXqGtQkYCoG_FzPwlVdUzTJmF3O2hRJkszP3a1_FvmXYRDZu3V_WS02-81qcyESmthaDFTGt2M52vvHoj2sUUNjd-JrU557Hl5VVxKpHV-TaoM8kMRYpPdnLp7D9VmIZ9b83rLudkr__ulnu71bq-t9tQ-7jlgYHKT7gwq3oJW6pRVOQpCOFLgnjDovdSoJkyLGMqHbWBBqLQCW4LwFV0xO5F2UKLuYv-2rDTw2bhWEsEwbtMQi74lV9Tswx23DLom6ZWCPTgipOMiYHGtsc1vtM7JQA4dqflTIGRFWagt4IHznyR5Lq42aRYXtSSlkUf_KmlDdoUQ9RshNzyIMxLJOJndIIf_InaJmcbcO5MIloGMpQEkWcTkhZkXqzqUAlQls1WPdT_vJ7j0Hdceom7KaJJhQh9X0EjbCx9JV4o7wZt57FCGaQqTRGJUkwmc-8X0W0W2IuhI3aOSOlwQAnz17jLlIx100rrJYuGQqdjuAWrp2X7dxMuKQB6nDX0moWgdhjP4aepHDpf3knXBDe44K5-jgmJFCkGaj-oSu2JzugQgFW5QGoRA7iYyptdTYVHhHYR_QxLc8FgUXeAiAkPBZQB8t26AhV0bQbV26S-x4Dz-iAY68e3rm56jmChP8sZMUJSCCHicS-vHiEVTF8st4vZzewQKp_cHXuu1S316Ude4fBt0i-el1x9HqNB2y_Feozx9lKjLUVUX_B8Q3UJo"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRBnEi_44kVACHgRQH7OJsYvtHO5YvN9Xk9CTv8Kbu4uMig_ZuTvoLdzqGnVJ0H2XZrvtCGI7clGpMLr5ufpKKLVrfQwQCLZXImcixzsJv4rlLItA9NPBgB",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Razer BlackWidow V3 Tenkeyless",
+      "rating": 4.7,
+      "reviews": 649,
+      "price": "$99.97",
+      "extracted_price": 99.97,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "U_f4bHicdZNdjqNGFIWlrCGLiOSXooDC5K1tXBjaQLuAKuBlhCkMmDLQ2PgHzR6yB_dMpJnHmZGyls5qwiTPeb1H99zv6Oj-8cirv7Tn4Z5egsazLlgf5i-lO4hq237p-pYP2bni3zUNyJKmqkiRgYJUOFfAlyw9p6ItKv5DgkjXoYLmsirrc0VXkKR-K_OUi6rJvf0-7402m1wgmCuSDiSoz2UFalAB4Gt1TIv8X_mHpAE0hyoCmiLr8KcbUN96fnpXXpYfJHWOJCQBVZsgFAVpCOkfX4hnfPgf8fPrkPf399_ObTc75lmZNlWWilmd33dtOrnO9m0_mxIWfXo8Vk3xuej-g5joFDQFRZqMoKpDVXs7VvybqiEFwbmOZE0F8nQDvHWX86MsPg2DyN-N62z5ZG2tpdVTiMfUFEMik8uuuq2296fWN3GTRPbITV2eZi5Z1ifK1I6btLawC-KIiOz6KMRjOD1K8cibP9u0u-yzv3_5ddVejeXputyGXUcNAoI1bcnapV6Aqxg6YzguCGfnZVB3kmfggUCBvKVkbI9JG0Ru6Zhd6lL75GMcu6ONg6ZEbNXB7RhLG3aC_qqWQpZIeYMjL-DXxORJgImaAPK6CXBPceLlLLw7QPQh5Ubc4Jg1NGBBAQi15TxwQRDaN38t9ltYlhy7V34gy-x4Q-RgjVloIze81THTT5ytVP-wII7p7ine3rkgmNb8lQnScjO7E8MNWZ1ENOJSiu1rtopBYlCLrbHKxHbkrLu6sFRdQZx8Tc2cOoAA4W1YAvMDMTNTwIS6G2Z266SSzny0gFuX1s4QDjOlF9osvDBagDAsRj9w1yTIQCj0QwRch0PpsBVd447JccdUxcWL0h0n3vCG41B4hNHaj-yWYD3ygZ34TdLHMrUybN2omLSxRATEcsoSkpnKuGHnZy-gNQszH498wyNRTnmHAAhIDkLy8KINGnpKKb6Ylb2YOr170-5uTSTnmLx4weKYgUzOjSc5ER0NqJ04Mo0iyBefbqd-_w6esHr2PdRtFtqmV8zC8wfNoMX-2eF4uR_9vPhd0nQAdOXn-yraPz5HTpM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=U_f4bHicdZNdjqNGFIWlrCGLiOSXooDC5K1tXBjaQLuAKuBlhCkMmDLQ2PgHzR6yB_dMpJnHmZGyls5qwiTPeb1H99zv6Oj-8cirv7Tn4Z5egsazLlgf5i-lO4hq237p-pYP2bni3zUNyJKmqkiRgYJUOFfAlyw9p6ItKv5DgkjXoYLmsirrc0VXkKR-K_OUi6rJvf0-7402m1wgmCuSDiSoz2UFalAB4Gt1TIv8X_mHpAE0hyoCmiLr8KcbUN96fnpXXpYfJHWOJCQBVZsgFAVpCOkfX4hnfPgf8fPrkPf399_ObTc75lmZNlWWilmd33dtOrnO9m0_mxIWfXo8Vk3xuej-g5joFDQFRZqMoKpDVXs7VvybqiEFwbmOZE0F8nQDvHWX86MsPg2DyN-N62z5ZG2tpdVTiMfUFEMik8uuuq2296fWN3GTRPbITV2eZi5Z1ifK1I6btLawC-KIiOz6KMRjOD1K8cibP9u0u-yzv3_5ddVejeXputyGXUcNAoI1bcnapV6Aqxg6YzguCGfnZVB3kmfggUCBvKVkbI9JG0Ru6Zhd6lL75GMcu6ONg6ZEbNXB7RhLG3aC_qqWQpZIeYMjL-DXxORJgImaAPK6CXBPceLlLLw7QPQh5Ubc4Jg1NGBBAQi15TxwQRDaN38t9ltYlhy7V34gy-x4Q-RgjVloIze81THTT5ytVP-wII7p7ine3rkgmNb8lQnScjO7E8MNWZ1ENOJSiu1rtopBYlCLrbHKxHbkrLu6sFRdQZx8Tc2cOoAA4W1YAvMDMTNTwIS6G2Z266SSzny0gFuX1s4QDjOlF9osvDBagDAsRj9w1yTIQCj0QwRch0PpsBVd447JccdUxcWL0h0n3vCG41B4hNHaj-yWYD3ygZ34TdLHMrUybN2omLSxRATEcsoSkpnKuGHnZy-gNQszH498wyNRTnmHAAhIDkLy8KINGnpKKb6Ylb2YOr170-5uTSTnmLx4weKYgUzOjSc5ER0NqJ04Mo0iyBefbqd-_w6esHr2PdRtFtqmV8zC8wfNoMX-2eF4uR_9vPhd0nQAdOXn-yraPz5HTpM"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRKxaZxN6YJeJ1POzwQIscNLI2tg8rJlVBBVzeE3cTiXjUZxz4620EXRW3NpBnQKQnZwHNykHaSWKbV4Zn3_UM03-LqkSR8iVU0AZ6UKTezoA4T7l6sNyFBkA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Logitech G515 TKL Gaming Keyboard",
+      "rating": 4.5,
+      "reviews": 158,
+      "price": "$119.99",
+      "extracted_price": 119.99,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "1JJWHnicdZNNrqNGEMelnCGHiPQ2zbfJ7tm4sbEB09DNx2bUpjFgGsNgYwOaO-QOfjORJstJpJzl5TQhk2WURW3qV_XXv0pVvzyz8k9t14_0Hlzc7R3q_eJQOD0vveZr2zWsT28l-0MQZKBrsqgrwkJeLDRV1ZWvKb1R3uTfsSoCRZdFWRQBmKksat-KjDJeXjL3dMo6o0n_qRNlVV4oQFGFhSRL6kIStN_KmubZd_67Liw0XVR0RRMFVdF0VVffOnZ9lw-rD4IoKEAG2hxg1hEkTVQ-HZBrfPgf-OVjn3Xj-0-3pn2ps7SglzKl_KXKxmNDZ9WXU9O9zCPmHa3r8pJ_ydt_Pf5X6q0u2TdFU2VVVFRJkmRZ1cBi8dbeb88i_9z3PHs3Hi-r1623XW07IsKJmrxPJHQ_lsPaG18b34SXJLImZurSnHPQqrqSUGmZSaotdEAcIZ4-njl_9tdnwZ_Z5deGtvdT-tcPP66bh7G6PlYebltiIODXg0wN8tEjyykMHIqroQvXwwFhFmRrGB4vBGCR9TTkI9nkUjJBnEXpdNw4H6lgD7hOZbQpRJtbZwqtK-EIHqubQSrrsCfMY1iQCNRdJDZCHCU4mvC4J0glNcNogwy0LuI4WO4ckyU2x9MRJ4cQkzsKkH8EyT01HyPB7ZQQvXIuhbwPGUwidksIrJJKFwi0ByQtTbwePH9CVRzqnm0w3wmVlV05gR_FDyqQJNmwhIaE2jXcoci5xSE6UKCf_VHowxpt9yG8Hs2ks7luBVUrHjfFLg2cpRfqUsbbMq7RLhEsy6kQmHe_D3DhBZPTE2zFbuSQoLJcGnqAbAhkorPNKjgEAqKBwM5OZMVzH0cmbzGGEQ6YgqubaM--cI0iW8rH43zFAUjs7FKsvNAaSD2UqBIMDB0nDuOHHSEZQ4S9EfhwYnsW8YJx1AeAi-jMBRcum-BCrpTAu1laS7RxRjdMAho55-xcJKHZTq55lTxeGCknD2KSMOR4SERd-jxcu9M7eIXKzXfVdr_U9p1s5q7fawbJTzubwdVp8rP8Z0HTAdDl-dUUWfsbQjtQ5g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=1JJWHnicdZNNrqNGEMelnCGHiPQ2zbfJ7tm4sbEB09DNx2bUpjFgGsNgYwOaO-QOfjORJstJpJzl5TQhk2WURW3qV_XXv0pVvzyz8k9t14_0Hlzc7R3q_eJQOD0vveZr2zWsT28l-0MQZKBrsqgrwkJeLDRV1ZWvKb1R3uTfsSoCRZdFWRQBmKksat-KjDJeXjL3dMo6o0n_qRNlVV4oQFGFhSRL6kIStN_KmubZd_67Liw0XVR0RRMFVdF0VVffOnZ9lw-rD4IoKEAG2hxg1hEkTVQ-HZBrfPgf-OVjn3Xj-0-3pn2ps7SglzKl_KXKxmNDZ9WXU9O9zCPmHa3r8pJ_ydt_Pf5X6q0u2TdFU2VVVFRJkmRZ1cBi8dbeb88i_9z3PHs3Hi-r1623XW07IsKJmrxPJHQ_lsPaG18b34SXJLImZurSnHPQqrqSUGmZSaotdEAcIZ4-njl_9tdnwZ_Z5deGtvdT-tcPP66bh7G6PlYebltiIODXg0wN8tEjyykMHIqroQvXwwFhFmRrGB4vBGCR9TTkI9nkUjJBnEXpdNw4H6lgD7hOZbQpRJtbZwqtK-EIHqubQSrrsCfMY1iQCNRdJDZCHCU4mvC4J0glNcNogwy0LuI4WO4ckyU2x9MRJ4cQkzsKkH8EyT01HyPB7ZQQvXIuhbwPGUwidksIrJJKFwi0ByQtTbwePH9CVRzqnm0w3wmVlV05gR_FDyqQJNmwhIaE2jXcoci5xSE6UKCf_VHowxpt9yG8Hs2ks7luBVUrHjfFLg2cpRfqUsbbMq7RLhEsy6kQmHe_D3DhBZPTE2zFbuSQoLJcGnqAbAhkorPNKjgEAqKBwM5OZMVzH0cmbzGGEQ6YgqubaM--cI0iW8rH43zFAUjs7FKsvNAaSD2UqBIMDB0nDuOHHSEZQ4S9EfhwYnsW8YJx1AeAi-jMBRcum-BCrpTAu1laS7RxRjdMAho55-xcJKHZTq55lTxeGCknD2KSMOR4SERd-jxcu9M7eIXKzXfVdr_U9p1s5q7fawbJTzubwdVp8rP8Z0HTAdDl-dUUWfsbQjtQ5g"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSFprbmmom-Dh6YrA6Crej7hnEkoVkFUoiVPCjeTZhFFDu5ejceVgnWbd9PIaT1hqvyyXQv-2l9nsl891TDPUFPmLvZrteja__yRhZb77bbHQ-zPdKFzrDnZQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "AULA F75 Max 75% Wireless Mechanical Creamy Gaming Keyboard TFT Screen",
+      "rating": 4.8,
+      "reviews": 844,
+      "price": "$64.99",
+      "extracted_price": 64.99,
+      "original_price": "$72",
+      "extracted_original_price": 72,
+      "location": "Nearby, 20 mi",
+      "extensions": [
+        "9% OFF"
+      ],
+      "immersive_product_page_token": "ABsTAHicbVNLjqNIEJXmDHOIkWqTmfzM7Arj9KcMFAlk4ty0MIkBkxjaBhusucPcwdU9Us-yu6U-S81phpFm2atQxHvxFE-h9-cjK38YL_2YXMOTt75is5-9Fm4vS7_50p4b0addKb6pqol0AAwFGoqONBMh-CVNukQ2eSm-QxXNVN1UZwYyNAQUwwDq1yJLhCxPmXc4ZGe7Sf_jKcoMGWCmAqjpiqppwEB_l3WSZ__jE6BqqmEaU9WBaSBgvp3F5R29zj_Mpg1FNVUNIVM1ZhMF_fFKPPvDz7HPH_vsPL7_1jXtU52lRXIq00Q-Vdm4b5JJ8-nQnJ8mg_k5qevylH_O2-mEbz9ReqtL8VUzdFVHJoD6TFcVE83AW3vtHkX-qe9l9m7fnubPa389X58pwvdkKXuukOu-HBb--NwES3zi8eYulqYyzVwyry6Uaa1Y0mqNXbCLiUxvj1w--sujkI_s9FeTtNdD-s8vvy6amz2_3OZ-1LbUJiCocOHhVncot1lU9DvUBV7U-SnogBfyg4-GeYA3L77k2r5uY28p9CQk2LkXL5zxmx9bhatsxhRu7rsTJySkdBtydxeBe4jaOlUKldBmFIthnkhe-DEedlU7JnecBEx0PiSeQMNImKq5bCAulkdO20Qs4VFEnUxP7WJXLW5BzIkoIdzS1iHR1COTuUjGrMZxtNBYCK01s8VqG8t1yBrIUTG68TN0KIE-G4IockuH-sq-yiGBRSmOVpNQ-TFW8JUA2SbHgoW2tfZo25GILwgoQHJ0V4yZsSM3hz0s0Da2PAeTDZeWDEK-S6k_Uiy2dEXLyF6rTjWwXSzilApvH6k3hxZzxrjc1zPAVnydMrJJgNaGkkThyYGBbVkpg1qG5Tmr5N1Hbs0wKdxV4btLrnvRJhaIbzLb6gjlo0ARdFkV4LvYilgWQpI-BBKRo4QetprwRC8JxddlubHIyh09xoM9IgNhfJVCAtLKxW5UuJOvwa95wZi87m1OPg2X8-EdPGNt-r3ebi1je1aXuRf0hk3zw4sj8PxwD7L8d2iYAJjqlNspV_8C1ulPnw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ABsTAHicbVNLjqNIEJXmDHOIkWqTmfzM7Arj9KcMFAlk4ty0MIkBkxjaBhusucPcwdU9Us-yu6U-S81phpFm2atQxHvxFE-h9-cjK38YL_2YXMOTt75is5-9Fm4vS7_50p4b0addKb6pqol0AAwFGoqONBMh-CVNukQ2eSm-QxXNVN1UZwYyNAQUwwDq1yJLhCxPmXc4ZGe7Sf_jKcoMGWCmAqjpiqppwEB_l3WSZ__jE6BqqmEaU9WBaSBgvp3F5R29zj_Mpg1FNVUNIVM1ZhMF_fFKPPvDz7HPH_vsPL7_1jXtU52lRXIq00Q-Vdm4b5JJ8-nQnJ8mg_k5qevylH_O2-mEbz9ReqtL8VUzdFVHJoD6TFcVE83AW3vtHkX-qe9l9m7fnubPa389X58pwvdkKXuukOu-HBb--NwES3zi8eYulqYyzVwyry6Uaa1Y0mqNXbCLiUxvj1w--sujkI_s9FeTtNdD-s8vvy6amz2_3OZ-1LbUJiCocOHhVncot1lU9DvUBV7U-SnogBfyg4-GeYA3L77k2r5uY28p9CQk2LkXL5zxmx9bhatsxhRu7rsTJySkdBtydxeBe4jaOlUKldBmFIthnkhe-DEedlU7JnecBEx0PiSeQMNImKq5bCAulkdO20Qs4VFEnUxP7WJXLW5BzIkoIdzS1iHR1COTuUjGrMZxtNBYCK01s8VqG8t1yBrIUTG68TN0KIE-G4IockuH-sq-yiGBRSmOVpNQ-TFW8JUA2SbHgoW2tfZo25GILwgoQHJ0V4yZsSM3hz0s0Da2PAeTDZeWDEK-S6k_Uiy2dEXLyF6rTjWwXSzilApvH6k3hxZzxrjc1zPAVnydMrJJgNaGkkThyYGBbVkpg1qG5Tmr5N1Hbs0wKdxV4btLrnvRJhaIbzLb6gjlo0ARdFkV4LvYilgWQpI-BBKRo4QetprwRC8JxddlubHIyh09xoM9IgNhfJVCAtLKxW5UuJOvwa95wZi87m1OPg2X8-EdPGNt-r3ebi1je1aXuRf0hk3zw4sj8PxwD7L8d2iYAJjqlNspV_8C1ulPnw"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ-UQK_YH6lPL4TEyGXeCW8vb8oaYAuLQ5zIDAcXk5mgUayXnOoBEzV9Ito15VCBhKDpJLGuheifu-oNhBDpMrmbn9kSo1IgLif6k0rSOo",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "SteelSeries Apex 5 Hybrid Mechanical Gaming Keyboard",
+      "rating": 4.7,
+      "reviews": 767,
+      "price": "$98.97",
+      "extracted_price": 98.97,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "PXvHG3icdZFNrqNGEIClnCGHiORNd9P8ZWcMzTPP4OcGGsxm1NDYYH4HG_-g3CF38JuJNFnORMpZXk4TO_usSqqvqvRV1e_3vPxbfR1v_By06-WZ6KP2VnhjXW66b_3QiTE7leKHgjCQdEmTNFnHWJOwir5l_MTrbv-kQNORpuhQRjqGWNWQ9r3IuajLNl_vdvlgdlkp_oKShFRJ1zRNRlhWsK7K0p9lw_f5f_wHQliFsqYi6ck0WZal90EcP_Db4hPEjx4ANADRo-QRoKr89kbX5qf_gV8_j_lw-_jl1PWzJs8K3pYZr2dVfks7_pg623XD7LHgfuBNU7b7r_v-6SA_xZ6GOkC6AhUoqe9NKb7LqoIVpEMkYQBVpAHlvT-f7sX-yzjW-Yd5mS3my81ysRwYIhO36zGR6Dktr9bmNu98m7RJ7EzC1qVHzqOL6sgiuRc2q5bEA9uY1tnlvq_v4_Fe1Pe8_aPj_XmX_fPTz1Z3MRfHy2IT9j0zKQjMgqziOUqBB1OJcTdwMX32g37KEKtT4spZrVupzSYe9cu0okYMPcQqC3nEKzObDm54pWlYXFjAToGZ3FhLFlGcKGvbC70o8cO2911GSCIlZRKeChGTgdvFiVZJzS1yzCt9RUGSBC_ZbQMST8B65JC4WbTECdRu21iMHulbQRhwTUdihyIUtjiLg5OISh84dKqQGDSyk52Q6FvEehxAwxCtZ_rQuTHWSbzSYUTm120DTm7U4cxiYzwZI22TYdvQ7fawAdlUUB_ROAgf7iGJ0tpACRSGaJwyDTYnYbtSbgmPthkKLafIpvmV1smVNUW_9eGVWj0TE30JY-NzQpLQOywBjwR9eC9pFeJkoufclndBVB8iZpxpAwuf6ZewkUEQkNct2kzbx2c56oO07fu1pbdcEk1usYIzhrdVv1zHmU8msRJxXYiajgGoET3UcE2MLmjZkTNytkvHoC_ebf24PbMc0w-pF9m9nwXOWxAxKwlrc1N5snsQ1ipw6Jfrcdh9gDmRT_5a6VeGuhqwvV_7o2qy_e7VFWSxm_x8_ytUdQB0LEFVxuq_DjhPuQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PXvHG3icdZFNrqNGEIClnCGHiORNd9P8ZWcMzTPP4OcGGsxm1NDYYH4HG_-g3CF38JuJNFnORMpZXk4TO_usSqqvqvRV1e_3vPxbfR1v_By06-WZ6KP2VnhjXW66b_3QiTE7leKHgjCQdEmTNFnHWJOwir5l_MTrbv-kQNORpuhQRjqGWNWQ9r3IuajLNl_vdvlgdlkp_oKShFRJ1zRNRlhWsK7K0p9lw_f5f_wHQliFsqYi6ck0WZal90EcP_Db4hPEjx4ANADRo-QRoKr89kbX5qf_gV8_j_lw-_jl1PWzJs8K3pYZr2dVfks7_pg623XD7LHgfuBNU7b7r_v-6SA_xZ6GOkC6AhUoqe9NKb7LqoIVpEMkYQBVpAHlvT-f7sX-yzjW-Yd5mS3my81ysRwYIhO36zGR6Dktr9bmNu98m7RJ7EzC1qVHzqOL6sgiuRc2q5bEA9uY1tnlvq_v4_Fe1Pe8_aPj_XmX_fPTz1Z3MRfHy2IT9j0zKQjMgqziOUqBB1OJcTdwMX32g37KEKtT4spZrVupzSYe9cu0okYMPcQqC3nEKzObDm54pWlYXFjAToGZ3FhLFlGcKGvbC70o8cO2911GSCIlZRKeChGTgdvFiVZJzS1yzCt9RUGSBC_ZbQMST8B65JC4WbTECdRu21iMHulbQRhwTUdihyIUtjiLg5OISh84dKqQGDSyk52Q6FvEehxAwxCtZ_rQuTHWSbzSYUTm120DTm7U4cxiYzwZI22TYdvQ7fawAdlUUB_ROAgf7iGJ0tpACRSGaJwyDTYnYbtSbgmPthkKLafIpvmV1smVNUW_9eGVWj0TE30JY-NzQpLQOywBjwR9eC9pFeJkoufclndBVB8iZpxpAwuf6ZewkUEQkNct2kzbx2c56oO07fu1pbdcEk1usYIzhrdVv1zHmU8msRJxXYiajgGoET3UcE2MLmjZkTNytkvHoC_ebf24PbMc0w-pF9m9nwXOWxAxKwlrc1N5snsQ1ipw6Jfrcdh9gDmRT_5a6VeGuhqwvV_7o2qy_e7VFWSxm_x8_ytUdQB0LEFVxuq_DjhPuQ"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSTMm0Z4obWDF1x0KBZ9IPpyG0GICJfjByhvb5ENTKHX6HMeYZhsEFSYHea6UMd_Pkc4S1seTtxJe1g_mdxoS_4x46_Xpb9pq1tpk3Zv_E",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Razer Ornata V3 Low-profile Mecha-membrane Wired Gaming Keyboard",
+      "rating": 4.7,
+      "reviews": 156,
+      "price": "$119.00",
+      "extracted_price": 119.0,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "EYJqYXicbZNLrqNGFIalrCGLiHQVqYqiePTMD8qGa4N5FZhJq0xhgykewdjYKHvIHny7I3WG3S1lLTerCVGmPTpH55M-_Wfw__HMir_V1-uD3YLaMW9Ev2q73L6Kwm2-tF3Dr2lf8G8YyDrWMQBQQ1jVgQbRl5T1TDSngn-HkiTJqq5JOpgmVNG0fM0zxkVRZ87xmHXLJp0sugR0GSgqxkhDOgSqpPxVVOyU_Y8xllUENElVgCIDDUsafuv45V3aLT5qSNMlKGtAhkAHCpSB_PvOc5Yff8w-_3bNusf7L33TvlRZmrO6SJl4KbPHoWGT8-XYdC_Te6eOVVVRnz6f2v8S_MD0VhX8K1YVWZE0HUEoKzJSgfTW3vpnfvp0vYrsfTm8LGamay7MjkpkZCtxTZB3OxR3w33MGn9F6iS2Rr7S0XSzvUV5oRFu-YqWJrHBPvZEOjxP4nm9PHPxzOo_G9bejuk_P_1sNMNycRkWbti2dOkBH_D9IdqPbLTPMdTDhHApW4m1H_YjP4d9dLY9vjYwo1yOghlIV3gIl3zcAxNQA75yQUoa9W0C84dd8sc2ygGndE0Nu_Ug3_nr_PWAkjVfkmBbEmdf8sRF9iMsqZKWXu8sBWHI6wLj1AdBUieGMDklcy_qDX-cb7KSkO042Yw8TgJRb2IvSFa04sZJ9kZzCEKL8GorRWu-TarLkNG2TM6pTMd5GIVwd4D74QA8NxDWIzCgT0Nh-tSQaaljP4KXLLwHEU0WNLbPLk3ltMRRQPTSWZMzQ3YbAM9m0tBHVatkaxdHq1Rmlbi7UIAssjfhOd8kKL_FUr7OgnSgAN8OqO0zOl9uYhMwxI9ZlKDsLC6U2jde6f0hJHgbEeSHuIuM-5RBd8Mymbu1Oaa09b3wzrKANs4qsahIRxskmyQmblKTIipLn4x8w2ORc-FdAyAk7yygQ-ZNUNMLo-S2Kqy5t7YfTpT4sSTfD9E9ZBXvbESOfkk2-8rahbFV8diy92er_nS_dMd3MCO49x0ld2WrNi6Wky4M3yoG91eOT9ZEtNkHOFV1qhyCKpaVfwFKo1AZ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EYJqYXicbZNLrqNGFIalrCGLiHQVqYqiePTMD8qGa4N5FZhJq0xhgykewdjYKHvIHny7I3WG3S1lLTerCVGmPTpH55M-_Wfw__HMir_V1-uD3YLaMW9Ev2q73L6Kwm2-tF3Dr2lf8G8YyDrWMQBQQ1jVgQbRl5T1TDSngn-HkiTJqq5JOpgmVNG0fM0zxkVRZ87xmHXLJp0sugR0GSgqxkhDOgSqpPxVVOyU_Y8xllUENElVgCIDDUsafuv45V3aLT5qSNMlKGtAhkAHCpSB_PvOc5Yff8w-_3bNusf7L33TvlRZmrO6SJl4KbPHoWGT8-XYdC_Te6eOVVVRnz6f2v8S_MD0VhX8K1YVWZE0HUEoKzJSgfTW3vpnfvp0vYrsfTm8LGamay7MjkpkZCtxTZB3OxR3w33MGn9F6iS2Rr7S0XSzvUV5oRFu-YqWJrHBPvZEOjxP4nm9PHPxzOo_G9bejuk_P_1sNMNycRkWbti2dOkBH_D9IdqPbLTPMdTDhHApW4m1H_YjP4d9dLY9vjYwo1yOghlIV3gIl3zcAxNQA75yQUoa9W0C84dd8sc2ygGndE0Nu_Ug3_nr_PWAkjVfkmBbEmdf8sRF9iMsqZKWXu8sBWHI6wLj1AdBUieGMDklcy_qDX-cb7KSkO042Yw8TgJRb2IvSFa04sZJ9kZzCEKL8GorRWu-TarLkNG2TM6pTMd5GIVwd4D74QA8NxDWIzCgT0Nh-tSQaaljP4KXLLwHEU0WNLbPLk3ltMRRQPTSWZMzQ3YbAM9m0tBHVatkaxdHq1Rmlbi7UIAssjfhOd8kKL_FUr7OgnSgAN8OqO0zOl9uYhMwxI9ZlKDsLC6U2jde6f0hJHgbEeSHuIuM-5RBd8Mymbu1Oaa09b3wzrKANs4qsahIRxskmyQmblKTIipLn4x8w2ORc-FdAyAk7yygQ-ZNUNMLo-S2Kqy5t7YfTpT4sSTfD9E9ZBXvbESOfkk2-8rahbFV8diy92er_nS_dMd3MCO49x0ld2WrNi6Wky4M3yoG91eOT9ZEtNkHOFV1qhyCKpaVfwFKo1AZ"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS3-rULxVTL-s0LjMHOaJ1TleZ8Iv0QzAfq5iq7GB5mAYTthc5sGkG8TuYDmtu4SC_vTwHTxJWbRf7Lv1ARgQu14I-5z232r_hx4UpXKIDBBGV8cdX8dXybww",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Razer BlackWidow V4 X Gaming Keyboard",
+      "rating": 4.7,
+      "reviews": 277,
+      "price": "$169.00",
+      "extracted_price": 169.0,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "uW6ZKXicbVNLjqRGEJV8Bh_CUstS8kk-3hUFWdO4ySp-yWczSkgaKJKCgaIokO_gO1TPWBovx5Z8lvZpjGbtVSjiPb14L6T4_VHU_6i_Tgu9BZfj8w3pk3aq8MRrt_vaDx2b8mvN_hYAVHVJ3oqg6ZquqFDRvub0SnlX1uwvGSgyUHUgCVDUZE2Sde1bVVDG60txfH0tBrPLN5omq6oMoaoqkqwqIgRA-rNuaVl8h7cliiYCUVJEUYUCUCVNFd4GNr6D0_7jthrCbaJpQBdVXdHF307e0fz4v9CXT1MxLO8_Xbv-qS3yil7qnPKnpliyjm6KT6_d8LSlKwfatvWl_FL23w1sCUW4WRB0XRE3PV0Hb23NvkFVkRVxyy1pkgp0oOlv_e36qMrP08SLd3N-2u-e3ef980BEtNIDn1LJu2X13XKXXecf0CWN7ZUddGmbYW_fjCSCPTuQ5hlhkMQez-dHyR_T-Kj4o7j80dH-9pr_-8OPVjeb-3Heu2HfE9MDgWkMmKMbjqAf8b5PAxunZ7txzixK1nLdsFPR2lUssdpZkRuvGFOhWSOeYiYYUxrZNosaOWjZgreeIkSL0JL8jeOH6ETjNHyJDcxMowrX1PVXfvJQNWdIn8OGx3lgyJHVQAeRTy6xRGp5IjWT2bnYVxZzHpqo9QXsZa1nZ4duydt0YJYdegEanNV7SQQ0-sBWYqCjLGRW8IE7jJDeETePqF-SCDvJhYBjjC6hZI_sHM4pSUXGMUrF9E7OaZoFFkhWHtNDuBCEjjmoOi_uZ0yQlYFqzSVrpocrdwRnKYISYDOcswZDGlSnpBnvQWiTjJSCI-yAZ8nSS8RjckbYBYlQRHAgCBvJmSihSQz3nK5pCDE9O5IXQpFZqVdYbE8jFGac1fnBW1lYQhZB0Y36MYn5kklVh6NrHQu69xLvfLSyl-02FePeFAAuemcuHJHRBRcyUoJuh9o2vA94OUapHwJXig73E2mup1Qwhiy6S34rJGnU8wSgJkC98fk-Dq_vYIfg1T8qlSvbF2u0j_ne8u16dn9msLQ3RNv9Imw_CXRZElQoK_8Bzn5P6g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uW6ZKXicbVNLjqRGEJV8Bh_CUstS8kk-3hUFWdO4ySp-yWczSkgaKJKCgaIokO_gO1TPWBovx5Z8lvZpjGbtVSjiPb14L6T4_VHU_6i_Tgu9BZfj8w3pk3aq8MRrt_vaDx2b8mvN_hYAVHVJ3oqg6ZquqFDRvub0SnlX1uwvGSgyUHUgCVDUZE2Sde1bVVDG60txfH0tBrPLN5omq6oMoaoqkqwqIgRA-rNuaVl8h7cliiYCUVJEUYUCUCVNFd4GNr6D0_7jthrCbaJpQBdVXdHF307e0fz4v9CXT1MxLO8_Xbv-qS3yil7qnPKnpliyjm6KT6_d8LSlKwfatvWl_FL23w1sCUW4WRB0XRE3PV0Hb23NvkFVkRVxyy1pkgp0oOlv_e36qMrP08SLd3N-2u-e3ef980BEtNIDn1LJu2X13XKXXecf0CWN7ZUddGmbYW_fjCSCPTuQ5hlhkMQez-dHyR_T-Kj4o7j80dH-9pr_-8OPVjeb-3Heu2HfE9MDgWkMmKMbjqAf8b5PAxunZ7txzixK1nLdsFPR2lUssdpZkRuvGFOhWSOeYiYYUxrZNosaOWjZgreeIkSL0JL8jeOH6ETjNHyJDcxMowrX1PVXfvJQNWdIn8OGx3lgyJHVQAeRTy6xRGp5IjWT2bnYVxZzHpqo9QXsZa1nZ4duydt0YJYdegEanNV7SQQ0-sBWYqCjLGRW8IE7jJDeETePqF-SCDvJhYBjjC6hZI_sHM4pSUXGMUrF9E7OaZoFFkhWHtNDuBCEjjmoOi_uZ0yQlYFqzSVrpocrdwRnKYISYDOcswZDGlSnpBnvQWiTjJSCI-yAZ8nSS8RjckbYBYlQRHAgCBvJmSihSQz3nK5pCDE9O5IXQpFZqVdYbE8jFGac1fnBW1lYQhZB0Y36MYn5kklVh6NrHQu69xLvfLSyl-02FePeFAAuemcuHJHRBRcyUoJuh9o2vA94OUapHwJXig73E2mup1Qwhiy6S34rJGnU8wSgJkC98fk-Dq_vYIfg1T8qlSvbF2u0j_ne8u16dn9msLQ3RNv9Imw_CXRZElQoK_8Bzn5P6g"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR46nIkyZFlNs6w8sePKsOgOZkkQccbdYln7R1tW-k5ffFQj_bdZo4gNpFaH7mrqLB--oQVCfH8bUDKU9fSHEfmDGbh4-LvVNk_O8VCPNXklXo-mu4ZApEZ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Aula F99 99-Key Wireless Mechanical Gaming Keyboard RGB Illuminated Tri-Mode",
+      "rating": 4.8,
+      "reviews": 10,
+      "price": "$69.99",
+      "extracted_price": 69.99,
+      "location": "Nearby, 20 mi",
+      "immersive_product_page_token": "ZJqFJXicbZDbjqNGEIalPEMeItIoUjfQHHI3tsGGMWDa0BxuVg2NacxxjDGDlXfIO3h2I20uN5HyLJOnCSvlMjelqvpVf31Vvz3y8m_lZZzpzW9d82Zoo3rgzliXXve1v3RszK4l-1MFgihDRRFVKIqKKCIVfc3oldZdUbK_IJCQLCOoqQJQIYTKUn7jOWV12ebu6ZRfNl22uEiSqECEFFWUFiNNlgThj7KhRf6fLAqCrGmaBDRFQbKqasL7hQ0fwmH9SV5GgSggVVRlSZI1Bam_HrC7-fT_2pfXMb_MHz9du_6pyTNO2zKj9VOVz2lHF8-nU3d5Ws4rLrRpyrb4UvTfCTRJkwVFU5XvAS14CnpvSvYNKbIkC6omiwIUFWkhe-9v1wcvPo9jnX9spqf1s-mZa_NCBONOt_WYiPiWlm-6Nz93x63RJpF1Z1tNXHoOXlcDCVHPtqQyDQfEEa6z6VHUj3F48PqRt793tL-dsn9--FHvps16mNZe0Pdkg8GxMt-OJJMwgLHn4wsB3KSNN3l3UmIBYaojk4pJl1ROFDTmlEKySXXt7gfkZjcx2pNitiEHXkN0Z-PIpIScnY2NUw2TV8Vz0OLGEchIzkQ-3q2zLeC3VOhmH3A3BROkWyeyDWNgVR2yCg2BDm1HTF78ChNGLJBu-D4gDokJ77KAH5y2PqU1jvLKRg7R2tQnXab3JgakZwsPjnibGsTxBS7hiJ2Shg9pxK0YrtYe5P0RkJOrV4CVkIRhvcIhWTs692hrla6RzMw3Zq9hxNnGU7CzDnEIX3FgvdAd7v0GHohw7WnrgbDRXI-Q1bGJ3zBgYRL0Jb0bJKiwZDeGl57ZSxqQOGmCaxgkKIiMbaonpq1zIa5X24z0UVjzV3vZlDcSCGqtx7t6DivLodurTTfskOtauPfjOdE7ack9XBm2rxdH4872LKo5q_Hog1rA5xq6xqrzWzJQYty2pbXCO2d2FyrvXkGHJNE-6g8E2BM-F-io8-XHq9DZ9QccXPHnt-Fy-gDPBroeXZl7ktXqg-Vma_1olZP3M0OFtSjq8y9Q0QDQJBEqSJL_BawUT9Y",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZJqFJXicbZDbjqNGEIalPEMeItIoUjfQHHI3tsGGMWDa0BxuVg2NacxxjDGDlXfIO3h2I20uN5HyLJOnCSvlMjelqvpVf31Vvz3y8m_lZZzpzW9d82Zoo3rgzliXXve1v3RszK4l-1MFgihDRRFVKIqKKCIVfc3oldZdUbK_IJCQLCOoqQJQIYTKUn7jOWV12ebu6ZRfNl22uEiSqECEFFWUFiNNlgThj7KhRf6fLAqCrGmaBDRFQbKqasL7hQ0fwmH9SV5GgSggVVRlSZI1Bam_HrC7-fT_2pfXMb_MHz9du_6pyTNO2zKj9VOVz2lHF8-nU3d5Ws4rLrRpyrb4UvTfCTRJkwVFU5XvAS14CnpvSvYNKbIkC6omiwIUFWkhe-9v1wcvPo9jnX9spqf1s-mZa_NCBONOt_WYiPiWlm-6Nz93x63RJpF1Z1tNXHoOXlcDCVHPtqQyDQfEEa6z6VHUj3F48PqRt793tL-dsn9--FHvps16mNZe0Pdkg8GxMt-OJJMwgLHn4wsB3KSNN3l3UmIBYaojk4pJl1ROFDTmlEKySXXt7gfkZjcx2pNitiEHXkN0Z-PIpIScnY2NUw2TV8Vz0OLGEchIzkQ-3q2zLeC3VOhmH3A3BROkWyeyDWNgVR2yCg2BDm1HTF78ChNGLJBu-D4gDokJ77KAH5y2PqU1jvLKRg7R2tQnXab3JgakZwsPjnibGsTxBS7hiJ2Shg9pxK0YrtYe5P0RkJOrV4CVkIRhvcIhWTs692hrla6RzMw3Zq9hxNnGU7CzDnEIX3FgvdAd7v0GHohw7WnrgbDRXI-Q1bGJ3zBgYRL0Jb0bJKiwZDeGl57ZSxqQOGmCaxgkKIiMbaonpq1zIa5X24z0UVjzV3vZlDcSCGqtx7t6DivLodurTTfskOtauPfjOdE7ack9XBm2rxdH4872LKo5q_Hog1rA5xq6xqrzWzJQYty2pbXCO2d2FyrvXkGHJNE-6g8E2BM-F-io8-XHq9DZ9QccXPHnt-Fy-gDPBroeXZl7ktXqg-Vma_1olZP3M0OFtSjq8y9Q0QDQJBEqSJL_BawUT9Y"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSDv_n3N2yd9PoGQDgWGw7jDIm0ytW5PIktNLMGtu5yWXwuw7zMMh2wfhpFMuOnxJFUBM8tHJnMdEtxJ9ceUfSaNo_gyuCGpKq-qSuyCc_JtqPuZggauxz9cw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Razer BlackWidow V4 75% Mechanical Gaming Keyboard",
+      "rating": 4.5,
+      "reviews": 34,
+      "price": "$189.99",
+      "extracted_price": 189.99,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "lNJbNHicbZNNjuM2EIWBnCGHCNAbkhL1k13blmSrW1KLoiibm4Esqk3Z1E_blm0JuUPu4J4JMFnOBMhZOqeJJuts6xW-evVQ9fu9rP42n_ohv9AmWl1cu7deZNirKm6_dsdW9MW5En9BjKBp6cgAGtSBiTWE4dciP-eq3VXiu6FZtoYtYEwdNtARgvibLHOhqqaMXl_L46ItflAsiA2gGybE2NJ_kAD8s6rzXfmf_l3XsGEiU9ctBEzT0pBhvR_F6QO9zD-ZEFjTAGCb0LRtHUBd--2FRItP_699eevL4_Dxy7ntHuqykHlTFbl6OJTDts0n5sNre3yY9tsd87qumt2XXffDgQ0gApMtYNtQt3WENfBeV-IbNg3dQBa2AcCTuymJ9-5yvsvd575X5cfi-jB_XMWr-erIkDvmnuq5Ri7b6ubEw2ObeG7D1_4oPFubaiGZH04sw53w2GHlhmCzJqq43nfq3p_uUt3L5o827y6vxT8__ey018X8dJ3HadexBQEJlDEDYc8a-UaZvApInjIHt2mj4tIrMIe8oSM7FWm3oa67XwM8j5EdBVQmHJIuXMba9hA-x6iThPpPPJOUIpskTEm2CJuUdVJowUDS2yZybK2AAeSOnzPIB6pm4Dn14xD6Y5ipSzzAPDx0TVLv9GDdPVFPOAGKh43GEjbOnuPRD6gr4_Jg64XXkSI7ZwKyl3DB9jy14JbZPk1xXjhsFta-4ntxEpTQLWV6sZwZ4SJAmbu7Rkv2FkAbMLS60VTl1GFBvGdLAi1A0ham6NYn-3goRoUT53SNkXMrlDXkwDkHB_ZW1nzGJ24IYCwc3mRrxrZ7FSZKNqJ2T9xhPGlYVKbS3S43Yz5yI8uIGzhdFC0Uz-t4TJ0UpCjMyHo1lA2bJym-JJriaQU3xSiz7HAjYu36xUIwNrpVUVvXgKmNAGnijuJZrJUUivQUKET2CkburKUNO-XMvXiVPyPLcIgynoSumvIQKFvP3A31eeDI69YTT4XG99sD8crsPPt8Ox1fP8Cji89JZBrzFFDtKPfKy701oDfq3I71Tb6E11-nf5hueXo1E-voXxFTTyY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=lNJbNHicbZNNjuM2EIWBnCGHCNAbkhL1k13blmSrW1KLoiibm4Esqk3Z1E_blm0JuUPu4J4JMFnOBMhZOqeJJuts6xW-evVQ9fu9rP42n_ohv9AmWl1cu7deZNirKm6_dsdW9MW5En9BjKBp6cgAGtSBiTWE4dciP-eq3VXiu6FZtoYtYEwdNtARgvibLHOhqqaMXl_L46ItflAsiA2gGybE2NJ_kAD8s6rzXfmf_l3XsGEiU9ctBEzT0pBhvR_F6QO9zD-ZEFjTAGCb0LRtHUBd--2FRItP_699eevL4_Dxy7ntHuqykHlTFbl6OJTDts0n5sNre3yY9tsd87qumt2XXffDgQ0gApMtYNtQt3WENfBeV-IbNg3dQBa2AcCTuymJ9-5yvsvd575X5cfi-jB_XMWr-erIkDvmnuq5Ri7b6ubEw2ObeG7D1_4oPFubaiGZH04sw53w2GHlhmCzJqq43nfq3p_uUt3L5o827y6vxT8__ey018X8dJ3HadexBQEJlDEDYc8a-UaZvApInjIHt2mj4tIrMIe8oSM7FWm3oa67XwM8j5EdBVQmHJIuXMba9hA-x6iThPpPPJOUIpskTEm2CJuUdVJowUDS2yZybK2AAeSOnzPIB6pm4Dn14xD6Y5ipSzzAPDx0TVLv9GDdPVFPOAGKh43GEjbOnuPRD6gr4_Jg64XXkSI7ZwKyl3DB9jy14JbZPk1xXjhsFta-4ntxEpTQLWV6sZwZ4SJAmbu7Rkv2FkAbMLS60VTl1GFBvGdLAi1A0ham6NYn-3goRoUT53SNkXMrlDXkwDkHB_ZW1nzGJ24IYCwc3mRrxrZ7FSZKNqJ2T9xhPGlYVKbS3S43Yz5yI8uIGzhdFC0Uz-t4TJ0UpCjMyHo1lA2bJym-JJriaQU3xSiz7HAjYu36xUIwNrpVUVvXgKmNAGnijuJZrJUUivQUKET2CkburKUNO-XMvXiVPyPLcIgynoSumvIQKFvP3A31eeDI69YTT4XG99sD8crsPPt8Ox1fP8Cji89JZBrzFFDtKPfKy701oDfq3I71Tb6E11-nf5hueXo1E-voXxFTTyY"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcShkNim6omltJU1z_9X-uwZ_1heYKZkVADstcY0rmMkGv7-ijmPk7hUmye7Z1xSbCEt0RfqxmcSMPHw5qoujYoCe316pSnWnvzdOsZR0Yp0W6MqnlVVqEhp",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "SteelSeries Apex 3 Gaming Keyboard",
+      "rating": 4.7,
+      "reviews": 4700,
+      "price": "$49.97",
+      "extracted_price": 49.97,
+      "location": "Nearby, 19 mi",
+      "immersive_product_page_token": "bi1G_nicdZHbjqNGEIalPEMeItLcNIfmkLvBHIxnANPQDeZmBTQ24OawGGyM9h3yDp7dSJvL3Uh5lsnThOx1clNS1V_16_tVvz2K6i_5Zbqn17D17KupTsq-dCdW-d3XfujolI8V_ZMDQAQqVARJAUASJSDL8tc8HVPWnSr6XVKgJKuczMtA4SEQJAi_lUVKWdUW3vFYDHqX_-siSKqoqoKoKKLKCZyoStwfVZOeih_6d1EUeFGBnMoLUFDWDSC-DfTyLu43HzgIJZVfz0QFSABwPOTET3vk6R_-R_zycSqG-_svY9c_NUVepm2Vp-zpXNyzLl1dn47d8LQmPA1p01Tt6cup_8H4H1ZvTUW_QXnNzUNJALwiyNxa3_rr-ChPn6eJFe_67WnzbPv2xh4Iby6pxaZEQNesmg3__twFltkm8W6hliqsMxdtzhcSwZ5a5GybLjjEiOW3x4k9psujZI-i_b1L--sx__unn43upm8ut42P-57oCIQ68Z2Y2ahGR9zAHdK10GmYHpp9c-BQ52DU5sIZrAxd1pzHosF8BsY0sJLyEMGgOPdLqLMLjowliRLPM8j-0JovEUsMd9vvnWacI4Nd862_YJ6mOCKgaMQxaXalW5_n0FSvQchgZvR6wthrBsDoRuOONNCJwQ750emeEuq60e7Vw71JGpEnIdun1upbo8iLE85n7oAwXjx9Z2fRKOKt6TpL8oL4WctWfmSyPeJNkrZ9WBAsBBHcuw3HHBNJ2Z3TaWvfyZJIebSz_db0kEUnfC7v1CA3wpkAnaHjLugaxqwnholjPsG0dieq4xvByRzG2iXDTEotgnCj2phpNamTOml6odhwGx-4kcsOEBMTuXV5fo2Tyo3LgYbGza1JRY3kEASAC1ryMSDagWDohrG5o21ySEPNznRt8baspNbKyZ8Cc6GvNF57hqYQMB7VjPNMrQtbckmJebWqnYa27t2LEhzwFK3_ODohSxzsz0WcOIeI2SkW7zmYsbfVtM_zZTi-g2cTjoEnSxsMQmEoa2alVgzCOTTmoZnLvXv7lZNVAFRR4GQo8v8AQupSTQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bi1G_nicdZHbjqNGEIalPEMeItLcNIfmkLvBHIxnANPQDeZmBTQ24OawGGyM9h3yDp7dSJvL3Uh5lsnThOx1clNS1V_16_tVvz2K6i_5Zbqn17D17KupTsq-dCdW-d3XfujolI8V_ZMDQAQqVARJAUASJSDL8tc8HVPWnSr6XVKgJKuczMtA4SEQJAi_lUVKWdUW3vFYDHqX_-siSKqoqoKoKKLKCZyoStwfVZOeih_6d1EUeFGBnMoLUFDWDSC-DfTyLu43HzgIJZVfz0QFSABwPOTET3vk6R_-R_zycSqG-_svY9c_NUVepm2Vp-zpXNyzLl1dn47d8LQmPA1p01Tt6cup_8H4H1ZvTUW_QXnNzUNJALwiyNxa3_rr-ChPn6eJFe_67WnzbPv2xh4Iby6pxaZEQNesmg3__twFltkm8W6hliqsMxdtzhcSwZ5a5GybLjjEiOW3x4k9psujZI-i_b1L--sx__unn43upm8ut42P-57oCIQ68Z2Y2ahGR9zAHdK10GmYHpp9c-BQ52DU5sIZrAxd1pzHosF8BsY0sJLyEMGgOPdLqLMLjowliRLPM8j-0JovEUsMd9vvnWacI4Nd862_YJ6mOCKgaMQxaXalW5_n0FSvQchgZvR6wthrBsDoRuOONNCJwQ750emeEuq60e7Vw71JGpEnIdun1upbo8iLE85n7oAwXjx9Z2fRKOKt6TpL8oL4WctWfmSyPeJNkrZ9WBAsBBHcuw3HHBNJ2Z3TaWvfyZJIebSz_db0kEUnfC7v1CA3wpkAnaHjLugaxqwnholjPsG0dieq4xvByRzG2iXDTEotgnCj2phpNamTOml6odhwGx-4kcsOEBMTuXV5fo2Tyo3LgYbGza1JRY3kEASAC1ryMSDagWDohrG5o21ySEPNznRt8baspNbKyZ8Cc6GvNF57hqYQMB7VjPNMrQtbckmJebWqnYa27t2LEhzwFK3_ODohSxzsz0WcOIeI2SkW7zmYsbfVtM_zZTi-g2cTjoEnSxsMQmEoa2alVgzCOTTmoZnLvXv7lZNVAFRR4GQo8v8AQupSTQ"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRx7dLJji3y5mkebErfcqP_qEwrQSbMM4VLjqsMtcpfP64YdSqfK5MSrfcrxjpXKn-7q6hZB6z8B2AH869ceviyvuMISZJgxlRfK0upYg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Razer Huntsman V3 Pro Mini 60% Analog Optical Esports Keyboard",
+      "rating": 4.6,
+      "reviews": 198,
+      "price": "$138.99",
+      "extracted_price": 138.99,
+      "original_price": "$180",
+      "extracted_original_price": 180,
+      "location": "Nearby, 20 mi",
+      "extensions": [
+        "22% OFF"
+      ],
+      "immersive_product_page_token": "JZZZJnicdVLLjqNGFJXyDfmISL2pBwUmO9tQ2O42tDEUj82omqINpngMNuah-Yf8g3sm0mQ5Eynf0vmaMLPP7uqeq6PzuH_c0_wf7bEb-c2rnO2N6t3iObM7mR_qr01biy655uI7hJBoEGKywETHRFGJ9jXhVy7rUy7-hgApOtbIgmBFIwioBKjfspQLmVep8_qatkad_LhTEcYQKVBBaIHnWVfUv_KSn9Kf-HcFKxBgFUBVAxgqugLxWysu78rz-gPUFLKYqTWiK7qqaipA-NOz6xgf_gf88rFL2_H9t2vdPJRpkvEqT7h8KNLxpeYz68Nr3T7MDk8tL8u8On05NT81EohUQvQFXqga1Aic3byVufhGNFVR0UJfqOiHOEjIW3O73rPT566T6bvRP6yX28N2vW0ZohO3ZBdj9_aSD-ZhXNZHi1ZxuJuEpeN5Z7vr4sIC0giLFVtqgyh0ZdLfT_LeXe6ZvKfVnzVvbq_Jv7_8ata9sb7064PfNMxwwdHfKp6x6p58ZjoGPbsmo_wcI9e0o7hUsHeOp72xOnMUTTFdKiFoNgwmMDB1EBtiEsWgMIusjpWsHCP7eES7kQNScJMitrHBy5Q1Ds1AVImWB1tsb9zDCwK9T6mXnF2XyVgeggIdwuaRUTeMEFnFcFfvPXrhVUy9Ypf5JfMSal7ZlK1SJrP4LJxDcC3TDXVfzGwUMJ5s334Op91OWPE6ArRISmglpsi9MpZMysIr9ccIZ4cgKBSP2aVvZOugGCqfHnCyEb1vUO6Wi5FDm7kIjhGKxiTYGY4_FKxsgr1PexYkPS-GzZxNFyK2Z6FAcbmL05Kg47QaPUaPglG4Bxmw_Qt2A9La1nXvnneXfdVs47BpksLuPI9e9xXdMHNwnJDGCSJ95MvpCOTgBDBj-ERYUEPfcJ88uGIRXIX-3AfbsMmmyyOdxJMIZSak23lAIvcsoUNXtVexC2f0ZuW7lbuxRyeI_f15bgFt-z2c8zXdkWFRsuACZ19X12MorQT-PFza13ewpOR6dDR17QMPt9lZWtwKgTd45tCWQ_Zs979DTQdAV_D8ywr6D6QiTxE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=JZZZJnicdVLLjqNGFJXyDfmISL2pBwUmO9tQ2O42tDEUj82omqINpngMNuah-Yf8g3sm0mQ5Eynf0vmaMLPP7uqeq6PzuH_c0_wf7bEb-c2rnO2N6t3iObM7mR_qr01biy655uI7hJBoEGKywETHRFGJ9jXhVy7rUy7-hgApOtbIgmBFIwioBKjfspQLmVep8_qatkad_LhTEcYQKVBBaIHnWVfUv_KSn9Kf-HcFKxBgFUBVAxgqugLxWysu78rz-gPUFLKYqTWiK7qqaipA-NOz6xgf_gf88rFL2_H9t2vdPJRpkvEqT7h8KNLxpeYz68Nr3T7MDk8tL8u8On05NT81EohUQvQFXqga1Aic3byVufhGNFVR0UJfqOiHOEjIW3O73rPT566T6bvRP6yX28N2vW0ZohO3ZBdj9_aSD-ZhXNZHi1ZxuJuEpeN5Z7vr4sIC0giLFVtqgyh0ZdLfT_LeXe6ZvKfVnzVvbq_Jv7_8ata9sb7064PfNMxwwdHfKp6x6p58ZjoGPbsmo_wcI9e0o7hUsHeOp72xOnMUTTFdKiFoNgwmMDB1EBtiEsWgMIusjpWsHCP7eES7kQNScJMitrHBy5Q1Ds1AVImWB1tsb9zDCwK9T6mXnF2XyVgeggIdwuaRUTeMEFnFcFfvPXrhVUy9Ypf5JfMSal7ZlK1SJrP4LJxDcC3TDXVfzGwUMJ5s334Op91OWPE6ArRISmglpsi9MpZMysIr9ccIZ4cgKBSP2aVvZOugGCqfHnCyEb1vUO6Wi5FDm7kIjhGKxiTYGY4_FKxsgr1PexYkPS-GzZxNFyK2Z6FAcbmL05Kg47QaPUaPglG4Bxmw_Qt2A9La1nXvnneXfdVs47BpksLuPI9e9xXdMHNwnJDGCSJ95MvpCOTgBDBj-ERYUEPfcJ88uGIRXIX-3AfbsMmmyyOdxJMIZSak23lAIvcsoUNXtVexC2f0ZuW7lbuxRyeI_f15bgFt-z2c8zXdkWFRsuACZ19X12MorQT-PFza13ewpOR6dDR17QMPt9lZWtwKgTd45tCWQ_Zs979DTQdAV_D8ywr6D6QiTxE"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTRZ4iS5umUjHII5xyQY089UasuSzx5xZhQ-Xc9mWRRPBZGCu4jiSzUlJNbKq03misffshUgmeXLqGTMUOSI_uCTQQL7IDVhonkpOQhGPY",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Razer Huntsman V3 Pro Analog Optical Esports Keyboard",
+      "rating": 4.7,
+      "reviews": 166,
+      "price": "$219.00",
+      "extracted_price": 219.0,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "AGOjunicbZLLjqNGGIWlPEMeIpI3deGaXdsGbHdTNAVVYDYjDLShKS6DwQY075B3cM9EmuwyEynP0nmaMFln-59fn87ROb_ds-Jv9XGY4qtfO_urqQ_ac04GUbjN17Zr0iHpi_Q7hACruiIpSFcR1LCmwa9J3MeiOS-qqqsyxJKEFEXXEYCyrnzLszgVRZ05Ly9Zt22SIv1TVTSk6ECBmiIjXZfhH0UVn7P_xO_awpBkfflQJIyACgB-69LLO3refFjoiiRhHekSkjUsKyr89Eyd7Yf_1758HLJuev-lb9pVlSV5XBdJLFZlNp2aeGGuXpputWQ7d3FVFfX5y7ldHPwFMdAkFegylhYrC0eD8ltVpN9k9UfwH2RNAwhCCb211_6enz8Pg8jet7fV5mHv7jf7jiNzji0xRJheT8VouNND41lmHYWHObV0vNwI3ZQXHshtavFybxJwDKlIbvezuA-Xey7uWf17E7fXl-Sfn342mtt2c7ltXNa2fEuBJ9aHyICCoEPuWK4cldShnD9y1GDGU-vIde9YRR-jOq8YNokPo8neRXu7Gm3fIIpb5Y5vRE1q5FPgQewFvcFFW1AgOn_mmJQkCKxRsUH6dNodpHimxEetF1dpQblZuUy-hFgw3z-EbM5tD6-3rGx6Np9Hb8emYxhtfU72NEigXfU4BlFIwMHn7EDiVx7xUoT2zHOOaJEF9o0zmfpAgwyKTbRrByfIaRTcsI2jHd-K1g8P5FTTA6sEZEx-THireNiECWsmYq5fbWj2ISLmaeZ1hCjOQq5EQR5w4KJklw_HspkCq_XcoBmffIFizGZ_Zv2x7EOXu3MyR8UpoNPJJLVX5gspN4khipgRKbMuNxs-AMc3FW7spRNO6yc2lqzOg3hnBk5QzlEJ8BFQK8IiiEpz5JUuEkPe0m0ykpq_JoB55pw-paHIU0EHHwhEXwV0zHXj1_wSc_NqFYc13ZHJCSKPAW4QIUAKzdgH8s4V_PmJU3PpY81mYrpLZ5_HS_fyDh5MufccVdkw4OMufxVWbIXAH31j7Koxfya3X6GqA6BLGC5zRv8Ca45N1A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=AGOjunicbZLLjqNGGIWlPEMeIpI3deGaXdsGbHdTNAVVYDYjDLShKS6DwQY075B3cM9EmuwyEynP0nmaMFln-59fn87ROb_ds-Jv9XGY4qtfO_urqQ_ac04GUbjN17Zr0iHpi_Q7hACruiIpSFcR1LCmwa9J3MeiOS-qqqsyxJKEFEXXEYCyrnzLszgVRZ05Ly9Zt22SIv1TVTSk6ECBmiIjXZfhH0UVn7P_xO_awpBkfflQJIyACgB-69LLO3refFjoiiRhHekSkjUsKyr89Eyd7Yf_1758HLJuev-lb9pVlSV5XBdJLFZlNp2aeGGuXpputWQ7d3FVFfX5y7ldHPwFMdAkFegylhYrC0eD8ltVpN9k9UfwH2RNAwhCCb211_6enz8Pg8jet7fV5mHv7jf7jiNzji0xRJheT8VouNND41lmHYWHObV0vNwI3ZQXHshtavFybxJwDKlIbvezuA-Xey7uWf17E7fXl-Sfn342mtt2c7ltXNa2fEuBJ9aHyICCoEPuWK4cldShnD9y1GDGU-vIde9YRR-jOq8YNokPo8neRXu7Gm3fIIpb5Y5vRE1q5FPgQewFvcFFW1AgOn_mmJQkCKxRsUH6dNodpHimxEetF1dpQblZuUy-hFgw3z-EbM5tD6-3rGx6Np9Hb8emYxhtfU72NEigXfU4BlFIwMHn7EDiVx7xUoT2zHOOaJEF9o0zmfpAgwyKTbRrByfIaRTcsI2jHd-K1g8P5FTTA6sEZEx-THireNiECWsmYq5fbWj2ISLmaeZ1hCjOQq5EQR5w4KJklw_HspkCq_XcoBmffIFizGZ_Zv2x7EOXu3MyR8UpoNPJJLVX5gspN4khipgRKbMuNxs-AMc3FW7spRNO6yc2lqzOg3hnBk5QzlEJ8BFQK8IiiEpz5JUuEkPe0m0ykpq_JoB55pw-paHIU0EHHwhEXwV0zHXj1_wSc_NqFYc13ZHJCSKPAW4QIUAKzdgH8s4V_PmJU3PpY81mYrpLZ5_HS_fyDh5MufccVdkw4OMufxVWbIXAH31j7Koxfya3X6GqA6BLGC5zRv8Ca45N1A"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRmtyQxUeb8mBU_forYi8xH_a3Uw2MZzZWw2BeN_JlJL40MGTsFdci3eJqU5VSdYUIYR2wft6g6SmMgegioXRcXnvwNXYdq6L67osyW3Iw2Tp-a7eD-ia2Q",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQPU7RrWnlswWxDYIEELAzSZfr-fvtd_rL_e9qdtgknZhM7mDaW7LBjw4R8Q8vnfWLCSWuHe7CUYNsds8nK6NBPbT0GZK9R3YJx7DWb5ru20g",
+      "source": "PayMore Frederick",
+      "title": "GravaStar K1 Lite",
+      "rating": 4.8,
+      "reviews": 326,
+      "price": "$84.99",
+      "extracted_price": 84.99,
+      "location": "Nearby, 23 mi",
+      "immersive_product_page_token": "OPg3w3icbZFJsqNGEIYjfAYfwhHaVBWT8O6JSchNIQqqGDYdiEICUQwtNBJ9B99Br9sR7WW7I3yW59OY57W3-WX--f-Zvz_L-m_tt8sjv0ad715t_bLcVvgi6qD_Npx6finONf8BJaiosqLJCpSXkryEuq59K_JzLvrDO1Z0ADVNAfLcBHUJSQB8r8qci7or_f2-PJl9UfO_ZBlpy3kaaUgBS01XFPBn3eaH8j_8A2pI17RZTJdUJKlLCSH59cTHN7Q1PipAVXSEIJRldYmgAnT0eUt88-P_s6-fLuXp8fbLuR8WbVlUeVcXuVg05WPX57PmYt-fFnPAwylv27o7fD0M7w7flyuapsIlmhVnp0B9bWv-XdFUWUVLIKkz0pGmya_D9fysDl8uF1G-mbeF8eIGruGeGLKn3BGXTCLXXX23gsdLHzp2lyWbiTu6NNcwMZqRxcrAHda4NgZpQkRxex7E8zI-K_Esuz_6fLjui39--tnqb6Yx3oyADgMzCQhBAIKEmFxaNXHTP_IGb4lVmV6ElZgRNUe2wdpqLOJKLS1lG1vQ9B08-vSME2hJxdqeIgegBJAxPhISOQPxbBJFAPsJkJEfB4AyS86kgZIjdj0To8LClMb32w7pooDiU2ltpAJBhmnmRsfNPotxRdeVE3Yi4GYW-OvNdXfMwhSJkAGW5JTHJOYkZf2jQLa3Q9wIREU9pO9LepNC225CqNdZg5uw688klqeiPbdZ9wIy1sCIkjVZZzGLU4nGzCD2as8FDhga1sw6UzLhKK8hoEn1SJHSFc4SpI3ip0z3QtRPnhj2O1jdUmgh36w84lTXFBGZdGIkCEzzf-qCbeCObSjvBpi1OA5ask7bjZvbws3XYiwQNr12CHYW9ymwG691Ze_IOm6RG4fNY_aI_bjCHrUxm1ZHjKo0AfP9KA3tiX_giai4IJcICESOAvr2qo86NubMvjr1ZkXW-OHHWei1ehK3JI86fqRT9sjMzYeIsVshDUE2WSCzufTlPp72b-DFVs6hr6kGBZF0qo7CyZ0ERPfIup_ae7XFt1-hpgOgyxLUFBn9CxSdTJg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=OPg3w3icbZFJsqNGEIYjfAYfwhHaVBWT8O6JSchNIQqqGDYdiEICUQwtNBJ9B99Br9sR7WW7I3yW59OY57W3-WX--f-Zvz_L-m_tt8sjv0ad715t_bLcVvgi6qD_Npx6finONf8BJaiosqLJCpSXkryEuq59K_JzLvrDO1Z0ADVNAfLcBHUJSQB8r8qci7or_f2-PJl9UfO_ZBlpy3kaaUgBS01XFPBn3eaH8j_8A2pI17RZTJdUJKlLCSH59cTHN7Q1PipAVXSEIJRldYmgAnT0eUt88-P_s6-fLuXp8fbLuR8WbVlUeVcXuVg05WPX57PmYt-fFnPAwylv27o7fD0M7w7flyuapsIlmhVnp0B9bWv-XdFUWUVLIKkz0pGmya_D9fysDl8uF1G-mbeF8eIGruGeGLKn3BGXTCLXXX23gsdLHzp2lyWbiTu6NNcwMZqRxcrAHda4NgZpQkRxex7E8zI-K_Esuz_6fLjui39--tnqb6Yx3oyADgMzCQhBAIKEmFxaNXHTP_IGb4lVmV6ElZgRNUe2wdpqLOJKLS1lG1vQ9B08-vSME2hJxdqeIgegBJAxPhISOQPxbBJFAPsJkJEfB4AyS86kgZIjdj0To8LClMb32w7pooDiU2ltpAJBhmnmRsfNPotxRdeVE3Yi4GYW-OvNdXfMwhSJkAGW5JTHJOYkZf2jQLa3Q9wIREU9pO9LepNC225CqNdZg5uw688klqeiPbdZ9wIy1sCIkjVZZzGLU4nGzCD2as8FDhga1sw6UzLhKK8hoEn1SJHSFc4SpI3ip0z3QtRPnhj2O1jdUmgh36w84lTXFBGZdGIkCEzzf-qCbeCObSjvBpi1OA5ask7bjZvbws3XYiwQNr12CHYW9ymwG691Ze_IOm6RG4fNY_aI_bjCHrUxm1ZHjKo0AfP9KA3tiX_giai4IJcICESOAvr2qo86NubMvjr1ZkXW-OHHWei1ehK3JI86fqRT9sjMzYeIsVshDUE2WSCzufTlPp72b-DFVs6hr6kGBZF0qo7CyZ0ERPfIup_ae7XFt1-hpgOgyxLUFBn9CxSdTJg"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcROzS0HdrSKR34nnuMjRbb-9RwgBWrBumIzv3iD6iOt_1F5GR7e4okBoWdq7h4nQ-4tkO0WSFzvKRIGKIp_sZ22GwvNmnDsxNMMximHd2gW",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "heyday Full Size Mechanical Keyboard",
+      "rating": 4.5,
+      "reviews": 31,
+      "price": "$34.99",
+      "extracted_price": 34.99,
+      "location": "Nearby, 20 mi",
+      "immersive_product_page_token": "7YWktXicbZPNjqNGFIWVt4nUG6owYLJrbBe22xRNAYVdm1GZwuan-GkMbozmHfIKkXsm0mQ5M1KepfMkWYbJelZX9366R-cszu_3JPvbeOpv_BpU7uaKzH7-nOJeZl79pWlr0cddJr4DRTFN04DmDBja3FRMDcy-xLzjsj7_wMCEigm1uaLrQNVnpjmff00TLmRWJe7plLTLOs7EN12HEzNUAOa6Ok3NVP_KSn5O_sd_vLXi8g6fFx9m6lwDUIeqYpi6qhtzqHx8Ju7yw8_Z55c-aW_vv3Z181AmccqrLObyoUhux5pPmg-nun2YwpxbXpZZdf58bn64-YnSW5mJr5qhz3Q4N7UpizbFNcBbc-3u6flT38vkffn6sHjceJvFpqUQjdyWPVPJ9ZgNK-_2WPs2qth-OwrbVKcbJoviQiOtETYtNggrhz2R8ev9LO_95Z7Ke1L9WfPmeor_-eXf1TVeLNp44YVNQ5dECRDVhTQzUsxUfyVHHjx2DhAlUfAiQmcQLfELt0MYQLFmkHGei8ixgbdXaS2qJvdX3Yu7JksxbkYHUB6thYttovmjtdhFocpCLTuCdKDIgody2LjReTxUzY5H6cZfbldB4aghpU9ehXVeiVeeATZ9dXHA6hhgP0TEohFrHIp7uk4DTBvXkZaTSHNkpUaPleU4Abkd4PB0UFlL9wL5AYt4jurjkjW4MMnRBuskQts4SBsGlRumZunsm9IpiM3zWBNr6-kIUxkohPgQYx8Iaxd63Y4i7aAMA7GFJfKwo5HY4kg4fgFcLj3Vy8PhEHZ48pQG4TDjI9OiChVxISoGwc2DaJbINHPXK4VJUuNl2juI5HsgHRexAE-efbktuS04XU97Idso95TQjn00ip3Yy1RI0geKhCSXwEVWHVT0wim62tnWImt8cyPmR8vtJVwJ-4iYxFUThjbe8xV2jlA2dE-HQDLr03BpT-_KI9I63zX0RagEapvm0ub2XgmGYDW05ZA-49ffgGFOVZypUw1n8D81b0M8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7YWktXicbZPNjqNGFIWVt4nUG6owYLJrbBe22xRNAYVdm1GZwuan-GkMbozmHfIKkXsm0mQ5M1KepfMkWYbJelZX9366R-cszu_3JPvbeOpv_BpU7uaKzH7-nOJeZl79pWlr0cddJr4DRTFN04DmDBja3FRMDcy-xLzjsj7_wMCEigm1uaLrQNVnpjmff00TLmRWJe7plLTLOs7EN12HEzNUAOa6Ok3NVP_KSn5O_sd_vLXi8g6fFx9m6lwDUIeqYpi6qhtzqHx8Ju7yw8_Z55c-aW_vv3Z181AmccqrLObyoUhux5pPmg-nun2YwpxbXpZZdf58bn64-YnSW5mJr5qhz3Q4N7UpizbFNcBbc-3u6flT38vkffn6sHjceJvFpqUQjdyWPVPJ9ZgNK-_2WPs2qth-OwrbVKcbJoviQiOtETYtNggrhz2R8ev9LO_95Z7Ke1L9WfPmeor_-eXf1TVeLNp44YVNQ5dECRDVhTQzUsxUfyVHHjx2DhAlUfAiQmcQLfELt0MYQLFmkHGei8ixgbdXaS2qJvdX3Yu7JksxbkYHUB6thYttovmjtdhFocpCLTuCdKDIgody2LjReTxUzY5H6cZfbldB4aghpU9ehXVeiVeeATZ9dXHA6hhgP0TEohFrHIp7uk4DTBvXkZaTSHNkpUaPleU4Abkd4PB0UFlL9wL5AYt4jurjkjW4MMnRBuskQts4SBsGlRumZunsm9IpiM3zWBNr6-kIUxkohPgQYx8Iaxd63Y4i7aAMA7GFJfKwo5HY4kg4fgFcLj3Vy8PhEHZ48pQG4TDjI9OiChVxISoGwc2DaJbINHPXK4VJUuNl2juI5HsgHRexAE-efbktuS04XU97Idso95TQjn00ip3Yy1RI0geKhCSXwEVWHVT0wim62tnWImt8cyPmR8vtJVwJ-4iYxFUThjbe8xV2jlA2dE-HQDLr03BpT-_KI9I63zX0RagEapvm0ub2XgmGYDW05ZA-49ffgGFOVZypUw1n8D81b0M8"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR3RnXQV_P98X6MCtJUaRoClK3Y0o9Rughi58vOAWKllDjDdslGjhunMN7cbYfUs4uNyTYbGQSX7kOJj3fzrbof17txTyv53fWwZZuN6d6k9ckK3MvkF8iV",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "heyday Compact Mechanical Keyboard",
+      "rating": 4.7,
+      "reviews": 23,
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "location": "Nearby, 20 mi",
+      "immersive_product_page_token": "AmdkgXicdZLLrqNGEIalPEMeIpI33TTNJbuDcWNzxtg03c1lM8KADXZzOfgGVt4h7-AzE2mynETKs5w8TZCyTXal-v_66yupfn0W1V_663VMb6zZrG7EvBrb0rvKym-_dX2bX7NLlf8BVYQMTdF0DRomQNjU0bcsvaSyPUyqrgOANIyhDpXJZxhI_14WaS6rptjs90Vvt9lk0yBSVcNEWIdTaSiagX6v6vRQ_CtDAFSsY6RCRZv2GZqhvvf5-UPdzj9DBJBuKEjVkKIDiCHA8Jct3dif_0f8-nYt-vHjp0vbzeoiK9OmylI5OxXjrk2n1Nm-7WfTfYc-reuqOXw9dBPDn_8V9V5X-Xesa6qmGKaha0A3AVbQe3e7PMvDl-tVFh_2fTZ_Wfmr-aoXCnmkjrwmiN521bDwx5c2cEiTRO4jd0w09Tw6P51FiLvcEacV8UAcUZndnwf5vJ6fpXwWzW9t2t322d8__Lho7_b8fJ_7vOuETUHAxZg45msAy5DCruHNyyigeOXC7APHh6GD3TDEOAbDJhCdCJl1FHx15wpQRGQtRCjrMEoeme0OgkmyfhA3azxJ2RrEtVzvHpYTK4PPa-H4jxz7kfVgRNjro7UVE39cU1ZIcxM43ehDj8f84vgAqnl9UrxapjslU3xkvfGaHFMnw8lC4nzRsfzoljtRuhNf8ElY8wgmiIXQLpY0zo9eXdgrNQUkSMCwZcqgJhFZUeHCDXflxjmP65oGIZeyiDplmr3zE-bs1MXhUs6DCg7coatQEodH7rCD_iV1yHyzlL0g3cpXhphF7p09yFsamtZadvt86dV-mNvcOcA18aiwMyWuINhF7jHnQ0uXhIYOVBNWcraMUchz6okM7IBrrU94T20CgnqwKKQkAHdcNB5hyxLlYYY86Y9sSdw1c-uQtwF55J_ySJa5pFcGpEKPEm6I1bJGnFNBbk7lWnTpjZsw4ZwPaV7LUZzEfuI7UedSZUBE2ZGOPj890iZBX4Zzv_8ALwRfgo2uzTlgqC-P0kmdCLCBLYa-Hsqtd_8ZTs8KTBVBHavKPzYaTUg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=AmdkgXicdZLLrqNGEIalPEMeIpI33TTNJbuDcWNzxtg03c1lM8KADXZzOfgGVt4h7-AzE2mynETKs5w8TZCyTXal-v_66yupfn0W1V_663VMb6zZrG7EvBrb0rvKym-_dX2bX7NLlf8BVYQMTdF0DRomQNjU0bcsvaSyPUyqrgOANIyhDpXJZxhI_14WaS6rptjs90Vvt9lk0yBSVcNEWIdTaSiagX6v6vRQ_CtDAFSsY6RCRZv2GZqhvvf5-UPdzj9DBJBuKEjVkKIDiCHA8Jct3dif_0f8-nYt-vHjp0vbzeoiK9OmylI5OxXjrk2n1Nm-7WfTfYc-reuqOXw9dBPDn_8V9V5X-Xesa6qmGKaha0A3AVbQe3e7PMvDl-tVFh_2fTZ_Wfmr-aoXCnmkjrwmiN521bDwx5c2cEiTRO4jd0w09Tw6P51FiLvcEacV8UAcUZndnwf5vJ6fpXwWzW9t2t322d8__Lho7_b8fJ_7vOuETUHAxZg45msAy5DCruHNyyigeOXC7APHh6GD3TDEOAbDJhCdCJl1FHx15wpQRGQtRCjrMEoeme0OgkmyfhA3azxJ2RrEtVzvHpYTK4PPa-H4jxz7kfVgRNjro7UVE39cU1ZIcxM43ehDj8f84vgAqnl9UrxapjslU3xkvfGaHFMnw8lC4nzRsfzoljtRuhNf8ElY8wgmiIXQLpY0zo9eXdgrNQUkSMCwZcqgJhFZUeHCDXflxjmP65oGIZeyiDplmr3zE-bs1MXhUs6DCg7coatQEodH7rCD_iV1yHyzlL0g3cpXhphF7p09yFsamtZadvt86dV-mNvcOcA18aiwMyWuINhF7jHnQ0uXhIYOVBNWcraMUchz6okM7IBrrU94T20CgnqwKKQkAHdcNB5hyxLlYYY86Y9sSdw1c-uQtwF55J_ySJa5pFcGpEKPEm6I1bJGnFNBbk7lWnTpjZsw4ZwPaV7LUZzEfuI7UedSZUBE2ZGOPj890iZBX4Zzv_8ALwRfgo2uzTlgqC-P0kmdCLCBLYa-Hsqtd_8ZTs8KTBVBHavKPzYaTUg"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQfL6gSk-9AWECm0ik6DNijeTHdT6UEnv1pgfL1BhtPzjkioA5NvNelkPYD6HGNIZHEeo2Lypvfn042D6fNvtqGmZXdAmg4qUZSlHbFNHcS7Qo3wu__Wfm1",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Keychron V1 Ultra 8K Wireless Mechanical Keyboard",
+      "rating": 4.7,
+      "reviews": 35,
+      "price": "$114.99",
+      "extracted_price": 114.99,
+      "location": "Nearby, 23 mi",
+      "immersive_product_page_token": "QBY7VXicbVJJjuNGEAT8Bj_CQF-qSBUX31riJnarJBaLRZGXQYlFiUtxGUrUBv_Bf1DPGBgfZwz4Le3XmDNX-5gZGZkRgfz9kZd_6y_jjZ9pu16eHXM0NgUeZRl0X_qhE2N2KsU3Q1FN1dA0aCiKphkAIP1Lxk9cdodSfNURVBFAQDdmhqkoujr7WuRcyLLN1_t9PlhdVoq_IAIzZZqa-EhFCGrIMP4sG37If-DfEIQzZJpQBQgZwIQQobdBHN-VzeLDRNUA1E1d1WaaAhWkq79tyNr68P_Y549jPtzefzl1_VOTZwVvy4zLpzq_7To-7Xzad8PT5O4w8KYp28PnQ_9DwX83vTWTP6R_rw1d01VVN9Ek8q0_nx7F4dM4yvzdujwtnpfBcrEcmOLcuSvHVCXnXXm1g9tzF7pOm279u3BNdephsqiPLEa9cFm9dDBItkRml8dBPsbjo5CPvP2j4_15n_3z0892d7EWx8siiPqeWQSE0LfSOy5iTzJsy4ZESKGxrxFV1MwTNK78ddj6c1oRuvPkQlBCVy6zUuZ4W-C3mVvUWKZoB506rv0Nbjo1YQUTsI9eKSY7tkQ7y1F227THClkIST6ymjhUMS0i_WQn2StT2ZhVbD_dlcLB-wDOV0EM0c4J4A6kaVgvbyu7_5hWxTa1CpxbjsdK2HNvPkQeqZNKlqztxyz2ryJmYdRATGv_hBvYChs6q2k6ihHHNrlga_6yqnHCVaeilu_EW7yf8uUcZEpezWHCxEvs9RqWxYZ7zCaNf49i4aUggHkjPRZ910kAj9h5BdJ-e2cLRm00ZZgkFU7SyLzj-HDjJaxpk0ZBjbrYknFOCzuLYRhawT13s1Ne4Q7bfsjilUJtMaNR0YaASN4kd-wmSi7nr7GDK2FfL3njBJHlL6es7Ng2QucuXsVWFlOWIwVSIZWEa2fe0ZYdOXPObunPiYdv6zgNSZOyzOvT1R1vglgg3D5fxbZIAmCglGKZy1T9dD0O-3fw7KBTuNa1RQSoOhSVdLm7BfRK7evQXIsNvvw6vTIA5kyFOpop_wLuxk6b",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=QBY7VXicbVJJjuNGEAT8Bj_CQF-qSBUX31riJnarJBaLRZGXQYlFiUtxGUrUBv_Bf1DPGBgfZwz4Le3XmDNX-5gZGZkRgfz9kZd_6y_jjZ9pu16eHXM0NgUeZRl0X_qhE2N2KsU3Q1FN1dA0aCiKphkAIP1Lxk9cdodSfNURVBFAQDdmhqkoujr7WuRcyLLN1_t9PlhdVoq_IAIzZZqa-EhFCGrIMP4sG37If-DfEIQzZJpQBQgZwIQQobdBHN-VzeLDRNUA1E1d1WaaAhWkq79tyNr68P_Y549jPtzefzl1_VOTZwVvy4zLpzq_7To-7Xzad8PT5O4w8KYp28PnQ_9DwX83vTWTP6R_rw1d01VVN9Ek8q0_nx7F4dM4yvzdujwtnpfBcrEcmOLcuSvHVCXnXXm1g9tzF7pOm279u3BNdephsqiPLEa9cFm9dDBItkRml8dBPsbjo5CPvP2j4_15n_3z0892d7EWx8siiPqeWQSE0LfSOy5iTzJsy4ZESKGxrxFV1MwTNK78ddj6c1oRuvPkQlBCVy6zUuZ4W-C3mVvUWKZoB506rv0Nbjo1YQUTsI9eKSY7tkQ7y1F227THClkIST6ymjhUMS0i_WQn2StT2ZhVbD_dlcLB-wDOV0EM0c4J4A6kaVgvbyu7_5hWxTa1CpxbjsdK2HNvPkQeqZNKlqztxyz2ryJmYdRATGv_hBvYChs6q2k6ihHHNrlga_6yqnHCVaeilu_EW7yf8uUcZEpezWHCxEvs9RqWxYZ7zCaNf49i4aUggHkjPRZ910kAj9h5BdJ-e2cLRm00ZZgkFU7SyLzj-HDjJaxpk0ZBjbrYknFOCzuLYRhawT13s1Ne4Q7bfsjilUJtMaNR0YaASN4kd-wmSi7nr7GDK2FfL3njBJHlL6es7Ng2QucuXsVWFlOWIwVSIZWEa2fe0ZYdOXPObunPiYdv6zgNSZOyzOvT1R1vglgg3D5fxbZIAmCglGKZy1T9dD0O-3fw7KBTuNa1RQSoOhSVdLm7BfRK7evQXIsNvvw6vTIA5kyFOpop_wLuxk6b"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRZNqJ2xpWAa4FPrtYquWMXGj3WCx2rNSITyqziFW4NirEqCI9rHbrcIjt_m6NCgn2VONlNmHY8IKo8Q7iR2q5CuUKWeDbQKSheuKuD3oYr",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Aula F75 75% Wireless Mechanical Creamy Gaming Keyboard",
+      "rating": 4.8,
+      "reviews": 935,
+      "price": "$76.94",
+      "extracted_price": 76.94,
+      "location": "Nearby, 19 mi",
+      "immersive_product_page_token": "S-hd4HicbZFLjuM2AESBnCGHCOANKYr6ZGd924ottyiKkrgZyKJsyaY-7Z9kI3fIHdwzASbLmQA5S-c0cYAss60qPFShfntUzV_6L5dbcaXdenH1zIvxWocX2UT91-HYi0t5bsSfUMOqqUMTKJqmaqaCNax9LYtzIftdI76bCKk6RiYEBlQNpALV-FZXhZBNV6232-ro9OW_FIABAqpmQAR0qOiGbih_NG2xq_7zNYCRjkwEDE1HBkBYM9-P4vShvNqfDKxqUAHPClBFKsIQol9fydr59P_el7dLdbx9_HTuh1lblXXRNWUhZ4fqtumLJ3O27Y-z58DdsWjbptt92Q3PCt-RpgIFaJpimppumNjU8XvbiG9Yf-5WDNMAECqGggzlfbieH_Xu8-Uiqw9nnNnzRbSwF0emePfClxeOyHXTTG50m_ex73U8C-7CN9FTC4l9OLEUD8Jnh4UXgjwjshwfO_m4nB61fFTd730xXLfl3z_86PajY59GO0qGgTkEUL9-W0kpaRYueVdDRkVBaa1xBeYb6XXCqeuULqYSRueVrAfRYpm3Ykkc_rrK3HHNwinv-GrJBjXdc5u4XhTL-ShoeA_vclsevFOYEq_0YR-lfLvpSMvSek_SHlcyGKusPsdpuN24eFsdDjBxgqlIz1EBrRNLQkAS2TJlnEpP2KEfoFUnVnEbRCtnhylcoCKRnB4CugFDw6Vxz1Fwjf1yiigLwix4o5mVxcmkptTCRQLG1OdxhsKhykS_ZB7P28GO2hqzZMijA1xsQP1W3MNtAc2eSO8lTTFnbXKmCsn5QXqRwpfEZ3HsL8a4lUvGpEoSjOIbvGV367ZxwzZPCHl-8_zEC-JO-GHbQw7niByCG3XEncPhZeWagHqMle4CblwYlY5sCxbkYStkAuskh_U5kcKq9qzjiWcnmaXld96T_Tz27mIpMlkLSS4USIXsJVx7Vk87diqYd_WbwCIv4W2d8iRm1iReeEi9AcT-To2R-8wG18o3r6Xk1jIxrc_T6bj9AHMPn-O1rtkJoOhY76Vf-BmgE3WnYzvVr-H4M9RNAEwVQR2ryj-G11C0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=S-hd4HicbZFLjuM2AESBnCGHCOANKYr6ZGd924ottyiKkrgZyKJsyaY-7Z9kI3fIHdwzASbLmQA5S-c0cYAss60qPFShfntUzV_6L5dbcaXdenH1zIvxWocX2UT91-HYi0t5bsSfUMOqqUMTKJqmaqaCNax9LYtzIftdI76bCKk6RiYEBlQNpALV-FZXhZBNV6232-ro9OW_FIABAqpmQAR0qOiGbih_NG2xq_7zNYCRjkwEDE1HBkBYM9-P4vShvNqfDKxqUAHPClBFKsIQol9fydr59P_el7dLdbx9_HTuh1lblXXRNWUhZ4fqtumLJ3O27Y-z58DdsWjbptt92Q3PCt-RpgIFaJpimppumNjU8XvbiG9Yf-5WDNMAECqGggzlfbieH_Xu8-Uiqw9nnNnzRbSwF0emePfClxeOyHXTTG50m_ex73U8C-7CN9FTC4l9OLEUD8Jnh4UXgjwjshwfO_m4nB61fFTd730xXLfl3z_86PajY59GO0qGgTkEUL9-W0kpaRYueVdDRkVBaa1xBeYb6XXCqeuULqYSRueVrAfRYpm3Ykkc_rrK3HHNwinv-GrJBjXdc5u4XhTL-ShoeA_vclsevFOYEq_0YR-lfLvpSMvSek_SHlcyGKusPsdpuN24eFsdDjBxgqlIz1EBrRNLQkAS2TJlnEpP2KEfoFUnVnEbRCtnhylcoCKRnB4CugFDw6Vxz1Fwjf1yiigLwix4o5mVxcmkptTCRQLG1OdxhsKhykS_ZB7P28GO2hqzZMijA1xsQP1W3MNtAc2eSO8lTTFnbXKmCsn5QXqRwpfEZ3HsL8a4lUvGpEoSjOIbvGV367ZxwzZPCHl-8_zEC-JO-GHbQw7niByCG3XEncPhZeWagHqMle4CblwYlY5sCxbkYStkAuskh_U5kcKq9qzjiWcnmaXld96T_Tz27mIpMlkLSS4USIXsJVx7Vk87diqYd_WbwCIv4W2d8iRm1iReeEi9AcT-To2R-8wG18o3r6Xk1jIxrc_T6bj9AHMPn-O1rtkJoOhY76Vf-BmgE3WnYzvVr-H4M9RNAEwVQR2ryj-G11C0"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Which mechanical keyboard is best for coding?",
+      "type": "ai_overview",
+      "page_token": "IO98hnicHdBbTuMwAEBRsRk-aR3XRa1UIQUcRCABO34k_hkldlu3ceJAC3n8sQXWwKpmNVPNBo507_evO7T136sfez53p_Vs1vf9zd77vdveaN_MytPY6pkunatKXa-Xt0twt9Mb_KXD-w8dEt514oHOMyjSiitCmBgLFp2Ys4PCKUyn9OlVGsigoOqB0gTEIoNxwlu6TINOGm6VkMOzhrStWCR0YA8veffJWDimTrUE-PmrtIE54r6Ug6MYlZRZL1iYZuN85I8KqGZItERESnTOgqhMRNKzhrqqdlS1CpLcSsZXGcmjWDT2fduIt4tJSpDuiDSLStR9Upt3FdBJYsOMXFGRx9RM1nMZxduWIxXhvpDunosuxFbDSy8qcsWrehWbukCGXTyMQPXoaDX4A-F00kfXCAyORWOXiqMnXXeYBQtYgAIlGfBsEkQHqjX99U5_beD1_9ebP7vmvO4-_P4fmO6NNQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IO98hnicHdBbTuMwAEBRsRk-aR3XRa1UIQUcRCABO34k_hkldlu3ceJAC3n8sQXWwKpmNVPNBo507_evO7T136sfez53p_Vs1vf9zd77vdveaN_MytPY6pkunatKXa-Xt0twt9Mb_KXD-w8dEt514oHOMyjSiitCmBgLFp2Ys4PCKUyn9OlVGsigoOqB0gTEIoNxwlu6TINOGm6VkMOzhrStWCR0YA8veffJWDimTrUE-PmrtIE54r6Ug6MYlZRZL1iYZuN85I8KqGZItERESnTOgqhMRNKzhrqqdlS1CpLcSsZXGcmjWDT2fduIt4tJSpDuiDSLStR9Upt3FdBJYsOMXFGRx9RM1nMZxduWIxXhvpDunosuxFbDSy8qcsWrehWbukCGXTyMQPXoaDX4A-F00kfXCAyORWOXiqMnXXeYBQtYgAIlGfBsEkQHqjX99U5_beD1_9ebP7vmvO4-_P4fmO6NNQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVYQTBWR1JQZFRaWk4waFRla1phZFdzMWNqRXpXWEpEVVc5clgwTk5jelZ5TFV0UFJFWTBSRzlEYlhRMlRFVmhOREpPWWtGMlZFTlZka3BoWlROQ2VWRjFPRWR1WVVveGJtZHRWVjkzZVZGUFR6TmlhVE5MWTFoV2R4SVhOMHQxZVdGMlZHNVBTWFpHT1hVNFVHaE9kV3hwVVc4YUlrRkVjM0k1WmxSMlpHbEJSRWxMZG5CVVdqZGhZV0pqT0RONVpEaEVSRk5EVG5jIiwiZmN2IjoiMyIsImVpIjoiN0t1eWF2VG5PSXZGOXU4UGhOdWxpUW8iLCJxYyI6IkNpaDBiM0FnYldWamFHRnVhV05oYkNCclpYbGliMkZ5WkhNZ1ptOXlJSEJ5YjJkeVlXMXRhVzVuRUFCOXBRSVBQdyIsInF1ZXN0aW9uIjoiV2hpY2ggbWVjaGFuaWNhbCBrZXlib2FyZCBpcyBiZXN0IGZvciBjb2Rpbmc/IiwibGsiOiJHaDlpWlhOMElHMWxZMmhoYm1sallXd2dhMlY1WW05aGNtUWdZMjlrYVc1biIsImJzIjoiYzRXT3NRckNNQkJBY2IzSlNVb1d6MUhCcGVEY3FlRHMwdm1hbkUyd2JjSWxDUDY5TmdXblZ0ZTdkLThlM09EY1dLY3REcXd0alU1VGp3OS10WjdFb0l2WWNreDQ5NExhR3pkMlZYbFEtenhiNG1jR3JuQnFMS1hwUEZtZUZWOW1jZ1h4bmRBd3NNU3FWS3BZVzBLdS01aElPS3VTRDNqQnRmOHgxXzFob0liajd6ckRULTU5eUhHRjJpM3Z0cHMzIiwiaWQiOiJmY183S3V5YXZUbk9JdkY5dThQaE51bGlRb184In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVYQTBWR1JQZFRaWk4waFRla1phZFdzMWNqRXpXWEpEVVc5clgwTk5jelZ5TFV0UFJFWTBSRzlEYlhRMlRFVmhOREpPWWtGMlZFTlZka3BoWlROQ2VWRjFPRWR1WVVveGJtZHRWVjkzZVZGUFR6TmlhVE5MWTFoV2R4SVhOMHQxZVdGMlZHNVBTWFpHT1hVNFVHaE9kV3hwVVc4YUlrRkVjM0k1WmxSMlpHbEJSRWxMZG5CVVdqZGhZV0pqT0RONVpEaEVSRk5EVG5jIiwiZmN2IjoiMyIsImVpIjoiN0t1eWF2VG5PSXZGOXU4UGhOdWxpUW8iLCJxYyI6IkNpaDBiM0FnYldWamFHRnVhV05oYkNCclpYbGliMkZ5WkhNZ1ptOXlJSEJ5YjJkeVlXMXRhVzVuRUFCOXBRSVBQdyIsInF1ZXN0aW9uIjoiV2hpY2ggbWVjaGFuaWNhbCBrZXlib2FyZCBpcyBiZXN0IGZvciBjb2Rpbmc%2FIiwibGsiOiJHaDlpWlhOMElHMWxZMmhoYm1sallXd2dhMlY1WW05aGNtUWdZMjlrYVc1biIsImJzIjoiYzRXT3NRckNNQkJBY2IzSlNVb1d6MUhCcGVEY3FlRHMwdm1hbkUyd2JjSWxDUDY5TmdXblZ0ZTdkLThlM09EY1dLY3REcXd0alU1VGp3OS10WjdFb0l2WWNreDQ5NExhR3pkMlZYbFEtenhiNG1jR3JuQnFMS1hwUEZtZUZWOW1jZ1h4bmRBd3NNU3FWS3BZVzBLdS01aElPS3VTRDNqQnRmOHgxXzFob0liajd6ckRULTU5eUhHRjJpM3Z0cHMzIiwiaWQiOiJmY183S3V5YXZUbk9JdkY5dThQaE51bGlRb184In0%3D"
+    },
+    {
+      "question": "What is the best keyboard for programmers?",
+      "type": "ai_overview",
+      "page_token": "-wf3zHicHdBdToMwAADgeBkfHciY2ZLFiCvMTjB0tJW9mP7AutFCJyhb37yLp_I0Gm_w5fv61oe2-bn6VMNg-8VkMo7jzb7r9rq6EZ2ZsP7SiolgWnMmmsXsbubf12IJPp6ix9NTlGNryQp5RSxPRaM-qLYHAYYRBVFdEbglMWpLQs47AI-Zg4_Ct4yv1VCt0gE5lUsahuVr5wuXlZiqIH2Va-6T4IX2A6PKEXMO8saWcg0vwhAo2mysVtEGEzWlsT7x5Gx3yTgWJtMymc94Mp9iLyP8GNPcRW2uYVYYcklvVYJiZZHXeNzBDmuyEbifbo1lKZ7XWwCfd-7BSxPIskQhoESwDcifbYd5M4eyKUNZqJyB0OeJRvzcHXKMnDhqgykIufEZb9WmosgTgPQZgGEKxKVo47x0cibH61p8LoPr_8_lW22GhX3v9r86mIVV",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-wf3zHicHdBdToMwAADgeBkfHciY2ZLFiCvMTjB0tJW9mP7AutFCJyhb37yLp_I0Gm_w5fv61oe2-bn6VMNg-8VkMo7jzb7r9rq6EZ2ZsP7SiolgWnMmmsXsbubf12IJPp6ix9NTlGNryQp5RSxPRaM-qLYHAYYRBVFdEbglMWpLQs47AI-Zg4_Ct4yv1VCt0gE5lUsahuVr5wuXlZiqIH2Va-6T4IX2A6PKEXMO8saWcg0vwhAo2mysVtEGEzWlsT7x5Gx3yTgWJtMymc94Mp9iLyP8GNPcRW2uYVYYcklvVYJiZZHXeNzBDmuyEbifbo1lKZ7XWwCfd-7BSxPIskQhoESwDcifbYd5M4eyKUNZqJyB0OeJRvzcHXKMnDhqgykIufEZb9WmosgTgPQZgGEKxKVo47x0cibH61p8LoPr_8_lW22GhX3v9r86mIVV",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVYQTBWR1JQZFRaWk4waFRla1phZFdzMWNqRXpXWEpEVVc5clgwTk5jelZ5TFV0UFJFWTBSRzlEYlhRMlRFVmhOREpPWWtGMlZFTlZka3BoWlROQ2VWRjFPRWR1WVVveGJtZHRWVjkzZVZGUFR6TmlhVE5MWTFoV2R4SVhOMHQxZVdGMlZHNVBTWFpHT1hVNFVHaE9kV3hwVVc4YUlrRkVjM0k1WmxSMlpHbEJSRWxMZG5CVVdqZGhZV0pqT0RONVpEaEVSRk5EVG5jIiwiZmN2IjoiMyIsImVpIjoiN0t1eWF2VG5PSXZGOXU4UGhOdWxpUW8iLCJxYyI6IkNpaDBiM0FnYldWamFHRnVhV05oYkNCclpYbGliMkZ5WkhNZ1ptOXlJSEJ5YjJkeVlXMXRhVzVuRUFCOXBRSVBQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBrZXlib2FyZCBmb3IgcHJvZ3JhbW1lcnM/IiwibGsiOiJHaGhyWlhsaWIyRnlaQ0JtYjNJZ2NISnZaM0poYlcxbGNuTSIsImJzIjoiYzRXT3NRckNNQkJBY2IzSlNVb1d6MUhCcGVEY3FlRHMwdm1hbkUyd2JjSWxDUDY5TmdXblZ0ZTdkLThlM09EY1dLY3REcXd0alU1VGp3OS10WjdFb0l2WWNreDQ5NExhR3pkMlZYbFEtenhiNG1jR3JuQnFMS1hwUEZtZUZWOW1jZ1h4bmRBd3NNU3FWS3BZVzBLdS01aElPS3VTRDNqQnRmOHgxXzFob0liajd6ckRULTU5eUhHRjJpM3Z0cHMzIiwiaWQiOiJmY183S3V5YXZUbk9JdkY5dThQaE51bGlRb184In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVYQTBWR1JQZFRaWk4waFRla1phZFdzMWNqRXpXWEpEVVc5clgwTk5jelZ5TFV0UFJFWTBSRzlEYlhRMlRFVmhOREpPWWtGMlZFTlZka3BoWlROQ2VWRjFPRWR1WVVveGJtZHRWVjkzZVZGUFR6TmlhVE5MWTFoV2R4SVhOMHQxZVdGMlZHNVBTWFpHT1hVNFVHaE9kV3hwVVc4YUlrRkVjM0k1WmxSMlpHbEJSRWxMZG5CVVdqZGhZV0pqT0RONVpEaEVSRk5EVG5jIiwiZmN2IjoiMyIsImVpIjoiN0t1eWF2VG5PSXZGOXU4UGhOdWxpUW8iLCJxYyI6IkNpaDBiM0FnYldWamFHRnVhV05oYkNCclpYbGliMkZ5WkhNZ1ptOXlJSEJ5YjJkeVlXMXRhVzVuRUFCOXBRSVBQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBrZXlib2FyZCBmb3IgcHJvZ3JhbW1lcnM%2FIiwibGsiOiJHaGhyWlhsaWIyRnlaQ0JtYjNJZ2NISnZaM0poYlcxbGNuTSIsImJzIjoiYzRXT3NRckNNQkJBY2IzSlNVb1d6MUhCcGVEY3FlRHMwdm1hbkUyd2JjSWxDUDY5TmdXblZ0ZTdkLThlM09EY1dLY3REcXd0alU1VGp3OS10WjdFb0l2WWNreDQ5NExhR3pkMlZYbFEtenhiNG1jR3JuQnFMS1hwUEZtZUZWOW1jZ1h4bmRBd3NNU3FWS3BZVzBLdS01aElPS3VTRDNqQnRmOHgxXzFob0liajd6ckRULTU5eUhHRjJpM3Z0cHMzIiwiaWQiOiJmY183S3V5YXZUbk9JdkY5dThQaE51bGlRb184In0%3D"
+    },
+    {
+      "question": "What are the top 5 best mechanical keyboards?",
+      "type": "ai_overview",
+      "page_token": "irjCeHicHdBdbpswAABg7TJ9bAyUTI0UVaIzYekCw_gH8zJhO4mLATsNiglvu8LOsFPtNJt2ge_h-_m7fx_Nn0-_9DS562a18t4_nq0998dHaYdVe72PciXbvhetNJv153XwcpJbeJPJ64dMSuIc_YJANaSMUbeWZLY4ff4mIL2RncZ01Be5NN0xU8UxNfc6yq-MISRDcBegeWUEZXjMi3yXa0maS0V1QLOzFzD4ejAmxkPwdgjjtun0qTTUNmT_xKmb85rcVW0nBfOBkYCpMYn_-Z4PqS6XPSxSd1AhehMZqpR58hjO38twKhhOAAaUl0seHDOEMVAd7xKOqYvIkLoq0l3VIyvAjGuQW7ELPA99hKPmxpmdGwI81DKqIhrzuiHCPO-V4bHCumxhHIhdj8Rs30uCFtn1A6EJU3C-oFRVqssLNARAMQcPGeJNmFJOzaL8w0nettHD_-vtj9MwbdyHPf8FZ1qOBA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=irjCeHicHdBdbpswAABg7TJ9bAyUTI0UVaIzYekCw_gH8zJhO4mLATsNiglvu8LOsFPtNJt2ge_h-_m7fx_Nn0-_9DS562a18t4_nq0998dHaYdVe72PciXbvhetNJv153XwcpJbeJPJ64dMSuIc_YJANaSMUbeWZLY4ff4mIL2RncZ01Be5NN0xU8UxNfc6yq-MISRDcBegeWUEZXjMi3yXa0maS0V1QLOzFzD4ejAmxkPwdgjjtun0qTTUNmT_xKmb85rcVW0nBfOBkYCpMYn_-Z4PqS6XPSxSd1AhehMZqpR58hjO38twKhhOAAaUl0seHDOEMVAd7xKOqYvIkLoq0l3VIyvAjGuQW7ELPA99hKPmxpmdGwI81DKqIhrzuiHCPO-V4bHCumxhHIhdj8Rs30uCFtn1A6EJU3C-oFRVqssLNARAMQcPGeJNmFJOzaL8w0nettHD_-vtj9MwbdyHPf8FZ1qOBA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVYQTBWR1JQZFRaWk4waFRla1phZFdzMWNqRXpXWEpEVVc5clgwTk5jelZ5TFV0UFJFWTBSRzlEYlhRMlRFVmhOREpPWWtGMlZFTlZka3BoWlROQ2VWRjFPRWR1WVVveGJtZHRWVjkzZVZGUFR6TmlhVE5MWTFoV2R4SVhOMHQxZVdGMlZHNVBTWFpHT1hVNFVHaE9kV3hwVVc4YUlrRkVjM0k1WmxSMlpHbEJSRWxMZG5CVVdqZGhZV0pqT0RONVpEaEVSRk5EVG5jIiwiZmN2IjoiMyIsImVpIjoiN0t1eWF2VG5PSXZGOXU4UGhOdWxpUW8iLCJxYyI6IkNpaDBiM0FnYldWamFHRnVhV05oYkNCclpYbGliMkZ5WkhNZ1ptOXlJSEJ5YjJkeVlXMXRhVzVuRUFCOXBRSVBQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCA1IGJlc3QgbWVjaGFuaWNhbCBrZXlib2FyZHM/IiwibGsiOiJHaDkwYjNBZ05TQmlaWE4wSUcxbFkyaGhibWxqWVd3Z2EyVjVZbTloY21SeiIsImJzIjoiYzRXT3NRckNNQkJBY2IzSlNVb1d6MUhCcGVEY3FlRHMwdm1hbkUyd2JjSWxDUDY5TmdXblZ0ZTdkLThlM09EY1dLY3REcXd0alU1VGp3OS10WjdFb0l2WWNreDQ5NExhR3pkMlZYbFEtenhiNG1jR3JuQnFMS1hwUEZtZUZWOW1jZ1h4bmRBd3NNU3FWS3BZVzBLdS01aElPS3VTRDNqQnRmOHgxXzFob0liajd6ckRULTU5eUhHRjJpM3Z0cHMzIiwiaWQiOiJmY183S3V5YXZUbk9JdkY5dThQaE51bGlRb184In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVYQTBWR1JQZFRaWk4waFRla1phZFdzMWNqRXpXWEpEVVc5clgwTk5jelZ5TFV0UFJFWTBSRzlEYlhRMlRFVmhOREpPWWtGMlZFTlZka3BoWlROQ2VWRjFPRWR1WVVveGJtZHRWVjkzZVZGUFR6TmlhVE5MWTFoV2R4SVhOMHQxZVdGMlZHNVBTWFpHT1hVNFVHaE9kV3hwVVc4YUlrRkVjM0k1WmxSMlpHbEJSRWxMZG5CVVdqZGhZV0pqT0RONVpEaEVSRk5EVG5jIiwiZmN2IjoiMyIsImVpIjoiN0t1eWF2VG5PSXZGOXU4UGhOdWxpUW8iLCJxYyI6IkNpaDBiM0FnYldWamFHRnVhV05oYkNCclpYbGliMkZ5WkhNZ1ptOXlJSEJ5YjJkeVlXMXRhVzVuRUFCOXBRSVBQdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCA1IGJlc3QgbWVjaGFuaWNhbCBrZXlib2FyZHM%2FIiwibGsiOiJHaDkwYjNBZ05TQmlaWE4wSUcxbFkyaGhibWxqWVd3Z2EyVjVZbTloY21SeiIsImJzIjoiYzRXT3NRckNNQkJBY2IzSlNVb1d6MUhCcGVEY3FlRHMwdm1hbkUyd2JjSWxDUDY5TmdXblZ0ZTdkLThlM09EY1dLY3REcXd0alU1VGp3OS10WjdFb0l2WWNreDQ5NExhR3pkMlZYbFEtenhiNG1jR3JuQnFMS1hwUEZtZUZWOW1jZ1h4bmRBd3NNU3FWS3BZVzBLdS01aElPS3VTRDNqQnRmOHgxXzFob0liajd6ckRULTU5eUhHRjJpM3Z0cHMzIiwiaWQiOiJmY183S3V5YXZUbk9JdkY5dThQaE51bGlRb184In0%3D"
+    },
+    {
+      "question": "What is the best keyboard for developers?",
+      "type": "ai_overview",
+      "page_token": "r5kpZHicHdBRboIwGADg7DJ7VERxwcQsOAvaxW4U_wp9WUqrMmmBTVTo2-6yU-00W3aCL_m-vvV7Vf7cXYu2bc6z4fB2uw2OdX3U-4GszVCc-0oOpdA6F7KcTR-mo8eDnKPLevH0sV7E0DRsSZ0tai7M4olIFWfGcbau6qnpvNhtEqgCh4IvaNTVG8QQhAUQhjMBeKmMD7FRo-S0uGTjwNudONtHdKEifwo26IXDVjziz_s_gyNcJSFzidWUIarBYJuEhXhB-gopSTJLJgq1TxT0bbPChro-zhFH3NVLYM1WWdLlO3JigC-p5YcYGE1GQa8M6bnTCqIVl9DVsgwrVMhxMmZelnLISx-rMvPUtogF8kZ5pGne1e8xUCtP2gB4KS9JvS_DKNGx-8Iw37h8Le3alSv2Knb-DuL7g7zOx_f_n_O3g2lnzWd9_AXiiYM1",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r5kpZHicHdBRboIwGADg7DJ7VERxwcQsOAvaxW4U_wp9WUqrMmmBTVTo2-6yU-00W3aCL_m-vvV7Vf7cXYu2bc6z4fB2uw2OdX3U-4GszVCc-0oOpdA6F7KcTR-mo8eDnKPLevH0sV7E0DRsSZ0tai7M4olIFWfGcbau6qnpvNhtEqgCh4IvaNTVG8QQhAUQhjMBeKmMD7FRo-S0uGTjwNudONtHdKEifwo26IXDVjziz_s_gyNcJSFzidWUIarBYJuEhXhB-gopSTJLJgq1TxT0bbPChro-zhFH3NVLYM1WWdLlO3JigC-p5YcYGE1GQa8M6bnTCqIVl9DVsgwrVMhxMmZelnLISx-rMvPUtogF8kZ5pGne1e8xUCtP2gB4KS9JvS_DKNGx-8Iw37h8Le3alSv2Knb-DuL7g7zOx_f_n_O3g2lnzWd9_AXiiYM1",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVYQTBWR1JQZFRaWk4waFRla1phZFdzMWNqRXpXWEpEVVc5clgwTk5jelZ5TFV0UFJFWTBSRzlEYlhRMlRFVmhOREpPWWtGMlZFTlZka3BoWlROQ2VWRjFPRWR1WVVveGJtZHRWVjkzZVZGUFR6TmlhVE5MWTFoV2R4SVhOMHQxZVdGMlZHNVBTWFpHT1hVNFVHaE9kV3hwVVc4YUlrRkVjM0k1WmxSMlpHbEJSRWxMZG5CVVdqZGhZV0pqT0RONVpEaEVSRk5EVG5jIiwiZmN2IjoiMyIsImVpIjoiN0t1eWF2VG5PSXZGOXU4UGhOdWxpUW8iLCJxYyI6IkNpaDBiM0FnYldWamFHRnVhV05oYkNCclpYbGliMkZ5WkhNZ1ptOXlJSEJ5YjJkeVlXMXRhVzVuRUFCOXBRSVBQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBrZXlib2FyZCBmb3IgZGV2ZWxvcGVycz8iLCJsayI6IkdoWnJaWGxpYjJGeVpDQm1iM0lnWkdWMlpXeHZjR1Z5IiwiYnMiOiJjNFdPc1FyQ01CQkFjYjNKU1VvV3oxSEJwZURjcWVEczB2bWFuRTJ3YmNJbENQNjlOZ1duVnRlN2QtOGUzT0RjV0tjdERxd3RqVTVUanc5LXRaN0VvSXZZY2t4NDk0TGFHemQyVlhsUS16eGI0bWNHcm5CcUxLWHBQRm1lRlY5bWNnWHhuZEF3c01TcVZLcFlXMEt1LTVoSU9LdVNEM2pCdGY4eDFfMWhvSWJqN3pyRFQtNTl5SEdGMmkzdnRwczMiLCJpZCI6ImZjXzdLdXlhdlRuT0l2Rjl1OFBoTnVsaVFvXzgifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVYQTBWR1JQZFRaWk4waFRla1phZFdzMWNqRXpXWEpEVVc5clgwTk5jelZ5TFV0UFJFWTBSRzlEYlhRMlRFVmhOREpPWWtGMlZFTlZka3BoWlROQ2VWRjFPRWR1WVVveGJtZHRWVjkzZVZGUFR6TmlhVE5MWTFoV2R4SVhOMHQxZVdGMlZHNVBTWFpHT1hVNFVHaE9kV3hwVVc4YUlrRkVjM0k1WmxSMlpHbEJSRWxMZG5CVVdqZGhZV0pqT0RONVpEaEVSRk5EVG5jIiwiZmN2IjoiMyIsImVpIjoiN0t1eWF2VG5PSXZGOXU4UGhOdWxpUW8iLCJxYyI6IkNpaDBiM0FnYldWamFHRnVhV05oYkNCclpYbGliMkZ5WkhNZ1ptOXlJSEJ5YjJkeVlXMXRhVzVuRUFCOXBRSVBQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBrZXlib2FyZCBmb3IgZGV2ZWxvcGVycz8iLCJsayI6IkdoWnJaWGxpYjJGeVpDQm1iM0lnWkdWMlpXeHZjR1Z5IiwiYnMiOiJjNFdPc1FyQ01CQkFjYjNKU1VvV3oxSEJwZURjcWVEczB2bWFuRTJ3YmNJbENQNjlOZ1duVnRlN2QtOGUzT0RjV0tjdERxd3RqVTVUanc5LXRaN0VvSXZZY2t4NDk0TGFHemQyVlhsUS16eGI0bWNHcm5CcUxLWHBQRm1lRlY5bWNnWHhuZEF3c01TcVZLcFlXMEt1LTVoSU9LdVNEM2pCdGY4eDFfMWhvSWJqN3pyRFQtNTl5SEdGMmkzdnRwczMiLCJpZCI6ImZjXzdLdXlhdlRuT0l2Rjl1OFBoTnVsaVFvXzgifQ%3D%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The 5 Best Keyboards For Programming of 2026",
+      "link": "https://www.rtings.com/keyboard/reviews/best/by-usage/programming",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVIqPNa7FpEj5q9NRakxj_nX9f0uSyyNmKtQ17V-3NfDlB8QpIrMPbCoKTziEovrwDNCGgAIHQbuLPWFsDWD7E3CiGsI84BZazKDsDs8Xww6F92Lk6YSwdB1Xcx3aQHYPUVLWVPnGu9cilLoU_NWPCdI8JjP8&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://www.rtings.com › Keyboard › Best",
+      "date": "Jul 23, 2026",
+      "snippet": "If you prefer a low-profile keyboard, the NuPhy Air75 V3 is one of the best mechanical keyboards for programming at a mid-range price point.",
+      "snippet_highlighted_words": [
+        "NuPhy Air75 V3"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you prefer a low-profile keyboard, the NuPhy Air75 V3 is one of the best mechanical keyboards for programming at a mid-range price point.",
+          "source_info_link": "https://www.rtings.com/keyboard/reviews/best/by-usage/programming",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBwCdASocABwAPtEutFooIagoGAEAGglsALsogPPAsk5vgZoLRX_mfsA6b_zoMDV6I1rVWbKRuDj2Xx5JrfIQx1IYAAD-9gEpnxuhc7ENnwKjzZoQnCod4QIHeqxtWkm-zR-KYZ1s1v_VznstYhRh3O74CYk2IT392EgBCIM99luEHmIleipgJlMN7ygb-jOW1Bn34ULpxMS_919JTLNvJnfR3F8LUP_-ZffK74uiqK2Rb638T_o0bNyH_FWK7GSyYExAvnazPBgeJx3__aKGooFvapPvH9V1SCEWzSW3TMrz2Efp2V914fVX14EW-xgAIoSM7sIKW_rtSB6q0s_KKxKP6W2YdnLdOfPf4deU0sAwra9ybej7ApMHfwBoA3MWtRmurjVvYuA5aPlwB_RdIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVklxUE5hN0ZwRWo1cTlOUmFreGpfblg5ZjB1U3l5Tm1LdFExN1YtM05mRGxCOFFwSXJNUGJDb0tUemlFb3Zyd0ROQ0dnQUlIUWJ1TFBXRnNEV0Q3RTNDaUdzSTg0QlphektEc0RzOFh3dzZGOTJMazZZU3dkQjFYY3gzYVFIWVBVVkxXVlBuR3U5Y2lsTG9VX05XUENkSThKalA4EgQaAggAGvgEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0gQIABAAGAAgACoWCgN0b3AVckabPxoEYmVzdBoEdG9wcyomCgptZWNoYW5pY2FsFXtXDUAaE21lY2hhbmljYWxrZXlib2FyZHMqPwoJa2V5Ym9hcmRzFbCBvEAaCGtleWJvYXJkGhNtZWNoYW5pY2Fsa2V5Ym9hcmRzGg5pdjtwO2tleWJvYXJkcyoKCgNmb3IVAAAAACokCgtwcm9ncmFtbWluZxUWha1AGhBpdjtwO3Byb2dyYW1taW5nMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVklxUE5hN0ZwRWo1cTlOUmFreGpfblg5ZjB1U3l5Tm1LdFExN1YtM05mRGxCOFFwSXJNUGJDb0tUemlFb3Zyd0ROQ0dnQUlIUWJ1TFBXRnNEV0Q3RTNDaUdzSTg0QlphektEc0RzOFh3dzZGOTJMazZZU3dkQjFYY3gzYVFIWVBVVkxXVlBuR3U5Y2lsTG9VX05XUENkSThKalA4OkBUaGUgNSA8Yj5CZXN0IEtleWJvYXJkcyBGb3IgUHJvZ3JhbW1pbmc8L2I-IG9mIDIwMjYgLSBSVElOR1MuY29tQpMBSWYgeW91IHByZWZlciBhIGxvdy1wcm9maWxlIGtleWJvYXJkLCB0aGUgPGI-TnVQaHkgQWlyNzUgVjM8L2I-IGlzIG9uZSBvZiB0aGUgYmVzdCBtZWNoYW5pY2FsIGtleWJvYXJkcyBmb3IgcHJvZ3JhbW1pbmcgYXQgYSBtaWQtcmFuZ2UgcHJpY2UgcG9pbnQuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVklxUE5hN0ZwRWo1cTlOUmFreGpfblg5ZjB1U3l5Tm1LdFExN1YtM05mRGxCOFFwSXJNUGJDb0tUemlFb3Zyd0ROQ0dnQUlIUWJ1TFBXRnNEV0Q3RTNDaUdzSTg0QlphektEc0RzOFh3dzZGOTJMazZZU3dkQjFYY3gzYVFIWVBVVkxXVlBuR3U5Y2lsTG9VX05XUENkSThKalA4EgQaAggAGvgEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0gQIABAAGAAgACoWCgN0b3AVckabPxoEYmVzdBoEdG9wcyomCgptZWNoYW5pY2FsFXtXDUAaE21lY2hhbmljYWxrZXlib2FyZHMqPwoJa2V5Ym9hcmRzFbCBvEAaCGtleWJvYXJkGhNtZWNoYW5pY2Fsa2V5Ym9hcmRzGg5pdjtwO2tleWJvYXJkcyoKCgNmb3IVAAAAACokCgtwcm9ncmFtbWluZxUWha1AGhBpdjtwO3Byb2dyYW1taW5nMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVklxUE5hN0ZwRWo1cTlOUmFreGpfblg5ZjB1U3l5Tm1LdFExN1YtM05mRGxCOFFwSXJNUGJDb0tUemlFb3Zyd0ROQ0dnQUlIUWJ1TFBXRnNEV0Q3RTNDaUdzSTg0QlphektEc0RzOFh3dzZGOTJMazZZU3dkQjFYY3gzYVFIWVBVVkxXVlBuR3U5Y2lsTG9VX05XUENkSThKalA4OkBUaGUgNSA8Yj5CZXN0IEtleWJvYXJkcyBGb3IgUHJvZ3JhbW1pbmc8L2I-IG9mIDIwMjYgLSBSVElOR1MuY29tQpMBSWYgeW91IHByZWZlciBhIGxvdy1wcm9maWxlIGtleWJvYXJkLCB0aGUgPGI-TnVQaHkgQWlyNzUgVjM8L2I-IGlzIG9uZSBvZiB0aGUgYmVzdCBtZWNoYW5pY2FsIGtleWJvYXJkcyBmb3IgcHJvZ3JhbW1pbmcgYXQgYSBtaWQtcmFuZ2UgcHJpY2UgcG9pbnQuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "RTINGS.com",
+      "read_more_link": "https://www.rtings.com/keyboard/reviews/best/by-usage/programming#:~:text=If%20you%20prefer%20a%20low%2Dprofile,at%20a%20mid%2Drange%20price%20point."
+    },
+    {
+      "position": 2,
+      "title": "Keyboards that you recommend for programming? : r/webdev",
+      "link": "https://www.reddit.com/r/webdev/comments/18g0wcw/keyboards_that_you_recommend_for_programming/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFWVdYHTqpSVHPF9yWB-i53qBTGoqB3cLlZEHVoUGF8SkNBdPZdFGKOrkIH-hFeWckmnNaLmFUimbWIFQw9SD55iBLHpfTZNp2AvsmH0VTAPp-IrcSqE2I5Bl26yrdK_GlJHnIDRgbxcJq4ulLB7RZz0p-_T25RAfDy4PxOnyfMihtbxEZUMgRnzYh-L-KTszRLE&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQFnoECCYQAQ&uoh=1",
+      "displayed_link": "240+ comments · 2 years ago",
+      "snippet": "Just that, I have a 100% keyboard and never try anything else but I saw a lot of developers using 60% - 80% Keyboards and I want to try something new, ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What keyboard do you use for coding? : r/swift ...",
+            "link": "https://www.reddit.com/r/swift/comments/wrlb0y/what_keyboard_do_you_use_for_coding/",
+            "answer_count": 136,
+            "date": "Aug 18, 2022"
+          },
+          {
+            "title": "Keyboards for programming? : r/webdev - Reddit",
+            "link": "https://www.reddit.com/r/webdev/comments/1ff2jr8/keyboards_for_programming/",
+            "answer_count": 97,
+            "date": "Sep 12, 2024"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Highly recommend ZealPC ZilentV2, Another good option is Boba U4. Logitech G815 or G915 (wireless), Clicky variety. Short travel very nice  ...",
+          "source_info_link": "https://www.reddit.com/r/webdev/comments/18g0wcw/keyboards_that_you_recommend_for_programming/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXVmRZSFRxcFNWSFBGOXlXQi1pNTNxQlRHb3FCM2NMbFpFSFZvVUdGOFNrTkJkUFpkRkdLT3JrSUgtaEZlV2NrbW5OYUxtRlVpbWJXSUZRdzlTRDU1aUJMSHBmVFpOcDJBdnNtSDBWVEFQcC1JcmNTcUUySTVCbDI2eXJkS19HbEpIbklEUmdieGNKcTR1bExCN1JaejBwLV9UMjVSQWZEeTRQeE9ueWZNaWh0YnhFWlVNZ1JuelloLUwtS1RzelJMRRIEGgIIABquBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIgFCAAQABgAIAAqFgoDdG9wFckcij0aBGJlc3QaBHRvcHMqJgoKbWVjaGFuaWNhbBXI4Uw_GhNtZWNoYW5pY2Fsa2V5Ym9hcmRzKj8KCWtleWJvYXJkcxWjB1ZAGghrZXlib2FyZBoTbWVjaGFuaWNhbGtleWJvYXJkcxoOaXY7cDtrZXlib2FyZHMqCgoDZm9yFQAAAAAqJAoLcHJvZ3JhbW1pbmcVrbdHQBoQaXY7cDtwcm9ncmFtbWluZzLZAS9nb3RvP3VybD1DQUVTbGdFQjZ6c3dGV1ZkWUhUcXBTVkhQRjl5V0ItaTUzcUJUR29xQjNjTGxaRUhWb1VHRjhTa05CZFBaZEZHS09ya0lILWhGZVdja21uTmFMbUZVaW1iV0lGUXc5U0Q1NWlCTEhwZlRaTnAyQXZzbUgwVlRBUHAtSXJjU3FFMkk1QmwyNnlyZEtfR2xKSG5JRFJnYnhjSnE0dWxMQjdSWnowcC1fVDI1UkFmRHk0UHhPbnlmTWlodGJ4RVpVTWdSbnpZaC1MLUtUc3pSTEU6RjxiPktleWJvYXJkczwvYj4gdGhhdCB5b3UgcmVjb21tZW5kIGZvciA8Yj5wcm9ncmFtbWluZzwvYj4_IDogci93ZWJkZXZCmwFIaWdobHkgcmVjb21tZW5kIDxiPlplYWxQQyBaaWxlbnRWMjwvYj4sIEFub3RoZXIgZ29vZCBvcHRpb24gaXMgQm9iYSBVNC4gTG9naXRlY2ggRzgxNSBvciBHOTE1ICh3aXJlbGVzcyksIENsaWNreSB2YXJpZXR5LiBTaG9ydCB0cmF2ZWwgdmVyeSBuaWNlICZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXVmRZSFRxcFNWSFBGOXlXQi1pNTNxQlRHb3FCM2NMbFpFSFZvVUdGOFNrTkJkUFpkRkdLT3JrSUgtaEZlV2NrbW5OYUxtRlVpbWJXSUZRdzlTRDU1aUJMSHBmVFpOcDJBdnNtSDBWVEFQcC1JcmNTcUUySTVCbDI2eXJkS19HbEpIbklEUmdieGNKcTR1bExCN1JaejBwLV9UMjVSQWZEeTRQeE9ueWZNaWh0YnhFWlVNZ1JuelloLUwtS1RzelJMRRIEGgIIABquBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIgFCAAQABgAIAAqFgoDdG9wFckcij0aBGJlc3QaBHRvcHMqJgoKbWVjaGFuaWNhbBXI4Uw_GhNtZWNoYW5pY2Fsa2V5Ym9hcmRzKj8KCWtleWJvYXJkcxWjB1ZAGghrZXlib2FyZBoTbWVjaGFuaWNhbGtleWJvYXJkcxoOaXY7cDtrZXlib2FyZHMqCgoDZm9yFQAAAAAqJAoLcHJvZ3JhbW1pbmcVrbdHQBoQaXY7cDtwcm9ncmFtbWluZzLZAS9nb3RvP3VybD1DQUVTbGdFQjZ6c3dGV1ZkWUhUcXBTVkhQRjl5V0ItaTUzcUJUR29xQjNjTGxaRUhWb1VHRjhTa05CZFBaZEZHS09ya0lILWhGZVdja21uTmFMbUZVaW1iV0lGUXc5U0Q1NWlCTEhwZlRaTnAyQXZzbUgwVlRBUHAtSXJjU3FFMkk1QmwyNnlyZEtfR2xKSG5JRFJnYnhjSnE0dWxMQjdSWnowcC1fVDI1UkFmRHk0UHhPbnlmTWlodGJ4RVpVTWdSbnpZaC1MLUtUc3pSTEU6RjxiPktleWJvYXJkczwvYj4gdGhhdCB5b3UgcmVjb21tZW5kIGZvciA8Yj5wcm9ncmFtbWluZzwvYj4_IDogci93ZWJkZXZCmwFIaWdobHkgcmVjb21tZW5kIDxiPlplYWxQQyBaaWxlbnRWMjwvYj4sIEFub3RoZXIgZ29vZCBvcHRpb24gaXMgQm9iYSBVNC4gTG9naXRlY2ggRzgxNSBvciBHOTE1ICh3aXJlbGVzcyksIENsaWNreSB2YXJpZXR5LiBTaG9ydCB0cmF2ZWwgdmVyeSBuaWNlICZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Reddit · r/webdev"
+    },
+    {
+      "position": 3,
+      "title": "Best Mechanical Keyboards for Programming & Coding",
+      "link": "https://hhkeyboard.us/resources/features/mechanical-keyboards-for-programming?srsltid=AU7gw4XkAZGCiUfjVqPHtgPHy4OadPaB7wMQUEhL7S0igkU4zMMxNHeM",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxwEB6zswFVSkE4nFvAJ0_U15Z8cBnZcypg4EDiJOrkKcExgHC0O6kWu6SMGyfEBrE7pHgjPG4po7kA8P7GmWIBbHJKOSrdWxg2J3hDdV6Ycuh3oYiGiS_GO4mV8EXt4_fXEUSHXHY4Vs_Ljh_pLeUbCMGuKeLufjuYn5MqCDp0lUko_pIItaxYiulZF5zKMYD3mJi-GVByefvdBGyOo0JN3wIrI8fPVFuEcEvQmP_Xy64Pbp5HBrxy1FuPJ4uX6PIp5J7emdowK2&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://hhkeyboard.us › Resources › Features",
+      "snippet": "If the quietest all-day typing is what you are after, the Professional HYBRID Type-S is the best mechanical keyboard for programming to begin with.",
+      "snippet_highlighted_words": [
+        "Professional HYBRID Type-S"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If the quietest all-day typing is what you are after, the Professional HYBRID Type-S is the best mechanical keyboard for programming to begin with.",
+          "source_info_link": "https://hhkeyboard.us/resources/features/mechanical-keyboards-for-programming?srsltid=AU7gw4XkAZGCiUfjVqPHtgPHy4OadPaB7wMQUEhL7S0igkU4zMMxNHeM",
+          "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACwBQCdASocABwAPtE-tFooIigoFAEAGglmAB2mDfvDQTnoX-pmHZvV1immIkUhHyeorUeNgAAA_vYC5goR4sKW2bC8Vmvq7veftzvV0Tc5662s7i3o2Wmy_F4VT0-DBEu-95jrssBQTEEY_1_suamEeUbbjtc2fSKtsRJXOpfCuS9CJn90m-_Mbhs_ZybK0bxD8n11QHefQWB7uygEdLkzxHANLZywzwhvT7vkPUMW4Gk29TT_948_lUOnjhD2gv8uA-6UGJSQ8uPhudf-EqfT-zR4iZL_1Z8Six_bvrOgH9JBV2UQj_v7HP0X_uAh9KfBfNo9IWP5mGuqt7sJq42OL1ENUDdsjxtEpiqFj1mEdq1qAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZWU2tFNG5GdkFKMF9VMTVaOGNCblpjeXBnNEVEaUpPcmtLY0V4Z0hDME82a1d1NlNNR3lmRUJyRTdwSGdqUEc0cG83a0E4UDdHbVdJQmJISktPU3JkV3hnMkozaERkVjZZY3VoM29ZaUdpU19HTzRtVjhFWHQ0X2ZYRVVTSFhIWTRWc19MamhfcExlVWJDTUd1S2VMdWZqdVluNU1xQ0RwMGxVa29fcElJdGF4WWl1bFpGNXpLTVlEM21KaS1HVkJ5ZWZ2ZEJHeU9vMEpOM3dJckk4ZlBWRnVFY0V2UW1QX1h5NjRQYnA1SEJyeHkxRnVQSjR1WDZQSXA1SjdlbWRvd0syEgQaAggAGpQFEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA7gQIABAAGAAgACoWCgN0b3AVVECgPxoEYmVzdBoEdG9wcyomCgptZWNoYW5pY2FsFXTnz0AaE21lY2hhbmljYWxrZXlib2FyZHMqPwoJa2V5Ym9hcmRzFftY5kAaCGtleWJvYXJkGhNtZWNoYW5pY2Fsa2V5Ym9hcmRzGg5pdjtwO2tleWJvYXJkcyoKCgNmb3IVAAAAACokCgtwcm9ncmFtbWluZxWAodVAGhBpdjtwO3Byb2dyYW1taW5nMsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZmU2h0LVRmMVhLbTRvbTRkYlJwNjZaSjk0Skt4b09Ta2RFTVNxbGFKTnZ0Q2JST2lMOTVSYzN3SXBGUGEzY2llQzdwdi1adUlXVTlVekNXd091Ykt5WTA0Ml9zbGFjSHdRSFN2NlI3amw5T2JrWThSaE9zNDdYWmxKZUJOMFMtZGVyRjdlVVRJb1puWmJnYUpVcE9DR1dmYTF0d09iZWtwSG12TkY4alJDVVk6RDxiPkJlc3QgTWVjaGFuaWNhbCBLZXlib2FyZHMgZm9yIFByb2dyYW1taW5nPC9iPiAmYW1wOyBDb2RpbmcgLSBISEtCQpoBSWYgdGhlIHF1aWV0ZXN0IGFsbC1kYXkgdHlwaW5nIGlzIHdoYXQgeW91IGFyZSBhZnRlciwgdGhlIDxiPlByb2Zlc3Npb25hbCBIWUJSSUQgVHlwZS1TPC9iPiBpcyB0aGUgYmVzdCBtZWNoYW5pY2FsIGtleWJvYXJkIGZvciBwcm9ncmFtbWluZyB0byBiZWdpbiB3aXRoLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoCL2dvdG8_dXJsPUNBRVN4d0VCNnpzd0ZWU2tFNG5GdkFKMF9VMTVaOGNCblpjeXBnNEVEaUpPcmtLY0V4Z0hDME82a1d1NlNNR3lmRUJyRTdwSGdqUEc0cG83a0E4UDdHbVdJQmJISktPU3JkV3hnMkozaERkVjZZY3VoM29ZaUdpU19HTzRtVjhFWHQ0X2ZYRVVTSFhIWTRWc19MamhfcExlVWJDTUd1S2VMdWZqdVluNU1xQ0RwMGxVa29fcElJdGF4WWl1bFpGNXpLTVlEM21KaS1HVkJ5ZWZ2ZEJHeU9vMEpOM3dJckk4ZlBWRnVFY0V2UW1QX1h5NjRQYnA1SEJyeHkxRnVQSjR1WDZQSXA1SjdlbWRvd0syEgQaAggAGpQFEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA7gQIABAAGAAgACoWCgN0b3AVVECgPxoEYmVzdBoEdG9wcyomCgptZWNoYW5pY2FsFXTnz0AaE21lY2hhbmljYWxrZXlib2FyZHMqPwoJa2V5Ym9hcmRzFftY5kAaCGtleWJvYXJkGhNtZWNoYW5pY2Fsa2V5Ym9hcmRzGg5pdjtwO2tleWJvYXJkcyoKCgNmb3IVAAAAACokCgtwcm9ncmFtbWluZxWAodVAGhBpdjtwO3Byb2dyYW1taW5nMsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZmU2h0LVRmMVhLbTRvbTRkYlJwNjZaSjk0Skt4b09Ta2RFTVNxbGFKTnZ0Q2JST2lMOTVSYzN3SXBGUGEzY2llQzdwdi1adUlXVTlVekNXd091Ykt5WTA0Ml9zbGFjSHdRSFN2NlI3amw5T2JrWThSaE9zNDdYWmxKZUJOMFMtZGVyRjdlVVRJb1puWmJnYUpVcE9DR1dmYTF0d09iZWtwSG12TkY4alJDVVk6RDxiPkJlc3QgTWVjaGFuaWNhbCBLZXlib2FyZHMgZm9yIFByb2dyYW1taW5nPC9iPiAmYW1wOyBDb2RpbmcgLSBISEtCQpoBSWYgdGhlIHF1aWV0ZXN0IGFsbC1kYXkgdHlwaW5nIGlzIHdoYXQgeW91IGFyZSBhZnRlciwgdGhlIDxiPlByb2Zlc3Npb25hbCBIWUJSSUQgVHlwZS1TPC9iPiBpcyB0aGUgYmVzdCBtZWNoYW5pY2FsIGtleWJvYXJkIGZvciBwcm9ncmFtbWluZyB0byBiZWdpbiB3aXRoLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Happy Hacking Keyboard US",
+      "read_more_link": "https://hhkeyboard.us/resources/features/mechanical-keyboards-for-programming?srsltid=AU7gw4XkAZGCiUfjVqPHtgPHy4OadPaB7wMQUEhL7S0igkU4zMMxNHeM#:~:text=If%20the%20quietest%20all%2Dday%20typing,for%20programming%20to%20begin%20with."
+    },
+    {
+      "position": 4,
+      "title": "The 6 Best Mechanical Keyboards of 2026",
+      "link": "https://www.nytimes.com/wirecutter/reviews/our-favorite-mechanical-keyboards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFTGD1E9ByUmabeLkz1DszxAH9VVDfozC9gPAn4STwfNEWXrdGhTuJouwUeyzjEM__BVg3_iaDp9Y5DfJZfHtEOA4CSUWNALbCMGf84OmvvbelDmb6klWjSAkLsm-P6yo_mvIIriThpYKLXK9Mv9KTm8KSOvRditAUjJj6oe4DC9P&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://www.nytimes.com › Electronics › Accessories",
+      "date": "Jan 15, 2026",
+      "snippet": "After spending months testing the most promising mechanical keyboards, we recommend the Keychron V3 Max, Keychron V5 Max, and Keychron V6 Max.",
+      "snippet_highlighted_words": [
+        "Keychron V3 Max"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "After spending months testing the most promising mechanical keyboards, we recommend the Keychron V3 Max, Keychron V5 Max, and Keychron V6 Max.",
+          "source_info_link": "https://www.nytimes.com/wirecutter/reviews/our-favorite-mechanical-keyboards/",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglpAARATxnEK-53JWvDHstgGhzN4zLjcujgAP70y3hbIMpz_UzumDFx5vNeLmNtc6KYIX8KBs2PnxmvVpWxXJ2Z-_20c7zNgNO9SlHtET_-QirUKQJp_KqP3hmZ658MxfYknTY3z49W6gyZPEu32blPW2VxF8a701Bdq_cNE_t3f7N2lls7m1XNPn9sEYjKl_98sH4hOtumLRq53YTM2gXCylqfVKmiGBp8fnWX7CA1ugZwgWzkjS6J3S_qHB9fj2penTr8er5CBGF-q-tsjHhfZzgeOKAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZUR0QxRTlCeVVtYWJlTGt6MURzenhBSDlWVkRmb3pDOWdQQW40U1R3Zk5FV1hyZEdoVHVKb3V3VWV5empFTV9fQlZnM19pYURwOVk1RGZKWmZIdEVPQTRDU1VXTkFMYkNNR2Y4NE9tdnZiZWxEbWI2a2xXalNBa0xzbS1QNnlvX212SUlyaVRocFlLTFhLOU12OUtUbThLU092UmRpdEFVakpqNm9lNERDOVASBBoCCAAahAUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDeBAgAEAAYACAAKhYKA3RvcBVMyYM_GgRiZXN0GgR0b3BzKiYKCm1lY2hhbmljYWwV5SZYQBoTbWVjaGFuaWNhbGtleWJvYXJkcyo_CglrZXlib2FyZHMVOVxYQBoIa2V5Ym9hcmQaE21lY2hhbmljYWxrZXlib2FyZHMaDml2O3A7a2V5Ym9hcmRzKgoKA2ZvchUAAAAAKiQKC3Byb2dyYW1taW5nFQr4YT4aEGl2O3A7cHJvZ3JhbW1pbmcywgEvZ290bz91cmw9Q0FFU2hRRUI2enN3RlRHRDFFOUJ5VW1hYmVMa3oxRHN6eEFIOVZWRGZvekM5Z1BBbjRTVHdmTkVXWHJkR2hUdUpvdXdVZXl6akVNX19CVmczX2lhRHA5WTVEZkpaZkh0RU9BNENTVVdOQUxiQ01HZjg0T212dmJlbERtYjZrbFdqU0FrTHNtLVA2eW9fbXZJSXJpVGhwWUtMWEs5TXY5S1RtOEtTT3ZSZGl0QVVqSmo2b2U0REM5UDo5VGhlIDxiPkJlc3QgTWVjaGFuaWNhbCBLZXlib2FyZHM8L2I-IC0gVGhlIE5ldyBZb3JrIFRpbWVzQpUBQWZ0ZXIgc3BlbmRpbmcgbW9udGhzIHRlc3RpbmcgdGhlIG1vc3QgcHJvbWlzaW5nIG1lY2hhbmljYWwga2V5Ym9hcmRzLCB3ZSByZWNvbW1lbmQgdGhlIDxiPktleWNocm9uIFYzIE1heDwvYj4sIEtleWNocm9uIFY1IE1heCwgYW5kIEtleWNocm9uIFY2IE1heC5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZUR0QxRTlCeVVtYWJlTGt6MURzenhBSDlWVkRmb3pDOWdQQW40U1R3Zk5FV1hyZEdoVHVKb3V3VWV5empFTV9fQlZnM19pYURwOVk1RGZKWmZIdEVPQTRDU1VXTkFMYkNNR2Y4NE9tdnZiZWxEbWI2a2xXalNBa0xzbS1QNnlvX212SUlyaVRocFlLTFhLOU12OUtUbThLU092UmRpdEFVakpqNm9lNERDOVASBBoCCAAahAUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDeBAgAEAAYACAAKhYKA3RvcBVMyYM_GgRiZXN0GgR0b3BzKiYKCm1lY2hhbmljYWwV5SZYQBoTbWVjaGFuaWNhbGtleWJvYXJkcyo_CglrZXlib2FyZHMVOVxYQBoIa2V5Ym9hcmQaE21lY2hhbmljYWxrZXlib2FyZHMaDml2O3A7a2V5Ym9hcmRzKgoKA2ZvchUAAAAAKiQKC3Byb2dyYW1taW5nFQr4YT4aEGl2O3A7cHJvZ3JhbW1pbmcywgEvZ290bz91cmw9Q0FFU2hRRUI2enN3RlRHRDFFOUJ5VW1hYmVMa3oxRHN6eEFIOVZWRGZvekM5Z1BBbjRTVHdmTkVXWHJkR2hUdUpvdXdVZXl6akVNX19CVmczX2lhRHA5WTVEZkpaZkh0RU9BNENTVVdOQUxiQ01HZjg0T212dmJlbERtYjZrbFdqU0FrTHNtLVA2eW9fbXZJSXJpVGhwWUtMWEs5TXY5S1RtOEtTT3ZSZGl0QVVqSmo2b2U0REM5UDo5VGhlIDxiPkJlc3QgTWVjaGFuaWNhbCBLZXlib2FyZHM8L2I-IC0gVGhlIE5ldyBZb3JrIFRpbWVzQpUBQWZ0ZXIgc3BlbmRpbmcgbW9udGhzIHRlc3RpbmcgdGhlIG1vc3QgcHJvbWlzaW5nIG1lY2hhbmljYWwga2V5Ym9hcmRzLCB3ZSByZWNvbW1lbmQgdGhlIDxiPktleWNocm9uIFYzIE1heDwvYj4sIEtleWNocm9uIFY1IE1heCwgYW5kIEtleWNocm9uIFY2IE1heC5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "The New York Times",
+      "read_more_link": "https://www.nytimes.com/wirecutter/reviews/our-favorite-mechanical-keyboards/#:~:text=After%20spending%20months%20testing%20the,Max%2C%20and%20Keychron%20V6%20Max."
+    },
+    {
+      "position": 5,
+      "title": "What Is The Best Keyboard For Programmers? A Beginner- ...",
+      "link": "https://rkgamingstore.com/blogs/community/what-is-the-best-keyboard-for-programmers?srsltid=AU7gw4VRqM6yc3_pPkur-SMQ7GbNBZJhG-aRwxii5SZi43A392NRRfWu",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzQEB6zswFWVtrQdN44Du_gVFA6T-0r7YR-aC0On8_-E36WtKZ4gwxxE9HALrsTgwsEXOgZwQVKWZYtTGpFc10cR-GiqyfmwGKN425UUhgJugoNJVn6tFkpYI3L_kYVZLDG_4WPaC8api68mY0X8lbVb6ffBfOfGASBgXYy9iJmG62Njxpi5rRbefZ6Qs9-OQftDmuuahFiAfHkLNyoRLCJsik-rpGDlPqQd0RcPjFQjekxlD7pV6lQEVnbMggA1n9xttWi6gUH4YITOlJHBv&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQFnoECEoQAQ&uoh=1",
+      "displayed_link": "https://rkgamingstore.com › blogs › community › what...",
+      "date": "Jul 29, 2026",
+      "snippet": "For beginners, the RK S98 or RK61 are great starting points. the RK61 offers an affordable, highly portable intro to mechanical typing.",
+      "snippet_highlighted_words": [
+        "RK S98 or RK61"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For beginners, the RK S98 or RK61 are great starting points. the RK61 offers an affordable, highly portable intro to mechanical typing.",
+          "source_info_link": "https://rkgamingstore.com/blogs/community/what-is-the-best-keyboard-for-programmers?srsltid=AU7gw4VRqM6yc3_pPkur-SMQ7GbNBZJhG-aRwxii5SZi43A392NRRfWu",
+          "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAABwBACdASocABwAPtEwtFooIigoGAEAGgliAM7tisjfa6NJRXJ6XqU5BgjEAAD-9gEnKsuaOIKvox6Zt-Y7C806iUcrzEO0p0slugQs7FOP2S3-hAf86fCamU1ie1FkWa6aFRb7_w7jcM-5r_F7vj-ZhA_TEJW_yMSHmdgf_B144TaGT9v4c0BraOF-V3Q_ltfZl4MdIvPL6PAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZXVnRyUWRONDREdV9nVkZBNlQtMHI3WVItYUMwT244Xy1FMzZXdEtaNGd3eHhFOUhBTHJzVGd3c0VYT2dad1FWS1daWXRUR3BGYzEwY1ItR2lxeWZtd0dLTjQyNVVVaGdKdWdvTkpWbjZ0RmtwWUkzTF9rWVZaTERHXzRXUGFDOGFwaTY4bVkwWDhsYlZiNmZmQmZPZkdBU0JnWFl5OWlKbUc2Mk5qeHBpNXJSYmVmWjZRczktT1FmdERtdXVhaEZpQWZIa0xOeW9STENKc2lrLXJwR0RsUHFRZDBSY1BqRlFqZWt4bEQ3cFY2bFFFVm5iTWdnQTFuOXh0dFdpNmdVSDRZSVRPbEpIQnYSBBoCCAAajAUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDmBAgAEAAYACAAKhYKA3RvcBU6-hc_GgRiZXN0GgR0b3BzKiYKCm1lY2hhbmljYWwVEAzlPxoTbWVjaGFuaWNhbGtleWJvYXJkcyo_CglrZXlib2FyZHMVDH3APxoIa2V5Ym9hcmQaE21lY2hhbmljYWxrZXlib2FyZHMaDml2O3A7a2V5Ym9hcmRzKgoKA2ZvchUAAAAAKiQKC3Byb2dyYW1taW5nFVxVkj8aEGl2O3A7cHJvZ3JhbW1pbmcyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RlJJX05BaElqZWQyMDd2NnhlRW9IMi16QmQ3YTA5cnc0eGs3eTlPYlhVNy1neVo4MXUzX3VBUkU1N3ozeTFfT1p0RGxYRkhlSC1KWldVellrYmx2bkNtbE1IMmlCSHJ0cnlYY19VZktSSkxVNHVOMWl5bktRbk4taEREMGNVRWdIRGowQS1PTlIzOEJZcVZZY2lIcFNvQTMzZU1hdDFTQjJQajh2Q1RTdF9hMEJOWWtUNXRUOkBXaGF0IElzIFRoZSA8Yj5CZXN0IEtleWJvYXJkPC9iPiBGb3IgUHJvZ3JhbW1lcnM_IEEgQmVnaW5uZXIgLi4uQo4BRm9yIGJlZ2lubmVycywgdGhlIDxiPlJLIFM5OCBvciBSSzYxPC9iPiBhcmUgZ3JlYXQgc3RhcnRpbmcgcG9pbnRzLiB0aGUgUks2MSBvZmZlcnMgYW4gYWZmb3JkYWJsZSwgaGlnaGx5IHBvcnRhYmxlIGludHJvIHRvIG1lY2hhbmljYWwgdHlwaW5nLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqICL2dvdG8_dXJsPUNBRVN6UUVCNnpzd0ZXVnRyUWRONDREdV9nVkZBNlQtMHI3WVItYUMwT244Xy1FMzZXdEtaNGd3eHhFOUhBTHJzVGd3c0VYT2dad1FWS1daWXRUR3BGYzEwY1ItR2lxeWZtd0dLTjQyNVVVaGdKdWdvTkpWbjZ0RmtwWUkzTF9rWVZaTERHXzRXUGFDOGFwaTY4bVkwWDhsYlZiNmZmQmZPZkdBU0JnWFl5OWlKbUc2Mk5qeHBpNXJSYmVmWjZRczktT1FmdERtdXVhaEZpQWZIa0xOeW9STENKc2lrLXJwR0RsUHFRZDBSY1BqRlFqZWt4bEQ3cFY2bFFFVm5iTWdnQTFuOXh0dFdpNmdVSDRZSVRPbEpIQnYSBBoCCAAajAUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDmBAgAEAAYACAAKhYKA3RvcBU6-hc_GgRiZXN0GgR0b3BzKiYKCm1lY2hhbmljYWwVEAzlPxoTbWVjaGFuaWNhbGtleWJvYXJkcyo_CglrZXlib2FyZHMVDH3APxoIa2V5Ym9hcmQaE21lY2hhbmljYWxrZXlib2FyZHMaDml2O3A7a2V5Ym9hcmRzKgoKA2ZvchUAAAAAKiQKC3Byb2dyYW1taW5nFVxVkj8aEGl2O3A7cHJvZ3JhbW1pbmcyygEvZ290bz91cmw9Q0FFU2l3RUI2enN3RlJJX05BaElqZWQyMDd2NnhlRW9IMi16QmQ3YTA5cnc0eGs3eTlPYlhVNy1neVo4MXUzX3VBUkU1N3ozeTFfT1p0RGxYRkhlSC1KWldVellrYmx2bkNtbE1IMmlCSHJ0cnlYY19VZktSSkxVNHVOMWl5bktRbk4taEREMGNVRWdIRGowQS1PTlIzOEJZcVZZY2lIcFNvQTMzZU1hdDFTQjJQajh2Q1RTdF9hMEJOWWtUNXRUOkBXaGF0IElzIFRoZSA8Yj5CZXN0IEtleWJvYXJkPC9iPiBGb3IgUHJvZ3JhbW1lcnM_IEEgQmVnaW5uZXIgLi4uQo4BRm9yIGJlZ2lubmVycywgdGhlIDxiPlJLIFM5OCBvciBSSzYxPC9iPiBhcmUgZ3JlYXQgc3RhcnRpbmcgcG9pbnRzLiB0aGUgUks2MSBvZmZlcnMgYW4gYWZmb3JkYWJsZSwgaGlnaGx5IHBvcnRhYmxlIGludHJvIHRvIG1lY2hhbmljYWwgdHlwaW5nLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "RK Royal Kludge"
+    },
+    {
+      "position": 6,
+      "title": "Best Keyboards for Programming and Developers (2026)",
+      "link": "https://mkbguide.com/blog/best-keyboards-programming-developers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVludmzcPqb08v6x1q4iORN-jbu16NO9zv7QngNaSFP3v6K7WvMGPOs0ON-mhv7B8_mhTgUXwHGU7GWfg6xD4htKqg8Rzjlb4q4NBdL78whU0NURVQP4Jx9NchsaF55EQPubqyj8RIeJ2tefCdh251xY7W&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQFnoECFEQAQ&uoh=1",
+      "displayed_link": "https://mkbguide.com › Blog",
+      "date": "Apr 16, 2026",
+      "snippet": "The best keyboards for programming in 2026: top picks for devs who need QMK, multi-OS support, and ergonomics for long coding sessions.",
+      "snippet_highlighted_words": [
+        "top picks for devs who need QMK, multi-OS support, and ergonomics"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What Makes a Great Keyboard...",
+            "link": "https://mkbguide.com/blog/best-keyboards-programming-developers#what-makes-a-great-keyboard-for-programming"
+          },
+          {
+            "title": "Keychron Q1 Max — Best...",
+            "link": "https://mkbguide.com/blog/best-keyboards-programming-developers#keychron-q1-max--best-overall-for-programming"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The best keyboards for programming in 2026: top picks for devs who need QMK, multi-OS support, and ergonomics for long coding sessions.",
+          "source_info_link": "https://mkbguide.com/blog/best-keyboards-programming-developers",
+          "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACwBACdASocABwAPrkurlcnIacnG_DgFwllAM9li_9KPiTj-E8CKDe88weHAgAAAP7349d_xNpDHejzSHDhjNdf2_sxCjUv5y-66_EkMoJsjg8Yvnb-PhYp0u8fO61bUlUqdj0mlroQdxQRjsA89e0acS53lSvRlivY_iSILKPsLQ8ntx2i9o9B_POIsHEYRfvlZgbwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmx1ZG16Y1BxYjA4djZ4MXE0aU9STi1qYnUxNk5POXp2N1FuZ05hU0ZQM3Y2SzdXdk1HUE9zME9OLW1odjdCOF9taFRnVVh3SEdVN0dXZmc2eEQ0aHRLcWc4UnpqbGI0cTROQmRMNzh3aFUwTlVSVlFQNEp4OU5jaHNhRjU1RVFQdWJxeWo4UkllSjJ0ZWZDZGgyNTF4WTdXEgQaAggAGukEEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMUECAAQABgAIAAqFgoDdG9wFan5pj8aBGJlc3QaBHRvcHMqJgoKbWVjaGFuaWNhbBUeu4Y_GhNtZWNoYW5pY2Fsa2V5Ym9hcmRzKj8KCWtleWJvYXJkcxXWSKlAGghrZXlib2FyZBoTbWVjaGFuaWNhbGtleWJvYXJkcxoOaXY7cDtrZXlib2FyZHMqCgoDZm9yFQAAAAAqJAoLcHJvZ3JhbW1pbmcVVyqtQBoQaXY7cDtwcm9ncmFtbWluZzKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZsdWRtemNQcWIwOHY2eDFxNGlPUk4tamJ1MTZOTzl6djdRbmdOYVNGUDN2Nks3V3ZNR1BPczBPTi1taHY3QjhfbWhUZ1VYd0hHVTdHV2ZnNnhENGh0S3FnOFJ6amxiNHE0TkJkTDc4d2hVME5VUlZRUDRKeDlOY2hzYUY1NUVRUHVicXlqOFJJZUoydGVmQ2RoMjUxeFk3Vzo7PGI-QmVzdCBLZXlib2FyZHMgZm9yIFByb2dyYW1taW5nPC9iPiBhbmQgRGV2ZWxvcGVycyAoMjAyNilCjgFUaGUgYmVzdCBrZXlib2FyZHMgZm9yIHByb2dyYW1taW5nIGluIDIwMjY6IDxiPnRvcCBwaWNrcyBmb3IgZGV2cyB3aG8gbmVlZCBRTUssIG11bHRpLU9TIHN1cHBvcnQsIGFuZCBlcmdvbm9taWNzPC9iPiBmb3IgbG9uZyBjb2Rpbmcgc2Vzc2lvbnMuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmx1ZG16Y1BxYjA4djZ4MXE0aU9STi1qYnUxNk5POXp2N1FuZ05hU0ZQM3Y2SzdXdk1HUE9zME9OLW1odjdCOF9taFRnVVh3SEdVN0dXZmc2eEQ0aHRLcWc4UnpqbGI0cTROQmRMNzh3aFUwTlVSVlFQNEp4OU5jaHNhRjU1RVFQdWJxeWo4UkllSjJ0ZWZDZGgyNTF4WTdXEgQaAggAGukEEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMUECAAQABgAIAAqFgoDdG9wFan5pj8aBGJlc3QaBHRvcHMqJgoKbWVjaGFuaWNhbBUeu4Y_GhNtZWNoYW5pY2Fsa2V5Ym9hcmRzKj8KCWtleWJvYXJkcxXWSKlAGghrZXlib2FyZBoTbWVjaGFuaWNhbGtleWJvYXJkcxoOaXY7cDtrZXlib2FyZHMqCgoDZm9yFQAAAAAqJAoLcHJvZ3JhbW1pbmcVVyqtQBoQaXY7cDtwcm9ncmFtbWluZzKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZsdWRtemNQcWIwOHY2eDFxNGlPUk4tamJ1MTZOTzl6djdRbmdOYVNGUDN2Nks3V3ZNR1BPczBPTi1taHY3QjhfbWhUZ1VYd0hHVTdHV2ZnNnhENGh0S3FnOFJ6amxiNHE0TkJkTDc4d2hVME5VUlZRUDRKeDlOY2hzYUY1NUVRUHVicXlqOFJJZUoydGVmQ2RoMjUxeFk3Vzo7PGI-QmVzdCBLZXlib2FyZHMgZm9yIFByb2dyYW1taW5nPC9iPiBhbmQgRGV2ZWxvcGVycyAoMjAyNilCjgFUaGUgYmVzdCBrZXlib2FyZHMgZm9yIHByb2dyYW1taW5nIGluIDIwMjY6IDxiPnRvcCBwaWNrcyBmb3IgZGV2cyB3aG8gbmVlZCBRTUssIG11bHRpLU9TIHN1cHBvcnQsIGFuZCBlcmdvbm9taWNzPC9iPiBmb3IgbG9uZyBjb2Rpbmcgc2Vzc2lvbnMuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "MKB Guide"
+    },
+    {
+      "position": 7,
+      "title": "Best Mechanical Keyboard For Programming",
+      "link": "https://www.bestbuy.com/site/shop/best-mechanical-keyboard-for-programming",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFc587e58wg6n2uCfoPmrpElm7IQ9KhCIrGdYU6lG-unSnCjjU7DefzUUHZO7Q8S8gR55PdOprKlFtjp_jP3adhanxCN0ArufMTdfWLlL9GlrhQ7AcxbkKoHMJuMKDQdnEE4hYpuWyAEtPw9Qhagc0ajvkFmH20vUOISKvW1z&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQFnoECFIQAQ&uoh=1",
+      "displayed_link": "https://www.bestbuy.com › ... › gaming keyboards",
+      "snippet": "Browse the top-ranked list of best mechanical keyboards for programming below along with associated reviews and opinions.",
+      "snippet_highlighted_words": [
+        "best mechanical keyboards for programming"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "price_from": 24,
+            "price_to": 249,
+            "currency": "$",
+            "day_returns": 15
+          },
+          "extensions": [
+            "4.6",
+            "store rating (1.8K)",
+            "$24 to $249",
+            "15-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Browse the top-ranked list of best mechanical keyboards for programming below along with associated reviews and opinions.",
+          "source_info_link": "https://www.bestbuy.com/site/shop/best-mechanical-keyboard-for-programming",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZjNTg3ZTU4d2c2bjJ1Q2ZvUG1ycEVsbTdJUTlLaENJckdkWVU2bEctdW5TbkNqalU3RGVmelVVSFpPN1E4UzhnUjU1UGRPcHJLbEZ0anBfalAzYWRoYW54Q04wQXJ1Zk1UZGZXTGxMOUdscmhRN0FjeGJrS29ITUp1TUtEUWRuRUU0aFlwdVd5QUV0UHc5UWhhZ2MwYWp2a0ZtSDIwdlVPSVNLdlcxehIEGgIIABrhBBICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLsECAAQABgAIAAqFgoDdG9wFarVSEAaBGJlc3QaBHRvcHMqJgoKbWVjaGFuaWNhbBUcrYlAGhNtZWNoYW5pY2Fsa2V5Ym9hcmRzKj8KCWtleWJvYXJkcxUvBrg_GghrZXlib2FyZBoTbWVjaGFuaWNhbGtleWJvYXJkcxoOaXY7cDtrZXlib2FyZHMqCgoDZm9yFQAAAAAqJAoLcHJvZ3JhbW1pbmcVMFByQBoQaXY7cDtwcm9ncmFtbWluZzK-AS9nb3RvP3VybD1DQUVTZ2dFQjZ6c3dGYzU4N2U1OHdnNm4ydUNmb1BtcnBFbG03SVE5S2hDSXJHZFlVNmxHLXVuU25DampVN0RlZnpVVUhaTzdROFM4Z1I1NVBkT3ByS2xGdGpwX2pQM2FkaGFueENOMEFydWZNVGRmV0xsTDlHbHJoUTdBY3hia0tvSE1KdU1LRFFkbkVFNGhZcHVXeUFFdFB3OVFoYWdjMGFqdmtGbUgyMHZVT0lTS3ZXMXo6LzxiPkJlc3QgTWVjaGFuaWNhbCBLZXlib2FyZCBGb3IgUHJvZ3JhbW1pbmc8L2I-QoABQnJvd3NlIHRoZSB0b3AtcmFua2VkIGxpc3Qgb2YgPGI-YmVzdCBtZWNoYW5pY2FsIGtleWJvYXJkcyBmb3IgcHJvZ3JhbW1pbmc8L2I-IGJlbG93IGFsb25nIHdpdGggYXNzb2NpYXRlZCByZXZpZXdzIGFuZCBvcGluaW9ucy5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZjNTg3ZTU4d2c2bjJ1Q2ZvUG1ycEVsbTdJUTlLaENJckdkWVU2bEctdW5TbkNqalU3RGVmelVVSFpPN1E4UzhnUjU1UGRPcHJLbEZ0anBfalAzYWRoYW54Q04wQXJ1Zk1UZGZXTGxMOUdscmhRN0FjeGJrS29ITUp1TUtEUWRuRUU0aFlwdVd5QUV0UHc5UWhhZ2MwYWp2a0ZtSDIwdlVPSVNLdlcxehIEGgIIABrhBBICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLsECAAQABgAIAAqFgoDdG9wFarVSEAaBGJlc3QaBHRvcHMqJgoKbWVjaGFuaWNhbBUcrYlAGhNtZWNoYW5pY2Fsa2V5Ym9hcmRzKj8KCWtleWJvYXJkcxUvBrg_GghrZXlib2FyZBoTbWVjaGFuaWNhbGtleWJvYXJkcxoOaXY7cDtrZXlib2FyZHMqCgoDZm9yFQAAAAAqJAoLcHJvZ3JhbW1pbmcVMFByQBoQaXY7cDtwcm9ncmFtbWluZzK-AS9nb3RvP3VybD1DQUVTZ2dFQjZ6c3dGYzU4N2U1OHdnNm4ydUNmb1BtcnBFbG03SVE5S2hDSXJHZFlVNmxHLXVuU25DampVN0RlZnpVVUhaTzdROFM4Z1I1NVBkT3ByS2xGdGpwX2pQM2FkaGFueENOMEFydWZNVGRmV0xsTDlHbHJoUTdBY3hia0tvSE1KdU1LRFFkbkVFNGhZcHVXeUFFdFB3OVFoYWdjMGFqdmtGbUgyMHZVT0lTS3ZXMXo6LzxiPkJlc3QgTWVjaGFuaWNhbCBLZXlib2FyZCBGb3IgUHJvZ3JhbW1pbmc8L2I-QoABQnJvd3NlIHRoZSB0b3AtcmFua2VkIGxpc3Qgb2YgPGI-YmVzdCBtZWNoYW5pY2FsIGtleWJvYXJkcyBmb3IgcHJvZ3JhbW1pbmc8L2I-IGJlbG93IGFsb25nIHdpdGggYXNzb2NpYXRlZCByZXZpZXdzIGFuZCBvcGluaW9ucy5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "Best Buy"
+    },
+    {
+      "position": 8,
+      "title": "5 Best Mechanical Keyboards for Programmers & Developers",
+      "link": "https://npkclub.store/blogs/all-posts/5-best-mechanical-keyboards-for-programmers-developers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFQqSrTwlOrEvI9eQD8XXOYo0YRGgklvJQDgbVDGN35fGt7YCLI_XO537tlLwlDqioqKiy3gMPsvqLnmB0QNbZxzI7VvualU1-YBR_eB4ezGiKXp9qJzEVZr1TkNNTxqYhtGImITJC4zSsEMuTHwBrayksDk14neIENUjR1psltZJ26CHby7Sb0UBRZ7TtDaj&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQFnoECFYQAQ&uoh=1",
+      "displayed_link": "https://npkclub.store › News › Keyboard",
+      "date": "Nov 26, 2025",
+      "snippet": "The NuPhy Air75 V2 and Logitech MX Keys S are the top choices. Both have dedicated modes for Mac and Windows systems and include keycaps for ...",
+      "snippet_highlighted_words": [
+        "NuPhy Air75 V2"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "The State of Developer...",
+            "link": "https://npkclub.store/blogs/all-posts/5-best-mechanical-keyboards-for-programmers-developers#the-state-of-developer-peripherals-in-2025"
+          },
+          {
+            "title": "⭐ The Rising Star: NPKC...",
+            "link": "https://npkclub.store/blogs/all-posts/5-best-mechanical-keyboards-for-programmers-developers#-the-rising-star-npkc-ro75-pro-mechanical-keyboard"
+          },
+          {
+            "title": "NuPhy Air75 V2: Portable...",
+            "link": "https://npkclub.store/blogs/all-posts/5-best-mechanical-keyboards-for-programmers-developers#nuphy-air75-v2-portable-powerhouse"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The NuPhy Air75 V2 and Logitech MX Keys S are the top choices. Both have dedicated modes for Mac and Windows systems and include keycaps for ...",
+          "source_info_link": "https://npkclub.store/blogs/all-posts/5-best-mechanical-keyboards-for-programmers-developers",
+          "icon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAABwBgCdASogACAAPtEutFooIagoGAEAGglpABPIZA3agplPj6zThmUkimK1aZNmGx6zrOFpRqZkepsjisAA_uRr6rvC7oD87O8IPl_iaO8ba1wIotzuDGT1dBnhe1HY_mljCe-lSEcA93Lq8WfLV2eee8JiJAskt6qNxBr34kBU0DOyz1Xxuo--zKGivjfdZQLtHP3EdWX_avf_9aVAsTTAf9V-n5D66P4-7hXiXu3hx8zcoRJ-x4qiXQEM_9CkwztF9pEK-p9Gn47R1mqJH0h3qmgKDabV7er3X8l3_nk7ywqT6NPu1sp44Bipalxbc9Y_iLQu2frecbb2jhVBhP2ff9zZL26zkMfrLC8j9WCg9tekQgt-N_C35jEv_-jz-zR_v8-wUm8cee_CqEIF0AGuq-z0AxUM7fTKzKDNbFa7QGs_gn5HYOtnmadtEv7DFhPtSb2XOPpwcEPwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZRcVNyVHdsT3JFdkk5ZVFEOFhYT1lvMFlSR2drbHZKUURnYlZER04zNWZHdDdZQ0xJX1hPNTM3dGxMd2xEcWlvcUtpeTNnTVBzdnFMbm1CMFFOYlp4ekk3VnZ1YWxVMS1ZQlJfZUI0ZXpHaUtYcDlxSnpFVlpyMVRrTk5UeHFZaHRHSW1JVEpDNHpTc0VNdVRId0JyYXlrc0RrMTRuZUlFTlVqUjFwc2x0WkoyNkNIYnk3U2IwVUJSWjdUdERhahIEGgIIABqnBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCDBQgAEAAYACAAKhYKA3RvcBXhojg_GgRiZXN0GgR0b3BzKiYKCm1lY2hhbmljYWwVhiiPQBoTbWVjaGFuaWNhbGtleWJvYXJkcyo_CglrZXlib2FyZHMVzFd6QBoIa2V5Ym9hcmQaE21lY2hhbmljYWxrZXlib2FyZHMaDml2O3A7a2V5Ym9hcmRzKgoKA2ZvchUAAAAAKiQKC3Byb2dyYW1taW5nFTKhyD4aEGl2O3A7cHJvZ3JhbW1pbmcy1gEvZ290bz91cmw9Q0FFU2xBRUI2enN3RlFxU3JUd2xPckV2STllUUQ4WFhPWW8wWVJHZ2tsdkpRRGdiVkRHTjM1Zkd0N1lDTElfWE81Mzd0bEx3bERxaW9xS2l5M2dNUHN2cUxubUIwUU5iWnh6STdWdnVhbFUxLVlCUl9lQjRlekdpS1hwOXFKekVWWnIxVGtOTlR4cVlodEdJbUlUSkM0elNzRU11VEh3QnJheWtzRGsxNG5lSUVOVWpSMXBzbHRaSjI2Q0hieTdTYjBVQlJaN1R0RGFqOkM1IDxiPkJlc3QgTWVjaGFuaWNhbCBLZXlib2FyZHM8L2I-IGZvciBQcm9ncmFtbWVycyAmYW1wOyBEZXZlbG9wZXJzQpwBVGhlIDxiPk51UGh5IEFpcjc1IFYyPC9iPiBhbmQgTG9naXRlY2ggTVggS2V5cyBTIGFyZSB0aGUgdG9wIGNob2ljZXMuIEJvdGggaGF2ZSBkZWRpY2F0ZWQgbW9kZXMgZm9yIE1hYyBhbmQgV2luZG93cyBzeXN0ZW1zIGFuZCBpbmNsdWRlIGtleWNhcHMgZm9yJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZRcVNyVHdsT3JFdkk5ZVFEOFhYT1lvMFlSR2drbHZKUURnYlZER04zNWZHdDdZQ0xJX1hPNTM3dGxMd2xEcWlvcUtpeTNnTVBzdnFMbm1CMFFOYlp4ekk3VnZ1YWxVMS1ZQlJfZUI0ZXpHaUtYcDlxSnpFVlpyMVRrTk5UeHFZaHRHSW1JVEpDNHpTc0VNdVRId0JyYXlrc0RrMTRuZUlFTlVqUjFwc2x0WkoyNkNIYnk3U2IwVUJSWjdUdERhahIEGgIIABqnBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCDBQgAEAAYACAAKhYKA3RvcBXhojg_GgRiZXN0GgR0b3BzKiYKCm1lY2hhbmljYWwVhiiPQBoTbWVjaGFuaWNhbGtleWJvYXJkcyo_CglrZXlib2FyZHMVzFd6QBoIa2V5Ym9hcmQaE21lY2hhbmljYWxrZXlib2FyZHMaDml2O3A7a2V5Ym9hcmRzKgoKA2ZvchUAAAAAKiQKC3Byb2dyYW1taW5nFTKhyD4aEGl2O3A7cHJvZ3JhbW1pbmcy1gEvZ290bz91cmw9Q0FFU2xBRUI2enN3RlFxU3JUd2xPckV2STllUUQ4WFhPWW8wWVJHZ2tsdkpRRGdiVkRHTjM1Zkd0N1lDTElfWE81Mzd0bEx3bERxaW9xS2l5M2dNUHN2cUxubUIwUU5iWnh6STdWdnVhbFUxLVlCUl9lQjRlekdpS1hwOXFKekVWWnIxVGtOTlR4cVlodEdJbUlUSkM0elNzRU11VEh3QnJheWtzRGsxNG5lSUVOVWpSMXBzbHRaSjI2Q0hieTdTYjBVQlJaN1R0RGFqOkM1IDxiPkJlc3QgTWVjaGFuaWNhbCBLZXlib2FyZHM8L2I-IGZvciBQcm9ncmFtbWVycyAmYW1wOyBEZXZlbG9wZXJzQpwBVGhlIDxiPk51UGh5IEFpcjc1IFYyPC9iPiBhbmQgTG9naXRlY2ggTVggS2V5cyBTIGFyZSB0aGUgdG9wIGNob2ljZXMuIEJvdGggaGF2ZSBkZWRpY2F0ZWQgbW9kZXMgZm9yIE1hYyBhbmQgV2luZG93cyBzeXN0ZW1zIGFuZCBpbmNsdWRlIGtleWNhcHMgZm9yJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "NPKClub Store",
+      "read_more_link": "https://npkclub.store/blogs/all-posts/5-best-mechanical-keyboards-for-programmers-developers#:~:text=The%20NuPhy%20Air75%20V2%20and,keycaps%20for%20both%20operating%20systems."
+    },
+    {
+      "position": 9,
+      "title": "Best mechanical keyboard 2026: 15 picks for gaming ...",
+      "link": "https://www.eurogamer.net/digitalfoundry-best-mechanical-keyboard-for-gaming-typing-coding-7008",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFe5dhFoMcOs_Yf-YQJdAf-QrF_ow082q54ci0amGkbHyLOUcEnJRWvyv6BpZFQ4pDESZCHGEzLTXXXPb9eI9rinFoeV0kHeIWaIu6KyAwhjfwCXyMBvhH5CkRxMXvQxT8ZUI3hiGJMtNKU6hthX5rLupi-xMx3jdfCOrr23u-cl9uPHv0kSoQfDIxkojt2d5gU41&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQFnoECEwQAQ&uoh=1",
+      "displayed_link": "https://www.eurogamer.net › Guides",
+      "date": "Feb 13, 2026",
+      "snippet": "Best full-size mechanical keyboard: Corsair K70 Max · Best TKL mechanical keyboard: Keychron Q3 HE 8K · Best 65 percent mechanical keyboard: ...",
+      "snippet_highlighted_words": [
+        "Corsair K70 Max"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Best full-size mechanical keyboard: Corsair K70 Max · Best TKL mechanical keyboard: Keychron Q3 HE 8K · Best 65 percent mechanical keyboard: ...",
+          "source_info_link": "https://www.eurogamer.net/digitalfoundry-best-mechanical-keyboard-for-gaming-typing-coding-7008",
+          "icon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0voZQG8A56PTOd53AyEHAUOEQ3P_qIOraB5AZiYAD-9gL_3b4VlQ3wPMhHqOBopCE00FSXJszMz_KY-psZPb1GxMIy9KqWWcSpZ0K8QsvbmXvxS69Gc4AjmrbHZ0K0ocAMz8u1N3HpI5UFHEgYmTTrnnWpIpqN-vfyRzindH1lVejFCgMN9vNyjZyMc9_J9jsYrzXy6Nftg714MPaAJeZ2XSQL79KYdgAnZi3fXa38iEHIfgHwwJy2PrfBzSnRGWdzhy6lnwQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZlNWRoRm9NY09zX1lmLVlRSmRBZi1RckZfb3cwODJxNTRjaTBhbUdrYkh5TE9VY0VuSlJXdnl2NkJwWkZRNHBERVNaQ0hHRXpMVFhYWFBiOWVJOXJpbkZvZVYwa0hlSVdhSXU2S3lBd2hqZndDWHlNQnZoSDVDa1J4TVh2UXhUOFpVSTNoaUdKTXROS1U2aHRoWDVyTHVwaS14TXgzamRmQ09ycjIzdS1jbDl1UEh2MGtTb1FmREl4a29qdDJkNWdVNDESBBoCCAAavQUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCXBQgAEAAYACAAKhYKA3RvcBW5FQE_GgRiZXN0GgR0b3BzKiYKCm1lY2hhbmljYWwVmDrCQBoTbWVjaGFuaWNhbGtleWJvYXJkcyo_CglrZXlib2FyZHMV2wISQBoIa2V5Ym9hcmQaE21lY2hhbmljYWxrZXlib2FyZHMaDml2O3A7a2V5Ym9hcmRzKgoKA2ZvchUAAAAAKiQKC3Byb2dyYW1taW5nFY49Pj8aEGl2O3A7cHJvZ3JhbW1pbmcy2gEvZ290bz91cmw9Q0FFU2x3RUI2enN3RmU1ZGhGb01jT3NfWWYtWVFKZEFmLVFyRl9vdzA4MnE1NGNpMGFtR2tiSHlMT1VjRW5KUld2eXY2QnBaRlE0cERFU1pDSEdFekxUWFhYUGI5ZUk5cmluRm9lVjBrSGVJV2FJdTZLeUF3aGpmd0NYeU1CdmhINUNrUnhNWHZReFQ4WlVJM2hpR0pNdE5LVTZodGhYNXJMdXBpLXhNeDNqZGZDT3JyMjN1LWNsOXVQSHYwa1NvUWZESXhrb2p0MmQ1Z1U0MTpFPGI-QmVzdCBtZWNoYW5pY2FsIGtleWJvYXJkPC9iPiAyMDI2OiAxNSBwaWNrcyBmb3IgZ2FtaW5nLCB0eXBpbmcgLi4uQqoBQmVzdCBmdWxsLXNpemUgbWVjaGFuaWNhbCBrZXlib2FyZDogPGI-Q29yc2FpciBLNzAgTWF4PC9iPiAmbWlkZG90OyBCZXN0IFRLTCBtZWNoYW5pY2FsIGtleWJvYXJkOiBLZXljaHJvbiBRMyBIRSA4SyAmbWlkZG90OyBCZXN0IDY1IHBlcmNlbnQgbWVjaGFuaWNhbCBrZXlib2FyZDombmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZlNWRoRm9NY09zX1lmLVlRSmRBZi1RckZfb3cwODJxNTRjaTBhbUdrYkh5TE9VY0VuSlJXdnl2NkJwWkZRNHBERVNaQ0hHRXpMVFhYWFBiOWVJOXJpbkZvZVYwa0hlSVdhSXU2S3lBd2hqZndDWHlNQnZoSDVDa1J4TVh2UXhUOFpVSTNoaUdKTXROS1U2aHRoWDVyTHVwaS14TXgzamRmQ09ycjIzdS1jbDl1UEh2MGtTb1FmREl4a29qdDJkNWdVNDESBBoCCAAavQUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCXBQgAEAAYACAAKhYKA3RvcBW5FQE_GgRiZXN0GgR0b3BzKiYKCm1lY2hhbmljYWwVmDrCQBoTbWVjaGFuaWNhbGtleWJvYXJkcyo_CglrZXlib2FyZHMV2wISQBoIa2V5Ym9hcmQaE21lY2hhbmljYWxrZXlib2FyZHMaDml2O3A7a2V5Ym9hcmRzKgoKA2ZvchUAAAAAKiQKC3Byb2dyYW1taW5nFY49Pj8aEGl2O3A7cHJvZ3JhbW1pbmcy2gEvZ290bz91cmw9Q0FFU2x3RUI2enN3RmU1ZGhGb01jT3NfWWYtWVFKZEFmLVFyRl9vdzA4MnE1NGNpMGFtR2tiSHlMT1VjRW5KUld2eXY2QnBaRlE0cERFU1pDSEdFekxUWFhYUGI5ZUk5cmluRm9lVjBrSGVJV2FJdTZLeUF3aGpmd0NYeU1CdmhINUNrUnhNWHZReFQ4WlVJM2hpR0pNdE5LVTZodGhYNXJMdXBpLXhNeDNqZGZDT3JyMjN1LWNsOXVQSHYwa1NvUWZESXhrb2p0MmQ1Z1U0MTpFPGI-QmVzdCBtZWNoYW5pY2FsIGtleWJvYXJkPC9iPiAyMDI2OiAxNSBwaWNrcyBmb3IgZ2FtaW5nLCB0eXBpbmcgLi4uQqoBQmVzdCBmdWxsLXNpemUgbWVjaGFuaWNhbCBrZXlib2FyZDogPGI-Q29yc2FpciBLNzAgTWF4PC9iPiAmbWlkZG90OyBCZXN0IFRLTCBtZWNoYW5pY2FsIGtleWJvYXJkOiBLZXljaHJvbiBRMyBIRSA4SyAmbWlkZG90OyBCZXN0IDY1IHBlcmNlbnQgbWVjaGFuaWNhbCBrZXlib2FyZDombmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "Eurogamer.net",
+      "read_more_link": "https://www.eurogamer.net/digitalfoundry-best-mechanical-keyboard-for-gaming-typing-coding-7008#:~:text=Best%20full%2Dsize%20mechanical%20keyboard%3A%20Corsair,K70%20Max&text=Best%20TKL%20mechanical%20keyboard%3A%20Keychron,Q3%20HE%208K&text=Best%2065%20percent%20mechanical%20keyboard%3A,Cherry%20Xtrfy%20K5V2"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "Gregory Vodden",
+      "source": "RTINGS.com",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpcfr7AhyHb2wa3r3-i9HhZRzBmaSfbVEL-tTEOCSKf1VfQCUXfSvc5Au1jw&usqp=CAI&s"
+      ],
+      "title": "The 5 Best Mechanical Keyboards of 2026",
+      "link": "https://www.rtings.com/keyboard/reviews/best/mechanical",
+      "date": "Jul 17, 2026"
+    },
+    {
+      "author": "Henri Robbins",
+      "source": "WIRED",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS14hLHh9558h8QB7NQxSy2h_jrhpEb4gBEF3foDLagKVfxASkLz-cVSopTQ&usqp=CAI&s"
+      ],
+      "title": "I Test and Take Apart Keyboards for a Living. These Are the Very Best",
+      "link": "https://www.wired.com/gallery/best-keyboards/",
+      "date": "Jul 6, 2026"
+    },
+    {
+      "author": "John Burek, Zackery Cuevas",
+      "source": "PCMag UK",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwurLrk0isCSD7udPbWhneJZ6pbcIJ8Pe4B9bEZ0lJwPciRHvE-SiY_dRjOQ&usqp=CAI&s"
+      ],
+      "title": "The Best Mechanical Keyboards for 2026",
+      "link": "https://uk.pcmag.com/keyboards/84334/the-best-mechanical-keyboards",
+      "date": "1 month ago"
+    },
+    {
+      "author": "r/keyboards",
+      "source": "Reddit",
+      "extensions": [
+        "10+ comments "
+      ],
+      "title": "Silent keyboard for programming + gaming, wire + wireless",
+      "link": "https://www.reddit.com/r/keyboards/comments/1w3plo7/silent_keyboard_for_programming_gaming_wire/",
+      "date": "3 weeks ago"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Wireless",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=wireless+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIYCAESCFdpcmVsZXNzOgoI5YsrEJDvLDAAWOnzIGAB&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKAF6BAgvEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=wireless+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Gaming",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=gaming+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIWCAESBkdhbWluZzoKCMLrOhDD6zowA1jp8yBgAQ&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKAJ6BAgvEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=gaming+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Under $50",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=top+mechanical+keyboards+for+programming+under+$50&shoprs=CAESDRILEQAAAACE14dBGAEYBSoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIiCAUSCVVuZGVyICQ1MBgCIg0SCxEAAAAAhNeHQRgBKgIYAVjp8yBgAQ&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKAN6BAgvEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming+under+%2450"
+    },
+    {
+      "query": "Mac",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=mac+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzITCAESA01hYzoKCMjHfxDKx38wAFjp8yBgAQ&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKAR6BAgvEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=mac+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Wired",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=wired+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIVCAESBVdpcmVkOgoI5YsrEOeLKzAAWOnzIGAB&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKAV6BAgvEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=wired+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=top+mechanical+keyboards+for+programming+sale&shoprs=CAESBEoCGAEYBioodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzITCAYSB09uIHNhbGUYAiIESgIYAVjp8yBgAQ&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKAZ6BAgvEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming+sale"
+    },
+    {
+      "query": "PC",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=pc+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIUCAESAlBDOgwIqcCDARCqwIMBMABY6fMgYAE&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKAd6BAgvEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=pc+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Mini",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=mini+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIUCAESBE1pbmk6CgjF6zoQxus6MANY6fMgYAE&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKAh6BAgvEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=mini+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Backlit",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=backlit+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIXCAESB0JhY2tsaXQ6CgiR7ywQku8sMANY6fMgYAE&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKAl6BAgvEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=backlit+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=top+mechanical+keyboards+for+programming&shoprs=CAESDZoBCgoIEAM4AUAFSAEYFCoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIkCBQSC0dldCBpdCBmYXN0Ig2aAQoKCBADOAFABUgBKgQQARgBYAE&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKAp6BAgvEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Windows",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=windows+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIXCAESB1dpbmRvd3M6CgjIx38Qycd_MABY6fMgYAE&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKAt6BAgvEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=windows+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Bluetooth",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=bluetooth+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIZCAESCUJsdWV0b290aDoKCOWLKxCO7ywwAFjp8yBgAQ&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKAx6BAgvEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=bluetooth+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Cell Phone Keyboards",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=cell+phone+keyboards+top+mechanical+for+programming&shoprs=CAEYCSoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIYCAkSFENlbGwgUGhvbmUgS2V5Ym9hcmRzYAE&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKA16BAgvEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=cell+phone+keyboards+top+mechanical+for+programming"
+    },
+    {
+      "query": "QWERTY",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=qwerty+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIWCAESBlFXRVJUWToKCJ3rOhCl6zowAFjp8yBgAQ&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKA56BAgvEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=qwerty+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Wireless Keyboards",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=wireless+keyboards+top+mechanical+for+programming&shoprs=CAEYCSoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIWCAkSEldpcmVsZXNzIEtleWJvYXJkc2AB&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKA96BAgvEHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=wireless+keyboards+top+mechanical+for+programming"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=black+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIXCAESBUJsYWNrOgwI2Iz1ARDlivUBMAtY6fMgYAE&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKBB6BAgvEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=black+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Mice & Trackballs",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=mice+%26+trackballs+top+mechanical+keyboards+for+programming&shoprs=CAEYCSoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIVCAkSEU1pY2UgJiBUcmFja2JhbGxzYAE&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKBF6BAgvEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=mice+%26+trackballs+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Computer Keyboards",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=computer+keyboards+top+mechanical+for+programming&shoprs=CAEYCSoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIWCAkSEkNvbXB1dGVyIEtleWJvYXJkc2AB&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKBJ6BAgvEHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=computer+keyboards+top+mechanical+for+programming"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=reviews+top+mechanical+keyboards+for+programming&shoprs=CAEYEioodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKBN6BAgvEHs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=reviews+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Free",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=free+top+mechanical+keyboards+for+programming&shoprs=CAEYEioodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIICBISBEZyZWVgAQ&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKBR6BAgvEHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=free+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Blue",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=blue+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIWCAESBEJsdWU6DAjYjPUBEOaK9QEwC1jp8yBgAQ&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKBV6BAgvEH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=blue+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=white+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIXCAESBVdoaXRlOgwI2Iz1ARChi_UBMAtY6fMgYAE&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKBZ6BAgvEH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=white+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Green",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=green+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIXCAESBUdyZWVuOgwI2Iz1ARDoivUBMAtY6fMgYAE&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKBd6BAgvEH8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=green+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Purple",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=purple+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIYCAESBlB1cnBsZToMCNiM9QEQ7Ir1ATALWOnzIGAB&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKBh6BQgvEIAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=purple+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "Linux",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=linux+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzIVCAESBUxpbnV4OgoIyMd_EMvHfzAAWOnzIGAB&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKBl6BQgvEIEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=linux+top+mechanical+keyboards+for+programming"
+    },
+    {
+      "query": "iOS",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=ios+top+mechanical+keyboards+for+programming&shoprs=CAEYASoodG9wIG1lY2hhbmljYWwga2V5Ym9hcmRzIGZvciBwcm9ncmFtbWluZzITCAESA2lPUzoKCMjHfxDOx38wAFjp8yBgAQ&sa=X&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQip4GKBp6BQgvEIIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=ios+top+mechanical+keyboards+for+programming"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Programmers Keyboard",
+      "link": "https://www.reddit.com/r/keyboards/comments/1pro9ix/programmers_keyboard/",
+      "date": "9 months ago",
+      "extensions": [
+        "r/keyboards",
+        "10+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/keyboards/comments/1pro9ix/programmers_keyboard/"
+        }
+      ]
+    },
+    {
+      "title": "What is a good keyboard for coding/programming? Can I use ...",
+      "link": "https://www.quora.com/What-is-a-good-keyboard-for-coding-programming-Can-I-use-a-mechanical-keyboard-If-so-what-switches-should-I-use-to-not-disturb-others",
+      "date": "4 years ago",
+      "extensions": [
+        "30+ answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "link": "https://www.quora.com/What-is-a-good-keyboard-for-coding-programming-Can-I-use-a-mechanical-keyboard-If-so-what-switches-should-I-use-to-not-disturb-others?top_ans=321041314",
+          "extensions": [
+            "Top answer",
+            "2 votes",
+            "4 years ago"
+          ]
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+mechanical+keyboards+for+programming&sca_esv=ef797d1f1ed451da&gl=us&hl=en&ei=7KuyavTnOIvF9u8PhNuliQo&start=10&sa=N&sstk=AS6-VmLC60VRiScXcoUc0B55_40Xg6P1XR7UNSLBACWbG9XRMSFx-WFfdfghv4UGxnHm0pWEwG5hcFcMVhmTJkYS8e1ED7LaejiqrQ&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQ8NMDegQIRRAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+mechanical+keyboards+for+programming&sca_esv=ef797d1f1ed451da&gl=us&hl=en&ei=7KuyavTnOIvF9u8PhNuliQo&start=10&sa=N&sstk=AS6-VmLC60VRiScXcoUc0B55_40Xg6P1XR7UNSLBACWbG9XRMSFx-WFfdfghv4UGxnHm0pWEwG5hcFcMVhmTJkYS8e1ED7LaejiqrQ&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQ8tMDegQIRRAE",
+      "3": "https://www.google.com/search?q=top+mechanical+keyboards+for+programming&sca_esv=ef797d1f1ed451da&gl=us&hl=en&ei=7KuyavTnOIvF9u8PhNuliQo&start=20&sa=N&sstk=AS6-VmLC60VRiScXcoUc0B55_40Xg6P1XR7UNSLBACWbG9XRMSFx-WFfdfghv4UGxnHm0pWEwG5hcFcMVhmTJkYS8e1ED7LaejiqrQ&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQ8tMDegQIRRAG",
+      "4": "https://www.google.com/search?q=top+mechanical+keyboards+for+programming&sca_esv=ef797d1f1ed451da&gl=us&hl=en&ei=7KuyavTnOIvF9u8PhNuliQo&start=30&sa=N&sstk=AS6-VmLC60VRiScXcoUc0B55_40Xg6P1XR7UNSLBACWbG9XRMSFx-WFfdfghv4UGxnHm0pWEwG5hcFcMVhmTJkYS8e1ED7LaejiqrQ&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQ8tMDegQIRRAI",
+      "5": "https://www.google.com/search?q=top+mechanical+keyboards+for+programming&sca_esv=ef797d1f1ed451da&gl=us&hl=en&ei=7KuyavTnOIvF9u8PhNuliQo&start=40&sa=N&sstk=AS6-VmLC60VRiScXcoUc0B55_40Xg6P1XR7UNSLBACWbG9XRMSFx-WFfdfghv4UGxnHm0pWEwG5hcFcMVhmTJkYS8e1ED7LaejiqrQ&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQ8tMDegQIRRAK",
+      "6": "https://www.google.com/search?q=top+mechanical+keyboards+for+programming&sca_esv=ef797d1f1ed451da&gl=us&hl=en&ei=7KuyavTnOIvF9u8PhNuliQo&start=50&sa=N&sstk=AS6-VmLC60VRiScXcoUc0B55_40Xg6P1XR7UNSLBACWbG9XRMSFx-WFfdfghv4UGxnHm0pWEwG5hcFcMVhmTJkYS8e1ED7LaejiqrQ&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQ8tMDegQIRRAM",
+      "7": "https://www.google.com/search?q=top+mechanical+keyboards+for+programming&sca_esv=ef797d1f1ed451da&gl=us&hl=en&ei=7KuyavTnOIvF9u8PhNuliQo&start=60&sa=N&sstk=AS6-VmLC60VRiScXcoUc0B55_40Xg6P1XR7UNSLBACWbG9XRMSFx-WFfdfghv4UGxnHm0pWEwG5hcFcMVhmTJkYS8e1ED7LaejiqrQ&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQ8tMDegQIRRAO",
+      "8": "https://www.google.com/search?q=top+mechanical+keyboards+for+programming&sca_esv=ef797d1f1ed451da&gl=us&hl=en&ei=7KuyavTnOIvF9u8PhNuliQo&start=70&sa=N&sstk=AS6-VmLC60VRiScXcoUc0B55_40Xg6P1XR7UNSLBACWbG9XRMSFx-WFfdfghv4UGxnHm0pWEwG5hcFcMVhmTJkYS8e1ED7LaejiqrQ&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQ8tMDegQIRRAQ",
+      "9": "https://www.google.com/search?q=top+mechanical+keyboards+for+programming&sca_esv=ef797d1f1ed451da&gl=us&hl=en&ei=7KuyavTnOIvF9u8PhNuliQo&start=80&sa=N&sstk=AS6-VmLC60VRiScXcoUc0B55_40Xg6P1XR7UNSLBACWbG9XRMSFx-WFfdfghv4UGxnHm0pWEwG5hcFcMVhmTJkYS8e1ED7LaejiqrQ&ved=2ahUKEwj0jYD_zIKXAxWLov0HHYRtKaEQ8tMDegQIRRAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+mechanical+keyboards+for+programming&start=80"
+    }
+  }
+}

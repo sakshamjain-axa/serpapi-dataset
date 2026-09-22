@@ -1,0 +1,991 @@
+{
+  "search_metadata": {
+    "id": "6ab2a7139a1f2c1b52bb5a2d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/HnHs18tZx-9X5zhisX1Pa3udW2WKu8uf7d_HS8uAba0/6ab2a7139a1f2c1b52bb5a2d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/HnHs18tZx-9X5zhisX1Pa3udW2WKu8uf7d_HS8uAba0/6ab2a7139a1f2c1b52bb5a2d.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/HnHs18tZx-9X5zhisX1Pa3udW2WKu8uf7d_HS8uAba0/6ab2a7139a1f2c1b52bb5a2d.json_with_pixel_position",
+    "created_at": "2026-09-22 16:04:35 UTC",
+    "processed_at": "2026-09-22 16:04:35 UTC",
+    "google_url": "https://www.google.com/search?q=best+mirrorless+cameras+for+beginner+photographers&oq=best+mirrorless+cameras+for+beginner+photographers&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/HnHs18tZx-9X5zhisX1Pa3udW2WKu8uf7d_HS8uAba0/6ab2a7139a1f2c1b52bb5a2d.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best mirrorless cameras for beginner photographers",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best mirrorless cameras for beginner photographers",
+    "total_results": 181,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Best 10 Mirrorless Camera For Beginners: The Ultimate 2026 ...",
+      "link": "https://www.youtube.com/watch?v=21TYXGN-1ec",
+      "thumbnail": "https://serpapi.com/searches/6ab2a7139a1f2c1b52bb5a2d/images/hjdRyA1Ki2aidQjuYbiKuc8ZHrVe21c_TxFRVqgGYlg.jpeg",
+      "channel": "Camera Man",
+      "duration": "26:21",
+      "platform": "YouTube",
+      "date": "Jun 9, 2026"
+    },
+    {
+      "position": 2,
+      "title": "The Best Mirrorless Cameras For Beginners In 2026 Are NOT ...",
+      "link": "https://www.youtube.com/watch?v=XoPA_4D0RUc",
+      "thumbnail": "https://serpapi.com/searches/6ab2a7139a1f2c1b52bb5a2d/images/uYsr1IPGWdLVDLehMHj9z8quQZ1UDBXQ9weuBbjZUSc.jpeg",
+      "channel": "Audioviser",
+      "duration": "10:07",
+      "platform": "YouTube",
+      "date": "Mar 15, 2026"
+    },
+    {
+      "position": 3,
+      "title": "THIS Is The Real BEST Mirrorless Camera For Beginners 2026",
+      "link": "https://www.youtube.com/watch?v=OoeXDHoNpYk",
+      "thumbnail": "https://serpapi.com/searches/6ab2a7139a1f2c1b52bb5a2d/images/qFQTFG7gs5JGnyO_KKVC7C_nsSJUVqYpx_9SXR-sZvc.jpeg",
+      "channel": "TechByTravis",
+      "duration": "10:47",
+      "platform": "YouTube",
+      "date": "Jan 9, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRnwJFIKYOSbjUh_6Eho-goSBFSMn6GrFq71Q"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS1VvN3q5ks1WBpv10qbm2AUSY6mFisqGSXumBqiM5sRYKenKXuTWKIYxhIzJA5Sc3o6ARSgdlnbg1Pj3kkJCHGRoCMDdQQU2p1OeNVMxoDFBNZOOOdP4MPVQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRGj77Bp2MtyuBjRh6ORUjyPRrKInP7XrHQbcgGLvMacgiVIf4ApZG2EbFv27Di12xoo3RrxcOgWtVxjU6qqDaMIb7zQERnmacn",
+      "source": "Sam's Club",
+      "title": "Canon EOS R100 Mirrorless Camera w/RF-S 18-45mm & RF",
+      "rating": 4.6,
+      "reviews": 25,
+      "price": "$823.90",
+      "extracted_price": 823.9,
+      "original_price": "Usually $1,022",
+      "extracted_original_price": 1022,
+      "location": "Nearby, 24 mi",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "Sk7DxXicbZPLjqNGFIaV57FGquJmk50vgE3bZVMUBWYzKhfYYAooA3YblHfIK0TumUiT5SRSnqXzJFnGLWU52__y6ehI_6-PNP_bfkl7Js_htD5bcqLtPsmXuzGdfJNNnVx5lyd_QUPVgWoaiqppY2WiQwjAN846JupTnnzXDGgoCgAQjk3dBECffM9Sloi8SrfHY9osav4BeZZMFZqark1U5RnSVe2PvGSn9H9_rD0ZKlTB2DSMD5QO35qkfVd288_m2FR0QzXNZ1lXJuZEBb_s8Hbx-cfe18s1bfp35ZC23ajMm6ZuRNq2I87KtGHt6Fg3o0N6yqsqbUYyq7v61DCZpU379SSfx_z5A-ZbmSe_vclb98hOX65Xkb4vXkfz6cpbzVcNVeyBOeIaq_h2yO-W109r37GrOHKHxDHVp4bwvGhpqMvEocXKRmAfYcFfHyfxuLaPTDzS6veayduR__PTv9aNz-cNn3uBlHSBgR9YOhIzyYKu2ADRU1tSX03qbSR28TkuucNfyYABGVB0KLsdXaIqXbh1QlY6X0x1YuG5JzZDUEkQKDjaQHk8lLTlQNh-gK9czYa4oCwM7hcGBEyteIUtDteBeTmouIujFUhFBhmxSQDligxFHzjCCy0X8hKLwOL6YUgID-nVX86KIErO8XK29Gi2xWUGMcxC4mTrfYVKOszmieWG-0KsuGX14RlvNlHmsec3UlsMHFCfi6zbgLZHkduHlt0iEt8TOgNoQORQZREFd4_be4VVtoVItkfQPfIyK_Ci6EllC5IDNXAQWQdxSEIZk0DGXpm5G5GcSWiDeHAviePpDOLCCzPkB_SCFt6rX7gOcyAmhblFhVzgEmWxhe5I8dRkmYSxwOugSvJNDl-40_pP0jqORMYdGXmhecHRVEP2tONWp6HC0pzcneEl6rdh7FO7ACGZUa8qdBaYlIbJzLddsq8KyAJoU0jVL_e2Ob6Dqa13_nZ8GLf6hrPjqdveXkpjb3zauEqkz--m9_NzIB97AmNDHRv_AcSwRv4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Sk7DxXicbZPLjqNGFIaV57FGquJmk50vgE3bZVMUBWYzKhfYYAooA3YblHfIK0TumUiT5SRSnqXzJFnGLWU52__y6ehI_6-PNP_bfkl7Js_htD5bcqLtPsmXuzGdfJNNnVx5lyd_QUPVgWoaiqppY2WiQwjAN846JupTnnzXDGgoCgAQjk3dBECffM9Sloi8SrfHY9osav4BeZZMFZqark1U5RnSVe2PvGSn9H9_rD0ZKlTB2DSMD5QO35qkfVd288_m2FR0QzXNZ1lXJuZEBb_s8Hbx-cfe18s1bfp35ZC23ajMm6ZuRNq2I87KtGHt6Fg3o0N6yqsqbUYyq7v61DCZpU379SSfx_z5A-ZbmSe_vclb98hOX65Xkb4vXkfz6cpbzVcNVeyBOeIaq_h2yO-W109r37GrOHKHxDHVp4bwvGhpqMvEocXKRmAfYcFfHyfxuLaPTDzS6veayduR__PTv9aNz-cNn3uBlHSBgR9YOhIzyYKu2ADRU1tSX03qbSR28TkuucNfyYABGVB0KLsdXaIqXbh1QlY6X0x1YuG5JzZDUEkQKDjaQHk8lLTlQNh-gK9czYa4oCwM7hcGBEyteIUtDteBeTmouIujFUhFBhmxSQDligxFHzjCCy0X8hKLwOL6YUgID-nVX86KIErO8XK29Gi2xWUGMcxC4mTrfYVKOszmieWG-0KsuGX14RlvNlHmsec3UlsMHFCfi6zbgLZHkduHlt0iEt8TOgNoQORQZREFd4_be4VVtoVItkfQPfIyK_Ci6EllC5IDNXAQWQdxSEIZk0DGXpm5G5GcSWiDeHAviePpDOLCCzPkB_SCFt6rX7gOcyAmhblFhVzgEmWxhe5I8dRkmYSxwOugSvJNDl-40_pP0jqORMYdGXmhecHRVEP2tONWp6HC0pzcneEl6rdh7FO7ACGZUa8qdBaYlIbJzLddsq8KyAJoU0jVL_e2Ob6Dqa13_nZ8GLf6hrPjqdveXkpjb3zauEqkz--m9_NzIB97AmNDHRv_AcSwRv4"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSxG31wWGsZDKC_2GXZCze1C2wr04XEcTX-KHN5h_gGg-olHwoXOrw4kzjna7FgC5UDLdQbhFmREXAqQnfCHhCAfu6MdZ-Hht60qeDJX_nF",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Canon EOS R100 Mirrorless Camera with 18-45mm Lens",
+      "rating": 4.7,
+      "reviews": 1200,
+      "price": "$549.99",
+      "extracted_price": 549.99,
+      "original_price": "$600",
+      "extracted_original_price": 600,
+      "location": "Nearby, 4 mi",
+      "extensions": [
+        "8% OFF"
+      ],
+      "immersive_product_page_token": "ujdy3XicbZJLjttGEIaR8wgGuvkUs9ODzZFm2By-mlRvjFY3RVLio4ekNKSQO-QKgcYOYC_tADnL5CRZRs7a2___66tCVf1-y8q_0WM2MXlMFu3RlnPt-YN8HI3F_IvsWnHmQyn-glAH-lwFCpjr0NA1aJjzL5wNrGrzUnw3VGApumaZcK6Ae0oxrW9FxkRVNpl3OGTduuU_KIoONFM3VAXAe1QzzTn4WtYsz_73v1umMb-XKsCCmq4oUAXwrRP9u_K8-gjvwh1t6ooG5pahqYb-23PgrT_-3Pv8cs666V3ZZ_0wq8uua7sq6_sZZ3XWsX52aLvZPsvLpsm6mSzaoc07Jous6z_n8scsP2G-1aX4401ehluRfzqfq-x9_TpbLTb-ZrXpiIKuzKnOVA0u-3K0_WnRhg5qaLq9CsdS7xoOVqeeJLoUDjltEAa7NKj46y2vbuf-VlS3rPmzZfJy4P_88q994atVx1d-LCVZByAkFmbHLXGb4oIhrgKVvohErj3Sqh7hV59QlUG6C-Jhze3xwmoNUEgjkRQvtNafaFMdOdo2ycOWiJNlRxA1gnCNNuQQO0WfKu64R2QnkrEmiNB9QoYYbkCogImTfMIh9KNaBzEUipvAhj_Ic0hckNx7xRBNrjMYOJUHN9brACCQJeiJTnATrMBEATrv423M0uKMFSlTKHoGcuCrlWQnKHdX6u2J8ImD5a5Gr3yCkJ5wEqfLKUrJNWyQl8TyJXLIGttjz4GMaIR8z-FDdpqPrqLdd4B3rKoYVpc4QFgLkuG6K6G-t3datN5qDBUHokCD2UKPYrhlBDuxE4RuEjwyEDDe4NhPRZw1QfREyGvsbFvS5BBHyz5ApKS2DIWNRg6tlfeAE78JyjBxQwToE02rgjsy9RPrJUgXGkaLgduDhk-25pTbZfCAJy-hMTsF4f0-Iz0uD1ih9h6etKgmjUsEeopHNyZi-Wnsu8M7WCB9CD1zb_a6y9khH7zLY23sjA_uVkn11Wj5v0LTAsC6v6ihmsZ_L2JDqA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ujdy3XicbZJLjttGEIaR8wgGuvkUs9ODzZFm2By-mlRvjFY3RVLio4ekNKSQO-QKgcYOYC_tADnL5CRZRs7a2___66tCVf1-y8q_0WM2MXlMFu3RlnPt-YN8HI3F_IvsWnHmQyn-glAH-lwFCpjr0NA1aJjzL5wNrGrzUnw3VGApumaZcK6Ae0oxrW9FxkRVNpl3OGTduuU_KIoONFM3VAXAe1QzzTn4WtYsz_73v1umMb-XKsCCmq4oUAXwrRP9u_K8-gjvwh1t6ooG5pahqYb-23PgrT_-3Pv8cs666V3ZZ_0wq8uua7sq6_sZZ3XWsX52aLvZPsvLpsm6mSzaoc07Jous6z_n8scsP2G-1aX4401ehluRfzqfq-x9_TpbLTb-ZrXpiIKuzKnOVA0u-3K0_WnRhg5qaLq9CsdS7xoOVqeeJLoUDjltEAa7NKj46y2vbuf-VlS3rPmzZfJy4P_88q994atVx1d-LCVZByAkFmbHLXGb4oIhrgKVvohErj3Sqh7hV59QlUG6C-Jhze3xwmoNUEgjkRQvtNafaFMdOdo2ycOWiJNlRxA1gnCNNuQQO0WfKu64R2QnkrEmiNB9QoYYbkCogImTfMIh9KNaBzEUipvAhj_Ic0hckNx7xRBNrjMYOJUHN9brACCQJeiJTnATrMBEATrv423M0uKMFSlTKHoGcuCrlWQnKHdX6u2J8ImD5a5Gr3yCkJ5wEqfLKUrJNWyQl8TyJXLIGttjz4GMaIR8z-FDdpqPrqLdd4B3rKoYVpc4QFgLkuG6K6G-t3datN5qDBUHokCD2UKPYrhlBDuxE4RuEjwyEDDe4NhPRZw1QfREyGvsbFvS5BBHyz5ApKS2DIWNRg6tlfeAE78JyjBxQwToE02rgjsy9RPrJUgXGkaLgduDhk-25pTbZfCAJy-hMTsF4f0-Iz0uD1ih9h6etKgmjUsEeopHNyZi-Wnsu8M7WCB9CD1zb_a6y9khH7zLY23sjA_uVkn11Wj5v0LTAsC6v6ihmsZ_L2JDqA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRJWzbT2gE0bssTiDbdOC9BO3nJhgLDTjAR9-q6oW5N_zpWCfu1_RXmKcw8qsJPffcV4N1wmLpqGJhxA6JUoKsVQdvEWhbEVp07hVdDgRy8",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSK8pJX-lwBYY8-NOt8zNPrQNjqPV0vrngw5AusALRd1Q33NRf4Mzgu5HPme5aVSMqOoos-TaFkr56xpN7Pw1sFgain2vBIlQ",
+      "source": "DigitalRev",
+      "title": "Panasonic Lumix S5 IIX Mirrorless Camera",
+      "price": "$221.58",
+      "extracted_price": 221.58,
+      "immersive_product_page_token": "9Q7rlXicdZLLbptAAEXV77EqDTMmmO5sXjYOuAwwPHZjGANmMBPAL36ivxA5SaV02Vbqt6Rf07T7bu7iHt2zul9urPplrtmVin00b_eGmE0_fxTry9189iq6Nj9mQ5X_lKZTeTaFU0mRVQQQhLIkv2Z0oLwtqvzxe8lozqsD2-x2rNPb7D-Tb1VDC_aP_5DlqTJTJSQBdSZDRZFm6lOX948vD0fWXd_glvXDpKm6ru046_tJRhvW0X6ya7vJlhXV4cC6iSjboS06KkrW9S-FeBc_PjV_Q5yGW1k8H4-cvenniTZfeStt1RFojtTixxTh07a6GN513vqWeUhje8wtFb13LtbqnkSyyC1Sr0wXJDHm2flW8Nuxv5X8xg5fWypOu-z3h73RnjWtPy-8UAiiYxBYqmC13TIu6mw0Y6ce9JQvlgFXMZZESHXn7EcFInGZpEs8BpZx9qRU8xFpfZKDrDErOpZBEiYos3rkwHqaSKXuGlJETBsnwDVZY0MHtXISuZUHSeCMJt1yfLeNeezBFaJA7l0DJ1jCZWY6Um6SwCO4D6F7TBDnBKQWsVKbEILzpbsmJMeh5Wq0wV6wFJ2_NEZSp3aO3IsDVRyOC5I0F5SbqZ3AAnokTaOACycceBhwzQvDIW1yOxnrC10Ky4MlNcrc8iGRk3jxQIB5ojU5b3Ts3ceLe6ani82irbwQj9meN2GN6dbgqxTIUQbdwQcJyrk7YN1duweypMQBofd86bvdG5ib8uBvZAB8Y4ge9vs-OytjidwR69HnqzIzik-SogLw_jnlDimzP4ShAII",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9Q7rlXicdZLLbptAAEXV77EqDTMmmO5sXjYOuAwwPHZjGANmMBPAL36ivxA5SaV02Vbqt6Rf07T7bu7iHt2zul9urPplrtmVin00b_eGmE0_fxTry9189iq6Nj9mQ5X_lKZTeTaFU0mRVQQQhLIkv2Z0oLwtqvzxe8lozqsD2-x2rNPb7D-Tb1VDC_aP_5DlqTJTJSQBdSZDRZFm6lOX948vD0fWXd_glvXDpKm6ru046_tJRhvW0X6ya7vJlhXV4cC6iSjboS06KkrW9S-FeBc_PjV_Q5yGW1k8H4-cvenniTZfeStt1RFojtTixxTh07a6GN513vqWeUhje8wtFb13LtbqnkSyyC1Sr0wXJDHm2flW8Nuxv5X8xg5fWypOu-z3h73RnjWtPy-8UAiiYxBYqmC13TIu6mw0Y6ce9JQvlgFXMZZESHXn7EcFInGZpEs8BpZx9qRU8xFpfZKDrDErOpZBEiYos3rkwHqaSKXuGlJETBsnwDVZY0MHtXISuZUHSeCMJt1yfLeNeezBFaJA7l0DJ1jCZWY6Um6SwCO4D6F7TBDnBKQWsVKbEILzpbsmJMeh5Wq0wV6wFJ2_NEZSp3aO3IsDVRyOC5I0F5SbqZ3AAnokTaOACycceBhwzQvDIW1yOxnrC10Ky4MlNcrc8iGRk3jxQIB5ojU5b3Ts3ceLe6ani82irbwQj9meN2GN6dbgqxTIUQbdwQcJyrk7YN1duweypMQBofd86bvdG5ib8uBvZAB8Y4ge9vs-OytjidwR69HnqzIzik-SogLw_jnlDimzP4ShAII"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQQm0aD1dOrKmpm4IUOlVOt8Xr32S0SiuSijLK6INAfq68QjDTiM43n2DkKSjJFzC4HE9P9DaVuYDxfOaoeVoWcvul8gBmciCZbSONhFh86XHXxfVVmRJ7IZA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Canon EOS R50 Mirrorless Camera with RF-S 18-45mm IS STM Lens",
+      "rating": 4.8,
+      "reviews": 1600,
+      "price": "$799.99",
+      "extracted_price": 799.99,
+      "original_price": "$850",
+      "extracted_original_price": 850,
+      "location": "Nearby, 4 mi",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "WOf6bHicdZNbrqNGEIalrCG7sCJ1N5eGvNncxhfwoYHm8nIENDaYtsGAjzGaPWQPPjORJo-TSFnLyWqClLxFeSvVJ_3_X6qqX55F9ae5LR5pewqXzcloFfHlp3Y7ykvlW9s17JYPFftdwEDESJYVRcCqpKK5-JanQ8qb40yhigCURUmGGCBVxhLE38siZby6FPvDoej0Jq_YHxBhKMpYQJIsAFUSBISF36pzeiz-5VjEWBWRKIsAKaqiKCp471j_Ib5orxCj2RhDQRFEVQQyEkX0-YXs9df_gV-vt6J7fKCs6IfFueq6puNF3y_y9Fx0ab84NN0iK47V5VJ0i7ZshubYpW1ZdP3XY_tPnP-Kvp8r9l3CsijPAWUBYywpGMP39m14lscvtxsvPvT7Qluu3bW27igyp9Tit0Qgb1k1Gu5j2XiWeUmizcQsVZh7DtHqnoZSyyxar00HxBHh-f155M9b_yz5s7j82qTt2yH_64cfjeaua_1dc4O2pToBvsVobpgCncrKDhLXgw6xaTCyT6zPA362jc2YIa5TSxlS39HsE5Ed2MK9TxrP59dochzXp01cw2qv81Na91Jm3IXsRPc2Ve9Z1IbZGXb55MK9sXnx-Bp4p1VrWyp1z-bA_NIMLvFErJE7U3l3QTKliIlFfReoXwO7JqvAX11tkIupv9Ezga0Kvrnsonzc-Wab1M6VQXWVUV7HQY5Sc2W5Z_fBwLBLjDXKQtUkgVrmAEqOyazwwiYCGYmBdAqNgRPQcp9vHvuwDRktPdsarjbi25ivvBjwbcDVQ3yiQmrRllpsT8Oxd5CLHDRr6gkKJpMXFUx21BaIz65uQDTf4isXbHQ60WsMAuQIjmVzFu8oLyOBd55Bax-MU6GbsReYkgebMaj5tqidniA2-zic-M4U-6ute-YX_zz_EBrrMGCyU989EyS7JOJlbrWRG6pXEi1Fx1wOuTGITm2IVrVZkU_OPFMSEErhvJvIm2i_N9QXOyKxB3jlTpsoNwhnoLx8Gfvu8AGWpjR4e9wCfFpO_Ki97oj2sNpE-6T6b9nd8ZY_Q6wCoAoAz4er_g0uqlN-",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WOf6bHicdZNbrqNGEIalrCG7sCJ1N5eGvNncxhfwoYHm8nIENDaYtsGAjzGaPWQPPjORJo-TSFnLyWqClLxFeSvVJ_3_X6qqX55F9ae5LR5pewqXzcloFfHlp3Y7ykvlW9s17JYPFftdwEDESJYVRcCqpKK5-JanQ8qb40yhigCURUmGGCBVxhLE38siZby6FPvDoej0Jq_YHxBhKMpYQJIsAFUSBISF36pzeiz-5VjEWBWRKIsAKaqiKCp471j_Ib5orxCj2RhDQRFEVQQyEkX0-YXs9df_gV-vt6J7fKCs6IfFueq6puNF3y_y9Fx0ab84NN0iK47V5VJ0i7ZshubYpW1ZdP3XY_tPnP-Kvp8r9l3CsijPAWUBYywpGMP39m14lscvtxsvPvT7Qluu3bW27igyp9Tit0Qgb1k1Gu5j2XiWeUmizcQsVZh7DtHqnoZSyyxar00HxBHh-f155M9b_yz5s7j82qTt2yH_64cfjeaua_1dc4O2pToBvsVobpgCncrKDhLXgw6xaTCyT6zPA362jc2YIa5TSxlS39HsE5Ed2MK9TxrP59dochzXp01cw2qv81Na91Jm3IXsRPc2Ve9Z1IbZGXb55MK9sXnx-Bp4p1VrWyp1z-bA_NIMLvFErJE7U3l3QTKliIlFfReoXwO7JqvAX11tkIupv9Ezga0Kvrnsonzc-Wab1M6VQXWVUV7HQY5Sc2W5Z_fBwLBLjDXKQtUkgVrmAEqOyazwwiYCGYmBdAqNgRPQcp9vHvuwDRktPdsarjbi25ivvBjwbcDVQ3yiQmrRllpsT8Oxd5CLHDRr6gkKJpMXFUx21BaIz65uQDTf4isXbHQ60WsMAuQIjmVzFu8oLyOBd55Bax-MU6GbsReYkgebMaj5tqidniA2-zic-M4U-6ute-YX_zz_EBrrMGCyU989EyS7JOJlbrWRG6pXEi1Fx1wOuTGITm2IVrVZkU_OPFMSEErhvJvIm2i_N9QXOyKxB3jlTpsoNwhnoLx8Gfvu8AGWpjR4e9wCfFpO_Ki97oj2sNpE-6T6b9nd8ZY_Q6wCoAoAz4er_g0uqlN-"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgxcCF4vhntPs2FPpxIpEWUqNWaK1F3H51Ern1eKT3y1l5XCAJxcMoT7yFPhTLSbvnyGH022m34niolIYjQQkjLxbIjEeZmGqoRHFvRH6iXa2ecxobuLDhIg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRygXsOauXOxDIJna18KqAQXHGO4lNYMM00waFc_Zg-gUzfmJ2_MTRlVuNrlw09CgLLcGWUPtwlu7fyXDbw95GLkTieVCYh9s8",
+      "source": "B&H Photo-Video-Audio",
+      "title": "Nikon Z50 II Mirrorless Camera with Basic Bundle",
+      "rating": 4.8,
+      "reviews": 141,
+      "price": "$1,006.95",
+      "extracted_price": 1006.95,
+      "delivery": "Free next-day delivery",
+      "immersive_product_page_token": "MX660HicbZBNjqNGAIWV81gjVfFnOzsbAzZusKmCKlybFoYyYAqoBtzGVu6QK4w8M5Emy2SRs3SUw8SRspzNW7ynT3r6fn3w8i97y2-JPNNFe7bkTNt_ktvRWMy-y67NLulQZn9ODaBAqE9nGtCmmqYrmv49TYZEtHmZff6j4EkmyobvTiferdr0x8TvZZ3k_P9ZV-BMBdBQ1KlhwJlmgC9d1n-AvfkK59MpVPUnZWjGHCja_Jc92q1efzh9e7vw7vahHHk_TOqy69pO8L6fpEnNu6SfnNpucuR52TS8m8iiHdq8S2TBu_5bLp9PPn-p_wv5PjyK_OvlIvjH6joxF5tgY246otj3xBEXpqL3YzlawW3RYsduWOzeM2euPjsfmVVPqC4zh1Qb2weHGIn0-sjF49I_CvHgzW9tIt9P6d8__WNdNqb5tjGDSEqyQgCrqYaJr6ex3zCgaWSNlghWuifsVVR7I4YozBzkH5-yPDq8sNBf8cYW3rmISO0HAXRhSnMYQamgihEvkpRYBcTC1Q-Vb3okUmmN3BCIc0Rn8NBIjQE7oWEEOCU-a2x5hEJNImGRtdwiVRSRQxhSlw2rizGsXD0MyRmvEE0rsQ1BEZAa4Z1jd0k0gJRCC8fIzhS59OwMM9s_eRFjoSrdneW-oTujiRBX5ly1FEo3I9k1EuScOmPC6l5FK_fpKxgOMdvv1nYSAHLNoCT-3T3x0N_gqlCCxkZhc4A4zFo_dEtcMUjXhfDioo0U-MLPbpzewMDCagiq8cqiuZcBqQZUuum6qKKYBb4Qp6OlX8IqHWg1GpGaYhuwFxaLInVkHND5G4oXmm8vhtQaNL-yNKd0l2jt33aU4QPJqAfJ1hdFcFRlgpXBZbQIOYVbHLvbqBqXX8e-O32Aha0PeDfl7Qq-nvA-KHCu5J-uC7kNqRzvr2bwM5zOAZirYGqoM_Avy8YyQg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=MX660HicbZBNjqNGAIWV81gjVfFnOzsbAzZusKmCKlybFoYyYAqoBtzGVu6QK4w8M5Emy2SRs3SUw8SRspzNW7ynT3r6fn3w8i97y2-JPNNFe7bkTNt_ktvRWMy-y67NLulQZn9ODaBAqE9nGtCmmqYrmv49TYZEtHmZff6j4EkmyobvTiferdr0x8TvZZ3k_P9ZV-BMBdBQ1KlhwJlmgC9d1n-AvfkK59MpVPUnZWjGHCja_Jc92q1efzh9e7vw7vahHHk_TOqy69pO8L6fpEnNu6SfnNpucuR52TS8m8iiHdq8S2TBu_5bLp9PPn-p_wv5PjyK_OvlIvjH6joxF5tgY246otj3xBEXpqL3YzlawW3RYsduWOzeM2euPjsfmVVPqC4zh1Qb2weHGIn0-sjF49I_CvHgzW9tIt9P6d8__WNdNqb5tjGDSEqyQgCrqYaJr6ex3zCgaWSNlghWuifsVVR7I4YozBzkH5-yPDq8sNBf8cYW3rmISO0HAXRhSnMYQamgihEvkpRYBcTC1Q-Vb3okUmmN3BCIc0Rn8NBIjQE7oWEEOCU-a2x5hEJNImGRtdwiVRSRQxhSlw2rizGsXD0MyRmvEE0rsQ1BEZAa4Z1jd0k0gJRCC8fIzhS59OwMM9s_eRFjoSrdneW-oTujiRBX5ly1FEo3I9k1EuScOmPC6l5FK_fpKxgOMdvv1nYSAHLNoCT-3T3x0N_gqlCCxkZhc4A4zFo_dEtcMUjXhfDioo0U-MLPbpzewMDCagiq8cqiuZcBqQZUuum6qKKYBb4Qp6OlX8IqHWg1GpGaYhuwFxaLInVkHND5G4oXmm8vhtQaNL-yNKd0l2jt33aU4QPJqAfJ1hdFcFRlgpXBZbQIOYVbHLvbqBqXX8e-O32Aha0PeDfl7Qq-nvA-KHCu5J-uC7kNqRzvr2bwM5zOAZirYGqoM_Avy8YyQg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT6zQeaeusxgFbz4un1ygOI1SkhjogseGAqyBkyhnTJKmfsccgQvNqhXAId59WGFHqal7A4iCzgwjabOfwyt6nmWdbyq-JYKKS2n3lV74E",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "Bundle - Fujifilm - X-T5 Mirrorless Camera, Silver",
+      "price": "$1,999.00",
+      "extracted_price": 1999.0,
+      "immersive_product_page_token": "Do27mXicbZLNkppAAIQrz2OlaoY_JTcRYcUVl4EZcG4IIyIDzILy40vkFbbcJFWbY3LIs2yeJqZyzaUP_XX3qT_fWP7LWrMxFqdwXp-WYqY8fRTrQZvP3kRTp5fknKc_VVmBUNU0VQXTmaaDqaa8JfE55nWWpy8_jixOeV6x7eHAGrNO_t_4npdxxv5hSdNlGaiSAqa6ps8kbaq9Nmn78vX5wprxXdqz9jwp86apG87adpLEJWvidnKom8meZXlVsWYijvW5zppYHFnTfs3EffjltfwrojvfjtmXy4Wzd7OfLOYrb7VYNUSyrrHNL1RG3T4flt44r33bqmjkXFNbl--eixZFS0JVpDYpVpYLdhHiSX_L-O3S3o78xqpvdSy6Q_L7w2lZ94tF2xseFoKYCPjc2fkhalyZKGHIYwScZRCip0Tmmy3hAJW0C8JaTWxLIZJTU-CsvRPRNoGzYtG8x4WosT10EUB2aA8hAnDFsNv5MAMe9uTA5BIu-RpHIvCl3ci4W-Jo1ePIUNMSHlM-V-8ZOwkR3BO02EViSBYQuCYfWXGuqJzdueVTYEkb4hgkhzC0EmkbGArB3HgkAu6gblFMBzLCgllo6V6NCpPsSkNaucS9UuxGMaZSXOjEtYkXPDhrUmTQxw5iFkcEGtLymNq-RNRdZDwTYHVxQfqtibzHyHhkJjW2Rp17GF2TEy8xpKMrCW9TCZgGlrcxCQ3KZIhtixNAH_YRNdP-y9A2h3cwt9Szv1U2WhGMa9mqumY30_etW1Mncri7vPSf4FQHQJfvh5Nn8A8mVP8r",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Do27mXicbZLNkppAAIQrz2OlaoY_JTcRYcUVl4EZcG4IIyIDzILy40vkFbbcJFWbY3LIs2yeJqZyzaUP_XX3qT_fWP7LWrMxFqdwXp-WYqY8fRTrQZvP3kRTp5fknKc_VVmBUNU0VQXTmaaDqaa8JfE55nWWpy8_jixOeV6x7eHAGrNO_t_4npdxxv5hSdNlGaiSAqa6ps8kbaq9Nmn78vX5wprxXdqz9jwp86apG87adpLEJWvidnKom8meZXlVsWYijvW5zppYHFnTfs3EffjltfwrojvfjtmXy4Wzd7OfLOYrb7VYNUSyrrHNL1RG3T4flt44r33bqmjkXFNbl--eixZFS0JVpDYpVpYLdhHiSX_L-O3S3o78xqpvdSy6Q_L7w2lZ94tF2xseFoKYCPjc2fkhalyZKGHIYwScZRCip0Tmmy3hAJW0C8JaTWxLIZJTU-CsvRPRNoGzYtG8x4WosT10EUB2aA8hAnDFsNv5MAMe9uTA5BIu-RpHIvCl3ci4W-Jo1ePIUNMSHlM-V-8ZOwkR3BO02EViSBYQuCYfWXGuqJzdueVTYEkb4hgkhzC0EmkbGArB3HgkAu6gblFMBzLCgllo6V6NCpPsSkNaucS9UuxGMaZSXOjEtYkXPDhrUmTQxw5iFkcEGtLymNq-RNRdZDwTYHVxQfqtibzHyHhkJjW2Rp17GF2TEy8xpKMrCW9TCZgGlrcxCQ3KZIhtixNAH_YRNdP-y9A2h3cwt9Szv1U2WhGMa9mqumY30_etW1Mncri7vPSf4FQHQJfvh5Nn8A8mVP8r"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRTZsJtU3UlzxVSMuFDKGVE339UwmzmSgKppPS77aNzlcjgipi8oPYmb6K1bPCLbZ6BYWNtittve0KJD3fRvwXoCNtqkLNsUH3XLKe7KvD3eVabjUTtmimvqQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRygXsOauXOxDIJna18KqAQXHGO4lNYMM00waFc_Zg-gUzfmJ2_MTRlVuNrlw09CgLLcGWUPtwlu7fyXDbw95GLkTieVCYh9s8",
+      "source": "B&H Photo-Video-Audio",
+      "title": "Canon EOS R100 Mirrorless Camera with 18-45mm and 75-300mm Lenses and Essentials+ Kit",
+      "rating": 4.7,
+      "reviews": 94,
+      "price": "$815.94",
+      "extracted_price": 815.94,
+      "original_price": "$948",
+      "extracted_original_price": 948,
+      "delivery": "Free next-day delivery",
+      "extensions": [
+        "13% OFF"
+      ],
+      "immersive_product_page_token": "h3cDjXicdZBNrqNGFIWV9VgtVRXYmMwwprB5DzB_Ba7JE6aKHwMGA7Yxyh6yhZa7O1JnmAx6La-VxcSRMuy-gzu457vSOef3By--4Rd-j9tjqDRHrV2Kuw_ty7hQll_brmGXZCjY3wsoAFGQhQUA4gLOJTiXvybxEFdNVrCPf-U8ZlVx4naa8m7dJD_--LOo44z_L6OlKMpwDpaL5wgISMtPHevfxZ36BuFCEpdQlESAJPQEkCD9tnPt9dtPxC_nC-_u7-jA-2FWF13XdBXv-1kS17yL-1nadLMDz4rTiXezNm-GJuviNudd_yVrn24-fqr_W-11eOTZ58ul4u_r20xVts5W3XYE4SnWqwsV3OuhGDXnrjSejk80Miamy8LzZrlq2ZNw3jKdlFtsgX3kVsntkVWPS__Iqwc__dHE7TVNvv_yj3bZqup5qzpB25K1C7yJDdTPJzppYlLmBdGouj_lr3tItMNx1UXCSmThdkjC_BrX8tVETI1QNsXBfiJ4lbo6rT2Md0QFKNzQkJfWmUE58Ktc98ByDOvhHlTYTgA2KMCLg14Zh6MyxmUehVUw-hs8BU_egrIeTWzv1ongwErc-4ZpTVQNSGUQcBv2YT-akzkPJqv0hfbVDDLonoxLApd3p2aWD-bYxi5yUZXbOp58DdwZGiJTd30LWVUErYEQ4rqaI5jodn_2WnLizO1N3ttrZzKhu0rCOeDlCCOBRKQctsmRWrYGfXOjgERnaaAR3a_lRXI0RAoGY0_o1iHWJQgoCiBdMx0Tf8Ni4mdTBJkTgWodCC5iIRlZnT-zW9YBEYtqFOyFxMOAvtKoyhO9jZxQPruRIlpYGRJtEK1SE_XCWLkb626H1OMb45VBRuNjBg7ESFmIzy4YzSeLPH2gvJSFz2Pfpe9AwfPBsyXerOFb6u2c3MtQ9uGmtC9-2I7Tm-r8CiUZAFkA0kJYgn8BgKcxiw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=h3cDjXicdZBNrqNGFIWV9VgtVRXYmMwwprB5DzB_Ba7JE6aKHwMGA7Yxyh6yhZa7O1JnmAx6La-VxcSRMuy-gzu457vSOef3By--4Rd-j9tjqDRHrV2Kuw_ty7hQll_brmGXZCjY3wsoAFGQhQUA4gLOJTiXvybxEFdNVrCPf-U8ZlVx4naa8m7dJD_--LOo44z_L6OlKMpwDpaL5wgISMtPHevfxZ36BuFCEpdQlESAJPQEkCD9tnPt9dtPxC_nC-_u7-jA-2FWF13XdBXv-1kS17yL-1nadLMDz4rTiXezNm-GJuviNudd_yVrn24-fqr_W-11eOTZ58ul4u_r20xVts5W3XYE4SnWqwsV3OuhGDXnrjSejk80Miamy8LzZrlq2ZNw3jKdlFtsgX3kVsntkVWPS__Iqwc__dHE7TVNvv_yj3bZqup5qzpB25K1C7yJDdTPJzppYlLmBdGouj_lr3tItMNx1UXCSmThdkjC_BrX8tVETI1QNsXBfiJ4lbo6rT2Md0QFKNzQkJfWmUE58Ktc98ByDOvhHlTYTgA2KMCLg14Zh6MyxmUehVUw-hs8BU_egrIeTWzv1ongwErc-4ZpTVQNSGUQcBv2YT-akzkPJqv0hfbVDDLonoxLApd3p2aWD-bYxi5yUZXbOp58DdwZGiJTd30LWVUErYEQ4rqaI5jodn_2WnLizO1N3ttrZzKhu0rCOeDlCCOBRKQctsmRWrYGfXOjgERnaaAR3a_lRXI0RAoGY0_o1iHWJQgoCiBdMx0Tf8Ni4mdTBJkTgWodCC5iIRlZnT-zW9YBEYtqFOyFxMOAvtKoyhO9jZxQPruRIlpYGRJtEK1SE_XCWLkb626H1OMb45VBRuNjBg7ESFmIzy4YzSeLPH2gvJSFz2Pfpe9AwfPBsyXerOFb6u2c3MtQ9uGmtC9-2I7Tm-r8CiUZAFkA0kJYgn8BgKcxiw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRNlVk-IG2TRy4SDqe9NerqV_g281QYmDFcJFvDJ8LaptXZCFmBH6gXxfwxhONqLZmDK1WsmMMkvldGMwLN9W3LkWQYCa2u076sTWGm7Og",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Canon EOS R50 V Mirrorless Camera with 14-30mm f/4-6.3 IS STM PZ Lens",
+      "rating": 4.6,
+      "reviews": 191,
+      "price": "$849.99",
+      "extracted_price": 849.99,
+      "location": "Nearby, 22 mi",
+      "immersive_product_page_token": "3TFBVXicbY7LjqNGAEWV77EiVUHxys4YCuxu8JhHgWvTKlNlg82jGvAL5R_yC5F7JtJkmUTKt3S-JMv0ZD3be-49ur88RPU3fhJ3Jo_ZvDu60kSffpRPN31ufpV9x8_FWPE_dQCQqZgGQqauA2RZAH0t2Mjq7vCN6tAwDF2BqgYB-qgq8I9SMF5XrVjv96J3uuKjZqk6VEwEDQVaqmIoKrR-rxp2EP_jvz7WwIQ60kzLQggqmoWUt54P78qnxYtmmZqJNAMiqGumgnSg_vwpWjsv32dfXs-iv78rOzGMs6bq-66vxTDMCtaIng2zfdfPduJQta3oZ7Lsxu7QM1mKfvhykN--fsf51lT81zd5GR_l4fP5XIt35zpbzJeb5WLZEwVPzKvPVI0uu-rmbu7zLvZwS_PVxD1L_cjCaHEaSKZJ7pHTEodgm0d1cX0c6sd5eJT1Q7S_dUxe9sU_P_zrXorFoi8Wm1RK4kQgcelauNjljs22-WoMJ6wztzwWE7ETLK_iREHW0G6bXZUolzZviMpPdZZPoZ2Q8r52UzXBHaB52bBTAGIwjHET6puaVjuX588pfI0n-5Iei_vOu4XcXU1ZIxltRhDcIaR4rm2IDHa4DgJC2u2EB360KW-Jm7ahmro3L3HCrICFulHQSIGsxIc_88OSgZvLXO6nEJ9ZikHo4Whbr7otIB1TSL9LOU7Sm50422ucL280O1y3kIeJAp9DH_tJA0vuRCzEZZwdy0BkNQrachTH6CgaAIiDE-7w12AiJccliWuqMqXcs5S7wutuoiUsgbXcTPzKIY3iU-jkKrejGIbCg16iSkrB-JzmRCbQcqlrRRTAMUg4DGqbUYX4TImC2MeY-Mvrtl09bRKMUs-MMaDPNK_LwpP5JrNeo3yOQjwfC3dE4clFXrWyIz-8rzMaRZnlh5hkgqyySF3CyLcH0owx8UYndLUxTWv1823o9-9gjrUxXhsSGMf5VB8WL8_R4u5JuvCt5LK7hvH8J2hYAFgqMHTVsP4DW4pEfQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3TFBVXicbY7LjqNGAEWV77EiVUHxys4YCuxu8JhHgWvTKlNlg82jGvAL5R_yC5F7JtJkmUTKt3S-JMv0ZD3be-49ur88RPU3fhJ3Jo_ZvDu60kSffpRPN31ufpV9x8_FWPE_dQCQqZgGQqauA2RZAH0t2Mjq7vCN6tAwDF2BqgYB-qgq8I9SMF5XrVjv96J3uuKjZqk6VEwEDQVaqmIoKrR-rxp2EP_jvz7WwIQ60kzLQggqmoWUt54P78qnxYtmmZqJNAMiqGumgnSg_vwpWjsv32dfXs-iv78rOzGMs6bq-66vxTDMCtaIng2zfdfPduJQta3oZ7Lsxu7QM1mKfvhykN--fsf51lT81zd5GR_l4fP5XIt35zpbzJeb5WLZEwVPzKvPVI0uu-rmbu7zLvZwS_PVxD1L_cjCaHEaSKZJ7pHTEodgm0d1cX0c6sd5eJT1Q7S_dUxe9sU_P_zrXorFoi8Wm1RK4kQgcelauNjljs22-WoMJ6wztzwWE7ETLK_iREHW0G6bXZUolzZviMpPdZZPoZ2Q8r52UzXBHaB52bBTAGIwjHET6puaVjuX588pfI0n-5Iei_vOu4XcXU1ZIxltRhDcIaR4rm2IDHa4DgJC2u2EB360KW-Jm7ahmro3L3HCrICFulHQSIGsxIc_88OSgZvLXO6nEJ9ZikHo4Whbr7otIB1TSL9LOU7Sm50422ucL280O1y3kIeJAp9DH_tJA0vuRCzEZZwdy0BkNQrachTH6CgaAIiDE-7w12AiJccliWuqMqXcs5S7wutuoiUsgbXcTPzKIY3iU-jkKrejGIbCg16iSkrB-JzmRCbQcqlrRRTAMUg4DGqbUYX4TImC2MeY-Mvrtl09bRKMUs-MMaDPNK_LwpP5JrNeo3yOQjwfC3dE4clFXrWyIz-8rzMaRZnlh5hkgqyySF3CyLcH0owx8UYndLUxTWv1823o9-9gjrUxXhsSGMf5VB8WL8_R4u5JuvCt5LK7hvH8J2hYAFgqMHTVsP4DW4pEfQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRVBcPibJYK3Mj22hWbhzfLX34k1rQATYMBPcZP4bhkjpQgjkRy6hReQxKNP6VU-9OvHy1WX8RD4qk2uyKy8H8sGZhBffU6cRI8xcKoBi6itanx_549jQ975A",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart - JumboBuys",
+      "title": "Canon EOS R10 Body Mirrorless Camera - (International Version), Black",
+      "rating": 4.7,
+      "reviews": 1100,
+      "price": "$766.82",
+      "extracted_price": 766.82,
+      "original_price": "$829",
+      "extracted_original_price": 829,
+      "delivery": "Free delivery",
+      "extensions": [
+        "7% OFF"
+      ],
+      "immersive_product_page_token": "MVoGcXicdVJLrqNGAFTOY0VqfsZkZxs3tp9pTEM3mM2InwHTQD8-z4Byh1xh5JmJNFnORMpZXpTDxMk62dSiSiVVleqXR1r8AV_SKeQ3b93cdnwln3_kL-NyvfrK2yYZ4r5IfheAqEnCUlNkASxX4koGkvo1DvuQNVmRfPyWp2HCijq1rte01Zv4fyy_FVWYpf_q30VlqQBV1YCsrtSlLGhA-9Qm3bt43n6QZUUWNUVURVEVgKDKK_nnM7b0D_-tfXkd0nZ6F6O06xdV0bZNy9KuW8RhlbZht7g27SJKs6Ku03bB86Zvsjbkedp2XzL-zPLxU_UP8Lf-kWefh4Gl7_p9sV0f7MP20FIRzqHBhkDCb1Ex7uxp3TgGrAP_OCeGJj05hLdlRz2FJwYtDxCBi49ZfH9k7DF0j5w90vrXJuRv1_jPH_7aDYft9vWwtQnnVMfA3WPZFY8TcZEVSZCZXjZfapxHDPWkzIXIPQ5pJZwjoBSOyAbb5-OFar3JyskUYIjnpECMNUmFZZMySGZ8ToTNSBkNiE4kl8UTqnJGpKwnBr-kpJcShoLA3-QnF3ITanU028CrMU3LUYpudGN6eOPMrPZKEwTkcLcgGkyDh7RiPNAPclJzx9I3F2SYvS3RMAIcmbtd75FLfyLKZHtYSiv0QiGk2E_G8IZM4qGZCGSK4PHuQqYEMEBEgJWn0zGg9GRtgeKCpo8BAvG8YaGAoS8e7oRgEe8DEt7w_kQSyQcUURiLAYB7utMEU6RlWNnjs8eMPSi7-8QKhFJxCzDZ7ka3DAVFTHslJFBoeWycSsDOjd3COnYgCE6Bz_LY4L7taa_YX8sIrvt418uo3MlGcdzgPZosL8CmzpxApINJeiUxmJuUOXVAwmm90XFpjzYQ6s9j117fwRoqvWMpADjPSV5vty6-q3MuoRnr3nlSV7vsJ-H5fKBJQF1K6upvpk4z6w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=MVoGcXicdVJLrqNGAFTOY0VqfsZkZxs3tp9pTEM3mM2InwHTQD8-z4Byh1xh5JmJNFnORMpZXpTDxMk62dSiSiVVleqXR1r8AV_SKeQ3b93cdnwln3_kL-NyvfrK2yYZ4r5IfheAqEnCUlNkASxX4koGkvo1DvuQNVmRfPyWp2HCijq1rte01Zv4fyy_FVWYpf_q30VlqQBV1YCsrtSlLGhA-9Qm3bt43n6QZUUWNUVURVEVgKDKK_nnM7b0D_-tfXkd0nZ6F6O06xdV0bZNy9KuW8RhlbZht7g27SJKs6Ku03bB86Zvsjbkedp2XzL-zPLxU_UP8Lf-kWefh4Gl7_p9sV0f7MP20FIRzqHBhkDCb1Ex7uxp3TgGrAP_OCeGJj05hLdlRz2FJwYtDxCBi49ZfH9k7DF0j5w90vrXJuRv1_jPH_7aDYft9vWwtQnnVMfA3WPZFY8TcZEVSZCZXjZfapxHDPWkzIXIPQ5pJZwjoBSOyAbb5-OFar3JyskUYIjnpECMNUmFZZMySGZ8ToTNSBkNiE4kl8UTqnJGpKwnBr-kpJcShoLA3-QnF3ITanU028CrMU3LUYpudGN6eOPMrPZKEwTkcLcgGkyDh7RiPNAPclJzx9I3F2SYvS3RMAIcmbtd75FLfyLKZHtYSiv0QiGk2E_G8IZM4qGZCGSK4PHuQqYEMEBEgJWn0zGg9GRtgeKCpo8BAvG8YaGAoS8e7oRgEe8DEt7w_kQSyQcUURiLAYB7utMEU6RlWNnjs8eMPSi7-8QKhFJxCzDZ7ka3DAVFTHslJFBoeWycSsDOjd3COnYgCE6Bz_LY4L7taa_YX8sIrvt418uo3MlGcdzgPZosL8CmzpxApINJeiUxmJuUOXVAwmm90XFpjzYQ6s9j117fwRoqvWMpADjPSV5vty6-q3MuoRnr3nlSV7vsJ-H5fKBJQF1K6upvpk4z6w"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR6Ka9g1Y-PvbLw5xjwQFIBE61pyCMPb8dZvuaMQ7OJ7q6qGwuZ3beSDhiR20ZA6JJzveOjtUk3pZsqZe8M6XNcKG_3e5sqqABdpKYrY3Wk",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "Canon - EOS R8 Mirrorless Camera with RF 24-50mm f/4.5-6.3 IS STM Lens - 5803C012",
+      "price": "$1,379.95",
+      "extracted_price": 1379.95,
+      "original_price": "$1,650",
+      "extracted_original_price": 1650,
+      "extensions": [
+        "16% OFF"
+      ],
+      "immersive_product_page_token": "nPhyZnicdVJLbptAAFXPY1Uafga6M-ZjE4LDAIPNDjNjfoMZAzaYS_QKkZNUSpdVpZ4lPU1dqdtunp7eb_W-3kjxy3wg14SV0aIpDaaIT5_ZwzhfKO-sbfA57Qv8k-M5IChA5O5EVAVZkUTpPU36hDZZgZ9_5CTBtDiSzeFAWr1J_1P5XtRJRv75oihwkiJysqwKEsfNZUV9aXH3_HY6k_b6we9J18_qom2blpKum6VJTdqkmx2adrYnWXE8knbG8qZvsjZhOWm7t4zdl59f6r_ALv0tz17PZ0o-9GG2XKy99XLdIt6cEoueYwFe9sVoeNdF41vmMd7aE7ZU4a65cFl1KJIYtlC1Nl2w20KaDreM3s7dLac3cvzWJOxySH9_Ko1mWC67QfNCxpAOgV-xMgFoF065E5S5T6h5DgTNQMCOSAXRZkt5JLA6qqXNrhrE2FAnUo3HoM6GOFQmLKA6smjgH1kEq9HzhXwKLWztDQm45m70VxUgRvxEIvvRo5SFIZZwpTaI7-c-srk4ygafW_cE4WukY4BCNU9qXD9G3dWvWeTx5jyoYhiuGCUGhU4Q9vuSVtDMpMDEB4Rix7XGqz-FI15BZ1ePja97INJdLVlpg4PijRf2azjZoTfZ3aMA1zHn9Q5SA1S5ncvTISkNzsix5fNI2m21EwLmJanQsNGh52w1h-ixttGawgvhlJa0Duu431N1lyIYpJMBfCM_eZFJsQWdjWWHaWkv8fA6du3hAyxMqfc3Erin-uhUll06yFMuuBPUo6errBjZF05WAVAFIM_vt_sD9SUEpw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=nPhyZnicdVJLbptAAFXPY1Uafga6M-ZjE4LDAIPNDjNjfoMZAzaYS_QKkZNUSpdVpZ4lPU1dqdtunp7eb_W-3kjxy3wg14SV0aIpDaaIT5_ZwzhfKO-sbfA57Qv8k-M5IChA5O5EVAVZkUTpPU36hDZZgZ9_5CTBtDiSzeFAWr1J_1P5XtRJRv75oihwkiJysqwKEsfNZUV9aXH3_HY6k_b6we9J18_qom2blpKum6VJTdqkmx2adrYnWXE8knbG8qZvsjZhOWm7t4zdl59f6r_ALv0tz17PZ0o-9GG2XKy99XLdIt6cEoueYwFe9sVoeNdF41vmMd7aE7ZU4a65cFl1KJIYtlC1Nl2w20KaDreM3s7dLac3cvzWJOxySH9_Ko1mWC67QfNCxpAOgV-xMgFoF065E5S5T6h5DgTNQMCOSAXRZkt5JLA6qqXNrhrE2FAnUo3HoM6GOFQmLKA6smjgH1kEq9HzhXwKLWztDQm45m70VxUgRvxEIvvRo5SFIZZwpTaI7-c-srk4ygafW_cE4WukY4BCNU9qXD9G3dWvWeTx5jyoYhiuGCUGhU4Q9vuSVtDMpMDEB4Rix7XGqz-FI15BZ1ePja97INJdLVlpg4PijRf2azjZoTfZ3aMA1zHn9Q5SA1S5ncvTISkNzsix5fNI2m21EwLmJanQsNGh52w1h-ixttGawgvhlJa0Duu431N1lyIYpJMBfCM_eZFJsQWdjWWHaWkv8fA6du3hAyxMqfc3Erin-uhUll06yFMuuBPUo6errBjZF05WAVAFIM_vt_sD9SUEpw"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best mirrorless camera for a beginner?",
+      "type": "ai_overview",
+      "page_token": "3coeyXicHdBRbpswAIBh9TJ9bMAunRIpmkTBiVhxatc2jl8msJO4sQE3oaHhbVfYGXaqnqbVDvB_D_-ff_61c583f-0whPNiNhvH8e7Q9we_u9N9O6vP107PdO19U2u3ePjxEP_c62V-0enjSaeEhyAyGrGVKERXrASix7JKCp0PiYIBNsz2xjnQ8D4Wlc9KhEklLKm74pFMbtih-WSq7ZXlcca9n3RkU7MuE_wtSfDxodYe6IgyI1W1Waszg4arjhIdG0xlsW5gek9lSJQzV-WooO08x9w-ixxfq8xNuMV15cOZulDyDFEcCcBADzdSHEtpThiYQKKYN-i7zdE9nizbdg4okECcFcyAudy1A8ZtlDQQTTy3Krdm9QJEspXpm4jQpXZi3GSUPMn0aZepdJP2r4TTSR99yyU6cWADh8W7OeJfdEUizuOBeYvrCNm6U5kZb_f6soS3_18vf-_bYRFO_eELhw-Lgg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3coeyXicHdBRbpswAIBh9TJ9bMAunRIpmkTBiVhxatc2jl8msJO4sQE3oaHhbVfYGXaqnqbVDvB_D_-ff_61c583f-0whPNiNhvH8e7Q9we_u9N9O6vP107PdO19U2u3ePjxEP_c62V-0enjSaeEhyAyGrGVKERXrASix7JKCp0PiYIBNsz2xjnQ8D4Wlc9KhEklLKm74pFMbtih-WSq7ZXlcca9n3RkU7MuE_wtSfDxodYe6IgyI1W1Waszg4arjhIdG0xlsW5gek9lSJQzV-WooO08x9w-ixxfq8xNuMV15cOZulDyDFEcCcBADzdSHEtpThiYQKKYN-i7zdE9nizbdg4okECcFcyAudy1A8ZtlDQQTTy3Krdm9QJEspXpm4jQpXZi3GSUPMn0aZepdJP2r4TTSR99yyU6cWADh8W7OeJfdEUizuOBeYvrCNm6U5kZb_f6soS3_18vf-_bYRFO_eELhw-Lgg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtdFFhQzF4ZEZaNFNrZFRWRFJoYW1SUWFtUjNjekpCTWtGeVdUZHpSM1Y1U0ZBeWEzUmFhVlJYU1dGT0xURlNOR0ZtTUhCM1oyNDNhMHQ0ZW1SWmJXcG1RbEJGVm5ndGNGSkRhMGQ1TVhsVlNXWmpkWGxNYlZKTFVSSVhSa3RsZVdGd2FsZEJiMnBGY0RnMFVDMXdTM2cyUVRnYUlrRkVjM0k1WmxSc1ZVcFBWbFJrVmtSRk9YWjNOR1J3ZEc5MU5rTTJZVVUwV1djIiwiZmN2IjoiMyIsImVpIjoiRktleWFwaldBb2pFcDg0UC1wS3g2QTgiLCJxYyI6IkNqSmlaWE4wSUcxcGNuSnZjbXhsYzNNZ1kyRnRaWEpoY3lCbWIzSWdZbVZuYVc1dVpYSWdjR2h2ZEc5bmNtRndhR1Z5Y3hBQWZhYWlfVDQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgbWlycm9ybGVzcyBjYW1lcmEgZm9yIGEgYmVnaW5uZXI/IiwibGsiOiJHaHB6ZEdGeWRHbHVaeUJ0YVhKeWIzSnNaWE56SUdOaGJXVnlZUSIsImJzIjoiYzUyUU1RdkNRQXlGY2Mza2ZEaGtGVUdsZzZBT25WMTFjSTV0dkR0bzcwcHlSZnozVnFXRFZLRTQ1MzB2N3owNFFuWjJsTkFySnNkNFlVMVllNUVvRmF0aVFUVUw0VFVLVW5lMFBnU1dQSnNabzRray1XQ0hhbURZRER4YjVmS0hjVy1yZWJZdzg5RnFLR0IxY3JHdFNqeWc1ZFFGSEJLa0g3blhacWx2eEk5RDRBNjd2Z3VoamJIRVYzR1c3OU5nNDJLS1ZxaHh6Mzk3czczOVMwOG5EdyIsImlkIjoiZmNfRktleWFwaldBb2pFcDg0UC1wS3g2QThfNyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtdFFhQzF4ZEZaNFNrZFRWRFJoYW1SUWFtUjNjekpCTWtGeVdUZHpSM1Y1U0ZBeWEzUmFhVlJYU1dGT0xURlNOR0ZtTUhCM1oyNDNhMHQ0ZW1SWmJXcG1RbEJGVm5ndGNGSkRhMGQ1TVhsVlNXWmpkWGxNYlZKTFVSSVhSa3RsZVdGd2FsZEJiMnBGY0RnMFVDMXdTM2cyUVRnYUlrRkVjM0k1WmxSc1ZVcFBWbFJrVmtSRk9YWjNOR1J3ZEc5MU5rTTJZVVUwV1djIiwiZmN2IjoiMyIsImVpIjoiRktleWFwaldBb2pFcDg0UC1wS3g2QTgiLCJxYyI6IkNqSmlaWE4wSUcxcGNuSnZjbXhsYzNNZ1kyRnRaWEpoY3lCbWIzSWdZbVZuYVc1dVpYSWdjR2h2ZEc5bmNtRndhR1Z5Y3hBQWZhYWlfVDQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgbWlycm9ybGVzcyBjYW1lcmEgZm9yIGEgYmVnaW5uZXI%2FIiwibGsiOiJHaHB6ZEdGeWRHbHVaeUJ0YVhKeWIzSnNaWE56SUdOaGJXVnlZUSIsImJzIjoiYzUyUU1RdkNRQXlGY2Mza2ZEaGtGVUdsZzZBT25WMTFjSTV0dkR0bzcwcHlSZnozVnFXRFZLRTQ1MzB2N3owNFFuWjJsTkFySnNkNFlVMVllNUVvRmF0aVFUVUw0VFVLVW5lMFBnU1dQSnNabzRray1XQ0hhbURZRER4YjVmS0hjVy1yZWJZdzg5RnFLR0IxY3JHdFNqeWc1ZFFGSEJLa0g3blhacWx2eEk5RDRBNjd2Z3VoamJIRVYzR1c3OU5nNDJLS1ZxaHh6Mzk3czczOVMwOG5EdyIsImlkIjoiZmNfRktleWFwaldBb2pFcDg0UC1wS3g2QThfNyJ9"
+    },
+    {
+      "question": "What is the best used mirrorless camera for beginners?",
+      "type": "ai_overview",
+      "page_token": "1LheZHicHdBdboIwAADg7DJ7nK2oy0zMMoQ2OMHRP6AvCxYEpbRsMkHfdpedaqdZsu8I3_ePPprm9-5S9313Xk4mwzA8VNZWunxQtp3k56tRE5Vrvc9Vs1w8LuDzQa38r8BdfwRuzLtOeASwNfRJKl8ZHi3TQU90PVAhLPMQKPHZiYC6RXj09vopK5tsjEXhF0ZmEiIobi8zwoI-4zqVIKrzRh4jU01LgzA91SFJIA154XE-EgLRIXQaIOCG8aRGwucgTIqdwAokhqRMixvFNcoNwZHowgJomsLa2yaSZc3sWnAyEuQ6iagcZUSQmyhUPsoZtsOOwpNMxSZ2CsevC0ynYp6l7ocA6JI3Yth5JN6m7rb0pLtz7THm5KZOuuV680au0KWgP0bTebf39blsNzSdkjVr-yDTT1YO9wd1WTn3_5-r90PbL7tPW_0Bt06Ceg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1LheZHicHdBdboIwAADg7DJ7nK2oy0zMMoQ2OMHRP6AvCxYEpbRsMkHfdpedaqdZsu8I3_ePPprm9-5S9313Xk4mwzA8VNZWunxQtp3k56tRE5Vrvc9Vs1w8LuDzQa38r8BdfwRuzLtOeASwNfRJKl8ZHi3TQU90PVAhLPMQKPHZiYC6RXj09vopK5tsjEXhF0ZmEiIobi8zwoI-4zqVIKrzRh4jU01LgzA91SFJIA154XE-EgLRIXQaIOCG8aRGwucgTIqdwAokhqRMixvFNcoNwZHowgJomsLa2yaSZc3sWnAyEuQ6iagcZUSQmyhUPsoZtsOOwpNMxSZ2CsevC0ynYp6l7ocA6JI3Yth5JN6m7rb0pLtz7THm5KZOuuV680au0KWgP0bTebf39blsNzSdkjVr-yDTT1YO9wd1WTn3_5-r90PbL7tPW_0Bt06Ceg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtdFFhQzF4ZEZaNFNrZFRWRFJoYW1SUWFtUjNjekpCTWtGeVdUZHpSM1Y1U0ZBeWEzUmFhVlJYU1dGT0xURlNOR0ZtTUhCM1oyNDNhMHQ0ZW1SWmJXcG1RbEJGVm5ndGNGSkRhMGQ1TVhsVlNXWmpkWGxNYlZKTFVSSVhSa3RsZVdGd2FsZEJiMnBGY0RnMFVDMXdTM2cyUVRnYUlrRkVjM0k1WmxSc1ZVcFBWbFJrVmtSRk9YWjNOR1J3ZEc5MU5rTTJZVVUwV1djIiwiZmN2IjoiMyIsImVpIjoiRktleWFwaldBb2pFcDg0UC1wS3g2QTgiLCJxYyI6IkNqSmlaWE4wSUcxcGNuSnZjbXhsYzNNZ1kyRnRaWEpoY3lCbWIzSWdZbVZuYVc1dVpYSWdjR2h2ZEc5bmNtRndhR1Z5Y3hBQWZhYWlfVDQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgdXNlZCBtaXJyb3JsZXNzIGNhbWVyYSBmb3IgYmVnaW5uZXJzPyIsImxrIjoiR2lsaVpYTjBJSFZ6WldRZ2JXbHljbTl5YkdWemN5QmpZVzFsY21FZ1ptOXlJR0psWjJsdWJtVnljdyIsImJzIjoiYzUyUU1RdkNRQXlGY2Mza2ZEaGtGVUdsZzZBT25WMTFjSTV0dkR0bzcwcHlSZnozVnFXRFZLRTQ1MzB2N3owNFFuWjJsTkFySnNkNFlVMVllNUVvRmF0aVFUVUw0VFVLVW5lMFBnU1dQSnNabzRray1XQ0hhbURZRER4YjVmS0hjVy1yZWJZdzg5RnFLR0IxY3JHdFNqeWc1ZFFGSEJLa0g3blhacWx2eEk5RDRBNjd2Z3VoamJIRVYzR1c3OU5nNDJLS1ZxaHh6Mzk3czczOVMwOG5EdyIsImlkIjoiZmNfRktleWFwaldBb2pFcDg0UC1wS3g2QThfNyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtdFFhQzF4ZEZaNFNrZFRWRFJoYW1SUWFtUjNjekpCTWtGeVdUZHpSM1Y1U0ZBeWEzUmFhVlJYU1dGT0xURlNOR0ZtTUhCM1oyNDNhMHQ0ZW1SWmJXcG1RbEJGVm5ndGNGSkRhMGQ1TVhsVlNXWmpkWGxNYlZKTFVSSVhSa3RsZVdGd2FsZEJiMnBGY0RnMFVDMXdTM2cyUVRnYUlrRkVjM0k1WmxSc1ZVcFBWbFJrVmtSRk9YWjNOR1J3ZEc5MU5rTTJZVVUwV1djIiwiZmN2IjoiMyIsImVpIjoiRktleWFwaldBb2pFcDg0UC1wS3g2QTgiLCJxYyI6IkNqSmlaWE4wSUcxcGNuSnZjbXhsYzNNZ1kyRnRaWEpoY3lCbWIzSWdZbVZuYVc1dVpYSWdjR2h2ZEc5bmNtRndhR1Z5Y3hBQWZhYWlfVDQiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgdXNlZCBtaXJyb3JsZXNzIGNhbWVyYSBmb3IgYmVnaW5uZXJzPyIsImxrIjoiR2lsaVpYTjBJSFZ6WldRZ2JXbHljbTl5YkdWemN5QmpZVzFsY21FZ1ptOXlJR0psWjJsdWJtVnljdyIsImJzIjoiYzUyUU1RdkNRQXlGY2Mza2ZEaGtGVUdsZzZBT25WMTFjSTV0dkR0bzcwcHlSZnozVnFXRFZLRTQ1MzB2N3owNFFuWjJsTkFySnNkNFlVMVllNUVvRmF0aVFUVUw0VFVLVW5lMFBnU1dQSnNabzRray1XQ0hhbURZRER4YjVmS0hjVy1yZWJZdzg5RnFLR0IxY3JHdFNqeWc1ZFFGSEJLa0g3blhacWx2eEk5RDRBNjd2Z3VoamJIRVYzR1c3OU5nNDJLS1ZxaHh6Mzk3czczOVMwOG5EdyIsImlkIjoiZmNfRktleWFwaldBb2pFcDg0UC1wS3g2QThfNyJ9"
+    },
+    {
+      "question": "Should I get a mirrorless camera as a beginner?",
+      "type": "ai_overview",
+      "page_token": "N49vv3icHdBdbtowAABg7TJ9LPkZTCChqoE4GSNGdmyH-GUydiCJ7cQ0UYC-9Qo9Q0_V00zad4Tv48s0nf7-8VmPoxtWs9ntdnu-9P3FVM-ytzMxPDo5k8KYk5B6tfi18F_Och1PMtq8yQhR59gWe_nRhXm7C0qz08Le0xNYpshIr0r5XIS_A8UwKGJfUxAVFXWWBIoQwI6w8TtiB68kYJO1dS8JH2jsL1TMYAF2wyF19hSqn4U1HfehztJ6zPyaqxS9n3yjScI0ZDgjxTxHbJmQZJwYMFcRsw3Rppde-RAJfCA6DgWAKSkULizAectyZJSutq-hIuAPARjmXeRYrMMs2E0kxmnuDSELsSgt49j28z1RIrPLLq5VkgdsXh6jK_PAJDS7HbYY7Y_Rvtry6BD1DaL4XbbG0lb7NFFDGYCrCHgDwfIBTX1XAeDQOA4pbyh6OstpHT79v17_Pdtx5d76yz_HBoxy",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=N49vv3icHdBdbtowAABg7TJ9LPkZTCChqoE4GSNGdmyH-GUydiCJ7cQ0UYC-9Qo9Q0_V00zad4Tv48s0nf7-8VmPoxtWs9ntdnu-9P3FVM-ytzMxPDo5k8KYk5B6tfi18F_Och1PMtq8yQhR59gWe_nRhXm7C0qz08Le0xNYpshIr0r5XIS_A8UwKGJfUxAVFXWWBIoQwI6w8TtiB68kYJO1dS8JH2jsL1TMYAF2wyF19hSqn4U1HfehztJ6zPyaqxS9n3yjScI0ZDgjxTxHbJmQZJwYMFcRsw3Rppde-RAJfCA6DgWAKSkULizAectyZJSutq-hIuAPARjmXeRYrMMs2E0kxmnuDSELsSgt49j28z1RIrPLLq5VkgdsXh6jK_PAJDS7HbYY7Y_Rvtry6BD1DaL4XbbG0lb7NFFDGYCrCHgDwfIBTX1XAeDQOA4pbyh6OstpHT79v17_Pdtx5d76yz_HBoxy",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtdFFhQzF4ZEZaNFNrZFRWRFJoYW1SUWFtUjNjekpCTWtGeVdUZHpSM1Y1U0ZBeWEzUmFhVlJYU1dGT0xURlNOR0ZtTUhCM1oyNDNhMHQ0ZW1SWmJXcG1RbEJGVm5ndGNGSkRhMGQ1TVhsVlNXWmpkWGxNYlZKTFVSSVhSa3RsZVdGd2FsZEJiMnBGY0RnMFVDMXdTM2cyUVRnYUlrRkVjM0k1WmxSc1ZVcFBWbFJrVmtSRk9YWjNOR1J3ZEc5MU5rTTJZVVUwV1djIiwiZmN2IjoiMyIsImVpIjoiRktleWFwaldBb2pFcDg0UC1wS3g2QTgiLCJxYyI6IkNqSmlaWE4wSUcxcGNuSnZjbXhsYzNNZ1kyRnRaWEpoY3lCbWIzSWdZbVZuYVc1dVpYSWdjR2h2ZEc5bmNtRndhR1Z5Y3hBQWZhYWlfVDQiLCJxdWVzdGlvbiI6IlNob3VsZCBJIGdldCBhIG1pcnJvcmxlc3MgY2FtZXJhIGFzIGEgYmVnaW5uZXI/IiwibGsiOiJHaTV6YUc5MWJHUWdhU0JuWlhRZ1lTQnRhWEp5YjNKc1pYTnpJR05oYldWeVlTQmhjeUJoSUdKbFoybHVibVZ5IiwiYnMiOiJjNTJRTVF2Q1FBeUZjYzNrZkRoa0ZVR2xnNkFPblYxMWNJNXR2RHRvNzBweVJmejNWcVdEVktFNDUzMHY3ejA0UW5aMmxOQXJKc2Q0WVUxWWU1RW9GYXRpUVRVTDRUVUtVbmUwUGdTV1BKc1pvNGtrLVdDSGFtRFlERHhiNWZLSGNXLXJlYll3ODlGcUtHQjFjckd0U2p5ZzVkUUZIQktrSDduWFpxbHZ4STlENEE2N3ZndWhqYkhFVjNHVzc5Tmc0MktLVnFoeHozOTdzNzM5UzA4bkR3IiwiaWQiOiJmY19GS2V5YXBqV0FvakVwODRQLXBLeDZBOF83In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtdFFhQzF4ZEZaNFNrZFRWRFJoYW1SUWFtUjNjekpCTWtGeVdUZHpSM1Y1U0ZBeWEzUmFhVlJYU1dGT0xURlNOR0ZtTUhCM1oyNDNhMHQ0ZW1SWmJXcG1RbEJGVm5ndGNGSkRhMGQ1TVhsVlNXWmpkWGxNYlZKTFVSSVhSa3RsZVdGd2FsZEJiMnBGY0RnMFVDMXdTM2cyUVRnYUlrRkVjM0k1WmxSc1ZVcFBWbFJrVmtSRk9YWjNOR1J3ZEc5MU5rTTJZVVUwV1djIiwiZmN2IjoiMyIsImVpIjoiRktleWFwaldBb2pFcDg0UC1wS3g2QTgiLCJxYyI6IkNqSmlaWE4wSUcxcGNuSnZjbXhsYzNNZ1kyRnRaWEpoY3lCbWIzSWdZbVZuYVc1dVpYSWdjR2h2ZEc5bmNtRndhR1Z5Y3hBQWZhYWlfVDQiLCJxdWVzdGlvbiI6IlNob3VsZCBJIGdldCBhIG1pcnJvcmxlc3MgY2FtZXJhIGFzIGEgYmVnaW5uZXI%2FIiwibGsiOiJHaTV6YUc5MWJHUWdhU0JuWlhRZ1lTQnRhWEp5YjNKc1pYTnpJR05oYldWeVlTQmhjeUJoSUdKbFoybHVibVZ5IiwiYnMiOiJjNTJRTVF2Q1FBeUZjYzNrZkRoa0ZVR2xnNkFPblYxMWNJNXR2RHRvNzBweVJmejNWcVdEVktFNDUzMHY3ejA0UW5aMmxOQXJKc2Q0WVUxWWU1RW9GYXRpUVRVTDRUVUtVbmUwUGdTV1BKc1pvNGtrLVdDSGFtRFlERHhiNWZLSGNXLXJlYll3ODlGcUtHQjFjckd0U2p5ZzVkUUZIQktrSDduWFpxbHZ4STlENEE2N3ZndWhqYkhFVjNHVzc5Tmc0MktLVnFoeHozOTdzNzM5UzA4bkR3IiwiaWQiOiJmY19GS2V5YXBqV0FvakVwODRQLXBLeDZBOF83In0%3D"
+    },
+    {
+      "question": "What is a good starter camera for a beginner photographer?",
+      "type": "ai_overview",
+      "page_token": "Vkgx4HicHdBRbtowAIBh7TJ9LAk0TCChSW6IIWrc2Y6N45fJcSAmsYmBjDS87Qo7w07V0xTtBP-n_88_ezy1n9_-mr731-VkMgzDc911td0_685N1HU86YlW1pZKt8v593n446BX65sGrxcNMPOexySgLfGapRztoqM--ZkKSFbdLaTO_iyYHWhefzCnR-0WDjF_FgHHyi2KfG0pgcNYcn4uYX9Vllz4qYqZSH-jPN28CQDLMQQylJdsVo0U-lfeJkAxiUQgsQzrCO-4yWgQ4txQEfotF8QxYU0ZW7XfLcKCo1zBbqo22xc0NVa224jHpiWs55VIAHFEldbesiZxcgwT3jxaLugz99HkD20F7VyxqsUCvxSNadamgnTKo0KAMw-Sm2r58B4T_LC-7WMJ3kF3xIzcdWMdTxKoXTFFm9SQMYgkJAV1C4mSNM3vjycQ9Qw_HfRtNXv6_3r16-D6pb909RdREo6K",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Vkgx4HicHdBRbtowAIBh7TJ9LAk0TCChSW6IIWrc2Y6N45fJcSAmsYmBjDS87Qo7w07V0xTtBP-n_88_ezy1n9_-mr731-VkMgzDc911td0_685N1HU86YlW1pZKt8v593n446BX65sGrxcNMPOexySgLfGapRztoqM--ZkKSFbdLaTO_iyYHWhefzCnR-0WDjF_FgHHyi2KfG0pgcNYcn4uYX9Vllz4qYqZSH-jPN28CQDLMQQylJdsVo0U-lfeJkAxiUQgsQzrCO-4yWgQ4txQEfotF8QxYU0ZW7XfLcKCo1zBbqo22xc0NVa224jHpiWs55VIAHFEldbesiZxcgwT3jxaLugz99HkD20F7VyxqsUCvxSNadamgnTKo0KAMw-Sm2r58B4T_LC-7WMJ3kF3xIzcdWMdTxKoXTFFm9SQMYgkJAV1C4mSNM3vjycQ9Qw_HfRtNXv6_3r16-D6pb909RdREo6K",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtdFFhQzF4ZEZaNFNrZFRWRFJoYW1SUWFtUjNjekpCTWtGeVdUZHpSM1Y1U0ZBeWEzUmFhVlJYU1dGT0xURlNOR0ZtTUhCM1oyNDNhMHQ0ZW1SWmJXcG1RbEJGVm5ndGNGSkRhMGQ1TVhsVlNXWmpkWGxNYlZKTFVSSVhSa3RsZVdGd2FsZEJiMnBGY0RnMFVDMXdTM2cyUVRnYUlrRkVjM0k1WmxSc1ZVcFBWbFJrVmtSRk9YWjNOR1J3ZEc5MU5rTTJZVVUwV1djIiwiZmN2IjoiMyIsImVpIjoiRktleWFwaldBb2pFcDg0UC1wS3g2QTgiLCJxYyI6IkNqSmlaWE4wSUcxcGNuSnZjbXhsYzNNZ1kyRnRaWEpoY3lCbWIzSWdZbVZuYVc1dVpYSWdjR2h2ZEc5bmNtRndhR1Z5Y3hBQWZhYWlfVDQiLCJxdWVzdGlvbiI6IldoYXQgaXMgYSBnb29kIHN0YXJ0ZXIgY2FtZXJhIGZvciBhIGJlZ2lubmVyIHBob3RvZ3JhcGhlcj8iLCJsayI6ImN3M0pzUTJBTUF3RXdEMm9mZzNHZWNDeFV4QkhIMHVzVDlxNzRfeUNoYjVBZU9hRFZWU1pjUE0xRVMyMTV6THZZMnlka1pVdXpqRDkiLCJicyI6ImM1MlFNUXZDUUF5RmNjM2tmRGhrRlVHbGc2QU9uVjExY0k1dHZEdG83MHB5UmZ6M1ZxV0RWS0U0NTMwdjd6MDRRbloybE5BckpzZDRZVTFZZTVFb0ZhdGlRVFVMNFRVS1VuZTBQZ1NXUEpzWm80a2stV0NIYW1EWUREeGI1ZktIY1ctcmViWXc4OUZxS0dCMWNyR3RTanlnNWRRRkhCS2tIN25YWnFsdnhJOUQ0QTY3dmd1aGpiSEVWM0dXNzlOZzQyS0tWcWh4ejM5N3M3MzlTMDhuRHciLCJpZCI6ImZjX0ZLZXlhcGpXQW9qRXA4NFAtcEt4NkE4XzcifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFtdFFhQzF4ZEZaNFNrZFRWRFJoYW1SUWFtUjNjekpCTWtGeVdUZHpSM1Y1U0ZBeWEzUmFhVlJYU1dGT0xURlNOR0ZtTUhCM1oyNDNhMHQ0ZW1SWmJXcG1RbEJGVm5ndGNGSkRhMGQ1TVhsVlNXWmpkWGxNYlZKTFVSSVhSa3RsZVdGd2FsZEJiMnBGY0RnMFVDMXdTM2cyUVRnYUlrRkVjM0k1WmxSc1ZVcFBWbFJrVmtSRk9YWjNOR1J3ZEc5MU5rTTJZVVUwV1djIiwiZmN2IjoiMyIsImVpIjoiRktleWFwaldBb2pFcDg0UC1wS3g2QTgiLCJxYyI6IkNqSmlaWE4wSUcxcGNuSnZjbXhsYzNNZ1kyRnRaWEpoY3lCbWIzSWdZbVZuYVc1dVpYSWdjR2h2ZEc5bmNtRndhR1Z5Y3hBQWZhYWlfVDQiLCJxdWVzdGlvbiI6IldoYXQgaXMgYSBnb29kIHN0YXJ0ZXIgY2FtZXJhIGZvciBhIGJlZ2lubmVyIHBob3RvZ3JhcGhlcj8iLCJsayI6ImN3M0pzUTJBTUF3RXdEMm9mZzNHZWNDeFV4QkhIMHVzVDlxNzRfeUNoYjVBZU9hRFZWU1pjUE0xRVMyMTV6THZZMnlka1pVdXpqRDkiLCJicyI6ImM1MlFNUXZDUUF5RmNjM2tmRGhrRlVHbGc2QU9uVjExY0k1dHZEdG83MHB5UmZ6M1ZxV0RWS0U0NTMwdjd6MDRRbloybE5BckpzZDRZVTFZZTVFb0ZhdGlRVFVMNFRVS1VuZTBQZ1NXUEpzWm80a2stV0NIYW1EWUREeGI1ZktIY1ctcmViWXc4OUZxS0dCMWNyR3RTanlnNWRRRkhCS2tIN25YWnFsdnhJOUQ0QTY3dmd1aGpiSEVWM0dXNzlOZzQyS0tWcWh4ejM5N3M3MzlTMDhuRHciLCJpZCI6ImZjX0ZLZXlhcGpXQW9qRXA4NFAtcEt4NkE4XzcifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The Canon EOS R50Go to product viewer dialog for this item. is the best overall beginner mirrorless camera for photography because it combines a sharp 24.2-megapixel sensor [0.1], an intuitive touch interface, and reliable autofocus at a fair price.",
+        "snippet_links": [
+          {
+            "link": "https://www.usa.canon.com/shop/p/eos-r50-rf-s18-45mm-f4-5-6-3-is-stm-lens-kit"
+          },
+          {
+            "text": "Canon EOS R50Go to product viewer dialog for this item.",
+            "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462446758425636,imageDocid:16973025748029148237,gpcid:18024794179454794249,headlineOfferDocid:4108057366099524789,catalogid:15968023787510009820,productDocid:12659650221643134344,rds:PC_3759495516975098542%7CPROD_PC_3759495516975098542&q=product&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qxa4PegYIAggKEAY"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "Canon EOS R50Go to product viewer dialog for this item."
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Beginner Mirrorless Cameras"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Best Overall Value: Canon EOS R50Go to product viewer dialog for this item. (~$799 with kit lens) [0.1, 0.3]. It features great subject tracking [0.1], an easy-to-use menu system, and a lightweight body [0.1] that is great for travel.",
+            "snippet_links": [
+              {
+                "text": "Canon EOS R50Go to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462446758425636,imageDocid:16973025748029148237,gpcid:18024794179454794249,headlineOfferDocid:4108057366099524789,catalogid:15968023787510009820,productDocid:12659650221643134344,rds:PC_3759495516975098542%7CPROD_PC_3759495516975098542&q=product&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qxa4PegYIAggKEBA"
+              }
+            ]
+          },
+          {
+            "snippet": "Best for Advanced AF & Features: Nikon Z50 IIGo to product viewer dialog for this item. (~$906 body-only). It offers extensive subject recognition for nine distinct types (including animals and vehicles) and strong ergonomics.",
+            "snippet_links": [
+              {
+                "text": "Nikon Z50 IIGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:18213090060582748495,gpcid:6178216699927592785,headlineOfferDocid:13954394916689348680,catalogid:3786237987613928787,productDocid:13468777099905251568,rds:PC_6178216699927592785%7CPROD_PC_6178216699927592785&q=product&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qxa4PegYIAggKEBk"
+              }
+            ]
+          },
+          {
+            "snippet": "Best Budget Choice: Canon EOS R100Go to product viewer dialog for this item. (~$749 with two-lens kit) [0.2]. It is a simple, no-frills option that gives you real optical depth instead of phone processing, though it lacks a touchscreen.",
+            "snippet_links": [
+              {
+                "text": "Canon EOS R100Go to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:5066379640493705155,gpcid:5100161551836969508,headlineOfferDocid:12252609678828384083,catalogid:16241141097121615050,productDocid:2364959184969620301,rds:PC_5100161551836969508%7CPROD_PC_5100161551836969508&q=product&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qxa4PegYIAggKECE"
+              }
+            ]
+          },
+          {
+            "snippet": "Best for Lens Upgrades: Sony α6400Go to product viewer dialog for this item.. It gives beginners access to a massive ecosystem of native and third-party lenses that grow with your skills.",
+            "snippet_links": [
+              {
+                "text": "Sony α6400Go to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:18059042572466036518,gpcid:11032385530859129710,headlineOfferDocid:8015820341214191234,catalogid:7287077145524087172,productDocid:10721230548397870446,rds:PC_11032385530859129710%7CPROD_PC_11032385530859129710&q=product&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qxa4PegYIAggYEAM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "See a detailed overview of top beginner mirrorless choices including the Canon EOS R50:"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "What type of photography you plan to shoot most (portraits, landscapes, sports, wildlife)"
+          },
+          {
+            "snippet": "Your total budget for the camera and lenses"
+          },
+          {
+            "snippet": "Whether you also plan to shoot video or vlogs"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can help you pick the exact model and kit setup for your needs."
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.rtings.com/camera/reviews/best/by-type/mirrorless-beginners",
+        "source": "rtings.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=HIa-Yb8x5nk&vl=en",
+        "source": "youtube.com",
+        "index": 1
+      },
+      {
+        "link": "https://jasonodell.substack.com/p/best-entry-level-mirrorless-cameras",
+        "source": "jasonodell.substack.com",
+        "index": 2
+      },
+      {
+        "link": "https://www.digitalcameraworld.com/buying-guides/best-camera-for-beginners-best-entry-level-dslr-mirrorless-and-compact-cameras",
+        "source": "digitalcameraworld.com",
+        "index": 3
+      },
+      {
+        "title": "The 6 Best Mirrorless Cameras For Beginners of 2026 - RTINGS.com",
+        "link": "https://www.rtings.com/camera/reviews/best/by-type/mirrorless-beginners",
+        "snippet": "* Best Mirrorless Camera For Beginners. Track. Canon EOS R102. SEE PRICE. Canon. SEE PRICE. Amazon. SEE PRICE. BestBuy.com. Travel Photography. 7.9. Landscape Phot...",
+        "source": "RTINGS.com",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYDWIT_eotyJLWIP0NVm_Wp8mleXlzrYujpMv59-I9oq87JBHBWF6JiAQ1IEJV5KxdnnnLB2muW9YxgP4YZWLux_QVAwQFTjTylSfE",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.rtings.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 4
+      },
+      {
+        "title": "Top 5 Mirrorless Cameras For Beginners 2026 | Beginner ...",
+        "link": "https://www.youtube.com/watch?v=HIa-Yb8x5nk&vl=en",
+        "snippet": "is a standout mirrorless camera designed for content creators. and vloggers with a 24.2. 2 megapixel APS-C sensor it delivers sharp vibrant photos and impressive 4",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCVyBsvcMHj3XQJbK0TFgm8aGM3cUUL9-4AI8e9CPv8PZZMhBN0RcOjugqN_8B9JV4EfrRZx9ZOF8QLNf-NHhaBdiSk7Fgscnp_VxzWQ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Best Entry-Level Mirrorless Cameras 2026: Subject Tracking, IBIS, and Lenses Explained",
+        "link": "https://jasonodell.substack.com/p/best-entry-level-mirrorless-cameras",
+        "snippet": "The cameras in this guide span four different sensor and mount systems: * Canon RF-S (APS-C sensor, RF mount) * Sony E-mount (APS-C sensor, E mount) * Nikon Z DX (",
+        "source": "Substack",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6GSnoJJGXywIF9G7tUWwfNeI3Wp4sBgz_2Y-K__-RxGtglONKIrcfgMcWjwH8bmi9X7p18ZvAvwpCp4gR66giPiL5hD_rrSzVh5U8",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://jasonodell.substack.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "The best camera for beginners | Digital Camera World",
+        "link": "https://www.digitalcameraworld.com/buying-guides/best-camera-for-beginners-best-entry-level-dslr-mirrorless-and-compact-cameras",
+        "snippet": "Best camera for beginners in 2026 * 1. Canon EOS R100. The best overall mirrorless camera for beginners. Our expert review: Specifications. Type: Mirrorless. Senso...",
+        "source": "Digital Camera World",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuPH3QiVgpX0prPodi_zxDphWTlOzMGxZ0-UTJcHkmH7wyYOyH9I5Jv4dEwLwBZHDTDOjKcOiclGVtQvEE4_rE-U_v4uDlKyRe9Dvq",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.digitalcameraworld.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The 11 Best Mirrorless Cameras (Plus 5 Beginner Options) ...",
+      "link": "https://explorewithalec.com/best-mirrorless-cameras/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVW4yGOZz1voS_vzzG7Iy6BgCurvTIcde4WstPGbZ22P2pFaKZgk-rTOURi4-8MV5OXvMtzLyx2LXX0yIKv6r1U4Q9Gknr4Im5FDYlMIrgIwMFcs9wDk6RMLb0LSGjgxVRpJa8cu7_3A&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0QFnoECBwQAQ&uoh=1",
+      "displayed_link": "https://explorewithalec.com › best-mirrorless-cameras",
+      "date": "Jul 4, 2025",
+      "snippet": "1. Sony A1 II – Best Overall Flagship Mirrorless Camera · 2. Canon EOS R5 Mark II – Best Canon Mirrorless for Hybrid Creators · 3. Nikon Z9 – Best ...",
+      "snippet_highlighted_words": [
+        "Sony A1 II – Best Overall Flagship Mirrorless Camera"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best Mirrorless Cameras in the...",
+            "link": "https://explorewithalec.com/best-mirrorless-cameras/#h-best-mirrorless-cameras-in-the-world-2026-edition"
+          },
+          {
+            "title": "FAQ: Best Mirrorless Cameras...",
+            "link": "https://explorewithalec.com/best-mirrorless-cameras/#h-faq-best-mirrorless-cameras-in-2026-and-beyond"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "1. Sony A1 II – Best Overall Flagship Mirrorless Camera · 2. Canon EOS R5 Mark II – Best Canon Mirrorless for Hybrid Creators · 3. Nikon Z9 – Best ...",
+          "source_info_link": "https://explorewithalec.com/best-mirrorless-cameras/",
+          "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAACwBQCdASocABwAPtEutFooIagoGAEAGgloAJ0y439l_-A3B9gZCsSi_VEhdtpOW0wIUzP_njAA_dJD1pz-ri8eMLjXGwYj9KB_N-fQ3bu7xVI3gqg0Z-REp0yHzPl1-_S7eTIBKXbGe9NYaeujhrm9c77Ow9WrBl6xSdbEod3aoIrINc328pJ782uMkGPRKID8-rb3rSQ3si4hShCxCGnSJ8LjGRsJBV7xiisKtliguyTBU0Bnu4DMaCrj88o15jZatWOZf40vA7QBrr39ecu0S-8ZiPd8GurGnioOiUKegAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlc0eUdPWnoxdm9TX3Z6ekc3SXk2QmdDdXJ2VEljZGU0V3N0UEdiWjIyUDJwRmFLWmdrLXJUT1VSaTQtOE1WNU9Ydk10ekx5eDJMWFgweUlLdjZyMVU0UTlHa25yNEltNUZEWWxNSXJnSXdNRmNzOXdEazZSTUxiMExTR2pneFZScEphOGN1N18zQRIEGgIIABqeBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPgFCAAQABgAIAAqFgoEYmVzdBVzSr1AGgRnb29kGgN0b3AqNQoKbWlycm9ybGVzcxXixL9AGhFtaXJyb3JsZXNzY2FtZXJhcxoPaXY7cDttaXJyb3JsZXNzKikKB2NhbWVyYXMVTAm5QBoGY2FtZXJhGhFtaXJyb3JsZXNzY2FtZXJhcyoKCgNmb3IVAAAAACpXCghiZWdpbm5lchVYjmVAGghhbWF0ZXVycxoJYmVnaW5uZXJzGgdsZWFybmVyGgZub3ZpY2UaB25vdmljZXMaCHN0YXJ0ZXJzGg1pdjtwO2JlZ2lubmVyKloKDXBob3RvZ3JhcGhlcnMVOANtPxoIYW1hdGV1cnMaDHBob3RvZ3JhcGhlchoLcGhvdG9ncmFwaHMaC3Bob3RvZ3JhcGh5GhJpdjtwO3Bob3RvZ3JhcGhlcnMyoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWVzR5R09aejF2b1Nfdnp6RzdJeTZCZ0N1cnZUSWNkZTRXc3RQR2JaMjJQMnBGYUtaZ2stclRPVVJpNC04TVY1T1h2TXR6THl4MkxYWDB5SUt2NnIxVTRROUdrbnI0SW01RkRZbE1JcmdJd01GY3M5d0RrNlJNTGIwTFNHamd4VlJwSmE4Y3U3XzNBOk1UaGUgMTEgPGI-QmVzdCBNaXJyb3JsZXNzIENhbWVyYXM8L2I-IChQbHVzIDUgPGI-QmVnaW5uZXI8L2I-IE9wdGlvbnMpIGluIC4uLkK2ATEuIDxiPlNvbnkgQTEgSUkg4oCTIEJlc3QgT3ZlcmFsbCBGbGFnc2hpcCBNaXJyb3JsZXNzIENhbWVyYTwvYj4gJm1pZGRvdDsgMi4gQ2Fub24gRU9TIFI1IE1hcmsgSUkg4oCTIEJlc3QgQ2Fub24gTWlycm9ybGVzcyBmb3IgSHlicmlkIENyZWF0b3JzICZtaWRkb3Q7IDMuIE5pa29uIFo5IOKAkyBCZXN0Jm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlc0eUdPWnoxdm9TX3Z6ekc3SXk2QmdDdXJ2VEljZGU0V3N0UEdiWjIyUDJwRmFLWmdrLXJUT1VSaTQtOE1WNU9Ydk10ekx5eDJMWFgweUlLdjZyMVU0UTlHa25yNEltNUZEWWxNSXJnSXdNRmNzOXdEazZSTUxiMExTR2pneFZScEphOGN1N18zQRIEGgIIABqeBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPgFCAAQABgAIAAqFgoEYmVzdBVzSr1AGgRnb29kGgN0b3AqNQoKbWlycm9ybGVzcxXixL9AGhFtaXJyb3JsZXNzY2FtZXJhcxoPaXY7cDttaXJyb3JsZXNzKikKB2NhbWVyYXMVTAm5QBoGY2FtZXJhGhFtaXJyb3JsZXNzY2FtZXJhcyoKCgNmb3IVAAAAACpXCghiZWdpbm5lchVYjmVAGghhbWF0ZXVycxoJYmVnaW5uZXJzGgdsZWFybmVyGgZub3ZpY2UaB25vdmljZXMaCHN0YXJ0ZXJzGg1pdjtwO2JlZ2lubmVyKloKDXBob3RvZ3JhcGhlcnMVOANtPxoIYW1hdGV1cnMaDHBob3RvZ3JhcGhlchoLcGhvdG9ncmFwaHMaC3Bob3RvZ3JhcGh5GhJpdjtwO3Bob3RvZ3JhcGhlcnMyoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWVzR5R09aejF2b1Nfdnp6RzdJeTZCZ0N1cnZUSWNkZTRXc3RQR2JaMjJQMnBGYUtaZ2stclRPVVJpNC04TVY1T1h2TXR6THl4MkxYWDB5SUt2NnIxVTRROUdrbnI0SW01RkRZbE1JcmdJd01GY3M5d0RrNlJNTGIwTFNHamd4VlJwSmE4Y3U3XzNBOk1UaGUgMTEgPGI-QmVzdCBNaXJyb3JsZXNzIENhbWVyYXM8L2I-IChQbHVzIDUgPGI-QmVnaW5uZXI8L2I-IE9wdGlvbnMpIGluIC4uLkK2ATEuIDxiPlNvbnkgQTEgSUkg4oCTIEJlc3QgT3ZlcmFsbCBGbGFnc2hpcCBNaXJyb3JsZXNzIENhbWVyYTwvYj4gJm1pZGRvdDsgMi4gQ2Fub24gRU9TIFI1IE1hcmsgSUkg4oCTIEJlc3QgQ2Fub24gTWlycm9ybGVzcyBmb3IgSHlicmlkIENyZWF0b3JzICZtaWRkb3Q7IDMuIE5pa29uIFo5IOKAkyBCZXN0Jm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "Explore With Alec",
+      "read_more_link": "https://explorewithalec.com/best-mirrorless-cameras/#:~:text=1.%20Sony%20A1%20II%20%E2%80%93,Best%20Overall%20Flagship%20Mirrorless%20Camera&text=2.%20Canon%20EOS%20R5%20Mark,Canon%20Mirrorless%20for%20Hybrid%20Creators&text=3.%20Nikon%20Z9%20%E2%80%93%20Best,Nikon%20Mirrorless%20Camera%20for%20Professionals"
+    },
+    {
+      "position": 2,
+      "title": "Good mirrorless camera for beginners? : r/AskPhotography",
+      "link": "https://www.reddit.com/r/AskPhotography/comments/1hk9g9j/good_mirrorless_camera_for_beginners/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFc1jsHZo-KIRKo8CKobt5_BOLXEpM-Z1u_yvt35n0gbXLnYlQuzqOBz8v53GmAisRutZTuHoGhPBHwUVMQXupJ0fGUSjbyOy6jELC4o9XJadPpof2ZbRTu93cXlGnsXwYWKJcWFmjXkY4XCCXbSF51M6vZdsBdAPgPov6GitJd9r-I94ONj8md_O4g8uzRmYxdM&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0QFnoECCUQAQ&uoh=1",
+      "displayed_link": "10+ comments · 1 year ago",
+      "snippet": "Hello. I want to buy a mirrorless camera (and some lenses) but I can't decide what specifically. I would want it to be from one of these brands: Sony, ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Best mirrorless camera for beginners? : r ...",
+            "link": "https://www.reddit.com/r/AskPhotography/comments/1dfujpm/best_mirrorless_camera_for_beginners/",
+            "answer_count": 18,
+            "date": "Jun 14, 2024"
+          },
+          {
+            "title": "Mirrorless Camera Recommendations for a Beginner ...",
+            "link": "https://www.reddit.com/r/AskPhotography/comments/1tgxe2g/mirrorless_camera_recommendations_for_a_beginner/",
+            "answer_count": 4,
+            "date": "May 18, 2026"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "I'd say go for a used ZV e10 mki and a TTArtisan lens if you're just starting out. It's got great auto modes but manual mode too which you can ...",
+          "source_info_link": "https://www.reddit.com/r/AskPhotography/comments/1hk9g9j/good_mirrorless_camera_for_beginners/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZjMWpzSFpvLUtJUktvOENLb2J0NV9CT0xYRXBNLVoxdV95dnQzNW4wZ2JYTG5ZbFF1enFPQno4djUzR21BaXNSdXRaVHVIb0doUEJId1VWTVFYdXBKMGZHVVNqYnlPeTZqRUxDNG85WEphZFBwb2YyWmJSVHU5M2NYbEduc1h3WVdLSmNXRm1qWGtZNFhDQ1hiU0Y1MU02dlpkc0JkQVBnUG92NkdpdEpkOXItSTk0T05qOG1kX080Zzh1elJtWXhkTRIEGgIIABq7BhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCXBggAEAAYACAAKhYKBGJlc3QVEcvRPxoEZ29vZBoDdG9wKjUKCm1pcnJvcmxlc3MVsGmiQBoRbWlycm9ybGVzc2NhbWVyYXMaD2l2O3A7bWlycm9ybGVzcyopCgdjYW1lcmFzFXtTlT8aBmNhbWVyYRoRbWlycm9ybGVzc2NhbWVyYXMqCgoDZm9yFQAAAAAqVwoIYmVnaW5uZXIVzPcFQBoIYW1hdGV1cnMaCWJlZ2lubmVycxoHbGVhcm5lchoGbm92aWNlGgdub3ZpY2VzGghzdGFydGVycxoNaXY7cDtiZWdpbm5lcipaCg1waG90b2dyYXBoZXJzFRAJLj4aCGFtYXRldXJzGgxwaG90b2dyYXBoZXIaC3Bob3RvZ3JhcGhzGgtwaG90b2dyYXBoeRoSaXY7cDtwaG90b2dyYXBoZXJzMtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZjMWpzSFpvLUtJUktvOENLb2J0NV9CT0xYRXBNLVoxdV95dnQzNW4wZ2JYTG5ZbFF1enFPQno4djUzR21BaXNSdXRaVHVIb0doUEJId1VWTVFYdXBKMGZHVVNqYnlPeTZqRUxDNG85WEphZFBwb2YyWmJSVHU5M2NYbEduc1h3WVdLSmNXRm1qWGtZNFhDQ1hiU0Y1MU02dlpkc0JkQVBnUG92NkdpdEpkOXItSTk0T05qOG1kX080Zzh1elJtWXhkTTo_PGI-R29vZCBtaXJyb3JsZXNzIGNhbWVyYSBmb3IgYmVnaW5uZXJzPC9iPj8gOiByL0Fza1Bob3RvZ3JhcGh5QqoBSSYjMzk7ZCBzYXkgZ28gZm9yIGEgPGI-dXNlZCBaViBlMTAgbWtpPC9iPiBhbmQgYSBUVEFydGlzYW4gbGVucyBpZiB5b3UmIzM5O3JlIGp1c3Qgc3RhcnRpbmcgb3V0LiBJdCYjMzk7cyBnb3QgZ3JlYXQgYXV0byBtb2RlcyBidXQgbWFudWFsIG1vZGUgdG9vIHdoaWNoIHlvdSBjYW4mbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZjMWpzSFpvLUtJUktvOENLb2J0NV9CT0xYRXBNLVoxdV95dnQzNW4wZ2JYTG5ZbFF1enFPQno4djUzR21BaXNSdXRaVHVIb0doUEJId1VWTVFYdXBKMGZHVVNqYnlPeTZqRUxDNG85WEphZFBwb2YyWmJSVHU5M2NYbEduc1h3WVdLSmNXRm1qWGtZNFhDQ1hiU0Y1MU02dlpkc0JkQVBnUG92NkdpdEpkOXItSTk0T05qOG1kX080Zzh1elJtWXhkTRIEGgIIABq7BhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCXBggAEAAYACAAKhYKBGJlc3QVEcvRPxoEZ29vZBoDdG9wKjUKCm1pcnJvcmxlc3MVsGmiQBoRbWlycm9ybGVzc2NhbWVyYXMaD2l2O3A7bWlycm9ybGVzcyopCgdjYW1lcmFzFXtTlT8aBmNhbWVyYRoRbWlycm9ybGVzc2NhbWVyYXMqCgoDZm9yFQAAAAAqVwoIYmVnaW5uZXIVzPcFQBoIYW1hdGV1cnMaCWJlZ2lubmVycxoHbGVhcm5lchoGbm92aWNlGgdub3ZpY2VzGghzdGFydGVycxoNaXY7cDtiZWdpbm5lcipaCg1waG90b2dyYXBoZXJzFRAJLj4aCGFtYXRldXJzGgxwaG90b2dyYXBoZXIaC3Bob3RvZ3JhcGhzGgtwaG90b2dyYXBoeRoSaXY7cDtwaG90b2dyYXBoZXJzMtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZjMWpzSFpvLUtJUktvOENLb2J0NV9CT0xYRXBNLVoxdV95dnQzNW4wZ2JYTG5ZbFF1enFPQno4djUzR21BaXNSdXRaVHVIb0doUEJId1VWTVFYdXBKMGZHVVNqYnlPeTZqRUxDNG85WEphZFBwb2YyWmJSVHU5M2NYbEduc1h3WVdLSmNXRm1qWGtZNFhDQ1hiU0Y1MU02dlpkc0JkQVBnUG92NkdpdEpkOXItSTk0T05qOG1kX080Zzh1elJtWXhkTTo_PGI-R29vZCBtaXJyb3JsZXNzIGNhbWVyYSBmb3IgYmVnaW5uZXJzPC9iPj8gOiByL0Fza1Bob3RvZ3JhcGh5QqoBSSYjMzk7ZCBzYXkgZ28gZm9yIGEgPGI-dXNlZCBaViBlMTAgbWtpPC9iPiBhbmQgYSBUVEFydGlzYW4gbGVucyBpZiB5b3UmIzM5O3JlIGp1c3Qgc3RhcnRpbmcgb3V0LiBJdCYjMzk7cyBnb3QgZ3JlYXQgYXV0byBtb2RlcyBidXQgbWFudWFsIG1vZGUgdG9vIHdoaWNoIHlvdSBjYW4mbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Reddit · r/AskPhotography"
+    },
+    {
+      "position": 3,
+      "title": "The 6 Best Mirrorless Cameras For Beginners of 2026",
+      "link": "https://www.rtings.com/camera/reviews/best/by-type/mirrorless-beginners",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVbZeojhbwZ75IP9Lakz670Ktv0r8qbWyhEGH0-w1GE9gp369LA8fpv8j8Ig7LUZBoZjGzkmAzhYXZbW7dCzHxlqxrhbGAbS6ogToWjv_hD1h2lf1wAiabOgBfIBlRE3TGuvs5b95JgSkFREc6GYIEzeP2HZxY9Pg9ogQ&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0QFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://www.rtings.com › Camera › Best",
+      "date": "Sep 9, 2026",
+      "snippet": "The Canon EOS R10 is one of the best mirrorless cameras for beginners that we've tested. Though it isn't exactly cheap, it's a well-rounded ...",
+      "snippet_highlighted_words": [
+        "Canon EOS R10"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Canon EOS R10 is one of the best mirrorless cameras for beginners that we've tested. Though it isn't exactly cheap, it's a well-rounded ...",
+          "source_info_link": "https://www.rtings.com/camera/reviews/best/by-type/mirrorless-beginners",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBwCdASocABwAPtEutFooIagoGAEAGglsALsogPPAsk5vgZoLRX_mfsA6b_zoMDV6I1rVWbKRuDj2Xx5JrfIQx1IYAAD-9gEpnxuhc7ENnwKjzZoQnCod4QIHeqxtWkm-zR-KYZ1s1v_VznstYhRh3O74CYk2IT392EgBCIM99luEHmIleipgJlMN7ygb-jOW1Bn34ULpxMS_919JTLNvJnfR3F8LUP_-ZffK74uiqK2Rb638T_o0bNyH_FWK7GSyYExAvnazPBgeJx3__aKGooFvapPvH9V1SCEWzSW3TMrz2Efp2V914fVX14EW-xgAIoSM7sIKW_rtSB6q0s_KKxKP6W2YdnLdOfPf4deU0sAwra9ybej7ApMHfwBoA3MWtRmurjVvYuA5aPlwB_RdIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVmJaZW9qaGJ3Wjc1SVA5TGFrejY3MEt0djByOHFiV3loRUdIMC13MUdFOWdwMzY5TEE4ZnB2OGo4SWc3TFVaQm9aakd6a21BemhZWFpiVzdkQ3pIeGxxeHJoYkdBYlM2b2dUb1dqdl9oRDFoMmxmMXdBaWFiT2dCZklCbFJFM1RHdXZzNWI5NUpnU2tGUkVjNkdZSUV6ZVAySFp4WTlQZzlvZ1ESBBoCCAAalQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDvBQgAEAAYACAAKhYKBGJlc3QVmI_qQBoEZ29vZBoDdG9wKjUKCm1pcnJvcmxlc3MVMfLPQBoRbWlycm9ybGVzc2NhbWVyYXMaD2l2O3A7bWlycm9ybGVzcyopCgdjYW1lcmFzFY1l1kAaBmNhbWVyYRoRbWlycm9ybGVzc2NhbWVyYXMqCgoDZm9yFQAAAAAqVwoIYmVnaW5uZXIVH8S9PxoIYW1hdGV1cnMaCWJlZ2lubmVycxoHbGVhcm5lchoGbm92aWNlGgdub3ZpY2VzGghzdGFydGVycxoNaXY7cDtiZWdpbm5lcipaCg1waG90b2dyYXBoZXJzFSwVsj4aCGFtYXRldXJzGgxwaG90b2dyYXBoZXIaC3Bob3RvZ3JhcGhzGgtwaG90b2dyYXBoeRoSaXY7cDtwaG90b2dyYXBoZXJzMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVmJaZW9qaGJ3Wjc1SVA5TGFrejY3MEt0djByOHFiV3loRUdIMC13MUdFOWdwMzY5TEE4ZnB2OGo4SWc3TFVaQm9aakd6a21BemhZWFpiVzdkQ3pIeGxxeHJoYkdBYlM2b2dUb1dqdl9oRDFoMmxmMXdBaWFiT2dCZklCbFJFM1RHdXZzNWI5NUpnU2tGUkVjNkdZSUV6ZVAySFp4WTlQZzlvZ1E6OlRoZSA2IDxiPkJlc3QgTWlycm9ybGVzcyBDYW1lcmFzIEZvciBCZWdpbm5lcnM8L2I-IG9mIDIwMjZCpwFUaGUgPGI-Q2Fub24gRU9TIFIxMDwvYj4gaXMgb25lIG9mIHRoZSBiZXN0IG1pcnJvcmxlc3MgY2FtZXJhcyBmb3IgYmVnaW5uZXJzIHRoYXQgd2UmIzM5O3ZlIHRlc3RlZC4gVGhvdWdoIGl0IGlzbiYjMzk7dCBleGFjdGx5IGNoZWFwLCBpdCYjMzk7cyBhIHdlbGwtcm91bmRlZCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVmJaZW9qaGJ3Wjc1SVA5TGFrejY3MEt0djByOHFiV3loRUdIMC13MUdFOWdwMzY5TEE4ZnB2OGo4SWc3TFVaQm9aakd6a21BemhZWFpiVzdkQ3pIeGxxeHJoYkdBYlM2b2dUb1dqdl9oRDFoMmxmMXdBaWFiT2dCZklCbFJFM1RHdXZzNWI5NUpnU2tGUkVjNkdZSUV6ZVAySFp4WTlQZzlvZ1ESBBoCCAAalQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDvBQgAEAAYACAAKhYKBGJlc3QVmI_qQBoEZ29vZBoDdG9wKjUKCm1pcnJvcmxlc3MVMfLPQBoRbWlycm9ybGVzc2NhbWVyYXMaD2l2O3A7bWlycm9ybGVzcyopCgdjYW1lcmFzFY1l1kAaBmNhbWVyYRoRbWlycm9ybGVzc2NhbWVyYXMqCgoDZm9yFQAAAAAqVwoIYmVnaW5uZXIVH8S9PxoIYW1hdGV1cnMaCWJlZ2lubmVycxoHbGVhcm5lchoGbm92aWNlGgdub3ZpY2VzGghzdGFydGVycxoNaXY7cDtiZWdpbm5lcipaCg1waG90b2dyYXBoZXJzFSwVsj4aCGFtYXRldXJzGgxwaG90b2dyYXBoZXIaC3Bob3RvZ3JhcGhzGgtwaG90b2dyYXBoeRoSaXY7cDtwaG90b2dyYXBoZXJzMrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVmJaZW9qaGJ3Wjc1SVA5TGFrejY3MEt0djByOHFiV3loRUdIMC13MUdFOWdwMzY5TEE4ZnB2OGo4SWc3TFVaQm9aakd6a21BemhZWFpiVzdkQ3pIeGxxeHJoYkdBYlM2b2dUb1dqdl9oRDFoMmxmMXdBaWFiT2dCZklCbFJFM1RHdXZzNWI5NUpnU2tGUkVjNkdZSUV6ZVAySFp4WTlQZzlvZ1E6OlRoZSA2IDxiPkJlc3QgTWlycm9ybGVzcyBDYW1lcmFzIEZvciBCZWdpbm5lcnM8L2I-IG9mIDIwMjZCpwFUaGUgPGI-Q2Fub24gRU9TIFIxMDwvYj4gaXMgb25lIG9mIHRoZSBiZXN0IG1pcnJvcmxlc3MgY2FtZXJhcyBmb3IgYmVnaW5uZXJzIHRoYXQgd2UmIzM5O3ZlIHRlc3RlZC4gVGhvdWdoIGl0IGlzbiYjMzk7dCBleGFjdGx5IGNoZWFwLCBpdCYjMzk7cyBhIHdlbGwtcm91bmRlZCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "RTINGS.com"
+    },
+    {
+      "position": 4,
+      "title": "Best mirrorless camera for beginners?",
+      "link": "https://www.facebook.com/groups/beginnersphotographygroup/posts/26510664548554793/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFbjxev-Fof_KvyqJQBfd5ZsDXmrgF8eEZA1RTAHdv_cDK69WVS2T4b2AW9WSFL8gxC0DaYhOoo_QTnhVCifoswjsztKDUAZz5SYM-8-dL6G6xyXYz0yInlVsvw8l84XKScDkMnCUFO2ZzJkM8FD_MyijmH7rGHWRGcWh2EkgGx9GdvIDMgs&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0QFnoECCkQAQ&uoh=1",
+      "displayed_link": "50+ comments · 5 months ago",
+      "snippet": "Best camera for transitioning to mirrorless? I don’t want to jump straight into the fancy stuff but I’d like to move to mirrorless for the full-frame ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What mirrorless camera is recommended for a beginner?",
+            "link": "https://www.facebook.com/groups/beginnersphotographygroup/posts/9779356632112181/",
+            "date": "May 5, 2025"
+          },
+          {
+            "title": "What mirrorless camera would you recommend for a beginner?",
+            "link": "https://www.facebook.com/groups/beginnersphotographygroup/posts/24157359113885360/",
+            "date": "Jul 25, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "What people are saying. Nikon Z5ii and Sony A7iii are popular choices for beginners, offering good value and access to extensive lens options.",
+          "source_info_link": "https://www.facebook.com/groups/beginnersphotographygroup/posts/26510664548554793/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0Zianhldi1Gb2ZfS3Z5cUpRQmZkNVpzRFhtcmdGOGVFWkExUlRBSGR2X2NESzY5V1ZTMlQ0YjJBVzlXU0ZMOGd4QzBEYVloT29vX1FUbmhWQ2lmb3N3anN6dEtEVUFaejVTWU0tOC1kTDZHNnh5WFl6MHlJbmxWc3Z3OGw4NFhLU2NEa01uQ1VGTzJaekprTThGRF9NeWlqbUg3ckdIV1JHY1doMkVrZ0d4OUdkdklETWdzEgQaAggAGo4GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOoFCAAQABgAIAAqFgoEYmVzdBWjZKpAGgRnb29kGgN0b3AqNQoKbWlycm9ybGVzcxXy18tAGhFtaXJyb3JsZXNzY2FtZXJhcxoPaXY7cDttaXJyb3JsZXNzKikKB2NhbWVyYXMVFk2GPxoGY2FtZXJhGhFtaXJyb3JsZXNzY2FtZXJhcyoKCgNmb3IVAAAAACpXCghiZWdpbm5lchXtOAA-GghhbWF0ZXVycxoJYmVnaW5uZXJzGgdsZWFybmVyGgZub3ZpY2UaB25vdmljZXMaCHN0YXJ0ZXJzGg1pdjtwO2JlZ2lubmVyKloKDXBob3RvZ3JhcGhlcnMVAAAAABoIYW1hdGV1cnMaDHBob3RvZ3JhcGhlchoLcGhvdG9ncmFwaHMaC3Bob3RvZ3JhcGh5GhJpdjtwO3Bob3RvZ3JhcGhlcnMyyQEvZ290bz91cmw9Q0FFU2lnRUI2enN3RmJqeGV2LUZvZl9LdnlxSlFCZmQ1WnNEWG1yZ0Y4ZUVaQTFSVEFIZHZfY0RLNjlXVlMyVDRiMkFXOVdTRkw4Z3hDMERhWWhPb29fUVRuaFZDaWZvc3dqc3p0S0RVQVp6NVNZTS04LWRMNkc2eHlYWXoweUlubFZzdnc4bDg0WEtTY0RrTW5DVUZPMlp6SmtNOEZEX015aWptSDdyR0hXUkdjV2gyRWtnR3g5R2R2SURNZ3M6NzxiPkJlc3QgbWlycm9ybGVzcyBjYW1lcmEgZm9yIGJlZ2lubmVyczwvYj4_IC0gRmFjZWJvb2tClQFXaGF0IHBlb3BsZSBhcmUgc2F5aW5nLiA8Yj5OaWtvbiBaNWlpIGFuZCBTb255IEE3aWlpPC9iPiBhcmUgcG9wdWxhciBjaG9pY2VzIGZvciBiZWdpbm5lcnMsIG9mZmVyaW5nIGdvb2QgdmFsdWUgYW5kIGFjY2VzcyB0byBleHRlbnNpdmUgbGVucyBvcHRpb25zLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0Zianhldi1Gb2ZfS3Z5cUpRQmZkNVpzRFhtcmdGOGVFWkExUlRBSGR2X2NESzY5V1ZTMlQ0YjJBVzlXU0ZMOGd4QzBEYVloT29vX1FUbmhWQ2lmb3N3anN6dEtEVUFaejVTWU0tOC1kTDZHNnh5WFl6MHlJbmxWc3Z3OGw4NFhLU2NEa01uQ1VGTzJaekprTThGRF9NeWlqbUg3ckdIV1JHY1doMkVrZ0d4OUdkdklETWdzEgQaAggAGo4GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOoFCAAQABgAIAAqFgoEYmVzdBWjZKpAGgRnb29kGgN0b3AqNQoKbWlycm9ybGVzcxXy18tAGhFtaXJyb3JsZXNzY2FtZXJhcxoPaXY7cDttaXJyb3JsZXNzKikKB2NhbWVyYXMVFk2GPxoGY2FtZXJhGhFtaXJyb3JsZXNzY2FtZXJhcyoKCgNmb3IVAAAAACpXCghiZWdpbm5lchXtOAA-GghhbWF0ZXVycxoJYmVnaW5uZXJzGgdsZWFybmVyGgZub3ZpY2UaB25vdmljZXMaCHN0YXJ0ZXJzGg1pdjtwO2JlZ2lubmVyKloKDXBob3RvZ3JhcGhlcnMVAAAAABoIYW1hdGV1cnMaDHBob3RvZ3JhcGhlchoLcGhvdG9ncmFwaHMaC3Bob3RvZ3JhcGh5GhJpdjtwO3Bob3RvZ3JhcGhlcnMyyQEvZ290bz91cmw9Q0FFU2lnRUI2enN3RmJqeGV2LUZvZl9LdnlxSlFCZmQ1WnNEWG1yZ0Y4ZUVaQTFSVEFIZHZfY0RLNjlXVlMyVDRiMkFXOVdTRkw4Z3hDMERhWWhPb29fUVRuaFZDaWZvc3dqc3p0S0RVQVp6NVNZTS04LWRMNkc2eHlYWXoweUlubFZzdnc4bDg0WEtTY0RrTW5DVUZPMlp6SmtNOEZEX015aWptSDdyR0hXUkdjV2gyRWtnR3g5R2R2SURNZ3M6NzxiPkJlc3QgbWlycm9ybGVzcyBjYW1lcmEgZm9yIGJlZ2lubmVyczwvYj4_IC0gRmFjZWJvb2tClQFXaGF0IHBlb3BsZSBhcmUgc2F5aW5nLiA8Yj5OaWtvbiBaNWlpIGFuZCBTb255IEE3aWlpPC9iPiBhcmUgcG9wdWxhciBjaG9pY2VzIGZvciBiZWdpbm5lcnMsIG9mZmVyaW5nIGdvb2QgdmFsdWUgYW5kIGFjY2VzcyB0byBleHRlbnNpdmUgbGVucyBvcHRpb25zLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Facebook · Beginners Photography Group"
+    },
+    {
+      "position": 5,
+      "title": "Best Entry-Level Mirrorless Cameras 2026: Subject Tracking ...",
+      "link": "https://jasonodell.substack.com/p/best-entry-level-mirrorless-cameras",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVITyANmHkTPdZ_lxUmNLNhzA2bnQ4rkhhbjn6M4JnYSk4I4_Hzz0SX12_G3nRr2IaD0csigmTRJvVN3pSVhuwPp6lMEq5dnXRH-sQKkHXa0V19Xn5sl2oAU4JzMBs_t_0epy13cQ-5r8H4WT8YdGlpUyueqA8T6u4&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0QFnoECFgQAQ&uoh=1",
+      "displayed_link": "10+ likes · 3 months ago",
+      "snippet": "Sony a6700 (~$1299 Body Only). These cameras are all great, but each has its own strengths and weaknesses, which I'll cover in this article.",
+      "snippet_highlighted_words": [
+        "Sony a6700"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Sony a6700 (~$1299 Body Only). These cameras are all great, but each has its own strengths and weaknesses, which I'll cover in this article.",
+          "source_info_link": "https://jasonodell.substack.com/p/best-entry-level-mirrorless-cameras",
+          "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAAAQBQCdASocABwAPtE-tFooIigoFAEAGglADuAHkC4DjoQzEF_1CnewVziPfN1JwCAAAP70oCtK5pGbLynXsU8Cah-6AYiEo39u-4wBxGqzfxJ_Z8huTM81nIGZ8ZeNcjs1qkegjAHnoS-6XqBMz_fkmp47m2SwexErDrgaKup-JWjBJdtL1n07bwTbX__UsImeaOXzThhGJ_9mzzvm0g92FTlPw4w_k56JHUwNUV31H5gMiXz7lrN0UIowLaUeBt-vvtwchM0O_FOV-RWnNqzyGrNXpHf2SmTY7wwWCtm2VS1ce_t-yn5aUJce0qvwXDEpNDnWlSq-7CwUhy1ColYAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVklUeUFObUhrVFBkWl9seFVtTkxOaHpBMmJuUTRya2hoYmpuNk00Sm5ZU2s0STRfSHp6MFNYMTJfRzNuUnIySWFEMGNzaWdtVFJKdlZOM3BTVmh1d1BwNmxNRXE1ZG5YUkgtc1FLa0hYYTBWMTlYbjVzbDJvQVU0SnpNQnNfdF8wZXB5MTNjUS01cjhINFdUOFlkR2xwVXl1ZXFBOFQ2dTQSBBoCCAAalAYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDuBQgAEAAYACAAKhYKBGJlc3QVil6LQBoEZ29vZBoDdG9wKjUKCm1pcnJvcmxlc3MVkevDQBoRbWlycm9ybGVzc2NhbWVyYXMaD2l2O3A7bWlycm9ybGVzcyopCgdjYW1lcmFzFb7sx0AaBmNhbWVyYRoRbWlycm9ybGVzc2NhbWVyYXMqCgoDZm9yFQAAAAAqVwoIYmVnaW5uZXIVmFJMPhoIYW1hdGV1cnMaCWJlZ2lubmVycxoHbGVhcm5lchoGbm92aWNlGgdub3ZpY2VzGghzdGFydGVycxoNaXY7cDtiZWdpbm5lcipaCg1waG90b2dyYXBoZXJzFSSKsD4aCGFtYXRldXJzGgxwaG90b2dyYXBoZXIaC3Bob3RvZ3JhcGhzGgtwaG90b2dyYXBoeRoSaXY7cDtwaG90b2dyYXBoZXJzMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVklUeUFObUhrVFBkWl9seFVtTkxOaHpBMmJuUTRya2hoYmpuNk00Sm5ZU2s0STRfSHp6MFNYMTJfRzNuUnIySWFEMGNzaWdtVFJKdlZOM3BTVmh1d1BwNmxNRXE1ZG5YUkgtc1FLa0hYYTBWMTlYbjVzbDJvQVU0SnpNQnNfdF8wZXB5MTNjUS01cjhINFdUOFlkR2xwVXl1ZXFBOFQ2dTQ6TDxiPkJlc3Q8L2I-IEVudHJ5LUxldmVsIDxiPk1pcnJvcmxlc3MgQ2FtZXJhczwvYj4gMjAyNjogU3ViamVjdCBUcmFja2luZyAuLi5ClwE8Yj5Tb255IGE2NzAwPC9iPiAofiQxMjk5IEJvZHkgT25seSkuIFRoZXNlIGNhbWVyYXMgYXJlIGFsbCBncmVhdCwgYnV0IGVhY2ggaGFzIGl0cyBvd24gc3RyZW5ndGhzIGFuZCB3ZWFrbmVzc2VzLCB3aGljaCBJJiMzOTtsbCBjb3ZlciBpbiB0aGlzIGFydGljbGUuSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVklUeUFObUhrVFBkWl9seFVtTkxOaHpBMmJuUTRya2hoYmpuNk00Sm5ZU2s0STRfSHp6MFNYMTJfRzNuUnIySWFEMGNzaWdtVFJKdlZOM3BTVmh1d1BwNmxNRXE1ZG5YUkgtc1FLa0hYYTBWMTlYbjVzbDJvQVU0SnpNQnNfdF8wZXB5MTNjUS01cjhINFdUOFlkR2xwVXl1ZXFBOFQ2dTQSBBoCCAAalAYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDuBQgAEAAYACAAKhYKBGJlc3QVil6LQBoEZ29vZBoDdG9wKjUKCm1pcnJvcmxlc3MVkevDQBoRbWlycm9ybGVzc2NhbWVyYXMaD2l2O3A7bWlycm9ybGVzcyopCgdjYW1lcmFzFb7sx0AaBmNhbWVyYRoRbWlycm9ybGVzc2NhbWVyYXMqCgoDZm9yFQAAAAAqVwoIYmVnaW5uZXIVmFJMPhoIYW1hdGV1cnMaCWJlZ2lubmVycxoHbGVhcm5lchoGbm92aWNlGgdub3ZpY2VzGghzdGFydGVycxoNaXY7cDtiZWdpbm5lcipaCg1waG90b2dyYXBoZXJzFSSKsD4aCGFtYXRldXJzGgxwaG90b2dyYXBoZXIaC3Bob3RvZ3JhcGhzGgtwaG90b2dyYXBoeRoSaXY7cDtwaG90b2dyYXBoZXJzMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVklUeUFObUhrVFBkWl9seFVtTkxOaHpBMmJuUTRya2hoYmpuNk00Sm5ZU2s0STRfSHp6MFNYMTJfRzNuUnIySWFEMGNzaWdtVFJKdlZOM3BTVmh1d1BwNmxNRXE1ZG5YUkgtc1FLa0hYYTBWMTlYbjVzbDJvQVU0SnpNQnNfdF8wZXB5MTNjUS01cjhINFdUOFlkR2xwVXl1ZXFBOFQ2dTQ6TDxiPkJlc3Q8L2I-IEVudHJ5LUxldmVsIDxiPk1pcnJvcmxlc3MgQ2FtZXJhczwvYj4gMjAyNjogU3ViamVjdCBUcmFja2luZyAuLi5ClwE8Yj5Tb255IGE2NzAwPC9iPiAofiQxMjk5IEJvZHkgT25seSkuIFRoZXNlIGNhbWVyYXMgYXJlIGFsbCBncmVhdCwgYnV0IGVhY2ggaGFzIGl0cyBvd24gc3RyZW5ndGhzIGFuZCB3ZWFrbmVzc2VzLCB3aGljaCBJJiMzOTtsbCBjb3ZlciBpbiB0aGlzIGFydGljbGUuSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "Substack · The Photographer’s Perspective",
+      "read_more_link": "https://jasonodell.substack.com/p/best-entry-level-mirrorless-cameras#:~:text=Sony%20a6700%20(~%241299%20Body%20Only),I'll%20cover%20in%20this%20article."
+    },
+    {
+      "position": 6,
+      "title": "Best Mirrorless Cameras for Beginners | by Peter Marks",
+      "link": "https://medium.com/@kashafshahid467/best-mirrorless-cameras-for-beginners-98ea9a8555d5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFfPX3_pNGmkCIWEkbM2L4nWRD4poG1mJPL8w4zP4f1gGh_LYphKp6WlmpAKREMTXLmniu_920EJ9rm6JIWG4RYrsRbHf-LDippabsUxRpgcTA3Q1worcSwtdBVMZJzBeGHk2sjyizcdMviNtkIrrr8IkJEwuKt5X4kWwPu-zr63CIeI31MRmCKZg&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0QFnoECFsQAQ&uoh=1",
+      "displayed_link": "9 months ago",
+      "snippet": "1. The All-Around Champion: Sony a6100 ... I've recommended this camera to more first-timers than any other, and I've yet to get a complaint. The ...",
+      "snippet_highlighted_words": [
+        "Sony a6100"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. The All-Around Champion: Sony a6100 ... I've recommended this camera to more first-timers than any other, and I've yet to get a complaint. The ...",
+          "source_info_link": "https://medium.com/@kashafshahid467/best-mirrorless-cameras-for-beginners-98ea9a8555d5",
+          "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZmUFgzX3BOR21rQ0lXRWtiTTJMNG5XUkQ0cG9HMW1KUEw4dzR6UDRmMWdHaF9MWXBoS3A2V2xtcEFLUkVNVFhMbW5pdV85MjBFSjlybTZKSVdHNFJZcnNSYkhmLUxEaXBwYWJzVXhScGdjVEEzUTF3b3JjU3d0ZEJWTVpKekJlR0hrMnNqeWl6Y2RNdmlOdGtJcnJyOElrSkV3dUt0NVg0a1d3UHUtenI2M0NJZUkzMU1SbUNLWmcSBBoCCAAarQYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiQYIABAAGAAgACoWCgRiZXN0FZVTxkAaBGdvb2QaA3RvcCo1CgptaXJyb3JsZXNzFcVl30AaEW1pcnJvcmxlc3NjYW1lcmFzGg9pdjtwO21pcnJvcmxlc3MqKQoHY2FtZXJhcxVHaN9AGgZjYW1lcmEaEW1pcnJvcmxlc3NjYW1lcmFzKgoKA2ZvchUAAAAAKlcKCGJlZ2lubmVyFRwMG0AaCGFtYXRldXJzGgliZWdpbm5lcnMaB2xlYXJuZXIaBm5vdmljZRoHbm92aWNlcxoIc3RhcnRlcnMaDWl2O3A7YmVnaW5uZXIqWgoNcGhvdG9ncmFwaGVycxUAAAAAGghhbWF0ZXVycxoMcGhvdG9ncmFwaGVyGgtwaG90b2dyYXBocxoLcGhvdG9ncmFwaHkaEml2O3A7cGhvdG9ncmFwaGVyczLOAS9nb3RvP3VybD1DQUVTamdFQjZ6c3dGZlBYM19wTkdta0NJV0VrYk0yTDRuV1JENHBvRzFtSlBMOHc0elA0ZjFnR2hfTFlwaEtwNldsbXBBS1JFTVRYTG1uaXVfOTIwRUo5cm02SklXRzRSWXJzUmJIZi1MRGlwcGFic1V4UnBnY1RBM1Exd29yY1N3dGRCVk1aSnpCZUdIazJzanlpemNkTXZpTnRrSXJycjhJa0pFd3VLdDVYNGtXd1B1LXpyNjNDSWVJMzFNUm1DS1pnOj08Yj5CZXN0IE1pcnJvcmxlc3MgQ2FtZXJhcyBmb3IgQmVnaW5uZXJzPC9iPiB8IGJ5IFBldGVyIE1hcmtzQqkBMS4gVGhlIEFsbC1Bcm91bmQgQ2hhbXBpb246IDxiPlNvbnkgYTYxMDA8L2I-IC4uLiBJJiMzOTt2ZSByZWNvbW1lbmRlZCB0aGlzIGNhbWVyYSB0byBtb3JlIGZpcnN0LXRpbWVycyB0aGFuIGFueSBvdGhlciwgYW5kIEkmIzM5O3ZlIHlldCB0byBnZXQgYSBjb21wbGFpbnQuIFRoZSZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZmUFgzX3BOR21rQ0lXRWtiTTJMNG5XUkQ0cG9HMW1KUEw4dzR6UDRmMWdHaF9MWXBoS3A2V2xtcEFLUkVNVFhMbW5pdV85MjBFSjlybTZKSVdHNFJZcnNSYkhmLUxEaXBwYWJzVXhScGdjVEEzUTF3b3JjU3d0ZEJWTVpKekJlR0hrMnNqeWl6Y2RNdmlOdGtJcnJyOElrSkV3dUt0NVg0a1d3UHUtenI2M0NJZUkzMU1SbUNLWmcSBBoCCAAarQYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiQYIABAAGAAgACoWCgRiZXN0FZVTxkAaBGdvb2QaA3RvcCo1CgptaXJyb3JsZXNzFcVl30AaEW1pcnJvcmxlc3NjYW1lcmFzGg9pdjtwO21pcnJvcmxlc3MqKQoHY2FtZXJhcxVHaN9AGgZjYW1lcmEaEW1pcnJvcmxlc3NjYW1lcmFzKgoKA2ZvchUAAAAAKlcKCGJlZ2lubmVyFRwMG0AaCGFtYXRldXJzGgliZWdpbm5lcnMaB2xlYXJuZXIaBm5vdmljZRoHbm92aWNlcxoIc3RhcnRlcnMaDWl2O3A7YmVnaW5uZXIqWgoNcGhvdG9ncmFwaGVycxUAAAAAGghhbWF0ZXVycxoMcGhvdG9ncmFwaGVyGgtwaG90b2dyYXBocxoLcGhvdG9ncmFwaHkaEml2O3A7cGhvdG9ncmFwaGVyczLOAS9nb3RvP3VybD1DQUVTamdFQjZ6c3dGZlBYM19wTkdta0NJV0VrYk0yTDRuV1JENHBvRzFtSlBMOHc0elA0ZjFnR2hfTFlwaEtwNldsbXBBS1JFTVRYTG1uaXVfOTIwRUo5cm02SklXRzRSWXJzUmJIZi1MRGlwcGFic1V4UnBnY1RBM1Exd29yY1N3dGRCVk1aSnpCZUdIazJzanlpemNkTXZpTnRrSXJycjhJa0pFd3VLdDVYNGtXd1B1LXpyNjNDSWVJMzFNUm1DS1pnOj08Yj5CZXN0IE1pcnJvcmxlc3MgQ2FtZXJhcyBmb3IgQmVnaW5uZXJzPC9iPiB8IGJ5IFBldGVyIE1hcmtzQqkBMS4gVGhlIEFsbC1Bcm91bmQgQ2hhbXBpb246IDxiPlNvbnkgYTYxMDA8L2I-IC4uLiBJJiMzOTt2ZSByZWNvbW1lbmRlZCB0aGlzIGNhbWVyYSB0byBtb3JlIGZpcnN0LXRpbWVycyB0aGFuIGFueSBvdGhlciwgYW5kIEkmIzM5O3ZlIHlldCB0byBnZXQgYSBjb21wbGFpbnQuIFRoZSZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Medium · Peter Marks",
+      "read_more_link": "https://medium.com/@kashafshahid467/best-mirrorless-cameras-for-beginners-98ea9a8555d5#:~:text=1.%20The%20All%2DAround%20Champion%3A%20Sony,a6100&text=I've%20recommended%20this%20camera%20to,opinion%2C%20the%20perfect%20sweet%20spot."
+    },
+    {
+      "position": 7,
+      "title": "The 9 Best mirrorless cameras in 2026",
+      "link": "https://www.dpreview.com/reviews/buying-guide-best-mirrorless-cameras/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVUs8ikxsSp8CEjm-o67ycWW8XhFPToS31A6TmbP43BNOVgQrXJsDyT0d5pjp51UXzy2pwsNqcFyaSdTTHcMfOySYLUVKGjDDFGcN0p4QAf_fWWOPkQiZ9USq4BB5kB4UHjb0LiL9sr0xdv_dvnDwVOduXmvqtS_7T2A&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0QFnoECF4QAQ&uoh=1",
+      "displayed_link": "https://www.dpreview.com › Reviews › buying-guide",
+      "date": "Mar 5, 2026",
+      "snippet": "Our picks: · Best affordable kit: Sony a6100 · Best value around $1000: Nikon Z50II · Best APS-C mirrorless camera: Fujifilm X-T5 · Best value full- ...",
+      "snippet_highlighted_words": [
+        "Sony a6100"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best affordable kit: Sony a6100",
+            "link": "https://www.dpreview.com/reviews/buying-guide-best-mirrorless-cameras/#sony_a6100"
+          },
+          {
+            "title": "Best APS-C mirrorless camera...",
+            "link": "https://www.dpreview.com/reviews/buying-guide-best-mirrorless-cameras/#fujifilm_xt5"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Our picks: · Best affordable kit: Sony a6100 · Best value around $1000: Nikon Z50II · Best APS-C mirrorless camera: Fujifilm X-T5 · Best value full- ...",
+          "source_info_link": "https://www.dpreview.com/reviews/buying-guide-best-mirrorless-cameras/",
+          "icon": "https://serpapi.com/images/i/UklGRiQBAABXRUJQVlA4IBgBAABwBgCdASocABwAPtEwtFooIigoGAEAGgllAM8MJfxAR0vkZf6brwDJlqscrw9GheyYMUceOPU8BXFqF-AA_ubdNL3ePfDuMvFHGO2_3r7W7l9EPiO28TbKCfSmdRa-HBWxhUFBfR1Fk8p9g0Mbu5BSidKyh1ZsLkG8TzHeFghz2yOA5fXQpitMWi4hPiGB9hc38UXoPCLOFHf_lxf0b9L_vcnvmTaZl_2KFvN_-xsjpyPvrfX_Si__yP99XQhTgWVpdrKV0sBi3CsISGYbQuiD19JZ0ddRMJgwiM0hWUwAVePCVADFBr_jXxL7LCXtjvv6jLQBjuEnkVCqLieb1-ZUnbCD5VI__c34EoEK89lnwP5RrfWcUAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlVzOGlreHNTcDhDRWptLW82N3ljV1c4WGhGUFRvUzMxQTZUbWJQNDNCTk9WZ1FyWEpzRHlUMGQ1cGpwNTFVWHp5MnB3c05xY0Z5YVNkVFRIY01mT3lTWUxVVktHakRERkdjTjBwNFFBZl9mV1dPUGtRaVo5VVNxNEJCNWtCNFVIamIwTGlMOXNyMHhkdl9kdm5Ed1ZPZHVYbXZxdFNfN1QyQRIEGgIIABqqBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIQGCAAQABgAIAAqFgoEYmVzdBVJkpxAGgRnb29kGgN0b3AqNQoKbWlycm9ybGVzcxXcBH5AGhFtaXJyb3JsZXNzY2FtZXJhcxoPaXY7cDttaXJyb3JsZXNzKikKB2NhbWVyYXMVX4mdQBoGY2FtZXJhGhFtaXJyb3JsZXNzY2FtZXJhcyoKCgNmb3IVAAAAACpXCghiZWdpbm5lchV5-sg-GghhbWF0ZXVycxoJYmVnaW5uZXJzGgdsZWFybmVyGgZub3ZpY2UaB25vdmljZXMaCHN0YXJ0ZXJzGg1pdjtwO2JlZ2lubmVyKloKDXBob3RvZ3JhcGhlcnMVBdfMPhoIYW1hdGV1cnMaDHBob3RvZ3JhcGhlchoLcGhvdG9ncmFwaHMaC3Bob3RvZ3JhcGh5GhJpdjtwO3Bob3RvZ3JhcGhlcnMyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWVXM4aWt4c1NwOENFam0tbzY3eWNXVzhYaEZQVG9TMzFBNlRtYlA0M0JOT1ZnUXJYSnNEeVQwZDVwanA1MVVYenkycHdzTnFjRnlhU2RUVEhjTWZPeVNZTFVWS0dqRERGR2NOMHA0UUFmX2ZXV09Qa1FpWjlVU3E0QkI1a0I0VUhqYjBMaUw5c3IweGR2X2R2bkR3Vk9kdVhtdnF0U183VDJBOjdUaGUgOSA8Yj5CZXN0IG1pcnJvcmxlc3MgY2FtZXJhczwvYj4gaW4gMjAyNiAtIERQUmV2aWV3QsABT3VyIHBpY2tzOiAmbWlkZG90OyBCZXN0IGFmZm9yZGFibGUga2l0OiA8Yj5Tb255IGE2MTAwPC9iPiAmbWlkZG90OyBCZXN0IHZhbHVlIGFyb3VuZCAkMTAwMDogTmlrb24gWjUwSUkgJm1pZGRvdDsgQmVzdCBBUFMtQyBtaXJyb3JsZXNzIGNhbWVyYTogRnVqaWZpbG0gWC1UNSAmbWlkZG90OyBCZXN0IHZhbHVlIGZ1bGwtJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlVzOGlreHNTcDhDRWptLW82N3ljV1c4WGhGUFRvUzMxQTZUbWJQNDNCTk9WZ1FyWEpzRHlUMGQ1cGpwNTFVWHp5MnB3c05xY0Z5YVNkVFRIY01mT3lTWUxVVktHakRERkdjTjBwNFFBZl9mV1dPUGtRaVo5VVNxNEJCNWtCNFVIamIwTGlMOXNyMHhkdl9kdm5Ed1ZPZHVYbXZxdFNfN1QyQRIEGgIIABqqBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIQGCAAQABgAIAAqFgoEYmVzdBVJkpxAGgRnb29kGgN0b3AqNQoKbWlycm9ybGVzcxXcBH5AGhFtaXJyb3JsZXNzY2FtZXJhcxoPaXY7cDttaXJyb3JsZXNzKikKB2NhbWVyYXMVX4mdQBoGY2FtZXJhGhFtaXJyb3JsZXNzY2FtZXJhcyoKCgNmb3IVAAAAACpXCghiZWdpbm5lchV5-sg-GghhbWF0ZXVycxoJYmVnaW5uZXJzGgdsZWFybmVyGgZub3ZpY2UaB25vdmljZXMaCHN0YXJ0ZXJzGg1pdjtwO2JlZ2lubmVyKloKDXBob3RvZ3JhcGhlcnMVBdfMPhoIYW1hdGV1cnMaDHBob3RvZ3JhcGhlchoLcGhvdG9ncmFwaHMaC3Bob3RvZ3JhcGh5GhJpdjtwO3Bob3RvZ3JhcGhlcnMyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWVXM4aWt4c1NwOENFam0tbzY3eWNXVzhYaEZQVG9TMzFBNlRtYlA0M0JOT1ZnUXJYSnNEeVQwZDVwanA1MVVYenkycHdzTnFjRnlhU2RUVEhjTWZPeVNZTFVWS0dqRERGR2NOMHA0UUFmX2ZXV09Qa1FpWjlVU3E0QkI1a0I0VUhqYjBMaUw5c3IweGR2X2R2bkR3Vk9kdVhtdnF0U183VDJBOjdUaGUgOSA8Yj5CZXN0IG1pcnJvcmxlc3MgY2FtZXJhczwvYj4gaW4gMjAyNiAtIERQUmV2aWV3QsABT3VyIHBpY2tzOiAmbWlkZG90OyBCZXN0IGFmZm9yZGFibGUga2l0OiA8Yj5Tb255IGE2MTAwPC9iPiAmbWlkZG90OyBCZXN0IHZhbHVlIGFyb3VuZCAkMTAwMDogTmlrb24gWjUwSUkgJm1pZGRvdDsgQmVzdCBBUFMtQyBtaXJyb3JsZXNzIGNhbWVyYTogRnVqaWZpbG0gWC1UNSAmbWlkZG90OyBCZXN0IHZhbHVlIGZ1bGwtJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "DPReview",
+      "read_more_link": "https://www.dpreview.com/reviews/buying-guide-best-mirrorless-cameras/#:~:text=Our%20picks%3A&text=Best%20affordable%20kit%3A%20Sony%20a6100&text=Best%20value%20around%20%241000%3A%20Nikon,Z50II&text=Best%20APS%2DC%20mirrorless%20camera%3A%20Fujifilm,X%2DT5&text=Best%20value%20full%2Dframe%3A%20Nikon%20Z5II"
+    },
+    {
+      "position": 8,
+      "title": "Best Camera for Beginners: DSLR or Mirrorless?",
+      "link": "https://www.youtube.com/watch?v=WSL7HeGl07s&vl=en",
+      "displayed_link": "26K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5RoGw0IlzCEhvmo7A5x4V4DsnbZhz6SqRnNTDBm7jAxjQl9EJp3bkw&s",
+      "snippet": "I Analyzed 4,381 Photos: Which Camera Brand Actually Wins? · Nikon's Last* DSLR? · EXPEED 8 vs. · Trading Leica for Nikon's most Controversial ...",
+      "duration": "14:21",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction",
+          "link": "https://www.youtube.com/watch?v=WSL7HeGl07s&vl=en&t=0"
+        },
+        {
+          "time": "00:56",
+          "title": "WYSINWYG",
+          "link": "https://www.youtube.com/watch?v=WSL7HeGl07s&vl=en&t=56"
+        },
+        {
+          "time": "03:59",
+          "title": "Lack of innovation can be good?",
+          "link": "https://www.youtube.com/watch?v=WSL7HeGl07s&vl=en&t=239"
+        },
+        {
+          "time": "07:08",
+          "title": "Focus and recompose is underrated",
+          "link": "https://www.youtube.com/watch?v=WSL7HeGl07s&vl=en&t=428"
+        },
+        {
+          "time": "11:22",
+          "title": "Mirrorless is getting bigger",
+          "link": "https://www.youtube.com/watch?v=WSL7HeGl07s&vl=en&t=682"
+        },
+        {
+          "time": "13:18",
+          "title": "Best value full frame Nikon DSLR",
+          "link": "https://www.youtube.com/watch?v=WSL7HeGl07s&vl=en&t=798"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I Analyzed 4,381 Photos: Which Camera Brand Actually Wins? · Nikon's Last* DSLR? · EXPEED 8 vs. · Trading Leica for Nikon's most Controversial ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmxpQ3FKWERTZ2h1QjF4SFdtRkdFc3hDVDlyc1V3N3BHREg0eXpGWng3Unh2cWM1VWgtTjJqQTNfWkdFWnd5My1fQzREYkRTU2VvN2RXNkNpS3NSUmZyNEg4WEpaYkRrZVJ5WThiSkVTbG9lOFdSejVubzFuQXozampEMFFwWUtWOXlhVlBBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmxpQ3FKWERTZ2h1QjF4SFdtRkdFc3hDVDlyc1V3N3BHREg0eXpGWng3Unh2cWM1VWgtTjJqQTNfWkdFWnd5My1fQzREYkRTU2VvN2RXNkNpS3NSUmZyNEg4WEpaYkRrZVJ5WThiSkVTbG9lOFdSejVubzFuQXozampEMFFwWUtWOXlhVlBBEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ8woETJn1Unz7MUhz8QOtMzJOi1UmF4-BoZg",
+      "source": "YouTube · Bokeh Therapy with Jack Wang"
+    },
+    {
+      "position": 9,
+      "title": "Guide to the Best Mirrorless Cameras for Beginners",
+      "link": "https://www.tuttlecameras.com/blogs/articles/a-comprehensive-guide-to-the-best-mirrorless-camer/?srsltid=AU7gw4VhYMPvdy8UxZQ4do7ZvlTRL1xspU0tKh0ew05U0SOwdshAyMGO",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2gEB6zswFYaqu0XulbFOG0vBcm6sTjmP87NEvd20Iw7eZwLHWOQ8hZ6XTGwSum4JYqQsQJrefUC-3S1yzg0FCxa56V39XWjq3wMsIohSwzyfiQBoxrWZ-MFYb8ywYQfRbcIxqGn5dUNlvvpdESHs5bSkD0SqFpFmvr_5MkzFIXlvr3kj8XDGFqABolnidaNBlMmeOtZnL4GvZfPb8tVsjOIPO5D1wfvVeHsD0vAtQHMJr5JsfkFy8sR_zAdJ-dZp1rtFIbX9cx7ZRXMMKDeMXwM_diX3IBY1Ekc51w&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0QFnoECFkQAQ&uoh=1",
+      "displayed_link": "https://www.tuttlecameras.com › blogs › articles › a-co...",
+      "date": "Jul 31, 2024",
+      "snippet": "The Sony Alpha a6700 is a great option for beginners who are looking for a camera that they can grow with. It features a 24.2MP APS-C sensor and ...",
+      "snippet_highlighted_words": [
+        "Sony Alpha a6700"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Sony Alpha A6700",
+            "link": "https://www.tuttlecameras.com/blogs/articles/a-comprehensive-guide-to-the-best-mirrorless-camer/#:~:text=.-,Sony%20Alpha%20a6700"
+          },
+          {
+            "title": "Canon Eos R7 Mark Ii (this...",
+            "link": "https://www.tuttlecameras.com/blogs/articles/a-comprehensive-guide-to-the-best-mirrorless-camer/#:~:text=Canon%20EOS%20R7%20Mark%20II%20%28This%20camera%20is%20still%20a%20rumour%20at%20this%20time%20%2D%20The%20R7%20is%20still%20available%29"
+          },
+          {
+            "title": "Fujifilm X-T5 Xf16-80mm Lens...",
+            "link": "https://www.tuttlecameras.com/blogs/articles/a-comprehensive-guide-to-the-best-mirrorless-camer/#:~:text=.-,Fujifilm%20X%2DT5%20XF16%2D80mm%20Lens%20Kit"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Sony Alpha a6700 is a great option for beginners who are looking for a camera that they can grow with. It features a 24.2MP APS-C sensor and ...",
+          "source_info_link": "https://www.tuttlecameras.com/blogs/articles/a-comprehensive-guide-to-the-best-mirrorless-camer/?srsltid=AU7gw4VhYMPvdy8UxZQ4do7ZvlTRL1xspU0tKh0ew05U0SOwdshAyMGO",
+          "icon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAAAQBQCdASocABwAPtEutFooIagoGAEAGglpAAPicg4UotOY08eXLVjuD4-DDzllMcAAAP701dMzCTuUKg93znoZtlK2CQpfS-HTHurZGZGX-7SdFvrVGjAq2P8OPo_3SCMFuJeqE0eoVLH1s8gYX5Jc07-vPzdnI_q-8Rz-v_kRYp8iX7sG_Owyvt__N2ZXP4Oqu7cb7Ddu6Ya1L_SU6WolVYEaIi48Mnc-Fu80a3L_k3-4SCZ0v_-HP0v36X9Wl6KyffVU5uJP0M3ygAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQCL2dvdG8_dXJsPUNBRVMyZ0VCNnpzd0ZZYXF1MFh1bGJGT0cwdkJjbTZzVGptUDg3TkV2ZDIwSXc3ZVp3TEhXT1E4aFo2WFRHd1N1bTRKWXFRc1FKcmVmVUMtM1MxeXpnMEZDeGE1NlYzOVhXanEzd01zSW9oU3d6eWZpUUJveHJXWi1NRlliOHl3WVFmUmJjSXhxR241ZFVObHZ2cGRFU0hzNWJTa0QwU3FGcEZtdnJfNU1rekZJWGx2cjNrajhYREdGcUFCb2xuaWRhTkJsTW1lT3Rabkw0R3ZaZlBiOHRWc2pPSVBPNUQxd2Z2VmVIc0QwdkF0UUhNSnI1SnNma0Z5OHNSX3pBZEotZFpwMXJ0RkliWDljeDdaUlhNTUtEZU1Yd01fZGlYM0lCWTFFa2M1MXcSBBoCCAAasAYSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgIIAXoAgkCKBggAEAAYACAAKhYKBGJlc3QVms6qQBoEZ29vZBoDdG9wKjUKCm1pcnJvcmxlc3MV3ETFQBoRbWlycm9ybGVzc2NhbWVyYXMaD2l2O3A7bWlycm9ybGVzcyopCgdjYW1lcmFzFfwv0EAaBmNhbWVyYRoRbWlycm9ybGVzc2NhbWVyYXMqCgoDZm9yFQAAAAAqVwoIYmVnaW5uZXIViqECQBoIYW1hdGV1cnMaCWJlZ2lubmVycxoHbGVhcm5lchoGbm92aWNlGgdub3ZpY2VzGghzdGFydGVycxoNaXY7cDtiZWdpbm5lcipaCg1waG90b2dyYXBoZXJzFXIOZT4aCGFtYXRldXJzGgxwaG90b2dyYXBoZXIaC3Bob3RvZ3JhcGhzGgtwaG90b2dyYXBoeRoSaXY7cDtwaG90b2dyYXBoZXJzMtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZiQ1E1cXRpOFRYYjhLSTJYQ0tzZko1bHB4SXBTcjE1SzUydWh6OWZPZ0RsRkJwdnVkd2pCWnNTZnFfTjlNSWZ0Sl9kU0FNcHBoTTVheVJJSUJOellUcG83eWI4TDBOalVrb2tjYnliWUEtb1pCS2NSWUFaV0pObXJRdnZrZW5ld29VR0VDT1FVOWE0a2N4YVdoNjRnNXpPYnVsMHZvRUdCYy1DdEJpTXhXbEliTDlYUklpS3FEUHBIaFJjSnpQMlhpVnpKZzo5R3VpZGUgdG8gdGhlIDxiPkJlc3QgTWlycm9ybGVzcyBDYW1lcmFzIGZvciBCZWdpbm5lcnM8L2I-QqABVGhlIDxiPlNvbnkgQWxwaGEgYTY3MDA8L2I-IGlzIGEgZ3JlYXQgb3B0aW9uIGZvciBiZWdpbm5lcnMgd2hvIGFyZSBsb29raW5nIGZvciBhIGNhbWVyYSB0aGF0IHRoZXkgY2FuIGdyb3cgd2l0aC4gSXQgZmVhdHVyZXMgYSAyNC4yTVAgQVBTLUMgc2Vuc29yIGFuZCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQCL2dvdG8_dXJsPUNBRVMyZ0VCNnpzd0ZZYXF1MFh1bGJGT0cwdkJjbTZzVGptUDg3TkV2ZDIwSXc3ZVp3TEhXT1E4aFo2WFRHd1N1bTRKWXFRc1FKcmVmVUMtM1MxeXpnMEZDeGE1NlYzOVhXanEzd01zSW9oU3d6eWZpUUJveHJXWi1NRlliOHl3WVFmUmJjSXhxR241ZFVObHZ2cGRFU0hzNWJTa0QwU3FGcEZtdnJfNU1rekZJWGx2cjNrajhYREdGcUFCb2xuaWRhTkJsTW1lT3Rabkw0R3ZaZlBiOHRWc2pPSVBPNUQxd2Z2VmVIc0QwdkF0UUhNSnI1SnNma0Z5OHNSX3pBZEotZFpwMXJ0RkliWDljeDdaUlhNTUtEZU1Yd01fZGlYM0lCWTFFa2M1MXcSBBoCCAAasAYSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgIIAXoAgkCKBggAEAAYACAAKhYKBGJlc3QVms6qQBoEZ29vZBoDdG9wKjUKCm1pcnJvcmxlc3MV3ETFQBoRbWlycm9ybGVzc2NhbWVyYXMaD2l2O3A7bWlycm9ybGVzcyopCgdjYW1lcmFzFfwv0EAaBmNhbWVyYRoRbWlycm9ybGVzc2NhbWVyYXMqCgoDZm9yFQAAAAAqVwoIYmVnaW5uZXIViqECQBoIYW1hdGV1cnMaCWJlZ2lubmVycxoHbGVhcm5lchoGbm92aWNlGgdub3ZpY2VzGghzdGFydGVycxoNaXY7cDtiZWdpbm5lcipaCg1waG90b2dyYXBoZXJzFXIOZT4aCGFtYXRldXJzGgxwaG90b2dyYXBoZXIaC3Bob3RvZ3JhcGhzGgtwaG90b2dyYXBoeRoSaXY7cDtwaG90b2dyYXBoZXJzMtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZiQ1E1cXRpOFRYYjhLSTJYQ0tzZko1bHB4SXBTcjE1SzUydWh6OWZPZ0RsRkJwdnVkd2pCWnNTZnFfTjlNSWZ0Sl9kU0FNcHBoTTVheVJJSUJOellUcG83eWI4TDBOalVrb2tjYnliWUEtb1pCS2NSWUFaV0pObXJRdnZrZW5ld29VR0VDT1FVOWE0a2N4YVdoNjRnNXpPYnVsMHZvRUdCYy1DdEJpTXhXbEliTDlYUklpS3FEUHBIaFJjSnpQMlhpVnpKZzo5R3VpZGUgdG8gdGhlIDxiPkJlc3QgTWlycm9ybGVzcyBDYW1lcmFzIGZvciBCZWdpbm5lcnM8L2I-QqABVGhlIDxiPlNvbnkgQWxwaGEgYTY3MDA8L2I-IGlzIGEgZ3JlYXQgb3B0aW9uIGZvciBiZWdpbm5lcnMgd2hvIGFyZSBsb29raW5nIGZvciBhIGNhbWVyYSB0aGF0IHRoZXkgY2FuIGdyb3cgd2l0aC4gSXQgZmVhdHVyZXMgYSAyNC4yTVAgQVBTLUMgc2Vuc29yIGFuZCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Tuttle Cameras",
+      "read_more_link": "https://www.tuttlecameras.com/blogs/articles/a-comprehensive-guide-to-the-best-mirrorless-camer/?srsltid=AU7gw4VhYMPvdy8UxZQ4do7ZvlTRL1xspU0tKh0ew05U0SOwdshAyMGO#:~:text=The%20Sony%20Alpha%20a6700%20is,quality%20and%20impressive%20low%2Dlight%20performance."
+    },
+    {
+      "position": 10,
+      "title": "Best Beginner Mirrorless Camera",
+      "link": "https://improvephotography.com/72030/best-beginner-mirrorless-camera/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVqN_kUzSvX2bnru9PKMUhkhOV76buzJ4ALxf0ml872RgFv8kJVbPeUa51a2TOB2_GssqWKPLBKK2esW-yFNpZEVbdCU0unsaEzHyDBEvWGUqm7CgAa-TwN-vj9M_wpUEGeapxrKYYqkqrEL_NG7r-CAzDxXPNKyiY&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0QFnoECFwQAQ&uoh=1",
+      "displayed_link": "https://improvephotography.com › Gear",
+      "snippet": "The overall best camera is the Sony Alpha A6100 as it's the most reliable and overall creates the highest quality photography and videography for beginners.",
+      "snippet_highlighted_words": [
+        "Sony Alpha A6100"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The overall best camera is the Sony Alpha A6100 as it's the most reliable and overall creates the highest quality photography and videography for beginners.",
+          "source_info_link": "https://improvephotography.com/72030/best-beginner-mirrorless-camera/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVnFOX2tVelN2WDJibnJ1OVBLTVVoa2hPVjc2YnV6SjRBTHhmMG1sODcyUmdGdjhrSlZiUGVVYTUxYTJUT0IyX0dzc3FXS1BMQktLMmVzVy15Rk5wWkVWYmRDVTB1bnNhRXpIeURCRXZXR1VxbTdDZ0FhLVR3Ti12ajlNX3dwVUVHZWFweHJLWVlxa3FyRUxfTkc3ci1DQXpEeFhQTkt5aVkSBBoCCAAamQYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9QUIABAAGAAgACoWCgRiZXN0FUat2UAaBGdvb2QaA3RvcCo1CgptaXJyb3JsZXNzFRns-EAaEW1pcnJvcmxlc3NjYW1lcmFzGg9pdjtwO21pcnJvcmxlc3MqKQoHY2FtZXJhcxU1HoJAGgZjYW1lcmEaEW1pcnJvcmxlc3NjYW1lcmFzKgoKA2ZvchUAAAAAKlcKCGJlZ2lubmVyFUEQw0AaCGFtYXRldXJzGgliZWdpbm5lcnMaB2xlYXJuZXIaBm5vdmljZRoHbm92aWNlcxoIc3RhcnRlcnMaDWl2O3A7YmVnaW5uZXIqWgoNcGhvdG9ncmFwaGVycxUQdvQ_GghhbWF0ZXVycxoMcGhvdG9ncmFwaGVyGgtwaG90b2dyYXBocxoLcGhvdG9ncmFwaHkaEml2O3A7cGhvdG9ncmFwaGVyczK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZxTl9rVXpTdlgyYm5ydTlQS01VaGtoT1Y3NmJ1eko0QUx4ZjBtbDg3MlJnRnY4a0pWYlBlVWE1MWEyVE9CMl9Hc3NxV0tQTEJLSzJlc1cteUZOcFpFVmJkQ1UwdW5zYUV6SHlEQkV2V0dVcW03Q2dBYS1Ud04tdmo5TV93cFVFR2VhcHhyS1lZcWtxckVMX05HN3ItQ0F6RHhYUE5LeWlZOkM8Yj5CZXN0IEJlZ2lubmVyIE1pcnJvcmxlc3MgQ2FtZXJhPC9iPiAtIEltcHJvdmUgPGI-UGhvdG9ncmFwaHk8L2I-QqcBVGhlIG92ZXJhbGwgYmVzdCBjYW1lcmEgaXMgdGhlIDxiPlNvbnkgQWxwaGEgQTYxMDA8L2I-IGFzIGl0JiMzOTtzIHRoZSBtb3N0IHJlbGlhYmxlIGFuZCBvdmVyYWxsIGNyZWF0ZXMgdGhlIGhpZ2hlc3QgcXVhbGl0eSBwaG90b2dyYXBoeSBhbmQgdmlkZW9ncmFwaHkgZm9yIGJlZ2lubmVycy5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVnFOX2tVelN2WDJibnJ1OVBLTVVoa2hPVjc2YnV6SjRBTHhmMG1sODcyUmdGdjhrSlZiUGVVYTUxYTJUT0IyX0dzc3FXS1BMQktLMmVzVy15Rk5wWkVWYmRDVTB1bnNhRXpIeURCRXZXR1VxbTdDZ0FhLVR3Ti12ajlNX3dwVUVHZWFweHJLWVlxa3FyRUxfTkc3ci1DQXpEeFhQTkt5aVkSBBoCCAAamQYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA9QUIABAAGAAgACoWCgRiZXN0FUat2UAaBGdvb2QaA3RvcCo1CgptaXJyb3JsZXNzFRns-EAaEW1pcnJvcmxlc3NjYW1lcmFzGg9pdjtwO21pcnJvcmxlc3MqKQoHY2FtZXJhcxU1HoJAGgZjYW1lcmEaEW1pcnJvcmxlc3NjYW1lcmFzKgoKA2ZvchUAAAAAKlcKCGJlZ2lubmVyFUEQw0AaCGFtYXRldXJzGgliZWdpbm5lcnMaB2xlYXJuZXIaBm5vdmljZRoHbm92aWNlcxoIc3RhcnRlcnMaDWl2O3A7YmVnaW5uZXIqWgoNcGhvdG9ncmFwaGVycxUQdvQ_GghhbWF0ZXVycxoMcGhvdG9ncmFwaGVyGgtwaG90b2dyYXBocxoLcGhvdG9ncmFwaHkaEml2O3A7cGhvdG9ncmFwaGVyczK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZxTl9rVXpTdlgyYm5ydTlQS01VaGtoT1Y3NmJ1eko0QUx4ZjBtbDg3MlJnRnY4a0pWYlBlVWE1MWEyVE9CMl9Hc3NxV0tQTEJLSzJlc1cteUZOcFpFVmJkQ1UwdW5zYUV6SHlEQkV2V0dVcW03Q2dBYS1Ud04tdmo5TV93cFVFR2VhcHhyS1lZcWtxckVMX05HN3ItQ0F6RHhYUE5LeWlZOkM8Yj5CZXN0IEJlZ2lubmVyIE1pcnJvcmxlc3MgQ2FtZXJhPC9iPiAtIEltcHJvdmUgPGI-UGhvdG9ncmFwaHk8L2I-QqcBVGhlIG92ZXJhbGwgYmVzdCBjYW1lcmEgaXMgdGhlIDxiPlNvbnkgQWxwaGEgQTYxMDA8L2I-IGFzIGl0JiMzOTtzIHRoZSBtb3N0IHJlbGlhYmxlIGFuZCBvdmVyYWxsIGNyZWF0ZXMgdGhlIGhpZ2hlc3QgcXVhbGl0eSBwaG90b2dyYXBoeSBhbmQgdmlkZW9ncmFwaHkgZm9yIGJlZ2lubmVycy5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Improve Photography",
+      "read_more_link": "https://improvephotography.com/72030/best-beginner-mirrorless-camera/#:~:text=The%20overall%20best%20camera%20is,photography%20and%20videography%20for%20beginners."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best mirrorless cameras for beginner photographers reddit",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Best+mirrorless+cameras+for+beginner+photographers+reddit&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+mirrorless+cameras+for+beginner+photographers+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best full-frame mirrorless camera for beginners",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Best+full-frame+mirrorless+camera+for+beginners&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+full-frame+mirrorless+camera+for+beginners"
+    },
+    {
+      "block_position": 1,
+      "query": "Best mirrorless cameras for beginner photographers nikon",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Best+mirrorless+cameras+for+beginner+photographers+nikon&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+mirrorless+cameras+for+beginner+photographers+nikon"
+    },
+    {
+      "block_position": 1,
+      "query": "Best mirrorless camera for professional photography",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Best+mirrorless+camera+for+professional+photography&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+mirrorless+camera+for+professional+photography"
+    },
+    {
+      "block_position": 1,
+      "query": "Best mirrorless camera for photography",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Best+mirrorless+camera+for+photography&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+mirrorless+camera+for+photography"
+    },
+    {
+      "block_position": 1,
+      "query": "Best mirrorless camera for intermediate photographer",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Best+mirrorless+camera+for+intermediate+photographer&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+mirrorless+camera+for+intermediate+photographer"
+    },
+    {
+      "block_position": 1,
+      "query": "Best mirrorless camera for vlogging and photography",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Best+mirrorless+camera+for+vlogging+and+photography&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+mirrorless+camera+for+vlogging+and+photography"
+    },
+    {
+      "block_position": 1,
+      "query": "Best beginner mirrorless camera for photography and videography",
+      "link": "https://www.google.com/search?sca_esv=ef797d1f1ed451da&hl=en&gl=us&q=Best+beginner+mirrorless+camera+for+photography+and+videography&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+beginner+mirrorless+camera+for+photography+and+videography"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Under $500",
+      "link": "https://www.google.com/search?hl=en&q=best+mirrorless+cameras+for+beginner+photographers+under+$500&gl=us&shoprs=CAESDRILEQAAAABlzb1BGAEYBSoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyIwgFEgpVbmRlciAkNTAwGAIiDRILEQAAAABlzb1BGAEqAhgBWI7XIGAB&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKAF6BAg3EGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers+under+%24500"
+    },
+    {
+      "query": "Full Frame Sensor",
+      "link": "https://www.google.com/search?hl=en&q=full+frame+sensor+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyIQgBEhFGdWxsIEZyYW1lIFNlbnNvcjoKCPbULBCM1ywwAFiO1yBgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKAJ6BAg3EGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=full+frame+sensor+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "With Video",
+      "link": "https://www.google.com/search?hl=en&q=best+mirrorless+cameras+for+beginner+photographers+with+video&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyHAgBEgpXaXRoIFZpZGVvGAI6Cgju0ToQ79E6MANYjtcgYAE&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKAN6BAg3EG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers+with+video"
+    },
+    {
+      "query": "24.5 – 26.1 effective MP",
+      "link": "https://www.google.com/search?hl=en&q=24.5+effective+mp+to+26.1+effective+mp+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAESGyoZCNm02QMSEgkAAAAAAIA4QBEAAACgmRk6QBgBKjJiZXN0IG1pcnJvcmxlc3MgY2FtZXJhcyBmb3IgYmVnaW5uZXIgcGhvdG9ncmFwaGVyczJyCAESGjI0LjUg4oCTIDI2LjEgZWZmZWN0aXZlIE1QIhsqGQjZtNkDEhIJAAAAAACAOEARAAAAoJkZOkAqKgomMjQuNSBlZmZlY3RpdmUgTVAgdG8gMjYuMSBlZmZlY3RpdmUgTVAYAToJCNm02QMQADAGWI7XIGAB&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKAR6BAg3EG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=24.5+effective+mp+to+26.1+effective+mp+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Mirrorless System",
+      "link": "https://www.google.com/search?hl=en&q=mirrorless+system+best+cameras+for+beginner+photographers&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyIQgBEhFNaXJyb3JsZXNzIFN5c3RlbToKCN6bLBDgmywwAliO1yBgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKAV6BAg3EG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=mirrorless+system+best+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Get it tomorrow",
+      "link": "https://www.google.com/search?hl=en&q=best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAESDZoBCgoIEAE4AUADSAEYFCoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyKAgUEg9HZXQgaXQgdG9tb3Jyb3ciDZoBCgoIEAE4AUADSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKAZ6BAg3EHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "20.9 – 24.5 effective MP",
+      "link": "https://www.google.com/search?hl=en&q=20.9+effective+mp+to+24.5+effective+mp+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAESGyoZCNm02QMSEgkAAABgZuY0QBEAAAAAAIA4QBgBKjJiZXN0IG1pcnJvcmxlc3MgY2FtZXJhcyBmb3IgYmVnaW5uZXIgcGhvdG9ncmFwaGVyczJyCAESGjIwLjkg4oCTIDI0LjUgZWZmZWN0aXZlIE1QIhsqGQjZtNkDEhIJAAAAYGbmNEARAAAAAACAOEAqKgomMjAuOSBlZmZlY3RpdmUgTVAgdG8gMjQuNSBlZmZlY3RpdmUgTVAYAToJCNm02QMQADAGWI7XIGAB&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKAd6BAg3EHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=20.9+effective+mp+to+24.5+effective+mp+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Over 26.1 effective MP",
+      "link": "https://www.google.com/search?hl=en&q=over+26.1+effective+mp+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAESEioQCNm02QMSCQkAAACgmRk6QBgBKjJiZXN0IG1pcnJvcmxlc3MgY2FtZXJhcyBmb3IgYmVnaW5uZXIgcGhvdG9ncmFwaGVyczI9CAESFk92ZXIgMjYuMSBlZmZlY3RpdmUgTVAiEioQCNm02QMSCQkAAACgmRk6QCoCGAE6CQjZtNkDEAAwBliO1yBgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKAh6BAg3EHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=over+26.1+effective+mp+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Under 20.9 effective MP",
+      "link": "https://www.google.com/search?hl=en&q=under+20.9+effective+mp+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAESEioQCNm02QMSCREAAABgZuY0QBgBKjJiZXN0IG1pcnJvcmxlc3MgY2FtZXJhcyBmb3IgYmVnaW5uZXIgcGhvdG9ncmFwaGVyczI-CAESF1VuZGVyIDIwLjkgZWZmZWN0aXZlIE1QIhIqEAjZtNkDEgkRAAAAYGbmNEAqAhgBOgkI2bTZAxAAMAZYjtcgYAE&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKAl6BAg3EHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=under+20.9+effective+mp+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=best+mirrorless+cameras+for+beginner+photographers+sale&gl=us&shoprs=CAESBEoCGAEYBioyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyEwgGEgdPbiBzYWxlGAIiBEoCGAFYjtcgYAE&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKAp6BAg3EHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers+sale"
+    },
+    {
+      "query": "Digital Cameras",
+      "link": "https://www.google.com/search?hl=en&q=digital+cameras+best+mirrorless+for+beginner+photographers&gl=us&shoprs=CAEYCSoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyEwgJEg9EaWdpdGFsIENhbWVyYXNgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKAt6BAg3EHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=digital+cameras+best+mirrorless+for+beginner+photographers"
+    },
+    {
+      "query": "24.2 – 32.5 MP",
+      "link": "https://www.google.com/search?hl=en&q=24.2+mp+to+32.5+mp+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAESGioYCLa3PhISCQAAAEAzMzhAEQAAAAAAQEBAGAEqMmJlc3QgbWlycm9ybGVzcyBjYW1lcmFzIGZvciBiZWdpbm5lciBwaG90b2dyYXBoZXJzMlIIARIQMjQuMiDigJMgMzIuNSBNUCIaKhgItrc-EhIJAAAAQDMzOEARAAAAAABAQEAqFgoSMjQuMiBNUCB0byAzMi41IE1QGAE6CAi2tz4QADAGWI7XIGAB&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKAx6BAg3EHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=24.2+mp+to+32.5+mp+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Professional",
+      "link": "https://www.google.com/search?hl=en&q=professional+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAEYEioyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyEAgSEgxQcm9mZXNzaW9uYWxgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKA16BAg3EHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=professional+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Weather Sealed",
+      "link": "https://www.google.com/search?hl=en&q=weather+sealed+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyHggBEg5XZWF0aGVyIFNlYWxlZDoKCLvXOhC81zowA1iO1yBgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKA56BAg3EHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=weather+sealed+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "With Image Stabilization",
+      "link": "https://www.google.com/search?hl=en&q=best+mirrorless+cameras+for+beginner+photographers+with+image+stabilization&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyKggBEhhXaXRoIEltYWdlIFN0YWJpbGl6YXRpb24YAjoKCOfROhDo0TowA1iO1yBgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKA96BAg3EHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers+with+image+stabilization"
+    },
+    {
+      "query": "Wi-Fi",
+      "link": "https://www.google.com/search?hl=en&q=wi-fi+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyFwgBEgVXaS1GaToMCKPnsQIQpeexAjACWI7XIGAB&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKBB6BAg3EHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=wi-fi+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Film Cameras",
+      "link": "https://www.google.com/search?hl=en&q=film+cameras+best+mirrorless+for+beginner+photographers&gl=us&shoprs=CAEYCSoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyEAgJEgxGaWxtIENhbWVyYXNgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKBF6BAg3EHs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=film+cameras+best+mirrorless+for+beginner+photographers"
+    },
+    {
+      "query": "Over 40.2 MP",
+      "link": "https://www.google.com/search?hl=en&q=over+40.2+mp+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAESESoPCLa3PhIJCQAAAKCZGURAGAEqMmJlc3QgbWlycm9ybGVzcyBjYW1lcmFzIGZvciBiZWdpbm5lciBwaG90b2dyYXBoZXJzMjEIARIMT3ZlciA0MC4yIE1QIhEqDwi2tz4SCQkAAACgmRlEQCoCGAE6CAi2tz4QADAGWI7XIGAB&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKBJ6BAg3EHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=over+40.2+mp+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Crop Sensor",
+      "link": "https://www.google.com/search?hl=en&q=crop+sensor+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyGwgBEgtDcm9wIFNlbnNvcjoKCPbULBCL1ywwAFiO1yBgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKBN6BAg3EH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=crop+sensor+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Bluetooth",
+      "link": "https://www.google.com/search?hl=en&q=bluetooth+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyGwgBEglCbHVldG9vdGg6DAij57ECEKTnsQIwAliO1yBgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKBR6BAg3EH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=bluetooth+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?hl=en&q=black+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyFQgBEgVCbGFjazoKCIbnZBCH52QwAFiO1yBgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKBV6BAg3EH8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=black+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Detachable Flash",
+      "link": "https://www.google.com/search?hl=en&q=detachable+flash+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyIAgBEhBEZXRhY2hhYmxlIEZsYXNoOgoInakrEKCpKzAAWI7XIGAB&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKBZ6BQg3EIAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=detachable+flash+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Under 24.2 MP",
+      "link": "https://www.google.com/search?hl=en&q=under+24.2+mp+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAESESoPCLa3PhIJEQAAAEAzMzhAGAEqMmJlc3QgbWlycm9ybGVzcyBjYW1lcmFzIGZvciBiZWdpbm5lciBwaG90b2dyYXBoZXJzMjIIARINVW5kZXIgMjQuMiBNUCIRKg8Itrc-EgkRAAAAQDMzOEAqAhgBOggItrc-EAAwBliO1yBgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKBd6BQg3EIEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=under+24.2+mp+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Built-in Flash",
+      "link": "https://www.google.com/search?hl=en&q=built-in+flash+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyHggBEg5CdWlsdC1pbiBGbGFzaDoKCJ2pKxCfqSswAFiO1yBgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKBh6BQg3EIIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=built-in+flash+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "CMOS",
+      "link": "https://www.google.com/search?hl=en&q=cmos+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyFAgBEgRDTU9TOgoIjNUsEI3VLDAAWI7XIGAB&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKBl6BQg3EIMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=cmos+best+mirrorless+cameras+for+beginner+photographers"
+    },
+    {
+      "query": "Nikon",
+      "link": "https://www.google.com/search?hl=en&q=nikon+best+mirrorless+cameras+for+beginner+photographers&gl=us&shoprs=CAEYASoyYmVzdCBtaXJyb3JsZXNzIGNhbWVyYXMgZm9yIGJlZ2lubmVyIHBob3RvZ3JhcGhlcnMyFQgBEgVOaWtvbjoKCIPzPBD38z4wAViO1yBgAQ&sa=X&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Qip4GKBp6BQg3EIQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=nikon+best+mirrorless+cameras+for+beginner+photographers"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+mirrorless+cameras+for+beginner+photographers&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=FKeyapjWAojEp84P-pKx6A8&start=10&sa=N&sstk=AS6-VmIZOzagEIcc2p7uCZOAugOyu6JaOssfu2Z6_5eGgEev08sMFzCBVNM5ELG6nWfqCnAMjQDfB6S0j6DrBo9k4cXEdZ_63Z9O5A&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q8NMDegQIUxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+mirrorless+cameras+for+beginner+photographers&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=FKeyapjWAojEp84P-pKx6A8&start=10&sa=N&sstk=AS6-VmIZOzagEIcc2p7uCZOAugOyu6JaOssfu2Z6_5eGgEev08sMFzCBVNM5ELG6nWfqCnAMjQDfB6S0j6DrBo9k4cXEdZ_63Z9O5A&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q8tMDegQIUxAE",
+      "3": "https://www.google.com/search?q=best+mirrorless+cameras+for+beginner+photographers&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=FKeyapjWAojEp84P-pKx6A8&start=20&sa=N&sstk=AS6-VmIZOzagEIcc2p7uCZOAugOyu6JaOssfu2Z6_5eGgEev08sMFzCBVNM5ELG6nWfqCnAMjQDfB6S0j6DrBo9k4cXEdZ_63Z9O5A&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q8tMDegQIUxAG",
+      "4": "https://www.google.com/search?q=best+mirrorless+cameras+for+beginner+photographers&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=FKeyapjWAojEp84P-pKx6A8&start=30&sa=N&sstk=AS6-VmIZOzagEIcc2p7uCZOAugOyu6JaOssfu2Z6_5eGgEev08sMFzCBVNM5ELG6nWfqCnAMjQDfB6S0j6DrBo9k4cXEdZ_63Z9O5A&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q8tMDegQIUxAI",
+      "5": "https://www.google.com/search?q=best+mirrorless+cameras+for+beginner+photographers&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=FKeyapjWAojEp84P-pKx6A8&start=40&sa=N&sstk=AS6-VmIZOzagEIcc2p7uCZOAugOyu6JaOssfu2Z6_5eGgEev08sMFzCBVNM5ELG6nWfqCnAMjQDfB6S0j6DrBo9k4cXEdZ_63Z9O5A&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q8tMDegQIUxAK",
+      "6": "https://www.google.com/search?q=best+mirrorless+cameras+for+beginner+photographers&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=FKeyapjWAojEp84P-pKx6A8&start=50&sa=N&sstk=AS6-VmIZOzagEIcc2p7uCZOAugOyu6JaOssfu2Z6_5eGgEev08sMFzCBVNM5ELG6nWfqCnAMjQDfB6S0j6DrBo9k4cXEdZ_63Z9O5A&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q8tMDegQIUxAM",
+      "7": "https://www.google.com/search?q=best+mirrorless+cameras+for+beginner+photographers&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=FKeyapjWAojEp84P-pKx6A8&start=60&sa=N&sstk=AS6-VmIZOzagEIcc2p7uCZOAugOyu6JaOssfu2Z6_5eGgEev08sMFzCBVNM5ELG6nWfqCnAMjQDfB6S0j6DrBo9k4cXEdZ_63Z9O5A&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q8tMDegQIUxAO",
+      "8": "https://www.google.com/search?q=best+mirrorless+cameras+for+beginner+photographers&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=FKeyapjWAojEp84P-pKx6A8&start=70&sa=N&sstk=AS6-VmIZOzagEIcc2p7uCZOAugOyu6JaOssfu2Z6_5eGgEev08sMFzCBVNM5ELG6nWfqCnAMjQDfB6S0j6DrBo9k4cXEdZ_63Z9O5A&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q8tMDegQIUxAQ",
+      "9": "https://www.google.com/search?q=best+mirrorless+cameras+for+beginner+photographers&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=FKeyapjWAojEp84P-pKx6A8&start=80&sa=N&sstk=AS6-VmIZOzagEIcc2p7uCZOAugOyu6JaOssfu2Z6_5eGgEev08sMFzCBVNM5ELG6nWfqCnAMjQDfB6S0j6DrBo9k4cXEdZ_63Z9O5A&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q8tMDegQIUxAS",
+      "10": "https://www.google.com/search?q=best+mirrorless+cameras+for+beginner+photographers&sca_esv=ef797d1f1ed451da&hl=en&gl=us&ei=FKeyapjWAojEp84P-pKx6A8&start=90&sa=N&sstk=AS6-VmIZOzagEIcc2p7uCZOAugOyu6JaOssfu2Z6_5eGgEev08sMFzCBVNM5ELG6nWfqCnAMjQDfB6S0j6DrBo9k4cXEdZ_63Z9O5A&ved=2ahUKEwiYsKavyIKXAxUI4skDHXpJDP0Q8tMDegQIUxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+mirrorless+cameras+for+beginner+photographers&start=90"
+    }
+  }
+}

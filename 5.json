@@ -1,0 +1,1230 @@
+{
+  "search_metadata": {
+    "id": "6ab2b13b4632b55230f6591d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Tn0teFmnPIcZD2qX427qpsCUrodekvUO2pW2zkUzy0A/6ab2b13b4632b55230f6591d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Tn0teFmnPIcZD2qX427qpsCUrodekvUO2pW2zkUzy0A/6ab2b13b4632b55230f6591d.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Tn0teFmnPIcZD2qX427qpsCUrodekvUO2pW2zkUzy0A/6ab2b13b4632b55230f6591d.json_with_pixel_position",
+    "created_at": "2026-09-22 16:47:55 UTC",
+    "processed_at": "2026-09-22 16:47:55 UTC",
+    "google_url": "https://www.google.com/search?q=best+4k+monitors+for+video+editing&oq=best+4k+monitors+for+video+editing&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Tn0teFmnPIcZD2qX427qpsCUrodekvUO2pW2zkUzy0A/6ab2b13b4632b55230f6591d.html",
+    "total_time_taken": 1.27
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best 4k monitors for video editing",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best 4k monitors for video editing",
+    "total_results": 156,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Best Monitors for Video Editing 2026 - Your Eyes Deserve Better",
+      "link": "https://www.youtube.com/watch?v=orz3XAjW7dM",
+      "thumbnail": "https://serpapi.com/searches/6ab2b13b4632b55230f6591d/images/R8_tdKZpLZiMKPRYxKCcAl0Lg5VieuZmNMJWxqDkiLQ.jpeg",
+      "channel": "Audioviser",
+      "duration": "10:07",
+      "platform": "YouTube",
+      "date": "Jul 1, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQDZlPMVW4lyi2Xd79d_I9XJoL56HzzvfZkkw"
+    },
+    {
+      "position": 2,
+      "title": "The 5 BEST Monitors for Video Editing In Every Price Range!",
+      "link": "https://www.youtube.com/watch?v=U4A5UlPCDj4&vl=en",
+      "thumbnail": "https://serpapi.com/searches/6ab2b13b4632b55230f6591d/images/TZ2-iTkiXXSx3vJ2CFiLcOvWf5HyfMoMLpT-TlXj_XQ.jpeg",
+      "channel": "Smart Picked",
+      "duration": "9:25",
+      "platform": "YouTube",
+      "date": "Apr 14, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTu9SzljP1TQahCowYmUTntCnYQeTgQfY0_ug",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "INTRO",
+          "link": "https://www.youtube.com/watch?v=U4A5UlPCDj4&vl=en&t=0"
+        },
+        {
+          "time": "00:38",
+          "title": "️5. AOC Q27G3XMN - Best Budget Monitor for Video Editing",
+          "link": "https://www.youtube.com/watch?v=U4A5UlPCDj4&vl=en&t=38"
+        },
+        {
+          "time": "02:07",
+          "title": "️4. Dell U4025QW - Best Ultrawide Monitor for Video Editing",
+          "link": "https://www.youtube.com/watch?v=U4A5UlPCDj4&vl=en&t=127"
+        },
+        {
+          "time": "03:57",
+          "title": "️3. ViewSonic ColorPro VP2786-4K - Best Monitor for 4K Video Editing",
+          "link": "https://www.youtube.com/watch?v=U4A5UlPCDj4&vl=en&t=237"
+        },
+        {
+          "time": "05:37",
+          "title": "️2. Eizo ColorEdge CG2700X - Best Monitor for professionals Video Editing",
+          "link": "https://www.youtube.com/watch?v=U4A5UlPCDj4&vl=en&t=337"
+        },
+        {
+          "time": "07:25",
+          "title": "️1. Benq SW321C Photovue - Best Monitor for Video Editing Overall",
+          "link": "https://www.youtube.com/watch?v=U4A5UlPCDj4&vl=en&t=445"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Budget Monitors for Video Editing & Gaming Buyer's Guide ...",
+      "link": "https://www.youtube.com/watch?v=oJm_rX1tZ7U&vl=en",
+      "thumbnail": "https://serpapi.com/searches/6ab2b13b4632b55230f6591d/images/rjpLJLTAyonCRMQ2RSxjbaYTRmb61T9M_A4Su4GkRqQ.jpeg",
+      "channel": "Matt WhoisMatt Johnson",
+      "duration": "14:49",
+      "platform": "YouTube",
+      "date": "Feb 3, 2026",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "These Monitors Are All $500 Or Less!",
+          "link": "https://www.youtube.com/watch?v=oJm_rX1tZ7U&vl=en&t=0"
+        },
+        {
+          "time": "00:54",
+          "title": "Lowest Price Budget HD Monitor",
+          "link": "https://www.youtube.com/watch?v=oJm_rX1tZ7U&vl=en&t=54"
+        },
+        {
+          "time": "01:34",
+          "title": "Low Price But Better For Gaming HD Monitor",
+          "link": "https://www.youtube.com/watch?v=oJm_rX1tZ7U&vl=en&t=94"
+        },
+        {
+          "time": "02:12",
+          "title": "Great Price & Larger Screen HD Monitor",
+          "link": "https://www.youtube.com/watch?v=oJm_rX1tZ7U&vl=en&t=132"
+        },
+        {
+          "time": "03:18",
+          "title": "Best Bang For Your Buck 1440P Mini-LED Monitor",
+          "link": "https://www.youtube.com/watch?v=oJm_rX1tZ7U&vl=en&t=198"
+        },
+        {
+          "time": "05:46",
+          "title": "Good IPS Panel 1440P Monitor",
+          "link": "https://www.youtube.com/watch?v=oJm_rX1tZ7U&vl=en&t=346"
+        },
+        {
+          "time": "06:23",
+          "title": "Highest Quality 1440P OLED Monitor",
+          "link": "https://www.youtube.com/watch?v=oJm_rX1tZ7U&vl=en&t=383"
+        },
+        {
+          "time": "08:35",
+          "title": "High Quality 4K Editing-Focused Monitor",
+          "link": "https://www.youtube.com/watch?v=oJm_rX1tZ7U&vl=en&t=515"
+        },
+        {
+          "time": "10:30",
+          "title": "Good Quality 4K Editing-Focused Monitor",
+          "link": "https://www.youtube.com/watch?v=oJm_rX1tZ7U&vl=en&t=630"
+        },
+        {
+          "time": "11:12",
+          "title": "Fantastic Quality 4K Editing & Gaming Monitor",
+          "link": "https://www.youtube.com/watch?v=oJm_rX1tZ7U&vl=en&t=672"
+        }
+      ]
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR8pYfg1-PmOUqGabd5T-p0jqKeRqfsPz5y1-VFgkl-GUcGHC_qtQO3S7X3YnvyX-2sdvre_pMZ4aW7YLtuUdF0sfNoxoyMHLrOgHu6DLw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Alienware 32\" aw3225qf OLED QD-OLED 240Hz Gaming Monitor",
+      "rating": 4.6,
+      "reviews": 3200,
+      "price": "$779.99",
+      "extracted_price": 779.99,
+      "original_price": "$1,000",
+      "extracted_original_price": 1000,
+      "location": "Nearby, 3 mi",
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "22% OFF"
+      ],
+      "immersive_product_page_token": "AnE3knicdZLLjqNGFIaVV8nWm6qC4pJd21DYpA3NrYDajDBFG0xxMQbbWPMOeYXIPRNpspwZ5V06L5JtrFknqyP9n845_390frsX1V-uas3ZFBq2VvXnAbzMbnULvC_90PEpHyv-DQOoySpUdBUjIOuqhKQveTZmots_KFSgqiBNlySIIJYVJEtfyyLjomoL9_W1GIwur_h3iBWENFWHkqTJUJOwpuI_qybbFz_4728DP73LL6sPEGg6VmRNUSB4bAW6ruofX3zX-PA_8PNxKob5_eddcRoXcr1ourYau-G0eO2GxbniRbcoeDVW7f7zvv9h5T-GvDUV_4pV5eFfwwghBUsykMFbfx7v5f7TNIni3bgsVk8bb7PaDBSRW2aJiUn-eVddTW9-6gKLtCyxb9zSpYfm-Kv6RGPcc4vWG-KANPFFfrnvxX063UtxL9o_uqw_v-Z___SPeU5XqyFfeVHfU8MHIbGnFIlqB5eYmvs5aMkxMzgMAjBu4xyylpzjkD7nB9YG4dJKgXyNGnwKSH0pDqXrJn2fIZpsTZoyQI65sLFr4W2AymMq-UaCyJhHvpFKHLCbMz6Hjh2s6ZCFtNw25JlZ_BpSXqVtf3GSvvaocHPk3-Ikv3n1NSziMgpjTcpienYtMedtOeWG3zhtb8WWWDoH1gUhvbgmVjwEyQ5pcwacWyT4aVc7L4UlcL72sAdtP26jW0T2s2v2ilPDR7WbncEOKbSjWDDCWmEzdLVZAG12o3HaQMsl4pkdCClME3NiC95QOT4slTRJ5RDBSxCPcmjykUX9kiO6derS85JlFyQlo4dUDojAOwBlurbl2LCpb_gsRIJsCWt8sUGZydzoRqBL9dmHfCxW4OKG3uO8muRLouTUN4ND2edrNm_JEj96lQia2aYmZi5tMBPOTIleR2vi-xZJvEbAKNnLTsLNOOl_deAGbIX56XoaXt_BE8Fj4Cq5XKuTz49Dp0xOfZ2fbeqwR_qj6v0CVR2Ax9eqWFe1fwHhID2E",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=AnE3knicdZLLjqNGFIaVV8nWm6qC4pJd21DYpA3NrYDajDBFG0xxMQbbWPMOeYXIPRNpspwZ5V06L5JtrFknqyP9n845_390frsX1V-uas3ZFBq2VvXnAbzMbnULvC_90PEpHyv-DQOoySpUdBUjIOuqhKQveTZmots_KFSgqiBNlySIIJYVJEtfyyLjomoL9_W1GIwur_h3iBWENFWHkqTJUJOwpuI_qybbFz_4728DP73LL6sPEGg6VmRNUSB4bAW6ruofX3zX-PA_8PNxKob5_eddcRoXcr1ourYau-G0eO2GxbniRbcoeDVW7f7zvv9h5T-GvDUV_4pV5eFfwwghBUsykMFbfx7v5f7TNIni3bgsVk8bb7PaDBSRW2aJiUn-eVddTW9-6gKLtCyxb9zSpYfm-Kv6RGPcc4vWG-KANPFFfrnvxX063UtxL9o_uqw_v-Z___SPeU5XqyFfeVHfU8MHIbGnFIlqB5eYmvs5aMkxMzgMAjBu4xyylpzjkD7nB9YG4dJKgXyNGnwKSH0pDqXrJn2fIZpsTZoyQI65sLFr4W2AymMq-UaCyJhHvpFKHLCbMz6Hjh2s6ZCFtNw25JlZ_BpSXqVtf3GSvvaocHPk3-Ikv3n1NSziMgpjTcpienYtMedtOeWG3zhtb8WWWDoH1gUhvbgmVjwEyQ5pcwacWyT4aVc7L4UlcL72sAdtP26jW0T2s2v2ilPDR7WbncEOKbSjWDDCWmEzdLVZAG12o3HaQMsl4pkdCClME3NiC95QOT4slTRJ5RDBSxCPcmjykUX9kiO6derS85JlFyQlo4dUDojAOwBlurbl2LCpb_gsRIJsCWt8sUGZydzoRqBL9dmHfCxW4OKG3uO8muRLouTUN4ND2edrNm_JEj96lQia2aYmZi5tMBPOTIleR2vi-xZJvEbAKNnLTsLNOOl_deAGbIX56XoaXt_BE8Fj4Cq5XKuTz49Dp0xOfZ2fbeqwR_qj6v0CVR2Ax9eqWFe1fwHhID2E"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ8hk-C3Xjq--jhwHm35vNr0aidqNCFqMlgcd34-SMrlit95FxUCjlWGgJAE7XU-9P1bplF6fxPpkcYwazlRo6DRkxWBJt0XDAQgVy0wqFMM4O8CzVSMwNF",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQPU7RrWnlswWxDYIEELAzSZfr-fvtd_rL_e9qdtgknZhM7mDaW7LBjw4R8Q8vnfWLCSWuHe7CUYNsds8nK6NBPbT0GZK9R3YJx7DWb5ru20g",
+      "source": "PayMore Frederick",
+      "title": "Lenovo Lgion Y32P-30 31.5\" Uhd Ips 144hz Amd Free Sync Gaming Monitor",
+      "price": "$279.99",
+      "extracted_price": 279.99,
+      "location": "Nearby, 23 mi",
+      "immersive_product_page_token": "0ARJyXicdYzLbptAAEXVX-nWqjQ8xjbdBfOwUTzEAwyPHWYGgxlgCvgBP9FfiJykUrqsqq77G-nXNJsuK93VOTr3642Vv9yFPaYn33CWpTh34GF0y8nbvYqupadsKOlPCUIFSLK8WC5lKCkSVBfgNUuHlLeHkj7-KFhKedkwN89ZZ7TZf5LvZZ0e2D-_hECTl4qsvW8O5flcfupo__jy5cS68e3jnvXDTK1mdduUQ9v1s7ztZueSsnbGaDmUzeHlIN6fHp_qkv5-EufhVhyeTyfO3ozLbHW32W1Wm47I1pTa_JQo-Lwvr-ZuvGs922qSyJmorSnvDOFV1ZMQCmqTamMhEEeYZ5fbgd9O_a3gN9Z8a1NxzrM_Hwqz7Ver_qLvAiGIgYFXF-leNkfMrSpb61Fg8CjgReyaA_RNosahwKwSKxTGUyRZUSTTCa8tEPoI-T4_-go-EiBE7BebpL4qQUPzveIMnq8PniI8Iul65ifD1jYhDaQjC6Uj5vqIfWQyniQY4AkFW4kYheMSq7kPrGlvmIA15uT5KPbtIkeTxb2Kq_uJP8QyP4YB3iXTVo2mjeJPFCJO1aC-7vYKLYgM71mIfWLoKLB0mADHQSbqfa6t8TFQPSAm16ZfPC7mJNIxrq52AoRtFskDAhTGEQmw2apppMvZUd-xQBOMI2yXjo7XaHTDxEvqAaJ6q2xJBrOAVow4W7wWEyXoFMvOhXCuPF_7Ln8DdxYcPHe-GByU5ePGDPJ0VWJtDlT06XLXhO7ls7TQANDgfAG1hfYXtWv5pQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=0ARJyXicdYzLbptAAEXVX-nWqjQ8xjbdBfOwUTzEAwyPHWYGgxlgCvgBP9FfiJykUrqsqq77G-nXNJsuK93VOTr3642Vv9yFPaYn33CWpTh34GF0y8nbvYqupadsKOlPCUIFSLK8WC5lKCkSVBfgNUuHlLeHkj7-KFhKedkwN89ZZ7TZf5LvZZ0e2D-_hECTl4qsvW8O5flcfupo__jy5cS68e3jnvXDTK1mdduUQ9v1s7ztZueSsnbGaDmUzeHlIN6fHp_qkv5-EufhVhyeTyfO3ozLbHW32W1Wm47I1pTa_JQo-Lwvr-ZuvGs922qSyJmorSnvDOFV1ZMQCmqTamMhEEeYZ5fbgd9O_a3gN9Z8a1NxzrM_Hwqz7Ver_qLvAiGIgYFXF-leNkfMrSpb61Fg8CjgReyaA_RNosahwKwSKxTGUyRZUSTTCa8tEPoI-T4_-go-EiBE7BebpL4qQUPzveIMnq8PniI8Iul65ifD1jYhDaQjC6Uj5vqIfWQyniQY4AkFW4kYheMSq7kPrGlvmIA15uT5KPbtIkeTxb2Kq_uJP8QyP4YB3iXTVo2mjeJPFCJO1aC-7vYKLYgM71mIfWLoKLB0mADHQSbqfa6t8TFQPSAm16ZfPC7mJNIxrq52AoRtFskDAhTGEQmw2apppMvZUd-xQBOMI2yXjo7XaHTDxEvqAaJ6q2xJBrOAVow4W7wWEyXoFMvOhXCuPF_7Ln8DdxYcPHe-GByU5ePGDPJ0VWJtDlT06XLXhO7ls7TQANDgfAG1hfYXtWv5pQ"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSf9zeR8Gi2IJMOyz0FP5FspvKxA6mWjMHYS_A-T9pKe64dhDhHgL904PHwuT7wS6w-wMyBL9l14qVR9xJXgxkIdTlEZADRbO1Y3LJXB1E",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Samsung Odyssey 57\" Neo G9 Dual 4K Curved Ultrawide Gaming Monitor",
+      "rating": 4.5,
+      "reviews": 1000,
+      "price": "$2,099.99",
+      "extracted_price": 2099.99,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "wWNtZ3icdVNLjuM2FESukq0RgKREfbJr26JsjU23ZJH6bAa0KNmKvi3Jli3MHXKFwD0TYLKcBLlL5yLZxp11sq16VSi89-rne5r_udPtmzj7S8fI20sHnm-7fNq7X9uukedkyOXviqoj09A1QwNAx9hAUP2aiEGUzTGXf0DlHVJ1rOkqhlgxdKB-O6VClnmd7rIs7ZZN8nDRNKgDpAIMVQNqKtCh9lteiWP6L_3Layf7N_V58REi3QQA4Mc81DVkaoYCPj17u-XH_yG_vJzT7vb2_SHth5lazKqmzoem62dZ080uuUybWSrzIa-PX45t8p74P0xeq1x-w7qmasgwNQVBpGJdMV_by3A_HT-fz2X6thxni6e1u16sO47IJOzyHCve5ZBfLff21OxtUsehM0nbVB4Y9RZFzwPcSpsXa0JBFHplMt6P5f3c30_lPa1_bUR7yZK_vvvbukSLRZcsXNa2fOkB3-aWv5T9gXhu6ktNMuzEJSFsklmUg2HvO5uDMv_g1rxmk7ORoF1tfKLQkDoycHYyINMhoC--BVUxceZznrsh76Ib7FOGs4AfFZcxLCEFbDUvGGtPouKBhOaUQAsFXFIK-Qe_nhNeeVVStZvYdojHYhGvHCspnedtaYCUnxYiMFD8SLYlseohaKcW534huwg6O8a52JIy40v5EkMHCXIKQ0i1TcAHyiJFVoNFSTNJIN0IyD6wCpUXju0GR4WFMhQh2bqIF3JF925A6ba61gfUXg_cczbsFAlGlS1yqFjG8Ra2Iq56xApzldgM-cEV70tjFEtnigsn8FBxPVSy8S2M3YeG2cSOA9OjtYxF1WLml5FfztsNa3FUOKqo1MmzkzEEcfVYVbMPtntSGIqnlCfJPWv_06lNVvFtS-bYR6XGoCXWBbESZY3jkvqBfZw4kZedTTvJxsHPwfi4I_RYMtKSdAfL-nztu-wNPBE87HeaPjg0yW5ri2VikXumBlT6w_hUB7vxR_j-suajY9jUzX8AbCE8OQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=wWNtZ3icdVNLjuM2FESukq0RgKREfbJr26JsjU23ZJH6bAa0KNmKvi3Jli3MHXKFwD0TYLKcBLlL5yLZxp11sq16VSi89-rne5r_udPtmzj7S8fI20sHnm-7fNq7X9uukedkyOXviqoj09A1QwNAx9hAUP2aiEGUzTGXf0DlHVJ1rOkqhlgxdKB-O6VClnmd7rIs7ZZN8nDRNKgDpAIMVQNqKtCh9lteiWP6L_3Layf7N_V58REi3QQA4Mc81DVkaoYCPj17u-XH_yG_vJzT7vb2_SHth5lazKqmzoem62dZ080uuUybWSrzIa-PX45t8p74P0xeq1x-w7qmasgwNQVBpGJdMV_by3A_HT-fz2X6thxni6e1u16sO47IJOzyHCve5ZBfLff21OxtUsehM0nbVB4Y9RZFzwPcSpsXa0JBFHplMt6P5f3c30_lPa1_bUR7yZK_vvvbukSLRZcsXNa2fOkB3-aWv5T9gXhu6ktNMuzEJSFsklmUg2HvO5uDMv_g1rxmk7ORoF1tfKLQkDoycHYyINMhoC--BVUxceZznrsh76Ib7FOGs4AfFZcxLCEFbDUvGGtPouKBhOaUQAsFXFIK-Qe_nhNeeVVStZvYdojHYhGvHCspnedtaYCUnxYiMFD8SLYlseohaKcW534huwg6O8a52JIy40v5EkMHCXIKQ0i1TcAHyiJFVoNFSTNJIN0IyD6wCpUXju0GR4WFMhQh2bqIF3JF925A6ba61gfUXg_cczbsFAlGlS1yqFjG8Ra2Iq56xApzldgM-cEV70tjFEtnigsn8FBxPVSy8S2M3YeG2cSOA9OjtYxF1WLml5FfztsNa3FUOKqo1MmzkzEEcfVYVbMPtntSGIqnlCfJPWv_06lNVvFtS-bYR6XGoCXWBbESZY3jkvqBfZw4kZedTTvJxsHPwfi4I_RYMtKSdAfL-nztu-wNPBE87HeaPjg0yW5ri2VikXumBlT6w_hUB7vxR_j-suajY9jUzX8AbCE8OQ"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRFl5R6nDE6R42ynF98jFFAGOpJuhig78Ma1tKb6it-89UE3m-fMU5bCyL1MFxy7cOO0CH7grciepZ304pqY4WrPTRhE1_Ijqhe6NBemA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "\"Samsung 32\"\" 4K UHD LED Monitor u32j590uqn",
+      "rating": 4.0,
+      "reviews": 316,
+      "price": "$339.99",
+      "extracted_price": 339.99,
+      "location": "Nearby, 20 mi",
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "f2EN7HicbVPLjqNGFFV-JVsrUj14ZtfNq0EDtAuqbLMZFVXY0C4DwdjGaP4h_-CeiTSznBllnd_o_Ei2cbKeuzhXukc6j8X9_VY1f6ZmcOWn3I2spj8P4PmaNnO2_NwPnTyJsZHfIbANpBmGDvU7Qk0zIf4s-MhVt2vkN11HwDIwtEzbNIGhY4y-1hWXqmmrdLutBrcT_6no0IamDiyMdMM0sGZD-KU58F31P_8VIhvo90EasHTDvpu8DvL4hp6d97ahmRgbCFnQ1qBlG5b14Zmk7vsfc59-O1XD9e3nsjqOC22_OHRtM3bDcbHthsW5kVW3qGQzNu3u066_W3_7gcbroZF_vfbn8VbvPp5OqnpzLwvnIVyGTjgw5M88UKcCk3PZTN7y-tBlgd8W62iWgY3vt4Q4-yNb6b0M2D70E7BZEyUut526nY63Wt2q9o-O9-et-Punf7zzxnEG4Sxp3zOXgKxljvCKRGDJE0RoBnpS5oXG8oeLyBOasyQR-zooFVmma7-97ymnKqcrhrNDvSEz8fhLPMaKzoz6fv7EtHRFjNiB2hrBkXpgIrB2hGJ74UqjautOsMe2YOyceiGKmTXGjA0c2DnfWyhxl1OMpijz1UgO-pag3VQg-xA_JYSjSFGg94J5EwmiJM034F0uZ5lTuJ7Vls_Rc8JIV7jsIqB6qVb-LN3lLNuoib3lzNc-iMHklXiDk3Xkk6A-ceBfKHzsS7fgPIhqyWQW0ylarn1UtCFaudG-bKCKVUQLbwxTjx2JoqgMEs6oOtM9uEgsKXOZJnHPyjYcBZRBESQzgbJJVslTCex3hfIpf3l0M684FnRz4TgJNkCvK383p8EG8lWEGZRDCTb3_iLz9xYmWN3zEC97qXvxVFxj_1HPkTIo9Hi49z2BQ71Qnp7kUUG8_pT6clkGkKzaWKMZPHNPhRTBeI3Fx-k4bN_Ag6-PWWqYY5SI7TX06JY7DbENoCW_XB7aVXr5FZo2APb9bXTbtP8F7bE7lw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=f2EN7HicbVPLjqNGFFV-JVsrUj14ZtfNq0EDtAuqbLMZFVXY0C4DwdjGaP4h_-CeiTSznBllnd_o_Ei2cbKeuzhXukc6j8X9_VY1f6ZmcOWn3I2spj8P4PmaNnO2_NwPnTyJsZHfIbANpBmGDvU7Qk0zIf4s-MhVt2vkN11HwDIwtEzbNIGhY4y-1hWXqmmrdLutBrcT_6no0IamDiyMdMM0sGZD-KU58F31P_8VIhvo90EasHTDvpu8DvL4hp6d97ahmRgbCFnQ1qBlG5b14Zmk7vsfc59-O1XD9e3nsjqOC22_OHRtM3bDcbHthsW5kVW3qGQzNu3u066_W3_7gcbroZF_vfbn8VbvPp5OqnpzLwvnIVyGTjgw5M88UKcCk3PZTN7y-tBlgd8W62iWgY3vt4Q4-yNb6b0M2D70E7BZEyUut526nY63Wt2q9o-O9-et-Punf7zzxnEG4Sxp3zOXgKxljvCKRGDJE0RoBnpS5oXG8oeLyBOasyQR-zooFVmma7-97ymnKqcrhrNDvSEz8fhLPMaKzoz6fv7EtHRFjNiB2hrBkXpgIrB2hGJ74UqjautOsMe2YOyceiGKmTXGjA0c2DnfWyhxl1OMpijz1UgO-pag3VQg-xA_JYSjSFGg94J5EwmiJM034F0uZ5lTuJ7Vls_Rc8JIV7jsIqB6qVb-LN3lLNuoib3lzNc-iMHklXiDk3Xkk6A-ceBfKHzsS7fgPIhqyWQW0ylarn1UtCFaudG-bKCKVUQLbwxTjx2JoqgMEs6oOtM9uEgsKXOZJnHPyjYcBZRBESQzgbJJVslTCex3hfIpf3l0M684FnRz4TgJNkCvK383p8EG8lWEGZRDCTb3_iLz9xYmWN3zEC97qXvxVFxj_1HPkTIo9Hi49z2BQ71Qnp7kUUG8_pT6clkGkKzaWKMZPHNPhRTBeI3Fx-k4bN_Ag6-PWWqYY5SI7TX06JY7DbENoCW_XB7aVXr5FZo2APb9bXTbtP8F7bE7lw"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_Ygp65p0iJLLQf9MPVSwwF63QKMeJRVlwRyhjRNOSbM9NG3hIWj-QDUNRMbv_6TUG3--Fp_FYcr-bnlTINsCqNvZmKoTHhPZdE7RPwD8",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "ASUS ROG Strix OLED XG27UQDMS Gaming Monitor",
+      "rating": 4.9,
+      "reviews": 41,
+      "price": "$699.99",
+      "extracted_price": 699.99,
+      "original_price": "$800",
+      "extracted_original_price": 800,
+      "location": "Nearby, 23 mi",
+      "delivery": "Free delivery",
+      "extensions": [
+        "12% OFF"
+      ],
+      "immersive_product_page_token": "eSHrkHicbZNdrqNGEIWlbCE7yKsVqWlofvJmGxpDQnP5awwvI9wNBtMYro2NbWUP2YPvTKSZx5koe7lZTYiSxzxWndJ3qko6vz3L5k9fs-_FJTZdvRmuJ_By95tHFHweTj2_sLHh3zQIdEWCuqbpCBiKBgzjMyvGQvT7hv8hyQgZmqxrioQAlBVgSPrXuiy4aI6lX1XlyezZP3OqIilIg7okSQABXQYG-tJ0xb78TwezhywpBtI0A8yVZuhvJ35-hy_rDzMb6UjRJKDK8yaGbsBfX0Lf_PD_2qfXS3m6v_-wK8_jQmkXXX9sxv50XlT9aXFteNkvSt6MzXH_aT_8a65KBlJ0aT4VSUiVFKC_dQ3_ijRVUWcokg1NkZGka2_DdXzW-4-XiyjfzWmxXjqBs3ZOFOJHYYtLLofXXXOzgvuyj2x8zLfug9uGPPdIuG7PNEUDt2nrYAKybSjY9NyL5-X8rMWzPP7eF8O1Yn99973Vn831eVoHyTBQMwSxZTjBwcVFQilLUVd0NfGOdCooztJuiEpKfGYhQMTKzsXK2T3cPuu4neP8QUWAqCUsBmsla4cs2tYiefA8N8OOddnIOgsw3N8CGCp-nCixIG1ujz_HcT3wLdl49oD4od4ws855mwd-Upuh7IFfKL4HLbiRLXa9uF4lgFz5YT8RK3Qjiik7LKGPPZDAkZRJALIOBZRiLwBGwyxDpAlqYxnfko5M3Bpp8RBb3oqKwDyL4Whyyu4kTm4l5Rnd7mGQolNuKyClq00MUeZBNu0O7mr-R0Wo6OgjJ_zgyRTulaDD60giaz8VTWHlMDRJ5s0csnEr_hBe0vKGyCscCVx5MrZ3ULzEnXMjttGQdjTJXboUMI-TzpioGUwexK8M52po8lsEw22SSBF75K_hhrh5CqYdHq5pF1phOtShhRTWgQi3uhzKouY0tKJDPbBNfvfwCsVQqIlkFU6LLSY7KBdY4hucRmJl-hsSlAfhkFYULN1PWZq7uxZH5ZZ9vJ1P1TtYYjRGvqqNLmHV3bGSqlg3oaEChfw4LY-pP_0kzRGa86VqczSNvwH9-Eo3",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eSHrkHicbZNdrqNGEIWlbCE7yKsVqWlofvJmGxpDQnP5awwvI9wNBtMYro2NbWUP2YPvTKSZx5koe7lZTYiSxzxWndJ3qko6vz3L5k9fs-_FJTZdvRmuJ_By95tHFHweTj2_sLHh3zQIdEWCuqbpCBiKBgzjMyvGQvT7hv8hyQgZmqxrioQAlBVgSPrXuiy4aI6lX1XlyezZP3OqIilIg7okSQABXQYG-tJ0xb78TwezhywpBtI0A8yVZuhvJ35-hy_rDzMb6UjRJKDK8yaGbsBfX0Lf_PD_2qfXS3m6v_-wK8_jQmkXXX9sxv50XlT9aXFteNkvSt6MzXH_aT_8a65KBlJ0aT4VSUiVFKC_dQ3_ijRVUWcokg1NkZGka2_DdXzW-4-XiyjfzWmxXjqBs3ZOFOJHYYtLLofXXXOzgvuyj2x8zLfug9uGPPdIuG7PNEUDt2nrYAKybSjY9NyL5-X8rMWzPP7eF8O1Yn99973Vn831eVoHyTBQMwSxZTjBwcVFQilLUVd0NfGOdCooztJuiEpKfGYhQMTKzsXK2T3cPuu4neP8QUWAqCUsBmsla4cs2tYiefA8N8OOddnIOgsw3N8CGCp-nCixIG1ujz_HcT3wLdl49oD4od4ws855mwd-Upuh7IFfKL4HLbiRLXa9uF4lgFz5YT8RK3Qjiik7LKGPPZDAkZRJALIOBZRiLwBGwyxDpAlqYxnfko5M3Bpp8RBb3oqKwDyL4Whyyu4kTm4l5Rnd7mGQolNuKyClq00MUeZBNu0O7mr-R0Wo6OgjJ_zgyRTulaDD60giaz8VTWHlMDRJ5s0csnEr_hBe0vKGyCscCVx5MrZ3ULzEnXMjttGQdjTJXboUMI-TzpioGUwexK8M52po8lsEw22SSBF75K_hhrh5CqYdHq5pF1phOtShhRTWgQi3uhzKouY0tKJDPbBNfvfwCsVQqIlkFU6LLSY7KBdY4hucRmJl-hsSlAfhkFYULN1PWZq7uxZH5ZZ9vJ1P1TtYYjRGvqqNLmHV3bGSqlg3oaEChfw4LY-pP_0kzRGa86VqczSNvwH9-Eo3"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSzWrrtELPmcSWBQJkcLbsMpQn69ey4wWzXEApb9JvZSX9zYk_clk1r_n9kMx1zZOpJ6piIj5BCe4xEUQ7uzq2u2ffc908s9MvXjAltA0k",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Dell 27 Plus 4K USB-C Monitor",
+      "rating": 4.6,
+      "reviews": 992,
+      "price": "$299.99",
+      "extracted_price": 299.99,
+      "original_price": "$370",
+      "extracted_original_price": 370,
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "18% OFF"
+      ],
+      "immersive_product_page_token": "c-PigXicdY_LjqNGGIWVV8nWmyruZNc2FLbVFA0UVZjNiK7CBlNcGuMLKO-QV4jcM5Emy0mUd-m8SLZxsk6kf3H0n6Nz9P10L6o_AtOb8jNxtlbVXwbwMgXVHIdf-6ETZz5W4ncIbGiZ0AAqBJoJVFszlK88H3PZHSrxm64BxYKGZUENmLr-kPBbWeRCVm0R7PfF4HT8EbMVy35U6DawgaEpj4O_Vk1-KP61f34fxOlDe1l9gppq2Jb-mLNUyzAghKrx40sUOJ_-x_zydi6G6eP71-I0LrR60XRtNXbDabHvhsWlEkW3KEQ1Vu3hy6Hn__D8R8l7U4lvumk80CzbNExFVeCD6b2_jPfy8Pl8lsWHc12snjbhZrUZqILm3JPnTI0ur9XNDaenLvZQm6XbWXi2-vjhaFWfKNN74dF6gzDYpZHk1_tB3s-neynvRftLl_eXPf_zu7_cy261GvgqTPqeOhEgqHR3zW2gcDkJL4sjL9rHR3oTDRxSuOwitLywOsKJm11SUJZB2jvCQXsK-smn3Y1SvN6xke3ADfgNPaYK9gmMjtjjkDP7mtRIRnS5EXRz3THZiBm5OXoCHOjBM5V1ruI2SMuUtr7iO5QVSQl3iV1mCSxpjY28wWMIuY4RffOpO-cMnuI1gnErtOekX-YedgkQKKZlymgvXxWbCbLNCOMTb8s5bnDu0-zCGyk5FKRwMsTl1gnrfhAplmTtA0ZxzqQIM7lUCdD1GPHr61EQmvhaQHw1YOJGjmJMAW6jRgTJBPuElkSwq-ornYbX5VGsKckI9bgnU7F29SgZWV7jIfG2-x3rJ-bqI_HKY5boIKe7mbijl3l4SdIlwjC8hgqNQ6U_kVkY0XyIUW2pkSpLQSM3PpY9X2eTj5Y6UaSRQDff1Mjl6kbPZAREg1MM7FUyly8C9YOPsnXC7EYwG4a1fiXU_Xw7DfsP8IT0MQ4MrtXmORJvQ2eccX2bnrcUZ1kr38zwB2jaANi6Yeq2af0NbOY_QA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=c-PigXicdY_LjqNGGIWVV8nWmyruZNc2FLbVFA0UVZjNiK7CBlNcGuMLKO-QV4jcM5Emy0mUd-m8SLZxsk6kf3H0n6Nz9P10L6o_AtOb8jNxtlbVXwbwMgXVHIdf-6ETZz5W4ncIbGiZ0AAqBJoJVFszlK88H3PZHSrxm64BxYKGZUENmLr-kPBbWeRCVm0R7PfF4HT8EbMVy35U6DawgaEpj4O_Vk1-KP61f34fxOlDe1l9gppq2Jb-mLNUyzAghKrx40sUOJ_-x_zydi6G6eP71-I0LrR60XRtNXbDabHvhsWlEkW3KEQ1Vu3hy6Hn__D8R8l7U4lvumk80CzbNExFVeCD6b2_jPfy8Pl8lsWHc12snjbhZrUZqILm3JPnTI0ur9XNDaenLvZQm6XbWXi2-vjhaFWfKNN74dF6gzDYpZHk1_tB3s-neynvRftLl_eXPf_zu7_cy261GvgqTPqeOhEgqHR3zW2gcDkJL4sjL9rHR3oTDRxSuOwitLywOsKJm11SUJZB2jvCQXsK-smn3Y1SvN6xke3ADfgNPaYK9gmMjtjjkDP7mtRIRnS5EXRz3THZiBm5OXoCHOjBM5V1ruI2SMuUtr7iO5QVSQl3iV1mCSxpjY28wWMIuY4RffOpO-cMnuI1gnErtOekX-YedgkQKKZlymgvXxWbCbLNCOMTb8s5bnDu0-zCGyk5FKRwMsTl1gnrfhAplmTtA0ZxzqQIM7lUCdD1GPHr61EQmvhaQHw1YOJGjmJMAW6jRgTJBPuElkSwq-ornYbX5VGsKckI9bgnU7F29SgZWV7jIfG2-x3rJ-bqI_HKY5boIKe7mbijl3l4SdIlwjC8hgqNQ6U_kVkY0XyIUW2pkSpLQSM3PpY9X2eTj5Y6UaSRQDff1Mjl6kbPZAREg1MM7FUyly8C9YOPsnXC7EYwG4a1fiXU_Xw7DfsP8IT0MQ4MrtXmORJvQ2eccX2bnrcUZ1kr38zwB2jaANi6Yeq2af0NbOY_QA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS_Ygp65p0iJLLQf9MPVSwwF63QKMeJRVlwRyhjRNOSbM9NG3hIWj-QDUNRMbv_6TUG3--Fp_FYcr-bnlTINsCqNvZmKoTHhPZdE7RPwD8",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "ASUS ROG Strix OLED XG27UQDMS Gaming Monitor",
+      "rating": 4.9,
+      "reviews": 41,
+      "price": "$699.99",
+      "extracted_price": 699.99,
+      "original_price": "$800",
+      "extracted_original_price": 800,
+      "location": "Nearby, 23 mi",
+      "delivery": "Free delivery",
+      "extensions": [
+        "12% OFF"
+      ],
+      "immersive_product_page_token": "3Ll7yHicbVNLsptGFK3KFrKDTDXpBlrQmT0EjZANPJrmO3EhGglE87FAH1TeQ_Yg26lyhk4qe3lZTUglwwzvPfd87uD88izrPz3VmvMLM3ZaPVzP4HX26kfgfxvOPb8UU81_VyWgKVDSVFVDACsqwPhbkU-56I81_wPKCGFV1lQFIiDJCsBQ-16VORd1V3qHQ3k2-uKfu7UCFaRKGoQQIKDJAKPf6jY_lv_hYPGQoYKRqmKwTCrWPp_5-Ca9bj4s2khDigrBWl6SYA1Ln16pZ3z4f-zrx0t5nt9-2pfjtFKaVdt39dSfx9WhP6-uNS_7Vcnrqe6OX4_Dv-ZriJGiweVVBNEaKkD73Nb8O1LXynoRRTJWFRlBTf08XKdndfxyuYjyzbitNi-2b2_scySRR26JSybT676-m_780gcW6bJk9-AWlpedSzfNGMVo4FbU2MQFaUJFcXsexfMyPivxLLtf-3y4Hoq_fvjR7EdjM942fjgMkUEBs7DIoH9P48HPCX7HIE6CBsbuidb7bXHPDS6CEOtxYk9BV-msxe8zgx7SduF0LuAmad32_s5N3EMEeeAYxKFMOFniA2dLawp2bUEyp2yiqWA7u3hkRnkiSWTBPDJhn0kN4KyY9oIzZlaxa95QJPEs7o5ykGQT7cRrRHDkmKinzRSwlhIeVZeFDALmwFyqtiycplS4lWMNOn_ogw-OSy5hMKKzyJqSdAZSBt37HvKabisvTdzN-_Due2Z6DyA_ldtqpGb08GJS8Va5FScbFk02xOYA0wAyfopOXojOWRLNMeHbcEuzQuYTC4XPttXskt2cMfc1TKrBeVRxYVRmGrs3j0WigLpOO_vmx7ALZ2hRuWKsDRVqaTJnpIkFGcJO792EPJZzb9-SjwEgVy_ZQZfgnQ-oFMTKtGeiKmNqZ9s0II0mU1lUPKJmcKqGYpvNDtERk8Q6hGZuN8QsZBtlYvdY8uthGFGX6fKeuY4vkTQ-6euS6ZkfE8ltiy_38Xx4Ay8ETYGn3FR5GpW-z3J3_3CnMU2C2b9Cpu5efoZLhZZ-rVWENfA385pKdw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=3Ll7yHicbVNLsptGFK3KFrKDTDXpBlrQmT0EjZANPJrmO3EhGglE87FAH1TeQ_Yg26lyhk4qe3lZTUglwwzvPfd87uD88izrPz3VmvMLM3ZaPVzP4HX26kfgfxvOPb8UU81_VyWgKVDSVFVDACsqwPhbkU-56I81_wPKCGFV1lQFIiDJCsBQ-16VORd1V3qHQ3k2-uKfu7UCFaRKGoQQIKDJAKPf6jY_lv_hYPGQoYKRqmKwTCrWPp_5-Ca9bj4s2khDigrBWl6SYA1Ln16pZ3z4f-zrx0t5nt9-2pfjtFKaVdt39dSfx9WhP6-uNS_7Vcnrqe6OX4_Dv-ZriJGiweVVBNEaKkD73Nb8O1LXynoRRTJWFRlBTf08XKdndfxyuYjyzbitNi-2b2_scySRR26JSybT676-m_780gcW6bJk9-AWlpedSzfNGMVo4FbU2MQFaUJFcXsexfMyPivxLLtf-3y4Hoq_fvjR7EdjM942fjgMkUEBs7DIoH9P48HPCX7HIE6CBsbuidb7bXHPDS6CEOtxYk9BV-msxe8zgx7SduF0LuAmad32_s5N3EMEeeAYxKFMOFniA2dLawp2bUEyp2yiqWA7u3hkRnkiSWTBPDJhn0kN4KyY9oIzZlaxa95QJPEs7o5ykGQT7cRrRHDkmKinzRSwlhIeVZeFDALmwFyqtiycplS4lWMNOn_ogw-OSy5hMKKzyJqSdAZSBt37HvKabisvTdzN-_Due2Z6DyA_ldtqpGb08GJS8Va5FScbFk02xOYA0wAyfopOXojOWRLNMeHbcEuzQuYTC4XPttXskt2cMfc1TKrBeVRxYVRmGrs3j0WigLpOO_vmx7ALZ2hRuWKsDRVqaTJnpIkFGcJO792EPJZzb9-SjwEgVy_ZQZfgnQ-oFMTKtGeiKmNqZ9s0II0mU1lUPKJmcKqGYpvNDtERk8Q6hGZuN8QsZBtlYvdY8uthGFGX6fKeuY4vkTQ-6euS6ZkfE8ltiy_38Xx4Ay8ETYGn3FR5GpW-z3J3_3CnMU2C2b9Cpu5efoZLhZZ-rVWENfA385pKdw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRFl5R6nDE6R42ynF98jFFAGOpJuhig78Ma1tKb6it-89UE3m-fMU5bCyL1MFxy7cOO0CH7grciepZ304pqY4WrPTRhE1_Ijqhe6NBemA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "\"Samsung 32\"\" 4K UHD LED Monitor u32j590uqn",
+      "rating": 4.0,
+      "reviews": 316,
+      "price": "$339.99",
+      "extracted_price": 339.99,
+      "location": "Nearby, 20 mi",
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "LJTCHXicbVPLkptGAKz8Sq66MDMMj9x2gUGSF7QMby6uEYMEy_AwIAlR_of8Qkprp8o52i7_y-ZHco2Ss_vQh-6q7r7077ei-rFT7Ss7BeZWq_rzID1fd9Xie1_6oeOnfKr4dyDpCpQVBQN8ZyDLKkBfcjYx0R0r_g1jKGkKApqqq6qkYITg17JgXFRtsTscisHs8v9SMNCBiiUNQayoCpJ1AP6qGnYs_ve_AqhL-A4oSxpW9HvJ68DHN_hsvNcVWUVIgVADugw0XdG0j890Z77_uff5w6kYrm-_7otxWsn1qunaauqGcXXohtW54kW3Kng1Ve3x87G_V3_7ScZrU_E_XvvzdCuPn04nUbyZl5XxsPE2xmaIIFmYLU4Zoud9NVve9aHzbdJmyXbhto7umkuNeoxi3HM7qjfEldKEivxyO4rbabyV4la0f3asPx_yv3_5xzqnhjHkhhf2fWRSKbBmUKwFcBu34wu3clEOwfrxTBthRusS8uXRS5vS9F4y5IiydKHY-rX7zm-5GVv9KYy5TYk7-uHs-1a-hLCU_YWzfV0mRT1OHtCbXEqvTksDKqUorbcDrScWBo_veJReWCgavy4lB859Bqm9s8RT3EwtW-h1n7iNF8vAQSWjCSd7C3iOybMsEKNXE0xtqjgGOGXrB5TCUaZRGeY2GSnpWWTWc0BKFJiuwWA-ccTLXBwXPz5ihxAWBNETXxPBAKnz1jVoBaQEut5TnA1eUy9eEM4F2WBWR2IXRYkjKPBAH7tt5DgBbXfBNslMITsk-xCZ5ZwhLvt2WRYv3iW878lD-eonPM3sKPNqHTESgaeYbBmpQWSDMLSoFcXghYl68lAW7A2w3sUzzcJp5CL0Sa0hikTJI2r5L2Wfr7OrQx5xAIUSAottamLlaIMzQcf7lsaP510IMdpD7sVrLrtwI7NASJmFUy-0Ps3jcHiTHgie_J18UdE0yl2XMXe_uNOYJv7VO4NA3T78BlRdkvT7bbCuSf8Ck7Y-JA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=LJTCHXicbVPLkptGAKz8Sq66MDMMj9x2gUGSF7QMby6uEYMEy_AwIAlR_of8Qkprp8o52i7_y-ZHco2Ss_vQh-6q7r7077ei-rFT7Ss7BeZWq_rzID1fd9Xie1_6oeOnfKr4dyDpCpQVBQN8ZyDLKkBfcjYx0R0r_g1jKGkKApqqq6qkYITg17JgXFRtsTscisHs8v9SMNCBiiUNQayoCpJ1AP6qGnYs_ve_AqhL-A4oSxpW9HvJ68DHN_hsvNcVWUVIgVADugw0XdG0j890Z77_uff5w6kYrm-_7otxWsn1qunaauqGcXXohtW54kW3Kng1Ve3x87G_V3_7ScZrU_E_XvvzdCuPn04nUbyZl5XxsPE2xmaIIFmYLU4Zoud9NVve9aHzbdJmyXbhto7umkuNeoxi3HM7qjfEldKEivxyO4rbabyV4la0f3asPx_yv3_5xzqnhjHkhhf2fWRSKbBmUKwFcBu34wu3clEOwfrxTBthRusS8uXRS5vS9F4y5IiydKHY-rX7zm-5GVv9KYy5TYk7-uHs-1a-hLCU_YWzfV0mRT1OHtCbXEqvTksDKqUorbcDrScWBo_veJReWCgavy4lB859Bqm9s8RT3EwtW-h1n7iNF8vAQSWjCSd7C3iOybMsEKNXE0xtqjgGOGXrB5TCUaZRGeY2GSnpWWTWc0BKFJiuwWA-ccTLXBwXPz5ihxAWBNETXxPBAKnz1jVoBaQEut5TnA1eUy9eEM4F2WBWR2IXRYkjKPBAH7tt5DgBbXfBNslMITsk-xCZ5ZwhLvt2WRYv3iW878lD-eonPM3sKPNqHTESgaeYbBmpQWSDMLSoFcXghYl68lAW7A2w3sUzzcJp5CL0Sa0hikTJI2r5L2Wfr7OrQx5xAIUSAottamLlaIMzQcf7lsaP510IMdpD7sVrLrtwI7NASJmFUy-0Ps3jcHiTHgie_J18UdE0yl2XMXe_uNOYJv7VO4NA3T78BlRdkvT7bbCuSf8Ck7Y-JA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcREOSXSKV6uMO5r2XQ4sXPb1S6coanRhGA4tQovY4meq4wtgA35ZlPwa_ZkiJ8-Z313pvaRAQo-S4GHTHdve262UVZwxv59oMSvL7Cr8oDy1wH5yHmuxEzR",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT3igY3pJU6nt3g6hNuE3bYxYPHNDtFL1SPkQPCUQ_hx8iMyIVv9N68KLfnYc2ONAzkvdwaBleRZ8Ju6GDeXgw5y4CypZ4",
+      "source": "BenQ America",
+      "title": "BenQ ma270u 27\" 4K HDR Matte Monitor for MacBook",
+      "rating": 4.7,
+      "reviews": 46,
+      "price": "$549.99",
+      "extracted_price": 549.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "F1DY7XicbZNNkqNGEIXDV_FWm6KAArxrSVVImgY1RVFCtZlAFBKI30YgJMJ38BUc6hlHzCxnInyX9kW8NeOtnauM92W8fLnI3x5J9ufWsO9Rz5YbM2uuLXi5b7PR9740bS37uMvkd6RBoCBTB8icOmQaBvwSR11U1KeJ6rqFLN3UdGABQzEQMtVvaRLJIquS7fGYtMs6nsagakLDQJoOdRMgaOnI-pqV0Sn5F39TgAoQglCfEEDWxN9aeXkHL4uPk4J-2GoKUq2pAPz1hW6XH_8XfX7tk_b-_vMhuXQzLZ-VdZV1dXuZHet2ds1kUs8SmXVZdfp8an4s_q_FW5nJ39-aa_dIT5_6vkjel8Ns8bT21ot1yyEZI7vohUqvh-yGvftT7dukEuFmlLalTppLF_mF7_RG2jxfExfsQ1rEw-NUPPrLIy0eSfVHHTXXY_zXT3_j636xaOOFFzQNX1LAVrLnYVrEuTnGsMl3Nn92FKpLTs5ergiaN3MOBPOZUHx1rjjAxYezjATPAStTP2EklMvUOeCNkxA3EETOd9wKxXkj4pE2jNTA5zw7YHqWuJsfCkEcaA3RTgkjnt5iRkUEKAlgw9lqrfBd08uVe5NQ_-BVYuUFFqSVeJluVfhIW5bzW1DxIAZyiFR-jPMOSjB5E1ofSlONSj7KsHj2x_09KTUYFSZgAcU72-p3K44l5txTxDFe0sbJRc7PzsgL6QtGFoczZUHVuAFUXj1Ocl5uhpgRzR0J29rufD_ubwzzLbUDTXB598ouiHK3kTmlEitLoToDgxcoA23kmI9-qbAQmAPDKWbg0rmKeHXz215UPKL2htHSDf1ygGwHhgMuGlYStA8K2wOBT3JTpWqRSk6xf06beCXuDpnrDBYoUHC0zgmO1bUuivWQlPoHB3fIgwQnJZ9ypUoIqcYD198G3bOP8afbpT2-gyeid_4WxVpu9FS-tjXqp0D35w13haiKV8P7RTEsAKZvMXTLMP8Bs9A9uA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=F1DY7XicbZNNkqNGEIXDV_FWm6KAArxrSVVImgY1RVFCtZlAFBKI30YgJMJ38BUc6hlHzCxnInyX9kW8NeOtnauM92W8fLnI3x5J9ufWsO9Rz5YbM2uuLXi5b7PR9740bS37uMvkd6RBoCBTB8icOmQaBvwSR11U1KeJ6rqFLN3UdGABQzEQMtVvaRLJIquS7fGYtMs6nsagakLDQJoOdRMgaOnI-pqV0Sn5F39TgAoQglCfEEDWxN9aeXkHL4uPk4J-2GoKUq2pAPz1hW6XH_8XfX7tk_b-_vMhuXQzLZ-VdZV1dXuZHet2ds1kUs8SmXVZdfp8an4s_q_FW5nJ39-aa_dIT5_6vkjel8Ns8bT21ot1yyEZI7vohUqvh-yGvftT7dukEuFmlLalTppLF_mF7_RG2jxfExfsQ1rEw-NUPPrLIy0eSfVHHTXXY_zXT3_j636xaOOFFzQNX1LAVrLnYVrEuTnGsMl3Nn92FKpLTs5ergiaN3MOBPOZUHx1rjjAxYezjATPAStTP2EklMvUOeCNkxA3EETOd9wKxXkj4pE2jNTA5zw7YHqWuJsfCkEcaA3RTgkjnt5iRkUEKAlgw9lqrfBd08uVe5NQ_-BVYuUFFqSVeJluVfhIW5bzW1DxIAZyiFR-jPMOSjB5E1ofSlONSj7KsHj2x_09KTUYFSZgAcU72-p3K44l5txTxDFe0sbJRc7PzsgL6QtGFoczZUHVuAFUXj1Ocl5uhpgRzR0J29rufD_ubwzzLbUDTXB598ouiHK3kTmlEitLoToDgxcoA23kmI9-qbAQmAPDKWbg0rmKeHXz215UPKL2htHSDf1ygGwHhgMuGlYStA8K2wOBT3JTpWqRSk6xf06beCXuDpnrDBYoUHC0zgmO1bUuivWQlPoHB3fIgwQnJZ9ypUoIqcYD198G3bOP8afbpT2-gyeid_4WxVpu9FS-tjXqp0D35w13haiKV8P7RTEsAKZvMXTLMP8Bs9A9uA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTN3LEKNvhX8IyABB2cqKP6WWTiS8TLYenDHkoAZn1F8clqTv1KRwzycueBHMerwWpYTBhU2vTJS557Vqfr0ypOopn9kA2YpQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Asus ProArt pa279cv 27\" 4K UHD LCD Monitor",
+      "rating": 4.4,
+      "reviews": 270,
+      "price": "$370.99",
+      "extracted_price": 370.99,
+      "original_price": "$400",
+      "extracted_original_price": 400,
+      "delivery": "Free delivery",
+      "extensions": [
+        "7% OFF"
+      ],
+      "immersive_product_page_token": "9EKtY3icdZPLsps4EIar5hXmDWbrDRKIy-yObYRNAhgEAmuTkgFbGHGJwdfKO8w7-CRTlSyT1LzLmacZKvvZ9t_V3f_X3X89y-qfwHDu_BwvXbPqLydlcw-qBwm_9qeuOOdjVfywLF0zTVVHEEDV0hSgWV9zPnLZHSbVsBBQoQqBoQDVVExdgd9FyQtZtWWw35enZZdXxU-gA6QDVTcQsDQD6kjXrG9Vww_lL_0HMIEOdQAR0FTd0nRLh6-nYnjTNosPAAHdMpCBNA0Ypmkamg4_baJg-eF_xC8fz-Xp_vbHrhzGmVbPmq6txu40zPbdaXapirKblUU1Vu3hy6H_NZ2q67oGNVOfukN1MoTU16YqviNDn-oZUIPINC1zsvjaX8anOHw-n2X5trzOFi_rcL1YnyjED-7IM1Ojy6662eH9pSMOblnmPgrHUqeYHy3qgaaoLxxar7GvbLNI5tfnQT7Pw1PIZ9n-3fH-ss___e13uxuWi-G6CJO-p8tIIW2_obS_Mnt7ZZnQSCwwj11GqYjymvLdAiR5nQBSg4bUMs2A6DyIblSNziwWSZBYdkRdShUbUYnPzPa13PHrUtI4BnJdyuJSHHHvJ5FPYe95S1fuVrIKHCqZA7RYCrdIWZ-3uE8U0fKsP3qtrxb16JV07r2nIgszjFMqnB22EXFuSd6I0JfS9Y40i1Lhe6viHgF34y9lzLA_5cgFW0UotYuPxWoLA9vtSI2DsMZ-JEUbJLjPAKtzeOtpje_xSsq4YSSZ1sMmLoli8bDFjdfc2jhh19S5CRbjgID5g7c-j1bRiTtA3SX2NZVzEsWC-LR_R9TinjuS-bBXwjS_bo8-4qlItxVYeo21iWnEE2gdd_ZW5coEWDlcy6M4-jYeCGXzOI7anB5QWIM9aUXIFYG9lajeU-mRBs-LRhKubAmuTTVSpShoZJOj6PMVu3t4jmIo9QTYfF1jO1fXiEmckYevTPz5NmNiF7th3HZKkI7zIGHvSmdAO2p_vg2n_ZvygtFIAu1qqOOgdR3j_u7hj8M2I_fwAmLDffkTGJaiWGj6tulm_wNB20x8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9EKtY3icdZPLsps4EIar5hXmDWbrDRKIy-yObYRNAhgEAmuTkgFbGHGJwdfKO8w7-CRTlSyT1LzLmacZKvvZ9t_V3f_X3X89y-qfwHDu_BwvXbPqLydlcw-qBwm_9qeuOOdjVfywLF0zTVVHEEDV0hSgWV9zPnLZHSbVsBBQoQqBoQDVVExdgd9FyQtZtWWw35enZZdXxU-gA6QDVTcQsDQD6kjXrG9Vww_lL_0HMIEOdQAR0FTd0nRLh6-nYnjTNosPAAHdMpCBNA0Ypmkamg4_baJg-eF_xC8fz-Xp_vbHrhzGmVbPmq6txu40zPbdaXapirKblUU1Vu3hy6H_NZ2q67oGNVOfukN1MoTU16YqviNDn-oZUIPINC1zsvjaX8anOHw-n2X5trzOFi_rcL1YnyjED-7IM1Ojy6662eH9pSMOblnmPgrHUqeYHy3qgaaoLxxar7GvbLNI5tfnQT7Pw1PIZ9n-3fH-ss___e13uxuWi-G6CJO-p8tIIW2_obS_Mnt7ZZnQSCwwj11GqYjymvLdAiR5nQBSg4bUMs2A6DyIblSNziwWSZBYdkRdShUbUYnPzPa13PHrUtI4BnJdyuJSHHHvJ5FPYe95S1fuVrIKHCqZA7RYCrdIWZ-3uE8U0fKsP3qtrxb16JV07r2nIgszjFMqnB22EXFuSd6I0JfS9Y40i1Lhe6viHgF34y9lzLA_5cgFW0UotYuPxWoLA9vtSI2DsMZ-JEUbJLjPAKtzeOtpje_xSsq4YSSZ1sMmLoli8bDFjdfc2jhh19S5CRbjgID5g7c-j1bRiTtA3SX2NZVzEsWC-LR_R9TinjuS-bBXwjS_bo8-4qlItxVYeo21iWnEE2gdd_ZW5coEWDlcy6M4-jYeCGXzOI7anB5QWIM9aUXIFYG9lajeU-mRBs-LRhKubAmuTTVSpShoZJOj6PMVu3t4jmIo9QTYfF1jO1fXiEmckYevTPz5NmNiF7th3HZKkI7zIGHvSmdAO2p_vg2n_ZvygtFIAu1qqOOgdR3j_u7hj8M2I_fwAmLDffkTGJaiWGj6tulm_wNB20x8"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWjCbzMQXPwAHKfYhuu322qVlRzplEuzS4RjsD_H0ayrdO_g1WZhPaV5r2koYwdtOvwMktOj96hEc-7CsZGYxJ35pBkz8REooUNkc0fI8",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Alienware 32\" aw3225qf OLED QD-OLED 240Hz Gaming Monitor",
+      "rating": 4.6,
+      "reviews": 3200,
+      "price": "$779.99",
+      "extracted_price": 779.99,
+      "original_price": "$1,000",
+      "extracted_original_price": 1000,
+      "location": "Nearby, 3 mi",
+      "delivery": "Free delivery by Thu",
+      "extensions": [
+        "22% OFF"
+      ],
+      "immersive_product_page_token": "cWzAhHicdZLLjqNGGIWVV8nWm7pwza7NrfHY0BRQXDYjTGFDU5gKxtigeYe8QuSeiTRZTqK8S-dFso0162T7f9I5n47-X-5V85evOnNxicyN1ohpAC-z3yxh8FUMPbuUY8P-kAHUJBUquiojIOkqRvhrWYwF748PChWoKkjTMYYIypKCJPytrgrGm1PlHw7VYPZlw_6EsoKQpuoQY02CGpY1Vf696Ypj9Z3_-jaw87v0YnyEQNNlRdIUBYJHK9B1Vf_0Qnzz4__ALz9fqmF-_3FfnceV1K66_tSM_XBeHfphNTWs6lcVa8bmdPxyFN9V_iPkrWvYN1lVHv6ajBBSZCwBCbyJabzXx8-XC6_ezevKeHID13AHiuylcPglx2TaNzcrmJ_60LFPebpZmKPjx80jRnumiSyYQ1vX9kCWEl5e70d-v5zvNb9Xp9_6QkyH8u8f_rGmzDCG0ghiIahJQNhxI4Ve4HUiCxLCdydPFFaASsByArMr4XodU3ZlkF4rk0V5QpTilU5BR4hvwRt5LjFziJ0B70DjHtFo7RWOcKrW25WUKlu6zv10bYRA3_gOJFkSSPFCw6qDF2_hbs4tWFryhx2ytyEUZhLCpLBuFgVjECXwpUSiC5Z6qJwbSjEhIdggtuTUj3m-hzTPulHZd5vUMzmK6YNh8hqjAIdWBoJYphHVJeKQm2_mU-T01xyWqHqt_ezEmiiWoywRdJcIXnUiLaCY968U0oWKEgjj4dduU3KLHJolnFlF4uK9XedVV5-CRAxeKj4kXANRByHr8ufY4dttZHdRQrdZ7CkBt-c8Wjv7hJgEcURQfYjbdi6snHqJHFJMN0l7yzxn3O4gD3Mu3NLxlizZhXarYYJ5zSixwtdalM_5vLPXcoS4EkOrcFvbKrEr59xDGcqnytlsy2fv5DtkfmxfJLbu7mKAS1SHJbU-387D4R082fIY-tJVxeNZ6vu88PaLN56zNJyDCUbq5uknqOoAPL5WlXUN_AuORjz5",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=cWzAhHicdZLLjqNGGIWVV8nWm7pwza7NrfHY0BRQXDYjTGFDU5gKxtigeYe8QuSeiTRZTqK8S-dFso0162T7f9I5n47-X-5V85evOnNxicyN1ohpAC-z3yxh8FUMPbuUY8P-kAHUJBUquiojIOkqRvhrWYwF748PChWoKkjTMYYIypKCJPytrgrGm1PlHw7VYPZlw_6EsoKQpuoQY02CGpY1Vf696Ypj9Z3_-jaw87v0YnyEQNNlRdIUBYJHK9B1Vf_0Qnzz4__ALz9fqmF-_3FfnceV1K66_tSM_XBeHfphNTWs6lcVa8bmdPxyFN9V_iPkrWvYN1lVHv6ajBBSZCwBCbyJabzXx8-XC6_ezevKeHID13AHiuylcPglx2TaNzcrmJ_60LFPebpZmKPjx80jRnumiSyYQ1vX9kCWEl5e70d-v5zvNb9Xp9_6QkyH8u8f_rGmzDCG0ghiIahJQNhxI4Ve4HUiCxLCdydPFFaASsByArMr4XodU3ZlkF4rk0V5QpTilU5BR4hvwRt5LjFziJ0B70DjHtFo7RWOcKrW25WUKlu6zv10bYRA3_gOJFkSSPFCw6qDF2_hbs4tWFryhx2ytyEUZhLCpLBuFgVjECXwpUSiC5Z6qJwbSjEhIdggtuTUj3m-hzTPulHZd5vUMzmK6YNh8hqjAIdWBoJYphHVJeKQm2_mU-T01xyWqHqt_ezEmiiWoywRdJcIXnUiLaCY968U0oWKEgjj4dduU3KLHJolnFlF4uK9XedVV5-CRAxeKj4kXANRByHr8ufY4dttZHdRQrdZ7CkBt-c8Wjv7hJgEcURQfYjbdi6snHqJHFJMN0l7yzxn3O4gD3Mu3NLxlizZhXarYYJ5zSixwtdalM_5vLPXcoS4EkOrcFvbKrEr59xDGcqnytlsy2fv5DtkfmxfJLbu7mKAS1SHJbU-387D4R082fIY-tJVxeNZ6vu88PaLN56zNJyDCUbq5uknqOoAPL5WlXUN_AuORjz5"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTm8MMqFI-LNncD6KET41HePqwOMppgCXmPIcLiBdmnTG10dA-ED8qB67d2SxvetE0R4DToB1p4rASwq_qa2PYStveOFIBU_KvOFZJBQAs",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTW7_VZtyG9u9U6EhVcj6pwyveSs1S81nIt6UQvfYbK8PAAlBg7T4Rp0A4_o2UaZlqSUNB544M4-S9lJqIoQ5shmYbKYxAcsVx2",
+      "source": "bhphotovideo.com",
+      "title": "Dell UltraSharp 4K Monitor",
+      "rating": 4.4,
+      "reviews": 324,
+      "price": "$649.99",
+      "extracted_price": 649.99,
+      "original_price": "$800",
+      "extracted_original_price": 800,
+      "extensions": [
+        "18% OFF"
+      ],
+      "immersive_product_page_token": "gWPtv3icbZNLjqNIEIalucLcYLbe5IPkMbuyISmQgSKB5LFpUSS2MWmgDX6hucPcwdU9Us-yu9V3qTnNWD3b2cQivlDo1_9H_Hmvmx-BZt_KU2y6ejOcj-DlFjRzFH4Zjr04VVMjvimaQaACDIR0VUcA6AB8qcqplP32QVUDKhABQzE0BBRDNyD6uqtLIZuuDjab-mj2VSO-Q4KgrmtEx1jBEEOoEvJ3cyi39U_-TceaBjVD0SBQ_yvw7SjGd_Sy-kAM9TGuIYgQwFCFiqr_8cIC88P_s88fT_Xx9v7baz1OC6VdHPqumfrjuNj0x8W5EXW_qEUzNd3283b4qQ0ZhGg6UZGCFQNCrGvw7dCIr0RTFRXpCKtYUzF-mPA2nKf7bvvpdJL1u3lZrJ6c0Fk5R47oXNryVGB2fm2uVnh76iObdkXmzsI28KPns1U78pQMwuatQ32QZ0xWl_tW3k_jfSfvdfdXXw7nTfXPL79a_WiuxssqTIaBmwzEKzBXkEY5IHke-zmDfF5zv4xm2a4jeC0zmkXUuaSS5WteIR-wIeTcZUlBElgAkU6ylOJUdDRL7OHK-XAJDzQu9u46eM7niC9X0Z6C0iyyOOVBNrteSv0XgYxeJDJL6dJOqZGXcXhje77MZs7ibGkynGOWFY1vkyaJeR9ZEwjMZStslqTPImDPQ5ChrbLm1uylV1Yi98QiCPJU9oX1ENvlwJePnZ0PkoPRRGbhVuYuZNkWVzb_GErDTVu5et27TmG7WWwVRbWXyJs9pXrcW2wbmwyRTlAOuTUFBZjmtHPIOqO0aDkqYyErCygJdb2qdZ9jO7mlcidzuUwy4MEg3Sp5xp2aCieChe_hkESWrnjplIUpf3lk6taddNLEd1gXXqODyCtLLP1kZ_qWkfADdVLpwyCZVC-5YGaTtTfTHXtYQVsdMyx3gjMr2u-G6rm4eXRJYiTVBFql01Krwg4pJLtUwKWR3Sr-IbnEnWvFuNhwMNkxuI5Rx1d1V326jsfNO3iiZIoC5aLhaVT6vij919mfxjyLbuEZxpr79PvjjwAwiKoRQwf_AhRXR5I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=gWPtv3icbZNLjqNIEIalucLcYLbe5IPkMbuyISmQgSKB5LFpUSS2MWmgDX6hucPcwdU9Us-yu9V3qTnNWD3b2cQivlDo1_9H_Hmvmx-BZt_KU2y6ejOcj-DlFjRzFH4Zjr04VVMjvimaQaACDIR0VUcA6AB8qcqplP32QVUDKhABQzE0BBRDNyD6uqtLIZuuDjab-mj2VSO-Q4KgrmtEx1jBEEOoEvJ3cyi39U_-TceaBjVD0SBQ_yvw7SjGd_Sy-kAM9TGuIYgQwFCFiqr_8cIC88P_s88fT_Xx9v7baz1OC6VdHPqumfrjuNj0x8W5EXW_qEUzNd3283b4qQ0ZhGg6UZGCFQNCrGvw7dCIr0RTFRXpCKtYUzF-mPA2nKf7bvvpdJL1u3lZrJ6c0Fk5R47oXNryVGB2fm2uVnh76iObdkXmzsI28KPns1U78pQMwuatQ32QZ0xWl_tW3k_jfSfvdfdXXw7nTfXPL79a_WiuxssqTIaBmwzEKzBXkEY5IHke-zmDfF5zv4xm2a4jeC0zmkXUuaSS5WteIR-wIeTcZUlBElgAkU6ylOJUdDRL7OHK-XAJDzQu9u46eM7niC9X0Z6C0iyyOOVBNrteSv0XgYxeJDJL6dJOqZGXcXhje77MZs7ibGkynGOWFY1vkyaJeR9ZEwjMZStslqTPImDPQ5ChrbLm1uylV1Yi98QiCPJU9oX1ENvlwJePnZ0PkoPRRGbhVuYuZNkWVzb_GErDTVu5et27TmG7WWwVRbWXyJs9pXrcW2wbmwyRTlAOuTUFBZjmtHPIOqO0aDkqYyErCygJdb2qdZ9jO7mlcidzuUwy4MEg3Sp5xp2aCieChe_hkESWrnjplIUpf3lk6taddNLEd1gXXqODyCtLLP1kZ_qWkfADdVLpwyCZVC-5YGaTtTfTHXtYQVsdMyx3gjMr2u-G6rm4eXRJYiTVBFql01Krwg4pJLtUwKWR3Sr-IbnEnWvFuNhwMNkxuI5Rx1d1V326jsfNO3iiZIoC5aLhaVT6vij919mfxjyLbuEZxpr79PvjjwAwiKoRQwf_AhRXR5I"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRJPkbQ3f9u-8IMzyDnOk92qHpbtUcsiy5QMHcWDWAk0gb3xLjgdl-7hTHxsqJX1kv5LzPu9BPeBpRe1ILgpKA2RXMRluVV2tF7LKeUEXW7oXZyV1x7r5fa2Q",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "LG 27 Inch UltraFine 4K UHD HDR10 IPS Monitor",
+      "rating": 4.5,
+      "reviews": 269,
+      "price": "$288.85",
+      "extracted_price": 288.85,
+      "immersive_product_page_token": "xC0mInicbZNLrqNGFIalbCE7yNSKVEVRQPXMNg_b3S6uCygwkxZQ2DwKQxv8QtlD9uDujtQZdlrZy81qws04g6Mj_f_Rdx7S-f2Zl3-7uvNILr65McruegYvD7ccvd237tyKSzaU4i8EMVaAoSlTxjrBOjK-ZcmQyPZYih9QUTVDg0ABBGtYURCE5HuRJ0KWp9w9HPKz2WYTRdXRRDCIpmGAiaoBrP5ZNskx_8_-AVWgGCrQMEFvgaZK9fNZ9K_Ky_Kjrk9oAg1VNQACKsCA_PbCXPPj_3tfP13y8-P1lzTvh5laz5r2VA7tuZ8d2vPsWoq8neWiHMrT8euxm5p_1xDBiBi6-sZSVQjVz80kY11TNYVABSPjbe9pou46PIvjl8tF5q_mbbacr3fr5frMFXtMHHmJEbum5d3aPeat59inONqMwiFo0ihb1j0PcSccXq9tCvYRk9nteZTPS_8s5DM__dEm3fWQ_fPTz1bbm8v-ttwFXcdNBjwk4lDGXgI4YMjCNOClaO5SOMYtDDD2VhR4dYcSxK9CISM9yc22jgFz7MGPNkXY8EM0FtcMxpuwlj0FvGA-D1Jnf_NH0ccN7V0rU1MAm2AsoOtTlz5gk3OibANZ7WoLcbjHW7hHPBJFbsc-9ynlgO59i4MEZY80FKXvyMeuISz2F9sEdDQ8cZ5G9O6bRZBAvuFO_N5fwkuKiiiDYulVYsxNC7p2MGw5_xTb7S2ruRco7BbXbJvVtBFhoXp8ew9OtPkQijiLbJCMchc6wk8tuwpApniK4K5dhEk0V1x_UWQPuPKhANTcJHlY8D3gWlIJ7tfiklTFdaox3ZA0zLY7vpLTXQne15sgCQmiJ-r4K2vwwmHHR7HIansdV3bFJLszTkAcEI9G9tUNqZaOrIxBDXjIl7ETKFTyVQZUKJzAs2sDMSQLwZnlVUWXreLH1l5gX5FaAK1kXdtWhtY4lnafhhuFBbTwqyMOK8myirpbc_E-QoX3wedjGlhf7v358ArmNh48V9OHDc0Oj7UVHJJlyYgGVPrrbX4K3ds7qBPw9ow6Jjr5Fwb4SGw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xC0mInicbZNLrqNGFIalbCE7yNSKVEVRQPXMNg_b3S6uCygwkxZQ2DwKQxv8QtlD9uDujtQZdlrZy81qws04g6Mj_f_Rdx7S-f2Zl3-7uvNILr65McruegYvD7ccvd237tyKSzaU4i8EMVaAoSlTxjrBOjK-ZcmQyPZYih9QUTVDg0ABBGtYURCE5HuRJ0KWp9w9HPKz2WYTRdXRRDCIpmGAiaoBrP5ZNskx_8_-AVWgGCrQMEFvgaZK9fNZ9K_Ky_Kjrk9oAg1VNQACKsCA_PbCXPPj_3tfP13y8-P1lzTvh5laz5r2VA7tuZ8d2vPsWoq8neWiHMrT8euxm5p_1xDBiBi6-sZSVQjVz80kY11TNYVABSPjbe9pou46PIvjl8tF5q_mbbacr3fr5frMFXtMHHmJEbum5d3aPeat59inONqMwiFo0ihb1j0PcSccXq9tCvYRk9nteZTPS_8s5DM__dEm3fWQ_fPTz1bbm8v-ttwFXcdNBjwk4lDGXgI4YMjCNOClaO5SOMYtDDD2VhR4dYcSxK9CISM9yc22jgFz7MGPNkXY8EM0FtcMxpuwlj0FvGA-D1Jnf_NH0ccN7V0rU1MAm2AsoOtTlz5gk3OibANZ7WoLcbjHW7hHPBJFbsc-9ynlgO59i4MEZY80FKXvyMeuISz2F9sEdDQ8cZ5G9O6bRZBAvuFO_N5fwkuKiiiDYulVYsxNC7p2MGw5_xTb7S2ruRco7BbXbJvVtBFhoXp8ew9OtPkQijiLbJCMchc6wk8tuwpApniK4K5dhEk0V1x_UWQPuPKhANTcJHlY8D3gWlIJ7tfiklTFdaox3ZA0zLY7vpLTXQne15sgCQmiJ-r4K2vwwmHHR7HIansdV3bFJLszTkAcEI9G9tUNqZaOrIxBDXjIl7ETKFTyVQZUKJzAs2sDMSQLwZnlVUWXreLH1l5gX5FaAK1kXdtWhtY4lnafhhuFBbTwqyMOK8myirpbc_E-QoX3wedjGlhf7v358ArmNh48V9OHDc0Oj7UVHJJlyYgGVPrrbX4K3ds7qBPw9ow6Jjr5Fwb4SGw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRj_Be1C6eP_L1y7inzj65hbIQ0_n-M6Z8ZA98zX4oBUi5puEddItu6Wbuz88WduCJ8kob9zMygZhrArIzmvZ_6vc1_zyNHYJ4rGR3AzJ0",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Samsung Odyssey 57\" Neo G9 Dual 4K Curved Ultrawide Gaming Monitor",
+      "rating": 4.5,
+      "reviews": 1000,
+      "price": "$2,099.99",
+      "extracted_price": 2099.99,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "5G8YQHicdZNNsptGAIQrV8lWG4bhT9k9AcOPBYi_AWbjQgwSiBEgJCRQ-Q65QkrPTpWztF25y8tFso1e1sm2u-urXnT_-ijrPz3ZmPMx0myl7q8Dt5m9-h76X_uho2Nxqel3KMj8UpElReI4WRQVHghfi_ySs25f0x8AvkuCLEqyIAIRKjInfKvKnLK6Lb3drhy0rnhSJAnIHC9wIhAUIAmcDKQ_6mO-L_-1f3sd6PlN2KgfAS8vOY4Tn3kgS_xSUiD3aRN42sf_Mb-cxnKY337elufLQmgWx66tL91wXuy6YXGtadktSlpf6nb_Zd8X743_A_J6rOk3UZYEiVeWEuQBL4gyXL7218uj2n8eR1a-abeF-mL5lmoNmEf33GAjgcF1W0-6P790oYFaktp3aizhU3MDtTnjROypgRsLuVyWBqy4PfbsMZ4fFXuU7e9d3l93xV8__a1fM1UdCtWP-x5rARcee9VLptGJ6K7gRGGL2YlCxorEume8Ha3japOnJIwPBMca8beM5DjFZmLa68SIZ5JMG2LSS6AjXOLAjYzJcxvwAd9tfYtcGPOigTkUxGZfJRrlg9Y-4HtQuyrHEw1f3MjmnIhYfoyyMHZ3VMfHOMJB1tqSp19uQbq6ZSn9UGqsDgBdpRCNiY5WydGeMSLrLefMro57_4CsGHUgPqwGP12ZZWIJFNrr0iBz1hYTxWxyDNJE7OWWGyT2765QHIJjARjeHsmJsJe5gN0Ux0wtjWpyDg1XmKs-wa6ftX2foH4KDbDJzZWJcXbf8uhcGITPMdUopFaZgDoxAsePiOhDdvMMtsE6BTitOieqYMyWHmlXKIQVDhiZggOVsue-I9AJSUNTh_VaYiCeJnbqNHGIGgUGkFUUB3p4qPrCJLODVmLEMykGem41SC-gJRJmkzBy4RbaoDyimOjYw5odF8-W-EBPWeMOkVl8ns7D7o17QeIl9KRCaOQxoKehk0a3mea1jV1CWnaS_V_A-2SXz4-JS1n5B3c6Pog",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5G8YQHicdZNNsptGAIQrV8lWG4bhT9k9AcOPBYi_AWbjQgwSiBEgJCRQ-Q65QkrPTpWztF25y8tFso1e1sm2u-urXnT_-ijrPz3ZmPMx0myl7q8Dt5m9-h76X_uho2Nxqel3KMj8UpElReI4WRQVHghfi_ySs25f0x8AvkuCLEqyIAIRKjInfKvKnLK6Lb3drhy0rnhSJAnIHC9wIhAUIAmcDKQ_6mO-L_-1f3sd6PlN2KgfAS8vOY4Tn3kgS_xSUiD3aRN42sf_Mb-cxnKY337elufLQmgWx66tL91wXuy6YXGtadktSlpf6nb_Zd8X743_A_J6rOk3UZYEiVeWEuQBL4gyXL7218uj2n8eR1a-abeF-mL5lmoNmEf33GAjgcF1W0-6P790oYFaktp3aizhU3MDtTnjROypgRsLuVyWBqy4PfbsMZ4fFXuU7e9d3l93xV8__a1fM1UdCtWP-x5rARcee9VLptGJ6K7gRGGL2YlCxorEume8Ha3japOnJIwPBMca8beM5DjFZmLa68SIZ5JMG2LSS6AjXOLAjYzJcxvwAd9tfYtcGPOigTkUxGZfJRrlg9Y-4HtQuyrHEw1f3MjmnIhYfoyyMHZ3VMfHOMJB1tqSp19uQbq6ZSn9UGqsDgBdpRCNiY5WydGeMSLrLefMro57_4CsGHUgPqwGP12ZZWIJFNrr0iBz1hYTxWxyDNJE7OWWGyT2765QHIJjARjeHsmJsJe5gN0Ux0wtjWpyDg1XmKs-wa6ftX2foH4KDbDJzZWJcXbf8uhcGITPMdUopFaZgDoxAsePiOhDdvMMtsE6BTitOieqYMyWHmlXKIQVDhiZggOVsue-I9AJSUNTh_VaYiCeJnbqNHGIGgUGkFUUB3p4qPrCJLODVmLEMykGem41SC-gJRJmkzBy4RbaoDyimOjYw5odF8-W-EBPWeMOkVl8ns7D7o17QeIl9KRCaOQxoKehk0a3mea1jV1CWnaS_V_A-2SXz4-JS1n5B3c6Pog"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTfJmkRkpiugtk8O0ZrKtkU4SN66adVyP4_9DMy2OCr6qOp70EPL6w3nRbf9jZ0Fi0nYxaoRMJ2x9BCaABbUg6MbyTjz7ldA7Wj9BV4jFJJ0gVO8E4sij3b6w",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTW7_VZtyG9u9U6EhVcj6pwyveSs1S81nIt6UQvfYbK8PAAlBg7T4Rp0A4_o2UaZlqSUNB544M4-S9lJqIoQ5shmYbKYxAcsVx2",
+      "source": "bhphotovideo.com",
+      "title": "Asus ProArt pa279crv 27\" 4K UHD LED Monitor",
+      "rating": 4.3,
+      "reviews": 323,
+      "price": "$399.00",
+      "extracted_price": 399.0,
+      "immersive_product_page_token": "d4EDFXicbZNNkptGAIWrcoXcIFtt-ofmJ7uRoBFEoFEjGtQbF6KRYGgBg9Af5TvkDho7VfbSduUuk9NE8Trb96pefd_i_Xkvqr-XhnvLTmvbN6vu3IPn27Iao9WXrm_lKR8q-QMCokMCdGIZyMKQmCaEX_JsyFS7r-R3DZkQG7qmYagjzcAWMr-VRSZV1RTL3a7o7Tb_bwUhbCICNaLpEFkIEY18rQ7ZvvjZfycW0gEmumVhzbIggSZ46-XxHT3PPmATI2AhaIAHhqVpBjQ_PrOl_eH_u8-vp6K_vf-2LY7DRKsnh7aphrY_TnZtPzlXsmgnhayGqtl_3nc_2Yjx2MDIsAysk4cOIejtUMlv5OGlI6LrlgkA1HQA37rzcC_3n04nVbzbl8nsyVt5M6_niI6Zq04Cs_O2ujqr21MbubQRqT9K18KPLGSz-sgT0kmX1x4NwSZlKr_c9-p-Ot5LdS-av9qsO-_yf3751WmP9ux4ma3iruM2A5HyRZxYLOfelatwkx1UvG32kNtKsRjimPMkmPssn7M0jMWlsGPI681VvEjBbB5vR9qscOnI-DoLazoGB_O25gFgtEYMmSRfe2Az8lC6G8hslW4Bq6TNsFxPZ6y2zuFhuLBanhNqlaHr7xbpVHHgZ1kqFkvn6heOSAUYqhywOBhZyWPfTxGbRq6nFY1a8FTuornfRJTRjNLTCpCX2OZAuB0L6zINajkLaemEzfThyp5lIzOWXI9baE2F8rviIFEIRRAkV5AcCAzWPsrmvpPDp1uhSieiFMQpW4iR_bFIeLZMmM4BfGa1f5buUG6wgqL2tDzhY47D25a3gNVdzeBKW3E-y0B8Y00IgvXTtbBzXFCWMTucb1M1F3Aa544_rhPOCmW9Lnk45HQ6RIq7DA2dsNUmVmEfzoW-XPODcEpvdThGtDYxw6qUnDnRS9nlc3EL6JSskdJj6GReTZ0ce0QoqrOX-hK7ZExHtZO0uyzX09eQ0nnhEjeIW5jVzqfrsd-9gydKhmip51ptnJh87Vv9FNbX28LnoRCNejVWv0PDAsAiuvG4rPkv6MdJ0A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=d4EDFXicbZNNkptGAIWrcoXcIFtt-ofmJ7uRoBFEoFEjGtQbF6KRYGgBg9Af5TvkDho7VfbSduUuk9NE8Trb96pefd_i_Xkvqr-XhnvLTmvbN6vu3IPn27Iao9WXrm_lKR8q-QMCokMCdGIZyMKQmCaEX_JsyFS7r-R3DZkQG7qmYagjzcAWMr-VRSZV1RTL3a7o7Tb_bwUhbCICNaLpEFkIEY18rQ7ZvvjZfycW0gEmumVhzbIggSZ46-XxHT3PPmATI2AhaIAHhqVpBjQ_PrOl_eH_u8-vp6K_vf-2LY7DRKsnh7aphrY_TnZtPzlXsmgnhayGqtl_3nc_2Yjx2MDIsAysk4cOIejtUMlv5OGlI6LrlgkA1HQA37rzcC_3n04nVbzbl8nsyVt5M6_niI6Zq04Cs_O2ujqr21MbubQRqT9K18KPLGSz-sgT0kmX1x4NwSZlKr_c9-p-Ot5LdS-av9qsO-_yf3751WmP9ux4ma3iruM2A5HyRZxYLOfelatwkx1UvG32kNtKsRjimPMkmPssn7M0jMWlsGPI681VvEjBbB5vR9qscOnI-DoLazoGB_O25gFgtEYMmSRfe2Az8lC6G8hslW4Bq6TNsFxPZ6y2zuFhuLBanhNqlaHr7xbpVHHgZ1kqFkvn6heOSAUYqhywOBhZyWPfTxGbRq6nFY1a8FTuornfRJTRjNLTCpCX2OZAuB0L6zINajkLaemEzfThyp5lIzOWXI9baE2F8rviIFEIRRAkV5AcCAzWPsrmvpPDp1uhSieiFMQpW4iR_bFIeLZMmM4BfGa1f5buUG6wgqL2tDzhY47D25a3gNVdzeBKW3E-y0B8Y00IgvXTtbBzXFCWMTucb1M1F3Aa544_rhPOCmW9Lnk45HQ6RIq7DA2dsNUmVmEfzoW-XPODcEpvdThGtDYxw6qUnDnRS9nlc3EL6JSskdJj6GReTZ0ce0QoqrOX-hK7ZExHtZO0uyzX09eQ0nnhEjeIW5jVzqfrsd-9gydKhmip51ptnJh87Vv9FNbX28LnoRCNejVWv0PDAsAiuvG4rPkv6MdJ0A"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best 4K video editing screen?",
+      "type": "ai_overview",
+      "page_token": "a_Fqe3icHdDBTsIwHIDx-DIehbaAkYSYTDrAsOL-W7tuF9N1g2G7rcJ0spvv4lP5NBLP3-_0ff_YY2N-b7qq69x5Phr1fX93aNuDLe90W4_U-dLokVbW5kqb-ex-hh73ekE_qPf0vvFC7pxYwjjCE5Ka7iSxP458dmLLrBaGDol8TkKx6cul4LHxVWphBtJcjfBi7A_pUKQCBThpfCkHW0W1AzDZtpRVHRGQO8pRbN05jQ0Baj9D4h3LpHMFhwpWPhJ-cRHSmwak_eLYnfKxc1lSDIxapbBrBGGVklWwFUDUOpiEmA0Z2nRahkSsUBceUaDWluVI8J1wPKdTFK0AaJW9sHExTaXgQNuJkh7Wb15Y8gdXWgar47MHa3bZJRmI2n2oNSPFtcf8jHUS4PzNNkE9XW552nOTwe1efy7I7f_Nxeu-7ubu1B7-AJiegXY",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=a_Fqe3icHdDBTsIwHIDx-DIehbaAkYSYTDrAsOL-W7tuF9N1g2G7rcJ0spvv4lP5NBLP3-_0ff_YY2N-b7qq69x5Phr1fX93aNuDLe90W4_U-dLokVbW5kqb-ex-hh73ekE_qPf0vvFC7pxYwjjCE5Ka7iSxP458dmLLrBaGDol8TkKx6cul4LHxVWphBtJcjfBi7A_pUKQCBThpfCkHW0W1AzDZtpRVHRGQO8pRbN05jQ0Baj9D4h3LpHMFhwpWPhJ-cRHSmwak_eLYnfKxc1lSDIxapbBrBGGVklWwFUDUOpiEmA0Z2nRahkSsUBceUaDWluVI8J1wPKdTFK0AaJW9sHExTaXgQNuJkh7Wb15Y8gdXWgar47MHa3bZJRmI2n2oNSPFtcf8jHUS4PzNNkE9XW552nOTwe1efy7I7f_Nxeu-7ubu1B7-AJiegXY",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1JrcE9jSEJWYmxOd1ZYSXhVa1ZGZG14bGExWkphazh6TUZKb0xWSjNVREpCYkZKeWNtaE1hM1pvY0VabFZrNWFSV1ZPTUZWR1NWOU5XRzEyYjJKM04zZDZjbTFGWkhWclduWjVTRWc0VVMwME0yOTJkMUZVVTNaV1VSSVdUemRIZVdGMVZFUktPR2x3ZG5Jd1VIbFBhWHBUVVJvaVFVUnpjamxtVkRST2FsRmZSakZWZGtJMFNVVlhVM0F6UmtsaldHeHRjMVpvZHciLCJmY3YiOiIzIiwiZWkiOiJPN0d5YXVUREo4aXB2cjBQeU9pelNRIiwicWMiOiJDaUppWlhOMElEUnJJRzF2Ym1sMGIzSnpJR1p2Y2lCMmFXUmxieUJsWkdsMGFXNW5FQUI5b0JYNVBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IDRLIHZpZGVvIGVkaXRpbmcgc2NyZWVuPyIsImxrIjoiR2hjMGF5QjJhV1JsYnlCbFpHbDBhVzVuSUhOamNtVmxiZyIsImJzIjoiYzNXUFBRdkNNQkNHY2Mza0puYnhGRVU3V2dxT1JWQ3hhRkVVZGE3TmFVT2JSSkpZXzc1cEI4R2c2NzNQLTNGa1JmeExuaHBnR2t5T2NFVnRJTnhBeFNoS1FNb01FM2ZRbVVJVVVkRDFPbUh4VXlNSkdjVzZkc29LVmNIS0VtNVNRUXJCREpqSWN1QlNNQ05WRkF5OWdlMnlNVi1nZzVFem1hN2xDX2pUM2c3enBKNm5NSk9jbzZCSUc0dTdNZ3I2WGstbEhBVGloM0hXa2hPWjJKbnhfZ2hXM1cyWENfdXhNYWdhMm9uenZiR3RaUTlkczdLMGtmX1lkdXNOIiwiaWQiOiJmY19PN0d5YXVUREo4aXB2cjBQeU9pelNRXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1JrcE9jSEJWYmxOd1ZYSXhVa1ZGZG14bGExWkphazh6TUZKb0xWSjNVREpCYkZKeWNtaE1hM1pvY0VabFZrNWFSV1ZPTUZWR1NWOU5XRzEyYjJKM04zZDZjbTFGWkhWclduWjVTRWc0VVMwME0yOTJkMUZVVTNaV1VSSVdUemRIZVdGMVZFUktPR2x3ZG5Jd1VIbFBhWHBUVVJvaVFVUnpjamxtVkRST2FsRmZSakZWZGtJMFNVVlhVM0F6UmtsaldHeHRjMVpvZHciLCJmY3YiOiIzIiwiZWkiOiJPN0d5YXVUREo4aXB2cjBQeU9pelNRIiwicWMiOiJDaUppWlhOMElEUnJJRzF2Ym1sMGIzSnpJR1p2Y2lCMmFXUmxieUJsWkdsMGFXNW5FQUI5b0JYNVBnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IDRLIHZpZGVvIGVkaXRpbmcgc2NyZWVuPyIsImxrIjoiR2hjMGF5QjJhV1JsYnlCbFpHbDBhVzVuSUhOamNtVmxiZyIsImJzIjoiYzNXUFBRdkNNQkNHY2Mza0puYnhGRVU3V2dxT1JWQ3hhRkVVZGE3TmFVT2JSSkpZXzc1cEI4R2c2NzNQLTNGa1JmeExuaHBnR2t5T2NFVnRJTnhBeFNoS1FNb01FM2ZRbVVJVVVkRDFPbUh4VXlNSkdjVzZkc29LVmNIS0VtNVNRUXJCREpqSWN1QlNNQ05WRkF5OWdlMnlNVi1nZzVFem1hN2xDX2pUM2c3enBKNm5NSk9jbzZCSUc0dTdNZ3I2WGstbEhBVGloM0hXa2hPWjJKbnhfZ2hXM1cyWENfdXhNYWdhMm9uenZiR3RaUTlkczdLMGtmX1lkdXNOIiwiaWQiOiJmY19PN0d5YXVUREo4aXB2cjBQeU9pelNRXzUifQ%3D%3D"
+    },
+    {
+      "question": "Is 4K overkill for a 27 inch monitor?",
+      "type": "ai_overview",
+      "page_token": "r1q-zXicHdBRboIwGADg7DI-zgriholZwkS0mXXU9i_wspSCorSAs5vK2-6yU-00W3aCL_m-vvWhqX_ubGVtd54Oh5fL5X7ftntd3qvWDOX51qihklrnUtXTycNk9LRTs_AjDJ5PqyDmXQdziliks5eksqSHq0JeohY1YolCbA5nyfZWNgu8NherULVTBrciorqo9QFMgbfGxzEny5StEB3RTewWnC_wiB4hEqE3ThG_sSVGIvRF3qwRM74VR9rJhEqp_UYmQRALvOEAhPNCb4CkaYMNMRUXy8rGjPcxIlEJjw7vIShDvWI8i3PHw8rxrxJVkNbQS01OpUFOZqgbVtkrQYWXJsBp2I7_DEcdg7jkfldqQqMDDuiS3DYi24LOJrm7HpMRdEUIgTJ1n_dVBC5eJc7VE4vOHezU58wd_G_O3nbGTrv3dv8L4PyBPQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r1q-zXicHdBRboIwGADg7DI-zgriholZwkS0mXXU9i_wspSCorSAs5vK2-6yU-00W3aCL_m-vvWhqX_ubGVtd54Oh5fL5X7ftntd3qvWDOX51qihklrnUtXTycNk9LRTs_AjDJ5PqyDmXQdziliks5eksqSHq0JeohY1YolCbA5nyfZWNgu8NherULVTBrciorqo9QFMgbfGxzEny5StEB3RTewWnC_wiB4hEqE3ThG_sSVGIvRF3qwRM74VR9rJhEqp_UYmQRALvOEAhPNCb4CkaYMNMRUXy8rGjPcxIlEJjw7vIShDvWI8i3PHw8rxrxJVkNbQS01OpUFOZqgbVtkrQYWXJsBp2I7_DEcdg7jkfldqQqMDDuiS3DYi24LOJrm7HpMRdEUIgTJ1n_dVBC5eJc7VE4vOHezU58wd_G_O3nbGTrv3dv8L4PyBPQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1JrcE9jSEJWYmxOd1ZYSXhVa1ZGZG14bGExWkphazh6TUZKb0xWSjNVREpCYkZKeWNtaE1hM1pvY0VabFZrNWFSV1ZPTUZWR1NWOU5XRzEyYjJKM04zZDZjbTFGWkhWclduWjVTRWc0VVMwME0yOTJkMUZVVTNaV1VSSVdUemRIZVdGMVZFUktPR2x3ZG5Jd1VIbFBhWHBUVVJvaVFVUnpjamxtVkRST2FsRmZSakZWZGtJMFNVVlhVM0F6UmtsaldHeHRjMVpvZHciLCJmY3YiOiIzIiwiZWkiOiJPN0d5YXVUREo4aXB2cjBQeU9pelNRIiwicWMiOiJDaUppWlhOMElEUnJJRzF2Ym1sMGIzSnpJR1p2Y2lCMmFXUmxieUJsWkdsMGFXNW5FQUI5b0JYNVBnIiwicXVlc3Rpb24iOiJJcyA0SyBvdmVya2lsbCBmb3IgYSAyNyBpbmNoIG1vbml0b3I/IiwibGsiOiJHaUpwY3lBMGF5QnZkbVZ5YTJsc2JDQm1iM0lnTWpjZ2FXNWphQ0J0YjI1cGRHOXkiLCJicyI6ImMzV1BQUXZDTUJDR2NjM2tKbmJ4RkVVN1dncU9SVkN4YUZFVWRhN05hVU9iUkpKWV83NXBCOEdnNjczUC0zRmtSZnhMbmhwZ0dreU9jRVZ0SU54QXhTaEtRTW9NRTNmUW1VSVVVZEQxT21IeFV5TUpHY1c2ZHNvS1ZjSEtFbTVTUVFyQkRKakljdUJTTUNOVkZBeTlnZTJ5TVYtZ2c1RXptYTdsQ19qVDNnN3pwSjZuTUpPY282QklHNHU3TWdyNlhrLWxIQVRpaDNIV2toT1oySm54X2doVzNXMlhDX3V4TWFnYTJvbnp2Ykd0WlE5ZHM3SzBrZl9ZZHVzTiIsImlkIjoiZmNfTzdHeWF1VERKOGlwdnIwUHlPaXpTUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1JrcE9jSEJWYmxOd1ZYSXhVa1ZGZG14bGExWkphazh6TUZKb0xWSjNVREpCYkZKeWNtaE1hM1pvY0VabFZrNWFSV1ZPTUZWR1NWOU5XRzEyYjJKM04zZDZjbTFGWkhWclduWjVTRWc0VVMwME0yOTJkMUZVVTNaV1VSSVdUemRIZVdGMVZFUktPR2x3ZG5Jd1VIbFBhWHBUVVJvaVFVUnpjamxtVkRST2FsRmZSakZWZGtJMFNVVlhVM0F6UmtsaldHeHRjMVpvZHciLCJmY3YiOiIzIiwiZWkiOiJPN0d5YXVUREo4aXB2cjBQeU9pelNRIiwicWMiOiJDaUppWlhOMElEUnJJRzF2Ym1sMGIzSnpJR1p2Y2lCMmFXUmxieUJsWkdsMGFXNW5FQUI5b0JYNVBnIiwicXVlc3Rpb24iOiJJcyA0SyBvdmVya2lsbCBmb3IgYSAyNyBpbmNoIG1vbml0b3I%2FIiwibGsiOiJHaUpwY3lBMGF5QnZkbVZ5YTJsc2JDQm1iM0lnTWpjZ2FXNWphQ0J0YjI1cGRHOXkiLCJicyI6ImMzV1BQUXZDTUJDR2NjM2tKbmJ4RkVVN1dncU9SVkN4YUZFVWRhN05hVU9iUkpKWV83NXBCOEdnNjczUC0zRmtSZnhMbmhwZ0dreU9jRVZ0SU54QXhTaEtRTW9NRTNmUW1VSVVVZEQxT21IeFV5TUpHY1c2ZHNvS1ZjSEtFbTVTUVFyQkRKakljdUJTTUNOVkZBeTlnZTJ5TVYtZ2c1RXptYTdsQ19qVDNnN3pwSjZuTUpPY282QklHNHU3TWdyNlhrLWxIQVRpaDNIV2toT1oySm54X2doVzNXMlhDX3V4TWFnYTJvbnp2Ykd0WlE5ZHM3SzBrZl9ZZHVzTiIsImlkIjoiZmNfTzdHeWF1VERKOGlwdnIwUHlPaXpTUV81In0%3D"
+    },
+    {
+      "question": "How much RAM is recommended for 4K video editing?",
+      "type": "ai_overview",
+      "page_token": "DO8bDHicHdBRbpswHIBx7TJ9bGwo2YgUTXUCqVhxioG_jV8mMEkItoE2tJS-7QY7xE7V0zTaBT7p-_35Z86d_vz2txnH4bJaLKZpuj31_ckcblVvF-Vl7tRClcZUpdKr5fcl_nlU6-CtIJsXRZJ8GGDLUPphnqRGY2GimYsmr618p6g-lxi8zA2m2mW21gNRJtpI8IfYDmWmaVtheE53I0qz6FeCo1e2BUsdOe0fGI-171AdIx5SWnF_s89MBsi7pB9UCIfOCYKk4ripAzlV4clRHRkTVD9Tjqdrh0CA3unOb4F7kOtQKrgfKQ-catu4ccciFZgZ9CggvMcpx6_SAS_Om0s848fUUl22EJY6tIUBEgu4oxq7TDRd0Min65tXCMhZ0N-VgjiqJckh94eDoWx3jgh7oPOeyzzBtMvt1aGVSSFoEwtz3ovoMQ9-TJzXy8wBcnNUb2v35r_0-vfRjqvhpT99AameiqA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DO8bDHicHdBRbpswHIBx7TJ9bGwo2YgUTXUCqVhxioG_jV8mMEkItoE2tJS-7QY7xE7V0zTaBT7p-_35Z86d_vz2txnH4bJaLKZpuj31_ckcblVvF-Vl7tRClcZUpdKr5fcl_nlU6-CtIJsXRZJ8GGDLUPphnqRGY2GimYsmr618p6g-lxi8zA2m2mW21gNRJtpI8IfYDmWmaVtheE53I0qz6FeCo1e2BUsdOe0fGI-171AdIx5SWnF_s89MBsi7pB9UCIfOCYKk4ripAzlV4clRHRkTVD9Tjqdrh0CA3unOb4F7kOtQKrgfKQ-catu4ccciFZgZ9CggvMcpx6_SAS_Om0s848fUUl22EJY6tIUBEgu4oxq7TDRd0Min65tXCMhZ0N-VgjiqJckh94eDoWx3jgh7oPOeyzzBtMvt1aGVSSFoEwtz3ovoMQ9-TJzXy8wBcnNUb2v35r_0-vfRjqvhpT99AameiqA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1JrcE9jSEJWYmxOd1ZYSXhVa1ZGZG14bGExWkphazh6TUZKb0xWSjNVREpCYkZKeWNtaE1hM1pvY0VabFZrNWFSV1ZPTUZWR1NWOU5XRzEyYjJKM04zZDZjbTFGWkhWclduWjVTRWc0VVMwME0yOTJkMUZVVTNaV1VSSVdUemRIZVdGMVZFUktPR2x3ZG5Jd1VIbFBhWHBUVVJvaVFVUnpjamxtVkRST2FsRmZSakZWZGtJMFNVVlhVM0F6UmtsaldHeHRjMVpvZHciLCJmY3YiOiIzIiwiZWkiOiJPN0d5YXVUREo4aXB2cjBQeU9pelNRIiwicWMiOiJDaUppWlhOMElEUnJJRzF2Ym1sMGIzSnpJR1p2Y2lCMmFXUmxieUJsWkdsMGFXNW5FQUI5b0JYNVBnIiwicXVlc3Rpb24iOiJIb3cgbXVjaCBSQU0gaXMgcmVjb21tZW5kZWQgZm9yIDRLIHZpZGVvIGVkaXRpbmc/IiwibGsiOiJHaDl5WVcwZ2JtVmxaR1ZrSUdadmNpQTBheUIyYVdSbGJ5QmxaR2wwYVc1biIsImJzIjoiYzNXUFBRdkNNQkNHY2Mza0puYnhGRVU3V2dxT1JWQ3hhRkVVZGE3TmFVT2JSSkpZXzc1cEI4R2c2NzNQLTNGa1JmeExuaHBnR2t5T2NFVnRJTnhBeFNoS1FNb01FM2ZRbVVJVVVkRDFPbUh4VXlNSkdjVzZkc29LVmNIS0VtNVNRUXJCREpqSWN1QlNNQ05WRkF5OWdlMnlNVi1nZzVFem1hN2xDX2pUM2c3enBKNm5NSk9jbzZCSUc0dTdNZ3I2WGstbEhBVGloM0hXa2hPWjJKbnhfZ2hXM1cyWENfdXhNYWdhMm9uenZiR3RaUTlkczdLMGtmX1lkdXNOIiwiaWQiOiJmY19PN0d5YXVUREo4aXB2cjBQeU9pelNRXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1JrcE9jSEJWYmxOd1ZYSXhVa1ZGZG14bGExWkphazh6TUZKb0xWSjNVREpCYkZKeWNtaE1hM1pvY0VabFZrNWFSV1ZPTUZWR1NWOU5XRzEyYjJKM04zZDZjbTFGWkhWclduWjVTRWc0VVMwME0yOTJkMUZVVTNaV1VSSVdUemRIZVdGMVZFUktPR2x3ZG5Jd1VIbFBhWHBUVVJvaVFVUnpjamxtVkRST2FsRmZSakZWZGtJMFNVVlhVM0F6UmtsaldHeHRjMVpvZHciLCJmY3YiOiIzIiwiZWkiOiJPN0d5YXVUREo4aXB2cjBQeU9pelNRIiwicWMiOiJDaUppWlhOMElEUnJJRzF2Ym1sMGIzSnpJR1p2Y2lCMmFXUmxieUJsWkdsMGFXNW5FQUI5b0JYNVBnIiwicXVlc3Rpb24iOiJIb3cgbXVjaCBSQU0gaXMgcmVjb21tZW5kZWQgZm9yIDRLIHZpZGVvIGVkaXRpbmc%2FIiwibGsiOiJHaDl5WVcwZ2JtVmxaR1ZrSUdadmNpQTBheUIyYVdSbGJ5QmxaR2wwYVc1biIsImJzIjoiYzNXUFBRdkNNQkNHY2Mza0puYnhGRVU3V2dxT1JWQ3hhRkVVZGE3TmFVT2JSSkpZXzc1cEI4R2c2NzNQLTNGa1JmeExuaHBnR2t5T2NFVnRJTnhBeFNoS1FNb01FM2ZRbVVJVVVkRDFPbUh4VXlNSkdjVzZkc29LVmNIS0VtNVNRUXJCREpqSWN1QlNNQ05WRkF5OWdlMnlNVi1nZzVFem1hN2xDX2pUM2c3enBKNm5NSk9jbzZCSUc0dTdNZ3I2WGstbEhBVGloM0hXa2hPWjJKbnhfZ2hXM1cyWENfdXhNYWdhMm9uenZiR3RaUTlkczdLMGtmX1lkdXNOIiwiaWQiOiJmY19PN0d5YXVUREo4aXB2cjBQeU9pelNRXzUifQ%3D%3D"
+    },
+    {
+      "question": "Is IPS or OLED better for video editing?",
+      "type": "ai_overview",
+      "page_token": "zys73nicHdBfToMwHADgeJk9ugJuuiWLSbVjw9BJ4dd2fTGsZX-gjMpwKG_exVN5GhO_I3zfP_Z0rn5vumPXuct8PO77_vbQNAdb3OqmHueXr7Me69zaXa6r-fR-6j3u9YJ8EPz0vsYJOMefGUqF3adVM0jE3xVnoQbHoaRPSd17RuKWZfhV1AYzYRJd0dSEny31Ir6TkUusAUAIbUvqUxlFaaYgI-ySZoCgYq3mmORcNSlaB9uMB4kfhSxwV4bYhyBqDT47b2TsF0QlRfXgxSICsEvJw5lVAwyKOxmXVRfzQwCeE2blHINJqMrlsRCqVWK2gbrr2XCc7lbJhEsWkKN6pchMtpIDI81dLrGvS5wUMHOFpSw8RZit6NdGKOCBeskHs4JMeeaZTDTMzvmASSHoi_aWsUGfwWivr4tg9L-5eNvX3dy1zeEPtfCA-Q",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zys73nicHdBfToMwHADgeJk9ugJuuiWLSbVjw9BJ4dd2fTGsZX-gjMpwKG_exVN5GhO_I3zfP_Z0rn5vumPXuct8PO77_vbQNAdb3OqmHueXr7Me69zaXa6r-fR-6j3u9YJ8EPz0vsYJOMefGUqF3adVM0jE3xVnoQbHoaRPSd17RuKWZfhV1AYzYRJd0dSEny31Ir6TkUusAUAIbUvqUxlFaaYgI-ySZoCgYq3mmORcNSlaB9uMB4kfhSxwV4bYhyBqDT47b2TsF0QlRfXgxSICsEvJw5lVAwyKOxmXVRfzQwCeE2blHINJqMrlsRCqVWK2gbrr2XCc7lbJhEsWkKN6pchMtpIDI81dLrGvS5wUMHOFpSw8RZit6NdGKOCBeskHs4JMeeaZTDTMzvmASSHoi_aWsUGfwWivr4tg9L-5eNvX3dy1zeEPtfCA-Q",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1JrcE9jSEJWYmxOd1ZYSXhVa1ZGZG14bGExWkphazh6TUZKb0xWSjNVREpCYkZKeWNtaE1hM1pvY0VabFZrNWFSV1ZPTUZWR1NWOU5XRzEyYjJKM04zZDZjbTFGWkhWclduWjVTRWc0VVMwME0yOTJkMUZVVTNaV1VSSVdUemRIZVdGMVZFUktPR2x3ZG5Jd1VIbFBhWHBUVVJvaVFVUnpjamxtVkRST2FsRmZSakZWZGtJMFNVVlhVM0F6UmtsaldHeHRjMVpvZHciLCJmY3YiOiIzIiwiZWkiOiJPN0d5YXVUREo4aXB2cjBQeU9pelNRIiwicWMiOiJDaUppWlhOMElEUnJJRzF2Ym1sMGIzSnpJR1p2Y2lCMmFXUmxieUJsWkdsMGFXNW5FQUI5b0JYNVBnIiwicXVlc3Rpb24iOiJJcyBJUFMgb3IgT0xFRCBiZXR0ZXIgZm9yIHZpZGVvIGVkaXRpbmc/IiwibGsiOiJHaWRwY3lCcGNITWdiM0lnYjJ4bFpDQmlaWFIwWlhJZ1ptOXlJSFpwWkdWdklHVmthWFJwYm1jIiwiYnMiOiJjM1dQUFF2Q01CQ0djYzNrSm5ieEZFVTdXZ3FPUlZDeGFGRVVkYTdOYVVPYlJKSllfNzVwQjhHZzY3M1AtM0ZrUmZ4TG5ocGdHa3lPY0VWdElOeEF4U2hLUU1vTUUzZlFtVUlVVWREMU9tSHhVeU1KR2NXNmRzb0tWY0hLRW01U1FRckJESmpJY3VCU01DTlZGQXk5Z2UyeU1WLWdnNUV6bWE3bENfalQzZzd6cEo2bk1KT2NvNkJJRzR1N01ncjZYay1sSEFUaWgzSFdraE9aMkpueF9naFczVzJYQ191eE1hZ2Eyb256dmJHdFpROWRzN0swa2ZfWWR1c04iLCJpZCI6ImZjX083R3lhdVRESjhpcHZyMFB5T2l6U1FfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1JrcE9jSEJWYmxOd1ZYSXhVa1ZGZG14bGExWkphazh6TUZKb0xWSjNVREpCYkZKeWNtaE1hM1pvY0VabFZrNWFSV1ZPTUZWR1NWOU5XRzEyYjJKM04zZDZjbTFGWkhWclduWjVTRWc0VVMwME0yOTJkMUZVVTNaV1VSSVdUemRIZVdGMVZFUktPR2x3ZG5Jd1VIbFBhWHBUVVJvaVFVUnpjamxtVkRST2FsRmZSakZWZGtJMFNVVlhVM0F6UmtsaldHeHRjMVpvZHciLCJmY3YiOiIzIiwiZWkiOiJPN0d5YXVUREo4aXB2cjBQeU9pelNRIiwicWMiOiJDaUppWlhOMElEUnJJRzF2Ym1sMGIzSnpJR1p2Y2lCMmFXUmxieUJsWkdsMGFXNW5FQUI5b0JYNVBnIiwicXVlc3Rpb24iOiJJcyBJUFMgb3IgT0xFRCBiZXR0ZXIgZm9yIHZpZGVvIGVkaXRpbmc%2FIiwibGsiOiJHaWRwY3lCcGNITWdiM0lnYjJ4bFpDQmlaWFIwWlhJZ1ptOXlJSFpwWkdWdklHVmthWFJwYm1jIiwiYnMiOiJjM1dQUFF2Q01CQ0djYzNrSm5ieEZFVTdXZ3FPUlZDeGFGRVVkYTdOYVVPYlJKSllfNzVwQjhHZzY3M1AtM0ZrUmZ4TG5ocGdHa3lPY0VWdElOeEF4U2hLUU1vTUUzZlFtVUlVVWREMU9tSHhVeU1KR2NXNmRzb0tWY0hLRW01U1FRckJESmpJY3VCU01DTlZGQXk5Z2UyeU1WLWdnNUV6bWE3bENfalQzZzd6cEo2bk1KT2NvNkJJRzR1N01ncjZYay1sSEFUaWgzSFdraE9aMkpueF9naFczVzJYQ191eE1hZ2Eyb256dmJHdFpROWRzN0swa2ZfWWR1c04iLCJpZCI6ImZjX083R3lhdVRESjhpcHZyMFB5T2l6U1FfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best 4K monitor for video editing depends on your budget and need for color accuracy, with top options like the BenQ PD2732UGo to product viewer dialog for this item. offering professional color spaces for around $700, and flagship displays like the EIZO ColorEdge CG2700XGo to product viewer dialog for this item. providing built-in calibration and high-end precision for around $3,394.",
+        "snippet_links": [
+          {
+            "text": "BenQ PD2732UGo to product viewer dialog for this item.",
+            "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462567100895232,imageDocid:3202588149201286212,gpcid:12034286988908995101,headlineOfferDocid:16870096956143486568,catalogid:5125378697230892033,productDocid:10325860282561631824&q=product&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQxa4PegoIAggACAAIChAH"
+          },
+          {
+            "text": "EIZO ColorEdge CG2700XGo to product viewer dialog for this item.",
+            "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462898593227248,imageDocid:710565839146155552,gpcid:6419487417005919027,headlineOfferDocid:9683477190203907633,catalogid:18148523145919090446,productDocid:17404590201174052525,rds:PC_6419487417005919027%7CPROD_PC_6419487417005919027&q=product&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQxa4PegoIAggACAAIChAJ"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "BenQ PD2732UGo to product viewer dialog for this item."
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top 4K Monitors for Video Editing"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Best Value/Pro Creator: BenQ PD2732UGo to product viewer dialog for this item. (~$700) – Features 99% AdobeRGB and DCI-P3 coverage, factory calibration, and Thunderbolt 4 with 90W power delivery.",
+            "snippet_links": [
+              {
+                "text": "BenQ PD2732UGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462567100895232,imageDocid:3202588149201286212,gpcid:12034286988908995101,headlineOfferDocid:16870096956143486568,catalogid:5125378697230892033,productDocid:10325860282561631824&q=product&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQxa4PegoIAggACAAIChAR"
+              }
+            ]
+          },
+          {
+            "snippet": "Best Mid-Range Large Screen: BenQ PD3205UGo to product viewer dialog for this item. (~$600–$700) – A 31.5-inch 4K IPS display providing expansive timeline space and excellent out-of-the-box color accuracy.",
+            "snippet_links": [
+              {
+                "text": "BenQ PD3205UGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462892631328962,imageDocid:8810394545002488722,gpcid:16296706664101507388,headlineOfferDocid:11418064513982769494,catalogid:4547408353701086653,productDocid:1623889464364569117,rds:PC_16296706664101507388%7CPROD_PC_16296706664101507388&q=product&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQxa4PegoIAggACAAIChAX"
+              }
+            ],
+            "reference_indexes": [
+              6
+            ]
+          },
+          {
+            "snippet": "Best Flagship Professional: EIZO ColorEdge CG2700XGo to product viewer dialog for this item. (~$3,394) – A 27-inch 4K HDR master monitor with high 500 nits brightness and automated color calibration for critical grading workflows.",
+            "snippet_links": [
+              {
+                "text": "EIZO ColorEdge CG2700XGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462898593227248,imageDocid:710565839146155552,gpcid:6419487417005919027,headlineOfferDocid:9683477190203907633,catalogid:18148523145919090446,productDocid:17404590201174052525,rds:PC_6419487417005919027%7CPROD_PC_6419487417005919027&q=product&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQxa4PegoIAggACAAIHhAB"
+              }
+            ]
+          },
+          {
+            "snippet": "Best All-Rounder Alternative: Dell UltraSharp U2723QEGo to product viewer dialog for this item. – Highly recommended for its exceptional IPS contrast and dependable everyday color reproduction.",
+            "snippet_links": [
+              {
+                "text": "Dell UltraSharp U2723QEGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462669468878831,imageDocid:4490515675154927803,gpcid:2758304187427070816,headlineOfferDocid:15233479737733922148,catalogid:10602836172495475254,productDocid:7090538773069274111,rds:PC_2758304187427070816%7CPROD_PC_2758304187427070816&q=product&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQxa4PegoIAggACAAIIBAD"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "What to Look For"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Resolution & Size: 4K resolution at 27 to 32 inches ensures your editing interface is sharp while giving enough room for timelines, bins, and scopes."
+          },
+          {
+            "snippet": "Color Gamut: Look for high coverage of professional color spaces like DCI-P3 and AdobeRGB (ideally 95%+)."
+          },
+          {
+            "snippet": "Connectivity: USB-C or Thunderbolt 4 with power delivery (90W+) simplifies your desk setup by driving video and charging your laptop with a single cable."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Watch this video overview for a closer look at top-rated creative displays for your editing suite:"
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.google.com/",
+        "source": "Google",
+        "index": 0
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=dQPviz-E5aY&vl=en",
+        "source": "youtube.com",
+        "index": 1
+      },
+      {
+        "link": "https://www.digitalcameraworld.com/buying-guides/best-video-editing-monitors",
+        "source": "digitalcameraworld.com",
+        "index": 2
+      },
+      {
+        "link": "https://thepostflow.com/post-production/editing-hardware/best-monitor-for-video-editing/",
+        "source": "thepostflow.com",
+        "index": 3
+      },
+      {
+        "link": "https://www.lenovo.com/us/en/glossary/which-monitors-are-best-for-video-editing/",
+        "source": "lenovo.com",
+        "index": 4
+      },
+      {
+        "link": "https://www.rtings.com/monitor/reviews/best/by-usage/video-editing",
+        "source": "rtings.com",
+        "index": 5
+      },
+      {
+        "title": "BenQ PD2732U 27\\\" 4K AdobeRGB Creative Pro Monitor with TB4",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:10325860282561631824,catalogid:5125378697230892033,gpcid:12034286988908995101,mid:576462567100895232&ibp=oshop",
+        "snippet": "The BenQ PD2732U is a 27” 4K IPS professional monitor with 3840 x 2160 resolution and 99% AdobeRGB and DCI-P3 coverage. Factory-calibrated to Delta E ≤ 2, it provides photographers and designers with a reliable colour reference for editing on screen or for print. Its Nano Matte Black panel reduces reflections and highlight diffusion, while the Thunderbolt 4 ports carry video, data and up to 90W of power via a single cable.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRon1-l2IHZFcG8nYfLvDE2hH9nCDaQWNgZrtCzKf0MoRV74zpalHqksaSGBgl0eYHof3CfQe87zpsWDwQ",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "EIZO ColorEdge CG2700X 27\\\" Class 4K UHD LCD Monitor",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:17404590201174052525,catalogid:18148523145919090446,gpcid:6419487417005919027,mid:576462898593227248&ibp=oshop",
+        "snippet": "This flagship 27-inch monitor marks a new generation of ColorEdge with a new exterior design. With 4K UHD (3840 x 2160) resolution, 500 cd/m2 high brightness, and HDR gamma support, the monitor reproduces content in remarkable detail. USB Type-C connectivity provides a streamlined experience so professionals in video editing, game development, photography, and more can focus on creating.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmKLLMlEVuMD40h4kIb37KQmJU8Nm3z5dbc1PdKmlwTyRnjFOm2ilxSZCiAuFJJ-1Smmp0sIgBeeTBwAM",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "Best Monitor for Video Editing 2026 - (Watch Before You Regret Buying!)",
+        "link": "https://www.youtube.com/watch?v=dQPviz-E5aY&vl=en&t=30",
+        "snippet": "Best Monitor for Video Editing 2026 - (Watch Before You Regret Buying!) to find out more information and updated price of the products we have mentioned be sure to",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwrQY9_CE_la-4Waxs6-vynpcFScqW3IiZ99VtgmeKJh7eEozSr-GOnATLgri3A36iAcJ2LjohYepYWvCy95SSIM59dq14d8xjErrYgg",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "The best video editing monitors in 2026 - Digital Camera World",
+        "link": "https://www.digitalcameraworld.com/buying-guides/best-video-editing-monitors",
+        "snippet": "Best all rounder1. Dell UltraSharp U2723QE ☆☆☆☆☆ Excellent color accuracyRead more▼ View at Amazon View at Walmart View at Best Buy Best 5K screen2. BenQ PD2730S ☆...",
+        "source": "Digital Camera World",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTZMV16Fvbs5j4HAAWAZ8ieGh5MI6D_XmFhks0nSkCghq4SToVphF-27PnCB3bl6P6FeVt9KJ59f4BJd1bksUL4sxy4NqwiWz9H3-CI",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.digitalcameraworld.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      },
+      {
+        "title": "The Best Monitor for Video Editing",
+        "link": "https://thepostflow.com/post-production/editing-hardware/best-monitor-for-video-editing/",
+        "snippet": "Those three things, in that order, sort the whole market. Is a 4K monitor necessary for video editing? For the timeline, yes, at 27 inches and up. You don't need 4...",
+        "source": "The Post Flow",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoLIzi2pixCot8ebZEMxbw7bhVrCaw6yzxtzVSOeB5NsFBeHfGuPMJwZZevroCEgLFH4rbRSBb_QSiF94AnVO9J4UfZdnko44QT7pm",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://thepostflow.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 10
+      },
+      {
+        "title": "Which Monitor is Best for Professional Video Editing? | Lenovo US",
+        "link": "https://www.lenovo.com/us/en/glossary/which-monitors-are-best-for-video-editing/",
+        "snippet": "What features should I look for in a video editing monitor? When choosing a monitor for video editing, prioritize color accuracy and detail. Opt for monitors with ...",
+        "source": "Lenovo",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR0jT4BGzBSC0ET2O7ASpGysrK7WeqOG_LNUD6nSHQBVXhngQY_NZErRP6TXFdwvf1gVpbXP6przjkeQx5Q7Fhwuevp",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.lenovo.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      },
+      {
+        "title": "The 5 Best Monitors For Video Editing of 2026 - RTINGS.com",
+        "link": "https://www.rtings.com/monitor/reviews/best/by-usage/video-editing",
+        "snippet": "If an OLED monitor is too expensive for you, the Acer Nitro XV275K P5biipruzx offers solid value, especially when it's on sale. The biggest downside of getting thi...",
+        "source": "RTINGS.com",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSZbhoutGe4ZEcNP9feGbSYsm1bN9M1q2FN1KiH9mIssrRIaJu5DJ_rBsAkHEsbv1ovOFQLN4XOv81r_7SNI2Lpixyr_N1aNFSuP8dU",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.rtings.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 12
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Looking for a 4k monitor recommendation - Video Editing",
+      "link": "https://www.reddit.com/r/Monitors/comments/1skkmbc/looking_for_a_4k_monitor_recommendation_video/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFShBYomtNZWb-Lmt70HoMKr3X_lgtLWSXgXmKoYHvmTVvrvIVIeYDrKOxxw3DEjBxsxUSu3rD3ZBjJnSmhzDaU15_ESXLFT8V42th4sOegbPAWOq-9z45XDMZQeSJuq5w-wHiq6291BQPGsib4jpua2o_ZNCF3RZrPQIDjAgAGpfjLRIIgmWXwRnZ81QzrM7Kg6AF9o&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQFnoECCkQAQ&uoh=1",
+      "displayed_link": "5 comments · 5 months ago",
+      "snippet": "With 1300 budget, you're looking at Asus Pro Art 5k 27\" and 6k 32\" or BenQ 27\" 5k basically. Good monitors for video editing are not good ...",
+      "snippet_highlighted_words": [
+        "Asus Pro Art 5k 27"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Which monitor are you using for video editing? - Reddit",
+            "link": "https://www.reddit.com/r/VideoEditing/comments/1cmqowy/which_monitor_are_you_using_for_video_editing/",
+            "answer_count": 33,
+            "date": "May 7, 2024"
+          },
+          {
+            "title": "Recommendations for good 32” 4K monitors for video ...",
+            "link": "https://www.reddit.com/r/editors/comments/1h1tkta/recommendations_for_good_32_4k_monitors_for_video/",
+            "answer_count": 20,
+            "date": "Nov 28, 2024"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "With 1300 budget, you're looking at Asus Pro Art 5k 27\" and 6k 32\" or BenQ 27\" 5k basically. Good monitors for video editing are not good ...",
+          "source_info_link": "https://www.reddit.com/r/Monitors/comments/1skkmbc/looking_for_a_4k_monitor_recommendation_video/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZTaEJZb210TlpXYi1MbXQ3MEhvTUtyM1hfbGd0TFdTWGdYbUtvWUh2bVRWdnJ2SVZJZVlEcktPeHh3M0RFakJ4c3hVU3UzckQzWkJqSm5TbWh6RGFVMTVfRVNYTEZUOFY0MnRoNHNPZWdiUEFXT3EtOXo0NVhETVpRZVNKdXE1dy13SGlxNjI5MUJRUEdzaWI0anB1YTJvX1pOQ0YzUlpyUFFJRGpBZ0FHcGZqTFJJSWdtV1h3Um5aODFRenJNN0tnNkFGOW8SBBoCCAAa0AUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArAUIABAAGAAgACoWCgRiZXN0FZxv7T8aBGdvb2QaA3RvcCoJCgI0axX8XMBAKkgKCG1vbml0b3JzFbVN5kAaBGFzdXMaB2Rpc3BsYXkaCGRpc3BsYXlzGgdtb25pdG9yGgZzY3JlZW4aDWl2O3A7bW9uaXRvcnMqCgoDZm9yFQAAAAAqIgoFdmlkZW8Vj5vcQBoMdmlkZW9lZGl0aW5nGgZ2aWRlb3MqJQoHZWRpdGluZxXOJuBAGgdlZGl0b3JzGgx2aWRlb2VkaXRpbmcy3QEvZ290bz91cmw9Q0FFU21RRUI2enN3RlNoQllvbXROWldiLUxtdDcwSG9NS3IzWF9sZ3RMV1NYZ1htS29ZSHZtVFZ2cnZJVkllWURyS094eHczREVqQnhzeFVTdTNyRDNaQmpKblNtaHpEYVUxNV9FU1hMRlQ4VjQydGg0c09lZ2JQQVdPcS05ejQ1WERNWlFlU0p1cTV3LXdIaXE2MjkxQlFQR3NpYjRqcHVhMm9fWk5DRjNSWnJQUUlEakFnQUdwZmpMUklJZ21XWHdSblo4MVF6ck03S2c2QUY5bzpFTG9va2luZyBmb3IgYSA8Yj40ayBtb25pdG9yPC9iPiByZWNvbW1lbmRhdGlvbiAtIDxiPlZpZGVvIEVkaXRpbmc8L2I-QqwBV2l0aCAxMzAwIGJ1ZGdldCwgeW91JiMzOTtyZSBsb29raW5nIGF0IDxiPkFzdXMgUHJvIEFydCA1ayAyNzwvYj4mcXVvdDsgYW5kIDZrIDMyJnF1b3Q7IG9yIEJlblEgMjcmcXVvdDsgNWsgYmFzaWNhbGx5LiBHb29kIG1vbml0b3JzIGZvciB2aWRlbyBlZGl0aW5nIGFyZSBub3QgZ29vZCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZTaEJZb210TlpXYi1MbXQ3MEhvTUtyM1hfbGd0TFdTWGdYbUtvWUh2bVRWdnJ2SVZJZVlEcktPeHh3M0RFakJ4c3hVU3UzckQzWkJqSm5TbWh6RGFVMTVfRVNYTEZUOFY0MnRoNHNPZWdiUEFXT3EtOXo0NVhETVpRZVNKdXE1dy13SGlxNjI5MUJRUEdzaWI0anB1YTJvX1pOQ0YzUlpyUFFJRGpBZ0FHcGZqTFJJSWdtV1h3Um5aODFRenJNN0tnNkFGOW8SBBoCCAAa0AUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArAUIABAAGAAgACoWCgRiZXN0FZxv7T8aBGdvb2QaA3RvcCoJCgI0axX8XMBAKkgKCG1vbml0b3JzFbVN5kAaBGFzdXMaB2Rpc3BsYXkaCGRpc3BsYXlzGgdtb25pdG9yGgZzY3JlZW4aDWl2O3A7bW9uaXRvcnMqCgoDZm9yFQAAAAAqIgoFdmlkZW8Vj5vcQBoMdmlkZW9lZGl0aW5nGgZ2aWRlb3MqJQoHZWRpdGluZxXOJuBAGgdlZGl0b3JzGgx2aWRlb2VkaXRpbmcy3QEvZ290bz91cmw9Q0FFU21RRUI2enN3RlNoQllvbXROWldiLUxtdDcwSG9NS3IzWF9sZ3RMV1NYZ1htS29ZSHZtVFZ2cnZJVkllWURyS094eHczREVqQnhzeFVTdTNyRDNaQmpKblNtaHpEYVUxNV9FU1hMRlQ4VjQydGg0c09lZ2JQQVdPcS05ejQ1WERNWlFlU0p1cTV3LXdIaXE2MjkxQlFQR3NpYjRqcHVhMm9fWk5DRjNSWnJQUUlEakFnQUdwZmpMUklJZ21XWHdSblo4MVF6ck03S2c2QUY5bzpFTG9va2luZyBmb3IgYSA8Yj40ayBtb25pdG9yPC9iPiByZWNvbW1lbmRhdGlvbiAtIDxiPlZpZGVvIEVkaXRpbmc8L2I-QqwBV2l0aCAxMzAwIGJ1ZGdldCwgeW91JiMzOTtyZSBsb29raW5nIGF0IDxiPkFzdXMgUHJvIEFydCA1ayAyNzwvYj4mcXVvdDsgYW5kIDZrIDMyJnF1b3Q7IG9yIEJlblEgMjcmcXVvdDsgNWsgYmFzaWNhbGx5LiBHb29kIG1vbml0b3JzIGZvciB2aWRlbyBlZGl0aW5nIGFyZSBub3QgZ29vZCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Reddit · r/Monitors",
+      "read_more_link": "https://www.reddit.com/r/Monitors/comments/1skkmbc/looking_for_a_4k_monitor_recommendation_video/#:~:text=With%201300%20budget%2C%20you're%20looking,not%20good%20monitors%20for%20gaming."
+    },
+    {
+      "position": 2,
+      "title": "The 5 Best Monitors For Video Editing of 2026",
+      "link": "https://www.rtings.com/monitor/reviews/best/by-usage/video-editing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAV1wNq2Z8n93bKosJK4Q05sB0Q-cz_1_Dbsy68sfQlzsxIYglrQTfjEG2HYXwKR2VLYg8UpcGVpmE56RdkCCsb8IlpcejNAM_sJ3JKTJRFPfLh5fpcfLyJOsUN3ZybxiizTbQl9AHH0hc7E4hIJBYFb5frX0uO&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://www.rtings.com › Monitor › Best",
+      "date": "Aug 25, 2026",
+      "snippet": "The best monitor for video editing is the Apple Studio Display XDR. It's a high-end monitor ideal for serious content creators.",
+      "snippet_highlighted_words": [
+        "Apple Studio Display XDR"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The best monitor for video editing is the Apple Studio Display XDR. It's a high-end monitor ideal for serious content creators.",
+          "source_info_link": "https://www.rtings.com/monitor/reviews/best/by-usage/video-editing",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBwCdASocABwAPtEutFooIagoGAEAGglsALsogPPAsk5vgZoLRX_mfsA6b_zoMDV6I1rVWbKRuDj2Xx5JrfIQx1IYAAD-9gEpnxuhc7ENnwKjzZoQnCod4QIHeqxtWkm-zR-KYZ1s1v_VznstYhRh3O74CYk2IT392EgBCIM99luEHmIleipgJlMN7ygb-jOW1Bn34ULpxMS_919JTLNvJnfR3F8LUP_-ZffK74uiqK2Rb638T_o0bNyH_FWK7GSyYExAvnazPBgeJx3__aKGooFvapPvH9V1SCEWzSW3TMrz2Efp2V914fVX14EW-xgAIoSM7sIKW_rtSB6q0s_KKxKP6W2YdnLdOfPf4deU0sAwra9ybej7ApMHfwBoA3MWtRmurjVvYuA5aPlwB_RdIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjF3TnEyWjhuOTNiS29zSks0UTA1c0IwUS1jel8xX0Ric3k2OHNmUWx6c3hJWWdsclFUZmpFRzJIWVh3S1IyVkxZZzhVcGNHVnBtRTU2UmRrQ0NzYjhJbHBjZWpOQU1fc0ozSktUSlJGUGZMaDVmcGNmTHlKT3NVTjNaeWJ4aWl6VGJRbDlBSEgwaGM3RTRoSUpCWUZiNWZyWDB1TxIEGgIIABqBBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsECAAQABgAIAAqFgoEYmVzdBWHoeJAGgRnb29kGgN0b3AqCQoCNGsVAX31PypICghtb25pdG9ycxUg1MRAGgRhc3VzGgdkaXNwbGF5GghkaXNwbGF5cxoHbW9uaXRvchoGc2NyZWVuGg1pdjtwO21vbml0b3JzKgoKA2ZvchUAAAAAKiIKBXZpZGVvFW4It0AaDHZpZGVvZWRpdGluZxoGdmlkZW9zKiUKB2VkaXRpbmcVNNq-QBoHZWRpdG9ycxoMdmlkZW9lZGl0aW5nMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjF3TnEyWjhuOTNiS29zSks0UTA1c0IwUS1jel8xX0Ric3k2OHNmUWx6c3hJWWdsclFUZmpFRzJIWVh3S1IyVkxZZzhVcGNHVnBtRTU2UmRrQ0NzYjhJbHBjZWpOQU1fc0ozSktUSlJGUGZMaDVmcGNmTHlKT3NVTjNaeWJ4aWl6VGJRbDlBSEgwaGM3RTRoSUpCWUZiNWZyWDB1TzpBVGhlIDUgPGI-QmVzdCBNb25pdG9ycyBGb3IgVmlkZW8gRWRpdGluZzwvYj4gb2YgMjAyNiAtIFJUSU5HUy5jb21CigFUaGUgYmVzdCBtb25pdG9yIGZvciB2aWRlbyBlZGl0aW5nIGlzIHRoZSA8Yj5BcHBsZSBTdHVkaW8gRGlzcGxheSBYRFI8L2I-LiBJdCYjMzk7cyBhIGhpZ2gtZW5kIG1vbml0b3IgaWRlYWwgZm9yIHNlcmlvdXMgY29udGVudCBjcmVhdG9ycy5KA2ZvclIDdG9wIgIQASoZSm91cm5hbGlzdCBmb3IgUlRJTkdTLmNvbUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjF3TnEyWjhuOTNiS29zSks0UTA1c0IwUS1jel8xX0Ric3k2OHNmUWx6c3hJWWdsclFUZmpFRzJIWVh3S1IyVkxZZzhVcGNHVnBtRTU2UmRrQ0NzYjhJbHBjZWpOQU1fc0ozSktUSlJGUGZMaDVmcGNmTHlKT3NVTjNaeWJ4aWl6VGJRbDlBSEgwaGM3RTRoSUpCWUZiNWZyWDB1TxIEGgIIABqBBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsECAAQABgAIAAqFgoEYmVzdBWHoeJAGgRnb29kGgN0b3AqCQoCNGsVAX31PypICghtb25pdG9ycxUg1MRAGgRhc3VzGgdkaXNwbGF5GghkaXNwbGF5cxoHbW9uaXRvchoGc2NyZWVuGg1pdjtwO21vbml0b3JzKgoKA2ZvchUAAAAAKiIKBXZpZGVvFW4It0AaDHZpZGVvZWRpdGluZxoGdmlkZW9zKiUKB2VkaXRpbmcVNNq-QBoHZWRpdG9ycxoMdmlkZW9lZGl0aW5nMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjF3TnEyWjhuOTNiS29zSks0UTA1c0IwUS1jel8xX0Ric3k2OHNmUWx6c3hJWWdsclFUZmpFRzJIWVh3S1IyVkxZZzhVcGNHVnBtRTU2UmRrQ0NzYjhJbHBjZWpOQU1fc0ozSktUSlJGUGZMaDVmcGNmTHlKT3NVTjNaeWJ4aWl6VGJRbDlBSEgwaGM3RTRoSUpCWUZiNWZyWDB1TzpBVGhlIDUgPGI-QmVzdCBNb25pdG9ycyBGb3IgVmlkZW8gRWRpdGluZzwvYj4gb2YgMjAyNiAtIFJUSU5HUy5jb21CigFUaGUgYmVzdCBtb25pdG9yIGZvciB2aWRlbyBlZGl0aW5nIGlzIHRoZSA8Yj5BcHBsZSBTdHVkaW8gRGlzcGxheSBYRFI8L2I-LiBJdCYjMzk7cyBhIGhpZ2gtZW5kIG1vbml0b3IgaWRlYWwgZm9yIHNlcmlvdXMgY29udGVudCBjcmVhdG9ycy5KA2ZvclIDdG9wIgIQASoZSm91cm5hbGlzdCBmb3IgUlRJTkdTLmNvbUgAWABoAA",
+      "source": "RTINGS.com"
+    },
+    {
+      "position": 3,
+      "title": "4K Video Editing Monitors | Jonny Elwyn - Film Editor",
+      "link": "https://jonnyelwyn.co.uk/film-and-video-editing/4k-video-editing-monitors/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFe_bRokzWw_RkOgMMOybb8uRETUv5aCZPSCi12ptdBqic7bcD2nSLJXO7z3IFNg8DjP-P6OnP_7luJa5veJHfCI17gnjiDQdNJcUjd5m8ePWGe8EE1cnKcO7d-UrjndL1gwG-kZfegwCaxwUJOAt0Gn3mtrxhAdkVxMbPM_6&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://jonnyelwyn.co.uk › Editing",
+      "date": "Nov 12, 2015",
+      "snippet": "If you want to get a 4K monitor for film editing then this short list of available options will help you make that crucial decision.",
+      "snippet_highlighted_words": [
+        "4K monitor",
+        "editing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you want to get a 4K monitor for film editing then this short list of available options will help you make that crucial decision.",
+          "source_info_link": "https://jonnyelwyn.co.uk/film-and-video-editing/4k-video-editing-monitors/",
+          "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAABQBQCdASogACAAPtE-tFooIigoFAEAGglqAJ05QVV-DIyh4bHw-WV5KOHum-LyRIoN8AAA_uKoAAwnXTd4BpY7EvqyFzGlGDZ8qkwo-udmzhuH9XZ2vL_LA_Owf3o-uw9EQrMvD7vk-JJ2u1WWDGNYv_gdzBVODiwROg_8Z_H3mau4eaO0hWFPOgLjmWJy25iGUZWqHoQ932Jfqh3w3wk70jlXSRAZKJJA0PdJdjvlyEWsNxhn35fZOWFgCT71pksfcYGgEVJisskDqy95KC6J8V8nw3MpLZXeogTA9l4fAGucOW4sS8d58AIMgAFCQYrHpcb1D_8clgqwbiAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZlX2JSb2t6V3dfUmtPZ01NT3liYjh1UkVUVXY1YUNaUFNDaTEycHRkQnFpYzdiY0QyblNMSlhPN3ozSUZOZzhEalAtUDZPblBfN2x1SmE1dmVKSGZDSTE3Z25qaURRZE5KY1VqZDVtOGVQV0dlOEVFMWNuS2NPN2QtVXJqbmRMMWd3Ry1rWmZlZ3dDYXh3VUpPQXQwR24zbXRyeGhBZGtWeE1iUE1fNhIEGgIIABqQBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOoECAAQABgAIAAqFgoEYmVzdBXHj14_GgRnb29kGgN0b3AqCQoCNGsVKG23QCpICghtb25pdG9ycxV8WJxAGgRhc3VzGgdkaXNwbGF5GghkaXNwbGF5cxoHbW9uaXRvchoGc2NyZWVuGg1pdjtwO21vbml0b3JzKgoKA2ZvchUAAAAAKiIKBXZpZGVvFcfNk0AaDHZpZGVvZWRpdGluZxoGdmlkZW9zKiUKB2VkaXRpbmcVGrecQBoHZWRpdG9ycxoMdmlkZW9lZGl0aW5nMr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZlX2JSb2t6V3dfUmtPZ01NT3liYjh1UkVUVXY1YUNaUFNDaTEycHRkQnFpYzdiY0QyblNMSlhPN3ozSUZOZzhEalAtUDZPblBfN2x1SmE1dmVKSGZDSTE3Z25qaURRZE5KY1VqZDVtOGVQV0dlOEVFMWNuS2NPN2QtVXJqbmRMMWd3Ry1rWmZlZ3dDYXh3VUpPQXQwR24zbXRyeGhBZGtWeE1iUE1fNjo8PGI-NEsgVmlkZW8gRWRpdGluZyBNb25pdG9yczwvYj4gfCBKb25ueSBFbHd5biAtIEZpbG0gRWRpdG9yQpIBSWYgeW91IHdhbnQgdG8gZ2V0IGEgPGI-NEsgbW9uaXRvcjwvYj4gZm9yIGZpbG0gPGI-ZWRpdGluZzwvYj4gdGhlbiB0aGlzIHNob3J0IGxpc3Qgb2YgYXZhaWxhYmxlIG9wdGlvbnMgd2lsbCBoZWxwIHlvdSBtYWtlIHRoYXQgY3J1Y2lhbCBkZWNpc2lvbi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZlX2JSb2t6V3dfUmtPZ01NT3liYjh1UkVUVXY1YUNaUFNDaTEycHRkQnFpYzdiY0QyblNMSlhPN3ozSUZOZzhEalAtUDZPblBfN2x1SmE1dmVKSGZDSTE3Z25qaURRZE5KY1VqZDVtOGVQV0dlOEVFMWNuS2NPN2QtVXJqbmRMMWd3Ry1rWmZlZ3dDYXh3VUpPQXQwR24zbXRyeGhBZGtWeE1iUE1fNhIEGgIIABqQBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOoECAAQABgAIAAqFgoEYmVzdBXHj14_GgRnb29kGgN0b3AqCQoCNGsVKG23QCpICghtb25pdG9ycxV8WJxAGgRhc3VzGgdkaXNwbGF5GghkaXNwbGF5cxoHbW9uaXRvchoGc2NyZWVuGg1pdjtwO21vbml0b3JzKgoKA2ZvchUAAAAAKiIKBXZpZGVvFcfNk0AaDHZpZGVvZWRpdGluZxoGdmlkZW9zKiUKB2VkaXRpbmcVGrecQBoHZWRpdG9ycxoMdmlkZW9lZGl0aW5nMr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZlX2JSb2t6V3dfUmtPZ01NT3liYjh1UkVUVXY1YUNaUFNDaTEycHRkQnFpYzdiY0QyblNMSlhPN3ozSUZOZzhEalAtUDZPblBfN2x1SmE1dmVKSGZDSTE3Z25qaURRZE5KY1VqZDVtOGVQV0dlOEVFMWNuS2NPN2QtVXJqbmRMMWd3Ry1rWmZlZ3dDYXh3VUpPQXQwR24zbXRyeGhBZGtWeE1iUE1fNjo8PGI-NEsgVmlkZW8gRWRpdGluZyBNb25pdG9yczwvYj4gfCBKb25ueSBFbHd5biAtIEZpbG0gRWRpdG9yQpIBSWYgeW91IHdhbnQgdG8gZ2V0IGEgPGI-NEsgbW9uaXRvcjwvYj4gZm9yIGZpbG0gPGI-ZWRpdGluZzwvYj4gdGhlbiB0aGlzIHNob3J0IGxpc3Qgb2YgYXZhaWxhYmxlIG9wdGlvbnMgd2lsbCBoZWxwIHlvdSBtYWtlIHRoYXQgY3J1Y2lhbCBkZWNpc2lvbi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Jonny Elwyn"
+    },
+    {
+      "position": 4,
+      "title": "The best video editing monitors in 2026",
+      "link": "https://www.digitalcameraworld.com/buying-guides/best-video-editing-monitors",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFVEk9E4I51pKEpl2_MprdKTNy_joFyrUqhkeUxKUoeNTAqefHO8Zo8jy6yB7Dr5iUiMMrrmp-ZkHRso3PQ_5F2WOo7n8Ilqi5nab_a_2R53756781Hc5JvDgXfEwHeBn_X56XfkbizkeUGFLSf-vYjTs2Le5c5zQhlWzZv-9zVk&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQFnoECFsQAQ&uoh=1",
+      "displayed_link": "https://www.digitalcameraworld.com › Tech › Monitors",
+      "date": "Sep 14, 2026",
+      "snippet": "The BenQ PD2730S is a \"sweet spot\" monitor for video editors. It offers high-end features like 5K resolution and Thunderbolt 4 at a price point ...",
+      "snippet_highlighted_words": [
+        "BenQ PD2730S"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best all rounder",
+            "link": "https://www.digitalcameraworld.com/buying-guides/best-video-editing-monitors#section-best-all-rounder"
+          },
+          {
+            "title": "Best 5K screen",
+            "link": "https://www.digitalcameraworld.com/buying-guides/best-video-editing-monitors#section-best-5k-screen"
+          },
+          {
+            "title": "Best for 4K",
+            "link": "https://www.digitalcameraworld.com/buying-guides/best-video-editing-monitors#section-best-for-4k"
+          },
+          {
+            "title": "Best for color accuracy",
+            "link": "https://www.digitalcameraworld.com/buying-guides/best-video-editing-monitors#section-best-for-color-accuracy"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The BenQ PD2730S is a \"sweet spot\" monitor for video editors. It offers high-end features like 5K resolution and Thunderbolt 4 at a price point ...",
+          "source_info_link": "https://www.digitalcameraworld.com/buying-guides/best-video-editing-monitors",
+          "icon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAABwBQCdASocABwAPtFAtFooIqgoFAEAGgljAKwE45XMFnZ9ZvUvDOqjdh0rBUubYzPPjo-AAP7vsl783SuS40-bu37kjBt9l7vPGYXudOvj6A_FQga2YYX7dZW-Ep_ezzwGWQVdOft2ClACEnq__LS40dHFcTDpf1wdBdUnvVQ-ODU4qvqMit_2u389v3BkDyP790_-3nLsajLqvfO1TGLS14_1xKCEUgN1KDr7f58wmZzuckKB9av3WTDBnVGxT-QmTd-_eYLxBEDy6xPt_lAf5q4asm6Up45C-hY88xywOl5EAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZWRWs5RTRJNTFwS0VwbDJfTXByZEtUTnlfam9GeXJVcWhrZVV4S1VvZU5UQXFlZkhPOFpvOGp5NnlCN0RyNWlVaU1NcnJtcC1aa0hSc28zUFFfNUYyV09vN244SWxxaTVuYWJfYV8yUjUzNzU2NzgxSGM1SnZEZ1hmRXdIZUJuX1g1Nlhma2JpemtlVUdGTFNmLXZZalRzMkxlNWM1elFobFd6WnYtOXpWaxIEGgIIABqzBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQI0FCAAQABgAIAAqFgoEYmVzdBVkl-BAGgRnb29kGgN0b3AqCQoCNGsVKRnzPypICghtb25pdG9ycxV6VjBAGgRhc3VzGgdkaXNwbGF5GghkaXNwbGF5cxoHbW9uaXRvchoGc2NyZWVuGg1pdjtwO21vbml0b3JzKgoKA2ZvchUAAAAAKiIKBXZpZGVvFeano0AaDHZpZGVvZWRpdGluZxoGdmlkZW9zKiUKB2VkaXRpbmcV2IidQBoHZWRpdG9ycxoMdmlkZW9lZGl0aW5nMsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZWRWs5RTRJNTFwS0VwbDJfTXByZEtUTnlfam9GeXJVcWhrZVV4S1VvZU5UQXFlZkhPOFpvOGp5NnlCN0RyNWlVaU1NcnJtcC1aa0hSc28zUFFfNUYyV09vN244SWxxaTVuYWJfYV8yUjUzNzU2NzgxSGM1SnZEZ1hmRXdIZUJuX1g1Nlhma2JpemtlVUdGTFNmLXZZalRzMkxlNWM1elFobFd6WnYtOXpWazpFVGhlIDxiPmJlc3QgdmlkZW8gZWRpdGluZyBtb25pdG9yczwvYj4gaW4gMjAyNiAtIERpZ2l0YWwgQ2FtZXJhIFdvcmxkQqkBVGhlIDxiPkJlblEgUEQyNzMwUzwvYj4gaXMgYSAmcXVvdDtzd2VldCBzcG90JnF1b3Q7IG1vbml0b3IgZm9yIHZpZGVvIGVkaXRvcnMuIEl0IG9mZmVycyBoaWdoLWVuZCBmZWF0dXJlcyBsaWtlIDVLIHJlc29sdXRpb24gYW5kIFRodW5kZXJib2x0IDQgYXQgYSBwcmljZSBwb2ludCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZWRWs5RTRJNTFwS0VwbDJfTXByZEtUTnlfam9GeXJVcWhrZVV4S1VvZU5UQXFlZkhPOFpvOGp5NnlCN0RyNWlVaU1NcnJtcC1aa0hSc28zUFFfNUYyV09vN244SWxxaTVuYWJfYV8yUjUzNzU2NzgxSGM1SnZEZ1hmRXdIZUJuX1g1Nlhma2JpemtlVUdGTFNmLXZZalRzMkxlNWM1elFobFd6WnYtOXpWaxIEGgIIABqzBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQI0FCAAQABgAIAAqFgoEYmVzdBVkl-BAGgRnb29kGgN0b3AqCQoCNGsVKRnzPypICghtb25pdG9ycxV6VjBAGgRhc3VzGgdkaXNwbGF5GghkaXNwbGF5cxoHbW9uaXRvchoGc2NyZWVuGg1pdjtwO21vbml0b3JzKgoKA2ZvchUAAAAAKiIKBXZpZGVvFeano0AaDHZpZGVvZWRpdGluZxoGdmlkZW9zKiUKB2VkaXRpbmcV2IidQBoHZWRpdG9ycxoMdmlkZW9lZGl0aW5nMsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZWRWs5RTRJNTFwS0VwbDJfTXByZEtUTnlfam9GeXJVcWhrZVV4S1VvZU5UQXFlZkhPOFpvOGp5NnlCN0RyNWlVaU1NcnJtcC1aa0hSc28zUFFfNUYyV09vN244SWxxaTVuYWJfYV8yUjUzNzU2NzgxSGM1SnZEZ1hmRXdIZUJuX1g1Nlhma2JpemtlVUdGTFNmLXZZalRzMkxlNWM1elFobFd6WnYtOXpWazpFVGhlIDxiPmJlc3QgdmlkZW8gZWRpdGluZyBtb25pdG9yczwvYj4gaW4gMjAyNiAtIERpZ2l0YWwgQ2FtZXJhIFdvcmxkQqkBVGhlIDxiPkJlblEgUEQyNzMwUzwvYj4gaXMgYSAmcXVvdDtzd2VldCBzcG90JnF1b3Q7IG1vbml0b3IgZm9yIHZpZGVvIGVkaXRvcnMuIEl0IG9mZmVycyBoaWdoLWVuZCBmZWF0dXJlcyBsaWtlIDVLIHJlc29sdXRpb24gYW5kIFRodW5kZXJib2x0IDQgYXQgYSBwcmljZSBwb2ludCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Digital Camera World",
+      "read_more_link": "https://www.digitalcameraworld.com/buying-guides/best-video-editing-monitors#:~:text=The%20BenQ%20PD2730S%20is%20a,flexible%20than%20its%20Apple%20counterparts."
+    },
+    {
+      "position": 5,
+      "title": "The Ultimate Monitor Buying Guide for Video Editors!",
+      "link": "https://www.youtube.com/watch?v=em4PKpsCOZc",
+      "displayed_link": "78.9K+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6ab2b13b4632b55230f6591d/images/FSkNgo98ToiK4XSsv908oM5Un6-P-Fo_9up3KRWeEWQ.jpeg",
+      "snippet": "Are you ready to buy the perfect monitor for video editing? In this ultimate video editing monitor buying guide, I'll break down everything ...",
+      "duration": "14:17",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction – Why Monitor Choice Matters",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=0"
+        },
+        {
+          "time": "00:07",
+          "title": "My Research on Video Editing Monitors",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=7"
+        },
+        {
+          "time": "00:32",
+          "title": "Key Factors When Choosing a Monitor",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=32"
+        },
+        {
+          "time": "01:19",
+          "title": "Panel Types: TN, VA, IPS, and OLED Explained",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=79"
+        },
+        {
+          "time": "02:22",
+          "title": "OLED vs. IPS: Pros, Cons, and Cost",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=142"
+        },
+        {
+          "time": "04:21",
+          "title": "Understanding Color Spaces for Editing",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=261"
+        },
+        {
+          "time": "06:58",
+          "title": "Bit Depth: 8-bit vs. 10-bit Monitors",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=418"
+        },
+        {
+          "time": "08:42",
+          "title": "Resolution and Screen Size Considerations",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=522"
+        },
+        {
+          "time": "10:13",
+          "title": "Why Viewing Angles and HDR Matter",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=613"
+        },
+        {
+          "time": "11:36",
+          "title": "Gaming Monitors vs. Creator Monitors",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=696"
+        },
+        {
+          "time": "12:03",
+          "title": "The Importance of Color Calibration",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=723"
+        },
+        {
+          "time": "13:08",
+          "title": "My Recommended Specs for Video Editing Monitors",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=788"
+        },
+        {
+          "time": "13:53",
+          "title": "Final Thoughts – Upgrade Your Editing Setup",
+          "link": "https://www.youtube.com/watch?v=em4PKpsCOZc&t=833"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Are you ready to buy the perfect monitor for video editing? In this ultimate video editing monitor buying guide, I'll break down everything ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlBERjZIeDR0WEU0bEYzb0ZoTnJFYzNycFlRMlFHVVRKaWZDRHgtTGJlYnhYeXdyZDdlN2ZnODcxeEp5LWRzMlJzV3V1V01JTzhwcFMySkxQeTRWeTN5aktVTXF5SXFxbk42Tjg1Rzk3bURRREJRd0lTaTQxdlZoWE1WMTBkURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlBERjZIeDR0WEU0bEYzb0ZoTnJFYzNycFlRMlFHVVRKaWZDRHgtTGJlYnhYeXdyZDdlN2ZnODcxeEp5LWRzMlJzV3V1V01JTzhwcFMySkxQeTRWeTN5aktVTXF5SXFxbk42Tjg1Rzk3bURRREJRd0lTaTQxdlZoWE1WMTBkURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSIfB4nheg8Z7e4YwY21AM_EGRbgNjxxrZviQ",
+      "source": "YouTube · Noah Fainer"
+    },
+    {
+      "position": 6,
+      "title": "Which Monitor is Best for Professional Video Editing?",
+      "link": "https://www.lenovo.com/us/en/glossary/which-monitors-are-best-for-video-editing/?srsltid=AU7gw4W8A5fEFIo1f8M5wFx_45BNbji_QnHw2XCoFdbKS6FkD8YnyeSs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESygEB6zswFZInHD_WPbCPZitig6aOPBwq09SULPIMRuTqV8KJN07XJAkiFj-gNRpRD385q0yWQNXoyzfw35PFN_yQvbazm0ywjMzkHFRhXNiydhwLxSdrAbQs7kkyNlGYLGq2lYYmdiMGKQgxuhvyrOxanc6XkE9t9Rp-OFxlytX_1BOtsTDQXiNRfV3r_04oBsb9oK6jKjq7jJryExt6EYMLPS3eI139wJoGR01XmgiWvR0UZ-PePPE-1L3jZQ2MKej7KXvDxf9sCg8d&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQFnoECFgQAQ&uoh=1",
+      "displayed_link": "https://www.lenovo.com › glossary › which-monitors-a...",
+      "snippet": "Opt for monitors with high color accuracy and wide color gamut support like Adobe RGB or DCI-P3. A 4K resolution is ideal for detailed editing, while IPS panels ...",
+      "snippet_highlighted_words": [
+        "monitors",
+        "4K",
+        "editing"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Opt for monitors with high color accuracy and wide color gamut support like Adobe RGB or DCI-P3. A 4K resolution is ideal for detailed editing, while IPS panels ...",
+          "source_info_link": "https://www.lenovo.com/us/en/glossary/which-monitors-are-best-for-video-editing/?srsltid=AU7gw4W8A5fEFIo1f8M5wFx_45BNbji_QnHw2XCoFdbKS6FkD8YnyeSs",
+          "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAABwBACdASocABwAPrUurVanIacnG_DgFoloAHcBjKAJNFJ3_HhCNdXRd0xMMAD-uJE9cy52Xgtka-Yn0gzqO2vembP_8Q5ciUGZ73__-emfpSkEREvu_62oawJd-BDwToUTnifji9b-_mQLYUwfYiFPahSfXKtXfoc_8fWxq3QhOjK4BF1TqAVLi819JCg-nLk2LvzVKDsoAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZaSW5IRF9XUGJDUFppdGlnNmFPUEJ3cTA5U1VMUElNUnVUcVY4S0pOMDdYSkFraUZqLWdOUnBSRDM4NXEweVdRTlhveXpmdzM1UEZOX3lRdmJhem0weXdqTXprSEZSaFhOaXlkaHdMeFNkckFiUXM3a2t5TmxHWUxHcTJsWVltZGlNR0tRZ3h1aHZ5ck94YW5jNlhrRTl0OVJwLU9GeGx5dFhfMUJPdHNURFFYaU5SZlYzcl8wNG9Cc2I5b0s2aktqcTdqSnJ5RXh0NkVZTUxQUzNlSTEzOXdKb0dSMDFYbWdpV3ZSMFVaLVBlUFBFLTFMM2paUTJNS2VqN0tYdkR4ZjlzQ2c4ZBIEGgIIABrbBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLUFCAAQABgAIAAqFgoEYmVzdBUwqUdAGgRnb29kGgN0b3AqCQoCNGsVrE6mPypICghtb25pdG9ycxULkixAGgRhc3VzGgdkaXNwbGF5GghkaXNwbGF5cxoHbW9uaXRvchoGc2NyZWVuGg1pdjtwO21vbml0b3JzKgoKA2ZvchUAAAAAKiIKBXZpZGVvFX38yEAaDHZpZGVvZWRpdGluZxoGdmlkZW9zKiUKB2VkaXRpbmcVUynPQBoHZWRpdG9ycxoMdmlkZW9lZGl0aW5nMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZlVzRERTh4ZDZKVWl2R1o0NmcwTHJWam45WUo1UFpOMG1tWVcwQThkQjY2TVBBTS0xamQycXI0b2d1TmRsODRTbm9PMktNOUhGZVREN3JvRGZsRGVDMjZXZDk4aGFxZTE2RERGVnBNRGY4eWJLNG5kM05zVUloUGtOQ044WnF6RkNLdVB0M2ZkOUFHV0hzbVNqN2hLUGYtVHFjb1ZqWUVLaW1OZ1BOTlVLeVF2bnR0OlNXaGljaCA8Yj5Nb25pdG9yPC9iPiBpcyA8Yj5CZXN0PC9iPiBmb3IgUHJvZmVzc2lvbmFsIDxiPlZpZGVvIEVkaXRpbmc8L2I-PyAtIExlbm92b0K-AU9wdCBmb3IgPGI-bW9uaXRvcnM8L2I-IHdpdGggaGlnaCBjb2xvciBhY2N1cmFjeSBhbmQgd2lkZSBjb2xvciBnYW11dCBzdXBwb3J0IGxpa2UgQWRvYmUgUkdCIG9yIERDSS1QMy4gQSA8Yj40SzwvYj4gcmVzb2x1dGlvbiBpcyBpZGVhbCBmb3IgZGV0YWlsZWQgPGI-ZWRpdGluZzwvYj4sIHdoaWxlIElQUyBwYW5lbHMmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZaSW5IRF9XUGJDUFppdGlnNmFPUEJ3cTA5U1VMUElNUnVUcVY4S0pOMDdYSkFraUZqLWdOUnBSRDM4NXEweVdRTlhveXpmdzM1UEZOX3lRdmJhem0weXdqTXprSEZSaFhOaXlkaHdMeFNkckFiUXM3a2t5TmxHWUxHcTJsWVltZGlNR0tRZ3h1aHZ5ck94YW5jNlhrRTl0OVJwLU9GeGx5dFhfMUJPdHNURFFYaU5SZlYzcl8wNG9Cc2I5b0s2aktqcTdqSnJ5RXh0NkVZTUxQUzNlSTEzOXdKb0dSMDFYbWdpV3ZSMFVaLVBlUFBFLTFMM2paUTJNS2VqN0tYdkR4ZjlzQ2c4ZBIEGgIIABrbBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLUFCAAQABgAIAAqFgoEYmVzdBUwqUdAGgRnb29kGgN0b3AqCQoCNGsVrE6mPypICghtb25pdG9ycxULkixAGgRhc3VzGgdkaXNwbGF5GghkaXNwbGF5cxoHbW9uaXRvchoGc2NyZWVuGg1pdjtwO21vbml0b3JzKgoKA2ZvchUAAAAAKiIKBXZpZGVvFX38yEAaDHZpZGVvZWRpdGluZxoGdmlkZW9zKiUKB2VkaXRpbmcVUynPQBoHZWRpdG9ycxoMdmlkZW9lZGl0aW5nMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZlVzRERTh4ZDZKVWl2R1o0NmcwTHJWam45WUo1UFpOMG1tWVcwQThkQjY2TVBBTS0xamQycXI0b2d1TmRsODRTbm9PMktNOUhGZVREN3JvRGZsRGVDMjZXZDk4aGFxZTE2RERGVnBNRGY4eWJLNG5kM05zVUloUGtOQ044WnF6RkNLdVB0M2ZkOUFHV0hzbVNqN2hLUGYtVHFjb1ZqWUVLaW1OZ1BOTlVLeVF2bnR0OlNXaGljaCA8Yj5Nb25pdG9yPC9iPiBpcyA8Yj5CZXN0PC9iPiBmb3IgUHJvZmVzc2lvbmFsIDxiPlZpZGVvIEVkaXRpbmc8L2I-PyAtIExlbm92b0K-AU9wdCBmb3IgPGI-bW9uaXRvcnM8L2I-IHdpdGggaGlnaCBjb2xvciBhY2N1cmFjeSBhbmQgd2lkZSBjb2xvciBnYW11dCBzdXBwb3J0IGxpa2UgQWRvYmUgUkdCIG9yIERDSS1QMy4gQSA8Yj40SzwvYj4gcmVzb2x1dGlvbiBpcyBpZGVhbCBmb3IgZGV0YWlsZWQgPGI-ZWRpdGluZzwvYj4sIHdoaWxlIElQUyBwYW5lbHMmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Lenovo",
+      "read_more_link": "https://www.lenovo.com/us/en/glossary/which-monitors-are-best-for-video-editing/?srsltid=AU7gw4W8A5fEFIo1f8M5wFx_45BNbji_QnHw2XCoFdbKS6FkD8YnyeSs#:~:text=Opt%20for%20monitors%20with%20high,color%20accuracy%20and%20viewing%20angles."
+    },
+    {
+      "position": 7,
+      "title": "Affordable 4K Monitor For Video Editing",
+      "link": "https://www.bestbuy.com/site/shop/affordable-4k-monitor-for-video-editing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFTCeNZMLgRUcGxl4i-Ct8CRSgBiOus6IZNyvCmHJhBVEkkc_qFjYilD_lPWnU6GRn-qHFsWyK_PMiGykAKhkvx-_aFmsNL5e5r7la5OR5LxxwOGX67NzrbO8Wv6XtkbWM6J-T8kSTg7mw04Sp585eTrhcKtPnXKEZTyAMWc&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQFnoECFcQAQ&uoh=1",
+      "displayed_link": "https://www.bestbuy.com › ... › monitors › all monitors",
+      "snippet": "When choosing a 4K monitor for video editing, look for features like high color accuracy (such as sRGB or Adobe RGB coverage), IPS panel ...",
+      "snippet_highlighted_words": [
+        "high color accuracy"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "price": 259.99,
+            "currency": "$",
+            "store_nearby_mi": 19.8,
+            "day_returns": 15
+          },
+          "extensions": [
+            "$259.99",
+            "Store nearby (19.8 mi)",
+            "15-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "When choosing a 4K monitor for video editing, look for features like high color accuracy (such as sRGB or Adobe RGB coverage), IPS panel ...",
+          "source_info_link": "https://www.bestbuy.com/site/shop/affordable-4k-monitor-for-video-editing",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZUQ2VOWk1MZ1JVY0d4bDRpLUN0OENSU2dCaU91czZJWk55dkNtSEpoQlZFa2tjX3FGallpbERfbFBXblU2R1JuLXFIRnNXeUtfUE1pR3lrQUtoa3Z4LV9hRm1zTkw1ZTVyN2xhNU9SNUx4eHdPR1g2N056cmJPOFd2Nlh0a2JXTTZKLVQ4a1NUZzdtdzA0U3A1ODVlVHJoY0t0UG5YS0VaVHlBTVdjEgQaAggAGpkFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA8wQIABAAGAAgACoWCgRiZXN0FQJwAkEaBGdvb2QaA3RvcCoJCgI0axWQ2pZAKkgKCG1vbml0b3JzFfia2T8aBGFzdXMaB2Rpc3BsYXkaCGRpc3BsYXlzGgdtb25pdG9yGgZzY3JlZW4aDWl2O3A7bW9uaXRvcnMqCgoDZm9yFQAAAAAqIgoFdmlkZW8VbAGZQBoMdmlkZW9lZGl0aW5nGgZ2aWRlb3MqJQoHZWRpdGluZxW6lYtAGgdlZGl0b3JzGgx2aWRlb2VkaXRpbmcyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RlRDZU5aTUxnUlVjR3hsNGktQ3Q4Q1JTZ0JpT3VzNklaTnl2Q21ISmhCVkVra2NfcUZqWWlsRF9sUFduVTZHUm4tcUhGc1d5S19QTWlHeWtBS2hrdngtX2FGbXNOTDVlNXI3bGE1T1I1THh4d09HWDY3TnpyYk84V3Y2WHRrYldNNkotVDhrU1RnN213MDRTcDU4NWVUcmhjS3RQblhLRVpUeUFNV2M6QEFmZm9yZGFibGUgPGI-NEsgTW9uaXRvciBGb3IgVmlkZW8gRWRpdGluZzwvYj4gLSA8Yj5CZXN0PC9iPiBCdXlCmAFXaGVuIGNob29zaW5nIGEgNEsgbW9uaXRvciBmb3IgdmlkZW8gZWRpdGluZywgbG9vayBmb3IgZmVhdHVyZXMgbGlrZSA8Yj5oaWdoIGNvbG9yIGFjY3VyYWN5PC9iPiAoc3VjaCBhcyBzUkdCIG9yIEFkb2JlIFJHQiBjb3ZlcmFnZSksIElQUyBwYW5lbCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZUQ2VOWk1MZ1JVY0d4bDRpLUN0OENSU2dCaU91czZJWk55dkNtSEpoQlZFa2tjX3FGallpbERfbFBXblU2R1JuLXFIRnNXeUtfUE1pR3lrQUtoa3Z4LV9hRm1zTkw1ZTVyN2xhNU9SNUx4eHdPR1g2N056cmJPOFd2Nlh0a2JXTTZKLVQ4a1NUZzdtdzA0U3A1ODVlVHJoY0t0UG5YS0VaVHlBTVdjEgQaAggAGpkFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA8wQIABAAGAAgACoWCgRiZXN0FQJwAkEaBGdvb2QaA3RvcCoJCgI0axWQ2pZAKkgKCG1vbml0b3JzFfia2T8aBGFzdXMaB2Rpc3BsYXkaCGRpc3BsYXlzGgdtb25pdG9yGgZzY3JlZW4aDWl2O3A7bW9uaXRvcnMqCgoDZm9yFQAAAAAqIgoFdmlkZW8VbAGZQBoMdmlkZW9lZGl0aW5nGgZ2aWRlb3MqJQoHZWRpdGluZxW6lYtAGgdlZGl0b3JzGgx2aWRlb2VkaXRpbmcyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RlRDZU5aTUxnUlVjR3hsNGktQ3Q4Q1JTZ0JpT3VzNklaTnl2Q21ISmhCVkVra2NfcUZqWWlsRF9sUFduVTZHUm4tcUhGc1d5S19QTWlHeWtBS2hrdngtX2FGbXNOTDVlNXI3bGE1T1I1THh4d09HWDY3TnpyYk84V3Y2WHRrYldNNkotVDhrU1RnN213MDRTcDU4NWVUcmhjS3RQblhLRVpUeUFNV2M6QEFmZm9yZGFibGUgPGI-NEsgTW9uaXRvciBGb3IgVmlkZW8gRWRpdGluZzwvYj4gLSA8Yj5CZXN0PC9iPiBCdXlCmAFXaGVuIGNob29zaW5nIGEgNEsgbW9uaXRvciBmb3IgdmlkZW8gZWRpdGluZywgbG9vayBmb3IgZmVhdHVyZXMgbGlrZSA8Yj5oaWdoIGNvbG9yIGFjY3VyYWN5PC9iPiAoc3VjaCBhcyBzUkdCIG9yIEFkb2JlIFJHQiBjb3ZlcmFnZSksIElQUyBwYW5lbCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Best Buy",
+      "read_more_link": "https://www.bestbuy.com/site/shop/affordable-4k-monitor-for-video-editing#:~:text=Why%20is%20color%20accuracy%20important"
+    },
+    {
+      "position": 8,
+      "title": "Video Editing Monitor",
+      "link": "https://www.amazon.com/video-editing-monitor/s?k=video+editing+monitor",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAV7deVn2-HuOu5GDFe-fKNEizMrbsv_ZAG0_EHosLAEQE8lm4hIsUD9x7l2LXtDum5yL9Rtf4q87YvcgOGhRRV9m-eqMq0MmTMN4KuBkTi8k4QHCK8G2h6D_AgjuuW0uATd3bWvd9JYJqNp7eimYMMtBoOEHmfdzmClw&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQFnoECFwQAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › video-editing-monitor › k=vi...",
+      "snippet": "Discover 4K video editing monitors with wide color gamut, factory calibration, and ergonomic designs for professional-grade visuals.",
+      "snippet_highlighted_words": [
+        "4K video editing monitors"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.5",
+            "store rating (9.2K)",
+            "Free delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Discover 4K video editing monitors with wide color gamut, factory calibration, and ergonomic designs for professional-grade visuals.",
+          "source_info_link": "https://www.amazon.com/video-editing-monitor/s?k=video+editing+monitor",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVjdkZVZuMi1IdU91NUdERmUtZktORWl6TXJic3ZfWkFHMF9FSG9zTEFFUUU4bG00aElzVUQ5eDdsMkxYdER1bTV5TDlSdGY0cTg3WXZjZ09HaFJSVjltLWVxTXEwTW1UTU40S3VCa1RpOGs0UUhDSzhHMmg2RF9BZ2p1dVcwdUFUZDNiV3ZkOUpZSnFOcDdlaW1ZTU10Qm9PRUhtZmR6bUNsdxIEGgIIABrnBBIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDDBAgAEAAYACAAKhYKBGJlc3QVkA-KPRoEZ29vZBoDdG9wKgkKAjRrFTrvFUAqSAoIbW9uaXRvcnMVAAAAABoEYXN1cxoHZGlzcGxheRoIZGlzcGxheXMaB21vbml0b3IaBnNjcmVlbhoNaXY7cDttb25pdG9ycyoKCgNmb3IVAAAAACoiCgV2aWRlbxVgQpRAGgx2aWRlb2VkaXRpbmcaBnZpZGVvcyolCgdlZGl0aW5nFc4abEAaB2VkaXRvcnMaDHZpZGVvZWRpdGluZzK4AS9nb3RvP3VybD1DQUVTZmdIck96QVY3ZGVWbjItSHVPdTVHREZlLWZLTkVpek1yYnN2X1pBRzBfRUhvc0xBRVFFOGxtNGhJc1VEOXg3bDJMWHREdW01eUw5UnRmNHE4N1l2Y2dPR2hSUlY5bS1lcU1xME1tVE1ONEt1QmtUaThrNFFIQ0s4RzJoNkRfQWdqdXVXMHVBVGQzYld2ZDlKWUpxTnA3ZWltWU1NdEJvT0VIbWZkem1DbHc6IlZpZGVvIEVkaXRpbmcgTW9uaXRvciAtIEFtYXpvbi5jb21CiwFEaXNjb3ZlciA8Yj40SyB2aWRlbyBlZGl0aW5nIG1vbml0b3JzPC9iPiB3aXRoIHdpZGUgY29sb3IgZ2FtdXQsIGZhY3RvcnkgY2FsaWJyYXRpb24sIGFuZCBlcmdvbm9taWMgZGVzaWducyBmb3IgcHJvZmVzc2lvbmFsLWdyYWRlIHZpc3VhbHMuSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVjdkZVZuMi1IdU91NUdERmUtZktORWl6TXJic3ZfWkFHMF9FSG9zTEFFUUU4bG00aElzVUQ5eDdsMkxYdER1bTV5TDlSdGY0cTg3WXZjZ09HaFJSVjltLWVxTXEwTW1UTU40S3VCa1RpOGs0UUhDSzhHMmg2RF9BZ2p1dVcwdUFUZDNiV3ZkOUpZSnFOcDdlaW1ZTU10Qm9PRUhtZmR6bUNsdxIEGgIIABrnBBIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDDBAgAEAAYACAAKhYKBGJlc3QVkA-KPRoEZ29vZBoDdG9wKgkKAjRrFTrvFUAqSAoIbW9uaXRvcnMVAAAAABoEYXN1cxoHZGlzcGxheRoIZGlzcGxheXMaB21vbml0b3IaBnNjcmVlbhoNaXY7cDttb25pdG9ycyoKCgNmb3IVAAAAACoiCgV2aWRlbxVgQpRAGgx2aWRlb2VkaXRpbmcaBnZpZGVvcyolCgdlZGl0aW5nFc4abEAaB2VkaXRvcnMaDHZpZGVvZWRpdGluZzK4AS9nb3RvP3VybD1DQUVTZmdIck96QVY3ZGVWbjItSHVPdTVHREZlLWZLTkVpek1yYnN2X1pBRzBfRUhvc0xBRVFFOGxtNGhJc1VEOXg3bDJMWHREdW01eUw5UnRmNHE4N1l2Y2dPR2hSUlY5bS1lcU1xME1tVE1ONEt1QmtUaThrNFFIQ0s4RzJoNkRfQWdqdXVXMHVBVGQzYld2ZDlKWUpxTnA3ZWltWU1NdEJvT0VIbWZkem1DbHc6IlZpZGVvIEVkaXRpbmcgTW9uaXRvciAtIEFtYXpvbi5jb21CiwFEaXNjb3ZlciA8Yj40SyB2aWRlbyBlZGl0aW5nIG1vbml0b3JzPC9iPiB3aXRoIHdpZGUgY29sb3IgZ2FtdXQsIGZhY3RvcnkgY2FsaWJyYXRpb24sIGFuZCBlcmdvbm9taWMgZGVzaWducyBmb3IgcHJvZmVzc2lvbmFsLWdyYWRlIHZpc3VhbHMuSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "Amazon.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best 4k monitors for video editing reddit",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&q=Best+4k+monitors+for+video+editing+reddit&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+4k+monitors+for+video+editing+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best budget monitor for video editing 4K",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&q=Best+budget+monitor+for+video+editing+4K&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+budget+monitor+for+video+editing+4K"
+    },
+    {
+      "block_position": 1,
+      "query": "Best 4k monitors for video editing under $500",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&q=Best+4k+monitors+for+video+editing+under+%24500&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+4k+monitors+for+video+editing+under+%24500"
+    },
+    {
+      "block_position": 1,
+      "query": "Best 4k monitors for video editing gaming",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&q=Best+4k+monitors+for+video+editing+gaming&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+4k+monitors+for+video+editing+gaming"
+    },
+    {
+      "block_position": 1,
+      "query": "Best monitor for video editing and color Correction",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&q=Best+monitor+for+video+editing+and+color+Correction&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+monitor+for+video+editing+and+color+Correction"
+    },
+    {
+      "block_position": 1,
+      "query": "Video editing monitor 4K",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&q=Video+editing+monitor+4K&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Video+editing+monitor+4K"
+    },
+    {
+      "block_position": 1,
+      "query": "Best 4k monitor for video editing 2026",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&q=Best+4k+monitor+for+video+editing+2026&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+4k+monitor+for+video+editing+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Best monitor for video editing 8K",
+      "link": "https://www.google.com/search?sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&q=Best+monitor+for+video+editing+8K&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+monitor+for+video+editing+8K"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Gaming",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=gaming+best+4k+monitors+for+video+editing&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIWCAESBkdhbWluZzoKCPHROhDy0TowA1iq8yBgAQ&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKAF6BAgzEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=gaming+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "3840 x 2160",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=3840+x+2160+best+4k+monitors+for+video+editing&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIbCAESCzM4NDAgeCAyMTYwOgoI7_ArEPLPODAAWKrzIGAB&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKAJ6BAgzEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=3840+x+2160+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "OLED",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=oled+best+4k+monitors+for+video+editing&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIVCAESBE9MRUQ6Cwil8CsQxqLYAjACWKrzIGAB&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKAN6BAgzEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=oled+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "Curved",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=curved+best+4k+monitors+for+video+editing&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIWCAESBkN1cnZlZDoKCOS7ThDlu04wA1iq8yBgAQ&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKAR6BAgzEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=curved+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "60 – 120 Hz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=60+hz+to+120+hz+best+4k+monitors+for+video+editing&shoprs=CAESGioYCPHtRhISCQAAAAAAAE5AEQAAAAAAAF5AGAEqImJlc3QgNGsgbW9uaXRvcnMgZm9yIHZpZGVvIGVkaXRpbmcyTAgBEg02MCDigJMgMTIwIEh6IhoqGAjx7UYSEgkAAAAAAABOQBEAAAAAAABeQCoTCg82MCBIeiB0byAxMjAgSHoYAToICPHtRhAAMAZYqvMgYAE&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKAV6BAgzEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=60+hz+to+120+hz+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "Get it tomorrow",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=best+4k+monitors+for+video+editing&shoprs=CAESDZoBCgoIEAE4AUADSAEYFCoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIoCBQSD0dldCBpdCB0b21vcnJvdyINmgEKCggQATgBQANIASoEEAEYAWAB&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKAZ6BAgzEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "120 – 180 Hz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=120+hz+to+180+hz+best+4k+monitors+for+video+editing&shoprs=CAESGioYCPHtRhISCQAAAAAAAF5AEQAAAAAAgGZAGAEqImJlc3QgNGsgbW9uaXRvcnMgZm9yIHZpZGVvIGVkaXRpbmcyTggBEg4xMjAg4oCTIDE4MCBIeiIaKhgI8e1GEhIJAAAAAAAAXkARAAAAAACAZkAqFAoQMTIwIEh6IHRvIDE4MCBIehgBOggI8e1GEAAwBliq8yBgAQ&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKAd6BAgzEHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=120+hz+to+180+hz+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "Computer Monitors",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=computer+monitors+best+4k+for+video+editing&shoprs=CAEYCSoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIVCAkSEUNvbXB1dGVyIE1vbml0b3JzYAE&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKAh6BAgzEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=computer+monitors+best+4k+for+video+editing"
+    },
+    {
+      "query": "Over 180 Hz",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=over+180+hz+best+4k+monitors+for+video+editing&shoprs=CAESESoPCPHtRhIJCQAAAAAAgGZAGAEqImJlc3QgNGsgbW9uaXRvcnMgZm9yIHZpZGVvIGVkaXRpbmcyMAgBEgtPdmVyIDE4MCBIeiIRKg8I8e1GEgkJAAAAAACAZkAqAhgBOggI8e1GEAAwBliq8yBgAQ&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKAl6BAgzEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=over+180+hz+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "IPS",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=ips+best+4k+monitors+for+video+editing&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIVCAESA0lQUzoMCP-tjgIQga6OAjACWKrzIGAB&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKAp6BAgzEHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=ips+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=best+4k+monitors+for+video+editing+sale&shoprs=CAESBEoCGAEYBioiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzITCAYSB09uIHNhbGUYAiIESgIYAViq8yBgAQ&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKAt6BAgzEHs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+4k+monitors+for+video+editing+sale"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=hdmi+best+4k+monitors+for+video+editing&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIUCAESBEhETUk6CgiQgiwQkYIsMABYqvMgYAE&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKAx6BAgzEHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=hdmi+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "USB-C",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=usb-c+best+4k+monitors+for+video+editing&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIWCAESBVVTQi1DOgsIkIIsENyv6gEwAFiq8yBgAQ&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKA16BAgzEH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=usb-c+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "LED",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=led+best+4k+monitors+for+video+editing&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzITCAESA0xFRDoKCKXwKxDH8yswAliq8yBgAQ&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKA56BAgzEH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=led+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "DisplayPort",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=displayport+best+4k+monitors+for+video+editing&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIbCAESC0Rpc3BsYXlQb3J0OgoIkIIsEJ6CLDAAWKrzIGAB&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKA96BAgzEH8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=displayport+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "With Speakers",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=best+4k+monitors+for+video+editing+with+speakers&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIfCAESDVdpdGggU3BlYWtlcnMYAjoKCMDwKxDB8CswA1iq8yBgAQ&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKBB6BQgzEIAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+4k+monitors+for+video+editing+with+speakers"
+    },
+    {
+      "query": "Dual Monitor Set",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=dual+monitor+set+best+4k+monitors+for+video+editing&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIiCAESEER1YWwgTW9uaXRvciBTZXQ6DAjQsMIBENGwwgEwA1iq8yBgAQ&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKBF6BQgzEIEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=dual+monitor+set+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "2560 x 1440",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=2560+x+1440+best+4k+monitors+for+video+editing&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIbCAESCzI1NjAgeCAxNDQwOgoI7_ArEJuCLDAAWKrzIGAB&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKBJ6BQgzEIIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=2560+x+1440+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "300 – 400 cd/m²",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=300+cd/m%C2%B2+to+400+cd/m%C2%B2+best+4k+monitors+for+video+editing&shoprs=CAESGyoZCKrI2QMSEgkAAAAAAMByQBEAAAAAAAB5QBgBKiJiZXN0IDRrIG1vbml0b3JzIGZvciB2aWRlbyBlZGl0aW5nMlwIARISMzAwIOKAkyA0MDAgY2QvbcKyIhsqGQiqyNkDEhIJAAAAAADAckARAAAAAAAAeUAqHAoYMzAwIGNkL23CsiB0byA0MDAgY2QvbcKyGAE6CQiqyNkDEAAwBliq8yBgAQ&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKBN6BQgzEIMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=300+cd%2Fm%C2%B2+to+400+cd%2Fm%C2%B2+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "400 – 600 cd/m²",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=400+cd/m%C2%B2+to+600+cd/m%C2%B2+best+4k+monitors+for+video+editing&shoprs=CAESGyoZCKrI2QMSEgkAAAAAAAB5QBEAAAAAAMCCQBgBKiJiZXN0IDRrIG1vbml0b3JzIGZvciB2aWRlbyBlZGl0aW5nMlwIARISNDAwIOKAkyA2MDAgY2QvbcKyIhsqGQiqyNkDEhIJAAAAAAAAeUARAAAAAADAgkAqHAoYNDAwIGNkL23CsiB0byA2MDAgY2QvbcKyGAE6CQiqyNkDEAAwBliq8yBgAQ&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKBR6BQgzEIQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=400+cd%2Fm%C2%B2+to+600+cd%2Fm%C2%B2+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "Music",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=music+best+4k+monitors+for+video+editing&shoprs=CAEYEioiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIJCBISBU11c2ljYAE&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKBV6BQgzEIUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=music+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "Over 600 cd/m²",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=over+600+cd/m%C2%B2+best+4k+monitors+for+video+editing&shoprs=CAESEioQCKrI2QMSCQkAAAAAAMCCQBgBKiJiZXN0IDRrIG1vbml0b3JzIGZvciB2aWRlbyBlZGl0aW5nMjYIARIPT3ZlciA2MDAgY2QvbcKyIhIqEAiqyNkDEgkJAAAAAADAgkAqAhgBOgkIqsjZAxAAMAZYqvMgYAE&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKBZ6BQgzEIYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=over+600+cd%2Fm%C2%B2+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "Energy Star",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=energy+star+best+4k+monitors+for+video+editing&shoprs=CAEYASoiYmVzdCA0ayBtb25pdG9ycyBmb3IgdmlkZW8gZWRpdGluZzIdCAESC0VuZXJneSBTdGFyOgwI9tyHAhD33IcCMANYqvMgYAE&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKBd6BQgzEIcB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=energy+star+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "Under 300 cd/m²",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=under+300+cd/m%C2%B2+best+4k+monitors+for+video+editing&shoprs=CAESEioQCKrI2QMSCREAAAAAAMByQBgBKiJiZXN0IDRrIG1vbml0b3JzIGZvciB2aWRlbyBlZGl0aW5nMjcIARIQVW5kZXIgMzAwIGNkL23CsiISKhAIqsjZAxIJEQAAAAAAwHJAKgIYAToJCKrI2QMQADAGWKrzIGAB&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKBh6BQgzEIgB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=under+300+cd%2Fm%C2%B2+best+4k+monitors+for+video+editing"
+    },
+    {
+      "query": "14 – 20 lb weight",
+      "link": "https://www.google.com/search?gl=us&hl=en&q=14+lb+weight+to+20+lb+weight+best+4k+monitors+for+video+editing&shoprs=CAESGyoZCImG2QMSEgkAAAAAS864QBEAAACA7LfBQBgBKiJiZXN0IDRrIG1vbml0b3JzIGZvciB2aWRlbyBlZGl0aW5nMmEIARITMTQg4oCTIDIwIGxiIHdlaWdodCIbKhkIiYbZAxISCQAAAABLzrhAEQAAAIDst8FAKiAKHDE0IGxiIHdlaWdodCB0byAyMCBsYiB3ZWlnaHQYAToJCImG2QMQADAGWKrzIGAB&sa=X&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQip4GKBl6BQgzEIkB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=14+lb+weight+to+20+lb+weight+best+4k+monitors+for+video+editing"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Which monitor are you using for video editing?",
+      "link": "https://www.reddit.com/r/VideoEditing/comments/1cmqowy/which_monitor_are_you_using_for_video_editing/",
+      "date": "2 years ago",
+      "extensions": [
+        "r/VideoEditing",
+        "30+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/VideoEditing/comments/1cmqowy/which_monitor_are_you_using_for_video_editing/l324t4b/",
+          "extensions": [
+            "Top answer",
+            "8 votes",
+            "2 years ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/VideoEditing/comments/1cmqowy/which_monitor_are_you_using_for_video_editing/l32fwkr/",
+          "extensions": [
+            "5 votes",
+            "2 years ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/VideoEditing/comments/1cmqowy/which_monitor_are_you_using_for_video_editing/l334xqi/",
+          "extensions": [
+            "4 votes",
+            "2 years ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "I need a 4K monitor for photo and video editing purposes",
+      "link": "https://linustechtips.com/topic/1556535-i-need-a-4k-monitor-for-photo-and-video-editing-purposes/",
+      "date": "2 years ago",
+      "source": "Linus Tech Tips",
+      "answers": [
+        {
+          "link": "https://linustechtips.com/topic/1556535-i-need-a-4k-monitor-for-photo-and-video-editing-purposes/"
+        }
+      ]
+    },
+    {
+      "title": "\"Best\" monitor for 4K/UHD/HDR Video and photo Editing? | Page 2",
+      "link": "https://bcgforums.com/threads/best-monitor-for-4k-uhd-hdr-video-and-photo-editing.20865/page-2",
+      "date": "3 years ago",
+      "source": "Backcountry Gallery Photography Forums",
+      "answers": [
+        {
+          "link": "https://bcgforums.com/threads/best-monitor-for-4k-uhd-hdr-video-and-photo-editing.20865/page-2"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+4k+monitors+for+video+editing&sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&ei=O7GyauTDJ8ipvr0PyOizSQ&start=10&sa=N&sstk=AS6-VmK_x8P88Q7hDlVAiOjL5mCOPsrbqM8dI-6eFLVRuHpxpzmq8PVH2SCs65k0sRaFcBxUDA1dTP6hDzmGYNkiFVw0WPBRgCiIGA&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ8NMDegQIUBAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+4k+monitors+for+video+editing&sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&ei=O7GyauTDJ8ipvr0PyOizSQ&start=10&sa=N&sstk=AS6-VmK_x8P88Q7hDlVAiOjL5mCOPsrbqM8dI-6eFLVRuHpxpzmq8PVH2SCs65k0sRaFcBxUDA1dTP6hDzmGYNkiFVw0WPBRgCiIGA&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ8tMDegQIUBAE",
+      "3": "https://www.google.com/search?q=best+4k+monitors+for+video+editing&sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&ei=O7GyauTDJ8ipvr0PyOizSQ&start=20&sa=N&sstk=AS6-VmK_x8P88Q7hDlVAiOjL5mCOPsrbqM8dI-6eFLVRuHpxpzmq8PVH2SCs65k0sRaFcBxUDA1dTP6hDzmGYNkiFVw0WPBRgCiIGA&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ8tMDegQIUBAG",
+      "4": "https://www.google.com/search?q=best+4k+monitors+for+video+editing&sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&ei=O7GyauTDJ8ipvr0PyOizSQ&start=30&sa=N&sstk=AS6-VmK_x8P88Q7hDlVAiOjL5mCOPsrbqM8dI-6eFLVRuHpxpzmq8PVH2SCs65k0sRaFcBxUDA1dTP6hDzmGYNkiFVw0WPBRgCiIGA&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ8tMDegQIUBAI",
+      "5": "https://www.google.com/search?q=best+4k+monitors+for+video+editing&sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&ei=O7GyauTDJ8ipvr0PyOizSQ&start=40&sa=N&sstk=AS6-VmK_x8P88Q7hDlVAiOjL5mCOPsrbqM8dI-6eFLVRuHpxpzmq8PVH2SCs65k0sRaFcBxUDA1dTP6hDzmGYNkiFVw0WPBRgCiIGA&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ8tMDegQIUBAK",
+      "6": "https://www.google.com/search?q=best+4k+monitors+for+video+editing&sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&ei=O7GyauTDJ8ipvr0PyOizSQ&start=50&sa=N&sstk=AS6-VmK_x8P88Q7hDlVAiOjL5mCOPsrbqM8dI-6eFLVRuHpxpzmq8PVH2SCs65k0sRaFcBxUDA1dTP6hDzmGYNkiFVw0WPBRgCiIGA&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ8tMDegQIUBAM",
+      "7": "https://www.google.com/search?q=best+4k+monitors+for+video+editing&sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&ei=O7GyauTDJ8ipvr0PyOizSQ&start=60&sa=N&sstk=AS6-VmK_x8P88Q7hDlVAiOjL5mCOPsrbqM8dI-6eFLVRuHpxpzmq8PVH2SCs65k0sRaFcBxUDA1dTP6hDzmGYNkiFVw0WPBRgCiIGA&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ8tMDegQIUBAO",
+      "8": "https://www.google.com/search?q=best+4k+monitors+for+video+editing&sca_esv=ab3964043a1b023d&gl=us&hl=en&sxsrf=APpeQnukB4pezAS_-oXa-oqA4C3XGX2J_Q:1790095675656&ei=O7GyauTDJ8ipvr0PyOizSQ&start=70&sa=N&sstk=AS6-VmK_x8P88Q7hDlVAiOjL5mCOPsrbqM8dI-6eFLVRuHpxpzmq8PVH2SCs65k0sRaFcBxUDA1dTP6hDzmGYNkiFVw0WPBRgCiIGA&ved=2ahUKEwikzfGG0oKXAxXIlK8BHUj0LAkQ8tMDegQIUBAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+4k+monitors+for+video+editing&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+4k+monitors+for+video+editing&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+4k+monitors+for+video+editing&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+4k+monitors+for+video+editing&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+4k+monitors+for+video+editing&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+4k+monitors+for+video+editing&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+4k+monitors+for+video+editing&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+4k+monitors+for+video+editing&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+4k+monitors+for+video+editing&start=70"
+    }
+  }
+}
