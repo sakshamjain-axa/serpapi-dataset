@@ -1,0 +1,929 @@
+{
+  "search_metadata": {
+    "id": "6ab3c054fd9b90fcb4ed8000",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2J2rrejXdKs1HZm9CB81HcTs_Vc7uyc14e2TR_M5Xt0/6ab3c054fd9b90fcb4ed8000.json",
+    "markdown_endpoint": "https://serpapi.com/searches/2J2rrejXdKs1HZm9CB81HcTs_Vc7uyc14e2TR_M5Xt0/6ab3c054fd9b90fcb4ed8000.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/2J2rrejXdKs1HZm9CB81HcTs_Vc7uyc14e2TR_M5Xt0/6ab3c054fd9b90fcb4ed8000.json_with_pixel_position",
+    "created_at": "2026-09-23 12:04:36 UTC",
+    "processed_at": "2026-09-23 12:04:36 UTC",
+    "google_url": "https://www.google.com/search?q=highest+rated+smartwatches+for+fitness+tracking&oq=highest+rated+smartwatches+for+fitness+tracking&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/2J2rrejXdKs1HZm9CB81HcTs_Vc7uyc14e2TR_M5Xt0/6ab3c054fd9b90fcb4ed8000.html",
+    "total_time_taken": 0.55
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "highest rated smartwatches for fitness tracking",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "highest rated smartwatches for fitness tracking",
+    "total_results": 193,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Best Fitness Trackers 2026 [The Only 5 You Should Consider ...",
+      "link": "https://www.youtube.com/watch?v=8U4E32-PBzM",
+      "thumbnail": "https://serpapi.com/searches/6ab3c054fd9b90fcb4ed8000/images/YaKXFicf4p8Y5KQjw9gnvuyMn3ol831Hzn1vpNORTys.jpeg",
+      "channel": "The Tech Plug",
+      "duration": "8:54",
+      "platform": "YouTube",
+      "date": "3 weeks ago",
+      "snippet": "For 2026, the top 3 fitness trackers are Garmin Fenix 8, Samsung Galaxy Watch Ultra, and Apple Watch Ultra 2.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQTI6QV3EKYDrqqpGNb3I4aPKN2hkSN_SyM5w"
+    },
+    {
+      "position": 2,
+      "title": "Top 5 BEST Fitness Trackers (2026) - Don't Buy Until You Watch!",
+      "link": "https://www.youtube.com/watch?v=kzsEYwp0-R4",
+      "thumbnail": "https://serpapi.com/searches/6ab3c054fd9b90fcb4ed8000/images/Ehyf82sdYWQ8lbznl00-9XlLgNKX8rZOFAmo_4kmpVw.jpeg",
+      "channel": "Top 5 Picks",
+      "duration": "8:07",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "snippet": "The Fitbit Charge 6 is the top pick for its balanced features, accurate heart rate, built-in GPS, and 7-day battery life, all at $159.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRpwXkqwjRt5k3cPX9dGhq4i1f8TRif-tOa1g"
+    },
+    {
+      "position": 3,
+      "title": "TOP 5: Best Smartwatches & Fitness Trackers in 2026",
+      "link": "https://www.youtube.com/watch?v=RgYGrEaKHfY",
+      "thumbnail": "https://serpapi.com/searches/6ab3c054fd9b90fcb4ed8000/images/URbkwN8qo5mehL9_0CyvU7idwboXUm8EVuim_8aIDHI.jpeg",
+      "channel": "TheTechMag",
+      "duration": "6:05",
+      "platform": "YouTube",
+      "date": "May 15, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcStTahmEL--4SmpDBhNyKg9YprgH4e7y8M3TQ",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=RgYGrEaKHfY&t=0"
+        },
+        {
+          "time": "00:17",
+          "title": "Apple Watch Series 11",
+          "link": "https://www.youtube.com/watch?v=RgYGrEaKHfY&t=17"
+        },
+        {
+          "time": "01:17",
+          "title": "Samsung Galaxy Watch 7",
+          "link": "https://www.youtube.com/watch?v=RgYGrEaKHfY&t=77"
+        },
+        {
+          "time": "02:20",
+          "title": "Garmin Vivoactive 5",
+          "link": "https://www.youtube.com/watch?v=RgYGrEaKHfY&t=140"
+        },
+        {
+          "time": "03:23",
+          "title": "Fitbit Charge 6",
+          "link": "https://www.youtube.com/watch?v=RgYGrEaKHfY&t=203"
+        },
+        {
+          "time": "04:24",
+          "title": "Amazfit Band 7",
+          "link": "https://www.youtube.com/watch?v=RgYGrEaKHfY&t=264"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "title": "Best Smartwatch and Health Tracker Deals in 2026!",
+      "link": "https://www.youtube.com/watch?v=tw4tPFcmk6I",
+      "thumbnail": "https://serpapi.com/searches/6ab3c054fd9b90fcb4ed8000/images/AWo5DNRDZQqlo2Bmv569lDfhHz3nCXW2Rsp1zFSXqXk.jpeg",
+      "channel": "The Quantified Scientist",
+      "duration": "28:48",
+      "platform": "YouTube",
+      "date": "Jun 23, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRkRhSvSVIVdPkINWzGZRYkyQEYZ1-F0vp1EQ"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSgYsumNCyTZy-tF571uIecCjeU-VX7COSGZqjKembMPSTozvCYlFEfJaifng6ZKFzeiEW0Glxl9RiGK3_JFU33cjGoLUFSGCUVSgzMq9Ic",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS7XYtAHaxFcOxDKWx27apU5Cl01G_NcHFWRZ_rMdVpfhONuF212kZmhwwmdT00yWXh5cXJzlPJK73WFxgjqRdb2qbuAnfyQCoA_CwozS7d16TBVQ",
+      "source": "DICK'S Sporting Goods",
+      "title": "WHOOP 5.0 One 12-Month Membership – Health and Fitness Tracker",
+      "rating": 4.3,
+      "reviews": 189,
+      "price": "$199.00",
+      "extracted_price": 199.0,
+      "location": "Also nearby",
+      "immersive_product_page_token": "p_V19nicbZLdjuJGEIWlPEPeAkXpX2Pv3RhsA4Nt_NPdHt-sGrexgQYcYwaD8g55hjC7kTaXm0h5lsnTxJvb5K7qfKXSOar65VFu_-L-5C670J2Ul-f24qxqsrFuT-RL057Upei26g-LUgNghCG1TArIGKDxl0J2Up-qgRIMALAsczxGyALGwI2vdSmV3h7LcLMp2-mpGMZMQAmBhokoMkxoIZOA37cHWZX_4j8hhRhaGJjYQgACgiDGb606v4PV5KNhmQYF0Bib32xgYuKfV3E4_fi_6PNPl7K9vf9Yb6u6PHejVnalGp0Psu2usisGbbQ5taPNtjuW5_Ooa2Wx3x6rz1Uz-Pj6331vh0GmY4MYiBIMh3jUIoS-Na_dr_LT5aLL9x-uo8nTPJpP5jLK-F15-rJ0Y1167n3p8ovMYp1P7FR5Lsgz_1Hpx-X8qPWjPP52ks3rpvj7u--d03U6OV8nEWsaPo1BAhpazupVPmvuDNf32OtWuajuYaaDdbYgwltMEzfwQrE4pcc59Z3eZqKfpbAJA4-Hirk6FNaW3Wue4qYvgJonAp78rOFxVu_LqW0HrPE56vwMDT2z7sHUPayPzW6I4CTTFxAAaoRT_cqdnChwJQnrcSl6w0fBKkzda84DnB4auka9XYgACU_n6qgWS0E6PsufCy_vGbSPpahD4ep6yWDja93zHY-T3aKOMF9GQC_XsEJrHL-GjFCf1c3aOaEXoW6Bo6LYZcA_WC9Kq4Rl7M69wOZOL2KPgnVaUXUgt9SxjFjodsgg1jPdSeTWBbZnoRskKuPeUL-Egtd-Zncl64gQwTLMYsh5vvcdaMh9PeXcRmFW2xzrc7qnoHAWMne63ZJxzIDO-X4B10d-kyC4Fq4dCWH1wczeB3B-_XarZbpPXJgHEW5q5VhehDhM8ALG3D4F3gstmQO87cKOZ8EtFHksedDkh9hVKBYJ4s8561olGJKHhklkyZDb9qf-3G7ewZNLuyQk8mlHz7yKajLZ7WGKN-slNStgwvL6AY6t4WkpGN6UGP8A6VBC3Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=p_V19nicbZLdjuJGEIWlPEPeAkXpX2Pv3RhsA4Nt_NPdHt-sGrexgQYcYwaD8g55hjC7kTaXm0h5lsnTxJvb5K7qfKXSOar65VFu_-L-5C670J2Ul-f24qxqsrFuT-RL057Upei26g-LUgNghCG1TArIGKDxl0J2Up-qgRIMALAsczxGyALGwI2vdSmV3h7LcLMp2-mpGMZMQAmBhokoMkxoIZOA37cHWZX_4j8hhRhaGJjYQgACgiDGb606v4PV5KNhmQYF0Bib32xgYuKfV3E4_fi_6PNPl7K9vf9Yb6u6PHejVnalGp0Psu2usisGbbQ5taPNtjuW5_Ooa2Wx3x6rz1Uz-Pj6331vh0GmY4MYiBIMh3jUIoS-Na_dr_LT5aLL9x-uo8nTPJpP5jLK-F15-rJ0Y1167n3p8ovMYp1P7FR5Lsgz_1Hpx-X8qPWjPP52ks3rpvj7u--d03U6OV8nEWsaPo1BAhpazupVPmvuDNf32OtWuajuYaaDdbYgwltMEzfwQrE4pcc59Z3eZqKfpbAJA4-Hirk6FNaW3Wue4qYvgJonAp78rOFxVu_LqW0HrPE56vwMDT2z7sHUPayPzW6I4CTTFxAAaoRT_cqdnChwJQnrcSl6w0fBKkzda84DnB4auka9XYgACU_n6qgWS0E6PsufCy_vGbSPpahD4ep6yWDja93zHY-T3aKOMF9GQC_XsEJrHL-GjFCf1c3aOaEXoW6Bo6LYZcA_WC9Kq4Rl7M69wOZOL2KPgnVaUXUgt9SxjFjodsgg1jPdSeTWBbZnoRskKuPeUL-Egtd-Zncl64gQwTLMYsh5vvcdaMh9PeXcRmFW2xzrc7qnoHAWMne63ZJxzIDO-X4B10d-kyC4Fq4dCWH1wczeB3B-_XarZbpPXJgHEW5q5VhehDhM8ALG3D4F3gstmQO87cKOZ8EtFHksedDkh9hVKBYJ4s8561olGJKHhklkyZDb9qf-3G7ewZNLuyQk8mlHz7yKajLZ7WGKN-slNStgwvL6AY6t4WkpGN6UGP8A6VBC3Q"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQHr3AGkoLdZQ3lvBLJ7r6c4o6ffcP0OjygZVoml-ruR_ljntDf8V8fAcFNtO-nwtZFOGAdMB8cHGmiVwa-F9nSrJlm34O5CnwqxC1vqk-t",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQCBmSNvYgCgtjJtUGS4NHjNfYEvsxaYDjBXCQXlXG0uPz0he0KzIPPQp1acWOmv5lNtMtYe_C6e1clo79BkxpXdDRa0ioRVA",
+      "source": "Amazfit",
+      "title": "Amazfit T-Rex 3",
+      "rating": 4.8,
+      "reviews": 6000,
+      "price": "$279.99",
+      "extracted_price": 279.99,
+      "location": "Also nearby",
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "qld5VHicdZJbjqNGFIalrCG7sKJUAQVm3tpgcGMDzaUKXC8jTGFuxSVcjG1lD1lDumciTR4nkbKWzmriKHmLch7__-jX-T-dn16z8g9ia_dkcg0tm_fDvH0ppLN6e5K-9EPH5nQq2e8QIUER0VoWVBFJCMlAWH9JkynhXV6y39S1JK9VQVEFVZUkcQ2R_LXIEsbLNnPP52zQu_TvFBlCJMnyY1NGayirClj_WjZJnv3rK0CRJKQIEKhrgCAUVeltYOO79KJ9hDKQlbWKBAAVRXwMAvDHF9_VP_6P-fmHORtu798XZV5k47Qakiljq7FJhmlJpvShrc7dsDqXU5uN42oakrQu2_xz3v9z638T35qSfUWKLMkCEh-iCh5tEXjrL9PPyad55tn7d8tKe3r2nrXnxIvJnZl8Phg-z0zjfjDInMQ-p9omZKYBaGy_5vx1Hl8L_pq1v3RJfzmnf37z7bZbdG1cNA_3PdF9EOo1xLyWThG-uRiOLvEhxt39BK5-qudXN_aHGJAW77gRNNbGab3F5_2FGlg4RDY4VnjKml5wsX1l5uRnzbVgIhM8wVmo4XtpWDSk6a-hQCu7Ir7XkttR6Hespk0sEvcIRsigU55M6-CJ1uVRzGbVhmBsjQR4U2pO0bFGgqNBQLFjk4qWdGff0obUaQ25XzPugf75yPua4hwk0dUP79Q6bS0UA8c7waILgDpEUb4kIV-IcN0FOrtn4Yb4hN7SiAck4vtoq7YspDgxeJLsjO0h7g0HT8Sryd7WDeo3FmUkR1FV39OosKjBOwrUMaqswhacjc8t0eZrELS8fvC6hFG9BKGDT7E3he3z1YO-E5i08eIC261Th6ITu_jqHSGfE-AkWGf7QPduzKTwwe9MTWd_bDxA7znI2s2LH3d3pyVhRp4CA1LHE_uCbVXTEwgMRAv6ZNM55hFleAvM0tr4O-fmRtQPIlRhnZr-g2cUQc2rjDgAHLOWWdGWJYxw8dN1HM7v4MlAU-Aq5FBBy5wjwlJpmQRKT1q13StuuXgfoKICKCPweFNJ-Qv0Jkox",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qld5VHicdZJbjqNGFIalrCG7sKJUAQVm3tpgcGMDzaUKXC8jTGFuxSVcjG1lD1lDumciTR4nkbKWzmriKHmLch7__-jX-T-dn16z8g9ia_dkcg0tm_fDvH0ppLN6e5K-9EPH5nQq2e8QIUER0VoWVBFJCMlAWH9JkynhXV6y39S1JK9VQVEFVZUkcQ2R_LXIEsbLNnPP52zQu_TvFBlCJMnyY1NGayirClj_WjZJnv3rK0CRJKQIEKhrgCAUVeltYOO79KJ9hDKQlbWKBAAVRXwMAvDHF9_VP_6P-fmHORtu798XZV5k47Qakiljq7FJhmlJpvShrc7dsDqXU5uN42oakrQu2_xz3v9z638T35qSfUWKLMkCEh-iCh5tEXjrL9PPyad55tn7d8tKe3r2nrXnxIvJnZl8Phg-z0zjfjDInMQ-p9omZKYBaGy_5vx1Hl8L_pq1v3RJfzmnf37z7bZbdG1cNA_3PdF9EOo1xLyWThG-uRiOLvEhxt39BK5-qudXN_aHGJAW77gRNNbGab3F5_2FGlg4RDY4VnjKml5wsX1l5uRnzbVgIhM8wVmo4XtpWDSk6a-hQCu7Ir7XkttR6Hespk0sEvcIRsigU55M6-CJ1uVRzGbVhmBsjQR4U2pO0bFGgqNBQLFjk4qWdGff0obUaQ25XzPugf75yPua4hwk0dUP79Q6bS0UA8c7waILgDpEUb4kIV-IcN0FOrtn4Yb4hN7SiAck4vtoq7YspDgxeJLsjO0h7g0HT8Sryd7WDeo3FmUkR1FV39OosKjBOwrUMaqswhacjc8t0eZrELS8fvC6hFG9BKGDT7E3he3z1YO-E5i08eIC261Th6ITu_jqHSGfE-AkWGf7QPduzKTwwe9MTWd_bDxA7znI2s2LH3d3pyVhRp4CA1LHE_uCbVXTEwgMRAv6ZNM55hFleAvM0tr4O-fmRtQPIlRhnZr-g2cUQc2rjDgAHLOWWdGWJYxw8dN1HM7v4MlAU-Aq5FBBy5wjwlJpmQRKT1q13StuuXgfoKICKCPweFNJ-Qv0Jkox"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQYGkRTM4gkFueDYU8K-BH-usLOWeSIRKRJAcfhUgma37fn8bgfw1TWrkhSQadfK0ZbzKCSIBxBhxG-G_YO4Pl8jsNjPurd4lYKmV4VQBk",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Fitbit Inspire 3 Fitness Tracker",
+      "rating": 4.4,
+      "reviews": 9100,
+      "price": "$85.00",
+      "extracted_price": 85.0,
+      "original_price": "$100",
+      "extracted_original_price": 100,
+      "location": "Nearby, 13 mi",
+      "delivery": "Free delivery by Fri",
+      "extensions": [
+        "14% OFF"
+      ],
+      "immersive_product_page_token": "EgflyXicbVNJjttGFAVyhtxCCMLizOyaQ7FbLZbEoYrDxqBYpEipOISDKBG5Q84QtW3AXtoBcpbOacJFlt7-B7wR_89HXv1DHGNJxz008um1n6xDKRba_Un80vUtnbKxot95VeU1VZUBAIIsKRonKl-ydExZe6roNwXInCoBiddESVMEBYBvZZ5SVjX5vijy3myziv4NFKByvMwDWeYVSQCiJqlfqzo95f_jKrfSi0AWZE6ReVFQVfDW0-GdPxgfNFHjZUWRVaBqIiermqb-cfD25ocfY59-n_L-_v5rWZ3KfBg3fTrmdDPUaT_O6Zitt03R9puiGpt8GDZjn2aXqjl9OnWrk-8_IHyr15ySIourMQ2IqggkUVLAW3cd_0o_ThPL33-ZN8bTi_tivKRuRBZqs2kHPZbbcNlBMqWRxxJDD6gNuSRyHif2mIZHyR5587lNu2uR_fvTz1Y7m8YwGy7uOmJ6nM9rZhIQDi1bw6tVkWISpzieEUhqJ9iGR6h5IYZtWJ9mzLTID-EQ1-CaCPotCOEV8UlCICpxBCO3TiqKUeXgcnY4r82J3vtLOeyCEx8zdzU8jrsQFRRrQ9rokc91qx4S8kZvj7gLPYgiP-rO3hoMYZrsfGB4RL_jM0IewUJiJjAVWgGzTiCXk0Cxe_NJiY-kPAShNjjQGTP-Bo4Cm5wLFJEttQlODphsm709tnmNbm4IUsrN49EAO__Zc5FNJ0dARYZpfAylMLDYqoGaDOgA8y9SiMFrbsE6JF1DhAykAbOJyaTk0hnYpiyxyD2OiImeEz2wQOMKqPNtlMQLO2PT4nPGUHxml2DZCqQ-cb6lLmt_Era8kPBAJ1AP_SgGQYBMCrQDNWmcNR7vhjeUcd3escae2NnsBuvAtmYkS-ZDkCBX6EpqabbLE-ALW7D21CI7lnJscXa11b1ndN-HSYAEvfBZNgfPsHbr0XUscKWXLqUYsqPpLW601T_ehr54556gNPp7hezOYGtPIaGZOI_rvEfjbL0q-2p2fwPrYwJZWr9HFJX_AGBMRqQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EgflyXicbVNJjttGFAVyhtxCCMLizOyaQ7FbLZbEoYrDxqBYpEipOISDKBG5Q84QtW3AXtoBcpbOacJFlt7-B7wR_89HXv1DHGNJxz008um1n6xDKRba_Un80vUtnbKxot95VeU1VZUBAIIsKRonKl-ydExZe6roNwXInCoBiddESVMEBYBvZZ5SVjX5vijy3myziv4NFKByvMwDWeYVSQCiJqlfqzo95f_jKrfSi0AWZE6ReVFQVfDW0-GdPxgfNFHjZUWRVaBqIiermqb-cfD25ocfY59-n_L-_v5rWZ3KfBg3fTrmdDPUaT_O6Zitt03R9puiGpt8GDZjn2aXqjl9OnWrk-8_IHyr15ySIourMQ2IqggkUVLAW3cd_0o_ThPL33-ZN8bTi_tivKRuRBZqs2kHPZbbcNlBMqWRxxJDD6gNuSRyHif2mIZHyR5587lNu2uR_fvTz1Y7m8YwGy7uOmJ6nM9rZhIQDi1bw6tVkWISpzieEUhqJ9iGR6h5IYZtWJ9mzLTID-EQ1-CaCPotCOEV8UlCICpxBCO3TiqKUeXgcnY4r82J3vtLOeyCEx8zdzU8jrsQFRRrQ9rokc91qx4S8kZvj7gLPYgiP-rO3hoMYZrsfGB4RL_jM0IewUJiJjAVWgGzTiCXk0Cxe_NJiY-kPAShNjjQGTP-Bo4Cm5wLFJEttQlODphsm709tnmNbm4IUsrN49EAO__Zc5FNJ0dARYZpfAylMLDYqoGaDOgA8y9SiMFrbsE6JF1DhAykAbOJyaTk0hnYpiyxyD2OiImeEz2wQOMKqPNtlMQLO2PT4nPGUHxml2DZCqQ-cb6lLmt_Era8kPBAJ1AP_SgGQYBMCrQDNWmcNR7vhjeUcd3escae2NnsBuvAtmYkS-ZDkCBX6EpqabbLE-ALW7D21CI7lnJscXa11b1ndN-HSYAEvfBZNgfPsHbr0XUscKWXLqUYsqPpLW601T_ehr54556gNPp7hezOYGtPIaGZOI_rvEfjbL0q-2p2fwPrYwJZWr9HFJX_AGBMRqQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSFFNpUXF_yDtYrVkDeEPU8oemMlvKv8xQf6vOdW969831rjBf1B92UuPOBtSsdtq42IqCLElbnvCf8zuojXyeMxq-zJqBHB7Swb9qKgTx9iYR72EjfANhg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS6Vi9kVT1INKLFemdlexGuLUDl-BfU4zTJ2Hcxhw7GkuApBTs2_tMmXHoJ3coJngYZPELLRECgaJyWP3h-ROqx453Hgf5QHw",
+      "source": "Garmin - United States",
+      "title": "Garmin Vivoactive 6",
+      "rating": 4.6,
+      "reviews": 3000,
+      "price": "$299.99",
+      "extracted_price": 299.99,
+      "delivery": "Free delivery by Sat",
+      "immersive_product_page_token": "MUKxZXicbZJbrqNGEIalrCG7sKL0hQaTN2O7sT02Ng00mJdRQ4PBXIfL8THKHrKGnDMz0szjJFLWcrKaePI8LyVV_dJf31-qP16S_B9-WE5iONJlMr7rxvUpU1L9vlC-tF0jx3jI5d9wDlREsKJDrGFdIYqqqF9iMYiyueTy21wFWNMUQlRdgY-ioW9ZImSZ18kxTZNu1cTfTRAEiBAIIQIYk7lOEPiaV-KS_K__pauaAgACmo6IBgBBSH_tZP-GTsv3SAWqBnSA5hjOFahryvz3Ezuu3v9Y-_RhTLr7269ZfsmSfph1YkjkrK9EN9zEED9ms7TpZmk-1Enfz4ZOxEVeXz5d2u8gPzB8rR4xifaIjeYIQ0x0TUOAvLZPw5_i4ziWydsvt9lysbW3y62wAz5Jsxz3lJWJSac95aMIWBkuDVeaFITB4eVSvoz9S1a-JPXnRrRPafzvTz-vm9tq2d-Wtte2fMWAA2SXXNk1orKPq0zlOFzGcFcKZCkHlxd7biC3tCoLL0B03cEIGm5YNAODRuA--BgNgwBbp70PCw9lIkDDPTTtgXvQPqyzVFTyIEod-K40BPBA6IeQF60TPaB5YExxxXd7zk8cDQord4yBkB892SQrVrKCvYsQt8-Pnpl64GF-jSCbDpg17tWqPU53br3jAl0ex2C-H4Qnd7LSCOzWIabPfikrvzb2HpUsBCFxzPbkrPvnxOxJVGQk3sTYmmQeBbTwKE-tuh3jknZ-wEAAnplf2FAGbe159u3sxliiZrI2ZeBXmcs2LHCL9spxy2JA271n3Z2JP7Gab12TnQ6Fbgvebh97jKQi3AvkTWzafVQaT6Jq05i2UPjFPYSZdeA2FgWYxHqA0SZb2tg4i6KZkmsGhG-Nom7XgkrT9gp04FuHwtCycZvJtW7aiEMH7yDjRmOZZ5J4a2DmO4NtrPvRD13Hy0obUyhX55vn2ze7bnOr5jTeZJmAO9OizPj43HfpG1hQMjhHEjk6zY-30fmgEnvC9WohHO-crS-x_RvUdABVAh5vqsz_A5OXR7w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=MUKxZXicbZJbrqNGEIalrCG7sKL0hQaTN2O7sT02Ng00mJdRQ4PBXIfL8THKHrKGnDMz0szjJFLWcrKaePI8LyVV_dJf31-qP16S_B9-WE5iONJlMr7rxvUpU1L9vlC-tF0jx3jI5d9wDlREsKJDrGFdIYqqqF9iMYiyueTy21wFWNMUQlRdgY-ioW9ZImSZ18kxTZNu1cTfTRAEiBAIIQIYk7lOEPiaV-KS_K__pauaAgACmo6IBgBBSH_tZP-GTsv3SAWqBnSA5hjOFahryvz3Ezuu3v9Y-_RhTLr7269ZfsmSfph1YkjkrK9EN9zEED9ms7TpZmk-1Enfz4ZOxEVeXz5d2u8gPzB8rR4xifaIjeYIQ0x0TUOAvLZPw5_i4ziWydsvt9lysbW3y62wAz5Jsxz3lJWJSac95aMIWBkuDVeaFITB4eVSvoz9S1a-JPXnRrRPafzvTz-vm9tq2d-Wtte2fMWAA2SXXNk1orKPq0zlOFzGcFcKZCkHlxd7biC3tCoLL0B03cEIGm5YNAODRuA--BgNgwBbp70PCw9lIkDDPTTtgXvQPqyzVFTyIEod-K40BPBA6IeQF60TPaB5YExxxXd7zk8cDQord4yBkB892SQrVrKCvYsQt8-Pnpl64GF-jSCbDpg17tWqPU53br3jAl0ex2C-H4Qnd7LSCOzWIabPfikrvzb2HpUsBCFxzPbkrPvnxOxJVGQk3sTYmmQeBbTwKE-tuh3jknZ-wEAAnplf2FAGbe159u3sxliiZrI2ZeBXmcs2LHCL9spxy2JA271n3Z2JP7Gab12TnQ6Fbgvebh97jKQi3AvkTWzafVQaT6Jq05i2UPjFPYSZdeA2FgWYxHqA0SZb2tg4i6KZkmsGhG-Nom7XgkrT9gp04FuHwtCycZvJtW7aiEMH7yDjRmOZZ5J4a2DmO4NtrPvRD13Hy0obUyhX55vn2ze7bnOr5jTeZJmAO9OizPj43HfpG1hQMjhHEjk6zY-30fmgEnvC9WohHO-crS-x_RvUdABVAh5vqsz_A5OXR7w"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSAfyUwW-LX0_tchPafRmRiL0bv7gLVzL7Je8M4HU9kffZG61BAhe7FPAbGWnd-Nte1rmEoaJSqbo_KXgoGHuh55_7h4vZsG0n4SHupjyQpYljtqcYIRSui",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT4AagMZKCcjVae3_bHPa5ei7aLleaMJeTUgTIKwk2wh5JBcPqgHzz5WufonBl3XJg_EHVAQ74bs762lvitj95s4-0YjFkevDBI",
+      "source": "Google Store",
+      "title": "Fitbit Versa 4 Fitness Smartwatch",
+      "rating": 4.2,
+      "reviews": 8500,
+      "price": "$159.95",
+      "extracted_price": 159.95,
+      "original_price": "$200",
+      "extracted_original_price": 200,
+      "location": "Also nearby",
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "FXCvxXicdVPbjqNGEJXyDfkLK0o33Y1h32xDg9kBTHN1v6wwYMNwHS5rD8o_5BvWs7vS5nETKd8y-Zqw85y8VdU5qjqnVPX7PSv-DszdHI823WXT-35SDzk-y88b_K3r23RKxiL9CwpYghiStQygCAkBS_4tice4ai8_YChLWBLQGq8JESUkYhF8z7M4rYoms8_nrFfa5AdPhBALiEBJWGMkiwjI5I-iji_ZG_6nJEIgIwAJWhMEMcZAfOnT4RUfdh8gWgvLXCiLGENZQAJei78dmK18-B_wy9OU9c-vv-bFJc-GcdXHY5auhjrux2s8JkttdW771bkYm2wYVmMfJ2XRXL5cujep_9HxpS7S72S9uBPWEiIES4tdQF66j-On-PM0VdnrL9fVbrN39rt97ETBnGrV9EBZlWl0fqDBFEes4rutl2oU8Mi8X6r7NNzz6p41X9u4-3hO_vnpZ7W9KrvhunP8rgsUBjwVCG5jPQVegk7A0B2QdzGiuRlVo1kzxpquXPDJ13PC1QsxdYMHWhV7KBA9tYJHwN7zkGqZzqJQC3y3hqKFVGjpRp0q29r0IQ1rWTyGxLdqa2Kz1XladTOhwfjjZvaqPWT6Hic1sVMAc8snkVPeHlxwQ25tdCxqkSlYjaV3tQO5yxTeRzPjmdpp_mNehk3VZFpunaLqIRYCyhU6-uqygNBQTIWKgTru09lAJw0InFqLjs41UReddEqSkm1NAIdQg94pvOCs6ZgpsMLxx9KBPoxBRZOGYz_s9sl8eXbQdsdLWJ1KiTDVGFzAZu-RPnngdmBKzpdYCEpoL_rnY8nYUUgnt8yvHuIdX7inUrZdF7qJILemNnZHQUXmvAVWbYguoPoR3M5ZVNlxsxktgR_9sjocSwpMalihxgymqGOs-S6F3HJQl6eqrDlCAF1kQBZsW0s7ksxXgVYYW6Zbz3bIWSQwFnoW8xFvQ2qNTKWurfGz51VzGnSDHXH0-Tb051ewoWR0bXJyZVrY18l9Eokzo0bZxK5_zNVL4ryDbz9KwHKmWPoXMXBDkw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=FXCvxXicdVPbjqNGEJXyDfkLK0o33Y1h32xDg9kBTHN1v6wwYMNwHS5rD8o_5BvWs7vS5nETKd8y-Zqw85y8VdU5qjqnVPX7PSv-DszdHI823WXT-35SDzk-y88b_K3r23RKxiL9CwpYghiStQygCAkBS_4tice4ai8_YChLWBLQGq8JESUkYhF8z7M4rYoms8_nrFfa5AdPhBALiEBJWGMkiwjI5I-iji_ZG_6nJEIgIwAJWhMEMcZAfOnT4RUfdh8gWgvLXCiLGENZQAJei78dmK18-B_wy9OU9c-vv-bFJc-GcdXHY5auhjrux2s8JkttdW771bkYm2wYVmMfJ2XRXL5cujep_9HxpS7S72S9uBPWEiIES4tdQF66j-On-PM0VdnrL9fVbrN39rt97ETBnGrV9EBZlWl0fqDBFEes4rutl2oU8Mi8X6r7NNzz6p41X9u4-3hO_vnpZ7W9KrvhunP8rgsUBjwVCG5jPQVegk7A0B2QdzGiuRlVo1kzxpquXPDJ13PC1QsxdYMHWhV7KBA9tYJHwN7zkGqZzqJQC3y3hqKFVGjpRp0q29r0IQ1rWTyGxLdqa2Kz1XladTOhwfjjZvaqPWT6Hic1sVMAc8snkVPeHlxwQ25tdCxqkSlYjaV3tQO5yxTeRzPjmdpp_mNehk3VZFpunaLqIRYCyhU6-uqygNBQTIWKgTru09lAJw0InFqLjs41UReddEqSkm1NAIdQg94pvOCs6ZgpsMLxx9KBPoxBRZOGYz_s9sl8eXbQdsdLWJ1KiTDVGFzAZu-RPnngdmBKzpdYCEpoL_rnY8nYUUgnt8yvHuIdX7inUrZdF7qJILemNnZHQUXmvAVWbYguoPoR3M5ZVNlxsxktgR_9sjocSwpMalihxgymqGOs-S6F3HJQl6eqrDlCAF1kQBZsW0s7ksxXgVYYW6Zbz3bIWSQwFnoW8xFvQ2qNTKWurfGz51VzGnSDHXH0-Tb051ewoWR0bXJyZVrY18l9Eokzo0bZxK5_zNVL4ryDbz9KwHKmWPoXMXBDkw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSa2wyp8FYtKMwl1VMweC3h3IeBH4O0quk5QGFu-Kz-36oExvvs1F7DFliEqQmTc9vPg_uiMjChLtr_XlFlrQ6vzsfhAV2cyHeckJSPyyXNpjwRxE7z0-LY8w",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Amazfit Helio Strap Fitness Tracker",
+      "rating": 4.3,
+      "reviews": 418,
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "location": "Nearby, 11 mi",
+      "delivery": "Free delivery by Tue",
+      "immersive_product_page_token": "P5fb3nicbZNLrqNGFIalrCG7sKLUg8KmZxdM-XFN2RRQGCYtTGGDKR5twC9lD1lD7u2O1Bl2R8pablYTXynD1pmd79M5Z3D-31-y4h_hWPekX1MrG55Pg73Jtb1xe9K-tqdGDmlfyO8IY4iQpmFICDSwgcb4a5r0iWoOhfwbTgAevxfABEBdN8AYfMuzRKqiztb7fXaaNum7pxnI0CGaTHRjAhGBE0j-KqrkkP3PETLGgGgIvpsIAwz115Ps3tDG-qgDfTwhAD0oAQBAQye_bfh6-vHH7MunITvd3n7Ni0Oedf3olPSZHHVVcuovSZ8-eqN9cxrti77Oum7Un5K0LOrDl0P7uOT7Dwa-VoX8Rsa6pqMJ1gyiEwgfzmt77v9IPg-Dyt5-uYysp4W7sBaJuxV3OVPDinKVzeh9RcWQbLmKLdOXMwrirfNyUC9D95Krl6z-s0na8z7996ef7eYytbqL5QZtK6YceMpsd6E8hpRt0i0dgspoIlECQc1-J5bDFsZmWvK5KHmb2Zee1aa2Q0Yj7Ot5JdpwF7AkUjTwcHtJEal3weISAYiFnXc7pCIeUsdTaR-VRpPOeZ5WpBHl0vKP-cMjVVZKEdfskoZs4ds5Fpjq4s6ZAMTcbZmeboXv09bKwkW_K-NzjOOAQaaH06XnTU0Yqknv4rjidqRFN_icTtlKVnTKhVxloiGihJYA7coN-_PO54-99JkFebISjKfKgWkt9wIrc22TuVsL7szbPArVENRLTSL1ya3ZLFTuld3zi5wv7syObmmg3b3ZtU8DeXWmT_e1TTfuMbryilscy2scqib2qePTJ-SHoE_DvOWBQo5oNQnbZ340I98Xro_iZXCnSGwFD2t5FbU8rmdXEAbtLfRlGfsOcFF7iUNDMSpaf55bDDgehTFzcZtL25i5SEAPLyEXZsNmEckCG8yKpcnn7LYOY8-7S3OHYCSqUuOldJ1SnLnNNsFM9t6W40gI_PnanfZv4ImS3ltrSg8TzGk0UdW82-7J0aZDUWuHbnH4AMfGI4AEPN5UM_4Dx1JH9w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=P5fb3nicbZNLrqNGFIalrCG7sKLUg8KmZxdM-XFN2RRQGCYtTGGDKR5twC9lD1lD7u2O1Bl2R8pablYTXynD1pmd79M5Z3D-31-y4h_hWPekX1MrG55Pg73Jtb1xe9K-tqdGDmlfyO8IY4iQpmFICDSwgcb4a5r0iWoOhfwbTgAevxfABEBdN8AYfMuzRKqiztb7fXaaNum7pxnI0CGaTHRjAhGBE0j-KqrkkP3PETLGgGgIvpsIAwz115Ps3tDG-qgDfTwhAD0oAQBAQye_bfh6-vHH7MunITvd3n7Ni0Oedf3olPSZHHVVcuovSZ8-eqN9cxrti77Oum7Un5K0LOrDl0P7uOT7Dwa-VoX8Rsa6pqMJ1gyiEwgfzmt77v9IPg-Dyt5-uYysp4W7sBaJuxV3OVPDinKVzeh9RcWQbLmKLdOXMwrirfNyUC9D95Krl6z-s0na8z7996ef7eYytbqL5QZtK6YceMpsd6E8hpRt0i0dgspoIlECQc1-J5bDFsZmWvK5KHmb2Zee1aa2Q0Yj7Ot5JdpwF7AkUjTwcHtJEal3weISAYiFnXc7pCIeUsdTaR-VRpPOeZ5WpBHl0vKP-cMjVVZKEdfskoZs4ds5Fpjq4s6ZAMTcbZmeboXv09bKwkW_K-NzjOOAQaaH06XnTU0Yqknv4rjidqRFN_icTtlKVnTKhVxloiGihJYA7coN-_PO54-99JkFebISjKfKgWkt9wIrc22TuVsL7szbPArVENRLTSL1ya3ZLFTuld3zi5wv7syObmmg3b3ZtU8DeXWmT_e1TTfuMbryilscy2scqib2qePTJ-SHoE_DvOWBQo5oNQnbZ340I98Xro_iZXCnSGwFD2t5FbU8rmdXEAbtLfRlGfsOcFF7iUNDMSpaf55bDDgehTFzcZtL25i5SEAPLyEXZsNmEckCG8yKpcnn7LYOY8-7S3OHYCSqUuOldJ1SnLnNNsFM9t6W40gI_PnanfZv4ImS3ltrSg8TzGk0UdW82-7J0aZDUWuHbnH4AMfGI4AEPN5UM_4Dx1JH9w"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRL6qARx4Y4nmpHPTDCEsBxrg9vZuz-0UgymgfmGcZyy2Pvnv6Zf_uNd4ETScXEdSI5kZH-ypEn6wgS2ZET21pB_ccUmkjT4QVZ3imwccGq",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "Garmin Lily 2",
+      "rating": 4.3,
+      "reviews": 960,
+      "price": "$249.99",
+      "extracted_price": 249.99,
+      "location": "Also nearby",
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "9OHWF3icbVNLkqNGFIzwGXwLhcNVBUUL7xqJjxiBmqIooDYTNIUA8RHNR7QUvoPPYPWMI8Y7jx3hs7RPY7zwbl681cuMfLnI_OWelX8zZ3NLxoOxyaYP_aQ_FfJRvT7KX7r-LKZ0LMVfECoKVuS1IiMgQ2WtrLH0JU3GpD7npfgDY1lGCK5lFa-hjDH-WmSJqMs2OxyPWb89p_9prAGC4AE9YAksA4Gqgt_LJsmz_3EJrSUFy8qDCqQHCGRFeevF8I6eNh9lWVWV5TFWEVpMLCv__EQO24_fxj6_TFl_ff-xKPMiG8ZVn4yZWA1N0o9zMqbLbXU896tjObbZMKzGPkmrss0_593i5M9vCL41pfiKHxRZQWsVKXjxiaGC37rL-GvyaZrq7P2HebV53Hm7zS7xInYTZj3tDVJnpnHbG2xKIlLzjUaFaQAeOfe8vk_DvajvWfvbOekux_Sf777Xz_N2M8wbL-g6tiWAGqLxJdESys80qma_8SS3gYMAJIlhPrsIW77eBenWwK5ltzEQoc-0gdLCCa3uRKAHicWr7CQ0auY3vzVe3LCbU0s4IXOPpHHrzIdRhHBAWxJ6QYCEVbxmrLiQ1qgiyIpQV3eJZV95xDYiqD-QEAdZoJYOYpYTaTDVC8pvtRLoOYgXOjdtnRoejpuaO0EXU8hPz9RQBORnNxKad2Oua2k0utVXYnQBN0lDTN4lVbFJDS4lJyELKva8kmUvwEBAu3gODUb0IqIN9JnZKU41v7K2DsiWHN1KTFnVuSk19gHAsRvyKwFcCy23fW6F7TbzbfFy88Oi5ZTsIqRuicRenk9atY807pi1tPAYDezBgdV8oLaU6G4ZMLs_sKLeh-NLjOoLBYWbGiJMoPvEQI1ihOM92yGu74CD4C1sbXvpg29A7npSVwhdNT3EoC_ZkDDt7JoxzgIdmKWtEcu9HkJOD5SXTgBPQVUPfugBD8ELg4-SgzorDO35sC3aT69Df3wHjwYe_YNcK2EiESNe1401REd80o2pbOV82OU_waU4SyjBElNZ_RdEzEYd",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9OHWF3icbVNLkqNGFIzwGXwLhcNVBUUL7xqJjxiBmqIooDYTNIUA8RHNR7QUvoPPYPWMI8Y7jx3hs7RPY7zwbl681cuMfLnI_OWelX8zZ3NLxoOxyaYP_aQ_FfJRvT7KX7r-LKZ0LMVfECoKVuS1IiMgQ2WtrLH0JU3GpD7npfgDY1lGCK5lFa-hjDH-WmSJqMs2OxyPWb89p_9prAGC4AE9YAksA4Gqgt_LJsmz_3EJrSUFy8qDCqQHCGRFeevF8I6eNh9lWVWV5TFWEVpMLCv__EQO24_fxj6_TFl_ff-xKPMiG8ZVn4yZWA1N0o9zMqbLbXU896tjObbZMKzGPkmrss0_593i5M9vCL41pfiKHxRZQWsVKXjxiaGC37rL-GvyaZrq7P2HebV53Hm7zS7xInYTZj3tDVJnpnHbG2xKIlLzjUaFaQAeOfe8vk_DvajvWfvbOekux_Sf777Xz_N2M8wbL-g6tiWAGqLxJdESys80qma_8SS3gYMAJIlhPrsIW77eBenWwK5ltzEQoc-0gdLCCa3uRKAHicWr7CQ0auY3vzVe3LCbU0s4IXOPpHHrzIdRhHBAWxJ6QYCEVbxmrLiQ1qgiyIpQV3eJZV95xDYiqD-QEAdZoJYOYpYTaTDVC8pvtRLoOYgXOjdtnRoejpuaO0EXU8hPz9RQBORnNxKad2Oua2k0utVXYnQBN0lDTN4lVbFJDS4lJyELKva8kmUvwEBAu3gODUb0IqIN9JnZKU41v7K2DsiWHN1KTFnVuSk19gHAsRvyKwFcCy23fW6F7TbzbfFy88Oi5ZTsIqRuicRenk9atY807pi1tPAYDezBgdV8oLaU6G4ZMLs_sKLeh-NLjOoLBYWbGiJMoPvEQI1ihOM92yGu74CD4C1sbXvpg29A7npSVwhdNT3EoC_ZkDDt7JoxzgIdmKWtEcu9HkJOD5SXTgBPQVUPfugBD8ELg4-SgzorDO35sC3aT69Df3wHjwYe_YNcK2EiESNe1401REd80o2pbOV82OU_waU4SyjBElNZ_RdEzEYd"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTy5gyLiWBov1R9zt2pehTfVgqkOjpN8_-hd--xgQTTV7jcFNkinILriS4ATUKiUZ5gbK6HBCC5qCAwq5gn08hWxYN4s3XKrTCAX2-7f_qsrpryB7h3qpyTiw",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT4AagMZKCcjVae3_bHPa5ei7aLleaMJeTUgTIKwk2wh5JBcPqgHzz5WufonBl3XJg_EHVAQ74bs762lvitj95s4-0YjFkevDBI",
+      "source": "Google Store",
+      "title": "Fitbit Charge 6 Fitness Tracker",
+      "rating": 4.2,
+      "reviews": 8400,
+      "price": "$119.95",
+      "extracted_price": 119.95,
+      "original_price": "Usually $127",
+      "extracted_original_price": 127,
+      "delivery": "Free delivery",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "WiFKnHicbZLbjqNGEIalPEPeworSTdMccjcYMGYGPDR0Y7gZYWjbjBsfoPEB5R3yDPHsrrR7uRspzzJ5mrB7vSXVTf2qT7_-qr_uvP6XBdOhkAt3yvvHtneet-ravD2on4_toepLWVffNANDY2wda5ppqFBX4OeykIU4bL6rWFcRhljRkAoVgDVd_7rlRSXqPV-s17y1D2Vd_QM1A2LDRKqpmKaGIQBY_1I3xYb_0L8hFQAFGXAsbACgahi9tVX3rjxPX_SRrUOsGeqPdQOb-M9nsrBffq59PPW8vb3_vq03W97JSVtIXk26pmjlpZDlOJusD-1kXcs977qJbItyV-83HzfH70Z-Anxr6uor1jVVU1Rd04CuAEVHxtvxLP8uPvS94O-_XSbTh3k0n86LaMmGaib6J5cIPnOHJ5f1xZKIfGol1cwF-TK4b8S97-5bcef7T4fieF6X__3yq3O42NPuMo3o8chsAhJnjrPmghfOMUln5DhCTtnOdELhn2OH7MMUqKnwtdUOWwmkl1KEae4Ri6fdNYPiMfbcXTTMh9FQzGh0S_bb57RRUQGZEwimrKDbROB6yJsA0GSHiGNeAijmIYtknLggbcwb2ftXYue3Arla6uWXNLHkqpGPxLbOgRf2pJFeCa45YRbge-eaUldmQuTMc1HQgGv8ymTl4Pmq2cjUexjI6LEcrEuRiDEkX4SO36a7DCeNWQSUkNjJ0IJZTwkgiAtTrF6tbmGTqBDWaeVZi9i25oHLwnLYzqJXF-fUXAez6ykaqi5pBC1T8RRTeQqHEmU0nGa78HVBTckb4VdKnkXMjRIH1hSUiLwKi1M_S1h-pssqLGpICtdRKaTXchmy1SxHBDlK1YxH89x5lbJzarOaNPmOAf9QQfcxghmmnrVboaot7TJ2YR5G6LitHHMWKQzGyIdjNodwlmFOHTCrfYt44W2R5iRKrIzZ1kD3wkkcGSaD2NNlSLjjNyVyrcAN0Ydr167fwYOLZbzQubpFxtMtfxGPa9zLE81JtePO-RZHf0DdBFDDYHxTDP4HDxVG7w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WiFKnHicbZLbjqNGEIalPEPeworSTdMccjcYMGYGPDR0Y7gZYWjbjBsfoPEB5R3yDPHsrrR7uRspzzJ5mrB7vSXVTf2qT7_-qr_uvP6XBdOhkAt3yvvHtneet-ravD2on4_toepLWVffNANDY2wda5ppqFBX4OeykIU4bL6rWFcRhljRkAoVgDVd_7rlRSXqPV-s17y1D2Vd_QM1A2LDRKqpmKaGIQBY_1I3xYb_0L8hFQAFGXAsbACgahi9tVX3rjxPX_SRrUOsGeqPdQOb-M9nsrBffq59PPW8vb3_vq03W97JSVtIXk26pmjlpZDlOJusD-1kXcs977qJbItyV-83HzfH70Z-Anxr6uor1jVVU1Rd04CuAEVHxtvxLP8uPvS94O-_XSbTh3k0n86LaMmGaib6J5cIPnOHJ5f1xZKIfGol1cwF-TK4b8S97-5bcef7T4fieF6X__3yq3O42NPuMo3o8chsAhJnjrPmghfOMUln5DhCTtnOdELhn2OH7MMUqKnwtdUOWwmkl1KEae4Ri6fdNYPiMfbcXTTMh9FQzGh0S_bb57RRUQGZEwimrKDbROB6yJsA0GSHiGNeAijmIYtknLggbcwb2ftXYue3Arla6uWXNLHkqpGPxLbOgRf2pJFeCa45YRbge-eaUldmQuTMc1HQgGv8ymTl4Pmq2cjUexjI6LEcrEuRiDEkX4SO36a7DCeNWQSUkNjJ0IJZTwkgiAtTrF6tbmGTqBDWaeVZi9i25oHLwnLYzqJXF-fUXAez6ykaqi5pBC1T8RRTeQqHEmU0nGa78HVBTckb4VdKnkXMjRIH1hSUiLwKi1M_S1h-pssqLGpICtdRKaTXchmy1SxHBDlK1YxH89x5lbJzarOaNPmOAf9QQfcxghmmnrVboaot7TJ2YR5G6LitHHMWKQzGyIdjNodwlmFOHTCrfYt44W2R5iRKrIzZ1kD3wkkcGSaD2NNlSLjjNyVyrcAN0Ydr167fwYOLZbzQubpFxtMtfxGPa9zLE81JtePO-RZHf0DdBFDDYHxTDP4HDxVG7w"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQFUHat4Xf9jFZfWWsJi6UYSFVASpC_r-rByM1l-zlchKrO3fo3MoyLUEIqmkzzvQq7xyblVLRM1jvyMj9WbuzCBvyabY1AXfQY-UZbimVx79ZaqEUy7FPQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQCBmSNvYgCgtjJtUGS4NHjNfYEvsxaYDjBXCQXlXG0uPz0he0KzIPPQp1acWOmv5lNtMtYe_C6e1clo79BkxpXdDRa0ioRVA",
+      "source": "Amazfit",
+      "title": "Amazfit Active Max",
+      "rating": 4.8,
+      "reviews": 715,
+      "price": "$169.99",
+      "extracted_price": 169.99,
+      "immersive_product_page_token": "ICQDTnicbVPNjqNGGFSex4rSP4BNbuZ_2AEPGBrcl1HT3RhjsDHGM8bKO-QVEs_uSrvHJFKeZfIkOYYktyjXqk9Vqq9UP97l7ncSmDc2rBxTXj70F_upUkp9XCpfuv4oLnzYiV8hnIO5NseajjQMVA0g_QtnA2uO24nFGICFCuY6WGhAUzQVLn6pJBPN7iBXZSl768j_FpljoGGsIAQUoE13WP-6a9lW_kP_BidhOBnNIZ7rECCINPDWi_M7ejKfJ1yZa_oCIW0BsD75KT88xSvr-f-5T6eL7Mf376rdtpLnYdazQYrZuWX98MoGPmGz8tjPyt1wkOfzbOgZ3-8O20_bjv-b9r-Cb-1O_PTWvQw_s4-XSyPfv32dmcuH6MF8YFFObsJtLo9O3EjXuT065MLyuKGmkQjXATQP7tvmfjnfq-YuD5-PrHsp-R_f_Gm_cNPsuRmlXUesGKzRceSE3AJHNzlxLOaqJ4biNk5oF96MjNfxpkhhF-SdG3pVG6Q0la1T0pQ8sfYKoiTeRLjLZdrtM0JjYfljgRoYtrQVuCnDRjxm9hnyejkUqa4Enn-j6RZntroS-8blyV7JalJGMNxHaUwLXK0TV3WT2glJzqH0jKPIdD9BWyVshVeg6wNrB00AXynchgYA5vxm7FeZblISHgQJT9zeDOJAYtoqauEYWpoNr8QzUgGuHaljyDANuRciQXzA3DDboOE1x6QmjVCKnKzCmmLqdnlah2wD_YTkxpN0q1vU6LXIwnidGxZvupN0KC0OXUWBGAMXjjInNLMHi7r-OaobRtzYjUizKiyBN-h6lamIEo-oRTbUoSsIh8uRWcaBZXyIUVVFqTAIJhVL7bUDaTj9tRK27kaIwDX2YUyMY-huVJnawN35RuyF4yqb-rAFCDI1ZZgrm4PwAqti8f7qEeCbHKkgQb7x8Xruy3ewdNRhvZpLpcKLx5E-Nx9K9TKc0qm4vbRfxnX0PZw2BbVpWpqigr8A3_M6Aw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ICQDTnicbVPNjqNGGFSex4rSP4BNbuZ_2AEPGBrcl1HT3RhjsDHGM8bKO-QVEs_uSrvHJFKeZfIkOYYktyjXqk9Vqq9UP97l7ncSmDc2rBxTXj70F_upUkp9XCpfuv4oLnzYiV8hnIO5NseajjQMVA0g_QtnA2uO24nFGICFCuY6WGhAUzQVLn6pJBPN7iBXZSl768j_FpljoGGsIAQUoE13WP-6a9lW_kP_BidhOBnNIZ7rECCINPDWi_M7ejKfJ1yZa_oCIW0BsD75KT88xSvr-f-5T6eL7Mf376rdtpLnYdazQYrZuWX98MoGPmGz8tjPyt1wkOfzbOgZ3-8O20_bjv-b9r-Cb-1O_PTWvQw_s4-XSyPfv32dmcuH6MF8YFFObsJtLo9O3EjXuT065MLyuKGmkQjXATQP7tvmfjnfq-YuD5-PrHsp-R_f_Gm_cNPsuRmlXUesGKzRceSE3AJHNzlxLOaqJ4biNk5oF96MjNfxpkhhF-SdG3pVG6Q0la1T0pQ8sfYKoiTeRLjLZdrtM0JjYfljgRoYtrQVuCnDRjxm9hnyejkUqa4Enn-j6RZntroS-8blyV7JalJGMNxHaUwLXK0TV3WT2glJzqH0jKPIdD9BWyVshVeg6wNrB00AXynchgYA5vxm7FeZblISHgQJT9zeDOJAYtoqauEYWpoNr8QzUgGuHaljyDANuRciQXzA3DDboOE1x6QmjVCKnKzCmmLqdnlah2wD_YTkxpN0q1vU6LXIwnidGxZvupN0KC0OXUWBGAMXjjInNLMHi7r-OaobRtzYjUizKiyBN-h6lamIEo-oRTbUoSsIh8uRWcaBZXyIUVVFqTAIJhVL7bUDaTj9tRK27kaIwDX2YUyMY-huVJnawN35RuyF4yqb-rAFCDI1ZZgrm4PwAqti8f7qEeCbHKkgQb7x8Xruy3ewdNRhvZpLpcKLx5E-Nx9K9TKc0qm4vbRfxnX0PZw2BbVpWpqigr8A3_M6Aw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQI_QxLLoc43ORYWUvIak2atavhvzXWcSaLtBopP7kiRIT-ArVyA6rpGPuvaR7XmtnczPQQs6662ka0V5iHCYOv75E_VdQZcMQGN2bXWFbLRmnpjKRWB4vi",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Google Fitbit Air Fitness Tracker",
+      "rating": 4.5,
+      "reviews": 1100,
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "location": "Nearby, 11 mi",
+      "delivery": "Free delivery by Tue",
+      "immersive_product_page_token": "dQO_GHicbZJdjqNGFIWlrCG7sKJUQQFm3tqGwmYMbgqognoZlSlsaIqfxrj9o-wha0j3TKTJ4yRS1tJZTRzldZ6OdD7p6pyj--trWf9Ng-VNTFu8LE8fx5P7WKG9fX1AX4exl6diquU3iIA-twwEgK0jw0CW_bUQk1D9oZZ_QcPUDMvSgKGbmmUiYEL7W1UKqequ3O735ej0RS3_NDWEoG3rOtR0YNpzgNAfdSsO5f_YAga0NX2u3cXU5qYFrLdRHt-1x-Un7e4Dc27PLajrSL8z-5dHsnU-fZ99eT6V4_X956o-VOVxmo1iKuXs2IpxOoupuHuzfT_O9vXUlcfjbBpF0dTd4cth-C_Idw6-tfcRjHu3e1NkAwDmlj2H4G14mX4Tn08nVb7_dJ4tH9bRerkWUUZv0lOnDSaq9PBtg-lJZETx5SKRHgY8C14P6vV0fK3Ua9n93ovhZV_888OPbn92lsfzMkqHgToExCm4bD3V5y1nFNN86-AwBVzfOqQvvGFM3MAIWgmo6694QmvZKFNo_imn-Eo6fySrAwwacsxBuCiZWiQeXZUrggJlg1QfVqlrYN6FEXGqs9TxJmqhy7zLFDN7CtkgqMKrhD7AZLV45je-YA3p5BPpKLtcQ9YbCbjkYUZfCga7XVMdd9T-KD1eJTcFIu2SC304By7Pie6LVJNr1thmmUkUtVMT34Kr0Kt6m2CeAT5EoAAyvTiRphzZYMjpAsVgivgNx7Ttz1EmrxTAfJOmMEiCWwJwtsm44JT7BZied4xHaee3VBswU77aMF_lN78RrkolxtmunaO8leekmSbiVdfEtRnDxKMZ9YPUX28ZMOiTigrIn8oGL-K0ulCl6ggWKAHVlAH7Jt3LC8ehxxN_Sh3JiMf7nRPqIgkM1sh2w9bxPXkY6UMlXduLNApj3YeELvrQy40ydYFX-wuyCq9bxuOyq5ZMVT594miX-jGlpM40bmySFIWt9HcOIZ8vx3H_Dh6wMcVbU1zmaON2z3loPizb3TOx1hW7brIXdfgALRtA0wD3NzXgvxawRow",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dQO_GHicbZJdjqNGFIWlrCG7sKJUQQFm3tqGwmYMbgqognoZlSlsaIqfxrj9o-wha0j3TKTJ4yRS1tJZTRzldZ6OdD7p6pyj--trWf9Ng-VNTFu8LE8fx5P7WKG9fX1AX4exl6diquU3iIA-twwEgK0jw0CW_bUQk1D9oZZ_QcPUDMvSgKGbmmUiYEL7W1UKqequ3O735ej0RS3_NDWEoG3rOtR0YNpzgNAfdSsO5f_YAga0NX2u3cXU5qYFrLdRHt-1x-Un7e4Dc27PLajrSL8z-5dHsnU-fZ99eT6V4_X956o-VOVxmo1iKuXs2IpxOoupuHuzfT_O9vXUlcfjbBpF0dTd4cth-C_Idw6-tfcRjHu3e1NkAwDmlj2H4G14mX4Tn08nVb7_dJ4tH9bRerkWUUZv0lOnDSaq9PBtg-lJZETx5SKRHgY8C14P6vV0fK3Ua9n93ovhZV_888OPbn92lsfzMkqHgToExCm4bD3V5y1nFNN86-AwBVzfOqQvvGFM3MAIWgmo6694QmvZKFNo_imn-Eo6fySrAwwacsxBuCiZWiQeXZUrggJlg1QfVqlrYN6FEXGqs9TxJmqhy7zLFDN7CtkgqMKrhD7AZLV45je-YA3p5BPpKLtcQ9YbCbjkYUZfCga7XVMdd9T-KD1eJTcFIu2SC304By7Pie6LVJNr1thmmUkUtVMT34Kr0Kt6m2CeAT5EoAAyvTiRphzZYMjpAsVgivgNx7Ttz1EmrxTAfJOmMEiCWwJwtsm44JT7BZied4xHaee3VBswU77aMF_lN78RrkolxtmunaO8leekmSbiVdfEtRnDxKMZ9YPUX28ZMOiTigrIn8oGL-K0ulCl6ggWKAHVlAH7Jt3LC8ehxxN_Sh3JiMf7nRPqIgkM1sh2w9bxPXkY6UMlXduLNApj3YeELvrQy40ydYFX-wuyCq9bxuOyq5ZMVT594miX-jGlpM40bmySFIWt9HcOIZ8vx3H_Dh6wMcVbU1zmaON2z3loPizb3TOx1hW7brIXdfgALRtA0wD3NzXgvxawRow"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Which smartwatch is the most accurate for fitness?",
+      "type": "ai_overview",
+      "page_token": "CA0OIHicHZBJbtswAEWRy2QZa4hcxIARVJHoAREVUSRNcVPQZGTKogY4iqlwlyv0DD1VT1Ojy4-3eA__-49p-vbv3W89TePHarGw1j6chuFk3h_k0C3Ex1cvF1IYcxSyXS1_LP3nWq7Tq4xfLjIuyDjSBHkl1j3s5oY5Xh_PsMxTtSNs52cBfFRM98jzd9jxjm_QUrStV3nzRbDxCjEF773xisBcSad3WQisNONMelXfWI8MsllCE-HrLmcqq8hTSw_zmQLUqXAf0GQfYAJwxdDLbcelAyxzlcUpiSDeG75VZXb-GSkG5yJUn9AB-0oR5S3a0C3wKgcbioGWTk-EqbwwKFdt9MkZCCpvbMqeN0ePs-xwigSF0YFIm2p1wAQub8431EKjyPSlCC1Egm6NJobx0BQEOXk2Hd34r5JMOU4nKLY6Fv7wmAWm5i5-Y6HeoA45bu9reV2H9_-_Xv-qu2k1XobTP72wjq8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CA0OIHicHZBJbtswAEWRy2QZa4hcxIARVJHoAREVUSRNcVPQZGTKogY4iqlwlyv0DD1VT1Ojy4-3eA__-49p-vbv3W89TePHarGw1j6chuFk3h_k0C3Ex1cvF1IYcxSyXS1_LP3nWq7Tq4xfLjIuyDjSBHkl1j3s5oY5Xh_PsMxTtSNs52cBfFRM98jzd9jxjm_QUrStV3nzRbDxCjEF773xisBcSad3WQisNONMelXfWI8MsllCE-HrLmcqq8hTSw_zmQLUqXAf0GQfYAJwxdDLbcelAyxzlcUpiSDeG75VZXb-GSkG5yJUn9AB-0oR5S3a0C3wKgcbioGWTk-EqbwwKFdt9MkZCCpvbMqeN0ePs-xwigSF0YFIm2p1wAQub8431EKjyPSlCC1Egm6NJobx0BQEOXk2Hd34r5JMOU4nKLY6Fv7wmAWm5i5-Y6HeoA45bu9reV2H9_-_Xv-qu2k1XobTP72wjq8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFUTjBVREZEVFdWaFUxRkhXVlJFT1ZaRGVXVXhUVWd4Y2psVldHeElZMjFYVm5oVU9VTkpNbkJzTTNFd2QwOW5RMHhSWmpKWldXRTRaVzFqWTBwMFVGbGtMWEkzVjIxaU1GWXlRVWMzVlZGU1ZrMHRVMGhLVDFOR1VSSVhWazFEZW1GMFQwWkRaWFZMY25WRlVHZzBaamw1UVRRYUlrRkVjM0k1WmxGMk56ZExXbmRhTkZsMWEzWTVkbVpsWWpkMFZqWnFWRWhaT0djIiwiZmN2IjoiMyIsImVpIjoiVk1DemF0T0ZDZXVLcnVFUGg0Zjl5QTQiLCJxYyI6IkNpOW9hV2RvWlhOMElISmhkR1ZrSUhOdFlYSjBkMkYwWTJobGN5Qm1iM0lnWm1sMGJtVnpjeUIwY21GamEybHVaeEFBZlM2MkN6OCIsInF1ZXN0aW9uIjoiV2hpY2ggc21hcnR3YXRjaCBpcyB0aGUgbW9zdCBhY2N1cmF0ZSBmb3IgZml0bmVzcz8iLCJsayI6IkdpQnRiM04wSUdGalkzVnlZWFJsSUhOdFlYSjBkMkYwWTJnZ1ptbDBibVZ6Y3ciLCJicyI6ImM1MlBzUXJDTUJDR2NjM2szT2tRVkZDbm9LNTlCcWNLVHRmazJnU2JwQ1FueGJjM29rTndLbTRIM19fOWR5ZXVRamJHS2dQSlllUUpPWTgyQVJzQ0Z4SURLdldJeUFSZGlOQlo5cFJTTFZmVkR5M3NiMGdFY1NxYTRRUGJpRjZfRjdTVTlhSVRPS0s2VzlfWDhsd2RwejlFY1JHYnhqd0JJOEZJWVJ3SXRNMXFSbVVUNWZPMzFYcWFreFEzc1c4TWN2bWVEcUF3YWh1RzBOdkVDU0twNEJ4NVhjdER0WnRteDVlTEZ3IiwiaWQiOiJmY19WTUN6YXRPRkNldUtydUVQaDRmOXlBNF80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFUTjBVREZEVFdWaFUxRkhXVlJFT1ZaRGVXVXhUVWd4Y2psVldHeElZMjFYVm5oVU9VTkpNbkJzTTNFd2QwOW5RMHhSWmpKWldXRTRaVzFqWTBwMFVGbGtMWEkzVjIxaU1GWXlRVWMzVlZGU1ZrMHRVMGhLVDFOR1VSSVhWazFEZW1GMFQwWkRaWFZMY25WRlVHZzBaamw1UVRRYUlrRkVjM0k1WmxGMk56ZExXbmRhTkZsMWEzWTVkbVpsWWpkMFZqWnFWRWhaT0djIiwiZmN2IjoiMyIsImVpIjoiVk1DemF0T0ZDZXVLcnVFUGg0Zjl5QTQiLCJxYyI6IkNpOW9hV2RvWlhOMElISmhkR1ZrSUhOdFlYSjBkMkYwWTJobGN5Qm1iM0lnWm1sMGJtVnpjeUIwY21GamEybHVaeEFBZlM2MkN6OCIsInF1ZXN0aW9uIjoiV2hpY2ggc21hcnR3YXRjaCBpcyB0aGUgbW9zdCBhY2N1cmF0ZSBmb3IgZml0bmVzcz8iLCJsayI6IkdpQnRiM04wSUdGalkzVnlZWFJsSUhOdFlYSjBkMkYwWTJnZ1ptbDBibVZ6Y3ciLCJicyI6ImM1MlBzUXJDTUJDR2NjM2szT2tRVkZDbm9LNTlCcWNLVHRmazJnU2JwQ1FueGJjM29rTndLbTRIM19fOWR5ZXVRamJHS2dQSlllUUpPWTgyQVJzQ0Z4SURLdldJeUFSZGlOQlo5cFJTTFZmVkR5M3NiMGdFY1NxYTRRUGJpRjZfRjdTVTlhSVRPS0s2VzlfWDhsd2RwejlFY1JHYnhqd0JJOEZJWVJ3SXRNMXFSbVVUNWZPMzFYcWFreFEzc1c4TWN2bWVEcUF3YWh1RzBOdkVDU0twNEJ4NVhjdER0WnRteDVlTEZ3IiwiaWQiOiJmY19WTUN6YXRPRkNldUtydUVQaDRmOXlBNF80In0%3D"
+    },
+    {
+      "question": "Which smart watch brand is best for fitness tracking?",
+      "type": "ai_overview",
+      "page_token": "4MM3HHicHZBdjpswGADVy-zjBpOfKpGiSgQDZQO7dvBnnJeK2IAXbLASFLR56xV6hp6qp-m2BxhpZn7-Nu9D_-fLLz1N7rZbLOZ5fm7HsTX1sxztorp9DHIhK2Mulex3m68b9K2Re3yXweEqA8Kcg5B6Jx9eLpZezwNUMp7uKsEPhVQDiB4gRg8W58ABRG0hvXTnMWPT2ydnXwt44fEWZcwJKHNWevn61LvvKtFLOdCDwtvmWJLVGa8x71Jdc2QFMkGxDKLCitWpa1eSqbiIIpKhlChPImryXLDUSk8lLDKrU689aaJRdHqCfuuTApBMYOQJUOYZj2HHX_ENZUPrQ7zORL8-1kU6g5cfYYjCKjSuxjr79PCFCTqsFS9YvhElfaN9bhSbPhQDUv3rKU2QB-M7YfQhO2MZ07HgaaBCPQlElufQ-NngnOrn-QLKZjx9MPLUyPt--fT_9f5HY6edu47tXyoti_4",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4MM3HHicHZBdjpswGADVy-zjBpOfKpGiSgQDZQO7dvBnnJeK2IAXbLASFLR56xV6hp6qp-m2BxhpZn7-Nu9D_-fLLz1N7rZbLOZ5fm7HsTX1sxztorp9DHIhK2Mulex3m68b9K2Re3yXweEqA8Kcg5B6Jx9eLpZezwNUMp7uKsEPhVQDiB4gRg8W58ABRG0hvXTnMWPT2ydnXwt44fEWZcwJKHNWevn61LvvKtFLOdCDwtvmWJLVGa8x71Jdc2QFMkGxDKLCitWpa1eSqbiIIpKhlChPImryXLDUSk8lLDKrU689aaJRdHqCfuuTApBMYOQJUOYZj2HHX_ENZUPrQ7zORL8-1kU6g5cfYYjCKjSuxjr79PCFCTqsFS9YvhElfaN9bhSbPhQDUv3rKU2QB-M7YfQhO2MZ07HgaaBCPQlElufQ-NngnOrn-QLKZjx9MPLUyPt--fT_9f5HY6edu47tXyoti_4",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFUTjBVREZEVFdWaFUxRkhXVlJFT1ZaRGVXVXhUVWd4Y2psVldHeElZMjFYVm5oVU9VTkpNbkJzTTNFd2QwOW5RMHhSWmpKWldXRTRaVzFqWTBwMFVGbGtMWEkzVjIxaU1GWXlRVWMzVlZGU1ZrMHRVMGhLVDFOR1VSSVhWazFEZW1GMFQwWkRaWFZMY25WRlVHZzBaamw1UVRRYUlrRkVjM0k1WmxGMk56ZExXbmRhTkZsMWEzWTVkbVpsWWpkMFZqWnFWRWhaT0djIiwiZmN2IjoiMyIsImVpIjoiVk1DemF0T0ZDZXVLcnVFUGg0Zjl5QTQiLCJxYyI6IkNpOW9hV2RvWlhOMElISmhkR1ZrSUhOdFlYSjBkMkYwWTJobGN5Qm1iM0lnWm1sMGJtVnpjeUIwY21GamEybHVaeEFBZlM2MkN6OCIsInF1ZXN0aW9uIjoiV2hpY2ggc21hcnQgd2F0Y2ggYnJhbmQgaXMgYmVzdCBmb3IgZml0bmVzcyB0cmFja2luZz8iLCJsayI6IkdqUjNhR2xqYUNCemJXRnlkQ0IzWVhSamFDQmljbUZ1WkNCcGN5QmlaWE4wSUdadmNpQm1hWFJ1WlhOeklIUnlZV05yYVc1biIsImJzIjoiYzUyUHNRckNNQkNHY2MzazNPa1FWRkNub0s1OUJxY0tUdGZrMmdTYnBDUW54YmMzb2tOd0ttNEgzX185ZHlldVFqYkdLZ1BKWWVRSk9ZODJBUnNDRnhJREt2V0l5QVJkaU5CWjlwUlNMVmZWRHkzc2IwZ0VjU3FhNFFQYmlGNl9GN1NVOWFJVE9LSzZXOV9YOGx3ZHB6OUVjUkdieGp3Qkk4RklZUndJdE0xcVJtVVQ1Zk8zMVhxYWt4UTNzVzhNY3ZtZURxQXdhaHVHME52RUNTS3A0Qng1WGN0RHRadG14NWVMRnciLCJpZCI6ImZjX1ZNQ3phdE9GQ2V1S3J1RVBoNGY5eUE0XzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFUTjBVREZEVFdWaFUxRkhXVlJFT1ZaRGVXVXhUVWd4Y2psVldHeElZMjFYVm5oVU9VTkpNbkJzTTNFd2QwOW5RMHhSWmpKWldXRTRaVzFqWTBwMFVGbGtMWEkzVjIxaU1GWXlRVWMzVlZGU1ZrMHRVMGhLVDFOR1VSSVhWazFEZW1GMFQwWkRaWFZMY25WRlVHZzBaamw1UVRRYUlrRkVjM0k1WmxGMk56ZExXbmRhTkZsMWEzWTVkbVpsWWpkMFZqWnFWRWhaT0djIiwiZmN2IjoiMyIsImVpIjoiVk1DemF0T0ZDZXVLcnVFUGg0Zjl5QTQiLCJxYyI6IkNpOW9hV2RvWlhOMElISmhkR1ZrSUhOdFlYSjBkMkYwWTJobGN5Qm1iM0lnWm1sMGJtVnpjeUIwY21GamEybHVaeEFBZlM2MkN6OCIsInF1ZXN0aW9uIjoiV2hpY2ggc21hcnQgd2F0Y2ggYnJhbmQgaXMgYmVzdCBmb3IgZml0bmVzcyB0cmFja2luZz8iLCJsayI6IkdqUjNhR2xqYUNCemJXRnlkQ0IzWVhSamFDQmljbUZ1WkNCcGN5QmlaWE4wSUdadmNpQm1hWFJ1WlhOeklIUnlZV05yYVc1biIsImJzIjoiYzUyUHNRckNNQkNHY2MzazNPa1FWRkNub0s1OUJxY0tUdGZrMmdTYnBDUW54YmMzb2tOd0ttNEgzX185ZHlldVFqYkdLZ1BKWWVRSk9ZODJBUnNDRnhJREt2V0l5QVJkaU5CWjlwUlNMVmZWRHkzc2IwZ0VjU3FhNFFQYmlGNl9GN1NVOWFJVE9LSzZXOV9YOGx3ZHB6OUVjUkdieGp3Qkk4RklZUndJdE0xcVJtVVQ1Zk8zMVhxYWt4UTNzVzhNY3ZtZURxQXdhaHVHME52RUNTS3A0Qng1WGN0RHRadG14NWVMRnciLCJpZCI6ImZjX1ZNQ3phdE9GQ2V1S3J1RVBoNGY5eUE0XzQifQ%3D%3D"
+    },
+    {
+      "question": "Why are people ditching smart watches?",
+      "type": "ai_overview",
+      "page_token": "Z8GuV3icHdBZboJAGADg9DI-KgPVtiamCWVxY-gMM8Py0iC_rIOgoghvvUtP1dM06XeE7_tHFqfq9-med117Xc5mfd9Ps6bJ5HGaNPUsvg6nZJbEUh7ipFouXhboPU1W5m2jf5w3OuFtKwyqeGJru5zarIYuQPjORB4SLTc8_gix1qBEzVvXD5EXgMOYTEMFucKKVKekGqjtXlhwISWwqJQCkL7j_mPtmXiIUKORk9N51fZ2tF_HKAAcjZj5RlRwKSit59d4ve0d8bYBJnoQYu1LLImaDYcTvR1Uy6GjLHD1UEO0nR98ufd59ggVSyWlfnEtevYsgUXdPlO1NR0fLl6BNDMHn3G8CAP6SSssgXcDcEFig9ZuIHWsNwXhdExKWXMU9WB2CrbpmdtEO_J8F4469pCVAoNciGiAfpIm95U2-f9cfaV1t2wvTfYHVGaEEw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Z8GuV3icHdBZboJAGADg9DI-KgPVtiamCWVxY-gMM8Py0iC_rIOgoghvvUtP1dM06XeE7_tHFqfq9-med117Xc5mfd9Ps6bJ5HGaNPUsvg6nZJbEUh7ipFouXhboPU1W5m2jf5w3OuFtKwyqeGJru5zarIYuQPjORB4SLTc8_gix1qBEzVvXD5EXgMOYTEMFucKKVKekGqjtXlhwISWwqJQCkL7j_mPtmXiIUKORk9N51fZ2tF_HKAAcjZj5RlRwKSit59d4ve0d8bYBJnoQYu1LLImaDYcTvR1Uy6GjLHD1UEO0nR98ufd59ggVSyWlfnEtevYsgUXdPlO1NR0fLl6BNDMHn3G8CAP6SSssgXcDcEFig9ZuIHWsNwXhdExKWXMU9WB2CrbpmdtEO_J8F4469pCVAoNciGiAfpIm95U2-f9cfaV1t2wvTfYHVGaEEw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFUTjBVREZEVFdWaFUxRkhXVlJFT1ZaRGVXVXhUVWd4Y2psVldHeElZMjFYVm5oVU9VTkpNbkJzTTNFd2QwOW5RMHhSWmpKWldXRTRaVzFqWTBwMFVGbGtMWEkzVjIxaU1GWXlRVWMzVlZGU1ZrMHRVMGhLVDFOR1VSSVhWazFEZW1GMFQwWkRaWFZMY25WRlVHZzBaamw1UVRRYUlrRkVjM0k1WmxGMk56ZExXbmRhTkZsMWEzWTVkbVpsWWpkMFZqWnFWRWhaT0djIiwiZmN2IjoiMyIsImVpIjoiVk1DemF0T0ZDZXVLcnVFUGg0Zjl5QTQiLCJxYyI6IkNpOW9hV2RvWlhOMElISmhkR1ZrSUhOdFlYSjBkMkYwWTJobGN5Qm1iM0lnWm1sMGJtVnpjeUIwY21GamEybHVaeEFBZlM2MkN6OCIsInF1ZXN0aW9uIjoiV2h5IGFyZSBwZW9wbGUgZGl0Y2hpbmcgc21hcnQgd2F0Y2hlcz8iLCJsayI6IkdpVjNhSGtnWVhKbElIQmxiM0JzWlNCa2FYUmphR2x1WnlCemJXRnlkQ0IzWVhSamFHVnoiLCJicyI6ImM1MlBzUXJDTUJDR2NjM2szT2tRVkZDbm9LNTlCcWNLVHRmazJnU2JwQ1FueGJjM29rTndLbTRIM19fOWR5ZXVRamJHS2dQSlllUUpPWTgyQVJzQ0Z4SURLdldJeUFSZGlOQlo5cFJTTFZmVkR5M3NiMGdFY1NxYTRRUGJpRjZfRjdTVTlhSVRPS0s2VzlfWDhsd2RwejlFY1JHYnhqd0JJOEZJWVJ3SXRNMXFSbVVUNWZPMzFYcWFreFEzc1c4TWN2bWVEcUF3YWh1RzBOdkVDU0twNEJ4NVhjdER0WnRteDVlTEZ3IiwiaWQiOiJmY19WTUN6YXRPRkNldUtydUVQaDRmOXlBNF80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFUTjBVREZEVFdWaFUxRkhXVlJFT1ZaRGVXVXhUVWd4Y2psVldHeElZMjFYVm5oVU9VTkpNbkJzTTNFd2QwOW5RMHhSWmpKWldXRTRaVzFqWTBwMFVGbGtMWEkzVjIxaU1GWXlRVWMzVlZGU1ZrMHRVMGhLVDFOR1VSSVhWazFEZW1GMFQwWkRaWFZMY25WRlVHZzBaamw1UVRRYUlrRkVjM0k1WmxGMk56ZExXbmRhTkZsMWEzWTVkbVpsWWpkMFZqWnFWRWhaT0djIiwiZmN2IjoiMyIsImVpIjoiVk1DemF0T0ZDZXVLcnVFUGg0Zjl5QTQiLCJxYyI6IkNpOW9hV2RvWlhOMElISmhkR1ZrSUhOdFlYSjBkMkYwWTJobGN5Qm1iM0lnWm1sMGJtVnpjeUIwY21GamEybHVaeEFBZlM2MkN6OCIsInF1ZXN0aW9uIjoiV2h5IGFyZSBwZW9wbGUgZGl0Y2hpbmcgc21hcnQgd2F0Y2hlcz8iLCJsayI6IkdpVjNhSGtnWVhKbElIQmxiM0JzWlNCa2FYUmphR2x1WnlCemJXRnlkQ0IzWVhSamFHVnoiLCJicyI6ImM1MlBzUXJDTUJDR2NjM2szT2tRVkZDbm9LNTlCcWNLVHRmazJnU2JwQ1FueGJjM29rTndLbTRIM19fOWR5ZXVRamJHS2dQSlllUUpPWTgyQVJzQ0Z4SURLdldJeUFSZGlOQlo5cFJTTFZmVkR5M3NiMGdFY1NxYTRRUGJpRjZfRjdTVTlhSVRPS0s2VzlfWDhsd2RwejlFY1JHYnhqd0JJOEZJWVJ3SXRNMXFSbVVUNWZPMzFYcWFreFEzc1c4TWN2bWVEcUF3YWh1RzBOdkVDU0twNEJ4NVhjdER0WnRteDVlTEZ3IiwiaWQiOiJmY19WTUN6YXRPRkNldUtydUVQaDRmOXlBNF80In0%3D"
+    },
+    {
+      "question": "What smartwatch do cardiologists recommend?",
+      "type": "ai_overview",
+      "page_token": "X9j7rnicHdBdbsIgAADg7DI-qmB0mYlZUu2POplQoD8vSwtqLSA462r7trvsVDvNkn1H-L5_9Pmifp--qqZxt_lo1Lbt8GTtSR-GwppRcesuYiQKrctCqPnseQZej2Lh39fe8rr2MHOOr8g4hhKWDFQMBGZHESXRupeQv5WhrsQk0OIiW0IREYHbs6AKBeTuYJpYQHdlSnK04rdDDLYc6A2iMkFsaoteBzh53BMfmDx0sOBBiNWLFRHpcIrIgZE77YMuoZtzqfmdsmqSG-6yca5i2Gy5r2EeyXaX5kZo1GaptySK-xnXQazAurxom6VZjyHnwtg-WZ1AwdRjFxLPr2RCGZplKdkThbRkTScZx8WKmPdUe8izZ8xIL2ptWI-6pCYc1bjJI2QInMZxLaPdxAJMPT-pPcbw4Ci-FpPB_-fi42iaufu0pz9m74VD",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=X9j7rnicHdBdbsIgAADg7DI-qmB0mYlZUu2POplQoD8vSwtqLSA462r7trvsVDvNkn1H-L5_9Pmifp--qqZxt_lo1Lbt8GTtSR-GwppRcesuYiQKrctCqPnseQZej2Lh39fe8rr2MHOOr8g4hhKWDFQMBGZHESXRupeQv5WhrsQk0OIiW0IREYHbs6AKBeTuYJpYQHdlSnK04rdDDLYc6A2iMkFsaoteBzh53BMfmDx0sOBBiNWLFRHpcIrIgZE77YMuoZtzqfmdsmqSG-6yca5i2Gy5r2EeyXaX5kZo1GaptySK-xnXQazAurxom6VZjyHnwtg-WZ1AwdRjFxLPr2RCGZplKdkThbRkTScZx8WKmPdUe8izZ8xIL2ptWI-6pCYc1bjJI2QInMZxLaPdxAJMPT-pPcbw4Ci-FpPB_-fi42iaufu0pz9m74VD",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFUTjBVREZEVFdWaFUxRkhXVlJFT1ZaRGVXVXhUVWd4Y2psVldHeElZMjFYVm5oVU9VTkpNbkJzTTNFd2QwOW5RMHhSWmpKWldXRTRaVzFqWTBwMFVGbGtMWEkzVjIxaU1GWXlRVWMzVlZGU1ZrMHRVMGhLVDFOR1VSSVhWazFEZW1GMFQwWkRaWFZMY25WRlVHZzBaamw1UVRRYUlrRkVjM0k1WmxGMk56ZExXbmRhTkZsMWEzWTVkbVpsWWpkMFZqWnFWRWhaT0djIiwiZmN2IjoiMyIsImVpIjoiVk1DemF0T0ZDZXVLcnVFUGg0Zjl5QTQiLCJxYyI6IkNpOW9hV2RvWlhOMElISmhkR1ZrSUhOdFlYSjBkMkYwWTJobGN5Qm1iM0lnWm1sMGJtVnpjeUIwY21GamEybHVaeEFBZlM2MkN6OCIsInF1ZXN0aW9uIjoiV2hhdCBzbWFydHdhdGNoIGRvIGNhcmRpb2xvZ2lzdHMgcmVjb21tZW5kPyIsImxrIjoiR2lwM2FHRjBJSE50WVhKMGQyRjBZMmdnWkc4Z1kyRnlaR2x2Ykc5bmFYTjBjeUJ5WldOdmJXMWxibVEiLCJicyI6ImM1MlBzUXJDTUJDR2NjM2szT2tRVkZDbm9LNTlCcWNLVHRmazJnU2JwQ1FueGJjM29rTndLbTRIM19fOWR5ZXVRamJHS2dQSlllUUpPWTgyQVJzQ0Z4SURLdldJeUFSZGlOQlo5cFJTTFZmVkR5M3NiMGdFY1NxYTRRUGJpRjZfRjdTVTlhSVRPS0s2VzlfWDhsd2RwejlFY1JHYnhqd0JJOEZJWVJ3SXRNMXFSbVVUNWZPMzFYcWFreFEzc1c4TWN2bWVEcUF3YWh1RzBOdkVDU0twNEJ4NVhjdER0WnRteDVlTEZ3IiwiaWQiOiJmY19WTUN6YXRPRkNldUtydUVQaDRmOXlBNF80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWFUTjBVREZEVFdWaFUxRkhXVlJFT1ZaRGVXVXhUVWd4Y2psVldHeElZMjFYVm5oVU9VTkpNbkJzTTNFd2QwOW5RMHhSWmpKWldXRTRaVzFqWTBwMFVGbGtMWEkzVjIxaU1GWXlRVWMzVlZGU1ZrMHRVMGhLVDFOR1VSSVhWazFEZW1GMFQwWkRaWFZMY25WRlVHZzBaamw1UVRRYUlrRkVjM0k1WmxGMk56ZExXbmRhTkZsMWEzWTVkbVpsWWpkMFZqWnFWRWhaT0djIiwiZmN2IjoiMyIsImVpIjoiVk1DemF0T0ZDZXVLcnVFUGg0Zjl5QTQiLCJxYyI6IkNpOW9hV2RvWlhOMElISmhkR1ZrSUhOdFlYSjBkMkYwWTJobGN5Qm1iM0lnWm1sMGJtVnpjeUIwY21GamEybHVaeEFBZlM2MkN6OCIsInF1ZXN0aW9uIjoiV2hhdCBzbWFydHdhdGNoIGRvIGNhcmRpb2xvZ2lzdHMgcmVjb21tZW5kPyIsImxrIjoiR2lwM2FHRjBJSE50WVhKMGQyRjBZMmdnWkc4Z1kyRnlaR2x2Ykc5bmFYTjBjeUJ5WldOdmJXMWxibVEiLCJicyI6ImM1MlBzUXJDTUJDR2NjM2szT2tRVkZDbm9LNTlCcWNLVHRmazJnU2JwQ1FueGJjM29rTndLbTRIM19fOWR5ZXVRamJHS2dQSlllUUpPWTgyQVJzQ0Z4SURLdldJeUFSZGlOQlo5cFJTTFZmVkR5M3NiMGdFY1NxYTRRUGJpRjZfRjdTVTlhSVRPS0s2VzlfWDhsd2RwejlFY1JHYnhqd0JJOEZJWVJ3SXRNMXFSbVVUNWZPMzFYcWFreFEzc1c4TWN2bWVEcUF3YWh1RzBOdkVDU0twNEJ4NVhjdER0WnRteDVlTEZ3IiwiaWQiOiJmY19WTUN6YXRPRkNldUtydUVQaDRmOXlBNF80In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "R5yzf3iczVXbkqo4FP2A-Y7hxW4VBC9dRZ1K0mDjtdHW7uOLFRBBubUEGvVt_mW-aB7nayaA0uiofc55mJpUcUlIVvbK3ov1x5_OyrP__u0vKwzfyUOlEsdx2fR90zHKuu9WMNl5emXpOyTQrW9R5BhiXEJAURWkYPVtul-0nagnjxyjLe978jTCbyNnhuDLoi1XZ299xnJEw2NMR4wIs_sQa4xOxCpjrMRpH-1xOJSREXWDSHq2-GVrB3gm3VGca5gYaxrQdk0q8wq92b_XHmmnTMqGV-5bO26pq-vXmC9zVa5WHlawSyeA_66pCEgAmFCh7_DqJDrjR8AgRaBAdmFIOawsYH8HKMFT1LSHriCbKVoCoMBkAX3MZwEPQfeIBeOrgaDifrSTbCWhlEjKdPUjbAockiblmOjm7Et8MgS6vXQc6Re-SuBKQ2eVMKHoTdBXgHUYOMuY5Bd7neT2mG2_BHws8SP5ZuT0dCYxFLrgy3TLYOSZB1IKCulKWFmYtHKrFS2gD7ay0i09fQlIUtDopVX1JU4ab1aTyLCnuvVmbO0ntyOjfj1cN0BF1-g8x8cLYzG35tVvaZ_lWKHaqjWad6mSdJJLiRSlBLrtWquKNw2uX-6VIXvUEcpP_ixlSS0g5QIxOD5MPVmQVSpVyef458nbUjEL3exMkiWcAvL90yVqPUt1ntVnBUBTGZwEcHgm6y7p6BBJzsrMijsJy8-jKzIzqYzgpcrtX9T7-Zj6lEegwH9NLMakQMWktNUcvthQUuWKlXycAIh65kGBehFjACU1P2x0ZJowR-2cmFSkKBW3WVGkVBjrMUiqf9NJcgwTQJStOMp-ArLhPFh47d9HQAw6t_V-rSlf_CcOOx8Fc1b_J7pZD9s91mvu63sh0rDa7w86H8v7YKgT9bJOfFf7Cc_R_1dKOjpSN_12XUlJ3XypJFr5yk1HSt8PjtTJlITMq0qCmcOdOdLwoiOdVhQCo08ldeFNR_p5JaGbSjIPTC8oiTrSJSXZ15SUOtKpkqymSh1pm7M-4f3pSLmSfsWR0K85UiosI3uc2lO0Nq_alMxusL-XthFuDDqzWdeYG0K7IUurRutrm1q64YOLF87dfLV4gFwn3C3u5nTAfzAWzEa0VqZlkLAU4NBYlIiLgzDGoU7HSks_KC1XoWcQUgoDrNsrz2RcJ_DFKubZXrNDzVLWt9xov5y9xtH2Y7l4D6b9gf8-mT7WBDWIt6Pxfd230HREWIog7zR1oAlCiLWm7bw8b-5H_BNAvGw01LZtz9mhoj7qsT1-2r-oQrjtCR-IB-_T13XwHMfT3r0ntNhnX2t2tvPgUV66-liKNY_t3GdxEbFuYvfVe2t1BzxDORJDZBk30EWaLn4HRip4NWldou9U07SgkU-vmF51oEqQITqeG-RDFJqChjHXaGFe4_imwLhmuHsXuRZDvEBk_wFp41sW",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=R5yzf3iczVXbkqo4FP2A-Y7hxW4VBC9dRZ1K0mDjtdHW7uOLFRBBubUEGvVt_mW-aB7nayaA0uiofc55mJpUcUlIVvbK3ov1x5_OyrP__u0vKwzfyUOlEsdx2fR90zHKuu9WMNl5emXpOyTQrW9R5BhiXEJAURWkYPVtul-0nagnjxyjLe978jTCbyNnhuDLoi1XZ299xnJEw2NMR4wIs_sQa4xOxCpjrMRpH-1xOJSREXWDSHq2-GVrB3gm3VGca5gYaxrQdk0q8wq92b_XHmmnTMqGV-5bO26pq-vXmC9zVa5WHlawSyeA_66pCEgAmFCh7_DqJDrjR8AgRaBAdmFIOawsYH8HKMFT1LSHriCbKVoCoMBkAX3MZwEPQfeIBeOrgaDifrSTbCWhlEjKdPUjbAockiblmOjm7Et8MgS6vXQc6Re-SuBKQ2eVMKHoTdBXgHUYOMuY5Bd7neT2mG2_BHws8SP5ZuT0dCYxFLrgy3TLYOSZB1IKCulKWFmYtHKrFS2gD7ay0i09fQlIUtDopVX1JU4ab1aTyLCnuvVmbO0ntyOjfj1cN0BF1-g8x8cLYzG35tVvaZ_lWKHaqjWad6mSdJJLiRSlBLrtWquKNw2uX-6VIXvUEcpP_ixlSS0g5QIxOD5MPVmQVSpVyef458nbUjEL3exMkiWcAvL90yVqPUt1ntVnBUBTGZwEcHgm6y7p6BBJzsrMijsJy8-jKzIzqYzgpcrtX9T7-Zj6lEegwH9NLMakQMWktNUcvthQUuWKlXycAIh65kGBehFjACU1P2x0ZJowR-2cmFSkKBW3WVGkVBjrMUiqf9NJcgwTQJStOMp-ArLhPFh47d9HQAw6t_V-rSlf_CcOOx8Fc1b_J7pZD9s91mvu63sh0rDa7w86H8v7YKgT9bJOfFf7Cc_R_1dKOjpSN_12XUlJ3XypJFr5yk1HSt8PjtTJlITMq0qCmcOdOdLwoiOdVhQCo08ldeFNR_p5JaGbSjIPTC8oiTrSJSXZ15SUOtKpkqymSh1pm7M-4f3pSLmSfsWR0K85UiosI3uc2lO0Nq_alMxusL-XthFuDDqzWdeYG0K7IUurRutrm1q64YOLF87dfLV4gFwn3C3u5nTAfzAWzEa0VqZlkLAU4NBYlIiLgzDGoU7HSks_KC1XoWcQUgoDrNsrz2RcJ_DFKubZXrNDzVLWt9xov5y9xtH2Y7l4D6b9gf8-mT7WBDWIt6Pxfd230HREWIog7zR1oAlCiLWm7bw8b-5H_BNAvGw01LZtz9mhoj7qsT1-2r-oQrjtCR-IB-_T13XwHMfT3r0ntNhnX2t2tvPgUV66-liKNY_t3GdxEbFuYvfVe2t1BzxDORJDZBk30EWaLn4HRip4NWldou9U07SgkU-vmF51oEqQITqeG-RDFJqChjHXaGFe4_imwLhmuHsXuRZDvEBk_wFp41sW"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The Best Fitness Watches of 2026",
+      "link": "https://gearjunkie.com/health-fitness/best-fitness-watch",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVXRsDgQqyy8tgCtBoOc8ZUphm_3OYfOAQs-sVI60CKGXrITH-wbbzPqVfG1jI80j3P2dyHPYY7VNVNnsSlrOghAfAAKmYEoUuWHIrgRtU6qtZxM1DRYI9RwxLp-5tHXCVKdXa89YaMjPr0Wc&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://gearjunkie.com › ... › Buyers Guides › Fitness",
+      "date": "Sep 2, 2026",
+      "snippet": "Our top 14 picks include Garmin, COROS, Fitbit, and more! we suggest the Garmin Venu 2 or Samsung Galaxy Watch 5. Both. The most popular ...",
+      "snippet_highlighted_words": [
+        "Garmin Venu 2"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our top 14 picks include Garmin, COROS, Fitbit, and more! we suggest the Garmin Venu 2 or Samsung Galaxy Watch 5. Both. The most popular  ...",
+          "source_info_link": "https://gearjunkie.com/health-fitness/best-fitness-watch",
+          "icon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAADwBACdASocABwAPrUurVanIacnG_DgFolmALDtp4maXSj5wTn93gi3cKzBXqE9oAAA_tiMuOeBw3X0EWqECrlpeXuL87o08b3RrrnMr_2G_VHyE1ZI_zkeMS0i-ELn7IH8O7m7jqgPWS3unMNvzOZ_fIS7OZ0tu485EDy-C_i5W9LxjY_NRvdnLZghEi6mnLZAKQ4Z_349inJZwfan3SW671qVbLdZOlLoDkNkcDIsTnOvKjyedJsa8lff-sKAU9PgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVlhSc0RnUXF5eTh0Z0N0Qm9PYzhaVXBobV8zT1lmT0FRcy1zVkk2MENLR1hySVRILXdiYnpQcVZmRzFqSTgwajNQMmR5SFBZWTdWTlZObnNTbHJPZ2hBZkFBS21ZRW9VdVdISXJnUnRVNnF0WnhNMURSWUk5Und4THAtNXRIWENWS2RYYTg5WWFNalByMFdjEgQaAggAGo4IEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6AcIABAAGAAgACqiAQoHaGlnaGVzdBWu0cY9GgRiZXN0GgliZXN0IDIwMTIaC2Jlc3QgcmV2aWV3GgxiZXN0IHJldmlld3MaBGdvb2QaBGhpZ2gaBmhpZ2hseRoHbGFyZ2VzdBoEbW9zdBoIcmFua2luZ3MaC3JlY29tbWVuZGVkGgN0b3AaBnRvcCAxMBoFdG9wIDUaCndoYXRzIGJlc3QaDGhpZ2hlc3RyYXRlZCq4AQoFcmF0ZWQVvIMhPhoJYmVzdCAyMDEyGgtiZXN0IHJldmlldxoMYmVzdCByZXZpZXdzGgRnb29kGgZncmFkZWQaBnJhbmtlZBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBXNjb3JlGgdzY29yaW5nGgZ0b3AgMTAaBXRvcCA1Ggp3aGF0cyBiZXN0GgxoaWdoZXN0cmF0ZWQaBGJlc3QqTgoMc21hcnR3YXRjaGVzFZuPSD8aC3NtYXJ0IHdhdGNoGg1zbWFydCB3YXRjaGVzGgpzbWFydHdhdGNoGhFpdjtwO3NtYXJ0d2F0Y2hlcyoKCgNmb3IVAAAAACpLCgdmaXRuZXNzFXQ0u0AaCGFjdGl2aXR5GghleGVyY2lzZRoDZ3ltGgd3b3Jrb3V0Ggh3b3Jrb3V0cxoPZml0bmVzc3RyYWNraW5nKjwKCHRyYWNraW5nFen47D8aCm1vbml0b3JpbmcaBXRyYWNrGgd0cmFja2VyGg9maXRuZXNzdHJhY2tpbmcypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWWFJzRGdRcXl5OHRnQ3RCb09jOFpVcGhtXzNPWWZPQVFzLXNWSTYwQ0tHWHJJVEgtd2JielBxVmZHMWpJODBqM1AyZHlIUFlZN1ZOVk5uc1Nsck9naEFmQUFLbVlFb1V1V0hJcmdSdFU2cXRaeE0xRFJZSTlSd3hMcC01dEhYQ1ZLZFhhODlZYU1qUHIwV2M6NFRoZSA8Yj5CZXN0IEZpdG5lc3M8L2I-IFdhdGNoZXMgb2YgMjAyNiAtIEdlYXJKdW5raWVCmQFPdXIgdG9wIDE0IHBpY2tzIGluY2x1ZGUgR2FybWluLCBDT1JPUywgRml0Yml0LCBhbmQgbW9yZSEgd2Ugc3VnZ2VzdCB0aGUgPGI-R2FybWluIFZlbnUgMjwvYj4gb3IgU2Ftc3VuZyBHYWxheHkgV2F0Y2ggNS4gQm90aC4gVGhlIG1vc3QgcG9wdWxhciAmbmJzcDsuLi5KA2ZvclIDdG9wUgRiZXN0UgZ0b3AgMTBSBXRvcCA1IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVlhSc0RnUXF5eTh0Z0N0Qm9PYzhaVXBobV8zT1lmT0FRcy1zVkk2MENLR1hySVRILXdiYnpQcVZmRzFqSTgwajNQMmR5SFBZWTdWTlZObnNTbHJPZ2hBZkFBS21ZRW9VdVdISXJnUnRVNnF0WnhNMURSWUk5Und4THAtNXRIWENWS2RYYTg5WWFNalByMFdjEgQaAggAGo4IEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6AcIABAAGAAgACqiAQoHaGlnaGVzdBWu0cY9GgRiZXN0GgliZXN0IDIwMTIaC2Jlc3QgcmV2aWV3GgxiZXN0IHJldmlld3MaBGdvb2QaBGhpZ2gaBmhpZ2hseRoHbGFyZ2VzdBoEbW9zdBoIcmFua2luZ3MaC3JlY29tbWVuZGVkGgN0b3AaBnRvcCAxMBoFdG9wIDUaCndoYXRzIGJlc3QaDGhpZ2hlc3RyYXRlZCq4AQoFcmF0ZWQVvIMhPhoJYmVzdCAyMDEyGgtiZXN0IHJldmlldxoMYmVzdCByZXZpZXdzGgRnb29kGgZncmFkZWQaBnJhbmtlZBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBXNjb3JlGgdzY29yaW5nGgZ0b3AgMTAaBXRvcCA1Ggp3aGF0cyBiZXN0GgxoaWdoZXN0cmF0ZWQaBGJlc3QqTgoMc21hcnR3YXRjaGVzFZuPSD8aC3NtYXJ0IHdhdGNoGg1zbWFydCB3YXRjaGVzGgpzbWFydHdhdGNoGhFpdjtwO3NtYXJ0d2F0Y2hlcyoKCgNmb3IVAAAAACpLCgdmaXRuZXNzFXQ0u0AaCGFjdGl2aXR5GghleGVyY2lzZRoDZ3ltGgd3b3Jrb3V0Ggh3b3Jrb3V0cxoPZml0bmVzc3RyYWNraW5nKjwKCHRyYWNraW5nFen47D8aCm1vbml0b3JpbmcaBXRyYWNrGgd0cmFja2VyGg9maXRuZXNzdHJhY2tpbmcypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWWFJzRGdRcXl5OHRnQ3RCb09jOFpVcGhtXzNPWWZPQVFzLXNWSTYwQ0tHWHJJVEgtd2JielBxVmZHMWpJODBqM1AyZHlIUFlZN1ZOVk5uc1Nsck9naEFmQUFLbVlFb1V1V0hJcmdSdFU2cXRaeE0xRFJZSTlSd3hMcC01dEhYQ1ZLZFhhODlZYU1qUHIwV2M6NFRoZSA8Yj5CZXN0IEZpdG5lc3M8L2I-IFdhdGNoZXMgb2YgMjAyNiAtIEdlYXJKdW5raWVCmQFPdXIgdG9wIDE0IHBpY2tzIGluY2x1ZGUgR2FybWluLCBDT1JPUywgRml0Yml0LCBhbmQgbW9yZSEgd2Ugc3VnZ2VzdCB0aGUgPGI-R2FybWluIFZlbnUgMjwvYj4gb3IgU2Ftc3VuZyBHYWxheHkgV2F0Y2ggNS4gQm90aC4gVGhlIG1vc3QgcG9wdWxhciAmbmJzcDsuLi5KA2ZvclIDdG9wUgRiZXN0UgZ0b3AgMTBSBXRvcCA1IgIQAUgAWABoAA",
+      "source": "GearJunkie"
+    },
+    {
+      "position": 2,
+      "title": "The Best Fitness Trackers We've Tested for 2026",
+      "link": "https://www.pcmag.com/picks/the-best-fitness-trackers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVWSzZ1-C26ehoHxT68QKQZpqaZLAiaHbD2-L_v8XxUTm8-LbXOi-hpC2Xc8bwn-UPfQhegjQRYx9Xi_DYzKYqZx6Iv7xHEeFR2k_2McV9luXu6hsJYKy-cZjug7167CVHkQ6x42uJtWc&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.pcmag.com › ... › Fitness Trackers",
+      "date": "Jul 22, 2026",
+      "snippet": "The Apple Watch and the Samsung Galaxy Watch place a greater emphasis on health and fitness tracking than any other smartwatches we've seen.",
+      "snippet_highlighted_words": [
+        "The Apple Watch and the Samsung Galaxy Watch"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Our Top Tested Picks",
+            "link": "https://www.pcmag.com/picks/the-best-fitness-trackers#our-top-tested-picks"
+          },
+          {
+            "title": "What Is the Best Fitness...",
+            "link": "https://www.pcmag.com/picks/the-best-fitness-trackers#what-is-the-best-fitness-tracker-for-the-money"
+          },
+          {
+            "title": "The Best Sport-Specific...",
+            "link": "https://www.pcmag.com/picks/the-best-fitness-trackers#the-best-sport-specific-fitness-tracker"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Apple Watch and the Samsung Galaxy Watch place a greater emphasis on health and fitness tracking than any other smartwatches we've seen.",
+          "source_info_link": "https://www.pcmag.com/picks/the-best-fitness-trackers",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXrAC7rAC7rAC7rAC3rACHwZXXqAAzvS170kpz2qbHzhJD____5v8XtKUT71dn_-fr-7_HxcHzuOVHFtC6NAAAAA3RSTlNM9fvAUo4WAAAAqklEQVR4AbXTgQrEIAiA4TbNKmurvf_DnsM44agA4H4ghA8gyJw7zkWHcyesEpUTNdBsfhG9BgQShZhSBhxIPCqi9dI50sDblBqPMhpq0L9jI8PLs-QjS72whGBIhjVt8PkThizBAvHNcBR2SIpPl36x0_xCfLcSEFe3JUJYIkiKdYe-zHH-ZIqAMmsRFdkQalNLNBYsSh1BI59KiVVM0JZxsponLDu23-EDtDAWNH_t18YAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVldTeloxLUMyNmVob0h4VDY4UUtRWnBxYVpMQWlhSGJEMi1MX3Y4WHhVVG04LUxiWE9pLWhwQzJYYzhid24tVVBmUWhlZ2pRUll4OVhpX0RZektZcVp4Nkl2N3hIRWVGUjJrXzJNY1Y5bHVYdTZoc0pZS3ktY1pqdWc3MTY3Q1ZIa1E2eDQydUp0V2MSBBoCCAAalggSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDwBwgAEAAYACAAKqIBCgdoaWdoZXN0FQAAAAAaBGJlc3QaCWJlc3QgMjAxMhoLYmVzdCByZXZpZXcaDGJlc3QgcmV2aWV3cxoEZ29vZBoEaGlnaBoGaGlnaGx5GgdsYXJnZXN0GgRtb3N0GghyYW5raW5ncxoLcmVjb21tZW5kZWQaA3RvcBoGdG9wIDEwGgV0b3AgNRoKd2hhdHMgYmVzdBoMaGlnaGVzdHJhdGVkKrgBCgVyYXRlZBUAAAAAGgliZXN0IDIwMTIaC2Jlc3QgcmV2aWV3GgxiZXN0IHJldmlld3MaBGdvb2QaBmdyYWRlZBoGcmFua2VkGgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoFc2NvcmUaB3Njb3JpbmcaBnRvcCAxMBoFdG9wIDUaCndoYXRzIGJlc3QaDGhpZ2hlc3RyYXRlZBoEYmVzdCpOCgxzbWFydHdhdGNoZXMVnWo7PxoLc21hcnQgd2F0Y2gaDXNtYXJ0IHdhdGNoZXMaCnNtYXJ0d2F0Y2gaEWl2O3A7c21hcnR3YXRjaGVzKgoKA2ZvchUAAAAAKksKB2ZpdG5lc3MVuCd3QBoIYWN0aXZpdHkaCGV4ZXJjaXNlGgNneW0aB3dvcmtvdXQaCHdvcmtvdXRzGg9maXRuZXNzdHJhY2tpbmcqPAoIdHJhY2tpbmcVMtSWPxoKbW9uaXRvcmluZxoFdHJhY2saB3RyYWNrZXIaD2ZpdG5lc3N0cmFja2luZzKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZXU3paMS1DMjZlaG9IeFQ2OFFLUVpwcWFaTEFpYUhiRDItTF92OFh4VVRtOC1MYlhPaS1ocEMyWGM4YnduLVVQZlFoZWdqUVJZeDlYaV9EWXpLWXFaeDZJdjd4SEVlRlIya18yTWNWOWx1WHU2aHNKWUt5LWNaanVnNzE2N0NWSGtRNng0MnVKdFdjOkJUaGUgPGI-QmVzdCBGaXRuZXNzPC9iPiBUcmFja2VycyBXZSYjMzk7dmUgVGVzdGVkIGZvciAyMDI2IHwgUENNYWdClwE8Yj5UaGUgQXBwbGUgV2F0Y2ggYW5kIHRoZSBTYW1zdW5nIEdhbGF4eSBXYXRjaDwvYj4gcGxhY2UgYSBncmVhdGVyIGVtcGhhc2lzIG9uIGhlYWx0aCBhbmQgZml0bmVzcyB0cmFja2luZyB0aGFuIGFueSBvdGhlciBzbWFydHdhdGNoZXMgd2UmIzM5O3ZlIHNlZW4uSgNmb3JSA3RvcFIEYmVzdFIGdG9wIDEwUgV0b3AgNSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVldTeloxLUMyNmVob0h4VDY4UUtRWnBxYVpMQWlhSGJEMi1MX3Y4WHhVVG04LUxiWE9pLWhwQzJYYzhid24tVVBmUWhlZ2pRUll4OVhpX0RZektZcVp4Nkl2N3hIRWVGUjJrXzJNY1Y5bHVYdTZoc0pZS3ktY1pqdWc3MTY3Q1ZIa1E2eDQydUp0V2MSBBoCCAAalggSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDwBwgAEAAYACAAKqIBCgdoaWdoZXN0FQAAAAAaBGJlc3QaCWJlc3QgMjAxMhoLYmVzdCByZXZpZXcaDGJlc3QgcmV2aWV3cxoEZ29vZBoEaGlnaBoGaGlnaGx5GgdsYXJnZXN0GgRtb3N0GghyYW5raW5ncxoLcmVjb21tZW5kZWQaA3RvcBoGdG9wIDEwGgV0b3AgNRoKd2hhdHMgYmVzdBoMaGlnaGVzdHJhdGVkKrgBCgVyYXRlZBUAAAAAGgliZXN0IDIwMTIaC2Jlc3QgcmV2aWV3GgxiZXN0IHJldmlld3MaBGdvb2QaBmdyYWRlZBoGcmFua2VkGgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoFc2NvcmUaB3Njb3JpbmcaBnRvcCAxMBoFdG9wIDUaCndoYXRzIGJlc3QaDGhpZ2hlc3RyYXRlZBoEYmVzdCpOCgxzbWFydHdhdGNoZXMVnWo7PxoLc21hcnQgd2F0Y2gaDXNtYXJ0IHdhdGNoZXMaCnNtYXJ0d2F0Y2gaEWl2O3A7c21hcnR3YXRjaGVzKgoKA2ZvchUAAAAAKksKB2ZpdG5lc3MVuCd3QBoIYWN0aXZpdHkaCGV4ZXJjaXNlGgNneW0aB3dvcmtvdXQaCHdvcmtvdXRzGg9maXRuZXNzdHJhY2tpbmcqPAoIdHJhY2tpbmcVMtSWPxoKbW9uaXRvcmluZxoFdHJhY2saB3RyYWNrZXIaD2ZpdG5lc3N0cmFja2luZzKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZXU3paMS1DMjZlaG9IeFQ2OFFLUVpwcWFaTEFpYUhiRDItTF92OFh4VVRtOC1MYlhPaS1ocEMyWGM4YnduLVVQZlFoZWdqUVJZeDlYaV9EWXpLWXFaeDZJdjd4SEVlRlIya18yTWNWOWx1WHU2aHNKWUt5LWNaanVnNzE2N0NWSGtRNng0MnVKdFdjOkJUaGUgPGI-QmVzdCBGaXRuZXNzPC9iPiBUcmFja2VycyBXZSYjMzk7dmUgVGVzdGVkIGZvciAyMDI2IHwgUENNYWdClwE8Yj5UaGUgQXBwbGUgV2F0Y2ggYW5kIHRoZSBTYW1zdW5nIEdhbGF4eSBXYXRjaDwvYj4gcGxhY2UgYSBncmVhdGVyIGVtcGhhc2lzIG9uIGhlYWx0aCBhbmQgZml0bmVzcyB0cmFja2luZyB0aGFuIGFueSBvdGhlciBzbWFydHdhdGNoZXMgd2UmIzM5O3ZlIHNlZW4uSgNmb3JSA3RvcFIEYmVzdFIGdG9wIDEwUgV0b3AgNSICEAFIAFgAaAA",
+      "source": "PCMag",
+      "read_more_link": "https://www.pcmag.com/picks/the-best-fitness-trackers#:~:text=The%20Apple%20Watch%20and%20the,tailored%20to%20your%20recovery%20status."
+    },
+    {
+      "position": 3,
+      "title": "I Ran 30 Miles With 5 Smartwatches. Here's the One You ...",
+      "link": "https://www.cnet.com/tech/mobile/i-ran-30-miles-testing-5-smartwatches-to-find-out-which-ones-you-can-actually-trust/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFbs9CR1lOS0GN4BKdT9O-aEqnR9g24LZjmxCuuS5B4TfwqITmtSvuuouAoJ1JBRwGMW0U3D5A0nGy2SVl77McNKyU1QZV3gaNqWdSK36LghvsrVYFm_O2RhDDPMB64XN4x_2pK6M0efGcX2dBbpxjpnxCs8_ecGqotECLD1DhiADlkBjPnsWgk96H6mqbK_pt5EIR_GVp3CHO0M6ePzFo2ziYQkKBRZ6SA&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://www.cnet.com › Tech › Mobile › Smartwatches",
+      "date": "Apr 13, 2026",
+      "snippet": "The Apple Watch Series 11 was the most accurate heart rate monitor during workouts. The Garmin Venu 4's heart rate tracking has more data, ...",
+      "snippet_highlighted_words": [
+        "Apple Watch Series 11"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Apple Watch Series 11 was the most accurate heart rate monitor during workouts. The Garmin Venu 4's heart rate tracking has more data, ...",
+          "source_info_link": "https://www.cnet.com/tech/mobile/i-ran-30-miles-testing-5-smartwatches-to-find-out-which-ones-you-can-actually-trust/",
+          "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAADwBACdASocABwAPtEutFooIagoGAEAGglsAJ0zJgFWEzAyEODWdIX7EkNIFnR4kAAA_u--jDs64DksFWVDTsHrNI5CL4UPG8RA-n9zXXuEFTBbascawcdbTeRX8gdE3IXe3VoNhv5G-Wc7kkvbee4ih7h2JGcTHt62PirY_wOsQnnrMevIqbnBDSVCUAfysO-Pj22g2z0HIuVqu4y7FiDhAVMIwif3ScbgedBqOAmT-Tv7pOAP51F574mQPwB-fnyklzvrXzL4RYASb7Q2Vwgw4HWv1-eh0_bTzm_cX-RynsHLP8_8_8__isiMRICAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZiczlDUjFsT1MwR040QktkVDlPLWFFcW5SOWcyNExaam14Q3V1UzVCNFRmd3FJVG10U3Z1dW91QW9KMUpCUndHTVcwVTNENUEwbkd5MlNWbDc3TWNOS3lVMVFaVjNnYU5xV2RTSzM2TGdodnNyVllGbV9PMlJoRERQTUI2NFhONHhfMnBLNk0wZWZHY1gyZEJicHhqcG54Q3M4X2VjR3FvdEVDTEQxRGhpQURsa0JqUG5zV2drOTZINm1xYktfcHQ1RUlSX0dWcDNDSE8wTTZlUHpGbzJ6aVlRa0tCUlo2U0ESBBoCCAAa-wgSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDVCAgAEAAYACAAKqIBCgdoaWdoZXN0FWjM7jwaBGJlc3QaCWJlc3QgMjAxMhoLYmVzdCByZXZpZXcaDGJlc3QgcmV2aWV3cxoEZ29vZBoEaGlnaBoGaGlnaGx5GgdsYXJnZXN0GgRtb3N0GghyYW5raW5ncxoLcmVjb21tZW5kZWQaA3RvcBoGdG9wIDEwGgV0b3AgNRoKd2hhdHMgYmVzdBoMaGlnaGVzdHJhdGVkKrgBCgVyYXRlZBU5o7o9GgliZXN0IDIwMTIaC2Jlc3QgcmV2aWV3GgxiZXN0IHJldmlld3MaBGdvb2QaBmdyYWRlZBoGcmFua2VkGgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoFc2NvcmUaB3Njb3JpbmcaBnRvcCAxMBoFdG9wIDUaCndoYXRzIGJlc3QaDGhpZ2hlc3RyYXRlZBoEYmVzdCpOCgxzbWFydHdhdGNoZXMVihtgQBoLc21hcnQgd2F0Y2gaDXNtYXJ0IHdhdGNoZXMaCnNtYXJ0d2F0Y2gaEWl2O3A7c21hcnR3YXRjaGVzKgoKA2ZvchUAAAAAKksKB2ZpdG5lc3MVpNCrPxoIYWN0aXZpdHkaCGV4ZXJjaXNlGgNneW0aB3dvcmtvdXQaCHdvcmtvdXRzGg9maXRuZXNzdHJhY2tpbmcqPAoIdHJhY2tpbmcVG3asPxoKbW9uaXRvcmluZxoFdHJhY2saB3RyYWNrZXIaD2ZpdG5lc3N0cmFja2luZzL4AS9nb3RvP3VybD1DQUVTclFFQjZ6c3dGYnM5Q1IxbE9TMEdONEJLZFQ5Ty1hRXFuUjlnMjRMWmpteEN1dVM1QjRUZndxSVRtdFN2dXVvdUFvSjFKQlJ3R01XMFUzRDVBMG5HeTJTVmw3N01jTkt5VTFRWlYzZ2FOcVdkU0szNkxnaHZzclZZRm1fTzJSaEREUE1CNjRYTjR4XzJwSzZNMGVmR2NYMmRCYnB4anBueENzOF9lY0dxb3RFQ0xEMURoaUFEbGtCalBuc1dnazk2SDZtcWJLX3B0NUVJUl9HVnAzQ0hPME02ZVB6Rm8yemlZUWtLQlJaNlNBOklJIFJhbiAzMCBNaWxlcyBXaXRoIDUgPGI-U21hcnR3YXRjaGVzPC9iPi4gSGVyZSYjMzk7cyB0aGUgT25lIFlvdSBDYW4gLi4uQp4BVGhlIDxiPkFwcGxlIFdhdGNoIFNlcmllcyAxMTwvYj4gd2FzIHRoZSBtb3N0IGFjY3VyYXRlIGhlYXJ0IHJhdGUgbW9uaXRvciBkdXJpbmcgd29ya291dHMuIFRoZSBHYXJtaW4gVmVudSA0JiMzOTtzIGhlYXJ0IHJhdGUgdHJhY2tpbmcgaGFzIG1vcmUgZGF0YSwmbmJzcDsuLi5KA2ZvclIDdG9wUgRiZXN0UgZ0b3AgMTBSBXRvcCA1IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZiczlDUjFsT1MwR040QktkVDlPLWFFcW5SOWcyNExaam14Q3V1UzVCNFRmd3FJVG10U3Z1dW91QW9KMUpCUndHTVcwVTNENUEwbkd5MlNWbDc3TWNOS3lVMVFaVjNnYU5xV2RTSzM2TGdodnNyVllGbV9PMlJoRERQTUI2NFhONHhfMnBLNk0wZWZHY1gyZEJicHhqcG54Q3M4X2VjR3FvdEVDTEQxRGhpQURsa0JqUG5zV2drOTZINm1xYktfcHQ1RUlSX0dWcDNDSE8wTTZlUHpGbzJ6aVlRa0tCUlo2U0ESBBoCCAAa-wgSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDVCAgAEAAYACAAKqIBCgdoaWdoZXN0FWjM7jwaBGJlc3QaCWJlc3QgMjAxMhoLYmVzdCByZXZpZXcaDGJlc3QgcmV2aWV3cxoEZ29vZBoEaGlnaBoGaGlnaGx5GgdsYXJnZXN0GgRtb3N0GghyYW5raW5ncxoLcmVjb21tZW5kZWQaA3RvcBoGdG9wIDEwGgV0b3AgNRoKd2hhdHMgYmVzdBoMaGlnaGVzdHJhdGVkKrgBCgVyYXRlZBU5o7o9GgliZXN0IDIwMTIaC2Jlc3QgcmV2aWV3GgxiZXN0IHJldmlld3MaBGdvb2QaBmdyYWRlZBoGcmFua2VkGgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoFc2NvcmUaB3Njb3JpbmcaBnRvcCAxMBoFdG9wIDUaCndoYXRzIGJlc3QaDGhpZ2hlc3RyYXRlZBoEYmVzdCpOCgxzbWFydHdhdGNoZXMVihtgQBoLc21hcnQgd2F0Y2gaDXNtYXJ0IHdhdGNoZXMaCnNtYXJ0d2F0Y2gaEWl2O3A7c21hcnR3YXRjaGVzKgoKA2ZvchUAAAAAKksKB2ZpdG5lc3MVpNCrPxoIYWN0aXZpdHkaCGV4ZXJjaXNlGgNneW0aB3dvcmtvdXQaCHdvcmtvdXRzGg9maXRuZXNzdHJhY2tpbmcqPAoIdHJhY2tpbmcVG3asPxoKbW9uaXRvcmluZxoFdHJhY2saB3RyYWNrZXIaD2ZpdG5lc3N0cmFja2luZzL4AS9nb3RvP3VybD1DQUVTclFFQjZ6c3dGYnM5Q1IxbE9TMEdONEJLZFQ5Ty1hRXFuUjlnMjRMWmpteEN1dVM1QjRUZndxSVRtdFN2dXVvdUFvSjFKQlJ3R01XMFUzRDVBMG5HeTJTVmw3N01jTkt5VTFRWlYzZ2FOcVdkU0szNkxnaHZzclZZRm1fTzJSaEREUE1CNjRYTjR4XzJwSzZNMGVmR2NYMmRCYnB4anBueENzOF9lY0dxb3RFQ0xEMURoaUFEbGtCalBuc1dnazk2SDZtcWJLX3B0NUVJUl9HVnAzQ0hPME02ZVB6Rm8yemlZUWtLQlJaNlNBOklJIFJhbiAzMCBNaWxlcyBXaXRoIDUgPGI-U21hcnR3YXRjaGVzPC9iPi4gSGVyZSYjMzk7cyB0aGUgT25lIFlvdSBDYW4gLi4uQp4BVGhlIDxiPkFwcGxlIFdhdGNoIFNlcmllcyAxMTwvYj4gd2FzIHRoZSBtb3N0IGFjY3VyYXRlIGhlYXJ0IHJhdGUgbW9uaXRvciBkdXJpbmcgd29ya291dHMuIFRoZSBHYXJtaW4gVmVudSA0JiMzOTtzIGhlYXJ0IHJhdGUgdHJhY2tpbmcgaGFzIG1vcmUgZGF0YSwmbmJzcDsuLi5KA2ZvclIDdG9wUgRiZXN0UgZ0b3AgMTBSBXRvcCA1IgIQAUgAWABoAA",
+      "source": "CNET"
+    },
+    {
+      "position": 4,
+      "title": "Best Activity & Fitness Trackers",
+      "link": "https://www.amazon.com/Best-Sellers-Activity-Fitness-Trackers/zgbs/sporting-goods/5393958011",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFfoXVj2ZowkdRCY8oVrVeVfXPU5gXx1rVTRMj2KiBtvzflrAazHZxsPOD__CTG-3-bM5iur0Sk-3oyUoumweozDtaLWMMLwBrqfod6TtWFCA6QGN6e_sWDZvu5J-6lkzZX14aXEAHfvocYdAEnB8wymkpehGrt3w40f4qCgS6fq-wPtDuYIqUdbpb-uWkDZC&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › zgbs › sporting-goods",
+      "snippet": "#1 Google Fitbit Inspire 3. Stress management, sleep tracking, 24/7 heart rate, 3 and Sleep Tracker, 14+ Days Battery Life",
+      "snippet_highlighted_words": [
+        "tracking",
+        "Tracker"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "#1 Google Fitbit Inspire 3. Stress management, sleep tracking, 24/7 heart rate, 3 and Sleep Tracker, 14+ Days Battery Life",
+          "source_info_link": "https://www.amazon.com/Best-Sellers-Activity-Fitness-Trackers/zgbs/sporting-goods/5393958011",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0Zmb1hWajJab3drZFJDWThvVnJWZVZmWFBVNWdYeDFyVlRSTWoyS2lCdHZ6ZmxyQWF6SFp4c1BPRF9fQ1RHLTMtYk01aXVyMFNrLTNveVVvdW13ZW96RHRhTFdNTUx3QnJxZm9kNlR0V0ZDQTZRR042ZV9zV0RadnU1Si02bGt6WlgxNGFYRUFIZnZvY1lkQUVuQjh3eW1rcGVoR3J0M3c0MGY0cUNnUzZmcS13UHREdVlJcVVkYnBiLXVXa0RaQxIEGgIIABrICBICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKIICAAQABgAIAAqogEKB2hpZ2hlc3QVAAAAABoEYmVzdBoJYmVzdCAyMDEyGgtiZXN0IHJldmlldxoMYmVzdCByZXZpZXdzGgRnb29kGgRoaWdoGgZoaWdobHkaB2xhcmdlc3QaBG1vc3QaCHJhbmtpbmdzGgtyZWNvbW1lbmRlZBoDdG9wGgZ0b3AgMTAaBXRvcCA1Ggp3aGF0cyBiZXN0GgxoaWdoZXN0cmF0ZWQquAEKBXJhdGVkFQAAAAAaCWJlc3QgMjAxMhoLYmVzdCByZXZpZXcaDGJlc3QgcmV2aWV3cxoEZ29vZBoGZ3JhZGVkGgZyYW5rZWQaB3JhbmtpbmcaCHJhbmtpbmdzGgZyYXRpbmcaB3JhdGluZ3MaC3JlY29tbWVuZGVkGgVzY29yZRoHc2NvcmluZxoGdG9wIDEwGgV0b3AgNRoKd2hhdHMgYmVzdBoMaGlnaGVzdHJhdGVkGgRiZXN0Kk4KDHNtYXJ0d2F0Y2hlcxVN_h4_GgtzbWFydCB3YXRjaBoNc21hcnQgd2F0Y2hlcxoKc21hcnR3YXRjaBoRaXY7cDtzbWFydHdhdGNoZXMqCgoDZm9yFQAAAAAqSwoHZml0bmVzcxVMDMVAGghhY3Rpdml0eRoIZXhlcmNpc2UaA2d5bRoHd29ya291dBoId29ya291dHMaD2ZpdG5lc3N0cmFja2luZyo8Cgh0cmFja2luZxUtM5c_Ggptb25pdG9yaW5nGgV0cmFjaxoHdHJhY2tlchoPZml0bmVzc3RyYWNraW5nMtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0Zmb1hWajJab3drZFJDWThvVnJWZVZmWFBVNWdYeDFyVlRSTWoyS2lCdHZ6ZmxyQWF6SFp4c1BPRF9fQ1RHLTMtYk01aXVyMFNrLTNveVVvdW13ZW96RHRhTFdNTUx3QnJxZm9kNlR0V0ZDQTZRR042ZV9zV0RadnU1Si02bGt6WlgxNGFYRUFIZnZvY1lkQUVuQjh3eW1rcGVoR3J0M3c0MGY0cUNnUzZmcS13UHREdVlJcVVkYnBiLXVXa0RaQzpOQW1hem9uIDxiPkJlc3Q8L2I-IFNlbGxlcnM6IDxiPkJlc3QgQWN0aXZpdHk8L2I-ICZhbXA7IDxiPkZpdG5lc3M8L2I-IFRyYWNrZXJzQogBIzEgR29vZ2xlIEZpdGJpdCBJbnNwaXJlIDMuIFN0cmVzcyBtYW5hZ2VtZW50LCBzbGVlcCA8Yj50cmFja2luZzwvYj4sIDI0LzcgaGVhcnQgcmF0ZSwgMyBhbmQgU2xlZXAgPGI-VHJhY2tlcjwvYj4sIDE0KyBEYXlzIEJhdHRlcnkgTGlmZUoDZm9yUgN0b3BSBGJlc3RSBnRvcCAxMFIFdG9wIDUiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0Zmb1hWajJab3drZFJDWThvVnJWZVZmWFBVNWdYeDFyVlRSTWoyS2lCdHZ6ZmxyQWF6SFp4c1BPRF9fQ1RHLTMtYk01aXVyMFNrLTNveVVvdW13ZW96RHRhTFdNTUx3QnJxZm9kNlR0V0ZDQTZRR042ZV9zV0RadnU1Si02bGt6WlgxNGFYRUFIZnZvY1lkQUVuQjh3eW1rcGVoR3J0M3c0MGY0cUNnUzZmcS13UHREdVlJcVVkYnBiLXVXa0RaQxIEGgIIABrICBICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKIICAAQABgAIAAqogEKB2hpZ2hlc3QVAAAAABoEYmVzdBoJYmVzdCAyMDEyGgtiZXN0IHJldmlldxoMYmVzdCByZXZpZXdzGgRnb29kGgRoaWdoGgZoaWdobHkaB2xhcmdlc3QaBG1vc3QaCHJhbmtpbmdzGgtyZWNvbW1lbmRlZBoDdG9wGgZ0b3AgMTAaBXRvcCA1Ggp3aGF0cyBiZXN0GgxoaWdoZXN0cmF0ZWQquAEKBXJhdGVkFQAAAAAaCWJlc3QgMjAxMhoLYmVzdCByZXZpZXcaDGJlc3QgcmV2aWV3cxoEZ29vZBoGZ3JhZGVkGgZyYW5rZWQaB3JhbmtpbmcaCHJhbmtpbmdzGgZyYXRpbmcaB3JhdGluZ3MaC3JlY29tbWVuZGVkGgVzY29yZRoHc2NvcmluZxoGdG9wIDEwGgV0b3AgNRoKd2hhdHMgYmVzdBoMaGlnaGVzdHJhdGVkGgRiZXN0Kk4KDHNtYXJ0d2F0Y2hlcxVN_h4_GgtzbWFydCB3YXRjaBoNc21hcnQgd2F0Y2hlcxoKc21hcnR3YXRjaBoRaXY7cDtzbWFydHdhdGNoZXMqCgoDZm9yFQAAAAAqSwoHZml0bmVzcxVMDMVAGghhY3Rpdml0eRoIZXhlcmNpc2UaA2d5bRoHd29ya291dBoId29ya291dHMaD2ZpdG5lc3N0cmFja2luZyo8Cgh0cmFja2luZxUtM5c_Ggptb25pdG9yaW5nGgV0cmFjaxoHdHJhY2tlchoPZml0bmVzc3RyYWNraW5nMtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0Zmb1hWajJab3drZFJDWThvVnJWZVZmWFBVNWdYeDFyVlRSTWoyS2lCdHZ6ZmxyQWF6SFp4c1BPRF9fQ1RHLTMtYk01aXVyMFNrLTNveVVvdW13ZW96RHRhTFdNTUx3QnJxZm9kNlR0V0ZDQTZRR042ZV9zV0RadnU1Si02bGt6WlgxNGFYRUFIZnZvY1lkQUVuQjh3eW1rcGVoR3J0M3c0MGY0cUNnUzZmcS13UHREdVlJcVVkYnBiLXVXa0RaQzpOQW1hem9uIDxiPkJlc3Q8L2I-IFNlbGxlcnM6IDxiPkJlc3QgQWN0aXZpdHk8L2I-ICZhbXA7IDxiPkZpdG5lc3M8L2I-IFRyYWNrZXJzQogBIzEgR29vZ2xlIEZpdGJpdCBJbnNwaXJlIDMuIFN0cmVzcyBtYW5hZ2VtZW50LCBzbGVlcCA8Yj50cmFja2luZzwvYj4sIDI0LzcgaGVhcnQgcmF0ZSwgMyBhbmQgU2xlZXAgPGI-VHJhY2tlcjwvYj4sIDE0KyBEYXlzIEJhdHRlcnkgTGlmZUoDZm9yUgN0b3BSBGJlc3RSBnRvcCAxMFIFdG9wIDUiAhABSABYAGgA",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 5,
+      "title": "Best Smartwatches For Sports & Health (Scientific Review)",
+      "link": "https://www.youtube.com/watch?v=e5tSe2gCVdY",
+      "displayed_link": "193.1K+ views · 11 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab3c054fd9b90fcb4ed8000/images/dKA65sCEcz4vXOxN6xKOjJJMPFMa_0rlay1b3O-oJKM.jpeg",
+      "snippet": "Best Smartwatches For Sports & Health (Scientific Review) Best Smartwatch and Health Tracker Deals in 2026! Best Pick for Every Person (Science ...",
+      "duration": "25:14",
+      "about_this_result": {
+        "source": {
+          "description": "Best Smartwatches For Sports & Health (Scientific Review) Best Smartwatch and Health Tracker Deals in 2026! Best Pick for Every Person (Science ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmVfa1luVFF6NkIwS2V2c0pLUDFWYUlhRmhNODVuTGh5cVQwZkJydE5sOWVydXR1N3p1M1o2c1k1MXhpWExKcUF1SWNLZHJReWlnTDhOTTNRUDNjbm0xWjBFalFmMjhicXE0S25jWXN6MmlORENCZHFsUjhwVG1yNE50M1U4URIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmVfa1luVFF6NkIwS2V2c0pLUDFWYUlhRmhNODVuTGh5cVQwZkJydE5sOWVydXR1N3p1M1o2c1k1MXhpWExKcUF1SWNLZHJReWlnTDhOTTNRUDNjbm0xWjBFalFmMjhicXE0S25jWXN6MmlORENCZHFsUjhwVG1yNE50M1U4URIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTeU41uFUAVregP0gfxZhd4v4_pJnQZTEKhRA",
+      "source": "YouTube · The Quantified Scientist"
+    },
+    {
+      "position": 6,
+      "title": "Best fitness tracker 2026: Reviewed, tested, and compared",
+      "link": "https://www.wareable.com/fitness-trackers/the-best-fitness-tracker",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVg4IVZWgvhgNCd38wx7LOKselkrKNUyU2dngBZat_TacGvscvWZG9bC_-grpQLpcBUhd9brLcMq2yr8hejGuOh66Z_zNxvndQ85wSYPrQpRAhW1PF46LzxeuPn78vUzAA8reRPHTCGcVhmxsGidjU2Xhl14wa&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQFnoECFUQAQ&uoh=1",
+      "displayed_link": "https://www.wareable.com › Features",
+      "snippet": "The best fitness trackers in smartwatch bodies · Huawei Watch Fit 4 · Amazfit Active 2 · Amazfit Bip 6.",
+      "snippet_highlighted_words": [
+        "Huawei Watch Fit 4"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Based on real-world testing...",
+            "link": "https://www.wareable.com/fitness-trackers/the-best-fitness-tracker#based-on-real-world-testing-we-summarize-the-top-options-to-help-you-smash-your-goals"
+          },
+          {
+            "title": "At a glance: Our picks of the...",
+            "link": "https://www.wareable.com/fitness-trackers/the-best-fitness-tracker#at-a-glance-our-picks-of-the-best-fitness-trackers"
+          },
+          {
+            "title": "Hume Band 2.0",
+            "link": "https://www.wareable.com/fitness-trackers/the-best-fitness-tracker#hume-band-20"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The best fitness trackers in smartwatch bodies · Huawei Watch Fit 4 · Amazfit Active 2 · Amazfit Bip 6.",
+          "source_info_link": "https://www.wareable.com/fitness-trackers/the-best-fitness-tracker",
+          "icon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAADwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwvgfoG8smFkIDbAXZLvHH-uIqkGstFFUJqcl4c7dYyTyb5lAKgAOR31cea39zgZpnWnDbCaVAfU_aANMf9vWvtQ0dHfpc9GeLN9FW0gRF__kgpg9o1v7N982wNo6n6KYTgnELEu21Nj_WC-6oidzoFWfFbyxwTVqs_uhgnHj6KNI6r31jRiQ2p6-kNHffMVKgMu4Gi_hnPqKXdrvAWMbDIvfNv38Vr0fZH3DU-0psaWFA4PaHiwPBPhegaG-c7UXnyDSJaNmH-rjftMv0mpzj-XJpBGf62oQUiSNXh6oArYwbWTtnPp9DV8Ni7_3_-XOsAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmc0SVZaV2d2aGdOQ2QzOHd4N0xPS3NlbGtyS05VeVUyZG5nQlphdF9UYWNHdnNjdldaRzliQ18tZ3JwUUxwY0JVaGQ5YnJMY01xMnlyOGhlakd1T2g2Nlpfek54dm5kUTg1d1NZUHJRcFJBaFcxUEY0Nkx6eGV1UG43OHZVekFBOHJlUlBIVENHY1ZobXhzR2lkalUyWGhsMTR3YRIEGgIIABqRCBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOsHCAAQABgAIAAqogEKB2hpZ2hlc3QVAAAAABoEYmVzdBoJYmVzdCAyMDEyGgtiZXN0IHJldmlldxoMYmVzdCByZXZpZXdzGgRnb29kGgRoaWdoGgZoaWdobHkaB2xhcmdlc3QaBG1vc3QaCHJhbmtpbmdzGgtyZWNvbW1lbmRlZBoDdG9wGgZ0b3AgMTAaBXRvcCA1Ggp3aGF0cyBiZXN0GgxoaWdoZXN0cmF0ZWQquAEKBXJhdGVkFQAAAAAaCWJlc3QgMjAxMhoLYmVzdCByZXZpZXcaDGJlc3QgcmV2aWV3cxoEZ29vZBoGZ3JhZGVkGgZyYW5rZWQaB3JhbmtpbmcaCHJhbmtpbmdzGgZyYXRpbmcaB3JhdGluZ3MaC3JlY29tbWVuZGVkGgVzY29yZRoHc2NvcmluZxoGdG9wIDEwGgV0b3AgNRoKd2hhdHMgYmVzdBoMaGlnaGVzdHJhdGVkGgRiZXN0Kk4KDHNtYXJ0d2F0Y2hlcxVbpaY_GgtzbWFydCB3YXRjaBoNc21hcnQgd2F0Y2hlcxoKc21hcnR3YXRjaBoRaXY7cDtzbWFydHdhdGNoZXMqCgoDZm9yFQAAAAAqSwoHZml0bmVzcxVk0NtAGghhY3Rpdml0eRoIZXhlcmNpc2UaA2d5bRoHd29ya291dBoId29ya291dHMaD2ZpdG5lc3N0cmFja2luZyo8Cgh0cmFja2luZxVcfUJAGgptb25pdG9yaW5nGgV0cmFjaxoHdHJhY2tlchoPZml0bmVzc3RyYWNraW5nMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmc0SVZaV2d2aGdOQ2QzOHd4N0xPS3NlbGtyS05VeVUyZG5nQlphdF9UYWNHdnNjdldaRzliQ18tZ3JwUUxwY0JVaGQ5YnJMY01xMnlyOGhlakd1T2g2Nlpfek54dm5kUTg1d1NZUHJRcFJBaFcxUEY0Nkx6eGV1UG43OHZVekFBOHJlUlBIVENHY1ZobXhzR2lkalUyWGhsMTR3YTpAPGI-QmVzdCBmaXRuZXNzIHRyYWNrZXI8L2I-IDIwMjY6IFJldmlld2VkLCB0ZXN0ZWQsIGFuZCBjb21wYXJlZEKDAVRoZSBiZXN0IGZpdG5lc3MgdHJhY2tlcnMgaW4gc21hcnR3YXRjaCBib2RpZXMgJm1pZGRvdDsgPGI-SHVhd2VpIFdhdGNoIEZpdCA0PC9iPiAmbWlkZG90OyBBbWF6Zml0IEFjdGl2ZSAyICZtaWRkb3Q7IEFtYXpmaXQgQmlwIDYuSgNmb3JSA3RvcFIEYmVzdFIGdG9wIDEwUgV0b3AgNSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmc0SVZaV2d2aGdOQ2QzOHd4N0xPS3NlbGtyS05VeVUyZG5nQlphdF9UYWNHdnNjdldaRzliQ18tZ3JwUUxwY0JVaGQ5YnJMY01xMnlyOGhlakd1T2g2Nlpfek54dm5kUTg1d1NZUHJRcFJBaFcxUEY0Nkx6eGV1UG43OHZVekFBOHJlUlBIVENHY1ZobXhzR2lkalUyWGhsMTR3YRIEGgIIABqRCBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOsHCAAQABgAIAAqogEKB2hpZ2hlc3QVAAAAABoEYmVzdBoJYmVzdCAyMDEyGgtiZXN0IHJldmlldxoMYmVzdCByZXZpZXdzGgRnb29kGgRoaWdoGgZoaWdobHkaB2xhcmdlc3QaBG1vc3QaCHJhbmtpbmdzGgtyZWNvbW1lbmRlZBoDdG9wGgZ0b3AgMTAaBXRvcCA1Ggp3aGF0cyBiZXN0GgxoaWdoZXN0cmF0ZWQquAEKBXJhdGVkFQAAAAAaCWJlc3QgMjAxMhoLYmVzdCByZXZpZXcaDGJlc3QgcmV2aWV3cxoEZ29vZBoGZ3JhZGVkGgZyYW5rZWQaB3JhbmtpbmcaCHJhbmtpbmdzGgZyYXRpbmcaB3JhdGluZ3MaC3JlY29tbWVuZGVkGgVzY29yZRoHc2NvcmluZxoGdG9wIDEwGgV0b3AgNRoKd2hhdHMgYmVzdBoMaGlnaGVzdHJhdGVkGgRiZXN0Kk4KDHNtYXJ0d2F0Y2hlcxVbpaY_GgtzbWFydCB3YXRjaBoNc21hcnQgd2F0Y2hlcxoKc21hcnR3YXRjaBoRaXY7cDtzbWFydHdhdGNoZXMqCgoDZm9yFQAAAAAqSwoHZml0bmVzcxVk0NtAGghhY3Rpdml0eRoIZXhlcmNpc2UaA2d5bRoHd29ya291dBoId29ya291dHMaD2ZpdG5lc3N0cmFja2luZyo8Cgh0cmFja2luZxVcfUJAGgptb25pdG9yaW5nGgV0cmFjaxoHdHJhY2tlchoPZml0bmVzc3RyYWNraW5nMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVmc0SVZaV2d2aGdOQ2QzOHd4N0xPS3NlbGtyS05VeVUyZG5nQlphdF9UYWNHdnNjdldaRzliQ18tZ3JwUUxwY0JVaGQ5YnJMY01xMnlyOGhlakd1T2g2Nlpfek54dm5kUTg1d1NZUHJRcFJBaFcxUEY0Nkx6eGV1UG43OHZVekFBOHJlUlBIVENHY1ZobXhzR2lkalUyWGhsMTR3YTpAPGI-QmVzdCBmaXRuZXNzIHRyYWNrZXI8L2I-IDIwMjY6IFJldmlld2VkLCB0ZXN0ZWQsIGFuZCBjb21wYXJlZEKDAVRoZSBiZXN0IGZpdG5lc3MgdHJhY2tlcnMgaW4gc21hcnR3YXRjaCBib2RpZXMgJm1pZGRvdDsgPGI-SHVhd2VpIFdhdGNoIEZpdCA0PC9iPiAmbWlkZG90OyBBbWF6Zml0IEFjdGl2ZSAyICZtaWRkb3Q7IEFtYXpmaXQgQmlwIDYuSgNmb3JSA3RvcFIEYmVzdFIGdG9wIDEwUgV0b3AgNSICEAFIAFgAaAA",
+      "source": "Wareable",
+      "read_more_link": "https://www.wareable.com/fitness-trackers/the-best-fitness-tracker#:~:text=The%20best%20fitness%20trackers%20in,smartwatch%20bodies&text=Huawei%20Watch%20Fit%204&text=Amazfit%20Active%202&text=Amazfit%20Bip%206"
+    },
+    {
+      "position": 7,
+      "title": "Smartwatch Devices & Accessories",
+      "link": "https://www.bestbuy.com/site/wearable-technology/smart-watches-accessories/pcmcat321000050003.c?id=pcmcat321000050003",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFbFxZC2ZzeoUVGaNoVnSL_y6acIP9G1oKtrJN6czmYW5uY3ztvwBvzij2Pf8OQ8ye8yV1W7NttLQk9Im8DBsaUxXYOr1Mxzba9zyf9uP1ZcPFr2C5Mo1MEKO3a_qU2aLRG0EFJr3fnNdN3E6QChhWYNbP-j7rC9eDp8IPawC2EeJjJcj7ouYLqXtHgEOKrZ9AkVMeWj2OjUL05aKnPSQuJnfupoLdVi6Yg&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQFnoECFcQAQ&uoh=1",
+      "displayed_link": "https://www.bestbuy.com › site › pcmcat321000050003",
+      "snippet": "Top-rated smartwatchesFind. Apple Watch, Samsung smartwatches and Pixel Watch. Brands like Fitbit and Garmin smartwatches offer alternatives that prioritize ...",
+      "snippet_highlighted_words": [
+        "Apple Watch, Samsung smartwatches and Pixel Watch"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "price_from": 80,
+            "price_to": 799,
+            "currency": "$",
+            "store_nearby_mi": 10.6,
+            "day_returns": 15
+          },
+          "extensions": [
+            "4.6",
+            "store rating (1.8K)",
+            "$80 to $799",
+            "Store nearby (10.6 mi)",
+            "15-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Top-rated smartwatchesFind. Apple Watch, Samsung smartwatches and Pixel Watch. Brands like Fitbit and Garmin smartwatches offer alternatives that prioritize ...",
+          "source_info_link": "https://www.bestbuy.com/site/wearable-technology/smart-watches-accessories/pcmcat321000050003.c?id=pcmcat321000050003",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZiRnhaQzJaemVvVVZHYU5vVm5TTF95NmFjSVA5RzFvS3RySk42Y3ptWVc1dVkzenR2d0J2emlqMlBmOE9ROHllOHlWMVc3TnR0TFFrOUltOERCc2FVeFhZT3IxTXh6YmE5enlmOXVQMVpjUEZyMkM1TW8xTUVLTzNhX3FVMmFMUkcwRUZKcjNmbk5kTjNFNlFDaGhXWU5iUC1qN3JDOWVEcDhJUGF3QzJFZUpqSmNqN291WUxxWHRIZ0VPS3JaOUFrVk1lV2oyT2pVTDA1YUtuUFNRdUpuZnVwb0xkVmk2WWcSBBoCCAAa_QgSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDXCAgAEAAYACAAKqIBCgdoaWdoZXN0FQAAAAAaBGJlc3QaCWJlc3QgMjAxMhoLYmVzdCByZXZpZXcaDGJlc3QgcmV2aWV3cxoEZ29vZBoEaGlnaBoGaGlnaGx5GgdsYXJnZXN0GgRtb3N0GghyYW5raW5ncxoLcmVjb21tZW5kZWQaA3RvcBoGdG9wIDEwGgV0b3AgNRoKd2hhdHMgYmVzdBoMaGlnaGVzdHJhdGVkKrgBCgVyYXRlZBVuFvw_GgliZXN0IDIwMTIaC2Jlc3QgcmV2aWV3GgxiZXN0IHJldmlld3MaBGdvb2QaBmdyYWRlZBoGcmFua2VkGgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoFc2NvcmUaB3Njb3JpbmcaBnRvcCAxMBoFdG9wIDUaCndoYXRzIGJlc3QaDGhpZ2hlc3RyYXRlZBoEYmVzdCpOCgxzbWFydHdhdGNoZXMVJnLFPxoLc21hcnQgd2F0Y2gaDXNtYXJ0IHdhdGNoZXMaCnNtYXJ0d2F0Y2gaEWl2O3A7c21hcnR3YXRjaGVzKgoKA2ZvchUAAAAAKksKB2ZpdG5lc3MVtEYzPxoIYWN0aXZpdHkaCGV4ZXJjaXNlGgNneW0aB3dvcmtvdXQaCHdvcmtvdXRzGg9maXRuZXNzdHJhY2tpbmcqPAoIdHJhY2tpbmcV0W_aPBoKbW9uaXRvcmluZxoFdHJhY2saB3RyYWNrZXIaD2ZpdG5lc3N0cmFja2luZzL4AS9nb3RvP3VybD1DQUVTclFFQjZ6c3dGYkZ4WkMyWnplb1VWR2FOb1ZuU0xfeTZhY0lQOUcxb0t0ckpONmN6bVlXNXVZM3p0dndCdnppajJQZjhPUTh5ZTh5VjFXN050dExRazlJbThEQnNhVXhYWU9yMU14emJhOXp5Zjl1UDFaY1BGcjJDNU1vMU1FS08zYV9xVTJhTFJHMEVGSnIzZm5OZE4zRTZRQ2hoV1lOYlAtajdyQzllRHA4SVBhd0MyRWVKakpjajdvdVlMcVh0SGdFT0tyWjlBa1ZNZVdqMk9qVUwwNWFLblBTUXVKbmZ1cG9MZFZpNllnOj08Yj5TbWFydHdhdGNoPC9iPiBEZXZpY2VzICZhbXA7IEFjY2Vzc29yaWVzIC0gPGI-QmVzdDwvYj4gQnV5QqwBVG9wLXJhdGVkIHNtYXJ0d2F0Y2hlc0ZpbmQuIDxiPkFwcGxlIFdhdGNoLCBTYW1zdW5nIHNtYXJ0d2F0Y2hlcyBhbmQgUGl4ZWwgV2F0Y2g8L2I-LiBCcmFuZHMgbGlrZSBGaXRiaXQgYW5kIEdhcm1pbiBzbWFydHdhdGNoZXMgb2ZmZXIgYWx0ZXJuYXRpdmVzIHRoYXQgcHJpb3JpdGl6ZSZuYnNwOy4uLkoDZm9yUgN0b3BSBGJlc3RSBnRvcCAxMFIFdG9wIDUiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZiRnhaQzJaemVvVVZHYU5vVm5TTF95NmFjSVA5RzFvS3RySk42Y3ptWVc1dVkzenR2d0J2emlqMlBmOE9ROHllOHlWMVc3TnR0TFFrOUltOERCc2FVeFhZT3IxTXh6YmE5enlmOXVQMVpjUEZyMkM1TW8xTUVLTzNhX3FVMmFMUkcwRUZKcjNmbk5kTjNFNlFDaGhXWU5iUC1qN3JDOWVEcDhJUGF3QzJFZUpqSmNqN291WUxxWHRIZ0VPS3JaOUFrVk1lV2oyT2pVTDA1YUtuUFNRdUpuZnVwb0xkVmk2WWcSBBoCCAAa_QgSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDXCAgAEAAYACAAKqIBCgdoaWdoZXN0FQAAAAAaBGJlc3QaCWJlc3QgMjAxMhoLYmVzdCByZXZpZXcaDGJlc3QgcmV2aWV3cxoEZ29vZBoEaGlnaBoGaGlnaGx5GgdsYXJnZXN0GgRtb3N0GghyYW5raW5ncxoLcmVjb21tZW5kZWQaA3RvcBoGdG9wIDEwGgV0b3AgNRoKd2hhdHMgYmVzdBoMaGlnaGVzdHJhdGVkKrgBCgVyYXRlZBVuFvw_GgliZXN0IDIwMTIaC2Jlc3QgcmV2aWV3GgxiZXN0IHJldmlld3MaBGdvb2QaBmdyYWRlZBoGcmFua2VkGgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoFc2NvcmUaB3Njb3JpbmcaBnRvcCAxMBoFdG9wIDUaCndoYXRzIGJlc3QaDGhpZ2hlc3RyYXRlZBoEYmVzdCpOCgxzbWFydHdhdGNoZXMVJnLFPxoLc21hcnQgd2F0Y2gaDXNtYXJ0IHdhdGNoZXMaCnNtYXJ0d2F0Y2gaEWl2O3A7c21hcnR3YXRjaGVzKgoKA2ZvchUAAAAAKksKB2ZpdG5lc3MVtEYzPxoIYWN0aXZpdHkaCGV4ZXJjaXNlGgNneW0aB3dvcmtvdXQaCHdvcmtvdXRzGg9maXRuZXNzdHJhY2tpbmcqPAoIdHJhY2tpbmcV0W_aPBoKbW9uaXRvcmluZxoFdHJhY2saB3RyYWNrZXIaD2ZpdG5lc3N0cmFja2luZzL4AS9nb3RvP3VybD1DQUVTclFFQjZ6c3dGYkZ4WkMyWnplb1VWR2FOb1ZuU0xfeTZhY0lQOUcxb0t0ckpONmN6bVlXNXVZM3p0dndCdnppajJQZjhPUTh5ZTh5VjFXN050dExRazlJbThEQnNhVXhYWU9yMU14emJhOXp5Zjl1UDFaY1BGcjJDNU1vMU1FS08zYV9xVTJhTFJHMEVGSnIzZm5OZE4zRTZRQ2hoV1lOYlAtajdyQzllRHA4SVBhd0MyRWVKakpjajdvdVlMcVh0SGdFT0tyWjlBa1ZNZVdqMk9qVUwwNWFLblBTUXVKbmZ1cG9MZFZpNllnOj08Yj5TbWFydHdhdGNoPC9iPiBEZXZpY2VzICZhbXA7IEFjY2Vzc29yaWVzIC0gPGI-QmVzdDwvYj4gQnV5QqwBVG9wLXJhdGVkIHNtYXJ0d2F0Y2hlc0ZpbmQuIDxiPkFwcGxlIFdhdGNoLCBTYW1zdW5nIHNtYXJ0d2F0Y2hlcyBhbmQgUGl4ZWwgV2F0Y2g8L2I-LiBCcmFuZHMgbGlrZSBGaXRiaXQgYW5kIEdhcm1pbiBzbWFydHdhdGNoZXMgb2ZmZXIgYWx0ZXJuYXRpdmVzIHRoYXQgcHJpb3JpdGl6ZSZuYnNwOy4uLkoDZm9yUgN0b3BSBGJlc3RSBnRvcCAxMFIFdG9wIDUiAhABSABYAGgA",
+      "source": "Best Buy"
+    },
+    {
+      "position": 8,
+      "title": "What are the best fitness watches? We test 10 smartwatches ...",
+      "link": "https://mensfitness.co.uk/review/best-fitness-watches/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVqRn10Va8hNdilrplfUuGOZFj4ccUfkA-upg2mf2QzXAKv5h3VSMXLRpNeWO3iT5rL9f93i0f16sKnb46BBoGfV4UdZn_3DYGZdomlS8gp_YamqruUBuYRrJ6xNpNvpechz9aOyHjKPic&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQFnoECFwQAQ&uoh=1",
+      "displayed_link": "https://mensfitness.co.uk › Reviews",
+      "date": "Sep 15, 2026",
+      "snippet": "Garmin Forerunner 970 is currently the best overall fitness watch thanks to its training insights, GPS accuracy and advanced running metrics.",
+      "snippet_highlighted_words": [
+        "Garmin Forerunner 970"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best fitness watches at a glance",
+            "link": "https://mensfitness.co.uk/review/best-fitness-watches/#best-fitness-watches-at-a-glance"
+          },
+          {
+            "title": "Huawei Watch Fit 4 Pro",
+            "link": "https://mensfitness.co.uk/review/best-fitness-watches/#h-5-huawei-watch-fit-4-pro"
+          },
+          {
+            "title": "Apple Watch Ultra 3",
+            "link": "https://mensfitness.co.uk/review/best-fitness-watches/#h-7-apple-watch-ultra-3"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Garmin Forerunner 970 is currently the best overall fitness watch thanks to its training insights, GPS accuracy and advanced running metrics.",
+          "source_info_link": "https://mensfitness.co.uk/review/best-fitness-watches/",
+          "icon": "https://serpapi.com/images/i/UklGRmIBAABXRUJQVlA4IFYBAADwBwCdASogACAAPrkurlcnIacnG_DgFwlsAJ0y7EqqgrnwZPbO6H_6HfqNfwD-q8DEUAAewn1A8fxM1aq-DMx1otnIx4lFdGAA_tkpugk5p8yx0I2z_K7vvnpesolfzgCt9-9WaO6EB9IbnZIYyikF2P0Rz9TWKFwn_-W_hxeuG4_rvTIfZJfD2VI5k87OpQL8HPUavfuCW8GUoV6iYYpufJrs-ZP7__Ka94wqHZp2XZE71-TfOwON5NLg4Q0VOPYJN0EeIO6GgPycQfZ25Azn_Jx4urWbQNaH5vSaRV8chYIWYjGHvPIi5PHllfJ46f5RdZqzWtc7X5yh_rxkuigQUcJnFwDuTPo3nUvDkcaWP3Uz3jVR8pzGdq8WEv6NP-CvTJvvqk1Ks48oNmlmX7uKyYr6RbK5nJarLafbkzwfv8X_5_F_5nCxXd0qvVzyU5tHS_jkAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnFSbjEwVmE4aE5kaWxycGxmVXVHT1pGajRjY1Vma0EtdXBnMm1mMlF6WEFLdjVoM1ZTTVhMUnBOZVdPM2lUNXJMOWY5M2kwZjE2c0tuYjQ2QkJvR2ZWNFVkWm5fM0RZR1pkb21sUzhncF9ZYW1xcnVVQnVZUnJKNnhOcE52cGVjaHo5YU95SGpLUGljEgQaAggAGp4IEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA-AcIABAAGAAgACqiAQoHaGlnaGVzdBUAAAAAGgRiZXN0GgliZXN0IDIwMTIaC2Jlc3QgcmV2aWV3GgxiZXN0IHJldmlld3MaBGdvb2QaBGhpZ2gaBmhpZ2hseRoHbGFyZ2VzdBoEbW9zdBoIcmFua2luZ3MaC3JlY29tbWVuZGVkGgN0b3AaBnRvcCAxMBoFdG9wIDUaCndoYXRzIGJlc3QaDGhpZ2hlc3RyYXRlZCq4AQoFcmF0ZWQVAAAAABoJYmVzdCAyMDEyGgtiZXN0IHJldmlldxoMYmVzdCByZXZpZXdzGgRnb29kGgZncmFkZWQaBnJhbmtlZBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBXNjb3JlGgdzY29yaW5nGgZ0b3AgMTAaBXRvcCA1Ggp3aGF0cyBiZXN0GgxoaWdoZXN0cmF0ZWQaBGJlc3QqTgoMc21hcnR3YXRjaGVzFSUYdUAaC3NtYXJ0IHdhdGNoGg1zbWFydCB3YXRjaGVzGgpzbWFydHdhdGNoGhFpdjtwO3NtYXJ0d2F0Y2hlcyoKCgNmb3IVAAAAACpLCgdmaXRuZXNzFWxIyEAaCGFjdGl2aXR5GghleGVyY2lzZRoDZ3ltGgd3b3Jrb3V0Ggh3b3Jrb3V0cxoPZml0bmVzc3RyYWNraW5nKjwKCHRyYWNraW5nFQBIGEAaCm1vbml0b3JpbmcaBXRyYWNrGgd0cmFja2VyGg9maXRuZXNzdHJhY2tpbmcyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWcVJuMTBWYThoTmRpbHJwbGZVdUdPWkZqNGNjVWZrQS11cGcybWYyUXpYQUt2NWgzVlNNWExScE5lV08zaVQ1ckw5ZjkzaTBmMTZzS25iNDZCQm9HZlY0VWRabl8zRFlHWmRvbWxTOGdwX1lhbXFydVVCdVlScko2eE5wTnZwZWNoejlhT3lIaktQaWM6TFdoYXQgYXJlIHRoZSA8Yj5iZXN0IGZpdG5lc3M8L2I-IHdhdGNoZXM_IFdlIHRlc3QgMTAgPGI-c21hcnR3YXRjaGVzPC9iPiAuLi5ClAE8Yj5HYXJtaW4gRm9yZXJ1bm5lciA5NzA8L2I-IGlzIGN1cnJlbnRseSB0aGUgYmVzdCBvdmVyYWxsIGZpdG5lc3Mgd2F0Y2ggdGhhbmtzIHRvIGl0cyB0cmFpbmluZyBpbnNpZ2h0cywgR1BTIGFjY3VyYWN5IGFuZCBhZHZhbmNlZCBydW5uaW5nIG1ldHJpY3MuSgNmb3JSBnRvcCAxMFIEYmVzdFIDdG9wUgV0b3AgNSICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnFSbjEwVmE4aE5kaWxycGxmVXVHT1pGajRjY1Vma0EtdXBnMm1mMlF6WEFLdjVoM1ZTTVhMUnBOZVdPM2lUNXJMOWY5M2kwZjE2c0tuYjQ2QkJvR2ZWNFVkWm5fM0RZR1pkb21sUzhncF9ZYW1xcnVVQnVZUnJKNnhOcE52cGVjaHo5YU95SGpLUGljEgQaAggAGp4IEgIIABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA-AcIABAAGAAgACqiAQoHaGlnaGVzdBUAAAAAGgRiZXN0GgliZXN0IDIwMTIaC2Jlc3QgcmV2aWV3GgxiZXN0IHJldmlld3MaBGdvb2QaBGhpZ2gaBmhpZ2hseRoHbGFyZ2VzdBoEbW9zdBoIcmFua2luZ3MaC3JlY29tbWVuZGVkGgN0b3AaBnRvcCAxMBoFdG9wIDUaCndoYXRzIGJlc3QaDGhpZ2hlc3RyYXRlZCq4AQoFcmF0ZWQVAAAAABoJYmVzdCAyMDEyGgtiZXN0IHJldmlldxoMYmVzdCByZXZpZXdzGgRnb29kGgZncmFkZWQaBnJhbmtlZBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBXNjb3JlGgdzY29yaW5nGgZ0b3AgMTAaBXRvcCA1Ggp3aGF0cyBiZXN0GgxoaWdoZXN0cmF0ZWQaBGJlc3QqTgoMc21hcnR3YXRjaGVzFSUYdUAaC3NtYXJ0IHdhdGNoGg1zbWFydCB3YXRjaGVzGgpzbWFydHdhdGNoGhFpdjtwO3NtYXJ0d2F0Y2hlcyoKCgNmb3IVAAAAACpLCgdmaXRuZXNzFWxIyEAaCGFjdGl2aXR5GghleGVyY2lzZRoDZ3ltGgd3b3Jrb3V0Ggh3b3Jrb3V0cxoPZml0bmVzc3RyYWNraW5nKjwKCHRyYWNraW5nFQBIGEAaCm1vbml0b3JpbmcaBXRyYWNrGgd0cmFja2VyGg9maXRuZXNzdHJhY2tpbmcyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWcVJuMTBWYThoTmRpbHJwbGZVdUdPWkZqNGNjVWZrQS11cGcybWYyUXpYQUt2NWgzVlNNWExScE5lV08zaVQ1ckw5ZjkzaTBmMTZzS25iNDZCQm9HZlY0VWRabl8zRFlHWmRvbWxTOGdwX1lhbXFydVVCdVlScko2eE5wTnZwZWNoejlhT3lIaktQaWM6TFdoYXQgYXJlIHRoZSA8Yj5iZXN0IGZpdG5lc3M8L2I-IHdhdGNoZXM_IFdlIHRlc3QgMTAgPGI-c21hcnR3YXRjaGVzPC9iPiAuLi5ClAE8Yj5HYXJtaW4gRm9yZXJ1bm5lciA5NzA8L2I-IGlzIGN1cnJlbnRseSB0aGUgYmVzdCBvdmVyYWxsIGZpdG5lc3Mgd2F0Y2ggdGhhbmtzIHRvIGl0cyB0cmFpbmluZyBpbnNpZ2h0cywgR1BTIGFjY3VyYWN5IGFuZCBhZHZhbmNlZCBydW5uaW5nIG1ldHJpY3MuSgNmb3JSBnRvcCAxMFIEYmVzdFIDdG9wUgV0b3AgNSICEAFIAFgAaAA",
+      "source": "mensfitness.co.uk"
+    },
+    {
+      "position": 9,
+      "title": "Best Smartwatches and Fitness Trackers of 2026",
+      "link": "https://www.consumerreports.org/electronics-computers/smartwatches-fitness-trackers/best-smartwatches-of-the-year-a7491608600/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEB6zswFZyy2kcKtO5fyjM3dn3EDgNQ7rIf1VMfuVoj9aFp9ODSDmX9LwEzhZmVsg7Aq95BWhuavD2fZQ_H3NZX40GvDvRVK9EpQYCkG-tE6lsdI5aYn_DqDYNv_4KufGg0X_LzS3sFLmFX8eHTDi-fM1eElnW-XuSG_rW9dHTyjbPAt64-2WjAIU2XjFJxoq1ur9B4NE2BM8X-xV8MuH4UmSEjCxtQCqU25meFF9NG8zQZDrQD-g&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQFnoECFgQAQ&uoh=1",
+      "displayed_link": "https://www.consumerreports.org › electronics-computers",
+      "date": "Sep 9, 2026",
+      "snippet": "Apple Watch SE 3, the Samsung Galaxy Watch Ultra, and the Google Pixel Watch Smartwatches that have aced Consumer Reports' testing include ...",
+      "snippet_highlighted_words": [
+        "Smartwatches"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Apple Watch SE 3, the Samsung Galaxy Watch Ultra, and the Google Pixel Watch Smartwatches that have aced Consumer Reports' testing include ...",
+          "source_info_link": "https://www.consumerreports.org/electronics-computers/smartwatches-fitness-trackers/best-smartwatches-of-the-year-a7491608600/",
+          "icon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAADQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0OIr3lPyZjtA0gTOQv9nJ49q3NCne0XVDIPVOA50pBr7u_yygA_vYFvx6M4O-Pu5Tj302A6Jqff1WxToWkZ1wJgKHntdvyoCMmVBUxMaHJmmrF8NFW-2uXHqbz-DMVsBSZt1mvflY23GUgLVNDchuGzv_llXSt2w40bMZsFCdxLuzKACnb3Bspf-tplIhPB115upswLn4_FvMMypiycF5iljsfgDoDyInV1KfkCtuHz03iKdsfzJT382s1EgX16hcWh_I3ia563Abw_5Ubn50uPf2VRJ9Xd__MIG1dptck9LqjHJ6O6tXSlcp6NxXHlh6rV_eiLCV4mucMvSpc137lvyQ6p5J4jkJM5kv_maPpOSs9DRskzjwl7EQA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCNnpzd0ZaeXkya2NLdE81ZnlqTTNkbjNFRGdOUTdySWYxVk1mdVZvajlhRnA5T0RTRG1YOUx3RXpoWm1Wc2c3QXE5NUJXaHVhdkQyZlpRX0gzTlpYNDBHdkR2UlZLOUVwUVlDa0ctdEU2bHNkSTVhWW5fRHFEWU52XzRLdWZHZzBYX0x6UzNzRkxtRlg4ZUhURGktZk0xZUVsblctWHVTR19yVzlkSFR5amJQQXQ2NC0yV2pBSVUyWGpGSnhvcTF1cjlCNE5FMkJNOFgteFY4TXVINFVtU0VqQ3h0UUNxVTI1bWVGRjlORzh6UVpEclFELWcSBBoCCAAa-ggSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDUCAgAEAAYACAAKqIBCgdoaWdoZXN0FQAAAAAaBGJlc3QaCWJlc3QgMjAxMhoLYmVzdCByZXZpZXcaDGJlc3QgcmV2aWV3cxoEZ29vZBoEaGlnaBoGaGlnaGx5GgdsYXJnZXN0GgRtb3N0GghyYW5raW5ncxoLcmVjb21tZW5kZWQaA3RvcBoGdG9wIDEwGgV0b3AgNRoKd2hhdHMgYmVzdBoMaGlnaGVzdHJhdGVkKrgBCgVyYXRlZBUAAAAAGgliZXN0IDIwMTIaC2Jlc3QgcmV2aWV3GgxiZXN0IHJldmlld3MaBGdvb2QaBmdyYWRlZBoGcmFua2VkGgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoFc2NvcmUaB3Njb3JpbmcaBnRvcCAxMBoFdG9wIDUaCndoYXRzIGJlc3QaDGhpZ2hlc3RyYXRlZBoEYmVzdCpOCgxzbWFydHdhdGNoZXMVFkWhQBoLc21hcnQgd2F0Y2gaDXNtYXJ0IHdhdGNoZXMaCnNtYXJ0d2F0Y2gaEWl2O3A7c21hcnR3YXRjaGVzKgoKA2ZvchUAAAAAKksKB2ZpdG5lc3MVWVmjQBoIYWN0aXZpdHkaCGV4ZXJjaXNlGgNneW0aB3dvcmtvdXQaCHdvcmtvdXRzGg9maXRuZXNzdHJhY2tpbmcqPAoIdHJhY2tpbmcV4x6TPhoKbW9uaXRvcmluZxoFdHJhY2saB3RyYWNrZXIaD2ZpdG5lc3N0cmFja2luZzKEAi9nb3RvP3VybD1DQUVTdGdFQjZ6c3dGWnl5MmtjS3RPNWZ5ak0zZG4zRURnTlE3cklmMVZNZnVWb2o5YUZwOU9EU0RtWDlMd0V6aFptVnNnN0FxOTVCV2h1YXZEMmZaUV9IM05aWDQwR3ZEdlJWSzlFcFFZQ2tHLXRFNmxzZEk1YVluX0RxRFlOdl80S3VmR2cwWF9MelMzc0ZMbUZYOGVIVERpLWZNMWVFbG5XLVh1U0dfclc5ZEhUeWpiUEF0NjQtMldqQUlVMlhqRkp4b3ExdXI5QjRORTJCTThYLXhWOE11SDRVbVNFakN4dFFDcVUyNW1lRkY5Tkc4elFaRHJRRC1nOjw8Yj5CZXN0IFNtYXJ0d2F0Y2hlczwvYj4gYW5kIDxiPkZpdG5lc3M8L2I-IFRyYWNrZXJzIG9mIDIwMjZCngFBcHBsZSBXYXRjaCBTRSAzLCB0aGUgU2Ftc3VuZyBHYWxheHkgV2F0Y2ggVWx0cmEsIGFuZCB0aGUgR29vZ2xlIFBpeGVsIFdhdGNoIDxiPlNtYXJ0d2F0Y2hlczwvYj4gdGhhdCBoYXZlIGFjZWQgQ29uc3VtZXIgUmVwb3J0cyYjMzk7IHRlc3RpbmcgaW5jbHVkZSZuYnNwOy4uLkoDZm9yUgV0b3AgNVIGdG9wIDEwUgRiZXN0UgN0b3AiAhABKhtXcml0ZXIgZm9yIENvbnN1bWVyIFJlcG9ydHNIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCNnpzd0ZaeXkya2NLdE81ZnlqTTNkbjNFRGdOUTdySWYxVk1mdVZvajlhRnA5T0RTRG1YOUx3RXpoWm1Wc2c3QXE5NUJXaHVhdkQyZlpRX0gzTlpYNDBHdkR2UlZLOUVwUVlDa0ctdEU2bHNkSTVhWW5fRHFEWU52XzRLdWZHZzBYX0x6UzNzRkxtRlg4ZUhURGktZk0xZUVsblctWHVTR19yVzlkSFR5amJQQXQ2NC0yV2pBSVUyWGpGSnhvcTF1cjlCNE5FMkJNOFgteFY4TXVINFVtU0VqQ3h0UUNxVTI1bWVGRjlORzh6UVpEclFELWcSBBoCCAAa-ggSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDUCAgAEAAYACAAKqIBCgdoaWdoZXN0FQAAAAAaBGJlc3QaCWJlc3QgMjAxMhoLYmVzdCByZXZpZXcaDGJlc3QgcmV2aWV3cxoEZ29vZBoEaGlnaBoGaGlnaGx5GgdsYXJnZXN0GgRtb3N0GghyYW5raW5ncxoLcmVjb21tZW5kZWQaA3RvcBoGdG9wIDEwGgV0b3AgNRoKd2hhdHMgYmVzdBoMaGlnaGVzdHJhdGVkKrgBCgVyYXRlZBUAAAAAGgliZXN0IDIwMTIaC2Jlc3QgcmV2aWV3GgxiZXN0IHJldmlld3MaBGdvb2QaBmdyYWRlZBoGcmFua2VkGgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoFc2NvcmUaB3Njb3JpbmcaBnRvcCAxMBoFdG9wIDUaCndoYXRzIGJlc3QaDGhpZ2hlc3RyYXRlZBoEYmVzdCpOCgxzbWFydHdhdGNoZXMVFkWhQBoLc21hcnQgd2F0Y2gaDXNtYXJ0IHdhdGNoZXMaCnNtYXJ0d2F0Y2gaEWl2O3A7c21hcnR3YXRjaGVzKgoKA2ZvchUAAAAAKksKB2ZpdG5lc3MVWVmjQBoIYWN0aXZpdHkaCGV4ZXJjaXNlGgNneW0aB3dvcmtvdXQaCHdvcmtvdXRzGg9maXRuZXNzdHJhY2tpbmcqPAoIdHJhY2tpbmcV4x6TPhoKbW9uaXRvcmluZxoFdHJhY2saB3RyYWNrZXIaD2ZpdG5lc3N0cmFja2luZzKEAi9nb3RvP3VybD1DQUVTdGdFQjZ6c3dGWnl5MmtjS3RPNWZ5ak0zZG4zRURnTlE3cklmMVZNZnVWb2o5YUZwOU9EU0RtWDlMd0V6aFptVnNnN0FxOTVCV2h1YXZEMmZaUV9IM05aWDQwR3ZEdlJWSzlFcFFZQ2tHLXRFNmxzZEk1YVluX0RxRFlOdl80S3VmR2cwWF9MelMzc0ZMbUZYOGVIVERpLWZNMWVFbG5XLVh1U0dfclc5ZEhUeWpiUEF0NjQtMldqQUlVMlhqRkp4b3ExdXI5QjRORTJCTThYLXhWOE11SDRVbVNFakN4dFFDcVUyNW1lRkY5Tkc4elFaRHJRRC1nOjw8Yj5CZXN0IFNtYXJ0d2F0Y2hlczwvYj4gYW5kIDxiPkZpdG5lc3M8L2I-IFRyYWNrZXJzIG9mIDIwMjZCngFBcHBsZSBXYXRjaCBTRSAzLCB0aGUgU2Ftc3VuZyBHYWxheHkgV2F0Y2ggVWx0cmEsIGFuZCB0aGUgR29vZ2xlIFBpeGVsIFdhdGNoIDxiPlNtYXJ0d2F0Y2hlczwvYj4gdGhhdCBoYXZlIGFjZWQgQ29uc3VtZXIgUmVwb3J0cyYjMzk7IHRlc3RpbmcgaW5jbHVkZSZuYnNwOy4uLkoDZm9yUgV0b3AgNVIGdG9wIDEwUgRiZXN0UgN0b3AiAhABKhtXcml0ZXIgZm9yIENvbnN1bWVyIFJlcG9ydHNIAFgAaAA",
+      "source": "Consumer Reports",
+      "read_more_link": "https://www.consumerreports.org/electronics-computers/smartwatches-fitness-trackers/best-smartwatches-of-the-year-a7491608600/#:~:text=Smartwatches%20that%20have%20aced%20Consumer,from%20Apple%2C%20Samsung%2C%20and%20Google."
+    },
+    {
+      "position": 10,
+      "title": "Smartwatch Awards 2025! (Best by Category)",
+      "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4",
+      "displayed_link": "705.2K+ views · 10 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiECUj3qZLAK81zwETuS-E7jg8JG44W63lJDApMtHzm34IidnkphI5QQ&s",
+      "snippet": "Try The WHOOP MG For Free · Pixel Watch 4 · Garmin Fenix 8 Pro · Garmin Instinct Crossover (hybrid) · Withing Scanwatch Nova ...",
+      "duration": "20:52",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "These are the 2025 Smartwatch awards!",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=0"
+        },
+        {
+          "time": "01:08",
+          "title": "Best Hybrid Smartwatch",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=68"
+        },
+        {
+          "time": "03:45",
+          "title": "Best-looking Smartwatch",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=225"
+        },
+        {
+          "time": "04:30",
+          "title": "Best Minimal Smart Band",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=270"
+        },
+        {
+          "time": "05:50",
+          "title": "Best Fitness Watch",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=350"
+        },
+        {
+          "time": "07:45",
+          "title": "Best for Health & Longevity Tracking",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=465"
+        },
+        {
+          "time": "09:30",
+          "title": "Best Battery Life",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=570"
+        },
+        {
+          "time": "10:25",
+          "title": "Best Smartwatch For Women (and small wrists)",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=625"
+        },
+        {
+          "time": "10:48",
+          "title": "Best Smartwatch for Kids",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=648"
+        },
+        {
+          "time": "13:10",
+          "title": "Best Smartwatch for the Elderly",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=790"
+        },
+        {
+          "time": "14:30",
+          "title": "Biggest Flop of 2025",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=870"
+        },
+        {
+          "time": "15:50",
+          "title": "Best Budget Smartwatch",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=950"
+        },
+        {
+          "time": "17:12",
+          "title": "Best Value Smartwatch (midrange)",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=1032"
+        },
+        {
+          "time": "18:30",
+          "title": "Best Overall Smartwatch for Android",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=1110"
+        },
+        {
+          "time": "20:00",
+          "title": "Best Overall Smartwatch for iPhone",
+          "link": "https://www.youtube.com/watch?v=hWAIkPWMoi4&t=1200"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Try The WHOOP MG For Free · Pixel Watch 4 · Garmin Fenix 8 Pro · Garmin Instinct Crossover (hybrid) · Withing Scanwatch Nova ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjV5WHV3RS1Ba2JoZk1ORnRocTduNkRUX2JTdi1xd3hQTG9mY2dHOHhGMzFpZ0xFS2VzRkVEZ3BHN0dVYmpsUS1heWt2Mi04aDd1bHRMYnRBR3liempWZVFnMTlCVXlBODI0MmhJdmMzSkl2ZkRDb1ZCWlFhUk1tUWZjZk1ydxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVjV5WHV3RS1Ba2JoZk1ORnRocTduNkRUX2JTdi1xd3hQTG9mY2dHOHhGMzFpZ0xFS2VzRkVEZ3BHN0dVYmpsUS1heWt2Mi04aDd1bHRMYnRBR3liempWZVFnMTlCVXlBODI0MmhJdmMzSkl2ZkRDb1ZCWlFhUk1tUWZjZk1ydxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ6wimXY2vDgNjic3ogTN65vE0KWhhi9SFd9w",
+      "source": "YouTube · Mike O'Brien"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Women highest rated smartwatches for fitness tracking",
+      "link": "https://www.google.com/search?sca_esv=585baa279a4b2485&hl=en&gl=us&q=Women+highest+rated+smartwatches+for+fitness+tracking&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Women+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "block_position": 1,
+      "query": "Best fitness Watch for Android",
+      "link": "https://www.google.com/search?sca_esv=585baa279a4b2485&hl=en&gl=us&q=Best+fitness+Watch+for+Android&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+fitness+Watch+for+Android"
+    },
+    {
+      "block_position": 1,
+      "query": "Highest rated smartwatches for fitness tracking amazon",
+      "link": "https://www.google.com/search?sca_esv=585baa279a4b2485&hl=en&gl=us&q=Highest+rated+smartwatches+for+fitness+tracking+amazon&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Highest+rated+smartwatches+for+fitness+tracking+amazon"
+    },
+    {
+      "block_position": 1,
+      "query": "Best fitness tracker without subscription",
+      "link": "https://www.google.com/search?sca_esv=585baa279a4b2485&hl=en&gl=us&q=Best+fitness+tracker+without+subscription&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+fitness+tracker+without+subscription"
+    },
+    {
+      "block_position": 1,
+      "query": "Most accurate fitness tracker",
+      "link": "https://www.google.com/search?sca_esv=585baa279a4b2485&hl=en&gl=us&q=Most+accurate+fitness+tracker&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Most+accurate+fitness+tracker"
+    },
+    {
+      "block_position": 1,
+      "query": "Best smartwatch for health monitoring",
+      "link": "https://www.google.com/search?sca_esv=585baa279a4b2485&hl=en&gl=us&q=Best+smartwatch+for+health+monitoring&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+smartwatch+for+health+monitoring"
+    },
+    {
+      "block_position": 1,
+      "query": "Best fitness watch 2026",
+      "link": "https://www.google.com/search?sca_esv=585baa279a4b2485&hl=en&gl=us&q=Best+fitness+watch+2026&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+fitness+watch+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Best fitness watch for iPhone",
+      "link": "https://www.google.com/search?sca_esv=585baa279a4b2485&hl=en&gl=us&q=Best+fitness+watch+for+iPhone&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+fitness+watch+for+iPhone"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Under $150",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=highest+rated+smartwatches+for+fitness+tracking+under+$150&shoprs=CAESDRILEQAAAACj4aFBGAEYBSovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyIwgFEgpVbmRlciAkMTUwGAIiDRILEQAAAACj4aFBGAEqAhgBWKOqIGAB&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKAF6BQgyEI0B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking+under+%24150"
+    },
+    {
+      "query": "Women's",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=women's+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyFwgBEgdXb21lbidzOgoIgKM-EIKjPjAFWKOqIGAB&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKAJ6BQgyEI4B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=women%27s+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Water Resistant",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=water+resistant+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyHwgBEg9XYXRlciBSZXNpc3RhbnQ6Cgj27zoQ9-86MANYo6ogYAE&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKAN6BQgyEI8B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=water+resistant+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "With GPS",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=highest+rated+smartwatches+for+fitness+tracking+with+gps&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyHAgBEghXaXRoIEdQUxgCOgwIwZrxARDCmvEBMANYo6ogYAE&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKAR6BQgyEJAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking+with+gps"
+    },
+    {
+      "query": "Kids'",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=kids'+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyFQgBEgVLaWRzJzoKCICjPhCEoz4wBVijqiBgAQ&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKAV6BQgyEJEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=kids%27+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "GPS Watches",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=gps+watches+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYCSovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyDwgJEgtHUFMgV2F0Y2hlc2AB&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKAZ6BQgyEJIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=gps+watches+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Cellular",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=cellular+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyGggBEghDZWxsdWxhcjoMCK-8lAEQ0J3aAzAAWKOqIGAB&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKAd6BQgyEJMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=cellular+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Sleep",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=sleep+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyFwgBEgVTbGVlcDoMCLW8lAEQuLyUATACWKOqIGAB&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKAh6BQgyEJQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=sleep+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Blood Pressure",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=blood+pressure+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyHwgBEg5CbG9vZCBQcmVzc3VyZToLCOfHOxD84-0BMABYo6ogYAE&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKAl6BQgyEJUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=blood+pressure+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Get it tomorrow",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=highest+rated+smartwatches+for+fitness+tracking&shoprs=CAESDZoBCgoIEAE4AUAESAEYFCovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyKAgUEg9HZXQgaXQgdG9tb3Jyb3ciDZoBCgoIEAE4AUAESAEqBBABGAFgAQ&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKAp6BQgyEJYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=highest+rated+smartwatches+for+fitness+tracking+sale&shoprs=CAESBEoCGAEYBiovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyEwgGEgdPbiBzYWxlGAIiBEoCGAFYo6ogYAE&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKAt6BQgyEJcB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking+sale"
+    },
+    {
+      "query": "Calorie",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=calorie+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyGQgBEgdDYWxvcmllOgwItbyUARC5vJQBMAJYo6ogYAE&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKAx6BQgyEJgB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=calorie+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Heart Rate Monitors",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=heart+rate+monitors+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYCSovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyFwgJEhNIZWFydCBSYXRlIE1vbml0b3JzYAE&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKA16BQgyEJkB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=heart+rate+monitors+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Stress",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=stress+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyGAgBEgZTdHJlc3M6DAi1vJQBELe8lAEwAlijqiBgAQ&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKA56BQgyEJoB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=stress+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Round Case",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=round+case+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyHAgBEgpSb3VuZCBDYXNlOgwIgPKkAxCv6KQDMABYo6ogYAE&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKA96BQgyEJsB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=round+case+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Scratch-resistant",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=scratch-resistant+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyIwgBEhFTY3JhdGNoLXJlc2lzdGFudDoMCMCV8QIQxY7xAjADWKOqIGAB&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKBB6BQgyEJwB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=scratch-resistant+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Bluetooth",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=bluetooth+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyGwgBEglCbHVldG9vdGg6DAivvJQBELC8lAEwAFijqiBgAQ&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKBF6BQgyEJ0B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=bluetooth+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Activity",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=activity+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyGggBEghBY3Rpdml0eToMCLW8lAEQtryUATACWKOqIGAB&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKBJ6BQgyEJ4B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=activity+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Wi-Fi",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=wi-fi+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyFwgBEgVXaS1GaToMCK-8lAEQiLvwAjAAWKOqIGAB&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKBN6BQgyEJ8B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=wi-fi+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "For Swimming",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=highest+rated+smartwatches+for+fitness+tracking+swimming&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyHggBEgxGb3IgU3dpbW1pbmcYAjoKCNnwOxDa8DswA1ijqiBgAQ&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKBR6BQgyEKAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking+swimming"
+    },
+    {
+      "query": "Pedometer",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=pedometer+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyGQgBEglQZWRvbWV0ZXI6CgjnxzsQ6cc7MABYo6ogYAE&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKBV6BQgyEKEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=pedometer+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Sleep Tracker",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=sleep+tracker+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyHggBEg1TbGVlcCBUcmFja2VyOgsI58c7EKSu6gEwAFijqiBgAQ&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKBZ6BQgyEKIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=sleep+tracker+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=reviews+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYEiovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKBd6BQgyEKMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=reviews+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Blood Oxygen Saturation",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=blood+oxygen+saturation+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyKAgBEhdCbG9vZCBPeHlnZW4gU2F0dXJhdGlvbjoLCOfHOxD_4-0BMABYo6ogYAE&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKBh6BQgyEKQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=blood+oxygen+saturation+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Distance",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=distance+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyGQgBEghEaXN0YW5jZToLCOfHOxDM8eoBMABYo6ogYAE&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKBl6BQgyEKUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=distance+highest+rated+smartwatches+for+fitness+tracking"
+    },
+    {
+      "query": "Wristband",
+      "link": "https://www.google.com/search?hl=en&gl=us&q=wristband+highest+rated+smartwatches+for+fitness+tracking&shoprs=CAEYASovaGlnaGVzdCByYXRlZCBzbWFydHdhdGNoZXMgZm9yIGZpdG5lc3MgdHJhY2tpbmcyGQgBEglXcmlzdGJhbmQ6CgjvyDoQ88g6MAJYo6ogYAE&sa=X&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQip4GKBp6BQgyEKYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=wristband+highest+rated+smartwatches+for+fitness+tracking"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=highest+rated+smartwatches+for+fitness+tracking&sca_esv=585baa279a4b2485&hl=en&gl=us&ei=VMCzatOFCeuKruEPh4f9yA4&start=10&sa=N&sstk=AS6-VmKh3bXwlLy9VpQbplNviqP39O8Cims0IRaHCsnzE9eQScx_Fz_WkhnzdikVCs01qoouIDfSrft2OtKhYWCdN6D4hyhvLqANqw&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ8NMDegQIThAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=highest+rated+smartwatches+for+fitness+tracking&sca_esv=585baa279a4b2485&hl=en&gl=us&ei=VMCzatOFCeuKruEPh4f9yA4&start=10&sa=N&sstk=AS6-VmKh3bXwlLy9VpQbplNviqP39O8Cims0IRaHCsnzE9eQScx_Fz_WkhnzdikVCs01qoouIDfSrft2OtKhYWCdN6D4hyhvLqANqw&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ8tMDegQIThAE",
+      "3": "https://www.google.com/search?q=highest+rated+smartwatches+for+fitness+tracking&sca_esv=585baa279a4b2485&hl=en&gl=us&ei=VMCzatOFCeuKruEPh4f9yA4&start=20&sa=N&sstk=AS6-VmKh3bXwlLy9VpQbplNviqP39O8Cims0IRaHCsnzE9eQScx_Fz_WkhnzdikVCs01qoouIDfSrft2OtKhYWCdN6D4hyhvLqANqw&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ8tMDegQIThAG",
+      "4": "https://www.google.com/search?q=highest+rated+smartwatches+for+fitness+tracking&sca_esv=585baa279a4b2485&hl=en&gl=us&ei=VMCzatOFCeuKruEPh4f9yA4&start=30&sa=N&sstk=AS6-VmKh3bXwlLy9VpQbplNviqP39O8Cims0IRaHCsnzE9eQScx_Fz_WkhnzdikVCs01qoouIDfSrft2OtKhYWCdN6D4hyhvLqANqw&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ8tMDegQIThAI",
+      "5": "https://www.google.com/search?q=highest+rated+smartwatches+for+fitness+tracking&sca_esv=585baa279a4b2485&hl=en&gl=us&ei=VMCzatOFCeuKruEPh4f9yA4&start=40&sa=N&sstk=AS6-VmKh3bXwlLy9VpQbplNviqP39O8Cims0IRaHCsnzE9eQScx_Fz_WkhnzdikVCs01qoouIDfSrft2OtKhYWCdN6D4hyhvLqANqw&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ8tMDegQIThAK",
+      "6": "https://www.google.com/search?q=highest+rated+smartwatches+for+fitness+tracking&sca_esv=585baa279a4b2485&hl=en&gl=us&ei=VMCzatOFCeuKruEPh4f9yA4&start=50&sa=N&sstk=AS6-VmKh3bXwlLy9VpQbplNviqP39O8Cims0IRaHCsnzE9eQScx_Fz_WkhnzdikVCs01qoouIDfSrft2OtKhYWCdN6D4hyhvLqANqw&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ8tMDegQIThAM",
+      "7": "https://www.google.com/search?q=highest+rated+smartwatches+for+fitness+tracking&sca_esv=585baa279a4b2485&hl=en&gl=us&ei=VMCzatOFCeuKruEPh4f9yA4&start=60&sa=N&sstk=AS6-VmKh3bXwlLy9VpQbplNviqP39O8Cims0IRaHCsnzE9eQScx_Fz_WkhnzdikVCs01qoouIDfSrft2OtKhYWCdN6D4hyhvLqANqw&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ8tMDegQIThAO",
+      "8": "https://www.google.com/search?q=highest+rated+smartwatches+for+fitness+tracking&sca_esv=585baa279a4b2485&hl=en&gl=us&ei=VMCzatOFCeuKruEPh4f9yA4&start=70&sa=N&sstk=AS6-VmKh3bXwlLy9VpQbplNviqP39O8Cims0IRaHCsnzE9eQScx_Fz_WkhnzdikVCs01qoouIDfSrft2OtKhYWCdN6D4hyhvLqANqw&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ8tMDegQIThAQ",
+      "9": "https://www.google.com/search?q=highest+rated+smartwatches+for+fitness+tracking&sca_esv=585baa279a4b2485&hl=en&gl=us&ei=VMCzatOFCeuKruEPh4f9yA4&start=80&sa=N&sstk=AS6-VmKh3bXwlLy9VpQbplNviqP39O8Cims0IRaHCsnzE9eQScx_Fz_WkhnzdikVCs01qoouIDfSrft2OtKhYWCdN6D4hyhvLqANqw&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ8tMDegQIThAS",
+      "10": "https://www.google.com/search?q=highest+rated+smartwatches+for+fitness+tracking&sca_esv=585baa279a4b2485&hl=en&gl=us&ei=VMCzatOFCeuKruEPh4f9yA4&start=90&sa=N&sstk=AS6-VmKh3bXwlLy9VpQbplNviqP39O8Cims0IRaHCsnzE9eQScx_Fz_WkhnzdikVCs01qoouIDfSrft2OtKhYWCdN6D4hyhvLqANqw&ved=2ahUKEwjT_8_L1ISXAxVrhSsGHYdDH-kQ8tMDegQIThAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=highest+rated+smartwatches+for+fitness+tracking&start=90"
+    }
+  }
+}

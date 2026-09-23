@@ -1,0 +1,527 @@
+{
+  "search_metadata": {
+    "id": "6ab3d2419a1f2c1d6f098abb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/jlLiHxgweiRrmx9KhJnyW3e-NESv86vEPG0f4TdopEk/6ab3d2419a1f2c1d6f098abb.json",
+    "markdown_endpoint": "https://serpapi.com/searches/jlLiHxgweiRrmx9KhJnyW3e-NESv86vEPG0f4TdopEk/6ab3d2419a1f2c1d6f098abb.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/jlLiHxgweiRrmx9KhJnyW3e-NESv86vEPG0f4TdopEk/6ab3d2419a1f2c1d6f098abb.json_with_pixel_position",
+    "created_at": "2026-09-23 13:21:05 UTC",
+    "processed_at": "2026-09-23 13:21:05 UTC",
+    "google_url": "https://www.google.com/search?q=top+ereaders+for+eye+strain&oq=top+ereaders+for+eye+strain&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/jlLiHxgweiRrmx9KhJnyW3e-NESv86vEPG0f4TdopEk/6ab3d2419a1f2c1d6f098abb.html",
+    "total_time_taken": 39.05
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top ereaders for eye strain",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top ereaders for eye strain",
+    "total_results": 195,
+    "time_taken_displayed": 0.23,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the best e-reader for people with poor eyesight?",
+      "type": "ai_overview",
+      "page_token": "AzG1NXicHdBRbpswAABQ7TL9bLAhaYkUTaPYNFFiyQYb4p8KTIixTaCNF9r-7Qo7Q0_V00zaO8L78-X6i_3-8Vd7P13Xi8U8z_fncTy7070ah0V9_biohaqda2pl16uHFfjZqQ26qeTpTSWUT5NIWZAbB4nFiBS7ngId8DLynDvUcm8bELMCyI4UOpGlQNKC1zKLIonl_hA8zg30PcnoskkJJiapFFAwF9qcsIyonSEZiKCVYDkm6JDpLUm3yyrUUZNNHS0ZbeAVklTu6GWMVDi9Hy1_F2iHT6a9EXFcqmc9tIL8PsLY8R485yUbaBnPLUhClUkrU5wp5BC3pJM9WO0rdlWYQ2aor8Ktp0aOVMjXHBF6KOMQ6VYX1q-OFf9ggeuls6AYYlpB6tvMJTkbe8rZpzJu4OaXV4JxVuqk_pRFHbCgTUUhMmcEJ_sCCdzOd526bcK7_9ebl27w6-ltPP8DW8iLPg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AzG1NXicHdBRbpswAABQ7TL9bLAhaYkUTaPYNFFiyQYb4p8KTIixTaCNF9r-7Qo7Q0_V00zaO8L78-X6i_3-8Vd7P13Xi8U8z_fncTy7070ah0V9_biohaqda2pl16uHFfjZqQ26qeTpTSWUT5NIWZAbB4nFiBS7ngId8DLynDvUcm8bELMCyI4UOpGlQNKC1zKLIonl_hA8zg30PcnoskkJJiapFFAwF9qcsIyonSEZiKCVYDkm6JDpLUm3yyrUUZNNHS0ZbeAVklTu6GWMVDi9Hy1_F2iHT6a9EXFcqmc9tIL8PsLY8R485yUbaBnPLUhClUkrU5wp5BC3pJM9WO0rdlWYQ2aor8Ktp0aOVMjXHBF6KOMQ6VYX1q-OFf9ggeuls6AYYlpB6tvMJTkbe8rZpzJu4OaXV4JxVuqk_pRFHbCgTUUhMmcEJ_sCCdzOd526bcK7_9ebl27w6-ltPP8DW8iLPg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RYZ3pNRUZRT1drd2JXSkpOamxDWDJkNFkzUkRWVTVTVDNsV1ZrZHRRVE5aT0ZFMVZreHlUbm93Y1dWME5tWnpRVFpNWVVWU01tdHlkVzEyUkd4cVRsbzBkWEp0YTJsQ05GOW9RamRyZUVWMU9FUTNRVXhGWVdkMlFSSVhZVTVMZW1GMU1rZEpZbVpaTlU1dlVGOWtMWFJwUVVrYUlrRkVjM0k1WmxKV1VVWlZXUzE1WjFsalVYTlVSRFZoZDAxYU1VZG5iRnBUV2tFIiwiZmN2IjoiMyIsImVpIjoiYU5LemF1MkdJYmZZNU5vUF9kLXRpQUkiLCJxYyI6IkNodDBiM0FnWlhKbFlXUmxjbk1nWm05eUlHVjVaU0J6ZEhKaGFXNFFBQmdCZmNScUNqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBlLXJlYWRlciBmb3IgcGVvcGxlIHdpdGggcG9vciBleWVzaWdodD8iLCJsayI6IkdocGxJSEpsWVdSbGNpQm1iM0lnY0c5dmNpQmxlV1Z6YVdkb2RBIiwiYnMiOiJjMzJQTVF2Q01CQ0ZjYzNrSEVTZk9qaFZvWk5iQjEyNnVla2E2V21Da29Ua2l2VGZtMG9yVmNIMTN2Yzk3b21UMkI2MVlwZ0kxb1F6UlFabGdWUkZBUmNYNE1uNU8tRmhXTU83ZEtDR29ybHFMdktKbElRaE9veEZLUlpseE0zWUt1a3BNQWRWcFg3bWptN0JJbF9LdWZtZ19DOGxkbUsyZF9UR2ZNMklISlN4Y0xicmdaeFdmeEdoeExwOGpRd0UxWFBjYm05RnUyTG9PakFhVl9lX2JXUm1faGo0TnNhakp3IiwiaWQiOiJmY19hTkt6YXUyR0liZlk1Tm9QX2QtdGlBSV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RYZ3pNRUZRT1drd2JXSkpOamxDWDJkNFkzUkRWVTVTVDNsV1ZrZHRRVE5aT0ZFMVZreHlUbm93Y1dWME5tWnpRVFpNWVVWU01tdHlkVzEyUkd4cVRsbzBkWEp0YTJsQ05GOW9RamRyZUVWMU9FUTNRVXhGWVdkMlFSSVhZVTVMZW1GMU1rZEpZbVpaTlU1dlVGOWtMWFJwUVVrYUlrRkVjM0k1WmxKV1VVWlZXUzE1WjFsalVYTlVSRFZoZDAxYU1VZG5iRnBUV2tFIiwiZmN2IjoiMyIsImVpIjoiYU5LemF1MkdJYmZZNU5vUF9kLXRpQUkiLCJxYyI6IkNodDBiM0FnWlhKbFlXUmxjbk1nWm05eUlHVjVaU0J6ZEhKaGFXNFFBQmdCZmNScUNqOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBlLXJlYWRlciBmb3IgcGVvcGxlIHdpdGggcG9vciBleWVzaWdodD8iLCJsayI6IkdocGxJSEpsWVdSbGNpQm1iM0lnY0c5dmNpQmxlV1Z6YVdkb2RBIiwiYnMiOiJjMzJQTVF2Q01CQ0ZjYzNrSEVTZk9qaFZvWk5iQjEyNnVla2E2V21Da29Ua2l2VGZtMG9yVmNIMTN2Yzk3b21UMkI2MVlwZ0kxb1F6UlFabGdWUkZBUmNYNE1uNU8tRmhXTU83ZEtDR29ybHFMdktKbElRaE9veEZLUlpseE0zWUt1a3BNQWRWcFg3bWptN0JJbF9LdWZtZ19DOGxkbUsyZF9UR2ZNMklISlN4Y0xicmdaeFdmeEdoeExwOGpRd0UxWFBjYm05RnUyTG9PakFhVl9lX2JXUm1faGo0TnNhakp3IiwiaWQiOiJmY19hTkt6YXUyR0liZlk1Tm9QX2QtdGlBSV81In0%3D"
+    },
+    {
+      "question": "Is kindle or iPad better for eyes?",
+      "type": "ai_overview",
+      "page_token": "9tlGVnicHdDNToMwAADg-DI7OioR45LFiEMmkW79BXoxXXH8tIxO6ja4-S4-lU-j8fodv69v0xz0z9Wpds4Oi_n8fD5fV31fmfdr1XdzOYwHNVfSmJ1UehHcBeBhr5bR50v4dHwJEbOWr7BHdEkwc4Xw4SuceCD1ZZvfXGR5MAmJ-KByNkkNE0iAFOtHsGE42WSQsBU84piP0BMuixOQmeRIPKD5uhjTaPBJhruirTyWAccbsBWm_txR5CN-377n6URiY9PIujQPA-FXDnaFS2PORKZuJeMFO_QT9eq2ZMIhYFebPDkVLNG7HK83sWVlxwnhUFONLsRgVNJnymkSRnVZU-2CImcj9kwjjAa0u0f5DXJlbEKC-wYxPKnWdIzVW-jZpowr_5XiFLbcIA9i2Rn35x84G0Zxnu3VaenP_j-Xb_vOLexHX_0CDdGFQA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=9tlGVnicHdDNToMwAADg-DI7OioR45LFiEMmkW79BXoxXXH8tIxO6ja4-S4-lU-j8fodv69v0xz0z9Wpds4Oi_n8fD5fV31fmfdr1XdzOYwHNVfSmJ1UehHcBeBhr5bR50v4dHwJEbOWr7BHdEkwc4Xw4SuceCD1ZZvfXGR5MAmJ-KByNkkNE0iAFOtHsGE42WSQsBU84piP0BMuixOQmeRIPKD5uhjTaPBJhruirTyWAccbsBWm_txR5CN-377n6URiY9PIujQPA-FXDnaFS2PORKZuJeMFO_QT9eq2ZMIhYFebPDkVLNG7HK83sWVlxwnhUFONLsRgVNJnymkSRnVZU-2CImcj9kwjjAa0u0f5DXJlbEKC-wYxPKnWdIzVW-jZpowr_5XiFLbcIA9i2Rn35x84G0Zxnu3VaenP_j-Xb_vOLexHX_0CDdGFQA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RYZ3pNRUZRT1drd2JXSkpOamxDWDJkNFkzUkRWVTVTVDNsV1ZrZHRRVE5aT0ZFMVZreHlUbm93Y1dWME5tWnpRVFpNWVVWU01tdHlkVzEyUkd4cVRsbzBkWEp0YTJsQ05GOW9RamRyZUVWMU9FUTNRVXhGWVdkMlFSSVhZVTVMZW1GMU1rZEpZbVpaTlU1dlVGOWtMWFJwUVVrYUlrRkVjM0k1WmxKV1VVWlZXUzE1WjFsalVYTlVSRFZoZDAxYU1VZG5iRnBUV2tFIiwiZmN2IjoiMyIsImVpIjoiYU5LemF1MkdJYmZZNU5vUF9kLXRpQUkiLCJxYyI6IkNodDBiM0FnWlhKbFlXUmxjbk1nWm05eUlHVjVaU0J6ZEhKaGFXNFFBQmdCZmNScUNqOCIsInF1ZXN0aW9uIjoiSXMga2luZGxlIG9yIGlQYWQgYmV0dGVyIGZvciBleWVzPyIsImxrIjoiR2lGcGN5QnJhVzVrYkdVZ2IzSWdhWEJoWkNCaVpYUjBaWElnWm05eUlHVjVaWE0iLCJicyI6ImMzMlBNUXZDTUJDRmNjM2tIRVNmT2poVm9aTmJCMTI2dWVrYTZXbUNrb1RraXZUZm0wb3JWY0gxM3ZjOTdvbVQyQjYxWXBnSTFvUXpSUVpsZ1ZSRkFSY1g0TW41Ty1GaFdNTzdkS0NHb3JscUx2S0psSVFoT294RktSWmx4TTNZS3VrcE1BZFZwWDdtam03QklsX0t1Zm1nX0M4bGRtSzJkX1RHZk0ySUhKU3hjTGJyZ1p4V2Z4R2h4THA4alF3RTFYUGNibTlGdTJMb09qQWFWX2VfYldSbV9oajROc2FqSnciLCJpZCI6ImZjX2FOS3phdTJHSWJmWTVOb1BfZC10aUFJXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RYZ3pNRUZRT1drd2JXSkpOamxDWDJkNFkzUkRWVTVTVDNsV1ZrZHRRVE5aT0ZFMVZreHlUbm93Y1dWME5tWnpRVFpNWVVWU01tdHlkVzEyUkd4cVRsbzBkWEp0YTJsQ05GOW9RamRyZUVWMU9FUTNRVXhGWVdkMlFSSVhZVTVMZW1GMU1rZEpZbVpaTlU1dlVGOWtMWFJwUVVrYUlrRkVjM0k1WmxKV1VVWlZXUzE1WjFsalVYTlVSRFZoZDAxYU1VZG5iRnBUV2tFIiwiZmN2IjoiMyIsImVpIjoiYU5LemF1MkdJYmZZNU5vUF9kLXRpQUkiLCJxYyI6IkNodDBiM0FnWlhKbFlXUmxjbk1nWm05eUlHVjVaU0J6ZEhKaGFXNFFBQmdCZmNScUNqOCIsInF1ZXN0aW9uIjoiSXMga2luZGxlIG9yIGlQYWQgYmV0dGVyIGZvciBleWVzPyIsImxrIjoiR2lGcGN5QnJhVzVrYkdVZ2IzSWdhWEJoWkNCaVpYUjBaWElnWm05eUlHVjVaWE0iLCJicyI6ImMzMlBNUXZDTUJDRmNjM2tIRVNmT2poVm9aTmJCMTI2dWVrYTZXbUNrb1RraXZUZm0wb3JWY0gxM3ZjOTdvbVQyQjYxWXBnSTFvUXpSUVpsZ1ZSRkFSY1g0TW41Ty1GaFdNTzdkS0NHb3JscUx2S0psSVFoT294RktSWmx4TTNZS3VrcE1BZFZwWDdtam03QklsX0t1Zm1nX0M4bGRtSzJkX1RHZk0ySUhKU3hjTGJyZ1p4V2Z4R2h4THA4alF3RTFYUGNibTlGdTJMb09qQWFWX2VfYldSbV9oajROc2FqSnciLCJpZCI6ImZjX2FOS3phdTJHSWJmWTVOb1BfZC10aUFJXzUifQ%3D%3D"
+    },
+    {
+      "question": "Does kindle put strain on eyes?",
+      "type": "ai_overview",
+      "page_token": "DBZayXicHdBdboIwAADg7DI-zhbFTROzzGlBlqqU_kBfFihqkSLd1on4trvsVDvNkn1H-L5_THWuf-8u2jn7ORsOu667P7bt0ezvVdsM88_-rIYqN6bIVT2bPEzg00HNV1_rxcv7ehEza_mSgKSHTIVRlo_kip1kJ4FzSaoxZfZK2ZUxsIlYbUK-fPYLAbfYi0jWKEjZY5c0OiZ8wRJUj2loL-XKLTNPv-anGBCBIAlQX9TT90y4cSyQ26L2RgOHcbpJSRh5Am1azstdgaKIg5JLbk_7ELsSGMFvZZ-ncke53eHgOpHCl5lYO1FBX1WQ7wPs8wZqDMmyPCOaehHGApGVLjWt3SRLWU-AqaSpIW2mcerFrgzMIiFtFTNyUyfTMIABq4HLBOk5l1slfM4A2hQjq5NQm2y0vrJ4cFCX-Wjw_zl_OzRuZj_a4x-zgYJ0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DBZayXicHdBdboIwAADg7DI-zhbFTROzzGlBlqqU_kBfFihqkSLd1on4trvsVDvNkn1H-L5_THWuf-8u2jn7ORsOu667P7bt0ezvVdsM88_-rIYqN6bIVT2bPEzg00HNV1_rxcv7ehEza_mSgKSHTIVRlo_kip1kJ4FzSaoxZfZK2ZUxsIlYbUK-fPYLAbfYi0jWKEjZY5c0OiZ8wRJUj2loL-XKLTNPv-anGBCBIAlQX9TT90y4cSyQ26L2RgOHcbpJSRh5Am1azstdgaKIg5JLbk_7ELsSGMFvZZ-ncke53eHgOpHCl5lYO1FBX1WQ7wPs8wZqDMmyPCOaehHGApGVLjWt3SRLWU-AqaSpIW2mcerFrgzMIiFtFTNyUyfTMIABq4HLBOk5l1slfM4A2hQjq5NQm2y0vrJ4cFCX-Wjw_zl_OzRuZj_a4x-zgYJ0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RYZ3pNRUZRT1drd2JXSkpOamxDWDJkNFkzUkRWVTVTVDNsV1ZrZHRRVE5aT0ZFMVZreHlUbm93Y1dWME5tWnpRVFpNWVVWU01tdHlkVzEyUkd4cVRsbzBkWEp0YTJsQ05GOW9RamRyZUVWMU9FUTNRVXhGWVdkMlFSSVhZVTVMZW1GMU1rZEpZbVpaTlU1dlVGOWtMWFJwUVVrYUlrRkVjM0k1WmxKV1VVWlZXUzE1WjFsalVYTlVSRFZoZDAxYU1VZG5iRnBUV2tFIiwiZmN2IjoiMyIsImVpIjoiYU5LemF1MkdJYmZZNU5vUF9kLXRpQUkiLCJxYyI6IkNodDBiM0FnWlhKbFlXUmxjbk1nWm05eUlHVjVaU0J6ZEhKaGFXNFFBQmdCZmNScUNqOCIsInF1ZXN0aW9uIjoiRG9lcyBraW5kbGUgcHV0IHN0cmFpbiBvbiBleWVzPyIsImxrIjoiR2g1a2IyVnpJR3RwYm1Sc1pTQndkWFFnYzNSeVlXbHVJRzl1SUdWNVpYTSIsImJzIjoiYzMyUE1RdkNNQkNGY2Mza0hFU2ZPamhWb1pOYkIxMjZ1ZWthNldtQ2tvVGtpdlRmbTBvclZjSDEzdmM5N29tVDJCNjFZcGdJMW9RelJRWmxnVlJGQVJjWDRNbjVPLUZoV01PN2RLQ0dvcmxxTHZLSmxJUWhPb3hGS1JabHhNM1lLdWtwTUFkVnBYN21qbTdCSWxfS3VmbWdfQzhsZG1LMmRfVEdmTTJJSEpTeGNMYnJnWnhXZnhHaHhMcDhqUXdFMVhQY2JtOUZ1MkxvT2pBYVZfZV9iV1JtX2hqNE5zYWpKdyIsImlkIjoiZmNfYU5LemF1MkdJYmZZNU5vUF9kLXRpQUlfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RYZ3pNRUZRT1drd2JXSkpOamxDWDJkNFkzUkRWVTVTVDNsV1ZrZHRRVE5aT0ZFMVZreHlUbm93Y1dWME5tWnpRVFpNWVVWU01tdHlkVzEyUkd4cVRsbzBkWEp0YTJsQ05GOW9RamRyZUVWMU9FUTNRVXhGWVdkMlFSSVhZVTVMZW1GMU1rZEpZbVpaTlU1dlVGOWtMWFJwUVVrYUlrRkVjM0k1WmxKV1VVWlZXUzE1WjFsalVYTlVSRFZoZDAxYU1VZG5iRnBUV2tFIiwiZmN2IjoiMyIsImVpIjoiYU5LemF1MkdJYmZZNU5vUF9kLXRpQUkiLCJxYyI6IkNodDBiM0FnWlhKbFlXUmxjbk1nWm05eUlHVjVaU0J6ZEhKaGFXNFFBQmdCZmNScUNqOCIsInF1ZXN0aW9uIjoiRG9lcyBraW5kbGUgcHV0IHN0cmFpbiBvbiBleWVzPyIsImxrIjoiR2g1a2IyVnpJR3RwYm1Sc1pTQndkWFFnYzNSeVlXbHVJRzl1SUdWNVpYTSIsImJzIjoiYzMyUE1RdkNNQkNGY2Mza0hFU2ZPamhWb1pOYkIxMjZ1ZWthNldtQ2tvVGtpdlRmbTBvclZjSDEzdmM5N29tVDJCNjFZcGdJMW9RelJRWmxnVlJGQVJjWDRNbjVPLUZoV01PN2RLQ0dvcmxxTHZLSmxJUWhPb3hGS1JabHhNM1lLdWtwTUFkVnBYN21qbTdCSWxfS3VmbWdfQzhsZG1LMmRfVEdmTTJJSEpTeGNMYnJnWnhXZnhHaHhMcDhqUXdFMVhQY2JtOUZ1MkxvT2pBYVZfZV9iV1JtX2hqNE5zYWpKdyIsImlkIjoiZmNfYU5LemF1MkdJYmZZNU5vUF9kLXRpQUlfNSJ9"
+    },
+    {
+      "question": "Is there a kindle that doesn't hurt your eyes?",
+      "type": "ai_overview",
+      "page_token": "0KvNW3icHdDNboIwAADg7GU8Dls2N03MMgTEZuDoL_ay1FZE5acRHMpt77Kn2tNs2f07fV_f5aE-_dxlRdfZduY4fd_f75tmX-7udVM5qr3V2tGqLLdKn2aTpwl4yfU8aHtv0fReyqzlPh4ThljCnx_VssOEohWJvEGIQsUQ9zKzQtX2mIpkYP7qQQQd3WW2zSDKWf0KFcWYl9OD4nKQtc3eBEZKXAseWbwRfyYzLY2SjgQlTBYglBV2TRBSUxe9PpZxKjovWUoej1cu92NXB-ElhuhChb0aKH3pIy4DidlQvJOTqQjc3NgxJSEM18S1haEoIgJVgvL1Fni5XICxYiFaHpCHo-S2FpIaeD3HAyeaJWsDMGBgejM07VPA7fYEMB5Cd5Trz7k7-h-bf-RVN7PnZv8Ls8J4fQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=0KvNW3icHdDNboIwAADg7GU8Dls2N03MMgTEZuDoL_ay1FZE5acRHMpt77Kn2tNs2f07fV_f5aE-_dxlRdfZduY4fd_f75tmX-7udVM5qr3V2tGqLLdKn2aTpwl4yfU8aHtv0fReyqzlPh4ThljCnx_VssOEohWJvEGIQsUQ9zKzQtX2mIpkYP7qQQQd3WW2zSDKWf0KFcWYl9OD4nKQtc3eBEZKXAseWbwRfyYzLY2SjgQlTBYglBV2TRBSUxe9PpZxKjovWUoej1cu92NXB-ElhuhChb0aKH3pIy4DidlQvJOTqQjc3NgxJSEM18S1haEoIgJVgvL1Fni5XICxYiFaHpCHo-S2FpIaeD3HAyeaJWsDMGBgejM07VPA7fYEMB5Cd5Trz7k7-h-bf-RVN7PnZv8Ls8J4fQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RYZ3pNRUZRT1drd2JXSkpOamxDWDJkNFkzUkRWVTVTVDNsV1ZrZHRRVE5aT0ZFMVZreHlUbm93Y1dWME5tWnpRVFpNWVVWU01tdHlkVzEyUkd4cVRsbzBkWEp0YTJsQ05GOW9RamRyZUVWMU9FUTNRVXhGWVdkMlFSSVhZVTVMZW1GMU1rZEpZbVpaTlU1dlVGOWtMWFJwUVVrYUlrRkVjM0k1WmxKV1VVWlZXUzE1WjFsalVYTlVSRFZoZDAxYU1VZG5iRnBUV2tFIiwiZmN2IjoiMyIsImVpIjoiYU5LemF1MkdJYmZZNU5vUF9kLXRpQUkiLCJxYyI6IkNodDBiM0FnWlhKbFlXUmxjbk1nWm05eUlHVjVaU0J6ZEhKaGFXNFFBQmdCZmNScUNqOCIsInF1ZXN0aW9uIjoiSXMgdGhlcmUgYSBraW5kbGUgdGhhdCBkb2Vzbid0IGh1cnQgeW91ciBleWVzPyIsImxrIjoiR2kxcGN5QjBhR1Z5WlNCaElHdHBibVJzWlNCMGFHRjBJR1J2WlhOdUlIUWdhSFZ5ZENCNWIzVnlJR1Y1WlhNIiwiYnMiOiJjMzJQTVF2Q01CQ0ZjYzNrSEVTZk9qaFZvWk5iQjEyNnVla2E2V21Da29Ua2l2VGZtMG9yVmNIMTN2Yzk3b21UMkI2MVlwZ0kxb1F6UlFabGdWUkZBUmNYNE1uNU8tRmhXTU83ZEtDR29ybHFMdktKbElRaE9veEZLUlpseE0zWUt1a3BNQWRWcFg3bWptN0JJbF9LdWZtZ19DOGxkbUsyZF9UR2ZNMklISlN4Y0xicmdaeFdmeEdoeExwOGpRd0UxWFBjYm05RnUyTG9PakFhVl9lX2JXUm1faGo0TnNhakp3IiwiaWQiOiJmY19hTkt6YXUyR0liZlk1Tm9QX2QtdGlBSV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2RYZ3pNRUZRT1drd2JXSkpOamxDWDJkNFkzUkRWVTVTVDNsV1ZrZHRRVE5aT0ZFMVZreHlUbm93Y1dWME5tWnpRVFpNWVVWU01tdHlkVzEyUkd4cVRsbzBkWEp0YTJsQ05GOW9RamRyZUVWMU9FUTNRVXhGWVdkMlFSSVhZVTVMZW1GMU1rZEpZbVpaTlU1dlVGOWtMWFJwUVVrYUlrRkVjM0k1WmxKV1VVWlZXUzE1WjFsalVYTlVSRFZoZDAxYU1VZG5iRnBUV2tFIiwiZmN2IjoiMyIsImVpIjoiYU5LemF1MkdJYmZZNU5vUF9kLXRpQUkiLCJxYyI6IkNodDBiM0FnWlhKbFlXUmxjbk1nWm05eUlHVjVaU0J6ZEhKaGFXNFFBQmdCZmNScUNqOCIsInF1ZXN0aW9uIjoiSXMgdGhlcmUgYSBraW5kbGUgdGhhdCBkb2Vzbid0IGh1cnQgeW91ciBleWVzPyIsImxrIjoiR2kxcGN5QjBhR1Z5WlNCaElHdHBibVJzWlNCMGFHRjBJR1J2WlhOdUlIUWdhSFZ5ZENCNWIzVnlJR1Y1WlhNIiwiYnMiOiJjMzJQTVF2Q01CQ0ZjYzNrSEVTZk9qaFZvWk5iQjEyNnVla2E2V21Da29Ua2l2VGZtMG9yVmNIMTN2Yzk3b21UMkI2MVlwZ0kxb1F6UlFabGdWUkZBUmNYNE1uNU8tRmhXTU83ZEtDR29ybHFMdktKbElRaE9veEZLUlpseE0zWUt1a3BNQWRWcFg3bWptN0JJbF9LdWZtZ19DOGxkbUsyZF9UR2ZNMklISlN4Y0xicmdaeFdmeEdoeExwOGpRd0UxWFBjYm05RnUyTG9PakFhVl9lX2JXUm1faGo0TnNhakp3IiwiaWQiOiJmY19hTkt6YXUyR0liZlk1Tm9QX2QtdGlBSV81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "TjZfiXiczVVbkqJIFF3ArGP4qVIBy7KoCKIjyUZMLR9QPlp_CF4CCqSSKqV_vZdZ1Sxg1jEJKoXVanX3x8RkBI-83Lx5T957ON__Cvxo8fcf_3jr9ZI8VypJkpRdjN3AKVs4rBhkF1mVGQ5IbHlfNpvAEZM7CJCKIIpHfGNvKMFmWtW2pv8mqzuAX5VGNP3W2tuKUKW2rgYXZDSuLW1ltECNLjv5pgVWwniB6ESMG4gbwhC8iS3Ht0XLi3HoMLutWGUsIrKM44tGt703NryCzNmk1sV93S6tfYCYLDFRNw3izGneb3NS0Sv0tviz-pVOyqTsRGW1xU8nwDI1Uy7zLCeUexUjpA7gvxsqBDIAroTou3TViXr8TDCJRqCBFgUTOq4sxJ4AmMZDajaDVyK7WbQ0AJLSBfShT-MHCbRPsaB6NRFY3I9OUk8ZZkAypP7PoClgSIecx4Q3vS_hOUSg28snS6fwVQZXBvzQCUMa_Ql0EPCOhg8Vk3Fx1kpvXw_bz8BDIj9ojZuZ09MZJlKtDT4tdwNokXsEheCarpQqtks7l62YMX1wFd_yrOwlJmlDw4HA4kbTfR2VBuMma2p7BSBu17R7bX3ds3ZqxTKpX4AN27F1T2e_ZHOO52qsUK0_3WdMskhOJVKkEmgrVYE1VnW-U34pS9yJRzA_-Q8lS3sBogvAJHh0vVhj2kcn-_vJy3KxCu3DmaRnySOQ739Y_Xgoe17VPgKSi4qtkMdN113i0WEc3zMeZc2dpoXzrIvIXEqjPMEiqs5Fvn-0qc08AyT94FjMCUnIpbBPpDxDlW4sA-SlH4f0kF_cIwOtYoyGlDJBPUvVzZBDJQcmFyHKxW18GikjxvwVpN2_aqU1ltKA8LDiRPshOJgLYK78-whIQOs2368N9Ml_4rjziTAf-r_Im-ZiAp3NfL9PqgN53gH8vtfpNM1e25LBZZ7g0PwFzbH-V0w6KVI7-3adSWnffMok2vzopiJl70dFah2YBN2rTMok6QdF6l1UpPOOgkB7Z1JbuqlIv84keJNJ7hHpBSZRRbrEpMU1JmWKdM4k70k9U6Qz3O-KlDPpdxQJ_p4iZcRyDo9zedrM3asy1ez60lg1USv0hzt22DekDdI1YdRc7T-XqVm4fg4NO7jXfftZ4lvrnX2vUwN-dmxmJa7x8s6JHbo8JnczHN85O-eOrGPDj5gwiLHIGvUq5lGNkzWvD-tDk8iTvREisCe9dincWjtfU9TOGGEumkJDsofT0aBWUmoDuzXvLkf4baTIW3vUdAUqsypXVSC2_H5nvhmx9XBRFWrRyjMG44EtqNF2S33sAL7pdn_F6qVeh0fjzgveDvx4kXjL0oM0aJAsMSJ-nbzVnU3fmK8AQwERR-SYMLZEWpsHF3RVMHZpE8IJJTDtXojpldDrEaiyxBDL0B2yFYWZUDc5zpg98Y-1R55nQne9W4q8wJAoFrl_AeMVXzo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TjZfiXiczVVbkqJIFF3ArGP4qVIBy7KoCKIjyUZMLR9QPlp_CF4CCqSSKqV_vZdZ1Sxg1jEJKoXVanX3x8RkBI-83Lx5T957ON__Cvxo8fcf_3jr9ZI8VypJkpRdjN3AKVs4rBhkF1mVGQ5IbHlfNpvAEZM7CJCKIIpHfGNvKMFmWtW2pv8mqzuAX5VGNP3W2tuKUKW2rgYXZDSuLW1ltECNLjv5pgVWwniB6ESMG4gbwhC8iS3Ht0XLi3HoMLutWGUsIrKM44tGt703NryCzNmk1sV93S6tfYCYLDFRNw3izGneb3NS0Sv0tviz-pVOyqTsRGW1xU8nwDI1Uy7zLCeUexUjpA7gvxsqBDIAroTou3TViXr8TDCJRqCBFgUTOq4sxJ4AmMZDajaDVyK7WbQ0AJLSBfShT-MHCbRPsaB6NRFY3I9OUk8ZZkAypP7PoClgSIecx4Q3vS_hOUSg28snS6fwVQZXBvzQCUMa_Ql0EPCOhg8Vk3Fx1kpvXw_bz8BDIj9ojZuZ09MZJlKtDT4tdwNokXsEheCarpQqtks7l62YMX1wFd_yrOwlJmlDw4HA4kbTfR2VBuMma2p7BSBu17R7bX3ds3ZqxTKpX4AN27F1T2e_ZHOO52qsUK0_3WdMskhOJVKkEmgrVYE1VnW-U34pS9yJRzA_-Q8lS3sBogvAJHh0vVhj2kcn-_vJy3KxCu3DmaRnySOQ739Y_Xgoe17VPgKSi4qtkMdN113i0WEc3zMeZc2dpoXzrIvIXEqjPMEiqs5Fvn-0qc08AyT94FjMCUnIpbBPpDxDlW4sA-SlH4f0kF_cIwOtYoyGlDJBPUvVzZBDJQcmFyHKxW18GikjxvwVpN2_aqU1ltKA8LDiRPshOJgLYK78-whIQOs2368N9Ml_4rjziTAf-r_Im-ZiAp3NfL9PqgN53gH8vtfpNM1e25LBZZ7g0PwFzbH-V0w6KVI7-3adSWnffMok2vzopiJl70dFah2YBN2rTMok6QdF6l1UpPOOgkB7Z1JbuqlIv84keJNJ7hHpBSZRRbrEpMU1JmWKdM4k70k9U6Qz3O-KlDPpdxQJ_p4iZcRyDo9zedrM3asy1ez60lg1USv0hzt22DekDdI1YdRc7T-XqVm4fg4NO7jXfftZ4lvrnX2vUwN-dmxmJa7x8s6JHbo8JnczHN85O-eOrGPDj5gwiLHIGvUq5lGNkzWvD-tDk8iTvREisCe9dincWjtfU9TOGGEumkJDsofT0aBWUmoDuzXvLkf4baTIW3vUdAUqsypXVSC2_H5nvhmx9XBRFWrRyjMG44EtqNF2S33sAL7pdn_F6qVeh0fjzgveDvx4kXjL0oM0aJAsMSJ-nbzVnU3fmK8AQwERR-SYMLZEWpsHF3RVMHZpE8IJJTDtXojpldDrEaiyxBDL0B2yFYWZUDc5zpg98Y-1R55nQne9W4q8wJAoFrl_AeMVXzo"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Which ereader is most gentle to the eyes?",
+      "link": "https://www.reddit.com/r/ereader/comments/1gv8yar/which_ereader_is_most_gentle_to_the_eyes/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFY7fDlXq-hz3_DBSLIy4Bp9pFcvmlkkDZiVA7eGhbkqZoVrv7sPiQx1ae75xsxdaRc6jlCKqWj_tn9qqdWy8yHssOE6X1_mVyG_E0hKsAj83tJtB3X0i9eNW6iEgrLvNgN4S9F9aOpfhvJ7JwSDymxWEcZasQpI7VHgwndV9AnujHWeBpS7Fho76qfbp_U4&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQFnoECCkQAQ&uoh=1",
+      "displayed_link": "20+ comments · 1 year ago",
+      "snippet": "Hello! For years, I have been using only my phone and ipad for reading epubs, and my vision just gets blurry from reading even for a few minutes. I always ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Best ereader for the eyes - Reddit",
+            "link": "https://www.reddit.com/r/ereader/comments/1c3vwnt/best_ereader_for_the_eyes/",
+            "answer_count": 12,
+            "date": "Apr 14, 2024"
+          },
+          {
+            "title": "Best Ereader with low eye strain for reading books ...",
+            "link": "https://www.reddit.com/r/LogosBibleSoftware/comments/1qb5ygc/best_ereader_with_low_eye_strain_for_reading/",
+            "answer_count": 28,
+            "date": "Jan 12, 2026"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Use B&W ereader - highly recommend Pocketbook Ink for good display, waterproof and gentle screen - you can use many of setting and display is ...",
+          "source_info_link": "https://www.reddit.com/r/ereader/comments/1gv8yar/which_ereader_is_most_gentle_to_the_eyes/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZZN2ZEbFhxLWh6M19EQlNMSXk0QnA5cEZjdm1sa2tEWmlWQTdlR2hia3Fab1ZydjdzUGlReDFhZTc1eHN4ZGFSYzZqbENLcVdqX3RuOXFxZFd5OHlIc3NPRTZYMV9tVnlHX0UwaEtzQWo4M3RKdEIzWDBpOWVOVzZpRWdyTHZOZ040UzlGOWFPcGZodko3SndTRHlteFdFY1phc1FwSTdWSGd3bmRWOUFudWpIV2VCcFM3RmhvNzZxZmJwX1U0EgQaAggAGvcFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNMFCAAQABgAIAAqRQoDdG9wFfPOtT4aBGJlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aB2xlYWRpbmcaBnJldmlldxoHcmV2aWV3cxoEdG9wcypICghlcmVhZGVycxUv4AVAGgpib29rcmVhZGVyGghlIHJlYWRlchoJZSByZWFkZXJzGgdlcmVhZGVyGg1pdjtwO2VyZWFkZXJzKgoKA2ZvchUAAAAAKhsKA2V5ZRWnQwJAGgRleWVzGglleWVzdHJhaW4qRgoGc3RyYWluFcRm_T8aCWV5ZXN0cmFpbhoHZmF0aWd1ZRoEcGFpbhoHc3RyYWlucxoHdGVuc2lvbhoLaXY7cDtzdHJhaW4y1QEvZ290bz91cmw9Q0FFU2t3RUI2enN3Rlk3ZkRsWHEtaHozX0RCU0xJeTRCcDlwRmN2bWxra0RaaVZBN2VHaGJrcVpvVnJ2N3NQaVF4MWFlNzV4c3hkYVJjNmpsQ0txV2pfdG45cXFkV3k4eUhzc09FNlgxX21WeUdfRTBoS3NBajgzdEp0QjNYMGk5ZU5XNmlFZ3JMdk5nTjRTOUY5YU9wZmh2SjdKd1NEeW14V0VjWmFzUXBJN1ZIZ3duZFY5QW51akhXZUJwUzdGaG83NnFmYnBfVTQ6QFdoaWNoIDxiPmVyZWFkZXI8L2I-IGlzIG1vc3QgZ2VudGxlIHRvIHRoZSA8Yj5leWVzPC9iPj8gLSBSZWRkaXRCoQFVc2UgPGI-QiZhbXA7VyBlcmVhZGVyPC9iPiAtIGhpZ2hseSByZWNvbW1lbmQgUG9ja2V0Ym9vayBJbmsgZm9yIGdvb2QgZGlzcGxheSwgd2F0ZXJwcm9vZiBhbmQgZ2VudGxlIHNjcmVlbiAtIHlvdSBjYW4gdXNlIG1hbnkgb2Ygc2V0dGluZyBhbmQgZGlzcGxheSBpcyZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZZN2ZEbFhxLWh6M19EQlNMSXk0QnA5cEZjdm1sa2tEWmlWQTdlR2hia3Fab1ZydjdzUGlReDFhZTc1eHN4ZGFSYzZqbENLcVdqX3RuOXFxZFd5OHlIc3NPRTZYMV9tVnlHX0UwaEtzQWo4M3RKdEIzWDBpOWVOVzZpRWdyTHZOZ040UzlGOWFPcGZodko3SndTRHlteFdFY1phc1FwSTdWSGd3bmRWOUFudWpIV2VCcFM3RmhvNzZxZmJwX1U0EgQaAggAGvcFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNMFCAAQABgAIAAqRQoDdG9wFfPOtT4aBGJlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aB2xlYWRpbmcaBnJldmlldxoHcmV2aWV3cxoEdG9wcypICghlcmVhZGVycxUv4AVAGgpib29rcmVhZGVyGghlIHJlYWRlchoJZSByZWFkZXJzGgdlcmVhZGVyGg1pdjtwO2VyZWFkZXJzKgoKA2ZvchUAAAAAKhsKA2V5ZRWnQwJAGgRleWVzGglleWVzdHJhaW4qRgoGc3RyYWluFcRm_T8aCWV5ZXN0cmFpbhoHZmF0aWd1ZRoEcGFpbhoHc3RyYWlucxoHdGVuc2lvbhoLaXY7cDtzdHJhaW4y1QEvZ290bz91cmw9Q0FFU2t3RUI2enN3Rlk3ZkRsWHEtaHozX0RCU0xJeTRCcDlwRmN2bWxra0RaaVZBN2VHaGJrcVpvVnJ2N3NQaVF4MWFlNzV4c3hkYVJjNmpsQ0txV2pfdG45cXFkV3k4eUhzc09FNlgxX21WeUdfRTBoS3NBajgzdEp0QjNYMGk5ZU5XNmlFZ3JMdk5nTjRTOUY5YU9wZmh2SjdKd1NEeW14V0VjWmFzUXBJN1ZIZ3duZFY5QW51akhXZUJwUzdGaG83NnFmYnBfVTQ6QFdoaWNoIDxiPmVyZWFkZXI8L2I-IGlzIG1vc3QgZ2VudGxlIHRvIHRoZSA8Yj5leWVzPC9iPj8gLSBSZWRkaXRCoQFVc2UgPGI-QiZhbXA7VyBlcmVhZGVyPC9iPiAtIGhpZ2hseSByZWNvbW1lbmQgUG9ja2V0Ym9vayBJbmsgZm9yIGdvb2QgZGlzcGxheSwgd2F0ZXJwcm9vZiBhbmQgZ2VudGxlIHNjcmVlbiAtIHlvdSBjYW4gdXNlIG1hbnkgb2Ygc2V0dGluZyBhbmQgZGlzcGxheSBpcyZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Reddit · r/ereader"
+    },
+    {
+      "position": 2,
+      "title": "What is the best e-reader for reducing eye strain and ...",
+      "link": "https://www.facebook.com/groups/983616945825132/posts/1637023387151148/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVhdoOUhFHw0PlG0o40E0fQaSHs95LgEwxa3yuHRsN0Z3XjyaPBXynmPwDC8H_C0JfZN6xKwhu31IsBiAUR1oObKIQFbqSmiBXXXlBpag8af3Wa6HmogJBU93GRZP2DahbkJDCbaWMwvjKTiPazxyx8YP1Y9Kbc991C-s&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQFnoECCcQAQ&uoh=1",
+      "displayed_link": "80+ comments · 2 years ago",
+      "snippet": "EDIT: I don't like reading on my phone because it hurts my eyes. I asked about some type of Kindle because i thought maybe it would be better. Hi! I ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What e-reader is best for sensitive eyes?",
+            "link": "https://www.facebook.com/groups/495951086593834/posts/968191519369786/",
+            "date": "May 20, 2026"
+          },
+          {
+            "title": "What e-reader is best for eye strain?",
+            "link": "https://www.facebook.com/groups/thereadingnookonfb/posts/1089215290461734/",
+            "date": "May 18, 2026"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Kindle Paperwhite is widely recommended for reducing eye strain and headaches due to its matte screen and adjustable font size.",
+          "source_info_link": "https://www.facebook.com/groups/983616945825132/posts/1637023387151148/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVmhkb09VaEZIdzBQbEcwbzQwRTBmUWFTSHM5NUxnRXd4YTN5dUhSc04wWjNYanlhUEJYeW5tUHdEQzhIX0MwSmZaTjZ4S3dodTMxSXNCaUFVUjFvT2JLSVFGYnFTbWlCWFhYbEJwYWc4YWYzV2E2SG1vZ0pCVTkzR1JaUDJEYWhia0pEQ2JhV013dmpLVGlQYXp4eXg4WVAxWTlLYmM5OTFDLXMSBBoCCAAazgUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAqgUIABAAGAAgACpFCgN0b3AVAAAAABoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoHbGVhZGluZxoGcmV2aWV3GgdyZXZpZXdzGgR0b3BzKkgKCGVyZWFkZXJzFQpfEj8aCmJvb2tyZWFkZXIaCGUgcmVhZGVyGgllIHJlYWRlcnMaB2VyZWFkZXIaDWl2O3A7ZXJlYWRlcnMqCgoDZm9yFQAAAAAqGwoDZXllFQiAkkAaBGV5ZXMaCWV5ZXN0cmFpbipGCgZzdHJhaW4VhrKLQBoJZXllc3RyYWluGgdmYXRpZ3VlGgRwYWluGgdzdHJhaW5zGgd0ZW5zaW9uGgtpdjtwO3N0cmFpbjK5AS9nb3RvP3VybD1DQUVTZndIck96QVZoZG9PVWhGSHcwUGxHMG80MEUwZlFhU0hzOTVMZ0V3eGEzeXVIUnNOMFozWGp5YVBCWHlubVB3REM4SF9DMEpmWk42eEt3aHUzMUlzQmlBVVIxb09iS0lRRmJxU21pQlhYWGxCcGFnOGFmM1dhNkhtb2dKQlU5M0dSWlAyRGFoYmtKRENiYVdNd3ZqS1RpUGF6eHl4OFlQMVk5S2JjOTkxQy1zOk5XaGF0IGlzIHRoZSA8Yj5iZXN0IGUtcmVhZGVyPC9iPiBmb3IgcmVkdWNpbmcgPGI-ZXllIHN0cmFpbjwvYj4gLi4uIC0gRmFjZWJvb2tChgE8Yj5LaW5kbGUgUGFwZXJ3aGl0ZTwvYj4gaXMgd2lkZWx5IHJlY29tbWVuZGVkIGZvciByZWR1Y2luZyBleWUgc3RyYWluIGFuZCBoZWFkYWNoZXMgZHVlIHRvIGl0cyBtYXR0ZSBzY3JlZW4gYW5kIGFkanVzdGFibGUgZm9udCBzaXplLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVmhkb09VaEZIdzBQbEcwbzQwRTBmUWFTSHM5NUxnRXd4YTN5dUhSc04wWjNYanlhUEJYeW5tUHdEQzhIX0MwSmZaTjZ4S3dodTMxSXNCaUFVUjFvT2JLSVFGYnFTbWlCWFhYbEJwYWc4YWYzV2E2SG1vZ0pCVTkzR1JaUDJEYWhia0pEQ2JhV013dmpLVGlQYXp4eXg4WVAxWTlLYmM5OTFDLXMSBBoCCAAazgUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAqgUIABAAGAAgACpFCgN0b3AVAAAAABoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoHbGVhZGluZxoGcmV2aWV3GgdyZXZpZXdzGgR0b3BzKkgKCGVyZWFkZXJzFQpfEj8aCmJvb2tyZWFkZXIaCGUgcmVhZGVyGgllIHJlYWRlcnMaB2VyZWFkZXIaDWl2O3A7ZXJlYWRlcnMqCgoDZm9yFQAAAAAqGwoDZXllFQiAkkAaBGV5ZXMaCWV5ZXN0cmFpbipGCgZzdHJhaW4VhrKLQBoJZXllc3RyYWluGgdmYXRpZ3VlGgRwYWluGgdzdHJhaW5zGgd0ZW5zaW9uGgtpdjtwO3N0cmFpbjK5AS9nb3RvP3VybD1DQUVTZndIck96QVZoZG9PVWhGSHcwUGxHMG80MEUwZlFhU0hzOTVMZ0V3eGEzeXVIUnNOMFozWGp5YVBCWHlubVB3REM4SF9DMEpmWk42eEt3aHUzMUlzQmlBVVIxb09iS0lRRmJxU21pQlhYWGxCcGFnOGFmM1dhNkhtb2dKQlU5M0dSWlAyRGFoYmtKRENiYVdNd3ZqS1RpUGF6eHl4OFlQMVk5S2JjOTkxQy1zOk5XaGF0IGlzIHRoZSA8Yj5iZXN0IGUtcmVhZGVyPC9iPiBmb3IgcmVkdWNpbmcgPGI-ZXllIHN0cmFpbjwvYj4gLi4uIC0gRmFjZWJvb2tChgE8Yj5LaW5kbGUgUGFwZXJ3aGl0ZTwvYj4gaXMgd2lkZWx5IHJlY29tbWVuZGVkIGZvciByZWR1Y2luZyBleWUgc3RyYWluIGFuZCBoZWFkYWNoZXMgZHVlIHRvIGl0cyBtYXR0ZSBzY3JlZW4gYW5kIGFkanVzdGFibGUgZm9udCBzaXplLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Facebook · Psychological Thriller Readers"
+    },
+    {
+      "position": 3,
+      "title": "The Best Ereaders We've Tested for 2026",
+      "link": "https://www.pcmag.com/picks/the-best-ereaders",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVgbhVnXnCw6dQtXerQzYP4QRQejQrrJdzjPTo0TwgQTneojYibqcAgBEMQ3y0jwFx1GlTaAkUGNHihS2RMNcUOfdAYrrgSwSCjMZw_7XSO0Wbt3F9oi_0hrOED1Z-tPDO&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.pcmag.com › Best Products › Ebook Readers",
+      "date": "Aug 18, 2026",
+      "snippet": "Our Top Tested Picks · Amazon Kindle Paperwhite (2024) · Amazon Kindle Paperwhite Kids (2024) · Apple iPad (11th Gen, 2025) · Onyx Book Go Color 7 ( ...",
+      "snippet_highlighted_words": [
+        "Amazon Kindle Paperwhite (2024"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Our Top Tested Picks",
+            "link": "https://www.pcmag.com/picks/the-best-ereaders#our-top-tested-picks"
+          },
+          {
+            "title": "What's the Best Ereader...",
+            "link": "https://www.pcmag.com/picks/the-best-ereaders#whats-the-best-ereader-screen-type-and-size"
+          },
+          {
+            "title": "The Best Color Ereaders",
+            "link": "https://www.pcmag.com/picks/the-best-ereaders#the-best-color-ereaders"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Our Top Tested Picks · Amazon Kindle Paperwhite (2024) · Amazon Kindle Paperwhite Kids (2024) · Apple iPad (11th Gen, 2025) · Onyx Book Go Color 7 ( ...",
+          "source_info_link": "https://www.pcmag.com/picks/the-best-ereaders",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXrAC7rAC7rAC7rAC3rACHwZXXqAAzvS170kpz2qbHzhJD____5v8XtKUT71dn_-fr-7_HxcHzuOVHFtC6NAAAAA3RSTlNM9fvAUo4WAAAAqklEQVR4AbXTgQrEIAiA4TbNKmurvf_DnsM44agA4H4ghA8gyJw7zkWHcyesEpUTNdBsfhG9BgQShZhSBhxIPCqi9dI50sDblBqPMhpq0L9jI8PLs-QjS72whGBIhjVt8PkThizBAvHNcBR2SIpPl36x0_xCfLcSEFe3JUJYIkiKdYe-zHH-ZIqAMmsRFdkQalNLNBYsSh1BI59KiVVM0JZxsponLDu23-EDtDAWNH_t18YAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmdiaFZuWG5DdzZkUXRYZXJRellQNFFSUWVqUXJySmR6alBUbzBUd2dRVG5lb2pZaWJxY0FnQkVNUTN5MGp3RngxR2xUYUFrVUdOSGloUzJSTU5jVU9mZEFZcnJnU3dTQ2pNWndfN1hTTzBXYnQzRjlvaV8waHJPRUQxWi10UERPEgQaAggAGtMFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArQUIABAAGAAgACpFCgN0b3AV328TPxoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoHbGVhZGluZxoGcmV2aWV3GgdyZXZpZXdzGgR0b3BzKkgKCGVyZWFkZXJzFfzFKkAaCmJvb2tyZWFkZXIaCGUgcmVhZGVyGgllIHJlYWRlcnMaB2VyZWFkZXIaDWl2O3A7ZXJlYWRlcnMqCgoDZm9yFQAAAAAqGwoDZXllFQAAAAAaBGV5ZXMaCWV5ZXN0cmFpbipGCgZzdHJhaW4VAAAAABoJZXllc3RyYWluGgdmYXRpZ3VlGgRwYWluGgdzdHJhaW5zGgd0ZW5zaW9uGgtpdjtwO3N0cmFpbjKWAS9nb3RvP3VybD1DQUVTWlFIck96QVZnYmhWblhuQ3c2ZFF0WGVyUXpZUDRRUlFlalFyckpkempQVG8wVHdnUVRuZW9qWWlicWNBZ0JFTVEzeTBqd0Z4MUdsVGFBa1VHTkhpaFMyUk1OY1VPZmRBWXJyZ1N3U0NqTVp3XzdYU08wV2J0M0Y5b2lfMGhyT0VEMVotdFBETzo6VGhlIDxiPkJlc3QgRXJlYWRlcnM8L2I-IFdlJiMzOTt2ZSBUZXN0ZWQgZm9yIDIwMjYgfCBQQ01hZ0LAAU91ciBUb3AgVGVzdGVkIFBpY2tzICZtaWRkb3Q7IDxiPkFtYXpvbiBLaW5kbGUgUGFwZXJ3aGl0ZSAoMjAyNDwvYj4pICZtaWRkb3Q7IEFtYXpvbiBLaW5kbGUgUGFwZXJ3aGl0ZSBLaWRzICgyMDI0KSAmbWlkZG90OyBBcHBsZSBpUGFkICgxMXRoIEdlbiwgMjAyNSkgJm1pZGRvdDsgT255eCBCb29rIEdvIENvbG9yIDcgKCZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmdiaFZuWG5DdzZkUXRYZXJRellQNFFSUWVqUXJySmR6alBUbzBUd2dRVG5lb2pZaWJxY0FnQkVNUTN5MGp3RngxR2xUYUFrVUdOSGloUzJSTU5jVU9mZEFZcnJnU3dTQ2pNWndfN1hTTzBXYnQzRjlvaV8waHJPRUQxWi10UERPEgQaAggAGtMFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArQUIABAAGAAgACpFCgN0b3AV328TPxoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoHbGVhZGluZxoGcmV2aWV3GgdyZXZpZXdzGgR0b3BzKkgKCGVyZWFkZXJzFfzFKkAaCmJvb2tyZWFkZXIaCGUgcmVhZGVyGgllIHJlYWRlcnMaB2VyZWFkZXIaDWl2O3A7ZXJlYWRlcnMqCgoDZm9yFQAAAAAqGwoDZXllFQAAAAAaBGV5ZXMaCWV5ZXN0cmFpbipGCgZzdHJhaW4VAAAAABoJZXllc3RyYWluGgdmYXRpZ3VlGgRwYWluGgdzdHJhaW5zGgd0ZW5zaW9uGgtpdjtwO3N0cmFpbjKWAS9nb3RvP3VybD1DQUVTWlFIck96QVZnYmhWblhuQ3c2ZFF0WGVyUXpZUDRRUlFlalFyckpkempQVG8wVHdnUVRuZW9qWWlicWNBZ0JFTVEzeTBqd0Z4MUdsVGFBa1VHTkhpaFMyUk1OY1VPZmRBWXJyZ1N3U0NqTVp3XzdYU08wV2J0M0Y5b2lfMGhyT0VEMVotdFBETzo6VGhlIDxiPkJlc3QgRXJlYWRlcnM8L2I-IFdlJiMzOTt2ZSBUZXN0ZWQgZm9yIDIwMjYgfCBQQ01hZ0LAAU91ciBUb3AgVGVzdGVkIFBpY2tzICZtaWRkb3Q7IDxiPkFtYXpvbiBLaW5kbGUgUGFwZXJ3aGl0ZSAoMjAyNDwvYj4pICZtaWRkb3Q7IEFtYXpvbiBLaW5kbGUgUGFwZXJ3aGl0ZSBLaWRzICgyMDI0KSAmbWlkZG90OyBBcHBsZSBpUGFkICgxMXRoIEdlbiwgMjAyNSkgJm1pZGRvdDsgT255eCBCb29rIEdvIENvbG9yIDcgKCZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "PCMag",
+      "read_more_link": "https://www.pcmag.com/picks/the-best-ereaders#:~:text=Our%20Top%20Tested%20Picks&text=Amazon%20Kindle%20Paperwhite%20(2024)&text=Amazon%20Kindle%20Paperwhite%20Kids%20(2024)&text=Apple%20iPad%20(11th%20Gen%2C%202025)&text=Onyx%20Book%20Go%20Color%207,(Gen%20II)"
+    },
+    {
+      "position": 4,
+      "title": "The 3 Best E-Readers of 2026 | Reviews by Wirecutter",
+      "link": "https://www.nytimes.com/wirecutter/reviews/amazon-kindle-is-the-best-ebook-reader/?eafs_enabled=false",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFW1jfocGu1JxoCuRnWeII75QOdIur7EhInYQfyOenoWCPMu4lg6KeQBxRy6d4ZJhUDymF6Qr13BLmZH4KK-CGUBHZRTrGa57jOPbosW2OXpQ6-JYxda6SSE22ntu8Yyy1GlC86BKfXv0b4FPfgcJ5Ku-HCmfr8drxpHyw3VGIxO9n_KFPyNevxrGNXIoxofwcMU2bwy04kYD&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.nytimes.com › Electronics › Tablets",
+      "date": "Jun 11, 2026",
+      "snippet": "If you have no interest in buying into the Amazon ecosystem, Kobo e-readers are a solid option. The newest Kobo model splits the difference ...",
+      "snippet_highlighted_words": [
+        "Kobo e-readers are a solid option"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you have no interest in buying into the Amazon ecosystem, Kobo e-readers are a solid option. The newest Kobo model splits the difference ...",
+          "source_info_link": "https://www.nytimes.com/wirecutter/reviews/amazon-kindle-is-the-best-ebook-reader/?eafs_enabled=false",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglpAARATxnEK-53JWvDHstgGhzN4zLjcujgAP70y3hbIMpz_UzumDFx5vNeLmNtc6KYIX8KBs2PnxmvVpWxXJ2Z-_20c7zNgNO9SlHtET_-QirUKQJp_KqP3hmZ658MxfYknTY3z49W6gyZPEu32blPW2VxF8a701Bdq_cNE_t3f7N2lls7m1XNPn9sEYjKl_98sH4hOtumLRq53YTM2gXCylqfVKmiGBp8fnWX7CA1ugZwgWzkjS6J3S_qHB9fj2penTr8er5CBGF-q-tsjHhfZzgeOKAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZXMWpmb2NHdTFKeG9DdVJuV2VJSTc1UU9kSXVyN0VoSW5ZUWZ5T2Vub1dDUE11NGxnNktlUUJ4Unk2ZDRaSmhVRHltRjZRcjEzQkxtWkg0S0stQ0dVQkhaUlRyR2E1N2pPUGJvc1cyT1hwUTYtSll4ZGE2U1NFMjJudHU4WXl5MUdsQzg2QktmWHYwYjRGUGZnY0o1S3UtSENtZnI4ZHJ4cEh5dzNWR0l4TzluX0tGUHlOZXZ4ckdOWElveG9md2NNVTJid3kwNGtZRBIEGgIIABrpBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMMFCAAQABgAIAAqRQoDdG9wFbrNAT8aBGJlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aB2xlYWRpbmcaBnJldmlldxoHcmV2aWV3cxoEdG9wcypICghlcmVhZGVycxWgiwlAGgpib29rcmVhZGVyGghlIHJlYWRlchoJZSByZWFkZXJzGgdlcmVhZGVyGg1pdjtwO2VyZWFkZXJzKgoKA2ZvchUAAAAAKhsKA2V5ZRU4MFE8GgRleWVzGglleWVzdHJhaW4qRgoGc3RyYWluFQAAAAAaCWV5ZXN0cmFpbhoHZmF0aWd1ZRoEcGFpbhoHc3RyYWlucxoHdGVuc2lvbhoLaXY7cDtzdHJhaW4yyQEvZ290bz91cmw9Q0FFU2lnRUI2enN3RmJ3MXBZNmExNWdkRnU4QW5XX09sU2dGdUJzTWJGc2pZeVgxVU9PM1BYcWpfQ2xrd3U4bGtIT01RVXh0TEc0LVJ0YnhJR01zZFlYWWdPd3p4Q3lKS0pOX3dyM2x4a1FkWmZGUV9xR0FLT09XZjhMdVV0RTlId2dRanpLVWY3dXhyamIwWTkxajJIX0VWZFR2akZ1b3dIY2dMWm92SHRPZjRxTm41cHVrVnM2emVDV1l1MXc6QlRoZSAzIDxiPkJlc3QgRS1SZWFkZXJzPC9iPiBvZiAyMDI2IHwgPGI-UmV2aWV3czwvYj4gYnkgV2lyZWN1dHRlckKbAUlmIHlvdSBoYXZlIG5vIGludGVyZXN0IGluIGJ1eWluZyBpbnRvIHRoZSBBbWF6b24gZWNvc3lzdGVtLCA8Yj5Lb2JvIGUtcmVhZGVycyBhcmUgYSBzb2xpZCBvcHRpb248L2I-LiBUaGUgbmV3ZXN0IEtvYm8gbW9kZWwgc3BsaXRzIHRoZSBkaWZmZXJlbmNlJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZXMWpmb2NHdTFKeG9DdVJuV2VJSTc1UU9kSXVyN0VoSW5ZUWZ5T2Vub1dDUE11NGxnNktlUUJ4Unk2ZDRaSmhVRHltRjZRcjEzQkxtWkg0S0stQ0dVQkhaUlRyR2E1N2pPUGJvc1cyT1hwUTYtSll4ZGE2U1NFMjJudHU4WXl5MUdsQzg2QktmWHYwYjRGUGZnY0o1S3UtSENtZnI4ZHJ4cEh5dzNWR0l4TzluX0tGUHlOZXZ4ckdOWElveG9md2NNVTJid3kwNGtZRBIEGgIIABrpBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMMFCAAQABgAIAAqRQoDdG9wFbrNAT8aBGJlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aB2xlYWRpbmcaBnJldmlldxoHcmV2aWV3cxoEdG9wcypICghlcmVhZGVycxWgiwlAGgpib29rcmVhZGVyGghlIHJlYWRlchoJZSByZWFkZXJzGgdlcmVhZGVyGg1pdjtwO2VyZWFkZXJzKgoKA2ZvchUAAAAAKhsKA2V5ZRU4MFE8GgRleWVzGglleWVzdHJhaW4qRgoGc3RyYWluFQAAAAAaCWV5ZXN0cmFpbhoHZmF0aWd1ZRoEcGFpbhoHc3RyYWlucxoHdGVuc2lvbhoLaXY7cDtzdHJhaW4yyQEvZ290bz91cmw9Q0FFU2lnRUI2enN3RmJ3MXBZNmExNWdkRnU4QW5XX09sU2dGdUJzTWJGc2pZeVgxVU9PM1BYcWpfQ2xrd3U4bGtIT01RVXh0TEc0LVJ0YnhJR01zZFlYWWdPd3p4Q3lKS0pOX3dyM2x4a1FkWmZGUV9xR0FLT09XZjhMdVV0RTlId2dRanpLVWY3dXhyamIwWTkxajJIX0VWZFR2akZ1b3dIY2dMWm92SHRPZjRxTm41cHVrVnM2emVDV1l1MXc6QlRoZSAzIDxiPkJlc3QgRS1SZWFkZXJzPC9iPiBvZiAyMDI2IHwgPGI-UmV2aWV3czwvYj4gYnkgV2lyZWN1dHRlckKbAUlmIHlvdSBoYXZlIG5vIGludGVyZXN0IGluIGJ1eWluZyBpbnRvIHRoZSBBbWF6b24gZWNvc3lzdGVtLCA8Yj5Lb2JvIGUtcmVhZGVycyBhcmUgYSBzb2xpZCBvcHRpb248L2I-LiBUaGUgbmV3ZXN0IEtvYm8gbW9kZWwgc3BsaXRzIHRoZSBkaWZmZXJlbmNlJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "The New York Times",
+      "read_more_link": "https://www.nytimes.com/wirecutter/reviews/amazon-kindle-is-the-best-ebook-reader/?eafs_enabled=false#:~:text=If%20you%20have%20no%20interest,Kobo%20model%20splits%20the%20difference"
+    },
+    {
+      "position": 5,
+      "title": "E Ink vs. LED for eye strain",
+      "link": "https://www.kobo.com/blog/is-there-such-a-thing-as-good-screen-time?srsltid=AU7gw4X685pt6qW4u1jxZIfIO0nNnfA1xM0XRjBoLi4o5mDCIusKskM_",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvQEB6zswFQ_7GCx9ri7jY2YP7npgCCPuNoek5_LKRWvREJEnpokcFn4walrSh8KeJ2oTEfOOwz69V_EjdiLrgE0CCkqWZ1azkuhKrv8PZTV-8SQsddgy2m3HEksLk3R2zP13gKvuJXUR5wYxMdTT5eFuWZTj10Z4Lxr38VsGQA6fHa3lYhUmIgapudMEcO3zHpdYhxwJHsyrT11nlm7dfmvMH_EF69Qee3BWADNs3jUSbgK_2NfV_4ugEpd0Jr4&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://www.kobo.com › blog › is-there-such-a-thing-as...",
+      "date": "Oct 24, 2025",
+      "snippet": "We compared E Ink screens to LED screens to see if chronic eye strain requires cutting down on all screen time, or just time with certain ...",
+      "snippet_highlighted_words": [
+        "E Ink screens"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We compared E Ink screens to LED screens to see if chronic eye strain requires cutting down on all screen time, or just time with certain ...",
+          "source_info_link": "https://www.kobo.com/blog/is-there-such-a-thing-as-good-screen-time?srsltid=AU7gw4X685pt6qW4u1jxZIfIO0nNnfA1xM0XRjBoLi4o5mDCIusKskM_",
+          "icon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglsAMTmIz3lIiJTXgmerWoU1kxouhu3qq9ujrIVz7Szem5AAP78-uRu5dW47zZNXfv0zdU-At7Cn2OAXnTKlX0nxNVNcpZWPvWqtZLB6UqfhjByzAIZTisHrXrJ7NlUiW7TNJ__jnL-f-016YCf_UFGh_0xqt3tZ31PbftdTYm11hM0JyOUsYdDzw94hxv458pbpn98kYcEeB-t3izbKdRMkINXa-ZRmzx1yXtfK3AFLMZVjQO9a-J444CTfE99Q8_mx6oTGqZ0SkNG7tsGIf195a2kVUkpe_vcfpEUg3uS9mVfZifv6GSLz4TFMb5Lb9MPL3ogzoYTKzpViEgqvQWul6u6i80O-5423H_uAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0CL2dvdG8_dXJsPUNBRVN2UUVCNnpzd0ZRXzdHQ3g5cmk3alkyWVA3bnBnQ0NQdU5vZWs1X0xLUld2UkVKRW5wb2tjRm40d2FsclNoOEtlSjJvVEVmT093ejY5Vl9FamRpTHJnRTBDQ2txV1oxYXprdWhLcnY4UFpUVi04U1FzZGRneTJtM0hFa3NMazNSMnpQMTNnS3Z1SlhVUjV3WXhNZFRUNWVGdVdaVGoxMFo0THhyMzhWc0dRQTZmSGEzbFloVW1JZ2FwdWRNRWNPM3pIcGRZaHh3SkhzeXJUMTFubG03ZGZtdk1IX0VGNjlRZWUzQldBRE5zM2pVU2JnS18yTmZWXzR1Z0VwZDBKcjQSBBoCCAAaxQUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCfBQgAEAAYACAAKkUKA3RvcBUAAAAAGgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdsZWFkaW5nGgZyZXZpZXcaB3Jldmlld3MaBHRvcHMqSAoIZXJlYWRlcnMVHpIjPxoKYm9va3JlYWRlchoIZSByZWFkZXIaCWUgcmVhZGVycxoHZXJlYWRlchoNaXY7cDtlcmVhZGVycyoKCgNmb3IVAAAAACobCgNleWUVxzNNQBoEZXllcxoJZXllc3RyYWluKkYKBnN0cmFpbhWKXUlAGglleWVzdHJhaW4aB2ZhdGlndWUaBHBhaW4aB3N0cmFpbnMaB3RlbnNpb24aC2l2O3A7c3RyYWluMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVmZvcXhhNlRJOWFBMURHMHNYRHRzRERXel9oY1RLM2hQVXZXcDJSZlhiT3lOZzA2TU1obmtKMU5VNFAzRjFYSTU5WEwyd2plRk0yLWlvbldnUjlGQzJ6dmJtcWcyYWtrV0FjYmRHaklEalprRlZGbzhhR2VQeHVrQnlSZXFMYlBkNkNHWGk2bDhCUWpGZEFZcnZ3dFNoSV9FSldYc2xnOjVFIEluayB2cy4gTEVEIGZvciA8Yj5leWUgc3RyYWluPC9iPiB8IEtvYm8gQm9va3MgQmxvZ0KZAVdlIGNvbXBhcmVkIDxiPkUgSW5rIHNjcmVlbnM8L2I-IHRvIExFRCBzY3JlZW5zIHRvIHNlZSBpZiBjaHJvbmljIGV5ZSBzdHJhaW4gcmVxdWlyZXMgY3V0dGluZyBkb3duIG9uIGFsbCBzY3JlZW4gdGltZSwgb3IganVzdCB0aW1lIHdpdGggY2VydGFpbiZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0CL2dvdG8_dXJsPUNBRVN2UUVCNnpzd0ZRXzdHQ3g5cmk3alkyWVA3bnBnQ0NQdU5vZWs1X0xLUld2UkVKRW5wb2tjRm40d2FsclNoOEtlSjJvVEVmT093ejY5Vl9FamRpTHJnRTBDQ2txV1oxYXprdWhLcnY4UFpUVi04U1FzZGRneTJtM0hFa3NMazNSMnpQMTNnS3Z1SlhVUjV3WXhNZFRUNWVGdVdaVGoxMFo0THhyMzhWc0dRQTZmSGEzbFloVW1JZ2FwdWRNRWNPM3pIcGRZaHh3SkhzeXJUMTFubG03ZGZtdk1IX0VGNjlRZWUzQldBRE5zM2pVU2JnS18yTmZWXzR1Z0VwZDBKcjQSBBoCCAAaxQUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCfBQgAEAAYACAAKkUKA3RvcBUAAAAAGgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdsZWFkaW5nGgZyZXZpZXcaB3Jldmlld3MaBHRvcHMqSAoIZXJlYWRlcnMVHpIjPxoKYm9va3JlYWRlchoIZSByZWFkZXIaCWUgcmVhZGVycxoHZXJlYWRlchoNaXY7cDtlcmVhZGVycyoKCgNmb3IVAAAAACobCgNleWUVxzNNQBoEZXllcxoJZXllc3RyYWluKkYKBnN0cmFpbhWKXUlAGglleWVzdHJhaW4aB2ZhdGlndWUaBHBhaW4aB3N0cmFpbnMaB3RlbnNpb24aC2l2O3A7c3RyYWluMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVmZvcXhhNlRJOWFBMURHMHNYRHRzRERXel9oY1RLM2hQVXZXcDJSZlhiT3lOZzA2TU1obmtKMU5VNFAzRjFYSTU5WEwyd2plRk0yLWlvbldnUjlGQzJ6dmJtcWcyYWtrV0FjYmRHaklEalprRlZGbzhhR2VQeHVrQnlSZXFMYlBkNkNHWGk2bDhCUWpGZEFZcnZ3dFNoSV9FSldYc2xnOjVFIEluayB2cy4gTEVEIGZvciA8Yj5leWUgc3RyYWluPC9iPiB8IEtvYm8gQm9va3MgQmxvZ0KZAVdlIGNvbXBhcmVkIDxiPkUgSW5rIHNjcmVlbnM8L2I-IHRvIExFRCBzY3JlZW5zIHRvIHNlZSBpZiBjaHJvbmljIGV5ZSBzdHJhaW4gcmVxdWlyZXMgY3V0dGluZyBkb3duIG9uIGFsbCBzY3JlZW4gdGltZSwgb3IganVzdCB0aW1lIHdpdGggY2VydGFpbiZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Kobo"
+    },
+    {
+      "position": 6,
+      "title": "Which is better for your eyes: e-readers or print",
+      "link": "https://www.feelgoodcontacts.com/eye-care-hub/eye-health/ereaders-or-print-which-is-better-for-eyes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFbPglXEf8nMGEAwifTKcVRcf6gzVLn8Oi-6g1yEg9fd1AbTBRorS6tj43opG3x8t9kdNn64oHb5DAo4ShefpZfZ9RSLgF5TGUFVqZDqZ8-tf-NT0VUHEGnK7iDtWu1qRYOQymEyeAwaQSNR8WpGxBuQP5WMAUhYPiRBuukkYlvWEV1uoc7cQUNhy82Ak715oSXVTbPYHPg&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://www.feelgoodcontacts.com › eye-health › eread...",
+      "date": "Jun 11, 2024",
+      "snippet": "E-readers like the Amazon Kindle use e-ink, This causes much less strain on the eye than reading from LCD screens reduce our blink rate. and ...",
+      "snippet_highlighted_words": [
+        "Amazon Kindle"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "E-readers like the Amazon Kindle use e-ink, This causes much less strain on the eye than reading from LCD screens reduce our blink rate. and  ...",
+          "source_info_link": "https://www.feelgoodcontacts.com/eye-care-hub/eye-health/ereaders-or-print-which-is-better-for-eyes",
+          "icon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAAAwBQCdASocABwAPtE8tFooIigoFAEAGglpAARA_xlkK_Z-q2-cp85xwwZUQL4OvYbrQAD-9gF275X3ffGUdEPZm_7xkufP2Dx9V_vIF7jlw1WKWmu4eZ4RZPU0JYEHTbeNxOj86RoPav91PmxBLc4J6Rv51ckPrOjmfvpr9B_js97aQo3AsHn8cdjfHugzJbR8v5ZdGdJfE3qNrrGRPCm-pdd1y0phlabZHS5DL_rhAlUiTnClcSPp0Fr99X_f_w3Nxm3IuOIX9HR8zxd0jPw2ozkpW5ddhCuCoAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZiUGdsWEVmOG5NR0VBd2lmVEtjVlJjZjZnelZMbjhPaS02ZzF5RWc5ZmQxQWJUQlJvclM2dGo0M29wRzN4OHQ5a2RObjY0b0hiNURBbzRTaGVmcFpmWjlSU0xnRjVUR1VGVnFaRHFaOC10Zi1OVDBWVUhFR25LN2lEdFd1MXFSWU9ReW1FeWVBd2FRU05SOFdwR3hCdVFQNVdNQVVoWVBpUkJ1dWtrWWx2V0VWMXVvYzdjUVVOaHk4MkFrNzE1b1NYVlRiUFlIUGcSBBoCCAAa_wUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDZBQgAEAAYACAAKkUKA3RvcBVnvrs_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdsZWFkaW5nGgZyZXZpZXcaB3Jldmlld3MaBHRvcHMqSAoIZXJlYWRlcnMVxmJOQBoKYm9va3JlYWRlchoIZSByZWFkZXIaCWUgcmVhZGVycxoHZXJlYWRlchoNaXY7cDtlcmVhZGVycyoKCgNmb3IVAAAAACobCgNleWUV6lVmQBoEZXllcxoJZXllc3RyYWluKkYKBnN0cmFpbhXBQYY_GglleWVzdHJhaW4aB2ZhdGlndWUaBHBhaW4aB3N0cmFpbnMaB3RlbnNpb24aC2l2O3A7c3RyYWluMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZiUGdsWEVmOG5NR0VBd2lmVEtjVlJjZjZnelZMbjhPaS02ZzF5RWc5ZmQxQWJUQlJvclM2dGo0M29wRzN4OHQ5a2RObjY0b0hiNURBbzRTaGVmcFpmWjlSU0xnRjVUR1VGVnFaRHFaOC10Zi1OVDBWVUhFR25LN2lEdFd1MXFSWU9ReW1FeWVBd2FRU05SOFdwR3hCdVFQNVdNQVVoWVBpUkJ1dWtrWWx2V0VWMXVvYzdjUVVOaHk4MkFrNzE1b1NYVlRiUFlIUGc6P1doaWNoIGlzIGJldHRlciBmb3IgeW91ciA8Yj5leWVzPC9iPjogPGI-ZS1yZWFkZXJzPC9iPiBvciBwcmludEKdAUUtcmVhZGVycyBsaWtlIHRoZSA8Yj5BbWF6b24gS2luZGxlPC9iPiB1c2UgZS1pbmssIFRoaXMgY2F1c2VzIG11Y2ggbGVzcyBzdHJhaW4gb24gdGhlIGV5ZSB0aGFuIHJlYWRpbmcgZnJvbSBMQ0Qgc2NyZWVucyByZWR1Y2Ugb3VyIGJsaW5rIHJhdGUuIGFuZCAmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZiUGdsWEVmOG5NR0VBd2lmVEtjVlJjZjZnelZMbjhPaS02ZzF5RWc5ZmQxQWJUQlJvclM2dGo0M29wRzN4OHQ5a2RObjY0b0hiNURBbzRTaGVmcFpmWjlSU0xnRjVUR1VGVnFaRHFaOC10Zi1OVDBWVUhFR25LN2lEdFd1MXFSWU9ReW1FeWVBd2FRU05SOFdwR3hCdVFQNVdNQVVoWVBpUkJ1dWtrWWx2V0VWMXVvYzdjUVVOaHk4MkFrNzE1b1NYVlRiUFlIUGcSBBoCCAAa_wUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDZBQgAEAAYACAAKkUKA3RvcBVnvrs_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdsZWFkaW5nGgZyZXZpZXcaB3Jldmlld3MaBHRvcHMqSAoIZXJlYWRlcnMVxmJOQBoKYm9va3JlYWRlchoIZSByZWFkZXIaCWUgcmVhZGVycxoHZXJlYWRlchoNaXY7cDtlcmVhZGVycyoKCgNmb3IVAAAAACobCgNleWUV6lVmQBoEZXllcxoJZXllc3RyYWluKkYKBnN0cmFpbhXBQYY_GglleWVzdHJhaW4aB2ZhdGlndWUaBHBhaW4aB3N0cmFpbnMaB3RlbnNpb24aC2l2O3A7c3RyYWluMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZiUGdsWEVmOG5NR0VBd2lmVEtjVlJjZjZnelZMbjhPaS02ZzF5RWc5ZmQxQWJUQlJvclM2dGo0M29wRzN4OHQ5a2RObjY0b0hiNURBbzRTaGVmcFpmWjlSU0xnRjVUR1VGVnFaRHFaOC10Zi1OVDBWVUhFR25LN2lEdFd1MXFSWU9ReW1FeWVBd2FRU05SOFdwR3hCdVFQNVdNQVVoWVBpUkJ1dWtrWWx2V0VWMXVvYzdjUVVOaHk4MkFrNzE1b1NYVlRiUFlIUGc6P1doaWNoIGlzIGJldHRlciBmb3IgeW91ciA8Yj5leWVzPC9iPjogPGI-ZS1yZWFkZXJzPC9iPiBvciBwcmludEKdAUUtcmVhZGVycyBsaWtlIHRoZSA8Yj5BbWF6b24gS2luZGxlPC9iPiB1c2UgZS1pbmssIFRoaXMgY2F1c2VzIG11Y2ggbGVzcyBzdHJhaW4gb24gdGhlIGV5ZSB0aGFuIHJlYWRpbmcgZnJvbSBMQ0Qgc2NyZWVucyByZWR1Y2Ugb3VyIGJsaW5rIHJhdGUuIGFuZCAmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "Feel Good Contacts"
+    },
+    {
+      "position": 7,
+      "title": "Which eBook reader is best for the eyes?",
+      "link": "https://www.quora.com/Which-eBook-reader-is-best-for-the-eyes",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVeuQT9jSWwP4gwXE2yjmO8z_BRBDOChpSnYHuSpZFtXna_X1W-JjJdtHmQfKjiuJVkRdKys5A31IrT_k91ptJMY7A4hLYp72c-nPE-tz1bAst7TRUg9KPSM_9RMNBTWJuqG4_sisZDsvWgp55iKYc0w&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQFnoECEsQAQ&uoh=1",
+      "displayed_link": "40+ answers · 7 years ago",
+      "snippet": "Which eBook reader is best for the eyes?",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "What is the best e-reader (for the eyes)?",
+            "link": "https://www.quora.com/What-is-the-best-e-reader-for-the-eyes",
+            "answer_count": 41,
+            "date": "Jul 26, 2016"
+          },
+          {
+            "title": "What is the best e-reader for the vision impaired?",
+            "link": "https://www.quora.com/What-is-the-best-e-reader-for-the-vision-impaired",
+            "answer_count": 41,
+            "date": "Oct 23, 2012"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Kindle Voyage – Ereader for the Professional. Kobo Aura One – Best Ereader For the Eye. Kindle Oasis – Best High-end Ereader. NOOK Glowlight ...",
+          "source_info_link": "https://www.quora.com/Which-eBook-reader-is-best-for-the-eyes",
+          "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVmV1UVQ5alNXd1A0Z3dYRTJ5am1POHpfQlJCRE9DaHBTbllIdVNwWkZ0WG5hX1gxVy1KakpkdEhtUWZLaml1SlZrUmRLeXM1QTMxSXJUX2s5MXB0Sk1ZN0E0aExZcDcyYy1uUEUtdHoxYkFzdDdUUlVnOUtQU01fOVJNTkJUV0p1cUc0X3Npc1pEc3ZXZ3A1NWlLWWMwdxIEGgIIABrpBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDFBQgAEAAYACAAKkUKA3RvcBUAAAAAGgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdsZWFkaW5nGgZyZXZpZXcaB3Jldmlld3MaBHRvcHMqSAoIZXJlYWRlcnMVeCuFPxoKYm9va3JlYWRlchoIZSByZWFkZXIaCWUgcmVhZGVycxoHZXJlYWRlchoNaXY7cDtlcmVhZGVycyoKCgNmb3IVAAAAACobCgNleWUV2nuZPxoEZXllcxoJZXllc3RyYWluKkYKBnN0cmFpbhV8BK8-GglleWVzdHJhaW4aB2ZhdGlndWUaBHBhaW4aB3N0cmFpbnMaB3RlbnNpb24aC2l2O3A7c3RyYWluMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVmV1UVQ5alNXd1A0Z3dYRTJ5am1POHpfQlJCRE9DaHBTbllIdVNwWkZ0WG5hX1gxVy1KakpkdEhtUWZLaml1SlZrUmRLeXM1QTMxSXJUX2s5MXB0Sk1ZN0E0aExZcDcyYy1uUEUtdHoxYkFzdDdUUlVnOUtQU01fOVJNTkJUV0p1cUc0X3Npc1pEc3ZXZ3A1NWlLWWMwdzo-V2hpY2ggZUJvb2sgcmVhZGVyIGlzIDxiPmJlc3Q8L2I-IGZvciB0aGUgPGI-ZXllczwvYj4_IC0gUXVvcmFCvgFLaW5kbGUgVm95YWdlIOKAkyA8Yj5FcmVhZGVyPC9iPiBmb3IgdGhlIFByb2Zlc3Npb25hbC4gS29ibyBBdXJhIE9uZSDigJMgPGI-QmVzdCBFcmVhZGVyPC9iPiBGb3IgdGhlIDxiPkV5ZTwvYj4uIEtpbmRsZSBPYXNpcyDigJMgPGI-QmVzdDwvYj4gSGlnaC1lbmQgPGI-RXJlYWRlcjwvYj4uIE5PT0sgR2xvd2xpZ2h0Jm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVmV1UVQ5alNXd1A0Z3dYRTJ5am1POHpfQlJCRE9DaHBTbllIdVNwWkZ0WG5hX1gxVy1KakpkdEhtUWZLaml1SlZrUmRLeXM1QTMxSXJUX2s5MXB0Sk1ZN0E0aExZcDcyYy1uUEUtdHoxYkFzdDdUUlVnOUtQU01fOVJNTkJUV0p1cUc0X3Npc1pEc3ZXZ3A1NWlLWWMwdxIEGgIIABrpBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDFBQgAEAAYACAAKkUKA3RvcBUAAAAAGgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdsZWFkaW5nGgZyZXZpZXcaB3Jldmlld3MaBHRvcHMqSAoIZXJlYWRlcnMVeCuFPxoKYm9va3JlYWRlchoIZSByZWFkZXIaCWUgcmVhZGVycxoHZXJlYWRlchoNaXY7cDtlcmVhZGVycyoKCgNmb3IVAAAAACobCgNleWUV2nuZPxoEZXllcxoJZXllc3RyYWluKkYKBnN0cmFpbhV8BK8-GglleWVzdHJhaW4aB2ZhdGlndWUaBHBhaW4aB3N0cmFpbnMaB3RlbnNpb24aC2l2O3A7c3RyYWluMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVmV1UVQ5alNXd1A0Z3dYRTJ5am1POHpfQlJCRE9DaHBTbllIdVNwWkZ0WG5hX1gxVy1KakpkdEhtUWZLaml1SlZrUmRLeXM1QTMxSXJUX2s5MXB0Sk1ZN0E0aExZcDcyYy1uUEUtdHoxYkFzdDdUUlVnOUtQU01fOVJNTkJUV0p1cUc0X3Npc1pEc3ZXZ3A1NWlLWWMwdzo-V2hpY2ggZUJvb2sgcmVhZGVyIGlzIDxiPmJlc3Q8L2I-IGZvciB0aGUgPGI-ZXllczwvYj4_IC0gUXVvcmFCvgFLaW5kbGUgVm95YWdlIOKAkyA8Yj5FcmVhZGVyPC9iPiBmb3IgdGhlIFByb2Zlc3Npb25hbC4gS29ibyBBdXJhIE9uZSDigJMgPGI-QmVzdCBFcmVhZGVyPC9iPiBGb3IgdGhlIDxiPkV5ZTwvYj4uIEtpbmRsZSBPYXNpcyDigJMgPGI-QmVzdDwvYj4gSGlnaC1lbmQgPGI-RXJlYWRlcjwvYj4uIE5PT0sgR2xvd2xpZ2h0Jm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Quora"
+    },
+    {
+      "position": 8,
+      "title": "Best E-Readers 2026: 5 Kindle Alternatives You Can Buy Right ...",
+      "link": "https://www.youtube.com/watch?v=6Z3ex5TNzfk",
+      "displayed_link": "12.6K+ views · 1 year ago",
+      "thumbnail": "https://serpapi.com/searches/6ab3d2419a1f2c1d6f098abb/images/BuEQT4-1ETcuczGoXfFIfkDr1pzDX9WOSvDz90hpTts.jpeg",
+      "snippet": "The Unbeatable Classic: Amazon Kindle Paperwhite 2:17 - Best Non-Amazon Choice: Kobo Libra 2. The Underdog: NOOK GlowLight 4e (2025 Long-Term ...",
+      "duration": "9:29",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "The 2025 E-Reader Guide: What’s Actually Worth It?",
+          "link": "https://www.youtube.com/watch?v=6Z3ex5TNzfk&t=0"
+        },
+        {
+          "time": "00:44",
+          "title": "The Unbeatable Classic: Amazon Kindle Paperwhite",
+          "link": "https://www.youtube.com/watch?v=6Z3ex5TNzfk&t=44"
+        },
+        {
+          "time": "02:17",
+          "title": "Best Non-Amazon Choice: Kobo Libra 2 (Buttons are Back!)",
+          "link": "https://www.youtube.com/watch?v=6Z3ex5TNzfk&t=137"
+        },
+        {
+          "time": "04:00",
+          "title": "The Underdog: NOOK GlowLight 4e (2025 Long-Term Review)",
+          "link": "https://www.youtube.com/watch?v=6Z3ex5TNzfk&t=240"
+        },
+        {
+          "time": "06:04",
+          "title": "The Ultimate Big-Screen Pick: Amazon Kindle Scribe",
+          "link": "https://www.youtube.com/watch?v=6Z3ex5TNzfk&t=364"
+        },
+        {
+          "time": "07:45",
+          "title": "Pocket-Sized Power: Why We Love the Kobo Clara 2E",
+          "link": "https://www.youtube.com/watch?v=6Z3ex5TNzfk&t=465"
+        },
+        {
+          "time": "09:15",
+          "title": "Final Verdict: Your Best Reading Companion for 2026",
+          "link": "https://www.youtube.com/watch?v=6Z3ex5TNzfk&t=555"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Unbeatable Classic: Amazon Kindle Paperwhite 2:17 - Best Non-Amazon Choice: Kobo Libra 2. The Underdog: NOOK GlowLight 4e (2025 Long-Term  ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVktWX1ppaWhFYkVBNmxwcmFBSEswaUpMb1RKb25WbHd6VDk4LXZ4VEdwVHZGdlJSel9BallwX0pwdjBkVFdaaHpibjczVk50NnBIYTdJa0N1S05EcWpRVXNiMWM5WU9KN2xaMHQ1UUlhOEFsVE9BZUJmMzd2eHBkdTVuckdTdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVktWX1ppaWhFYkVBNmxwcmFBSEswaUpMb1RKb25WbHd6VDk4LXZ4VEdwVHZGdlJSel9BallwX0pwdjBkVFdaaHpibjczVk50NnBIYTdJa0N1S05EcWpRVXNiMWM5WU9KN2xaMHQ1UUlhOEFsVE9BZUJmMzd2eHBkdTVuckdTdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSOcejVRw5msxjjCboTI0cd-EemfuRPTXHgVg",
+      "source": "YouTube · Top Tech Now"
+    },
+    {
+      "position": 9,
+      "title": "E-Readers and Visual Fatigue - PMC - NIH",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3873942/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVa1ADwFblzi2K0z5yzQPIOb1XM1o9AcFYIFfWe6BratgnSWiN-n-H1DzjPiiYLtbcsCXYlTeAK-hlaqsQm4V6uacVaRSLQeZZMDfjOZgWVyVGVS6pnPioPsMLpTraGTUPFSEFSw&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQFnoECEwQAQ&uoh=1",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC3873942",
+      "author": "by S Benedetto",
+      "snippet": "Some last generation E-ink displays, like the Kindle Paperwhite, offer a reading experience in all lighting conditions, from bright sunlight to ...",
+      "snippet_highlighted_words": [
+        "Kindle Paperwhite"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Introduction",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3873942/#:~:text=Introduction,-Reading%20behavior%20has%20been%20investigated"
+          },
+          {
+            "title": "Materials And Methods",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3873942/#:~:text=Materials%20and%20Methods,-Participants"
+          },
+          {
+            "title": "Results",
+            "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3873942/#:~:text=Results,-The%20significance%20level%20%CE%B1%20was"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Some last generation E-ink displays, like the Kindle Paperwhite, offer a reading experience in all lighting conditions, from bright sunlight to ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3873942/",
+          "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmExQUR3RmJsemkySzB6NXl6UVBJT2IxWE0xbzlBY0ZZSUZmV2U2QnJhdGduU1dpTi1uLUgxRHpqUGlpWUx0YmNzQ1hZbFRlQUstaGxhcXNRbTRWNnVhY1ZhUlNMUWVaWk1EZmpPWmdXVnlWR1ZTNnBuUGlvUHNNTHBUcmFHVFVQRlNFRlN3EgQaAggAGrYFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkCOBQgAEAAYACAAKkUKA3RvcBWDAWM7GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdsZWFkaW5nGgZyZXZpZXcaB3Jldmlld3MaBHRvcHMqSAoIZXJlYWRlcnMVmYMlQBoKYm9va3JlYWRlchoIZSByZWFkZXIaCWUgcmVhZGVycxoHZXJlYWRlchoNaXY7cDtlcmVhZGVycyoKCgNmb3IVAAAAACobCgNleWUVJx3KPhoEZXllcxoJZXllc3RyYWluKkYKBnN0cmFpbhXI4gM-GglleWVzdHJhaW4aB2ZhdGlndWUaBHBhaW4aB3N0cmFpbnMaB3RlbnNpb24aC2l2O3A7c3RyYWluMpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmExQUR3RmJsemkySzB6NXl6UVBJT2IxWE0xbzlBY0ZZSUZmV2U2QnJhdGduU1dpTi1uLUgxRHpqUGlpWUx0YmNzQ1hZbFRlQUstaGxhcXNRbTRWNnVhY1ZhUlNMUWVaWk1EZmpPWmdXVnlWR1ZTNnBuUGlvUHNNTHBUcmFHVFVQRlNFRlN3OjY8Yj5FLVJlYWRlcnM8L2I-IGFuZCBWaXN1YWwgPGI-RmF0aWd1ZTwvYj4gLSBQTUMgLSBOSUhCnwFTb21lIGxhc3QgZ2VuZXJhdGlvbiBFLWluayBkaXNwbGF5cywgbGlrZSB0aGUgPGI-S2luZGxlIFBhcGVyd2hpdGU8L2I-LCBvZmZlciBhIHJlYWRpbmcgZXhwZXJpZW5jZSBpbiBhbGwgbGlnaHRpbmcgY29uZGl0aW9ucywgZnJvbSBicmlnaHQgc3VubGlnaHQgdG8mbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmExQUR3RmJsemkySzB6NXl6UVBJT2IxWE0xbzlBY0ZZSUZmV2U2QnJhdGduU1dpTi1uLUgxRHpqUGlpWUx0YmNzQ1hZbFRlQUstaGxhcXNRbTRWNnVhY1ZhUlNMUWVaWk1EZmpPWmdXVnlWR1ZTNnBuUGlvUHNNTHBUcmFHVFVQRlNFRlN3EgQaAggAGrYFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkCOBQgAEAAYACAAKkUKA3RvcBWDAWM7GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdsZWFkaW5nGgZyZXZpZXcaB3Jldmlld3MaBHRvcHMqSAoIZXJlYWRlcnMVmYMlQBoKYm9va3JlYWRlchoIZSByZWFkZXIaCWUgcmVhZGVycxoHZXJlYWRlchoNaXY7cDtlcmVhZGVycyoKCgNmb3IVAAAAACobCgNleWUVJx3KPhoEZXllcxoJZXllc3RyYWluKkYKBnN0cmFpbhXI4gM-GglleWVzdHJhaW4aB2ZhdGlndWUaBHBhaW4aB3N0cmFpbnMaB3RlbnNpb24aC2l2O3A7c3RyYWluMpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmExQUR3RmJsemkySzB6NXl6UVBJT2IxWE0xbzlBY0ZZSUZmV2U2QnJhdGduU1dpTi1uLUgxRHpqUGlpWUx0YmNzQ1hZbFRlQUstaGxhcXNRbTRWNnVhY1ZhUlNMUWVaWk1EZmpPWmdXVnlWR1ZTNnBuUGlvUHNNTHBUcmFHVFVQRlNFRlN3OjY8Yj5FLVJlYWRlcnM8L2I-IGFuZCBWaXN1YWwgPGI-RmF0aWd1ZTwvYj4gLSBQTUMgLSBOSUhCnwFTb21lIGxhc3QgZ2VuZXJhdGlvbiBFLWluayBkaXNwbGF5cywgbGlrZSB0aGUgPGI-S2luZGxlIFBhcGVyd2hpdGU8L2I-LCBvZmZlciBhIHJlYWRpbmcgZXhwZXJpZW5jZSBpbiBhbGwgbGlnaHRpbmcgY29uZGl0aW9ucywgZnJvbSBicmlnaHQgc3VubGlnaHQgdG8mbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3873942/#:~:text=Some%20last%20generation%20E%2Dink%20displays%2C,the%20e%2Dink%20display%20from%20above."
+    },
+    {
+      "position": 10,
+      "title": "The Best E-Readers of 2026: Kobo, Kindle, Boox",
+      "link": "https://www.wired.com/gallery/best-ereaders/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVUk_zzoXdW-f7iJFiN5kbxASOeabRsTL3ITc8jW6lDrj0xcWI07eaCgP1YSLjqWfgIDey4lOdQRmavrZ0SkqkjKVzlqxfupC1y8-tB-ns0xK5d3YV2LN_nslSLrwL2o4&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQFnoECEYQAQ&uoh=1",
+      "displayed_link": "https://www.wired.com › Gear › Shopping",
+      "date": "Aug 10, 2026",
+      "snippet": "The best Amazon e-reader is hands-down the Kindle Paperwhite (8/10, WIRED Recommends). Of all Kindles, the Paperwhite offers the best features.",
+      "snippet_highlighted_words": [
+        "Kindle Paperwhite"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The best Amazon e-reader is hands-down the Kindle Paperwhite (8/10, WIRED Recommends). Of all Kindles, the Paperwhite offers the best features.",
+          "source_info_link": "https://www.wired.com/gallery/best-ereaders/",
+          "icon": "https://serpapi.com/images/i/UklGRpYAAABXRUJQVlA4IIoAAABwBACdASocABwAPrUurVanIacnG_DgFolpAACI549pp9fbbzbDYAQbQlYMwAD--b3zlWwN_5VLvERKvw907x2UBkKlwYSfBjoMFauwNtlrZvf-qwL8ghLAT_70Ca9Qs78MrN7UlMUKuvIJvRc8S9CCWhxs5pp5OWYAN7WWzfZ-uAnhT8d0xRpAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVlVrX3p6b1hkVy1mN2lKRmlONWtieEFTT2VhYlJzVEwzSVRjOGpXNmxEcmoweGNXSTA3ZWFDZ1AxWVNManFXZmdJRGV5NGxPZFFSbWF2clowU2txa2pLVnpscXhmdXBDMXk4LXRCLW5zMHhLNWQzWVYyTE5fbnNsU0xyd0wybzQSBBoCCAAaqwUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCFBQgAEAAYACAAKkUKA3RvcBU0NhE_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdsZWFkaW5nGgZyZXZpZXcaB3Jldmlld3MaBHRvcHMqSAoIZXJlYWRlcnMV-70vQBoKYm9va3JlYWRlchoIZSByZWFkZXIaCWUgcmVhZGVycxoHZXJlYWRlchoNaXY7cDtlcmVhZGVycyoKCgNmb3IVAAAAACobCgNleWUVNpyOPRoEZXllcxoJZXllc3RyYWluKkYKBnN0cmFpbhU2nI49GglleWVzdHJhaW4aB2ZhdGlndWUaBHBhaW4aB3N0cmFpbnMaB3RlbnNpb24aC2l2O3A7c3RyYWluMpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVlVrX3p6b1hkVy1mN2lKRmlONWtieEFTT2VhYlJzVEwzSVRjOGpXNmxEcmoweGNXSTA3ZWFDZ1AxWVNManFXZmdJRGV5NGxPZFFSbWF2clowU2txa2pLVnpscXhmdXBDMXk4LXRCLW5zMHhLNWQzWVYyTE5fbnNsU0xyd0wybzQ6PVRoZSA8Yj5CZXN0IEUtUmVhZGVyczwvYj4gb2YgMjAyNjogS29ibywgS2luZGxlLCBCb294IHwgV0lSRURClgFUaGUgYmVzdCBBbWF6b24gZS1yZWFkZXIgaXMgaGFuZHMtZG93biB0aGUgPGI-S2luZGxlIFBhcGVyd2hpdGU8L2I-ICg4LzEwLCBXSVJFRCBSZWNvbW1lbmRzKS4gT2YgYWxsIEtpbmRsZXMsIHRoZSBQYXBlcndoaXRlIG9mZmVycyB0aGUgYmVzdCBmZWF0dXJlcy5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVlVrX3p6b1hkVy1mN2lKRmlONWtieEFTT2VhYlJzVEwzSVRjOGpXNmxEcmoweGNXSTA3ZWFDZ1AxWVNManFXZmdJRGV5NGxPZFFSbWF2clowU2txa2pLVnpscXhmdXBDMXk4LXRCLW5zMHhLNWQzWVYyTE5fbnNsU0xyd0wybzQSBBoCCAAaqwUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCFBQgAEAAYACAAKkUKA3RvcBU0NhE_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdsZWFkaW5nGgZyZXZpZXcaB3Jldmlld3MaBHRvcHMqSAoIZXJlYWRlcnMV-70vQBoKYm9va3JlYWRlchoIZSByZWFkZXIaCWUgcmVhZGVycxoHZXJlYWRlchoNaXY7cDtlcmVhZGVycyoKCgNmb3IVAAAAACobCgNleWUVNpyOPRoEZXllcxoJZXllc3RyYWluKkYKBnN0cmFpbhU2nI49GglleWVzdHJhaW4aB2ZhdGlndWUaBHBhaW4aB3N0cmFpbnMaB3RlbnNpb24aC2l2O3A7c3RyYWluMpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVlVrX3p6b1hkVy1mN2lKRmlONWtieEFTT2VhYlJzVEwzSVRjOGpXNmxEcmoweGNXSTA3ZWFDZ1AxWVNManFXZmdJRGV5NGxPZFFSbWF2clowU2txa2pLVnpscXhmdXBDMXk4LXRCLW5zMHhLNWQzWVYyTE5fbnNsU0xyd0wybzQ6PVRoZSA8Yj5CZXN0IEUtUmVhZGVyczwvYj4gb2YgMjAyNjogS29ibywgS2luZGxlLCBCb294IHwgV0lSRURClgFUaGUgYmVzdCBBbWF6b24gZS1yZWFkZXIgaXMgaGFuZHMtZG93biB0aGUgPGI-S2luZGxlIFBhcGVyd2hpdGU8L2I-ICg4LzEwLCBXSVJFRCBSZWNvbW1lbmRzKS4gT2YgYWxsIEtpbmRsZXMsIHRoZSBQYXBlcndoaXRlIG9mZmVycyB0aGUgYmVzdCBmZWF0dXJlcy5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "WIRED",
+      "read_more_link": "https://www.wired.com/gallery/best-ereaders/#:~:text=The%20best%20Amazon%20e%2Dreader%20is,Paperwhite%20offers%20the%20best%20features."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Top ereaders for eye strain reddit",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Top+ereaders+for+eye+strain+reddit&sa=X&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Top+ereaders+for+eye+strain+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Top ereaders for eye strain amazon",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Top+ereaders+for+eye+strain+amazon&sa=X&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Top+ereaders+for+eye+strain+amazon"
+    },
+    {
+      "block_position": 1,
+      "query": "Best E reader for eyes",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Best+E+reader+for+eyes&sa=X&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+E+reader+for+eyes"
+    },
+    {
+      "block_position": 1,
+      "query": "Kobo eReader",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Kobo+eReader&sa=X&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Kobo+eReader"
+    },
+    {
+      "block_position": 1,
+      "query": "Best e-reader",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Best+e-reader&sa=X&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+e-reader"
+    },
+    {
+      "block_position": 1,
+      "query": "PocketBook e-reader",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=PocketBook+e-reader&sa=X&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=PocketBook+e-reader"
+    },
+    {
+      "block_position": 1,
+      "query": "Kobo Clara",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Kobo+Clara&sa=X&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Kobo+Clara"
+    },
+    {
+      "block_position": 1,
+      "query": "Best ebook reader app",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Best+ebook+reader+app&sa=X&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+ebook+reader+app"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+ereaders+for+eye+strain&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=aNKzau2GIbfY5NoP_d-tiAI&start=10&sa=N&sstk=AS6-VmK0FSukSshq_ioOfEh79rIPI1877i-X1qYSkR27kc5ZQ7qoB1L98a12_Pfvgheb8YAOTRdEjKCOpXPkd2SveC2tU1SKP8XTEA&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ8NMDegQIOxAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+ereaders+for+eye+strain&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=aNKzau2GIbfY5NoP_d-tiAI&start=10&sa=N&sstk=AS6-VmK0FSukSshq_ioOfEh79rIPI1877i-X1qYSkR27kc5ZQ7qoB1L98a12_Pfvgheb8YAOTRdEjKCOpXPkd2SveC2tU1SKP8XTEA&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ8tMDegQIOxAE",
+      "3": "https://www.google.com/search?q=top+ereaders+for+eye+strain&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=aNKzau2GIbfY5NoP_d-tiAI&start=20&sa=N&sstk=AS6-VmK0FSukSshq_ioOfEh79rIPI1877i-X1qYSkR27kc5ZQ7qoB1L98a12_Pfvgheb8YAOTRdEjKCOpXPkd2SveC2tU1SKP8XTEA&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ8tMDegQIOxAG",
+      "4": "https://www.google.com/search?q=top+ereaders+for+eye+strain&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=aNKzau2GIbfY5NoP_d-tiAI&start=30&sa=N&sstk=AS6-VmK0FSukSshq_ioOfEh79rIPI1877i-X1qYSkR27kc5ZQ7qoB1L98a12_Pfvgheb8YAOTRdEjKCOpXPkd2SveC2tU1SKP8XTEA&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ8tMDegQIOxAI",
+      "5": "https://www.google.com/search?q=top+ereaders+for+eye+strain&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=aNKzau2GIbfY5NoP_d-tiAI&start=40&sa=N&sstk=AS6-VmK0FSukSshq_ioOfEh79rIPI1877i-X1qYSkR27kc5ZQ7qoB1L98a12_Pfvgheb8YAOTRdEjKCOpXPkd2SveC2tU1SKP8XTEA&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ8tMDegQIOxAK",
+      "6": "https://www.google.com/search?q=top+ereaders+for+eye+strain&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=aNKzau2GIbfY5NoP_d-tiAI&start=50&sa=N&sstk=AS6-VmK0FSukSshq_ioOfEh79rIPI1877i-X1qYSkR27kc5ZQ7qoB1L98a12_Pfvgheb8YAOTRdEjKCOpXPkd2SveC2tU1SKP8XTEA&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ8tMDegQIOxAM",
+      "7": "https://www.google.com/search?q=top+ereaders+for+eye+strain&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=aNKzau2GIbfY5NoP_d-tiAI&start=60&sa=N&sstk=AS6-VmK0FSukSshq_ioOfEh79rIPI1877i-X1qYSkR27kc5ZQ7qoB1L98a12_Pfvgheb8YAOTRdEjKCOpXPkd2SveC2tU1SKP8XTEA&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ8tMDegQIOxAO",
+      "8": "https://www.google.com/search?q=top+ereaders+for+eye+strain&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=aNKzau2GIbfY5NoP_d-tiAI&start=70&sa=N&sstk=AS6-VmK0FSukSshq_ioOfEh79rIPI1877i-X1qYSkR27kc5ZQ7qoB1L98a12_Pfvgheb8YAOTRdEjKCOpXPkd2SveC2tU1SKP8XTEA&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ8tMDegQIOxAQ",
+      "9": "https://www.google.com/search?q=top+ereaders+for+eye+strain&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=aNKzau2GIbfY5NoP_d-tiAI&start=80&sa=N&sstk=AS6-VmK0FSukSshq_ioOfEh79rIPI1877i-X1qYSkR27kc5ZQ7qoB1L98a12_Pfvgheb8YAOTRdEjKCOpXPkd2SveC2tU1SKP8XTEA&ved=2ahUKEwjt2s7q5YSXAxU3LFkFHf1vCyEQ8tMDegQIOxAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+ereaders+for+eye+strain&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+ereaders+for+eye+strain&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+ereaders+for+eye+strain&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+ereaders+for+eye+strain&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+ereaders+for+eye+strain&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+ereaders+for+eye+strain&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+ereaders+for+eye+strain&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+ereaders+for+eye+strain&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+ereaders+for+eye+strain&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+ereaders+for+eye+strain&start=80"
+    }
+  }
+}

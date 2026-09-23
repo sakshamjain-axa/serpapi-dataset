@@ -1,0 +1,794 @@
+{
+  "search_metadata": {
+    "id": "6ab3e0c0f3a0a7caa228f696",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/a_P5IhCmhEaqGlc-Q6Lpftvk7kh0u867PMonj811-NI/6ab3e0c0f3a0a7caa228f696.json",
+    "markdown_endpoint": "https://serpapi.com/searches/a_P5IhCmhEaqGlc-Q6Lpftvk7kh0u867PMonj811-NI/6ab3e0c0f3a0a7caa228f696.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/a_P5IhCmhEaqGlc-Q6Lpftvk7kh0u867PMonj811-NI/6ab3e0c0f3a0a7caa228f696.json_with_pixel_position",
+    "created_at": "2026-09-23 14:22:56 UTC",
+    "processed_at": "2026-09-23 14:22:56 UTC",
+    "google_url": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles&oq=best+over+ear+headphones+for+audiophiles&uule=w+CAIQICIeSG91c3RvbixUWCxUZXhhcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/a_P5IhCmhEaqGlc-Q6Lpftvk7kh0u867PMonj811-NI/6ab3e0c0f3a0a7caa228f696.html",
+    "total_time_taken": 14.6
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best over ear headphones for audiophiles",
+    "location_requested": "Houston, TX, Texas, United States",
+    "location_used": "Houston,TX,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best over ear headphones for audiophiles",
+    "total_results": 181,
+    "time_taken_displayed": 0.27,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What headphones do audiophiles recommend?",
+      "type": "ai_overview",
+      "page_token": "xmfL5XicHdDRboIwFIDh7GV2Oa1Ol5mYJUwKMikpcE6RmwVbFKVAnd1Q7_Yue6o9zcxe4Ev-__tH79v69-6rstacZoNB3_cPu67b6fJBds2gOF1aOZCF1ptC1rPp05S8bOXc_Vw6r8elw8EYXMTDpM4DWZMjphWGnrKba7AqM-Yne0JVk2cc6JJnOkfAx2T03EVoouTqkvBaBekwCOOx46X0-Zh7aJWwhSIaGAz7sDWnUtA3PlIBc88LFLrdiAlNDuwo_ViAz3SSwWgFvRWCtDd7ElKDyncqWNAqh8rho9Mlr21XIraR77R5yy65Rz8j5ARu9qZBBr45INhxQbWI0iB2KzVVwKbrLHY5yImsgz5axHwFJJUJcdS523OIr_KgG_Sdfk3wDYSZqMbGqbg1apatAbvSM2MAelD9_VZ-zcf3_z_n79vGzsxHt_sDG42DXA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xmfL5XicHdDRboIwFIDh7GV2Oa1Ol5mYJUwKMikpcE6RmwVbFKVAnd1Q7_Yue6o9zcxe4Ev-__tH79v69-6rstacZoNB3_cPu67b6fJBds2gOF1aOZCF1ptC1rPp05S8bOXc_Vw6r8elw8EYXMTDpM4DWZMjphWGnrKba7AqM-Yne0JVk2cc6JJnOkfAx2T03EVoouTqkvBaBekwCOOx46X0-Zh7aJWwhSIaGAz7sDWnUtA3PlIBc88LFLrdiAlNDuwo_ViAz3SSwWgFvRWCtDd7ElKDyncqWNAqh8rho9Mlr21XIraR77R5yy65Rz8j5ARu9qZBBr45INhxQbWI0iB2KzVVwKbrLHY5yImsgz5axHwFJJUJcdS523OIr_KgG_Sdfk3wDYSZqMbGqbg1apatAbvSM2MAelD9_VZ-zcf3_z_n79vGzsxHt_sDG42DXA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01uVk9TVlUyVmtoQmFXaEVlV2RMVUZjeVdFWm5Wazl0WVdsVVMzUjVlVEo1VkZsSE9WQjRTMUJSTkVsc1ZEbERiRmxsVFZKRWNGSlNhRTVaU1ZCUGVYQndYMDR0TFdReU5WcDNXVm93TTBkQldraFJWelpqYm1OaVVSSVhlblZEZW1GMFJFRkhPWEpDY0RnMFVDMU5VM0V0UVhjYUlrRkVjM0k1WmxOV05YVTBXVEphUm5JMUxYbHJhbGxRVTFsM1JrZHNRVGxwYldjIiwiZmN2IjoiMyIsImVpIjoienVDemF0REFHOXJCcDg0UC1NU3EtQXciLCJxYyI6IkNpaGlaWE4wSUc5MlpYSWdaV0Z5SUdobFlXUndhRzl1WlhNZ1ptOXlJR0YxWkdsdmNHaHBiR1Z6RUFCOVZ2XzJQZyIsInF1ZXN0aW9uIjoiV2hhdCBoZWFkcGhvbmVzIGRvIGF1ZGlvcGhpbGVzIHJlY29tbWVuZD8iLCJsayI6IkdpaDNhR0YwSUdobFlXUndhRzl1WlhNZ1pHOGdZWFZrYVc5d2FHbHNaWE1nY21WamIyMXRaVzVrIiwiYnMiOiJjNVdQUFF2Q01CQ0djYzNrbk9rVzhRTzYxT3JhVGZ3SGRiMmFLd2swdlpxbUxmNTdRNHNRUWFHT0I4X3p2dmVLUXV3TGpSNDBvV28xTjlTQllzQmVHVzYxcWNQcDZNN1dVcVB5OUNCMzQwSllzRGhOd1R5UVN3aGRMR2tjQ0x3bUtLbnowSEhmS0hqMFdCdl96Tk96ek1hM0NNdEZjUlBKVklndVFxN21ZcUlIbzZ3ODNjck52TVpBWldiOEt5bXN5RDZTTFFjMDdLelllU3dELTZQZ0pJX2pfOTU2OVFJIiwiaWQiOiJmY196dUN6YXREQUc5ckJwODRQLU1TcS1Bd181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01uVk9TVlUyVmtoQmFXaEVlV2RMVUZjeVdFWm5Wazl0WVdsVVMzUjVlVEo1VkZsSE9WQjRTMUJSTkVsc1ZEbERiRmxsVFZKRWNGSlNhRTVaU1ZCUGVYQndYMDR0TFdReU5WcDNXVm93TTBkQldraFJWelpqYm1OaVVSSVhlblZEZW1GMFJFRkhPWEpDY0RnMFVDMU5VM0V0UVhjYUlrRkVjM0k1WmxOV05YVTBXVEphUm5JMUxYbHJhbGxRVTFsM1JrZHNRVGxwYldjIiwiZmN2IjoiMyIsImVpIjoienVDemF0REFHOXJCcDg0UC1NU3EtQXciLCJxYyI6IkNpaGlaWE4wSUc5MlpYSWdaV0Z5SUdobFlXUndhRzl1WlhNZ1ptOXlJR0YxWkdsdmNHaHBiR1Z6RUFCOVZ2XzJQZyIsInF1ZXN0aW9uIjoiV2hhdCBoZWFkcGhvbmVzIGRvIGF1ZGlvcGhpbGVzIHJlY29tbWVuZD8iLCJsayI6IkdpaDNhR0YwSUdobFlXUndhRzl1WlhNZ1pHOGdZWFZrYVc5d2FHbHNaWE1nY21WamIyMXRaVzVrIiwiYnMiOiJjNVdQUFF2Q01CQ0djYzNrbk9rVzhRTzYxT3JhVGZ3SGRiMmFLd2swdlpxbUxmNTdRNHNRUWFHT0I4X3p2dmVLUXV3TGpSNDBvV28xTjlTQllzQmVHVzYxcWNQcDZNN1dVcVB5OUNCMzQwSllzRGhOd1R5UVN3aGRMR2tjQ0x3bUtLbnowSEhmS0hqMFdCdl96Tk96ek1hM0NNdEZjUlBKVklndVFxN21ZcUlIbzZ3ODNjck52TVpBWldiOEt5bXN5RDZTTFFjMDdLelllU3dELTZQZ0pJX2pfOTU2OVFJIiwiaWQiOiJmY196dUN6YXREQUc5ckJwODRQLU1TcS1Bd181In0%3D"
+    },
+    {
+      "question": "What over-ear headphones have the best sound quality?",
+      "type": "ai_overview",
+      "page_token": "-lFa3XicHdBRbqJAGMDx7GV8rIKFXU1ME5VB3TJkPmYG4WWDMyKFbwZiiaBvvULPsKfa07TZh_8Bfv-Pv_hmm38_Pqu-796X0-kwDE-Xtr3g-Um1Zlq8362aqgLxVKhm6f_0nZdSrYKbWm-uas1E18ktzHi4eD43h-HkjjxpgJ9THCjKRxzCURJCc0ua05xcodaHSP4axU65kfBQyMU2DSMPXHJPd1IWdcVfBYHMklilzg4I-oCykLPRnk0fU9O5mdk_FwRiVtMme8CNCrrPasgLQiONa09wmEUhrThqVMKzWY1NHo5JJCXjKZTiO2qxYykIZhagj7kETnzp9oM2eRnxrM9T_ZtyCIrjIeAzYgWn7ck0vUydW1BpXwvqZ0cImFCe-nbHW2CvwuEqcdZ6bN-YgIeq0UgiRthld9hWG2Z6VJjvmQMJ4wcneWiXW0nyYVKq22o--f969ac0_bK7tpcvyp6NzA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-lFa3XicHdBRbqJAGMDx7GV8rIKFXU1ME5VB3TJkPmYG4WWDMyKFbwZiiaBvvULPsKfa07TZh_8Bfv-Pv_hmm38_Pqu-796X0-kwDE-Xtr3g-Um1Zlq8362aqgLxVKhm6f_0nZdSrYKbWm-uas1E18ktzHi4eD43h-HkjjxpgJ9THCjKRxzCURJCc0ua05xcodaHSP4axU65kfBQyMU2DSMPXHJPd1IWdcVfBYHMklilzg4I-oCykLPRnk0fU9O5mdk_FwRiVtMme8CNCrrPasgLQiONa09wmEUhrThqVMKzWY1NHo5JJCXjKZTiO2qxYykIZhagj7kETnzp9oM2eRnxrM9T_ZtyCIrjIeAzYgWn7ck0vUydW1BpXwvqZ0cImFCe-nbHW2CvwuEqcdZ6bN-YgIeq0UgiRthld9hWG2Z6VJjvmQMJ4wcneWiXW0nyYVKq22o--f969ac0_bK7tpcvyp6NzA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01uVk9TVlUyVmtoQmFXaEVlV2RMVUZjeVdFWm5Wazl0WVdsVVMzUjVlVEo1VkZsSE9WQjRTMUJSTkVsc1ZEbERiRmxsVFZKRWNGSlNhRTVaU1ZCUGVYQndYMDR0TFdReU5WcDNXVm93TTBkQldraFJWelpqYm1OaVVSSVhlblZEZW1GMFJFRkhPWEpDY0RnMFVDMU5VM0V0UVhjYUlrRkVjM0k1WmxOV05YVTBXVEphUm5JMUxYbHJhbGxRVTFsM1JrZHNRVGxwYldjIiwiZmN2IjoiMyIsImVpIjoienVDemF0REFHOXJCcDg0UC1NU3EtQXciLCJxYyI6IkNpaGlaWE4wSUc5MlpYSWdaV0Z5SUdobFlXUndhRzl1WlhNZ1ptOXlJR0YxWkdsdmNHaHBiR1Z6RUFCOVZ2XzJQZyIsInF1ZXN0aW9uIjoiV2hhdCBvdmVyLWVhciBoZWFkcGhvbmVzIGhhdmUgdGhlIGJlc3Qgc291bmQgcXVhbGl0eT8iLCJsayI6IkdqUjNhR0YwSUc5MlpYSWdaV0Z5SUdobFlXUndhRzl1WlhNZ2FHRjJaU0IwYUdVZ1ltVnpkQ0J6YjNWdVpDQnhkV0ZzYVhSNSIsImJzIjoiYzVXUFBRdkNNQkNHY2Mza25Pa1c4UU82MU9yYVRmd0hkYjJhS3drMHZacW1MZjU3UTRzUVFhR09COF96dnZlS1F1d0xqUjQwb1dvMU45U0JZc0JlR1c2MXFjUHA2TTdXVXFQeTlDQjM0MEpZc0RoTndUeVFTd2hkTEdrY0NMd21LS256MEhIZktIajBXQnZfek5PenpNYTNDTXRGY1JQSlZJZ3VRcTdtWXFJSG82dzgzY3JOdk1aQVpXYjhLeW1zeUQ2U0xRYzA3S3pZZVN3RC02UGdKSV9qXzk1NjlRSSIsImlkIjoiZmNfenVDemF0REFHOXJCcDg0UC1NU3EtQXdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01uVk9TVlUyVmtoQmFXaEVlV2RMVUZjeVdFWm5Wazl0WVdsVVMzUjVlVEo1VkZsSE9WQjRTMUJSTkVsc1ZEbERiRmxsVFZKRWNGSlNhRTVaU1ZCUGVYQndYMDR0TFdReU5WcDNXVm93TTBkQldraFJWelpqYm1OaVVSSVhlblZEZW1GMFJFRkhPWEpDY0RnMFVDMU5VM0V0UVhjYUlrRkVjM0k1WmxOV05YVTBXVEphUm5JMUxYbHJhbGxRVTFsM1JrZHNRVGxwYldjIiwiZmN2IjoiMyIsImVpIjoienVDemF0REFHOXJCcDg0UC1NU3EtQXciLCJxYyI6IkNpaGlaWE4wSUc5MlpYSWdaV0Z5SUdobFlXUndhRzl1WlhNZ1ptOXlJR0YxWkdsdmNHaHBiR1Z6RUFCOVZ2XzJQZyIsInF1ZXN0aW9uIjoiV2hhdCBvdmVyLWVhciBoZWFkcGhvbmVzIGhhdmUgdGhlIGJlc3Qgc291bmQgcXVhbGl0eT8iLCJsayI6IkdqUjNhR0YwSUc5MlpYSWdaV0Z5SUdobFlXUndhRzl1WlhNZ2FHRjJaU0IwYUdVZ1ltVnpkQ0J6YjNWdVpDQnhkV0ZzYVhSNSIsImJzIjoiYzVXUFBRdkNNQkNHY2Mza25Pa1c4UU82MU9yYVRmd0hkYjJhS3drMHZacW1MZjU3UTRzUVFhR09COF96dnZlS1F1d0xqUjQwb1dvMU45U0JZc0JlR1c2MXFjUHA2TTdXVXFQeTlDQjM0MEpZc0RoTndUeVFTd2hkTEdrY0NMd21LS256MEhIZktIajBXQnZfek5PenpNYTNDTXRGY1JQSlZJZ3VRcTdtWXFJSG82dzgzY3JOdk1aQVpXYjhLeW1zeUQ2U0xRYzA3S3pZZVN3RC02UGdKSV9qXzk1NjlRSSIsImlkIjoiZmNfenVDemF0REFHOXJCcDg0UC1NU3EtQXdfNSJ9"
+    },
+    {
+      "question": "What are the best HiFi audiophile headphones?",
+      "type": "ai_overview",
+      "page_token": "BbZTEnicHdBtbpswGABg9TL92WCzUDVSNIlgyGghxfg14D8TsUkImA8llK9_u8LOsFPtNJP2HOH59Uff2vrv0-9yGPrHbrOZpunl2nVXXbzIrtnkj6WVG5lrfc5lvbNeLfT9IvdklPbhLu0I-p471IihNoskWBl3b3Ezn2JGprxGQ5B0mKPSyvBMFFE9O9oIKreSXjacXU7Dyj3ktbFQMlM4qvG8Zt-KStwi5rMQ-7U6-g_KwyPHZQ-ao6y1Dc6oFzdvWQHzp3BsECu_RxV1FNAyxL3LQC2xKd7zBLHCFYh69MBb-sUMgSkLTG4MeZAKE7AYQ69cRBrG3Mi2ynO_hCPsU0qbxBFJDgEOmO1ITT8C1P8oEp3CGq6kVJaC0MpSSiKQW1n708mh0QcgJmNkq7m7RUBXWekGWp1GCxohRsmJ-74k2_dgLXteEyyJvse1jiB6vshxbz7_v97_vDTDrr93138U3YxZ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BbZTEnicHdBtbpswGABg9TL92WCzUDVSNIlgyGghxfg14D8TsUkImA8llK9_u8LOsFPtNJP2HOH59Uff2vrv0-9yGPrHbrOZpunl2nVXXbzIrtnkj6WVG5lrfc5lvbNeLfT9IvdklPbhLu0I-p471IihNoskWBl3b3Ezn2JGprxGQ5B0mKPSyvBMFFE9O9oIKreSXjacXU7Dyj3ktbFQMlM4qvG8Zt-KStwi5rMQ-7U6-g_KwyPHZQ-ao6y1Dc6oFzdvWQHzp3BsECu_RxV1FNAyxL3LQC2xKd7zBLHCFYh69MBb-sUMgSkLTG4MeZAKE7AYQ69cRBrG3Mi2ynO_hCPsU0qbxBFJDgEOmO1ITT8C1P8oEp3CGq6kVJaC0MpSSiKQW1n708mh0QcgJmNkq7m7RUBXWekGWp1GCxohRsmJ-74k2_dgLXteEyyJvse1jiB6vshxbz7_v97_vDTDrr93138U3YxZ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01uVk9TVlUyVmtoQmFXaEVlV2RMVUZjeVdFWm5Wazl0WVdsVVMzUjVlVEo1VkZsSE9WQjRTMUJSTkVsc1ZEbERiRmxsVFZKRWNGSlNhRTVaU1ZCUGVYQndYMDR0TFdReU5WcDNXVm93TTBkQldraFJWelpqYm1OaVVSSVhlblZEZW1GMFJFRkhPWEpDY0RnMFVDMU5VM0V0UVhjYUlrRkVjM0k1WmxOV05YVTBXVEphUm5JMUxYbHJhbGxRVTFsM1JrZHNRVGxwYldjIiwiZmN2IjoiMyIsImVpIjoienVDemF0REFHOXJCcDg0UC1NU3EtQXciLCJxYyI6IkNpaGlaWE4wSUc5MlpYSWdaV0Z5SUdobFlXUndhRzl1WlhNZ1ptOXlJR0YxWkdsdmNHaHBiR1Z6RUFCOVZ2XzJQZyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlc3QgSGlGaSBhdWRpb3BoaWxlIGhlYWRwaG9uZXM/IiwibGsiOiJHaVYzYUdGMElHaHBJR1pwSUdKbGMzUWdZWFZrYVc5d2FHbHNaU0JvWldGa2NHaHZibVZ6IiwiYnMiOiJjNVdQUFF2Q01CQ0djYzNrbk9rVzhRTzYxT3JhVGZ3SGRiMmFLd2swdlpxbUxmNTdRNHNRUWFHT0I4X3p2dmVLUXV3TGpSNDBvV28xTjlTQllzQmVHVzYxcWNQcDZNN1dVcVB5OUNCMzQwSllzRGhOd1R5UVN3aGRMR2tjQ0x3bUtLbnowSEhmS0hqMFdCdl96Tk96ek1hM0NNdEZjUlBKVklndVFxN21ZcUlIbzZ3ODNjck52TVpBWldiOEt5bXN5RDZTTFFjMDdLelllU3dELTZQZ0pJX2pfOTU2OVFJIiwiaWQiOiJmY196dUN6YXREQUc5ckJwODRQLU1TcS1Bd181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01uVk9TVlUyVmtoQmFXaEVlV2RMVUZjeVdFWm5Wazl0WVdsVVMzUjVlVEo1VkZsSE9WQjRTMUJSTkVsc1ZEbERiRmxsVFZKRWNGSlNhRTVaU1ZCUGVYQndYMDR0TFdReU5WcDNXVm93TTBkQldraFJWelpqYm1OaVVSSVhlblZEZW1GMFJFRkhPWEpDY0RnMFVDMU5VM0V0UVhjYUlrRkVjM0k1WmxOV05YVTBXVEphUm5JMUxYbHJhbGxRVTFsM1JrZHNRVGxwYldjIiwiZmN2IjoiMyIsImVpIjoienVDemF0REFHOXJCcDg0UC1NU3EtQXciLCJxYyI6IkNpaGlaWE4wSUc5MlpYSWdaV0Z5SUdobFlXUndhRzl1WlhNZ1ptOXlJR0YxWkdsdmNHaHBiR1Z6RUFCOVZ2XzJQZyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJlc3QgSGlGaSBhdWRpb3BoaWxlIGhlYWRwaG9uZXM%2FIiwibGsiOiJHaVYzYUdGMElHaHBJR1pwSUdKbGMzUWdZWFZrYVc5d2FHbHNaU0JvWldGa2NHaHZibVZ6IiwiYnMiOiJjNVdQUFF2Q01CQ0djYzNrbk9rVzhRTzYxT3JhVGZ3SGRiMmFLd2swdlpxbUxmNTdRNHNRUWFHT0I4X3p2dmVLUXV3TGpSNDBvV28xTjlTQllzQmVHVzYxcWNQcDZNN1dVcVB5OUNCMzQwSllzRGhOd1R5UVN3aGRMR2tjQ0x3bUtLbnowSEhmS0hqMFdCdl96Tk96ek1hM0NNdEZjUlBKVklndVFxN21ZcUlIbzZ3ODNjck52TVpBWldiOEt5bXN5RDZTTFFjMDdLelllU3dELTZQZ0pJX2pfOTU2OVFJIiwiaWQiOiJmY196dUN6YXREQUc5ckJwODRQLU1TcS1Bd181In0%3D"
+    },
+    {
+      "question": "What are the most comfortable audiophile headphones?",
+      "type": "ai_overview",
+      "page_token": "fnQCZXicHdBRbpswHIBx7TJ9bDAEpkSKJtFANKuY2fA3Di8T2CEktjEtrKR56xV2hp1qp1m1G3y_7-OPuQz675ff_TyP03a1Wpbl8ezc2ZwepbOrZnof5Eo2xrSN1Nvoa4S-dXKXvMn46VXGFMaR75lXpmnV-tjVg5lK0YdFig_CC1_aBF2EX79ngkUnO1oO-Dvx0AuU-KkSMaotp0Tgor3DUmh8YUn9XKOxU75cw4BZw2PdanMlPJuZvdHKYi593BHYaFJNXp5kYeGRMt-bNYHeEjgH5f0YFtWNcZh_lT4_wkH5mcdsfWUd9ZA7DS4og9hRnRrus0zc-7XUowa0gRL6Qzs49NnR5yLlla17GeCq0SziaPNDcRInvYoUkOgoWEJBhlLjJd8z-gyolAWK1c1dKLC7vBr76cwViue8IhPfm6geZEg4m9RVrRnHUcbVDehDJ992wcP_17ufnZ2346s7_wNV7YuE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fnQCZXicHdBRbpswHIBx7TJ9bDAEpkSKJtFANKuY2fA3Di8T2CEktjEtrKR56xV2hp1qp1m1G3y_7-OPuQz675ff_TyP03a1Wpbl8ezc2ZwepbOrZnof5Eo2xrSN1Nvoa4S-dXKXvMn46VXGFMaR75lXpmnV-tjVg5lK0YdFig_CC1_aBF2EX79ngkUnO1oO-Dvx0AuU-KkSMaotp0Tgor3DUmh8YUn9XKOxU75cw4BZw2PdanMlPJuZvdHKYi593BHYaFJNXp5kYeGRMt-bNYHeEjgH5f0YFtWNcZh_lT4_wkH5mcdsfWUd9ZA7DS4og9hRnRrus0zc-7XUowa0gRL6Qzs49NnR5yLlla17GeCq0SziaPNDcRInvYoUkOgoWEJBhlLjJd8z-gyolAWK1c1dKLC7vBr76cwViue8IhPfm6geZEg4m9RVrRnHUcbVDehDJ992wcP_17ufnZ2346s7_wNV7YuE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01uVk9TVlUyVmtoQmFXaEVlV2RMVUZjeVdFWm5Wazl0WVdsVVMzUjVlVEo1VkZsSE9WQjRTMUJSTkVsc1ZEbERiRmxsVFZKRWNGSlNhRTVaU1ZCUGVYQndYMDR0TFdReU5WcDNXVm93TTBkQldraFJWelpqYm1OaVVSSVhlblZEZW1GMFJFRkhPWEpDY0RnMFVDMU5VM0V0UVhjYUlrRkVjM0k1WmxOV05YVTBXVEphUm5JMUxYbHJhbGxRVTFsM1JrZHNRVGxwYldjIiwiZmN2IjoiMyIsImVpIjoienVDemF0REFHOXJCcDg0UC1NU3EtQXciLCJxYyI6IkNpaGlaWE4wSUc5MlpYSWdaV0Z5SUdobFlXUndhRzl1WlhNZ1ptOXlJR0YxWkdsdmNHaHBiR1Z6RUFCOVZ2XzJQZyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIG1vc3QgY29tZm9ydGFibGUgYXVkaW9waGlsZSBoZWFkcGhvbmVzPyIsImxrIjoiR2pOM2FHRjBJR0Z5WlNCMGFHVWdiVzl6ZENCamIyMW1iM0owWVdKc1pTQmhkV1JwYjNCb2FXeGxJR2hsWVdSd2FHOXVaWE0iLCJicyI6ImM1V1BQUXZDTUJDR2NjM2tuT2tXOFFPNjFPcmFUZndIZGIyYUt3azB2WnFtTGY1N1E0c1FRYUdPQjhfenZ2ZUtRdXdMalI0MG9XbzFOOVNCWXNCZUdXNjFxY1BwNk03V1VxUHk5Q0IzNDBKWXNEaE53VHlRU3doZExHa2NDTHdtS0tuejBISGZLSGowV0J2X3pOT3p6TWEzQ010RmNSUEpWSWd1UXE3bVlxSUhvNnc4M2NyTnZNWkFaV2I4S3ltc3lENlNMUWMwN0t6WWVTd0QtNlBnSklfal85NTY5UUkiLCJpZCI6ImZjX3p1Q3phdERBRzlyQnA4NFAtTVNxLUF3XzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS01uVk9TVlUyVmtoQmFXaEVlV2RMVUZjeVdFWm5Wazl0WVdsVVMzUjVlVEo1VkZsSE9WQjRTMUJSTkVsc1ZEbERiRmxsVFZKRWNGSlNhRTVaU1ZCUGVYQndYMDR0TFdReU5WcDNXVm93TTBkQldraFJWelpqYm1OaVVSSVhlblZEZW1GMFJFRkhPWEpDY0RnMFVDMU5VM0V0UVhjYUlrRkVjM0k1WmxOV05YVTBXVEphUm5JMUxYbHJhbGxRVTFsM1JrZHNRVGxwYldjIiwiZmN2IjoiMyIsImVpIjoienVDemF0REFHOXJCcDg0UC1NU3EtQXciLCJxYyI6IkNpaGlaWE4wSUc5MlpYSWdaV0Z5SUdobFlXUndhRzl1WlhNZ1ptOXlJR0YxWkdsdmNHaHBiR1Z6RUFCOVZ2XzJQZyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIG1vc3QgY29tZm9ydGFibGUgYXVkaW9waGlsZSBoZWFkcGhvbmVzPyIsImxrIjoiR2pOM2FHRjBJR0Z5WlNCMGFHVWdiVzl6ZENCamIyMW1iM0owWVdKc1pTQmhkV1JwYjNCb2FXeGxJR2hsWVdSd2FHOXVaWE0iLCJicyI6ImM1V1BQUXZDTUJDR2NjM2tuT2tXOFFPNjFPcmFUZndIZGIyYUt3azB2WnFtTGY1N1E0c1FRYUdPQjhfenZ2ZUtRdXdMalI0MG9XbzFOOVNCWXNCZUdXNjFxY1BwNk03V1VxUHk5Q0IzNDBKWXNEaE53VHlRU3doZExHa2NDTHdtS0tuejBISGZLSGowV0J2X3pOT3p6TWEzQ010RmNSUEpWSWd1UXE3bVlxSUhvNnc4M2NyTnZNWkFaV2I4S3ltc3lENlNMUWMwN0t6WWVTd0QtNlBnSklfal85NTY5UUkiLCJpZCI6ImZjX3p1Q3phdERBRzlyQnA4NFAtTVNxLUF3XzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The Focal UtopiaGo to product viewer dialog for this item. is widely named the best overall audiophile headphone for its stunning soundstage and natural acoustics.",
+        "snippet_links": [
+          {
+            "text": "Focal UtopiaGo to product viewer dialog for this item.",
+            "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:2237601667770615766,gpcid:5028321060519782849,headlineOfferDocid:17616137406217658227,catalogid:11137866578706947973,productDocid:13477849440835778259,rds:PC_5028321060519782849%7CPROD_PC_5028321060519782849&q=product&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qxa4PegoIAggACAAIAhAF"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "Focal UtopiaGo to product viewer dialog for this item."
+        ],
+        "reference_indexes": [
+          4
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Audiophile headphones range from great value options to high-end flagship gear. Here are the top choices depending on your budget and listening style."
+      },
+      {
+        "type": "heading",
+        "snippet": "Best Mid-Range Value"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "shopping_result": {
+              "title": "HIFIMAN Arya Stealth",
+              "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462828269348153,imageDocid:12457349477160005949,gpcid:12311232044842454817,headlineOfferDocid:2773266951637935106,catalogid:1579803453369368821,productDocid:8786231776610486145,rds:PC_12311232044842454817%7CPROD_PC_12311232044842454817&q=product&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8QgLcPegoIAggACAAIAhAT",
+              "immersive_product_page_token": "2WofcHicdY_LasJAFIZfpxAKM5n70kYQF8UbanEjYzLJDEQnTi5e6Dv0HaIW7NIWuvU1fJum7bKUw9mc7-f___NSK_O5L4O9LNqtjnAPGcf9-8fR-r61OWfORmVYmOidM059BBmjFALMKcTkHMpCpjZpKCRMcIAwQYgKRDn34UUrGaVmpXpxrFzbho3MZwz5lAoCKWICEQjom1nKRP3gD-hjwhAWmDFIAQBEYHFwUX7D_WAOm_RmfYAxx40Qc8ie-8Nee_4PPK1L5Xa3u4XKC89WynlKOu-7VabtSuVebJ0ny8jYTJtU5ack-y3x1-qwNNGFMIqpz5tpXmyuBB2yqqh1cizLVN38jRe0uoNu0FWjjoAhGlYLsx1Pg-149qR1uNtOFssUzKaDZIyGOupM9nWS1mVe67RWq1crsyoOr8dt7uLrF5tLhs0",
+              "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2WofcHicdY_LasJAFIZfpxAKM5n70kYQF8UbanEjYzLJDEQnTi5e6Dv0HaIW7NIWuvU1fJum7bKUw9mc7-f___NSK_O5L4O9LNqtjnAPGcf9-8fR-r61OWfORmVYmOidM059BBmjFALMKcTkHMpCpjZpKCRMcIAwQYgKRDn34UUrGaVmpXpxrFzbho3MZwz5lAoCKWICEQjom1nKRP3gD-hjwhAWmDFIAQBEYHFwUX7D_WAOm_RmfYAxx40Qc8ie-8Nee_4PPK1L5Xa3u4XKC89WynlKOu-7VabtSuVebJ0ny8jYTJtU5ack-y3x1-qwNNGFMIqpz5tpXmyuBB2yqqh1cizLVN38jRe0uoNu0FWjjoAhGlYLsx1Pg-149qR1uNtOFssUzKaDZIyGOupM9nWS1mVe67RWq1crsyoOr8dt7uLrF5tLhs0",
+              "thumbnail": "https://serpapi.com/searches/6ab3e0c0f3a0a7caa228f696/images/L_Z4uvkhmO_tKGaN_S_fBj4WEzv962u2WUOC-nN-Mjz6XH3Vgz7t6lTmJykuDAW3VXMO6sWrRft_Wyf5a-A3VA.jpeg",
+              "price": "$1,599.00",
+              "extracted_price": 1599.0,
+              "source": "aoshida-audio.com& more",
+              "rating": 4.8,
+              "reviews": 279
+            }
+          },
+          {
+            "shopping_result": {
+              "title": "HIFIMAN Ananda Nano",
+              "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462860393704270,imageDocid:17202292819577304410,gpcid:5965253071461277820,headlineOfferDocid:17222448645832192229,catalogid:6733264968323521894,productDocid:14992101354897980735,rds:PC_5965253071461277820%7CPROD_PC_5965253071461277820&q=product&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8QgLcPegoIAggACAAIAhAi",
+              "immersive_product_page_token": "Y2vKB3icbY7JasJAAIZfpxCE2ZejjSAeihtq8SIxmWQGoomTxSh9h75D1II9aqFXX8O3abz05PFf-Pg-a2V-94W79_JOuyvtayrIoPU23rTa23Nqk6DwcxP8QCIlggBiSoTkUgCO6dn3ci9OIhNcGccYMSKZwAhTBIUkF628IDZr1Q9DZTuJ_6BwhBAhghHaHKFskvw2Ky9S_ztoKiSgpJxjQAgEBxtkdzRwF1QyiigGHBIGEecCgY_BqN9ZPN9Om0LZ3f1lqbLcSUplHeVZ5yGV6mStMidMrOMVgUlSbWKVnaK0Ubg-IR1WJrhQzghDggEsMQcEcXBIy7zW0bEoYnVHW8dt94Y9t6fGXQl9PCqXpprM3Goyf9fa31XT5SoG89kwmuCRDrrTfR3FdZHVOq7V-ivx0jL0b8cqs-HtDyV8hq8",
+              "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Y2vKB3icbY7JasJAAIZfpxCE2ZejjSAeihtq8SIxmWQGoomTxSh9h75D1II9aqFXX8O3abz05PFf-Pg-a2V-94W79_JOuyvtayrIoPU23rTa23Nqk6DwcxP8QCIlggBiSoTkUgCO6dn3ci9OIhNcGccYMSKZwAhTBIUkF628IDZr1Q9DZTuJ_6BwhBAhghHaHKFskvw2Ky9S_ztoKiSgpJxjQAgEBxtkdzRwF1QyiigGHBIGEecCgY_BqN9ZPN9Om0LZ3f1lqbLcSUplHeVZ5yGV6mStMidMrOMVgUlSbWKVnaK0Ubg-IR1WJrhQzghDggEsMQcEcXBIy7zW0bEoYnVHW8dt94Y9t6fGXQl9PCqXpprM3Goyf9fa31XT5SoG89kwmuCRDrrTfR3FdZHVOq7V-ivx0jL0b8cqs-HtDyV8hq8",
+              "thumbnail": "https://serpapi.com/searches/6ab3e0c0f3a0a7caa228f696/images/L_Z4uvkhmO_tKGaN_S_fBnDn983fTBjTkdKKZbVY6Z8L0iQLjdnrpP1zvbVVUFQIxizbqmhG5pSkrubojnDbLA.jpeg",
+              "price": "$375.98(€329.00)",
+              "extracted_price": 375.98,
+              "source": "Hifiman& more",
+              "rating": 4.7,
+              "reviews": 147
+            }
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Best Premium Closed-Back"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "shopping_result": {
+              "title": "Denon AH-D9200",
+              "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462634281415348,imageDocid:17004156162009492506,gpcid:10480912791566499502,headlineOfferDocid:9905483933487471533,catalogid:13782985505570818816,productDocid:14967187371115196732,rds:PC_10480912791566499502%7CPROD_PC_10480912791566499502&q=product&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8QgLcPegoIAggACAAIAhA3",
+              "immersive_product_page_token": "55W8J3icdY_LasJAAEV_pxAK834sbQRxUXyhFjcyJpNkIJo4eRil_9B_iFqwSyt062_4N42u2-XlXC7nftTa_OwKd6fydqsj7UsqSP_5dbR-bm1OqU38wsuNf4FEMg4FxxxCSGETMDp5KldxEt4x5gJJQSmglAMBhYDsHGnlx2ale0GgbTvxjP8tJaBEYIkxEZxwSDH-MksV6ge-QA4AgZRBhgCQRCIK2N762Y303TkERAAJEZdNgxEpKUDv_WGvPf8HHteFttvb00JnuZOU2jpaWedulUbJSmdOkFhHFb5J0sjEOjuG6UPij6n90vhnyhlhiGGCBGwsmwv7tMzrKDwURaxvaOO4re6g63b1qCOhh4flwlTjqVuNZ29R5G2ryWIZg9l0EI7xMPI7k10dxnWR1VFc69VnotIy8K6HKrPB9RdxmYdg",
+              "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=55W8J3icdY_LasJAAEV_pxAK834sbQRxUXyhFjcyJpNkIJo4eRil_9B_iFqwSyt062_4N42u2-XlXC7nftTa_OwKd6fydqsj7UsqSP_5dbR-bm1OqU38wsuNf4FEMg4FxxxCSGETMDp5KldxEt4x5gJJQSmglAMBhYDsHGnlx2ale0GgbTvxjP8tJaBEYIkxEZxwSDH-MksV6ge-QA4AgZRBhgCQRCIK2N762Y303TkERAAJEZdNgxEpKUDv_WGvPf8HHteFttvb00JnuZOU2jpaWedulUbJSmdOkFhHFb5J0sjEOjuG6UPij6n90vhnyhlhiGGCBGwsmwv7tMzrKDwURaxvaOO4re6g63b1qCOhh4flwlTjqVuNZ29R5G2ryWIZg9l0EI7xMPI7k10dxnWR1VFc69VnotIy8K6HKrPB9RdxmYdg",
+              "thumbnail": "https://serpapi.com/searches/6ab3e0c0f3a0a7caa228f696/images/L_Z4uvkhmO_tKGaN_S_fBkqGRX89HtIJqLmP3CRtUOex2_oicq6KhvTyVX4nJ2_iFAcImgikG_RqOjF4t21aEg.jpeg",
+              "price": "$1,799.00",
+              "extracted_price": 1799.0,
+              "source": "Crutchfield& more",
+              "rating": 5.0,
+              "reviews": 194
+            }
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Best High-End Reference"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "shopping_result": {
+              "title": "Focal Utopia",
+              "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:2237601667770615766,gpcid:5028321060519782849,headlineOfferDocid:17616137406217658227,catalogid:11137866578706947973,productDocid:13477849440835778259,rds:PC_5028321060519782849%7CPROD_PC_5028321060519782849&q=product&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8QgLcPegoIAggACAAIFBAG",
+              "immersive_product_page_token": "ZqeAYHicbY7LasJAAEV_pxCEeWUmWdoI4qL4Qi1uZEwmmYHRiZOHUfoP_YeoBbtsC936G_5Nk67dXTiXw3mvhfo9FsGR571u37fPqUdGnZfprtPdX1NroiLMVfQDMWHMIz4hwMNuM5HrX0Oec22SFkOImUepyzwGqE-Yz_CXFDzSaiuGcSxsz4Ttj1FImysBFDXb9RBin2rDE_HPvxHCjAJIKWONB7qM0pONsjsaBSsXIA8jCChwod8ENDVvo8mwt3rMLrtC2MP9aS2y3DGlsI7g1mmbUmm2InNiYx1eRMqkUmmRXZK0LXhgOm1UdDulZV7L5FwUWtzR3gm6g_EgGIhp34chnpRrVc0WQTVbvkoZHqr5eqPBcjFOZngio_78WCe6LrJa6lpsPwxPyzi8navMxrc_OOuDMA",
+              "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZqeAYHicbY7LasJAAEV_pxCEeWUmWdoI4qL4Qi1uZEwmmYHRiZOHUfoP_YeoBbtsC936G_5Nk67dXTiXw3mvhfo9FsGR571u37fPqUdGnZfprtPdX1NroiLMVfQDMWHMIz4hwMNuM5HrX0Oec22SFkOImUepyzwGqE-Yz_CXFDzSaiuGcSxsz4Ttj1FImysBFDXb9RBin2rDE_HPvxHCjAJIKWONB7qM0pONsjsaBSsXIA8jCChwod8ENDVvo8mwt3rMLrtC2MP9aS2y3DGlsI7g1mmbUmm2InNiYx1eRMqkUmmRXZK0LXhgOm1UdDulZV7L5FwUWtzR3gm6g_EgGIhp34chnpRrVc0WQTVbvkoZHqr5eqPBcjFOZngio_78WCe6LrJa6lpsPwxPyzi8navMxrc_OOuDMA",
+              "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ27aT8hgQw2o1VENLgVSk-ynLLURHaS0rMJs9aYrTJ15BaObRDeE5NIqc7Mcg&usqp=CAE",
+              "price": "$4,499.00",
+              "extracted_price": 4499.0,
+              "old_price": "$4,999",
+              "extracted_old_price": 4999,
+              "source": "Moon Audio& more",
+              "rating": 4.9,
+              "reviews": 62
+            }
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like to narrow down the right choice, tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "What music genres do you listen to most?"
+          },
+          {
+            "snippet": "Do you already own a dedicated headphone amplifier or DAC, or will you plug them straight into a phone or computer?"
+          },
+          {
+            "snippet": "What is your ideal budget range?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.audiophileon.com/news/20-best-audiophile-headphones",
+        "source": "audiophileon.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.google.com/",
+        "source": "Google",
+        "index": 1
+      },
+      {
+        "link": "https://homestudiobasics.com/the-5-best-audiophile-headphones-for-under-500/",
+        "source": "homestudiobasics.com",
+        "index": 2
+      },
+      {
+        "title": "The 25 Best Audiophile Headphones Of 2026 - Ultimate List",
+        "link": "https://www.audiophileon.com/news/20-best-audiophile-headphones",
+        "snippet": "2026 Best Headphone Winner: Focal Utopia The best audiophile headphones are the Focal Utopia (Click Here for Pricing Info). I recommend them not only because of th...",
+        "source": "Audiophile ON",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBJsrdAEYxjRctCuwkY4unM9dM80Pv1vhCpELCy50ha6slXA-uhqvyxK5mhv6VOqsygtFFEmmg5QAn20zhy_gKKQeu7nrRFdRE8jMI",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.audiophileon.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 3
+      },
+      {
+        "title": "HIFIMAN Arya Stealth",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:8786231776610486145,catalogid:1579803453369368821,gpcid:12311232044842454817,mid:576462828269348153&ibp=oshop",
+        "snippet": "The Hifiman Arya (Stealth Magnets Version) delivers an extraordinarily detailed, clear, natural, and dynamic sound, giving the listener the feeling of being in the midst of a live concert. The bass of the Arya sounds warm, clear, precise, and powerful, but not dominating or overly bass-heavy. The mids are characterized by very high detail and sound fidelity. They sound full and articulate, creating an engaging and captivating experience when combined with the warm, powerful bass. The highs are simply breathtaking: voices and instruments sound silky smooth, present, and emotive. This results in a wonderfully balanced overall picture with an airy, expansive soundstage, suitable for all music genres. The Hifiman Arya headphones use an ultra-thin diaphragm to produce sound. In general, with planar magnetic headphones, the thinner the diaphragm, the lower the mass, which leads to a faster response and reduced distortion. In the case of the Arya, the diaphragm is so thin that it operates in the nanometer range and is invisible to the naked eye. The Arya also features a Stealth Magnets design. The special construction of the magnets allows sound waves to flow through them without generating interference. This ensures particularly accurate sound across the entire frequency range. The patented Window Shade grille prevents unwanted vibrations and distortions, resulting in a very wide and open soundstage. The 1.5-meter headphone cable is made of crystalline copper, features a 6.3 mm jack, and connects to the ear cups with two 3.5 mm plugs. The comfortable headband is lightweight and easily adjustable in size. The soft, angled ear cushions provide optimal weight distribution and maximum comfort, even after hours of listening enjoyment.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR-IBmCH8nvO1lU0n7ZabG2qNaYgX5TjQ4aWyVzqOKpiWhXACkAKm8n--7RgCOqg7haW1zTOyUni9HEnJ0",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 4
+      },
+      {
+        "title": "The 5 Best Audiophile Headphones For Under $500 - Home Studio Basics",
+        "link": "https://homestudiobasics.com/the-5-best-audiophile-headphones-for-under-500/",
+        "snippet": "Report Ad. To sum up, both of these headphones are a significant step up from mid-fi, but after these? The law of diminishing returns sets in fairly quickly, and y...",
+        "source": "Home Studio Basics",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPjyCbrJJC4V3mz78reS1MEkQwqD0KhweZ8Rwr-FkqcNf997LchjoLyvyupO6crCYMjrH0ai5eg6ic25gQVBOBhDX9JWbkR1YiJirG",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://homestudiobasics.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Denon AH-D9200 Over-Ear Headphones",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:14967187371115196732,catalogid:13782985505570818816,gpcid:10480912791566499502,mid:576462634281415348&ibp=oshop",
+        "snippet": "The Denon AH-D9200 are flagship over-ear premium headphones with an elegant Japanese bamboo wood housing and proprietary 50mm FreeEdge dynamic drivers made with a nanofiber diaphragm to provide detailed, accurate sound. The drivers utilize Neodymium magnets that measure at over 1 Tesla for a clean, and virtually distortion-free signal. The nanofiber diaphragm was chosen for its rigidity and low mass, which cancel out unwanted resonances ensuring a clean, clear, and accurate signal. The drivers are mounted on vibration-reducing engineered resin baffles, allowing the soft, compliant surround materials to move easier in response to the music signal without flexing or distorting. Additionally, the Bamboo housing offers inherent acoustic properties that provide enhanced sound dampening for a warm, yet accurate sound reproduction. The AH-D9200 has an impedance of 24 ohms and offers a frequency response of 5 Hz to 56 kHz. The soft, Japanese leather covered memory foam earpads provide maximum comfort for extended listening sessions. The aluminum diecast hanger has a genuine leather headband for comfort and durability. The headphones include a 9.8' 1/4\\\" cable and a 4.3' 3.5mm cable made with silver-plated oxygen-free copper (OFC) cable to ensure the highest quality cable connection for Hi-Fi listening experiences. A luxury hard case, cleaning cloth, and 3.5mm to 1/4\\\" adapter are also included.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSF8M_ay2bem9pR8U-aUA3pCiSPqvpdHD0OX3jXOBCPpZ3kaJ5mypSGaKVSV6IQBMTEeYBoks1E7VZaksg",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The 5 Best Audiophile Headphones For Under $500",
+      "link": "https://homestudiobasics.com/the-5-best-audiophile-headphones-for-under-500/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFUHYJ33UYJvWd6vgWITj0rQCoUftmMSKCh1HJw-D8ODDu_ES6N2en7jiFPUQ4sTHC8lFGT3dyqZLkbSiENNAI_mDbD5lYjNZBLUtsmS74yvOpKTqQ7nNUkn0ILlJl8WzP92DUnQp-xV1GkujtB0lmakwp1Rl-_hBl5dt7j7CLKY&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8QFnoECBsQAQ&uoh=1",
+      "displayed_link": "https://homestudiobasics.com › the-5-best-audiophile-h...",
+      "date": "Jul 17, 2026",
+      "snippet": "HIFIMAN Ananda Nano Open-Back Over-Ear Planar. The best all-rounder for me is the K702 although the Sundara is a close second.",
+      "snippet_highlighted_words": [
+        "HIFIMAN Ananda Nano Open-Back Over-Ear Planar"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "HIFIMAN Ananda Nano Open-Back Over-Ear Planar. The best all-rounder for me is the K702 although the Sundara is a close second.",
+          "source_info_link": "https://homestudiobasics.com/the-5-best-audiophile-headphones-for-under-500/",
+          "icon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAABQBwCdASocABwAPtEutFooIagoGAEAGglkALsy66IAlfPY6YAR4IZZ5BkQAdnKQIHwz-3juABX7vv_AKS3xb8gZ8AAAP72EKmBoj6KaR2MzR-vUNx2A9Ba0ZT1iobJF3FZ_nFXDE-FiasPrMwtbfx_WHF5dAHPqrDZCFQUxunhjblS66oKs4_vaEyGN91hR4I0QZQRR52ZxSn9KBoVnIli05BeXntcnOqPBF87BXJgofN_L27I-6mP1R2paakwnry8ng1PrqJ95hmlOVKhP-Pq18yJnGV_KHb-b1cehY1LuQVQ5ebHT8ZvEmx75fFYzGTAngNwbhRy2L0Xl6LiDgQwhvdx3TI-97fzcV1GFlBc0KZ7OwTVlQ3bExstMS8RcnC_J0uN8OGQgO_HIKbAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZVSFlKMzNVWUp2V2Q2dmdXSVRqMHJRQ29VZnRtTVNLQ2gxSEp3LUQ4T0REdV9FUzZOMmVuN2ppRlBVUTRzVEhDOGxGR1QzZHlxWkxrYlNpRU5OQUlfbURiRDVsWWpOWkJMVXRzbVM3NHl2T3BLVHFRN25OVWtuMElMbEpsOFd6UDkyRFVuUXAteFYxR2t1anRCMGxtYWt3cDFSbC1faEJsNWR0N2o3Q0xLWRIEGgIIABqBBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsFCAAQABgAIAAqEAoEYmVzdBWQ1YVAGgN0b3AqLwoEb3ZlchVJhWw_GgZhcm91bmQaB292ZXJlYXIaEW92ZXJlYXJoZWFkcGhvbmVzKkUKA2VhchVOtgE_GgRlYXJzGgdvdmVyZWFyGhFvdmVyZWFyaGVhZHBob25lcxoNZWFyaGVhZHBob25lcxoIaXY7cDtlYXIqewoKaGVhZHBob25lcxXM5alAGgRidWRzGgdlYXJidWRzGghlYXJwaG9uZRoJZWFycGhvbmVzGgdoZWFkc2V0GghoZWFkc2V0cxoRb3ZlcmVhcmhlYWRwaG9uZXMaDWVhcmhlYWRwaG9uZXMaD2l2O3A7aGVhZHBob25lcyoKCgNmb3IVAAAAACowCgthdWRpb3BoaWxlcxW5O709GgphdWRpb3BoaWxlGhBpdjtwO2F1ZGlvcGhpbGVzMsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZVSFlKMzNVWUp2V2Q2dmdXSVRqMHJRQ29VZnRtTVNLQ2gxSEp3LUQ4T0REdV9FUzZOMmVuN2ppRlBVUTRzVEhDOGxGR1QzZHlxWkxrYlNpRU5OQUlfbURiRDVsWWpOWkJMVXRzbVM3NHl2T3BLVHFRN25OVWtuMElMbEpsOFd6UDkyRFVuUXAteFYxR2t1anRCMGxtYWt3cDFSbC1faEJsNWR0N2o3Q0xLWTo2VGhlIDUgPGI-QmVzdCBBdWRpb3BoaWxlIEhlYWRwaG9uZXM8L2I-IEZvciBVbmRlciAkNTAwQoUBPGI-SElGSU1BTiBBbmFuZGEgTmFubyBPcGVuLUJhY2sgT3Zlci1FYXIgUGxhbmFyPC9iPi4gVGhlIGJlc3QgYWxsLXJvdW5kZXIgZm9yIG1lIGlzIHRoZSBLNzAyIGFsdGhvdWdoIHRoZSBTdW5kYXJhIGlzIGEgY2xvc2Ugc2Vjb25kLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZVSFlKMzNVWUp2V2Q2dmdXSVRqMHJRQ29VZnRtTVNLQ2gxSEp3LUQ4T0REdV9FUzZOMmVuN2ppRlBVUTRzVEhDOGxGR1QzZHlxWkxrYlNpRU5OQUlfbURiRDVsWWpOWkJMVXRzbVM3NHl2T3BLVHFRN25OVWtuMElMbEpsOFd6UDkyRFVuUXAteFYxR2t1anRCMGxtYWt3cDFSbC1faEJsNWR0N2o3Q0xLWRIEGgIIABqBBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsFCAAQABgAIAAqEAoEYmVzdBWQ1YVAGgN0b3AqLwoEb3ZlchVJhWw_GgZhcm91bmQaB292ZXJlYXIaEW92ZXJlYXJoZWFkcGhvbmVzKkUKA2VhchVOtgE_GgRlYXJzGgdvdmVyZWFyGhFvdmVyZWFyaGVhZHBob25lcxoNZWFyaGVhZHBob25lcxoIaXY7cDtlYXIqewoKaGVhZHBob25lcxXM5alAGgRidWRzGgdlYXJidWRzGghlYXJwaG9uZRoJZWFycGhvbmVzGgdoZWFkc2V0GghoZWFkc2V0cxoRb3ZlcmVhcmhlYWRwaG9uZXMaDWVhcmhlYWRwaG9uZXMaD2l2O3A7aGVhZHBob25lcyoKCgNmb3IVAAAAACowCgthdWRpb3BoaWxlcxW5O709GgphdWRpb3BoaWxlGhBpdjtwO2F1ZGlvcGhpbGVzMsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZVSFlKMzNVWUp2V2Q2dmdXSVRqMHJRQ29VZnRtTVNLQ2gxSEp3LUQ4T0REdV9FUzZOMmVuN2ppRlBVUTRzVEhDOGxGR1QzZHlxWkxrYlNpRU5OQUlfbURiRDVsWWpOWkJMVXRzbVM3NHl2T3BLVHFRN25OVWtuMElMbEpsOFd6UDkyRFVuUXAteFYxR2t1anRCMGxtYWt3cDFSbC1faEJsNWR0N2o3Q0xLWTo2VGhlIDUgPGI-QmVzdCBBdWRpb3BoaWxlIEhlYWRwaG9uZXM8L2I-IEZvciBVbmRlciAkNTAwQoUBPGI-SElGSU1BTiBBbmFuZGEgTmFubyBPcGVuLUJhY2sgT3Zlci1FYXIgUGxhbmFyPC9iPi4gVGhlIGJlc3QgYWxsLXJvdW5kZXIgZm9yIG1lIGlzIHRoZSBLNzAyIGFsdGhvdWdoIHRoZSBTdW5kYXJhIGlzIGEgY2xvc2Ugc2Vjb25kLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Home Studio Basics"
+    },
+    {
+      "position": 2,
+      "title": "The 6 Best Audiophile Headphones of 2026",
+      "link": "https://www.rtings.com/headphones/reviews/best/by-usage/critical-listening-audiophile",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFUFwHaaueuBH9UrPzjFvm0QdRtBQGGncM1Ccoz5O6OUtF1Qyz7R8cGnfC_ZACRJZ158DqsSR9a5nZtMIHy99xQ9ecOrAirNr-FArJo2VcPFfr6EuLfQa7IaG0H3g58_Ot6TBiLipGteQGQGBuP2cV-eOdWMsrpu6Ah9HNfdSFDt2KWzzKd6o9pU&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8QFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://www.rtings.com › Headphones › Best",
+      "date": "Sep 4, 2026",
+      "snippet": "The best audiophile headphones we've tested are the Sennheiser HD 800 S. These open-back over-ears have an outstanding soundstage that's ...",
+      "snippet_highlighted_words": [
+        "Sennheiser HD 800 S"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The best audiophile headphones we've tested are the Sennheiser HD 800 S. These open-back over-ears have an outstanding soundstage that's ...",
+          "source_info_link": "https://www.rtings.com/headphones/reviews/best/by-usage/critical-listening-audiophile",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBwCdASocABwAPtEutFooIagoGAEAGglsALsogPPAsk5vgZoLRX_mfsA6b_zoMDV6I1rVWbKRuDj2Xx5JrfIQx1IYAAD-9gEpnxuhc7ENnwKjzZoQnCod4QIHeqxtWkm-zR-KYZ1s1v_VznstYhRh3O74CYk2IT392EgBCIM99luEHmIleipgJlMN7ygb-jOW1Bn34ULpxMS_919JTLNvJnfR3F8LUP_-ZffK74uiqK2Rb638T_o0bNyH_FWK7GSyYExAvnazPBgeJx3__aKGooFvapPvH9V1SCEWzSW3TMrz2Efp2V914fVX14EW-xgAIoSM7sIKW_rtSB6q0s_KKxKP6W2YdnLdOfPf4deU0sAwra9ybej7ApMHfwBoA3MWtRmurjVvYuA5aPlwB_RdIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZVRndIYWF1ZXVCSDlVclB6akZ2bTBRZFJ0QlFHR25jTTFDY296NU82T1V0RjFReXo3UjhjR25mQ19aQUNSSloxNThEcXNTUjlhNW5adE1JSHk5OXhROWVjT3JBaXJOci1GQXJKbzJWY1BGZnI2RXVMZlFhN0lhRzBIM2c1OF9PdDZUQmlMaXBHdGVRR1FHQnVQMmNWLWVPZFdNc3JwdTZBaDlITmZkU0ZEdDJLV3p6S2Q2bzlwVRIEGgIIABquBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIgGCAAQABgAIAAqEAoEYmVzdBV78tJAGgN0b3AqLwoEb3ZlchXjaRZAGgZhcm91bmQaB292ZXJlYXIaEW92ZXJlYXJoZWFkcGhvbmVzKkUKA2VhchXTIuo_GgRlYXJzGgdvdmVyZWFyGhFvdmVyZWFyaGVhZHBob25lcxoNZWFyaGVhZHBob25lcxoIaXY7cDtlYXIqewoKaGVhZHBob25lcxX6atpAGgRidWRzGgdlYXJidWRzGghlYXJwaG9uZRoJZWFycGhvbmVzGgdoZWFkc2V0GghoZWFkc2V0cxoRb3ZlcmVhcmhlYWRwaG9uZXMaDWVhcmhlYWRwaG9uZXMaD2l2O3A7aGVhZHBob25lcyoKCgNmb3IVAAAAACowCgthdWRpb3BoaWxlcxWTPHs_GgphdWRpb3BoaWxlGhBpdjtwO2F1ZGlvcGhpbGVzMs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZVRndIYWF1ZXVCSDlVclB6akZ2bTBRZFJ0QlFHR25jTTFDY296NU82T1V0RjFReXo3UjhjR25mQ19aQUNSSloxNThEcXNTUjlhNW5adE1JSHk5OXhROWVjT3JBaXJOci1GQXJKbzJWY1BGZnI2RXVMZlFhN0lhRzBIM2c1OF9PdDZUQmlMaXBHdGVRR1FHQnVQMmNWLWVPZFdNc3JwdTZBaDlITmZkU0ZEdDJLV3p6S2Q2bzlwVTo8VGhlIDYgPGI-QmVzdCBBdWRpb3BoaWxlIEhlYWRwaG9uZXM8L2I-IG9mIDIwMjYgLSBSVElOR1MuY29tQqABVGhlIGJlc3QgYXVkaW9waGlsZSBoZWFkcGhvbmVzIHdlJiMzOTt2ZSB0ZXN0ZWQgYXJlIHRoZSA8Yj5TZW5uaGVpc2VyIEhEIDgwMCBTPC9iPi4gVGhlc2Ugb3Blbi1iYWNrIG92ZXItZWFycyBoYXZlIGFuIG91dHN0YW5kaW5nIHNvdW5kc3RhZ2UgdGhhdCYjMzk7cyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZVRndIYWF1ZXVCSDlVclB6akZ2bTBRZFJ0QlFHR25jTTFDY296NU82T1V0RjFReXo3UjhjR25mQ19aQUNSSloxNThEcXNTUjlhNW5adE1JSHk5OXhROWVjT3JBaXJOci1GQXJKbzJWY1BGZnI2RXVMZlFhN0lhRzBIM2c1OF9PdDZUQmlMaXBHdGVRR1FHQnVQMmNWLWVPZFdNc3JwdTZBaDlITmZkU0ZEdDJLV3p6S2Q2bzlwVRIEGgIIABquBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIgGCAAQABgAIAAqEAoEYmVzdBV78tJAGgN0b3AqLwoEb3ZlchXjaRZAGgZhcm91bmQaB292ZXJlYXIaEW92ZXJlYXJoZWFkcGhvbmVzKkUKA2VhchXTIuo_GgRlYXJzGgdvdmVyZWFyGhFvdmVyZWFyaGVhZHBob25lcxoNZWFyaGVhZHBob25lcxoIaXY7cDtlYXIqewoKaGVhZHBob25lcxX6atpAGgRidWRzGgdlYXJidWRzGghlYXJwaG9uZRoJZWFycGhvbmVzGgdoZWFkc2V0GghoZWFkc2V0cxoRb3ZlcmVhcmhlYWRwaG9uZXMaDWVhcmhlYWRwaG9uZXMaD2l2O3A7aGVhZHBob25lcyoKCgNmb3IVAAAAACowCgthdWRpb3BoaWxlcxWTPHs_GgphdWRpb3BoaWxlGhBpdjtwO2F1ZGlvcGhpbGVzMs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZVRndIYWF1ZXVCSDlVclB6akZ2bTBRZFJ0QlFHR25jTTFDY296NU82T1V0RjFReXo3UjhjR25mQ19aQUNSSloxNThEcXNTUjlhNW5adE1JSHk5OXhROWVjT3JBaXJOci1GQXJKbzJWY1BGZnI2RXVMZlFhN0lhRzBIM2c1OF9PdDZUQmlMaXBHdGVRR1FHQnVQMmNWLWVPZFdNc3JwdTZBaDlITmZkU0ZEdDJLV3p6S2Q2bzlwVTo8VGhlIDYgPGI-QmVzdCBBdWRpb3BoaWxlIEhlYWRwaG9uZXM8L2I-IG9mIDIwMjYgLSBSVElOR1MuY29tQqABVGhlIGJlc3QgYXVkaW9waGlsZSBoZWFkcGhvbmVzIHdlJiMzOTt2ZSB0ZXN0ZWQgYXJlIHRoZSA8Yj5TZW5uaGVpc2VyIEhEIDgwMCBTPC9iPi4gVGhlc2Ugb3Blbi1iYWNrIG92ZXItZWFycyBoYXZlIGFuIG91dHN0YW5kaW5nIHNvdW5kc3RhZ2UgdGhhdCYjMzk7cyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "RTINGS.com"
+    },
+    {
+      "position": 3,
+      "title": "Suggestions for 'audiophile tier' headphones/earphones.",
+      "link": "https://www.reddit.com/r/HeadphoneAdvice/comments/13hxo2u/suggestions_for_audiophile_tier/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFRwUv8NE5XLPeEvs0_9FpTwoIyDCnFc9_Of56p7ZaWz_ktuoFp9PH2kdHl_w9sHv_COVucyNKLHXu8LENr4jIidpaloXEnn1mpGfVBjPgHoMoQzha-N-ZGmzC_OhWh_tPDTvPw60LiExPOrOPLiH7yHo1ecofLPVEZZ3iHVUZSbBLnyaLRxAGvCuzR1iyA&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8QFnoECCcQAQ&uoh=1",
+      "displayed_link": "20+ comments · 3 years ago",
+      "snippet": "Im new to the audiophile scene, so Im looking for a pair of wired headphones/earphones(for indoor use) that cost between 150-300 dollars. I listen to ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Suggestions for over-ear audiophile headphones ...",
+            "link": "https://www.reddit.com/r/progmetal/comments/1fr5rhu/suggestions_for_overear_audiophile_headphones/",
+            "answer_count": 46,
+            "date": "Sep 28, 2024"
+          },
+          {
+            "title": "[Looking For] Over-ear Audiophile Headphones - Reddit",
+            "link": "https://www.reddit.com/r/HeadphoneAdvice/comments/175zik3/looking_for_overear_audiophile_headphones/",
+            "answer_count": 6,
+            "date": "Oct 12, 2023"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Etymotic ER3XR · 7Hz x Crinacle Salnotes Dioko (7Hz Timeless alternative, both have aggressive treble, the Dioko even more so) · Sennheiser IE200.",
+          "source_info_link": "https://www.reddit.com/r/HeadphoneAdvice/comments/13hxo2u/suggestions_for_audiophile_tier/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZSd1V2OE5FNVhMUGVFdnMwXzlGcFR3b0l5RENuRmM5X09mNTZwN1phV3pfa3R1b0ZwOVBIMmtkSGxfdzlzSHZfQ09WdWN5TktMSFh1OExFTnI0aklpZHBhbG9YRW5uMW1wR2ZWQmpQZ0hvTW9RemhhLU4tWkdtekNfT2hXaF90UERUdlB3NjBMaUV4UE9yT1BMaUg3eUhvMWVjb2ZMUFZFWlozaUhWVVpTYkJMbnlhTFJ4QUd2Q3V6UjFpeUESBBoCCAAa1AYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCuBggAEAAYACAAKhAKBGJlc3QVy0SoPxoDdG9wKi8KBG92ZXIVBWwDPhoGYXJvdW5kGgdvdmVyZWFyGhFvdmVyZWFyaGVhZHBob25lcypFCgNlYXIVHrhnPhoEZWFycxoHb3ZlcmVhchoRb3ZlcmVhcmhlYWRwaG9uZXMaDWVhcmhlYWRwaG9uZXMaCGl2O3A7ZWFyKnsKCmhlYWRwaG9uZXMVguyFQBoEYnVkcxoHZWFyYnVkcxoIZWFycGhvbmUaCWVhcnBob25lcxoHaGVhZHNldBoIaGVhZHNldHMaEW92ZXJlYXJoZWFkcGhvbmVzGg1lYXJoZWFkcGhvbmVzGg9pdjtwO2hlYWRwaG9uZXMqCgoDZm9yFQAAAAAqMAoLYXVkaW9waGlsZXMVAAAAABoKYXVkaW9waGlsZRoQaXY7cDthdWRpb3BoaWxlczLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGUndVdjhORTVYTFBlRXZzMF85RnBUd29JeURDbkZjOV9PZjU2cDdaYVd6X2t0dW9GcDlQSDJrZEhsX3c5c0h2X0NPVnVjeU5LTEhYdThMRU5yNGpJaWRwYWxvWEVubjFtcEdmVkJqUGdIb01vUXpoYS1OLVpHbXpDX09oV2hfdFBEVHZQdzYwTGlFeFBPck9QTGlIN3lIbzFlY29mTFBWRVpaM2lIVlVaU2JCTG55YUxSeEFHdkN1elIxaXlBOlRTdWdnZXN0aW9ucyBmb3IgJiMzOTs8Yj5hdWRpb3BoaWxlPC9iPiB0aWVyJiMzOTsgPGI-aGVhZHBob25lczwvYj4vPGI-ZWFycGhvbmVzPC9iPi5CpwE8Yj5FdHltb3RpYyBFUjNYUjwvYj4gJm1pZGRvdDsgN0h6IHggQ3JpbmFjbGUgU2Fsbm90ZXMgRGlva28gKDdIeiBUaW1lbGVzcyBhbHRlcm5hdGl2ZSwgYm90aCBoYXZlIGFnZ3Jlc3NpdmUgdHJlYmxlLCB0aGUgRGlva28gZXZlbiBtb3JlIHNvKSAmbWlkZG90OyBTZW5uaGVpc2VyIElFMjAwLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZSd1V2OE5FNVhMUGVFdnMwXzlGcFR3b0l5RENuRmM5X09mNTZwN1phV3pfa3R1b0ZwOVBIMmtkSGxfdzlzSHZfQ09WdWN5TktMSFh1OExFTnI0aklpZHBhbG9YRW5uMW1wR2ZWQmpQZ0hvTW9RemhhLU4tWkdtekNfT2hXaF90UERUdlB3NjBMaUV4UE9yT1BMaUg3eUhvMWVjb2ZMUFZFWlozaUhWVVpTYkJMbnlhTFJ4QUd2Q3V6UjFpeUESBBoCCAAa1AYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCuBggAEAAYACAAKhAKBGJlc3QVy0SoPxoDdG9wKi8KBG92ZXIVBWwDPhoGYXJvdW5kGgdvdmVyZWFyGhFvdmVyZWFyaGVhZHBob25lcypFCgNlYXIVHrhnPhoEZWFycxoHb3ZlcmVhchoRb3ZlcmVhcmhlYWRwaG9uZXMaDWVhcmhlYWRwaG9uZXMaCGl2O3A7ZWFyKnsKCmhlYWRwaG9uZXMVguyFQBoEYnVkcxoHZWFyYnVkcxoIZWFycGhvbmUaCWVhcnBob25lcxoHaGVhZHNldBoIaGVhZHNldHMaEW92ZXJlYXJoZWFkcGhvbmVzGg1lYXJoZWFkcGhvbmVzGg9pdjtwO2hlYWRwaG9uZXMqCgoDZm9yFQAAAAAqMAoLYXVkaW9waGlsZXMVAAAAABoKYXVkaW9waGlsZRoQaXY7cDthdWRpb3BoaWxlczLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGUndVdjhORTVYTFBlRXZzMF85RnBUd29JeURDbkZjOV9PZjU2cDdaYVd6X2t0dW9GcDlQSDJrZEhsX3c5c0h2X0NPVnVjeU5LTEhYdThMRU5yNGpJaWRwYWxvWEVubjFtcEdmVkJqUGdIb01vUXpoYS1OLVpHbXpDX09oV2hfdFBEVHZQdzYwTGlFeFBPck9QTGlIN3lIbzFlY29mTFBWRVpaM2lIVlVaU2JCTG55YUxSeEFHdkN1elIxaXlBOlRTdWdnZXN0aW9ucyBmb3IgJiMzOTs8Yj5hdWRpb3BoaWxlPC9iPiB0aWVyJiMzOTsgPGI-aGVhZHBob25lczwvYj4vPGI-ZWFycGhvbmVzPC9iPi5CpwE8Yj5FdHltb3RpYyBFUjNYUjwvYj4gJm1pZGRvdDsgN0h6IHggQ3JpbmFjbGUgU2Fsbm90ZXMgRGlva28gKDdIeiBUaW1lbGVzcyBhbHRlcm5hdGl2ZSwgYm90aCBoYXZlIGFnZ3Jlc3NpdmUgdHJlYmxlLCB0aGUgRGlva28gZXZlbiBtb3JlIHNvKSAmbWlkZG90OyBTZW5uaGVpc2VyIElFMjAwLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Reddit · r/HeadphoneAdvice"
+    },
+    {
+      "position": 4,
+      "title": "Best Hi-Res Noise Cancelling Headphones",
+      "link": "https://audio46.com/blogs/audio46-guidepost/best-hi-res-noise-cancelling-headphones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFaROoesn4Bj2kAzw_x9jHRPqoLafwnw_kn8Ho7J34yzmphWoOS9KqPdcII3waQrgPLSlc__UslNozXfHX_49sWxdjHooxQR121u1u3vbxnG54lTmo7nKPPGUgzTH_XW6_KbL6WVEbeYwYyTjaczxgHrj-aSiIXbTAlvQIgeNu0Cy5nxWCqUi&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8QFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://audio46.com › blogs › audio46-guidepost › best-...",
+      "snippet": "Sony WH-1000XM6 provides the best on the market today. This new release from Sony has audiophiles getting great quality sound at a price they can afford. ...",
+      "snippet_highlighted_words": [
+        "Sony WH-1000XM6"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "price_from": 460,
+            "price_to": 2140,
+            "currency": "$",
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.9",
+            "store rating (1.2K)",
+            "$460 to $2,140",
+            "Free delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Sony WH-1000XM6 provides the best on the market today. This new release from Sony has audiophiles getting great quality sound at a price they can afford. ...",
+          "source_info_link": "https://audio46.com/blogs/audio46-guidepost/best-hi-res-noise-cancelling-headphones",
+          "icon": "https://serpapi.com/images/i/UklGRtwAAABXRUJQVlA4INAAAAAwBQCdASogACAAPtEutFooIagoGAEAGglpABOJQP4u2xWJ8gx_ZDVAkymmQtuHJwdoAAD-9hOL_NGkf_G2Dm7XE99dkUDZQ0rDCQf8Z1V-eO98WNvHHt1npAEO2MCZcw-xNpXPxVrwc4uL8xXbZzSnL_kYg3xpPuCsL4Z67aZtBLTBLd7__teJuu3_1pKez634KeDOt5ZtGA09hvMLn6I1rWQXc85jbHM82ugLtA3PLqFAk7DHRxLsoSx3qkjlgxTrr0EkC4PJKMkLK1WSRAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZhUk9vZXNuNEJqMmtBendfeDlqSFJQcW9MYWZ3bndfa244SG83SjM0eXptcGhXb09TOUtxUGRjSUkzd2FRcmdQTFNsY19fVXNsTm96WGZIWF80OXNXeGRqSG9veFFSMTIxdTF1M3ZieG5HNTRsVG1vN25LUFBHVWd6VEhfWFc2X0tiTDZXVkViZVl3WXlUamFjenhnSHJqLWFTaUlYYlRBbHZRSWdlTnUwQ3k1bnhXQ3FVaRIEGgIIABq3BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJEGCAAQABgAIAAqEAoEYmVzdBXDByNAGgN0b3AqLwoEb3ZlchXL_YA_GgZhcm91bmQaB292ZXJlYXIaEW92ZXJlYXJoZWFkcGhvbmVzKkUKA2VhchV2J68_GgRlYXJzGgdvdmVyZWFyGhFvdmVyZWFyaGVhZHBob25lcxoNZWFyaGVhZHBob25lcxoIaXY7cDtlYXIqewoKaGVhZHBob25lcxXX4YxAGgRidWRzGgdlYXJidWRzGghlYXJwaG9uZRoJZWFycGhvbmVzGgdoZWFkc2V0GghoZWFkc2V0cxoRb3ZlcmVhcmhlYWRwaG9uZXMaDWVhcmhlYWRwaG9uZXMaD2l2O3A7aGVhZHBob25lcyoKCgNmb3IVAAAAACowCgthdWRpb3BoaWxlcxVcbjU_GgphdWRpb3BoaWxlGhBpdjtwO2F1ZGlvcGhpbGVzMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZhUk9vZXNuNEJqMmtBendfeDlqSFJQcW9MYWZ3bndfa244SG83SjM0eXptcGhXb09TOUtxUGRjSUkzd2FRcmdQTFNsY19fVXNsTm96WGZIWF80OXNXeGRqSG9veFFSMTIxdTF1M3ZieG5HNTRsVG1vN25LUFBHVWd6VEhfWFc2X0tiTDZXVkViZVl3WXlUamFjenhnSHJqLWFTaUlYYlRBbHZRSWdlTnUwQ3k1bnhXQ3FVaTo_PGI-QmVzdDwvYj4gSGktUmVzIE5vaXNlIENhbmNlbGxpbmcgPGI-SGVhZHBob25lczwvYj4gLSBBdWRpbzQ2QqkBPGI-U29ueSBXSC0xMDAwWE02PC9iPiBwcm92aWRlcyB0aGUgYmVzdCBvbiB0aGUgbWFya2V0IHRvZGF5LiBUaGlzIG5ldyByZWxlYXNlIGZyb20gU29ueSBoYXMgYXVkaW9waGlsZXMgZ2V0dGluZyBncmVhdCBxdWFsaXR5IHNvdW5kIGF0IGEgcHJpY2UgdGhleSBjYW4gYWZmb3JkLiZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZhUk9vZXNuNEJqMmtBendfeDlqSFJQcW9MYWZ3bndfa244SG83SjM0eXptcGhXb09TOUtxUGRjSUkzd2FRcmdQTFNsY19fVXNsTm96WGZIWF80OXNXeGRqSG9veFFSMTIxdTF1M3ZieG5HNTRsVG1vN25LUFBHVWd6VEhfWFc2X0tiTDZXVkViZVl3WXlUamFjenhnSHJqLWFTaUlYYlRBbHZRSWdlTnUwQ3k1bnhXQ3FVaRIEGgIIABq3BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJEGCAAQABgAIAAqEAoEYmVzdBXDByNAGgN0b3AqLwoEb3ZlchXL_YA_GgZhcm91bmQaB292ZXJlYXIaEW92ZXJlYXJoZWFkcGhvbmVzKkUKA2VhchV2J68_GgRlYXJzGgdvdmVyZWFyGhFvdmVyZWFyaGVhZHBob25lcxoNZWFyaGVhZHBob25lcxoIaXY7cDtlYXIqewoKaGVhZHBob25lcxXX4YxAGgRidWRzGgdlYXJidWRzGghlYXJwaG9uZRoJZWFycGhvbmVzGgdoZWFkc2V0GghoZWFkc2V0cxoRb3ZlcmVhcmhlYWRwaG9uZXMaDWVhcmhlYWRwaG9uZXMaD2l2O3A7aGVhZHBob25lcyoKCgNmb3IVAAAAACowCgthdWRpb3BoaWxlcxVcbjU_GgphdWRpb3BoaWxlGhBpdjtwO2F1ZGlvcGhpbGVzMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZhUk9vZXNuNEJqMmtBendfeDlqSFJQcW9MYWZ3bndfa244SG83SjM0eXptcGhXb09TOUtxUGRjSUkzd2FRcmdQTFNsY19fVXNsTm96WGZIWF80OXNXeGRqSG9veFFSMTIxdTF1M3ZieG5HNTRsVG1vN25LUFBHVWd6VEhfWFc2X0tiTDZXVkViZVl3WXlUamFjenhnSHJqLWFTaUlYYlRBbHZRSWdlTnUwQ3k1bnhXQ3FVaTo_PGI-QmVzdDwvYj4gSGktUmVzIE5vaXNlIENhbmNlbGxpbmcgPGI-SGVhZHBob25lczwvYj4gLSBBdWRpbzQ2QqkBPGI-U29ueSBXSC0xMDAwWE02PC9iPiBwcm92aWRlcyB0aGUgYmVzdCBvbiB0aGUgbWFya2V0IHRvZGF5LiBUaGlzIG5ldyByZWxlYXNlIGZyb20gU29ueSBoYXMgYXVkaW9waGlsZXMgZ2V0dGluZyBncmVhdCBxdWFsaXR5IHNvdW5kIGF0IGEgcHJpY2UgdGhleSBjYW4gYWZmb3JkLiZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Audio46"
+    },
+    {
+      "position": 5,
+      "title": "Audiophile Headphone Reviews",
+      "link": "https://futureaudiophile.com/headphones/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVvHQH9a85qrsMFn9EsNjN4IQPA81GIE1_qvhQmCgWQBU7GIAX-07hgNrrom169StVMJ_4jIMw2mrF97X_K35wCKqngKkiR1QC7i7twQMzalsZXxgJAlZggiS7eA&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8QFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://futureaudiophile.com › headphones",
+      "snippet": "Sony WH-1000XM6 Wireless Over-the-Ear Headphones Reviewed ... The AudioTechnica-ATH-M50xBT are a goldilocks product in terms of price versus performance. Audio- ...",
+      "snippet_highlighted_words": [
+        "Sony WH-1000XM6 Wireless Over-the-Ear Headphones"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Sony WH-1000XM6 Wireless Over-the-Ear Headphones Reviewed ... The AudioTechnica-ATH-M50xBT are a goldilocks product in terms of price versus performance. Audio- ...",
+          "source_info_link": "https://futureaudiophile.com/headphones/",
+          "icon": "https://serpapi.com/images/i/UklGRuAAAABXRUJQVlA4INQAAACQBACdASocABwAPtE-tFooIigoFAEAGglpAAPjBTkJrNnukq54U6383yGIoAAA_v0q5_a3zzYGMkuM9-mcZS0-kRFutzgu3ZGhJA0gvZiu0cY7UPOj__HbJv8VpeGaUAkSm_4p7-l20_aI3XaD35uc1CA_fSTvrUgAgxayjHPIwvzQOiQ5gvnxOF_4WjjFj6JKOSj2IohFen7-SdJTVFTNCAT4QZu9hoSVj4eQ0Wam45QOhtX7vGY3uFc1WFzD6LkkL9vld2mGzGEVFldS_SGGEAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVnZIUUg5YTg1cXJzTUZuOUVzTmpONElRUEE4MUdJRTFfcXZoUW1DZ1dRQlU3R0lBWC0wN2hnTnJyb20xNjlTdFZNSl80aklNdzJtckY5N1hfSzM1d0NLcW5nS2tpUjFRQzdpN3R3UU16YWxzWlh4Z0pBbFpnZ2lTN2VBEgQaAggAGugFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwgUIABAAGAAgACoQCgRiZXN0FVu_rj8aA3RvcCovCgRvdmVyFYll7j8aBmFyb3VuZBoHb3ZlcmVhchoRb3ZlcmVhcmhlYWRwaG9uZXMqRQoDZWFyFani_z8aBGVhcnMaB292ZXJlYXIaEW92ZXJlYXJoZWFkcGhvbmVzGg1lYXJoZWFkcGhvbmVzGghpdjtwO2Vhcip7CgpoZWFkcGhvbmVzFeWrrUAaBGJ1ZHMaB2VhcmJ1ZHMaCGVhcnBob25lGgllYXJwaG9uZXMaB2hlYWRzZXQaCGhlYWRzZXRzGhFvdmVyZWFyaGVhZHBob25lcxoNZWFyaGVhZHBob25lcxoPaXY7cDtoZWFkcGhvbmVzKgoKA2ZvchUAAAAAKjAKC2F1ZGlvcGhpbGVzFU1vqT8aCmF1ZGlvcGhpbGUaEGl2O3A7YXVkaW9waGlsZXMykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWdkhRSDlhODVxcnNNRm45RXNOak40SVFQQTgxR0lFMV9xdmhRbUNnV1FCVTdHSUFYLTA3aGdOcnJvbTE2OVN0Vk1KXzRqSU13Mm1yRjk3WF9LMzV3Q0txbmdLa2lSMVFDN2k3dHdRTXphbHNaWHhnSkFsWmdnaVM3ZUE6IzxiPkF1ZGlvcGhpbGU8L2I-IEhlYWRwaG9uZSBSZXZpZXdzQrABPGI-U29ueSBXSC0xMDAwWE02IFdpcmVsZXNzIE92ZXItdGhlLUVhciBIZWFkcGhvbmVzPC9iPiBSZXZpZXdlZCAuLi4gVGhlIEF1ZGlvVGVjaG5pY2EtQVRILU01MHhCVCBhcmUgYSBnb2xkaWxvY2tzIHByb2R1Y3QgaW4gdGVybXMgb2YgcHJpY2UgdmVyc3VzIHBlcmZvcm1hbmNlLiBBdWRpby0mbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVnZIUUg5YTg1cXJzTUZuOUVzTmpONElRUEE4MUdJRTFfcXZoUW1DZ1dRQlU3R0lBWC0wN2hnTnJyb20xNjlTdFZNSl80aklNdzJtckY5N1hfSzM1d0NLcW5nS2tpUjFRQzdpN3R3UU16YWxzWlh4Z0pBbFpnZ2lTN2VBEgQaAggAGugFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAwgUIABAAGAAgACoQCgRiZXN0FVu_rj8aA3RvcCovCgRvdmVyFYll7j8aBmFyb3VuZBoHb3ZlcmVhchoRb3ZlcmVhcmhlYWRwaG9uZXMqRQoDZWFyFani_z8aBGVhcnMaB292ZXJlYXIaEW92ZXJlYXJoZWFkcGhvbmVzGg1lYXJoZWFkcGhvbmVzGghpdjtwO2Vhcip7CgpoZWFkcGhvbmVzFeWrrUAaBGJ1ZHMaB2VhcmJ1ZHMaCGVhcnBob25lGgllYXJwaG9uZXMaB2hlYWRzZXQaCGhlYWRzZXRzGhFvdmVyZWFyaGVhZHBob25lcxoNZWFyaGVhZHBob25lcxoPaXY7cDtoZWFkcGhvbmVzKgoKA2ZvchUAAAAAKjAKC2F1ZGlvcGhpbGVzFU1vqT8aCmF1ZGlvcGhpbGUaEGl2O3A7YXVkaW9waGlsZXMykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWdkhRSDlhODVxcnNNRm45RXNOak40SVFQQTgxR0lFMV9xdmhRbUNnV1FCVTdHSUFYLTA3aGdOcnJvbTE2OVN0Vk1KXzRqSU13Mm1yRjk3WF9LMzV3Q0txbmdLa2lSMVFDN2k3dHdRTXphbHNaWHhnSkFsWmdnaVM3ZUE6IzxiPkF1ZGlvcGhpbGU8L2I-IEhlYWRwaG9uZSBSZXZpZXdzQrABPGI-U29ueSBXSC0xMDAwWE02IFdpcmVsZXNzIE92ZXItdGhlLUVhciBIZWFkcGhvbmVzPC9iPiBSZXZpZXdlZCAuLi4gVGhlIEF1ZGlvVGVjaG5pY2EtQVRILU01MHhCVCBhcmUgYSBnb2xkaWxvY2tzIHByb2R1Y3QgaW4gdGVybXMgb2YgcHJpY2UgdmVyc3VzIHBlcmZvcm1hbmNlLiBBdWRpby0mbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Future Audiophile Magazine",
+      "read_more_link": "https://futureaudiophile.com/headphones/#:~:text=Sony%20WH%2D1000XM6%20Wireless%20Over%2Dthe%2DEar%20Headphones,Reviewed&text=Audio%2DTechnica%20ATH%20M50xBT2%20Wireless%20Headphone,Reviewed"
+    },
+    {
+      "position": 6,
+      "title": "I test headphones for a living and these are my favorite ...",
+      "link": "https://www.tomsguide.com/audio/over-ear-headphones/i-test-headphones-for-a-living-and-these-are-my-favorite-over-ear-headphones-for-true-audiophiles-starting-at-usd200",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES4QEB6zswFeNrxvDqcxeLdfbeRRRjvXyRQAigMxJYBUO30u3vleF0DcN6xRNXlZlOfuT0LVctri2oLtRt4OKLO_IDUrpsaAWuVyBB1gJ8-vU8rhGajFeE0IIHnHqn_4LZIPXefrHoRV2jLQpt6ajpWQneOXwi3uV-XTxI1vD7Kt4a1p4GD2TTB7t_JUolVC0wXxgHobiotab3KScwzhrqkS8pZVkZ_Yy0j9LJE9rjBuc5z7K09RYsb1VR8AVrN5nQCMJiIBLTabJtHL_9Qayo7UWob-sz3SE30UmjsUAt5TXa6UU&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8QFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://www.tomsguide.com › ... › Over-Ear Headphones",
+      "date": "Nov 8, 2025",
+      "snippet": "\"Budget\" pick: Sennheiser HD 560 S · Right in the middle: Meze 105 AER · The expensive pick: Sennheiser HD800 S · More from Tom's Guide.",
+      "snippet_highlighted_words": [
+        "Sennheiser HD 560 S"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "\"Budget\" pick: Sennheiser HD 560 S · Right in the middle: Meze 105 AER · The expensive pick: Sennheiser HD800 S · More from Tom's Guide.",
+          "source_info_link": "https://www.tomsguide.com/audio/over-ear-headphones/i-test-headphones-for-a-living-and-these-are-my-favorite-over-ear-headphones-for-true-audiophiles-starting-at-usd200",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAAAwBQCdASocABwAPtEwtFooIigoGAEAGglsACPJRyfkG_h6jSTAnKIRVqchlAOSu3q8AAD-9gJbblmoUWH5DeW0b0fFWt1tTp_9TO4ZF5fvGIXnvytre5I9VbUeVpv6U9MSeEha3qKbNbOVEVmJZy8il2iN0JTZE2qf1DO807yUH_Pv-e5_t-OI3o_P4gr_s-zhutGRZ91vHkmDI4OCbQ9Be9f-ipaE0FAQC2Z1gUSClCjAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0CL2dvdG8_dXJsPUNBRVM0UUVCNnpzd0ZlTnJ4dkRxY3hlTGRmYmVSUlJqdlh5UlFBaWdNeEpZQlVPMzB1M3ZsZUYwRGNONnhSTlhsWmxPZnVUMExWY3RyaTJvTHRSdDRPS0xPX0lEVXJwc2FBV3VWeUJCMWdKOC12VThyaEdhakZlRTBJSUhuSHFuXzRMWklQWGVmckhvUlYyakxRcHQ2YWpwV1FuZU9Yd2kzdVYtWFR4STF2RDdLdDRhMXA0R0QyVFRCN3RfSlVvbFZDMHdYeGdIb2Jpb3RhYjNLU2N3emhycWtTOHBaVmtaX1l5MGo5TEpFOXJqQnVjNXo3SzA5UllzYjFWUjhBVnJONW5RQ01KaUlCTFRhYkp0SExfOVFheW83VVdvYi1zejNTRTMwVW1qc1VBdDVUWGE2VVUSBBoCCAAawwcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCdBwgAEAAYACAAKhAKBGJlc3QVECcuQBoDdG9wKi8KBG92ZXIVXayKQBoGYXJvdW5kGgdvdmVyZWFyGhFvdmVyZWFyaGVhZHBob25lcypFCgNlYXIVG48tQBoEZWFycxoHb3ZlcmVhchoRb3ZlcmVhcmhlYWRwaG9uZXMaDWVhcmhlYWRwaG9uZXMaCGl2O3A7ZWFyKnsKCmhlYWRwaG9uZXMVGiqlQBoEYnVkcxoHZWFyYnVkcxoIZWFycGhvbmUaCWVhcnBob25lcxoHaGVhZHNldBoIaGVhZHNldHMaEW92ZXJlYXJoZWFkcGhvbmVzGg1lYXJoZWFkcGhvbmVzGg9pdjtwO2hlYWRwaG9uZXMqCgoDZm9yFQAAAAAqMAoLYXVkaW9waGlsZXMVToPxPxoKYXVkaW9waGlsZRoQaXY7cDthdWRpb3BoaWxlczK9Ai9nb3RvP3VybD1DQUVTNFFFQjZ6c3dGZU5yeHZEcWN4ZUxkZmJlUlJSanZYeVJRQWlnTXhKWUJVTzMwdTN2bGVGMERjTjZ4Uk5YbFpsT2Z1VDBMVmN0cmkyb0x0UnQ0T0tMT19JRFVycHNhQVd1VnlCQjFnSjgtdlU4cmhHYWpGZUUwSUlIbkhxbl80TFpJUFhlZnJIb1JWMmpMUXB0NmFqcFdRbmVPWHdpM3VWLVhUeEkxdkQ3S3Q0YTFwNEdEMlRUQjd0X0pVb2xWQzB3WHhnSG9iaW90YWIzS1Njd3pocnFrUzhwWlZrWl9ZeTBqOUxKRTlyakJ1YzV6N0swOVJZc2IxVlI4QVZyTjVuUUNNSmlJQkxUYWJKdEhMXzlRYXlvN1VXb2Itc3ozU0UzMFVtanNVQXQ1VFhhNlVVOk9JIHRlc3QgPGI-aGVhZHBob25lczwvYj4gZm9yIGEgbGl2aW5nIGFuZCB0aGVzZSBhcmUgbXkgZmF2b3JpdGUgPGI-b3ZlcjwvYj4gLi4uQrIBJnF1b3Q7QnVkZ2V0JnF1b3Q7IHBpY2s6IDxiPlNlbm5oZWlzZXIgSEQgNTYwIFM8L2I-ICZtaWRkb3Q7IFJpZ2h0IGluIHRoZSBtaWRkbGU6IE1lemUgMTA1IEFFUiAmbWlkZG90OyBUaGUgZXhwZW5zaXZlIHBpY2s6IFNlbm5oZWlzZXIgSEQ4MDAgUyAmbWlkZG90OyBNb3JlIGZyb20gVG9tJiMzOTtzIEd1aWRlLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0CL2dvdG8_dXJsPUNBRVM0UUVCNnpzd0ZlTnJ4dkRxY3hlTGRmYmVSUlJqdlh5UlFBaWdNeEpZQlVPMzB1M3ZsZUYwRGNONnhSTlhsWmxPZnVUMExWY3RyaTJvTHRSdDRPS0xPX0lEVXJwc2FBV3VWeUJCMWdKOC12VThyaEdhakZlRTBJSUhuSHFuXzRMWklQWGVmckhvUlYyakxRcHQ2YWpwV1FuZU9Yd2kzdVYtWFR4STF2RDdLdDRhMXA0R0QyVFRCN3RfSlVvbFZDMHdYeGdIb2Jpb3RhYjNLU2N3emhycWtTOHBaVmtaX1l5MGo5TEpFOXJqQnVjNXo3SzA5UllzYjFWUjhBVnJONW5RQ01KaUlCTFRhYkp0SExfOVFheW83VVdvYi1zejNTRTMwVW1qc1VBdDVUWGE2VVUSBBoCCAAawwcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCdBwgAEAAYACAAKhAKBGJlc3QVECcuQBoDdG9wKi8KBG92ZXIVXayKQBoGYXJvdW5kGgdvdmVyZWFyGhFvdmVyZWFyaGVhZHBob25lcypFCgNlYXIVG48tQBoEZWFycxoHb3ZlcmVhchoRb3ZlcmVhcmhlYWRwaG9uZXMaDWVhcmhlYWRwaG9uZXMaCGl2O3A7ZWFyKnsKCmhlYWRwaG9uZXMVGiqlQBoEYnVkcxoHZWFyYnVkcxoIZWFycGhvbmUaCWVhcnBob25lcxoHaGVhZHNldBoIaGVhZHNldHMaEW92ZXJlYXJoZWFkcGhvbmVzGg1lYXJoZWFkcGhvbmVzGg9pdjtwO2hlYWRwaG9uZXMqCgoDZm9yFQAAAAAqMAoLYXVkaW9waGlsZXMVToPxPxoKYXVkaW9waGlsZRoQaXY7cDthdWRpb3BoaWxlczK9Ai9nb3RvP3VybD1DQUVTNFFFQjZ6c3dGZU5yeHZEcWN4ZUxkZmJlUlJSanZYeVJRQWlnTXhKWUJVTzMwdTN2bGVGMERjTjZ4Uk5YbFpsT2Z1VDBMVmN0cmkyb0x0UnQ0T0tMT19JRFVycHNhQVd1VnlCQjFnSjgtdlU4cmhHYWpGZUUwSUlIbkhxbl80TFpJUFhlZnJIb1JWMmpMUXB0NmFqcFdRbmVPWHdpM3VWLVhUeEkxdkQ3S3Q0YTFwNEdEMlRUQjd0X0pVb2xWQzB3WHhnSG9iaW90YWIzS1Njd3pocnFrUzhwWlZrWl9ZeTBqOUxKRTlyakJ1YzV6N0swOVJZc2IxVlI4QVZyTjVuUUNNSmlJQkxUYWJKdEhMXzlRYXlvN1VXb2Itc3ozU0UzMFVtanNVQXQ1VFhhNlVVOk9JIHRlc3QgPGI-aGVhZHBob25lczwvYj4gZm9yIGEgbGl2aW5nIGFuZCB0aGVzZSBhcmUgbXkgZmF2b3JpdGUgPGI-b3ZlcjwvYj4gLi4uQrIBJnF1b3Q7QnVkZ2V0JnF1b3Q7IHBpY2s6IDxiPlNlbm5oZWlzZXIgSEQgNTYwIFM8L2I-ICZtaWRkb3Q7IFJpZ2h0IGluIHRoZSBtaWRkbGU6IE1lemUgMTA1IEFFUiAmbWlkZG90OyBUaGUgZXhwZW5zaXZlIHBpY2s6IFNlbm5oZWlzZXIgSEQ4MDAgUyAmbWlkZG90OyBNb3JlIGZyb20gVG9tJiMzOTtzIEd1aWRlLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Tom's Guide",
+      "read_more_link": "https://www.tomsguide.com/audio/over-ear-headphones/i-test-headphones-for-a-living-and-these-are-my-favorite-over-ear-headphones-for-true-audiophiles-starting-at-usd200#:~:text=%22Budget%22%20pick%3A%20Sennheiser%20HD%20560,S&text=Right%20in%20the%20middle%3A%20Meze,105%20AER&text=The%20expensive%20pick%3A%20Sennheiser%20HD800,S&text=More%20from%20Tom's%20Guide"
+    },
+    {
+      "position": 7,
+      "title": "Best Audiophile Headphones",
+      "link": "https://www.headamp.com/collections/best-headphones?srsltid=AU7gw4Vs68wk4LzjIQWPqciUVjtzoFcOow787uVjRbahoLW4VQ-Kcum8",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEB6zswFTEK3_CmsOqBtbZavLk-9uGQlfbCHdM2tsIcwjssY3D5dxGR-guZzj_ym4OQjzwyDcd2Yv0BbToTNkyhfPGMH-o9ZBqcHoprhOgoIFaWLnxp7Qz_1yc0aVkDvfTsQso2CAV7T3C2esX-Gw0Gu3312TnNOeP5R4pXmw4inKGgSbCLypvljIVj2skSmYFmFufZ7nDsoXsbWID4dBbcka14cHqxMo19Wm5t&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8QFnoECFkQAQ&uoh=1",
+      "displayed_link": "https://www.headamp.com › collections › best-headphones",
+      "snippet": "Best Audiophile Headphones ; Meze Empyrean II Planar Headphones · $2,999.00 ; Dan Clark Audio STEALTH · $4,499.99 to $4,549.99 ; Austrian Audio THE COMPOSER Dynamic ...",
+      "snippet_highlighted_words": [
+        "Meze Empyrean II Planar Headphones"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "store_rating": 611,
+            "price_from": 2300,
+            "price_to": 5999,
+            "currency": "$",
+            "day_delivery": 4,
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.9",
+            "store rating (611)",
+            "$2,300 to $5,999",
+            "4-day delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Best Audiophile Headphones ; Meze Empyrean II Planar Headphones · $2,999.00 ; Dan Clark Audio STEALTH · $4,499.99 to $4,549.99 ; Austrian Audio THE COMPOSER Dynamic ...",
+          "source_info_link": "https://www.headamp.com/collections/best-headphones?srsltid=AU7gw4Vs68wk4LzjIQWPqciUVjtzoFcOow787uVjRbahoLW4VQ-Kcum8",
+          "icon": "https://serpapi.com/images/i/UklGRuoBAABXRUJQVlA4IN4BAABwCgCdASogACAAPtEutFooIagoGAEAGglpABETvxgx9mcA3QeAGkCmL_8jyd_QH-09wj-Sf0T_XfmB3K_Q6_WkcX-al-AHzKqiadwmDrO3uVILA2OalMfoO3vwAAD-9hOk5hUFmAzNS_2M90ZfL0UQYXGZ3sZuMf5pG_UOh28PgEpw2EFfAQdSL1VUh3fUGwHFXrSsr_MMlTKBLz-_Pu8ZX-6ULkafw_z64w3Rx4eGAkCEoJyp8637EL-s932HcCAcvD12fpf07f-uiwjHqbuhTjGNTs923nkSXuem9yLXJuwLmBBiIHDao2IWeIjjd-HF75Xc59cDjLRAa6Qov7A7Sp6gAXVuhm1yqeYbDg8rNanSx7_-fLifz78GmZHe2XbAe7Tv2ezMwxlEZW79SCoQJ5nd8EacLmbGsb7MQF_mvzbxGiKebpTZ1uP73uYHQdCZEwcyHv_Wsw0OQ968j3vuw3xReJO5b_lfXPQ3HKf0-JGS3qqiR9mS7-dU_fXY_FY_INLNvKhQam-LVSgMLgKL-P5Y-P8_YDc8pB6E9v01OeDf990b-GfMj8eBBLoyA8XbjmKuO2RLffw3Zyh7lUDetbzN0xNJ1kZw9v8w8BUtzTGYjdjmSRit5ts-EAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvYBL2dvdG8_dXJsPUNBRVNyQUVCNnpzd0ZURUszX0Ntc09xQnRiWmF2TGstOXVHUWxmYkNIZE0ydHNJY3dqc3NZM0Q1ZHhHUi1ndVp6al95bTRPUWp6d3lEY2QyWXYwQmJUb1ROa3loZlBHTUgtbzlaQnFjSG9wcmhPZ29JRmFXTG54cDdRel8xeWMwYVZrRHZmVHNRc28yQ0FWN1QzQzJlc1gtR3cwR3UzMzEyVG5OT2VQNVI0cFhtdzRpbktHZ1NiQ0x5cHZsaklWajJza1NtWUZtRnVmWjduRHNvWHNiV0lENGRCYmNrYTE0Y0hxeE1vMTlXbTV0EgQaAggAGo4GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOoFCAAQABgAIAAqEAoEYmVzdBUvnXVAGgN0b3AqLwoEb3ZlchUHC8o-GgZhcm91bmQaB292ZXJlYXIaEW92ZXJlYXJoZWFkcGhvbmVzKkUKA2VhchXSMwhAGgRlYXJzGgdvdmVyZWFyGhFvdmVyZWFyaGVhZHBob25lcxoNZWFyaGVhZHBob25lcxoIaXY7cDtlYXIqewoKaGVhZHBob25lcxWoqrhAGgRidWRzGgdlYXJidWRzGghlYXJwaG9uZRoJZWFycGhvbmVzGgdoZWFkc2V0GghoZWFkc2V0cxoRb3ZlcmVhcmhlYWRwaG9uZXMaDWVhcmhlYWRwaG9uZXMaD2l2O3A7aGVhZHBob25lcyoKCgNmb3IVAAAAACowCgthdWRpb3BoaWxlcxUAAAAAGgphdWRpb3BoaWxlGhBpdjtwO2F1ZGlvcGhpbGVzMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnBEZjFKUEZsdlhwZW9VbE5LaXg1Z0pvQm1KbE1DZGhTdkpUUnVWOU1wT3huNnVnelNsNTRnVkJTZkQ5Mk9ranVubTFDLVZ3aHFZZk9Gb0ZJVmpNVHVXWi16ZU9QRWYtSHdMODdtNnNUQTIwNHBsamtuWFljOGlTdlJuNkZPNUpuektSejBUWWU6KzxiPkJlc3QgQXVkaW9waGlsZSBIZWFkcGhvbmVzPC9iPiB8IEhlYWRBbXBCwgFCZXN0IEF1ZGlvcGhpbGUgSGVhZHBob25lcyA7IDxiPk1lemUgRW1weXJlYW4gSUkgUGxhbmFyIEhlYWRwaG9uZXM8L2I-ICZtaWRkb3Q7ICQyLDk5OS4wMCA7IERhbiBDbGFyayBBdWRpbyBTVEVBTFRIICZtaWRkb3Q7ICQ0LDQ5OS45OSB0byAkNCw1NDkuOTkgOyBBdXN0cmlhbiBBdWRpbyBUSEUgQ09NUE9TRVIgRHluYW1pYyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvYBL2dvdG8_dXJsPUNBRVNyQUVCNnpzd0ZURUszX0Ntc09xQnRiWmF2TGstOXVHUWxmYkNIZE0ydHNJY3dqc3NZM0Q1ZHhHUi1ndVp6al95bTRPUWp6d3lEY2QyWXYwQmJUb1ROa3loZlBHTUgtbzlaQnFjSG9wcmhPZ29JRmFXTG54cDdRel8xeWMwYVZrRHZmVHNRc28yQ0FWN1QzQzJlc1gtR3cwR3UzMzEyVG5OT2VQNVI0cFhtdzRpbktHZ1NiQ0x5cHZsaklWajJza1NtWUZtRnVmWjduRHNvWHNiV0lENGRCYmNrYTE0Y0hxeE1vMTlXbTV0EgQaAggAGo4GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOoFCAAQABgAIAAqEAoEYmVzdBUvnXVAGgN0b3AqLwoEb3ZlchUHC8o-GgZhcm91bmQaB292ZXJlYXIaEW92ZXJlYXJoZWFkcGhvbmVzKkUKA2VhchXSMwhAGgRlYXJzGgdvdmVyZWFyGhFvdmVyZWFyaGVhZHBob25lcxoNZWFyaGVhZHBob25lcxoIaXY7cDtlYXIqewoKaGVhZHBob25lcxWoqrhAGgRidWRzGgdlYXJidWRzGghlYXJwaG9uZRoJZWFycGhvbmVzGgdoZWFkc2V0GghoZWFkc2V0cxoRb3ZlcmVhcmhlYWRwaG9uZXMaDWVhcmhlYWRwaG9uZXMaD2l2O3A7aGVhZHBob25lcyoKCgNmb3IVAAAAACowCgthdWRpb3BoaWxlcxUAAAAAGgphdWRpb3BoaWxlGhBpdjtwO2F1ZGlvcGhpbGVzMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnBEZjFKUEZsdlhwZW9VbE5LaXg1Z0pvQm1KbE1DZGhTdkpUUnVWOU1wT3huNnVnelNsNTRnVkJTZkQ5Mk9ranVubTFDLVZ3aHFZZk9Gb0ZJVmpNVHVXWi16ZU9QRWYtSHdMODdtNnNUQTIwNHBsamtuWFljOGlTdlJuNkZPNUpuektSejBUWWU6KzxiPkJlc3QgQXVkaW9waGlsZSBIZWFkcGhvbmVzPC9iPiB8IEhlYWRBbXBCwgFCZXN0IEF1ZGlvcGhpbGUgSGVhZHBob25lcyA7IDxiPk1lemUgRW1weXJlYW4gSUkgUGxhbmFyIEhlYWRwaG9uZXM8L2I-ICZtaWRkb3Q7ICQyLDk5OS4wMCA7IERhbiBDbGFyayBBdWRpbyBTVEVBTFRIICZtaWRkb3Q7ICQ0LDQ5OS45OSB0byAkNCw1NDkuOTkgOyBBdXN0cmlhbiBBdWRpbyBUSEUgQ09NUE9TRVIgRHluYW1pYyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "HeadAmp",
+      "read_more_link": "https://www.headamp.com/collections/best-headphones?srsltid=AU7gw4Vs68wk4LzjIQWPqciUVjtzoFcOow787uVjRbahoLW4VQ-Kcum8#:~:text=Best%20Audiophile%20Headphones&text=Get%20it%20fast&text=%242%2C999.00&text=Get%20it%20fast&text=%244%2C499.99%20to%20%244%2C549.99&text=In%20Stock"
+    },
+    {
+      "position": 8,
+      "title": "Audiophile Headphones",
+      "link": "https://www.bestbuy.com/site/shop/audiophile-headphones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVBxNae2VT-NATDR2b_POUwQWguCzYC1QNpzNYtux4d7j3ZsyatXOGS-dmD2LT6nimII-3hXz2F0oc5dVh-zPE6KYNun613L2UEtUzZPulCiFKQDLKcgBI_4nqjEwulGDnB4GWjARgMY-sjA&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8QFnoECFwQAQ&uoh=1",
+      "displayed_link": "https://www.bestbuy.com › site › shop › audiophile-head...",
+      "snippet": "Browse the top-ranked list of audiophile headphones below. Audio-Technica - SonicPro ATH-AVC400 Wired Over-the-Ear Headphones ・ of 5 stars ...",
+      "snippet_highlighted_words": [
+        "Audio-Technica - SonicPro ATH-AVC400 Wired Over-the-Ear Headphones"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "store_nearby_mi": 22.8,
+            "day_returns": 15
+          },
+          "extensions": [
+            "4.6",
+            "store rating (1.8K)",
+            "Store nearby (22.8 mi)",
+            "15-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Browse the top-ranked list of audiophile headphones below. Audio-Technica - SonicPro ATH-AVC400 Wired Over-the-Ear Headphones ・ of 5 stars ...",
+          "source_info_link": "https://www.bestbuy.com/site/shop/audiophile-headphones",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkJ4TmFlMlZULU5BVERSMmJfUE9Vd1FXZ3VDellDMVFOcHpOWXR1eDRkN2ozWnN5YXRYT0dTLWRtRDJMVDZuaW1JSS0zaFh6MkYwb2M1ZFZoLXpQRTZLWU51bjYxM0wyVUV0VXpaUHVsQ2lGS1FETEtjZ0JJXzRucWpFd3VsR0RuQjRHV2pBUmdNWS1zakESBBoCCAAa8QUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzQUIABAAGAAgACoQCgRiZXN0FboqFEEaA3RvcCovCgRvdmVyFflKyj8aBmFyb3VuZBoHb3ZlcmVhchoRb3ZlcmVhcmhlYWRwaG9uZXMqRQoDZWFyFeqp0D8aBGVhcnMaB292ZXJlYXIaEW92ZXJlYXJoZWFkcGhvbmVzGg1lYXJoZWFkcGhvbmVzGghpdjtwO2Vhcip7CgpoZWFkcGhvbmVzFdiYkEAaBGJ1ZHMaB2VhcmJ1ZHMaCGVhcnBob25lGgllYXJwaG9uZXMaB2hlYWRzZXQaCGhlYWRzZXRzGhFvdmVyZWFyaGVhZHBob25lcxoNZWFyaGVhZHBob25lcxoPaXY7cDtoZWFkcGhvbmVzKgoKA2ZvchUAAAAAKjAKC2F1ZGlvcGhpbGVzFZV7Mj8aCmF1ZGlvcGhpbGUaEGl2O3A7YXVkaW9waGlsZXMypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWQnhOYWUyVlQtTkFURFIyYl9QT1V3UVdndUN6WUMxUU5wek5ZdHV4NGQ3ajNac3lhdFhPR1MtZG1EMkxUNm5pbUlJLTNoWHoyRjBvYzVkVmgtelBFNktZTnVuNjEzTDJVRXRVelpQdWxDaUZLUURMS2NnQklfNG5xakV3dWxHRG5CNEdXakFSZ01ZLXNqQTouPGI-QXVkaW9waGlsZSBIZWFkcGhvbmVzPC9iPiAtIDxiPkJlc3Q8L2I-IEJ1eUKcAUJyb3dzZSB0aGUgdG9wLXJhbmtlZCBsaXN0IG9mIGF1ZGlvcGhpbGUgaGVhZHBob25lcyBiZWxvdy4gPGI-QXVkaW8tVGVjaG5pY2EgLSBTb25pY1BybyBBVEgtQVZDNDAwIFdpcmVkIE92ZXItdGhlLUVhciBIZWFkcGhvbmVzPC9iPiDjg7sgb2YgNSBzdGFycyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkJ4TmFlMlZULU5BVERSMmJfUE9Vd1FXZ3VDellDMVFOcHpOWXR1eDRkN2ozWnN5YXRYT0dTLWRtRDJMVDZuaW1JSS0zaFh6MkYwb2M1ZFZoLXpQRTZLWU51bjYxM0wyVUV0VXpaUHVsQ2lGS1FETEtjZ0JJXzRucWpFd3VsR0RuQjRHV2pBUmdNWS1zakESBBoCCAAa8QUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzQUIABAAGAAgACoQCgRiZXN0FboqFEEaA3RvcCovCgRvdmVyFflKyj8aBmFyb3VuZBoHb3ZlcmVhchoRb3ZlcmVhcmhlYWRwaG9uZXMqRQoDZWFyFeqp0D8aBGVhcnMaB292ZXJlYXIaEW92ZXJlYXJoZWFkcGhvbmVzGg1lYXJoZWFkcGhvbmVzGghpdjtwO2Vhcip7CgpoZWFkcGhvbmVzFdiYkEAaBGJ1ZHMaB2VhcmJ1ZHMaCGVhcnBob25lGgllYXJwaG9uZXMaB2hlYWRzZXQaCGhlYWRzZXRzGhFvdmVyZWFyaGVhZHBob25lcxoNZWFyaGVhZHBob25lcxoPaXY7cDtoZWFkcGhvbmVzKgoKA2ZvchUAAAAAKjAKC2F1ZGlvcGhpbGVzFZV7Mj8aCmF1ZGlvcGhpbGUaEGl2O3A7YXVkaW9waGlsZXMypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWQnhOYWUyVlQtTkFURFIyYl9QT1V3UVdndUN6WUMxUU5wek5ZdHV4NGQ3ajNac3lhdFhPR1MtZG1EMkxUNm5pbUlJLTNoWHoyRjBvYzVkVmgtelBFNktZTnVuNjEzTDJVRXRVelpQdWxDaUZLUURMS2NnQklfNG5xakV3dWxHRG5CNEdXakFSZ01ZLXNqQTouPGI-QXVkaW9waGlsZSBIZWFkcGhvbmVzPC9iPiAtIDxiPkJlc3Q8L2I-IEJ1eUKcAUJyb3dzZSB0aGUgdG9wLXJhbmtlZCBsaXN0IG9mIGF1ZGlvcGhpbGUgaGVhZHBob25lcyBiZWxvdy4gPGI-QXVkaW8tVGVjaG5pY2EgLSBTb25pY1BybyBBVEgtQVZDNDAwIFdpcmVkIE92ZXItdGhlLUVhciBIZWFkcGhvbmVzPC9iPiDjg7sgb2YgNSBzdGFycyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Best Buy"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best over ear headphones for audiophiles reddit",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+over+ear+headphones+for+audiophiles+reddit&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+over+ear+headphones+for+audiophiles+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best audiophile headphones wireless",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+audiophile+headphones+wireless&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+audiophile+headphones+wireless"
+    },
+    {
+      "block_position": 1,
+      "query": "Best over ear headphones for audiophiles wired",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+over+ear+headphones+for+audiophiles+wired&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+over+ear+headphones+for+audiophiles+wired"
+    },
+    {
+      "block_position": 1,
+      "query": "Best over ear headphones for audiophiles under $500",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+over+ear+headphones+for+audiophiles+under+%24500&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+over+ear+headphones+for+audiophiles+under+%24500"
+    },
+    {
+      "block_position": 1,
+      "query": "Best budget audiophile headphones wireless",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+budget+audiophile+headphones+wireless&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+budget+audiophile+headphones+wireless"
+    },
+    {
+      "block_position": 1,
+      "query": "Best audiophile headphones under $1000",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+audiophile+headphones+under+%241000&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+audiophile+headphones+under+%241000"
+    },
+    {
+      "block_position": 1,
+      "query": "Best audiophile headphones wired",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+audiophile+headphones+wired&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+audiophile+headphones+wired"
+    },
+    {
+      "block_position": 1,
+      "query": "Best audiophile headphones for music",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+audiophile+headphones+for+music&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+audiophile+headphones+for+music"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Wired",
+      "link": "https://www.google.com/search?q=wired+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYASooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIVCAESBVdpcmVkOgoIqZo7EKqaOzAAWIftIGAB&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKAF6BQg4EIkB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=wired+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "Wireless",
+      "link": "https://www.google.com/search?q=wireless+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYASooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIYCAESCFdpcmVsZXNzOgoIqZo7EKuaOzAAWIftIGAB&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKAJ6BQg4EIoB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=wireless+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "Under $600",
+      "link": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles+under+$600&gl=us&hl=en&shoprs=CAESDRILEQAAAACj4cFBGAEYBSooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIjCAUSClVuZGVyICQ2MDAYAiINEgsRAAAAAKPhwUEYASoCGAFYh-0gYAE&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKAN6BQg4EIsB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles+under+%24600"
+    },
+    {
+      "query": "Wireless Headphones",
+      "link": "https://www.google.com/search?q=wireless+headphones+best+over+ear+for+audiophiles&gl=us&hl=en&shoprs=CAEYCSooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIXCAkSE1dpcmVsZXNzIEhlYWRwaG9uZXNgAQ&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKAR6BQg4EIwB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=wireless+headphones+best+over+ear+for+audiophiles"
+    },
+    {
+      "query": "Noise Canceling Headphones",
+      "link": "https://www.google.com/search?q=noise+canceling+headphones+best+over+ear+for+audiophiles&gl=us&hl=en&shoprs=CAEYCSooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIeCAkSGk5vaXNlIENhbmNlbGluZyBIZWFkcGhvbmVzYAE&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKAV6BQg4EI0B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=noise+canceling+headphones+best+over+ear+for+audiophiles"
+    },
+    {
+      "query": "With Microphone",
+      "link": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles+with+microphone&gl=us&hl=en&shoprs=CAEYASooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIhCAESD1dpdGggTWljcm9waG9uZRgCOgoIsMI-ELHCPjADWIftIGAB&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKAZ6BQg4EI4B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles+with+microphone"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles+sale&gl=us&hl=en&shoprs=CAESBEoCGAEYBiooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczITCAYSB09uIHNhbGUYAiIESgIYAViH7SBgAQ&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKAd6BQg4EI8B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles+sale"
+    },
+    {
+      "query": "Noise Canceling",
+      "link": "https://www.google.com/search?q=noise+canceling+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYASooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIfCAESD05vaXNlIENhbmNlbGluZzoKCO3rOhDu6zowA1iH7SBgAQ&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKAh6BQg4EJAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=noise+canceling+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "Get it tomorrow",
+      "link": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAESDZoBCgoIEAE4AUAESAEYFCooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIoCBQSD0dldCBpdCB0b21vcnJvdyINmgEKCggQATgBQARIASoEEAEYAWAB&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKAl6BQg4EJEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "Computer",
+      "link": "https://www.google.com/search?q=computer+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYASooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIaCAESCENvbXB1dGVyOgwIp6KAARCoooABMABYh-0gYAE&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKAp6BQg4EJIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=computer+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "On-ear",
+      "link": "https://www.google.com/search?q=on-ear+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYASooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIYCAESBk9uLWVhcjoMCIuBgAEQk4GAATACWIftIGAB&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKAt6BQg4EJMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=on-ear+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "Studio Headphones",
+      "link": "https://www.google.com/search?q=studio+headphones+best+over+ear+for+audiophiles&gl=us&hl=en&shoprs=CAEYCSooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIVCAkSEVN0dWRpbyBIZWFkcGhvbmVzYAE&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKAx6BQg4EJQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=studio+headphones+best+over+ear+for+audiophiles"
+    },
+    {
+      "query": "Gaming Headsets",
+      "link": "https://www.google.com/search?q=gaming+headsets+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYCSooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczITCAkSD0dhbWluZyBIZWFkc2V0c2AB&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKA16BQg4EJUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=gaming+headsets+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "20 – 48 ohms",
+      "link": "https://www.google.com/search?q=20+ohms+to+48+ohms+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAESGyoZCOfp2QMSEgkAAAAAAAA0QBEAAAAAAABIQBgBKihiZXN0IG92ZXIgZWFyIGhlYWRwaG9uZXMgZm9yIGF1ZGlvcGhpbGVzMlIIARIOMjAg4oCTIDQ4IG9obXMiGyoZCOfp2QMSEgkAAAAAAAA0QBEAAAAAAABIQCoWChIyMCBvaG1zIHRvIDQ4IG9obXMYAToJCOfp2QMQADAGWIftIGAB&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKA56BQg4EJYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=20+ohms+to+48+ohms+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "On-Ear Headphones",
+      "link": "https://www.google.com/search?q=on-ear+headphones+best+over+ear+for+audiophiles&gl=us&hl=en&shoprs=CAEYCSooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIVCAkSEU9uLUVhciBIZWFkcGhvbmVzYAE&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKA96BQg4EJcB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=on-ear+headphones+best+over+ear+for+audiophiles"
+    },
+    {
+      "query": "Earbuds",
+      "link": "https://www.google.com/search?q=earbuds+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYCSooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczILCAkSB0VhcmJ1ZHNgAQ&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKBB6BQg4EJgB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=earbuds+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "Music",
+      "link": "https://www.google.com/search?q=music+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYEiooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIJCBISBU11c2ljYAE&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKBF6BQg4EJkB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=music+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "Headset",
+      "link": "https://www.google.com/search?q=headset+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYASooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIZCAESB0hlYWRzZXQ6DAiAgoABEIGCgAEwA1iH7SBgAQ&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKBJ6BQg4EJoB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=headset+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "Speakers, Headphones & Headsets",
+      "link": "https://www.google.com/search?q=speakers,+headphones+%26+headsets+best+over+ear+for+audiophiles&gl=us&hl=en&shoprs=CAEYCSooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIjCAkSH1NwZWFrZXJzLCBIZWFkcGhvbmVzICYgSGVhZHNldHNgAQ&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKBN6BQg4EJsB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=speakers%2C+headphones+%26+headsets+best+over+ear+for+audiophiles"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYEiooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKBR6BQg4EJwB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=reviews+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "DJ",
+      "link": "https://www.google.com/search?q=dj+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYASooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIUCAESAkRKOgwIp6KAARCqooABMABYh-0gYAE&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKBV6BQg4EJ0B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=dj+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?q=black+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYASooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIVCAESBUJsYWNrOgoIzu5mENHuZjAAWIftIGAB&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKBZ6BQg4EJ4B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=black+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "40.6 – 50 mm driver",
+      "link": "https://www.google.com/search?q=40.6+mm+driver+to+50+mm+driver+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAESGyoZCLKK2QMSEgkAAABAiUEQQBEAAAAAAAAUQBgBKihiZXN0IG92ZXIgZWFyIGhlYWRwaG9uZXMgZm9yIGF1ZGlvcGhpbGVzMmUIARIVNDAuNiDigJMgNTAgbW0gZHJpdmVyIhsqGQiyitkDEhIJAAAAQIlBEEARAAAAAAAAFEAqIgoeNDAuNiBtbSBkcml2ZXIgdG8gNTAgbW0gZHJpdmVyGAE6CQiyitkDEAAwBliH7SBgAQ&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKBd6BQg4EJ8B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=40.6+mm+driver+to+50+mm+driver+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "Mobile Phone",
+      "link": "https://www.google.com/search?q=mobile+phone+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYASooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIeCAESDE1vYmlsZSBQaG9uZToMCKeigAEQ49XLAzAAWIftIGAB&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKBh6BQg4EKAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=mobile+phone+best+over+ear+headphones+for+audiophiles"
+    },
+    {
+      "query": "Kids' Headphones",
+      "link": "https://www.google.com/search?q=kids'+headphones+best+over+ear+for+audiophiles&gl=us&hl=en&shoprs=CAEYCSooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIUCAkSEEtpZHMnIEhlYWRwaG9uZXNgAQ&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKBl6BQg4EKEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=kids%27+headphones+best+over+ear+for+audiophiles"
+    },
+    {
+      "query": "Computer Headsets",
+      "link": "https://www.google.com/search?q=computer+headsets+best+over+ear+headphones+for+audiophiles&gl=us&hl=en&shoprs=CAEYCSooYmVzdCBvdmVyIGVhciBoZWFkcGhvbmVzIGZvciBhdWRpb3BoaWxlczIVCAkSEUNvbXB1dGVyIEhlYWRzZXRzYAE&sa=X&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Qip4GKBp6BQg4EKIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=computer+headsets+best+over+ear+headphones+for+audiophiles"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Suggestions for over-ear audiophile headphones, prime progmetal ...",
+      "link": "https://www.reddit.com/r/progmetal/comments/1fr5rhu/suggestions_for_overear_audiophile_headphones/",
+      "date": "1 year ago",
+      "extensions": [
+        "r/progmetal",
+        "40+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/progmetal/comments/1fr5rhu/suggestions_for_overear_audiophile_headphones/lpak5dv/",
+          "extensions": [
+            "Top answer",
+            "22 votes",
+            "a year ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/progmetal/comments/1fr5rhu/suggestions_for_overear_audiophile_headphones/lpamyfi/",
+          "extensions": [
+            "10 votes",
+            "a year ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/progmetal/comments/1fr5rhu/suggestions_for_overear_audiophile_headphones/lparpay/",
+          "extensions": [
+            "8 votes",
+            "a year ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Best (trans)portable over-ear audiophile headphones for daily commute ...",
+      "link": "https://www.head-fi.org/threads/best-trans-portable-over-ear-audiophile-headphones-for-daily-commute-travel-train-or-plane.880789/",
+      "date": "8 years ago",
+      "source": "Head-Fi",
+      "answers": [
+        {
+          "link": "https://www.head-fi.org/threads/best-trans-portable-over-ear-audiophile-headphones-for-daily-commute-travel-train-or-plane.880789/"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=zuCzatDAG9rBp84P-MSq-Aw&start=10&sa=N&sstk=AS6-VmKQNHV27k5aYPm0uFhnuVLLJGhC_2v-JNCLbDWZZizeRLbBIHxmr4kSVAilzcuX7jNJK40ckQxamp5WGPs-H0zceWJtJcI09g&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q8NMDegQISxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=zuCzatDAG9rBp84P-MSq-Aw&start=10&sa=N&sstk=AS6-VmKQNHV27k5aYPm0uFhnuVLLJGhC_2v-JNCLbDWZZizeRLbBIHxmr4kSVAilzcuX7jNJK40ckQxamp5WGPs-H0zceWJtJcI09g&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q8tMDegQISxAE",
+      "3": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=zuCzatDAG9rBp84P-MSq-Aw&start=20&sa=N&sstk=AS6-VmKQNHV27k5aYPm0uFhnuVLLJGhC_2v-JNCLbDWZZizeRLbBIHxmr4kSVAilzcuX7jNJK40ckQxamp5WGPs-H0zceWJtJcI09g&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q8tMDegQISxAG",
+      "4": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=zuCzatDAG9rBp84P-MSq-Aw&start=30&sa=N&sstk=AS6-VmKQNHV27k5aYPm0uFhnuVLLJGhC_2v-JNCLbDWZZizeRLbBIHxmr4kSVAilzcuX7jNJK40ckQxamp5WGPs-H0zceWJtJcI09g&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q8tMDegQISxAI",
+      "5": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=zuCzatDAG9rBp84P-MSq-Aw&start=40&sa=N&sstk=AS6-VmKQNHV27k5aYPm0uFhnuVLLJGhC_2v-JNCLbDWZZizeRLbBIHxmr4kSVAilzcuX7jNJK40ckQxamp5WGPs-H0zceWJtJcI09g&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q8tMDegQISxAK",
+      "6": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=zuCzatDAG9rBp84P-MSq-Aw&start=50&sa=N&sstk=AS6-VmKQNHV27k5aYPm0uFhnuVLLJGhC_2v-JNCLbDWZZizeRLbBIHxmr4kSVAilzcuX7jNJK40ckQxamp5WGPs-H0zceWJtJcI09g&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q8tMDegQISxAM",
+      "7": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=zuCzatDAG9rBp84P-MSq-Aw&start=60&sa=N&sstk=AS6-VmKQNHV27k5aYPm0uFhnuVLLJGhC_2v-JNCLbDWZZizeRLbBIHxmr4kSVAilzcuX7jNJK40ckQxamp5WGPs-H0zceWJtJcI09g&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q8tMDegQISxAO",
+      "8": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=zuCzatDAG9rBp84P-MSq-Aw&start=70&sa=N&sstk=AS6-VmKQNHV27k5aYPm0uFhnuVLLJGhC_2v-JNCLbDWZZizeRLbBIHxmr4kSVAilzcuX7jNJK40ckQxamp5WGPs-H0zceWJtJcI09g&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q8tMDegQISxAQ",
+      "9": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=zuCzatDAG9rBp84P-MSq-Aw&start=80&sa=N&sstk=AS6-VmKQNHV27k5aYPm0uFhnuVLLJGhC_2v-JNCLbDWZZizeRLbBIHxmr4kSVAilzcuX7jNJK40ckQxamp5WGPs-H0zceWJtJcI09g&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q8tMDegQISxAS",
+      "10": "https://www.google.com/search?q=best+over+ear+headphones+for+audiophiles&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=zuCzatDAG9rBp84P-MSq-Aw&start=90&sa=N&sstk=AS6-VmKQNHV27k5aYPm0uFhnuVLLJGhC_2v-JNCLbDWZZizeRLbBIHxmr4kSVAilzcuX7jNJK40ckQxamp5WGPs-H0zceWJtJcI09g&ved=2ahUKEwjQ35jI84SXAxXa4MkDHXiiCs8Q8tMDegQISxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+over+ear+headphones+for+audiophiles&start=90"
+    }
+  }
+}

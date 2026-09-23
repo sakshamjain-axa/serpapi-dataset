@@ -1,0 +1,721 @@
+{
+  "search_metadata": {
+    "id": "6ab3e2d813258366ad4f8242",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6xWtYtCq7z9Dm4TH0_Qa6VNzaVIu7meV5krd-yWB964/6ab3e2d813258366ad4f8242.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6xWtYtCq7z9Dm4TH0_Qa6VNzaVIu7meV5krd-yWB964/6ab3e2d813258366ad4f8242.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6xWtYtCq7z9Dm4TH0_Qa6VNzaVIu7meV5krd-yWB964/6ab3e2d813258366ad4f8242.json_with_pixel_position",
+    "created_at": "2026-09-23 14:31:52 UTC",
+    "processed_at": "2026-09-23 14:31:52 UTC",
+    "google_url": "https://www.google.com/search?q=top+robot+vacuums+for+pet+hair&oq=top+robot+vacuums+for+pet+hair&uule=w+CAIQICIeSG91c3RvbixUWCxUZXhhcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6xWtYtCq7z9Dm4TH0_Qa6VNzaVIu7meV5krd-yWB964/6ab3e2d813258366ad4f8242.html",
+    "total_time_taken": 1.72
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top robot vacuums for pet hair",
+    "location_requested": "Houston, TX, Texas, United States",
+    "location_used": "Houston,TX,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top robot vacuums for pet hair",
+    "total_results": 164,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Best Robot Vacuum for Pet Hair in 2026? My Honest Testing ...",
+      "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en",
+      "thumbnail": "https://serpapi.com/searches/6ab3e2d813258366ad4f8242/images/AazrAUSfUsnB2LIWHntEtDzzYEpoRJyMvPfV0WTtFFw.jpeg",
+      "channel": "Just A Dad Approved",
+      "duration": "24:48",
+      "platform": "YouTube",
+      "date": "May 9, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSUewhEQoIcGo48D7mQlyz1ciRorPW3cMU7OQ",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro – 2026 Best Robot Vacuum for Pet Hair",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=0"
+        },
+        {
+          "time": "01:37",
+          "title": "Why the MOVA V50 Robot Vacuum Wins",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=97"
+        },
+        {
+          "time": "02:40",
+          "title": "Must Have Feature #1 – Strong Auto Empty System",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=160"
+        },
+        {
+          "time": "03:20",
+          "title": "Must Have Feature #2 – Smooth Auto Empty Pathway",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=200"
+        },
+        {
+          "time": "04:32",
+          "title": "Must Have Feature #3 – Best Anti Hair Wrap Brush Rollers",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=272"
+        },
+        {
+          "time": "08:35",
+          "title": "Must Have Feature #4 – Suction Power Matters",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=515"
+        },
+        {
+          "time": "09:23",
+          "title": "Must Have Feature #5 – Best App & Auto Empty Settings",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=563"
+        },
+        {
+          "time": "09:58",
+          "title": "Secret MOVA V50 Robot Vacuum App Setting Revealed",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=598"
+        },
+        {
+          "time": "13:10",
+          "title": "Roomba 405 Robot Vacuum Pet Hair Test",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=790"
+        },
+        {
+          "time": "14:05",
+          "title": "Roborock Saros 20 Robot Vacuum Hair Test",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=845"
+        },
+        {
+          "time": "15:01",
+          "title": "MOVA P10 Pro Robot Vacuum Hair Test",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=901"
+        },
+        {
+          "time": "16:19",
+          "title": "MOVA V50 Robot Vacuum Hair Test",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=979"
+        },
+        {
+          "time": "17:50",
+          "title": "Eufy E25 Robot Vacuum Hair Test",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=1070"
+        },
+        {
+          "time": "19:23",
+          "title": "Final Results & Recap",
+          "link": "https://www.youtube.com/watch?v=LpCub6nQsmg&vl=en&t=1163"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "5 Best Robot Vacuums That Are Great for Pet Hair",
+      "link": "https://www.youtube.com/watch?v=Mi4oDlBwks4",
+      "thumbnail": "https://serpapi.com/searches/6ab3e2d813258366ad4f8242/images/E7d1matptxjgEc9PsU8CjmZmnqz6VNOZVMYXEBV04AQ.jpeg",
+      "channel": "Smart Home 101",
+      "duration": "5:56",
+      "platform": "YouTube",
+      "date": "1 week ago",
+      "snippet": "Ecovacs Debot T90 Pro Omni offers 30,000 Pascal suction & a brush design to prevent hair from wrapping around the roller.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTib5pr_NiFCgYQOGs3JxT_J-k8eJMk8-fXsA"
+    },
+    {
+      "position": 3,
+      "title": "Robot Vacuums for Pet Hair: 5 Picks for 2026",
+      "link": "https://www.youtube.com/watch?v=limgriwxVco",
+      "thumbnail": "https://serpapi.com/searches/6ab3e2d813258366ad4f8242/images/JX4ShsGXyltEZK1tfkYlXbqlCo9qMvNSZPcGM4p92i8.jpeg",
+      "channel": "Buying Brief",
+      "duration": "3:50",
+      "platform": "YouTube",
+      "date": "2 weeks ago",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQvH__W-fkxRakU2dTlAShuCicYYbGg9cb5Vg"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Which robotic vacuum is best for removing pet hair?",
+      "type": "ai_overview",
+      "page_token": "mdbe03icHdDbboIwGADg7GW8VArBbSZmWeWgTIv8hVK5WbBFMS2HCBuDu73LnmpPs2TfI3zfP_pWq98HXvZ9260Wi2EY5temuepiLppqkXdjLRYi1_qcC7VaPi7Ry0Ws3W7Am2bAUdK2zAGDpvIWGQGVHMOJy_3ZktHZ9RBlmGWO3CWOGoX7bPMR9ac0QyKFXaxJWzCyzN2eRJUNcssyWpddpkkDCeJFDUcav5qFuk6FgzdRUpITw_vzFBCpUBObX1XutzX12yRHTwa3Dkbqwi51pZ9qCJkKbGnYR2bCm6iUJZJ-CxywtIIqMQfqTYGmVltK38vAZ-hQy5B4GBEtj3vmgX8LMGzJGKYZZE75EU3EDn24E47J4WZYQJEmqkfMNMxYBTC7iM-1NfsfW79fqn7V3pvrH5P0dpw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mdbe03icHdDbboIwGADg7GW8VArBbSZmWeWgTIv8hVK5WbBFMS2HCBuDu73LnmpPs2TfI3zfP_pWq98HXvZ9260Wi2EY5temuepiLppqkXdjLRYi1_qcC7VaPi7Ry0Ws3W7Am2bAUdK2zAGDpvIWGQGVHMOJy_3ZktHZ9RBlmGWO3CWOGoX7bPMR9ac0QyKFXaxJWzCyzN2eRJUNcssyWpddpkkDCeJFDUcav5qFuk6FgzdRUpITw_vzFBCpUBObX1XutzX12yRHTwa3Dkbqwi51pZ9qCJkKbGnYR2bCm6iUJZJ-CxywtIIqMQfqTYGmVltK38vAZ-hQy5B4GBEtj3vmgX8LMGzJGKYZZE75EU3EDn24E47J4WZYQJEmqkfMNMxYBTC7iM-1NfsfW79fqn7V3pvrH5P0dpw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzWmxWblJLZGt4b1QwcFBaRmxNVEhCdVVtUjVSMjVpWWxScFIyeG9aMEZOUTBsbmVWcFJkVzVzVTBWc1dtSnBNbFF6YmtjeFdrWk9jM0ZyUzNGNlJGY3lXV05JZG5kQ1QwaHdhRUZ1WXpKTU9VTlFNelpPU1c5UVp4SVhNbVZMZW1GMFlWbEVaWFV5ZDA0MFVIVTJWMDh0VVZFYUlrRkVjM0k1WmxGbllrMXRNRkJTY3pkc1NtMWxiV3gyVFRkNlNuVkdSVk5IV0VFIiwiZmN2IjoiMyIsImVpIjoiMmVLemF0YVlEZXUyd040UHU2V08tUVEiLCJxYyI6IkNoNTBiM0FnY205aWIzUWdkbUZqZFhWdGN5Qm1iM0lnY0dWMElHaGhhWElRQUgxT1dnUV8iLCJxdWVzdGlvbiI6IldoaWNoIHJvYm90aWMgdmFjdXVtIGlzIGJlc3QgZm9yIHJlbW92aW5nIHBldCBoYWlyPyIsImxrIjoiR2lGeWIySnZkR2xqSUhaaFkzVjFiU0JuYjI5a0lIZHBkR2dnY0dWMElHaGhhWEkiLCJicyI6ImM0WE9QUXZDTUJBR1lGd3pPY2NQVGdSMUV0UWY0T3drMkVGd1MySnNncllubHpUaXZ6ZFdxSTBvcm5mdi05eXhBMXZ0alZVR0NDVjZxeUFJVlZVRldBZFNPdzhuSkNCZFlMQmxEbGZ0d1FoTDYtV1lqejRLT2VJUmJ0YWJKc1V5dG1qWjMyUjEwYUpNNVNIdjEtdFhwdzVvYW1ESHRtei1CelZhaEh0TEhQQmVPa3FxOGN2cHhzRU9zWkFDWWowemdzNVI4ejdlZlhwdmFjWW44UkExVWZjcjJ1MDhBQSIsImlkIjoiZmNfMmVLemF0YVlEZXUyd040UHU2V08tUVFfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzWmxWblJLZGt4b1QwcFBaRmxNVEhCdVVtUjVSMjVpWWxScFIyeG9aMEZOUTBsbmVWcFJkVzVzVTBWc1dtSnBNbFF6YmtjeFdrWk9jM0ZyUzNGNlJGY3lXV05JZG5kQ1QwaHdhRUZ1WXpKTU9VTlFNelpPU1c5UVp4SVhNbVZMZW1GMFlWbEVaWFV5ZDA0MFVIVTJWMDh0VVZFYUlrRkVjM0k1WmxGbllrMXRNRkJTY3pkc1NtMWxiV3gyVFRkNlNuVkdSVk5IV0VFIiwiZmN2IjoiMyIsImVpIjoiMmVLemF0YVlEZXUyd040UHU2V08tUVEiLCJxYyI6IkNoNTBiM0FnY205aWIzUWdkbUZqZFhWdGN5Qm1iM0lnY0dWMElHaGhhWElRQUgxT1dnUV8iLCJxdWVzdGlvbiI6IldoaWNoIHJvYm90aWMgdmFjdXVtIGlzIGJlc3QgZm9yIHJlbW92aW5nIHBldCBoYWlyPyIsImxrIjoiR2lGeWIySnZkR2xqSUhaaFkzVjFiU0JuYjI5a0lIZHBkR2dnY0dWMElHaGhhWEkiLCJicyI6ImM0WE9QUXZDTUJBR1lGd3pPY2NQVGdSMUV0UWY0T3drMkVGd1MySnNncllubHpUaXZ6ZFdxSTBvcm5mdi05eXhBMXZ0alZVR0NDVjZxeUFJVlZVRldBZFNPdzhuSkNCZFlMQmxEbGZ0d1FoTDYtV1lqejRLT2VJUmJ0YWJKc1V5dG1qWjMyUjEwYUpNNVNIdjEtdFhwdzVvYW1ESHRtei1CelZhaEh0TEhQQmVPa3FxOGN2cHhzRU9zWkFDWWowemdzNVI4ejdlZlhwdmFjWW44UkExVWZjcjJ1MDhBQSIsImlkIjoiZmNfMmVLemF0YVlEZXUyd040UHU2V08tUVFfNSJ9"
+    },
+    {
+      "question": "Which robot vacuum is best for cleaning pet hair?",
+      "type": "ai_overview",
+      "page_token": "x5E-L3icHZBLbuIwAEA1l-my-FMYgYSq8ktJFSM7tmOyGRm7QGM7yZAIA7teoWfoqXqadmb1pCe9zXv_9G-1-_r1cez7tpsMBjHG-0PTHPzrvWnCQHfX2gyM9n6njZuMfo_g495Ml2czm5_MjIq2lQsG8tDWBESYcd_R249-Jq0OD1EGsrZoicqF9boosQzjrU5Wo7zynahsRlC60O6yzYOFGg2V9Wsgk_6cgTG1P3zlJCiYsjJpLiWcHdmCJbvwgDfCknwOlU0uSgIwtIrQfJVuKPSYhtRrbjcZsn-ZT88S-1Vek6ig7MnzU5ToMt8l8EXWpdsh2RKwemGKddb1QynlZgtEJEV2M0mPin-9G1cKsqIUw1Omsrg8mmsp-tFWsWMhmLc8xbxi1PJS8StkgjVvVLCbqXwQQObM2SSHYy65i8xRUGKBLEpBhlNJMFtTerc35ym--_96-mcf-kl7ag7fsb-LUA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=x5E-L3icHZBLbuIwAEA1l-my-FMYgYSq8ktJFSM7tmOyGRm7QGM7yZAIA7teoWfoqXqadmb1pCe9zXv_9G-1-_r1cez7tpsMBjHG-0PTHPzrvWnCQHfX2gyM9n6njZuMfo_g495Ml2czm5_MjIq2lQsG8tDWBESYcd_R249-Jq0OD1EGsrZoicqF9boosQzjrU5Wo7zynahsRlC60O6yzYOFGg2V9Wsgk_6cgTG1P3zlJCiYsjJpLiWcHdmCJbvwgDfCknwOlU0uSgIwtIrQfJVuKPSYhtRrbjcZsn-ZT88S-1Vek6ig7MnzU5ToMt8l8EXWpdsh2RKwemGKddb1QynlZgtEJEV2M0mPin-9G1cKsqIUw1Omsrg8mmsp-tFWsWMhmLc8xbxi1PJS8StkgjVvVLCbqXwQQObM2SSHYy65i8xRUGKBLEpBhlNJMFtTerc35ym--_96-mcf-kl7ag7fsb-LUA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzWmxWblJLZGt4b1QwcFBaRmxNVEhCdVVtUjVSMjVpWWxScFIyeG9aMEZOUTBsbmVWcFJkVzVzVTBWc1dtSnBNbFF6YmtjeFdrWk9jM0ZyUzNGNlJGY3lXV05JZG5kQ1QwaHdhRUZ1WXpKTU9VTlFNelpPU1c5UVp4SVhNbVZMZW1GMFlWbEVaWFV5ZDA0MFVIVTJWMDh0VVZFYUlrRkVjM0k1WmxGbllrMXRNRkJTY3pkc1NtMWxiV3gyVFRkNlNuVkdSVk5IV0VFIiwiZmN2IjoiMyIsImVpIjoiMmVLemF0YVlEZXUyd040UHU2V08tUVEiLCJxYyI6IkNoNTBiM0FnY205aWIzUWdkbUZqZFhWdGN5Qm1iM0lnY0dWMElHaGhhWElRQUgxT1dnUV8iLCJxdWVzdGlvbiI6IldoaWNoIHJvYm90IHZhY3V1bSBpcyBiZXN0IGZvciBjbGVhbmluZyBwZXQgaGFpcj8iLCJsayI6IkdoeGlaWE4wSUhKdlltOTBJR05zWldGdVpYSWdkMmwwYUNCd1pYUnoiLCJicyI6ImM0WE9QUXZDTUJBR1lGd3pPY2NQVGdSMUV0UWY0T3drMkVGd1MySnNncllubHpUaXZ6ZFdxSTBvcm5mdi05eXhBMXZ0alZVR0NDVjZxeUFJVlZVRldBZFNPdzhuSkNCZFlMQmxEbGZ0d1FoTDYtV1lqejRLT2VJUmJ0YWJKc1V5dG1qWjMyUjEwYUpNNVNIdjEtdFhwdzVvYW1ESHRtei1CelZhaEh0TEhQQmVPa3FxOGN2cHhzRU9zWkFDWWowemdzNVI4ejdlZlhwdmFjWW44UkExVWZjcjJ1MDhBQSIsImlkIjoiZmNfMmVLemF0YVlEZXUyd040UHU2V08tUVFfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzWmxWblJLZGt4b1QwcFBaRmxNVEhCdVVtUjVSMjVpWWxScFIyeG9aMEZOUTBsbmVWcFJkVzVzVTBWc1dtSnBNbFF6YmtjeFdrWk9jM0ZyUzNGNlJGY3lXV05JZG5kQ1QwaHdhRUZ1WXpKTU9VTlFNelpPU1c5UVp4SVhNbVZMZW1GMFlWbEVaWFV5ZDA0MFVIVTJWMDh0VVZFYUlrRkVjM0k1WmxGbllrMXRNRkJTY3pkc1NtMWxiV3gyVFRkNlNuVkdSVk5IV0VFIiwiZmN2IjoiMyIsImVpIjoiMmVLemF0YVlEZXUyd040UHU2V08tUVEiLCJxYyI6IkNoNTBiM0FnY205aWIzUWdkbUZqZFhWdGN5Qm1iM0lnY0dWMElHaGhhWElRQUgxT1dnUV8iLCJxdWVzdGlvbiI6IldoaWNoIHJvYm90IHZhY3V1bSBpcyBiZXN0IGZvciBjbGVhbmluZyBwZXQgaGFpcj8iLCJsayI6IkdoeGlaWE4wSUhKdlltOTBJR05zWldGdVpYSWdkMmwwYUNCd1pYUnoiLCJicyI6ImM0WE9QUXZDTUJBR1lGd3pPY2NQVGdSMUV0UWY0T3drMkVGd1MySnNncllubHpUaXZ6ZFdxSTBvcm5mdi05eXhBMXZ0alZVR0NDVjZxeUFJVlZVRldBZFNPdzhuSkNCZFlMQmxEbGZ0d1FoTDYtV1lqejRLT2VJUmJ0YWJKc1V5dG1qWjMyUjEwYUpNNVNIdjEtdFhwdzVvYW1ESHRtei1CelZhaEh0TEhQQmVPa3FxOGN2cHhzRU9zWkFDWWowemdzNVI4ejdlZlhwdmFjWW44UkExVWZjcjJ1MDhBQSIsImlkIjoiZmNfMmVLemF0YVlEZXUyd040UHU2V08tUVFfNSJ9"
+    },
+    {
+      "question": "Which robot vacuum is best for heavy pet hair?",
+      "type": "ai_overview",
+      "page_token": "sLirAHicHdBNjtowGABQzWVmOcRJoQIJjeQhCaDEGr7Yn0M2VWIDZuz8TAmkya53mVP1NK16gLd5v7_ctbF_nh6m77vbajYbhuHl0rYXd3pRbT0rb2OjZqp0riqVXS2-L8jrWa3D-46-fe7oQXQdbsDLLLtxt5SnBu4pGpZwvMuG9mXch1UUHRnXqByOEtkVBJmLSNODp--8sX7uw1sVXfyMO1LJfV3Ey5Tj3iJGnyh0wsM00GIeY9BFlTVbPen3oo4kiwsHPklOzthj5pGU00cp5gHk2irCNiIwYz6S6zHvklP8bQRhUrBLT4TOKm-Y5AZznHYTEhDos19SOp5toOTxnoZGjYXoF8ccjBTgNN8H_AMOmhc5H_8BaK8HAZP6cDVuI1FaQLRszra0KQWhWUCNrAunnSsSCYtieD6rxzp4_v-5_nGu-1X3s738BS02gz8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sLirAHicHdBNjtowGABQzWVmOcRJoQIJjeQhCaDEGr7Yn0M2VWIDZuz8TAmkya53mVP1NK16gLd5v7_ctbF_nh6m77vbajYbhuHl0rYXd3pRbT0rb2OjZqp0riqVXS2-L8jrWa3D-46-fe7oQXQdbsDLLLtxt5SnBu4pGpZwvMuG9mXch1UUHRnXqByOEtkVBJmLSNODp--8sX7uw1sVXfyMO1LJfV3Ey5Tj3iJGnyh0wsM00GIeY9BFlTVbPen3oo4kiwsHPklOzthj5pGU00cp5gHk2irCNiIwYz6S6zHvklP8bQRhUrBLT4TOKm-Y5AZznHYTEhDos19SOp5toOTxnoZGjYXoF8ccjBTgNN8H_AMOmhc5H_8BaK8HAZP6cDVuI1FaQLRszra0KQWhWUCNrAunnSsSCYtieD6rxzp4_v-5_nGu-1X3s738BS02gz8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzWmxWblJLZGt4b1QwcFBaRmxNVEhCdVVtUjVSMjVpWWxScFIyeG9aMEZOUTBsbmVWcFJkVzVzVTBWc1dtSnBNbFF6YmtjeFdrWk9jM0ZyUzNGNlJGY3lXV05JZG5kQ1QwaHdhRUZ1WXpKTU9VTlFNelpPU1c5UVp4SVhNbVZMZW1GMFlWbEVaWFV5ZDA0MFVIVTJWMDh0VVZFYUlrRkVjM0k1WmxGbllrMXRNRkJTY3pkc1NtMWxiV3gyVFRkNlNuVkdSVk5IV0VFIiwiZmN2IjoiMyIsImVpIjoiMmVLemF0YVlEZXUyd040UHU2V08tUVEiLCJxYyI6IkNoNTBiM0FnY205aWIzUWdkbUZqZFhWdGN5Qm1iM0lnY0dWMElHaGhhWElRQUgxT1dnUV8iLCJxdWVzdGlvbiI6IldoaWNoIHJvYm90IHZhY3V1bSBpcyBiZXN0IGZvciBoZWF2eSBwZXQgaGFpcj8iLCJsayI6IkdodG9aV0YyZVNCd1pYUWdhR0ZwY2lCeWIySnZkQ0IyWVdOMWRXMCIsImJzIjoiYzRYT1BRdkNNQkFHWUZ3ek9jY1BUZ1IxRXRRZjRPd2syRUZ3UzJKc2dyWW5selRpdnpkV3FJMG9ybmZ2LTl5eEExdnRqVlVHQ0NWNnF5QUlWVlVGV0FkU093OG5KQ0JkWUxCbERsZnR3UWhMNi1XWWp6NEtPZUlSYnRhYkpzVXl0bWpaMzJSMTBhSk01U0h2MS10WHB3NW9hbURIdG16LUJ6VmFoSHRMSFBCZU9rcXE4Y3ZweHNFT3NaQUNZajB6Z3M1Ujh6N2VmWHB2YWNZbjhSQTFVZmNyMnUwOEFBIiwiaWQiOiJmY18yZUt6YXRhWURldTJ3TjRQdTZXTy1RUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzWmxWblJLZGt4b1QwcFBaRmxNVEhCdVVtUjVSMjVpWWxScFIyeG9aMEZOUTBsbmVWcFJkVzVzVTBWc1dtSnBNbFF6YmtjeFdrWk9jM0ZyUzNGNlJGY3lXV05JZG5kQ1QwaHdhRUZ1WXpKTU9VTlFNelpPU1c5UVp4SVhNbVZMZW1GMFlWbEVaWFV5ZDA0MFVIVTJWMDh0VVZFYUlrRkVjM0k1WmxGbllrMXRNRkJTY3pkc1NtMWxiV3gyVFRkNlNuVkdSVk5IV0VFIiwiZmN2IjoiMyIsImVpIjoiMmVLemF0YVlEZXUyd040UHU2V08tUVEiLCJxYyI6IkNoNTBiM0FnY205aWIzUWdkbUZqZFhWdGN5Qm1iM0lnY0dWMElHaGhhWElRQUgxT1dnUV8iLCJxdWVzdGlvbiI6IldoaWNoIHJvYm90IHZhY3V1bSBpcyBiZXN0IGZvciBoZWF2eSBwZXQgaGFpcj8iLCJsayI6IkdodG9aV0YyZVNCd1pYUWdhR0ZwY2lCeWIySnZkQ0IyWVdOMWRXMCIsImJzIjoiYzRYT1BRdkNNQkFHWUZ3ek9jY1BUZ1IxRXRRZjRPd2syRUZ3UzJKc2dyWW5selRpdnpkV3FJMG9ybmZ2LTl5eEExdnRqVlVHQ0NWNnF5QUlWVlVGV0FkU093OG5KQ0JkWUxCbERsZnR3UWhMNi1XWWp6NEtPZUlSYnRhYkpzVXl0bWpaMzJSMTBhSk01U0h2MS10WHB3NW9hbURIdG16LUJ6VmFoSHRMSFBCZU9rcXE4Y3ZweHNFT3NaQUNZajB6Z3M1Ujh6N2VmWHB2YWNZbjhSQTFVZmNyMnUwOEFBIiwiaWQiOiJmY18yZUt6YXRhWURldTJ3TjRQdTZXTy1RUV81In0%3D"
+    },
+    {
+      "question": "Is Roomba or Shark better for pet hair?",
+      "type": "ai_overview",
+      "page_token": "ncWG_3icHdDdToMwGADQ-DJeOvlxmiWLCQoDDMx-tB9dbwyUbQzKiooDeue7-FQ-jYnnEc73jzqd29-rSz0M_edqsRjH8eao9VHtb6TuFsXnfJYLWShVFrJdLe-X1uNBrv2vyHt6jzzC-h6f4ZaGkU3aKkxZnBMbO5a3Y-l4J6Gg43b_km12TtXUCTFkKDYpoqVHbnYW3dxd0g0aig-j5J4uVNBA4y2zfJpIjlFpJxazhQuz5WQ2mRMfG5G7Zk-DeY-xW-VogKMuw5rJVrR5GLusqUMIEUWLaWWnWfkcRJlht0xVcXpGr7T689YHkKHaZhxGFuI2pegnQTSVXCVJg-DXchZsWO441DkDVdHYoQ2QigpOZwsY6BNhYGSjOmbaSXTwtVcxE0HkCtsKMj9NJOIrN6DBnwwj1wd5WTvX_5_rt0M3rPoPffwDVqGEDw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ncWG_3icHdDdToMwGADQ-DJeOvlxmiWLCQoDDMx-tB9dbwyUbQzKiooDeue7-FQ-jYnnEc73jzqd29-rSz0M_edqsRjH8eao9VHtb6TuFsXnfJYLWShVFrJdLe-X1uNBrv2vyHt6jzzC-h6f4ZaGkU3aKkxZnBMbO5a3Y-l4J6Gg43b_km12TtXUCTFkKDYpoqVHbnYW3dxd0g0aig-j5J4uVNBA4y2zfJpIjlFpJxazhQuz5WQ2mRMfG5G7Zk-DeY-xW-VogKMuw5rJVrR5GLusqUMIEUWLaWWnWfkcRJlht0xVcXpGr7T689YHkKHaZhxGFuI2pegnQTSVXCVJg-DXchZsWO441DkDVdHYoQ2QigpOZwsY6BNhYGSjOmbaSXTwtVcxE0HkCtsKMj9NJOIrN6DBnwwj1wd5WTvX_5_rt0M3rPoPffwDVqGEDw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzWmxWblJLZGt4b1QwcFBaRmxNVEhCdVVtUjVSMjVpWWxScFIyeG9aMEZOUTBsbmVWcFJkVzVzVTBWc1dtSnBNbFF6YmtjeFdrWk9jM0ZyUzNGNlJGY3lXV05JZG5kQ1QwaHdhRUZ1WXpKTU9VTlFNelpPU1c5UVp4SVhNbVZMZW1GMFlWbEVaWFV5ZDA0MFVIVTJWMDh0VVZFYUlrRkVjM0k1WmxGbllrMXRNRkJTY3pkc1NtMWxiV3gyVFRkNlNuVkdSVk5IV0VFIiwiZmN2IjoiMyIsImVpIjoiMmVLemF0YVlEZXUyd040UHU2V08tUVEiLCJxYyI6IkNoNTBiM0FnY205aWIzUWdkbUZqZFhWdGN5Qm1iM0lnY0dWMElHaGhhWElRQUgxT1dnUV8iLCJxdWVzdGlvbiI6IklzIFJvb21iYSBvciBTaGFyayBiZXR0ZXIgZm9yIHBldCBoYWlyPyIsImxrIjoiR2lacGN5QnliMjl0WW1FZ2IzSWdjMmhoY21zZ1ltVjBkR1Z5SUdadmNpQndaWFFnYUdGcGNnIiwiYnMiOiJjNFhPUFF2Q01CQUdZRnd6T2NjUFRnUjFFdFFmNE93azJFRndTMkpzZ3JZbmx6VGl2emRXcUkwb3JuZnYtOXl4QTF2dGpWVUdDQ1Y2cXlBSVZWVUZXQWRTT3c4bkpDQmRZTEJsRGxmdHdRaEw2LVdZano0S09lSVJidGFiSnNVeXRtalozMlIxMGFKTTVTSHYxLXRYcHc1b2FtREh0bXotQnpWYWhIdExIUEJlT2txcThjdnB4c0VPc1pBQ1lqMHpnczVSOHo3ZWZYcHZhY1luOFJBMVVmY3IydTA4QUEiLCJpZCI6ImZjXzJlS3phdGFZRGV1MndONFB1NldPLVFRXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlMzWmxWblJLZGt4b1QwcFBaRmxNVEhCdVVtUjVSMjVpWWxScFIyeG9aMEZOUTBsbmVWcFJkVzVzVTBWc1dtSnBNbFF6YmtjeFdrWk9jM0ZyUzNGNlJGY3lXV05JZG5kQ1QwaHdhRUZ1WXpKTU9VTlFNelpPU1c5UVp4SVhNbVZMZW1GMFlWbEVaWFV5ZDA0MFVIVTJWMDh0VVZFYUlrRkVjM0k1WmxGbllrMXRNRkJTY3pkc1NtMWxiV3gyVFRkNlNuVkdSVk5IV0VFIiwiZmN2IjoiMyIsImVpIjoiMmVLemF0YVlEZXUyd040UHU2V08tUVEiLCJxYyI6IkNoNTBiM0FnY205aWIzUWdkbUZqZFhWdGN5Qm1iM0lnY0dWMElHaGhhWElRQUgxT1dnUV8iLCJxdWVzdGlvbiI6IklzIFJvb21iYSBvciBTaGFyayBiZXR0ZXIgZm9yIHBldCBoYWlyPyIsImxrIjoiR2lacGN5QnliMjl0WW1FZ2IzSWdjMmhoY21zZ1ltVjBkR1Z5SUdadmNpQndaWFFnYUdGcGNnIiwiYnMiOiJjNFhPUFF2Q01CQUdZRnd6T2NjUFRnUjFFdFFmNE93azJFRndTMkpzZ3JZbmx6VGl2emRXcUkwb3JuZnYtOXl4QTF2dGpWVUdDQ1Y2cXlBSVZWVUZXQWRTT3c4bkpDQmRZTEJsRGxmdHdRaEw2LVdZano0S09lSVJidGFiSnNVeXRtalozMlIxMGFKTTVTSHYxLXRYcHc1b2FtREh0bXotQnpWYWhIdExIUEJlT2txcThjdnB4c0VPc1pBQ1lqMHpnczVSOHo3ZWZYcHZhY1luOFJBMVVmY3IydTA4QUEiLCJpZCI6ImZjXzJlS3phdGFZRGV1MndONFB1NldPLVFRXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The MOVA V50Go to product viewer dialog for this item. is the best overall robot vacuum for pet hair in 2026, thanks to its exceptional anti-tangle dual roller brushes, powerful auto-emptying base, and customizable app settings.",
+        "snippet_links": [
+          {
+            "text": "MOVA V50Go to product viewer dialog for this item.",
+            "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462848215309856,imageDocid:8467059077269055499,gpcid:5438059225944265976,headlineOfferDocid:4799948915225790049,catalogid:16654485168091237397,productDocid:4341468515230571315,rds:PC_5264947986348562404%7CPROD_PC_5264947986348562404&q=product&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Qxa4PegoIAggACAAIAhAH"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "MOVA V50Go to product viewer dialog for this item."
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Robot Vacuums for Pet Hair"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Best Overall: MOVA V50Go to product viewer dialog for this item. — Features a floating dual-brush roller that resists long hair wrap, top-tier obstacle avoidance (including pet waste), and an app-adjustable auto-empty frequency.",
+            "snippet_links": [
+              {
+                "text": "MOVA V50Go to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462848215309856,imageDocid:8467059077269055499,gpcid:5438059225944265976,headlineOfferDocid:4799948915225790049,catalogid:16654485168091237397,productDocid:4341468515230571315,rds:PC_5264947986348562404%7CPROD_PC_5264947986348562404&q=product&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Qxa4PegoIAggACAAIAhAP"
+              }
+            ]
+          },
+          {
+            "snippet": "Best for Budget & Hardwood: Eureka E20 PlusGo to product viewer dialog for this item. — Offers 8,000 Pa suction and a bagless self-empty station for around $449, excelling at daily fur pickup.",
+            "snippet_links": [
+              {
+                "text": "Eureka E20 PlusGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462788954064247,imageDocid:14707860124160979807,gpcid:13350370267255493671,headlineOfferDocid:12641855904713743643,catalogid:2005625160531236484,productDocid:14459835839992660166,rds:PC_13350370267255493671%7CPROD_PC_13350370267255493671&q=product&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Qxa4PegoIAggACAAIAhAV"
+              }
+            ],
+            "reference_indexes": [
+              5
+            ]
+          },
+          {
+            "snippet": "Best Premium Option: Dreame X50 UltraGo to product viewer dialog for this item. — Delivers massive suction (up to 20,000 Pa), a detangling duo-brush, and hot water mop self-cleaning for heavy-duty multi-surface homes.",
+            "snippet_links": [
+              {
+                "text": "Dreame X50 UltraGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462566262868941,imageDocid:9125210447150028658,gpcid:16330732553488880279,headlineOfferDocid:3265785600483182096,catalogid:1276316538611632047,productDocid:6613318225581664920,rds:PC_16330732553488880279%7CPROD_PC_16330732553488880279&q=product&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Qxa4PegoIAggACAAIAhAd"
+              }
+            ]
+          },
+          {
+            "snippet": "Best for Waste Avoidance: iRobot Roomba j7+ / j9+Go to product viewer dialog for this item. — Renowned for its reliable camera-based navigation that explicitly detects and steers clear of accidental pet messes.",
+            "snippet_links": [
+              {
+                "text": "iRobot Roomba j7+ / j9+Go to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:3770490246024800593,gpcid:14357283308660070257,headlineOfferDocid:1762657518980532221,catalogid:894964901860928063,productDocid:13252614740157392452,rds:PC_14357283308660070257%7CPROD_PC_14357283308660070257&q=product&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Qxa4PegoIAggACAAIHBAD"
+              }
+            ],
+            "reference_indexes": [
+              5
+            ]
+          },
+          {
+            "snippet": "Best All-in-One Combo: Roborock Saros 10RGo to product viewer dialog for this item. — Combines high suction power (up to 22,000 Pa) with advanced LiDAR mapping and robust carpet-boost functionality.",
+            "snippet_links": [
+              {
+                "text": "Roborock Saros 10RGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462898007222244,imageDocid:2060283131575657181,gpcid:10824796202151946162,headlineOfferDocid:14710661793040939595,catalogid:1373184126972556048,productDocid:18253667134028523831,rds:PC_463940687110505158%7CPROD_PC_463940687110505158&q=product&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Qxa4PegoIAggACAAIHBAL"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Watch a comprehensive comparison of top cleaning models for pet owners:"
+      },
+      {
+        "type": "heading",
+        "snippet": "Key Features to Look For"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Anti-Tangle Rollers: Dual rubber or split-brush designs prevent long pet fur from binding tightly around the roller."
+          },
+          {
+            "snippet": "Self-Emptying Bins: Essential for daily pet upkeep so you do not have to manually clear the dust box after every single run."
+          },
+          {
+            "snippet": "Obstacle Avoidance: AI and camera systems help the robot navigate around pet toys, water bowls, and unexpected accidents."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like to narrow down your choice, tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "What kind of flooring do you have most of (hardwood, thick carpet, or a mix)?"
+          },
+          {
+            "snippet": "Do you have long-haired pets that shed heavily?"
+          },
+          {
+            "snippet": "What is your target budget?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "link": "https://us.eureka.com/blogs/news/best-robot-vacuum-for-pet-hair",
+        "source": "us.eureka.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.google.com/",
+        "source": "Google",
+        "index": 1
+      },
+      {
+        "link": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-robot-vacuum-for-pet-hair/",
+        "source": "forbes.com",
+        "index": 2
+      },
+      {
+        "link": "https://www.irobot.com/en_US/robot-vacuum/pet-hair.html",
+        "source": "irobot.com",
+        "index": 3
+      },
+      {
+        "title": "Best Robot Vacuum for Pet Hair 2026 — Honest Picks - Eureka US",
+        "link": "https://us.eureka.com/blogs/news/best-robot-vacuum-for-pet-hair",
+        "snippet": "Quick answer: The Eureka E20 Plus is the best robot vacuum for most pet homes: 8,000 Pa of published suction, a bagless self-empty station for $449. For heavy shed...",
+        "source": "Eureka US",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRIl1pGnpK4EFAqRkJot9mmfP0xg1fYulOWkTcBRaUETc2qNIEXohakv3LA0H3pK4UqWT9GJL6OXs3piqJ0l06WLrPMWrZ0yBtEkSi",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://us.eureka.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 4
+      },
+      {
+        "title": "Dreame X50 Ultra White Robot Vacuum and Mop Auto-Empty and Mop Self-Cleaning Suction, Obstacle Avoidance and 360 Navigation",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:6613318225581664920,catalogid:1276316538611632047,gpcid:16330732553488880279,mid:576462566262868941&ibp=oshop",
+        "snippet": "The Dreame X50 Ultra is a premium robot vacuum and mop built for large, complex, and mixed-surface homes. Designed as a high-end all-around cleaning system, it combines intelligent floor care with advanced navigation and automated maintenance for a more consistent hands-free cleaning routine. It is especially well suited to households with pets, varied room layouts, carpets, and demanding everyday cleaning needs.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQsODjxBHKYXjMudXpwU_MZCOzBNiiS4KkFAU2dGwPfiCuSqjjRb4rgie9-QgAjl4AxJlzW5Lfq7oyZmxM",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Best Robot Vacuums For Pet Hair 2026 - Forbes Vetted",
+        "link": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-robot-vacuum-for-pet-hair/",
+        "snippet": "WHAT WE UPDATED. ... Pets fill our lives with love, joy and, unfortunately, lots of pet hair. The best robot vacuums for pet hair serve as a right-hand in cleaning...",
+        "source": "Forbes",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcThFY2O8AzonvJqcLlQHNCIUU6_eH5qyKnsMdGMfih9CdByWuLwqYJbp4r8vmMhQv251F7KuVgurko4e-tUWrBzAG-fri5unzJKYwKe",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.forbes.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "Best Roomba® Robot Vacuums For Pet Hair",
+        "link": "https://www.irobot.com/en_US/robot-vacuum/pet-hair.html",
+        "snippet": "FAQs * Do robot vacuums work on pet hair? Yes, robot vacuums work very well on pet hair when designed for pet homes. Roomba® robots use controlled suction and rubb...",
+        "source": "iRobot",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKHBoWuXeAMPc-Cr3W2VLohb0zX3iRXB5GrC-v4gVTQx6lGJDTVTOBjJQaTvJyB51-Hpyg-SEuTM1VJIu7qguzYsxhKkgk6IByiutN",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.irobot.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best Robot Vacuums For Pet Hair 2026",
+      "link": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-robot-vacuum-for-pet-hair/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFRFfhZRtikTVhFM66KSQe3ikANNAeYDw3iHI0IJJakDi29B3cK_jCYJmxrc1o5kC8ofQPiiS-gdTs9d8DRZ1d78CotmBNyyVjMxKY20q51aJq575mRlFwnBlI_RKuBEa6VS3btCurRT3_1S8ZHjXnp8wuYadyvU7HWrNSVvUyhZoLbB2xVRT_CaBmdmdp7O1&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08QFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://www.forbes.com › ... › Cleaning & Laundry",
+      "date": "6 days ago",
+      "snippet": "Our top overall pick for pet hair, the iRobot Roomba j7+, has particularly advanced obstacle detection; plus, it's specifically designed to ...",
+      "snippet_highlighted_words": [
+        "iRobot Roomba j7"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our top overall pick for pet hair, the iRobot Roomba j7+, has particularly advanced obstacle detection; plus, it's specifically designed to ...",
+          "source_info_link": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-robot-vacuum-for-pet-hair/",
+          "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACwBACdASocABwAPtEutFooIagoGAEAGglpAAPjYg4AwhrY24dby7OyzlpT-AAAAP70In9oskZJrD8rNJ0nis30esbg_wIej2xZZ1JfvId7SjVlui4gIYAelDOF6jM1gxNKFZjW-cVqZ8MC-cUXTKkEJKFXeuO4jDAGQQwwkeUg_Hclb676os9P1A6QpWnv9zPo_fp83JPzn_TGqR1DXtfz8V1_7RVerT-BYfM0KbEDppEW-YFYnVUAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZSRmZoWlJ0aWtUVmhGTTY2S1NRZTNpa0FOTkFlWUR3M2lISTBJSkpha0RpMjlCM2NLX2pDWUpteHJjMW81a0M4b2ZRUGlpUy1nZFRzOWQ4RFJaMWQ3OENvdG1CTnl5VmpNeEtZMjBxNTFhSnE1NzVtUmxGd25CbElfUkt1QkVhNlZTM2J0Q3VyUlQzXzFTOFpIalhucDh3dVlhZHl2VTdIV3JOU1Z2VXloWm9MYkIyeFZSVF9DYUJtZG1kcDdPMRIEGgIIABryBRICCAEaACICCAEqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAygUIABAAGAAgACoeCgN0b3AVH4IkPxoEYmVzdBoEY29vbBoGZmFtb3VzKi8KBXJvYm90FQrwnEAaB3JvYm90aWMaDHJvYm90dmFjdXVtcxoKaXY7cDtyb2JvdCpbCgd2YWN1dW1zFb6LdUAaBmhvb3ZlchoOdmFjdXVtIGNsZWFuZXIaD3ZhY3V1bSBjbGVhbmVycxoGdmFjdXVtGgxyb2JvdHZhY3V1bXMaDGl2O3A7dmFjdXVtcyoKCgNmb3IVAAAAACohCgNwZXQVEgSdQBoGYW5pbWFsGgRwZXRzGgdwZXRoYWlyKiAKBGhhaXIVPhyXQBoDZnVyGgVoYWlycxoHcGV0aGFpcjLWAS9nb3RvP3VybD1DQUVTbEFFQjZ6c3dGUkZmaFpSdGlrVFZoRk02NktTUWUzaWtBTk5BZVlEdzNpSEkwSUpKYWtEaTI5QjNjS19qQ1lKbXhyYzFvNWtDOG9mUVBpaVMtZ2RUczlkOERSWjFkNzhDb3RtQk55eVZqTXhLWTIwcTUxYUpxNTc1bVJsRnduQmxJX1JLdUJFYTZWUzNidEN1clJUM18xUzhaSGpYbnA4d3VZYWR5dlU3SFdyTlNWdlV5aFpvTGJCMnhWUlRfQ2FCbWRtZHA3TzE6OzxiPkJlc3QgUm9ib3QgVmFjdXVtcyBGb3IgUGV0IEhhaXI8L2I-IDIwMjYgLSBGb3JiZXMgVmV0dGVkQp8BT3VyIHRvcCBvdmVyYWxsIHBpY2sgZm9yIHBldCBoYWlyLCB0aGUgPGI-aVJvYm90IFJvb21iYSBqNzwvYj4rLCBoYXMgcGFydGljdWxhcmx5IGFkdmFuY2VkIG9ic3RhY2xlIGRldGVjdGlvbjsgcGx1cywgaXQmIzM5O3Mgc3BlY2lmaWNhbGx5IGRlc2lnbmVkIHRvJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABKiFDb21tZXJjZSB3cml0ZXIgZm9yIEZvcmJlcyBWZXR0ZWRIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0ZSRmZoWlJ0aWtUVmhGTTY2S1NRZTNpa0FOTkFlWUR3M2lISTBJSkpha0RpMjlCM2NLX2pDWUpteHJjMW81a0M4b2ZRUGlpUy1nZFRzOWQ4RFJaMWQ3OENvdG1CTnl5VmpNeEtZMjBxNTFhSnE1NzVtUmxGd25CbElfUkt1QkVhNlZTM2J0Q3VyUlQzXzFTOFpIalhucDh3dVlhZHl2VTdIV3JOU1Z2VXloWm9MYkIyeFZSVF9DYUJtZG1kcDdPMRIEGgIIABryBRICCAEaACICCAEqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAygUIABAAGAAgACoeCgN0b3AVH4IkPxoEYmVzdBoEY29vbBoGZmFtb3VzKi8KBXJvYm90FQrwnEAaB3JvYm90aWMaDHJvYm90dmFjdXVtcxoKaXY7cDtyb2JvdCpbCgd2YWN1dW1zFb6LdUAaBmhvb3ZlchoOdmFjdXVtIGNsZWFuZXIaD3ZhY3V1bSBjbGVhbmVycxoGdmFjdXVtGgxyb2JvdHZhY3V1bXMaDGl2O3A7dmFjdXVtcyoKCgNmb3IVAAAAACohCgNwZXQVEgSdQBoGYW5pbWFsGgRwZXRzGgdwZXRoYWlyKiAKBGhhaXIVPhyXQBoDZnVyGgVoYWlycxoHcGV0aGFpcjLWAS9nb3RvP3VybD1DQUVTbEFFQjZ6c3dGUkZmaFpSdGlrVFZoRk02NktTUWUzaWtBTk5BZVlEdzNpSEkwSUpKYWtEaTI5QjNjS19qQ1lKbXhyYzFvNWtDOG9mUVBpaVMtZ2RUczlkOERSWjFkNzhDb3RtQk55eVZqTXhLWTIwcTUxYUpxNTc1bVJsRnduQmxJX1JLdUJFYTZWUzNidEN1clJUM18xUzhaSGpYbnA4d3VZYWR5dlU3SFdyTlNWdlV5aFpvTGJCMnhWUlRfQ2FCbWRtZHA3TzE6OzxiPkJlc3QgUm9ib3QgVmFjdXVtcyBGb3IgUGV0IEhhaXI8L2I-IDIwMjYgLSBGb3JiZXMgVmV0dGVkQp8BT3VyIHRvcCBvdmVyYWxsIHBpY2sgZm9yIHBldCBoYWlyLCB0aGUgPGI-aVJvYm90IFJvb21iYSBqNzwvYj4rLCBoYXMgcGFydGljdWxhcmx5IGFkdmFuY2VkIG9ic3RhY2xlIGRldGVjdGlvbjsgcGx1cywgaXQmIzM5O3Mgc3BlY2lmaWNhbGx5IGRlc2lnbmVkIHRvJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABKiFDb21tZXJjZSB3cml0ZXIgZm9yIEZvcmJlcyBWZXR0ZWRIAFgAaAA",
+      "source": "Forbes",
+      "read_more_link": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-robot-vacuum-for-pet-hair/#:~:text=Our%20top%20overall%20pick%20for,designed%20to%20avoid%20pet%20waste."
+    },
+    {
+      "position": 2,
+      "title": "Dog parents! What vacuum-only robot works GREAT for pet ...",
+      "link": "https://www.reddit.com/r/RobotVacuums/comments/1hdkhel/dog_parents_what_vacuumonly_robot_works_great_for/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEB6zswFcEZOXhOZdCkU9kYIpWnwfP2mqWQ07KFpQSZiZubIG36Ok0g0fwt7bJ4Y_7wYvilFzTnKJaUnFbCQz_SdgVNzVMge3Pp3PAIxsgE1XdflFlc_XYVItnv6hUJoF1j7hpDKzoN4v20nnHL-8PgVvRo5cDlqzeZfiqJFtY3-6vMuqeFa1t4o6dyL2ebXDOSvb_pEmKGtaIrOdx5_h6ZPg&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08QFnoECDUQAQ&uoh=1",
+      "displayed_link": "90+ comments · 1 year ago",
+      "snippet": "I’m a Single Dog Mom with a Labrador who constantly sheds fibers of joy. I have 1400sqft of hardwood floor, all of which is lined with low-pile runner ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Best robot for a large house with pet hair? : r ...",
+            "link": "https://www.reddit.com/r/RobotVacuums/comments/1js24dz/best_robot_for_a_large_house_with_pet_hair/",
+            "answer_count": 47,
+            "date": "Apr 5, 2025"
+          },
+          {
+            "title": "What robot vacuums for pet hair do you absolutely ...",
+            "link": "https://www.reddit.com/r/homeowners/comments/1m6m05m/what_robot_vacuums_for_pet_hair_do_you_absolutely/",
+            "answer_count": 36,
+            "date": "Jul 23, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Roborock is best for pet hair, and the eufi S1 is best for mopping floors. Roborock QRevo Curv for pets. The Dyson is one of the best for just ...",
+          "source_info_link": "https://www.reddit.com/r/RobotVacuums/comments/1hdkhel/dog_parents_what_vacuumonly_robot_works_great_for/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZjRVpPWGhPWmRDa1U5a1lJcFdud2ZQMm1xV1EwN0tGcFFTWmladWJJRzM2T2swZzBmd3Q3Yko0WV83d1l2aWxGelRuS0phVW5GYkNRel9TZGdWTnpWTWdlM1BwM1BBSXhzZ0UxWGRmbEZsY19YWVZJdG52NmhVSm9GMWo3aHBES3pvTjR2MjBubkhMLThQZ1Z2Um81Y0RscXplWmZpcUpGdFkzLTZ2TXVxZUZhMXQ0bzZkeUwyZWJYRE9TdmJfcEVtS0d0YUlyT2R4NV9oNlpQZxIEGgIIABqWBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPAFCAAQABgAIAAqHgoDdG9wFfheMz8aBGJlc3QaBGNvb2waBmZhbW91cyovCgVyb2JvdBW95d1AGgdyb2JvdGljGgxyb2JvdHZhY3V1bXMaCml2O3A7cm9ib3QqWwoHdmFjdXVtcxXy5oBAGgZob292ZXIaDnZhY3V1bSBjbGVhbmVyGg92YWN1dW0gY2xlYW5lcnMaBnZhY3V1bRoMcm9ib3R2YWN1dW1zGgxpdjtwO3ZhY3V1bXMqCgoDZm9yFQAAAAAqIQoDcGV0FQTsoUAaBmFuaW1hbBoEcGV0cxoHcGV0aGFpciogCgRoYWlyFYNXsEAaA2Z1choFaGFpcnMaB3BldGhhaXIy6AEvZ290bz91cmw9Q0FFU29RRUI2enN3RmNFWk9YaE9aZENrVTlrWUlwV253ZlAybXFXUTA3S0ZwUVNaaVp1YklHMzZPazBnMGZ3dDdiSjRZXzd3WXZpbEZ6VG5LSmFVbkZiQ1F6X1NkZ1ZOelZNZ2UzUHAzUEFJeHNnRTFYZGZsRmxjX1hZVkl0bnY2aFVKb0YxajdocERLem9ONHYyMG5uSEwtOFBnVnZSbzVjRGxxemVaZmlxSkZ0WTMtNnZNdXFlRmExdDRvNmR5TDJlYlhET1N2Yl9wRW1LR3RhSXJPZHg1X2g2WlBnOlBEb2cgcGFyZW50cyEgV2hhdCA8Yj52YWN1dW08L2I-LW9ubHkgPGI-cm9ib3Q8L2I-IHdvcmtzIEdSRUFUIGZvciA8Yj5wZXQ8L2I-IC4uLkKeATxiPlJvYm9yb2NrIGlzIGJlc3QgZm9yIHBldCBoYWlyPC9iPiwgYW5kIHRoZSBldWZpIFMxIGlzIGJlc3QgZm9yIG1vcHBpbmcgZmxvb3JzLiBSb2Jvcm9jayBRUmV2byBDdXJ2IGZvciBwZXRzLiBUaGUgRHlzb24gaXMgb25lIG9mIHRoZSBiZXN0IGZvciBqdXN0Jm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZjRVpPWGhPWmRDa1U5a1lJcFdud2ZQMm1xV1EwN0tGcFFTWmladWJJRzM2T2swZzBmd3Q3Yko0WV83d1l2aWxGelRuS0phVW5GYkNRel9TZGdWTnpWTWdlM1BwM1BBSXhzZ0UxWGRmbEZsY19YWVZJdG52NmhVSm9GMWo3aHBES3pvTjR2MjBubkhMLThQZ1Z2Um81Y0RscXplWmZpcUpGdFkzLTZ2TXVxZUZhMXQ0bzZkeUwyZWJYRE9TdmJfcEVtS0d0YUlyT2R4NV9oNlpQZxIEGgIIABqWBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPAFCAAQABgAIAAqHgoDdG9wFfheMz8aBGJlc3QaBGNvb2waBmZhbW91cyovCgVyb2JvdBW95d1AGgdyb2JvdGljGgxyb2JvdHZhY3V1bXMaCml2O3A7cm9ib3QqWwoHdmFjdXVtcxXy5oBAGgZob292ZXIaDnZhY3V1bSBjbGVhbmVyGg92YWN1dW0gY2xlYW5lcnMaBnZhY3V1bRoMcm9ib3R2YWN1dW1zGgxpdjtwO3ZhY3V1bXMqCgoDZm9yFQAAAAAqIQoDcGV0FQTsoUAaBmFuaW1hbBoEcGV0cxoHcGV0aGFpciogCgRoYWlyFYNXsEAaA2Z1choFaGFpcnMaB3BldGhhaXIy6AEvZ290bz91cmw9Q0FFU29RRUI2enN3RmNFWk9YaE9aZENrVTlrWUlwV253ZlAybXFXUTA3S0ZwUVNaaVp1YklHMzZPazBnMGZ3dDdiSjRZXzd3WXZpbEZ6VG5LSmFVbkZiQ1F6X1NkZ1ZOelZNZ2UzUHAzUEFJeHNnRTFYZGZsRmxjX1hZVkl0bnY2aFVKb0YxajdocERLem9ONHYyMG5uSEwtOFBnVnZSbzVjRGxxemVaZmlxSkZ0WTMtNnZNdXFlRmExdDRvNmR5TDJlYlhET1N2Yl9wRW1LR3RhSXJPZHg1X2g2WlBnOlBEb2cgcGFyZW50cyEgV2hhdCA8Yj52YWN1dW08L2I-LW9ubHkgPGI-cm9ib3Q8L2I-IHdvcmtzIEdSRUFUIGZvciA8Yj5wZXQ8L2I-IC4uLkKeATxiPlJvYm9yb2NrIGlzIGJlc3QgZm9yIHBldCBoYWlyPC9iPiwgYW5kIHRoZSBldWZpIFMxIGlzIGJlc3QgZm9yIG1vcHBpbmcgZmxvb3JzLiBSb2Jvcm9jayBRUmV2byBDdXJ2IGZvciBwZXRzLiBUaGUgRHlzb24gaXMgb25lIG9mIHRoZSBiZXN0IGZvciBqdXN0Jm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Reddit · r/RobotVacuums"
+    },
+    {
+      "position": 3,
+      "title": "6 Best Robot Vacuums of 2026 for Pet Hair",
+      "link": "https://www.consumerreports.org/appliances/vacuum-cleaners/best-robotic-vacuums-for-pet-hair-a6341573082/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEB6zswFdaco4AJO_1_MR3E1qg6I45nwWZ1uJnf3KAOrZXduroOf1qEgrRSuV8wrIb6mzi6hJYPElS86z1_EgEHotOiKzknCTI9fvnFlsqY4q2GEO-RlnP-q34JoQku4JQRKZVsuEKqdNuOiSCqaSRmqN3rIfLYQEexGSz4VDr5IKCsm79JzpOj5HxdmHZdqroQ7k5CA0ZZbXG3w_t-jdIqRA&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08QFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.consumerreports.org › ... › Vacuum Cleaners",
+      "date": "Mar 5, 2026",
+      "snippet": "6 Best Robot Vacuums of 2026 for Pet Hair, Lab-Tested and Reviewed · Dreame L40 Ultra · Dyson 360 vis nav · Eufy C10 T2292 · Eureka NERE10SW · iRobot ...",
+      "snippet_highlighted_words": [
+        "Dreame L40 Ultra"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "6 Best Robot Vacuums of 2026 for Pet Hair, Lab-Tested and Reviewed · Dreame L40 Ultra · Dyson 360 vis nav · Eufy C10 T2292 · Eureka NERE10SW · iRobot ...",
+          "source_info_link": "https://www.consumerreports.org/appliances/vacuum-cleaners/best-robotic-vacuums-for-pet-hair-a6341573082/",
+          "icon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAADQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0OIr3lPyZjtA0gTOQv9nJ49q3NCne0XVDIPVOA50pBr7u_yygA_vYFvx6M4O-Pu5Tj302A6Jqff1WxToWkZ1wJgKHntdvyoCMmVBUxMaHJmmrF8NFW-2uXHqbz-DMVsBSZt1mvflY23GUgLVNDchuGzv_llXSt2w40bMZsFCdxLuzKACnb3Bspf-tplIhPB115upswLn4_FvMMypiycF5iljsfgDoDyInV1KfkCtuHz03iKdsfzJT382s1EgX16hcWh_I3ia563Abw_5Ubn50uPf2VRJ9Xd__MIG1dptck9LqjHJ6O6tXSlcp6NxXHlh6rV_eiLCV4mucMvSpc137lvyQ6p5J4jkJM5kv_maPpOSs9DRskzjwl7EQA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZkYWNvNEFKT18xX01SM0UxcWc2STQ1bndXWjF1Sm5mM0tBT3JaWGR1cm9PZjFxRWdyUlN1Vjh3ckliNm16aTZoSllQRWxTODZ6MV9FZ0VIb3RPaUt6a25DVEk5ZnZuRmxzcVk0cTJHRU8tUmxuUC1xMzRKb1FrdTRKUVJLWlZzdUVLcWROdU9pU0NxYVNSbXFOM3JJZkxZUUVleEdTejRWRHI1SUtDc203OUp6cE9qNUh4ZG1IWmRxcm9RN2s1Q0EwWlpiWEczd190LWpkSXFSQRIEGgIIABq6BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJQGCAAQABgAIAAqHgoDdG9wFfH9Cz8aBGJlc3QaBGNvb2waBmZhbW91cyovCgVyb2JvdBXsZZlAGgdyb2JvdGljGgxyb2JvdHZhY3V1bXMaCml2O3A7cm9ib3QqWwoHdmFjdXVtcxXAAsZAGgZob292ZXIaDnZhY3V1bSBjbGVhbmVyGg92YWN1dW0gY2xlYW5lcnMaBnZhY3V1bRoMcm9ib3R2YWN1dW1zGgxpdjtwO3ZhY3V1bXMqCgoDZm9yFQAAAAAqIQoDcGV0FT5_wEAaBmFuaW1hbBoEcGV0cxoHcGV0aGFpciogCgRoYWlyFetitEAaA2Z1choFaGFpcnMaB3BldGhhaXIy6AEvZ290bz91cmw9Q0FFU29RRUI2enN3RmRhY280QUpPXzFfTVIzRTFxZzZJNDVud1daMXVKbmYzS0FPclpYZHVyb09mMXFFZ3JSU3VWOHdySWI2bXppNmhKWVBFbFM4NnoxX0VnRUhvdE9pS3prbkNUSTlmdm5GbHNxWTRxMkdFTy1SbG5QLXEzNEpvUWt1NEpRUktaVnN1RUtxZE51T2lTQ3FhU1JtcU4zcklmTFlRRWV4R1N6NFZEcjVJS0NzbTc5SnpwT2o1SHhkbUhaZHFyb1E3azVDQTBaWmJYRzN3X3QtamRJcVJBOko2IDxiPkJlc3QgUm9ib3QgVmFjdXVtczwvYj4gb2YgMjAyNiBmb3IgPGI-UGV0IEhhaXI8L2I-IC0gQ29uc3VtZXIgUmVwb3J0c0LIATYgQmVzdCBSb2JvdCBWYWN1dW1zIG9mIDIwMjYgZm9yIFBldCBIYWlyLCBMYWItVGVzdGVkIGFuZCBSZXZpZXdlZCAmbWlkZG90OyA8Yj5EcmVhbWUgTDQwIFVsdHJhPC9iPiAmbWlkZG90OyBEeXNvbiAzNjAgdmlzIG5hdiAmbWlkZG90OyBFdWZ5IEMxMCBUMjI5MiAmbWlkZG90OyBFdXJla2EgTkVSRTEwU1cgJm1pZGRvdDsgaVJvYm90Jm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZkYWNvNEFKT18xX01SM0UxcWc2STQ1bndXWjF1Sm5mM0tBT3JaWGR1cm9PZjFxRWdyUlN1Vjh3ckliNm16aTZoSllQRWxTODZ6MV9FZ0VIb3RPaUt6a25DVEk5ZnZuRmxzcVk0cTJHRU8tUmxuUC1xMzRKb1FrdTRKUVJLWlZzdUVLcWROdU9pU0NxYVNSbXFOM3JJZkxZUUVleEdTejRWRHI1SUtDc203OUp6cE9qNUh4ZG1IWmRxcm9RN2s1Q0EwWlpiWEczd190LWpkSXFSQRIEGgIIABq6BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJQGCAAQABgAIAAqHgoDdG9wFfH9Cz8aBGJlc3QaBGNvb2waBmZhbW91cyovCgVyb2JvdBXsZZlAGgdyb2JvdGljGgxyb2JvdHZhY3V1bXMaCml2O3A7cm9ib3QqWwoHdmFjdXVtcxXAAsZAGgZob292ZXIaDnZhY3V1bSBjbGVhbmVyGg92YWN1dW0gY2xlYW5lcnMaBnZhY3V1bRoMcm9ib3R2YWN1dW1zGgxpdjtwO3ZhY3V1bXMqCgoDZm9yFQAAAAAqIQoDcGV0FT5_wEAaBmFuaW1hbBoEcGV0cxoHcGV0aGFpciogCgRoYWlyFetitEAaA2Z1choFaGFpcnMaB3BldGhhaXIy6AEvZ290bz91cmw9Q0FFU29RRUI2enN3RmRhY280QUpPXzFfTVIzRTFxZzZJNDVud1daMXVKbmYzS0FPclpYZHVyb09mMXFFZ3JSU3VWOHdySWI2bXppNmhKWVBFbFM4NnoxX0VnRUhvdE9pS3prbkNUSTlmdm5GbHNxWTRxMkdFTy1SbG5QLXEzNEpvUWt1NEpRUktaVnN1RUtxZE51T2lTQ3FhU1JtcU4zcklmTFlRRWV4R1N6NFZEcjVJS0NzbTc5SnpwT2o1SHhkbUhaZHFyb1E3azVDQTBaWmJYRzN3X3QtamRJcVJBOko2IDxiPkJlc3QgUm9ib3QgVmFjdXVtczwvYj4gb2YgMjAyNiBmb3IgPGI-UGV0IEhhaXI8L2I-IC0gQ29uc3VtZXIgUmVwb3J0c0LIATYgQmVzdCBSb2JvdCBWYWN1dW1zIG9mIDIwMjYgZm9yIFBldCBIYWlyLCBMYWItVGVzdGVkIGFuZCBSZXZpZXdlZCAmbWlkZG90OyA8Yj5EcmVhbWUgTDQwIFVsdHJhPC9iPiAmbWlkZG90OyBEeXNvbiAzNjAgdmlzIG5hdiAmbWlkZG90OyBFdWZ5IEMxMCBUMjI5MiAmbWlkZG90OyBFdXJla2EgTkVSRTEwU1cgJm1pZGRvdDsgaVJvYm90Jm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Consumer Reports",
+      "read_more_link": "https://www.consumerreports.org/appliances/vacuum-cleaners/best-robotic-vacuums-for-pet-hair-a6341573082/#:~:text=6%20Best%20Robot%20Vacuums%20of,Pet%20Hair%2C%20Lab%2DTested%20and%20Reviewed&text=Dreame%20L40%20Ultra&text=Dyson%20360%20vis%20nav&text=Eufy%20C10%20T2292&text=Eureka%20NERE10SW&text=iRobot%20Roomba%20Max%20705"
+    },
+    {
+      "position": 4,
+      "title": "Best Robot Vacuums for Pet Hair 2026: Real-Home Tested",
+      "link": "https://justadadapproved.com/best-robot-vacuums-for-pet-hair/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVvD4ijVojtvQQNiKyxQgbQWz1GEtsK3i0mXjLkJI45sm5Q8u6ldD8vp6gQ1zc8FLoL6-mJiCyQiEjXw4A-TMiw_RUCZslAEnbri9IkrueznM5vYU-uE57nEUQ4l-3CkoZX0M5nDY-3oftLkIyFCThMA&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08QFnoECCsQAQ&uoh=1",
+      "displayed_link": "https://justadadapproved.com › Dad’s Top Picks",
+      "date": "Jun 9, 2026",
+      "snippet": "BEST OVERALL UNDER $1,000 Mova V50 Complete … handles long-hair pets without clogging. 20 delivers where it counts for pet households. Roborock ...",
+      "snippet_highlighted_words": [
+        "Mova V50 Complete"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0,
+            "reviews": 1
+          },
+          "extensions": [
+            "5.0(1)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "BEST OVERALL UNDER $1,000 Mova V50 Complete … handles long-hair pets without clogging. 20 delivers where it counts for pet households. Roborock ...",
+          "source_info_link": "https://justadadapproved.com/best-robot-vacuums-for-pet-hair/",
+          "icon": "https://serpapi.com/images/i/UklGRsYBAABXRUJQVlA4ILoBAABQCQCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHtfoFuGcW2400ivmIwDtJLRV1n0nv5v2O9kD9gCO8PdumdfLbMeOcBgUAJiHUZvWS0u5UpegAD--Lo8TJ2YflqZjnk2EiOr18W4uOFFqpWsaRG6LYHnZ1AKsQXTsyglB3W7YX96VTrmgD60u9v1Fnf2EfcVSPOY-Yt6IESwM4-yrHORiqtwJV8SIxdkNwtkv5nF2zjMmM_osrK40tnOyyzPmAQZArpQpcHnqqDa_6pTXmjhM4cNgNSFny9Qn1P2JVrH6jk9LgrSm5wyZx_T2_4-ZjgQMTFY7CwCjYk4BmppUyhcaDzDZ9fv3TZEsiYYdeV-CYH--_jZuJ5L-GXwiEAlZrPUm-ySt1puuiBnTTbTNQf6m9RXekjwc3iU53YfLE6cWSyQlJBGPTEVk7YuMfs-xyn4jid1aGDUpXjqwvmWVy6TIafdSdwbFWZClT90H6amkhPhkwd0s6mufiIa3D66nWzO2q9iQIen1hIX6oXTL-N2hvMW5F5LPxFevp790gBFpBvW37E6fb7jCTpmD4JnCl76c9dOB_rKAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVnZENGlqVm9qdHZRUU5pS3l4UWdiUVd6MUdFdHNLM2kwbVhqTGtKSTQ1c201UTh1NmxkRDh2cDZnUTF6YzhGTG9MNi1tSmlDeVFpRWpYdzRBLVRNaXdfUlVDWnNsQUVuYnJpOUlrcnVlem5NNXZZVS11RTU3bkVVUTRsLTNDa29aWDBNNW5EWS0zb2Z0TGtJeUZDVGhNQRIEGgIIABrIBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCkBQgAEAAYACAAKh4KA3RvcBUChFs_GgRiZXN0GgRjb29sGgZmYW1vdXMqLwoFcm9ib3QVLfsAQRoHcm9ib3RpYxoMcm9ib3R2YWN1dW1zGgppdjtwO3JvYm90KlsKB3ZhY3V1bXMV8FnYQBoGaG9vdmVyGg52YWN1dW0gY2xlYW5lchoPdmFjdXVtIGNsZWFuZXJzGgZ2YWN1dW0aDHJvYm90dmFjdXVtcxoMaXY7cDt2YWN1dW1zKgoKA2ZvchUAAAAAKiEKA3BldBWYvdtAGgZhbmltYWwaBHBldHMaB3BldGhhaXIqIAoEaGFpchVhYelAGgNmdXIaBWhhaXJzGgdwZXRoYWlyMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVnZENGlqVm9qdHZRUU5pS3l4UWdiUVd6MUdFdHNLM2kwbVhqTGtKSTQ1c201UTh1NmxkRDh2cDZnUTF6YzhGTG9MNi1tSmlDeVFpRWpYdzRBLVRNaXdfUlVDWnNsQUVuYnJpOUlrcnVlem5NNXZZVS11RTU3bkVVUTRsLTNDa29aWDBNNW5EWS0zb2Z0TGtJeUZDVGhNQTo9PGI-QmVzdCBSb2JvdCBWYWN1dW1zIGZvciBQZXQgSGFpcjwvYj4gMjAyNjogUmVhbC1Ib21lIFRlc3RlZEKhAUJFU1QgT1ZFUkFMTCBVTkRFUiAkMSwwMDAgPGI-TW92YSBWNTAgQ29tcGxldGU8L2I-IOKApiBoYW5kbGVzIGxvbmctaGFpciBwZXRzIHdpdGhvdXQgY2xvZ2dpbmcuIDIwIGRlbGl2ZXJzIHdoZXJlIGl0IGNvdW50cyBmb3IgcGV0IGhvdXNlaG9sZHMuIFJvYm9yb2NrJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVnZENGlqVm9qdHZRUU5pS3l4UWdiUVd6MUdFdHNLM2kwbVhqTGtKSTQ1c201UTh1NmxkRDh2cDZnUTF6YzhGTG9MNi1tSmlDeVFpRWpYdzRBLVRNaXdfUlVDWnNsQUVuYnJpOUlrcnVlem5NNXZZVS11RTU3bkVVUTRsLTNDa29aWDBNNW5EWS0zb2Z0TGtJeUZDVGhNQRIEGgIIABrIBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCkBQgAEAAYACAAKh4KA3RvcBUChFs_GgRiZXN0GgRjb29sGgZmYW1vdXMqLwoFcm9ib3QVLfsAQRoHcm9ib3RpYxoMcm9ib3R2YWN1dW1zGgppdjtwO3JvYm90KlsKB3ZhY3V1bXMV8FnYQBoGaG9vdmVyGg52YWN1dW0gY2xlYW5lchoPdmFjdXVtIGNsZWFuZXJzGgZ2YWN1dW0aDHJvYm90dmFjdXVtcxoMaXY7cDt2YWN1dW1zKgoKA2ZvchUAAAAAKiEKA3BldBWYvdtAGgZhbmltYWwaBHBldHMaB3BldGhhaXIqIAoEaGFpchVhYelAGgNmdXIaBWhhaXJzGgdwZXRoYWlyMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVnZENGlqVm9qdHZRUU5pS3l4UWdiUVd6MUdFdHNLM2kwbVhqTGtKSTQ1c201UTh1NmxkRDh2cDZnUTF6YzhGTG9MNi1tSmlDeVFpRWpYdzRBLVRNaXdfUlVDWnNsQUVuYnJpOUlrcnVlem5NNXZZVS11RTU3bkVVUTRsLTNDa29aWDBNNW5EWS0zb2Z0TGtJeUZDVGhNQTo9PGI-QmVzdCBSb2JvdCBWYWN1dW1zIGZvciBQZXQgSGFpcjwvYj4gMjAyNjogUmVhbC1Ib21lIFRlc3RlZEKhAUJFU1QgT1ZFUkFMTCBVTkRFUiAkMSwwMDAgPGI-TW92YSBWNTAgQ29tcGxldGU8L2I-IOKApiBoYW5kbGVzIGxvbmctaGFpciBwZXRzIHdpdGhvdXQgY2xvZ2dpbmcuIDIwIGRlbGl2ZXJzIHdoZXJlIGl0IGNvdW50cyBmb3IgcGV0IGhvdXNlaG9sZHMuIFJvYm9yb2NrJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Just a Dad Approved"
+    },
+    {
+      "position": 5,
+      "title": "The Best Robot Vacuums for Pet Hair in 2026",
+      "link": "https://vacuumwars.com/best-robot-vacuum-for-pet-hair/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVp5W-tow_zs50pcGRs0qkX-LSZI4hlGOIK2YqLAuG-5ekqENmLhLdtoCNRgkG11tzeHHv0o9Ixr8dETrIZmg5IcKCdRtGGzWqtYGR-c_flUf6_30odlsWmv1jaxvT4O6tvT0VxlO9107U&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08QFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://vacuumwars.com › Best Robot Vacuums",
+      "date": "6 days ago",
+      "snippet": "The Top 5 for Pet Hair · Dreame L60 Ultra PE · MOVA V70 Ultra Complete · Dreame X60 Max Ultra Complete · Dreame L60 Pro Ultra · Dreame L50 Ultra.",
+      "snippet_highlighted_words": [
+        "Dreame L60 Ultra PE"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Top 5 for Pet Hair · Dreame L60 Ultra PE · MOVA V70 Ultra Complete · Dreame X60 Max Ultra Complete · Dreame L60 Pro Ultra · Dreame L50 Ultra.",
+          "source_info_link": "https://vacuumwars.com/best-robot-vacuum-for-pet-hair/",
+          "icon": "https://serpapi.com/images/i/UklGRqQBAABXRUJQVlA4IJgBAACwBwCdASocABwAPtEutFooIagoGAEAGglsAMHd-rZIVYlboKkV4rPp_2A-jN6DqyvwI7SdLvjL6iJgk5LkWcgf-L0srI2gAP7-w5yxEl7O2W8aSsXQ5K8f0eNBjF9oI2U81h_X-lEwzn_OAG_nra_5oWuO1SIvq9rfFaGttbqsl9PN7fMf_fz3kdUZuz2u__hbkf-59i4etU3dbrOYhrRh8FrMx_L-3_P-vOf5i_tiiutTrNwLr4NwCewMTiG3tnnd5Q7LCxa8z4vnX_wh_vJgR3Tnm8TP9kw58m__quWpP_vWhbxltYTHOdH-2Ry0DympVbIhhMhC-qB9Cmlcte0x2YRQlDqDqaQEPi0e3esSBy2Ss-XqLGbH6CzmmL3QbAJ7Inm6sEDrEWZi38HMQzpaffk269Kn2odOJdeY7nt7J6axPzncJxdPyR6zF7EpXwo533llg2Q3cxeROYwUQkg97JpBFP8a9CLxcA_KpwTOkYRCRfKukYzViZe1u2-SlxIbIuEiwymQPTbmYHwk5HZqNiGwh8WXsAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnA1Vy10b3dfenM1MHBjR1JzMHFrWC1MU1pJNGhsR09JSzJZcUxBdUctNWVrcUVObUxoTGR0b0NOUmdrRzExdHplSEh2MG85SXhyOGRFVHJJWm1nNUljS0NkUnRHR3pXcXRZR1ItY19mbFVmNl8zMG9kbHNXbXYxamF4dlQ0TzZ0dlQwVnhsTzkxMDdVEgQaAggAGtEFEgIIABoAIgIIASoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCpBQgAEAAYACAAKh4KA3RvcBVmnABAGgRiZXN0GgRjb29sGgZmYW1vdXMqLwoFcm9ib3QVRPbdQBoHcm9ib3RpYxoMcm9ib3R2YWN1dW1zGgppdjtwO3JvYm90KlsKB3ZhY3V1bXMVTrCKQBoGaG9vdmVyGg52YWN1dW0gY2xlYW5lchoPdmFjdXVtIGNsZWFuZXJzGgZ2YWN1dW0aDHJvYm90dmFjdXVtcxoMaXY7cDt2YWN1dW1zKgoKA2ZvchUAAAAAKiEKA3BldBUcb9ZAGgZhbmltYWwaBHBldHMaB3BldGhhaXIqIAoEaGFpchUu-95AGgNmdXIaBWhhaXJzGgdwZXRoYWlyMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnA1Vy10b3dfenM1MHBjR1JzMHFrWC1MU1pJNGhsR09JSzJZcUxBdUctNWVrcUVObUxoTGR0b0NOUmdrRzExdHplSEh2MG85SXhyOGRFVHJJWm1nNUljS0NkUnRHR3pXcXRZR1ItY19mbFVmNl8zMG9kbHNXbXYxamF4dlQ0TzZ0dlQwVnhsTzkxMDdVOjJUaGUgPGI-QmVzdCBSb2JvdCBWYWN1dW1zIGZvciBQZXQgSGFpcjwvYj4gaW4gMjAyNkK7AVRoZSBUb3AgNSBmb3IgUGV0IEhhaXIgJm1pZGRvdDsgPGI-RHJlYW1lIEw2MCBVbHRyYSBQRTwvYj4gJm1pZGRvdDsgTU9WQSBWNzAgVWx0cmEgQ29tcGxldGUgJm1pZGRvdDsgRHJlYW1lIFg2MCBNYXggVWx0cmEgQ29tcGxldGUgJm1pZGRvdDsgRHJlYW1lIEw2MCBQcm8gVWx0cmEgJm1pZGRvdDsgRHJlYW1lIEw1MCBVbHRyYS5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnA1Vy10b3dfenM1MHBjR1JzMHFrWC1MU1pJNGhsR09JSzJZcUxBdUctNWVrcUVObUxoTGR0b0NOUmdrRzExdHplSEh2MG85SXhyOGRFVHJJWm1nNUljS0NkUnRHR3pXcXRZR1ItY19mbFVmNl8zMG9kbHNXbXYxamF4dlQ0TzZ0dlQwVnhsTzkxMDdVEgQaAggAGtEFEgIIABoAIgIIASoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCpBQgAEAAYACAAKh4KA3RvcBVmnABAGgRiZXN0GgRjb29sGgZmYW1vdXMqLwoFcm9ib3QVRPbdQBoHcm9ib3RpYxoMcm9ib3R2YWN1dW1zGgppdjtwO3JvYm90KlsKB3ZhY3V1bXMVTrCKQBoGaG9vdmVyGg52YWN1dW0gY2xlYW5lchoPdmFjdXVtIGNsZWFuZXJzGgZ2YWN1dW0aDHJvYm90dmFjdXVtcxoMaXY7cDt2YWN1dW1zKgoKA2ZvchUAAAAAKiEKA3BldBUcb9ZAGgZhbmltYWwaBHBldHMaB3BldGhhaXIqIAoEaGFpchUu-95AGgNmdXIaBWhhaXJzGgdwZXRoYWlyMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnA1Vy10b3dfenM1MHBjR1JzMHFrWC1MU1pJNGhsR09JSzJZcUxBdUctNWVrcUVObUxoTGR0b0NOUmdrRzExdHplSEh2MG85SXhyOGRFVHJJWm1nNUljS0NkUnRHR3pXcXRZR1ItY19mbFVmNl8zMG9kbHNXbXYxamF4dlQ0TzZ0dlQwVnhsTzkxMDdVOjJUaGUgPGI-QmVzdCBSb2JvdCBWYWN1dW1zIGZvciBQZXQgSGFpcjwvYj4gaW4gMjAyNkK7AVRoZSBUb3AgNSBmb3IgUGV0IEhhaXIgJm1pZGRvdDsgPGI-RHJlYW1lIEw2MCBVbHRyYSBQRTwvYj4gJm1pZGRvdDsgTU9WQSBWNzAgVWx0cmEgQ29tcGxldGUgJm1pZGRvdDsgRHJlYW1lIFg2MCBNYXggVWx0cmEgQ29tcGxldGUgJm1pZGRvdDsgRHJlYW1lIEw2MCBQcm8gVWx0cmEgJm1pZGRvdDsgRHJlYW1lIEw1MCBVbHRyYS5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "Vacuum Wars",
+      "read_more_link": "https://vacuumwars.com/best-robot-vacuum-for-pet-hair/#:~:text=The%20Top%205%20for%20Pet,Hair&text=MOVA%20V70%20Ultra%20Complete%E2%98%85%20%C2%B7&text=Dreame%20X60%20Max%20Ultra%20Complete%E2%98%85&text=Dreame%20L60%20Pro%20Ultra%E2%98%85%203.83&text=Dreame%20L50%20Ultra%E2%98%85%203.75%20%C2%B7&text=What%20changed%20in%20the%20rankingsUpdated"
+    },
+    {
+      "position": 6,
+      "title": "Best Roomba® Robot Vacuums For Pet Hair",
+      "link": "https://www.irobot.com/en_US/robot-vacuum/pet-hair.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVWIJOZbpUk69K8ZxzU0ssmtRHId8-_IfuAyxUcXleqJE7hj72vREnsP1wmWHwLmAJfJY4AWhteZPoRuS5pbnQhladDADjUeoIja1YH_6ryswtPJt3BDISV0VVMApqKIRNmAi1tfm6dsqmjA&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08QFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://www.irobot.com › en_US › robot-vacuum › pet-...",
+      "snippet": "The best Roomba® robot vacuums for dog and cat hair are models with dual rubber brush rolls, automatic carpet boost, and smart navigation.",
+      "snippet_highlighted_words": [
+        "models with dual rubber brush rolls, automatic carpet boost, and smart navigation"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "store_rating": 15,
+            "day_returns": 60
+          },
+          "extensions": [
+            "4.6",
+            "store rating (15)",
+            "Free delivery over $30",
+            "60-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The best Roomba® robot vacuums for dog and cat hair are models with dual rubber brush rolls, automatic carpet boost, and smart navigation.",
+          "source_info_link": "https://www.irobot.com/en_US/robot-vacuum/pet-hair.html",
+          "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAQBgCdASocABwAPtFAtFooIqgoFAEAGglsAJ0zNDp4rAE0-uXhXb8urHIAARW4xger6YDXd1mVjAAA_vYJ2bKGoGDYwciG6hQ-ABaL5vb_Fm13Mil8zQxikdt6p-aOSiv0X1SolHS6AHz8duczvmiGBMuwCyycBr6be87YR2_x3lIs-Xx1rtrd5EzVnVsW7H5uWRLvf1WY8xXTQnkqVQRlvlcUCklsCKqt7VzF2nGtRSLxe_j7MxA_w94yYn5Sx9_r-oSC1OXK9I_5iDgOszUfBmzCpSlNNpwJWKWhnI85hQAI22no09zXCR6I6Wc_QlioJ4l3TqYz_GRi9w0NBZWHyXmbNaHHHsAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVldJSk9aYnBVazY5SzhaeHpVMHNzbXRSSElkOC1fSWZ1QXl4VWNYbGVxSkU3aGo3MnZSRW5zUDF3bVdId0xtQUpmSlk0QVdodGVaUG9SdVM1cGJuUWhsYWREQURqVWVvSWphMVlIXzZyeXN3dFBKdDNCRElTVjBWVk1BcHFLSVJObUFpMXRmbTZkc3FtakESBBoCCAAatQUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCPBQgAEAAYACAAKh4KA3RvcBXqm10-GgRiZXN0GgRjb29sGgZmYW1vdXMqLwoFcm9ib3QVls4DQRoHcm9ib3RpYxoMcm9ib3R2YWN1dW1zGgppdjtwO3JvYm90KlsKB3ZhY3V1bXMViAiiQBoGaG9vdmVyGg52YWN1dW0gY2xlYW5lchoPdmFjdXVtIGNsZWFuZXJzGgZ2YWN1dW0aDHJvYm90dmFjdXVtcxoMaXY7cDt2YWN1dW1zKgoKA2ZvchUAAAAAKiEKA3BldBUIa9ZAGgZhbmltYWwaBHBldHMaB3BldGhhaXIqIAoEaGFpchXM9IdAGgNmdXIaBWhhaXJzGgdwZXRoYWlyMqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVldJSk9aYnBVazY5SzhaeHpVMHNzbXRSSElkOC1fSWZ1QXl4VWNYbGVxSkU3aGo3MnZSRW5zUDF3bVdId0xtQUpmSlk0QVdodGVaUG9SdVM1cGJuUWhsYWREQURqVWVvSWphMVlIXzZyeXN3dFBKdDNCRElTVjBWVk1BcHFLSVJObUFpMXRmbTZkc3FtakE6PzxiPkJlc3Q8L2I-IFJvb21iYcKuIDxiPlJvYm90IFZhY3V1bXMgRm9yIFBldCBIYWlyPC9iPiAtIGlSb2JvdEKSAVRoZSBiZXN0IFJvb21iYcKuIHJvYm90IHZhY3V1bXMgZm9yIGRvZyBhbmQgY2F0IGhhaXIgYXJlIDxiPm1vZGVscyB3aXRoIGR1YWwgcnViYmVyIGJydXNoIHJvbGxzLCBhdXRvbWF0aWMgY2FycGV0IGJvb3N0LCBhbmQgc21hcnQgbmF2aWdhdGlvbjwvYj4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVldJSk9aYnBVazY5SzhaeHpVMHNzbXRSSElkOC1fSWZ1QXl4VWNYbGVxSkU3aGo3MnZSRW5zUDF3bVdId0xtQUpmSlk0QVdodGVaUG9SdVM1cGJuUWhsYWREQURqVWVvSWphMVlIXzZyeXN3dFBKdDNCRElTVjBWVk1BcHFLSVJObUFpMXRmbTZkc3FtakESBBoCCAAatQUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCPBQgAEAAYACAAKh4KA3RvcBXqm10-GgRiZXN0GgRjb29sGgZmYW1vdXMqLwoFcm9ib3QVls4DQRoHcm9ib3RpYxoMcm9ib3R2YWN1dW1zGgppdjtwO3JvYm90KlsKB3ZhY3V1bXMViAiiQBoGaG9vdmVyGg52YWN1dW0gY2xlYW5lchoPdmFjdXVtIGNsZWFuZXJzGgZ2YWN1dW0aDHJvYm90dmFjdXVtcxoMaXY7cDt2YWN1dW1zKgoKA2ZvchUAAAAAKiEKA3BldBUIa9ZAGgZhbmltYWwaBHBldHMaB3BldGhhaXIqIAoEaGFpchXM9IdAGgNmdXIaBWhhaXJzGgdwZXRoYWlyMqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVldJSk9aYnBVazY5SzhaeHpVMHNzbXRSSElkOC1fSWZ1QXl4VWNYbGVxSkU3aGo3MnZSRW5zUDF3bVdId0xtQUpmSlk0QVdodGVaUG9SdVM1cGJuUWhsYWREQURqVWVvSWphMVlIXzZyeXN3dFBKdDNCRElTVjBWVk1BcHFLSVJObUFpMXRmbTZkc3FtakE6PzxiPkJlc3Q8L2I-IFJvb21iYcKuIDxiPlJvYm90IFZhY3V1bXMgRm9yIFBldCBIYWlyPC9iPiAtIGlSb2JvdEKSAVRoZSBiZXN0IFJvb21iYcKuIHJvYm90IHZhY3V1bXMgZm9yIGRvZyBhbmQgY2F0IGhhaXIgYXJlIDxiPm1vZGVscyB3aXRoIGR1YWwgcnViYmVyIGJydXNoIHJvbGxzLCBhdXRvbWF0aWMgY2FycGV0IGJvb3N0LCBhbmQgc21hcnQgbmF2aWdhdGlvbjwvYj4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "iRobot"
+    },
+    {
+      "position": 7,
+      "title": "Best Robotic Vacuum For Pet Hair",
+      "link": "https://www.amazon.com/Best-Robotic-Vacuum-Pet-Hair/s?k=Best+Robotic+Vacuum+for+Pet+Hair",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFXmAv_OaT4b-vxqSUu1yYDiKCDd4yTPymSihmDLHSz-DYlGmCSmd6tAisQ03whNdiDFaT4kAzT75w34do8d5rEP4o1_ZmuqxEWdhyztqJBckJF0ddRF_V8StQewc1tzTRnneP-QwKjg7QV4Bh1uoJE-Nm9FbrcwD3ABuZEUdch5Sdd1-z6GC30KmrrI&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08QFnoECE8QAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › Best-Robotic-Vacuum-Pet-Hair",
+      "snippet": "Shark AI Ultra Robot Vacuum, 'Overall Pick' are: Rated 4+ stars … iRobot Roomba Max 715 Pet Robot Vacuum, roborock Q7 M5+ Robot Vacuum and Mop, Dual Anti- ...",
+      "snippet_highlighted_words": [
+        "Shark AI Ultra Robot Vacuum"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.5",
+            "store rating (9.2K)",
+            "Free delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Shark AI Ultra Robot Vacuum, 'Overall Pick' are: Rated 4+ stars … iRobot Roomba Max 715 Pet Robot Vacuum, roborock Q7 M5+ Robot Vacuum and Mop, Dual Anti- ...",
+          "source_info_link": "https://www.amazon.com/Best-Robotic-Vacuum-Pet-Hair/s?k=Best+Robotic+Vacuum+for+Pet+Hair",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZYbUF2X09hVDRiLXZ4cVNVdTF5WURpS0NEZDR5VFB5bVNpaG1ETEhTei1EWWxHbUNTbWQ2dEFpc1EwM3doTmRpREZhVDRrQXpUNzV3MzRkbzhkNXJFUDRvMV9abXVxeEVXZGh5enRxSkJja0pGMGRkUkZfVjhTdFFld2MxdHpUUm5uZVAtUXdLamc3UVY0QmgxdW9KRS1ObTlGYnJjd0QzQUJ1WkVVZGNoNVNkZDEtejZHQzMwS21yckkSBBoCCAAa8gUSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDMBQgAEAAYACAAKh4KA3RvcBVR4U4_GgRiZXN0GgRjb29sGgZmYW1vdXMqLwoFcm9ib3QVkBRjQBoHcm9ib3RpYxoMcm9ib3R2YWN1dW1zGgppdjtwO3JvYm90KlsKB3ZhY3V1bXMVAAAAABoGaG9vdmVyGg52YWN1dW0gY2xlYW5lchoPdmFjdXVtIGNsZWFuZXJzGgZ2YWN1dW0aDHJvYm90dmFjdXVtcxoMaXY7cDt2YWN1dW1zKgoKA2ZvchUAAAAAKiEKA3BldBXBuc9AGgZhbmltYWwaBHBldHMaB3BldGhhaXIqIAoEaGFpchWAH8lAGgNmdXIaBWhhaXJzGgdwZXRoYWlyMtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZYbUF2X09hVDRiLXZ4cVNVdTF5WURpS0NEZDR5VFB5bVNpaG1ETEhTei1EWWxHbUNTbWQ2dEFpc1EwM3doTmRpREZhVDRrQXpUNzV3MzRkbzhkNXJFUDRvMV9abXVxeEVXZGh5enRxSkJja0pGMGRkUkZfVjhTdFFld2MxdHpUUm5uZVAtUXdLamc3UVY0QmgxdW9KRS1ObTlGYnJjd0QzQUJ1WkVVZGNoNVNkZDEtejZHQzMwS21yckk6LUJlc3QgUm9ib3RpYyBWYWN1dW0gRm9yIFBldCBIYWlyIC0gQW1hem9uLmNvbUK0ATxiPlNoYXJrIEFJIFVsdHJhIFJvYm90IFZhY3V1bTwvYj4sICYjMzk7T3ZlcmFsbCBQaWNrJiMzOTsgYXJlOiBSYXRlZCA0KyBzdGFycyDigKYgaVJvYm90IFJvb21iYSBNYXggNzE1IFBldCBSb2JvdCBWYWN1dW0sIHJvYm9yb2NrIFE3IE01KyBSb2JvdCBWYWN1dW0gYW5kIE1vcCwgRHVhbCBBbnRpLSZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZYbUF2X09hVDRiLXZ4cVNVdTF5WURpS0NEZDR5VFB5bVNpaG1ETEhTei1EWWxHbUNTbWQ2dEFpc1EwM3doTmRpREZhVDRrQXpUNzV3MzRkbzhkNXJFUDRvMV9abXVxeEVXZGh5enRxSkJja0pGMGRkUkZfVjhTdFFld2MxdHpUUm5uZVAtUXdLamc3UVY0QmgxdW9KRS1ObTlGYnJjd0QzQUJ1WkVVZGNoNVNkZDEtejZHQzMwS21yckkSBBoCCAAa8gUSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDMBQgAEAAYACAAKh4KA3RvcBVR4U4_GgRiZXN0GgRjb29sGgZmYW1vdXMqLwoFcm9ib3QVkBRjQBoHcm9ib3RpYxoMcm9ib3R2YWN1dW1zGgppdjtwO3JvYm90KlsKB3ZhY3V1bXMVAAAAABoGaG9vdmVyGg52YWN1dW0gY2xlYW5lchoPdmFjdXVtIGNsZWFuZXJzGgZ2YWN1dW0aDHJvYm90dmFjdXVtcxoMaXY7cDt2YWN1dW1zKgoKA2ZvchUAAAAAKiEKA3BldBXBuc9AGgZhbmltYWwaBHBldHMaB3BldGhhaXIqIAoEaGFpchWAH8lAGgNmdXIaBWhhaXJzGgdwZXRoYWlyMtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZYbUF2X09hVDRiLXZ4cVNVdTF5WURpS0NEZDR5VFB5bVNpaG1ETEhTei1EWWxHbUNTbWQ2dEFpc1EwM3doTmRpREZhVDRrQXpUNzV3MzRkbzhkNXJFUDRvMV9abXVxeEVXZGh5enRxSkJja0pGMGRkUkZfVjhTdFFld2MxdHpUUm5uZVAtUXdLamc3UVY0QmgxdW9KRS1ObTlGYnJjd0QzQUJ1WkVVZGNoNVNkZDEtejZHQzMwS21yckk6LUJlc3QgUm9ib3RpYyBWYWN1dW0gRm9yIFBldCBIYWlyIC0gQW1hem9uLmNvbUK0ATxiPlNoYXJrIEFJIFVsdHJhIFJvYm90IFZhY3V1bTwvYj4sICYjMzk7T3ZlcmFsbCBQaWNrJiMzOTsgYXJlOiBSYXRlZCA0KyBzdGFycyDigKYgaVJvYm90IFJvb21iYSBNYXggNzE1IFBldCBSb2JvdCBWYWN1dW0sIHJvYm9yb2NrIFE3IE01KyBSb2JvdCBWYWN1dW0gYW5kIE1vcCwgRHVhbCBBbnRpLSZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 8,
+      "title": "The Best Robot Vacuums We've Tested for Pet Hair in 2026",
+      "link": "https://www.pcmag.com/picks/the-best-robot-vacuums-for-pet-hair",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVe2G9_3odJAVZc6r5rJhip7g5FjJMjaNC_ap4ML1plg1bcVE0DzhBYFDYoi-Dd9fCGYZYmqMpv-yXdJRQKPbKG-n9MB26QrnkVBjKexzMVZtW-yVuIoSxqnNtUKeqhuI4avG-gjHDM3kCk4OOjlYO2E-n&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08QFnoECFMQAQ&uoh=1",
+      "displayed_link": "https://www.pcmag.com › ... › Robot Vacuums",
+      "thumbnail": "https://serpapi.com/searches/6ab3e2d813258366ad4f8242/images/2uPS2RQMbNQfdz9RsYbffqq4hbLjlC2PyENzockqyZY.jpeg",
+      "date": "Jun 17, 2026",
+      "snippet": "Our top pick, the Ecovacs Deebot X8 Pro Omni, thoroughly vacuumed pet hair without tangles and had no problem mopping up cat food remnants from ...",
+      "snippet_highlighted_words": [
+        "Ecovacs Deebot X8 Pro Omni"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Our Top Tested Picks",
+            "link": "https://www.pcmag.com/picks/the-best-robot-vacuums-for-pet-hair#:~:text=.-,Our%20Top%20Tested%20Picks"
+          },
+          {
+            "title": "Best Vacuum And Mop Hybrid",
+            "link": "https://www.pcmag.com/picks/the-best-robot-vacuums-for-pet-hair#:~:text=%29-,Best%20Vacuum%20and%20Mop%20Hybrid"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Our top pick, the Ecovacs Deebot X8 Pro Omni, thoroughly vacuumed pet hair without tangles and had no problem mopping up cat food remnants from ...",
+          "source_info_link": "https://www.pcmag.com/picks/the-best-robot-vacuums-for-pet-hair",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXrAC7rAC7rAC7rAC3rACHwZXXqAAzvS170kpz2qbHzhJD____5v8XtKUT71dn_-fr-7_HxcHzuOVHFtC6NAAAAA3RSTlNM9fvAUo4WAAAAqklEQVR4AbXTgQrEIAiA4TbNKmurvf_DnsM44agA4H4ghA8gyJw7zkWHcyesEpUTNdBsfhG9BgQShZhSBhxIPCqi9dI50sDblBqPMhpq0L9jI8PLs-QjS72whGBIhjVt8PkThizBAvHNcBR2SIpPl36x0_xCfLcSEFe3JUJYIkiKdYe-zHH-ZIqAMmsRFdkQalNLNBYsSh1BI59KiVVM0JZxsponLDu23-EDtDAWNH_t18YAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmUyRzlfM29kSkFWWmM2cjVySmhpcDdnNUZqSk1qYU5DX2FwNE1MMXBsZzFiY1ZFMER6aEJZRkRZb2ktRGQ5ZkNHWVpZbXFNcHYteVhkSlJRS1BiS0ctbjlNQjI2UXJua1ZCaktleHpNVlp0Vy15VnVJb1N4cW5OdFVLZXFodUk0YXZHLWdqSERNM2tDazRPT2psWU8yRS1uEgQaAggAGsMFEgIIARoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQJkFCAAQABgAIAAqHgoDdG9wFVLEpD8aBGJlc3QaBGNvb2waBmZhbW91cyovCgVyb2JvdBX1I6pAGgdyb2JvdGljGgxyb2JvdHZhY3V1bXMaCml2O3A7cm9ib3QqWwoHdmFjdXVtcxVkh6JAGgZob292ZXIaDnZhY3V1bSBjbGVhbmVyGg92YWN1dW0gY2xlYW5lcnMaBnZhY3V1bRoMcm9ib3R2YWN1dW1zGgxpdjtwO3ZhY3V1bXMqCgoDZm9yFQAAAAAqIQoDcGV0FRjJg0AaBmFuaW1hbBoEcGV0cxoHcGV0aGFpciogCgRoYWlyFYqmfkAaA2Z1choFaGFpcnMaB3BldGhhaXIyrgEvZ290bz91cmw9Q0FFU2R3SHJPekFWZTJHOV8zb2RKQVZaYzZyNXJKaGlwN2c1RmpKTWphTkNfYXA0TUwxcGxnMWJjVkUwRHpoQllGRFlvaS1EZDlmQ0dZWlltcU1wdi15WGRKUlFLUGJLRy1uOU1CMjZRcm5rVkJqS2V4ek1WWnRXLXlWdUlvU3hxbk50VUtlcWh1STRhdkctZ2pIRE0za0NrNE9PamxZTzJFLW46MlRoZSA8Yj5CZXN0IFJvYm90IFZhY3V1bXMgZm9yIFBldCBIYWlyPC9iPiAtIFBDTWFnQp8BT3VyIHRvcCBwaWNrLCB0aGUgPGI-RWNvdmFjcyBEZWVib3QgWDggUHJvIE9tbmk8L2I-LCB0aG9yb3VnaGx5IHZhY3V1bWVkIHBldCBoYWlyIHdpdGhvdXQgdGFuZ2xlcyBhbmQgaGFkIG5vIHByb2JsZW0gbW9wcGluZyB1cCBjYXQgZm9vZCByZW1uYW50cyBmcm9tJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmUyRzlfM29kSkFWWmM2cjVySmhpcDdnNUZqSk1qYU5DX2FwNE1MMXBsZzFiY1ZFMER6aEJZRkRZb2ktRGQ5ZkNHWVpZbXFNcHYteVhkSlJRS1BiS0ctbjlNQjI2UXJua1ZCaktleHpNVlp0Vy15VnVJb1N4cW5OdFVLZXFodUk0YXZHLWdqSERNM2tDazRPT2psWU8yRS1uEgQaAggAGsMFEgIIARoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQJkFCAAQABgAIAAqHgoDdG9wFVLEpD8aBGJlc3QaBGNvb2waBmZhbW91cyovCgVyb2JvdBX1I6pAGgdyb2JvdGljGgxyb2JvdHZhY3V1bXMaCml2O3A7cm9ib3QqWwoHdmFjdXVtcxVkh6JAGgZob292ZXIaDnZhY3V1bSBjbGVhbmVyGg92YWN1dW0gY2xlYW5lcnMaBnZhY3V1bRoMcm9ib3R2YWN1dW1zGgxpdjtwO3ZhY3V1bXMqCgoDZm9yFQAAAAAqIQoDcGV0FRjJg0AaBmFuaW1hbBoEcGV0cxoHcGV0aGFpciogCgRoYWlyFYqmfkAaA2Z1choFaGFpcnMaB3BldGhhaXIyrgEvZ290bz91cmw9Q0FFU2R3SHJPekFWZTJHOV8zb2RKQVZaYzZyNXJKaGlwN2c1RmpKTWphTkNfYXA0TUwxcGxnMWJjVkUwRHpoQllGRFlvaS1EZDlmQ0dZWlltcU1wdi15WGRKUlFLUGJLRy1uOU1CMjZRcm5rVkJqS2V4ek1WWnRXLXlWdUlvU3hxbk50VUtlcWh1STRhdkctZ2pIRE0za0NrNE9PamxZTzJFLW46MlRoZSA8Yj5CZXN0IFJvYm90IFZhY3V1bXMgZm9yIFBldCBIYWlyPC9iPiAtIFBDTWFnQp8BT3VyIHRvcCBwaWNrLCB0aGUgPGI-RWNvdmFjcyBEZWVib3QgWDggUHJvIE9tbmk8L2I-LCB0aG9yb3VnaGx5IHZhY3V1bWVkIHBldCBoYWlyIHdpdGhvdXQgdGFuZ2xlcyBhbmQgaGFkIG5vIHByb2JsZW0gbW9wcGluZyB1cCBjYXQgZm9vZCByZW1uYW50cyBmcm9tJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "PCMag",
+      "read_more_link": "https://www.pcmag.com/picks/the-best-robot-vacuums-for-pet-hair#:~:text=Our%20top%20pick%2C%20the%20Ecovacs,up%20cat%20food%20remnants%20from"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Top robot vacuums for pet hair reddit",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&hl=en&gl=us&q=Top+robot+vacuums+for+pet+hair+reddit&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Top+robot+vacuums+for+pet+hair+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Top robot vacuums for pet hair consumer reports",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&hl=en&gl=us&q=Top+robot+vacuums+for+pet+hair+consumer+reports&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Top+robot+vacuums+for+pet+hair+consumer+reports"
+    },
+    {
+      "block_position": 1,
+      "query": "Best robot vacuum for pet hair self-emptying",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&hl=en&gl=us&q=Best+robot+vacuum+for+pet+hair+self-emptying&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+robot+vacuum+for+pet+hair+self-emptying"
+    },
+    {
+      "block_position": 1,
+      "query": "Best robot vacuum for pet hair without mop",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&hl=en&gl=us&q=Best+robot+vacuum+for+pet+hair+without+mop&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+robot+vacuum+for+pet+hair+without+mop"
+    },
+    {
+      "block_position": 1,
+      "query": "Best robot vacuum for pet hair and carpet",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&hl=en&gl=us&q=Best+robot+vacuum+for+pet+hair+and+carpet&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+robot+vacuum+for+pet+hair+and+carpet"
+    },
+    {
+      "block_position": 1,
+      "query": "Top robot vacuums for pet hair and hardwood floors",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&hl=en&gl=us&q=Top+robot+vacuums+for+pet+hair+and+hardwood+floors&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Top+robot+vacuums+for+pet+hair+and+hardwood+floors"
+    },
+    {
+      "block_position": 1,
+      "query": "Shark top robot vacuums for pet hair",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&hl=en&gl=us&q=Shark+top+robot+vacuums+for+pet+hair&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Shark+top+robot+vacuums+for+pet+hair"
+    },
+    {
+      "block_position": 1,
+      "query": "Best robot vacuum for pet hair Consumer Reports",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&hl=en&gl=us&q=Best+robot+vacuum+for+pet+hair+Consumer+Reports&sa=X&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+robot+vacuum+for+pet+hair+Consumer+Reports"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+robot+vacuums+for+pet+hair&sca_esv=2076050cc5b23b05&hl=en&gl=us&ei=2eKzataYDeu2wN4Pu6WO-QQ&start=10&sa=N&sstk=AS6-VmIRUJiti83hLXKrks9v1MjktFcFbVe3rNwEdda8mkpdsRVymwLBcVT7IHgvlOEEhdoP5I-PqV0u5x_gNaEaSM_dqyvlR_v25Q&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q8NMDegQIQRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+robot+vacuums+for+pet+hair&sca_esv=2076050cc5b23b05&hl=en&gl=us&ei=2eKzataYDeu2wN4Pu6WO-QQ&start=10&sa=N&sstk=AS6-VmIRUJiti83hLXKrks9v1MjktFcFbVe3rNwEdda8mkpdsRVymwLBcVT7IHgvlOEEhdoP5I-PqV0u5x_gNaEaSM_dqyvlR_v25Q&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q8tMDegQIQRAE",
+      "3": "https://www.google.com/search?q=top+robot+vacuums+for+pet+hair&sca_esv=2076050cc5b23b05&hl=en&gl=us&ei=2eKzataYDeu2wN4Pu6WO-QQ&start=20&sa=N&sstk=AS6-VmIRUJiti83hLXKrks9v1MjktFcFbVe3rNwEdda8mkpdsRVymwLBcVT7IHgvlOEEhdoP5I-PqV0u5x_gNaEaSM_dqyvlR_v25Q&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q8tMDegQIQRAG",
+      "4": "https://www.google.com/search?q=top+robot+vacuums+for+pet+hair&sca_esv=2076050cc5b23b05&hl=en&gl=us&ei=2eKzataYDeu2wN4Pu6WO-QQ&start=30&sa=N&sstk=AS6-VmIRUJiti83hLXKrks9v1MjktFcFbVe3rNwEdda8mkpdsRVymwLBcVT7IHgvlOEEhdoP5I-PqV0u5x_gNaEaSM_dqyvlR_v25Q&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q8tMDegQIQRAI",
+      "5": "https://www.google.com/search?q=top+robot+vacuums+for+pet+hair&sca_esv=2076050cc5b23b05&hl=en&gl=us&ei=2eKzataYDeu2wN4Pu6WO-QQ&start=40&sa=N&sstk=AS6-VmIRUJiti83hLXKrks9v1MjktFcFbVe3rNwEdda8mkpdsRVymwLBcVT7IHgvlOEEhdoP5I-PqV0u5x_gNaEaSM_dqyvlR_v25Q&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q8tMDegQIQRAK",
+      "6": "https://www.google.com/search?q=top+robot+vacuums+for+pet+hair&sca_esv=2076050cc5b23b05&hl=en&gl=us&ei=2eKzataYDeu2wN4Pu6WO-QQ&start=50&sa=N&sstk=AS6-VmIRUJiti83hLXKrks9v1MjktFcFbVe3rNwEdda8mkpdsRVymwLBcVT7IHgvlOEEhdoP5I-PqV0u5x_gNaEaSM_dqyvlR_v25Q&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q8tMDegQIQRAM",
+      "7": "https://www.google.com/search?q=top+robot+vacuums+for+pet+hair&sca_esv=2076050cc5b23b05&hl=en&gl=us&ei=2eKzataYDeu2wN4Pu6WO-QQ&start=60&sa=N&sstk=AS6-VmIRUJiti83hLXKrks9v1MjktFcFbVe3rNwEdda8mkpdsRVymwLBcVT7IHgvlOEEhdoP5I-PqV0u5x_gNaEaSM_dqyvlR_v25Q&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q8tMDegQIQRAO",
+      "8": "https://www.google.com/search?q=top+robot+vacuums+for+pet+hair&sca_esv=2076050cc5b23b05&hl=en&gl=us&ei=2eKzataYDeu2wN4Pu6WO-QQ&start=70&sa=N&sstk=AS6-VmIRUJiti83hLXKrks9v1MjktFcFbVe3rNwEdda8mkpdsRVymwLBcVT7IHgvlOEEhdoP5I-PqV0u5x_gNaEaSM_dqyvlR_v25Q&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q8tMDegQIQRAQ",
+      "9": "https://www.google.com/search?q=top+robot+vacuums+for+pet+hair&sca_esv=2076050cc5b23b05&hl=en&gl=us&ei=2eKzataYDeu2wN4Pu6WO-QQ&start=80&sa=N&sstk=AS6-VmIRUJiti83hLXKrks9v1MjktFcFbVe3rNwEdda8mkpdsRVymwLBcVT7IHgvlOEEhdoP5I-PqV0u5x_gNaEaSM_dqyvlR_v25Q&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q8tMDegQIQRAS",
+      "10": "https://www.google.com/search?q=top+robot+vacuums+for+pet+hair&sca_esv=2076050cc5b23b05&hl=en&gl=us&ei=2eKzataYDeu2wN4Pu6WO-QQ&start=90&sa=N&sstk=AS6-VmIRUJiti83hLXKrks9v1MjktFcFbVe3rNwEdda8mkpdsRVymwLBcVT7IHgvlOEEhdoP5I-PqV0u5x_gNaEaSM_dqyvlR_v25Q&ved=2ahUKEwiW6bvB9YSXAxVrG9AFHbuSI08Q8tMDegQIQRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+robot+vacuums+for+pet+hair&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+robot+vacuums+for+pet+hair&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+robot+vacuums+for+pet+hair&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+robot+vacuums+for+pet+hair&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+robot+vacuums+for+pet+hair&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+robot+vacuums+for+pet+hair&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+robot+vacuums+for+pet+hair&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+robot+vacuums+for+pet+hair&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+robot+vacuums+for+pet+hair&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+robot+vacuums+for+pet+hair&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+robot+vacuums+for+pet+hair&start=90"
+    }
+  }
+}

@@ -1,0 +1,1393 @@
+{
+  "search_metadata": {
+    "id": "6ab3cca42ddc4359afdebf26",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BV0TJYTQI4zmftm3d3MMBYRK7icqZAV3oZtbuTRtSfc/6ab3cca42ddc4359afdebf26.json",
+    "markdown_endpoint": "https://serpapi.com/searches/BV0TJYTQI4zmftm3d3MMBYRK7icqZAV3oZtbuTRtSfc/6ab3cca42ddc4359afdebf26.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/BV0TJYTQI4zmftm3d3MMBYRK7icqZAV3oZtbuTRtSfc/6ab3cca42ddc4359afdebf26.json_with_pixel_position",
+    "created_at": "2026-09-23 12:57:08 UTC",
+    "processed_at": "2026-09-23 12:57:08 UTC",
+    "google_url": "https://www.google.com/search?q=best+external+solid+state+drives+for+mac&oq=best+external+solid+state+drives+for+mac&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/BV0TJYTQI4zmftm3d3MMBYRK7icqZAV3oZtbuTRtSfc/6ab3cca42ddc4359afdebf26.html",
+    "total_time_taken": 18.37
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best external solid state drives for mac",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best external solid state drives for mac",
+    "total_results": 160,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Stop Wasting Money on Slow SSDs — These Two Are Worth It",
+      "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR670i3TlzaM8n_2buE_jf4WoVKEaUdNWNUiJihQovVqzTepDtXyxniqQ&s",
+      "channel": "Adam Talks Tech",
+      "duration": "7:28",
+      "platform": "YouTube",
+      "date": "May 27, 2026",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro: Why most external SSDs aren't worth it in 2026",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=0"
+        },
+        {
+          "time": "00:17",
+          "title": "Oyen U34 Bolt & U35 Bolt Plus overview",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=17"
+        },
+        {
+          "time": "00:59",
+          "title": "Sponsor disclosure / how I tested these",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=59"
+        },
+        {
+          "time": "01:13",
+          "title": "SLC cache advantage explained",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=73"
+        },
+        {
+          "time": "01:56",
+          "title": "Where to see all SSD test data (adamtalks.tech/ssdguide)",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=116"
+        },
+        {
+          "time": "02:10",
+          "title": "U34 Bolt speed results (100GB & 500GB transfers)",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=130"
+        },
+        {
+          "time": "02:26",
+          "title": "U34 Bolt vs. LaCie USB 4 comparison",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=146"
+        },
+        {
+          "time": "02:41",
+          "title": "U34 Bolt pricing & compatibility",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=161"
+        },
+        {
+          "time": "02:58",
+          "title": "U35 Bolt Plus overview (80Gb/s, Thunderbolt 5)",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=178"
+        },
+        {
+          "time": "03:12",
+          "title": "U35 Bolt Plus speed results",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=192"
+        },
+        {
+          "time": "03:21",
+          "title": "AGI Disk Test sustained speeds",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=201"
+        },
+        {
+          "time": "03:47",
+          "title": "U35 Bolt Plus vs. OWC Envoy Ultra",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=227"
+        },
+        {
+          "time": "04:10",
+          "title": "Durability ratings & thermal design",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=250"
+        },
+        {
+          "time": "04:45",
+          "title": "DIY NVMe enclosure comparison",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=285"
+        },
+        {
+          "time": "05:15",
+          "title": "Pricing breakdown",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=315"
+        },
+        {
+          "time": "05:31",
+          "title": "iPhone/iPad compatibility caveat",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=331"
+        },
+        {
+          "time": "05:58",
+          "title": "Warranty & data recovery",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=358"
+        },
+        {
+          "time": "06:18",
+          "title": "Final recommendation",
+          "link": "https://www.youtube.com/watch?v=28uH6jtkQWQ&vl=en&t=378"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Ultimate Mac External SSD Buying Guide 2026",
+      "link": "https://www.youtube.com/watch?v=EbRjWX-oVRA",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoWLmKNArVElhd0RdRsnjcUIYQvS6i_GG3g6BDTiJid05O3npqKAFPow&s",
+      "channel": "Adam Talks Tech",
+      "duration": "12:44",
+      "platform": "YouTube",
+      "date": "Feb 4, 2026",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Introduction to Mac SSDs",
+          "link": "https://www.youtube.com/watch?v=EbRjWX-oVRA&t=0"
+        },
+        {
+          "time": "00:19",
+          "title": "Common Use Cases: Storage, Editing, and LLMs",
+          "link": "https://www.youtube.com/watch?v=EbRjWX-oVRA&t=19"
+        },
+        {
+          "time": "00:35",
+          "title": "Speed Classes Explained: USB 3.2 vs. USB 4 vs. Thunderbolt",
+          "link": "https://www.youtube.com/watch?v=EbRjWX-oVRA&t=35"
+        },
+        {
+          "time": "01:14",
+          "title": "40Gbps Drives: Performance for Heavy Editing",
+          "link": "https://www.youtube.com/watch?v=EbRjWX-oVRA&t=74"
+        },
+        {
+          "time": "01:55",
+          "title": "Thunderbolt 5: The Future of High-Pressure Data Streams",
+          "link": "https://www.youtube.com/watch?v=EbRjWX-oVRA&t=115"
+        },
+        {
+          "time": "03:06",
+          "title": "Choosing the Right Capacity: 1TB to 8TB",
+          "link": "https://www.youtube.com/watch?v=EbRjWX-oVRA&t=186"
+        },
+        {
+          "time": "04:01",
+          "title": "Prebuilt SSDs vs. Custom Enclosures",
+          "link": "https://www.youtube.com/watch?v=EbRjWX-oVRA&t=241"
+        },
+        {
+          "time": "05:03",
+          "title": "Best SSD Models for Office Work & Backups",
+          "link": "https://www.youtube.com/watch?v=EbRjWX-oVRA&t=303"
+        },
+        {
+          "time": "06:06",
+          "title": "Top Picks for Audio and Video Production",
+          "link": "https://www.youtube.com/watch?v=EbRjWX-oVRA&t=366"
+        },
+        {
+          "time": "07:53",
+          "title": "Ultimate Performance: Best Thunderbolt 5 Drives",
+          "link": "https://www.youtube.com/watch?v=EbRjWX-oVRA&t=473"
+        },
+        {
+          "time": "09:30",
+          "title": "Conclusion and Buying Tips",
+          "link": "https://www.youtube.com/watch?v=EbRjWX-oVRA&t=570"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Best External SSDs for Mac (2026): From Budget to Thunderbolt 5",
+      "link": "https://www.youtube.com/watch?v=-DBauOBpa1M&vl=en",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpwZqof5sLb3pawZYSPQAC-1zC_gcm7FQP3R3vFI6HzzqTaCQBW3X8PA&s",
+      "channel": "Adam Talks Tech",
+      "duration": "5:36",
+      "platform": "YouTube",
+      "date": "Feb 11, 2026",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Understanding External SSD Speed Classes",
+          "link": "https://www.youtube.com/watch?v=-DBauOBpa1M&vl=en&t=0"
+        },
+        {
+          "time": "00:23",
+          "title": "Economy Class: USB 3.2 for Backups & Office Work",
+          "link": "https://www.youtube.com/watch?v=-DBauOBpa1M&vl=en&t=23"
+        },
+        {
+          "time": "00:37",
+          "title": "Pro Class: USB 4/Thunderbolt 4 for 4K Video Editing",
+          "link": "https://www.youtube.com/watch?v=-DBauOBpa1M&vl=en&t=37"
+        },
+        {
+          "time": "00:58",
+          "title": "Ultra Class: Thunderbolt 5 for 8K & Local LLMs",
+          "link": "https://www.youtube.com/watch?v=-DBauOBpa1M&vl=en&t=58"
+        },
+        {
+          "time": "01:15",
+          "title": "Capacity Guide: How Many Terabytes Do You Need?",
+          "link": "https://www.youtube.com/watch?v=-DBauOBpa1M&vl=en&t=75"
+        },
+        {
+          "time": "02:11",
+          "title": "Pre-built vs. DIY SSD Enclosures",
+          "link": "https://www.youtube.com/watch?v=-DBauOBpa1M&vl=en&t=131"
+        },
+        {
+          "time": "03:23",
+          "title": "Real-World Speed Tests & Performance Results",
+          "link": "https://www.youtube.com/watch?v=-DBauOBpa1M&vl=en&t=203"
+        },
+        {
+          "time": "03:52",
+          "title": "Top Recommendations for Every Budget",
+          "link": "https://www.youtube.com/watch?v=-DBauOBpa1M&vl=en&t=232"
+        },
+        {
+          "time": "05:02",
+          "title": "Reliability Disclaimer & Backup Best Practices",
+          "link": "https://www.youtube.com/watch?v=-DBauOBpa1M&vl=en&t=302"
+        }
+      ]
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQKca-DCfT3O1v9qPxOEfyVg6tKqPcxnxSz-QGDJebnhfNbjcPPkgGuW4yWEBZcvalAfjTCs5Z2N3yOyWw2GR1nMdAOJJ__gUSoSkP5TLvzxZ3xo2gwuXcc8Q",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJfOWfy6EV2D7ZUwQE7XvcGjwUGOwpvtGQ95qi7dkm3JFK45DLRGwgRM2NAh72levSrphwlC5FMNLvDsm9bUOEwtortrQyBdCxq8w",
+      "source": "Office Depot",
+      "title": "SANDISK Extreme Portable SSD",
+      "rating": 4.6,
+      "reviews": 54,
+      "price": "$189.99",
+      "extracted_price": 189.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "mKfAbnicbZPNrqNGEIWVt4lkjdRNG2yyM9hgOwabpmlMb64w3bYxzc_lxxejvEPewXcm0mSZLLLNa9w8SZZhlO1UqXQW31HpLKp-fYr0r9Z5DHFpFvaLiepudZg53fC2KL9Wdcm7pE35n6qqzMaGGlAQBFAFaP41idtYlpeRajNF0aCmafpURTpQ53D6x1XEXKaF2J_Pol6WyWjT0Qim6vxbafqoyvz3NI8v4n-s6FMNqVBH0ylQxkEz9F7z5kM5mC-zOZwrKoJTRZuOWaCqar8c8H758n325bUT9ePjx5No2onoW1EXsZw0pUz5pGnjVkx4nd5FMzmX9SSPky-X6luC72x6z1P-93t1b5_Xy-euk-Lj09vEXGy8jbmJvSMduC27nYWlsK1hZ9EuPmLJTINw2wLs6Dwv8tk1z6t8iuK3Mq7u5-SfH_5d3RPTrBPTC6qKLjHwM975BcuDnFOyNCjPXCu5udAdrGOyvN75etvEa8NPQHsnwwKKXG5IKG-Ebj0f6FE8cMUJYeuiCtDcLfarDASS2Q4oga8wdx-qOF5aZ0KurZC6yyXuXOlAb3DeTgNXk7wHR-Sm-4AewyO28cqq45X-cALW03DrcFCdRXjp8bFEyQqHUVYVQaAr0c1IcQ4bakfAyXXjJHFJFHWKlepA1lUfD8wL0EWNCGZB1tN9KNeOrHYioy2z9V2wpj8LyiihVu7Cq8duDEbBNkys7SsOPUUsvYcDPHX0h3tquW7BMwz09BRQjwAXiZtRR5nuicCKWN4XPuIPCrDqZVRy4JZjno2_xjTM244R4x5kXJLVtmeoHJjFPLzaLk-BZUaU1hFhhAZWzGxukFzGPkp8C2FXHKvrCbgdhvrSQVuI6QKRI9U4sO52ujXw2n3sQ0b4zdU8yneikJQv2Su3mUag28ZFhhywNamk-HPf1OcPsLDU1t9PX3Z6ZZDBEI_1Zn2Yl-RTrze0VMXj7Sc40wHU5uMfjEf5H0ELOYk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=mKfAbnicbZPNrqNGEIWVt4lkjdRNG2yyM9hgOwabpmlMb64w3bYxzc_lxxejvEPewXcm0mSZLLLNa9w8SZZhlO1UqXQW31HpLKp-fYr0r9Z5DHFpFvaLiepudZg53fC2KL9Wdcm7pE35n6qqzMaGGlAQBFAFaP41idtYlpeRajNF0aCmafpURTpQ53D6x1XEXKaF2J_Pol6WyWjT0Qim6vxbafqoyvz3NI8v4n-s6FMNqVBH0ylQxkEz9F7z5kM5mC-zOZwrKoJTRZuOWaCqar8c8H758n325bUT9ePjx5No2onoW1EXsZw0pUz5pGnjVkx4nd5FMzmX9SSPky-X6luC72x6z1P-93t1b5_Xy-euk-Lj09vEXGy8jbmJvSMduC27nYWlsK1hZ9EuPmLJTINw2wLs6Dwv8tk1z6t8iuK3Mq7u5-SfH_5d3RPTrBPTC6qKLjHwM975BcuDnFOyNCjPXCu5udAdrGOyvN75etvEa8NPQHsnwwKKXG5IKG-Ebj0f6FE8cMUJYeuiCtDcLfarDASS2Q4oga8wdx-qOF5aZ0KurZC6yyXuXOlAb3DeTgNXk7wHR-Sm-4AewyO28cqq45X-cALW03DrcFCdRXjp8bFEyQqHUVYVQaAr0c1IcQ4bakfAyXXjJHFJFHWKlepA1lUfD8wL0EWNCGZB1tN9KNeOrHYioy2z9V2wpj8LyiihVu7Cq8duDEbBNkys7SsOPUUsvYcDPHX0h3tquW7BMwz09BRQjwAXiZtRR5nuicCKWN4XPuIPCrDqZVRy4JZjno2_xjTM244R4x5kXJLVtmeoHJjFPLzaLk-BZUaU1hFhhAZWzGxukFzGPkp8C2FXHKvrCbgdhvrSQVuI6QKRI9U4sO52ujXw2n3sQ0b4zdU8yneikJQv2Su3mUag28ZFhhywNamk-HPf1OcPsLDU1t9PX3Z6ZZDBEI_1Zn2Yl-RTrze0VMXj7Sc40wHU5uMfjEf5H0ELOYk"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8WqcQ7D6oVd0VO5c6uTiPJmlxCe3szz36iK3ZtGxYR9bJZeLBVrl1yhf_IUBr6ldR0DM2Ps8ppWQ04CT0o6Rk7_RjbUKpL1nz59C0KUMopjpds7biZ8sO",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRGj77Bp2MtyuBjRh6ORUjyPRrKInP7XrHQbcgGLvMacgiVIf4ApZG2EbFv27Di12xoo3RrxcOgWtVxjU6qqDaMIb7zQERnmacn",
+      "source": "Sam's Club",
+      "title": "Sandisk Extreme Portable SSD",
+      "rating": 4.8,
+      "reviews": 3900,
+      "price": "$192.40",
+      "extracted_price": 192.4,
+      "location": "Nearby, 16 mi",
+      "immersive_product_page_token": "jkkwxHicbc5Ljts2AMZxoGfoIQoYAURSz-5GluhHLGlMiRSlzUAyaVs2ZSl62B6jd-gdPEmBdJkU6Fmmp6kLdJn1H_i-3-93Wf09BK-3opmeZi9T1I3-sxWMt8tT87XtGjFuhkp8h46OdAsgADRDd6BjGObXTTEUqtn9VzXHMkwDGoZm6o5hI8P5tpeFUNVJRtut7LxmU4m_gI1sBEzTQhBYugN0Uzf_rOpiJ__vhgEtHdqGpumPPdOwHfjWif4dPk9fbMfSkWZCYCJkWhoC0PztmUTey4_bl0-j7F7ffyllP0zkdZDdqVCTvlGVmPRDMciJ6Kqz7CfbppvUxebLrn0Qvv9g6a2uxDfDelih7dgP3wOoG_pbex7u-93ncVTy_cNlMn1arBfTRbHm7CZmalxhouQM31aYjQUnKp-6iZhhLefBfafuY3_fq7s8_dEU7Xm7-eenn_3m4k37y3RN25Z5RIsR0YivdDnLVwX2dVkfh8ILUe7vP6Yp0CNOQFaHh6K2YY7zfJO4OOPsufRVWvrCXZ8YjVnox7PlKuJ5lbMlWEOVsxPhBfdfS9Cm0m-z1Fvcslqcc8a2FF736zpHFLlZCJSZJGqReC4NEpennBESg7pIL9cVDQ9EhV58dK70FO6zk6viA5kHqLkEGmPZkbRy7hsBd-OACx57LFzRB1JbemmiNJH2oPQxoXOx3GA6lClb0bl6lopeC5zTdM5cBh0SUQ2EHnPDQ9gxvtcj1gbZ8Xp9fCeUE43hfUdVvsqVC8M6bEsqTrGPvTLFRnAMBoLIXFJ1jD1SEExWlCsU-buBHVRKGfGylDGK2y5Lhc_URisZjvIbo-JI0pxjgzH1scSij0_Lm0DuIqBEJQey3tTYo7MGlVDFydEZwjk-M3iMMSKh5O2-1MKRAMcL0BIQ9oQSzkyh4fOsWrpkHr5GaU6zG_E3PJwRiCPm7X2usSGBOVjTfqBK9IyF7udr323ftSdsDHFkNKGtPrTc3XqzUdaftqQ_nyvPQ5zufgWWowHThrpu2fBfFOlD_Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=jkkwxHicbc5Ljts2AMZxoGfoIQoYAURSz-5GluhHLGlMiRSlzUAyaVs2ZSl62B6jd-gdPEmBdJkU6Fmmp6kLdJn1H_i-3-93Wf09BK-3opmeZi9T1I3-sxWMt8tT87XtGjFuhkp8h46OdAsgADRDd6BjGObXTTEUqtn9VzXHMkwDGoZm6o5hI8P5tpeFUNVJRtut7LxmU4m_gI1sBEzTQhBYugN0Uzf_rOpiJ__vhgEtHdqGpumPPdOwHfjWif4dPk9fbMfSkWZCYCJkWhoC0PztmUTey4_bl0-j7F7ffyllP0zkdZDdqVCTvlGVmPRDMciJ6Kqz7CfbppvUxebLrn0Qvv9g6a2uxDfDelih7dgP3wOoG_pbex7u-93ncVTy_cNlMn1arBfTRbHm7CZmalxhouQM31aYjQUnKp-6iZhhLefBfafuY3_fq7s8_dEU7Xm7-eenn_3m4k37y3RN25Z5RIsR0YivdDnLVwX2dVkfh8ILUe7vP6Yp0CNOQFaHh6K2YY7zfJO4OOPsufRVWvrCXZ8YjVnox7PlKuJ5lbMlWEOVsxPhBfdfS9Cm0m-z1Fvcslqcc8a2FF736zpHFLlZCJSZJGqReC4NEpennBESg7pIL9cVDQ9EhV58dK70FO6zk6viA5kHqLkEGmPZkbRy7hsBd-OACx57LFzRB1JbemmiNJH2oPQxoXOx3GA6lClb0bl6lopeC5zTdM5cBh0SUQ2EHnPDQ9gxvtcj1gbZ8Xp9fCeUE43hfUdVvsqVC8M6bEsqTrGPvTLFRnAMBoLIXFJ1jD1SEExWlCsU-buBHVRKGfGylDGK2y5Lhc_URisZjvIbo-JI0pxjgzH1scSij0_Lm0DuIqBEJQey3tTYo7MGlVDFydEZwjk-M3iMMSKh5O2-1MKRAMcL0BIQ9oQSzkyh4fOsWrpkHr5GaU6zG_E3PJwRiCPm7X2usSGBOVjTfqBK9IyF7udr323ftSdsDHFkNKGtPrTc3XqzUdaftqQ_nyvPQ5zufgWWowHThrpu2fBfFOlD_Q"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTnx5HoHEdJJYYAHxG5Hy_8zRM2VQaxiA6uP0ivTGaW8LIbv5ljJIqPfjbUq5TKk7u6P3vC5oGEAGGvfFIYGooMJ25VbcS9U224jOSKvyofyJOUiQ2iyetH",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Lexar SL500 Portable External SSD",
+      "rating": 4.6,
+      "reviews": 123,
+      "price": "$269.00",
+      "extracted_price": 269.0,
+      "location": "Nearby, 14 mi",
+      "immersive_product_page_token": "Duys0nicbZNdrqNGEIWlrCGLiGRFamga3HmzwW3sXLBpoLvNyxWm8W_zczHYGGUP2YPvTKTJ40ykrOVmNXHyPPV4vqqjOiXV74_8-Hfr3Ye0ssv5qw2bbra2vG64TaovdVPJLmuP8tvYgJppIAualgUhQgiAL1napqraPynSDRNhA42hBi08xrphfT3kqVTHMl_tdnnjVNlR_qU9C2OMTGSCp9cYQxP_eSzSff4__4ZNaI2hburY0LAGNWCN3xt5-dDX9utTMzUAkGUgTdeBMQb6b2u6cl6_zz6_dXlz__hpm1_aUd63eVOmanSp1FGOLm3a5iPZHK_5ZbSrmlGRZp_39X8bfMfpvTjKr8gyDVNH0ELQQHgMIX6vr-3jsP_UdSr_-Pk2sieLYGEv0kCwQc5V90KoyudkeCGsSwVViT2N5JyARHiPvXp0l8dBPfLyjyqtr7vsnx9-nFU3x77c7CCua-ZQEJ6klpHlKXMnd15gtFXefSOWgQRaL4BvcM6irEjsECQwiklJQRIGZwK2vH0Tg79KeTVsh31Py4WRnAM9L3qeugr5CvfcVSTVJvecbQwJSBqeaUjdQ588I29PfsGcqRa6Xi953UcuW8WxJLKQS19kRjjDhQDaPeALg-qERZovwhh33gyBxKW7MEqS0PHXCfffuKC7nPhlelqgjNVdKJhYRUHrDSygWtBnc0q4UDQXNN2IwzmGjITEP27O2kvMKVlFcpqWcuOLOpTxDL7wC4qEWmyLW89KakYn5XkF89izP-DqJnnS03NSJDpaZ_oZpkzCjar9mARg6xwW0SkxpWJ6xmmXkGmUgKXDRL2KZ0brnSR6iZe2JKz0IrKOCrSROtnFDnEpPDRxeYAZxyjSW4OV7BTrGkvOqskZLdIyfs7uQwKpn4v6sAV-RzXseHCpUTaBkWDm887X-XE5pa5_X_EklEIyr8BuOqed77IhiBGMh6XJZwb0OAs23J9-6i_N7gNMCGrDlTUAcr6--gPtFsVhyMjNXXmVY7H21_0vmoWBZo51w3h-0L98z0O8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Duys0nicbZNdrqNGEIWlrCGLiGRFamga3HmzwW3sXLBpoLvNyxWm8W_zczHYGGUP2YPvTKTJ40ykrOVmNXHyPPV4vqqjOiXV74_8-Hfr3Ye0ssv5qw2bbra2vG64TaovdVPJLmuP8tvYgJppIAualgUhQgiAL1napqraPynSDRNhA42hBi08xrphfT3kqVTHMl_tdnnjVNlR_qU9C2OMTGSCp9cYQxP_eSzSff4__4ZNaI2hburY0LAGNWCN3xt5-dDX9utTMzUAkGUgTdeBMQb6b2u6cl6_zz6_dXlz__hpm1_aUd63eVOmanSp1FGOLm3a5iPZHK_5ZbSrmlGRZp_39X8bfMfpvTjKr8gyDVNH0ELQQHgMIX6vr-3jsP_UdSr_-Pk2sieLYGEv0kCwQc5V90KoyudkeCGsSwVViT2N5JyARHiPvXp0l8dBPfLyjyqtr7vsnx9-nFU3x77c7CCua-ZQEJ6klpHlKXMnd15gtFXefSOWgQRaL4BvcM6irEjsECQwiklJQRIGZwK2vH0Tg79KeTVsh31Py4WRnAM9L3qeugr5CvfcVSTVJvecbQwJSBqeaUjdQ588I29PfsGcqRa6Xi953UcuW8WxJLKQS19kRjjDhQDaPeALg-qERZovwhh33gyBxKW7MEqS0PHXCfffuKC7nPhlelqgjNVdKJhYRUHrDSygWtBnc0q4UDQXNN2IwzmGjITEP27O2kvMKVlFcpqWcuOLOpTxDL7wC4qEWmyLW89KakYn5XkF89izP-DqJnnS03NSJDpaZ_oZpkzCjar9mARg6xwW0SkxpWJ6xmmXkGmUgKXDRL2KZ0brnSR6iZe2JKz0IrKOCrSROtnFDnEpPDRxeYAZxyjSW4OV7BTrGkvOqskZLdIyfs7uQwKpn4v6sAV-RzXseHCpUTaBkWDm887X-XE5pa5_X_EklEIyr8BuOqed77IhiBGMh6XJZwb0OAs23J9-6i_N7gNMCGrDlTUAcr6--gPtFsVhyMjNXXmVY7H21_0vmoWBZo51w3h-0L98z0O8"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQXzWncNFwu-0S_CrR9P7klJ02VCCxljkgPs2pDwNTLt7GSUm1u7LnxVVOJIV9yFmQF0eG685bavIsnmSa63AMbb5BEwgOepECxyktuirBum6_dF6FJvwmu4A",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR_9P-SCeD0_PCPpIFMVaBcPBZE201F2VNk9fWPCthlviVyFVW2BLwCKKRmCB1PC2Js5KzV0DK-nSvAk3eTGnxrgB7Jfk_T",
+      "source": "Altex Electronics",
+      "title": "Samsung T7 Shield Portable",
+      "rating": 4.8,
+      "reviews": 9400,
+      "price": "$309.99",
+      "extracted_price": 309.99,
+      "location": "Nearby, 13 mi",
+      "immersive_product_page_token": "4Jy1fXicdZLRjqM2FIalPkMfolJUyTYYkt5NAmaTGSABbBPfjBzsBAIJbAIJQX2HvkNmt9L2crdSn2X6NE33ur060vl-_fqOdH676-Kv1r8Nsp4dvdeZcercpe13w_Wp_tKcatVlbaG-YTgG2LCQAScTBJAFMPqSyVZW9a5Qf0IbmCYaP8bYxHg8seDY_JprqariqMPtVp-cOvs3hzGyDAxsw8ATCMcGtu0_ioPc6e_8m41tZEMEbPMBrDE08PjtpM7v5nL2Cg0Lm4YNHntkIRNMJob56zIKndf_gZ8_dvp0e_9po8_tSPetPh1lNTrXVaFG51a2eqROxUWfR9v6NDrI7POu-e74H1Vvh0J9xbZlWo8jIQAPMzi2zbfm0t7z3aeuq_T7z9fR7Gm-ms_mcpWyQXlV90KiSntkeCGsk2lUidk0UR4BIvXvu-rene95ddfH32vZXLbZ3z_86NZXZ3a-zla0aZgTgZiJUJXXXtHeit22pInaZ1wQXc2HNVBF5ooyrqixQpCseFBS3gDfDc4iqRbcyb3Mi3oKCZBeu6Ro4bHBHTKYTyVv1nrPnrVXLWjqX3XJSl5FHj_m2EesoYfcpSVp47S5ylL04gCQAAuYGHmawEXC90IGrFllrmIrkM8ilxWbQTG1r3jCHmAvrsLFid4vaHKocGpELzGCPgP90gcAS8K4gARLT5xWh14yVqKAk2fqqQtPWciICITDrIy3hqiebiFjPC7hcV3mQegRSdkaxDd4y_asiw6LjxQELHMnH6OSNNK7wg3tkTqyhUCKBzzf0oHdNo6imxK2smRr_6gasRf9ymD9C4etJgTqZI642_LgkD9TFFxiJ2oEhZKBvPfJxGO0RBsi6o0z79csmMUxwHTYIQUgTXi_jAEM17yOiREFOm3yDQi6CE4c31jAiD0ZScosBcjFKxbT6ENwC7lI1nDK1pBMFc1b6fqmSKc8OgZpRPs4ZFP0kkynn_rzafsOnghu49AeACkvr8EQdfNDPmTk-iH0a8dm7fPuF2hPAHx8rWnaY-MfH7lGNg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4Jy1fXicdZLRjqM2FIalPkMfolJUyTYYkt5NAmaTGSABbBPfjBzsBAIJbAIJQX2HvkNmt9L2crdSn2X6NE33ur060vl-_fqOdH676-Kv1r8Nsp4dvdeZcercpe13w_Wp_tKcatVlbaG-YTgG2LCQAScTBJAFMPqSyVZW9a5Qf0IbmCYaP8bYxHg8seDY_JprqariqMPtVp-cOvs3hzGyDAxsw8ATCMcGtu0_ioPc6e_8m41tZEMEbPMBrDE08PjtpM7v5nL2Cg0Lm4YNHntkIRNMJob56zIKndf_gZ8_dvp0e_9po8_tSPetPh1lNTrXVaFG51a2eqROxUWfR9v6NDrI7POu-e74H1Vvh0J9xbZlWo8jIQAPMzi2zbfm0t7z3aeuq_T7z9fR7Gm-ms_mcpWyQXlV90KiSntkeCGsk2lUidk0UR4BIvXvu-rene95ddfH32vZXLbZ3z_86NZXZ3a-zla0aZgTgZiJUJXXXtHeit22pInaZ1wQXc2HNVBF5ooyrqixQpCseFBS3gDfDc4iqRbcyb3Mi3oKCZBeu6Ro4bHBHTKYTyVv1nrPnrVXLWjqX3XJSl5FHj_m2EesoYfcpSVp47S5ylL04gCQAAuYGHmawEXC90IGrFllrmIrkM8ilxWbQTG1r3jCHmAvrsLFid4vaHKocGpELzGCPgP90gcAS8K4gARLT5xWh14yVqKAk2fqqQtPWciICITDrIy3hqiebiFjPC7hcV3mQegRSdkaxDd4y_asiw6LjxQELHMnH6OSNNK7wg3tkTqyhUCKBzzf0oHdNo6imxK2smRr_6gasRf9ymD9C4etJgTqZI642_LgkD9TFFxiJ2oEhZKBvPfJxGO0RBsi6o0z79csmMUxwHTYIQUgTXi_jAEM17yOiREFOm3yDQi6CE4c31jAiD0ZScosBcjFKxbT6ENwC7lI1nDK1pBMFc1b6fqmSKc8OgZpRPs4ZFP0kkynn_rzafsOnghu49AeACkvr8EQdfNDPmTk-iH0a8dm7fPuF2hPAHx8rWnaY-MfH7lGNg"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcShY2s8Z3iYzwBKbPHFsi6XrvleszBM3vGXuT1_mwhrApaNCJRWduuDkTpCIxvqAqD_GgeajA0cX3wJFQ5Z2KHjNcZp8ASoKPiBZhTophPPNFP2FwSmbVfN",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Samsung Portable SSD T9",
+      "rating": 4.7,
+      "reviews": 3000,
+      "price": "$489.99",
+      "extracted_price": 489.99,
+      "location": "Nearby, 17 mi",
+      "immersive_product_page_token": "vt_FZ3icdZFBjqNGGEalnCGHiGSNVFUUZZidDRQ23eB2GQqGTQtTZYMpDG3AdqPcIXdwz0SaLGdGylk6p4k162T56z09fdL_x02Wf_f-65g11tF9trTT4DxN_WG8zJqv7akRQ96X4jskuqlrGtSxaQBiaAiTr3nWZ6rZ3ymCGjCBqQECCUCAAAN_K2QmVHmUq91Onuwmv2tTQjDUTaBPMYEG1O-Vv8o628uf-AfUIIIIATyFhkkIwJDgt5Po3vGT9QwhxnB6V-5xaOpTg-j49ye2sp__B355GeTp9f23rez6ibz28nTM1KRrVCkmXZ_1ciJO5Vl2k11zmtRZ_mXf_hzxH6m3uhTf9CnBBBmmTuAU6MiE5lt77m_F_vMwKPn-4TKxZsv10lpm64SPwlXDI2VKunR8pHzIEqZSax4Kl4I08W97dRu6W6Fu8vhnk7XnXf7PL786zcW2uou1jtqW2wxsaorzhOPYBZf8IHayXkOepF64mB9z0LuriBZbzfPiQ-DGJbyEqH9gdYO3Easil24iZS43C14xWhy5YstAzUd5nPuihgOLryCq0ws_sk_-wVulY0ri-rpgDn8I6wjlwOt8roiM1SJHZsa56YY8bfKjqBmdXcIwwL7WJqkTdNzpk7QqAv_A51nFPA5o4dsVEAenZ5R2KQp2GVIXxk1NLHyc3v3c6WMBTStwMRKHtNo4Ri8dfQiUB9KQvaRA9yJXXyWA1j4t6Oag7I0q1rEjIEe9s60VjRbNKBci3lIW5tpcy5Oqz6M9TJMUrI9tk1cYhFw8ZUnAglrFG5T221GsYtu5xqoYoyqoU5qqoNLDvAYgiL3L_Vqx0ZuLQ6G4mqEgpmg9KphRXiTQfIjrdsUiYedOaz3G10ffguTT_aUsChDj1YZqLJBJW2xBMDBo2r7mQcZnWphwIgA9u6U3Z4vgdRWnLHbal9AtxowKnoDqNbU9utbaMqv0IjssQbSYs8_X7rR7BzOq95uV3gSG-tAm853tDrJ-2bHufC5tW0ui_Uc4NQEkBsJ4aqB_ASuMRO8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=vt_FZ3icdZFBjqNGGEalnCGHiGSNVFUUZZidDRQ23eB2GQqGTQtTZYMpDG3AdqPcIXdwz0SaLGdGylk6p4k162T56z09fdL_x02Wf_f-65g11tF9trTT4DxN_WG8zJqv7akRQ96X4jskuqlrGtSxaQBiaAiTr3nWZ6rZ3ymCGjCBqQECCUCAAAN_K2QmVHmUq91Onuwmv2tTQjDUTaBPMYEG1O-Vv8o628uf-AfUIIIIATyFhkkIwJDgt5Po3vGT9QwhxnB6V-5xaOpTg-j49ye2sp__B355GeTp9f23rez6ibz28nTM1KRrVCkmXZ_1ciJO5Vl2k11zmtRZ_mXf_hzxH6m3uhTf9CnBBBmmTuAU6MiE5lt77m_F_vMwKPn-4TKxZsv10lpm64SPwlXDI2VKunR8pHzIEqZSax4Kl4I08W97dRu6W6Fu8vhnk7XnXf7PL786zcW2uou1jtqW2wxsaorzhOPYBZf8IHayXkOepF64mB9z0LuriBZbzfPiQ-DGJbyEqH9gdYO3Easil24iZS43C14xWhy5YstAzUd5nPuihgOLryCq0ws_sk_-wVulY0ri-rpgDn8I6wjlwOt8roiM1SJHZsa56YY8bfKjqBmdXcIwwL7WJqkTdNzpk7QqAv_A51nFPA5o4dsVEAenZ5R2KQp2GVIXxk1NLHyc3v3c6WMBTStwMRKHtNo4Ri8dfQiUB9KQvaRA9yJXXyWA1j4t6Oag7I0q1rEjIEe9s60VjRbNKBci3lIW5tpcy5Oqz6M9TJMUrI9tk1cYhFw8ZUnAglrFG5T221GsYtu5xqoYoyqoU5qqoNLDvAYgiL3L_Vqx0ZuLQ6G4mqEgpmg9KphRXiTQfIjrdsUiYedOaz3G10ffguTT_aUsChDj1YZqLJBJW2xBMDBo2r7mQcZnWphwIgA9u6U3Z4vgdRWnLHbal9AtxowKnoDqNbU9utbaMqv0IjssQbSYs8_X7rR7BzOq95uV3gSG-tAm853tDrJ-2bHufC5tW0ui_Uc4NQEkBsJ4aqB_ASuMRO8"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRgoGRUDKiMWA8OIbDhBfcSUlh15VdE93qRbzviDTVih6EjyLlKavo24ZnigGfFmxqjzALUlrSJhtlghpAgxXN5HXUqGCTYmuy1Hrrh4USWTJWN-f2NGLJXdA",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRN6rgMzzLN4cpTdY8blQrdl3Z6laieLNDK3IIuETyqUfBjml9mGPUPPPpOrty5UP1johPBK16A_ZUWEDroRRqdFyKb2lG2U5XZTsECEEe19yQ",
+      "source": "PayMore Great Hills",
+      "title": "Samsung SSD Portable T7 MU-PC",
+      "rating": 4.8,
+      "reviews": 14000,
+      "price": "$239.99",
+      "extracted_price": 239.99,
+      "location": "Nearby, 14 mi",
+      "immersive_product_page_token": "N6pXaXicdZNdjqNGFIWlrCGLiGSNVEXxY_JmjMFNDDTlooB6aWGqbGwXmObHPyh7yB7cM5FmHmdGylo6q4kzz8nr_XSuzj1H94-72P_V-7cxP81r92WO2mHxbPjDeJmdPjftiQ9Fv-ffoapCUzF1HWoAQFVTplP1c5H3uTzt_sXAAJoJTEMxTRNCTdNN82spci73tQi3W9Hap2LPv6GpoWiagaA-NVRDM3RD_7Kv8p34gb8_lMjQkArQFCnQAMCA5lvLu3f1ef4CVYgeQgWoSJ0iBKCiqb8_49B--R_46XUQ7e39l43o-om49qKtcznpTnLPJ12f92LC2_1ZdJPtqZ1UefFp1_ww8R-r3qo9__qwq-qKApDxOFQ3H_O35tzfy93HYZDi_cNlMp89RU_zpzxK6chdOawcLIXrjCuHDnmKJZtbhLsOYKl_38n70N1LeRf1n6e8OW-Lv3_6eXG62PPuMo_ipqE2BsT1b8wuyxg0XbC0ovwomTh4ZJNo3ibuSV7B8xo4ARlno1hc5-nI1hg6nThwRpCVJUcGKSkPcY2vIcGvJOFBsgiugmIg4iDORv-K4wZmCYuCqkQr4uHo4GSb2loSMtNiVMAVkaof04BKRjKCzwThoQD9MSSUJIQrnHr2huBISGcIHaZhxYSi9sJEOmrueitWmeMGUC9Y8gNPOAltx2c0qH1If4sqH2TH3hHHwPfrMl_XPGJS0iTpq4ywdl1bgC68V7qkDkuaY0Ccnu2hTQkOg6pRKJyizeEJbY6aJKmXZsBLU0Sfccr8AFGrOJROMM76otIqLo8go14VU5mTuoS-qyF8gwoDUxRSrlMXWplyvQriVczm0qf4kSu3qCwJX5SvRZqNGbEATxdqnhyV0O1RFFPMiOXzSqZ5WqhcKdYOwoFIm3IDggFD0_aRBzGdIZJSnQPn7O49Cy-DW5gwHC60dmOXOluUlIII0EfP1NW2PnX0R-YNT6n18dq123cwc7R-Hao7u1W6G76IrWDuB3pxmphDP9gt_OhXaJjg8VmKqk6n8B8VZkRT",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=N6pXaXicdZNdjqNGFIWlrCGLiGSNVEXxY_JmjMFNDDTlooB6aWGqbGwXmObHPyh7yB7cM5FmHmdGylo6q4kzz8nr_XSuzj1H94-72P_V-7cxP81r92WO2mHxbPjDeJmdPjftiQ9Fv-ffoapCUzF1HWoAQFVTplP1c5H3uTzt_sXAAJoJTEMxTRNCTdNN82spci73tQi3W9Hap2LPv6GpoWiagaA-NVRDM3RD_7Kv8p34gb8_lMjQkArQFCnQAMCA5lvLu3f1ef4CVYgeQgWoSJ0iBKCiqb8_49B--R_46XUQ7e39l43o-om49qKtcznpTnLPJ12f92LC2_1ZdJPtqZ1UefFp1_ww8R-r3qo9__qwq-qKApDxOFQ3H_O35tzfy93HYZDi_cNlMp89RU_zpzxK6chdOawcLIXrjCuHDnmKJZtbhLsOYKl_38n70N1LeRf1n6e8OW-Lv3_6eXG62PPuMo_ipqE2BsT1b8wuyxg0XbC0ovwomTh4ZJNo3ibuSV7B8xo4ARlno1hc5-nI1hg6nThwRpCVJUcGKSkPcY2vIcGvJOFBsgiugmIg4iDORv-K4wZmCYuCqkQr4uHo4GSb2loSMtNiVMAVkaof04BKRjKCzwThoQD9MSSUJIQrnHr2huBISGcIHaZhxYSi9sJEOmrueitWmeMGUC9Y8gNPOAltx2c0qH1If4sqH2TH3hHHwPfrMl_XPGJS0iTpq4ywdl1bgC68V7qkDkuaY0Ccnu2hTQkOg6pRKJyizeEJbY6aJKmXZsBLU0Sfccr8AFGrOJROMM76otIqLo8go14VU5mTuoS-qyF8gwoDUxRSrlMXWplyvQriVczm0qf4kSu3qCwJX5SvRZqNGbEATxdqnhyV0O1RFFPMiOXzSqZ5WqhcKdYOwoFIm3IDggFD0_aRBzGdIZJSnQPn7O49Cy-DW5gwHC60dmOXOluUlIII0EfP1NW2PnX0R-YNT6n18dq123cwc7R-Hao7u1W6G76IrWDuB3pxmphDP9gt_OhXaJjg8VmKqk6n8B8VZkRT"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTIAf92S7YFiHixbLmo980iRLembLzGn8WNbELHbFsT4Vft1dODgFO5lbahMA8UpctPq-vqL46j7jBV1TRTle42aJhBDh8dWfoRPAZiQET3Eb2pzs8z_vlUqw",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJfOWfy6EV2D7ZUwQE7XvcGjwUGOwpvtGQ95qi7dkm3JFK45DLRGwgRM2NAh72levSrphwlC5FMNLvDsm9bUOEwtortrQyBdCxq8w",
+      "source": "Office Depot",
+      "title": "SANDISK Portable SSD Solid State Drive V3",
+      "rating": 4.8,
+      "reviews": 16,
+      "price": "$225.99",
+      "extracted_price": 225.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "Pj2afnicbZJbjqNGGIWlrCGLiGSNVEWBgby5uY2JKZuCKi4vLUyVgXEZ01zaNsoesgfPTKTJ40ykrKWzmnikPM7Tkc4nnf9I5__jLpp_xuA2F2er9Z4t1E_OTg-m-bI6f-n6M5_KseF_QwCBqSOAlqZhGEsNIqh8KYuxkOeq4d-WmqaZmg71B9QBVBGAX2tRcNm0Yns4iN4-l99TFENHqqkDDemGDjVdQ-iv5lRU4n9uQB0YSHsoUJeqgkxF-djz4U3ZWc8qMlRT0TUNqXD5uGNq6u87srWff8w-v0yiv739shfDuBDXUfRtIRfDWTZ8MYzFKBa8b17FsDic-8WpKD9X3aPCtx8kfTw1_KumL9WlYphQ0RRNR8bD7l7He119miYp3t5dFtZqHa6tdRGmbOaenDYukcJz543LpiIlMreeYu65IE-DeyXv03Cv5V20f56L7vVQ_vvTz875YlvDxQpp1zGbgIj6yd4OtCyROf_AM8pKlCprGLSVGirsJWy7OoTdjsZMEppPpTPiJF3NlOVRDHGyddyZKSPLj52THbFTMtMiDoCRN9qcDiO28SZrn4YUsQ1tOQiTbqIebDaUbwL4dMSwe9lasOMS24XHpz0qZ-GSjDp5k1Ey4bbuCinbDHWYUIZThcOyzWbi4Vowf52kZCjcrk2hjMJjR2I7BPTIt9Fx_JDNtVek5ZWdIMwhibMEkjJdQ4z8EbN8S2ht49nf5NK4Ea_eJAnPse36gnKfH_EuR87M6flSAJ6XiXPb0_U1p_AWObJnbnWNPE45qIPEfiriFP9WSqphRrwMysMe1DEH0iKsW5JjhcqYka2TBw9BD29IWqxmxxozb5wLoPVhnM_Mzb-PWWMHUgy6qGyZlZ_kNQVyV5zMC2v9WHhV5CKCRdrVe4AnAk07QD4kbIXilC05cF-9xn8i7_Ftm-QkUoBCbQzE-_paAnLZQ9aESjflkuwi5GdbarafrkN_eAMrVxujrVrZvTLcyEUcRO69Yxe3oxwGuHKC8Feom-DxsYqqGgb8D24pRlc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Pj2afnicbZJbjqNGGIWlrCGLiGSNVEWBgby5uY2JKZuCKi4vLUyVgXEZ01zaNsoesgfPTKTJ40ykrKWzmnikPM7Tkc4nnf9I5__jLpp_xuA2F2er9Z4t1E_OTg-m-bI6f-n6M5_KseF_QwCBqSOAlqZhGEsNIqh8KYuxkOeq4d-WmqaZmg71B9QBVBGAX2tRcNm0Yns4iN4-l99TFENHqqkDDemGDjVdQ-iv5lRU4n9uQB0YSHsoUJeqgkxF-djz4U3ZWc8qMlRT0TUNqXD5uGNq6u87srWff8w-v0yiv739shfDuBDXUfRtIRfDWTZ8MYzFKBa8b17FsDic-8WpKD9X3aPCtx8kfTw1_KumL9WlYphQ0RRNR8bD7l7He119miYp3t5dFtZqHa6tdRGmbOaenDYukcJz543LpiIlMreeYu65IE-DeyXv03Cv5V20f56L7vVQ_vvTz875YlvDxQpp1zGbgIj6yd4OtCyROf_AM8pKlCprGLSVGirsJWy7OoTdjsZMEppPpTPiJF3NlOVRDHGyddyZKSPLj52THbFTMtMiDoCRN9qcDiO28SZrn4YUsQ1tOQiTbqIebDaUbwL4dMSwe9lasOMS24XHpz0qZ-GSjDp5k1Ey4bbuCinbDHWYUIZThcOyzWbi4Vowf52kZCjcrk2hjMJjR2I7BPTIt9Fx_JDNtVek5ZWdIMwhibMEkjJdQ4z8EbN8S2ht49nf5NK4Ea_eJAnPse36gnKfH_EuR87M6flSAJ6XiXPb0_U1p_AWObJnbnWNPE45qIPEfiriFP9WSqphRrwMysMe1DEH0iKsW5JjhcqYka2TBw9BD29IWqxmxxozb5wLoPVhnM_Mzb-PWWMHUgy6qGyZlZ_kNQVyV5zMC2v9WHhV5CKCRdrVe4AnAk07QD4kbIXilC05cF-9xn8i7_Ftm-QkUoBCbQzE-_paAnLZQ9aESjflkuwi5GdbarafrkN_eAMrVxujrVrZvTLcyEUcRO69Yxe3oxwGuHKC8Feom-DxsYqqGgb8D24pRlc"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTboyc14nw4rNDzyILgWvrHksRXfjz1AODrso4fWAoz2WPe1KityjtYXyEenITVlwxMuY25pyJ1Wtsg6gcgf0igtMMIBtz2R3LSJfzz3jS18RrGzMB9YCEd",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJfOWfy6EV2D7ZUwQE7XvcGjwUGOwpvtGQ95qi7dkm3JFK45DLRGwgRM2NAh72levSrphwlC5FMNLvDsm9bUOEwtortrQyBdCxq8w",
+      "source": "Office Depot",
+      "title": "Extreme Portable SSD SanDisk",
+      "rating": 4.8,
+      "reviews": 14000,
+      "price": "$624.99",
+      "extracted_price": 624.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "yiuqIHicbZPNjqNGFIWlPEMeIpIVqX74za5tA27UgCmggNq0MJRt7CpM89N2o7xD3sE9E2lmObPIs3SeJiTZzvpcfffec3T-uPP6r8F7m4rLqnGeV7gbra3ujdP14fKl7S7VWA519V01TUPRgaEbqmIYSFMM8KUshkJcDrOqYKhpmooQghBoWDFV89uRF5WoGx7s97xbX8r_ICqeIUDXFRNCXTNN82stiwP_X0ZgJgMdaoaCMDJUCPF7V_UfaLt6VnRoAF3TgGki1dQBxvj3LQnWzz_WPr-MvHv7-GXH-2HBbwPvmkIs-ouoq0U_FANfVF39yvvF_tItZFF-PrT_XvAD0rusq2-qrika0g2oAogMgHT83r4O9-Ph0zgK_vHrdbF6eAwfV49FmNGpcsT4ZBPBHXt6sulYZESw1TKuHBuwzLsfxH3s70dx582fl6J93Zd___SzdbmuV_11FSZtS9cERLLCwcadooz06aa9RtlyiE9-Fzjt0neGwc_Ek2-ZjGfiJZcQeqmflMg_x_QoA5sRimbGJlRI9jAEa3GNzrlCLCpjIRJ-IlmYknWaeSg_C9fLWFM5LC7wsfXEckuh--JJhhgimxy7tW_b52ojbF_60HPMJpzsEzkxi0ISMtt8K5oj5Y7Qomlp58ltQxqXkWZ5zucpL6kkTf3X-Z86peFt19A-ASotVvAlRjZiqaWylByTtFKDCEB2brdJSjsa-_s4sabylKMQiyhO3JeosSWl1ZFNx6FMxC0_zabKm-vJNiNoaEtprqKmzah0x9hiMkiu6g71kEqzTSzT3oHW86mtEMkeqeyVXIqNN7kZy-iSUrotnVvmv8E-jH2nQGrE7XzgUvUTWdF03pRjPw5xWyfIpXkjlgWypvisFmT2kYsysjHxedYed8AfCTTXHnYhoQ84zqhWAfvVqd0l2fhvQcri3fmmBNZl8JtcrWioFtD153zyiLYFQwfsQYE_3fpu_wEebHWIAi3iemE9KyOzDI_LE6pHJYuuW-26vf4GdRPMvUHKXE7wDxiFRbg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yiuqIHicbZPNjqNGFIWlPEMeIpIVqX74za5tA27UgCmggNq0MJRt7CpM89N2o7xD3sE9E2lmObPIs3SeJiTZzvpcfffec3T-uPP6r8F7m4rLqnGeV7gbra3ujdP14fKl7S7VWA519V01TUPRgaEbqmIYSFMM8KUshkJcDrOqYKhpmooQghBoWDFV89uRF5WoGx7s97xbX8r_ICqeIUDXFRNCXTNN82stiwP_X0ZgJgMdaoaCMDJUCPF7V_UfaLt6VnRoAF3TgGki1dQBxvj3LQnWzz_WPr-MvHv7-GXH-2HBbwPvmkIs-ouoq0U_FANfVF39yvvF_tItZFF-PrT_XvAD0rusq2-qrika0g2oAogMgHT83r4O9-Ph0zgK_vHrdbF6eAwfV49FmNGpcsT4ZBPBHXt6sulYZESw1TKuHBuwzLsfxH3s70dx582fl6J93Zd___SzdbmuV_11FSZtS9cERLLCwcadooz06aa9RtlyiE9-Fzjt0neGwc_Ek2-ZjGfiJZcQeqmflMg_x_QoA5sRimbGJlRI9jAEa3GNzrlCLCpjIRJ-IlmYknWaeSg_C9fLWFM5LC7wsfXEckuh--JJhhgimxy7tW_b52ojbF_60HPMJpzsEzkxi0ISMtt8K5oj5Y7Qomlp58ltQxqXkWZ5zucpL6kkTf3X-Z86peFt19A-ASotVvAlRjZiqaWylByTtFKDCEB2brdJSjsa-_s4sabylKMQiyhO3JeosSWl1ZFNx6FMxC0_zabKm-vJNiNoaEtprqKmzah0x9hiMkiu6g71kEqzTSzT3oHW86mtEMkeqeyVXIqNN7kZy-iSUrotnVvmv8E-jH2nQGrE7XzgUvUTWdF03pRjPw5xWyfIpXkjlgWypvisFmT2kYsysjHxedYed8AfCTTXHnYhoQ84zqhWAfvVqd0l2fhvQcri3fmmBNZl8JtcrWioFtD153zyiLYFQwfsQYE_3fpu_wEebHWIAi3iemE9KyOzDI_LE6pHJYuuW-26vf4GdRPMvUHKXE7wDxiFRbg"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS60rcyNvaRxGoOvDSBQP1bxwoO6bCOXzp-hiVz63DA1AOljfNsk3_gWjtM8-usCoyAt4u9ShhSLaF1MgtjziLGQTPR0IDcs2EIGlcTCj7SqT3XaNEQ7BsgKw",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR-cW1naOaUQunT9PD80pusfvca6zr3VxP8YYlA2DCuAKL1DnKybjPwXX2T_VYdDRVrrZdKD5a0hSQkBM4qGV3OmiJo3Wtr6WZzhRWW-GIj0A",
+      "source": "PayMore Round Rock",
+      "title": "Kingston IronKey Vault Privacy 80 IKVP80ES/",
+      "rating": 3.9,
+      "reviews": 50,
+      "price": "$309.99",
+      "extracted_price": 309.99,
+      "location": "Nearby, 17 mi",
+      "immersive_product_page_token": "IJvWhHicdZNNrqNGFIWlrCGLiGRFqh8KQ2bPNtiPNtguqgrM5AlTZYP5jQGDrewhe3B3R-oMOy1lLS-ridXjZHjP0fl0dK_u7w-V_d25t3tcz6vl2xxfems7dfv78FJ_aS617JMuk3_p0DB1SDSNmCYmBsFY-5LEXVzUp0x-g5oJoIkQ0QhGmq7hqUm-piqWRVapzfGoLos6yeRXDM0pRMgAOsEEAWzof2ZlfFLf3W8QYTA1EIBwaupPDjTg9ONFtu_adv4GsYEBMKCpE1PTESH6FP62pZvF2_-Yn3_t1eX2_tNBtd1EjZ26VHExaesik5O2izs1kZfsqtrJsb5Myjj5fGq-l_gP1Mfy2Z1M9eesT00Da1gjOgEfm2v3SE-f-r5Q7z8Pk_nL6-51_hrvQnGXy6Jf27RQS_u-tkUfh7SI5jMmlzaIQvdxKh59-0iLh6r-qOPmekz--eFHqx4W83aY73jTiAUFPmoJs-yWVcmdo7Ri3NtKwAcq8tHnWqcCT8R3MRMBjEMgkc9TRy5fR16Yszgo0qAqwsM9GpiVD8kiWnloxBLR3AudMbEbV1mn5wWbvbTzu281dbCyuz13qoMdlbtzymTgELlssSu8e2ybswhBzqwGuUExbGynYxVdR3nTCtFEHpJAZLAV9xQfhLdhtl3y1Q4x-EoOlQzd0GnZqgkoIjzOpcfPJ823k3ETmCNd5CAuo8hdzUrGvILxaC7zgSjbCYLzU4O08oNmFaxmtWBy45-d1OWijspGSCYungUGl4lbsvJ2XmBueS5yXja2L2zshw50MV3vyoT4VT4oFuVrUfjU8p67hU5SNBVFETxAkQrsbH3oXEXRXNnSW6tqPwaBvedgZIfVjMt8PLNldNuVUBOCxmtGLcq8D4eCdnuYFok1-Damngqb9AC8nkJz4WIHUvGCWSh0CezrMnNmdOXdNkFEaR6hZx5TSwYM75F_g_OYyw984e3p0jly4c0-je3l-A5ebNL5G91X09h60_rIMlxVnlHWa6E_bPVhO_zy_BoAdQNpmmGAfwFof0Zt",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=IJvWhHicdZNNrqNGFIWlrCGLiGRFqh8KQ2bPNtiPNtguqgrM5AlTZYP5jQGDrewhe3B3R-oMOy1lLS-ridXjZHjP0fl0dK_u7w-V_d25t3tcz6vl2xxfems7dfv78FJ_aS617JMuk3_p0DB1SDSNmCYmBsFY-5LEXVzUp0x-g5oJoIkQ0QhGmq7hqUm-piqWRVapzfGoLos6yeRXDM0pRMgAOsEEAWzof2ZlfFLf3W8QYTA1EIBwaupPDjTg9ONFtu_adv4GsYEBMKCpE1PTESH6FP62pZvF2_-Yn3_t1eX2_tNBtd1EjZ26VHExaesik5O2izs1kZfsqtrJsb5Myjj5fGq-l_gP1Mfy2Z1M9eesT00Da1gjOgEfm2v3SE-f-r5Q7z8Pk_nL6-51_hrvQnGXy6Jf27RQS_u-tkUfh7SI5jMmlzaIQvdxKh59-0iLh6r-qOPmekz--eFHqx4W83aY73jTiAUFPmoJs-yWVcmdo7Ri3NtKwAcq8tHnWqcCT8R3MRMBjEMgkc9TRy5fR16Yszgo0qAqwsM9GpiVD8kiWnloxBLR3AudMbEbV1mn5wWbvbTzu281dbCyuz13qoMdlbtzymTgELlssSu8e2ybswhBzqwGuUExbGynYxVdR3nTCtFEHpJAZLAV9xQfhLdhtl3y1Q4x-EoOlQzd0GnZqgkoIjzOpcfPJ823k3ETmCNd5CAuo8hdzUrGvILxaC7zgSjbCYLzU4O08oNmFaxmtWBy45-d1OWijspGSCYungUGl4lbsvJ2XmBueS5yXja2L2zshw50MV3vyoT4VT4oFuVrUfjU8p67hU5SNBVFETxAkQrsbH3oXEXRXNnSW6tqPwaBvedgZIfVjMt8PLNldNuVUBOCxmtGLcq8D4eCdnuYFok1-Damngqb9AC8nkJz4WIHUvGCWSh0CezrMnNmdOXdNkFEaR6hZx5TSwYM75F_g_OYyw984e3p0jly4c0-je3l-A5ebNL5G91X09h60_rIMlxVnlHWa6E_bPVhO_zy_BoAdQNpmmGAfwFof0Zt"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQIBv-rEY3Mf4uufi5GGI2XCfWXZkS0WrTYLvJxJJea1q5cpCp1vT3NzP4wBhdMITkM2yMsKqxvmnuZd9X5Y1QKa5eDZdRQ4sBNLje1O7sZ61Aeey-4r1tg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJfOWfy6EV2D7ZUwQE7XvcGjwUGOwpvtGQ95qi7dkm3JFK45DLRGwgRM2NAh72levSrphwlC5FMNLvDsm9bUOEwtortrQyBdCxq8w",
+      "source": "Office Depot",
+      "title": "Sandisk Portable Drive",
+      "rating": 5.0,
+      "reviews": 12,
+      "price": "$154.99",
+      "extracted_price": 154.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "sjFsZnicbZBbjqNGGIWlrCGLiGRFquLOvLUxBSYNmAKKMi-tMoUNbS42Fxuj7CF7cM9EmjxOImUtndXEreQpin6dp0_6dM7_yz0v_xzc28xao7FeDLEbzY3qjvP1qf166lo-ZkPJf9c1TZGABCCUVKCKiqaDrxkbWNUeHlQBmg41SfwgkqCosq5_K3LGq7LJ_f0-71ZtVvI_INBUEYgSVBRFlB4SSQe_lTU75P9ySZEflgdXdQFokipC9a3j_buwMV4eDaAMJF14nCrLUJa1nzfYX738P_tyHvPu9v7DLu-HRT4NedewatG3VckX_cCGfMG78pL3i33bLWqWfTmcsn92_tf0Vpf8m6wqkiI8VuqCqqmSLOtvp8twLw6fx7HK33-8LoyndbA21iygZOZWNT4jXOUWmp8RGRnFVWosI24hkFL3fqjuY38vqnve_Nqy02Wf_fXd92Z7XRn91Qji04msMIjQMvSAvk1qGfuJLlDBFWJamL41BF4It5noXCKbUN_CMxYdkBBvv7PNmVE0JQ1vd_EQ-kkrM5FEW8oxLyHLLGztKDrG5rQORIxC21tmUbF-pHdN7qeAtJiY0g55jJOl75kk8WowxFFqZohstkfCOCT-tnGYR_TOExFiIm8DAbtRCSsvmWYOCyOysYSJO6XQAx89UoqhWwUTF3ifmLoX3eCZNK2QJtxwjY8t7YwRoqHobROTrOI6nuMmFkNY0TiBZmy1MKNIDuupi1coSo-DG60cwutpjkm64RCtMju7-VHh4zi77azUyV5xG9T6JoXpOTS3MEoe_7CdejeTm0sPtxTqsYeWcpbwbX5MYw7ks0eOMAJ6xENwo9CZc0QYe-U0Fk80SPhPLnCcAPAprYsuo8Utbio5bpxlYi-VpGpDJGIvp6diB7wRQ33lig7E5EmMKFE4QBerdJbY9m5-koYY4jM_khMXqiIWKiWlnBAb44CgZ2ynRoi85vPUd_t38ITkR3clzFVmvkhjampuXr8K5SjR8LpRrpvrJ6jqACqaIEmaBv4GqPJDPQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=sjFsZnicbZBbjqNGGIWlrCGLiGRFquLOvLUxBSYNmAKKMi-tMoUNbS42Fxuj7CF7cM9EmjxOImUtndXEreQpin6dp0_6dM7_yz0v_xzc28xao7FeDLEbzY3qjvP1qf166lo-ZkPJf9c1TZGABCCUVKCKiqaDrxkbWNUeHlQBmg41SfwgkqCosq5_K3LGq7LJ_f0-71ZtVvI_INBUEYgSVBRFlB4SSQe_lTU75P9ySZEflgdXdQFokipC9a3j_buwMV4eDaAMJF14nCrLUJa1nzfYX738P_tyHvPu9v7DLu-HRT4NedewatG3VckX_cCGfMG78pL3i33bLWqWfTmcsn92_tf0Vpf8m6wqkiI8VuqCqqmSLOtvp8twLw6fx7HK33-8LoyndbA21iygZOZWNT4jXOUWmp8RGRnFVWosI24hkFL3fqjuY38vqnve_Nqy02Wf_fXd92Z7XRn91Qji04msMIjQMvSAvk1qGfuJLlDBFWJamL41BF4It5noXCKbUN_CMxYdkBBvv7PNmVE0JQ1vd_EQ-kkrM5FEW8oxLyHLLGztKDrG5rQORIxC21tmUbF-pHdN7qeAtJiY0g55jJOl75kk8WowxFFqZohstkfCOCT-tnGYR_TOExFiIm8DAbtRCSsvmWYOCyOysYSJO6XQAx89UoqhWwUTF3ifmLoX3eCZNK2QJtxwjY8t7YwRoqHobROTrOI6nuMmFkNY0TiBZmy1MKNIDuupi1coSo-DG60cwutpjkm64RCtMju7-VHh4zi77azUyV5xG9T6JoXpOTS3MEoe_7CdejeTm0sPtxTqsYeWcpbwbX5MYw7ks0eOMAJ6xENwo9CZc0QYe-U0Fk80SPhPLnCcAPAprYsuo8Utbio5bpxlYi-VpGpDJGIvp6diB7wRQ33lig7E5EmMKFE4QBerdJbY9m5-koYY4jM_khMXqiIWKiWlnBAb44CgZ2ynRoi85vPUd_t38ITkR3clzFVmvkhjampuXr8K5SjR8LpRrpvrJ6jqACqaIEmaBv4GqPJDPQ"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQwrHFslaTKC591gq5FVjl6qrH_TfUjApnvXTlPifEmNujB--4GooQp26AkCKf_f9Q7Hw1zudJKAZ0s5ibNfadzFqPP41G09Nn4ba6tOpmBp3WsUbCew3Fm",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "New Sandisk Portable Extreme Portable SSD 1TB SSD SDSSDE7W-1T00AW25",
+      "rating": 3.7,
+      "reviews": 3,
+      "price": "$269.00",
+      "extracted_price": 269.0,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "SyddKXicbc5LjqNGAMZx5TaRrEhVFM_s2rzcpKFNAQXUpgVU2TwKQ2PwS7lD7uCeiTRZJiNlm2t0TpJlOlnP-vfpr--XO2_-nP3rrRjMg_tiommxt5q_3M4Pw5dxGthSzQ37CmVF1g2AkIYUVdMMFcj6l6qYCzHsG_aHpCoSNHRNNZAKNV03JO33mhdMNAf-vNvxyRqqjxnUVFnRZUPToa5osg4B-q3piz3_n79CVZE1SdUkTfrIIV1FwHib2PFd2povmmEYCH2gqgNFgSpSpZ-3-Nl6-bZ9fl34dH3_vuTHecUvM58OhVgdB9Gw1XEuZr5iU3Pix9VumFZ9UX3ej_89_EbprW_YX2_jab7X-0_LIvj7D-eV-fAYPpqPRZiRG3PF8uRgwV3n9uSQpciwoOY6Zq4DaObf9-K-HO-1uPPDr0MxnnbV39_9Y58q05wqM0zGkVgYRDHNw84wueNkoRB-HodymOKiMmESEuOnAFbIz2gaARH6Lm3KRJilHVxZT5-fUmWMnXGHW4xDRJwQzAdm09aXSJRaQZ_c6ixvcZQDgtmGtTHASpF4OL95JukcGmyCQ9ruzwFheZzIKCJjQTPhholixd1lU3ZAoQ45-6myRG2t8IN9LlpsFYkOo0RReCxQKTy1SvGYZ2slR_UcbGgWgFGqbBoHEvN56r1GvaNWN9GyzfgaQxoQAGUGyZBAHZZkfQ17MuO4mwubzoW7v1YJGfPey8ouqBPhQe4am9IS68AhYSjWE--oR5MalNkYJze8jVLDq7pa4ukljDr2GErEJVcYBj3LuHsZqwS3T8m8BHYNyMG5lVkOyiToaFd3PuzmMmZD3ovUh_srRhVgVhg5CAc8G-sSBAuGhuUjD2LygOKMqAw4J7fx1ngTXJ9TmhTIUWhqvGJrXUe2d05tx4oyR83h6NDMu5RQrD9djtPuHTw4yhw9qxHXCvtFXqit-7xvpWaRs-i8Vc_b849QMwBUdUmWdR38Cwo7OJc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=SyddKXicbc5LjqNGAMZx5TaRrEhVFM_s2rzcpKFNAQXUpgVU2TwKQ2PwS7lD7uCeiTRZJiNlm2t0TpJlOlnP-vfpr--XO2_-nP3rrRjMg_tiommxt5q_3M4Pw5dxGthSzQ37CmVF1g2AkIYUVdMMFcj6l6qYCzHsG_aHpCoSNHRNNZAKNV03JO33mhdMNAf-vNvxyRqqjxnUVFnRZUPToa5osg4B-q3piz3_n79CVZE1SdUkTfrIIV1FwHib2PFd2povmmEYCH2gqgNFgSpSpZ-3-Nl6-bZ9fl34dH3_vuTHecUvM58OhVgdB9Gw1XEuZr5iU3Pix9VumFZ9UX3ej_89_EbprW_YX2_jab7X-0_LIvj7D-eV-fAYPpqPRZiRG3PF8uRgwV3n9uSQpciwoOY6Zq4DaObf9-K-HO-1uPPDr0MxnnbV39_9Y58q05wqM0zGkVgYRDHNw84wueNkoRB-HodymOKiMmESEuOnAFbIz2gaARH6Lm3KRJilHVxZT5-fUmWMnXGHW4xDRJwQzAdm09aXSJRaQZ_c6ixvcZQDgtmGtTHASpF4OL95JukcGmyCQ9ruzwFheZzIKCJjQTPhholixd1lU3ZAoQ45-6myRG2t8IN9LlpsFYkOo0RReCxQKTy1SvGYZ2slR_UcbGgWgFGqbBoHEvN56r1GvaNWN9GyzfgaQxoQAGUGyZBAHZZkfQ17MuO4mwubzoW7v1YJGfPey8ouqBPhQe4am9IS68AhYSjWE--oR5MalNkYJze8jVLDq7pa4ukljDr2GErEJVcYBj3LuHsZqwS3T8m8BHYNyMG5lVkOyiToaFd3PuzmMmZD3ovUh_srRhVgVhg5CAc8G-sSBAuGhuUjD2LygOKMqAw4J7fx1ngTXJ9TmhTIUWhqvGJrXUe2d05tx4oyR83h6NDMu5RQrD9djtPuHTw4yhw9qxHXCvtFXqit-7xvpWaRs-i8Vc_b849QMwBUdUmWdR38Cwo7OJc"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTMaILVqgbE932eeZ5XVSq3GApzljhqi6rUzom9Oxx_Y1CDJsvZeLfD919cM9nrt9whn8ycCQ0Csp7ilhMFsktPhOgMbUHS5RUARfHi_yhushhoANpGwcvH",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJfOWfy6EV2D7ZUwQE7XvcGjwUGOwpvtGQ95qi7dkm3JFK45DLRGwgRM2NAh72levSrphwlC5FMNLvDsm9bUOEwtortrQyBdCxq8w",
+      "source": "Office Depot",
+      "title": "SanDisk Extreme PRO Portable SSD",
+      "rating": 4.6,
+      "reviews": 2100,
+      "price": "$412.49",
+      "extracted_price": 412.49,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "fkpdHXicbZJLrqNGFIalrCGLiGRFqgfPzPzgccktbBcUGCZXZQobm-IRDMZG2UP24NsdqTPsDLKWm9XErUx79A8-nV_fOTp_PPLTPz25T7xZ1s7bEneDtdHJMI3z5kvbNWLI-pP4apqmqphYVXRDw8_AypeM91w2x29Q01SMVMPQgaHqpqbDr0XOhTzV-fpwyLtVk53E3wo2TYwg1HSsIgNBE2h_nSp-zP_HKlQx1JEGkA6xgUxF1987cflAm-WbpmEInjPYBM80v1X8vqHr1dv32effhry7f_y0zy_9LL_1eVdzObs08iRml573-Ux0p2t-mR2ablbx7POx_Wbwnab36rmeqmuKhhQTQvCUNABC7-21fxTHT8Mg84-fx9ly_rJ9Wb7w7S6ahCOHV5vK3LGnVzsa-I7KdLkIhWODdEceR_kYLo9CPvL6z4a310P27w8_Ws24Wl7G5Za1bbSiIKglj6XsI1ukEZ73ZFXYmTQrck4T5nqSIC8OarrJLJi-sgQxl4zBVJAQ216GUpuWkZdUT1RGL_tKxUEF06iMKj8WnDIZ7zAB6yitwjNRKU612KLpVhrAh-Utgc1EQ-pkzD_4wGPbiU0BO-ItuhFyh05WFnUK7U7glz5FcKD1gibSmxiSWmzbRcJMxOLCWVu3MYnVhFhHyBlsXtn2vnbonUMPENcjWSytIC5uvmPchSscH_UpL4vlmhWVf079gNEkgr4Vr8SOVumvT19_b2c9OS-WbJrDhMEzq5QpZEfky7TNUFHnVTNuazI-73DNWTSRs1wkVXvhcYkiV_S03CrE8t3cjSJSU3e_KkafqTAEohNl2ga4va7dhR3G3pVaqbW3o4RZCvCZWdFYYr8qxgDOIQGChdOC8LOMEyhwaCWBjamf79piD_yBQnNFsAdpNMfhLtIEsK_OyVtQ17-v45RyV14zp1A5k1rq-tvMSUCC1MafaMmRfw7LfvHpdukOH2Buq32w1oJc59abMqSWQfLqjE6DsgvGjTZuxl-g_vxYzUCKYhjgP7ZcQwU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=fkpdHXicbZJLrqNGFIalrCGLiGRFqgfPzPzgccktbBcUGCZXZQobm-IRDMZG2UP24NsdqTPsDLKWm9XErUx79A8-nV_fOTp_PPLTPz25T7xZ1s7bEneDtdHJMI3z5kvbNWLI-pP4apqmqphYVXRDw8_AypeM91w2x29Q01SMVMPQgaHqpqbDr0XOhTzV-fpwyLtVk53E3wo2TYwg1HSsIgNBE2h_nSp-zP_HKlQx1JEGkA6xgUxF1987cflAm-WbpmEInjPYBM80v1X8vqHr1dv32effhry7f_y0zy_9LL_1eVdzObs08iRml573-Ux0p2t-mR2ablbx7POx_Wbwnab36rmeqmuKhhQTQvCUNABC7-21fxTHT8Mg84-fx9ly_rJ9Wb7w7S6ahCOHV5vK3LGnVzsa-I7KdLkIhWODdEceR_kYLo9CPvL6z4a310P27w8_Ws24Wl7G5Za1bbSiIKglj6XsI1ukEZ73ZFXYmTQrck4T5nqSIC8OarrJLJi-sgQxl4zBVJAQ216GUpuWkZdUT1RGL_tKxUEF06iMKj8WnDIZ7zAB6yitwjNRKU612KLpVhrAh-Utgc1EQ-pkzD_4wGPbiU0BO-ItuhFyh05WFnUK7U7glz5FcKD1gibSmxiSWmzbRcJMxOLCWVu3MYnVhFhHyBlsXtn2vnbonUMPENcjWSytIC5uvmPchSscH_UpL4vlmhWVf079gNEkgr4Vr8SOVumvT19_b2c9OS-WbJrDhMEzq5QpZEfky7TNUFHnVTNuazI-73DNWTSRs1wkVXvhcYkiV_S03CrE8t3cjSJSU3e_KkafqTAEohNl2ga4va7dhR3G3pVaqbW3o4RZCvCZWdFYYr8qxgDOIQGChdOC8LOMEyhwaCWBjamf79piD_yBQnNFsAdpNMfhLtIEsK_OyVtQ17-v45RyV14zp1A5k1rq-tvMSUCC1MafaMmRfw7LfvHpdukOH2Buq32w1oJc59abMqSWQfLqjE6DsgvGjTZuxl-g_vxYzUCKYhjgP7ZcQwU"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS2IuTutB0DZa81KIIvqTpNDy9uivMnaLlF2NIJCSym2N-QFQZomTancFWGgWcxEvoK3Cau3y9uPsAnvBhiX0BrSH0caNaGsGVcXFOG8XympDChanvC_x1q",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJfOWfy6EV2D7ZUwQE7XvcGjwUGOwpvtGQ95qi7dkm3JFK45DLRGwgRM2NAh72levSrphwlC5FMNLvDsm9bUOEwtortrQyBdCxq8w",
+      "source": "Office Depot",
+      "title": "WD My Passport Solid State Drive WDBAGF",
+      "rating": 4.7,
+      "reviews": 1200,
+      "price": "$596.99",
+      "extracted_price": 596.99,
+      "location": "Nearby, 19 mi",
+      "immersive_product_page_token": "-nDxGHicbZNdiuNGAIQhZ8ghAibQ3XLrZ99G1o8trJbV-p1-Gdpu2ZLdsjSyNLJF7pA7eHYDm8fdQM4yOU0cyOM-V1FVfFC_34vq796_TbxZnN2XhdIN9kbzh2l8ar62XSOGXV-Jv6BmIANgrBsGBoYOFQMpX3e857I5VOI7VnWMNAg1oGmGjjBS59_KggtZnYtgvy86q9n9lwJ0BBUMMVAeTog0A6I_q5ofiv91qGqGoWoqQArCiqFhDb934vKBNosXHeoGBOpcQxpSDQWq0PhtQwPr5cfal9eh6G4fv2yLSz8rrn3RnbmcXRpZidml530xE131Vlxm-6ab1Xz35dA-Jnz_QdJ7XYlvWFPnKtKxoSiKihUF4Pf2rb-Xh8_DIIuPX8fZ4mkVrhYrHubpJFw5rB0qC9eZ1k468JxKtjBj4TqA5f79IO_D5V7Ke3H-o-Ht2373z08_281oLS7jIkzaNrUoiGJvnyWkXudeSpN2_3wUK782bhEimB9PIJwc-zkmZlRLIlKzjbJSpgjPwziBu4nQFJScJVeZndkYLKkjoITEpWXg9mWYOG4O4Cm2yZou00VaeyxKPCDschLSDJh9wSIvMz-lax-I8_ZEfAJWMEIJinNiZUv7ygF8JcfV3M9Si0uzTXJzLmzRZKfSp24fiSV9JegwbkHZZ4m4kGmF0snxnhUiaS1xjporq8Wjw8x3FjNJXk5ZchqpnS44cM5RUgYRuJrhubkmJxw-36BHEtHxrAyYNEa-lF1S09MugavdkjXimFYsPgACSvoM2Wtgl5ttbOIocx4sZRW4DDGFhGQKIXfEFC_pQBIsRVKOYdZicjSTosbrIC9PRGmbCDh7ZrPxwQiGQDJqCSWwMfQt78Qnx4lcut4h2RLgbQrbW8eTHTkKJUXelltABgoNy1c8SNMnJc5TVQDnza08ky7JLcgeuG2PMIv1obKaiOvf2KmtfRsCZvfjNmvXJCnNz9dLt_8ATw7uo0CNCo3bL_OB2bpf1EdUDfM8GjfquBk_PR4KoKqj-VzXwb9j1UP9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-nDxGHicbZNdiuNGAIQhZ8ghAibQ3XLrZ99G1o8trJbV-p1-Gdpu2ZLdsjSyNLJF7pA7eHYDm8fdQM4yOU0cyOM-V1FVfFC_34vq796_TbxZnN2XhdIN9kbzh2l8ar62XSOGXV-Jv6BmIANgrBsGBoYOFQMpX3e857I5VOI7VnWMNAg1oGmGjjBS59_KggtZnYtgvy86q9n9lwJ0BBUMMVAeTog0A6I_q5ofiv91qGqGoWoqQArCiqFhDb934vKBNosXHeoGBOpcQxpSDQWq0PhtQwPr5cfal9eh6G4fv2yLSz8rrn3RnbmcXRpZidml530xE131Vlxm-6ab1Xz35dA-Jnz_QdJ7XYlvWFPnKtKxoSiKihUF4Pf2rb-Xh8_DIIuPX8fZ4mkVrhYrHubpJFw5rB0qC9eZ1k468JxKtjBj4TqA5f79IO_D5V7Ke3H-o-Ht2373z08_281oLS7jIkzaNrUoiGJvnyWkXudeSpN2_3wUK782bhEimB9PIJwc-zkmZlRLIlKzjbJSpgjPwziBu4nQFJScJVeZndkYLKkjoITEpWXg9mWYOG4O4Cm2yZou00VaeyxKPCDschLSDJh9wSIvMz-lax-I8_ZEfAJWMEIJinNiZUv7ygF8JcfV3M9Si0uzTXJzLmzRZKfSp24fiSV9JegwbkHZZ4m4kGmF0snxnhUiaS1xjporq8Wjw8x3FjNJXk5ZchqpnS44cM5RUgYRuJrhubkmJxw-36BHEtHxrAyYNEa-lF1S09MugavdkjXimFYsPgACSvoM2Wtgl5ttbOIocx4sZRW4DDGFhGQKIXfEFC_pQBIsRVKOYdZicjSTosbrIC9PRGmbCDh7ZrPxwQiGQDJqCSWwMfQt78Qnx4lcut4h2RLgbQrbW8eTHTkKJUXelltABgoNy1c8SNMnJc5TVQDnza08ky7JLcgeuG2PMIv1obKaiOvf2KmtfRsCZvfjNmvXJCnNz9dLt_8ATw7uo0CNCo3bL_OB2bpf1EdUDfM8GjfquBk_PR4KoKqj-VzXwb9j1UP9"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRe1KuteX40I99mM8kcDS9u4QUC0A93pY-71d0zNRBn5y-c8_kXuhU594JzQ-wLbwDT6Ck7T2xdM5gVlplBoNasrjhDfA9q8i_OuYtGF3iJZRJ7uzL8IzZYeg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJfOWfy6EV2D7ZUwQE7XvcGjwUGOwpvtGQ95qi7dkm3JFK45DLRGwgRM2NAh72levSrphwlC5FMNLvDsm9bUOEwtortrQyBdCxq8w",
+      "source": "Office Depot",
+      "title": "SanDisk Portable SSD",
+      "rating": 4.7,
+      "reviews": 2300,
+      "price": "$349.99",
+      "extracted_price": 349.99,
+      "location": "Nearby, 11 mi",
+      "immersive_product_page_token": "NbXEbnicdZJNrqNGFIWlrCGLiGRFKqCKn8yMDfhZBkxBle2aPAFVNmD-2oCxUfaQPfh1R-oedkfKWl5WE3eUYTK5k-_q6Jyj89tD5H_27n2Km0XtvC6Uy2BtNXeYxnnzub00fEj7nH_TDNmQAUJAB7KuaEiW0Oc07uOyOX2nUIcGAgYASP5-DE3_momYl3kt_ONRXJZNmvM_JBUhVVKAKiuqiuBTy9C-5FV8Ev9yWUfa80nXdAgNqElQR28X3r3D7eJVglAzgAZlKAFZfbqAmv7rFvvL1_-Bnz4M4nJ__ykRXT8Tt15c6ricdU2Z81nXx72Y8Ut-Fd3s2FxmVZx-OrX_mPgPqbcq51-RpkJV1nXFUDRFQRDBt_baP7LTx2EoxfvP42wxfwleFi9xsKcTd8phY-NSOPa0sekQ73HJFmbEHRuwvfs4lY-he2TlQ9S_N3F7PaZ__fCj1YzLRTcuAtK2dIlBZOGInfuKWD3DDkZ41xYccBhW2cpf0ZdDweSDrN-obaPNDq9Tq9-RioUe4RlxcO3K3ehbXs4Lj7C93QXF2ovJrcZLb3CtzCQVpQHQFVFx13W8IYnM2DuDPqpYlNi8wYS6ccH9hKDQO0v3JJe6ECBTFNmGVGWb7EZJrFx5ZzVyrAQKkxnYLeeQWl6TOLcqATYTlUGTul2I6jBRGRESlRs3Mn1erPMQtJtEpktStyNbzRXmsDgoTTOccOvZmb-fggkXweQ6doOncqQ123DqooPMM_H0GkRm64I-iEv2gRbZKqlNP6Dm6NnuFBWptCMndCA8Sgvy7Ox8Y8qaxjvWHYjni_289yRzCs4Ue3s-7ZYEHCaOQ4lvGOCIrdYsqBB-ZuldCd85cW_-imO8soMgyoLk2Xtqe4zS5pmf3d2CH3F9CG0Fe2LfZgnwBiwZS1dZS5jOlWhPVQ7sq5OvTbzy7v6OEeKgltpnJc2lDXX6q1eUG69Yl-7q2RH18lQq64-37nJ8B3Mb9aGvhkKLrVc4MEt3RVXI-QD34bhVx-34i_TcraTqMoS6Dv4GebRGvA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NbXEbnicdZJNrqNGFIWlrCGLiGRFKqCKn8yMDfhZBkxBle2aPAFVNmD-2oCxUfaQPfh1R-oedkfKWl5WE3eUYTK5k-_q6Jyj89tD5H_27n2Km0XtvC6Uy2BtNXeYxnnzub00fEj7nH_TDNmQAUJAB7KuaEiW0Oc07uOyOX2nUIcGAgYASP5-DE3_momYl3kt_ONRXJZNmvM_JBUhVVKAKiuqiuBTy9C-5FV8Ev9yWUfa80nXdAgNqElQR28X3r3D7eJVglAzgAZlKAFZfbqAmv7rFvvL1_-Bnz4M4nJ__ykRXT8Tt15c6ricdU2Z81nXx72Y8Ut-Fd3s2FxmVZx-OrX_mPgPqbcq51-RpkJV1nXFUDRFQRDBt_baP7LTx2EoxfvP42wxfwleFi9xsKcTd8phY-NSOPa0sekQ73HJFmbEHRuwvfs4lY-he2TlQ9S_N3F7PaZ__fCj1YzLRTcuAtK2dIlBZOGInfuKWD3DDkZ41xYccBhW2cpf0ZdDweSDrN-obaPNDq9Tq9-RioUe4RlxcO3K3ehbXs4Lj7C93QXF2ovJrcZLb3CtzCQVpQHQFVFx13W8IYnM2DuDPqpYlNi8wYS6ccH9hKDQO0v3JJe6ECBTFNmGVGWb7EZJrFx5ZzVyrAQKkxnYLeeQWl6TOLcqATYTlUGTul2I6jBRGRESlRs3Mn1erPMQtJtEpktStyNbzRXmsDgoTTOccOvZmb-fggkXweQ6doOncqQ123DqooPMM_H0GkRm64I-iEv2gRbZKqlNP6Dm6NnuFBWptCMndCA8Sgvy7Ox8Y8qaxjvWHYjni_289yRzCs4Ue3s-7ZYEHCaOQ4lvGOCIrdYsqBB-ZuldCd85cW_-imO8soMgyoLk2Xtqe4zS5pmf3d2CH3F9CG0Fe2LfZgnwBiwZS1dZS5jOlWhPVQ7sq5OvTbzy7v6OEeKgltpnJc2lDXX6q1eUG69Yl-7q2RH18lQq64-37nJ8B3Mb9aGvhkKLrVc4MEt3RVXI-QD34bhVx-34i_TcraTqMoS6Dv4GebRGvA"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best external hard drive for an Apple Mac?",
+      "type": "ai_overview",
+      "page_token": "42wB2nicHdBRkpowAADQ6WX2cyUptdUZp1M0wWU3OAkkmPx0QiKyECBVq8Bfr9Az9FQ9TWf6jvB-_XHvffv3w-_6dvPX9WLxeDyez8NwdqdnM3QLfZ16szDauVKbdr38vARfK7NBdxNtLyai3HuxY0EWKE8QmSRnYSYSTYMvAQHJi9kCdMpFnTaKkaP7oV19VIGd0gkMOYheRadU0XnHEZ1Yo14ldzEXwyg4y3KUehbjrTniWEICDlyEoicwB67iXM4Z9LKM_c-085DtMKXzt8lAOhWxChjGUMW-4jMOFWbXkic9BaK3ju0JTD4dYjsxJPSbcPrAwd1CrC1XUqBVnbYjTNua2y7x0r3cMlFHrF2RE8cX29QY1TbIj24pi9WubG1F53SyXNA0AODU26gch3fK2Wwa14lY1WQvdrJpQ8LHN713SBcSsmBsqUMh57dCPZ4qc998fPp_vfledbe1vwznf6wQjNQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=42wB2nicHdBRkpowAADQ6WX2cyUptdUZp1M0wWU3OAkkmPx0QiKyECBVq8Bfr9Az9FQ9TWf6jvB-_XHvffv3w-_6dvPX9WLxeDyez8NwdqdnM3QLfZ16szDauVKbdr38vARfK7NBdxNtLyai3HuxY0EWKE8QmSRnYSYSTYMvAQHJi9kCdMpFnTaKkaP7oV19VIGd0gkMOYheRadU0XnHEZ1Yo14ldzEXwyg4y3KUehbjrTniWEICDlyEoicwB67iXM4Z9LKM_c-085DtMKXzt8lAOhWxChjGUMW-4jMOFWbXkic9BaK3ju0JTD4dYjsxJPSbcPrAwd1CrC1XUqBVnbYjTNua2y7x0r3cMlFHrF2RE8cX29QY1TbIj24pi9WubG1F53SyXNA0AODU26gch3fK2Wwa14lY1WQvdrJpQ8LHN713SBcSsmBsqUMh57dCPZ4qc998fPp_vfledbe1vwznf6wQjNQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVVklSR1Z1WlRWWWFFRmtjR0pRZDJsc2FtZEdNV2N6ZVhCMlJ6SlJOMjFxTW1nMU1HMWtSRTR6YVU0ellTMVZaMjl0U1dZNWNpMHRWbVEyY0RobVVsTkRWbkIwVUZkQlp6ZG5UVkZxTURkS2VEZGhVVTFxWmpOeVFSSVhkRTE1ZW1GdlEyNUhYME16Y25WRlVEZE5kWHAzUVc4YUlrRkVjM0k1WmxSaU5HVTBTWEl6VkMxdGMyczNYelZaZWxKMFRtWkhTbWhJTkhjIiwiZmN2IjoiMyIsImVpIjoidE15emFvQ25HX0MzcnVFUDdNdXp3QW8iLCJxYyI6IkNpaGlaWE4wSUdWNGRHVnlibUZzSUhOdmJHbGtJSE4wWVhSbElHUnlhWFpsY3lCbWIzSWdiV0ZqRUFCOVBsc0pQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBleHRlcm5hbCBoYXJkIGRyaXZlIGZvciBhbiBBcHBsZSBNYWM/IiwibGsiOiJjd1hCd1EzQUlBd0R3RDE0ZVFrR2NvdFJrQ2hGSVdvWm43dVVmMk9nTFlRSmwxWkFPLVNESFVZdktONC1vYjRPRG5ET0xqeThEdyIsImJzIjoiYzVXUFB3LUNNQkJINDlySlVXdEk3Z000a2FoeGtXaVlUSndZbUE5YVV3SnkyRGJpeDVlcl8tUGtfTzY5X2lyT1lwa2I5RkE1OEVaRG9aMEhmZlhhdHRpQVFhdEEyZXFpNFVnV3NJVnQxelVhRGxnbThVb3UtajlNRE9ZSlM3RVdNamRWYVNETFVyYUR5VmNoTzVQVFBsRG4xQmRsZFNPaWxONnZEQUVIUGRrYXFMM2JrWnlwandOdVBEbjdlekhfLVcxSDFtTXhiT001WVN5bmRrUjFFa3M1ZVdGdVBYWVVBeHlQYmciLCJpZCI6ImZjX3RNeXphb0NuR19DM3J1RVA3TXV6d0FvXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVVklSR1Z1WlRWWWFFRmtjR0pRZDJsc2FtZEdNV2N6ZVhCMlJ6SlJOMjFxTW1nMU1HMWtSRTR6YVU0ellTMVZaMjl0U1dZNWNpMHRWbVEyY0RobVVsTkRWbkIwVUZkQlp6ZG5UVkZxTURkS2VEZGhVVTFxWmpOeVFSSVhkRTE1ZW1GdlEyNUhYME16Y25WRlVEZE5kWHAzUVc4YUlrRkVjM0k1WmxSaU5HVTBTWEl6VkMxdGMyczNYelZaZWxKMFRtWkhTbWhJTkhjIiwiZmN2IjoiMyIsImVpIjoidE15emFvQ25HX0MzcnVFUDdNdXp3QW8iLCJxYyI6IkNpaGlaWE4wSUdWNGRHVnlibUZzSUhOdmJHbGtJSE4wWVhSbElHUnlhWFpsY3lCbWIzSWdiV0ZqRUFCOVBsc0pQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBleHRlcm5hbCBoYXJkIGRyaXZlIGZvciBhbiBBcHBsZSBNYWM%2FIiwibGsiOiJjd1hCd1EzQUlBd0R3RDE0ZVFrR2NvdFJrQ2hGSVdvWm43dVVmMk9nTFlRSmwxWkFPLVNESFVZdktONC1vYjRPRG5ET0xqeThEdyIsImJzIjoiYzVXUFB3LUNNQkJINDlySlVXdEk3Z000a2FoeGtXaVlUSndZbUE5YVV3SnkyRGJpeDVlcl8tUGtfTzY5X2lyT1lwa2I5RkE1OEVaRG9aMEhmZlhhdHRpQVFhdEEyZXFpNFVnV3NJVnQxelVhRGxnbThVb3UtajlNRE9ZSlM3RVdNamRWYVNETFVyYUR5VmNoTzVQVFBsRG4xQmRsZFNPaWxONnZEQUVIUGRrYXFMM2JrWnlwandOdVBEbjdlekhfLVcxSDFtTXhiT001WVN5bmRrUjFFa3M1ZVdGdVBYWVVBeHlQYmciLCJpZCI6ImZjX3RNeXphb0NuR19DM3J1RVA3TXV6d0FvXzUifQ%3D%3D"
+    },
+    {
+      "question": "Which SSD is best for Mac?",
+      "type": "ai_overview",
+      "page_token": "QFLBD3icHdBdboIwAADg7DI-SlmZCyZmGQolBjCUUkpfFiwoyF-nnUXfdpedaqeZ2QW-h-_7p2uG9veJ1UrJy9IwtNbz4zgeu2ouxt4oLrdBGKLoun0h2uXidWG-HcTKvWhnPWonTqWkGwwSoBDfdG04cJh0tZu2vAhh6XPiIfKML3GKdd6bkDPpCtpaGVJaIGURxutwcJIdigF5lgOnOKKt6TEwAWHy4GFLbpYs9amVnmgYAW3FlCuBXohANmLA_uTMQfjEk6xX14BETU6wx2BJSogn3FNEUXSvWNRgWu_SdDoXd26VaZx4EEcVk_UeRF_YtDch3JqYvkPC6KIE3hU1Wwf70W2X8aTo7aDwpSrdUeVZOeb9Q2jMdUXqIqDeVA1ymB3EdQVn_2Orj0OvlvI8Hv8AtER4Qw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QFLBD3icHdBdboIwAADg7DI-SlmZCyZmGQolBjCUUkpfFiwoyF-nnUXfdpedaqeZ2QW-h-_7p2uG9veJ1UrJy9IwtNbz4zgeu2ouxt4oLrdBGKLoun0h2uXidWG-HcTKvWhnPWonTqWkGwwSoBDfdG04cJh0tZu2vAhh6XPiIfKML3GKdd6bkDPpCtpaGVJaIGURxutwcJIdigF5lgOnOKKt6TEwAWHy4GFLbpYs9amVnmgYAW3FlCuBXohANmLA_uTMQfjEk6xX14BETU6wx2BJSogn3FNEUXSvWNRgWu_SdDoXd26VaZx4EEcVk_UeRF_YtDch3JqYvkPC6KIE3hU1Wwf70W2X8aTo7aDwpSrdUeVZOeb9Q2jMdUXqIqDeVA1ymB3EdQVn_2Orj0OvlvI8Hv8AtER4Qw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVVklSR1Z1WlRWWWFFRmtjR0pRZDJsc2FtZEdNV2N6ZVhCMlJ6SlJOMjFxTW1nMU1HMWtSRTR6YVU0ellTMVZaMjl0U1dZNWNpMHRWbVEyY0RobVVsTkRWbkIwVUZkQlp6ZG5UVkZxTURkS2VEZGhVVTFxWmpOeVFSSVhkRTE1ZW1GdlEyNUhYME16Y25WRlVEZE5kWHAzUVc4YUlrRkVjM0k1WmxSaU5HVTBTWEl6VkMxdGMyczNYelZaZWxKMFRtWkhTbWhJTkhjIiwiZmN2IjoiMyIsImVpIjoidE15emFvQ25HX0MzcnVFUDdNdXp3QW8iLCJxYyI6IkNpaGlaWE4wSUdWNGRHVnlibUZzSUhOdmJHbGtJSE4wWVhSbElHUnlhWFpsY3lCbWIzSWdiV0ZqRUFCOVBsc0pQdyIsInF1ZXN0aW9uIjoiV2hpY2ggU1NEIGlzIGJlc3QgZm9yIE1hYz8iLCJsayI6IkdobDNhR2xqYUNCemMyUWdhWE1nWW1WemRDQm1iM0lnYldGaiIsImJzIjoiYzVXUFB3LUNNQkJINDlySlVXdEk3Z000a2FoeGtXaVlUSndZbUE5YVV3SnkyRGJpeDVlcl8tUGtfTzY5X2lyT1lwa2I5RkE1OEVaRG9aMEhmZlhhdHRpQVFhdEEyZXFpNFVnV3NJVnQxelVhRGxnbThVb3UtajlNRE9ZSlM3RVdNamRWYVNETFVyYUR5VmNoTzVQVFBsRG4xQmRsZFNPaWxONnZEQUVIUGRrYXFMM2JrWnlwandOdVBEbjdlekhfLVcxSDFtTXhiT001WVN5bmRrUjFFa3M1ZVdGdVBYWVVBeHlQYmciLCJpZCI6ImZjX3RNeXphb0NuR19DM3J1RVA3TXV6d0FvXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVVklSR1Z1WlRWWWFFRmtjR0pRZDJsc2FtZEdNV2N6ZVhCMlJ6SlJOMjFxTW1nMU1HMWtSRTR6YVU0ellTMVZaMjl0U1dZNWNpMHRWbVEyY0RobVVsTkRWbkIwVUZkQlp6ZG5UVkZxTURkS2VEZGhVVTFxWmpOeVFSSVhkRTE1ZW1GdlEyNUhYME16Y25WRlVEZE5kWHAzUVc4YUlrRkVjM0k1WmxSaU5HVTBTWEl6VkMxdGMyczNYelZaZWxKMFRtWkhTbWhJTkhjIiwiZmN2IjoiMyIsImVpIjoidE15emFvQ25HX0MzcnVFUDdNdXp3QW8iLCJxYyI6IkNpaGlaWE4wSUdWNGRHVnlibUZzSUhOdmJHbGtJSE4wWVhSbElHUnlhWFpsY3lCbWIzSWdiV0ZqRUFCOVBsc0pQdyIsInF1ZXN0aW9uIjoiV2hpY2ggU1NEIGlzIGJlc3QgZm9yIE1hYz8iLCJsayI6IkdobDNhR2xqYUNCemMyUWdhWE1nWW1WemRDQm1iM0lnYldGaiIsImJzIjoiYzVXUFB3LUNNQkJINDlySlVXdEk3Z000a2FoeGtXaVlUSndZbUE5YVV3SnkyRGJpeDVlcl8tUGtfTzY5X2lyT1lwa2I5RkE1OEVaRG9aMEhmZlhhdHRpQVFhdEEyZXFpNFVnV3NJVnQxelVhRGxnbThVb3UtajlNRE9ZSlM3RVdNamRWYVNETFVyYUR5VmNoTzVQVFBsRG4xQmRsZFNPaWxONnZEQUVIUGRrYXFMM2JrWnlwandOdVBEbjdlekhfLVcxSDFtTXhiT001WVN5bmRrUjFFa3M1ZVdGdVBYWVVBeHlQYmciLCJpZCI6ImZjX3RNeXphb0NuR19DM3J1RVA3TXV6d0FvXzUifQ%3D%3D"
+    },
+    {
+      "question": "Do external SSDs work on Mac?",
+      "type": "ai_overview",
+      "page_token": "1wk3sXicHdBRTsIwAADQeBk_oR2CgYQYsWxKWJeWlW79MV3LqFvZKkM79uddPJWn0XiB9_G-vu1bU__cfJrLxXWL8dh7Pzq27dEeRqo9jWV3bdRYSWsLqerF7H4GH0q1XH-8rJ7eX1aEObdHFOz4FO1DnWjoWhaJoGBCZEF4zSsCRVhPkzD38RB2W-6qNMJbjnBET71LWAeLbNNhoDytjgFvWh9HsMxTAdPANvlg0M5usI7sBKca09Cu42fqC_QI4qivtHWAWCF58-fCuVeZvhJrnIC0Y5A6zqcRQ5bHYCqLQXtVGyED3WPeiyTDOwmMTJ7xeZ-ZqkDxXR6oIQW4WRsN0szOcj5HRa1LMuCrZnuCAYSHRq-Kvn0jjA6qsifG8FZWq0tcW4knpo0HBQ-o9rqeO8ZpeUDmTMhtqT6Xk9v_z-Vrebos3Lk9_gLidIU0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=1wk3sXicHdBRTsIwAADQeBk_oR2CgYQYsWxKWJeWlW79MV3LqFvZKkM79uddPJWn0XiB9_G-vu1bU__cfJrLxXWL8dh7Pzq27dEeRqo9jWV3bdRYSWsLqerF7H4GH0q1XH-8rJ7eX1aEObdHFOz4FO1DnWjoWhaJoGBCZEF4zSsCRVhPkzD38RB2W-6qNMJbjnBET71LWAeLbNNhoDytjgFvWh9HsMxTAdPANvlg0M5usI7sBKca09Cu42fqC_QI4qivtHWAWCF58-fCuVeZvhJrnIC0Y5A6zqcRQ5bHYCqLQXtVGyED3WPeiyTDOwmMTJ7xeZ-ZqkDxXR6oIQW4WRsN0szOcj5HRa1LMuCrZnuCAYSHRq-Kvn0jjA6qsifG8FZWq0tcW4knpo0HBQ-o9rqeO8ZpeUDmTMhtqT6Xk9v_z-Vrebos3Lk9_gLidIU0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVVklSR1Z1WlRWWWFFRmtjR0pRZDJsc2FtZEdNV2N6ZVhCMlJ6SlJOMjFxTW1nMU1HMWtSRTR6YVU0ellTMVZaMjl0U1dZNWNpMHRWbVEyY0RobVVsTkRWbkIwVUZkQlp6ZG5UVkZxTURkS2VEZGhVVTFxWmpOeVFSSVhkRTE1ZW1GdlEyNUhYME16Y25WRlVEZE5kWHAzUVc4YUlrRkVjM0k1WmxSaU5HVTBTWEl6VkMxdGMyczNYelZaZWxKMFRtWkhTbWhJTkhjIiwiZmN2IjoiMyIsImVpIjoidE15emFvQ25HX0MzcnVFUDdNdXp3QW8iLCJxYyI6IkNpaGlaWE4wSUdWNGRHVnlibUZzSUhOdmJHbGtJSE4wWVhSbElHUnlhWFpsY3lCbWIzSWdiV0ZqRUFCOVBsc0pQdyIsInF1ZXN0aW9uIjoiRG8gZXh0ZXJuYWwgU1NEcyB3b3JrIG9uIE1hYz8iLCJsayI6IkdodGtieUJsZUhSbGNtNWhiQ0J6YzJRZ2QyOXlheUJ2YmlCdFlXTSIsImJzIjoiYzVXUFB3LUNNQkJINDlySlVXdEk3Z000a2FoeGtXaVlUSndZbUE5YVV3SnkyRGJpeDVlcl8tUGtfTzY5X2lyT1lwa2I5RkE1OEVaRG9aMEhmZlhhdHRpQVFhdEEyZXFpNFVnV3NJVnQxelVhRGxnbThVb3UtajlNRE9ZSlM3RVdNamRWYVNETFVyYUR5VmNoTzVQVFBsRG4xQmRsZFNPaWxONnZEQUVIUGRrYXFMM2JrWnlwandOdVBEbjdlekhfLVcxSDFtTXhiT001WVN5bmRrUjFFa3M1ZVdGdVBYWVVBeHlQYmciLCJpZCI6ImZjX3RNeXphb0NuR19DM3J1RVA3TXV6d0FvXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVVklSR1Z1WlRWWWFFRmtjR0pRZDJsc2FtZEdNV2N6ZVhCMlJ6SlJOMjFxTW1nMU1HMWtSRTR6YVU0ellTMVZaMjl0U1dZNWNpMHRWbVEyY0RobVVsTkRWbkIwVUZkQlp6ZG5UVkZxTURkS2VEZGhVVTFxWmpOeVFSSVhkRTE1ZW1GdlEyNUhYME16Y25WRlVEZE5kWHAzUVc4YUlrRkVjM0k1WmxSaU5HVTBTWEl6VkMxdGMyczNYelZaZWxKMFRtWkhTbWhJTkhjIiwiZmN2IjoiMyIsImVpIjoidE15emFvQ25HX0MzcnVFUDdNdXp3QW8iLCJxYyI6IkNpaGlaWE4wSUdWNGRHVnlibUZzSUhOdmJHbGtJSE4wWVhSbElHUnlhWFpsY3lCbWIzSWdiV0ZqRUFCOVBsc0pQdyIsInF1ZXN0aW9uIjoiRG8gZXh0ZXJuYWwgU1NEcyB3b3JrIG9uIE1hYz8iLCJsayI6IkdodGtieUJsZUhSbGNtNWhiQ0J6YzJRZ2QyOXlheUJ2YmlCdFlXTSIsImJzIjoiYzVXUFB3LUNNQkJINDlySlVXdEk3Z000a2FoeGtXaVlUSndZbUE5YVV3SnkyRGJpeDVlcl8tUGtfTzY5X2lyT1lwa2I5RkE1OEVaRG9aMEhmZlhhdHRpQVFhdEEyZXFpNFVnV3NJVnQxelVhRGxnbThVb3UtajlNRE9ZSlM3RVdNamRWYVNETFVyYUR5VmNoTzVQVFBsRG4xQmRsZFNPaWxONnZEQUVIUGRrYXFMM2JrWnlwandOdVBEbjdlekhfLVcxSDFtTXhiT001WVN5bmRrUjFFa3M1ZVdGdVBYWVVBeHlQYmciLCJpZCI6ImZjX3RNeXphb0NuR19DM3J1RVA3TXV6d0FvXzUifQ%3D%3D"
+    },
+    {
+      "question": "What is the best portable SSD for a MacBook?",
+      "type": "ai_overview",
+      "page_token": "lovWhHicHdDBboIwAADQ7Gc8CoXBMhOzrGoRJzUWWmovC7ZKhQqoTAa3_cu-al-zZbd3fl_f5lSVPw9ct21zm1hW13XjvK5zcxjL-mxlt76SlsyM2WeynPhPPng5yuni1sFZ3cEtbRo2J3ZcoCtJQbgrdi1eEpOVOmAF9Nc08kihj9xmUCT5ozDMj4weBFt0WYqjKEHLpGxXu9RzGFUXVZBqb1DMjKiyBPeHVG-SMhrIoqEEkblM85YO6MRdyCiHfux45ZqLUDrqImzjMAARpuotNWGfJbqQXMzJ2Rt2lR6wYxJMgY6D7Z9pjFyCD7zRext_EPA8j9wVIOzVTTjzlY3uwWkFyRL3m1RQOSioAKI4IHFmfzYK4FAxAVTgzdgitAU11ego71N39D82fT-e20lzrfNfl1B30w",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lovWhHicHdDBboIwAADQ7Gc8CoXBMhOzrGoRJzUWWmovC7ZKhQqoTAa3_cu-al-zZbd3fl_f5lSVPw9ct21zm1hW13XjvK5zcxjL-mxlt76SlsyM2WeynPhPPng5yuni1sFZ3cEtbRo2J3ZcoCtJQbgrdi1eEpOVOmAF9Nc08kihj9xmUCT5ozDMj4weBFt0WYqjKEHLpGxXu9RzGFUXVZBqb1DMjKiyBPeHVG-SMhrIoqEEkblM85YO6MRdyCiHfux45ZqLUDrqImzjMAARpuotNWGfJbqQXMzJ2Rt2lR6wYxJMgY6D7Z9pjFyCD7zRext_EPA8j9wVIOzVTTjzlY3uwWkFyRL3m1RQOSioAKI4IHFmfzYK4FAxAVTgzdgitAU11ego71N39D82fT-e20lzrfNfl1B30w",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVVklSR1Z1WlRWWWFFRmtjR0pRZDJsc2FtZEdNV2N6ZVhCMlJ6SlJOMjFxTW1nMU1HMWtSRTR6YVU0ellTMVZaMjl0U1dZNWNpMHRWbVEyY0RobVVsTkRWbkIwVUZkQlp6ZG5UVkZxTURkS2VEZGhVVTFxWmpOeVFSSVhkRTE1ZW1GdlEyNUhYME16Y25WRlVEZE5kWHAzUVc4YUlrRkVjM0k1WmxSaU5HVTBTWEl6VkMxdGMyczNYelZaZWxKMFRtWkhTbWhJTkhjIiwiZmN2IjoiMyIsImVpIjoidE15emFvQ25HX0MzcnVFUDdNdXp3QW8iLCJxYyI6IkNpaGlaWE4wSUdWNGRHVnlibUZzSUhOdmJHbGtJSE4wWVhSbElHUnlhWFpsY3lCbWIzSWdiV0ZqRUFCOVBsc0pQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBwb3J0YWJsZSBTU0QgZm9yIGEgTWFjQm9vaz8iLCJsayI6IkdoaHdiM0owWVdKc1pTQnpjMlFnWm05eUlHMWhZMkp2YjJzIiwiYnMiOiJjNVdQUHctQ01CQkg0OXJKVVd0STdnTTRrYWh4a1dpWVRKd1ltQTlhVXdKeTJEYml4NWVyXy1Qa19PNjlfaXJPWXBrYjlGQTU4RVpEb1owSGZmWGF0dGlBUWF0QTJlcWk0VWdXc0lWdDF6VWFEbGdtOFVvdS1qOU1ET1lKUzdFV01qZFZhU0RMVXJhRHlWY2hPNVBUUGxEbjFCZGxkU09pbE42dkRBRUhQZGthcUwzYmtaeXBqd051UERuN2V6SF8tVzFIMW1NeGJPTTVZU3luZGtSMUVrczVlV0Z1UFhZVUF4eVBiZyIsImlkIjoiZmNfdE15emFvQ25HX0MzcnVFUDdNdXp3QW9fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpVVklSR1Z1WlRWWWFFRmtjR0pRZDJsc2FtZEdNV2N6ZVhCMlJ6SlJOMjFxTW1nMU1HMWtSRTR6YVU0ellTMVZaMjl0U1dZNWNpMHRWbVEyY0RobVVsTkRWbkIwVUZkQlp6ZG5UVkZxTURkS2VEZGhVVTFxWmpOeVFSSVhkRTE1ZW1GdlEyNUhYME16Y25WRlVEZE5kWHAzUVc4YUlrRkVjM0k1WmxSaU5HVTBTWEl6VkMxdGMyczNYelZaZWxKMFRtWkhTbWhJTkhjIiwiZmN2IjoiMyIsImVpIjoidE15emFvQ25HX0MzcnVFUDdNdXp3QW8iLCJxYyI6IkNpaGlaWE4wSUdWNGRHVnlibUZzSUhOdmJHbGtJSE4wWVhSbElHUnlhWFpsY3lCbWIzSWdiV0ZqRUFCOVBsc0pQdyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBwb3J0YWJsZSBTU0QgZm9yIGEgTWFjQm9vaz8iLCJsayI6IkdoaHdiM0owWVdKc1pTQnpjMlFnWm05eUlHMWhZMkp2YjJzIiwiYnMiOiJjNVdQUHctQ01CQkg0OXJKVVd0STdnTTRrYWh4a1dpWVRKd1ltQTlhVXdKeTJEYml4NWVyXy1Qa19PNjlfaXJPWXBrYjlGQTU4RVpEb1owSGZmWGF0dGlBUWF0QTJlcWk0VWdXc0lWdDF6VWFEbGdtOFVvdS1qOU1ET1lKUzdFV01qZFZhU0RMVXJhRHlWY2hPNVBUUGxEbjFCZGxkU09pbE42dkRBRUhQZGthcUwzYmtaeXBqd051UERuN2V6SF8tVzFIMW1NeGJPTTVZU3luZGtSMUVrczVlV0Z1UFhZVUF4eVBiZyIsImlkIjoiZmNfdE15emFvQ25HX0MzcnVFUDdNdXp3QW9fNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best overall external SSD for a Mac is the Samsung T7 ShieldGo to product viewer dialog for this item. for everyday use, while the OWC Envoy UltraGo to product viewer dialog for this item. is the top pick for extreme professional speeds.",
+        "snippet_links": [
+          {
+            "text": "Samsung T7 ShieldGo to product viewer dialog for this item.",
+            "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462811008131874,imageDocid:7572712074577681358,gpcid:13654370768262409934,headlineOfferDocid:4082984048743844319,catalogid:17044281708455896184,productDocid:5180536231992026052,rds:PC_13654370768262409934%7CPROD_PC_13654370768262409934&q=product&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQxa4PegoIAggACAAIDhAH"
+          },
+          {
+            "text": "OWC Envoy UltraGo to product viewer dialog for this item.",
+            "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462796775972720,imageDocid:8339081747711674514,gpcid:9474364221667296744,headlineOfferDocid:588586445937576836,catalogid:18161646553897159733,productDocid:3825153567155462704,rds:PC_9474364221667296744%7CPROD_PC_9474364221667296744&q=product&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQxa4PegoIAggACAAIDhAJ"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "Samsung T7 ShieldGo to product viewer dialog for this item."
+        ],
+        "reference_indexes": [
+          5
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Best for Everyday Use & Backups"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Samsung T7 Shield / T9Go to product viewer dialog for this item.: Read and write speeds reach up to 1,050 MB/s to 2,000 MB/s. It features rugged drop protection and works right out of the box for Time Machine backups and general file storage. Prices range from $130 to $250 depending on capacity.",
+            "snippet_links": [
+              {
+                "text": "T9Go to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462895617052919,imageDocid:12190740291328728492,gpcid:11441713160819578654,headlineOfferDocid:13883393086805028476,catalogid:4576778256018402751,productDocid:7939512467123620663,rds:PC_11441713160819578654%7CPROD_PC_11441713160819578654&q=product&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQxa4PegoIAggACAAIDhAU"
+              }
+            ],
+            "reference_indexes": [
+              7
+            ]
+          },
+          {
+            "snippet": "Crucial X9 Pro for MacGo to product viewer dialog for this item.: Offers plug-and-play compatibility optimized for Apple devices with speeds up to 1,050 MB/s in a tiny, splash-proof aluminum body.",
+            "snippet_links": [
+              {
+                "text": "Crucial X9 Pro for MacGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462563338704245,imageDocid:757974490551391485,gpcid:9436896915029195673,headlineOfferDocid:7769953717920712595,catalogid:17545640521207422971,productDocid:5943813692032431487,rds:PC_9436896915029195673%7CPROD_PC_9436896915029195673&q=product&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQxa4PegoIAggACAAIDhAc"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Best Pro-Tier & Video Editing"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "shopping_result": {
+              "title": "SanDisk Professional Pro-G40",
+              "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:2712491183851712259,gpcid:11642593519470608024,headlineOfferDocid:162233313329262385,catalogid:10160171218704499816,productDocid:4301673057678591210,rds:PC_11642593519470608024%7CPROD_PC_11642593519470608024&q=product&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQgLcPegoIAggACAAIDhAl",
+              "immersive_product_page_token": "UMoniXicdY_LasJAAEV_pxAK88praWMTBMUHRaQbmWYmcWDMpJMZH6H_0H-IWrBLLXTrb_g3jV23y3sOHLjvDRffZrCtqYqKZB5hbR9H_sDW6446lloxmxrBzgQD6PkYuL7nB24IEQTHlBoqVS7YF2wlgH5LAx8QEoYB9E4LTpkUBR9mGdddlQp2gh5CGGOIMQqRh3DgfoolzfmvPaM2QEIIg5bfYsgNd5pVVzKK5hB6pN3YhSHxgQcCgMjbaDLszv-Rh1fL9fZ698Ir4_CN4bqg0qmUFMypDDXcYVqseOVkSjtLmh7yMr09-SO1Wwp22ZUr0yzyvbWSX-_XTtTpjXtRj45n05ol0vbjieRJXPfjqaWziXyOHp5YEoPn2aDJZWOrZiEbXnwoWq6y9LLfVDq7_ACovoFQ",
+              "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=UMoniXicdY_LasJAAEV_pxAK88praWMTBMUHRaQbmWYmcWDMpJMZH6H_0H-IWrBLLXTrb_g3jV23y3sOHLjvDRffZrCtqYqKZB5hbR9H_sDW6446lloxmxrBzgQD6PkYuL7nB24IEQTHlBoqVS7YF2wlgH5LAx8QEoYB9E4LTpkUBR9mGdddlQp2gh5CGGOIMQqRh3DgfoolzfmvPaM2QEIIg5bfYsgNd5pVVzKK5hB6pN3YhSHxgQcCgMjbaDLszv-Rh1fL9fZ698Ir4_CN4bqg0qmUFMypDDXcYVqseOVkSjtLmh7yMr09-SO1Wwp22ZUr0yzyvbWSX-_XTtTpjXtRj45n05ol0vbjieRJXPfjqaWziXyOHp5YEoPn2aDJZWOrZiEbXnwoWq6y9LLfVDq7_ACovoFQ",
+              "thumbnail": "https://serpapi.com/searches/6ab3cca42ddc4359afdebf26/images/ynUNewdfjGtNjd8Z2OVqiVGcZdWd7ft0nYVTzw79sNpPu4uPXD7Aylre48iW40Fuc5cVjax525e8Rf4z-vO4hg.jpeg",
+              "price": "$389.99",
+              "extracted_price": 389.99,
+              "old_price": "$575",
+              "extracted_old_price": 575,
+              "source": "Sandisk.com& more",
+              "rating": 4.7,
+              "reviews": 15
+            }
+          },
+          {
+            "shopping_result": {
+              "title": "OWC Envoy Ultra (Thunderbolt 5)",
+              "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462796775972720,imageDocid:947050424302162068,gpcid:9474364221667296744,headlineOfferDocid:16504562273302352589,catalogid:18161646553897159733,productDocid:3825153567155462704,rds:PC_9474364221667296744%7CPROD_PC_9474364221667296744&q=product&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQgLcPegoIAggACAAIGxAB",
+              "immersive_product_page_token": "Gl8fbnicbY_LasJAAEV_pxAKyTyTpY1NEBQfFJFuZJqZxMCYSScZH6H_0H-IWrBLLXTrb_g3Hbt2e8_hcu9nK_LferBtmAqLeB5CbZ5HdGCadUcdS624Seqcn6EPsIchJtTDGBFAXXRMWM2kynL-4_ke8QgiGEM_sEZAITwtBOMyL8QwTYXuquTmEewiTACw3AUQA-wH3_mSZeKfnwJEXWsAZKlHgEv8nebVFYzCuUUIEgRsTigICEXoYzQZduf32eHdCL29PryJqnbEpha6YNKplMy5U9WsFg7X-UpUTqq0s2TJISvtgPOdpt3SDsOU3E7bgNpzgAJ3V67qdpHtjZHi-rh2wk5v3At7bDybNjyWph9NpIijph9NDZtN5Gv49MLjyH2dDdpMtqZqF7IVxZdi5SpNLvtNpdPLHxRqhOs",
+              "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Gl8fbnicbY_LasJAAEV_pxAKyTyTpY1NEBQfFJFuZJqZxMCYSScZH6H_0H-IWrBLLXTrb_g3Hbt2e8_hcu9nK_LferBtmAqLeB5CbZ5HdGCadUcdS624Seqcn6EPsIchJtTDGBFAXXRMWM2kynL-4_ke8QgiGEM_sEZAITwtBOMyL8QwTYXuquTmEewiTACw3AUQA-wH3_mSZeKfnwJEXWsAZKlHgEv8nebVFYzCuUUIEgRsTigICEXoYzQZduf32eHdCL29PryJqnbEpha6YNKplMy5U9WsFg7X-UpUTqq0s2TJISvtgPOdpt3SDsOU3E7bgNpzgAJ3V67qdpHtjZHi-rh2wk5v3At7bDybNjyWph9NpIijph9NDZtN5Gv49MLjyH2dDdpMtqZqF7IVxZdi5SpNLvtNpdPLHxRqhOs",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTO3fgfiGYosXv3YJAC8YMRSs9scti-nNpBciy5eYmBAVkoeeahOMJmWhy9eQ&usqp=CAE",
+              "price": "$649.99",
+              "extracted_price": 649.99,
+              "source": "SunnySports.com& more",
+              "rating": 4.7,
+              "reviews": 85
+            }
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Watch this guide to see how different speed classes compare for Mac storage:"
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.youtube.com/watch?v=-DBauOBpa1M&vl=en",
+        "source": "youtube.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.google.com/",
+        "source": "Google",
+        "index": 1
+      },
+      {
+        "link": "https://cleanmymac.com/blog/best-external-hard-drive-mac-macbook",
+        "source": "cleanmymac.com",
+        "index": 2
+      },
+      {
+        "link": "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd,5987.html",
+        "source": "tomshardware.com",
+        "index": 3
+      },
+      {
+        "title": "Best External SSDs for Mac (2026): From Budget to Thunderbolt 5",
+        "link": "https://www.youtube.com/watch?v=-DBauOBpa1M&vl=en",
+        "snippet": "Best External SSDs for Mac (2026): From Budget to Thunderbolt 5 if you're looking to buy an external SSD there's a couple things you need to consider so in this vi",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSy_s_bNgcKQnLG_y2-VPE5fqMMRMdZ7vyt9QohB4EdDTRgbTyO4Ycy5VL0ll7P7V4zhIVCfOcvC7qTyuAj3VVQxI0aFvags2q33sYvhw",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 4
+      },
+      {
+        "title": "OWC Envoy Ultra Thunderbolt 5 Portable SSD",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:3825153567155462704,catalogid:18161646553897159733,gpcid:9474364221667296744,mid:576462796775972720&ibp=oshop",
+        "snippet": "Introducing the OWC Envoy Ultra 2TB Portable M.2 SSD—engineered for professionals demanding top-tier performance and durability. Featuring Thunderbolt 5 technology, it delivers blazing-fast data transfer speeds exceeding 6000MB/s, doubling the throughput of Thunderbolt 4 and USB4 interfaces. This SSD ensures rapid file transfers and seamless 8K video editing, making it an essential tool for creative workflows. Equipped with a high-performance M.2 NVMe SSD, the Envoy Ultra offers 2TB of storage capacity, providing ample space for large media files and projects. Its bus-powered design includes an integrated Thunderbolt cable, eliminating the need for external power sources and enhancing portability. The fanless, heat-dissipating aluminum enclosure ensures silent operation, ideal for noise-sensitive environments. Built to withstand the rigors of professional use, the Envoy Ultra is IP67-rated, offering resistance to dust, water, and crush impacts. Its broad compatibility spans Macs, PCs, iPad Pros, Chromebooks, and Surface devices, ensuring seamless integration into diverse setups. Optimize your storage solutions with the OWC Envoy Ultra 2TB SSD—where speed, reliability, and rugged design converge to meet the demands of modern professionals.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSML36mLCq_XYSPkil13S2JgB_VQHGS8jp-V7ZFsOpGcAJWgZyBsYS6PrJ751V_4dEeM-ewxAQXU3M23hY",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "The best external hard drive for Mac and MacBook to buy in 2026",
+        "link": "https://cleanmymac.com/blog/best-external-hard-drive-mac-macbook",
+        "snippet": "When choosing an external hard drive for a Mac, you can consider things like: * **Port selection** USB-C is standard on all modern Macs. Thunderbolt 3 or 4 adds sp...",
+        "source": "CleanMyMac",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd4cVBlm2qehQh560_Ir-MSMLmf9LJLxqgcmGgIo4BfPm4Z_Td10aoZte1A3R8E4ZC3u6tnxCwOnnEG0ecnsWuwKqbXGSXr-2JBLQR",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://cleanmymac.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "Crucial X9 Pro for Mac Portable SSD",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:5943813692032431487,catalogid:17545640521207422971,gpcid:9436896915029195673,mid:576462563338704245&ibp=oshop",
+        "snippet": "Crucial X9 Pro 2TB USB 3.2 Gen2 Type-C External Portable SSD Crucial X9 Pro for Mac Portable SSD Designed for Mac and optimised to work with Apple devices right out of the box, the Crucial X9 Pro for Mac helps you supercharge your creativity. With space to store thousands of photos, files, and videos and the speed to edit and retouch your media quickly, the Crucial X9 Pro for Mac gives you the capacity to tackle even taxing workloads along with durability and style in the studio, in the field, or wherever you roam. Uncompromising Performance Create at the speed of ideas, with reads and writes up to 1,050MB/s. Powerful enough for editing directly from the drive, the Crucial X9 Pro for Mac sustains high performance writes of up to 975MB/s. Travel With Confidence Whether youre in the studio, in the field, or traveling, you can help keep your sensitive data safe with Apples FileVault volume encryption. Easy Compatibility The X9 Pro for Mac is optimized for modern Apple devices like Mac, iPad and iPhone 15 Pro/Pro Max and offers out-of-the-box plug-and-play compatibility without the need to reformat for Time Machine8 backups. Dust proof. Splash proof. Durable With IP55 water and dust resistance5 and drop-proof durability up to 7.5 feet/2 meters, your X9 Pro for Mac is durable enough to travel anywhere you shoot, work or roam. Serious Quality Innovated by Micron, the Crucial X9 Pro for Mac is sleek and light with anodized aluminum and a rubberised soft-touch base in a mini 65 x 50 mm design that includes a drive activity light in the integrated lanyard hole.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ3nMz1Bt-ezQLMsqAoCo4wr6T9E0cFE_R9vXU5dKOhgO41HnSaqJhQZwYCKdn8DVOINGgkx5-JkX_Q0_Y",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "Best External SSDs 2026 - Tom's Hardware",
+        "link": "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd,5987.html",
+        "snippet": "* 1. SanDisk Pro-G40 SSD. The Best Portable SSD. Our expert review: Specifications. Capacities: 1TB, 2TB. Drive Type: Portable, Internally M.2 2280. Transfer Proto...",
+        "source": "Tom's Hardware",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTo4fjXoV9Zbav2DW7FrPYgLPqT1EAALA0HLGXtOsP9BFrKgxVc8NH7jLHj92asR6XqNmWFFaIUj8Ad__8iA5nwI55SERe_uUz5JTfB",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tomshardware.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best External SSD for Mac 2026: Fast and reliable storage",
+      "link": "https://www.macworld.com/article/668458/best-external-ssd-for-mac.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVFqotIF0-l9aOwitXgwzVTLhLDSVpJ3nQsVVa6m-1h-KaJtdPWFhJDwTrnAJDYuy_Ft6TG_aKvHN4XM1qH2FuZE-BC3adoKb-nOo3ZQB5pcT5K2KHtaa6V2QEwptjhwd7hrzvASif9mfIdy5WY4VXbiu9u_bl52i2bQ&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://www.macworld.com › Accessories › Storage",
+      "date": "Jun 23, 2026",
+      "snippet": "Discover the best external SSDs for Mac, including fast, At a glance LaCie Rugged SSD Pro5 to budget options, to portability, and more. Best ...",
+      "snippet_highlighted_words": [
+        "LaCie Rugged SSD Pro5"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "SanDisk Extreme Portable...",
+            "link": "https://www.macworld.com/article/668458/best-external-ssd-for-mac.html#sandisk-extreme-portable-ssd-best-compact-ssd"
+          },
+          {
+            "title": "SanDisk Pro Blade System...",
+            "link": "https://www.macworld.com/article/668458/best-external-ssd-for-mac.html#sandisk-pro-blade-system-best-modular-ssd"
+          },
+          {
+            "title": "Lexar Armor 700",
+            "link": "https://www.macworld.com/article/668458/best-external-ssd-for-mac.html#lexar-armor-700"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Discover the best external SSDs for Mac, including fast, At a glance LaCie Rugged SSD Pro5 to budget options, to portability, and more. Best ...",
+          "source_info_link": "https://www.macworld.com/article/668458/best-external-ssd-for-mac.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAVFBMVEUzmcwsl8sek8kumMtqr9f____L4vAQkMjF3u5UpdJjrNXu9fqaxuImlcqTw-DA2-zl8PfT5vKLv96fyeP1-vwAjMapz-Z0tNkplss_ns7U5_JRpNFd0p_sAAAAoklEQVR4AcXOVQKAMAwD0E6Cu8v970mHS_8JGh4T-itKc67qmjnNAvD80wKuobkjrNpbhC_G_tb8WEAk2pU0g4QgRaQMZHR70rmInEipEBJ66578AkD5wcp9yioAdf7BhMBp-GyDL_od1vS-gKlunJW-lnDoHY5GRPInoNMkoxnRaJKRaIhmJWLNSMoQo3dHGm0UjepoJowiS1cU52rGtb-yAFV2CNbXY2O3AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVkZxb3RJRjAtbDlhT3dpdFhnd3pWVExoTERTVnBKM25Rc1ZWYTZtLTFoLUthSnRkUFdGaEpEd1RybkFKRFl1eV9GdDZUR19hS3ZITjRYTTFxSDJGdVpFLUJDM2Fkb0tiLW5PbzNaUUI1cGNUNUsyS0h0YWE2VjJRRXdwdGpod2Q3aHJ6dkFTaWY5bWZJZHk1V1k0VlhiaXU5dV9ibDUyaTJiURIEGgIIABqQBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOoFCAAQABgAIAAqFgoEYmVzdBX5O9dAGgRnb29kGgN0b3AqIgoIZXh0ZXJuYWwVK3q9QBoIZXh0ZXJpb3IaB291dGRvb3IqIwoFc29saWQVqsmqPxoDc3NkGgRzc2RzGgpzb2xpZHN0YXRlKisKBXN0YXRlFbMspD8aA3NzZBoEc3NkcxoGc3RhdGVzGgpzb2xpZHN0YXRlKkwKBmRyaXZlcxUFn_s_GgRkaXNrGgVkcml2ZRoGZHJpdmVyGgdkcml2ZXJzGgNoZGQaBHNzZHMaB3N0b3JhZ2UaC2l2O3A7ZHJpdmVzKgoKA2ZvchUAAAAAKkQKA21hYxX-nwJBGgRpbWFjGgttYWNib29rIHBybxoJbWFjaW50b3NoGgVtYWNvcxoEbWFjcxoDb3N4GghpdjtwO21hYzK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZGcW90SUYwLWw5YU93aXRYZ3d6VlRMaExEU1ZwSjNuUXNWVmE2bS0xaC1LYUp0ZFBXRmhKRHdUcm5BSkRZdXlfRnQ2VEdfYUt2SE40WE0xcUgyRnVaRS1CQzNhZG9LYi1uT28zWlFCNXBjVDVLMktIdGFhNlYyUUV3cHRqaHdkN2hyenZBU2lmOW1mSWR5NVdZNFZYYml1OXVfYmw1MmkyYlE6TjxiPkJlc3QgRXh0ZXJuYWwgU1NEPC9iPiBmb3IgPGI-TWFjPC9iPiAyMDI2OiBGYXN0IGFuZCByZWxpYWJsZSA8Yj5zdG9yYWdlPC9iPkKcAURpc2NvdmVyIHRoZSBiZXN0IGV4dGVybmFsIFNTRHMgZm9yIE1hYywgaW5jbHVkaW5nIGZhc3QsIEF0IGEgZ2xhbmNlIDxiPkxhQ2llIFJ1Z2dlZCBTU0QgUHJvNTwvYj4gdG8gYnVkZ2V0IG9wdGlvbnMsIHRvIHBvcnRhYmlsaXR5LCBhbmQgbW9yZS4gQmVzdCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSAFYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVkZxb3RJRjAtbDlhT3dpdFhnd3pWVExoTERTVnBKM25Rc1ZWYTZtLTFoLUthSnRkUFdGaEpEd1RybkFKRFl1eV9GdDZUR19hS3ZITjRYTTFxSDJGdVpFLUJDM2Fkb0tiLW5PbzNaUUI1cGNUNUsyS0h0YWE2VjJRRXdwdGpod2Q3aHJ6dkFTaWY5bWZJZHk1V1k0VlhiaXU5dV9ibDUyaTJiURIEGgIIABqQBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOoFCAAQABgAIAAqFgoEYmVzdBX5O9dAGgRnb29kGgN0b3AqIgoIZXh0ZXJuYWwVK3q9QBoIZXh0ZXJpb3IaB291dGRvb3IqIwoFc29saWQVqsmqPxoDc3NkGgRzc2RzGgpzb2xpZHN0YXRlKisKBXN0YXRlFbMspD8aA3NzZBoEc3NkcxoGc3RhdGVzGgpzb2xpZHN0YXRlKkwKBmRyaXZlcxUFn_s_GgRkaXNrGgVkcml2ZRoGZHJpdmVyGgdkcml2ZXJzGgNoZGQaBHNzZHMaB3N0b3JhZ2UaC2l2O3A7ZHJpdmVzKgoKA2ZvchUAAAAAKkQKA21hYxX-nwJBGgRpbWFjGgttYWNib29rIHBybxoJbWFjaW50b3NoGgVtYWNvcxoEbWFjcxoDb3N4GghpdjtwO21hYzK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZGcW90SUYwLWw5YU93aXRYZ3d6VlRMaExEU1ZwSjNuUXNWVmE2bS0xaC1LYUp0ZFBXRmhKRHdUcm5BSkRZdXlfRnQ2VEdfYUt2SE40WE0xcUgyRnVaRS1CQzNhZG9LYi1uT28zWlFCNXBjVDVLMktIdGFhNlYyUUV3cHRqaHdkN2hyenZBU2lmOW1mSWR5NVdZNFZYYml1OXVfYmw1MmkyYlE6TjxiPkJlc3QgRXh0ZXJuYWwgU1NEPC9iPiBmb3IgPGI-TWFjPC9iPiAyMDI2OiBGYXN0IGFuZCByZWxpYWJsZSA8Yj5zdG9yYWdlPC9iPkKcAURpc2NvdmVyIHRoZSBiZXN0IGV4dGVybmFsIFNTRHMgZm9yIE1hYywgaW5jbHVkaW5nIGZhc3QsIEF0IGEgZ2xhbmNlIDxiPkxhQ2llIFJ1Z2dlZCBTU0QgUHJvNTwvYj4gdG8gYnVkZ2V0IG9wdGlvbnMsIHRvIHBvcnRhYmlsaXR5LCBhbmQgbW9yZS4gQmVzdCZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSAFYAGgA",
+      "source": "Macworld"
+    },
+    {
+      "position": 2,
+      "title": "What external SSD are you using? : r/mac",
+      "link": "https://www.reddit.com/r/mac/comments/1igw61r/what_external_ssd_are_you_using/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFaBOzXrB-neQmacXUszwV_DmkUK8mN4PDhaDF3pVHUaoK88_fPjG_FxrzNHUGE_Z0pAIf01csFQdV3TOsTLuMO93tsYXFeYQWGbjEghqnB8bo5STK6Hyjo2FmdDySZMio86jEYeQs7VXH7iU-gt_NFRBtwOXH5q-lp2CjN-2h4rgdg&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQFnoECCEQAQ&uoh=1",
+      "displayed_link": "40+ comments · 1 year ago",
+      "snippet": "I’m planning to get an external SSD for my M4. Any idea what brand should I go? I need around 4TB storage. Thanks. Btw, I will be using it as ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Favorite SSD External drives with MacBook Pro?",
+            "link": "https://www.reddit.com/r/finalcutpro/comments/18p6qpf/favorite_ssd_external_drives_with_macbook_pro/",
+            "answer_count": 56,
+            "date": "Dec 23, 2023"
+          },
+          {
+            "title": "Which external SSD/HDD should I buy for my Mac",
+            "link": "https://www.reddit.com/r/datastorage/comments/1spukog/which_external_ssdhdd_should_i_buy_for_my_mac/",
+            "answer_count": 17,
+            "date": "Apr 19, 2026"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Samsung T7 Shield 4TB is a top pick because it's fast (~1050MB/s), durable, and handles sustained video workloads well without throttling .",
+          "source_info_link": "https://www.reddit.com/r/mac/comments/1igw61r/what_external_ssd_are_you_using/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZhQk96WHJCLW5lUW1hY1hVc3p3Vl9EbWtVSzhtTjRQRGhhREYzcFZIVWFvSzg4X2ZQakdfRnhyek5IVUdFX1owcEFJZjAxY3NGUWRWM1RPc1RMdU1POTN0c1lYRmVZUVdHYmpFZ2hxbkI4Ym81U1RLNkh5am8yRm1kRHlTWk1pbzg2akVZZVFzN1ZYSDdpVS1ndF9ORlJCdHdPWEg1cS1scDJDak4tMmg0cmdkZxIEGgIIABqJBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDlBQgAEAAYACAAKhYKBGJlc3QV7RO8PxoEZ29vZBoDdG9wKiIKCGV4dGVybmFsFR-1ykAaCGV4dGVyaW9yGgdvdXRkb29yKiMKBXNvbGlkFbEgwz4aA3NzZBoEc3NkcxoKc29saWRzdGF0ZSorCgVzdGF0ZRUAAAAAGgNzc2QaBHNzZHMaBnN0YXRlcxoKc29saWRzdGF0ZSpMCgZkcml2ZXMVBuvvPxoEZGlzaxoFZHJpdmUaBmRyaXZlchoHZHJpdmVycxoDaGRkGgRzc2RzGgdzdG9yYWdlGgtpdjtwO2RyaXZlcyoKCgNmb3IVAAAAACpECgNtYWMVBEm0QBoEaW1hYxoLbWFjYm9vayBwcm8aCW1hY2ludG9zaBoFbWFjb3MaBG1hY3MaA29zeBoIaXY7cDttYWMyxAEvZ290bz91cmw9Q0FFU2hnRUI2enN3RmFCT3pYckItbmVRbWFjWFVzendWX0Rta1VLOG1ONFBEaGFERjNwVkhVYW9LODhfZlBqR19GeHJ6TkhVR0VfWjBwQUlmMDFjc0ZRZFYzVE9zVEx1TU85M3RzWVhGZVlRV0diakVnaHFuQjhibzVTVEs2SHlqbzJGbWREeVNaTWlvODZqRVllUXM3VlhIN2lVLWd0X05GUkJ0d09YSDVxLWxwMkNqTi0yaDRyZ2RnOj9XaGF0IDxiPmV4dGVybmFsIFNTRDwvYj4gYXJlIHlvdSB1c2luZz8gOiByLzxiPm1hYzwvYj4gLSBSZWRkaXRCmgFUaGUgPGI-U2Ftc3VuZyBUNyBTaGllbGQgNFRCPC9iPiBpcyBhIHRvcCBwaWNrIGJlY2F1c2UgaXQmIzM5O3MgZmFzdCAofjEwNTBNQi9zKSwgZHVyYWJsZSwgYW5kIGhhbmRsZXMgc3VzdGFpbmVkIHZpZGVvIHdvcmtsb2FkcyB3ZWxsIHdpdGhvdXQgdGhyb3R0bGluZyAuSgNmb3JSA3RvcCICEAFIAVgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZhQk96WHJCLW5lUW1hY1hVc3p3Vl9EbWtVSzhtTjRQRGhhREYzcFZIVWFvSzg4X2ZQakdfRnhyek5IVUdFX1owcEFJZjAxY3NGUWRWM1RPc1RMdU1POTN0c1lYRmVZUVdHYmpFZ2hxbkI4Ym81U1RLNkh5am8yRm1kRHlTWk1pbzg2akVZZVFzN1ZYSDdpVS1ndF9ORlJCdHdPWEg1cS1scDJDak4tMmg0cmdkZxIEGgIIABqJBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDlBQgAEAAYACAAKhYKBGJlc3QV7RO8PxoEZ29vZBoDdG9wKiIKCGV4dGVybmFsFR-1ykAaCGV4dGVyaW9yGgdvdXRkb29yKiMKBXNvbGlkFbEgwz4aA3NzZBoEc3NkcxoKc29saWRzdGF0ZSorCgVzdGF0ZRUAAAAAGgNzc2QaBHNzZHMaBnN0YXRlcxoKc29saWRzdGF0ZSpMCgZkcml2ZXMVBuvvPxoEZGlzaxoFZHJpdmUaBmRyaXZlchoHZHJpdmVycxoDaGRkGgRzc2RzGgdzdG9yYWdlGgtpdjtwO2RyaXZlcyoKCgNmb3IVAAAAACpECgNtYWMVBEm0QBoEaW1hYxoLbWFjYm9vayBwcm8aCW1hY2ludG9zaBoFbWFjb3MaBG1hY3MaA29zeBoIaXY7cDttYWMyxAEvZ290bz91cmw9Q0FFU2hnRUI2enN3RmFCT3pYckItbmVRbWFjWFVzendWX0Rta1VLOG1ONFBEaGFERjNwVkhVYW9LODhfZlBqR19GeHJ6TkhVR0VfWjBwQUlmMDFjc0ZRZFYzVE9zVEx1TU85M3RzWVhGZVlRV0diakVnaHFuQjhibzVTVEs2SHlqbzJGbWREeVNaTWlvODZqRVllUXM3VlhIN2lVLWd0X05GUkJ0d09YSDVxLWxwMkNqTi0yaDRyZ2RnOj9XaGF0IDxiPmV4dGVybmFsIFNTRDwvYj4gYXJlIHlvdSB1c2luZz8gOiByLzxiPm1hYzwvYj4gLSBSZWRkaXRCmgFUaGUgPGI-U2Ftc3VuZyBUNyBTaGllbGQgNFRCPC9iPiBpcyBhIHRvcCBwaWNrIGJlY2F1c2UgaXQmIzM5O3MgZmFzdCAofjEwNTBNQi9zKSwgZHVyYWJsZSwgYW5kIGhhbmRsZXMgc3VzdGFpbmVkIHZpZGVvIHdvcmtsb2FkcyB3ZWxsIHdpdGhvdXQgdGhyb3R0bGluZyAuSgNmb3JSA3RvcCICEAFIAVgAaAA",
+      "source": "Reddit · r/mac"
+    },
+    {
+      "position": 3,
+      "title": "The best external hard drive for Mac and MacBook to buy ...",
+      "link": "https://cleanmymac.com/blog/best-external-hard-drive-mac-macbook",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVJcEiZJkJHRWlzApf2JESuR1vygdW5UV-3M0sMqEcrIRtvp3S7cDSh6-JpYI3PrAnBR6bBWa_GMLZHSbChkcavQbVsTTQz0Jlp0kkU336VJ1K94IIvNjOlpe68pG7VZi6EPCoGAYfrywzEdY0gWxi4YIapw&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://cleanmymac.com › blog › best-external-hard-dri...",
+      "date": "Jan 28, 2026",
+      "snippet": "1. Best portable hard drive: Samsung T9 SSD · 2. Best budget SSD for Mac: SanDisk Extreme Portable SSD - 500GB · 3. Best rugged drive: LaCie ...",
+      "snippet_highlighted_words": [
+        "Samsung T9 SSD"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Best portable hard drive: Samsung T9 SSD · 2. Best budget SSD for Mac: SanDisk Extreme Portable SSD - 500GB · 3. Best rugged drive: LaCie ...",
+          "source_info_link": "https://cleanmymac.com/blog/best-external-hard-drive-mac-macbook",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAA1VBMVEVHcEzcVNXMTtLZSM_rddziatvUXdPo0_LOc9VtcrfiQMruduGKccHSxu6potjGtebW3OvWwebzru3ZYt3HJr3uQc_TNcXRLsHqO8rdLcLQH7f5kO_zSNLYKL7IGbTyUNX7duLlM8b2V9j6guWPjNbOx-v3feT4X9vdNMfhOcyro-Sxq-m0sOnnbeP4ad3thu7SJLzKP8rU0O_PVde7k9W-Rczke-7n5PnfW97CMMGWldbCwOagndfar-2zD6jWG8Ckq83TaNfMjd3PgN2yut7No-PQk-BufAioAAAAFHRSTlMAWM-VSi8cAwrh0Mavx6jNvbRTlWCC9FoAAAFKSURBVCiRtdJpb4IwGMDxgkOd7l45nExEpQisoNx4TJ3O7_-R9rQoMZG92Iv9Qrj-KSVpEfo_TUm64Z6fXgR2laTmKUlkfBZ9Z1l_SMYEDonHLiFkyBFDM9aZReywT0iXRx9e-75t26OR4fQ283V2jEM6pHxC3z8nw9Dl6Wyzs6wwoJRNK_BQJl2WZUfF-Li0KBUgNs6BFc0BCv5MVvv8FWJH18sga5pmmlOgFJ9xnIsQ5XIIL6bZA6pa4N12F8H_VGN4eQcqq9s4aiIBguPA18oyYzDGg69DJKCG40yr8nYCdX7YN1BHASobAi8HFTxwYxEpFZVhE8L9HCQJEnGdoiiSRERSTtM0CIL-BXhMU5qzdWkzrfakAg_MxYK3Vq7rTlzmeje0XM_zFgs4eTV7xfs4qYmPFghDOC3vr-LdbeWhZtLKL3v0L34AL789LktNwIYAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkpjRWlaSmtKSFJXbHpBcGYySkVTdVIxdnlnZFc1VVYtM00wc01xRWNySVJ0dnAzUzdjRFNoNi1KcFlJM1ByQW5CUjZiQldhX0dNTFpIU2JDaGtjYXZRYlZzVFRRejBKbHAwa2tVMzM2VkoxSzk0SUl2TmpPbHBlNjhwRzdWWmk2RVBDb0dBWWZyeXd6RWRZMGdXeGk0WUlhcHcSBBoCCAAalAYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDuBQgAEAAYACAAKhYKBGJlc3QVZhqFQBoEZ29vZBoDdG9wKiIKCGV4dGVybmFsFZr6zkAaCGV4dGVyaW9yGgdvdXRkb29yKiMKBXNvbGlkFaNHkz8aA3NzZBoEc3NkcxoKc29saWRzdGF0ZSorCgVzdGF0ZRXlOkA_GgNzc2QaBHNzZHMaBnN0YXRlcxoKc29saWRzdGF0ZSpMCgZkcml2ZXMV6nIVQBoEZGlzaxoFZHJpdmUaBmRyaXZlchoHZHJpdmVycxoDaGRkGgRzc2RzGgdzdG9yYWdlGgtpdjtwO2RyaXZlcyoKCgNmb3IVAAAAACpECgNtYWMVWHDeQBoEaW1hYxoLbWFjYm9vayBwcm8aCW1hY2ludG9zaBoFbWFjb3MaBG1hY3MaA29zeBoIaXY7cDttYWMysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWSmNFaVpKa0pIUldsekFwZjJKRVN1UjF2eWdkVzVVVi0zTTBzTXFFY3JJUnR2cDNTN2NEU2g2LUpwWUkzUHJBbkJSNmJCV2FfR01MWkhTYkNoa2NhdlFiVnNUVFF6MEpscDBra1UzMzZWSjFLOTRJSXZOak9scGU2OHBHN1ZaaTZFUENvR0FZZnJ5d3pFZFkwZ1d4aTRZSWFwdzpMVGhlIDxiPmJlc3QgZXh0ZXJuYWw8L2I-IGhhcmQgPGI-ZHJpdmUgZm9yIE1hYzwvYj4gYW5kIE1hY0Jvb2sgdG8gYnV5IGluIC4uLkKqATEuIEJlc3QgcG9ydGFibGUgaGFyZCBkcml2ZTogPGI-U2Ftc3VuZyBUOSBTU0Q8L2I-ICZtaWRkb3Q7IDIuIEJlc3QgYnVkZ2V0IFNTRCBmb3IgTWFjOiBTYW5EaXNrIEV4dHJlbWUgUG9ydGFibGUgU1NEIC0gNTAwR0IgJm1pZGRvdDsgMy4gQmVzdCBydWdnZWQgZHJpdmU6IExhQ2llJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAVgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkpjRWlaSmtKSFJXbHpBcGYySkVTdVIxdnlnZFc1VVYtM00wc01xRWNySVJ0dnAzUzdjRFNoNi1KcFlJM1ByQW5CUjZiQldhX0dNTFpIU2JDaGtjYXZRYlZzVFRRejBKbHAwa2tVMzM2VkoxSzk0SUl2TmpPbHBlNjhwRzdWWmk2RVBDb0dBWWZyeXd6RWRZMGdXeGk0WUlhcHcSBBoCCAAalAYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDuBQgAEAAYACAAKhYKBGJlc3QVZhqFQBoEZ29vZBoDdG9wKiIKCGV4dGVybmFsFZr6zkAaCGV4dGVyaW9yGgdvdXRkb29yKiMKBXNvbGlkFaNHkz8aA3NzZBoEc3NkcxoKc29saWRzdGF0ZSorCgVzdGF0ZRXlOkA_GgNzc2QaBHNzZHMaBnN0YXRlcxoKc29saWRzdGF0ZSpMCgZkcml2ZXMV6nIVQBoEZGlzaxoFZHJpdmUaBmRyaXZlchoHZHJpdmVycxoDaGRkGgRzc2RzGgdzdG9yYWdlGgtpdjtwO2RyaXZlcyoKCgNmb3IVAAAAACpECgNtYWMVWHDeQBoEaW1hYxoLbWFjYm9vayBwcm8aCW1hY2ludG9zaBoFbWFjb3MaBG1hY3MaA29zeBoIaXY7cDttYWMysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWSmNFaVpKa0pIUldsekFwZjJKRVN1UjF2eWdkVzVVVi0zTTBzTXFFY3JJUnR2cDNTN2NEU2g2LUpwWUkzUHJBbkJSNmJCV2FfR01MWkhTYkNoa2NhdlFiVnNUVFF6MEpscDBra1UzMzZWSjFLOTRJSXZOak9scGU2OHBHN1ZaaTZFUENvR0FZZnJ5d3pFZFkwZ1d4aTRZSWFwdzpMVGhlIDxiPmJlc3QgZXh0ZXJuYWw8L2I-IGhhcmQgPGI-ZHJpdmUgZm9yIE1hYzwvYj4gYW5kIE1hY0Jvb2sgdG8gYnV5IGluIC4uLkKqATEuIEJlc3QgcG9ydGFibGUgaGFyZCBkcml2ZTogPGI-U2Ftc3VuZyBUOSBTU0Q8L2I-ICZtaWRkb3Q7IDIuIEJlc3QgYnVkZ2V0IFNTRCBmb3IgTWFjOiBTYW5EaXNrIEV4dHJlbWUgUG9ydGFibGUgU1NEIC0gNTAwR0IgJm1pZGRvdDsgMy4gQmVzdCBydWdnZWQgZHJpdmU6IExhQ2llJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAVgAaAA",
+      "source": "CleanMyMac",
+      "read_more_link": "https://cleanmymac.com/blog/best-external-hard-drive-mac-macbook#:~:text=1.%20Best%20portable%20hard%20drive%3A,Samsung%20T9%20SSD&text=2.%20Best%20budget%20SSD%20for,Extreme%20Portable%20SSD%20%2D%20500GB&text=3.%20Best%20rugged%20drive%3A%20LaCie,Rugged%20USB%2DC"
+    },
+    {
+      "position": 4,
+      "title": "Best External SSDs 2026",
+      "link": "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd,5987.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFdsFF_O_RRHGL3rmiau2YyLgOtZQ7xLzkWJSckMVxaO9Sq4lqxJe2I4I0pzCPQb-7rz_TDUZapslBKKFeSwklhhyBqtepTVXCUdwpGjaaKp3tffWAbLNkAhRxg8WrRwKdTKjmMebE-z0A0O9ujl8-geP-iXBqC8tm_c3vIOEBw&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQFnoECDYQAQ&uoh=1",
+      "displayed_link": "https://www.tomshardware.com › ... › External SSDs",
+      "date": "Sep 9, 2026",
+      "snippet": "The SanDisk Pro-G40 is an excellent all-around portable SSD. It has both Thunderbolt 3 and USB modes, so it will work on a wide range of devices ...",
+      "snippet_highlighted_words": [
+        "SanDisk Pro-G40"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best Portable SSD",
+            "link": "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd,5987.html#section-best-portable-ssd"
+          },
+          {
+            "title": "Best External Hard Drive",
+            "link": "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd,5987.html#section-best-external-hard-drive"
+          },
+          {
+            "title": "Best Thunderbolt 5 Portable SSD",
+            "link": "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd,5987.html#section-best-thunderbolt-5-portable-ssd"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The SanDisk Pro-G40 is an excellent all-around portable SSD. It has both Thunderbolt 3 and USB modes, so it will work on a wide range of devices ...",
+          "source_info_link": "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd,5987.html",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX____11tbomZrkgoPjfoDrqqvpnp_22tv99_feYmTVGR7XLC_XLzPWIyffaWrhd3jYNjnYODvVFhzWJCjcVFbvuLn44uP66OjZQEP88PHTAADxwsLtr7DeXmD--vrcUVPaR0nzzM3WJiquvNIaAAAAiElEQVR4AcXJwRZDMBBA0UE0JDM6CUQQbf3_R7bdcqbn1MZbvM2Fi8vyolAlwE0fqKqNRURqanM_GBoids76FtUeXdcPYWSbx3IqdjYv3zdmqgAC_J9KaRUxoY8iPtjI-GQKIo5Mg4jMpEVEpkxE-wvJtS_JVuO2-RTGD_YSBs_bAlIdooZrewPZ7wcrkwv8OAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0Zkc0ZGX09fUlJIR0wzcm1pYXUyWXlMZ090WlE3eEx6a1dKU2NrTVZ4YU85U3E0bHF4SmUySTRJMHB6Q1BRYi03cnpfVERVWmFwc2xCS0tGZVN3a2xoaHlCcXRlcFRWWENVZHdwR2phYUtwM3RmZldBYkxOa0FoUnhnOFdyUndLZFRLam1NZWJFLXowQTBPOXVqbDgtZ2VQLWlYQnFDOHRtX2MzdklPRUJ3EgQaAggAGoEGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2wUIABAAGAAgACoWCgRiZXN0FbYQ0EAaBGdvb2QaA3RvcCoiCghleHRlcm5hbBXFZJdAGghleHRlcmlvchoHb3V0ZG9vciojCgVzb2xpZBWee5E_GgNzc2QaBHNzZHMaCnNvbGlkc3RhdGUqKwoFc3RhdGUVwlBgPxoDc3NkGgRzc2RzGgZzdGF0ZXMaCnNvbGlkc3RhdGUqTAoGZHJpdmVzFWgf9j8aBGRpc2saBWRyaXZlGgZkcml2ZXIaB2RyaXZlcnMaA2hkZBoEc3NkcxoHc3RvcmFnZRoLaXY7cDtkcml2ZXMqCgoDZm9yFQAAAAAqRAoDbWFjFd6fvj4aBGltYWMaC21hY2Jvb2sgcHJvGgltYWNpbnRvc2gaBW1hY29zGgRtYWNzGgNvc3gaCGl2O3A7bWFjMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0Zkc0ZGX09fUlJIR0wzcm1pYXUyWXlMZ090WlE3eEx6a1dKU2NrTVZ4YU85U3E0bHF4SmUySTRJMHB6Q1BRYi03cnpfVERVWmFwc2xCS0tGZVN3a2xoaHlCcXRlcFRWWENVZHdwR2phYUtwM3RmZldBYkxOa0FoUnhnOFdyUndLZFRLam1NZWJFLXowQTBPOXVqbDgtZ2VQLWlYQnFDOHRtX2MzdklPRUJ3OjM8Yj5CZXN0IEV4dGVybmFsIFNTRHM8L2I-IDIwMjYgLSBUb20mIzM5O3MgSGFyZHdhcmVCoAFUaGUgPGI-U2FuRGlzayBQcm8tRzQwPC9iPiBpcyBhbiBleGNlbGxlbnQgYWxsLWFyb3VuZCBwb3J0YWJsZSBTU0QuIEl0IGhhcyBib3RoIFRodW5kZXJib2x0IDMgYW5kIFVTQiBtb2Rlcywgc28gaXQgd2lsbCB3b3JrIG9uIGEgd2lkZSByYW5nZSBvZiBkZXZpY2VzJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAVgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0Zkc0ZGX09fUlJIR0wzcm1pYXUyWXlMZ090WlE3eEx6a1dKU2NrTVZ4YU85U3E0bHF4SmUySTRJMHB6Q1BRYi03cnpfVERVWmFwc2xCS0tGZVN3a2xoaHlCcXRlcFRWWENVZHdwR2phYUtwM3RmZldBYkxOa0FoUnhnOFdyUndLZFRLam1NZWJFLXowQTBPOXVqbDgtZ2VQLWlYQnFDOHRtX2MzdklPRUJ3EgQaAggAGoEGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2wUIABAAGAAgACoWCgRiZXN0FbYQ0EAaBGdvb2QaA3RvcCoiCghleHRlcm5hbBXFZJdAGghleHRlcmlvchoHb3V0ZG9vciojCgVzb2xpZBWee5E_GgNzc2QaBHNzZHMaCnNvbGlkc3RhdGUqKwoFc3RhdGUVwlBgPxoDc3NkGgRzc2RzGgZzdGF0ZXMaCnNvbGlkc3RhdGUqTAoGZHJpdmVzFWgf9j8aBGRpc2saBWRyaXZlGgZkcml2ZXIaB2RyaXZlcnMaA2hkZBoEc3NkcxoHc3RvcmFnZRoLaXY7cDtkcml2ZXMqCgoDZm9yFQAAAAAqRAoDbWFjFd6fvj4aBGltYWMaC21hY2Jvb2sgcHJvGgltYWNpbnRvc2gaBW1hY29zGgRtYWNzGgNvc3gaCGl2O3A7bWFjMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0Zkc0ZGX09fUlJIR0wzcm1pYXUyWXlMZ090WlE3eEx6a1dKU2NrTVZ4YU85U3E0bHF4SmUySTRJMHB6Q1BRYi03cnpfVERVWmFwc2xCS0tGZVN3a2xoaHlCcXRlcFRWWENVZHdwR2phYUtwM3RmZldBYkxOa0FoUnhnOFdyUndLZFRLam1NZWJFLXowQTBPOXVqbDgtZ2VQLWlYQnFDOHRtX2MzdklPRUJ3OjM8Yj5CZXN0IEV4dGVybmFsIFNTRHM8L2I-IDIwMjYgLSBUb20mIzM5O3MgSGFyZHdhcmVCoAFUaGUgPGI-U2FuRGlzayBQcm8tRzQwPC9iPiBpcyBhbiBleGNlbGxlbnQgYWxsLWFyb3VuZCBwb3J0YWJsZSBTU0QuIEl0IGhhcyBib3RoIFRodW5kZXJib2x0IDMgYW5kIFVTQiBtb2Rlcywgc28gaXQgd2lsbCB3b3JrIG9uIGEgd2lkZSByYW5nZSBvZiBkZXZpY2VzJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAVgAaAA",
+      "source": "Tom's Hardware",
+      "read_more_link": "https://www.tomshardware.com/reviews/best-external-hard-drive-ssd,5987.html#:~:text=The%20SanDisk%20Pro%2DG40%20is%20an,to%20Type%2DA%20adapter%20or%20cable."
+    },
+    {
+      "position": 5,
+      "title": "The Best External Hard Drives and SSDs for Mac in 2026",
+      "link": "https://www.pcmag.com/picks/the-best-external-hard-drives-for-mac",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVphwvRrRiJLe96hm8HsOybI-8YFQkEFvbuLnT8suhp5K1YB6hMbudKjaHyefQiTj6SIRXDeXqo18glKJat8wZ-2wWdNJHBOdQZGIaOkJTIsuaWC2X6x1pzCLpdz8IhyzhXyocxCBGvPAwhj_CepZwBF1UC-E&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQFnoECDMQAQ&uoh=1",
+      "displayed_link": "https://www.pcmag.com › ... › Storage › Hard Drives",
+      "date": "Aug 12, 2026",
+      "snippet": "Our top general-use external SSD for Macs is Crucial's X10, a top external SSD choice for media libraries, PC games, and scratch-disk duty.",
+      "snippet_highlighted_words": [
+        "Crucial's X10"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our top general-use external SSD for Macs is Crucial's X10, a top external SSD choice for media libraries, PC games, and scratch-disk duty.",
+          "source_info_link": "https://www.pcmag.com/picks/the-best-external-hard-drives-for-mac",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXrAC7rAC7rAC7rAC3rACHwZXXqAAzvS170kpz2qbHzhJD____5v8XtKUT71dn_-fr-7_HxcHzuOVHFtC6NAAAAA3RSTlNM9fvAUo4WAAAAqklEQVR4AbXTgQrEIAiA4TbNKmurvf_DnsM44agA4H4ghA8gyJw7zkWHcyesEpUTNdBsfhG9BgQShZhSBhxIPCqi9dI50sDblBqPMhpq0L9jI8PLs-QjS72whGBIhjVt8PkThizBAvHNcBR2SIpPl36x0_xCfLcSEFe3JUJYIkiKdYe-zHH-ZIqAMmsRFdkQalNLNBYsSh1BI59KiVVM0JZxsponLDu23-EDtDAWNH_t18YAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnBod3ZSclJpSkxlOTZobThIc095YkktOFlGUWtFRnZidUxuVDhzdWhwNUsxWUI2aE1idWRLamFIeWVmUWlUajZTSVJYRGVYcW8xOGdsS0phdDh3Wi0yd1dkTkpIQk9kUVpHSWFPa0pUSXN1YVdDMlg2eDFwekNMcGR6OEloeXpoWHlvY3hDQkd2UEF3aGpfQ2VwWndCRjFVQy1FEgQaAggAGoAGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2gUIABAAGAAgACoWCgRiZXN0FXh1GUEaBGdvb2QaA3RvcCoiCghleHRlcm5hbBW3MbhAGghleHRlcmlvchoHb3V0ZG9vciojCgVzb2xpZBUj3Ko_GgNzc2QaBHNzZHMaCnNvbGlkc3RhdGUqKwoFc3RhdGUVq7qjPxoDc3NkGgRzc2RzGgZzdGF0ZXMaCnNvbGlkc3RhdGUqTAoGZHJpdmVzFS6yukAaBGRpc2saBWRyaXZlGgZkcml2ZXIaB2RyaXZlcnMaA2hkZBoEc3NkcxoHc3RvcmFnZRoLaXY7cDtkcml2ZXMqCgoDZm9yFQAAAAAqRAoDbWFjFToEmUAaBGltYWMaC21hY2Jvb2sgcHJvGgltYWNpbnRvc2gaBW1hY29zGgRtYWNzGgNvc3gaCGl2O3A7bWFjMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnBod3ZSclJpSkxlOTZobThIc095YkktOFlGUWtFRnZidUxuVDhzdWhwNUsxWUI2aE1idWRLamFIeWVmUWlUajZTSVJYRGVYcW8xOGdsS0phdDh3Wi0yd1dkTkpIQk9kUVpHSWFPa0pUSXN1YVdDMlg2eDFwekNMcGR6OEloeXpoWHlvY3hDQkd2UEF3aGpfQ2VwWndCRjFVQy1FOktUaGUgPGI-QmVzdCBFeHRlcm5hbDwvYj4gSGFyZCA8Yj5Ecml2ZXM8L2I-IGFuZCA8Yj5TU0RzIGZvciBNYWM8L2I-IGluIDIwMjZClgFPdXIgdG9wIGdlbmVyYWwtdXNlIGV4dGVybmFsIFNTRCBmb3IgTWFjcyBpcyA8Yj5DcnVjaWFsJiMzOTtzIFgxMDwvYj4sIGEgdG9wIGV4dGVybmFsIFNTRCBjaG9pY2UgZm9yIG1lZGlhIGxpYnJhcmllcywgUEMgZ2FtZXMsIGFuZCBzY3JhdGNoLWRpc2sgZHV0eS5KA2ZvclIDdG9wIgIQAUgBWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnBod3ZSclJpSkxlOTZobThIc095YkktOFlGUWtFRnZidUxuVDhzdWhwNUsxWUI2aE1idWRLamFIeWVmUWlUajZTSVJYRGVYcW8xOGdsS0phdDh3Wi0yd1dkTkpIQk9kUVpHSWFPa0pUSXN1YVdDMlg2eDFwekNMcGR6OEloeXpoWHlvY3hDQkd2UEF3aGpfQ2VwWndCRjFVQy1FEgQaAggAGoAGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2gUIABAAGAAgACoWCgRiZXN0FXh1GUEaBGdvb2QaA3RvcCoiCghleHRlcm5hbBW3MbhAGghleHRlcmlvchoHb3V0ZG9vciojCgVzb2xpZBUj3Ko_GgNzc2QaBHNzZHMaCnNvbGlkc3RhdGUqKwoFc3RhdGUVq7qjPxoDc3NkGgRzc2RzGgZzdGF0ZXMaCnNvbGlkc3RhdGUqTAoGZHJpdmVzFS6yukAaBGRpc2saBWRyaXZlGgZkcml2ZXIaB2RyaXZlcnMaA2hkZBoEc3NkcxoHc3RvcmFnZRoLaXY7cDtkcml2ZXMqCgoDZm9yFQAAAAAqRAoDbWFjFToEmUAaBGltYWMaC21hY2Jvb2sgcHJvGgltYWNpbnRvc2gaBW1hY29zGgRtYWNzGgNvc3gaCGl2O3A7bWFjMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVnBod3ZSclJpSkxlOTZobThIc095YkktOFlGUWtFRnZidUxuVDhzdWhwNUsxWUI2aE1idWRLamFIeWVmUWlUajZTSVJYRGVYcW8xOGdsS0phdDh3Wi0yd1dkTkpIQk9kUVpHSWFPa0pUSXN1YVdDMlg2eDFwekNMcGR6OEloeXpoWHlvY3hDQkd2UEF3aGpfQ2VwWndCRjFVQy1FOktUaGUgPGI-QmVzdCBFeHRlcm5hbDwvYj4gSGFyZCA8Yj5Ecml2ZXM8L2I-IGFuZCA8Yj5TU0RzIGZvciBNYWM8L2I-IGluIDIwMjZClgFPdXIgdG9wIGdlbmVyYWwtdXNlIGV4dGVybmFsIFNTRCBmb3IgTWFjcyBpcyA8Yj5DcnVjaWFsJiMzOTtzIFgxMDwvYj4sIGEgdG9wIGV4dGVybmFsIFNTRCBjaG9pY2UgZm9yIG1lZGlhIGxpYnJhcmllcywgUEMgZ2FtZXMsIGFuZCBzY3JhdGNoLWRpc2sgZHV0eS5KA2ZvclIDdG9wIgIQAUgBWABoAA",
+      "source": "PCMag"
+    },
+    {
+      "position": 6,
+      "title": "External Solid State Drives: External SSD",
+      "link": "https://www.bestbuy.com/site/hard-drives/solid-state-drives/pcmcat201300050005.c?id=pcmcat201300050005",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFa2dOJ95k1tQ6wltYj2Wj-8T993MZ7xTIVyMMC_1nsIe02sBmZmRlNyWKHWr1aMnbtfH6An0sCUgisGg3IacSc1UhbFj3rOMVINRy7TnlcQUPQGLtsKs-v3zV0yzpSGWCsBA8EfX03mgZS5TayX-6Y0FB3d3nPatvmD3mKDmeYX-rr0V1J28Nicp8R6bmjI1yK91uuDkw4FwXg&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQFnoECGYQAQ&uoh=1",
+      "displayed_link": "https://www.bestbuy.com › site › pcmcat201300050005",
+      "snippet": "SANDISK - Extreme Portable 2TB External USB-C NVMe SSD - Monterey Rating 4.8 out of 5 stars with 2490 reviews (2,490) $319.99$31999",
+      "snippet_highlighted_words": [
+        "SANDISK - Extreme Portable 2TB External USB-C NVMe SSD"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "price_from": 238,
+            "price_to": 880,
+            "currency": "$",
+            "store_nearby_mi": 10.6,
+            "day_returns": 15
+          },
+          "extensions": [
+            "4.6",
+            "store rating (1.8K)",
+            "$238 to $880",
+            "Store nearby (10.6 mi)",
+            "15-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "SANDISK - Extreme Portable 2TB External USB-C NVMe SSD - Monterey Rating 4.8 out of 5 stars with 2490 reviews (2,490) $319.99$31999",
+          "source_info_link": "https://www.bestbuy.com/site/hard-drives/solid-state-drives/pcmcat201300050005.c?id=pcmcat201300050005",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABF0lEQVR4Ae2WU1pFYQBFs23btm2OITeNGkLuJffWCHrLtn10jWzuvqzn0-U65l4HPzTkFjVqQCQ0gozuYXXiBFb9DUa9FqjoAUgML3GoAVYnri_5K7xWF0T0IKQGt6yH_xYAv9QIRPQ4DvUe2Q__JQC62BJU5DykOuyH_haAOMMEVPg6DrVedspAgAmewaHmyw7ZCLzMPnaoBc5obbQ3W2F-2FA2AvV1drDyCIBHiB9uBFr_L9DfafEqkJLjCRxqyuYfoNf0cC_SVKmfMEDmAiUQOAhlJvACyNhy8Ny4MhN4AVRcMXjelMwEXgA3PgFMwAEONWUj8AKIZH8woTsvEjIReAFUviPI6FUwgWusTlTUsrr3rUbNM0hUNu88hEgmAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZhMmRPSjk1azF0UTZ3bHRZajJXai04VDk5M01aN3hUSVZ5TU1DXzFuc0llMDJzQm1abVJsTnlXS0hXcjFhTW5idGZINkFuMHNDVWdpc0dnM0lhY1NjMVVoYkZqM3JPTVZJTlJ5N1RubGNRVVBRR0x0c0tzLXYzelYweXpwU0dXQ3NCQThFZlgwM21nWlM1VGF5WC02WTBGQjNkM25QYXR2bUQzbUtEbWVZWC1ycjBWMUoyOE5pY3A4UjZibWpJMXlLOTF1dURrdzRGd1hnEgQaAggAGp4GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA-AUIABAAGAAgACoWCgRiZXN0FfDjLEEaBGdvb2QaA3RvcCoiCghleHRlcm5hbBWc9AZBGghleHRlcmlvchoHb3V0ZG9vciojCgVzb2xpZBXNzCBAGgNzc2QaBHNzZHMaCnNvbGlkc3RhdGUqKwoFc3RhdGUVzcwgQBoDc3NkGgRzc2RzGgZzdGF0ZXMaCnNvbGlkc3RhdGUqTAoGZHJpdmVzFRztjEAaBGRpc2saBWRyaXZlGgZkcml2ZXIaB2RyaXZlcnMaA2hkZBoEc3NkcxoHc3RvcmFnZRoLaXY7cDtkcml2ZXMqCgoDZm9yFQAAAAAqRAoDbWFjFQAAAAAaBGltYWMaC21hY2Jvb2sgcHJvGgltYWNpbnRvc2gaBW1hY29zGgRtYWNzGgNvc3gaCGl2O3A7bWFjMuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZhMmRPSjk1azF0UTZ3bHRZajJXai04VDk5M01aN3hUSVZ5TU1DXzFuc0llMDJzQm1abVJsTnlXS0hXcjFhTW5idGZINkFuMHNDVWdpc0dnM0lhY1NjMVVoYkZqM3JPTVZJTlJ5N1RubGNRVVBRR0x0c0tzLXYzelYweXpwU0dXQ3NCQThFZlgwM21nWlM1VGF5WC02WTBGQjNkM25QYXR2bUQzbUtEbWVZWC1ycjBWMUoyOE5pY3A4UjZibWpJMXlLOTF1dURrdzRGd1hnOkI8Yj5FeHRlcm5hbCBTb2xpZCBTdGF0ZSBEcml2ZXM8L2I-OiBFeHRlcm5hbCBTU0QgLSA8Yj5CZXN0PC9iPiBCdXlCigE8Yj5TQU5ESVNLIC0gRXh0cmVtZSBQb3J0YWJsZSAyVEIgRXh0ZXJuYWwgVVNCLUMgTlZNZSBTU0Q8L2I-IC0gTW9udGVyZXkgUmF0aW5nIDQuOCBvdXQgb2YgNSBzdGFycyB3aXRoIDI0OTAgcmV2aWV3cyAoMiw0OTApICQzMTkuOTkkMzE5OTlKA2ZvclIDdG9wIgIQAUgBWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZhMmRPSjk1azF0UTZ3bHRZajJXai04VDk5M01aN3hUSVZ5TU1DXzFuc0llMDJzQm1abVJsTnlXS0hXcjFhTW5idGZINkFuMHNDVWdpc0dnM0lhY1NjMVVoYkZqM3JPTVZJTlJ5N1RubGNRVVBRR0x0c0tzLXYzelYweXpwU0dXQ3NCQThFZlgwM21nWlM1VGF5WC02WTBGQjNkM25QYXR2bUQzbUtEbWVZWC1ycjBWMUoyOE5pY3A4UjZibWpJMXlLOTF1dURrdzRGd1hnEgQaAggAGp4GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA-AUIABAAGAAgACoWCgRiZXN0FfDjLEEaBGdvb2QaA3RvcCoiCghleHRlcm5hbBWc9AZBGghleHRlcmlvchoHb3V0ZG9vciojCgVzb2xpZBXNzCBAGgNzc2QaBHNzZHMaCnNvbGlkc3RhdGUqKwoFc3RhdGUVzcwgQBoDc3NkGgRzc2RzGgZzdGF0ZXMaCnNvbGlkc3RhdGUqTAoGZHJpdmVzFRztjEAaBGRpc2saBWRyaXZlGgZkcml2ZXIaB2RyaXZlcnMaA2hkZBoEc3NkcxoHc3RvcmFnZRoLaXY7cDtkcml2ZXMqCgoDZm9yFQAAAAAqRAoDbWFjFQAAAAAaBGltYWMaC21hY2Jvb2sgcHJvGgltYWNpbnRvc2gaBW1hY29zGgRtYWNzGgNvc3gaCGl2O3A7bWFjMuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZhMmRPSjk1azF0UTZ3bHRZajJXai04VDk5M01aN3hUSVZ5TU1DXzFuc0llMDJzQm1abVJsTnlXS0hXcjFhTW5idGZINkFuMHNDVWdpc0dnM0lhY1NjMVVoYkZqM3JPTVZJTlJ5N1RubGNRVVBRR0x0c0tzLXYzelYweXpwU0dXQ3NCQThFZlgwM21nWlM1VGF5WC02WTBGQjNkM25QYXR2bUQzbUtEbWVZWC1ycjBWMUoyOE5pY3A4UjZibWpJMXlLOTF1dURrdzRGd1hnOkI8Yj5FeHRlcm5hbCBTb2xpZCBTdGF0ZSBEcml2ZXM8L2I-OiBFeHRlcm5hbCBTU0QgLSA8Yj5CZXN0PC9iPiBCdXlCigE8Yj5TQU5ESVNLIC0gRXh0cmVtZSBQb3J0YWJsZSAyVEIgRXh0ZXJuYWwgVVNCLUMgTlZNZSBTU0Q8L2I-IC0gTW9udGVyZXkgUmF0aW5nIDQuOCBvdXQgb2YgNSBzdGFycyB3aXRoIDI0OTAgcmV2aWV3cyAoMiw0OTApICQzMTkuOTkkMzE5OTlKA2ZvclIDdG9wIgIQAUgBWABoAA",
+      "source": "Best Buy"
+    },
+    {
+      "position": 7,
+      "title": "Best External Solid State Drives",
+      "link": "https://www.amazon.com/Best-Sellers-External-Solid-State-Drives/zgbs/pc/3015429011",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFTSPRXF7HWM_HjAeAHYcBmZ5lsuP4sgnyGeq90Z9-1EsaNaKEk6Ov9MxhZ_C0K4kdY3xH-VvHiseJ87GFE3B21J7pkHUvpmC-AVhHHcJcr1TyqfP2IynJChAPjlHlQsRbQFEBljLwzqqtCrnw2zTdRSijX0X7kxNWKwvz8s__W8veOr-SCg&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › zgbs",
+      "snippet": "Discover the best External Solid State Drives in Best Sellers. #1 Sandisk 2TB Extreme Portable SSD, #2 Samsung T7 Portable SSD. Reliable External Solid State # ...",
+      "snippet_highlighted_words": [
+        "Sandisk 2TB Extreme Portable SSD"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.5",
+            "store rating (9.2K)",
+            "Free delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Discover the best External Solid State Drives in Best Sellers. #1 Sandisk 2TB Extreme Portable SSD, #2 Samsung T7 Portable SSD. Reliable External Solid State # ...",
+          "source_info_link": "https://www.amazon.com/Best-Sellers-External-Solid-State-Drives/zgbs/pc/3015429011",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZUU1BSWEY3SFdNX0hqQWVBSFljQm1aNWxzdVA0c2dueUdlcTkwWjktMUVzYU5hS0VrNk92OU14aFpfQzBLNGtkWTN4SC1Wdkhpc2VKODdHRkUzQjIxSjdwa0hVdnBtQy1BVmhISGNKY3IxVHlxZlAySXluSkNoQVBqbEhsUXNSYlFGRUJsakx3enFxdENybncyelRkUlNpalgwWDdreE5XS3d2ejhzX19XOHZlT3ItU0NnEgQaAggAGqkGEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAgwYIABAAGAAgACoWCgRiZXN0FXBxsEAaBGdvb2QaA3RvcCoiCghleHRlcm5hbBUS_QRBGghleHRlcmlvchoHb3V0ZG9vciojCgVzb2xpZBVwov1AGgNzc2QaBHNzZHMaCnNvbGlkc3RhdGUqKwoFc3RhdGUVcKL9QBoDc3NkGgRzc2RzGgZzdGF0ZXMaCnNvbGlkc3RhdGUqTAoGZHJpdmVzFcIm1EAaBGRpc2saBWRyaXZlGgZkcml2ZXIaB2RyaXZlcnMaA2hkZBoEc3NkcxoHc3RvcmFnZRoLaXY7cDtkcml2ZXMqCgoDZm9yFQAAAAAqRAoDbWFjFXwV9T8aBGltYWMaC21hY2Jvb2sgcHJvGgltYWNpbnRvc2gaBW1hY29zGgRtYWNzGgNvc3gaCGl2O3A7bWFjMskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZUU1BSWEY3SFdNX0hqQWVBSFljQm1aNWxzdVA0c2dueUdlcTkwWjktMUVzYU5hS0VrNk92OU14aFpfQzBLNGtkWTN4SC1Wdkhpc2VKODdHRkUzQjIxSjdwa0hVdnBtQy1BVmhISGNKY3IxVHlxZlAySXluSkNoQVBqbEhsUXNSYlFGRUJsakx3enFxdENybncyelRkUlNpalgwWDdreE5XS3d2ejhzX19XOHZlT3ItU0NnOkNBbWF6b24gPGI-QmVzdDwvYj4gU2VsbGVyczogPGI-QmVzdCBFeHRlcm5hbCBTb2xpZCBTdGF0ZSBEcml2ZXM8L2I-Qq8BRGlzY292ZXIgdGhlIGJlc3QgRXh0ZXJuYWwgU29saWQgU3RhdGUgRHJpdmVzIGluIEJlc3QgU2VsbGVycy4gIzEgPGI-U2FuZGlzayAyVEIgRXh0cmVtZSBQb3J0YWJsZSBTU0Q8L2I-LCAjMiBTYW1zdW5nIFQ3IFBvcnRhYmxlIFNTRC4gUmVsaWFibGUgRXh0ZXJuYWwgU29saWQgU3RhdGUgIyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSAFYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZUU1BSWEY3SFdNX0hqQWVBSFljQm1aNWxzdVA0c2dueUdlcTkwWjktMUVzYU5hS0VrNk92OU14aFpfQzBLNGtkWTN4SC1Wdkhpc2VKODdHRkUzQjIxSjdwa0hVdnBtQy1BVmhISGNKY3IxVHlxZlAySXluSkNoQVBqbEhsUXNSYlFGRUJsakx3enFxdENybncyelRkUlNpalgwWDdreE5XS3d2ejhzX19XOHZlT3ItU0NnEgQaAggAGqkGEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAgwYIABAAGAAgACoWCgRiZXN0FXBxsEAaBGdvb2QaA3RvcCoiCghleHRlcm5hbBUS_QRBGghleHRlcmlvchoHb3V0ZG9vciojCgVzb2xpZBVwov1AGgNzc2QaBHNzZHMaCnNvbGlkc3RhdGUqKwoFc3RhdGUVcKL9QBoDc3NkGgRzc2RzGgZzdGF0ZXMaCnNvbGlkc3RhdGUqTAoGZHJpdmVzFcIm1EAaBGRpc2saBWRyaXZlGgZkcml2ZXIaB2RyaXZlcnMaA2hkZBoEc3NkcxoHc3RvcmFnZRoLaXY7cDtkcml2ZXMqCgoDZm9yFQAAAAAqRAoDbWFjFXwV9T8aBGltYWMaC21hY2Jvb2sgcHJvGgltYWNpbnRvc2gaBW1hY29zGgRtYWNzGgNvc3gaCGl2O3A7bWFjMskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZUU1BSWEY3SFdNX0hqQWVBSFljQm1aNWxzdVA0c2dueUdlcTkwWjktMUVzYU5hS0VrNk92OU14aFpfQzBLNGtkWTN4SC1Wdkhpc2VKODdHRkUzQjIxSjdwa0hVdnBtQy1BVmhISGNKY3IxVHlxZlAySXluSkNoQVBqbEhsUXNSYlFGRUJsakx3enFxdENybncyelRkUlNpalgwWDdreE5XS3d2ejhzX19XOHZlT3ItU0NnOkNBbWF6b24gPGI-QmVzdDwvYj4gU2VsbGVyczogPGI-QmVzdCBFeHRlcm5hbCBTb2xpZCBTdGF0ZSBEcml2ZXM8L2I-Qq8BRGlzY292ZXIgdGhlIGJlc3QgRXh0ZXJuYWwgU29saWQgU3RhdGUgRHJpdmVzIGluIEJlc3QgU2VsbGVycy4gIzEgPGI-U2FuZGlzayAyVEIgRXh0cmVtZSBQb3J0YWJsZSBTU0Q8L2I-LCAjMiBTYW1zdW5nIFQ3IFBvcnRhYmxlIFNTRC4gUmVsaWFibGUgRXh0ZXJuYWwgU29saWQgU3RhdGUgIyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSAFYAGgA",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 8,
+      "title": "OWC External SSDs (Solid-State Drives) for Mac",
+      "link": "https://eshop.macsales.com/shop/external-storage/ssd?srsltid=AU7gw4WU3rciBExHy6sV_2zNrXylqRi-KSsKZG9-kaPKwMPKy5p2oBWg",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFRxV5WecqSH05z3nS9TzowmtI06R-F_Wuqii3mX-iZMrI_eFvxJ5dwqWXJEmvPV1GOBqTsdamypCMGQFOD6ZXrAjgT3iE3-nj9lgFFe9cbLghNs0PgTeT5Jau5Uk2yeq5-vM9wM6dg9nro9EPY3VNSzhiEmWnxT5fV-Uog-Nl0pm2r6EQKKdUEYHhw9oHJW4_uIeA3woT9-E5NQDWLWEAaggwI0fs4Jb5g&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://eshop.macsales.com › ... › External Storage",
+      "snippet": "OWC Envoy Ultra. The world's first and fastest Thunderbolt 5 portable SSD with revolutionary speed over 6000MB/s…up to 2x faster than Thunderbolt 4 and USB4!",
+      "snippet_highlighted_words": [
+        "OWC Envoy Ultra"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "day_delivery": "8–12",
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.7",
+            "store rating (37K)",
+            "8–12 day delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "OWC Envoy Ultra. The world's first and fastest Thunderbolt 5 portable SSD with revolutionary speed over 6000MB/s…up to 2x faster than Thunderbolt 4 and USB4!",
+          "source_info_link": "https://eshop.macsales.com/shop/external-storage/ssd?srsltid=AU7gw4WU3rciBExHy6sV_2zNrXylqRi-KSsKZG9-kaPKwMPKy5p2oBWg",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwAVrgAVrgAVrgAVrgAVrgAVrgAVrgAVrgAVrgAVrgAVrgAVrgAVrgAVrgAVrhkL-kbAAAAEHRSTlMAOpLV7Uvf_nqfZCbHuQ2uir36zAAAAKZJREFUeAFjoDEQMnFWRPDCyoHAEMbjKLdcKDWtvAHKbXfawMDArV4F4bGWLwCrKQkAkp2qe4ogwtPvAYnv_5YUQLjPXYHEI1f1Cd_018z45M8LVrXTParW5fthtyuv6sGKNq30N0s3udzFWv8AzH_mc7i-bPIlrnqoM-z7M4xiTjFVvgNz-aRfC3aFbmDxeiUAc-i7ravUs196Ifzxbscc9zIGegEAodw3IPzm0MsAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZSeFY1V2VjcVNIMDV6M25TOVR6b3dtdEkwNlItRl9XdXFpaTNtWC1pWk1ySV9lRnZ4SjVkd3FXWEpFbXZQVjFHT0JxVHNkYW15cENNR1FGT0Q2WlhyQWpnVDNpRTMtbmo5bGdGRmU5Y2JMZ2hOczBQZ1RlVDVKYXU1VWsyeWVxNS12TTl3TTZkZzlucm85RVBZM1ZOU3poaUVtV254VDVmVi1Vb2ctTmwwcG0ycjZFUUtLZFVFWUhodzlvSEpXNF91SWVBM3dvVDktRTVOUURXTFdFQWFnZ3dJMGZzNEpiNWcSBBoCCAAa9AUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDOBQgAEAAYACAAKhYKBGJlc3QVAAAAABoEZ29vZBoDdG9wKiIKCGV4dGVybmFsFU5itEAaCGV4dGVyaW9yGgdvdXRkb29yKiMKBXNvbGlkFc3MAEAaA3NzZBoEc3NkcxoKc29saWRzdGF0ZSorCgVzdGF0ZRWAG5FAGgNzc2QaBHNzZHMaBnN0YXRlcxoKc29saWRzdGF0ZSpMCgZkcml2ZXMV4JmiQBoEZGlzaxoFZHJpdmUaBmRyaXZlchoHZHJpdmVycxoDaGRkGgRzc2RzGgdzdG9yYWdlGgtpdjtwO2RyaXZlcyoKCgNmb3IVAAAAACpECgNtYWMVUlmXQBoEaW1hYxoLbWFjYm9vayBwcm8aCW1hY2ludG9zaBoFbWFjb3MaBG1hY3MaA29zeBoIaXY7cDttYWMyoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWcURwYkdZLTVNeHZOWTVlWFJqOURHWTI4WFI5MC1hTmJrUUMybjJGQlZidUMzdHlCX25vbjNIa041aWFYNmFidGtPRHQ4ZjJRTXZrZTQ0MEE1TVRXenRmemdhclNQQW83NTRqSDZJdFVtaENlOUhOa0taQ0s1cFBKX1ZnVmNhbEgzTzRHUmlqaU13OjxPV0MgPGI-RXh0ZXJuYWwgU1NEczwvYj4gKFNvbGlkLVN0YXRlIDxiPkRyaXZlcykgZm9yIE1hYzwvYj5CqgE8Yj5PV0MgRW52b3kgVWx0cmE8L2I-LiBUaGUgd29ybGQmIzM5O3MgZmlyc3QgYW5kIGZhc3Rlc3QgVGh1bmRlcmJvbHQgNSBwb3J0YWJsZSBTU0Qgd2l0aCByZXZvbHV0aW9uYXJ5IHNwZWVkIG92ZXIgNjAwME1CL3PigKZ1cCB0byAyeCBmYXN0ZXIgdGhhbiBUaHVuZGVyYm9sdCA0IGFuZCBVU0I0IUoDZm9yUgN0b3AiAhABSAFYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZSeFY1V2VjcVNIMDV6M25TOVR6b3dtdEkwNlItRl9XdXFpaTNtWC1pWk1ySV9lRnZ4SjVkd3FXWEpFbXZQVjFHT0JxVHNkYW15cENNR1FGT0Q2WlhyQWpnVDNpRTMtbmo5bGdGRmU5Y2JMZ2hOczBQZ1RlVDVKYXU1VWsyeWVxNS12TTl3TTZkZzlucm85RVBZM1ZOU3poaUVtV254VDVmVi1Vb2ctTmwwcG0ycjZFUUtLZFVFWUhodzlvSEpXNF91SWVBM3dvVDktRTVOUURXTFdFQWFnZ3dJMGZzNEpiNWcSBBoCCAAa9AUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDOBQgAEAAYACAAKhYKBGJlc3QVAAAAABoEZ29vZBoDdG9wKiIKCGV4dGVybmFsFU5itEAaCGV4dGVyaW9yGgdvdXRkb29yKiMKBXNvbGlkFc3MAEAaA3NzZBoEc3NkcxoKc29saWRzdGF0ZSorCgVzdGF0ZRWAG5FAGgNzc2QaBHNzZHMaBnN0YXRlcxoKc29saWRzdGF0ZSpMCgZkcml2ZXMV4JmiQBoEZGlzaxoFZHJpdmUaBmRyaXZlchoHZHJpdmVycxoDaGRkGgRzc2RzGgdzdG9yYWdlGgtpdjtwO2RyaXZlcyoKCgNmb3IVAAAAACpECgNtYWMVUlmXQBoEaW1hYxoLbWFjYm9vayBwcm8aCW1hY2ludG9zaBoFbWFjb3MaBG1hY3MaA29zeBoIaXY7cDttYWMyoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWcURwYkdZLTVNeHZOWTVlWFJqOURHWTI4WFI5MC1hTmJrUUMybjJGQlZidUMzdHlCX25vbjNIa041aWFYNmFidGtPRHQ4ZjJRTXZrZTQ0MEE1TVRXenRmemdhclNQQW83NTRqSDZJdFVtaENlOUhOa0taQ0s1cFBKX1ZnVmNhbEgzTzRHUmlqaU13OjxPV0MgPGI-RXh0ZXJuYWwgU1NEczwvYj4gKFNvbGlkLVN0YXRlIDxiPkRyaXZlcykgZm9yIE1hYzwvYj5CqgE8Yj5PV0MgRW52b3kgVWx0cmE8L2I-LiBUaGUgd29ybGQmIzM5O3MgZmlyc3QgYW5kIGZhc3Rlc3QgVGh1bmRlcmJvbHQgNSBwb3J0YWJsZSBTU0Qgd2l0aCByZXZvbHV0aW9uYXJ5IHNwZWVkIG92ZXIgNjAwME1CL3PigKZ1cCB0byAyeCBmYXN0ZXIgdGhhbiBUaHVuZGVyYm9sdCA0IGFuZCBVU0I0IUoDZm9yUgN0b3AiAhABSAFYAGgA",
+      "source": "MacSales.com",
+      "read_more_link": "https://eshop.macsales.com/shop/external-storage/ssd?srsltid=AU7gw4WU3rciBExHy6sV_2zNrXylqRi-KSsKZG9-kaPKwMPKy5p2oBWg#:~:text=OWC%20Envoy%20Ultra,than%20Thunderbolt%204%20and%20USB4!"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "Tony Hoffman, Tom Brant",
+      "source": "PCMag UK",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMftXfF77j1lb2u1vHVhduD1o5wX5XWxScpHQGNp9uLfuGQdV-8EcgGNqh-g&usqp=CAI&s"
+      ],
+      "title": "The Best External Hard Drives and SSDs for Mac in 2026",
+      "link": "https://uk.pcmag.com/ssds/8059/the-best-external-hard-drives-for-mac",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Scott Gilbertson",
+      "source": "WIRED",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5uaF5VXqHGo-dEsQEwK3iww2PuDnGQwx8BHMvdKe6ju7HVKaCORJ9aCq8_Q&usqp=CAI&s"
+      ],
+      "title": "Back Up Your Whole Life With the Best External Hard Drives",
+      "link": "https://www.wired.com/story/best-portable-external-storage-drives/",
+      "date": "Jul 12, 2026"
+    },
+    {
+      "author": "r/mac",
+      "source": "Reddit",
+      "extensions": [
+        "30+ comments "
+      ],
+      "title": "Any good SSD external hard drive recommendations?",
+      "link": "https://www.reddit.com/r/mac/comments/1w86xyl/any_good_ssd_external_hard_drive_recommendations/",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "AppleInsider",
+      "source": "YouTube",
+      "duration": "5:10",
+      "extensions": [
+        "12.8K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/j3u6W5YXsVk/hqdefault.jpg"
+      ],
+      "title": "This 8TB SSD Is PERFECT for Mac Users… Almost!",
+      "link": "https://www.youtube.com/watch?v=j3u6W5YXsVk",
+      "date": "1 month ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcThvNlS1L604xMuarEvRtADjtlkOK7Xyfbcug"
+    },
+    {
+      "author": "Beginners Photography Group",
+      "source": "Facebook",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDBeGDJpVTtagSBGJVFK5lKYPm9ezRUIgRtySYVF7sLWd2guEpn1VMnnb9kA&usqp=CAI&s"
+      ],
+      "title": "External Hard Drive Recommendations on the best reasonably priced external drive for my MacBook Pro?",
+      "link": "https://www.facebook.com/groups/beginnersphotographygroup/posts/28306226288998601/",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "Adam Talks Tech",
+      "source": "YouTube",
+      "duration": "9:38",
+      "extensions": [
+        "19.2K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/deKYLunDSIs/hqdefault.jpg"
+      ],
+      "title": "What Size SSD to Get on Your Mac and When to Go External",
+      "link": "https://www.youtube.com/watch?v=deKYLunDSIs",
+      "date": "2 weeks ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcREKPDxhIav945egTov037bFzjwW8Sbw3dNYA"
+    },
+    {
+      "author": "r/MacStudio",
+      "source": "Reddit",
+      "extensions": [
+        "10+ comments "
+      ],
+      "title": "Using external SSD with a Mac studio",
+      "link": "https://www.reddit.com/r/MacStudio/comments/1wmbp9x/using_external_ssd_with_a_mac_studio/",
+      "date": "2 days ago"
+    },
+    {
+      "author": "r/macgaming",
+      "source": "Reddit",
+      "extensions": [
+        "20+ comments "
+      ],
+      "title": "Best external ssd for gaming?",
+      "link": "https://www.reddit.com/r/macgaming/comments/1wig13w/best_external_ssd_for_gaming/",
+      "date": "6 days ago"
+    },
+    {
+      "author": "Kyle Erickson",
+      "source": "YouTube",
+      "duration": "15:51",
+      "extensions": [
+        "50.3K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/S5dmmTK2JAU/hqdefault.jpg"
+      ],
+      "title": "External Storage For Mac Explained: Save Your Money! (2026)",
+      "link": "https://www.youtube.com/watch?v=S5dmmTK2JAU",
+      "date": "1 month ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR8S_MMyxdyin-kQLlN2ivNsuggmDXKa-CBYA"
+    },
+    {
+      "author": "André Creates",
+      "source": "YouTube",
+      "duration": "9:54",
+      "extensions": [
+        "10.9K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/uNMI2Dfel00/hqdefault.jpg"
+      ],
+      "title": "Stop Wasting Money on Apple Storage - The Smart Way in 2026",
+      "link": "https://www.youtube.com/watch?v=uNMI2Dfel00",
+      "date": "3 weeks ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRtacyyCnylvHEzNi2R9rMuyOTHcZ-w8oGYGw"
+    },
+    {
+      "author": "Official Serato DJ Group",
+      "source": "Facebook",
+      "extensions": [
+        "4 reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wghsO0_68adfRBk7rGsj7n6poLeSFLS1qbuUoWlon55cRQsXluAfPKDBrA&usqp=CAI&s"
+      ],
+      "title": "What’s the best external 4tb hard drive for Macs? Started using the Lacie but the cord isn’t too stable.",
+      "link": "https://www.facebook.com/groups/seratogroup/posts/2904066676611282/",
+      "date": "Jul 6, 2026"
+    },
+    {
+      "author": "Apple Logic Pro Users Group",
+      "source": "Facebook",
+      "extensions": [
+        "2 reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP5IRLbjgSnaeuhNkpK4BblAnWGsgx4wZarOY8UIcewBKSnhUkzBZKJthujg&usqp=CAI&s"
+      ],
+      "title": "Good morning everyone. Our current Logic Pro laptop is the 2021 MBP M1 Max with 64GB of RAM and a 4TB internal SSD. We need to take the plunge and get an external SSD for storing libraries for third party plugins. I know there are some usual suspects b",
+      "link": "https://www.facebook.com/groups/543628065696081/posts/27710814915217362/",
+      "date": "Jul 24, 2026"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best external solid state drives for mac reddit",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Best+external+solid+state+drives+for+mac+reddit&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+external+solid+state+drives+for+mac+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best external SSD for Mac Thunderbolt",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Best+external+SSD+for+Mac+Thunderbolt&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+external+SSD+for+Mac+Thunderbolt"
+    },
+    {
+      "block_position": 1,
+      "query": "Best external SSD for Mac Thunderbolt 4",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Best+external+SSD+for+Mac+Thunderbolt+4&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+external+SSD+for+Mac+Thunderbolt+4"
+    },
+    {
+      "block_position": 1,
+      "query": "Best external hard drive for Mac",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Best+external+hard+drive+for+Mac&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+external+hard+drive+for+Mac"
+    },
+    {
+      "block_position": 1,
+      "query": "Best external SSD for MacBook Air",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Best+external+SSD+for+MacBook+Air&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+external+SSD+for+MacBook+Air"
+    },
+    {
+      "block_position": 1,
+      "query": "Best external SSD for Mac Studio",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Best+external+SSD+for+Mac+Studio&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+external+SSD+for+Mac+Studio"
+    },
+    {
+      "block_position": 1,
+      "query": "Best external SSD for Mac mini",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Best+external+SSD+for+Mac+mini&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+external+SSD+for+Mac+mini"
+    },
+    {
+      "block_position": 1,
+      "query": "Best budget external SSD for Mac",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&hl=en&gl=us&q=Best+budget+external+SSD+for+Mac&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+budget+external+SSD+for+Mac"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "1 – 2 TB",
+      "link": "https://www.google.com/search?q=1+tb+to+2+tb+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAESGioYCI2taRISCQAAAAAAQI9AEQAAAAAAQJ9AGAEqKGJlc3QgZXh0ZXJuYWwgc29saWQgc3RhdGUgZHJpdmVzIGZvciBtYWMyRAgBEgoxIOKAkyAyIFRCIhoqGAiNrWkSEgkAAAAAAECPQBEAAAAAAECfQCoOCgwxIFRCIHRvIDIgVEI6CAiNrWkQADAGWNzyIGAB&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKAF6BAgcEEQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=1+tb+to+2+tb+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "2 – 4 TB",
+      "link": "https://www.google.com/search?q=2+tb+to+4+tb+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAESGioYCI2taRISCQAAAAAAQJ9AEQAAAAAAQK9AGAEqKGJlc3QgZXh0ZXJuYWwgc29saWQgc3RhdGUgZHJpdmVzIGZvciBtYWMyRAgBEgoyIOKAkyA0IFRCIhoqGAiNrWkSEgkAAAAAAECfQBEAAAAAAECvQCoOCgwyIFRCIHRvIDQgVEI6CAiNrWkQADAGWNzyIGAB&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKAJ6BAgcEEU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=2+tb+to+4+tb+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Over 4 TB",
+      "link": "https://www.google.com/search?q=over+4+tb+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAESESoPCI2taRIJCQAAAAAAQK9AGAEqKGJlc3QgZXh0ZXJuYWwgc29saWQgc3RhdGUgZHJpdmVzIGZvciBtYWMyKggBEglPdmVyIDQgVEIiESoPCI2taRIJCQAAAAAAQK9AOggIja1pEAAwBljc8iBgAQ&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKAN6BAgcEEY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=over+4+tb+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Under 1 TB",
+      "link": "https://www.google.com/search?q=under+1+tb+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAESESoPCI2taRIJEQAAAAAAQI9AGAEqKGJlc3QgZXh0ZXJuYWwgc29saWQgc3RhdGUgZHJpdmVzIGZvciBtYWMyKwgBEgpVbmRlciAxIFRCIhEqDwiNrWkSCREAAAAAAECPQDoICI2taRAAMAZY3PIgYAE&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKAR6BAgcEEc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=under+1+tb+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "USB",
+      "link": "https://www.google.com/search?q=usb+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYASooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIRCAESA1VTQjoICAkQkb8FMABY3PIgYAE&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKAV6BAgcEEg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=usb+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Hard Drives",
+      "link": "https://www.google.com/search?q=hard+drives+best+external+solid+state+for+mac&hl=en&gl=us&shoprs=CAEYCSooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIPCAkSC0hhcmQgRHJpdmVzYAE&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKAZ6BAgcEEk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=hard+drives+best+external+solid+state+for+mac"
+    },
+    {
+      "query": "Thunderbolt",
+      "link": "https://www.google.com/search?q=thunderbolt+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYASooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIZCAESC1RodW5kZXJib2x0OggICRCmqjYwAFjc8iBgAQ&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKAd6BAgcEEo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=thunderbolt+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Get it by Fri",
+      "link": "https://www.google.com/search?q=best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAESDZoBCgoIEAI4AUAFSAEYFCooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzImCBQSDUdldCBpdCBieSBGcmkiDZoBCgoIEAI4AUAFSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKAh6BAgcEEs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=best+external+solid+state+drives+for+mac+sale&hl=en&gl=us&shoprs=CAESBEoCGAEYBiooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzITCAYSB09uIHNhbGUYAiIESgIYAVjc8iBgAQ&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKAl6BAgcEEw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+external+solid+state+drives+for+mac+sale"
+    },
+    {
+      "query": "Under $350",
+      "link": "https://www.google.com/search?q=best+external+solid+state+drives+for+mac+under+$350&hl=en&gl=us&shoprs=CAESDRILEQAAAICT3LRBGAEYBSooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIjCAUSClVuZGVyICQzNTAYAiINEgsRAAAAgJPctEEYASoCGAFY3PIgYAE&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKAp6BAgcEE0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+external+solid+state+drives+for+mac+under+%24350"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYEiooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzILCBISB1Jldmlld3NgAQ&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKAt6BAgcEE4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=reviews+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Brand",
+      "link": "https://www.google.com/search?q=brand+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYEiooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIJCBISBUJyYW5kYAE&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKAx6BAgcEE8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=brand+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYEiooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIJCBISBVByaWNlYAE&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKA16BAgcEFA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=price+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "NVMe",
+      "link": "https://www.google.com/search?q=nvme+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYASooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIWCAESBE5WTWU6DAicysMBEJ3KwwEwA1jc8iBgAQ&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKA56BAgcEFE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=nvme+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?q=new+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYCiooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIHCAoSA05ld1jc8iBgAQ&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKA96BAgcEFI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=new+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Used",
+      "link": "https://www.google.com/search?q=used+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYCiooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIICAoSBFVzZWRY3PIgYAE&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKBB6BAgcEFM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=used+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?q=black+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYASooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIVCAESBUJsYWNrOgoImLlvEJu5bzAAWNzyIGAB&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKBF6BAgcEFQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=black+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "1,050 – 2,000 MB/s",
+      "link": "https://www.google.com/search?q=1,050+mb/s+to+2,000+mb/s+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAESGyoZCPiF2QMSEgkAAAAAAGiQQBEAAAAAAECfQBgBKihiZXN0IGV4dGVybmFsIHNvbGlkIHN0YXRlIGRyaXZlcyBmb3IgbWFjMl4IARIUMSwwNTAg4oCTIDIsMDAwIE1CL3MiGyoZCPiF2QMSEgkAAAAAAGiQQBEAAAAAAECfQCocChgxLDA1MCBNQi9zIHRvIDIsMDAwIE1CL3MYAToJCPiF2QMQADAGWNzyIGAB&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKBJ6BAgcEFU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=1%2C050+mb%2Fs+to+2%2C000+mb%2Fs+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Silver",
+      "link": "https://www.google.com/search?q=silver+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYASooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIWCAESBlNpbHZlcjoKCJi5bxDKz3owAFjc8iBgAQ&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKBN6BAgcEFY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=silver+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Blue",
+      "link": "https://www.google.com/search?q=blue+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYASooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIUCAESBEJsdWU6CgiYuW8QnLlvMABY3PIgYAE&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKBR6BAgcEFc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=blue+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "800 – 1,050 MB/s",
+      "link": "https://www.google.com/search?q=800+mb/s+to+1,050+mb/s+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAESGyoZCPiF2QMSEgkAAAAAAACJQBEAAAAAAGiQQBgBKihiZXN0IGV4dGVybmFsIHNvbGlkIHN0YXRlIGRyaXZlcyBmb3IgbWFjMloIARISODAwIOKAkyAxLDA1MCBNQi9zIhsqGQj4hdkDEhIJAAAAAAAAiUARAAAAAABokEAqGgoWODAwIE1CL3MgdG8gMSwwNTAgTUIvcxgBOgkI-IXZAxAAMAZY3PIgYAE&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKBV6BAgcEFg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=800+mb%2Fs+to+1%2C050+mb%2Fs+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Red",
+      "link": "https://www.google.com/search?q=red+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYASooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzITCAESA1JlZDoKCJi5bxCeuW8wAFjc8iBgAQ&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKBZ6BAgcEFk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=red+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?q=gray+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAEYASooYmVzdCBleHRlcm5hbCBzb2xpZCBzdGF0ZSBkcml2ZXMgZm9yIG1hYzIVCAESBEdyYXk6CwiYuW8Q8bKcATAAWNzyIGAB&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKBd6BAgcEFo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=gray+best+external+solid+state+drives+for+mac"
+    },
+    {
+      "query": "Under 800 MB/s",
+      "link": "https://www.google.com/search?q=under+800+mb/s+best+external+solid+state+drives+for+mac&hl=en&gl=us&shoprs=CAESEioQCPiF2QMSCREAAAAAAACJQBgBKihiZXN0IGV4dGVybmFsIHNvbGlkIHN0YXRlIGRyaXZlcyBmb3IgbWFjMjUIARIOVW5kZXIgODAwIE1CL3MiEioQCPiF2QMSCREAAAAAAACJQCoCGAE6CQj4hdkDEAAwBljc8iBgAQ&sa=X&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQip4GKBh6BAgcEFs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=under+800+mb%2Fs+best+external+solid+state+drives+for+mac"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Which external SSD/HDD should I buy for my Mac",
+      "link": "https://www.reddit.com/r/datastorage/comments/1spukog/which_external_ssdhdd_should_i_buy_for_my_mac/",
+      "date": "5 months ago",
+      "extensions": [
+        "r/datastorage",
+        "10+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/datastorage/comments/1spukog/which_external_ssdhdd_should_i_buy_for_my_mac/"
+        }
+      ]
+    },
+    {
+      "title": "Recommendation for a external SSD for a Macbook AIr(M1)",
+      "link": "https://discussions.apple.com/thread/255372393",
+      "date": "2 years ago",
+      "extensions": [
+        "4 answers"
+      ],
+      "source": "Apple Support Community",
+      "answers": [
+        {
+          "link": "https://discussions.apple.com/thread/255372393?answerId=259998176022#259998176022",
+          "extensions": [
+            "Top answer",
+            "2 votes",
+            "2 years ago"
+          ]
+        },
+        {
+          "link": "https://discussions.apple.com/thread/255372393?answerId=259994675022#259994675022",
+          "extensions": [
+            "2 years ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "which is the best external ssd for running macOS, please?",
+      "link": "https://discussions.apple.com/thread/253793253",
+      "date": "4 years ago",
+      "extensions": [
+        "8 answers"
+      ],
+      "source": "Apple Support Community",
+      "answers": [
+        {
+          "link": "https://discussions.apple.com/thread/253793253?answerId=257110859022#257110859022",
+          "extensions": [
+            "Top answer",
+            "2 votes",
+            "4 years ago"
+          ]
+        },
+        {
+          "link": "https://discussions.apple.com/thread/253793253?answerId=257129508022#257129508022",
+          "extensions": [
+            "2 votes",
+            "4 years ago"
+          ]
+        },
+        {
+          "link": "https://discussions.apple.com/thread/253793253?answerId=257110242022#257110242022",
+          "extensions": [
+            "4 years ago"
+          ]
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+external+solid+state+drives+for+mac&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=tMyzaoCnG_C3ruEP7MuzwAo&start=10&sa=N&sstk=AS6-VmInsMpKyMCWASasErif_kI02VexFFag4QqsSzyBmyEl4U_hSuv8yK9olNFTIz6tKJmi0JzFxCl_83f_C6NSDA-N8sJVI4F_hQ&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ8NMDegQIfhAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+external+solid+state+drives+for+mac&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=tMyzaoCnG_C3ruEP7MuzwAo&start=10&sa=N&sstk=AS6-VmInsMpKyMCWASasErif_kI02VexFFag4QqsSzyBmyEl4U_hSuv8yK9olNFTIz6tKJmi0JzFxCl_83f_C6NSDA-N8sJVI4F_hQ&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ8tMDegQIfhAE",
+      "3": "https://www.google.com/search?q=best+external+solid+state+drives+for+mac&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=tMyzaoCnG_C3ruEP7MuzwAo&start=20&sa=N&sstk=AS6-VmInsMpKyMCWASasErif_kI02VexFFag4QqsSzyBmyEl4U_hSuv8yK9olNFTIz6tKJmi0JzFxCl_83f_C6NSDA-N8sJVI4F_hQ&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ8tMDegQIfhAG",
+      "4": "https://www.google.com/search?q=best+external+solid+state+drives+for+mac&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=tMyzaoCnG_C3ruEP7MuzwAo&start=30&sa=N&sstk=AS6-VmInsMpKyMCWASasErif_kI02VexFFag4QqsSzyBmyEl4U_hSuv8yK9olNFTIz6tKJmi0JzFxCl_83f_C6NSDA-N8sJVI4F_hQ&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ8tMDegQIfhAI",
+      "5": "https://www.google.com/search?q=best+external+solid+state+drives+for+mac&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=tMyzaoCnG_C3ruEP7MuzwAo&start=40&sa=N&sstk=AS6-VmInsMpKyMCWASasErif_kI02VexFFag4QqsSzyBmyEl4U_hSuv8yK9olNFTIz6tKJmi0JzFxCl_83f_C6NSDA-N8sJVI4F_hQ&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ8tMDegQIfhAK",
+      "6": "https://www.google.com/search?q=best+external+solid+state+drives+for+mac&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=tMyzaoCnG_C3ruEP7MuzwAo&start=50&sa=N&sstk=AS6-VmInsMpKyMCWASasErif_kI02VexFFag4QqsSzyBmyEl4U_hSuv8yK9olNFTIz6tKJmi0JzFxCl_83f_C6NSDA-N8sJVI4F_hQ&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ8tMDegQIfhAM",
+      "7": "https://www.google.com/search?q=best+external+solid+state+drives+for+mac&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=tMyzaoCnG_C3ruEP7MuzwAo&start=60&sa=N&sstk=AS6-VmInsMpKyMCWASasErif_kI02VexFFag4QqsSzyBmyEl4U_hSuv8yK9olNFTIz6tKJmi0JzFxCl_83f_C6NSDA-N8sJVI4F_hQ&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ8tMDegQIfhAO",
+      "8": "https://www.google.com/search?q=best+external+solid+state+drives+for+mac&sca_esv=9f97b11af8265622&hl=en&gl=us&ei=tMyzaoCnG_C3ruEP7MuzwAo&start=70&sa=N&sstk=AS6-VmInsMpKyMCWASasErif_kI02VexFFag4QqsSzyBmyEl4U_hSuv8yK9olNFTIz6tKJmi0JzFxCl_83f_C6NSDA-N8sJVI4F_hQ&ved=2ahUKEwiA0bGy4ISXAxXwmysGHezlDKgQ8tMDegQIfhAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+external+solid+state+drives+for+mac&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+external+solid+state+drives+for+mac&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+external+solid+state+drives+for+mac&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+external+solid+state+drives+for+mac&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+external+solid+state+drives+for+mac&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+external+solid+state+drives+for+mac&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+external+solid+state+drives+for+mac&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+external+solid+state+drives+for+mac&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+external+solid+state+drives+for+mac&start=70"
+    }
+  }
+}

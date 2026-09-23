@@ -1,0 +1,1080 @@
+{
+  "search_metadata": {
+    "id": "6ab3e8fd018c48cd922182ff",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eeFaC-dS457DMp7t6KiG1Mi8-x2FXP3_0LIAdb69xO4/6ab3e8fd018c48cd922182ff.json",
+    "markdown_endpoint": "https://serpapi.com/searches/eeFaC-dS457DMp7t6KiG1Mi8-x2FXP3_0LIAdb69xO4/6ab3e8fd018c48cd922182ff.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/eeFaC-dS457DMp7t6KiG1Mi8-x2FXP3_0LIAdb69xO4/6ab3e8fd018c48cd922182ff.json_with_pixel_position",
+    "created_at": "2026-09-23 14:58:05 UTC",
+    "processed_at": "2026-09-23 14:58:05 UTC",
+    "google_url": "https://www.google.com/search?q=top+portable+power+banks+for+travel&oq=top+portable+power+banks+for+travel&uule=w+CAIQICIeSG91c3RvbixUWCxUZXhhcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/eeFaC-dS457DMp7t6KiG1Mi8-x2FXP3_0LIAdb69xO4/6ab3e8fd018c48cd922182ff.html",
+    "total_time_taken": 2.11
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top portable power banks for travel",
+    "location_requested": "Houston, TX, Texas, United States",
+    "location_used": "Houston,TX,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top portable power banks for travel",
+    "total_results": 185,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Deals on Power Banks",
+      "thumbnail": "https://serpapi.com/searches/6ab3e8fd018c48cd922182ff/images/VWcOrmzvLc0cLVmGmj7uQYDmyJDiuW2sDxUi8Dbo1ow.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "Anker Prime Power Bank",
+      "rating": 4.7,
+      "reviews": 177,
+      "price": "$69.99",
+      "extracted_price": 69.99,
+      "original_price": "$110",
+      "extracted_original_price": 110,
+      "delivery": "Free delivery",
+      "extensions": [
+        "36% OFF"
+      ],
+      "immersive_product_page_token": "TnL_IXicdZFLjttGFEWBrCE7yLAn9eE3M1Fq6uNWsVkki1RNGkUWJapZFBl-RInwHrIHtR3AHtoGspbOaiJ4nMwucA_eu---P2_58e-X4TiJoRrmNgqKc_asegzq2filaWs5ZP1R_oCGYVmajhCCANnIApaOvmSiF6o-HOV3E2jANHQETMtEyAR35luRC6mOp9zb7_N2UWd3DAHDhrqpAxNaCFg21syvx0oc8p_2D4hNWwcAI82y7hoaum69tbJ7157nLxBArGFbg8i2EYCWhiH--Ey9xcv_mJ__GPL2-v5bXzcPTd32IlX5XYx5-5CKU9k97Ov2oW_FOVefD83P_f8x5a06ym-6aWgG0g1s36OZCCLzrTn3t-LwaRhU_o7Gh_ls7a_n6zxY2jDD9JweL1E8v0Q8KYrsemFppQCP_UOEaSGXbLod1G3oboW65ae_atGc99k_v_z6WI-LeTfO_ahp2IKCALldGJZjfoRJ-so7P5EfMqS7T8kW7Uq2k5i38UkVIW5eyZJ-kDEMidqgtLI7igiMYrcO2MYVS72OEnpJT0r3kZzf2TlVzmOmZkBOdMpOTSmhUn5MAgbIzofby66iG58VxFu4fhhvFI_tNY2KRxEWKkMZFFVj7F6JCoHr5VWhh1CuxONmJSEZvAVP2KpY0-VBy1_JUxwWXGB3iCLqMOb4GeomNjleqrgfR2tAlDwHgG94RDTOmEiQexWsvmRRP1HXToLKdbbuGsSlW3NljSQ8YFryLk1m1-3jYYwSdxvAJuZw0-ZxYcSh9FjZQ45GnC4Y8Jb6vROOJOCVr0hCy2gUS-IIRjmtYOklxT5Y8N6vtCkBkoklxXHFAw4KIkKnzSAt45XTCOjjbSm1eCWnzJUTieU1QcSTVc-ekvvtVRm40IYiaYr7L6A_ldcIFWgHnU4utmMKXLw8bhy6Ilcv5lEIqeZjom0j1vtq1pMFG1jSGCnSywApfwdd_OnStft3MHP1PvDM5jI4aNhqXu-uVoMqDgu8J-O46Yj_OzRtAE1dswzNAv8CktFFQQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TnL_IXicdZFLjttGFEWBrCE7yLAn9eE3M1Fq6uNWsVkki1RNGkUWJapZFBl-RInwHrIHtR3AHtoGspbOaiJ4nMwucA_eu---P2_58e-X4TiJoRrmNgqKc_asegzq2filaWs5ZP1R_oCGYVmajhCCANnIApaOvmSiF6o-HOV3E2jANHQETMtEyAR35luRC6mOp9zb7_N2UWd3DAHDhrqpAxNaCFg21syvx0oc8p_2D4hNWwcAI82y7hoaum69tbJ7157nLxBArGFbg8i2EYCWhiH--Ey9xcv_mJ__GPL2-v5bXzcPTd32IlX5XYx5-5CKU9k97Ov2oW_FOVefD83P_f8x5a06ym-6aWgG0g1s36OZCCLzrTn3t-LwaRhU_o7Gh_ls7a_n6zxY2jDD9JweL1E8v0Q8KYrsemFppQCP_UOEaSGXbLod1G3oboW65ae_atGc99k_v_z6WI-LeTfO_ahp2IKCALldGJZjfoRJ-so7P5EfMqS7T8kW7Uq2k5i38UkVIW5eyZJ-kDEMidqgtLI7igiMYrcO2MYVS72OEnpJT0r3kZzf2TlVzmOmZkBOdMpOTSmhUn5MAgbIzofby66iG58VxFu4fhhvFI_tNY2KRxEWKkMZFFVj7F6JCoHr5VWhh1CuxONmJSEZvAVP2KpY0-VBy1_JUxwWXGB3iCLqMOb4GeomNjleqrgfR2tAlDwHgG94RDTOmEiQexWsvmRRP1HXToLKdbbuGsSlW3NljSQ8YFryLk1m1-3jYYwSdxvAJuZw0-ZxYcSh9FjZQ45GnC4Y8Jb6vROOJOCVr0hCy2gUS-IIRjmtYOklxT5Y8N6vtCkBkoklxXHFAw4KIkKnzSAt45XTCOjjbSm1eCWnzJUTieU1QcSTVc-ekvvtVRm40IYiaYr7L6A_ldcIFWgHnU4utmMKXLw8bhy6Ilcv5lEIqeZjom0j1vtq1pMFG1jSGCnSywApfwdd_OnStft3MHP1PvDM5jI4aNhqXu-uVoMqDgu8J-O46Yj_OzRtAE1dswzNAv8CktFFQQ"
+    },
+    {
+      "category": "Deals on Power Banks",
+      "thumbnail": "https://serpapi.com/searches/6ab3e8fd018c48cd922182ff/images/VWcOrmzvLc0cLVmGmj7uQVcA2stfN3X-pw1lIr2t1TI.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "INIU Portable Charger Compact 20000mAh PD Power Bank with Built-in Cable & Digital Display for iPhone",
+      "rating": 4.7,
+      "reviews": 119,
+      "price": "$31.35",
+      "extracted_price": 31.35,
+      "original_price": "$50",
+      "extracted_original_price": 50,
+      "extensions": [
+        "37% OFF"
+      ],
+      "immersive_product_page_token": "bzH4CnicbU9LkqJIAI2YM8wNZukmPyTK7EoBtUpREjLR3FQkJIqSCoUgSMwd5g5W90T0LLs7os9Sc5pxZt27F--9eJ8_7-nhx2tz6GVzaiYWCrJrstY1BsVT-6WsCtUk9UF9hwY24YhYxBoaYAQAMhD-ksha6mJ_UN-gYRmmYUHTNK0hwBCZo69ZKpU-nNPVbpdWdpE8bMgYDsEjAxAMLAQMc0T-PpzkPv1f_g6hAYllPgrQyDJHeIQhea_U5QOtJ6_EQMNHMyaWZUCALcuEf6zpyn79ufb5rUmr28dvdVEOyqKqZazTB2jTahDLc34Z7IpqUFfymurP-_K_cT8JeT8d1FcyNA0TEQKGJoFwhAz8Xl7re7b_1DQ6_UDtYPI09-eTeRpMLZhgeo0PHYsmHRObLEtuHY9PGojI3zNMMzXl_X2v783lnul7ev6rkOV1l_zzy69O0dqTSzvxWVlym4IAqDFlJfOQLmg45pypsci7uZd3lDrcWG7UOkHaDZz6hSO3i92M8BmPVpFDtnAL-VHVic7KkGXbELgdB2IST3UYT61iqwVlIXelk629KcUhzI3kBGt6FE5ki6mveSkRvTFYHtON6BbR3JA9DQLk1jTqcnFWJQ3dmXdUL-HZ6xebkntQ-Ix52IeiCl2rCiIotrnufdDeKCIti0pzyaxFEIqzN-NtgnNEZ9xUbN4xW9v8mNeMMRL0S7J0vSLQPqT62WG59hfcfXv8ZOzEe9V7dAvV2d_4WPIxlbN9n0Dq8RNnYa4wP4l1yOhCco1irINtzwOJ8nqZZ33MNeZ8vBXT0g42WRQDUkVavXHMblHkOUlOuArpIXDHp_TsGQku18ujflEzSkJQI2GLOkbKkY41kZuykmcxDs6lFAC6PtsHLrTgg89UBKHf5zeGMrSF44uyl20MXDw9PI_pzLutIhFIQE5s83zcYrUKc5eE2sHL6Nnj2FusJrBkuaCfuku1-wBPLqmD1bDsmjFqlsaqdmezRmd7G--8tn2-eP7vcGgBOCTGyDRG4F8GuEXt",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bzH4CnicbU9LkqJIAI2YM8wNZukmPyTK7EoBtUpREjLR3FQkJIqSCoUgSMwd5g5W90T0LLs7os9Sc5pxZt27F--9eJ8_7-nhx2tz6GVzaiYWCrJrstY1BsVT-6WsCtUk9UF9hwY24YhYxBoaYAQAMhD-ksha6mJ_UN-gYRmmYUHTNK0hwBCZo69ZKpU-nNPVbpdWdpE8bMgYDsEjAxAMLAQMc0T-PpzkPv1f_g6hAYllPgrQyDJHeIQhea_U5QOtJ6_EQMNHMyaWZUCALcuEf6zpyn79ufb5rUmr28dvdVEOyqKqZazTB2jTahDLc34Z7IpqUFfymurP-_K_cT8JeT8d1FcyNA0TEQKGJoFwhAz8Xl7re7b_1DQ6_UDtYPI09-eTeRpMLZhgeo0PHYsmHRObLEtuHY9PGojI3zNMMzXl_X2v783lnul7ev6rkOV1l_zzy69O0dqTSzvxWVlym4IAqDFlJfOQLmg45pypsci7uZd3lDrcWG7UOkHaDZz6hSO3i92M8BmPVpFDtnAL-VHVic7KkGXbELgdB2IST3UYT61iqwVlIXelk629KcUhzI3kBGt6FE5ki6mveSkRvTFYHtON6BbR3JA9DQLk1jTqcnFWJQ3dmXdUL-HZ6xebkntQ-Ix52IeiCl2rCiIotrnufdDeKCIti0pzyaxFEIqzN-NtgnNEZ9xUbN4xW9v8mNeMMRL0S7J0vSLQPqT62WG59hfcfXv8ZOzEe9V7dAvV2d_4WPIxlbN9n0Dq8RNnYa4wP4l1yOhCco1irINtzwOJ8nqZZ33MNeZ8vBXT0g42WRQDUkVavXHMblHkOUlOuArpIXDHp_TsGQku18ujflEzSkJQI2GLOkbKkY41kZuykmcxDs6lFAC6PtsHLrTgg89UBKHf5zeGMrSF44uyl20MXDw9PI_pzLutIhFIQE5s83zcYrUKc5eE2sHL6Nnj2FusJrBkuaCfuku1-wBPLqmD1bDsmjFqlsaqdmezRmd7G--8tn2-eP7vcGgBOCTGyDRG4F8GuEXt"
+    },
+    {
+      "category": "Deals on Power Banks",
+      "thumbnail": "https://serpapi.com/searches/6ab3e8fd018c48cd922182ff/images/VWcOrmzvLc0cLVmGmj7uQdLW2XHsZnGnc8mteFhlYK0.webp",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQqiJLk98FhLanC_jCKVAX-yOLLz_n1IiXdV0mfWx7JWczajYsr9W2rHEk-qwVJiqOFLCBAcnrrBJSoUB9OLiHsUXplV73QpjnPBQ",
+      "source": "PhoneSuit",
+      "title": "Apple iPhone USB-C Small Portable Charger & Battery | 2-Pack | Samsung | Pocketable | No Cables Needed | 5000mAh",
+      "rating": 4.0,
+      "reviews": 29,
+      "price": "$54.99",
+      "extracted_price": 54.99,
+      "original_price": "$100",
+      "extracted_original_price": 100,
+      "delivery": "Free delivery",
+      "extensions": [
+        "45% OFF"
+      ],
+      "immersive_product_page_token": "zrUqNHicbY9LrqNGFIaVtWRotVRFYRsys3nZ2MaXggJTkyugwGAXD_Owuaj3kC203N2RuoetSFnLjbKYkIx7cnSk_3G-8_szyf967fMx7ItekQUnu8cvvEOgWj2-1U3F-rjL2Q8kiss5glCWIFgCUZ5L3-KwC3l1ztmnH1kSMp6XyTFNk0at4p8GvudFeE7-V_-EwlISwWIBAYDiUoAISIvPDWvfhRflVZJlhJaiKKE5AEsZCqL08QUf1defa19vfdK8vf_aVfWsrpoujHgyLY-kmUVheW1nadXMuia8J_zruZ6uf_pc_Dfqe_fMzl_6nifvwmOmrLb2VtkmjiHDGOF7lA_EVwZCT1kWvw1eVHBAfftMEM6Y4Y3PM3_27TPjz6T8owrrexr__cs_Wr9VlNtWsUldeyoGrmqmccFbS5C34eUALaBnLtKHsGBGbOAh4kwLoN5Em7Xilkx0IA1Cj2YWx4rnz0XvsqbUkLqjMVexuhoPkKfR1dsRDbd7wqfuuPNPVN-frMLVdI0RHVmulTsFnrzmJlHtYe8HyNdkkFzMPCm6PUX0cEBrQvX1Y--3Ai3qcco9MLRuITEXATFT70JTWgZjDEyONTaxrc2AWH00rtUD6BrG5R1xeR1e8C64elas0pfIGHbhuB0PV77HYIviE1ejDb9SYlG_YGUAMtfbeC42uOiWweAiG00_T_y26J6yihJv9EZ-c0t952uVwApOLDdGicbvWPMsBk0SGdRnrjfHXBP2p_XWI4yHV0oJz0yqHQQbiILty30ANUeHMgxPdcZ8CO3x-kaETAjgumXq4REBHRm5ucYb6-3oU8KMoXWhpSY6d6bOOjjVinPF1sQ12igYMcDll6Ft0new0uedc5y3i8H5kN4VGpbBxdNdNb_ss8fKuh3s3-BSBnA5F6WFKAn_AprwKAM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zrUqNHicbY9LrqNGFIaVtWRotVRFYRsys3nZ2MaXggJTkyugwGAXD_Owuaj3kC203N2RuoetSFnLjbKYkIx7cnSk_3G-8_szyf967fMx7ItekQUnu8cvvEOgWj2-1U3F-rjL2Q8kiss5glCWIFgCUZ5L3-KwC3l1ztmnH1kSMp6XyTFNk0at4p8GvudFeE7-V_-EwlISwWIBAYDiUoAISIvPDWvfhRflVZJlhJaiKKE5AEsZCqL08QUf1defa19vfdK8vf_aVfWsrpoujHgyLY-kmUVheW1nadXMuia8J_zruZ6uf_pc_Dfqe_fMzl_6nifvwmOmrLb2VtkmjiHDGOF7lA_EVwZCT1kWvw1eVHBAfftMEM6Y4Y3PM3_27TPjz6T8owrrexr__cs_Wr9VlNtWsUldeyoGrmqmccFbS5C34eUALaBnLtKHsGBGbOAh4kwLoN5Em7Xilkx0IA1Cj2YWx4rnz0XvsqbUkLqjMVexuhoPkKfR1dsRDbd7wqfuuPNPVN-frMLVdI0RHVmulTsFnrzmJlHtYe8HyNdkkFzMPCm6PUX0cEBrQvX1Y--3Ai3qcco9MLRuITEXATFT70JTWgZjDEyONTaxrc2AWH00rtUD6BrG5R1xeR1e8C64elas0pfIGHbhuB0PV77HYIviE1ejDb9SYlG_YGUAMtfbeC42uOiWweAiG00_T_y26J6yihJv9EZ-c0t952uVwApOLDdGicbvWPMsBk0SGdRnrjfHXBP2p_XWI4yHV0oJz0yqHQQbiILty30ANUeHMgxPdcZ8CO3x-kaETAjgumXq4REBHRm5ucYb6-3oU8KMoXWhpSY6d6bOOjjVinPF1sQ12igYMcDll6Ft0new0uedc5y3i8H5kN4VGpbBxdNdNb_ss8fKuh3s3-BSBnA5F6WFKAn_AprwKAM"
+    },
+    {
+      "category": "Deals on Power Banks",
+      "thumbnail": "https://serpapi.com/searches/6ab3e8fd018c48cd922182ff/images/VWcOrmzvLc0cLVmGmj7uQcOfOzLvLSQ5v8PXYU4-zF0.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "Anker 313 Power Bank",
+      "rating": 4.8,
+      "reviews": 3100,
+      "price": "$21.99",
+      "extracted_price": 21.99,
+      "original_price": "$26",
+      "extracted_original_price": 26,
+      "delivery": "Free delivery",
+      "extensions": [
+        "15% OFF"
+      ],
+      "immersive_product_page_token": "O-uuG3icdZNNrqNGFIWlrCE7yNCKRBVVQGVmg_HPM2ADVWWYPPFng_l9gA22sofswa87UmfYHSlreVlNSI-T2ZW-o3PPudL97Zlkf71es0dwLa8qgU56i_ZFLwr1fPjStHV8jfos_hNIsiCLGCEsY4BlALGifImCPijqcxZ_E2UZIIwJUQSsoEksC1_TJIiLrEqs0ylptTr61wVLRCEykqCAZAnIhBDwR1YG5-Q7_waQQKAkiERByrSLyIC8t3H3gfbqKwBQwQQiURagjICIFJH8urct7fV_4Oe3a9LeP37q62bW1G0fhEUyDUPSzsKgyrvZqW5nfRvckuLzufke7z9c3sss_oplacqsEEmEkjxRgN6bW_9Mz5-u1yL5gMNMnW8OG3WTOCsCItG-hdlIuTpS_5im0X1kYVkIPj-cqWin8Yo9nufiee2eafFMqt_roLmdor9_-HFZD5raDeqBNg3TbMHh-OBRXB84Agaz3xx3OXq8qaM8v8d8AxPeXCksbE_UDRMWN4-S3IZ9aVYRCJgCAnGL_FxvPRa_JUv9zS7rwTqmKjvqVkC73tHmoyv6L764EKM1c8Ml2ZiMdDuqXx1aNMGqaA1tuzfz88A5aQKxYPHFf4lo_xKxrR2vG9MrfCeCPTeE7SqE5i2o_MIVuoEKBjDyJvP1JrX0hWouzbtbotE62pl9SStOwSGs7JOZ9zuamy3LN9hmumVwP7d1f4zzRgs508O1aYdlPVrsjJx8u3I5WIWPhRtoZslph7xjjUOmSwHPp75m6uTGyC7xnpe9zUv9tuOAu-sUOXDcHEq_9PLCTdzDPeCk9xiTjNIbfWByu-zutARqcqHAgR02wGKkBdEjcTu4FNNYWz7ccluzKpamzumO9pqz7DAVcBkK-j6erp5o1NEBAcGxSWMOwOGR3ylMoQcWXawZw6QTV9l2Ya_Nu8V924cCpIVpMlFnYR7vDLDEHlNEo4odh0fYqBb2p7FrTx_CXMe9Y-FOGp2fTzfVDyrvwnRXyy67dJibb8bhl-mfBCBjpEhIgf8ANpJHqg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=O-uuG3icdZNNrqNGFIWlrCE7yNCKRBVVQGVmg_HPM2ADVWWYPPFng_l9gA22sofswa87UmfYHSlreVlNSI-T2ZW-o3PPudL97Zlkf71es0dwLa8qgU56i_ZFLwr1fPjStHV8jfos_hNIsiCLGCEsY4BlALGifImCPijqcxZ_E2UZIIwJUQSsoEksC1_TJIiLrEqs0ylptTr61wVLRCEykqCAZAnIhBDwR1YG5-Q7_waQQKAkiERByrSLyIC8t3H3gfbqKwBQwQQiURagjICIFJH8urct7fV_4Oe3a9LeP37q62bW1G0fhEUyDUPSzsKgyrvZqW5nfRvckuLzufke7z9c3sss_oplacqsEEmEkjxRgN6bW_9Mz5-u1yL5gMNMnW8OG3WTOCsCItG-hdlIuTpS_5im0X1kYVkIPj-cqWin8Yo9nufiee2eafFMqt_roLmdor9_-HFZD5raDeqBNg3TbMHh-OBRXB84Agaz3xx3OXq8qaM8v8d8AxPeXCksbE_UDRMWN4-S3IZ9aVYRCJgCAnGL_FxvPRa_JUv9zS7rwTqmKjvqVkC73tHmoyv6L764EKM1c8Ml2ZiMdDuqXx1aNMGqaA1tuzfz88A5aQKxYPHFf4lo_xKxrR2vG9MrfCeCPTeE7SqE5i2o_MIVuoEKBjDyJvP1JrX0hWouzbtbotE62pl9SStOwSGs7JOZ9zuamy3LN9hmumVwP7d1f4zzRgs508O1aYdlPVrsjJx8u3I5WIWPhRtoZslph7xjjUOmSwHPp75m6uTGyC7xnpe9zUv9tuOAu-sUOXDcHEq_9PLCTdzDPeCk9xiTjNIbfWByu-zutARqcqHAgR02wGKkBdEjcTu4FNNYWz7ccluzKpamzumO9pqz7DAVcBkK-j6erp5o1NEBAcGxSWMOwOGR3ylMoQcWXawZw6QTV9l2Ya_Nu8V924cCpIVpMlFnYR7vDLDEHlNEo4odh0fYqBb2p7FrTx_CXMe9Y-FOGp2fTzfVDyrvwnRXyy67dJibb8bhl-mfBCBjpEhIgf8ANpJHqg"
+    },
+    {
+      "category": "Deals on Power Banks",
+      "thumbnail": "https://serpapi.com/searches/6ab3e8fd018c48cd922182ff/images/VWcOrmzvLc0cLVmGmj7uQRmOG4mnPcBX7cslfB7SK9w.webp",
+      "source_logo": "https://serpapi.com/searches/6ab3e8fd018c48cd922182ff/images/VWcOrmzvLc0cLVmGmj7uQdT4QrOUpLoz8WgU_dA-vm3fjAK3BtLc10wet0kVdAiD.png",
+      "source": "Torraslife",
+      "title": "Torras PackGo Cube 10000mAh Power Bank",
+      "price": "$89.99",
+      "extracted_price": 89.99,
+      "original_price": "$110",
+      "extracted_original_price": 110,
+      "delivery": "Free delivery",
+      "extensions": [
+        "18% OFF"
+      ],
+      "immersive_product_page_token": "hnlbyXicHZLLbptAGIXVZ-nSmxmG4dJdzM04MQ6XGTCbCoaxwWBDMDiYF-iyrxA5SaV02Vbqs6RPU9rNr6PzHek_i_P1yovfn_tiTPpDr6mCn5_ZfdUhUN88vjVtnfWsK7KfSFUFRUEClmSIAFIBFN5Y0iVVvZsoBFAGky_JSJBEVZJU8UfOk6wqjny93fJWr9kUE1QVqxALEoJQUVUZQ-V7cUh2_D_-BZGIRBlPFwsIKxBiKD-32enp9aHn7eX9Y1c3s6ZuuySt-CQeeTtLk2N5mm3rdta1yZlXr7vm3yckAoAVRURg6qViLArq86HInp6bc3fNdy99X_F34XGm3diurdnct1TIkHdOi4GE2kDiKM_ZZaDpoQJx6O4I8vLMouN1V1370zWvrvz4rU6a85b9-fDFeLA1rbfnLmkaqnvAR1mdhs4ljgxMaC6lcEKQARfNbxkYFt6Y7-PKaVML0pVF90HprRNgHjxUD6vRjEO6RI7VGDGlblA5gIc7wbHMPj2aMClxl_pQWOtL6oedthqrtU_VchW4MNBjQkOcOPrcdaAnJft4nurzcwTMlhGnXFl5xMJ8CMmyZiR3p76T35mZBluyKAey32A_cAe_zIB7dO5TQzWJAKBjwXsHKJAYebsBS30T0bs72hSOUQ5OtBndY34haIO9Aw03gnnPALh4o6dlOrX9cADp3tTZMQ4D4oHUGE5Z1ByJZ0cRog0_mDCNqL4OlkGyiPfEGsBqnJ_diCV2aRoM2TiuluvMoNQxNgOD5cXbE4Hrc8BIdsvIILplRyg0XoZTu30HNybu_LWcVLLEm7vMPwUoWiwO_LbwceBvHG33CcrTgGUsKpKowL-QkQUI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=hnlbyXicHZLLbptAGIXVZ-nSmxmG4dJdzM04MQ6XGTCbCoaxwWBDMDiYF-iyrxA5SaV02Vbqs6RPU9rNr6PzHek_i_P1yovfn_tiTPpDr6mCn5_ZfdUhUN88vjVtnfWsK7KfSFUFRUEClmSIAFIBFN5Y0iVVvZsoBFAGky_JSJBEVZJU8UfOk6wqjny93fJWr9kUE1QVqxALEoJQUVUZQ-V7cUh2_D_-BZGIRBlPFwsIKxBiKD-32enp9aHn7eX9Y1c3s6ZuuySt-CQeeTtLk2N5mm3rdta1yZlXr7vm3yckAoAVRURg6qViLArq86HInp6bc3fNdy99X_F34XGm3diurdnct1TIkHdOi4GE2kDiKM_ZZaDpoQJx6O4I8vLMouN1V1370zWvrvz4rU6a85b9-fDFeLA1rbfnLmkaqnvAR1mdhs4ljgxMaC6lcEKQARfNbxkYFt6Y7-PKaVML0pVF90HprRNgHjxUD6vRjEO6RI7VGDGlblA5gIc7wbHMPj2aMClxl_pQWOtL6oedthqrtU_VchW4MNBjQkOcOPrcdaAnJft4nurzcwTMlhGnXFl5xMJ8CMmyZiR3p76T35mZBluyKAey32A_cAe_zIB7dO5TQzWJAKBjwXsHKJAYebsBS30T0bs72hSOUQ5OtBndY34haIO9Aw03gnnPALh4o6dlOrX9cADp3tTZMQ4D4oHUGE5Z1ByJZ0cRog0_mDCNqL4OlkGyiPfEGsBqnJ_diCV2aRoM2TiuluvMoNQxNgOD5cXbE4Hrc8BIdsvIILplRyg0XoZTu30HNybu_LWcVLLEm7vMPwUoWiwO_LbwceBvHG33CcrTgGUsKpKowL-QkQUI"
+    },
+    {
+      "category": "Deals on Power Banks",
+      "thumbnail": "https://serpapi.com/searches/6ab3e8fd018c48cd922182ff/images/VWcOrmzvLc0cLVmGmj7uQYdQy-5E8c2oN2ywXRglrWs.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "Anker - Prime Power Bank and Charging Base, 26,250mAh 300W Max Portable Charger with Base for 6 Devices - Phantom Gray",
+      "rating": 5.0,
+      "reviews": 1,
+      "price": "$279.99",
+      "extracted_price": 279.99,
+      "original_price": "$330",
+      "extracted_original_price": 330,
+      "extensions": [
+        "15% OFF"
+      ],
+      "immersive_product_page_token": "ueu1rHicdVJLrptIAFTOMktrpO7mY5OdDcY2MfBo6Ab35qlpsME0hoeNjVHuMFeInGSkzHI00pzlzUmyzIs029SiVFKpVLWoPx55-e9zX468r3vTQGFxFU_yooBmfvvWdk3Wi0uZ_QOBoenIUFUwUyFUfmL2TfALl82hzD79XeQ8k-Up9_f7vLMa8YvIX2XND_n_PlJ0HRpQR6qCDG1qIKR_7rLzq_pkPkNFhTMAplNDRVM4nekKUj4-Yd96_oX59aXPu_vrb5emnbRNd-GpzN_ELe8mKT9V58m-6SaXjl9z-fXQvvV_-lz_pPZ6eRSHL30v81d0m5jzTbAxN3m4MqBQ8DUtBxKbA2FJUYj7QNNaAhYHB6LgIlvR8XGQj_78KOQjP_3Z8Pa6F_-9-768CtPshBmQtqUWBmEVQBfRe0Ao9GO55Wu2EpbnRcSx8lq7BMf5jSheEC7pyUP0xaMbTcCMRmubZZZ0CMFVLLEmlLaLl_KcWtLitNi6CSUpkfsosltKHDc4FnoUbW6u7TUEnMd4pakCLgLfyhwq2Z1XVOEjrWPbqSKZFR5krktxk8FqYCvDw4mz82n7IVIqEID2FkmHRyNzwxjb7LiIdqCBu4pRAorRW9NrSKmJgeOKyoBeDWAcs5aPdkEIvaVLW6arDWLrxROugRbaMiHLAGSQntLaYelq2HPFHX3L0WhMFQydlsEDYiEYRIKrFBbdjhoDG72Ne6TbqDaYT4bEk3ad1-1dWLthSxd9fCpMV_HCTApVIOhEa-dDWFMUVtXAYevhk3MNl8bIY-wxC3OquAM-sl4kIrTf7seTtshiCIOxuhNUoB1cnDPLvaXAVlals8Br7-7HDJM4G3DsJBGyeYBwF67tF3Z82x1hPSRe6K_t05fh3O1fwdzWLqGvnfUh_H1_NRk_7Y7UjqzyuC1uc-_FDd7DqQHgVFNnujpDPwApGDFm",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ueu1rHicdVJLrptIAFTOMktrpO7mY5OdDcY2MfBo6Ab35qlpsME0hoeNjVHuMFeInGSkzHI00pzlzUmyzIs029SiVFKpVLWoPx55-e9zX468r3vTQGFxFU_yooBmfvvWdk3Wi0uZ_QOBoenIUFUwUyFUfmL2TfALl82hzD79XeQ8k-Up9_f7vLMa8YvIX2XND_n_PlJ0HRpQR6qCDG1qIKR_7rLzq_pkPkNFhTMAplNDRVM4nekKUj4-Yd96_oX59aXPu_vrb5emnbRNd-GpzN_ELe8mKT9V58m-6SaXjl9z-fXQvvV_-lz_pPZ6eRSHL30v81d0m5jzTbAxN3m4MqBQ8DUtBxKbA2FJUYj7QNNaAhYHB6LgIlvR8XGQj_78KOQjP_3Z8Pa6F_-9-768CtPshBmQtqUWBmEVQBfRe0Ao9GO55Wu2EpbnRcSx8lq7BMf5jSheEC7pyUP0xaMbTcCMRmubZZZ0CMFVLLEmlLaLl_KcWtLitNi6CSUpkfsosltKHDc4FnoUbW6u7TUEnMd4pakCLgLfyhwq2Z1XVOEjrWPbqSKZFR5krktxk8FqYCvDw4mz82n7IVIqEID2FkmHRyNzwxjb7LiIdqCBu4pRAorRW9NrSKmJgeOKyoBeDWAcs5aPdkEIvaVLW6arDWLrxROugRbaMiHLAGSQntLaYelq2HPFHX3L0WhMFQydlsEDYiEYRIKrFBbdjhoDG72Ne6TbqDaYT4bEk3ad1-1dWLthSxd9fCpMV_HCTApVIOhEa-dDWFMUVtXAYevhk3MNl8bIY-wxC3OquAM-sl4kIrTf7seTtshiCIOxuhNUoB1cnDPLvaXAVlals8Br7-7HDJM4G3DsJBGyeYBwF67tF3Z82x1hPSRe6K_t05fh3O1fwdzWLqGvnfUh_H1_NRk_7Y7UjqzyuC1uc-_FDd7DqQHgVFNnujpDPwApGDFm"
+    },
+    {
+      "category": "Deals on Power Banks",
+      "thumbnail": "https://serpapi.com/searches/6ab3e8fd018c48cd922182ff/images/VWcOrmzvLc0cLVmGmj7uQQ-26eeKW25mxyxmRa4fvHQ.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAdVBMVEUAAAABAQH___8CAgIxMTE2Njb19fX4-PgYGBgcHBwwMDAWFhY6OjrGxsa6urrAwMAlJSXj4-NBQUFZWVkSEhJ4eHioqKhPT0-0tLTf399EREQMDAzt7e1SUlLp6ekfHx-FhYVtbW2Xl5dxcXHPz89nZ2cpKSnoVjUxAAABGElEQVQ4jb2SW3ODIBCFF1a8AYJ4w1u00eT__8QS2840Vcy0D2X0xd392HOOAP9-EF_UX81DwM6aEFLaApCT-ZAKHfgYW53xKPes4viuHoe0Sw4ZH3UeUtMPlwMGgoiomCLaxQMtJvZzUwKJzDtUlwayoQArk52WkhPgHKGM3cvLEnYE1RpUbQM2H48ICIY6D6jTENJRi71bzoWIBk6l6MMjFV8dbt5Mnjw-GQ8nPWkgsIgyfZKnY_jSJNtH4hhi-6m8iXvZM3ur6uZaVWq5qWZhS5XNTze0F2trvVapHGUi10Ax-eRVb2tppalXnWk111eb9dn0vQFFn4qCFQwN3BeOtzuI3rOO1yNEJE4gOq0EHs9vhf79vAO80w2QzZw3qgAAAABJRU5ErkJggg.png",
+      "source": "nestout.com",
+      "title": "EDC Bundle",
+      "price": "$58.88",
+      "extracted_price": 58.88,
+      "original_price": "$70",
+      "extracted_original_price": 70,
+      "delivery": "Free delivery",
+      "extensions": [
+        "15% OFF"
+      ],
+      "immersive_product_page_token": "BRzn83icJZJNruJGAISVs2SJIvWPf7N7Bjc_eZih7W6b3kTttqENbfAzBowvMVcY8WYiTZZJpJzl5TQhyq6kKpXqk-rzo6z-_vVSDfJSX8Y-ivVVfTIdBqeX2_emPRUX1VXFX9B1sIcA8FzfdaDvQgTd70p20px2VfGn51m27zm2D13bsbFrYfsPXcrCVMdytd2W7eSknjEfWxj7z4QDgAs9D7vO71Utd-X_NkYIei4G0HZtz8aWA933tjh_-fZ2Kdv7x4_dqRk1p7aTuSmf4la2o1weD-fR9tSOulZeS_Nt16j_5mJkAw8CF1v2czF0EcDvdVV8eW-u3UPvvl4upvxAt9H4Zb6ej-dlPPWhwvSaVz1Lxz0Tmdbq3vO8NkCk6x3DVBdTPjx25nE5P7R5lMffTrK5btU_P7yHrRqPrypYs6bhEwriQ9hHYd-tMmWVqT4zRFACOlrWmkjUHxQwnOGgiWufxvUiS8Im4nsD6FDI2HCsBnFchh3aMBpJvIAUnfB6ENPXNJIUNbMYzsFm4ANNd1DMeCA4v-UpoVEW4tWEfFqCxZs0CqrUNAlvbgWIuhyTA627dcGDRu6jQfEQ0CRgMRBOfAz6aLaBG0DrKCHzghhLpAVaplAvSfAqjb7TRC9lEvTi0N2TcKEF4_flxLyKicgi1hsBtROz87NTk2j6ZGea5FzPGNjY0aypKSp6TgSRnIECKZxhPUuZ-WUD7DMj4RBzvs0RSWVtI9HPswzzpqwJzDM-WSWLRM7Enk17sByC6zpTcn4gocJzWxgyprPF-sm8VYSvVgm5FUwnEeoOpfGwIgWhPPzan9vtB3ghdhev7LPTxz9tr2Mhj5s9J8mk2r_q20v0tlz_DF0fPG9seY7loX8BS_cQIw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BRzn83icJZJNruJGAISVs2SJIvWPf7N7Bjc_eZih7W6b3kTttqENbfAzBowvMVcY8WYiTZZJpJzl5TQhyq6kKpXqk-rzo6z-_vVSDfJSX8Y-ivVVfTIdBqeX2_emPRUX1VXFX9B1sIcA8FzfdaDvQgTd70p20px2VfGn51m27zm2D13bsbFrYfsPXcrCVMdytd2W7eSknjEfWxj7z4QDgAs9D7vO71Utd-X_NkYIei4G0HZtz8aWA933tjh_-fZ2Kdv7x4_dqRk1p7aTuSmf4la2o1weD-fR9tSOulZeS_Nt16j_5mJkAw8CF1v2czF0EcDvdVV8eW-u3UPvvl4upvxAt9H4Zb6ej-dlPPWhwvSaVz1Lxz0Tmdbq3vO8NkCk6x3DVBdTPjx25nE5P7R5lMffTrK5btU_P7yHrRqPrypYs6bhEwriQ9hHYd-tMmWVqT4zRFACOlrWmkjUHxQwnOGgiWufxvUiS8Im4nsD6FDI2HCsBnFchh3aMBpJvIAUnfB6ENPXNJIUNbMYzsFm4ANNd1DMeCA4v-UpoVEW4tWEfFqCxZs0CqrUNAlvbgWIuhyTA627dcGDRu6jQfEQ0CRgMRBOfAz6aLaBG0DrKCHzghhLpAVaplAvSfAqjb7TRC9lEvTi0N2TcKEF4_flxLyKicgi1hsBtROz87NTk2j6ZGea5FzPGNjY0aypKSp6TgSRnIECKZxhPUuZ-WUD7DMj4RBzvs0RSWVtI9HPswzzpqwJzDM-WSWLRM7Enk17sByC6zpTcn4gocJzWxgyprPF-sm8VYSvVgm5FUwnEeoOpfGwIgWhPPzan9vtB3ghdhev7LPTxz9tr2Mhj5s9J8mk2r_q20v0tlz_DF0fPG9seY7loX8BS_cQIw"
+    },
+    {
+      "category": "Deals on Power Banks",
+      "thumbnail": "https://serpapi.com/searches/6ab3e8fd018c48cd922182ff/images/VWcOrmzvLc0cLVmGmj7uQYrLdgKkXY7LjVNj5D0sIno.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABa0lEQVRYhe2Wv0sCURzAP3deipVKGmJhUkgQ2BZELVFTUASNDc01tTf2FwQ1NUUt0W4NJU0u_cBJEokwBQv6MQSVHXfla7CEK2u7dwR-xvfgfT48vjweNGniMMpvG6IwsoZiBmy1a5X0jwAhVlRKyV3actOor622Brz2FzWrfKGFq2QS__kEiu62Vf5JPUDczLRylTkkkB0FQ5UhrweI0nQHRjmFPzsEb7LctQBxN95OpZzGl01AVaocQEO_P8KXS4CQLgdQUY2wU_JagMNYAp6eXWzsBMlkvdICLO_A6maI9e0g_vYq-dQlHrf9Q2m5gXjMACAaMfG45cyF5QbmZx8ZG67QHTaRNZja94VYtyFF_IUKLqnCBgEsYURuHQtQovk99J5l9Ni1IwEASt_ZFmZkET1eciQAQOk93Ud0zvEyUPjjo2RfAIASPTnmLTTFy-CFrIiGFlGc7EI8HOCq2FtR9b7ben6TJv-CD0kuZPBfOKP6AAAAAElFTkSuQmCC.png",
+      "source": "Best Buy",
+      "title": "Anker - Power Bank (20K, 87W, Built-In USB-C Cable) - Black",
+      "rating": 4.7,
+      "reviews": 270,
+      "price": "$65.99",
+      "extracted_price": 65.99,
+      "original_price": "$70",
+      "extracted_original_price": 70,
+      "delivery": "Free delivery",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "Kc_vBHicbVPNjqNGGFSeJUdrpW7-bOc2Bje21zRDQ3cDl1HzY4NpA8YYGyvvkFdYeXcjbY6bSHmWyZPkmJmc91IqqapUnz6pfnvk5d8vl_IuLseLOVf8YkifZa-C5un6re2a7JL2ZfbnTNV1Q5spYDbTdKBOVWX6LRW9kM2-zD59L3KRybLO3d0u76wm_XHij_Io9vn_8l9wqs10Y2roEBhTTVVmBjQ-d9n5VXk2X6Axn-ozzZhrClBnYP5m_vWZuNbLj7Wvp0veja8_9007aZuuF4nM38g17yaJqKvzZNd0k74TQy6_7tu39k-fj-_QDv2j2H-5XGT-qlwn5tPaW5vr3LfnMFXJkJQ3ys0bjcOiSMcbS44SxNzbU5UUmc3uj718XM6PQj7y-vdGtMMu_eenf5dDappdanq0bZlFQIBwlyz7i08ho1zXWYUBU_qAVAj69LYldo8IQ0XG2yGvejflfZxIdBRUlqTanBxGKqduNMf29Fym12C1sPgB21ySFTtg4YakiCTB-IgxWWUelxly7llID2zw1DiMwlZLgsVFMFkFYTVGJTwELG4ipVK2HNku2oQuk9BF8RhxGFHafsygHPJASh_NV74VaXmNdhxRmLHF2rV1hS3Rx-T9Ls7aiKGG8Az4R-KwkBCP6xDbsOCcyJSzjjM0prXcUVBoWzqveODoyaodA7ZYpKC1UhlTH8C1dyQtDpmfy1alQQXoanMKFQaEGo2USUxrSd2lThjDgW8Xd-9OeFrBK1GwIaoNwHzZY67HtC7WRPHGqEZbojILL3UQK3oRUVKmATrRqhc5rXwE51CE7dvfIfTu1UiVQong4pxZzjUBSLXLzYKs8OjymG7Z5h7XWBFK4aSWdJwKAIGYiJfYJkFmpmihfrmdu90reEJ677v62bj5H3aDGYs6OjAUWOVhW1yf8MnxfoHTOYBTXZu9z-M_HbkxHA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Kc_vBHicbVPNjqNGGFSeJUdrpW7-bOc2Bje21zRDQ3cDl1HzY4NpA8YYGyvvkFdYeXcjbY6bSHmWyZPkmJmc91IqqapUnz6pfnvk5d8vl_IuLseLOVf8YkifZa-C5un6re2a7JL2ZfbnTNV1Q5spYDbTdKBOVWX6LRW9kM2-zD59L3KRybLO3d0u76wm_XHij_Io9vn_8l9wqs10Y2roEBhTTVVmBjQ-d9n5VXk2X6Axn-ozzZhrClBnYP5m_vWZuNbLj7Wvp0veja8_9007aZuuF4nM38g17yaJqKvzZNd0k74TQy6_7tu39k-fj-_QDv2j2H-5XGT-qlwn5tPaW5vr3LfnMFXJkJQ3ys0bjcOiSMcbS44SxNzbU5UUmc3uj718XM6PQj7y-vdGtMMu_eenf5dDappdanq0bZlFQIBwlyz7i08ho1zXWYUBU_qAVAj69LYldo8IQ0XG2yGvejflfZxIdBRUlqTanBxGKqduNMf29Fym12C1sPgB21ySFTtg4YakiCTB-IgxWWUelxly7llID2zw1DiMwlZLgsVFMFkFYTVGJTwELG4ipVK2HNku2oQuk9BF8RhxGFHafsygHPJASh_NV74VaXmNdhxRmLHF2rV1hS3Rx-T9Ls7aiKGG8Az4R-KwkBCP6xDbsOCcyJSzjjM0prXcUVBoWzqveODoyaodA7ZYpKC1UhlTH8C1dyQtDpmfy1alQQXoanMKFQaEGo2USUxrSd2lThjDgW8Xd-9OeFrBK1GwIaoNwHzZY67HtC7WRPHGqEZbojILL3UQK3oRUVKmATrRqhc5rXwE51CE7dvfIfTu1UiVQong4pxZzjUBSLXLzYKs8OjymG7Z5h7XWBFK4aSWdJwKAIGYiJfYJkFmpmihfrmdu90reEJ677v62bj5H3aDGYs6OjAUWOVhW1yf8MnxfoHTOYBTXZu9z-M_HbkxHA"
+    },
+    {
+      "category": "Deals on Power Banks",
+      "thumbnail": "https://serpapi.com/searches/6ab3e8fd018c48cd922182ff/images/VWcOrmzvLc0cLVmGmj7uQbiTd0MrLfzL0YZbfn-Bw54.webp",
+      "source_logo": "https://serpapi.com/searches/6ab3e8fd018c48cd922182ff/images/VWcOrmzvLc0cLVmGmj7uQUtOmDfntAuHHfpfNwMkT8PHRmLloDoawakO8N_6Nm1z.png",
+      "source": "us.ugreen.com",
+      "title": "UGreen 10000mAh 25W Qi2 Magflow Magnetic Wireless Power Bank PB77365958B",
+      "rating": 4.8,
+      "reviews": 1200,
+      "price": "$54.96",
+      "extracted_price": 54.96,
+      "original_price": "$90",
+      "extracted_original_price": 90,
+      "delivery": "Free delivery",
+      "extensions": [
+        "38% OFF"
+      ],
+      "immersive_product_page_token": "19nCN3icdVBLrqNGAJRyhtwgSytSf6CB7Gxj_InBpqEb05snoLHBtDGDsbFR7pA7-M1EmlnORMpZXk6TlyjLZFdSler36zMv_3i5lkNyPV2nFgqKW7ZVHQbncf-5ac_ymnWl_EaACSzN0i1gYgMhDCzzc5Z0iTofSvkVEYChRohuAoB0Yujga5EnUpV1vtnv89Y-Z6X8HRJiYmJCyzSAgQ0TIMP8Up6SQ_4vbwCdwHcJspCJELJMy3pt5eVN205fINB0iAFEwCKagSz43uaXLd3YL_9DfvpwzdvH2w_duRk157ZLUpW_gz5vR2lSV5fR_tyOuja55erTofkn_z9cXk_v83SDaASZxLQMnegawuZrc-uexeHj9aryN9SPpuOlv5wu82BuwQzTW1reWTS9M7Eriuxx5-lJARH5B4ZpIed8eB7U83p5FuqZ17-dk-a2z_787vvZubenl37qs6bhNgVBBXt3RpcSO5jaYhosln0cmUO8K0gG5EzyMdiBbhvxFU9n-lbWMaRziwf2ZB6DVSRwDOJqNZNq9fB3jesfV7sAN23CLMKjgyZDpSWnjoRY8rCEiZgXPLXj3j3pbhhZfcZWjTvwQYBG4wG8R_OiD_gMhhUt6UK68VAwd9cAChsmAWWbyNfkIJa5KpIglPsd4kcfWI9o7iF-gpu8atDGdojHROMx6FG0mrIddSXrBh82t1R5QcAkSmddIY-sE7WzZY4zWUeNnR29MkYNDlWFgiND_iDcgCs3OEFd2H-_6qxTJfg65PYmLBxxnPg5L24uU3TNlJ6eVjVHd0LhJOFYCK8eY1GrjkN2p5FwvMHvXSjWbOYsOecsQHKxsf2OO04g5s6R4uqR1XyR1s5aoILwBX9I-P7wQFufgUcCGj1Fl8CBFkx2TSEjCP2hejBUoBhOLtJ2-xQ4eF6uJnThPTaRCKKqeqx3Rew6Dk5DVbLQ-zmBy45WqnKjO1wzST_eL-3-DYwdvQs2-oXcgx_3t6lI6vjIndAuj-uiH3sfXP8naFgAGrpmEs1EfwFAJ0TL",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=19nCN3icdVBLrqNGAJRyhtwgSytSf6CB7Gxj_InBpqEb05snoLHBtDGDsbFR7pA7-M1EmlnORMpZXk6TlyjLZFdSler36zMv_3i5lkNyPV2nFgqKW7ZVHQbncf-5ac_ymnWl_EaACSzN0i1gYgMhDCzzc5Z0iTofSvkVEYChRohuAoB0Yujga5EnUpV1vtnv89Y-Z6X8HRJiYmJCyzSAgQ0TIMP8Up6SQ_4vbwCdwHcJspCJELJMy3pt5eVN205fINB0iAFEwCKagSz43uaXLd3YL_9DfvpwzdvH2w_duRk157ZLUpW_gz5vR2lSV5fR_tyOuja55erTofkn_z9cXk_v83SDaASZxLQMnegawuZrc-uexeHj9aryN9SPpuOlv5wu82BuwQzTW1reWTS9M7Eriuxx5-lJARH5B4ZpIed8eB7U83p5FuqZ17-dk-a2z_787vvZubenl37qs6bhNgVBBXt3RpcSO5jaYhosln0cmUO8K0gG5EzyMdiBbhvxFU9n-lbWMaRziwf2ZB6DVSRwDOJqNZNq9fB3jesfV7sAN23CLMKjgyZDpSWnjoRY8rCEiZgXPLXj3j3pbhhZfcZWjTvwQYBG4wG8R_OiD_gMhhUt6UK68VAwd9cAChsmAWWbyNfkIJa5KpIglPsd4kcfWI9o7iF-gpu8atDGdojHROMx6FG0mrIddSXrBh82t1R5QcAkSmddIY-sE7WzZY4zWUeNnR29MkYNDlWFgiND_iDcgCs3OEFd2H-_6qxTJfg65PYmLBxxnPg5L24uU3TNlJ6eVjVHd0LhJOFYCK8eY1GrjkN2p5FwvMHvXSjWbOYsOecsQHKxsf2OO04g5s6R4uqR1XyR1s5aoILwBX9I-P7wQFufgUcCGj1Fl8CBFkx2TSEjCP2hejBUoBhOLtJ2-xQ4eF6uJnThPTaRCKKqeqx3Rew6Dk5DVbLQ-zmBy45WqnKjO1wzST_eL-3-DYwdvQs2-oXcgx_3t6lI6vjIndAuj-uiH3sfXP8naFgAGrpmEs1EfwFAJ0TL"
+    },
+    {
+      "category": "Deals on Power Banks",
+      "thumbnail": "https://serpapi.com/searches/6ab3e8fd018c48cd922182ff/images/VWcOrmzvLc0cLVmGmj7uQYlxszJMtKS5gLBDzLTCGq4.webp",
+      "source_logo": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkFDRYPDQwMDRsUFRAWIB0lIiAdHx8kLSgsJCYxJx0fNT0tMS1CRUBFIyU_OEItPzQ0MkMBCgoKDQ0NGg0PGjclHyU3Nzc3NzQ1ODY3NzU3LS03Nzc3Ny8rLSs3Nzc3NTc3Nzc3Ky0tNSstOC0tKzUrLS0rLf_AABEIACAAIAMBEQACEQEDEQH_xAAXAAADAQAAAAAAAAAAAAAAAAADBAYA_8QAIxAAAQMDBAIDAAAAAAAAAAAAAQIDBAAFEQYhMWFBgRJCUv_EABoBAQACAwEAAAAAAAAAAAAAAAACAwUGBwH_xAAiEQACAgECBwEAAAAAAAAAAAAAAQIDBCExERRRYXGh8AX_2gAMAwEAAhEDEQA_AKeuaHgOS-1FjuPyFpQ1ESVrUrgADc1KEZTkoRWrAG2XGJdIiJcB4PMv7BQyCD5BHIPRqy6mymbrsXBgaqkGoCB1_cH7tcY2lLUrLs1QMlQ4T5CT0BufVbB-VRCiqWfdstvvSA1adRRLHdE6Yft78ZqMoNxnfjku5-xA_RycjPdVZGFZkVc7GaberXTsvHcFpWEBqAirtp2LZLqrU7NwfjNxlF2S18sl3P1ST-jgYOeqzdGbPIp5GUE29E-nd-NwLaBt793uUnVd1TlyYopipPCfBI6A2Hurf1LoUVRwKtlv97BfVr4NQCtzt0S6w1xJ7IdZf3IJIIPgg8g91bTdZTNWVvgwFjR2okdqPHQENREhCEp4AA2qE5ynJzk9WAtRB__Z.jpeg",
+      "source": "Sharge",
+      "title": "Sharge Shargeek 170 Power Bank",
+      "rating": 4.0,
+      "reviews": 395,
+      "price": "$109.09",
+      "extracted_price": 109.09,
+      "original_price": "$215",
+      "extracted_original_price": 215,
+      "delivery": "Free delivery",
+      "extensions": [
+        "49% OFF"
+      ],
+      "immersive_product_page_token": "Iiomw3icdZNNjqNWFIWlrCE7yLAU6f3x17OyDdh0g80DHphJCXjYgB-GwmAwyh6yB1d3pM6wO1LWUllNrB4nsyt90qdzpHN_v-fl3y9DOSdDPSw15BXXbCd6DJrn8WvbNXzI-pJ_x1iFSMNAViSNSIggWf2aJX0imuODSkiFmABMsKIqUAVYwd-KPOGiPOfbwyHvVk1W8r8ggpKmSRpAqgQBBuBh_LOsk2P-g39XEICKAmSVEEVRJQlh-NbxyzvZLV8gRKpMMCJQJpqCINCQ8tuOblcv_wO_vA55d3v_pW_ap7bp-iQV-eMY8-4pTc6ny9Oh6Z76Lrnm4sux_RHvPyxvdcm_SYpMZKQoUAJEVTWFqG_ttb8Xx8_DIPJ3ND4tnzfuZrnJPVODGabXtJyCcDkFcVQU2W1iaS1AHLrHANOCm2y-H8V9uNwLcc_PfzRJez1k__z0s96Mq-VlXLpB27IVBV6tgsSDCT2zMdU3JDc1PzP00S4h3odwx6FVeUt45aB_jYAWZzV8tU_G7MIiCAC7-RWXbLN1HN2qAqOdIxxTp2KdX084PVHPBhqLo_gary3ZXi_WHBVOggubAWvjAbhKdOuUrWLLBxT4TBRxFTtchzCLRBka1toXDkzrBiQmkLZsEbGKVo6pVfGjbaATwjBdhGedBGtj67OioKCgsZ5N9GxVrOZDigSLsCMYaLAL-eSjaYgZ39GaBy7IiIuF6Zl03Joi5qepD9fUZ8iGPHQGW9fK8HwcvdCdqa6S3LfHDNhjgvcoANrHeH262abzkdfWJWSxvA9PfYCZvw8d2RYMBkAYqenQLOLQj9o5neNLAtjIAigzQ4XbMJ7pbFwokHxnzXRHOP2nUGq2_jNya8GCyO4ZzEhsalICpNGuNzODumdADSZRW_AQQnc-3QJUoD1cXPjKHlNgYLO0FnTt3B5-ap-0IVwtkAfIZGNrDs-cxJHT2YzVuS6a_amln6dLd3gHz4bUe1vpIk_er4frMk7O-4oZ_qqsPhXjs_Nqux-goj3eRyKPDavoX0u8Ql8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Iiomw3icdZNNjqNWFIWlrCE7yLAU6f3x17OyDdh0g80DHphJCXjYgB-GwmAwyh6yB1d3pM6wO1LWUllNrB4nsyt90qdzpHN_v-fl3y9DOSdDPSw15BXXbCd6DJrn8WvbNXzI-pJ_x1iFSMNAViSNSIggWf2aJX0imuODSkiFmABMsKIqUAVYwd-KPOGiPOfbwyHvVk1W8r8ggpKmSRpAqgQBBuBh_LOsk2P-g39XEICKAmSVEEVRJQlh-NbxyzvZLV8gRKpMMCJQJpqCINCQ8tuOblcv_wO_vA55d3v_pW_ap7bp-iQV-eMY8-4pTc6ny9Oh6Z76Lrnm4sux_RHvPyxvdcm_SYpMZKQoUAJEVTWFqG_ttb8Xx8_DIPJ3ND4tnzfuZrnJPVODGabXtJyCcDkFcVQU2W1iaS1AHLrHANOCm2y-H8V9uNwLcc_PfzRJez1k__z0s96Mq-VlXLpB27IVBV6tgsSDCT2zMdU3JDc1PzP00S4h3odwx6FVeUt45aB_jYAWZzV8tU_G7MIiCAC7-RWXbLN1HN2qAqOdIxxTp2KdX084PVHPBhqLo_gary3ZXi_WHBVOggubAWvjAbhKdOuUrWLLBxT4TBRxFTtchzCLRBka1toXDkzrBiQmkLZsEbGKVo6pVfGjbaATwjBdhGedBGtj67OioKCgsZ5N9GxVrOZDigSLsCMYaLAL-eSjaYgZ39GaBy7IiIuF6Zl03Joi5qepD9fUZ8iGPHQGW9fK8HwcvdCdqa6S3LfHDNhjgvcoANrHeH262abzkdfWJWSxvA9PfYCZvw8d2RYMBkAYqenQLOLQj9o5neNLAtjIAigzQ4XbMJ7pbFwokHxnzXRHOP2nUGq2_jNya8GCyO4ZzEhsalICpNGuNzODumdADSZRW_AQQnc-3QJUoD1cXPjKHlNgYLO0FnTt3B5-ap-0IVwtkAfIZGNrDs-cxJHT2YzVuS6a_amln6dLd3gHz4bUe1vpIk_er4frMk7O-4oZ_qqsPhXjs_Nqux-goj3eRyKPDavoX0u8Ql8"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQw4CX_OJgt61aiVgq6F8OCBd23brYqXEIFIe5ZSNwl123C9mcqpZHuREZkn5_WT1Y-d4wmeaKTlx__mqAHJYJLJif8HsAzxMNlxZG6TroRY93nxOBp-brARg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Anker Prime Power Bank",
+      "rating": 4.6,
+      "reviews": 765,
+      "price": "$139.99",
+      "extracted_price": 139.99,
+      "immersive_product_page_token": "pGI8BHicbZPNjqNGEMelPEPeIEdf-oPmI7exDdgeg4fG3WAuI6CxYWhMr40NWHmHvINnN9LmuImUZ5k8Tby5Jreq-kl_1a-k-vVeVH-9XqpbemkuMwuF5TV_kR0G7VP_VZ1accm7SvwBLahrmOgAGbqhW8DE5tc87VLZHirxJ9Q000TINImpI80i2ITkW1mkQlbHYrPfF6d5m1fiG7KQaejEQBqwLA0CU_-9atJD8S99pIDvcwtCbJqGplkaxu8ncf5AL7NXqJmWpUNAAMDQ1KCBrF9e6Gb--v_sy6dLcRo_fupaNVHtqUszWTyKvjhNsvRYnyf79jTpTum1kF8OKv9u-N-Q9-axMzF0TUfGw0p_3IBoWH9X1-5eHj5fLrL4QP1k9rQMlrNlEboWzDG9ZtXAotnAkrgs83HgWSNBEgUHhmkpXH67H-T9cr6X8l4cf2tTdd3nf__wo93289m5nwVMKT6nIOR-mDaWlzMR-c6qKyK7y-a-ymuYcrwiu2bYhAw-75qg9xe08ez8FiOis-NqTx1OAiBwDETCGqlTaClPWnEik-2ay3XI5Tk6lrYY4UsgV5fsbbr2Eee5PcAMlvMMThmDZsdc4fh16WeAa0mcdOGCAQ5LRFkPmVR4h4iiWCYeG9p1tEq2dQt3oB_8m2SUdSV1rW6HGIkBnBbNqs1vgmztrs1rBhPXeQsdoW2jHHlQ8MwpV5T7LkMtCSVNUxtg5q7qMGZ94STHwpU1Y067dXajV6uRu8laxHQRHKXaRMTmt9WYN75e1FymiyXIsPK8Wqy3iI3UHaj3Jsp8Tqs86iFfeGCzcJ53wG_TN7HlcQtipPycc7B58LShM44sx48PPbXpyJqkXoewD2Rwo9h--CRLrx68tFYBe3O8UJpa0Nih83iTNFaliCAMbvXIUIl2cHoWc6_PgIPdajWlC3_cRAllDYkK9wy2UrU-cAYPUyd79FlTIo5VymJKPw_n0_4DPDmkCzfa9pAXWrl2n0hpZur5SP1P_fX1UnZt8DM0LAANopk6gfAffOFFDw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pGI8BHicbZPNjqNGEMelPEPeIEdf-oPmI7exDdgeg4fG3WAuI6CxYWhMr40NWHmHvINnN9LmuImUZ5k8Tby5Jreq-kl_1a-k-vVeVH-9XqpbemkuMwuF5TV_kR0G7VP_VZ1accm7SvwBLahrmOgAGbqhW8DE5tc87VLZHirxJ9Q000TINImpI80i2ITkW1mkQlbHYrPfF6d5m1fiG7KQaejEQBqwLA0CU_-9atJD8S99pIDvcwtCbJqGplkaxu8ncf5AL7NXqJmWpUNAAMDQ1KCBrF9e6Gb--v_sy6dLcRo_fupaNVHtqUszWTyKvjhNsvRYnyf79jTpTum1kF8OKv9u-N-Q9-axMzF0TUfGw0p_3IBoWH9X1-5eHj5fLrL4QP1k9rQMlrNlEboWzDG9ZtXAotnAkrgs83HgWSNBEgUHhmkpXH67H-T9cr6X8l4cf2tTdd3nf__wo93289m5nwVMKT6nIOR-mDaWlzMR-c6qKyK7y-a-ymuYcrwiu2bYhAw-75qg9xe08ez8FiOis-NqTx1OAiBwDETCGqlTaClPWnEik-2ay3XI5Tk6lrYY4UsgV5fsbbr2Eee5PcAMlvMMThmDZsdc4fh16WeAa0mcdOGCAQ5LRFkPmVR4h4iiWCYeG9p1tEq2dQt3oB_8m2SUdSV1rW6HGIkBnBbNqs1vgmztrs1rBhPXeQsdoW2jHHlQ8MwpV5T7LkMtCSVNUxtg5q7qMGZ94STHwpU1Y067dXajV6uRu8laxHQRHKXaRMTmt9WYN75e1FymiyXIsPK8Wqy3iI3UHaj3Jsp8Tqs86iFfeGCzcJ53wG_TN7HlcQtipPycc7B58LShM44sx48PPbXpyJqkXoewD2Rwo9h--CRLrx68tFYBe3O8UJpa0Nih83iTNFaliCAMbvXIUIl2cHoWc6_PgIPdajWlC3_cRAllDYkK9wy2UrU-cAYPUyd79FlTIo5VymJKPw_n0_4DPDmkCzfa9pAXWrl2n0hpZur5SP1P_fX1UnZt8DM0LAANopk6gfAffOFFDw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSxF8tMojfEoKnVcxg7tUi-oDFmNtmLGj_Acf6Gh-f86Siv51JFeqlQZ-JJFiEVIQ_FOoTaV0Zq0mQvPMRD5Y4ZABc73xzV8wVWUWjFSbWETQY2huGPdHdz7Q",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "Dark Energy Poseidon Pro Charger",
+      "rating": 4.6,
+      "reviews": 642,
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "immersive_product_page_token": "7im9V3icbZBNrqNGFIWlrCE7yNCTKoriJzPbGNv0o_z4KQozeQIKG5vClA02BvUesge_7kidYSdS1vKymjgZ9-xK39U5n85vj-Lw99v1MKbX-jo3laC85a-iQ6CZ9t_kpeHXvDvwPzWk6oqJVKwjw9AxAhr6lqddKpr9kypIMwEwVANrhoqgATXwvSxSLg6nYrPbFReryZ9vWDWxquhQB7quaUAzkfLHoU73xf_4L6hiFSNTQwpGzw5TM6DxfuHth_I6f9NNVYcKNDFUVdUwTazjz6_-xnr7Mft6vhaX4eOXrpET2Vy6NBPF8-iLyyRLT1U72TWXSXdJb4X4upf_yf0g5L0-8O9Y11RN0QA2DaxoyEDqu7x1j3L_5XoVxYfST-bTtbeer4tgacIc-bfscKdsfqdJXJb5cI-yWoCEeXuK_JIvo_GxF49r-yjFozj93qTytsv_-ennRdNb87afe1TKyPJBoMA0B9hjgmwzy8HhKgeBLStaSxKtnCBbyhONfJwyzCjiOxqVm5A6n7zR8Xzgly_Uj0ndgiJOWAKw8OtOIUqj-kyuslEcveMUZauSRBV_Tev9PYTymFGs5GHecytp2ElW3DbHJEouQe0OyQCG4Jhs3Bru8ro781M0RpaIIou0ITVlSt2BivVARn6PKuz5iy3eMD4GC-K80HWfCwloLG5-LA6hNcMUbHFUe5iI7ZhBDzImd6wmNVnKNKsXI0eRzBbcYvVzuxrAaOXvXMu5pxY5FnSBs6rC2-cAGY0-uUAsiqPzdJVVJpLGV2ScAu6wU3JLlraTxbJ8usdbZtabJfECe7b2QnLygYHyKh_y2ugjKM9ZAEm49LUitp1NPBsLOzn7o7P2q_smVeyWg07mQCRu1blJ7WKy4stw5bwElaRR1QY2NGH67OIMQm-sBqqUyhbOWm65fQZstDw4M39Fhg1LQn4kCWF7zCw7jqFZpqJcszlALsNHwsAQngT6cm8vuw8wtXEXbHQxilWsQ4fGN3a-hZ4mpsury8hL2_8KdRNAHauGhqHyL6GnSKE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7im9V3icbZBNrqNGFIWlrCE7yNCTKoriJzPbGNv0o_z4KQozeQIKG5vClA02BvUesge_7kidYSdS1vKymjgZ9-xK39U5n85vj-Lw99v1MKbX-jo3laC85a-iQ6CZ9t_kpeHXvDvwPzWk6oqJVKwjw9AxAhr6lqddKpr9kypIMwEwVANrhoqgATXwvSxSLg6nYrPbFReryZ9vWDWxquhQB7quaUAzkfLHoU73xf_4L6hiFSNTQwpGzw5TM6DxfuHth_I6f9NNVYcKNDFUVdUwTazjz6_-xnr7Mft6vhaX4eOXrpET2Vy6NBPF8-iLyyRLT1U72TWXSXdJb4X4upf_yf0g5L0-8O9Y11RN0QA2DaxoyEDqu7x1j3L_5XoVxYfST-bTtbeer4tgacIc-bfscKdsfqdJXJb5cI-yWoCEeXuK_JIvo_GxF49r-yjFozj93qTytsv_-ennRdNb87afe1TKyPJBoMA0B9hjgmwzy8HhKgeBLStaSxKtnCBbyhONfJwyzCjiOxqVm5A6n7zR8Xzgly_Uj0ndgiJOWAKw8OtOIUqj-kyuslEcveMUZauSRBV_Tev9PYTymFGs5GHecytp2ElW3DbHJEouQe0OyQCG4Jhs3Bru8ro781M0RpaIIou0ITVlSt2BivVARn6PKuz5iy3eMD4GC-K80HWfCwloLG5-LA6hNcMUbHFUe5iI7ZhBDzImd6wmNVnKNKsXI0eRzBbcYvVzuxrAaOXvXMu5pxY5FnSBs6rC2-cAGY0-uUAsiqPzdJVVJpLGV2ScAu6wU3JLlraTxbJ8usdbZtabJfECe7b2QnLygYHyKh_y2ugjKM9ZAEm49LUitp1NPBsLOzn7o7P2q_smVeyWg07mQCRu1blJ7WKy4stw5bwElaRR1QY2NGH67OIMQm-sBqqUyhbOWm65fQZstDw4M39Fhg1LQn4kCWF7zCw7jqFZpqJcszlALsNHwsAQngT6cm8vuw8wtXEXbHQxilWsQ4fGN3a-hZ4mpsury8hL2_8KdRNAHauGhqHyL6GnSKE"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRHmQSpq1kgYAsO2QS5G5tIsecamPdUkVKpORmMXGWU8Ph3WYVyNJtmdYMBH1btNPDjPZo_ZpqY80RgIh9V7kkh5Ii_fhLZfZrRyfYbrzUaizUzi38f3BJV",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSnwtzrVSGbWcaAkmjswOw3Hf1ADP3vmSvnMoNuxJwxhkqm2aWeooJ-gvli5IOVrjd7brmfKKqkdL0t7hO6W0Hk9to",
+      "source": "The Ridge",
+      "title": "Ridge Power Bank",
+      "rating": 4.8,
+      "reviews": 358,
+      "price": "$79.00",
+      "extracted_price": 79.0,
+      "immersive_product_page_token": "yU3ggXicbZNJruM2EIaBnCE3yNIbkdRgZvc8ULYbkp8okbS1MajB1kANkWVbNnKH3MGvO0Bn2d1An-XlNFF6m2wKhfp-FP6_gPrjmebfD5f8IS_VZY6hn13jV9UjrXm5fW67JrnEfZ58xZY-haZhYAiRoU11zdQ_x7KXqjnlyTegGaYFEDYxgJZpYYih_iVLZaLyOt0ej2m3aOJ_dQBiHVgG1qamOSoRMPBfeSVP6Q_-FUI4MgSwOcWGjrBuoLcuOb_D1_kBWxCaAKLpFI5Oxmqh31_pdnH4f_bpt0va3d9_6Zt20jZdLyOVjs0t7SaRrMvz5Nh0k76T11R9OrXxj4j_WfJW5ckXwzJ1E06xqSMTGxBq07f22j-z08fLRaXv8DaZv6y99Xyd-jYGMaLXKB-YmA8s3GVZfB94VCktFN6JIZolNn88T-p5OT8z9UzrPxvZXo_x3z_9vGxui_n5NvdY2_IF1YKFGpzSRQFv1x4Lda_mKOTJ4DwYTNlykGgjt7tNEyxp6dQOTJdDznYc0pr7UTHr2WqWCxIDbhO4Zyfkaw3ybbrwtUztEXdjG49z5e0L8kHyltAq-RCsuPB2pS5LCng1hF7hCk9tBsrwLQLNgxPKI5sWLuOUsVPvKpptRXxLCQ59pg20ZoYQCRdqJGrTUEFG_wlnpXGJAVm7RVY5lUt4ve4pjzXOworvTjpHahsV2X2PyCO0jTWzja2P6FEqtfZXyULCsBKqDZhq59J2qSiIy5dtw3MAAoIrt2yzhHi3uByvXRAzqLlJ0ebo8wamhEG32GtOPas5CG2vNNy9ON8islk7yul9QbvApnsezIB8UDMqqNhDBcK6DUO4KbfMu8cVvwZg06dVViY71Xh1CKjoSfLIirjaHF1b67lY-wRgIHejFwGA9yjvDGZwD2bnZOHcIo0gO9_M6Mq9b0XIJCA9Y5nD63CXCrCSxSxMd4kTVtiLgbuMgxn6OJy747v2Qoze31quJY8zUaWHrDu8Vtj38R0MnShs4-VXYGFt_Cx9ahoA_QN7M0c1",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yU3ggXicbZNJruM2EIaBnCE3yNIbkdRgZvc8ULYbkp8okbS1MajB1kANkWVbNnKH3MGvO0Bn2d1An-XlNFF6m2wKhfp-FP6_gPrjmebfD5f8IS_VZY6hn13jV9UjrXm5fW67JrnEfZ58xZY-haZhYAiRoU11zdQ_x7KXqjnlyTegGaYFEDYxgJZpYYih_iVLZaLyOt0ej2m3aOJ_dQBiHVgG1qamOSoRMPBfeSVP6Q_-FUI4MgSwOcWGjrBuoLcuOb_D1_kBWxCaAKLpFI5Oxmqh31_pdnH4f_bpt0va3d9_6Zt20jZdLyOVjs0t7SaRrMvz5Nh0k76T11R9OrXxj4j_WfJW5ckXwzJ1E06xqSMTGxBq07f22j-z08fLRaXv8DaZv6y99Xyd-jYGMaLXKB-YmA8s3GVZfB94VCktFN6JIZolNn88T-p5OT8z9UzrPxvZXo_x3z_9vGxui_n5NvdY2_IF1YKFGpzSRQFv1x4Lda_mKOTJ4DwYTNlykGgjt7tNEyxp6dQOTJdDznYc0pr7UTHr2WqWCxIDbhO4Zyfkaw3ybbrwtUztEXdjG49z5e0L8kHyltAq-RCsuPB2pS5LCng1hF7hCk9tBsrwLQLNgxPKI5sWLuOUsVPvKpptRXxLCQ59pg20ZoYQCRdqJGrTUEFG_wlnpXGJAVm7RVY5lUt4ve4pjzXOworvTjpHahsV2X2PyCO0jTWzja2P6FEqtfZXyULCsBKqDZhq59J2qSiIy5dtw3MAAoIrt2yzhHi3uByvXRAzqLlJ0ebo8wamhEG32GtOPas5CG2vNNy9ON8islk7yul9QbvApnsezIB8UDMqqNhDBcK6DUO4KbfMu8cVvwZg06dVViY71Xh1CKjoSfLIirjaHF1b67lY-wRgIHejFwGA9yjvDGZwD2bnZOHcIo0gO9_M6Mq9b0XIJCA9Y5nD63CXCrCSxSxMd4kTVtiLgbuMgxn6OJy747v2Qoze31quJY8zUaWHrDu8Vtj38R0MnShs4-VXYGFt_Cx9ahoA_QN7M0c1"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTjq54eRuNPzDbNVdUTxI2Z9C662p_8EvEyuVfuCKNkH_9UQiImPMX-uNh-U9sd6Gp4eMwmiAEjWWzwTEkLFAQxTAzbNtn5Kk5CSxBpG9UV1gOUWm5y0o45",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQcYB1aGQJuW5Q2ugDhlG3Eg7FQ0NCkvW6tiEzC72s21P6PfkV7hXoYL_7sogS8wc_BSo0b8VlUmALFtR044soiSf2mQMs5a_NsKQ",
+      "source": "Nitecore Store",
+      "title": "Nitecore NB10000 Gen4 Power Bank",
+      "rating": 4.8,
+      "reviews": 522,
+      "price": "$83.95",
+      "extracted_price": 83.95,
+      "immersive_product_page_token": "REvo8XicdZDLjqNGGIWlPEPeIMve1AUMZGcb40vc1e2CqgI2rYLCBlPYmIuxrbxD3sE9E2mynBkpz9J5mlhRdlF2R_rO-Y_-89s9K_5864ub7Kt-6iA_P6evusPgOB6-1M1R9WlXqG8Q2hgbyMQ2MAAcGSPD-pLKTurj7kEda4SQjeEImaZlYQMbztc8k0oXh-xlu80a95g-bMYjjhAECDomwAA52PijqOQu-wd_hwgDbNnwQU0I7BGyEHxvVPthvE7fHtAeQWwA49EP7YcR27--0hf37X_g51OfNdePn7pj_VQfm04mOnuIIWueEnko26ftsXnqGnnO9Odd_W__f668V4X6alqPh5FtOTa2TAsBiN7rc3fPd5_6XmcfaHiajpeb5XSZ-XMHppiek-LCxPTC4jDP0-uFJ5UGsdjsGKa5mvPbfafvfXvP9T07_H6U9Xmb_vXDj7Pj4E7bYbphdc1dCnzMLoqRUwqcUzBTt6SyURymIDjkg-8-A7nIXwOuC1nBKLzpTi7qgbHLwa9IkfGV8LUqRRBvEwaARDqObmnHwsmZCr3lTF_jsLyRBTUYMswIOQVzOQ7wErJKtUJwEkK1DrHugjnFcgoMOoU1R5dyHcRm4qolKeGJVppk4ardaD7zDzlgoJtLyFvlTdy41L_wOV9GbCVYSFzBVtvwRuFG50JVdJFVsyvHXBPRGXwf86z0XmjZdkrT4_NiB-KKnkIUy3QWC8XrdeKutM_jOsIrPynrnnJvkrIuJ48tkjAfghlZqVK3HDpDXHYnijyyuXkd3-ehOtBqU_F-HaYDYSnkBzKNStsIFvlVBpOQB0TQUOsQeIzoFU2rGCnQHSIRbyMWYb5XLhNwQbQHSektJWc4Bisq586EgUsf7MdXNdv5HnSgDOtcCQg3t_LKUI4iOGmV-zwkwMPzYjWhC3J9ETGLChgRrNakojgFZCIYu_nzyFBubLI5MKXo6KdL22w_wNgzO__FIpbcTkSVveXN22vl-L5zhZdG7Ofm-GdoOQBapmGPTIj_BqFIRzI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=REvo8XicdZDLjqNGGIWlPEPeIMve1AUMZGcb40vc1e2CqgI2rYLCBlPYmIuxrbxD3sE9E2mynBkpz9J5mlhRdlF2R_rO-Y_-89s9K_5864ub7Kt-6iA_P6evusPgOB6-1M1R9WlXqG8Q2hgbyMQ2MAAcGSPD-pLKTurj7kEda4SQjeEImaZlYQMbztc8k0oXh-xlu80a95g-bMYjjhAECDomwAA52PijqOQu-wd_hwgDbNnwQU0I7BGyEHxvVPthvE7fHtAeQWwA49EP7YcR27--0hf37X_g51OfNdePn7pj_VQfm04mOnuIIWueEnko26ftsXnqGnnO9Odd_W__f668V4X6alqPh5FtOTa2TAsBiN7rc3fPd5_6XmcfaHiajpeb5XSZ-XMHppiek-LCxPTC4jDP0-uFJ5UGsdjsGKa5mvPbfafvfXvP9T07_H6U9Xmb_vXDj7Pj4E7bYbphdc1dCnzMLoqRUwqcUzBTt6SyURymIDjkg-8-A7nIXwOuC1nBKLzpTi7qgbHLwa9IkfGV8LUqRRBvEwaARDqObmnHwsmZCr3lTF_jsLyRBTUYMswIOQVzOQ7wErJKtUJwEkK1DrHugjnFcgoMOoU1R5dyHcRm4qolKeGJVppk4ardaD7zDzlgoJtLyFvlTdy41L_wOV9GbCVYSFzBVtvwRuFG50JVdJFVsyvHXBPRGXwf86z0XmjZdkrT4_NiB-KKnkIUy3QWC8XrdeKutM_jOsIrPynrnnJvkrIuJ48tkjAfghlZqVK3HDpDXHYnijyyuXkd3-ehOtBqU_F-HaYDYSnkBzKNStsIFvlVBpOQB0TQUOsQeIzoFU2rGCnQHSIRbyMWYb5XLhNwQbQHSektJWc4Bisq586EgUsf7MdXNdv5HnSgDOtcCQg3t_LKUI4iOGmV-zwkwMPzYjWhC3J9ETGLChgRrNakojgFZCIYu_nzyFBubLI5MKXo6KdL22w_wNgzO__FIpbcTkSVveXN22vl-L5zhZdG7Ofm-GdoOQBapmGPTIj_BqFIRzI"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTWDCaRjgoSJjr-ZkW64XYrTgx_XKZnA2dPvSKBYrt87BnKKPuN0Nb6FH6Jg6xSiO5Fci9mFADRio-LUHvBI0dAM-gqu7LHZdJ5gx77dnhg",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRugzhMlXypiUfXe9wZZNLQfvNcH1jkxVgM7qMXKMACzCICmVpIEnfFG881FgsqtBHQ9JDEg-BGrqxY9H3w0Tg8ucvETng",
+      "source": "Nordstrom",
+      "title": "Anker Nano Power Bank (22.5W, Built-In USB-C Connector) (Point of Sale)",
+      "rating": 3.3,
+      "reviews": 131,
+      "price": "$29.99",
+      "extracted_price": 29.99,
+      "immersive_product_page_token": "nLAUTXicdY_NjuJGAISVZ8kRrdTtH0znNti0MQN43HZ3276MGruhGTfGMTYYtO-QV4jY3Uib4yZSnmXyJDmG5JyopFJJn1Sl-uku93-89vub6A-9i4xYnYsX3Zng-HT52rTHsi-6ffkbsh2ITGeMDGSNH3Ic9LUQndDH3YNaaDxx0MSZOABZ1gRMkPFNSVHqfS3D7Va23rHYl79D60HQ2ASObVgOsOB4Mvl1fxA7-S__ZkDTMR1kPZoMYNgmMj615endcgPv9T8mPr6Q0Hv9H_jlx1621_fvu2Mzao5tJzZaPsJFtqONqKvTaHtsR10rzlJ_2TWP9Z8_Hf6x5tzd1e5z32v5blxG7lMQBW4gYx_BwiTnzX6g3B1onipVXAe2OWiQ82hHTaJKn93uO33vT3el77L-5Sia87b487u_ZufCddvCjWjTMI-AuCpp7hGdgdKUM2UwY3VheHITiQLyLRgKaneRUT5Hlb3NeAESji6ULwKGVU5wI2jV2QVe0_imfOFPrhlXPqlQLJOdVcC8E1wlIcUwr8mwpBAIpnwKkZf4DNIks7jWETVgwwDKeK0Y9_EhMpsj4fYLgWTJawxKYM_DebmPZ4t0SfWWzddposslA3rNPBVlNek2VbeOfTZd14zGlXZ5irMVW5gJa5okLYd1ovsELgwCSM1uWAgDXMlszXOvsFj9-J6qU-yVp3zehHKut8kN8yVHQwkIDlMcZEAfCx1cNr6tQ7ZIMo7nQrObMLW1YmrFKL2QGI4FZUnMBxKxykxvjAi4gglVSlb6WeJpK2cZlC7sowpTOcuX5A0PnDdhXKlZbpQ996bj9WEVY4igSBtVcgijW3WlhjIyOD2V3uqyAdj094spma-vIc9JQXGXHNgbg4v92lzMIojqAuKTrFWTG9klxIvp5-HUbt_BE7a7OLTkNUu3gXMaaPQh8M551TuDgz4sn52nH6CDAHRsazK2ofU3O7g0Xw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=nLAUTXicdY_NjuJGAISVZ8kRrdTtH0znNti0MQN43HZ3276MGruhGTfGMTYYtO-QV4jY3Uib4yZSnmXyJDmG5JyopFJJn1Sl-uku93-89vub6A-9i4xYnYsX3Zng-HT52rTHsi-6ffkbsh2ITGeMDGSNH3Ic9LUQndDH3YNaaDxx0MSZOABZ1gRMkPFNSVHqfS3D7Va23rHYl79D60HQ2ASObVgOsOB4Mvl1fxA7-S__ZkDTMR1kPZoMYNgmMj615endcgPv9T8mPr6Q0Hv9H_jlx1621_fvu2Mzao5tJzZaPsJFtqONqKvTaHtsR10rzlJ_2TWP9Z8_Hf6x5tzd1e5z32v5blxG7lMQBW4gYx_BwiTnzX6g3B1onipVXAe2OWiQ82hHTaJKn93uO33vT3el77L-5Sia87b487u_ZufCddvCjWjTMI-AuCpp7hGdgdKUM2UwY3VheHITiQLyLRgKaneRUT5Hlb3NeAESji6ULwKGVU5wI2jV2QVe0_imfOFPrhlXPqlQLJOdVcC8E1wlIcUwr8mwpBAIpnwKkZf4DNIks7jWETVgwwDKeK0Y9_EhMpsj4fYLgWTJawxKYM_DebmPZ4t0SfWWzddposslA3rNPBVlNek2VbeOfTZd14zGlXZ5irMVW5gJa5okLYd1ovsELgwCSM1uWAgDXMlszXOvsFj9-J6qU-yVp3zehHKut8kN8yVHQwkIDlMcZEAfCx1cNr6tQ7ZIMo7nQrObMLW1YmrFKL2QGI4FZUnMBxKxykxvjAi4gglVSlb6WeJpK2cZlC7sowpTOcuX5A0PnDdhXKlZbpQ996bj9WEVY4igSBtVcgijW3WlhjIyOD2V3uqyAdj094spma-vIc9JQXGXHNgbg4v92lzMIojqAuKTrFWTG9klxIvp5-HUbt_BE7a7OLTkNUu3gXMaaPQh8M551TuDgz4sn52nH6CDAHRsazK2ofU3O7g0Xw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkuzUj3tfYBehnbNyI46ti9jHCDACiXwrh3oJ5kC2aTdTYT3hWFOs4-em8OmkYMzNWs89QCQKkv0piUkB0-jsIFaPKlxObv3PQKolBW2Uw8d_oLM_-tTAtYg",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRbi-T23J6o-jT31OaIn7qYg6-qJHMiaL-8bF-Le2ouD4BvKoVwMPvT8aVYkiot3xouELg2mhmNfwnOeZtyLu6MJNShZ0U",
+      "source": "Anker US",
+      "title": "Anker MagGo Power Bank",
+      "rating": 4.5,
+      "reviews": 873,
+      "price": "$79.99",
+      "extracted_price": 79.99,
+      "immersive_product_page_token": "NzxhBXicbVNLjuM2EAVyhtwgS29EStQnO9uy1O4e0xYlkjI3Bi3JltrUZ2TZko25Q-7gngkwWc4EyFk6p4km66lV4b1X76EKqD8eWfHP7lLc5aW8zB0Y5tdkozpdq6f916at00vSFel327KBbiGAELT1saClf01kJ1V9LNK_gWY4-ojbjq5bUDORDo1veSZTVVTZ-nDIWrdOfuiA7ljAMhEYNTZ0gI3Mv4pSHrP_-e8joFkWMjXHQFA3LN2239r0_A438x10TGDbxmgBgA0tCG3z04as3d3PuS8fL1l7e_-tq5tJU7ed3KtsbPqsnexldTpPDnU76Vp5zdSXY_Mj_Ccmb2WRfkOWaZgQGdBBjgGgZoC35to98uPny0Vl77CfzKfLYDlfZqHvgEQn130xUD4fqIjzPLkNbF8qTfDgSHWSpz67P47qcTk_cvXIqj9r2VwPyb-__Lqoe3d-7ucBbRrmEi2E-EUCcooBe0koa3m16iOl4kTlhyD2tDAmCBegI4t0hctnkdBFL3Qyl0-zj0HZvUQn0IjyuU1jshFlV7ByKEM_bzBFm3Ws6D4EPaeqYE9HlFAUj55hGAJzpecV4bgR3rPkCvfcP972J9YzPcc8Zl7iemYQk1UMsBQaq1Ywj-SCfQhi0THoRatFGoXuosNc9SsmREgdzstunCNdVA5dCFMfU_y61QAfA17lYtzLSxvGcUWfxBJHON_qpJTc20bA20Sa2GxLsAlgc6bectirnJBFM1tzj9C7et1C5xT5uPvAcpZWzZkAdqZMLCgfXMqcgQDvHrpsloRACaj8-AYIBp5Ys4bude8sIdtm42247wTCB_cIKpdQB0XME0mJIItxi33SJd4MCkUGrHW9oOQUVrNbyqYa01CVRYTSexB6wAEybvKUAxDcTzcKc7gFs3Pqrvq95ul-8TwjT_i25iKUHl4m2tEYM7VVieota3wSp8MWPt8S3hiM4tnn4dwe3rWph7pwbWFLHma8zHZ5u9uUThg6NzC0_NVH09-B5WjAQoY9Ppf-H6BvRZM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=NzxhBXicbVNLjuM2EAVyhtwgS29EStQnO9uy1O4e0xYlkjI3Bi3JltrUZ2TZko25Q-7gngkwWc4EyFk6p4km66lV4b1X76EKqD8eWfHP7lLc5aW8zB0Y5tdkozpdq6f916at00vSFel327KBbiGAELT1saClf01kJ1V9LNK_gWY4-ojbjq5bUDORDo1veSZTVVTZ-nDIWrdOfuiA7ljAMhEYNTZ0gI3Mv4pSHrP_-e8joFkWMjXHQFA3LN2239r0_A438x10TGDbxmgBgA0tCG3z04as3d3PuS8fL1l7e_-tq5tJU7ed3KtsbPqsnexldTpPDnU76Vp5zdSXY_Mj_Ccmb2WRfkOWaZgQGdBBjgGgZoC35to98uPny0Vl77CfzKfLYDlfZqHvgEQn130xUD4fqIjzPLkNbF8qTfDgSHWSpz67P47qcTk_cvXIqj9r2VwPyb-__Lqoe3d-7ucBbRrmEi2E-EUCcooBe0koa3m16iOl4kTlhyD2tDAmCBegI4t0hctnkdBFL3Qyl0-zj0HZvUQn0IjyuU1jshFlV7ByKEM_bzBFm3Ws6D4EPaeqYE9HlFAUj55hGAJzpecV4bgR3rPkCvfcP972J9YzPcc8Zl7iemYQk1UMsBQaq1Ywj-SCfQhi0THoRatFGoXuosNc9SsmREgdzstunCNdVA5dCFMfU_y61QAfA17lYtzLSxvGcUWfxBJHON_qpJTc20bA20Sa2GxLsAlgc6bectirnJBFM1tzj9C7et1C5xT5uPvAcpZWzZkAdqZMLCgfXMqcgQDvHrpsloRACaj8-AYIBp5Ys4bude8sIdtm42247wTCB_cIKpdQB0XME0mJIItxi33SJd4MCkUGrHW9oOQUVrNbyqYa01CVRYTSexB6wAEybvKUAxDcTzcKc7gFs3Pqrvq95ul-8TwjT_i25iKUHl4m2tEYM7VVieota3wSp8MWPt8S3hiM4tnn4dwe3rWph7pwbWFLHma8zHZ5u9uUThg6NzC0_NVH09-B5WjAQoY9Ppf-H6BvRZM"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTCg_RB3FeWtnlg04bfnVJGo11p0HKEA5RhgcKwwCPXcSU4E8vGeV2Hm201kg04RAW7gsBAfncIHa7_8EkT2BbxGqVnSKUsLBZQBV7OGUpW1A8gWnyRYX9o",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "Anker - Prime Power Bank, 27,650mAh 3-Port 250W Portable Charger for Travel, TSA-Approved, Smart App - Black",
+      "rating": 4.4,
+      "reviews": 31,
+      "price": "$179.99",
+      "extracted_price": 179.99,
+      "immersive_product_page_token": "ni4-43icbZFNrptIFIXVa8nQkyowfz2zMfDsBGwXVBXU5KkMGByKn4f5sVH20FuInKSlZJhuqdfyWr2YJhnnDo6O9Oneo6P7xyO9_PPcXybel71pSH4-xAfRyaBejV-btk76uLskf6nqEiiqbmgyBLoqLTXN-Brzjos6uyQfv-cpT8SlSvfnc9pu6vjXG98uJc_Sn_hvCKCkqRBoiqIbsqEDqBif2uT6Kh3MZ0k1gDaPquky0GamGx8OaL95_jX78tKn7f31TVc3i6ZuO34S6WzGtF2ceFVcF-e6XXQtH1LxJWvm9I-fyh_SDN0jzz73vUhfpXFhrrbHrblNfceAsYyG0-WGqXnDLMzz-H4jp1IARo8ZllGeOGR6ZOLRXx-5eKTVnzVvhnP872__Wf3WNF-25hE3Ddkg4IdZdwQ5JKBZYmpzHrIqrnYHBMWWBkKOhVdzycCuBXssNSygzGQ2q5mUh4ywiWOgcDua-IT2xzvkvkVIgosRUZtE0KgSkK-Ppf1CwoSiyb3T91hi1JL3ROCgUEa-sWtKMxjgcaSlYgXy2mMQNRxAl1M2JqVhY7oz99joGEZV4EOOqnx8RxFJw4bTAu6iUpeILGpPjmFg7Uomb--sWi1dmmxQ4flI8sR8D6ebfPDLhPnymiQObGdfJqIp5k4wtrolDWIFF51zLHLXdVwQQu8tddCNWzrAgScCgiJOo84vbkM8MZ843ojE-gnbGWDvBUfAsGngQVcyGg-TycM2dR1I_fkbsUQiH8PtnBNgOepcYvk2NCAPmzyhEB6n4o6lXIrg-pps3PEEbNm57NboybvvKcN-QQ7uJjkg3AjytFb31Bv5ZMuRyDqvVCZS2vLn27U9v4KVrXT-XhOTeAo1uMPhQF-G4KiKldO71Ht3HX-HmgGgpix1VYHS_5dmJv8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ni4-43icbZFNrptIFIXVa8nQkyowfz2zMfDsBGwXVBXU5KkMGByKn4f5sVH20FuInKSlZJhuqdfyWr2YJhnnDo6O9Oneo6P7xyO9_PPcXybel71pSH4-xAfRyaBejV-btk76uLskf6nqEiiqbmgyBLoqLTXN-Brzjos6uyQfv-cpT8SlSvfnc9pu6vjXG98uJc_Sn_hvCKCkqRBoiqIbsqEDqBif2uT6Kh3MZ0k1gDaPquky0GamGx8OaL95_jX78tKn7f31TVc3i6ZuO34S6WzGtF2ceFVcF-e6XXQtH1LxJWvm9I-fyh_SDN0jzz73vUhfpXFhrrbHrblNfceAsYyG0-WGqXnDLMzz-H4jp1IARo8ZllGeOGR6ZOLRXx-5eKTVnzVvhnP872__Wf3WNF-25hE3Ddkg4IdZdwQ5JKBZYmpzHrIqrnYHBMWWBkKOhVdzycCuBXssNSygzGQ2q5mUh4ywiWOgcDua-IT2xzvkvkVIgosRUZtE0KgSkK-Ppf1CwoSiyb3T91hi1JL3ROCgUEa-sWtKMxjgcaSlYgXy2mMQNRxAl1M2JqVhY7oz99joGEZV4EOOqnx8RxFJw4bTAu6iUpeILGpPjmFg7Uomb--sWi1dmmxQ4flI8sR8D6ebfPDLhPnymiQObGdfJqIp5k4wtrolDWIFF51zLHLXdVwQQu8tddCNWzrAgScCgiJOo84vbkM8MZ843ojE-gnbGWDvBUfAsGngQVcyGg-TycM2dR1I_fkbsUQiH8PtnBNgOepcYvk2NCAPmzyhEB6n4o6lXIrg-pps3PEEbNm57NboybvvKcN-QQ7uJjkg3AjytFb31Bv5ZMuRyDqvVCZS2vLn27U9v4KVrXT-XhOTeAo1uMPhQF-G4KiKldO71Ht3HX-HmgGgpix1VYHS_5dmJv8"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSUMPDAY4tYsqeP2MrTrE8gqTtWGhZjPNL51RjFvZxkn2KUHL6AheUStRPgSai1GGREYpox6FfbzwM151uHEUamHtJeojSD43FunPTMjaKxMUShbb-1EeSW",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTgRkYXpj1GFu-5m5sA1Q_etHlfBR9H_k8tV8Wum8J7eoZDW_76TH7Br6znyJqNukhJZuYUxPDHUtU2oDqO1z4PsaBT",
+      "source": "Sharge",
+      "title": "Sharge Shargeek 170 Power Bank",
+      "rating": 4.0,
+      "reviews": 395,
+      "price": "$109.09",
+      "extracted_price": 109.09,
+      "original_price": "$215",
+      "extracted_original_price": 215,
+      "extensions": [
+        "49% OFF"
+      ],
+      "immersive_product_page_token": "-F_vZHicdZNNjqNGAEalnCE3yLI3VQVlILvGuHDbbWx-qsC1aWEKuzBloDE2GOUOuYN7JtJkOTPSnKVzmrRmnew-6UlPb_P9ec-LHy-XYkwvp8vUQqG8ZhvVaaB-7L80bS0uWVeIb5pmQmRpYGJgS8dIRxPzS5Z2qaoPHxQjE2o60HTNMA1oAs3Qvso8Faqo8vV-n7dOnRXiO0QQWxa2ADIxBBoAH8a_i1N6yH_ybwYC0DDAxNR1wzAxRhp8a8X5Xd9MXyBE5kTXkA4numUgCCxk_LEJ1s7L_8DPr5e8vb3_1tXNQ1O3XbpT-cfo8_Zhl1bl-WFftw9dm15z9fnQ_Mz7D8vbqRBfsTHRJ8gwIAa6aVqGbr411-4uD58uF5W_o_5h-vjkP02f8tC1YKYF110x0Hg6UJ5Imd0GtjspwGP_QLVACpeN94O6X853qe559VedNtd99s8vv87q3pme-6lPm4Y5AYgcG3NmT3ZEbVaUeT6zulAFLIoJ3p4WR0qE2lLcreLuxkex3IEBCUb0MJLLiDWMI3wMYyg9NeuDhK-8WA0eeRx2c_YkEoZXaCj57IxSSvU4WXh0zHqOvHGLYJWiMxKVDcK5AlTJJIrsaUStjZgJTGe8DYAqVmB7i0tvIxRfxpV9So-ipzOyZGoB4njQ0pm3DAB-FdETEFR2aUkK5g4XPxZBTngdsOboOZKsHc_hR3mNShx6YNjHrthGDjkHc5t5CXkOR3tJRxWtTsOSzwVbRyTxk4UTkcWKVYHKZ3ARloO7ZjblTGi5S8ZVxKqUqiFzPT1kSnpj4KYzNXLQtbxq-oAuFmLOSZZ4SaqIxkrLF8dM47QrM20R7eYiWakZ4EzZ0Qm3zGF-gOour2y-AqJdT2EdFrB8pvDZc7uCxWc9cmlIoAXTpJEihtAfyxtFEm2hfRbOqt8BornFwg7m3m0d8zB2vcKPmWSoByEjz4wQHn_48rlMI0Y7r5TVp-Hc7t_BI8FduNajQ5br8tl9xNLcNcsq8F7768tFdrX_OzSsj_tg3ZxgCP8FMElG5A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-F_vZHicdZNNjqNGAEalnCE3yLI3VQVlILvGuHDbbWx-qsC1aWEKuzBloDE2GOUOuYN7JtJkOTPSnKVzmrRmnew-6UlPb_P9ec-LHy-XYkwvp8vUQqG8ZhvVaaB-7L80bS0uWVeIb5pmQmRpYGJgS8dIRxPzS5Z2qaoPHxQjE2o60HTNMA1oAs3Qvso8Faqo8vV-n7dOnRXiO0QQWxa2ADIxBBoAH8a_i1N6yH_ybwYC0DDAxNR1wzAxRhp8a8X5Xd9MXyBE5kTXkA4numUgCCxk_LEJ1s7L_8DPr5e8vb3_1tXNQ1O3XbpT-cfo8_Zhl1bl-WFftw9dm15z9fnQ_Mz7D8vbqRBfsTHRJ8gwIAa6aVqGbr411-4uD58uF5W_o_5h-vjkP02f8tC1YKYF110x0Hg6UJ5Imd0GtjspwGP_QLVACpeN94O6X853qe559VedNtd99s8vv87q3pme-6lPm4Y5AYgcG3NmT3ZEbVaUeT6zulAFLIoJ3p4WR0qE2lLcreLuxkex3IEBCUb0MJLLiDWMI3wMYyg9NeuDhK-8WA0eeRx2c_YkEoZXaCj57IxSSvU4WXh0zHqOvHGLYJWiMxKVDcK5AlTJJIrsaUStjZgJTGe8DYAqVmB7i0tvIxRfxpV9So-ipzOyZGoB4njQ0pm3DAB-FdETEFR2aUkK5g4XPxZBTngdsOboOZKsHc_hR3mNShx6YNjHrthGDjkHc5t5CXkOR3tJRxWtTsOSzwVbRyTxk4UTkcWKVYHKZ3ARloO7ZjblTGi5S8ZVxKqUqiFzPT1kSnpj4KYzNXLQtbxq-oAuFmLOSZZ4SaqIxkrLF8dM47QrM20R7eYiWakZ4EzZ0Qm3zGF-gOour2y-AqJdT2EdFrB8pvDZc7uCxWc9cmlIoAXTpJEihtAfyxtFEm2hfRbOqt8BornFwg7m3m0d8zB2vcKPmWSoByEjz4wQHn_48rlMI0Y7r5TVp-Hc7t_BI8FduNajQ5br8tl9xNLcNcsq8F7768tFdrX_OzSsj_tg3ZxgCP8FMElG5A"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSYrad6TXXBUcYNkQtBXiPZj7MR-f9T3kXMWhqf3IFAD5WcJnMRWqAS8Ki0u0LIcyaarlHThn5GjCFXgmttW2dP5I5zwIXUGGoafsgehW1h2u4Y1XSrIpko",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Anker 737 Power Bank",
+      "rating": 4.7,
+      "reviews": 2600,
+      "price": "$109.99",
+      "extracted_price": 109.99,
+      "immersive_product_page_token": "U974lnicbY7BjqNGEIalPEPeIEdfumnAJrcBDJgZ2kMDjeEyArptGBrDYGywte-Qd_DuRto97kbKs0yeJmxyTKSSqvT_VfV_v9159efLubpl5-ZsaFJQXopnMSDQPoxfur5l52Ko2B9wBVcaWkF1KSuyDOdC2pciGzLRHn7YCKCVgoAGVQg0CQBVQd9KnjFRHfl2v-e92RYV-y7JElQARApQ0VJS5Xn3a9VkB_6vjWRV0aCiyupKXiEZASh_7NnpHTwbL-qPI01T5yT1n65-eCZb8-V_rc9vZ95f338Z2m7Rtf2Q5YLPw8j7RZ4d69Ni3_aLoc8uXHw-dHP0t__--NjMsrKcYSR1JclLBSwBmoG6y3AvD5_OZ8HfpXFhPGz8jbHhga3BApFLXk1RbExRuivL4jrRvBEgjf1DhEjJbHq7H8T9fLqX4s6Pv7dZd9kXf_3087odTeM0Gn7UddQkIABQ98AoeSZ98uvBDC3REuHBYF0rAS0mavkTuW0UVndv5BVXvKmn_IaT_FbDRGzgUywM_zV1owZfY5tZheRusFO-poI63o0OHtWeGMBtciugF1qP6S4Ziei6vCY0kVgTOMLLd3gbOe60NWvEo8OsYjVysB6Ybo_jLttSb_IM-JxLUxKbYo2jzcQkCAJatqwmRlxbdhgJNV1rOo3TG7UPI40mB5tuxOvBCoSeEYu-Joh5ucNA8MoQq6eBz9zh0TV4qFs80vqtSVFsFzJtaE9AefFDcvWPYkqbrk-E5cVC7zMbXolE46JxH8NQ9_MIwyJkxyDCwD9aekrxxaeWHlBv5DtiY9iRpFaEZ0dKTlMahjje2pbMQyYy27KC2O2IXUrYZnrhlOvYwTtuFqAICcrX04kJogawrCjAkWdPKDXXgQU1mO26ksUQ-rf6GkmllED9xExvzIGF7MrViYOv2zgNvYbCpGGUOVYU2JMZmKxnawvSGg_MYZjbLvk0nfr9O3iwlCHYyuGh4HL5ZD8o5SrvHo8Ev42Xl3M5tP6vcKkBuFTklapA-Dd0M0X6",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=U974lnicbY7BjqNGEIalPEPeIEdfumnAJrcBDJgZ2kMDjeEyArptGBrDYGywte-Qd_DuRto97kbKs0yeJmxyTKSSqvT_VfV_v9159efLubpl5-ZsaFJQXopnMSDQPoxfur5l52Ko2B9wBVcaWkF1KSuyDOdC2pciGzLRHn7YCKCVgoAGVQg0CQBVQd9KnjFRHfl2v-e92RYV-y7JElQARApQ0VJS5Xn3a9VkB_6vjWRV0aCiyupKXiEZASh_7NnpHTwbL-qPI01T5yT1n65-eCZb8-V_rc9vZ95f338Z2m7Rtf2Q5YLPw8j7RZ4d69Ni3_aLoc8uXHw-dHP0t__--NjMsrKcYSR1JclLBSwBmoG6y3AvD5_OZ8HfpXFhPGz8jbHhga3BApFLXk1RbExRuivL4jrRvBEgjf1DhEjJbHq7H8T9fLqX4s6Pv7dZd9kXf_3087odTeM0Gn7UddQkIABQ98AoeSZ98uvBDC3REuHBYF0rAS0mavkTuW0UVndv5BVXvKmn_IaT_FbDRGzgUywM_zV1owZfY5tZheRusFO-poI63o0OHtWeGMBtciugF1qP6S4Ziei6vCY0kVgTOMLLd3gbOe60NWvEo8OsYjVysB6Ybo_jLttSb_IM-JxLUxKbYo2jzcQkCAJatqwmRlxbdhgJNV1rOo3TG7UPI40mB5tuxOvBCoSeEYu-Joh5ucNA8MoQq6eBz9zh0TV4qFs80vqtSVFsFzJtaE9AefFDcvWPYkqbrk-E5cVC7zMbXolE46JxH8NQ9_MIwyJkxyDCwD9aekrxxaeWHlBv5DtiY9iRpFaEZ0dKTlMahjje2pbMQyYy27KC2O2IXUrYZnrhlOvYwTtuFqAICcrX04kJogawrCjAkWdPKDXXgQU1mO26ksUQ-rf6GkmllED9xExvzIGF7MrViYOv2zgNvYbCpGGUOVYU2JMZmKxnawvSGg_MYZjbLvk0nfr9O3iwlCHYyuGh4HL5ZD8o5SrvHo8Ev42Xl3M5tP6vcKkBuFTklapA-Dd0M0X6"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQDffH5SS0I2bpJg_kU9Y2VSPvCx5hCeW8c7h7FlUiypx2w0-J9mQ20OxqdsXDOe2J0UUl0mBhtRw1MZ0rvvzMQjplu5N_6FimwU4PpCQovttHQ7m-dws2Sjw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR4J-RRLpE20EJXrY9wTSKJnGUDpYZHxBSQIq0HvoiHGEdAn7s2echz8_BUyoacZwMrFkIjb05wpMp7Zut-01nCgxJEcBQ",
+      "source": "Iniushop",
+      "title": "INIU Pocket Rocket P50 45W Mini Power Bank",
+      "rating": 4.9,
+      "reviews": 95,
+      "price": "$32.99",
+      "extracted_price": 32.99,
+      "immersive_product_page_token": "YJP0MHicdVNLkqNGEI3wGXwDL3tTH77eNRIg4QaaAgqpNh1AIZVaxWcQCEkxd_Ad1DOOmFnOOMJnaZ_GTHhr7zLiZb5PRubv9-rw18t4uOVjPS5MFItz-SwHDNrH6UvXt3wshwP_bmiGgjQVqwpSNUVBio6_lPmQy3Z_4H9CBAxFgbqi6aZiGIamGPibqHIuD00V7nZVv2zLmcVUoIYVTTMBBIqqGSoCXw91vq_-hSHSVR3r2sxm4FkIAfDW89O78rx4gT-6oa4DCKGuqYYJFOPjMwmXL_8Dfv4wVv31_Zeh7R66th_yQlZzMVX9Q5E3x9PDru0fhj4_V_Lzvit_pPgPlrf6wL-puqZoyNBn07MvQ9OUt-483MX-0zjK6h1ND4vHdbRerKvYNWGJybk4XNJscUnZRojyeqFFLQHLon2KieAuvd338j6e7kLeq-aPNu_Ou_Lvn36222m5OE2LKO06uiQgfiUTy5wgcS_H0iEhq51LANQwcDuf2GafUa_eYBEyV3pBErwm9mUIqTUwsEYBkJRhx04zOiTIWTBagpjygR_NpwQwP0uFWknLC1OSxLgcKlcdfcQccpQOkc7A0tOtSqyA4r2aHztarmycgqDxXdkFK-cc1WrIN9YtsLuWrrqw3ETY35BXmog-l2LIl5ZdrIggiLjZPJ_YZlY4DmGZJ9K6RQQeUSpNi2F6SrAcUxqQHJOINPTKEm_nH-U53rDAd8Q1T8lEKGWxGyyLlMjQ5a9RQ3rfWc9r5tst5RuKnS131lO5ZDlr9jh-5bciG7Z-E8H46Hn5jfnlyrkmDdmWgMlZixXIjJLGq3NEdlmt3ILUu_qQbXIkOuZe_EASGKxSwFb-tWy4taVkTeqhi8Bwq5ae9O1uwZ2OBNJaE2wpBfBjB5ow33SCZxBGt-M1RQJtoXXiS38qgIPdg2eRVXANM5ZUdjRRysW2DlDp8pbXlwO3VSvHzMntAT4lsvl0OfW7d_DoqEMcKsm-rBTx5D6qwii63xoSfJjOL6MY2uhXqM9vpavzfaoQ_gPavUeP",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=YJP0MHicdVNLkqNGEI3wGXwDL3tTH77eNRIg4QaaAgqpNh1AIZVaxWcQCEkxd_Ad1DOOmFnOOMJnaZ_GTHhr7zLiZb5PRubv9-rw18t4uOVjPS5MFItz-SwHDNrH6UvXt3wshwP_bmiGgjQVqwpSNUVBio6_lPmQy3Z_4H9CBAxFgbqi6aZiGIamGPibqHIuD00V7nZVv2zLmcVUoIYVTTMBBIqqGSoCXw91vq_-hSHSVR3r2sxm4FkIAfDW89O78rx4gT-6oa4DCKGuqYYJFOPjMwmXL_8Dfv4wVv31_Zeh7R66th_yQlZzMVX9Q5E3x9PDru0fhj4_V_Lzvit_pPgPlrf6wL-puqZoyNBn07MvQ9OUt-483MX-0zjK6h1ND4vHdbRerKvYNWGJybk4XNJscUnZRojyeqFFLQHLon2KieAuvd338j6e7kLeq-aPNu_Ou_Lvn36222m5OE2LKO06uiQgfiUTy5wgcS_H0iEhq51LANQwcDuf2GafUa_eYBEyV3pBErwm9mUIqTUwsEYBkJRhx04zOiTIWTBagpjygR_NpwQwP0uFWknLC1OSxLgcKlcdfcQccpQOkc7A0tOtSqyA4r2aHztarmycgqDxXdkFK-cc1WrIN9YtsLuWrrqw3ETY35BXmog-l2LIl5ZdrIggiLjZPJ_YZlY4DmGZJ9K6RQQeUSpNi2F6SrAcUxqQHJOINPTKEm_nH-U53rDAd8Q1T8lEKGWxGyyLlMjQ5a9RQ3rfWc9r5tst5RuKnS131lO5ZDlr9jh-5bciG7Z-E8H46Hn5jfnlyrkmDdmWgMlZixXIjJLGq3NEdlmt3ILUu_qQbXIkOuZe_EASGKxSwFb-tWy4taVkTeqhi8Bwq5ae9O1uwZ2OBNJaE2wpBfBjB5ow33SCZxBGt-M1RQJtoXXiS38qgIPdg2eRVXANM5ZUdjRRysW2DlDp8pbXlwO3VSvHzMntAT4lsvl0OfW7d_DoqEMcKsm-rBTx5D6qwii63xoSfJjOL6MY2uhXqM9vpavzfaoQ_gPavUeP"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSSFm5idzhkuc6xOsi7JF5MKTOO6scMGzZnwNwaYohpou5lqJgDV7WvBlPKV9Oj5B1Xtvz-oIYghbR6Bh3W6nVdHfQTBTvrGcJuh5l_5U7v",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTYiJuhlBMZ_G8dVJlAsa4hjBU6yW3vzGSeQ-CmsyQZcVtvv42wgrcELSsALaAA__dAhTcxv8XxmMqKfiJ8frWaZXL2_g",
+      "source": "REI",
+      "title": "BioLite Charge 80 PD",
+      "rating": 4.5,
+      "reviews": 362,
+      "price": "$99.95",
+      "extracted_price": 99.95,
+      "immersive_product_page_token": "aPfujHicbZLLjuJGFIalPEPeIEs2dfE1uwZfgG7K7UtVGW9atstQQBkbsMGgeYe8Az0TabKciZRn6TxNyGyTxZGO9B39v37957d7tfnrrd_c8r7uJzaK5bl8VR0GzdPla3tsRF92G_EdAguY0AbWYzRdtxG0vpZ5l6tmvRHfDGAhgDULPK4M3bQ09E1WuVCbfRWsVtXRacqN-BMiS0cIG5Zm2aaBNNPW9T82db6ufvDvlmFZBtBMTUemieDDEr8fxekDvU7eLPMBTUOHyLZtZPwr8uk1Cpy3_2dfDn11vH780jXtqG2OXV6o6rFcquOoyPe702jVHEfdMT9X6su6_WH-X5H3-hFNNw3NQCayLGQA09Sx_d6eu7tcf-57VX2gy2jyNAtnk1kV-zYscXQuNgPlk4FmqZTldWBFrUDGwzXFkRQ-u93X6t6f7lLdq_3vTd6eV-XfP_3sNhdncrpMQtq2zIlAnLZ1eBs7sU8HAmyXs2gZcnuf1EO3jOGWeGOZ3Qiiu_migDIUfrvlnNyEw8LEJ6uEA8x2rA8cRpfU1ck-qotdFvC61MubHDKsxgTPccHmLlMz8MLnoKqzM0_KW-bNabEdzziTTYqEE-26F-rDFVPzhqTrS6lsjXjsELiZF3nC4J4FoprsEm5pCZQaSbwXgYWeUxtwpbpwT0iBCS2QikXdatlUykSpUwzaZQ7ga-JGXgptPaJWF20gpHvxzJk6sITknGYhp9JNfL1LQHdYbFlYTsegolnPbmTGdgLl9ZAsMdEWdevENMsFtGXFh1nkz4OcD9NsLzCj7ZzW1oW7Hc6ZPJFUggx5fFnTa8GVpDyKiy2blj50iBvigLZy4dvH9KayEOg8nqpVwedBmY4D4kcX4WZJVA8qxUTRffa8wE3sQRvmaSsFhzC87a4USbSE45NwFpcCeNjfzMfRlFwDniXZlJ2Jo16rej0sPCELd4jybag9GlQ0lXWkxvjzcDquPsCTp3dxoCXrstLki_-kS6ton_cROVzOb73smvBXaNoAmrpmPR4Y_gN5xUZ-",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=aPfujHicbZLLjuJGFIalPEPeIEs2dfE1uwZfgG7K7UtVGW9atstQQBkbsMGgeYe8Az0TabKciZRn6TxNyGyTxZGO9B39v37957d7tfnrrd_c8r7uJzaK5bl8VR0GzdPla3tsRF92G_EdAguY0AbWYzRdtxG0vpZ5l6tmvRHfDGAhgDULPK4M3bQ09E1WuVCbfRWsVtXRacqN-BMiS0cIG5Zm2aaBNNPW9T82db6ufvDvlmFZBtBMTUemieDDEr8fxekDvU7eLPMBTUOHyLZtZPwr8uk1Cpy3_2dfDn11vH780jXtqG2OXV6o6rFcquOoyPe702jVHEfdMT9X6su6_WH-X5H3-hFNNw3NQCayLGQA09Sx_d6eu7tcf-57VX2gy2jyNAtnk1kV-zYscXQuNgPlk4FmqZTldWBFrUDGwzXFkRQ-u93X6t6f7lLdq_3vTd6eV-XfP_3sNhdncrpMQtq2zIlAnLZ1eBs7sU8HAmyXs2gZcnuf1EO3jOGWeGOZ3Qiiu_migDIUfrvlnNyEw8LEJ6uEA8x2rA8cRpfU1ck-qotdFvC61MubHDKsxgTPccHmLlMz8MLnoKqzM0_KW-bNabEdzziTTYqEE-26F-rDFVPzhqTrS6lsjXjsELiZF3nC4J4FoprsEm5pCZQaSbwXgYWeUxtwpbpwT0iBCS2QikXdatlUykSpUwzaZQ7ga-JGXgptPaJWF20gpHvxzJk6sITknGYhp9JNfL1LQHdYbFlYTsegolnPbmTGdgLl9ZAsMdEWdevENMsFtGXFh1nkz4OcD9NsLzCj7ZzW1oW7Hc6ZPJFUggx5fFnTa8GVpDyKiy2blj50iBvigLZy4dvH9KayEOg8nqpVwedBmY4D4kcX4WZJVA8qxUTRffa8wE3sQRvmaSsFhzC87a4USbSE45NwFpcCeNjfzMfRlFwDniXZlJ2Jo16rej0sPCELd4jybag9GlQ0lXWkxvjzcDquPsCTp3dxoCXrstLki_-kS6ton_cROVzOb73smvBXaNoAmrpmPR4Y_gN5xUZ-"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRoSElXEme7Uj6bLPkWvNuxKlhPCItf1tlI1T0dfTsIBEbStxpQ5ws0araT7FAQufUY7K4liWwLjB_3VuavSWk5Wl22uEXjVjcpNTpjpctFh_kiNaXSdF1qvQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "Anker 313 Power Bank",
+      "rating": 4.8,
+      "reviews": 3100,
+      "price": "$21.99",
+      "extracted_price": 21.99,
+      "original_price": "$26",
+      "extracted_original_price": 26,
+      "extensions": [
+        "15% OFF"
+      ],
+      "immersive_product_page_token": "YFfFY3icdZNLjuM2FEWBrCE7yLAmIkXqk1nJFmW7bLlEipLFSUE_Wy5TFluWLFvoPWQPru4A3cPuBrKWymri9DiZPeA83HOBh_fHrdz_9dLvx7Sv-4kNWXXOn2Wna83j8EW1TdHn3b74AQxTM3WMEDYxwCaA2LK-5GmXyma3L77rpgkQxrZtadhC92VT-1aVaSH3x3K93ZbttMn_TcGGbdkmMqCGTAOYtm2Dr_s63ZU_-XeANBsamm5byLq7bBPYb21xekfPkxcAoIVtiHRTgyYCOrJ0--MzXU9f_gd-_tCX7fX9t65RD6ppuzST5X0YyvYhS4-H08O2aR-6Nj2X8vNO_az3Hylv9b74hk3j3tmyDR0a5p0C9KbO3a3afep7Wb7D4WHyOA_mk3nJPBvkOj1n-wuPJxcuNlWVXy9RVktNxMGO67QqvGi87eStP90qeSuPfzapOm_zv3_51W2G6eQ0TAKuVDSlGjuASaIX3oovHOqCkevSo8SRzCUz8erUudctQuI8JTrpUs9fci7m6dEhnKNxxYAmeLfxxzngWrFio5BLLlY5V1paS5m_EubHoBVudV2HC5fGxI85hmnsiziOWl_DwWos-DKsdDYrklIqwknlCBn18aGbhO6iz2N_TY-HcRnNB3Z3hYCgFFBK9UXEtKgvajELIGBMUi-BRIX1aRCemojNYsP1aJtBMGcgSjK3ekrqQae1T8uZJII0IITAWGlVxA5Kp9MKpWSHeCyfCrmDxeu9j-crBk-I8ouINxwHMEHZRh2DWOD8qHgWF0koq4jOJE-4DOhIRO5GejlLAHMVTkKiCmhvE77ABfSvoaTH_BAZgfSd6IBPTCdtUEfLJF4kGXB4CgULXfu1JP6xJNE11zq2njlzOvN57C2cNKyYX-8YATZIN6oqYgCC8XDlsIIJcE7FdDVkGtG9_f2WM_-6jgXjni9CIvAqUm20ia4pkZfNWPili70ylD33BP10ObXbd-2R4LsPhbu8RNXSe8SVlamnI_U_DOeXvuqa4Pf7P2nAxMgyMAD_AEeNRSA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=YFfFY3icdZNLjuM2FEWBrCE7yLAmIkXqk1nJFmW7bLlEipLFSUE_Wy5TFluWLFvoPWQPru4A3cPuBrKWymri9DiZPeA83HOBh_fHrdz_9dLvx7Sv-4kNWXXOn2Wna83j8EW1TdHn3b74AQxTM3WMEDYxwCaA2LK-5GmXyma3L77rpgkQxrZtadhC92VT-1aVaSH3x3K93ZbttMn_TcGGbdkmMqCGTAOYtm2Dr_s63ZU_-XeANBsamm5byLq7bBPYb21xekfPkxcAoIVtiHRTgyYCOrJ0--MzXU9f_gd-_tCX7fX9t65RD6ppuzST5X0YyvYhS4-H08O2aR-6Nj2X8vNO_az3Hylv9b74hk3j3tmyDR0a5p0C9KbO3a3afep7Wb7D4WHyOA_mk3nJPBvkOj1n-wuPJxcuNlWVXy9RVktNxMGO67QqvGi87eStP90qeSuPfzapOm_zv3_51W2G6eQ0TAKuVDSlGjuASaIX3oovHOqCkevSo8SRzCUz8erUudctQuI8JTrpUs9fci7m6dEhnKNxxYAmeLfxxzngWrFio5BLLlY5V1paS5m_EubHoBVudV2HC5fGxI85hmnsiziOWl_DwWos-DKsdDYrklIqwknlCBn18aGbhO6iz2N_TY-HcRnNB3Z3hYCgFFBK9UXEtKgvajELIGBMUi-BRIX1aRCemojNYsP1aJtBMGcgSjK3ekrqQae1T8uZJII0IITAWGlVxA5Kp9MKpWSHeCyfCrmDxeu9j-crBk-I8ouINxwHMEHZRh2DWOD8qHgWF0koq4jOJE-4DOhIRO5GejlLAHMVTkKiCmhvE77ABfSvoaTH_BAZgfSd6IBPTCdtUEfLJF4kGXB4CgULXfu1JP6xJNE11zq2njlzOvN57C2cNKyYX-8YATZIN6oqYgCC8XDlsIIJcE7FdDVkGtG9_f2WM_-6jgXjni9CIvAqUm20ia4pkZfNWPili70ylD33BP10ObXbd-2R4LsPhbu8RNXSe8SVlamnI_U_DOeXvuqa4Pf7P2nAxMgyMAD_AEeNRSA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRx7KxClFq6S9HXIZ0gdA5v1QDFfo2YISr_MXRqD9EG6HVb7FqttxobvSNWAXrYqF11J82NytODlMEpnBUlnOHHkPGk9Q-IVdSArCk8GeYiTraU-cQwMhvq",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRbi-T23J6o-jT31OaIn7qYg6-qJHMiaL-8bF-Le2ouD4BvKoVwMPvT8aVYkiot3xouELg2mhmNfwnOeZtyLu6MJNShZ0U",
+      "source": "Anker US",
+      "title": "Anker Power Bank",
+      "rating": 4.7,
+      "reviews": 270,
+      "price": "$65.99",
+      "extracted_price": 65.99,
+      "original_price": "$80",
+      "extracted_original_price": 80,
+      "extensions": [
+        "17% OFF"
+      ],
+      "immersive_product_page_token": "qEyZ03icbZBLkqNGFEUjvAbvwMOa5IdfelYIEKIqUZFAgph0AImEiuRTEkhI0XvwHlTdjmgP247wWsqrsexxz96Ne-O-895vt2r_96dpf82ndloQFNan8kWOGPSP52_DoRdTOe7Fd0wMqGKDGKpCsAqwYXwr8zGX_W4v_oSKokLdwFhHUFNUnWDte13lQu67ar3dVgerL-8xA6iQ6BCrCCGiYoUA4499m--q_-2_oKYaqqboig4UrGjoLoz3gzh-oJfFJ6gRXTUUjSjovhwQqCufX9ja-vRj7-vbVB0uH7-M_fAw9IcxL2R1H87V4aHIu-b4sO0PD-MhP1Xy6274D-4HJe_t_XBV1-4suq5ipENFMzB4H07jrd59mSZZfaDzw-JxFawWqypcElhidir2c5ws5jhL67q8zLxoJciSYBdjVoslv9528jYdb7W8Vd3vfT6ctuU_P_1s92drcTwvgngYuMVAGJU4dD2LovPIgZqVab2qongU7gpuEHtlr9kxcXdnbrOO2p62uXrPId6goiWUXrNGWPVbjGpQNSyPEOSRDTVhSZO2Iyocr_ElMVM0vkZRjH3IGEvK83MyTgX3x8IetznnyYZnz5GUTxQpqEyET1uCKTebqIWAAuYIKLCPyEhTUwntccMt36P2nN557KzzO9YMKGnjMUdekCznZG2tQNQIJ7OdSwCchgIexo1yyaGcq87c-3iYBRimdeIfN1LQEAkt6JxOAOhmS3Ep0A5FSD5Vrf-S4cyPsMnzpl7Fjm9vQB3FqXhikDRlwqaoY2889g48Jloiic-Xxhglw0smGS14di3dBsTNfKKRs6pasQzA3PtXj4U2M3lXDxGUKHazVZDwMHGHp4wLVrSO6VtmzIAHaUdRlAZAdEINX723EtHQgQTm6VCLBMLg2lzu_0cbaB6FRc8FcPBy75nM9S_rJItoynIeyygFfkyvXN3AEvmJ51bLHvrNHK7dzPwyHw_bD_DoqGO41uVVuqkOvTg9JW-nKNDk43Kiif98PP8KdQKgriqGpkL0L5kdQpQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qEyZ03icbZBLkqNGFEUjvAbvwMOa5IdfelYIEKIqUZFAgph0AImEiuRTEkhI0XvwHlTdjmgP247wWsqrsexxz96Ne-O-895vt2r_96dpf82ndloQFNan8kWOGPSP52_DoRdTOe7Fd0wMqGKDGKpCsAqwYXwr8zGX_W4v_oSKokLdwFhHUFNUnWDte13lQu67ar3dVgerL-8xA6iQ6BCrCCGiYoUA4499m--q_-2_oKYaqqboig4UrGjoLoz3gzh-oJfFJ6gRXTUUjSjovhwQqCufX9ja-vRj7-vbVB0uH7-M_fAw9IcxL2R1H87V4aHIu-b4sO0PD-MhP1Xy6274D-4HJe_t_XBV1-4suq5ipENFMzB4H07jrd59mSZZfaDzw-JxFawWqypcElhidir2c5ws5jhL67q8zLxoJciSYBdjVoslv9528jYdb7W8Vd3vfT6ctuU_P_1s92drcTwvgngYuMVAGJU4dD2LovPIgZqVab2qongU7gpuEHtlr9kxcXdnbrOO2p62uXrPId6goiWUXrNGWPVbjGpQNSyPEOSRDTVhSZO2Iyocr_ElMVM0vkZRjH3IGEvK83MyTgX3x8IetznnyYZnz5GUTxQpqEyET1uCKTebqIWAAuYIKLCPyEhTUwntccMt36P2nN557KzzO9YMKGnjMUdekCznZG2tQNQIJ7OdSwCchgIexo1yyaGcq87c-3iYBRimdeIfN1LQEAkt6JxOAOhmS3Ep0A5FSD5Vrf-S4cyPsMnzpl7Fjm9vQB3FqXhikDRlwqaoY2889g48Jloiic-Xxhglw0smGS14di3dBsTNfKKRs6pasQzA3PtXj4U2M3lXDxGUKHazVZDwMHGHp4wLVrSO6VtmzIAHaUdRlAZAdEINX723EtHQgQTm6VCLBMLg2lzu_0cbaB6FRc8FcPBy75nM9S_rJItoynIeyygFfkyvXN3AEvmJ51bLHvrNHK7dzPwyHw_bD_DoqGO41uVVuqkOvTg9JW-nKNDk43Kiif98PP8KdQKgriqGpkL0L5kdQpQ"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR0HofZl8fwR_9HRKm0ZxGmgrgOhyCAmaz9C6B2Kp4X1SYsH_sHIjd39tmRHmR7A6MJrES0k7fpNxl362yRsumOla2VxOi5Ogf9WHSzKxz_yP0LkVk6nnFDNg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQcYB1aGQJuW5Q2ugDhlG3Eg7FQ0NCkvW6tiEzC72s21P6PfkV7hXoYL_7sogS8wc_BSo0b8VlUmALFtR044soiSf2mQMs5a_NsKQ",
+      "source": "Nitecore Store",
+      "title": "Nitecore NB10000 Power Bank",
+      "rating": 4.7,
+      "reviews": 371,
+      "price": "$59.95",
+      "extracted_price": 59.95,
+      "immersive_product_page_token": "PWK7vnicdZPLjqNGFIalPEPeIEtv6sI1u7YNtEkbGooCuzYWUNjYrjIMxuaieYe8g3sm0mQ5iZRn6TxNaGWbnM05Ot-vX_p1dH59FMe_drfjmN7kbWEiUt7zV9FiUD113-qm4re8PfI_VKSpqmaammIqhoZ1DMC3PG1TUR2O_E-IMUYAYwMiBSNFVwxD_14WKRfHS-Hv90WzrPLJRUe6DgAGGlIMVTOAqWm_H2V6KP7FyMAqmApCFSsmVA0TvDX8-q68LnZQBwhq2sQ_RLqJNE3__Br6y93_wK-fbkUzvP_UVvWsrpo2zUQxDV3RzLL0cr7O9lUza5v0Xoivhzr_SPEfLm_yyL-ruqZoyJhyQfixNPW3-t4-ysOX200U76ibLZ5WwWqxKohjwhyH9-zY02TRU7Ypy3zo40wKwJLgQHFYciceHwfxuF0fpXgUl9-qtL7v879_-NGquuXi2i0CWtfxMgQExICLWhJaM4LCe3oprcRSW3YStwxTWDyzIZdmGYr5-LJxV-TCpZ9YLR3DlNtBR0W4iEDcJdSbR-ctZI4KC5vF22jeZSMdohP7hdCgDS-1RrBb0bMa-c9lT2PeJCe7Ly5nnNEwzQe4ypHpcqe3_ASSlIqbh7z9BjLAEWRbAj_FDiMFtfsotsbMCpR1EgZcuFEIYmvtQJ8KNgRHqFGpJvTkxpE0V_EYyuDi3rfY6wPaux4KX1KnRdvNXEmSVq5P3IqtnmVSQQQwNbFrxkAfxvGhixx3H03ciw2UUS6pEJA7Uw7n0GcLGMWxAdbSbMKkV9bntiLyiiIsLCrqLqKs3KByE53r8YWAljjtq-cc2rVjjWFkqRSsVC8San4SJx65YupDuqkjCnqNy7DbSijY2W1iXLNUmJW_9HwygI5fVsSGJpy0JU8gDMbzQFGJtnB-5ct1lwEbO0d3Hj57g58wQja2zJZiKBI78iP3miGhJJYXMmjameQO29TzL_212b-DJ1ttia97erqfJ7LYlc3uVZqEmAPsp1s56tPPUDcB1NXpPVWI_wGQ0kfV",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PWK7vnicdZPLjqNGFIalPEPeIEtv6sI1u7YNtEkbGooCuzYWUNjYrjIMxuaieYe8g3sm0mQ5iZRn6TxNaGWbnM05Ot-vX_p1dH59FMe_drfjmN7kbWEiUt7zV9FiUD113-qm4re8PfI_VKSpqmaammIqhoZ1DMC3PG1TUR2O_E-IMUYAYwMiBSNFVwxD_14WKRfHS-Hv90WzrPLJRUe6DgAGGlIMVTOAqWm_H2V6KP7FyMAqmApCFSsmVA0TvDX8-q68LnZQBwhq2sQ_RLqJNE3__Br6y93_wK-fbkUzvP_UVvWsrpo2zUQxDV3RzLL0cr7O9lUza5v0Xoivhzr_SPEfLm_yyL-ruqZoyJhyQfixNPW3-t4-ysOX200U76ibLZ5WwWqxKohjwhyH9-zY02TRU7Ypy3zo40wKwJLgQHFYciceHwfxuF0fpXgUl9-qtL7v879_-NGquuXi2i0CWtfxMgQExICLWhJaM4LCe3oprcRSW3YStwxTWDyzIZdmGYr5-LJxV-TCpZ9YLR3DlNtBR0W4iEDcJdSbR-ctZI4KC5vF22jeZSMdohP7hdCgDS-1RrBb0bMa-c9lT2PeJCe7Ly5nnNEwzQe4ypHpcqe3_ASSlIqbh7z9BjLAEWRbAj_FDiMFtfsotsbMCpR1EgZcuFEIYmvtQJ8KNgRHqFGpJvTkxpE0V_EYyuDi3rfY6wPaux4KX1KnRdvNXEmSVq5P3IqtnmVSQQQwNbFrxkAfxvGhixx3H03ciw2UUS6pEJA7Uw7n0GcLGMWxAdbSbMKkV9bntiLyiiIsLCrqLqKs3KByE53r8YWAljjtq-cc2rVjjWFkqRSsVC8San4SJx65YupDuqkjCnqNy7DbSijY2W1iXLNUmJW_9HwygI5fVsSGJpy0JU8gDMbzQFGJtnB-5ct1lwEbO0d3Hj57g58wQja2zJZiKBI78iP3miGhJJYXMmjameQO29TzL_212b-DJ1ttia97erqfJ7LYlc3uVZqEmAPsp1s56tPPUDcB1NXpPVWI_wGQ0kfV"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ9dOCkwXV1mIdTEzftdkzVrYuUZ9-1meCyYXtPO8HoKC_gKGEXpze3j6n9nMeBLrOPzLYmzUs2AcnWoY4gsWKVIE9T6lphTZ2fjehBBPHOziXII4EY8gU0Rw",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTM5kCWBeh2GwjSpNMnokdkHtlXSne2hcC0omahuSOGAYY20DcEUKXVbQfz6mJIHOwy75EzSjMGz9HFzpqvCbpdOlznLayvvX9hpg",
+      "source": "Rolling Square",
+      "title": "The 8 Best Portable Power Banks (2026) Las 8 Mejores Power Banks Portátiles (2026) EN ES",
+      "price": "$39.90",
+      "extracted_price": 39.9,
+      "immersive_product_page_token": "_Ze66XicdU9JjptAAFTekqMv3Wazc_MGZhLjNNAN9CUCGhtMAz2YzXwiX7A8M5EmxyhS3jJ5TRwp11xKJdWiqq-3JPv1pc3GsC3a1XzqpF38mTcSqBb9q6gr1sZNxn5CTZI0dS7LqqwAFU5lqGqvcdiEvDpm7PojTULGszLZHw5Jva7i_0S-Z0V4TP7pqgoURQWaNAOyAuW7VXmq2fn68tgm9eXtfVOJiajqJox4cid9Uk-isMzPk0NVT5o67BL-chT3qutT8RdE19zS43Pb8uRt2k9WCxOZKzNxjDmMJbuLsgF7qwFTP03jy0CiggPqoSOW7JQZZLwd-a0931J-S8pvVSi6Q_z73WlT9avVuV8iLARZ28CRqIs5dSzI-wA3fgQCxfNmjbXhp4CLIfCEQPlgUmBBolt7NDVHhvXDfYXiYFOJCK0id2mwDXmwDGskvs5t1yqtkx3sDSLbRXDZbynHHnS9U7pMtjbEpaCUpw-IVwP1WRFwusE8l6kDSQToherCx1h_jEb9FGEdOtBu91jZxBKrnQ277PT0vDPgR-qm2PYEIWtz6nrMZCW3rFLw4AK78HTvKYURGfM8gAQjlxj3rykBsz4yGuDmsHcKmkckbeJ8NmxSdmAeVwOfNAzvlB23KlZYKNqicWfMl2yoMoTtMT7xAkMEAkAbe82QBZjCcktBJe0Q0bMQ2JcdFxVCz8O5PryBha40zl7jI9_6GnzAfuc9di5S-cJod5716dx_gNocQE2RZ6oCp38AeFL40A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=_Ze66XicdU9JjptAAFTekqMv3Wazc_MGZhLjNNAN9CUCGhtMAz2YzXwiX7A8M5EmxyhS3jJ5TRwp11xKJdWiqq-3JPv1pc3GsC3a1XzqpF38mTcSqBb9q6gr1sZNxn5CTZI0dS7LqqwAFU5lqGqvcdiEvDpm7PojTULGszLZHw5Jva7i_0S-Z0V4TP7pqgoURQWaNAOyAuW7VXmq2fn68tgm9eXtfVOJiajqJox4cid9Uk-isMzPk0NVT5o67BL-chT3qutT8RdE19zS43Pb8uRt2k9WCxOZKzNxjDmMJbuLsgF7qwFTP03jy0CiggPqoSOW7JQZZLwd-a0931J-S8pvVSi6Q_z73WlT9avVuV8iLARZ28CRqIs5dSzI-wA3fgQCxfNmjbXhp4CLIfCEQPlgUmBBolt7NDVHhvXDfYXiYFOJCK0id2mwDXmwDGskvs5t1yqtkx3sDSLbRXDZbynHHnS9U7pMtjbEpaCUpw-IVwP1WRFwusE8l6kDSQToherCx1h_jEb9FGEdOtBu91jZxBKrnQ277PT0vDPgR-qm2PYEIWtz6nrMZCW3rFLw4AK78HTvKYURGfM8gAQjlxj3rykBsz4yGuDmsHcKmkckbeJ8NmxSdmAeVwOfNAzvlB23KlZYKNqicWfMl2yoMoTtMT7xAkMEAkAbe82QBZjCcktBJe0Q0bMQ2JcdFxVCz8O5PryBha40zl7jI9_6GnzAfuc9di5S-cJod5716dx_gNocQE2RZ6oCp38AeFL40A"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR-cHFrJzUB1hn3ElC-2gTWoqOGPD8jD_HKKmmUetFtDHZosAEKpL7h-WXGksyHQwxbdWhl9GqC6ydLYPk2fCaMb58xwhyLpTpY-MRMxo8",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart - Clutch",
+      "title": "Clutch Pro USB-C",
+      "rating": 4.1,
+      "reviews": 2200,
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "immersive_product_page_token": "FnfeFHicbZDNjqNGAISVZ8nRl_7hx-RmsMGDBmzA3fxcrDY0hqH5WQw2RvsOeYXIsxtpc9xdaZ9l8iQ5ZpJrcivpK1WV6tcHL38cx3JmYz0aGgqKa7oXAwbt6val69tsTIcy-6YgjJdLJAEVq0DSZA3CLykbmGjPZfYd4qUqY7SUlxICkgKWWEFfC84yUTZ8l-e8X7fpPz4FaAhidakoCpYVGUGI_yhrdub_8m-KqkhQkTVFVjEEGEoafO2zyxvYG0eMZVXFSEVYRYomYSx93Pu79fF_0ecPI-_vbz8Pbbfo2n5gJ8HfxY33ixNrqssib_vF0LMrF5_P3Xv11_9mvNZl9ttrdx0exfnTOAr-hm4LY_XkPRlPPLA0mGL_eionEhoTSaKiSO8TPdUCJKF3JtgvMovOj7N4jJdHIR68-b1l3TVP__zpr801NYw-NTzSdXTtgyB0mSu0ksx26Amz94npZMS1aZ21pxc3OlmiT7f-4DdEIltbuBu3pbW4BI2PIuy3sSheojmWWSVGd6vv2dqEBxjfCNFuvMk2CRWVD7X2IJKchTEkwDdoSA0Cppk0K-TApOFkukYw2_JQJh5o735lGrxZgWg2D9zU72ljGv5aV9I6vofV8JJaVHcBuHl1RxhOUXAwY4a09gSm5wDSLZ2FzsPCicHkeVXmPofDdIgSEIYJi2ZdJHNSO9DumNmJjL5vmcXoiM47rZMqrDSdVZrtIS3KNradALoJourGNuKZrnUWYOdGqPvsWJmdUHfvRNk-risQIdqSiG7ff809ME0EOJhsV5jTLHagrgQlzHlt65z6thcOuhP6T77V5dQahiBKbHfWrazWPhyIvSdVFZhQgyzqiiyE0JurO0EFiqF-ydbO7QRMbJW27m_d-y5MAq82DQpSuLOE44Iid8xuiCBBTmRjtnVDBjv_03Tp8zewMuUh2KmuynI9rPmx6I_7WgsC7Q6nPnyx5NUvUNUAVGVpqcgQ_w2FTDkr",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=FnfeFHicbZDNjqNGAISVZ8nRl_7hx-RmsMGDBmzA3fxcrDY0hqH5WQw2RvsOeYXIsxtpc9xdaZ9l8iQ5ZpJrcivpK1WV6tcHL38cx3JmYz0aGgqKa7oXAwbt6val69tsTIcy-6YgjJdLJAEVq0DSZA3CLykbmGjPZfYd4qUqY7SUlxICkgKWWEFfC84yUTZ8l-e8X7fpPz4FaAhidakoCpYVGUGI_yhrdub_8m-KqkhQkTVFVjEEGEoafO2zyxvYG0eMZVXFSEVYRYomYSx93Pu79fF_0ecPI-_vbz8Pbbfo2n5gJ8HfxY33ixNrqssib_vF0LMrF5_P3Xv11_9mvNZl9ttrdx0exfnTOAr-hm4LY_XkPRlPPLA0mGL_eionEhoTSaKiSO8TPdUCJKF3JtgvMovOj7N4jJdHIR68-b1l3TVP__zpr801NYw-NTzSdXTtgyB0mSu0ksx26Amz94npZMS1aZ21pxc3OlmiT7f-4DdEIltbuBu3pbW4BI2PIuy3sSheojmWWSVGd6vv2dqEBxjfCNFuvMk2CRWVD7X2IJKchTEkwDdoSA0Cppk0K-TApOFkukYw2_JQJh5o735lGrxZgWg2D9zU72ljGv5aV9I6vofV8JJaVHcBuHl1RxhOUXAwY4a09gSm5wDSLZ2FzsPCicHkeVXmPofDdIgSEIYJi2ZdJHNSO9DumNmJjL5vmcXoiM47rZMqrDSdVZrtIS3KNradALoJourGNuKZrnUWYOdGqPvsWJmdUHfvRNk-risQIdqSiG7ff809ME0EOJhsV5jTLHagrgQlzHlt65z6thcOuhP6T77V5dQahiBKbHfWrazWPhyIvSdVFZhQgyzqiiyE0JurO0EFiqF-ydbO7QRMbJW27m_d-y5MAq82DQpSuLOE44Iid8xuiCBBTmRjtnVDBjv_03Tp8zewMuUh2KmuynI9rPmx6I_7WgsC7Q6nPnyx5NUvUNUAVGVpqcgQ_w2FTDkr"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRGXqjUjR2c8iSQji_5c8l1MSVs4b-v1BSW2XY-L4DtbUQ4j-qa1kUcLIZ4xDHr1ePattD4J7OZaT6z4MVc-v2lA-wRDngBlXt-h8XWnDGE",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRkVYfXRmTO6SRu-P04-isy1luEsRM-kTnpG7LFw4uscRLfJJJAoJsjWXGihBKa_YeUBHQlW7NgPv5IBfofG3kuU4roXqY",
+      "source": "Goal Zero",
+      "title": "Goal Zero Venture 75 Power Bank",
+      "rating": 4.5,
+      "reviews": 85,
+      "price": "$119.95",
+      "extracted_price": 119.95,
+      "immersive_product_page_token": "I1pMoHicdZNLrqNGFIalrCE7yNBqqQqKV89sHr522_ga6oFrcgUUNpiy4dpgMMoesgff7kidYXdLWcvNaoKiDJPZOfp-ne9IR-e3R1b8-dIWQ9yeWttSwvyWPstGBdW0-1pfKtGmTSG-65qOkGVppg4ghAawVPA1jZtYVoeRmpppmMAygK7rimkqUEPf8iwWsjhnm_0-uzhVWogfUFGRoeiGClUTWUgzx-6P4hQfsn-5hgC0kG5YQDENxYCaht4u4vqOnu0XqENVN1WgI0PXVAsYEOq_Pgcb5-V_4JfXNrvc339pqnpSV5cmTmQ2Fl12mSTxubxO9tVl0lziWya_HOp__P8x5e1UiG-aoSNdQapqaooxbgbhW31rHvnhc9vK7F3pJvZ0sV3YiyycWzBVg1tS9ITZPeFRnqf3niYnCTjbHoga5GJOh8dBPtrrI5eP7Px7Fde3ffrXTz-7VefY187ekrqmTgCwC4sdntFgWOoJyYcVlfcN6VXsUEKw3GZPM0aoX0ZQhHTIPRHt-i2eDvS8tENgVfy05Cnzc3b2dzGsPQGtOj75bUL5jZf50WcSp1iitRtUVC1BeKR47cyaBCAtpYcuxrLBdAaI63_C5-VGzPMqi4L9WqHO2lsOGHA7LGu-InQgXrBLGeTrU6NyyFt-4pcQ0njM8_ScK4FLj7jM7fC4fMXzteI7lK5ZQ3bAV2LHC_xjUMWYx7EjbfE0I9Qz75krwY6NjtNV8_EoKOmKsgWgtHYE0xYBQ4NQCYgBRWHkoi3oUcYQSjzupZDPQjdACfRXa0--xgyC8A5fRdlvBJx565LfVqMvUmAXQUk21NOSwY9CKXFySvtAyfWs1GA0iFt6LgEm4rhT_Y66fchICbd4WYaRvDMm-9XIMAtKHLmhBy0YR3UuGITbobwTJVd2cHYVzrpLgKfOi-UsePLvG8YDn9SMD7IQpNkEZ3ndzM2Oy5lOznQnXAtwzNXP_fWyfwdTT2vCDcruu2i_MK492X5YOOMRW6M3rA-rT8b0Ixz_BhoaMnUNor8BtVJGIg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=I1pMoHicdZNLrqNGFIalrCE7yNBqqQqKV89sHr522_ga6oFrcgUUNpiy4dpgMMoesgff7kidYXdLWcvNaoKiDJPZOfp-ne9IR-e3R1b8-dIWQ9yeWttSwvyWPstGBdW0-1pfKtGmTSG-65qOkGVppg4ghAawVPA1jZtYVoeRmpppmMAygK7rimkqUEPf8iwWsjhnm_0-uzhVWogfUFGRoeiGClUTWUgzx-6P4hQfsn-5hgC0kG5YQDENxYCaht4u4vqOnu0XqENVN1WgI0PXVAsYEOq_Pgcb5-V_4JfXNrvc339pqnpSV5cmTmQ2Fl12mSTxubxO9tVl0lziWya_HOp__P8x5e1UiG-aoSNdQapqaooxbgbhW31rHvnhc9vK7F3pJvZ0sV3YiyycWzBVg1tS9ITZPeFRnqf3niYnCTjbHoga5GJOh8dBPtrrI5eP7Px7Fde3ffrXTz-7VefY187ekrqmTgCwC4sdntFgWOoJyYcVlfcN6VXsUEKw3GZPM0aoX0ZQhHTIPRHt-i2eDvS8tENgVfy05Cnzc3b2dzGsPQGtOj75bUL5jZf50WcSp1iitRtUVC1BeKR47cyaBCAtpYcuxrLBdAaI63_C5-VGzPMqi4L9WqHO2lsOGHA7LGu-InQgXrBLGeTrU6NyyFt-4pcQ0njM8_ScK4FLj7jM7fC4fMXzteI7lK5ZQ3bAV2LHC_xjUMWYx7EjbfE0I9Qz75krwY6NjtNV8_EoKOmKsgWgtHYE0xYBQ4NQCYgBRWHkoi3oUcYQSjzupZDPQjdACfRXa0--xgyC8A5fRdlvBJx565LfVqMvUmAXQUk21NOSwY9CKXFySvtAyfWs1GA0iFt6LgEm4rhT_Y66fchICbd4WYaRvDMm-9XIMAtKHLmhBy0YR3UuGITbobwTJVd2cHYVzrpLgKfOi-UsePLvG8YDn9SMD7IQpNkEZ3ndzM2Oy5lOznQnXAtwzNXP_fWyfwdTT2vCDcruu2i_MK492X5YOOMRW6M3rA-rT8b0Ixz_BhoaMnUNor8BtVJGIg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSjKXx-_4oQ7Y5MUdIuigUzB0LXxyp__AK5IJ-fvTO6Vk1aqcz2GCnhZdO7ooumXRiVbr4Y5qGQGHEb-deJpWPFJuhHwcC03UemGXQLJiRgKZPVDn4Y9Wf9",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcScP9Y-M-t3WOC4jMEwkpwmBIXrsGfutmB3eVI9NgmHZ-Rcu7jiTp8PiY0fFZQd0BYcwPyL_t11NuS2LwHCojxUJY_rngLXWkfQ",
+      "source": "Flextail.com",
+      "title": "FLEXTAIL Zero Power Bank Best Outdoor Lightest 10,000mAh Power Bank with Fast Charging",
+      "rating": 3.6,
+      "reviews": 537,
+      "price": "$28.99",
+      "extracted_price": 28.99,
+      "original_price": "$14/ct",
+      "extracted_original_price": 14,
+      "immersive_product_page_token": "5RJiE3icbZPL0qJGAIUrz5KlG7qxuWQnIKgR1MZuLhsL6FbE5hIEVGreIa-Q8p9J1WQ5M1V5lj9PkmWcrGd3qs6p75zN-f3Jz38f-vOY9GVv6tDPh2wrOlmqZ7fPTVuzPuvO7KsiKTJEMgKqNp1KMpQQ-JwlXSLq05l9A1NNVzUNIEmBGkKSrk_VLzlPmDhXfHM88taqs-85qOqSpCNFm-ovoUJF1f46l8mJ_-9_hRC9SBpUdKjKqqYjAN9adn2HW_OANDCFSAKqIstIBwAi8GGLN9bhx96n33rePt5_7upm0tRtl6SCv8SNt5M0qS7XybFuJ12bDFx8OjXfy38AeSvP7I-3Zuie-elj3wv-Dm8Tc7bcLc0l9x0dZDIe0vOdBOadxGGeZ487TUshxcHuRGScM4eOz5N49tdnLp68-rNOmuGY_fPTv_MhM802M3ekaaiFJf9yt7LFyvKd3MABc_xydcSWMSVhXlCHDVlhH0mIzV2VL5PCizzbdvcLEfkLo0sXtrWvvG4Trmy8F2u_YPM4ADF33C4luEmAC1jYjHTEUxzGyAuZGVe2vYPxgEv9ulmslukFjCTwRLwQ1Aee5YO45HvRBxdqEaEvd4SONFjV2OloRO2El_o6Bt6YyriMQgr2BZ7uKmYRwKq90-3WBBURucsxxJTJp4cLhL0XcevaBmFCAxFoNp7FjN3ewPGcooysXH_MByqtVp50gjTAZhRQ2xttySf5cRM2A37t8sCpo6E358G0o2cQEafZkoJVXuUpfhGhGKyMuMx9V9J_9QsD7cmtS0KBObF7Ggg3cGibyQJll0bBF6_hwgsyizlrasR7SdzdSw1dcm_pPHpwIvk20EESNjkLANiNlweBOYyAcWWWe0slW3bOKwMvvMcmiEnmuDdOmo7SGWIkDwPLFn5lmK4dr1MCtp7EjI_3a3t8l2Y26vyN6qnJ0QhKfsjbw7bUfV9_gHsbFA6a_QJeXwHq6xAKAvJ_IW84pQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5RJiE3icbZPL0qJGAIUrz5KlG7qxuWQnIKgR1MZuLhsL6FbE5hIEVGreIa-Q8p9J1WQ5M1V5lj9PkmWcrGd3qs6p75zN-f3Jz38f-vOY9GVv6tDPh2wrOlmqZ7fPTVuzPuvO7KsiKTJEMgKqNp1KMpQQ-JwlXSLq05l9A1NNVzUNIEmBGkKSrk_VLzlPmDhXfHM88taqs-85qOqSpCNFm-ovoUJF1f46l8mJ_-9_hRC9SBpUdKjKqqYjAN9adn2HW_OANDCFSAKqIstIBwAi8GGLN9bhx96n33rePt5_7upm0tRtl6SCv8SNt5M0qS7XybFuJ12bDFx8OjXfy38AeSvP7I-3Zuie-elj3wv-Dm8Tc7bcLc0l9x0dZDIe0vOdBOadxGGeZ487TUshxcHuRGScM4eOz5N49tdnLp68-rNOmuGY_fPTv_MhM802M3ekaaiFJf9yt7LFyvKd3MABc_xydcSWMSVhXlCHDVlhH0mIzV2VL5PCizzbdvcLEfkLo0sXtrWvvG4Trmy8F2u_YPM4ADF33C4luEmAC1jYjHTEUxzGyAuZGVe2vYPxgEv9ulmslukFjCTwRLwQ1Aee5YO45HvRBxdqEaEvd4SONFjV2OloRO2El_o6Bt6YyriMQgr2BZ7uKmYRwKq90-3WBBURucsxxJTJp4cLhL0XcevaBmFCAxFoNp7FjN3ewPGcooysXH_MByqtVp50gjTAZhRQ2xttySf5cRM2A37t8sCpo6E358G0o2cQEafZkoJVXuUpfhGhGKyMuMx9V9J_9QsD7cmtS0KBObF7Ggg3cGibyQJll0bBF6_hwgsyizlrasR7SdzdSw1dcm_pPHpwIvk20EESNjkLANiNlweBOYyAcWWWe0slW3bOKwMvvMcmiEnmuDdOmo7SGWIkDwPLFn5lmK4dr1MCtp7EjI_3a3t8l2Y26vyN6qnJ0QhKfsjbw7bUfV9_gHsbFA6a_QJeXwHq6xAKAvJ_IW84pQ"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRiQjLcSGBxap3wdGO1Y3Ydqp_wjrR8ILNFmXgONlpnoyh1vW7minr_Cz0om5lDY75-ITuQZs49Bi5wvXkaW4Ioqn7kOreuWLePHzADTvA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRkVYfXRmTO6SRu-P04-isy1luEsRM-kTnpG7LFw4uscRLfJJJAoJsjWXGihBKa_YeUBHQlW7NgPv5IBfofG3kuU4roXqY",
+      "source": "Goal Zero",
+      "title": "Goal Zero Venture 35 Power Bank",
+      "rating": 4.4,
+      "reviews": 116,
+      "price": "$69.95",
+      "extracted_price": 69.95,
+      "immersive_product_page_token": "Th8Vv3icdVFNrqNGGJRyhtwgy7fpbsC4s3s24J9nsGlMN7B5Ahq7bRroYGxja-6QO_jNRJpZzoyUs7ycJsysE32bT6pSVX31_fkoDn-_ng_39FydpxgF4pJvZKeB5vn6WbUNP-fdgX9DpgnNkaljDehorJsGMj7naZfKZn_g3yEY6xoaaaap6zoyRhAB-FUUKZeHuljvdkVrNfkP3hiYuolNYEBsIA1jw8RfDlW6L37i36CpjTVzhDSkjUdQ_2H31vLTu76ZvkJDR6MxHmawMRHGY0P_sCFr6_V_wE9_nIv29v5b16gn1bRdmsliWK5F-5SldXl62jXtU9eml0J-2quf8f5D5a068K-GOdJHyNSNIf1A0LTxm7p0D7H_eD7L4h1dn6bPC38xXRTBDMNcI5fs0Ids2odJJER-62lWSZAwfx9qRPAZvT_28nE-PYR8FPVfTaouu_yfX361m6s1PV2nfqgUtQjYzuDcg-QWH7kMHGUEIZxzy9W2NpyxuYjS0pkGaHFPKsyKEpMgEi-sxHUwVyADcEaAvORMjLY2TbiNr369hDzsaFxyUoTuNaycKj9OGmItgwAlWiCxld3jO7Fxm2iOy6ZQZTKZuxQnGXTvRCrFHTJoywuXYrGe8XaLxn1hLVmEeBWDZEVK1XOn0VbMW_n3SUxLaFEqSlImVe5MaBqqWyzxS1AtVVyTltYEMKbAOuw3nlzSVcSVf4PrxPYAm3uDsBevLVq7W8cOql4ya9lHkPuZDLsEdY0biV1e0W64LYyppAUVdnokUz7nZYY4jAB-CZlzy5HBgsp7CdBJd8ul5UEn3kKhaJQs6D1x0uMyjqGTUilSYncJDbsyP3q6G01aZi9FBJNqe7dBTonyUV_59QQQTc7ZkVK3Hlo5wFUQ2YEDMUwjJTiD0L-XtxAJFMPJafjbNQOONjssJ2Tu3dYs2aaWOHqO3KWQnIaeqF92DrfIzgcAFNtJ4taEfOxP7e4dPDtGF6xNz0x3E1YVr6J93VQ4CPAN9i07zozn36GJATQNfTwyoPYvQqZGtw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Th8Vv3icdVFNrqNGGJRyhtwgy7fpbsC4s3s24J9nsGlMN7B5Ahq7bRroYGxja-6QO_jNRJpZzoyUs7ycJsysE32bT6pSVX31_fkoDn-_ng_39FydpxgF4pJvZKeB5vn6WbUNP-fdgX9DpgnNkaljDehorJsGMj7naZfKZn_g3yEY6xoaaaap6zoyRhAB-FUUKZeHuljvdkVrNfkP3hiYuolNYEBsIA1jw8RfDlW6L37i36CpjTVzhDSkjUdQ_2H31vLTu76ZvkJDR6MxHmawMRHGY0P_sCFr6_V_wE9_nIv29v5b16gn1bRdmsliWK5F-5SldXl62jXtU9eml0J-2quf8f5D5a068K-GOdJHyNSNIf1A0LTxm7p0D7H_eD7L4h1dn6bPC38xXRTBDMNcI5fs0Ids2odJJER-62lWSZAwfx9qRPAZvT_28nE-PYR8FPVfTaouu_yfX361m6s1PV2nfqgUtQjYzuDcg-QWH7kMHGUEIZxzy9W2NpyxuYjS0pkGaHFPKsyKEpMgEi-sxHUwVyADcEaAvORMjLY2TbiNr369hDzsaFxyUoTuNaycKj9OGmItgwAlWiCxld3jO7Fxm2iOy6ZQZTKZuxQnGXTvRCrFHTJoywuXYrGe8XaLxn1hLVmEeBWDZEVK1XOn0VbMW_n3SUxLaFEqSlImVe5MaBqqWyzxS1AtVVyTltYEMKbAOuw3nlzSVcSVf4PrxPYAm3uDsBevLVq7W8cOql4ya9lHkPuZDLsEdY0biV1e0W64LYyppAUVdnokUz7nZYY4jAB-CZlzy5HBgsp7CdBJd8ul5UEn3kKhaJQs6D1x0uMyjqGTUilSYncJDbsyP3q6G01aZi9FBJNqe7dBTonyUV_59QQQTc7ZkVK3Hlo5wFUQ2YEDMUwjJTiD0L-XtxAJFMPJafjbNQOONjssJ2Tu3dYs2aaWOHqO3KWQnIaeqF92DrfIzgcAFNtJ4taEfOxP7e4dPDtGF6xNz0x3E1YVr6J93VQ4CPAN9i07zozn36GJATQNfTwyoPYvQqZGtw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTqrp7q-XGH-vDpM1zZsDdbCr3mQrQ_u0yV4I9piHge2zWLYjU-L_2LDI5D3GUNkZxXg1joUe5fC2oChvCCvIbFPZWYT8HFmi9xkKpuLL8",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Anker Laptop Power Bank",
+      "rating": 4.8,
+      "reviews": 2500,
+      "price": "$119.99",
+      "extracted_price": 119.99,
+      "immersive_product_page_token": "f-ZEzHicbVPLjqNGFJXyDfmDLHtTD4pHdn6B7W5w86gCatPCFDaYAmMbg43mH_IP7plIM8uZSPmWztcEJctkcaWre-49OudK57dHVvz5di2G5FpdZwby8y59lS0Gx0n_tTkfxTVtC_EHVCFQgY5ViAFBRAVjfU2TNpHHfSF-GECBAGqaoSsYaQgpSPueZ4mQRZ1tdrvsPD-m45qKIIGGokOkQ81QEYHqt6JK9tm_MNQg1BVDAVgFBoaaToz3s7h8oNfZm4ohJDpSIYSKhohGDPzp1dvM3_4f-3K6Zuf7xy_tsXlqjuc22cpsbPrs_LRN6vLytDuen9pz0mXyy775R9t_Sd6rQnwnmqqoSAejJUMnZNT_3nTtI99_vl5l9oH6p9lk5a5mq8y3DJhir9sWNxrObpRHeZ7eb2xbScBDd0-xlwuLDY-9fFwvj1w-svr3Y9J0u_Svn35eHPv57NLPXNo0bO6BwOSVizgVUZM4iK1EdRlY5SicCXuzZD43V31a569x7SwSZhZB5J3CpbhEcE-Sg5ABLqGovPvGNDuBRU3R-u6UZGrX_Dk-5Oewzg9uuVd4ZYMsmr5EiCu2BYG9bLoIgMFHbBeypooDM7Irp93eYWKHOnZLr6Mhp-HCbu2lp7hS1HGdPwsqO6cy85F7tTWnZYrXcGsu2peA-X4tX53BWXlo3Tt13HpmLh3aE5dKHJcGzELDYUtzRmneRICfXKC3NMohs9jcXgjIatkG5gTblGAeTVWfrZ8F4pd0MAvfagZbNoNbiYIe3LsbcLqZrwcW9jDAVGGhN84kcgIx2KZT-UHu2gfJNwt3vHHuMTLjABiHtPR6f_DMCJA19yF1qbNwLBKmVrvcopY5mK1sFg8OFEtqrXFYtiTGHub0dmSleGFs4ZvQgEnU5CKE0B3KO0U5iuH0IuZ2vwUmtor11Fs6903I_QDyJFswEGHvlIbeic9zkFiC-3UOx5-taGjUn2-X8-4DTEzS-htNDnIZaXBNoy48dYGryol1tUPn5dL_OsZpzB9RdJVA9Dej30WC",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=f-ZEzHicbVPLjqNGFJXyDfmDLHtTD4pHdn6B7W5w86gCatPCFDaYAmMbg43mH_IP7plIM8uZSPmWztcEJctkcaWre-49OudK57dHVvz5di2G5FpdZwby8y59lS0Gx0n_tTkfxTVtC_EHVCFQgY5ViAFBRAVjfU2TNpHHfSF-GECBAGqaoSsYaQgpSPueZ4mQRZ1tdrvsPD-m45qKIIGGokOkQ81QEYHqt6JK9tm_MNQg1BVDAVgFBoaaToz3s7h8oNfZm4ohJDpSIYSKhohGDPzp1dvM3_4f-3K6Zuf7xy_tsXlqjuc22cpsbPrs_LRN6vLytDuen9pz0mXyy775R9t_Sd6rQnwnmqqoSAejJUMnZNT_3nTtI99_vl5l9oH6p9lk5a5mq8y3DJhir9sWNxrObpRHeZ7eb2xbScBDd0-xlwuLDY-9fFwvj1w-svr3Y9J0u_Svn35eHPv57NLPXNo0bO6BwOSVizgVUZM4iK1EdRlY5SicCXuzZD43V31a569x7SwSZhZB5J3CpbhEcE-Sg5ABLqGovPvGNDuBRU3R-u6UZGrX_Dk-5Oewzg9uuVd4ZYMsmr5EiCu2BYG9bLoIgMFHbBeypooDM7Irp93eYWKHOnZLr6Mhp-HCbu2lp7hS1HGdPwsqO6cy85F7tTWnZYrXcGsu2peA-X4tX53BWXlo3Tt13HpmLh3aE5dKHJcGzELDYUtzRmneRICfXKC3NMohs9jcXgjIatkG5gTblGAeTVWfrZ8F4pd0MAvfagZbNoNbiYIe3LsbcLqZrwcW9jDAVGGhN84kcgIx2KZT-UHu2gfJNwt3vHHuMTLjABiHtPR6f_DMCJA19yF1qbNwLBKmVrvcopY5mK1sFg8OFEtqrXFYtiTGHub0dmSleGFs4ZvQgEnU5CKE0B3KO0U5iuH0IuZ2vwUmtor11Fs6903I_QDyJFswEGHvlIbeic9zkFiC-3UOx5-taGjUn2-X8-4DTEzS-htNDnIZaXBNoy48dYGryol1tUPn5dL_OsZpzB9RdJVA9Dej30WC"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best portable power bank for travel?",
+      "type": "ai_overview",
+      "page_token": "hzSlhHicHdBLbuIwAABQ9TJdlhAmjEBCI6XBhBQbbGM78Wbk2A352CQqEQnZ9QpzhjnVnKbV7N_qff611bX59_Sn7Pvutp7NhmF4ubTtxb6_6NbN1O1x1TOtrM2VbtbLn8v5r0Jvtncdvn7oELOu4xHx6EIKw5q5ju1Osh5SF5xzfx9osPK44CfKDRV1OL3X5RJfwV2nYI-8FaAN4XwOMF0kmAh0Imw7SDf0ooa9jhGjLMl0xEfo6-DAQ5j5FuUp2TPfKA7QBGOkjjFb4GY8p36fGUfUkRkvY3xS1dyqa1efz6U0u2CvmKwUA2_cJ8m3L6GVSKbkpCL5KllwkG6EOTCVBGVEeXKDE5loCh_E8gh5XaubpMvjEG1LUxhhl1nKe8NgAC1qjUM4j_EEd6vQjG2FGZl0bR0TiRIiGXHTHTM3YuXhHzBOCgJkoHdIHDgOGH4u9H2zeP5_vflduH7dfbSXLwdwjTw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=hzSlhHicHdBLbuIwAABQ9TJdlhAmjEBCI6XBhBQbbGM78Wbk2A352CQqEQnZ9QpzhjnVnKbV7N_qff611bX59_Sn7Pvutp7NhmF4ubTtxb6_6NbN1O1x1TOtrM2VbtbLn8v5r0Jvtncdvn7oELOu4xHx6EIKw5q5ju1Osh5SF5xzfx9osPK44CfKDRV1OL3X5RJfwV2nYI-8FaAN4XwOMF0kmAh0Imw7SDf0ooa9jhGjLMl0xEfo6-DAQ5j5FuUp2TPfKA7QBGOkjjFb4GY8p36fGUfUkRkvY3xS1dyqa1efz6U0u2CvmKwUA2_cJ8m3L6GVSKbkpCL5KllwkG6EOTCVBGVEeXKDE5loCh_E8gh5XaubpMvjEG1LUxhhl1nKe8NgAC1qjUM4j_EEd6vQjG2FGZl0bR0TiRIiGXHTHTM3YuXhHzBOCgJkoHdIHDgOGH4u9H2zeP5_vflduH7dfbSXLwdwjTw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFXMTVWekY2VFVJMlEyUldUMmt0U0VGQ1FVWlJhREpLV0ZoMlQyZFlVV3BJU2xwaWNVVTVMV1JFWjJOaWJVMW9WVk5sVEVnNFVUSnlXRVEwTFZoWGRFRnhhamhNTkZkVVFXaHhRMkpaY2pkR1prSlFRV1pQZGpKa1VSSVhYM1ZwZW1GMWJYVkRPVEpUYUhaalVHeDBNekJ2UVhjYUlrRkVjM0k1WmxNd1RsRXdSMnBrV1hCT05HdDJkbUZXUmpSWVVFcHJaelpPZW5jIiwiZmN2IjoiMyIsImVpIjoiX3VpemF1bXVDOTJTaHZjUGx0MzBvQXciLCJxYyI6IkNpTjBiM0FnY0c5eWRHRmliR1VnY0c5M1pYSWdZbUZ1YTNNZ1ptOXlJSFJ5WVhabGJCQUFmV1JMSUQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHBvcnRhYmxlIHBvd2VyIGJhbmsgZm9yIHRyYXZlbD8iLCJsayI6IkdpWmlaWE4wSUhCdmNuUmhZbXhsSUhCdmQyVnlZbUZ1YXlCbWIzSWdkSEpoZG1Wc2JHbHVadyIsImJzIjoiYzQyTk1RLUNNQkJHNDlySm1la21ZOVJvNVE4UVIyY0hCMTJ1ZU5ER1NrazVKZjU3RzRpeEdFMjQ2UnZlZXlmT1FoNDFNcGdHV0JNb2FoaHE1eG1WcFRCYThxQ3d1a0xoUExESEI5a3NuU2V6SDl3WFprMVZpcE5ZZG5WLTFnU3VpSVBoWVJlSnc2dGswWTdHLTdqSjlULXNzS2JVUEl5UHhVVXVOZ2Z0N3ZZQ2V5aUpBV0VydzkxMkdnS2J2dmVubGFVeVdUZTlZZ1lLUmdyR3luVHlBZyIsImlkIjoiZmNfX3VpemF1bXVDOTJTaHZjUGx0MzBvQXdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFXMTVWekY2VFVJMlEyUldUMmt0U0VGQ1FVWlJhREpLV0ZoMlQyZFlVV3BJU2xwaWNVVTVMV1JFWjJOaWJVMW9WVk5sVEVnNFVUSnlXRVEwTFZoWGRFRnhhamhNTkZkVVFXaHhRMkpaY2pkR1prSlFRV1pQZGpKa1VSSVhYM1ZwZW1GMWJYVkRPVEpUYUhaalVHeDBNekJ2UVhjYUlrRkVjM0k1WmxNd1RsRXdSMnBrV1hCT05HdDJkbUZXUmpSWVVFcHJaelpPZW5jIiwiZmN2IjoiMyIsImVpIjoiX3VpemF1bXVDOTJTaHZjUGx0MzBvQXciLCJxYyI6IkNpTjBiM0FnY0c5eWRHRmliR1VnY0c5M1pYSWdZbUZ1YTNNZ1ptOXlJSFJ5WVhabGJCQUFmV1JMSUQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHBvcnRhYmxlIHBvd2VyIGJhbmsgZm9yIHRyYXZlbD8iLCJsayI6IkdpWmlaWE4wSUhCdmNuUmhZbXhsSUhCdmQyVnlZbUZ1YXlCbWIzSWdkSEpoZG1Wc2JHbHVadyIsImJzIjoiYzQyTk1RLUNNQkJHNDlySm1la21ZOVJvNVE4UVIyY0hCMTJ1ZU5ER1NrazVKZjU3RzRpeEdFMjQ2UnZlZXlmT1FoNDFNcGdHV0JNb2FoaHE1eG1WcFRCYThxQ3d1a0xoUExESEI5a3NuU2V6SDl3WFprMVZpcE5ZZG5WLTFnU3VpSVBoWVJlSnc2dGswWTdHLTdqSjlULXNzS2JVUEl5UHhVVXVOZ2Z0N3ZZQ2V5aUpBV0VydzkxMkdnS2J2dmVubGFVeVdUZTlZZ1lLUmdyR3luVHlBZyIsImlkIjoiZmNfX3VpemF1bXVDOTJTaHZjUGx0MzBvQXdfNSJ9"
+    },
+    {
+      "question": "What type of power bank is best for travel?",
+      "type": "ai_overview",
+      "page_token": "2umLcnicHdBfToMwHADgeBkfHQWZbsli9gfYzMpsoWXjxUDLYPArZa4O3Jt38VSexsTvCN_3D5za5vfuWhnTXaajUd_3D6XWJRQPQqtRdvlqxUhkAHkmmun4aYxejmLmfW4Wy_NmQVjX8RW1otg_0LpaF6w3EZdfOUoXRGmLWaYN-RzFjDgxB8QDtBK2n1LVqaI5mFwxVzpU4T0fE3Ww4xh06nc4rDlkDbVIWw4FvC7ZHk558Giihp-jALHslvpYwYnY7lvScmu34iTxwHC_QrnSLlM0EYnJmC8xTqpIWNBn9WuXB5PHLQ_jeE9Rsa7qBDa3NHAroVIt7GdEnRIlbHC8Sh5lAuPDnhvJsIsh1FKFJF-TGw4mCznoE2H0JmpQLKZbGvA68mC984aOOCHBtr8LOVxyX55xO0eE3B_Fdebc_3_O3o_KTLsPXf4B0EOD_A",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2umLcnicHdBfToMwHADgeBkfHQWZbsli9gfYzMpsoWXjxUDLYPArZa4O3Jt38VSexsTvCN_3D5za5vfuWhnTXaajUd_3D6XWJRQPQqtRdvlqxUhkAHkmmun4aYxejmLmfW4Wy_NmQVjX8RW1otg_0LpaF6w3EZdfOUoXRGmLWaYN-RzFjDgxB8QDtBK2n1LVqaI5mFwxVzpU4T0fE3Ww4xh06nc4rDlkDbVIWw4FvC7ZHk558Giihp-jALHslvpYwYnY7lvScmu34iTxwHC_QrnSLlM0EYnJmC8xTqpIWNBn9WuXB5PHLQ_jeE9Rsa7qBDa3NHAroVIt7GdEnRIlbHC8Sh5lAuPDnhvJsIsh1FKFJF-TGw4mCznoE2H0JmpQLKZbGvA68mC984aOOCHBtr8LOVxyX55xO0eE3B_Fdebc_3_O3o_KTLsPXf4B0EOD_A",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFXMTVWekY2VFVJMlEyUldUMmt0U0VGQ1FVWlJhREpLV0ZoMlQyZFlVV3BJU2xwaWNVVTVMV1JFWjJOaWJVMW9WVk5sVEVnNFVUSnlXRVEwTFZoWGRFRnhhamhNTkZkVVFXaHhRMkpaY2pkR1prSlFRV1pQZGpKa1VSSVhYM1ZwZW1GMWJYVkRPVEpUYUhaalVHeDBNekJ2UVhjYUlrRkVjM0k1WmxNd1RsRXdSMnBrV1hCT05HdDJkbUZXUmpSWVVFcHJaelpPZW5jIiwiZmN2IjoiMyIsImVpIjoiX3VpemF1bXVDOTJTaHZjUGx0MzBvQXciLCJxYyI6IkNpTjBiM0FnY0c5eWRHRmliR1VnY0c5M1pYSWdZbUZ1YTNNZ1ptOXlJSFJ5WVhabGJCQUFmV1JMSUQ4IiwicXVlc3Rpb24iOiJXaGF0IHR5cGUgb2YgcG93ZXIgYmFuayBpcyBiZXN0IGZvciB0cmF2ZWw/IiwibGsiOiJHaXAzYUdGMElIUjVjR1VnYjJZZ2NHOTNaWElnWW1GdWF5QnBjeUJpWlhOMElHWnZjaUIwY21GMlpXdyIsImJzIjoiYzQyTk1RLUNNQkJHNDlySm1la21ZOVJvNVE4UVIyY0hCMTJ1ZU5ER1NrazVKZjU3RzRpeEdFMjQ2UnZlZXlmT1FoNDFNcGdHV0JNb2FoaHE1eG1WcFRCYThxQ3d1a0xoUExESEI5a3NuU2V6SDl3WFprMVZpcE5ZZG5WLTFnU3VpSVBoWVJlSnc2dGswWTdHLTdqSjlULXNzS2JVUEl5UHhVVXVOZ2Z0N3ZZQ2V5aUpBV0VydzkxMkdnS2J2dmVubGFVeVdUZTlZZ1lLUmdyR3luVHlBZyIsImlkIjoiZmNfX3VpemF1bXVDOTJTaHZjUGx0MzBvQXdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFXMTVWekY2VFVJMlEyUldUMmt0U0VGQ1FVWlJhREpLV0ZoMlQyZFlVV3BJU2xwaWNVVTVMV1JFWjJOaWJVMW9WVk5sVEVnNFVUSnlXRVEwTFZoWGRFRnhhamhNTkZkVVFXaHhRMkpaY2pkR1prSlFRV1pQZGpKa1VSSVhYM1ZwZW1GMWJYVkRPVEpUYUhaalVHeDBNekJ2UVhjYUlrRkVjM0k1WmxNd1RsRXdSMnBrV1hCT05HdDJkbUZXUmpSWVVFcHJaelpPZW5jIiwiZmN2IjoiMyIsImVpIjoiX3VpemF1bXVDOTJTaHZjUGx0MzBvQXciLCJxYyI6IkNpTjBiM0FnY0c5eWRHRmliR1VnY0c5M1pYSWdZbUZ1YTNNZ1ptOXlJSFJ5WVhabGJCQUFmV1JMSUQ4IiwicXVlc3Rpb24iOiJXaGF0IHR5cGUgb2YgcG93ZXIgYmFuayBpcyBiZXN0IGZvciB0cmF2ZWw%2FIiwibGsiOiJHaXAzYUdGMElIUjVjR1VnYjJZZ2NHOTNaWElnWW1GdWF5QnBjeUJpWlhOMElHWnZjaUIwY21GMlpXdyIsImJzIjoiYzQyTk1RLUNNQkJHNDlySm1la21ZOVJvNVE4UVIyY0hCMTJ1ZU5ER1NrazVKZjU3RzRpeEdFMjQ2UnZlZXlmT1FoNDFNcGdHV0JNb2FoaHE1eG1WcFRCYThxQ3d1a0xoUExESEI5a3NuU2V6SDl3WFprMVZpcE5ZZG5WLTFnU3VpSVBoWVJlSnc2dGswWTdHLTdqSjlULXNzS2JVUEl5UHhVVXVOZ2Z0N3ZZQ2V5aUpBV0VydzkxMkdnS2J2dmVubGFVeVdUZTlZZ1lLUmdyR3luVHlBZyIsImlkIjoiZmNfX3VpemF1bXVDOTJTaHZjUGx0MzBvQXdfNSJ9"
+    },
+    {
+      "question": "Which power bank is best for flight travel?",
+      "type": "ai_overview",
+      "page_token": "ErY2a3icHdBRbpswGABg7TJ9bOygMCVSNMmlQNhwamO74JcJ7CYk_g1eS0OTt91lp-ppKu07wvf3H5wG9_nt0k9TeNssFvM83x_H8Qgv92b0i_btOpiFaQG61rhN_D3GPw5m-_i-Iw9_doTJEFTCkciKzML64ZdIr40KlKZB6IT3dBmG9oS9wSA5sq7ylvMbqbqEZ6bWXrsi5kLtGPp4VwCsxXDqsC40CmM5cM-AX9RZzd0zV_sMtMkhFnn_UywNljUhRvKkRmunIgV7Zcc2pWfr8czQCjcu5Q3SK-1SVckQCVQMzDlMnSppHURX4bK-7a57QSomi_wlJ7RFWjIgw2NvD_YZ4qZWk5XlqgQ6Wk9Zl7Nbma2J_RhPTPKbOYOXyymSUZAVQOBJT620dSf1UzMoXnp15p6u9Hx3MJdtdPf_c_v74KdNeB2PXy_Eg64",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ErY2a3icHdBRbpswGABg7TJ9bOygMCVSNMmlQNhwamO74JcJ7CYk_g1eS0OTt91lp-ppKu07wvf3H5wG9_nt0k9TeNssFvM83x_H8Qgv92b0i_btOpiFaQG61rhN_D3GPw5m-_i-Iw9_doTJEFTCkciKzML64ZdIr40KlKZB6IT3dBmG9oS9wSA5sq7ylvMbqbqEZ6bWXrsi5kLtGPp4VwCsxXDqsC40CmM5cM-AX9RZzd0zV_sMtMkhFnn_UywNljUhRvKkRmunIgV7Zcc2pWfr8czQCjcu5Q3SK-1SVckQCVQMzDlMnSppHURX4bK-7a57QSomi_wlJ7RFWjIgw2NvD_YZ4qZWk5XlqgQ6Wk9Zl7Nbma2J_RhPTPKbOYOXyymSUZAVQOBJT620dSf1UzMoXnp15p6u9Hx3MJdtdPf_c_v74KdNeB2PXy_Eg64",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFXMTVWekY2VFVJMlEyUldUMmt0U0VGQ1FVWlJhREpLV0ZoMlQyZFlVV3BJU2xwaWNVVTVMV1JFWjJOaWJVMW9WVk5sVEVnNFVUSnlXRVEwTFZoWGRFRnhhamhNTkZkVVFXaHhRMkpaY2pkR1prSlFRV1pQZGpKa1VSSVhYM1ZwZW1GMWJYVkRPVEpUYUhaalVHeDBNekJ2UVhjYUlrRkVjM0k1WmxNd1RsRXdSMnBrV1hCT05HdDJkbUZXUmpSWVVFcHJaelpPZW5jIiwiZmN2IjoiMyIsImVpIjoiX3VpemF1bXVDOTJTaHZjUGx0MzBvQXciLCJxYyI6IkNpTjBiM0FnY0c5eWRHRmliR1VnY0c5M1pYSWdZbUZ1YTNNZ1ptOXlJSFJ5WVhabGJCQUFmV1JMSUQ4IiwicXVlc3Rpb24iOiJXaGljaCBwb3dlciBiYW5rIGlzIGJlc3QgZm9yIGZsaWdodCB0cmF2ZWw/IiwibGsiOiJHaXAzYUdsamFDQndiM2RsY2lCaVlXNXJJR2x6SUdKbGMzUWdabTl5SUdac2FXZG9kQ0IwY21GMlpXdyIsImJzIjoiYzQyTk1RLUNNQkJHNDlySm1la21ZOVJvNVE4UVIyY0hCMTJ1ZU5ER1NrazVKZjU3RzRpeEdFMjQ2UnZlZXlmT1FoNDFNcGdHV0JNb2FoaHE1eG1WcFRCYThxQ3d1a0xoUExESEI5a3NuU2V6SDl3WFprMVZpcE5ZZG5WLTFnU3VpSVBoWVJlSnc2dGswWTdHLTdqSjlULXNzS2JVUEl5UHhVVXVOZ2Z0N3ZZQ2V5aUpBV0VydzkxMkdnS2J2dmVubGFVeVdUZTlZZ1lLUmdyR3luVHlBZyIsImlkIjoiZmNfX3VpemF1bXVDOTJTaHZjUGx0MzBvQXdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFXMTVWekY2VFVJMlEyUldUMmt0U0VGQ1FVWlJhREpLV0ZoMlQyZFlVV3BJU2xwaWNVVTVMV1JFWjJOaWJVMW9WVk5sVEVnNFVUSnlXRVEwTFZoWGRFRnhhamhNTkZkVVFXaHhRMkpaY2pkR1prSlFRV1pQZGpKa1VSSVhYM1ZwZW1GMWJYVkRPVEpUYUhaalVHeDBNekJ2UVhjYUlrRkVjM0k1WmxNd1RsRXdSMnBrV1hCT05HdDJkbUZXUmpSWVVFcHJaelpPZW5jIiwiZmN2IjoiMyIsImVpIjoiX3VpemF1bXVDOTJTaHZjUGx0MzBvQXciLCJxYyI6IkNpTjBiM0FnY0c5eWRHRmliR1VnY0c5M1pYSWdZbUZ1YTNNZ1ptOXlJSFJ5WVhabGJCQUFmV1JMSUQ4IiwicXVlc3Rpb24iOiJXaGljaCBwb3dlciBiYW5rIGlzIGJlc3QgZm9yIGZsaWdodCB0cmF2ZWw%2FIiwibGsiOiJHaXAzYUdsamFDQndiM2RsY2lCaVlXNXJJR2x6SUdKbGMzUWdabTl5SUdac2FXZG9kQ0IwY21GMlpXdyIsImJzIjoiYzQyTk1RLUNNQkJHNDlySm1la21ZOVJvNVE4UVIyY0hCMTJ1ZU5ER1NrazVKZjU3RzRpeEdFMjQ2UnZlZXlmT1FoNDFNcGdHV0JNb2FoaHE1eG1WcFRCYThxQ3d1a0xoUExESEI5a3NuU2V6SDl3WFprMVZpcE5ZZG5WLTFnU3VpSVBoWVJlSnc2dGswWTdHLTdqSjlULXNzS2JVUEl5UHhVVXVOZ2Z0N3ZZQ2V5aUpBV0VydzkxMkdnS2J2dmVubGFVeVdUZTlZZ1lLUmdyR3luVHlBZyIsImlkIjoiZmNfX3VpemF1bXVDOTJTaHZjUGx0MzBvQXdfNSJ9"
+    },
+    {
+      "question": "Should I get a 10000mAh or 20000mAh power bank?",
+      "type": "ai_overview",
+      "page_token": "MZUUCnicHdBrbpswAABg7TL92fCImRopqkbDY0g29ZPYfyZiChRsYCklhH-7ws6wU-00k_Yd4fv1x7wP_d8vv9t5nj4Ou93tdntsxrExb496tLvy4z7onS6NuZS6PwRfA_e51sdo0eHLVYeYT5M4EYeyOKq8dkSdWpVAObTxK02_-dRDFjvrXrFw_9aZBfajTxjcShdlyM9CcZYAWzcgW5woX-_lufeZbQGyxtIUvSr7tChnVShtu_yE0IWDvBQTo9F3R1q15NF05ZvcKOcuStSAnMalPvqpPQHypFlpMmPakQEmci6YqaUHHMyiVXEzcibUJSWf-FxlMA6NdGOheyBlARSJxMBP2iGe6aQDCmLNnbrtonkmoraqq8IE8izmikMADRori_AlxRtMnsJqHd8xJ5vujOUFvFdDnOmefJY9XOlg_CpRL6XTBsUwuYoDxvFDrZej__D_-vijtvNhuo7NPz7-jHc",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MZUUCnicHdBrbpswAABg7TL92fCImRopqkbDY0g29ZPYfyZiChRsYCklhH-7ws6wU-00k_Yd4fv1x7wP_d8vv9t5nj4Ou93tdntsxrExb496tLvy4z7onS6NuZS6PwRfA_e51sdo0eHLVYeYT5M4EYeyOKq8dkSdWpVAObTxK02_-dRDFjvrXrFw_9aZBfajTxjcShdlyM9CcZYAWzcgW5woX-_lufeZbQGyxtIUvSr7tChnVShtu_yE0IWDvBQTo9F3R1q15NF05ZvcKOcuStSAnMalPvqpPQHypFlpMmPakQEmci6YqaUHHMyiVXEzcibUJSWf-FxlMA6NdGOheyBlARSJxMBP2iGe6aQDCmLNnbrtonkmoraqq8IE8izmikMADRori_AlxRtMnsJqHd8xJ5vujOUFvFdDnOmefJY9XOlg_CpRL6XTBsUwuYoDxvFDrZej__D_-vijtvNhuo7NPz7-jHc",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFXMTVWekY2VFVJMlEyUldUMmt0U0VGQ1FVWlJhREpLV0ZoMlQyZFlVV3BJU2xwaWNVVTVMV1JFWjJOaWJVMW9WVk5sVEVnNFVUSnlXRVEwTFZoWGRFRnhhamhNTkZkVVFXaHhRMkpaY2pkR1prSlFRV1pQZGpKa1VSSVhYM1ZwZW1GMWJYVkRPVEpUYUhaalVHeDBNekJ2UVhjYUlrRkVjM0k1WmxNd1RsRXdSMnBrV1hCT05HdDJkbUZXUmpSWVVFcHJaelpPZW5jIiwiZmN2IjoiMyIsImVpIjoiX3VpemF1bXVDOTJTaHZjUGx0MzBvQXciLCJxYyI6IkNpTjBiM0FnY0c5eWRHRmliR1VnY0c5M1pYSWdZbUZ1YTNNZ1ptOXlJSFJ5WVhabGJCQUFmV1JMSUQ4IiwicXVlc3Rpb24iOiJTaG91bGQgSSBnZXQgYSAxMDAwMG1BaCBvciAyMDAwMG1BaCBwb3dlciBiYW5rPyIsImxrIjoiYzVQU0s4N0lMODFKVWNoVVNFOHRVVWhVTURRQWd0ekVESVg4SWdVakdMc2d2enkxU0NFcE1TOGJBQSIsImJzIjoiYzQyTk1RLUNNQkJHNDlySm1la21ZOVJvNVE4UVIyY0hCMTJ1ZU5ER1NrazVKZjU3RzRpeEdFMjQ2UnZlZXlmT1FoNDFNcGdHV0JNb2FoaHE1eG1WcFRCYThxQ3d1a0xoUExESEI5a3NuU2V6SDl3WFprMVZpcE5ZZG5WLTFnU3VpSVBoWVJlSnc2dGswWTdHLTdqSjlULXNzS2JVUEl5UHhVVXVOZ2Z0N3ZZQ2V5aUpBV0VydzkxMkdnS2J2dmVubGFVeVdUZTlZZ1lLUmdyR3luVHlBZyIsImlkIjoiZmNfX3VpemF1bXVDOTJTaHZjUGx0MzBvQXdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFFXMTVWekY2VFVJMlEyUldUMmt0U0VGQ1FVWlJhREpLV0ZoMlQyZFlVV3BJU2xwaWNVVTVMV1JFWjJOaWJVMW9WVk5sVEVnNFVUSnlXRVEwTFZoWGRFRnhhamhNTkZkVVFXaHhRMkpaY2pkR1prSlFRV1pQZGpKa1VSSVhYM1ZwZW1GMWJYVkRPVEpUYUhaalVHeDBNekJ2UVhjYUlrRkVjM0k1WmxNd1RsRXdSMnBrV1hCT05HdDJkbUZXUmpSWVVFcHJaelpPZW5jIiwiZmN2IjoiMyIsImVpIjoiX3VpemF1bXVDOTJTaHZjUGx0MzBvQXciLCJxYyI6IkNpTjBiM0FnY0c5eWRHRmliR1VnY0c5M1pYSWdZbUZ1YTNNZ1ptOXlJSFJ5WVhabGJCQUFmV1JMSUQ4IiwicXVlc3Rpb24iOiJTaG91bGQgSSBnZXQgYSAxMDAwMG1BaCBvciAyMDAwMG1BaCBwb3dlciBiYW5rPyIsImxrIjoiYzVQU0s4N0lMODFKVWNoVVNFOHRVVWhVTURRQWd0ekVESVg4SWdVakdMc2d2enkxU0NFcE1TOGJBQSIsImJzIjoiYzQyTk1RLUNNQkJHNDlySm1la21ZOVJvNVE4UVIyY0hCMTJ1ZU5ER1NrazVKZjU3RzRpeEdFMjQ2UnZlZXlmT1FoNDFNcGdHV0JNb2FoaHE1eG1WcFRCYThxQ3d1a0xoUExESEI5a3NuU2V6SDl3WFprMVZpcE5ZZG5WLTFnU3VpSVBoWVJlSnc2dGswWTdHLTdqSjlULXNzS2JVUEl5UHhVVXVOZ2Z0N3ZZQ2V5aUpBV0VydzkxMkdnS2J2dmVubGFVeVdUZTlZZ1lLUmdyR3luVHlBZyIsImlkIjoiZmNfX3VpemF1bXVDOTJTaHZjUGx0MzBvQXdfNSJ9"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "I Tested a Dozen of the Best Portable Chargers—These ...",
+      "link": "https://www.cntraveler.com/story/best-portable-chargers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVOB4EalLifjz79sR3HvcJa96O66qLOOiHbJbQJLrcUbDwBrCIlnwwauJVNaCUYNvuk0bMETF-Ihx2w33GUfoayTceWHhONQplgdy690epASurCO4Ew1i_62s5pBcqQyPE-F1iNHBo6jnB3A&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQFnoECBAQAQ&uoh=1",
+      "displayed_link": "https://www.cntraveler.com › story › best-portable-char...",
+      "date": "Aug 18, 2026",
+      "snippet": "Best overall · 10K 23W portable charger power bank · Best fast-charging power bank · Cougar power bank · Best magnetic charger · MagGo power bank.",
+      "snippet_highlighted_words": [
+        "10K 23W portable charger power bank"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Best overall · 10K 23W portable charger power bank · Best fast-charging power bank · Cougar power bank · Best magnetic charger · MagGo power bank.",
+          "source_info_link": "https://www.cntraveler.com/story/best-portable-chargers",
+          "icon": "https://serpapi.com/images/i/UklGRswAAABXRUJQVlA4IMAAAADQBACdASocABwAPrUurVanIacnG_DgFolpAAWAEXcRvLpT7_RuJgWeMbA_aDAhgAD--bzzTy72xCPpegL8uMHrffOF6uH6fchWfXhmP7Lkf1vy9fqlHdyGVKi7mEWDgT8trKedLg62Oe_nvI_IwmzX5dO725nDG7B8GRch2Q4IU57F_N--oNArgu_Mv5BkGBcGdP5J4_Vm5cZRSwx9Al2G_HqPhoX1PE_ZpNOo3LDivMV48-9KTdNk2DtHu5WAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVk9CNEVhbExpZmp6NzlzUjNIdmNKYTk2TzY2cUxPT2lIYkpiUUpMcmNVYkR3QnJDSWxud3dhdUpWTmFDVVlOdnVrMGJNRVRGLUloeDJ3MzNHVWZvYXlUY2VXSGhPTlFwbGdkeTY5MGVwQVN1ckNPNEV3MWlfNjJzNXBCY3FReVBFLUYxaU5IQm82am5CM0ESBBoCCAAa1QYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCvBggAEAAYACAAKnQKA3RvcBUAAAAAGgRiZXN0GgdiaWdnZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGghncmVhdGVzdBoGaXBob25lGgdsYXJnZXN0GgdyYXRpbmdzGghyZWxpYWJsZRoGcmV2aWV3GghzbWFsbGVzdComCghwb3J0YWJsZRU6pHpAGgZtb2JpbGUaDXBvcnRhYmxlcG93ZXIqTQoFcG93ZXIVfMIhQBoHY2hhcmdlchoIY2hhcmdlcnMaBmVuZXJneRoJcG93ZXJiYW5rGg1wb3J0YWJsZXBvd2VyGgpwb3dlcmJhbmtzKjwKBWJhbmtzFacrxD8aBGJhbmsaB2NoYXJnZXIaCGNoYXJnZXJzGglwb3dlcmJhbmsaCnBvd2VyYmFua3MqCgoDZm9yFQAAAAAqNgoGdHJhdmVsFcN6oj8aCXRyYXZlbGVycxoJdHJhdmVsaW5nGgp0cmF2ZWxsaW5nGgV0cmlwczKkAS9nb3RvP3VybD1DQUVTYndIck96QVZPQjRFYWxMaWZqejc5c1IzSHZjSmE5Nk82NnFMT09pSGJKYlFKTHJjVWJEd0JyQ0lsbnd3YXVKVk5hQ1VZTnZ1azBiTUVURi1JaHgydzMzR1Vmb2F5VGNlV0hoT05RcGxnZHk2OTBlcEFTdXJDTzRFdzFpXzYyczVwQmNxUXlQRS1GMWlOSEJvNmpuQjNBOkVJIFRlc3RlZCBhIERvemVuIG9mIHRoZSA8Yj5CZXN0IFBvcnRhYmxlIENoYXJnZXJzPC9iPuKAlFRoZXNlIEFyZSAuLi5CvAFCZXN0IG92ZXJhbGwgJm1pZGRvdDsgPGI-MTBLIDIzVyBwb3J0YWJsZSBjaGFyZ2VyIHBvd2VyIGJhbms8L2I-ICZtaWRkb3Q7IEJlc3QgZmFzdC1jaGFyZ2luZyBwb3dlciBiYW5rICZtaWRkb3Q7IENvdWdhciBwb3dlciBiYW5rICZtaWRkb3Q7IEJlc3QgbWFnbmV0aWMgY2hhcmdlciAmbWlkZG90OyBNYWdHbyBwb3dlciBiYW5rLkoDZm9yUgRiZXN0IgIQASorQ29udHJpYnV0aW5nIGVkaXRvciBhdCBDb25kw6kgTmFzdCBUcmF2ZWxlckgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVk9CNEVhbExpZmp6NzlzUjNIdmNKYTk2TzY2cUxPT2lIYkpiUUpMcmNVYkR3QnJDSWxud3dhdUpWTmFDVVlOdnVrMGJNRVRGLUloeDJ3MzNHVWZvYXlUY2VXSGhPTlFwbGdkeTY5MGVwQVN1ckNPNEV3MWlfNjJzNXBCY3FReVBFLUYxaU5IQm82am5CM0ESBBoCCAAa1QYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCvBggAEAAYACAAKnQKA3RvcBUAAAAAGgRiZXN0GgdiaWdnZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGghncmVhdGVzdBoGaXBob25lGgdsYXJnZXN0GgdyYXRpbmdzGghyZWxpYWJsZRoGcmV2aWV3GghzbWFsbGVzdComCghwb3J0YWJsZRU6pHpAGgZtb2JpbGUaDXBvcnRhYmxlcG93ZXIqTQoFcG93ZXIVfMIhQBoHY2hhcmdlchoIY2hhcmdlcnMaBmVuZXJneRoJcG93ZXJiYW5rGg1wb3J0YWJsZXBvd2VyGgpwb3dlcmJhbmtzKjwKBWJhbmtzFacrxD8aBGJhbmsaB2NoYXJnZXIaCGNoYXJnZXJzGglwb3dlcmJhbmsaCnBvd2VyYmFua3MqCgoDZm9yFQAAAAAqNgoGdHJhdmVsFcN6oj8aCXRyYXZlbGVycxoJdHJhdmVsaW5nGgp0cmF2ZWxsaW5nGgV0cmlwczKkAS9nb3RvP3VybD1DQUVTYndIck96QVZPQjRFYWxMaWZqejc5c1IzSHZjSmE5Nk82NnFMT09pSGJKYlFKTHJjVWJEd0JyQ0lsbnd3YXVKVk5hQ1VZTnZ1azBiTUVURi1JaHgydzMzR1Vmb2F5VGNlV0hoT05RcGxnZHk2OTBlcEFTdXJDTzRFdzFpXzYyczVwQmNxUXlQRS1GMWlOSEJvNmpuQjNBOkVJIFRlc3RlZCBhIERvemVuIG9mIHRoZSA8Yj5CZXN0IFBvcnRhYmxlIENoYXJnZXJzPC9iPuKAlFRoZXNlIEFyZSAuLi5CvAFCZXN0IG92ZXJhbGwgJm1pZGRvdDsgPGI-MTBLIDIzVyBwb3J0YWJsZSBjaGFyZ2VyIHBvd2VyIGJhbms8L2I-ICZtaWRkb3Q7IEJlc3QgZmFzdC1jaGFyZ2luZyBwb3dlciBiYW5rICZtaWRkb3Q7IENvdWdhciBwb3dlciBiYW5rICZtaWRkb3Q7IEJlc3QgbWFnbmV0aWMgY2hhcmdlciAmbWlkZG90OyBNYWdHbyBwb3dlciBiYW5rLkoDZm9yUgRiZXN0IgIQASorQ29udHJpYnV0aW5nIGVkaXRvciBhdCBDb25kw6kgTmFzdCBUcmF2ZWxlckgAWABoAA",
+      "source": "Condé Nast Traveler",
+      "read_more_link": "https://www.cntraveler.com/story/best-portable-chargers#:~:text=Best%20overall&text=10K%2023W%20portable%20charger%20power,bank&text=Best%20fast%2Dcharging%20power%20bank&text=Cougar%20power%20bank&text=Best%20magnetic%20charger&text=MagGo%20power%20bank"
+    },
+    {
+      "position": 2,
+      "title": "Best Travel Power Bank Recommendations? : r/onebag",
+      "link": "https://www.reddit.com/r/onebag/comments/1nf2eld/best_travel_power_bank_recommendations/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFVBg7M6Rx3g8HdcA4BmyLxY4C8QcPylextqgJKkqIua9D0es2fuaLfc0iszzQ7O9mCHt03Jw3doheBAY4aCOjCk7n0kdmdsuXKFRjsb3U1psvpEc_wR6meQ5J_hMYS4pYe_aQKrbdlO4GILJ37LUIfD3N3YCbDUUUZKYn-jzmO5t8KYEeF_WHI3MDmI&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQFnoECBQQAQ&uoh=1",
+      "displayed_link": "50+ comments · 1 year ago",
+      "snippet": "My personal recommendation would be a 10000 mah Powerbank. They pack very small (aukey pb-y55 or iniu b61). They charge reasonably fast and are ...",
+      "snippet_highlighted_words": [
+        "10000 mah Powerbank"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "My personal recommendation would be a 10000 mah Powerbank. They pack very small (aukey pb-y55 or iniu b61). They charge reasonably fast and are ...",
+          "source_info_link": "https://www.reddit.com/r/onebag/comments/1nf2eld/best_travel_power_bank_recommendations/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZWQmc3TTZSeDNnOEhkY0E0Qm15THhZNEM4UWNQeWxleHRxZ0pLa3FJdWE5RDBlczJmdWFMZmMwaXN6elE3TzltQ0h0MDNKdzNkb2hlQkFZNGFDT2pDazduMGtkbWRzdVhLRlJqc2IzVTFwc3ZwRWNfd1I2bWVRNUpfaE1ZUzRwWWVfYVFLcmJkbE80R0lMSjM3TFVJZkQzTjNZQ2JEVVVVWktZbi1qem1PNXQ4S1lFZUZfV0hJM01EbUkSBBoCCAAa4gYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC8BggAEAAYACAAKnQKA3RvcBVDbgdAGgRiZXN0GgdiaWdnZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGghncmVhdGVzdBoGaXBob25lGgdsYXJnZXN0GgdyYXRpbmdzGghyZWxpYWJsZRoGcmV2aWV3GghzbWFsbGVzdComCghwb3J0YWJsZRWUwzw_GgZtb2JpbGUaDXBvcnRhYmxlcG93ZXIqTQoFcG93ZXIVaHWsQBoHY2hhcmdlchoIY2hhcmdlcnMaBmVuZXJneRoJcG93ZXJiYW5rGg1wb3J0YWJsZXBvd2VyGgpwb3dlcmJhbmtzKjwKBWJhbmtzFZIMhT8aBGJhbmsaB2NoYXJnZXIaCGNoYXJnZXJzGglwb3dlcmJhbmsaCnBvd2VyYmFua3MqCgoDZm9yFQAAAAAqNgoGdHJhdmVsFQTFjUAaCXRyYXZlbGVycxoJdHJhdmVsaW5nGgp0cmF2ZWxsaW5nGgV0cmlwczLRAS9nb3RvP3VybD1DQUVTa0FFQjZ6c3dGVkJnN002UngzZzhIZGNBNEJteUx4WTRDOFFjUHlsZXh0cWdKS2txSXVhOUQwZXMyZnVhTGZjMGlzenpRN085bUNIdDAzSnczZG9oZUJBWTRhQ09qQ2s3bjBrZG1kc3VYS0ZSanNiM1UxcHN2cEVjX3dSNm1lUTVKX2hNWVM0cFllX2FRS3JiZGxPNEdJTEozN0xVSWZEM04zWUNiRFVVVVpLWW4tanptTzV0OEtZRWVGX1dISTNNRG1JOkI8Yj5CZXN0IFRyYXZlbCBQb3dlciBCYW5rPC9iPiBSZWNvbW1lbmRhdGlvbnM_IDogci9vbmViYWcgLSBSZWRkaXRCnwFNeSBwZXJzb25hbCByZWNvbW1lbmRhdGlvbiB3b3VsZCBiZSBhIDxiPjEwMDAwIG1haCBQb3dlcmJhbms8L2I-LiBUaGV5IHBhY2sgdmVyeSBzbWFsbCAoYXVrZXkgcGIteTU1IG9yIGluaXUgYjYxKS4gVGhleSBjaGFyZ2UgcmVhc29uYWJseSBmYXN0IGFuZCBhcmUmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZWQmc3TTZSeDNnOEhkY0E0Qm15THhZNEM4UWNQeWxleHRxZ0pLa3FJdWE5RDBlczJmdWFMZmMwaXN6elE3TzltQ0h0MDNKdzNkb2hlQkFZNGFDT2pDazduMGtkbWRzdVhLRlJqc2IzVTFwc3ZwRWNfd1I2bWVRNUpfaE1ZUzRwWWVfYVFLcmJkbE80R0lMSjM3TFVJZkQzTjNZQ2JEVVVVWktZbi1qem1PNXQ4S1lFZUZfV0hJM01EbUkSBBoCCAAa4gYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC8BggAEAAYACAAKnQKA3RvcBVDbgdAGgRiZXN0GgdiaWdnZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGghncmVhdGVzdBoGaXBob25lGgdsYXJnZXN0GgdyYXRpbmdzGghyZWxpYWJsZRoGcmV2aWV3GghzbWFsbGVzdComCghwb3J0YWJsZRWUwzw_GgZtb2JpbGUaDXBvcnRhYmxlcG93ZXIqTQoFcG93ZXIVaHWsQBoHY2hhcmdlchoIY2hhcmdlcnMaBmVuZXJneRoJcG93ZXJiYW5rGg1wb3J0YWJsZXBvd2VyGgpwb3dlcmJhbmtzKjwKBWJhbmtzFZIMhT8aBGJhbmsaB2NoYXJnZXIaCGNoYXJnZXJzGglwb3dlcmJhbmsaCnBvd2VyYmFua3MqCgoDZm9yFQAAAAAqNgoGdHJhdmVsFQTFjUAaCXRyYXZlbGVycxoJdHJhdmVsaW5nGgp0cmF2ZWxsaW5nGgV0cmlwczLRAS9nb3RvP3VybD1DQUVTa0FFQjZ6c3dGVkJnN002UngzZzhIZGNBNEJteUx4WTRDOFFjUHlsZXh0cWdKS2txSXVhOUQwZXMyZnVhTGZjMGlzenpRN085bUNIdDAzSnczZG9oZUJBWTRhQ09qQ2s3bjBrZG1kc3VYS0ZSanNiM1UxcHN2cEVjX3dSNm1lUTVKX2hNWVM0cFllX2FRS3JiZGxPNEdJTEozN0xVSWZEM04zWUNiRFVVVVpLWW4tanptTzV0OEtZRWVGX1dISTNNRG1JOkI8Yj5CZXN0IFRyYXZlbCBQb3dlciBCYW5rPC9iPiBSZWNvbW1lbmRhdGlvbnM_IDogci9vbmViYWcgLSBSZWRkaXRCnwFNeSBwZXJzb25hbCByZWNvbW1lbmRhdGlvbiB3b3VsZCBiZSBhIDxiPjEwMDAwIG1haCBQb3dlcmJhbms8L2I-LiBUaGV5IHBhY2sgdmVyeSBzbWFsbCAoYXVrZXkgcGIteTU1IG9yIGluaXUgYjYxKS4gVGhleSBjaGFyZ2UgcmVhc29uYWJseSBmYXN0IGFuZCBhcmUmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "Reddit · r/onebag",
+      "read_more_link": "https://www.reddit.com/r/onebag/comments/1nf2eld/best_travel_power_bank_recommendations/#:~:text=My%20personal%20recommendation%20would%20be,fast%20and%20are%20super%20tiny."
+    },
+    {
+      "position": 3,
+      "title": "Best Cell Phone Portable Power Banks",
+      "link": "https://www.amazon.com/Best-Sellers-Cell-Phone-Portable-Power-Banks/zgbs/wireless/7073960011",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlAEB6zswFZrK70hebnsNWmJjZd5vC2eWoJHoOn4O0lbUBLV0VIij9ViwL6sLCDY7p_d0cWVYO8HZNqkSvYLN0TvBp0pmlAwzERzOi1CdOy-PusAmn22wTrZ6CGU7IJ2Q4qisPtYxxt52WWScQyYicmsPLeGVXx8oc-FMPH5gW_9BSYO2e1BqJf0v94IUwl28_VewY6Sx&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQFnoECA0QAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › zgbs › wireless",
+      "snippet": "INIU 10000mAh 45W Fast Charging Portable Charger, Smaller Travel Power Bank | Flight-Safe, Detachable USB C Cable, Travel Essential, External Battery Phone ...",
+      "snippet_highlighted_words": [
+        "INIU 10000mAh 45W Fast Charging Portable Charger"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "INIU 10000mAh 45W Fast Charging Portable Charger, Smaller Travel Power Bank | Flight-Safe, Detachable USB C Cable, Travel Essential, External Battery Phone ...",
+          "source_info_link": "https://www.amazon.com/Best-Sellers-Cell-Phone-Portable-Power-Banks/zgbs/wireless/7073960011",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0Zacks3MGhlYm5zTldtSmpaZDV2QzJlV29KSG9PbjRPMGxiVUJMVjBWSWlqOVZpd0w2c0xDRFk3cF9kMGNXVllPOEhaTnFrU3ZZTE4wVHZCcDBwbWxBd3pFUnpPaTFDZE95LVB1c0FtbjIyd1RyWjZDR1U3SUoyUTRxaXNQdFl4eHQ1MldXU2NReVlpY21zUExlR1ZYeDhvYy1GTVBINWdXXzlCU1lPMmUxQnFKZjB2OTRJVXdsMjhfVmV3WTZTeBIEGgIIABr_BhICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQNkGCAAQABgAIAAqdAoDdG9wFdtsDTwaBGJlc3QaB2JpZ2dlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aBGdvb2QaCGdyZWF0ZXN0GgZpcGhvbmUaB2xhcmdlc3QaB3JhdGluZ3MaCHJlbGlhYmxlGgZyZXZpZXcaCHNtYWxsZXN0KiYKCHBvcnRhYmxlFWyHCkEaBm1vYmlsZRoNcG9ydGFibGVwb3dlcipNCgVwb3dlchXreAlBGgdjaGFyZ2VyGghjaGFyZ2VycxoGZW5lcmd5Gglwb3dlcmJhbmsaDXBvcnRhYmxlcG93ZXIaCnBvd2VyYmFua3MqPAoFYmFua3MVjmGmQBoEYmFuaxoHY2hhcmdlchoIY2hhcmdlcnMaCXBvd2VyYmFuaxoKcG93ZXJiYW5rcyoKCgNmb3IVAAAAACo2CgZ0cmF2ZWwVPbuoQBoJdHJhdmVsZXJzGgl0cmF2ZWxpbmcaCnRyYXZlbGxpbmcaBXRyaXBzMtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0Zacks3MGhlYm5zTldtSmpaZDV2QzJlV29KSG9PbjRPMGxiVUJMVjBWSWlqOVZpd0w2c0xDRFk3cF9kMGNXVllPOEhaTnFrU3ZZTE4wVHZCcDBwbWxBd3pFUnpPaTFDZE95LVB1c0FtbjIyd1RyWjZDR1U3SUoyUTRxaXNQdFl4eHQ1MldXU2NReVlpY21zUExlR1ZYeDhvYy1GTVBINWdXXzlCU1lPMmUxQnFKZjB2OTRJVXdsMjhfVmV3WTZTeDpOQW1hem9uIDxiPkJlc3Q8L2I-IFNlbGxlcnM6IDxiPkJlc3Q8L2I-IENlbGwgUGhvbmUgPGI-UG9ydGFibGUgUG93ZXIgQmFua3M8L2I-QqsBPGI-SU5JVSAxMDAwMG1BaCA0NVcgRmFzdCBDaGFyZ2luZyBQb3J0YWJsZSBDaGFyZ2VyPC9iPiwgU21hbGxlciBUcmF2ZWwgUG93ZXIgQmFuayB8IEZsaWdodC1TYWZlLCBEZXRhY2hhYmxlIFVTQiBDIENhYmxlLCBUcmF2ZWwgRXNzZW50aWFsLCBFeHRlcm5hbCBCYXR0ZXJ5IFBob25lJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0Zacks3MGhlYm5zTldtSmpaZDV2QzJlV29KSG9PbjRPMGxiVUJMVjBWSWlqOVZpd0w2c0xDRFk3cF9kMGNXVllPOEhaTnFrU3ZZTE4wVHZCcDBwbWxBd3pFUnpPaTFDZE95LVB1c0FtbjIyd1RyWjZDR1U3SUoyUTRxaXNQdFl4eHQ1MldXU2NReVlpY21zUExlR1ZYeDhvYy1GTVBINWdXXzlCU1lPMmUxQnFKZjB2OTRJVXdsMjhfVmV3WTZTeBIEGgIIABr_BhICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQNkGCAAQABgAIAAqdAoDdG9wFdtsDTwaBGJlc3QaB2JpZ2dlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aBGdvb2QaCGdyZWF0ZXN0GgZpcGhvbmUaB2xhcmdlc3QaB3JhdGluZ3MaCHJlbGlhYmxlGgZyZXZpZXcaCHNtYWxsZXN0KiYKCHBvcnRhYmxlFWyHCkEaBm1vYmlsZRoNcG9ydGFibGVwb3dlcipNCgVwb3dlchXreAlBGgdjaGFyZ2VyGghjaGFyZ2VycxoGZW5lcmd5Gglwb3dlcmJhbmsaDXBvcnRhYmxlcG93ZXIaCnBvd2VyYmFua3MqPAoFYmFua3MVjmGmQBoEYmFuaxoHY2hhcmdlchoIY2hhcmdlcnMaCXBvd2VyYmFuaxoKcG93ZXJiYW5rcyoKCgNmb3IVAAAAACo2CgZ0cmF2ZWwVPbuoQBoJdHJhdmVsZXJzGgl0cmF2ZWxpbmcaCnRyYXZlbGxpbmcaBXRyaXBzMtYBL2dvdG8_dXJsPUNBRVNsQUVCNnpzd0Zacks3MGhlYm5zTldtSmpaZDV2QzJlV29KSG9PbjRPMGxiVUJMVjBWSWlqOVZpd0w2c0xDRFk3cF9kMGNXVllPOEhaTnFrU3ZZTE4wVHZCcDBwbWxBd3pFUnpPaTFDZE95LVB1c0FtbjIyd1RyWjZDR1U3SUoyUTRxaXNQdFl4eHQ1MldXU2NReVlpY21zUExlR1ZYeDhvYy1GTVBINWdXXzlCU1lPMmUxQnFKZjB2OTRJVXdsMjhfVmV3WTZTeDpOQW1hem9uIDxiPkJlc3Q8L2I-IFNlbGxlcnM6IDxiPkJlc3Q8L2I-IENlbGwgUGhvbmUgPGI-UG9ydGFibGUgUG93ZXIgQmFua3M8L2I-QqsBPGI-SU5JVSAxMDAwMG1BaCA0NVcgRmFzdCBDaGFyZ2luZyBQb3J0YWJsZSBDaGFyZ2VyPC9iPiwgU21hbGxlciBUcmF2ZWwgUG93ZXIgQmFuayB8IEZsaWdodC1TYWZlLCBEZXRhY2hhYmxlIFVTQiBDIENhYmxlLCBUcmF2ZWwgRXNzZW50aWFsLCBFeHRlcm5hbCBCYXR0ZXJ5IFBob25lJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/Best-Sellers-Cell-Phone-Portable-Power-Banks/zgbs/wireless/7073960011#:~:text=INIU%2010000mAh%2045W%20Fast%20Charging,18%2017%20Samsung%20iPad%20etc"
+    },
+    {
+      "position": 4,
+      "title": "Best Power Banks for Backpacking of 2026, 20K Miles Hiked",
+      "link": "https://www.cleverhiker.com/backpacking/best-power-banks/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVjvJanzPsoD4Cb8U8n1y9PYMmscxfiAxeU2ocoHJ-H4EkmnwP0cSxHyjloGuCnP0S25fhXHGsjsuQIqXROagPFXCGsOfbJB_D6JzQzOUKf7suaN5WI43NP-kC27GzexeQ0DnIdRbXqK6hX8eH&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQFnoECA8QAQ&uoh=1",
+      "displayed_link": "https://www.cleverhiker.com › backpacking › best-pow...",
+      "date": "Jul 17, 2026",
+      "snippet": "The FLEXTAIL Zero Power 10000 is an ultralight and highly efficient power bank that stands out as one of the best options for backpackers who ...",
+      "snippet_highlighted_words": [
+        "FLEXTAIL Zero Power 10000"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The FLEXTAIL Zero Power 10000 is an ultralight and highly efficient power bank that stands out as one of the best options for backpackers who ...",
+          "source_info_link": "https://www.cleverhiker.com/backpacking/best-power-banks/",
+          "icon": "https://serpapi.com/images/i/UklGRkIBAABXRUJQVlA4IDYBAACQBgCdASocABwAPtEutFooIagoGAEAGglsAL5oqepBDIfHj2AcUkb9X3TLH-B_zdDJKVOsg8j-AqGIguoAAP72CXC4yi0pg_teW6RER-Bvpi1Jml-z7Vp5XsZP-4nsCHUQW5T27q47dDHMcTDQ8PL6AWNZzIuJnX9ejiqvyLUJGxtwmqcgQQWEoFjV1fDzSJQsdL1Ckl_HgsjBkucFSmGmFbDoI1P0JHuTUaIbCECWs4NFb318McSBFiOMDWLrzjSOeqM9w4nDMkY-1X1n4D9G-M_Et7IcDT5pwRMK7-386e-t_w7xe5D3YHNFHwTrZv_1PwjxV_0Vv_QXeuiZz6bS6nyyyidDIA6xz5UEE4Wp80RBiOaHPdL9onY947r6JRzicFfxafXiWY_478etHwlPk2amWAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmp2SmFuelBzb0Q0Q2I4VThuMXk5UFlNbXNjeGZpQXhlVTJvY29ISi1INEVrbW53UDBjU3hIeWpsb0d1Q25QMFMyNWZoWEhHc2pzdVFJcVhST2FnUEZYQ0dzT2ZiSkJfRDZKelF6T1VLZjdzdWFONVdJNDNOUC1rQzI3R3pleGVRMERuSWRSYlhxSzZoWDhlSBIEGgIIABqwBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIoGCAAQABgAIAAqdAoDdG9wFR5kVD8aBGJlc3QaB2JpZ2dlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aBGdvb2QaCGdyZWF0ZXN0GgZpcGhvbmUaB2xhcmdlc3QaB3JhdGluZ3MaCHJlbGlhYmxlGgZyZXZpZXcaCHNtYWxsZXN0KiYKCHBvcnRhYmxlFS9ibD4aBm1vYmlsZRoNcG9ydGFibGVwb3dlcipNCgVwb3dlchWksHlAGgdjaGFyZ2VyGghjaGFyZ2VycxoGZW5lcmd5Gglwb3dlcmJhbmsaDXBvcnRhYmxlcG93ZXIaCnBvd2VyYmFua3MqPAoFYmFua3MVpolvQBoEYmFuaxoHY2hhcmdlchoIY2hhcmdlcnMaCXBvd2VyYmFuaxoKcG93ZXJiYW5rcyoKCgNmb3IVAAAAACo2CgZ0cmF2ZWwVTK8iPhoJdHJhdmVsZXJzGgl0cmF2ZWxpbmcaCnRyYXZlbGxpbmcaBXRyaXBzMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmp2SmFuelBzb0Q0Q2I4VThuMXk5UFlNbXNjeGZpQXhlVTJvY29ISi1INEVrbW53UDBjU3hIeWpsb0d1Q25QMFMyNWZoWEhHc2pzdVFJcVhST2FnUEZYQ0dzT2ZiSkJfRDZKelF6T1VLZjdzdWFONVdJNDNOUC1rQzI3R3pleGVRMERuSWRSYlhxSzZoWDhlSDo9PGI-QmVzdCBQb3dlciBCYW5rczwvYj4gZm9yIEJhY2twYWNraW5nIG9mIDIwMjYgLSBDbGV2ZXJIaWtlckKdAVRoZSA8Yj5GTEVYVEFJTCBaZXJvIFBvd2VyIDEwMDAwPC9iPiBpcyBhbiB1bHRyYWxpZ2h0IGFuZCBoaWdobHkgZWZmaWNpZW50IHBvd2VyIGJhbmsgdGhhdCBzdGFuZHMgb3V0IGFzIG9uZSBvZiB0aGUgYmVzdCBvcHRpb25zIGZvciBiYWNrcGFja2VycyB3aG8mbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmp2SmFuelBzb0Q0Q2I4VThuMXk5UFlNbXNjeGZpQXhlVTJvY29ISi1INEVrbW53UDBjU3hIeWpsb0d1Q25QMFMyNWZoWEhHc2pzdVFJcVhST2FnUEZYQ0dzT2ZiSkJfRDZKelF6T1VLZjdzdWFONVdJNDNOUC1rQzI3R3pleGVRMERuSWRSYlhxSzZoWDhlSBIEGgIIABqwBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIoGCAAQABgAIAAqdAoDdG9wFR5kVD8aBGJlc3QaB2JpZ2dlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aBGdvb2QaCGdyZWF0ZXN0GgZpcGhvbmUaB2xhcmdlc3QaB3JhdGluZ3MaCHJlbGlhYmxlGgZyZXZpZXcaCHNtYWxsZXN0KiYKCHBvcnRhYmxlFS9ibD4aBm1vYmlsZRoNcG9ydGFibGVwb3dlcipNCgVwb3dlchWksHlAGgdjaGFyZ2VyGghjaGFyZ2VycxoGZW5lcmd5Gglwb3dlcmJhbmsaDXBvcnRhYmxlcG93ZXIaCnBvd2VyYmFua3MqPAoFYmFua3MVpolvQBoEYmFuaxoHY2hhcmdlchoIY2hhcmdlcnMaCXBvd2VyYmFuaxoKcG93ZXJiYW5rcyoKCgNmb3IVAAAAACo2CgZ0cmF2ZWwVTK8iPhoJdHJhdmVsZXJzGgl0cmF2ZWxpbmcaCnRyYXZlbGxpbmcaBXRyaXBzMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmp2SmFuelBzb0Q0Q2I4VThuMXk5UFlNbXNjeGZpQXhlVTJvY29ISi1INEVrbW53UDBjU3hIeWpsb0d1Q25QMFMyNWZoWEhHc2pzdVFJcVhST2FnUEZYQ0dzT2ZiSkJfRDZKelF6T1VLZjdzdWFONVdJNDNOUC1rQzI3R3pleGVRMERuSWRSYlhxSzZoWDhlSDo9PGI-QmVzdCBQb3dlciBCYW5rczwvYj4gZm9yIEJhY2twYWNraW5nIG9mIDIwMjYgLSBDbGV2ZXJIaWtlckKdAVRoZSA8Yj5GTEVYVEFJTCBaZXJvIFBvd2VyIDEwMDAwPC9iPiBpcyBhbiB1bHRyYWxpZ2h0IGFuZCBoaWdobHkgZWZmaWNpZW50IHBvd2VyIGJhbmsgdGhhdCBzdGFuZHMgb3V0IGFzIG9uZSBvZiB0aGUgYmVzdCBvcHRpb25zIGZvciBiYWNrcGFja2VycyB3aG8mbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "CleverHiker",
+      "read_more_link": "https://www.cleverhiker.com/backpacking/best-power-banks/#:~:text=The%20FLEXTAIL%20Zero%20Power%2010000,much%20weight%20to%20their%20pack."
+    },
+    {
+      "position": 5,
+      "title": "The Best Power Banks for All Your Devices",
+      "link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVYMnziSbkZGBeWHdXDNihuRWXYDtU0y2jxAqCuFyHba4PCNdd5z6IT8dWm3wDs3uUXyGydKngLNH7uUDoXv6GrINEMLUjQYdSlgHvfXjLEjzpxBxqlEEzPN63IR62NGet_Yzt_r_OLKXpH_liH4aJwh0wMOA&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQFnoECBIQAQ&uoh=1",
+      "displayed_link": "https://www.wired.com › Gear › Shopping",
+      "date": "Jul 19, 2026",
+      "snippet": "If you want something more portable, go for the Nimble Champ Pro. At 6.2 ounces, it's one of the lightest on the market. It's smaller than a ...",
+      "snippet_highlighted_words": [
+        "Nimble Champ Pro"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you want something more portable, go for the Nimble Champ Pro. At 6.2 ounces, it's one of the lightest on the market. It's smaller than a ...",
+          "source_info_link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/",
+          "icon": "https://serpapi.com/images/i/UklGRpYAAABXRUJQVlA4IIoAAABwBACdASocABwAPrUurVanIacnG_DgFolpAACI549pp9fbbzbDYAQbQlYMwAD--b3zlWwN_5VLvERKvw907x2UBkKlwYSfBjoMFauwNtlrZvf-qwL8ghLAT_70Ca9Qs78MrN7UlMUKuvIJvRc8S9CCWhxs5pp5OWYAN7WWzfZ-uAnhT8d0xRpAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVllNbnppU2JrWkdCZVdIZFhETmlodVJXWFlEdFUweTJqeEFxQ3VGeUhiYTRQQ05kZDV6NklUOGRXbTN3RHMzdVVYeUd5ZEtuZ0xOSDd1VURvWHY2R3JJTkVNTFVqUVlkU2xnSHZmWGpMRWp6cHhCeHFsRUV6UE42M0lSNjJOR2V0X1l6dF9yX09MS1hwSF9saUg0YUp3aDB3TU9BEgQaAggAGr0GEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlwYIABAAGAAgACp0CgN0b3AVld_PPhoEYmVzdBoHYmlnZ2VzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoIZ3JlYXRlc3QaBmlwaG9uZRoHbGFyZ2VzdBoHcmF0aW5ncxoIcmVsaWFibGUaBnJldmlldxoIc21hbGxlc3QqJgoIcG9ydGFibGUVHyfyPxoGbW9iaWxlGg1wb3J0YWJsZXBvd2VyKk0KBXBvd2VyFeD3i0AaB2NoYXJnZXIaCGNoYXJnZXJzGgZlbmVyZ3kaCXBvd2VyYmFuaxoNcG9ydGFibGVwb3dlchoKcG93ZXJiYW5rcyo8CgViYW5rcxXfM2hAGgRiYW5rGgdjaGFyZ2VyGghjaGFyZ2VycxoJcG93ZXJiYW5rGgpwb3dlcmJhbmtzKgoKA2ZvchUAAAAAKjYKBnRyYXZlbBVEhIM_Ggl0cmF2ZWxlcnMaCXRyYXZlbGluZxoKdHJhdmVsbGluZxoFdHJpcHMysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWWU1uemlTYmtaR0JlV0hkWEROaWh1UldYWUR0VTB5Mmp4QXFDdUZ5SGJhNFBDTmRkNXo2SVQ4ZFdtM3dEczN1VVh5R3lkS25nTE5IN3VVRG9YdjZHcklORU1MVWpRWWRTbGdIdmZYakxFanpweEJ4cWxFRXpQTjYzSVI2Mk5HZXRfWXp0X3JfT0xLWHBIX2xpSDRhSndoMHdNT0E6OFRoZSA8Yj5CZXN0IFBvd2VyIEJhbmtzPC9iPiBmb3IgQWxsIFlvdXIgRGV2aWNlcyAtIFdJUkVEQqQBSWYgeW91IHdhbnQgc29tZXRoaW5nIG1vcmUgcG9ydGFibGUsIGdvIGZvciB0aGUgPGI-TmltYmxlIENoYW1wIFBybzwvYj4uIEF0IDYuMiBvdW5jZXMsIGl0JiMzOTtzIG9uZSBvZiB0aGUgbGlnaHRlc3Qgb24gdGhlIG1hcmtldC4gSXQmIzM5O3Mgc21hbGxlciB0aGFuIGEmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAEqEFdyaXRlciBmb3IgV0lSRURIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVllNbnppU2JrWkdCZVdIZFhETmlodVJXWFlEdFUweTJqeEFxQ3VGeUhiYTRQQ05kZDV6NklUOGRXbTN3RHMzdVVYeUd5ZEtuZ0xOSDd1VURvWHY2R3JJTkVNTFVqUVlkU2xnSHZmWGpMRWp6cHhCeHFsRUV6UE42M0lSNjJOR2V0X1l6dF9yX09MS1hwSF9saUg0YUp3aDB3TU9BEgQaAggAGr0GEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlwYIABAAGAAgACp0CgN0b3AVld_PPhoEYmVzdBoHYmlnZ2VzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoIZ3JlYXRlc3QaBmlwaG9uZRoHbGFyZ2VzdBoHcmF0aW5ncxoIcmVsaWFibGUaBnJldmlldxoIc21hbGxlc3QqJgoIcG9ydGFibGUVHyfyPxoGbW9iaWxlGg1wb3J0YWJsZXBvd2VyKk0KBXBvd2VyFeD3i0AaB2NoYXJnZXIaCGNoYXJnZXJzGgZlbmVyZ3kaCXBvd2VyYmFuaxoNcG9ydGFibGVwb3dlchoKcG93ZXJiYW5rcyo8CgViYW5rcxXfM2hAGgRiYW5rGgdjaGFyZ2VyGghjaGFyZ2VycxoJcG93ZXJiYW5rGgpwb3dlcmJhbmtzKgoKA2ZvchUAAAAAKjYKBnRyYXZlbBVEhIM_Ggl0cmF2ZWxlcnMaCXRyYXZlbGluZxoKdHJhdmVsbGluZxoFdHJpcHMysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWWU1uemlTYmtaR0JlV0hkWEROaWh1UldYWUR0VTB5Mmp4QXFDdUZ5SGJhNFBDTmRkNXo2SVQ4ZFdtM3dEczN1VVh5R3lkS25nTE5IN3VVRG9YdjZHcklORU1MVWpRWWRTbGdIdmZYakxFanpweEJ4cWxFRXpQTjYzSVI2Mk5HZXRfWXp0X3JfT0xLWHBIX2xpSDRhSndoMHdNT0E6OFRoZSA8Yj5CZXN0IFBvd2VyIEJhbmtzPC9iPiBmb3IgQWxsIFlvdXIgRGV2aWNlcyAtIFdJUkVEQqQBSWYgeW91IHdhbnQgc29tZXRoaW5nIG1vcmUgcG9ydGFibGUsIGdvIGZvciB0aGUgPGI-TmltYmxlIENoYW1wIFBybzwvYj4uIEF0IDYuMiBvdW5jZXMsIGl0JiMzOTtzIG9uZSBvZiB0aGUgbGlnaHRlc3Qgb24gdGhlIG1hcmtldC4gSXQmIzM5O3Mgc21hbGxlciB0aGFuIGEmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAEqEFdyaXRlciBmb3IgV0lSRURIAFgAaAA",
+      "source": "WIRED",
+      "read_more_link": "https://www.wired.com/gallery/best-portable-chargers-power-banks/#:~:text=If%20you%20want%20something%20more,USB%2DC%20port%20on%20either%20end."
+    },
+    {
+      "position": 6,
+      "title": "Best Backpacking Battery Pack, Portable Chargers 2026",
+      "link": "https://www.adventurealan.com/best-backpacking-battery-pack/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVopaaz7qN-F9f2tn_-ZlyeuXxC93x967ZOMqtHtupdGWOWlKdXVKQBTatGjlKR36bafeiUh8qNeeVdA7skQyraqEcfxnrwmUwcFOwl0lIUGoTUwMr4PJiZMDonaj81sicHvsTaIRg99WbLi5vfewM&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQFnoECBEQAQ&uoh=1",
+      "displayed_link": "https://www.adventurealan.com › ... › Gear Guides",
+      "date": "May 28, 2026",
+      "snippet": "We'll help you choose the most ultralight and best backpacking battery pack, power bank, or portable charger. High power-to-weight.",
+      "snippet_highlighted_words": [
+        "best backpacking battery pack, power bank, or portable charger"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We'll help you choose the most ultralight and best backpacking battery pack, power bank, or portable charger. High power-to-weight.",
+          "source_info_link": "https://www.adventurealan.com/best-backpacking-battery-pack/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABQCQCdASocABwAPtEutFooIagoGAEAGgllAA5wnHL2Ll2DVZ80_yd_yPcC_VT_V9cD9cvZc_TkcUZSJ9FjObQYAN8IGrCVplrtIsa0aUQ2O6BuAAD-9g5GMdErTVNXa6Fm73tY5l6xsFJoTLtLw4_f3KRdZjUBPlZKSzZl2Da9w8t7YLKjw-y3PPpoq3DHPmjbTqgCWBMKDkJnAaSPx4FECZPkfiFo__AA7oMMd0mJ-GXy9BZunrWAlhzIHdfCaf6-E_qUpGXTnbIsqROtzdCLAuhsjTmRlQmKGvT9H--atOCFo4CI7VqsGA_hvGBkggnNB1dI3QPKSU28miuY_GsPHX1_rN805rBGZAJ2XAZb1r0U3eS2EL2U5Q1vXU6Aaer09F-wfW5uoo3p5862FI--eBoIPhRuPBaZo0kne9fV3PspCGPoVP1akWg4YdUQad0Yltx30sjoNUnO2m6c_zxEW5fpBoqnVN-NvLodezfZLngtULrXTfybf_uv-LfUNWs-idmdSmMmqX4MrPZkBvGBfqqmLKOuxsFQhJZHtEzGekQQt_ykeJ8Yt-TBOL6Jpz_hRn1T3gWD3lAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVm9wYWF6N3FOLUY5ZjJ0bl8tWmx5ZXVYeEM5M3g5NjdaT01xdEh0dXBkR1dPV2xLZFhWS1FCVGF0R2psS1IzNmJhZmVpVWg4cU5lZVZkQTdza1F5cmFxRWNmeG5yd21Vd2NGT3dsMGxJVUdvVFV3TXI0UEppWk1Eb25hajgxc2ljSHZzVGFJUmc5OVdiTGk1dmZld00SBBoCCAAaqwYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCFBggAEAAYACAAKnQKA3RvcBVd4yM-GgRiZXN0GgdiaWdnZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGghncmVhdGVzdBoGaXBob25lGgdsYXJnZXN0GgdyYXRpbmdzGghyZWxpYWJsZRoGcmV2aWV3GghzbWFsbGVzdComCghwb3J0YWJsZRW4c4tAGgZtb2JpbGUaDXBvcnRhYmxlcG93ZXIqTQoFcG93ZXIVXsMUQBoHY2hhcmdlchoIY2hhcmdlcnMaBmVuZXJneRoJcG93ZXJiYW5rGg1wb3J0YWJsZXBvd2VyGgpwb3dlcmJhbmtzKjwKBWJhbmtzFSmtmT8aBGJhbmsaB2NoYXJnZXIaCGNoYXJnZXJzGglwb3dlcmJhbmsaCnBvd2VyYmFua3MqCgoDZm9yFQAAAAAqNgoGdHJhdmVsFWtdWj0aCXRyYXZlbGVycxoJdHJhdmVsaW5nGgp0cmF2ZWxsaW5nGgV0cmlwczKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZvcGFhejdxTi1GOWYydG5fLVpseWV1WHhDOTN4OTY3Wk9NcXRIdHVwZEdXT1dsS2RYVktRQlRhdEdqbEtSMzZiYWZlaVVoOHFOZWVWZEE3c2tReXJhcUVjZnhucndtVXdjRk93bDBsSVVHb1RVd01yNFBKaVpNRG9uYWo4MXNpY0h2c1RhSVJnOTlXYkxpNXZmZXdNOkM8Yj5CZXN0PC9iPiBCYWNrcGFja2luZyBCYXR0ZXJ5IFBhY2ssIDxiPlBvcnRhYmxlIENoYXJnZXJzPC9iPiAyMDI2Qo4BV2UmIzM5O2xsIGhlbHAgeW91IGNob29zZSB0aGUgbW9zdCB1bHRyYWxpZ2h0IGFuZCA8Yj5iZXN0IGJhY2twYWNraW5nIGJhdHRlcnkgcGFjaywgcG93ZXIgYmFuaywgb3IgcG9ydGFibGUgY2hhcmdlcjwvYj4uIEhpZ2ggcG93ZXItdG8td2VpZ2h0LkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVm9wYWF6N3FOLUY5ZjJ0bl8tWmx5ZXVYeEM5M3g5NjdaT01xdEh0dXBkR1dPV2xLZFhWS1FCVGF0R2psS1IzNmJhZmVpVWg4cU5lZVZkQTdza1F5cmFxRWNmeG5yd21Vd2NGT3dsMGxJVUdvVFV3TXI0UEppWk1Eb25hajgxc2ljSHZzVGFJUmc5OVdiTGk1dmZld00SBBoCCAAaqwYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCFBggAEAAYACAAKnQKA3RvcBVd4yM-GgRiZXN0GgdiaWdnZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGghncmVhdGVzdBoGaXBob25lGgdsYXJnZXN0GgdyYXRpbmdzGghyZWxpYWJsZRoGcmV2aWV3GghzbWFsbGVzdComCghwb3J0YWJsZRW4c4tAGgZtb2JpbGUaDXBvcnRhYmxlcG93ZXIqTQoFcG93ZXIVXsMUQBoHY2hhcmdlchoIY2hhcmdlcnMaBmVuZXJneRoJcG93ZXJiYW5rGg1wb3J0YWJsZXBvd2VyGgpwb3dlcmJhbmtzKjwKBWJhbmtzFSmtmT8aBGJhbmsaB2NoYXJnZXIaCGNoYXJnZXJzGglwb3dlcmJhbmsaCnBvd2VyYmFua3MqCgoDZm9yFQAAAAAqNgoGdHJhdmVsFWtdWj0aCXRyYXZlbGVycxoJdHJhdmVsaW5nGgp0cmF2ZWxsaW5nGgV0cmlwczKqAS9nb3RvP3VybD1DQUVTZEFIck96QVZvcGFhejdxTi1GOWYydG5fLVpseWV1WHhDOTN4OTY3Wk9NcXRIdHVwZEdXT1dsS2RYVktRQlRhdEdqbEtSMzZiYWZlaVVoOHFOZWVWZEE3c2tReXJhcUVjZnhucndtVXdjRk93bDBsSVVHb1RVd01yNFBKaVpNRG9uYWo4MXNpY0h2c1RhSVJnOTlXYkxpNXZmZXdNOkM8Yj5CZXN0PC9iPiBCYWNrcGFja2luZyBCYXR0ZXJ5IFBhY2ssIDxiPlBvcnRhYmxlIENoYXJnZXJzPC9iPiAyMDI2Qo4BV2UmIzM5O2xsIGhlbHAgeW91IGNob29zZSB0aGUgbW9zdCB1bHRyYWxpZ2h0IGFuZCA8Yj5iZXN0IGJhY2twYWNraW5nIGJhdHRlcnkgcGFjaywgcG93ZXIgYmFuaywgb3IgcG9ydGFibGUgY2hhcmdlcjwvYj4uIEhpZ2ggcG93ZXItdG8td2VpZ2h0LkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Adventure Alan"
+    },
+    {
+      "position": 7,
+      "title": "The Best Power Stations of 2026 | Lab Tested & Ranked",
+      "link": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-power-station",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFbVNJ_WUPCGYLNCtEyyFyxx9y55JQ-xrpF3E59qpPvqwFrMnBUhlclEmac2R8j4ddQDiP2RwfPJfwqj5NCa4rZysUYa5cH0NRdKpxOngmxpaJ6x_0k39a1l5fo1ZOhsCPNoiiMN33yOvGAYG8mHH_SJl3XopweqMQ_Vbbeu3Gg&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQFnoECA4QAQ&uoh=1",
+      "displayed_link": "https://www.outdoorgearlab.com › best-power-station",
+      "snippet": "We put the top 14 power stations to a head-to-head test, including Jackery, Anker, EcoFlow, Goal Zero Yeti, and more, to find the best.",
+      "snippet_highlighted_words": [
+        "Jackery, Anker, EcoFlow, Goal Zero Yeti"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8
+          },
+          "extensions": [
+            "4.8",
+            "Review by RJ Spurrier"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "We put the top 14 power stations to a head-to-head test, including Jackery, Anker, EcoFlow, Goal Zero Yeti, and more, to find the best.",
+          "source_info_link": "https://www.outdoorgearlab.com/topics/camping-and-hiking/best-power-station",
+          "icon": "https://serpapi.com/images/i/UklGRgQBAABXRUJQVlA4IPgAAACwBQCdASocABwAPtEutFooIagoGAEAGglAGVblgnG9IA_YBbWrC69NNTE3U7HKS3fzQZ5laQAA_v7CoLTyYbwxMvrnRHTMw0_NueswdWWAdbqyh5lCst_qRADSTCiB4vnsz5dgwBW_AYlj5XS481RsaCh6MAr878DGykCXHkKnIUUn3kRCFs0vSq2lcG1Sw_at_CFTyyb1N7WtPyZxs_6mnroTUFilfCWdDlaXCRJLcnmmBWHSBcbOrml_OlOQk9rClZyXUWEy7eEb9N5q7v2MZbbDBLpgnX2El1dEw2HPncsjkbt4YP_aVshJhhUBvuqqmQjsq6rYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZiVk5KX1dVUENHWUxOQ3RFeXlGeXh4OXk1NUpRLXhycEYzRTU5cXBQdnF3RnJNbkJVaGxjbEVtYWMyUjhqNGRkUURpUDJSd2ZQSmZ3cWo1TkNhNHJaeXNVWWE1Y0gwTlJkS3B4T25nbXhwYUo2eF8wazM5YTFsNWZvMVpPaHNDUE5vaWlNTjMzeU92R0FZRzhtSEhfU0psM1hvcHdlcU1RX1ZiYmV1M0dnEgQaAggAGrcGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAkQYIABAAGAAgACp0CgN0b3AV-v2bPxoEYmVzdBoHYmlnZ2VzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoIZ3JlYXRlc3QaBmlwaG9uZRoHbGFyZ2VzdBoHcmF0aW5ncxoIcmVsaWFibGUaBnJldmlldxoIc21hbGxlc3QqJgoIcG9ydGFibGUVU96sPxoGbW9iaWxlGg1wb3J0YWJsZXBvd2VyKk0KBXBvd2VyFdpDxEAaB2NoYXJnZXIaCGNoYXJnZXJzGgZlbmVyZ3kaCXBvd2VyYmFuaxoNcG9ydGFibGVwb3dlchoKcG93ZXJiYW5rcyo8CgViYW5rcxXQYYc-GgRiYW5rGgdjaGFyZ2VyGghjaGFyZ2VycxoJcG93ZXJiYW5rGgpwb3dlcmJhbmtzKgoKA2ZvchUAAAAAKjYKBnRyYXZlbBUozic-Ggl0cmF2ZWxlcnMaCXRyYXZlbGluZxoKdHJhdmVsbGluZxoFdHJpcHMywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmJWTkpfV1VQQ0dZTE5DdEV5eUZ5eHg5eTU1SlEteHJwRjNFNTlxcFB2cXdGck1uQlVobGNsRW1hYzJSOGo0ZGRRRGlQMlJ3ZlBKZndxajVOQ2E0clp5c1VZYTVjSDBOUmRLcHhPbmdteHBhSjZ4XzBrMzlhMWw1Zm8xWk9oc0NQTm9paU1OMzN5T3ZHQVlHOG1ISF9TSmwzWG9wd2VxTVFfVmJiZXUzR2c6OVRoZSA8Yj5CZXN0IFBvd2VyPC9iPiBTdGF0aW9ucyBvZiAyMDI2IC0gT3V0ZG9vciBHZWFyIExhYkKOAVdlIHB1dCB0aGUgdG9wIDE0IHBvd2VyIHN0YXRpb25zIHRvIGEgaGVhZC10by1oZWFkIHRlc3QsIGluY2x1ZGluZyA8Yj5KYWNrZXJ5LCBBbmtlciwgRWNvRmxvdywgR29hbCBaZXJvIFlldGk8L2I-LCBhbmQgbW9yZSwgdG8gZmluZCB0aGUgYmVzdC5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZiVk5KX1dVUENHWUxOQ3RFeXlGeXh4OXk1NUpRLXhycEYzRTU5cXBQdnF3RnJNbkJVaGxjbEVtYWMyUjhqNGRkUURpUDJSd2ZQSmZ3cWo1TkNhNHJaeXNVWWE1Y0gwTlJkS3B4T25nbXhwYUo2eF8wazM5YTFsNWZvMVpPaHNDUE5vaWlNTjMzeU92R0FZRzhtSEhfU0psM1hvcHdlcU1RX1ZiYmV1M0dnEgQaAggAGrcGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAkQYIABAAGAAgACp0CgN0b3AV-v2bPxoEYmVzdBoHYmlnZ2VzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoIZ3JlYXRlc3QaBmlwaG9uZRoHbGFyZ2VzdBoHcmF0aW5ncxoIcmVsaWFibGUaBnJldmlldxoIc21hbGxlc3QqJgoIcG9ydGFibGUVU96sPxoGbW9iaWxlGg1wb3J0YWJsZXBvd2VyKk0KBXBvd2VyFdpDxEAaB2NoYXJnZXIaCGNoYXJnZXJzGgZlbmVyZ3kaCXBvd2VyYmFuaxoNcG9ydGFibGVwb3dlchoKcG93ZXJiYW5rcyo8CgViYW5rcxXQYYc-GgRiYW5rGgdjaGFyZ2VyGghjaGFyZ2VycxoJcG93ZXJiYW5rGgpwb3dlcmJhbmtzKgoKA2ZvchUAAAAAKjYKBnRyYXZlbBUozic-Ggl0cmF2ZWxlcnMaCXRyYXZlbGluZxoKdHJhdmVsbGluZxoFdHJpcHMywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmJWTkpfV1VQQ0dZTE5DdEV5eUZ5eHg5eTU1SlEteHJwRjNFNTlxcFB2cXdGck1uQlVobGNsRW1hYzJSOGo0ZGRRRGlQMlJ3ZlBKZndxajVOQ2E0clp5c1VZYTVjSDBOUmRLcHhPbmdteHBhSjZ4XzBrMzlhMWw1Zm8xWk9oc0NQTm9paU1OMzN5T3ZHQVlHOG1ISF9TSmwzWG9wd2VxTVFfVmJiZXUzR2c6OVRoZSA8Yj5CZXN0IFBvd2VyPC9iPiBTdGF0aW9ucyBvZiAyMDI2IC0gT3V0ZG9vciBHZWFyIExhYkKOAVdlIHB1dCB0aGUgdG9wIDE0IHBvd2VyIHN0YXRpb25zIHRvIGEgaGVhZC10by1oZWFkIHRlc3QsIGluY2x1ZGluZyA8Yj5KYWNrZXJ5LCBBbmtlciwgRWNvRmxvdywgR29hbCBaZXJvIFlldGk8L2I-LCBhbmQgbW9yZSwgdG8gZmluZCB0aGUgYmVzdC5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "GearLab"
+    },
+    {
+      "position": 8,
+      "title": "Portable Chargers & Power Banks",
+      "link": "https://www.bestbuy.com/site/cell-phone-chargers-cables/external-battery-packs/pcmcat326000050010.c?id=pcmcat326000050010",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsQEB6zswFQ6SZ4_bp09CONym4zJVbxuEI_OIs3O9qnlZCwOxZ7239OqIEEoEcIitDJmnZinfYtWzV8i_UYIoBMBD6Wq3l0hNok59hJjkOFlFXet3-Zeq5ICoR5DwjcM8fVEpSBGij-27wZKObjciORRkmccJQkA9mOjWoQdTQOmenTc-oJD4as86WtLo2Q5fiqNArK_vKTpD3rpGVk0BEcpOMpmpDgZI9ic7mHprqMX-5AE&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQFnoECGgQAQ&uoh=1",
+      "displayed_link": "https://www.bestbuy.com › site › pcmcat326000050010",
+      "snippet": "Portable Chargers & Power Banks (907) · Samsung - Magnetic Wireless Battery Pack - Gray · Energizer - 10,000mAh SLIM METAL 20W Magnetic Wireless Qi/Qi2.",
+      "snippet_highlighted_words": [
+        "Samsung - Magnetic Wireless Battery Pack"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "price_from": 4,
+            "price_to": 140,
+            "currency": "$",
+            "store_nearby_mi": 29.0,
+            "day_returns": 15
+          },
+          "extensions": [
+            "4.6",
+            "store rating (1.8K)",
+            "$4 to $140",
+            "Store nearby (29.0 mi)",
+            "15-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Portable Chargers & Power Banks (907) · Samsung - Magnetic Wireless Battery Pack - Gray · Energizer - 10,000mAh SLIM METAL 20W Magnetic Wireless Qi/Qi2.",
+          "source_info_link": "https://www.bestbuy.com/site/cell-phone-chargers-cables/external-battery-packs/pcmcat326000050010.c?id=pcmcat326000050010",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZRNlNaNF9icDA5Q09OeW00ekpWYnh1RUlfT0lzM085cW5sWkN3T3haNzIzOU9xSUVFb0VjSWl0REptblppbmZZdFd6VjhpX1VZSW9CTUJENldxM2wwaE5vazU5aEpqa09GbEZYZXQzLVplcTVJQ29SNUR3amNNOGZWRXBTQkdpai0yN3daS09iamNpT1JSa21jY0pRa0E5bU9qV29RZFRRT21lblRjLW9KRDRhczg2V3RMbzJRNWZpcU5BcktfdktUcEQzcnBHVmswQkVjcE9NcG1wRGdaSTlpYzdtSHBycU1YLTVBRRIEGgIIABqhBxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPsGCAAQABgAIAAqdAoDdG9wFeJwzz8aBGJlc3QaB2JpZ2dlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aBGdvb2QaCGdyZWF0ZXN0GgZpcGhvbmUaB2xhcmdlc3QaB3JhdGluZ3MaCHJlbGlhYmxlGgZyZXZpZXcaCHNtYWxsZXN0KiYKCHBvcnRhYmxlFXjYr0AaBm1vYmlsZRoNcG9ydGFibGVwb3dlcipNCgVwb3dlchUl38lAGgdjaGFyZ2VyGghjaGFyZ2VycxoGZW5lcmd5Gglwb3dlcmJhbmsaDXBvcnRhYmxlcG93ZXIaCnBvd2VyYmFua3MqPAoFYmFua3MVUCuSQBoEYmFuaxoHY2hhcmdlchoIY2hhcmdlcnMaCXBvd2VyYmFuaxoKcG93ZXJiYW5rcyoKCgNmb3IVAAAAACo2CgZ0cmF2ZWwV8MqHPhoJdHJhdmVsZXJzGgl0cmF2ZWxpbmcaCnRyYXZlbGxpbmcaBXRyaXBzMv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZRNlNaNF9icDA5Q09OeW00ekpWYnh1RUlfT0lzM085cW5sWkN3T3haNzIzOU9xSUVFb0VjSWl0REptblppbmZZdFd6VjhpX1VZSW9CTUJENldxM2wwaE5vazU5aEpqa09GbEZYZXQzLVplcTVJQ29SNUR3amNNOGZWRXBTQkdpai0yN3daS09iamNpT1JSa21jY0pRa0E5bU9qV29RZFRRT21lblRjLW9KRDRhczg2V3RMbzJRNWZpcU5BcktfdktUcEQzcnBHVmswQkVjcE9NcG1wRGdaSTlpYzdtSHBycU1YLTVBRTpDPGI-UG9ydGFibGUgQ2hhcmdlcnM8L2I-ICZhbXA7IDxiPlBvd2VyIEJhbmtzPC9iPiAtIDxiPkJlc3Q8L2I-IEJ1eUKxAVBvcnRhYmxlIENoYXJnZXJzICZhbXA7IFBvd2VyIEJhbmtzICg5MDcpICZtaWRkb3Q7IDxiPlNhbXN1bmcgLSBNYWduZXRpYyBXaXJlbGVzcyBCYXR0ZXJ5IFBhY2s8L2I-IC0gR3JheSAmbWlkZG90OyBFbmVyZ2l6ZXIgLSAxMCwwMDBtQWggU0xJTSBNRVRBTCAyMFcgTWFnbmV0aWMgV2lyZWxlc3MgUWkvUWkyLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZRNlNaNF9icDA5Q09OeW00ekpWYnh1RUlfT0lzM085cW5sWkN3T3haNzIzOU9xSUVFb0VjSWl0REptblppbmZZdFd6VjhpX1VZSW9CTUJENldxM2wwaE5vazU5aEpqa09GbEZYZXQzLVplcTVJQ29SNUR3amNNOGZWRXBTQkdpai0yN3daS09iamNpT1JSa21jY0pRa0E5bU9qV29RZFRRT21lblRjLW9KRDRhczg2V3RMbzJRNWZpcU5BcktfdktUcEQzcnBHVmswQkVjcE9NcG1wRGdaSTlpYzdtSHBycU1YLTVBRRIEGgIIABqhBxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPsGCAAQABgAIAAqdAoDdG9wFeJwzz8aBGJlc3QaB2JpZ2dlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aBGdvb2QaCGdyZWF0ZXN0GgZpcGhvbmUaB2xhcmdlc3QaB3JhdGluZ3MaCHJlbGlhYmxlGgZyZXZpZXcaCHNtYWxsZXN0KiYKCHBvcnRhYmxlFXjYr0AaBm1vYmlsZRoNcG9ydGFibGVwb3dlcipNCgVwb3dlchUl38lAGgdjaGFyZ2VyGghjaGFyZ2VycxoGZW5lcmd5Gglwb3dlcmJhbmsaDXBvcnRhYmxlcG93ZXIaCnBvd2VyYmFua3MqPAoFYmFua3MVUCuSQBoEYmFuaxoHY2hhcmdlchoIY2hhcmdlcnMaCXBvd2VyYmFuaxoKcG93ZXJiYW5rcyoKCgNmb3IVAAAAACo2CgZ0cmF2ZWwV8MqHPhoJdHJhdmVsZXJzGgl0cmF2ZWxpbmcaCnRyYXZlbGxpbmcaBXRyaXBzMv0BL2dvdG8_dXJsPUNBRVNzUUVCNnpzd0ZRNlNaNF9icDA5Q09OeW00ekpWYnh1RUlfT0lzM085cW5sWkN3T3haNzIzOU9xSUVFb0VjSWl0REptblppbmZZdFd6VjhpX1VZSW9CTUJENldxM2wwaE5vazU5aEpqa09GbEZYZXQzLVplcTVJQ29SNUR3amNNOGZWRXBTQkdpai0yN3daS09iamNpT1JSa21jY0pRa0E5bU9qV29RZFRRT21lblRjLW9KRDRhczg2V3RMbzJRNWZpcU5BcktfdktUcEQzcnBHVmswQkVjcE9NcG1wRGdaSTlpYzdtSHBycU1YLTVBRTpDPGI-UG9ydGFibGUgQ2hhcmdlcnM8L2I-ICZhbXA7IDxiPlBvd2VyIEJhbmtzPC9iPiAtIDxiPkJlc3Q8L2I-IEJ1eUKxAVBvcnRhYmxlIENoYXJnZXJzICZhbXA7IFBvd2VyIEJhbmtzICg5MDcpICZtaWRkb3Q7IDxiPlNhbXN1bmcgLSBNYWduZXRpYyBXaXJlbGVzcyBCYXR0ZXJ5IFBhY2s8L2I-IC0gR3JheSAmbWlkZG90OyBFbmVyZ2l6ZXIgLSAxMCwwMDBtQWggU0xJTSBNRVRBTCAyMFcgTWFnbmV0aWMgV2lyZWxlc3MgUWkvUWkyLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Best Buy",
+      "read_more_link": "https://www.bestbuy.com/site/cell-phone-chargers-cables/external-battery-packs/pcmcat326000050010.c?id=pcmcat326000050010#:~:text=Portable%20Chargers%20%26%20Power%20Banks,(907)&text=Samsung%20%2D%20Magnetic%20Wireless%20Battery,Pack%20%2D%20Gray&text=Energizer%20%2D%2010%2C000mAh%20SLIM%20METAL,Display%2C%20%26%20USB%2DC%20%2D%20Black"
+    },
+    {
+      "position": 9,
+      "title": "Power Banks & Battery Packs | REI Co-op",
+      "link": "https://www.rei.com/c/power-banks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVIsag8ImwwTXwVccfH010rFPHWiw_8c2ksdyZtjOSQoBq3Rq0TX5Vamz441EJ9kxd4_2MYDEIyoVhrOuXNaZ9_w3-cjxk4vf6ukIpyQjf3b79jvdz&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQFnoECGYQAQ&uoh=1",
+      "displayed_link": "https://www.rei.com › Electronics › Portable Power",
+      "snippet": "The Best Portable Power Banks: Tested. We tested a range of portable power banks and larger portable power stations to find the best devices at the co-op to ...",
+      "snippet_highlighted_words": [
+        "Best Portable Power Banks",
+        "portable power banks",
+        "portable",
+        "best"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "price_from": 35,
+            "price_to": 150,
+            "currency": "$",
+            "store_nearby_mi": 22.7
+          },
+          "extensions": [
+            "4.8",
+            "store rating (1.8K)",
+            "$35 to $150",
+            "Store nearby (22.7 mi)",
+            "Free in-store returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Best Portable Power Banks: Tested. We tested a range of portable power banks and larger portable power stations to find the best devices at the co-op to ...",
+          "source_info_link": "https://www.rei.com/c/power-banks",
+          "icon": "https://serpapi.com/images/i/UklGRpAAAABXRUJQVlA4IIQAAAAQBQCdASocABwAPtFAtFooIqgoFAEAGglnAMzQEQmhltoy7xLW1t0QE8EduFQNUJgAAP72B8KPCu0Dme1HAmHNFIVDS_Lwe-trIcWAw9Fua6FJdG9zfz9Bk7R2bqnCcew5XOklae7I9hhiCMhWLurpEPrXdRDdJ4c1JY1BPsXVUHYUAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVklzYWc4SW13d1RYd1ZjY2ZIMDEwckZQSFdpd184YzJrc2R5WnRqT1NRb0JxM1JxMFRYNVZhbXo0NDFFSjlreGQ0XzJNWURFSXlvVmhyT3VYTmFaOV93My1janhrNHZmNnVrSXB5UWpmM2I3OWp2ZHoSBBoCCAAaqQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCDBggAEAAYACAAKnQKA3RvcBW1Z9Y-GgRiZXN0GgdiaWdnZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGghncmVhdGVzdBoGaXBob25lGgdsYXJnZXN0GgdyYXRpbmdzGghyZWxpYWJsZRoGcmV2aWV3GghzbWFsbGVzdComCghwb3J0YWJsZRWBjJI_GgZtb2JpbGUaDXBvcnRhYmxlcG93ZXIqTQoFcG93ZXIV0S-SQBoHY2hhcmdlchoIY2hhcmdlcnMaBmVuZXJneRoJcG93ZXJiYW5rGg1wb3J0YWJsZXBvd2VyGgpwb3dlcmJhbmtzKjwKBWJhbmtzFajWcUAaBGJhbmsaB2NoYXJnZXIaCGNoYXJnZXJzGglwb3dlcmJhbmsaCnBvd2VyYmFua3MqCgoDZm9yFQAAAAAqNgoGdHJhdmVsFdaZ1j4aCXRyYXZlbGVycxoJdHJhdmVsaW5nGgp0cmF2ZWxsaW5nGgV0cmlwczKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZJc2FnOEltd3dUWHdWY2NmSDAxMHJGUEhXaXdfOGMya3NkeVp0ak9TUW9CcTNScTBUWDVWYW16NDQxRUo5a3hkNF8yTVlERUl5b1Zock91WE5hWjlfdzMtY2p4azR2ZjZ1a0lweVFqZjNiNzlqdmR6OjI8Yj5Qb3dlciBCYW5rczwvYj4gJmFtcDsgQmF0dGVyeSBQYWNrcyB8IFJFSSBDby1vcELBAVRoZSA8Yj5CZXN0IFBvcnRhYmxlIFBvd2VyIEJhbmtzPC9iPjogVGVzdGVkLiBXZSB0ZXN0ZWQgYSByYW5nZSBvZiA8Yj5wb3J0YWJsZSBwb3dlciBiYW5rczwvYj4gYW5kIGxhcmdlciA8Yj5wb3J0YWJsZTwvYj4gcG93ZXIgc3RhdGlvbnMgdG8gZmluZCB0aGUgPGI-YmVzdDwvYj4gZGV2aWNlcyBhdCB0aGUgY28tb3AgdG8mbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVklzYWc4SW13d1RYd1ZjY2ZIMDEwckZQSFdpd184YzJrc2R5WnRqT1NRb0JxM1JxMFRYNVZhbXo0NDFFSjlreGQ0XzJNWURFSXlvVmhyT3VYTmFaOV93My1janhrNHZmNnVrSXB5UWpmM2I3OWp2ZHoSBBoCCAAaqQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCDBggAEAAYACAAKnQKA3RvcBW1Z9Y-GgRiZXN0GgdiaWdnZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGghncmVhdGVzdBoGaXBob25lGgdsYXJnZXN0GgdyYXRpbmdzGghyZWxpYWJsZRoGcmV2aWV3GghzbWFsbGVzdComCghwb3J0YWJsZRWBjJI_GgZtb2JpbGUaDXBvcnRhYmxlcG93ZXIqTQoFcG93ZXIV0S-SQBoHY2hhcmdlchoIY2hhcmdlcnMaBmVuZXJneRoJcG93ZXJiYW5rGg1wb3J0YWJsZXBvd2VyGgpwb3dlcmJhbmtzKjwKBWJhbmtzFajWcUAaBGJhbmsaB2NoYXJnZXIaCGNoYXJnZXJzGglwb3dlcmJhbmsaCnBvd2VyYmFua3MqCgoDZm9yFQAAAAAqNgoGdHJhdmVsFdaZ1j4aCXRyYXZlbGVycxoJdHJhdmVsaW5nGgp0cmF2ZWxsaW5nGgV0cmlwczKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZJc2FnOEltd3dUWHdWY2NmSDAxMHJGUEhXaXdfOGMya3NkeVp0ak9TUW9CcTNScTBUWDVWYW16NDQxRUo5a3hkNF8yTVlERUl5b1Zock91WE5hWjlfdzMtY2p4azR2ZjZ1a0lweVFqZjNiNzlqdmR6OjI8Yj5Qb3dlciBCYW5rczwvYj4gJmFtcDsgQmF0dGVyeSBQYWNrcyB8IFJFSSBDby1vcELBAVRoZSA8Yj5CZXN0IFBvcnRhYmxlIFBvd2VyIEJhbmtzPC9iPjogVGVzdGVkLiBXZSB0ZXN0ZWQgYSByYW5nZSBvZiA8Yj5wb3J0YWJsZSBwb3dlciBiYW5rczwvYj4gYW5kIGxhcmdlciA8Yj5wb3J0YWJsZTwvYj4gcG93ZXIgc3RhdGlvbnMgdG8gZmluZCB0aGUgPGI-YmVzdDwvYj4gZGV2aWNlcyBhdCB0aGUgY28tb3AgdG8mbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "REI",
+      "read_more_link": "https://www.rei.com/c/power-banks#:~:text=The%20Best%20Portable%20Power%20Banks%3A,Tested"
+    },
+    {
+      "position": 10,
+      "title": "7 Best TSA-approved Portable Chargers",
+      "link": "https://www.travelandleisure.com/airline-power-bank-ban-tsa-approved-portable-chargers-11999106",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFeFsruobQPtJ66S0a9eaM6H6J2dba-rQsXVyYMzHChFBPdkYQ9ueVHcDzMVatvGHRQAj5kx98kPizidEk9mnY9o-Xlp8OCnjZuk8btzUCyOF1gNkosvPPArz0IvA0AUnlOZp5wScJcQkmyUoXZUCk3QDuKhFvTInK0pYVHnRy1YcOBu0gfPatsCjWx4oui_pILcS&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQFnoECGkQAQ&uoh=1",
+      "displayed_link": "https://www.travelandleisure.com › ... › Tech Essentials",
+      "date": "Jun 26, 2026",
+      "snippet": "Anker PowerCore 10,000mAh Power Bank ... With thousands of five-star ratings, this Amazon best-seller has become a go-to for frequent travelers.",
+      "snippet_highlighted_words": [
+        "Anker PowerCore 10,000mAh Power Bank"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Anker Powercore 10,000mah...",
+            "link": "https://www.travelandleisure.com/airline-power-bank-ban-tsa-approved-portable-chargers-11999106#:~:text=Anker%20PowerCore%2010%2C000mAh%20Power%20Bank"
+          },
+          {
+            "title": "Anker 10,000mah Portable...",
+            "link": "https://www.travelandleisure.com/airline-power-bank-ban-tsa-approved-portable-chargers-11999106#:~:text=.-,Anker%2010%2C000mAh%20Portable%20Charger"
+          },
+          {
+            "title": "Gxorul 10,000mah Magnetic...",
+            "link": "https://www.travelandleisure.com/airline-power-bank-ban-tsa-approved-portable-chargers-11999106#:~:text=.-,Gxorul%2010%2C000mAh%20Magnetic%20Portable%20Charger"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Anker PowerCore 10,000mAh Power Bank ... With thousands of five-star ratings, this Amazon best-seller has become a go-to for frequent travelers.",
+          "source_info_link": "https://www.travelandleisure.com/airline-power-bank-ban-tsa-approved-portable-chargers-11999106",
+          "icon": "https://serpapi.com/images/i/UklGRq4AAABXRUJQVlA4IKIAAABwBACdASocABwAPtFAtFooIqgoFAEAGglpAARAULNq1daQvRLBox1Qsgs1AAD-93JIg_92mEne0HxlzHX8qwrE3kj1u-FnLSKWT9x2f3_G6q0ucc3sdBaI1_Fc2MQZj40JohGDrR3N-2ggWyfz-fz2f4m_7jHvaQaMl0Gxh0Layf7l_z6J_Om664ot2bnvmRTj_ZC1Bp__kFU__TJ_ysAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZlRnNydW9iUVB0SjY2UzBhOWVhTTZINkoyZGJhLXJRc1hWeVlNekhDaEZCUGRrWVE5dWVWSGNEek1WYXR2R0hSUUFqNWt4OThrUGl6aWRFazltblk5by1YbHA4T0Nualp1azhidHpVQ3lPRjFnTmtvc3ZQUEFyejBJdkEwQVVubE9acDV3U2NKY1FrbXlVb1haVUNrM1FEdUtoRnZUSW5LMHBZVkhuUnkxWWNPQnUwZ2ZQYXRzQ2pXeDRvdWlfcElMY1MSBBoCCAAa8AYSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAggBegCCQMgGCAAQABgAIAAqdAoDdG9wFaoikz4aBGJlc3QaB2JpZ2dlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aBGdvb2QaCGdyZWF0ZXN0GgZpcGhvbmUaB2xhcmdlc3QaB3JhdGluZ3MaCHJlbGlhYmxlGgZyZXZpZXcaCHNtYWxsZXN0KiYKCHBvcnRhYmxlFULyqEAaBm1vYmlsZRoNcG9ydGFibGVwb3dlcipNCgVwb3dlchX9Y2dAGgdjaGFyZ2VyGghjaGFyZ2VycxoGZW5lcmd5Gglwb3dlcmJhbmsaDXBvcnRhYmxlcG93ZXIaCnBvd2VyYmFua3MqPAoFYmFua3MVf4fzPxoEYmFuaxoHY2hhcmdlchoIY2hhcmdlcnMaCXBvd2VyYmFuaxoKcG93ZXJiYW5rcyoKCgNmb3IVAAAAACo2CgZ0cmF2ZWwViBB7QBoJdHJhdmVsZXJzGgl0cmF2ZWxpbmcaCnRyYXZlbGxpbmcaBXRyaXBzMtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZlRnNydW9iUVB0SjY2UzBhOWVhTTZINkoyZGJhLXJRc1hWeVlNekhDaEZCUGRrWVE5dWVWSGNEek1WYXR2R0hSUUFqNWt4OThrUGl6aWRFazltblk5by1YbHA4T0Nualp1azhidHpVQ3lPRjFnTmtvc3ZQUEFyejBJdkEwQVVubE9acDV3U2NKY1FrbXlVb1haVUNrM1FEdUtoRnZUSW5LMHBZVkhuUnkxWWNPQnUwZ2ZQYXRzQ2pXeDRvdWlfcElMY1M6TTcgPGI-QmVzdDwvYj4gVFNBLWFwcHJvdmVkIDxiPlBvcnRhYmxlIENoYXJnZXJzPC9iPiAtIDxiPlRyYXZlbDwvYj4gKyBMZWlzdXJlQpcBPGI-QW5rZXIgUG93ZXJDb3JlIDEwLDAwMG1BaCBQb3dlciBCYW5rPC9iPiAuLi4gV2l0aCB0aG91c2FuZHMgb2YgZml2ZS1zdGFyIHJhdGluZ3MsIHRoaXMgQW1hem9uIGJlc3Qtc2VsbGVyIGhhcyBiZWNvbWUgYSBnby10byBmb3IgZnJlcXVlbnQgdHJhdmVsZXJzLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZlRnNydW9iUVB0SjY2UzBhOWVhTTZINkoyZGJhLXJRc1hWeVlNekhDaEZCUGRrWVE5dWVWSGNEek1WYXR2R0hSUUFqNWt4OThrUGl6aWRFazltblk5by1YbHA4T0Nualp1azhidHpVQ3lPRjFnTmtvc3ZQUEFyejBJdkEwQVVubE9acDV3U2NKY1FrbXlVb1haVUNrM1FEdUtoRnZUSW5LMHBZVkhuUnkxWWNPQnUwZ2ZQYXRzQ2pXeDRvdWlfcElMY1MSBBoCCAAa8AYSAggAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAggBegCCQMgGCAAQABgAIAAqdAoDdG9wFaoikz4aBGJlc3QaB2JpZ2dlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aBGdvb2QaCGdyZWF0ZXN0GgZpcGhvbmUaB2xhcmdlc3QaB3JhdGluZ3MaCHJlbGlhYmxlGgZyZXZpZXcaCHNtYWxsZXN0KiYKCHBvcnRhYmxlFULyqEAaBm1vYmlsZRoNcG9ydGFibGVwb3dlcipNCgVwb3dlchX9Y2dAGgdjaGFyZ2VyGghjaGFyZ2VycxoGZW5lcmd5Gglwb3dlcmJhbmsaDXBvcnRhYmxlcG93ZXIaCnBvd2VyYmFua3MqPAoFYmFua3MVf4fzPxoEYmFuaxoHY2hhcmdlchoIY2hhcmdlcnMaCXBvd2VyYmFuaxoKcG93ZXJiYW5rcyoKCgNmb3IVAAAAACo2CgZ0cmF2ZWwViBB7QBoJdHJhdmVsZXJzGgl0cmF2ZWxpbmcaCnRyYXZlbGxpbmcaBXRyaXBzMtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZlRnNydW9iUVB0SjY2UzBhOWVhTTZINkoyZGJhLXJRc1hWeVlNekhDaEZCUGRrWVE5dWVWSGNEek1WYXR2R0hSUUFqNWt4OThrUGl6aWRFazltblk5by1YbHA4T0Nualp1azhidHpVQ3lPRjFnTmtvc3ZQUEFyejBJdkEwQVVubE9acDV3U2NKY1FrbXlVb1haVUNrM1FEdUtoRnZUSW5LMHBZVkhuUnkxWWNPQnUwZ2ZQYXRzQ2pXeDRvdWlfcElMY1M6TTcgPGI-QmVzdDwvYj4gVFNBLWFwcHJvdmVkIDxiPlBvcnRhYmxlIENoYXJnZXJzPC9iPiAtIDxiPlRyYXZlbDwvYj4gKyBMZWlzdXJlQpcBPGI-QW5rZXIgUG93ZXJDb3JlIDEwLDAwMG1BaCBQb3dlciBCYW5rPC9iPiAuLi4gV2l0aCB0aG91c2FuZHMgb2YgZml2ZS1zdGFyIHJhdGluZ3MsIHRoaXMgQW1hem9uIGJlc3Qtc2VsbGVyIGhhcyBiZWNvbWUgYSBnby10byBmb3IgZnJlcXVlbnQgdHJhdmVsZXJzLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Travel + Leisure",
+      "read_more_link": "https://www.travelandleisure.com/airline-power-bank-ban-tsa-approved-portable-chargers-11999106#:~:text=Anker%20PowerCore%2010%2C000mAh%20Power%20Bank&text=With%20thousands%20of%20five%2Dstar%20ratings%2C,a%20go%2Dto%20for%20frequent%20travelers."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Top portable power banks for travel reddit",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&q=Top+portable+power+banks+for+travel+reddit&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Top+portable+power+banks+for+travel+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best power bank for international travel",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&q=Best+power+bank+for+international+travel&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ1QJ6BAhlEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+power+bank+for+international+travel"
+    },
+    {
+      "block_position": 1,
+      "query": "Best power bank for phone",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&q=Best+power+bank+for+phone&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ1QJ6BAhkEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+power+bank+for+phone"
+    },
+    {
+      "block_position": 1,
+      "query": "Top portable power banks for travel amazon",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&q=Top+portable+power+banks+for+travel+amazon&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ1QJ6BAhjEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Top+portable+power+banks+for+travel+amazon"
+    },
+    {
+      "block_position": 1,
+      "query": "Best lightweight power bank for travel",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&q=Best+lightweight+power+bank+for+travel&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ1QJ6BAhiEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+lightweight+power+bank+for+travel"
+    },
+    {
+      "block_position": 1,
+      "query": "Vionentus power Bank",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&q=Vionentus+power+Bank&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ1QJ6BAhhEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Vionentus+power+Bank"
+    },
+    {
+      "block_position": 1,
+      "query": "Best power bank for airplane travel",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&q=Best+power+bank+for+airplane+travel&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+power+bank+for+airplane+travel"
+    },
+    {
+      "block_position": 1,
+      "query": "Best portable power banks",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&q=Best+portable+power+banks&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+portable+power+banks"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Over 20,000 mAh",
+      "link": "https://www.google.com/search?q=over+20,000+mah+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAESEioQCOadrgESCQkAAAAAAIjTQBgBKiN0b3AgcG9ydGFibGUgcG93ZXIgYmFua3MgZm9yIHRyYXZlbDIyCAESD092ZXIgMjAsMDAwIG1BaCISKhAI5p2uARIJCQAAAAAAiNNAOgkI5p2uARAAMAZYlqogYAE&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKAF6BAhBEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=over+20%2C000+mah+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "5,000 – 10,000 mAh",
+      "link": "https://www.google.com/search?q=5,000+mah+to+10,000+mah+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAESGyoZCOadrgESEgkAAAAAAIizQBEAAAAAAIjDQBgBKiN0b3AgcG9ydGFibGUgcG93ZXIgYmFua3MgZm9yIHRyYXZlbDJbCAESFDUsMDAwIOKAkyAxMCwwMDAgbUFoIhsqGQjmna4BEhIJAAAAAACIs0ARAAAAAACIw0AqGQoXNSwwMDAgbUFoIHRvIDEwLDAwMCBtQWg6CQjmna4BEAAwBliWqiBgAQ&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKAJ6BAhBEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=5%2C000+mah+to+10%2C000+mah+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "Solar Chargers",
+      "link": "https://www.google.com/search?q=solar+chargers+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAEYCSojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyEggJEg5Tb2xhciBDaGFyZ2Vyc2AB&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKAN6BAhBEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=solar+chargers+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "10,000 – 20,000 mAh",
+      "link": "https://www.google.com/search?q=10,000+mah+to+20,000+mah+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAESGyoZCOadrgESEgkAAAAAAIjDQBEAAAAAAIjTQBgBKiN0b3AgcG9ydGFibGUgcG93ZXIgYmFua3MgZm9yIHRyYXZlbDJdCAESFTEwLDAwMCDigJMgMjAsMDAwIG1BaCIbKhkI5p2uARISCQAAAAAAiMNAEQAAAAAAiNNAKhoKGDEwLDAwMCBtQWggdG8gMjAsMDAwIG1BaDoJCOadrgEQADAGWJaqIGAB&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKAR6BAhBEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=10%2C000+mah+to+20%2C000+mah+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "Under 5,000 mAh",
+      "link": "https://www.google.com/search?q=under+5,000+mah+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAESEioQCOadrgESCREAAAAAAIizQBgBKiN0b3AgcG9ydGFibGUgcG93ZXIgYmFua3MgZm9yIHRyYXZlbDIyCAESD1VuZGVyIDUsMDAwIG1BaCISKhAI5p2uARIJEQAAAAAAiLNAOgkI5p2uARAAMAZYlqogYAE&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKAV6BAhBEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=under+5%2C000+mah+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAEYEiojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyCwgSEgdSZXZpZXdzYAE&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKAZ6BAhBEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=reviews+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=top+portable+power+banks+for+travel+sale&hl=en&gl=us&shoprs=CAESBEoCGAEYBiojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyEwgGEgdPbiBzYWxlGAIiBEoCGAFYlqogYAE&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKAd6BAhBEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel+sale"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?q=top+portable+power+banks+for+travel+nearby&hl=en&gl=us&shoprs=CAEYAyojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyDAgDEgZOZWFyYnkYAliWqiBgAQ&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKAh6BAhBEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel+nearby"
+    },
+    {
+      "query": "Under $35",
+      "link": "https://www.google.com/search?q=top+portable+power+banks+for+travel+under+$35&hl=en&gl=us&shoprs=CAESDRILEQAAAAB2sIBBGAEYBSojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyIggFEglVbmRlciAkMzUYAiINEgsRAAAAAHawgEEYASoCGAFYlqogYAE&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKAl6BAhBEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel+under+%2435"
+    },
+    {
+      "query": "Get it by Fri",
+      "link": "https://www.google.com/search?q=top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAESDZoBCgoIEAI4AUAFSAEYFCojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyJggUEg1HZXQgaXQgYnkgRnJpIg2aAQoKCBACOAFABUgBKgQQARgBYAE&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKAp6BAhBEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "5 – 9 volts",
+      "link": "https://www.google.com/search?q=5+volts+to+9+volts+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAESGyoZCLfjmAESEgkAAAAAAAAUQBEAAAAAAAAiQBgBKiN0b3AgcG9ydGFibGUgcG93ZXIgYmFua3MgZm9yIHRyYXZlbDJRCAESDTUg4oCTIDkgdm9sdHMiGyoZCLfjmAESEgkAAAAAAAAUQBEAAAAAAAAiQCoWChI1IHZvbHRzIHRvIDkgdm9sdHMYAToJCLfjmAEQADAGWJaqIGAB&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKAt6BAhBEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=5+volts+to+9+volts+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "Fast Charging",
+      "link": "https://www.google.com/search?q=fast+charging+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAEYASojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyHwgBEg1GYXN0IENoYXJnaW5nOgwI5tqYARDn2pgBMANYlqogYAE&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKAx6BAhBEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=fast+charging+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "Wireless Charger",
+      "link": "https://www.google.com/search?q=wireless+charger+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAEYASojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyIAgBEhBXaXJlbGVzcyBDaGFyZ2VyOgoI0OxsENHsbDADWJaqIGAB&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKA16BAhBEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=wireless+charger+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "Over 12 volts",
+      "link": "https://www.google.com/search?q=over+12+volts+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAESEioQCLfjmAESCQkAAAAAAAAoQBgBKiN0b3AgcG9ydGFibGUgcG93ZXIgYmFua3MgZm9yIHRyYXZlbDI0CAESDU92ZXIgMTIgdm9sdHMiEioQCLfjmAESCQkAAAAAAAAoQCoCGAE6CQi345gBEAAwBliWqiBgAQ&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKA56BAhBEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=over+12+volts+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "Generators",
+      "link": "https://www.google.com/search?q=generators+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAEYCSojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyDggJEgpHZW5lcmF0b3JzYAE&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKA96BAhBEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=generators+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "9 – 12 volts",
+      "link": "https://www.google.com/search?q=9+volts+to+12+volts+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAESGyoZCLfjmAESEgkAAAAAAAAiQBEAAAAAAAAoQBgBKiN0b3AgcG9ydGFibGUgcG93ZXIgYmFua3MgZm9yIHRyYXZlbDJTCAESDjkg4oCTIDEyIHZvbHRzIhsqGQi345gBEhIJAAAAAAAAIkARAAAAAAAAKEAqFwoTOSB2b2x0cyB0byAxMiB2b2x0cxgBOgkIt-OYARAAMAZYlqogYAE&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKBB6BAhBEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=9+volts+to+12+volts+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?q=black+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAEYASojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyFwgBEgVCbGFjazoMCOedrgEQpZ6xATAAWJaqIGAB&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKBF6BAhBEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=black+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?q=top+portable+power+banks+for+travel+sale&hl=en&gl=us&shoprs=CAEYEiojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyDAgSEghGb3IgU2FsZWAB&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKBJ6BAhBEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel+sale"
+    },
+    {
+      "query": "Small",
+      "link": "https://www.google.com/search?q=small+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAEYEiojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyCQgSEgVTbWFsbGAB&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKBN6BAhBEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=small+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "15 – 30 watts",
+      "link": "https://www.google.com/search?q=15+watts+to+30+watts+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAESGyoZCImergESEgkAAAAAAAAuQBEAAAAAAAA-QBgBKiN0b3AgcG9ydGFibGUgcG93ZXIgYmFua3MgZm9yIHRyYXZlbDJVCAESDzE1IOKAkyAzMCB3YXR0cyIbKhkIiZ6uARISCQAAAAAAAC5AEQAAAAAAAD5AKhgKFDE1IHdhdHRzIHRvIDMwIHdhdHRzGAE6CQiJnq4BEAAwBliWqiBgAQ&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKBR6BAhBEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=15+watts+to+30+watts+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?q=price+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAEYEiojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyCQgSEgVQcmljZWAB&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKBV6BAhBEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=price+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "Solar",
+      "link": "https://www.google.com/search?q=solar+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAEYASojdG9wIHBvcnRhYmxlIHBvd2VyIGJhbmtzIGZvciB0cmF2ZWwyFQgBEgVTb2xhcjoKCMbXKxCyrTswAFiWqiBgAQ&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKBZ6BAhBEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=solar+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "Over 45 watts",
+      "link": "https://www.google.com/search?q=over+45+watts+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAESEioQCImergESCQkAAAAAAIBGQBgBKiN0b3AgcG9ydGFibGUgcG93ZXIgYmFua3MgZm9yIHRyYXZlbDI0CAESDU92ZXIgNDUgd2F0dHMiEioQCImergESCQkAAAAAAIBGQCoCGAE6CQiJnq4BEAAwBliWqiBgAQ&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKBd6BAhBEHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=over+45+watts+top+portable+power+banks+for+travel"
+    },
+    {
+      "query": "Under 5 volts",
+      "link": "https://www.google.com/search?q=under+5+volts+top+portable+power+banks+for+travel&hl=en&gl=us&shoprs=CAESEioQCLfjmAESCREAAAAAAAAUQBgBKiN0b3AgcG9ydGFibGUgcG93ZXIgYmFua3MgZm9yIHRyYXZlbDI0CAESDVVuZGVyIDUgdm9sdHMiEioQCLfjmAESCREAAAAAAAAUQCoCGAE6CQi345gBEAAwBliWqiBgAQ&sa=X&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQip4GKBh6BAhBEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=under+5+volts+top+portable+power+banks+for+travel"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+portable+power+banks+for+travel&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&ei=_uizaumuC92ShvcPlt30oAw&start=10&sa=N&sstk=AS6-VmJ7ZKXAx1NH9jBwQmfsYkACHxfAkMHQJfICgl2y1vmmcpp3JEu9-bbsXzjBdllNM8UdEuSMwRRlnHl7rvVC8yGtN7z_QdQqMw&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ8NMDegQIXBAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+portable+power+banks+for+travel&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&ei=_uizaumuC92ShvcPlt30oAw&start=10&sa=N&sstk=AS6-VmJ7ZKXAx1NH9jBwQmfsYkACHxfAkMHQJfICgl2y1vmmcpp3JEu9-bbsXzjBdllNM8UdEuSMwRRlnHl7rvVC8yGtN7z_QdQqMw&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ8tMDegQIXBAE",
+      "3": "https://www.google.com/search?q=top+portable+power+banks+for+travel&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&ei=_uizaumuC92ShvcPlt30oAw&start=20&sa=N&sstk=AS6-VmJ7ZKXAx1NH9jBwQmfsYkACHxfAkMHQJfICgl2y1vmmcpp3JEu9-bbsXzjBdllNM8UdEuSMwRRlnHl7rvVC8yGtN7z_QdQqMw&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ8tMDegQIXBAG",
+      "4": "https://www.google.com/search?q=top+portable+power+banks+for+travel&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&ei=_uizaumuC92ShvcPlt30oAw&start=30&sa=N&sstk=AS6-VmJ7ZKXAx1NH9jBwQmfsYkACHxfAkMHQJfICgl2y1vmmcpp3JEu9-bbsXzjBdllNM8UdEuSMwRRlnHl7rvVC8yGtN7z_QdQqMw&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ8tMDegQIXBAI",
+      "5": "https://www.google.com/search?q=top+portable+power+banks+for+travel&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&ei=_uizaumuC92ShvcPlt30oAw&start=40&sa=N&sstk=AS6-VmJ7ZKXAx1NH9jBwQmfsYkACHxfAkMHQJfICgl2y1vmmcpp3JEu9-bbsXzjBdllNM8UdEuSMwRRlnHl7rvVC8yGtN7z_QdQqMw&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ8tMDegQIXBAK",
+      "6": "https://www.google.com/search?q=top+portable+power+banks+for+travel&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&ei=_uizaumuC92ShvcPlt30oAw&start=50&sa=N&sstk=AS6-VmJ7ZKXAx1NH9jBwQmfsYkACHxfAkMHQJfICgl2y1vmmcpp3JEu9-bbsXzjBdllNM8UdEuSMwRRlnHl7rvVC8yGtN7z_QdQqMw&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ8tMDegQIXBAM",
+      "7": "https://www.google.com/search?q=top+portable+power+banks+for+travel&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&ei=_uizaumuC92ShvcPlt30oAw&start=60&sa=N&sstk=AS6-VmJ7ZKXAx1NH9jBwQmfsYkACHxfAkMHQJfICgl2y1vmmcpp3JEu9-bbsXzjBdllNM8UdEuSMwRRlnHl7rvVC8yGtN7z_QdQqMw&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ8tMDegQIXBAO",
+      "8": "https://www.google.com/search?q=top+portable+power+banks+for+travel&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&ei=_uizaumuC92ShvcPlt30oAw&start=70&sa=N&sstk=AS6-VmJ7ZKXAx1NH9jBwQmfsYkACHxfAkMHQJfICgl2y1vmmcpp3JEu9-bbsXzjBdllNM8UdEuSMwRRlnHl7rvVC8yGtN7z_QdQqMw&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ8tMDegQIXBAQ",
+      "9": "https://www.google.com/search?q=top+portable+power+banks+for+travel&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&ei=_uizaumuC92ShvcPlt30oAw&start=80&sa=N&sstk=AS6-VmJ7ZKXAx1NH9jBwQmfsYkACHxfAkMHQJfICgl2y1vmmcpp3JEu9-bbsXzjBdllNM8UdEuSMwRRlnHl7rvVC8yGtN7z_QdQqMw&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ8tMDegQIXBAS",
+      "10": "https://www.google.com/search?q=top+portable+power+banks+for+travel&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&ei=_uizaumuC92ShvcPlt30oAw&start=90&sa=N&sstk=AS6-VmJ7ZKXAx1NH9jBwQmfsYkACHxfAkMHQJfICgl2y1vmmcpp3JEu9-bbsXzjBdllNM8UdEuSMwRRlnHl7rvVC8yGtN7z_QdQqMw&ved=2ahUKEwjppcKv-4SXAxVdieEIHZYuHcQQ8tMDegQIXBAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+portable+power+banks+for+travel&start=90"
+    }
+  }
+}

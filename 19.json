@@ -1,0 +1,641 @@
+{
+  "search_metadata": {
+    "id": "6ab3ec1f3ee4c281ca9a7a13",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/4dmafKze8_sYB4DGhAtuLKzaWJ-Y_uEX4k3_y5lCx0A/6ab3ec1f3ee4c281ca9a7a13.json",
+    "markdown_endpoint": "https://serpapi.com/searches/4dmafKze8_sYB4DGhAtuLKzaWJ-Y_uEX4k3_y5lCx0A/6ab3ec1f3ee4c281ca9a7a13.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/4dmafKze8_sYB4DGhAtuLKzaWJ-Y_uEX4k3_y5lCx0A/6ab3ec1f3ee4c281ca9a7a13.json_with_pixel_position",
+    "created_at": "2026-09-23 15:11:27 UTC",
+    "processed_at": "2026-09-23 15:11:27 UTC",
+    "google_url": "https://www.google.com/search?q=best+soundbars+for+home+theater+setup&oq=best+soundbars+for+home+theater+setup&uule=w+CAIQICIeSG91c3RvbixUWCxUZXhhcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/4dmafKze8_sYB4DGhAtuLKzaWJ-Y_uEX4k3_y5lCx0A/6ab3ec1f3ee4c281ca9a7a13.html",
+    "total_time_taken": 32.59
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best soundbars for home theater setup",
+    "location_requested": "Houston, TX, Texas, United States",
+    "location_used": "Houston,TX,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best soundbars for home theater setup",
+    "total_results": 164,
+    "time_taken_displayed": 0.34,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "8 Premium Soundbars Reviewed - Some Were Surprisingly Bad!",
+      "link": "https://www.youtube.com/watch?v=rKq8HoeTCnU",
+      "thumbnail": "https://serpapi.com/searches/6ab3ec1f3ee4c281ca9a7a13/images/TWtCtGU90sYhWipUnOQQM9wnG_fQF66KjeBwuKPxNLg.jpeg",
+      "channel": "The Hook Up",
+      "duration": "52:07",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRLWxDaK_IRVMyuiuYkZeHD_CbdcJcj8YyQwQ"
+    },
+    {
+      "position": 2,
+      "title": "I Tested 12 Soundbars Under $100: There's a New Budget King",
+      "link": "https://www.youtube.com/watch?v=MCYAnapaUN4",
+      "thumbnail": "https://serpapi.com/searches/6ab3ec1f3ee4c281ca9a7a13/images/P_9rRvzghwYrh7oHw6cnfkgAqCIruG3d46z0aDJYBc0.jpeg",
+      "channel": "The Hook Up",
+      "duration": "26:49",
+      "platform": "YouTube",
+      "date": "2 weeks ago",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRmiZCZqn8_IzMuOHSG1s-T09RM1CUPnpES5A"
+    },
+    {
+      "position": 3,
+      "title": "5 Soundbars Smart People Actually Buy (And 3 They Never ...",
+      "link": "https://www.youtube.com/watch?v=RL66op7q_iM",
+      "thumbnail": "https://serpapi.com/searches/6ab3ec1f3ee4c281ca9a7a13/images/wlHktZHZ9xOXeegzTx6IDAGIIMXJT_NrJiLj7SIsuic.jpeg",
+      "channel": "Valid Consumer",
+      "duration": "12:20",
+      "platform": "YouTube",
+      "date": "Jun 30, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT6ehDMttyWlxtIYPbhFwHm5i0NkXT3B9NWBg"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTSEa0dzD4nOrYARlSVQdyZ_Wxk4QEYmX8TL9cISeJZDqqeV7tCBu8c74g756WJpLMKI2C2dVQwtvnzaFBmWbsnDb5R7XrDgeZx_8itMtdOw-hQhhBDFG-4KQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTorS2WuDcnRECgIMuOdh4CFEHob0ZK_5GiwDG90hW4dKNniWX6MBchPGoz7JLsBGRdDIyxU7Z_ojYKNu0s6m0l-4p_",
+      "source": "costco.com",
+      "title": "Sonos Arc Ultra 9.1.4 Ch Soundbar Bundle, Black",
+      "rating": 4.8,
+      "reviews": 6500,
+      "price": "$1,112.99",
+      "extracted_price": 1112.99,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "xXkjbnicdY7LrptGAIbVh-nKijTD1e7uGAOGhrEZZobL5mi42IMBg7nY-Cjv0FeInKRSskyrvstpX6an3WfzbT79-r_fHkX51_7d_YX30Whq3Lil1b5e9jF_-tr1bT5lY5n_CRUgA0lToP5GWZKgCtSvGR953R7L_ON3UfC8Ls_F7nAo-k2b_WDyrWz4sfjf_yFDZaWv9OUSAA3quqLo6qc-H16VvfEMFR0oiqxCFUJdUqGkr7QPe7zbPP9AfrlMRX9__TkthnExtNM5T3k_LA5tvxBtUyzGt8Cx6BdDMU7dl2P3FvDxU_Mfuuv4EMfP01QXr9JtYTw5vmM4RWCvYCbja1rONDRmmkRCZPeZpU0NktA_UhmL3GYvj2P9mIaHqB_F-feWd9dD9vdP_5iTaRgXx_Bp17ENBgFzz5z6EDXJIQxhRyukoGYpBTXiqEouhLk2JRgXVY2zhrGQQisG40SrlcukWU1l3OcVjCLA5gRACxFhZwwNhGKPSquNZ61kYo4HukFbvmUKbjqDEXTxZJdx2Llx6J58KC5-OBo7lscxxaEXCSW0UZ9RqBBb_RWHwmPbtcPNFvgS3lBzGONQrXJCpbdPZ0cQyhr3HpjoGkDm-tAyYlBLGUUekTvh2TBOIzfJt45KyLpM7a4l21pLTDFnjbpOSN7wGs2piTnaouY9M0FWgpEQC8cgf_HO3i2zmJKHCQjOjNFGeEEzAxQyyGlOQksYgYTVVBo7LKnRzrTkuMJSDsYboazkZ2vHNmigdPYzgK6JDUYmZYFVP41F1ImsFgCTRPhyXnK4HnZbN4mpyZ3KMjPZUZPa9fnJXQfEOmFbUYhlvWADqqiChwigmUcW80zz8zz0h1fwZKljsNOe45Jrsf4uvL2fTg1IarT3Al-LT3f_F6ivANQ1Ga60pfovT3YkBw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xXkjbnicdY7LrptGAIbVh-nKijTD1e7uGAOGhrEZZobL5mi42IMBg7nY-Cjv0FeInKRSskyrvstpX6an3WfzbT79-r_fHkX51_7d_YX30Whq3Lil1b5e9jF_-tr1bT5lY5n_CRUgA0lToP5GWZKgCtSvGR953R7L_ON3UfC8Ls_F7nAo-k2b_WDyrWz4sfjf_yFDZaWv9OUSAA3quqLo6qc-H16VvfEMFR0oiqxCFUJdUqGkr7QPe7zbPP9AfrlMRX9__TkthnExtNM5T3k_LA5tvxBtUyzGt8Cx6BdDMU7dl2P3FvDxU_Mfuuv4EMfP01QXr9JtYTw5vmM4RWCvYCbja1rONDRmmkRCZPeZpU0NktA_UhmL3GYvj2P9mIaHqB_F-feWd9dD9vdP_5iTaRgXx_Bp17ENBgFzz5z6EDXJIQxhRyukoGYpBTXiqEouhLk2JRgXVY2zhrGQQisG40SrlcukWU1l3OcVjCLA5gRACxFhZwwNhGKPSquNZ61kYo4HukFbvmUKbjqDEXTxZJdx2Llx6J58KC5-OBo7lscxxaEXCSW0UZ9RqBBb_RWHwmPbtcPNFvgS3lBzGONQrXJCpbdPZ0cQyhr3HpjoGkDm-tAyYlBLGUUekTvh2TBOIzfJt45KyLpM7a4l21pLTDFnjbpOSN7wGs2piTnaouY9M0FWgpEQC8cgf_HO3i2zmJKHCQjOjNFGeEEzAxQyyGlOQksYgYTVVBo7LKnRzrTkuMJSDsYboazkZ2vHNmigdPYzgK6JDUYmZYFVP41F1ImsFgCTRPhyXnK4HnZbN4mpyZ3KMjPZUZPa9fnJXQfEOmFbUYhlvWADqqiChwigmUcW80zz8zz0h1fwZKljsNOe45Jrsf4uvL2fTg1IarT3Al-LT3f_F6ivANQ1Ga60pfovT3YkBw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQij7Gd397HX0K3us_eZNOSbO5aFom634pI6WKyjNHVBqJaGrX_pjNIoWtlVDL_xQFqYegqrkRdIwZt5iXOYznbgm3sHP-K793KAvfsm6UrJp7FDNcIPE-ySg",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Bose TV Speaker Surround Sound Wireless Bluetooth Soundbar for TV, Black, Size: 4.02 inch x 23.38 inch x 2.21 inch",
+      "rating": 4.0,
+      "reviews": 777,
+      "price": "$279.00",
+      "extracted_price": 279.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "oF6YWXicdY5LrqNGAEWVxWRktQQUHzszYz7GeoApigLX5AmossEUpgz4mWdlD9lCy_2RuofdUfbyks3E6XFncgf36OrcP-6s_mv77vWW99lo6_nqWjRbPu93-fKL6Dt6Kcea_imrxhxowACKKgFZBZqmL76U-Zjz7lDT998qllNen1i437Pe6sr_mXyt2_zAfvDvqi49OlkzlAWQVElRFPVDT4c3Zbt6ltW5JCsq0HXDUAxtrsj671sYWs8_Z5_OF9a_vv1asGGcDd3lRIu8H2b7rp9VXctm4-PeyPrZwMaL-HQQD_37D-1_IV7Ge3X4eLlw9qZcZ6ulF3krj8XuQi4BfCnqKUlXU0KyqipfJ1y0XCJpdEgArKiLb_cDv1-Ge8Xv7PS5y8XLvvz7l3_si71anb1VlAiBLSjFiqogwB3KPRA30EVHuEeKNJI1TMO1qZaYI-YGNeWki9e4RnwOYpuf_WOQF8gUgVV5_pF4YSpsrMBtgSoH3rgg0jAmGGKSOk-7LIiQvdmzI27ztplQZmYl2vQ0FRl2yEScwHzKyqvfYhApQZtL07W4JUpuLdXQogLbmpI64uEjftrICWxFlyTcJCjQ04YPARYptYWbSdKYtrBKUjktMM-eMMF-AjXSQB8dPanECzdHWE9bDcUJzEMHitJqtGJNcHErtR2qKoYxgKnY582UFtLGC3EzRgkZH0xm2BlgQgeabSbKHZs5VRCA4IQ41H0bAhbLKM38a3T0r6ihJ-aKl4hXcZTwI7L5iVkbmbWqFinyGWM7dvhyZJmoSl5JEJEqArTOZXMI1xuyS-zcaxy7BJ5GePAaSNqA3J1G1rzyXc0s3OCKZDMmCamfsNlQ2_44Df3-TVo62hiHxgLepvPzsjfiKbLAdfLcJALasHh3PPwmGwtJNnQgL_S5_i_r1iih",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=oF6YWXicdY5LrqNGAEWVxWRktQQUHzszYz7GeoApigLX5AmossEUpgz4mWdlD9lCy_2RuofdUfbyks3E6XFncgf36OrcP-6s_mv77vWW99lo6_nqWjRbPu93-fKL6Dt6Kcea_imrxhxowACKKgFZBZqmL76U-Zjz7lDT998qllNen1i437Pe6sr_mXyt2_zAfvDvqi49OlkzlAWQVElRFPVDT4c3Zbt6ltW5JCsq0HXDUAxtrsj671sYWs8_Z5_OF9a_vv1asGGcDd3lRIu8H2b7rp9VXctm4-PeyPrZwMaL-HQQD_37D-1_IV7Ge3X4eLlw9qZcZ6ulF3krj8XuQi4BfCnqKUlXU0KyqipfJ1y0XCJpdEgArKiLb_cDv1-Ge8Xv7PS5y8XLvvz7l3_si71anb1VlAiBLSjFiqogwB3KPRA30EVHuEeKNJI1TMO1qZaYI-YGNeWki9e4RnwOYpuf_WOQF8gUgVV5_pF4YSpsrMBtgSoH3rgg0jAmGGKSOk-7LIiQvdmzI27ztplQZmYl2vQ0FRl2yEScwHzKyqvfYhApQZtL07W4JUpuLdXQogLbmpI64uEjftrICWxFlyTcJCjQ04YPARYptYWbSdKYtrBKUjktMM-eMMF-AjXSQB8dPanECzdHWE9bDcUJzEMHitJqtGJNcHErtR2qKoYxgKnY582UFtLGC3EzRgkZH0xm2BlgQgeabSbKHZs5VRCA4IQ41H0bAhbLKM38a3T0r6ihJ-aKl4hXcZTwI7L5iVkbmbWqFinyGWM7dvhyZJmoSl5JEJEqArTOZXMI1xuyS-zcaxy7BJ5GePAaSNqA3J1G1rzyXc0s3OCKZDMmCamfsNlQ2_44Df3-TVo62hiHxgLepvPzsjfiKbLAdfLcJALasHh3PPwmGwtJNnQgL_S5_i_r1iih"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQLKfSAFH1x51yCVXWGmlx1fl9SglWLqOvBP-Rb5pfmlKe-jBYo2NYuMe4RdlN3REbDgnmfocbB3EzGkw6uEuoM0x5aRMEXHXSHyz5sVwes",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR6zSgHBu1DG0OFJjVvPK21ijNQUeMv6sGjsb7jIv0Brv127Pb9FYs4Iey8KBvjdKE3WwUX-7UT6Mu18fym65qiHKvIqg",
+      "source": "Best Buy",
+      "title": "Package - Sonos - Arc Ultra 9.1.4 Channel Smart Soundbar with Dolby Atmos - White + 2 more items",
+      "rating": 4.8,
+      "reviews": 6500,
+      "price": "$2,746.00",
+      "extracted_price": 2746.0,
+      "immersive_product_page_token": "c3sKCXicdY5NrqNGAISVw2RljdRN82Oye_y0sWcAG5oGsxm1aQw8mp8H2AYrd8gVRp6ZSJPlKMpdXnKZvGQ_tSiV9KlU9dsjr_7av1vubEgmW2Xm7VTvxXo4sqdv_dDxSzZV_E-oSEBaSxJA-hqqGtQRWn_L2MREV1T80_cyZ1xUbe6fz_lgddkPKn9UDSvy__l3TQUy1N-kQQAQUlXl88DHV3lvfoSyBmQZKVCBUJMUKGm6-us-8K2PP4BfXy75sLz-fMrHaTV2l5af2DCuzt2wKrsmX01v_6Z8WI35dOm_Fv3b_qfPzX_WX6dHWXy5XET-Kt1W5tP2sDW3ebjRYYaC66mao9icozQpy2yZ6akRII0PRYSCkm_o_VGIx2V8lOKRt793rL-es79_-se-2Kb5sjUPUd9TKwAhGMEh7mXvmZK0ght341VRIsww0i2fcBI3c0-lAkXWdiESDROUprEtIBcYuY57I43e-8SrMmsX0qh3XHuUc8KbROrDDKWuC9bgiERJN3MQNmnKnONEpNKIIk_2GuX5hMX79G7scyI-MGEMWZyGLsXkhMoyf8YkJzby42LxQFCHkBsRMmrqCD9qhO3b1HaboPWQ2IfYI4ENrxwaV0_yrocFSsTGE7GM2xEelzimvhvNMpX6HXHqJcT6i0-5xdt-x-pdS6XZ4RYWh9aoUkLViNTLh4QvXl1MbjMPfmIAAgPA6c7KJDgF9CjHCX7vkt2V3cuONDvbT3ZpUCvYvXPrLVshwvBQY5U9czVAaZ81a3Ai1IwEbkmbhVg8TXnSl5koQUDS8oB4xaAx-s4uPUY229bYztBWSQXuImy4kZVN2QKVA-1rjsWG1_pystdzAkozFvaXeRzOr-AJK1PoK5s62MdXrY4dn_XK3hnIOrixd0yXb79ATQdQUxHU1bX2L2jtJpc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=c3sKCXicdY5NrqNGAISVw2RljdRN82Oye_y0sWcAG5oGsxm1aQw8mp8H2AYrd8gVRp6ZSJPlKMpdXnKZvGQ_tSiV9KlU9dsjr_7av1vubEgmW2Xm7VTvxXo4sqdv_dDxSzZV_E-oSEBaSxJA-hqqGtQRWn_L2MREV1T80_cyZ1xUbe6fz_lgddkPKn9UDSvy__l3TQUy1N-kQQAQUlXl88DHV3lvfoSyBmQZKVCBUJMUKGm6-us-8K2PP4BfXy75sLz-fMrHaTV2l5af2DCuzt2wKrsmX01v_6Z8WI35dOm_Fv3b_qfPzX_WX6dHWXy5XET-Kt1W5tP2sDW3ebjRYYaC66mao9icozQpy2yZ6akRII0PRYSCkm_o_VGIx2V8lOKRt793rL-es79_-se-2Kb5sjUPUd9TKwAhGMEh7mXvmZK0ght341VRIsww0i2fcBI3c0-lAkXWdiESDROUprEtIBcYuY57I43e-8SrMmsX0qh3XHuUc8KbROrDDKWuC9bgiERJN3MQNmnKnONEpNKIIk_2GuX5hMX79G7scyI-MGEMWZyGLsXkhMoyf8YkJzby42LxQFCHkBsRMmrqCD9qhO3b1HaboPWQ2IfYI4ENrxwaV0_yrocFSsTGE7GM2xEelzimvhvNMpX6HXHqJcT6i0-5xdt-x-pdS6XZ4RYWh9aoUkLViNTLh4QvXl1MbjMPfmIAAgPA6c7KJDgF9CjHCX7vkt2V3cuONDvbT3ZpUCvYvXPrLVshwvBQY5U9czVAaZ81a3Ai1IwEbkmbhVg8TXnSl5koQUDS8oB4xaAx-s4uPUY229bYztBWSQXuImy4kZVN2QKVA-1rjsWG1_pystdzAkozFvaXeRzOr-AJK1PoK5s62MdXrY4dn_XK3hnIOrixd0yXb79ATQdQUxHU1bX2L2jtJpc"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTRjasHfWmmdXvUsFKkXiIwy_CZYL0qjcgbm0EYyAUNWJxYvd2ZLBZYBE4Lah4W957e7-WXgQlxKdLVH8ssm2WOU6ND3tr7Nr8I8Or8fwVAC4mMTYX1bPtpSA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRDOAtFpAIJSB0VSNR3OSKwNVHY7BcOY5b88LFOBb1wwb2MTkUzvM_Goh5q-V5BCdtGEhC7I_F3xgtQorxsG1od3auFX0se",
+      "source": "Macy's",
+      "title": "Jbl Bar 1300X Mk2 11.1.4-Channel Wireless Soundbar System - Black",
+      "rating": 4.3,
+      "reviews": 3,
+      "price": "$1,742.45",
+      "extracted_price": 1742.45,
+      "delivery": "Free delivery by Tue",
+      "immersive_product_page_token": "BX38XXicdVDNzptGAFQfJicrEsu_e_MPYDsfa7OwYPYSLezaa7MGjMHYKO_QV4icpFJ6bKu-y9e8TJzcc5iZw2hGo_njwQ__bd7eB9psW8eksz4rNtJuUjr5WjcV6_L2wP4FqjlWVMU2bAA0y1ANyza_5rSlstof2Me_BadMHkq-3u14M6_yX0T-Opzonv_0_zEs3VZUywKKaaumoRlj61PDLq_6ZvYeAGDrtq5ahqU8YY9tS_-wQev5-1-YX84db-6vbzJ-aUeXqitZRpvLaFc1I1Gd-Kh9Dmx5M7rwtqu_7OvngI-fTj-ovrYPsf_cdZK_qv1oNlkGy9mSh94Y5Bq6ZocbTmY3TLZC5PdbnJ2kQpJgjzUkmBcPj718dJeHkA9e_lnR-rrL___tm9M5s9l5OQtwXcdzpISDOKMCbliZawTHNU_qjX-Sdx7LI52LAamsS5Ob6XtgTuS0TwuYZp6iRMl4Deerc666kmhsIEP8ksrpNVDFkEYQ-h6p_AW8-4OvJgXsM8VNogRpkba8Iedmxot9v3ZYwLGvbAdEeLEqIoVpqVyVzDO8BKM4xcjNPYhpRKp4HvRsPkW0hFW2EA474p5icA23yOSOfovlvg_KQIdzcY62Kz9zAxUXIHiJWBOWU0wi6G0ViFPgYpKIIzmSdKu2MHPG5zTJh8yF73wFrQiYdr4sBgbiXTAInJdQzxbTJNyKHnm1Hp-Clm9rIwATLY3Fce2R5KkwKJw-AtU9HKBPIqL7KlyvFyuYYiYSTGSkrFqGV0sau06ooXdR4YSunPzoErkUCoqICDR2oGB6eeZIih26LFwn15YGkQjnBdmxU_wSu76RSClhSfTQIRtS1hTFz5e1_PPt0uxelYlrtOHa8Aq0Sa5WkSzWtDY2iyayUU_f0rHe_w6ssQIsUwNj07a-A7DGKgg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BX38XXicdVDNzptGAFQfJicrEsu_e_MPYDsfa7OwYPYSLezaa7MGjMHYKO_QV4icpFJ6bKu-y9e8TJzcc5iZw2hGo_njwQ__bd7eB9psW8eksz4rNtJuUjr5WjcV6_L2wP4FqjlWVMU2bAA0y1ANyza_5rSlstof2Me_BadMHkq-3u14M6_yX0T-Opzonv_0_zEs3VZUywKKaaumoRlj61PDLq_6ZvYeAGDrtq5ahqU8YY9tS_-wQev5-1-YX84db-6vbzJ-aUeXqitZRpvLaFc1I1Gd-Kh9Dmx5M7rwtqu_7OvngI-fTj-ovrYPsf_cdZK_qv1oNlkGy9mSh94Y5Bq6ZocbTmY3TLZC5PdbnJ2kQpJgjzUkmBcPj718dJeHkA9e_lnR-rrL___tm9M5s9l5OQtwXcdzpISDOKMCbliZawTHNU_qjX-Sdx7LI52LAamsS5Ob6XtgTuS0TwuYZp6iRMl4Deerc666kmhsIEP8ksrpNVDFkEYQ-h6p_AW8-4OvJgXsM8VNogRpkba8Iedmxot9v3ZYwLGvbAdEeLEqIoVpqVyVzDO8BKM4xcjNPYhpRKp4HvRsPkW0hFW2EA474p5icA23yOSOfovlvg_KQIdzcY62Kz9zAxUXIHiJWBOWU0wi6G0ViFPgYpKIIzmSdKu2MHPG5zTJh8yF73wFrQiYdr4sBgbiXTAInJdQzxbTJNyKHnm1Hp-Clm9rIwATLY3Fce2R5KkwKJw-AtU9HKBPIqL7KlyvFyuYYiYSTGSkrFqGV0sau06ooXdR4YSunPzoErkUCoqICDR2oGB6eeZIih26LFwn15YGkQjnBdmxU_wSu76RSClhSfTQIRtS1hTFz5e1_PPt0uxelYlrtOHa8Aq0Sa5WkSzWtDY2iyayUU_f0rHe_w6ssQIsUwNj07a-A7DGKgg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR9B99u0hmKO5wfvzKpaEMKey7fKMcaEPTHFsxpnjemFjDzIY4iDib1qTOvqWaotpyz91UtKLDj1YsPYdpYy-76uF6UJX8B3oIW14S51Ng0ouNnsyY354DAVg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSbFZuUK5LXIkZg0lv7lx5bIENL4O55t_s4ZVkIC54vumeC-uQZpekHkZLIbJacxb8bTQlJLl5CfqegmFvWGURnjCLVZx0",
+      "source": "ListenUp",
+      "title": "Sonos BEAM GEN 2 Streaming Powered Soundbar - White",
+      "rating": 4.5,
+      "reviews": 16000,
+      "price": "$499.00",
+      "extracted_price": 499.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "M1I4AnicbZBNrts2AITRw3RlBBBJSTa7s_VjW4llixL1w80DLdKWbOrHkvysZ-QOvULgJAWSZQr0Lq-9TF_RbTYziw-DGczvD1n-tXv3cuddOjgmt277807NuozPv7VdI675UIo_DYCxYcxM05wZugYMCLRvOR-4ao6l-PSjkFyospbbw0F2dpP_PPG9rPhR_o_BbGpiDU1nCOr4zUw0_dyJ_hXurCdDn8EpQppmTjHCOoa6-XFHtvbTz9nXy1V2L6-_7mU_TPrmWos97_rJoekmRVPJyfC2bpDdpJfDtf16bN_qP32u_pP2eXgUxy_Xq5Kv8Dax5utgba1luMQgR-R5X440sUbK0qLIX8Z4XymNJcGRIlKIZXx_HNXj2j8K9ZD1Hw1vnw_537_841wdy7qsrYC2bWwTLUy9JkjpTZxvcLtyAxKCe1b5ox97FxIpJM7ehYPWFYCU-ckL_QSP3I6LvCZKpqrkkRi4q0y2NKKNKg7McasPVEfcITaNFku6DGDkYBWl7jWJsb5JPZ243k46xTJIxZ3bYiCaW0dgBvbA2_lxo22dsYnUGW1c8l6smMfgMGwSNcrkePNrNyMapmHKihS170Xlnj-kdKArb5CxgnJFTrRmplQx20CV0Uisme0lURVAQsfKP-MySshJANzkEdP8JbN8qCMCxHKb-hmnItgrZUewyAhlCdNwGdQLStSiZytVh8iBm7fHWS30JFHUj0QoKLmJaj3mIYCxM144ZE6Y9ENWeX4Ejy9hvShZGjOSChIhkhE4ojzNQ1fNB5m2Ra4KjUSsCJAoOVj025XHMurw9dl1crQ2mCJlkhQ-j93NHuQ6TUjFT_GK2sLO0vaZK7bLXefL2HeHV23uGkO4nWJyHy9P824ajoGNbuN6SQNk9Pjd6fgbmGINTE0EsDkz_wUxtifs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=M1I4AnicbZBNrts2AITRw3RlBBBJSTa7s_VjW4llixL1w80DLdKWbOrHkvysZ-QOvULgJAWSZQr0Lq-9TF_RbTYziw-DGczvD1n-tXv3cuddOjgmt277807NuozPv7VdI675UIo_DYCxYcxM05wZugYMCLRvOR-4ao6l-PSjkFyospbbw0F2dpP_PPG9rPhR_o_BbGpiDU1nCOr4zUw0_dyJ_hXurCdDn8EpQppmTjHCOoa6-XFHtvbTz9nXy1V2L6-_7mU_TPrmWos97_rJoekmRVPJyfC2bpDdpJfDtf16bN_qP32u_pP2eXgUxy_Xq5Kv8Dax5utgba1luMQgR-R5X440sUbK0qLIX8Z4XymNJcGRIlKIZXx_HNXj2j8K9ZD1Hw1vnw_537_841wdy7qsrYC2bWwTLUy9JkjpTZxvcLtyAxKCe1b5ox97FxIpJM7ehYPWFYCU-ckL_QSP3I6LvCZKpqrkkRi4q0y2NKKNKg7McasPVEfcITaNFku6DGDkYBWl7jWJsb5JPZ243k46xTJIxZ3bYiCaW0dgBvbA2_lxo22dsYnUGW1c8l6smMfgMGwSNcrkePNrNyMapmHKihS170Xlnj-kdKArb5CxgnJFTrRmplQx20CV0Uisme0lURVAQsfKP-MySshJANzkEdP8JbN8qCMCxHKb-hmnItgrZUewyAhlCdNwGdQLStSiZytVh8iBm7fHWS30JFHUj0QoKLmJaj3mIYCxM144ZE6Y9ENWeX4Ejy9hvShZGjOSChIhkhE4ojzNQ1fNB5m2Ra4KjUSsCJAoOVj025XHMurw9dl1crQ2mCJlkhQ-j93NHuQ6TUjFT_GK2sLO0vaZK7bLXefL2HeHV23uGkO4nWJyHy9P824ajoGNbuN6SQNk9Pjd6fgbmGINTE0EsDkz_wUxtifs"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the top 3 best soundbars?",
+      "type": "ai_overview",
+      "page_token": "TfnLOHicHdBfTsIwHADgeBkfZX8MAgkx2WgLYxRX29_GXsxWhGK7rbIqsjfv4qk8jYnfEb7vH3Nq9e-NU87ZfjYaXS6Xu2PXHc3rneyaUdVfWzmSlTF1JfVs_DD2Hw9yjj5QFL-vokxYCwvmceJSkeuBejaWgsXM7Nc8VFXpTb6yQa23XIl9YfpaM5FBxABUIjneAEwJB_VeGpMJXzH-hu7FAovCmwRS95dKJ6hu8Yp79qkkUyeQO9dDQngDjPIyATO5r1E3iMBlnEdx4dkWYH_eFtZjyA4bf6pSwOscsSsPoKoGjCkxmgMG2lAHQxZUBDw2UMz4MdwQlkrfMqTKLC3MeFckuz0SwU7QcNe4rF6oa57jiJySiC3pdZuX7Fmbtl6aPs3dMsdwlsSOaWFKAIglJCFon90e5Oc8vP3fnL8cGjez5-74BybAghs",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TfnLOHicHdBfTsIwHADgeBkfZX8MAgkx2WgLYxRX29_GXsxWhGK7rbIqsjfv4qk8jYnfEb7vH3Nq9e-NU87ZfjYaXS6Xu2PXHc3rneyaUdVfWzmSlTF1JfVs_DD2Hw9yjj5QFL-vokxYCwvmceJSkeuBejaWgsXM7Nc8VFXpTb6yQa23XIl9YfpaM5FBxABUIjneAEwJB_VeGpMJXzH-hu7FAovCmwRS95dKJ6hu8Yp79qkkUyeQO9dDQngDjPIyATO5r1E3iMBlnEdx4dkWYH_eFtZjyA4bf6pSwOscsSsPoKoGjCkxmgMG2lAHQxZUBDw2UMz4MdwQlkrfMqTKLC3MeFckuz0SwU7QcNe4rF6oa57jiJySiC3pdZuX7Fmbtl6aPs3dMsdwlsSOaWFKAIglJCFon90e5Oc8vP3fnL8cGjez5-74BybAghs",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1QxOVBNRTQxUzFVMmNVbENkVGxUZUdOWmRYbG9hek5aZUhkSmRIZFFMWHB1VEhoUWJubENUV1J5VGpKTVNIRkZXbVpYWlVaVVUyaDFYMWRuUldobE1YaHNaRzl4TjI5SlVsSmpSR1IzZGxOWExWcHBkekJEY2treFFSSVdVQzE1ZW1GeVdIUkZObUZEZDJKclVHdzRjbGxoUVJvaVFVUnpjamxtVTJOR2FsTnBObmRYVHpOaWRrMVBUMEYyYmxCaGQwbFpSMnA0ZHciLCJmY3YiOiIzIiwiZWkiOiJQLXl6YXJYdEU2YUN3YmtQbDhyWWFBIiwicWMiOiJDaVZpWlhOMElITnZkVzVrWW1GeWN5Qm1iM0lnYUc5dFpTQjBhR1ZoZEdWeUlITmxkSFZ3RUFCOWYtWU1QdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAzIGJlc3Qgc291bmRiYXJzPyIsImxrIjoiR2hSMGIzQWdNeUJpWlhOMElITnZkVzVrWW1GeWN3IiwiYnMiOiJjLU95NFZJS3owZ3NVVWdzU2xVb3lRRGlfQUlGWTRXazFPSVNoZUw4MHJ5VXBNU2lZbnNqTVNrUmJCSmNfbHlxamtDTllBRUZrSWhDZW41LWlrSmFmcEZDUm40dTJNVEVrdFFpZXlNMUtaVkVJaFJ5UlhKcGhXZGtKbWZBN1ZESUxJWllDbEphWEZwVUJEWUJMR3R2cEMybFdVNnNhcTVvTG0wa28wR09VTWhJTEFaN0d1RXJoY0xTeEp6TWtrcDdJeDBwclhLaWxRc3dBZ0EiLCJpZCI6ImZjX1AteXphclh0RTZhQ3dia1BsOHJZYUFfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1QxOVBNRTQxUzFVMmNVbENkVGxUZUdOWmRYbG9hek5aZUhkSmRIZFFMWHB1VEhoUWJubENUV1J5VGpKTVNIRkZXbVpYWlVaVVUyaDFYMWRuUldobE1YaHNaRzl4TjI5SlVsSmpSR1IzZGxOWExWcHBkekJEY2treFFSSVdVQzE1ZW1GeVdIUkZObUZEZDJKclVHdzRjbGxoUVJvaVFVUnpjamxtVTJOR2FsTnBObmRYVHpOaWRrMVBUMEYyYmxCaGQwbFpSMnA0ZHciLCJmY3YiOiIzIiwiZWkiOiJQLXl6YXJYdEU2YUN3YmtQbDhyWWFBIiwicWMiOiJDaVZpWlhOMElITnZkVzVrWW1GeWN5Qm1iM0lnYUc5dFpTQjBhR1ZoZEdWeUlITmxkSFZ3RUFCOWYtWU1QdyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAzIGJlc3Qgc291bmRiYXJzPyIsImxrIjoiR2hSMGIzQWdNeUJpWlhOMElITnZkVzVrWW1GeWN3IiwiYnMiOiJjLU95NFZJS3owZ3NVVWdzU2xVb3lRRGlfQUlGWTRXazFPSVNoZUw4MHJ5VXBNU2lZbnNqTVNrUmJCSmNfbHlxamtDTllBRUZrSWhDZW41LWlrSmFmcEZDUm40dTJNVEVrdFFpZXlNMUtaVkVJaFJ5UlhKcGhXZGtKbWZBN1ZESUxJWllDbEphWEZwVUJEWUJMR3R2cEMybFdVNnNhcTVvTG0wa28wR09VTWhJTEFaN0d1RXJoY0xTeEp6TWtrcDdJeDBwclhLaWxRc3dBZ0EiLCJpZCI6ImZjX1AteXphclh0RTZhQ3dia1BsOHJZYUFfNCJ9"
+    },
+    {
+      "question": "Are sound bars good for home theater?",
+      "type": "ai_overview",
+      "page_token": "wXHKfHicHdDPToMwHADg-DIeXQHBbMligmuZxJW040ehFwOtWzfKwI39gZvv4lP5NBqv3_H7-ra7Q_1z15u-706zyeR6vT5s23ZrPx5U20zK03BQE1VaW5WqngVPgfO8UXN8xuHL52vIoOuyBUcpobUGOqw9-7bac5fi_qIWbFzXMhaWNisvLCpHd7lnkg88Ncw1oC34gPiRHcCXB-0LMFQSUmiwzZ9HJY4d7U57iSyUkd9lpAtEw086pQPs-SITUqyXZFdlJswsPSe5pBWJA0DsypFBtLmVCpF2nYWPMiI7SLfjCvAjzXXCaoaK0W5yB8YS0UCNxheY8HI0L2lkPWwke8ttUORxoTG4BVCvaHpWLcwgBAmjXRzyJR0SIVNR936S_lUs5U25N1TsQ0cCcysiM_DiWIiY32_UZe7d_2_O3zdNP-uO7fYXT0WAig",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wXHKfHicHdDPToMwHADg-DIeXQHBbMligmuZxJW040ehFwOtWzfKwI39gZvv4lP5NBqv3_H7-ra7Q_1z15u-706zyeR6vT5s23ZrPx5U20zK03BQE1VaW5WqngVPgfO8UXN8xuHL52vIoOuyBUcpobUGOqw9-7bac5fi_qIWbFzXMhaWNisvLCpHd7lnkg88Ncw1oC34gPiRHcCXB-0LMFQSUmiwzZ9HJY4d7U57iSyUkd9lpAtEw086pQPs-SITUqyXZFdlJswsPSe5pBWJA0DsypFBtLmVCpF2nYWPMiI7SLfjCvAjzXXCaoaK0W5yB8YS0UCNxheY8HI0L2lkPWwke8ttUORxoTG4BVCvaHpWLcwgBAmjXRzyJR0SIVNR936S_lUs5U25N1TsQ0cCcysiM_DiWIiY32_UZe7d_2_O3zdNP-uO7fYXT0WAig",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1QxOVBNRTQxUzFVMmNVbENkVGxUZUdOWmRYbG9hek5aZUhkSmRIZFFMWHB1VEhoUWJubENUV1J5VGpKTVNIRkZXbVpYWlVaVVUyaDFYMWRuUldobE1YaHNaRzl4TjI5SlVsSmpSR1IzZGxOWExWcHBkekJEY2treFFSSVdVQzE1ZW1GeVdIUkZObUZEZDJKclVHdzRjbGxoUVJvaVFVUnpjamxtVTJOR2FsTnBObmRYVHpOaWRrMVBUMEYyYmxCaGQwbFpSMnA0ZHciLCJmY3YiOiIzIiwiZWkiOiJQLXl6YXJYdEU2YUN3YmtQbDhyWWFBIiwicWMiOiJDaVZpWlhOMElITnZkVzVrWW1GeWN5Qm1iM0lnYUc5dFpTQjBhR1ZoZEdWeUlITmxkSFZ3RUFCOWYtWU1QdyIsInF1ZXN0aW9uIjoiQXJlIHNvdW5kIGJhcnMgZ29vZCBmb3IgaG9tZSB0aGVhdGVyPyIsImxrIjoiR2lSaGNtVWdjMjkxYm1RZ1ltRnljeUJuYjI5a0lHWnZjaUJvYjIxbElIUm9aV0YwWlhJIiwiYnMiOiJjLU95NFZJS3owZ3NVVWdzU2xVb3lRRGlfQUlGWTRXazFPSVNoZUw4MHJ5VXBNU2lZbnNqTVNrUmJCSmNfbHlxamtDTllBRUZrSWhDZW41LWlrSmFmcEZDUm40dTJNVEVrdFFpZXlNMUtaVkVJaFJ5UlhKcGhXZGtKbWZBN1ZESUxJWllDbEphWEZwVUJEWUJMR3R2cEMybFdVNnNhcTVvTG0wa28wR09VTWhJTEFaN0d1RXJoY0xTeEp6TWtrcDdJeDBwclhLaWxRc3dBZ0EiLCJpZCI6ImZjX1AteXphclh0RTZhQ3dia1BsOHJZYUFfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1QxOVBNRTQxUzFVMmNVbENkVGxUZUdOWmRYbG9hek5aZUhkSmRIZFFMWHB1VEhoUWJubENUV1J5VGpKTVNIRkZXbVpYWlVaVVUyaDFYMWRuUldobE1YaHNaRzl4TjI5SlVsSmpSR1IzZGxOWExWcHBkekJEY2treFFSSVdVQzE1ZW1GeVdIUkZObUZEZDJKclVHdzRjbGxoUVJvaVFVUnpjamxtVTJOR2FsTnBObmRYVHpOaWRrMVBUMEYyYmxCaGQwbFpSMnA0ZHciLCJmY3YiOiIzIiwiZWkiOiJQLXl6YXJYdEU2YUN3YmtQbDhyWWFBIiwicWMiOiJDaVZpWlhOMElITnZkVzVrWW1GeWN5Qm1iM0lnYUc5dFpTQjBhR1ZoZEdWeUlITmxkSFZ3RUFCOWYtWU1QdyIsInF1ZXN0aW9uIjoiQXJlIHNvdW5kIGJhcnMgZ29vZCBmb3IgaG9tZSB0aGVhdGVyPyIsImxrIjoiR2lSaGNtVWdjMjkxYm1RZ1ltRnljeUJuYjI5a0lHWnZjaUJvYjIxbElIUm9aV0YwWlhJIiwiYnMiOiJjLU95NFZJS3owZ3NVVWdzU2xVb3lRRGlfQUlGWTRXazFPSVNoZUw4MHJ5VXBNU2lZbnNqTVNrUmJCSmNfbHlxamtDTllBRUZrSWhDZW41LWlrSmFmcEZDUm40dTJNVEVrdFFpZXlNMUtaVkVJaFJ5UlhKcGhXZGtKbWZBN1ZESUxJWllDbEphWEZwVUJEWUJMR3R2cEMybFdVNnNhcTVvTG0wa28wR09VTWhJTEFaN0d1RXJoY0xTeEp6TWtrcDdJeDBwclhLaWxRc3dBZ0EiLCJpZCI6ImZjX1AteXphclh0RTZhQ3dia1BsOHJZYUFfNCJ9"
+    },
+    {
+      "question": "Which soundbar is best for surround sound?",
+      "type": "ai_overview",
+      "page_token": "bA21EHicHdBRbpswGABg7TJ9bIAUpkaKprkxMC8Q4eS3sV8msJs4wwaWOE3gbXfZqXaaSfuO8P3-Y8999_eTN96P19Vicb_fn0_DcLLvz2pwi-Y69WqhGmvbRnWr5HMSfjmqNb5h9PbrG6pgHNmGBntLbioyA2SVryD9yUKb6UDGPEdvKjcXWn-NuTWJhjCj2HjB9UFbdt-DdDKjXdnree9eb6q3kuL01nARKZD5Lh-DEoqH7uKuAX0FFw-CkUsTnULZI7M90F0RkBd9KEPN0pd9oCbBzMwdfpRpOReOXKsgniuWIjHbcxt4Uod6WWQeIOweu5z0vCbbtqNTm8vvAkbKe4SwkdW2tomoidAYIgHlUjhftRszcZ6i7EwQzctpxyWlrtwwrFHbpUdhEX7vxVSErwkDEQH4rOF--XRUH-vl0__N9Y-j86vxMpz-AYUsgnM",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bA21EHicHdBRbpswGABg7TJ9bIAUpkaKprkxMC8Q4eS3sV8msJs4wwaWOE3gbXfZqXaaSfuO8P3-Y8999_eTN96P19Vicb_fn0_DcLLvz2pwi-Y69WqhGmvbRnWr5HMSfjmqNb5h9PbrG6pgHNmGBntLbioyA2SVryD9yUKb6UDGPEdvKjcXWn-NuTWJhjCj2HjB9UFbdt-DdDKjXdnree9eb6q3kuL01nARKZD5Lh-DEoqH7uKuAX0FFw-CkUsTnULZI7M90F0RkBd9KEPN0pd9oCbBzMwdfpRpOReOXKsgniuWIjHbcxt4Uod6WWQeIOweu5z0vCbbtqNTm8vvAkbKe4SwkdW2tomoidAYIgHlUjhftRszcZ6i7EwQzctpxyWlrtwwrFHbpUdhEX7vxVSErwkDEQH4rOF--XRUH-vl0__N9Y-j86vxMpz-AYUsgnM",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1QxOVBNRTQxUzFVMmNVbENkVGxUZUdOWmRYbG9hek5aZUhkSmRIZFFMWHB1VEhoUWJubENUV1J5VGpKTVNIRkZXbVpYWlVaVVUyaDFYMWRuUldobE1YaHNaRzl4TjI5SlVsSmpSR1IzZGxOWExWcHBkekJEY2treFFSSVdVQzE1ZW1GeVdIUkZObUZEZDJKclVHdzRjbGxoUVJvaVFVUnpjamxtVTJOR2FsTnBObmRYVHpOaWRrMVBUMEYyYmxCaGQwbFpSMnA0ZHciLCJmY3YiOiIzIiwiZWkiOiJQLXl6YXJYdEU2YUN3YmtQbDhyWWFBIiwicWMiOiJDaVZpWlhOMElITnZkVzVrWW1GeWN5Qm1iM0lnYUc5dFpTQjBhR1ZoZEdWeUlITmxkSFZ3RUFCOWYtWU1QdyIsInF1ZXN0aW9uIjoiV2hpY2ggc291bmRiYXIgaXMgYmVzdCBmb3Igc3Vycm91bmQgc291bmQ/IiwibGsiOiJjNVBTTE1fSVRNNVFLTTR2elV0SlNpeFN5Q3hXU0VvdExsRkl5eTlTS0M0dEtnS0pRMlFCIiwiYnMiOiJjLU95NFZJS3owZ3NVVWdzU2xVb3lRRGlfQUlGWTRXazFPSVNoZUw4MHJ5VXBNU2lZbnNqTVNrUmJCSmNfbHlxamtDTllBRUZrSWhDZW41LWlrSmFmcEZDUm40dTJNVEVrdFFpZXlNMUtaVkVJaFJ5UlhKcGhXZGtKbWZBN1ZESUxJWllDbEphWEZwVUJEWUJMR3R2cEMybFdVNnNhcTVvTG0wa28wR09VTWhJTEFaN0d1RXJoY0xTeEp6TWtrcDdJeDBwclhLaWxRc3dBZ0EiLCJpZCI6ImZjX1AteXphclh0RTZhQ3dia1BsOHJZYUFfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1QxOVBNRTQxUzFVMmNVbENkVGxUZUdOWmRYbG9hek5aZUhkSmRIZFFMWHB1VEhoUWJubENUV1J5VGpKTVNIRkZXbVpYWlVaVVUyaDFYMWRuUldobE1YaHNaRzl4TjI5SlVsSmpSR1IzZGxOWExWcHBkekJEY2treFFSSVdVQzE1ZW1GeVdIUkZObUZEZDJKclVHdzRjbGxoUVJvaVFVUnpjamxtVTJOR2FsTnBObmRYVHpOaWRrMVBUMEYyYmxCaGQwbFpSMnA0ZHciLCJmY3YiOiIzIiwiZWkiOiJQLXl6YXJYdEU2YUN3YmtQbDhyWWFBIiwicWMiOiJDaVZpWlhOMElITnZkVzVrWW1GeWN5Qm1iM0lnYUc5dFpTQjBhR1ZoZEdWeUlITmxkSFZ3RUFCOWYtWU1QdyIsInF1ZXN0aW9uIjoiV2hpY2ggc291bmRiYXIgaXMgYmVzdCBmb3Igc3Vycm91bmQgc291bmQ%2FIiwibGsiOiJjNVBTTE1fSVRNNVFLTTR2elV0SlNpeFN5Q3hXU0VvdExsRkl5eTlTS0M0dEtnS0pRMlFCIiwiYnMiOiJjLU95NFZJS3owZ3NVVWdzU2xVb3lRRGlfQUlGWTRXazFPSVNoZUw4MHJ5VXBNU2lZbnNqTVNrUmJCSmNfbHlxamtDTllBRUZrSWhDZW41LWlrSmFmcEZDUm40dTJNVEVrdFFpZXlNMUtaVkVJaFJ5UlhKcGhXZGtKbWZBN1ZESUxJWllDbEphWEZwVUJEWUJMR3R2cEMybFdVNnNhcTVvTG0wa28wR09VTWhJTEFaN0d1RXJoY0xTeEp6TWtrcDdJeDBwclhLaWxRc3dBZ0EiLCJpZCI6ImZjX1AteXphclh0RTZhQ3dia1BsOHJZYUFfNCJ9"
+    },
+    {
+      "question": "Which sound bar has the best sound quality?",
+      "type": "ai_overview",
+      "page_token": "S7gQJXicHdDBboIwGADg7GU8TqrTRROzhJUWiaD80NZyWUpBUdrBJhvibe-yp9rTbNnxu35f3-b0Wv_cdVXXtZfleNz3_f2xaY6mvNeNHavL8KrHWhmTK10v549z9HTQK-_Dc5_f1m7M2pZjcJI0HFKyICU27xxHMy0Q5A5geUI7XpPL3onmIarUhl1F5l1pYWK0xRwSQVhhm74487isZ73C-qGsIUowbP58YmxR59PqjVHuZMbttAApbPfBeDMRtkIctVNhi0vkLZot7XYKmTBjEhVOQTWGIaWEKTq7RV5mEhokkAaNdIwLzOk5W09KP9iFfniTxiDw1zfuEMgxAa_K4s3ezOU-kIXHJpJFU2m7OMfVIARx6SlwwY-GrciYoBlmInBVCiz0q1qhABeTlpe2VXAGwi2H0UF_rqaj_83Vy8F2y_a9Of4CI5WA1w",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=S7gQJXicHdDBboIwGADg7GU8TqrTRROzhJUWiaD80NZyWUpBUdrBJhvibe-yp9rTbNnxu35f3-b0Wv_cdVXXtZfleNz3_f2xaY6mvNeNHavL8KrHWhmTK10v549z9HTQK-_Dc5_f1m7M2pZjcJI0HFKyICU27xxHMy0Q5A5geUI7XpPL3onmIarUhl1F5l1pYWK0xRwSQVhhm74487isZ73C-qGsIUowbP58YmxR59PqjVHuZMbttAApbPfBeDMRtkIctVNhi0vkLZot7XYKmTBjEhVOQTWGIaWEKTq7RV5mEhokkAaNdIwLzOk5W09KP9iFfniTxiDw1zfuEMgxAa_K4s3ezOU-kIXHJpJFU2m7OMfVIARx6SlwwY-GrciYoBlmInBVCiz0q1qhABeTlpe2VXAGwi2H0UF_rqaj_83Vy8F2y_a9Of4CI5WA1w",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1QxOVBNRTQxUzFVMmNVbENkVGxUZUdOWmRYbG9hek5aZUhkSmRIZFFMWHB1VEhoUWJubENUV1J5VGpKTVNIRkZXbVpYWlVaVVUyaDFYMWRuUldobE1YaHNaRzl4TjI5SlVsSmpSR1IzZGxOWExWcHBkekJEY2treFFSSVdVQzE1ZW1GeVdIUkZObUZEZDJKclVHdzRjbGxoUVJvaVFVUnpjamxtVTJOR2FsTnBObmRYVHpOaWRrMVBUMEYyYmxCaGQwbFpSMnA0ZHciLCJmY3YiOiIzIiwiZWkiOiJQLXl6YXJYdEU2YUN3YmtQbDhyWWFBIiwicWMiOiJDaVZpWlhOMElITnZkVzVrWW1GeWN5Qm1iM0lnYUc5dFpTQjBhR1ZoZEdWeUlITmxkSFZ3RUFCOWYtWU1QdyIsInF1ZXN0aW9uIjoiV2hpY2ggc291bmQgYmFyIGhhcyB0aGUgYmVzdCBzb3VuZCBxdWFsaXR5PyIsImxrIjoiYzVQU0tzX0lUTTVRS000dnpVdFJTRW9zVXNoSUxGWW95VWhWU0VvdExvRUtGNVltNW1TV1ZBSUEiLCJicyI6ImMtT3k0VklLejBnc1VVZ3NTbFVveVFEaV9BSUZZNFdrMU9JU2hlTDgwcnlVcE1TaVluc2pNU2tSYkJKY19seXFqa0NOWUFFRmtJaENlbjUtaWtKYWZwRkNSbjR1Mk1URWt0UWlleU0xS1pWRUloUnlSWEpwaFdka0ptZkE3VkRJTElaWUNsSmFYRnBVQkRZQkxHdHZwQzJsV1U2c2FxNW9MbTBrbzBHT1VNaElMQVo3R3VFcmhjTFN4SnpNa2twN0l4MHByWEtpbFFzd0FnQSIsImlkIjoiZmNfUC15emFyWHRFNmFDd2JrUGw4cllhQV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSS1QxOVBNRTQxUzFVMmNVbENkVGxUZUdOWmRYbG9hek5aZUhkSmRIZFFMWHB1VEhoUWJubENUV1J5VGpKTVNIRkZXbVpYWlVaVVUyaDFYMWRuUldobE1YaHNaRzl4TjI5SlVsSmpSR1IzZGxOWExWcHBkekJEY2treFFSSVdVQzE1ZW1GeVdIUkZObUZEZDJKclVHdzRjbGxoUVJvaVFVUnpjamxtVTJOR2FsTnBObmRYVHpOaWRrMVBUMEYyYmxCaGQwbFpSMnA0ZHciLCJmY3YiOiIzIiwiZWkiOiJQLXl6YXJYdEU2YUN3YmtQbDhyWWFBIiwicWMiOiJDaVZpWlhOMElITnZkVzVrWW1GeWN5Qm1iM0lnYUc5dFpTQjBhR1ZoZEdWeUlITmxkSFZ3RUFCOWYtWU1QdyIsInF1ZXN0aW9uIjoiV2hpY2ggc291bmQgYmFyIGhhcyB0aGUgYmVzdCBzb3VuZCBxdWFsaXR5PyIsImxrIjoiYzVQU0tzX0lUTTVRS000dnpVdFJTRW9zVXNoSUxGWW95VWhWU0VvdExvRUtGNVltNW1TV1ZBSUEiLCJicyI6ImMtT3k0VklLejBnc1VVZ3NTbFVveVFEaV9BSUZZNFdrMU9JU2hlTDgwcnlVcE1TaVluc2pNU2tSYkJKY19seXFqa0NOWUFFRmtJaENlbjUtaWtKYWZwRkNSbjR1Mk1URWt0UWlleU0xS1pWRUloUnlSWEpwaFdka0ptZkE3VkRJTElaWUNsSmFYRnBVQkRZQkxHdHZwQzJsV1U2c2FxNW9MbTBrbzBHT1VNaElMQVo3R3VFcmhjTFN4SnpNa2twN0l4MHByWEtpbFFzd0FnQSIsImlkIjoiZmNfUC15emFyWHRFNmFDd2JrUGw4cllhQV80In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "RmoTFXiczVbdkqI4FH6AfY7lxmkFQVu7ipoKETX-Y7fd0jcUPxFQkJagqHf7LvtU8zQbUBF71Z6Zi61NFZCEk5Pz5ZyPj7_-9tzl4scfP5wo-iBPpVIcx0U7CGwPF83AL-lktzRLs8Ajoel8dzwRLxkSrEMTu5ZoOmHgY2a99rAYFyBACoIIP7fqnMmPN4a7nbzB7eR96jjmbvtq-B77_qbYE37sWK3XPWN74powu43IMyYRWQa74uhht9fDaSRXdRgbi5FXC1UdMGkUomboBM9pkNs5KWklelv8yTfooEiKeFlUOuV3FZjG2JCLZZarF4cl3acG4L9rCgQyALaEaF-6aUQtfsaZRD1QR4vcFDquzPlWAUz8ISUdwRue7dRb4gBJyQL60N5DQQLdky-o3AwE5vejg8RShimQFKn7M2hyGJImZz7hXetreA4e6PbyaaafeyuDGw1-qoQJ9V4DfQSc48SnjDWD_KiT3BqH7WdAiGVh3LwbOT2dSSxVuuDLdDfBeGkfQSEY0ZVSybJp5bIlI6QPruSajpl2QpIUNHyps0Gz9xz44zVGGnb2HWR8vJYNKGwlbaXHJdOgdl6gW9jSHI39no65Mldh6_xj7VvKJJNkVCJ5KnHVuqqyL0bUtIu9osSdeASzk_-UsqQWILoCTIJH06s5ls7z55NfyPksdA9nkpxlGYFs_3SJUj2kOsvqCAHJRvlSyPwm667x6NCO_ZRHaXEnYQVZdHlkNqWRdK7cM67-Vb5_nlPaWQRI-pdhPiYkIZvCPpHyAlWyrQyQk7yc0EPu2UcGmpc-kuNRshWHHRLksJUBk_MQ5fw2LvWUEmP-DJLqX3WSHEuJQ3hYcaL9BBymc2BufPsIiEHnPt9vNfTFd-K484kwn-o_z5vWYG-SWbwg84kauXY_2Ha77_zGqZqacp0ngW_8guaY_ysmnRSpm767zaSkbr5kEq18dFeR0v5RkToHJkH7JpOkg8KligQzRRpeVaTLioJgfGZSV7qrSL_OJHiXSfYR6RUmUUW6xqTFLSalinTJJKemXCjSBe6zImVM-h1Fgr-nSCmx8OFxKU_ruX1TpuQpHrhvdqXdi8fqXPa6lQfUELjF1H8EX8rUzI-efN3yvmmu9SSVO9HO-qbRieAJW8xKNDCJCvRvdGkZekgKsyAsOPSHtBA5WI9wWCA4Wn8wvhcGIqsLD44Q2HJvOA1Wo6FdEdC4GmsPnSjezDy_4zZ0LuzJzdFaXUjxiJ3F8wHHNlo9vjOpodlrC-92S8_jiK-2-4ruqPrmxe9Z8erDlcM90AY9Zffamra3w_m41mxb1bHbs7tB3WSXyxdTVqPRfthvjwb8c2NrrqppVEQsR-3Oxuc32xeZobgIFjnGD02RpkiwwUABbzatRahSHtMihgG9YnpVgSJLDDF1DZONKOAZLzziimnVZny1xjO-He0-RIFjyDIUuX8AolxfmQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=RmoTFXiczVbdkqI4FH6AfY7lxmkFQVu7ipoKETX-Y7fd0jcUPxFQkJagqHf7LvtU8zQbUBF71Z6Zi61NFZCEk5Pz5ZyPj7_-9tzl4scfP5wo-iBPpVIcx0U7CGwPF83AL-lktzRLs8Ajoel8dzwRLxkSrEMTu5ZoOmHgY2a99rAYFyBACoIIP7fqnMmPN4a7nbzB7eR96jjmbvtq-B77_qbYE37sWK3XPWN74powu43IMyYRWQa74uhht9fDaSRXdRgbi5FXC1UdMGkUomboBM9pkNs5KWklelv8yTfooEiKeFlUOuV3FZjG2JCLZZarF4cl3acG4L9rCgQyALaEaF-6aUQtfsaZRD1QR4vcFDquzPlWAUz8ISUdwRue7dRb4gBJyQL60N5DQQLdky-o3AwE5vejg8RShimQFKn7M2hyGJImZz7hXetreA4e6PbyaaafeyuDGw1-qoQJ9V4DfQSc48SnjDWD_KiT3BqH7WdAiGVh3LwbOT2dSSxVuuDLdDfBeGkfQSEY0ZVSybJp5bIlI6QPruSajpl2QpIUNHyps0Gz9xz44zVGGnb2HWR8vJYNKGwlbaXHJdOgdl6gW9jSHI39no65Mldh6_xj7VvKJJNkVCJ5KnHVuqqyL0bUtIu9osSdeASzk_-UsqQWILoCTIJH06s5ls7z55NfyPksdA9nkpxlGYFs_3SJUj2kOsvqCAHJRvlSyPwm667x6NCO_ZRHaXEnYQVZdHlkNqWRdK7cM67-Vb5_nlPaWQRI-pdhPiYkIZvCPpHyAlWyrQyQk7yc0EPu2UcGmpc-kuNRshWHHRLksJUBk_MQ5fw2LvWUEmP-DJLqX3WSHEuJQ3hYcaL9BBymc2BufPsIiEHnPt9vNfTFd-K484kwn-o_z5vWYG-SWbwg84kauXY_2Ha77_zGqZqacp0ngW_8guaY_ysmnRSpm767zaSkbr5kEq18dFeR0v5RkToHJkH7JpOkg8KligQzRRpeVaTLioJgfGZSV7qrSL_OJHiXSfYR6RUmUUW6xqTFLSalinTJJKemXCjSBe6zImVM-h1Fgr-nSCmx8OFxKU_ruX1TpuQpHrhvdqXdi8fqXPa6lQfUELjF1H8EX8rUzI-efN3yvmmu9SSVO9HO-qbRieAJW8xKNDCJCvRvdGkZekgKsyAsOPSHtBA5WI9wWCA4Wn8wvhcGIqsLD44Q2HJvOA1Wo6FdEdC4GmsPnSjezDy_4zZ0LuzJzdFaXUjxiJ3F8wHHNlo9vjOpodlrC-92S8_jiK-2-4ruqPrmxe9Z8erDlcM90AY9Zffamra3w_m41mxb1bHbs7tB3WSXyxdTVqPRfthvjwb8c2NrrqppVEQsR-3Oxuc32xeZobgIFjnGD02RpkiwwUABbzatRahSHtMihgG9YnpVgSJLDDF1DZONKOAZLzziimnVZny1xjO-He0-RIFjyDIUuX8AolxfmQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The 5 Best Soundbars of 2026",
+      "link": "https://www.rtings.com/soundbar/reviews/best/soundbar",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVvfO2femhh51jLA94Iyw6HyDGFPKvqqAyIaOzZ674Jsar3oNE575qCtcRumHtj3SGZGyHHYEnjGKycDmU9a5MaBEFBdaCtXmZLj7LZbYiv1sUBAvVQeGRA_eW9qMOkCJlGN8VnTtDaT8&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0QFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://www.rtings.com › Soundbar › Best",
+      "date": "Aug 20, 2026",
+      "snippet": "The Samsung HW-Q990F is the best soundbar we've tested. This premium 11.1.4 setup is the next generation of the Samsung HW-Q990D with a ...",
+      "snippet_highlighted_words": [
+        "Samsung HW-Q990F"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Samsung HW-Q990F is the best soundbar we've tested. This premium 11.1.4 setup is the next generation of the Samsung HW-Q990D with a ...",
+          "source_info_link": "https://www.rtings.com/soundbar/reviews/best/soundbar",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBwCdASocABwAPtEutFooIagoGAEAGglsALsogPPAsk5vgZoLRX_mfsA6b_zoMDV6I1rVWbKRuDj2Xx5JrfIQx1IYAAD-9gEpnxuhc7ENnwKjzZoQnCod4QIHeqxtWkm-zR-KYZ1s1v_VznstYhRh3O74CYk2IT392EgBCIM99luEHmIleipgJlMN7ygb-jOW1Bn34ULpxMS_919JTLNvJnfR3F8LUP_-ZffK74uiqK2Rb638T_o0bNyH_FWK7GSyYExAvnazPBgeJx3__aKGooFvapPvH9V1SCEWzSW3TMrz2Efp2V914fVX14EW-xgAIoSM7sIKW_rtSB6q0s_KKxKP6W2YdnLdOfPf4deU0sAwra9ybej7ApMHfwBoA3MWtRmurjVvYuA5aPlwB_RdIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVnZmTzJmZW1oaDUxakxBOTRJeXc2SHlER0ZQS3ZxcUF5SWFPelo2NzRKc2FyM29ORTU3NXFDdGNSdW1IdGozU0daR3lISFlFbmpHS3ljRG1VOWE1TWFCRUZCZGFDdFhtWkxqN0xaYllpdjFzVUJBdlZRZUdSQV9lVzlxTU9rQ0psR044Vm5UdERhVDgSBBoCCAAatgYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCQBggAEAAYACAAKhYKBGJlc3QV70GfQBoEZ29vZBoDdG9wKkEKCXNvdW5kYmFycxUNpKtAGglzb3VuZCBiYXIaCnNvdW5kIGJhcnMaCHNvdW5kYmFyGg5pdjtwO3NvdW5kYmFycyoKCgNmb3IVAAAAACpICgRob21lFTPn1j8aBWhvbWVzGgtob21ldGhlYXRlchoFaG91c2UaDnN1cnJvdW5kIHNvdW5kGhBob21ldGhlYXRlcnNldHVwKmIKB3RoZWF0ZXIVPPPNPxoGY2luZW1hGg1lbnRlcnRhaW5tZW50Ggtob21ldGhlYXRlchoOc3Vycm91bmQgc291bmQaEGhvbWV0aGVhdGVyc2V0dXAaDGl2O3A7dGhlYXRlcipzCgVzZXR1cBVkA8Y_Gg1jb25maWd1cmF0aW9uGgdpbnN0YWxsGgxpbnN0YWxsYXRpb24aCmluc3RhbGxpbmcaBmxheW91dBoGc2V0IHVwGgdzZXR0aW5nGghzZXR0aW5ncxoQaG9tZXRoZWF0ZXJzZXR1cDKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZ2Zk8yZmVtaGg1MWpMQTk0SXl3Nkh5REdGUEt2cXFBeUlhT3paNjc0SnNhcjNvTkU1NzVxQ3RjUnVtSHRqM1NHWkd5SEhZRW5qR0t5Y0RtVTlhNU1hQkVGQmRhQ3RYbVpMajdMWmJZaXYxc1VCQXZWUWVHUkFfZVc5cU1Pa0NKbEdOOFZuVHREYVQ4OjBUaGUgNSA8Yj5CZXN0IFNvdW5kYmFyczwvYj4gb2YgMjAyNiAtIFJUSU5HUy5jb21CmwFUaGUgPGI-U2Ftc3VuZyBIVy1ROTkwRjwvYj4gaXMgdGhlIGJlc3Qgc291bmRiYXIgd2UmIzM5O3ZlIHRlc3RlZC4gVGhpcyBwcmVtaXVtIDExLjEuNCBzZXR1cCBpcyB0aGUgbmV4dCBnZW5lcmF0aW9uIG9mIHRoZSBTYW1zdW5nIEhXLVE5OTBEIHdpdGggYSZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVnZmTzJmZW1oaDUxakxBOTRJeXc2SHlER0ZQS3ZxcUF5SWFPelo2NzRKc2FyM29ORTU3NXFDdGNSdW1IdGozU0daR3lISFlFbmpHS3ljRG1VOWE1TWFCRUZCZGFDdFhtWkxqN0xaYllpdjFzVUJBdlZRZUdSQV9lVzlxTU9rQ0psR044Vm5UdERhVDgSBBoCCAAatgYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCQBggAEAAYACAAKhYKBGJlc3QV70GfQBoEZ29vZBoDdG9wKkEKCXNvdW5kYmFycxUNpKtAGglzb3VuZCBiYXIaCnNvdW5kIGJhcnMaCHNvdW5kYmFyGg5pdjtwO3NvdW5kYmFycyoKCgNmb3IVAAAAACpICgRob21lFTPn1j8aBWhvbWVzGgtob21ldGhlYXRlchoFaG91c2UaDnN1cnJvdW5kIHNvdW5kGhBob21ldGhlYXRlcnNldHVwKmIKB3RoZWF0ZXIVPPPNPxoGY2luZW1hGg1lbnRlcnRhaW5tZW50Ggtob21ldGhlYXRlchoOc3Vycm91bmQgc291bmQaEGhvbWV0aGVhdGVyc2V0dXAaDGl2O3A7dGhlYXRlcipzCgVzZXR1cBVkA8Y_Gg1jb25maWd1cmF0aW9uGgdpbnN0YWxsGgxpbnN0YWxsYXRpb24aCmluc3RhbGxpbmcaBmxheW91dBoGc2V0IHVwGgdzZXR0aW5nGghzZXR0aW5ncxoQaG9tZXRoZWF0ZXJzZXR1cDKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZ2Zk8yZmVtaGg1MWpMQTk0SXl3Nkh5REdGUEt2cXFBeUlhT3paNjc0SnNhcjNvTkU1NzVxQ3RjUnVtSHRqM1NHWkd5SEhZRW5qR0t5Y0RtVTlhNU1hQkVGQmRhQ3RYbVpMajdMWmJZaXYxc1VCQXZWUWVHUkFfZVc5cU1Pa0NKbEdOOFZuVHREYVQ4OjBUaGUgNSA8Yj5CZXN0IFNvdW5kYmFyczwvYj4gb2YgMjAyNiAtIFJUSU5HUy5jb21CmwFUaGUgPGI-U2Ftc3VuZyBIVy1ROTkwRjwvYj4gaXMgdGhlIGJlc3Qgc291bmRiYXIgd2UmIzM5O3ZlIHRlc3RlZC4gVGhpcyBwcmVtaXVtIDExLjEuNCBzZXR1cCBpcyB0aGUgbmV4dCBnZW5lcmF0aW9uIG9mIHRoZSBTYW1zdW5nIEhXLVE5OTBEIHdpdGggYSZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "RTINGS.com"
+    },
+    {
+      "position": 2,
+      "title": "TV Sound Bars",
+      "link": "https://www.bestbuy.com/site/speakers/sound-bars/abcat0205007.c?id=abcat0205007",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFYtILgjqIFjYo77iCZeqALIbNh669HICBlCaCidgU-hxzpZLXqzbDNS5KTT61Wff2ArUL5XgHIYow-6TLqyuOVHOnooDnToBpnMECIKKVE2gdPF7lKlbYGteK1yd7xXwIgBAfrXOyBwqiaHvGWlfsmBDCj2jmE1gkF7qbSloZNLnpow&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0QFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://www.bestbuy.com › sound-bars › abcat0205007",
+      "snippet": "Shop sound bars at Best Buy for powerful, yet compact home audio. Save space without sacrificing sound quality by finding the best soundbar system for your ...",
+      "snippet_highlighted_words": [
+        "home",
+        "best soundbar"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "store_nearby_mi": 20.9,
+            "day_returns": 15
+          },
+          "extensions": [
+            "Store nearby (20.9 mi)",
+            "15-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Shop sound bars at Best Buy for powerful, yet compact home audio. Save space without sacrificing sound quality by finding the best soundbar system for your ...",
+          "source_info_link": "https://www.bestbuy.com/site/speakers/sound-bars/abcat0205007.c?id=abcat0205007",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZZdElMZ2pxSUZqWW83N2lDWmVxQUxJYk5oNjY5SElDQmxDYUNpZGdVLWh4enBaTFhxemJETlM1S1RUNjFXZmYyQXJVTDVYZ0hJWW93LTZUTHF5dU9WSE9ub29EblRvQnBuTUVDSUtLVkUyZ2RQRjdsS2xiWUd0ZUsxeWQ3eFh3SWdCQWZyWE95QndxaWFIdkdXbGZzbUJEQ2oyam1FMWdrRjdxYlNsb1pOTG5wb3cSBBoCCAAa5wYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDBBggAEAAYACAAKhYKBGJlc3QVyrUcQRoEZ29vZBoDdG9wKkEKCXNvdW5kYmFycxWoAqlAGglzb3VuZCBiYXIaCnNvdW5kIGJhcnMaCHNvdW5kYmFyGg5pdjtwO3NvdW5kYmFycyoKCgNmb3IVAAAAACpICgRob21lFVeMHEAaBWhvbWVzGgtob21ldGhlYXRlchoFaG91c2UaDnN1cnJvdW5kIHNvdW5kGhBob21ldGhlYXRlcnNldHVwKmIKB3RoZWF0ZXIVRZEAQBoGY2luZW1hGg1lbnRlcnRhaW5tZW50Ggtob21ldGhlYXRlchoOc3Vycm91bmQgc291bmQaEGhvbWV0aGVhdGVyc2V0dXAaDGl2O3A7dGhlYXRlcipzCgVzZXR1cBV6kqc_Gg1jb25maWd1cmF0aW9uGgdpbnN0YWxsGgxpbnN0YWxsYXRpb24aCmluc3RhbGxpbmcaBmxheW91dBoGc2V0IHVwGgdzZXR0aW5nGghzZXR0aW5ncxoQaG9tZXRoZWF0ZXJzZXR1cDLFAS9nb3RvP3VybD1DQUVTaHdFQjZ6c3dGWXRJTGdqcUlGallvNzdpQ1plcUFMSWJOaDY2OUhJQ0JsQ2FDaWRnVS1oeHpwWkxYcXpiRE5TNUtUVDYxV2ZmMkFyVUw1WGdISVlvdy02VExxeXVPVkhPbm9vRG5Ub0Jwbk1FQ0lLS1ZFMmdkUEY3bEtsYllHdGVLMXlkN3hYd0lnQkFmclhPeUJ3cWlhSHZHV2xmc21CRENqMmptRTFna0Y3cWJTbG9aTkxucG93OiZUViA8Yj5Tb3VuZCBCYXJzPC9iPiAtIDxiPkJlc3Q8L2I-IEJ1eUKyAVNob3Agc291bmQgYmFycyBhdCBCZXN0IEJ1eSBmb3IgcG93ZXJmdWwsIHlldCBjb21wYWN0IDxiPmhvbWU8L2I-IGF1ZGlvLiBTYXZlIHNwYWNlIHdpdGhvdXQgc2FjcmlmaWNpbmcgc291bmQgcXVhbGl0eSBieSBmaW5kaW5nIHRoZSA8Yj5iZXN0IHNvdW5kYmFyPC9iPiBzeXN0ZW0gZm9yIHlvdXImbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZZdElMZ2pxSUZqWW83N2lDWmVxQUxJYk5oNjY5SElDQmxDYUNpZGdVLWh4enBaTFhxemJETlM1S1RUNjFXZmYyQXJVTDVYZ0hJWW93LTZUTHF5dU9WSE9ub29EblRvQnBuTUVDSUtLVkUyZ2RQRjdsS2xiWUd0ZUsxeWQ3eFh3SWdCQWZyWE95QndxaWFIdkdXbGZzbUJEQ2oyam1FMWdrRjdxYlNsb1pOTG5wb3cSBBoCCAAa5wYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDBBggAEAAYACAAKhYKBGJlc3QVyrUcQRoEZ29vZBoDdG9wKkEKCXNvdW5kYmFycxWoAqlAGglzb3VuZCBiYXIaCnNvdW5kIGJhcnMaCHNvdW5kYmFyGg5pdjtwO3NvdW5kYmFycyoKCgNmb3IVAAAAACpICgRob21lFVeMHEAaBWhvbWVzGgtob21ldGhlYXRlchoFaG91c2UaDnN1cnJvdW5kIHNvdW5kGhBob21ldGhlYXRlcnNldHVwKmIKB3RoZWF0ZXIVRZEAQBoGY2luZW1hGg1lbnRlcnRhaW5tZW50Ggtob21ldGhlYXRlchoOc3Vycm91bmQgc291bmQaEGhvbWV0aGVhdGVyc2V0dXAaDGl2O3A7dGhlYXRlcipzCgVzZXR1cBV6kqc_Gg1jb25maWd1cmF0aW9uGgdpbnN0YWxsGgxpbnN0YWxsYXRpb24aCmluc3RhbGxpbmcaBmxheW91dBoGc2V0IHVwGgdzZXR0aW5nGghzZXR0aW5ncxoQaG9tZXRoZWF0ZXJzZXR1cDLFAS9nb3RvP3VybD1DQUVTaHdFQjZ6c3dGWXRJTGdqcUlGallvNzdpQ1plcUFMSWJOaDY2OUhJQ0JsQ2FDaWRnVS1oeHpwWkxYcXpiRE5TNUtUVDYxV2ZmMkFyVUw1WGdISVlvdy02VExxeXVPVkhPbm9vRG5Ub0Jwbk1FQ0lLS1ZFMmdkUEY3bEtsYllHdGVLMXlkN3hYd0lnQkFmclhPeUJ3cWlhSHZHV2xmc21CRENqMmptRTFna0Y3cWJTbG9aTkxucG93OiZUViA8Yj5Tb3VuZCBCYXJzPC9iPiAtIDxiPkJlc3Q8L2I-IEJ1eUKyAVNob3Agc291bmQgYmFycyBhdCBCZXN0IEJ1eSBmb3IgcG93ZXJmdWwsIHlldCBjb21wYWN0IDxiPmhvbWU8L2I-IGF1ZGlvLiBTYXZlIHNwYWNlIHdpdGhvdXQgc2FjcmlmaWNpbmcgc291bmQgcXVhbGl0eSBieSBmaW5kaW5nIHRoZSA8Yj5iZXN0IHNvdW5kYmFyPC9iPiBzeXN0ZW0gZm9yIHlvdXImbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Best Buy"
+    },
+    {
+      "position": 3,
+      "title": "What's the best soundbar system (both surround sound ...",
+      "link": "https://www.reddit.com/r/Soundbars/comments/1mylkqs/whats_the_best_soundbar_system_both_surround/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFUG2rgAAtMctvgTZLWFOTscVAp1rVP_qAnJf6ub766vuZMWOpOu2XwRQsNfczor_aT14vdYvZx6mQlIn21oo5s2E952zURdoTra_tBHSUat39KGJUBDYcVPhAN_z8PmNXX7gDDo1tYJM3KvbkvbaHsBKg6AQ8sXqSznxOsYBfUsvs9EX_pAQXKICkEyNHJp3RrwFnUM&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0QFnoECDAQAQ&uoh=1",
+      "displayed_link": "40+ comments · 1 year ago",
+      "snippet": "Basically what’s the best soundbar system I need suggestions for both surround sound soundbar system and also the best single soundbar (it’s for ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Best soundbar? : r/hometheater - Reddit",
+            "link": "https://www.reddit.com/r/hometheater/comments/1ew08w4/best_soundbar/",
+            "answer_count": 42,
+            "date": "Aug 19, 2024"
+          },
+          {
+            "title": "Best Soundbar for someone new to home theater ...",
+            "link": "https://www.reddit.com/r/Soundbars/comments/1o5b74o/best_soundbar_for_someone_new_to_home_theater/",
+            "answer_count": 37,
+            "date": "Oct 13, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "If money really is no object, the Nakamichi Dragon Quad costs $7K and is the best on the market. For less money, the less expensive Nakamichis ...",
+          "source_info_link": "https://www.reddit.com/r/Soundbars/comments/1mylkqs/whats_the_best_soundbar_system_both_surround/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZVRzJyZ0FBdE1jdHZnVFpMV0ZPVHNjVkFwMXJWUF9xQW5KZjZ1Yjc2NnZ1Wk1XT3BPdTJYd1JRc05mY3pvcl9hVDE0dmRZdlp4Nm1RbEluMjFvbzVzMkU5NTJ6VVJkb1RyYV90QkhTVWF0MzlLR0pVQkRZY1ZQaEFOX3o4UG1OWFg3Z0REbzF0WUpNM0t2Ymt2YmFIc0JLZzZBUThzWHFTem54T3NZQmZVc3ZzOUVYX3BBUVhLSUNrRXlOSEpwM1Jyd0ZuVU0SBBoCCAAakwcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDtBggAEAAYACAAKhYKBGJlc3QV0c29QBoEZ29vZBoDdG9wKkEKCXNvdW5kYmFycxUYG2JAGglzb3VuZCBiYXIaCnNvdW5kIGJhcnMaCHNvdW5kYmFyGg5pdjtwO3NvdW5kYmFycyoKCgNmb3IVAAAAACpICgRob21lFUfAij8aBWhvbWVzGgtob21ldGhlYXRlchoFaG91c2UaDnN1cnJvdW5kIHNvdW5kGhBob21ldGhlYXRlcnNldHVwKmIKB3RoZWF0ZXIVxwayPxoGY2luZW1hGg1lbnRlcnRhaW5tZW50Ggtob21ldGhlYXRlchoOc3Vycm91bmQgc291bmQaEGhvbWV0aGVhdGVyc2V0dXAaDGl2O3A7dGhlYXRlcipzCgVzZXR1cBVt-Ls9Gg1jb25maWd1cmF0aW9uGgdpbnN0YWxsGgxpbnN0YWxsYXRpb24aCmluc3RhbGxpbmcaBmxheW91dBoGc2V0IHVwGgdzZXR0aW5nGghzZXR0aW5ncxoQaG9tZXRoZWF0ZXJzZXR1cDLdAS9nb3RvP3VybD1DQUVTbVFFQjZ6c3dGVUcycmdBQXRNY3R2Z1RaTFdGT1RzY1ZBcDFyVlBfcUFuSmY2dWI3NjZ2dVpNV09wT3UyWHdSUXNOZmN6b3JfYVQxNHZkWXZaeDZtUWxJbjIxb281czJFOTUyelVSZG9UcmFfdEJIU1VhdDM5S0dKVUJEWWNWUGhBTl96OFBtTlhYN2dERG8xdFlKTTNLdmJrdmJhSHNCS2c2QVE4c1hxU3pueE9zWUJmVXN2czlFWF9wQVFYS0lDa0V5TkhKcDNScndGblVNOk5XaGF0JiMzOTtzIHRoZSA8Yj5iZXN0IHNvdW5kYmFyPC9iPiBzeXN0ZW0gKGJvdGggPGI-c3Vycm91bmQgc291bmQ8L2I-IGFuZCAuLi5CngFJZiBtb25leSByZWFsbHkgaXMgbm8gb2JqZWN0LCB0aGUgPGI-TmFrYW1pY2hpIERyYWdvbiBRdWFkIGNvc3RzICQ3SzwvYj4gYW5kIGlzIHRoZSBiZXN0IG9uIHRoZSBtYXJrZXQuIEZvciBsZXNzIG1vbmV5LCB0aGUgbGVzcyBleHBlbnNpdmUgTmFrYW1pY2hpcyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZVRzJyZ0FBdE1jdHZnVFpMV0ZPVHNjVkFwMXJWUF9xQW5KZjZ1Yjc2NnZ1Wk1XT3BPdTJYd1JRc05mY3pvcl9hVDE0dmRZdlp4Nm1RbEluMjFvbzVzMkU5NTJ6VVJkb1RyYV90QkhTVWF0MzlLR0pVQkRZY1ZQaEFOX3o4UG1OWFg3Z0REbzF0WUpNM0t2Ymt2YmFIc0JLZzZBUThzWHFTem54T3NZQmZVc3ZzOUVYX3BBUVhLSUNrRXlOSEpwM1Jyd0ZuVU0SBBoCCAAakwcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDtBggAEAAYACAAKhYKBGJlc3QV0c29QBoEZ29vZBoDdG9wKkEKCXNvdW5kYmFycxUYG2JAGglzb3VuZCBiYXIaCnNvdW5kIGJhcnMaCHNvdW5kYmFyGg5pdjtwO3NvdW5kYmFycyoKCgNmb3IVAAAAACpICgRob21lFUfAij8aBWhvbWVzGgtob21ldGhlYXRlchoFaG91c2UaDnN1cnJvdW5kIHNvdW5kGhBob21ldGhlYXRlcnNldHVwKmIKB3RoZWF0ZXIVxwayPxoGY2luZW1hGg1lbnRlcnRhaW5tZW50Ggtob21ldGhlYXRlchoOc3Vycm91bmQgc291bmQaEGhvbWV0aGVhdGVyc2V0dXAaDGl2O3A7dGhlYXRlcipzCgVzZXR1cBVt-Ls9Gg1jb25maWd1cmF0aW9uGgdpbnN0YWxsGgxpbnN0YWxsYXRpb24aCmluc3RhbGxpbmcaBmxheW91dBoGc2V0IHVwGgdzZXR0aW5nGghzZXR0aW5ncxoQaG9tZXRoZWF0ZXJzZXR1cDLdAS9nb3RvP3VybD1DQUVTbVFFQjZ6c3dGVUcycmdBQXRNY3R2Z1RaTFdGT1RzY1ZBcDFyVlBfcUFuSmY2dWI3NjZ2dVpNV09wT3UyWHdSUXNOZmN6b3JfYVQxNHZkWXZaeDZtUWxJbjIxb281czJFOTUyelVSZG9UcmFfdEJIU1VhdDM5S0dKVUJEWWNWUGhBTl96OFBtTlhYN2dERG8xdFlKTTNLdmJrdmJhSHNCS2c2QVE4c1hxU3pueE9zWUJmVXN2czlFWF9wQVFYS0lDa0V5TkhKcDNScndGblVNOk5XaGF0JiMzOTtzIHRoZSA8Yj5iZXN0IHNvdW5kYmFyPC9iPiBzeXN0ZW0gKGJvdGggPGI-c3Vycm91bmQgc291bmQ8L2I-IGFuZCAuLi5CngFJZiBtb25leSByZWFsbHkgaXMgbm8gb2JqZWN0LCB0aGUgPGI-TmFrYW1pY2hpIERyYWdvbiBRdWFkIGNvc3RzICQ3SzwvYj4gYW5kIGlzIHRoZSBiZXN0IG9uIHRoZSBtYXJrZXQuIEZvciBsZXNzIG1vbmV5LCB0aGUgbGVzcyBleHBlbnNpdmUgTmFrYW1pY2hpcyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Reddit · r/Soundbars"
+    },
+    {
+      "position": 4,
+      "title": "Best Dolby Atmos Soundbars | Sony, JBL, Devialet, Sonos ...",
+      "link": "https://www.audioadvice.com/blogs/expert-advice/best-soundbars?srsltid=AU7gw4WYqrRjzF_ZGWZxzLq0_XTPop9BoQsMEYxhocIgF9GPcO4M4oBl",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStwEB6zswFYDTKJ3qDiNCLNaEQ2vqi-_HTKjiBVIicrcDoQmUCvwlUutI_o5RDMTRqBu0naqlhBSx96FYwWURDER_nN7QrUC7-YovONdzKUlHubpVA_4m-bKoFHQqcYboJqzkNXfDcgHOLL2HusmRtEBWDygOAefltLyANOML56-xECwHRjjpqWcQBX1YuCJDmOz0ATydzWfak_V0GoJXasz23f4pIAGg2pjt4fI-8gyCIxTLqLEqVr4&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0QFnoECE8QAQ&uoh=1",
+      "displayed_link": "https://www.audioadvice.com › blogs › expert-advice",
+      "snippet": "If you want a mid-range Atmos bar that looks great on its own and scales into a true home theater system, the Enchant 1100 is one of the best options available ...",
+      "snippet_highlighted_words": [
+        "Enchant 1100"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you want a mid-range Atmos bar that looks great on its own and scales into a true home theater system, the Enchant 1100 is one of the best options available ...",
+          "source_info_link": "https://www.audioadvice.com/blogs/expert-advice/best-soundbars?srsltid=AU7gw4WYqrRjzF_ZGWZxzLq0_XTPop9BoQsMEYxhocIgF9GPcO4M4oBl",
+          "icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAACwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmfs3DmuF-A2zt21keAJQE8ks_AXzBUCxeNyV2NHEjsWADs5yCYe2Fs_xqAS8wHd0ZRQl4RUp7tGwpkkHMWaw4fjO36_8AlrYPajr8HtrrKzIJa5Wt6ciWQKZulG7zSWshIGh8Vtw7KAOGEa67GbbaiNBlV0toSOlFxOpSt8W93-zFc1Mhgat1dUSDQmM28NYtxXS55moroiolL6Zb9v8lie_YpfZUdULkEsNUTTfE5IR-kPxFUAGYVuY3Q3BmUXDOK2L2Ce39_TgQ4CldncKcmzKIXt05st3U7MIVbHrnRYzPcUKxgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUCL2dvdG8_dXJsPUNBRVN0d0VCNnpzd0ZZRFRLSjNxRGlOQ0xOYUVRMnZxaS1fSFRLamlCVklpY3JjRG9RbVVDdndsVXV0SV9vNVJETVRScUJ1MG5hcWxoQlN4OTZGWXdXVVJERVJfbk43UXJVQzctWW92T05kektVbEh1YnBWQV80bS1iS29GSFFxY1lib0pxemtOWGZEY2dIT0xMMkh1c21SdEVCV0R5Z09BZWZsdEx5QU5PTUw1Ni14RUN3SFJqanBxV2NRQlgxWXVDSkRtT3owQVR5ZHpXZmFrX1YwR29KWGFzejIzZjRwSUFHZzJwanQ0ZkktOGd5Q0l4VExxTEVxVnI0EgQaAggAGu8GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAyQYIABAAGAAgACoWCgRiZXN0FaB7eUAaBGdvb2QaA3RvcCpBCglzb3VuZGJhcnMV18V2QBoJc291bmQgYmFyGgpzb3VuZCBiYXJzGghzb3VuZGJhchoOaXY7cDtzb3VuZGJhcnMqCgoDZm9yFQAAAAAqSAoEaG9tZRUakjNAGgVob21lcxoLaG9tZXRoZWF0ZXIaBWhvdXNlGg5zdXJyb3VuZCBzb3VuZBoQaG9tZXRoZWF0ZXJzZXR1cCpiCgd0aGVhdGVyFc-LF0AaBmNpbmVtYRoNZW50ZXJ0YWlubWVudBoLaG9tZXRoZWF0ZXIaDnN1cnJvdW5kIHNvdW5kGhBob21ldGhlYXRlcnNldHVwGgxpdjtwO3RoZWF0ZXIqcwoFc2V0dXAVwt6bPxoNY29uZmlndXJhdGlvbhoHaW5zdGFsbBoMaW5zdGFsbGF0aW9uGgppbnN0YWxsaW5nGgZsYXlvdXQaBnNldCB1cBoHc2V0dGluZxoIc2V0dGluZ3MaEGhvbWV0aGVhdGVyc2V0dXAyrQEvZ290bz91cmw9Q0FFU2RnSHJPekFWOXh3UnpJRTVnaERrY2p3eXlGUDZibThKSG1pQkpnVFNKYkVrMGJhVnJzanhmUkRCUWkyVUhKc0J1dVpfcEZJa1RCaGEwUkJsbkNpbGFhY2MtQTRWUVNScUhoaDR5WTZWSENlZ29sODV4aFhURHpJQUtBT0dxLWZ4cE9ZQ01xWFFoRVRJc3MyaXgyTXY3VHY3ZWVfSzk1UTpJPGI-QmVzdDwvYj4gRG9sYnkgQXRtb3MgPGI-U291bmRiYXJzPC9iPiB8IFNvbnksIEpCTCwgRGV2aWFsZXQsIFNvbm9zIC4uLkKvAUlmIHlvdSB3YW50IGEgbWlkLXJhbmdlIEF0bW9zIGJhciB0aGF0IGxvb2tzIGdyZWF0IG9uIGl0cyBvd24gYW5kIHNjYWxlcyBpbnRvIGEgdHJ1ZSBob21lIHRoZWF0ZXIgc3lzdGVtLCB0aGUgPGI-RW5jaGFudCAxMTAwPC9iPiBpcyBvbmUgb2YgdGhlIGJlc3Qgb3B0aW9ucyBhdmFpbGFibGUmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUCL2dvdG8_dXJsPUNBRVN0d0VCNnpzd0ZZRFRLSjNxRGlOQ0xOYUVRMnZxaS1fSFRLamlCVklpY3JjRG9RbVVDdndsVXV0SV9vNVJETVRScUJ1MG5hcWxoQlN4OTZGWXdXVVJERVJfbk43UXJVQzctWW92T05kektVbEh1YnBWQV80bS1iS29GSFFxY1lib0pxemtOWGZEY2dIT0xMMkh1c21SdEVCV0R5Z09BZWZsdEx5QU5PTUw1Ni14RUN3SFJqanBxV2NRQlgxWXVDSkRtT3owQVR5ZHpXZmFrX1YwR29KWGFzejIzZjRwSUFHZzJwanQ0ZkktOGd5Q0l4VExxTEVxVnI0EgQaAggAGu8GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAyQYIABAAGAAgACoWCgRiZXN0FaB7eUAaBGdvb2QaA3RvcCpBCglzb3VuZGJhcnMV18V2QBoJc291bmQgYmFyGgpzb3VuZCBiYXJzGghzb3VuZGJhchoOaXY7cDtzb3VuZGJhcnMqCgoDZm9yFQAAAAAqSAoEaG9tZRUakjNAGgVob21lcxoLaG9tZXRoZWF0ZXIaBWhvdXNlGg5zdXJyb3VuZCBzb3VuZBoQaG9tZXRoZWF0ZXJzZXR1cCpiCgd0aGVhdGVyFc-LF0AaBmNpbmVtYRoNZW50ZXJ0YWlubWVudBoLaG9tZXRoZWF0ZXIaDnN1cnJvdW5kIHNvdW5kGhBob21ldGhlYXRlcnNldHVwGgxpdjtwO3RoZWF0ZXIqcwoFc2V0dXAVwt6bPxoNY29uZmlndXJhdGlvbhoHaW5zdGFsbBoMaW5zdGFsbGF0aW9uGgppbnN0YWxsaW5nGgZsYXlvdXQaBnNldCB1cBoHc2V0dGluZxoIc2V0dGluZ3MaEGhvbWV0aGVhdGVyc2V0dXAyrQEvZ290bz91cmw9Q0FFU2RnSHJPekFWOXh3UnpJRTVnaERrY2p3eXlGUDZibThKSG1pQkpnVFNKYkVrMGJhVnJzanhmUkRCUWkyVUhKc0J1dVpfcEZJa1RCaGEwUkJsbkNpbGFhY2MtQTRWUVNScUhoaDR5WTZWSENlZ29sODV4aFhURHpJQUtBT0dxLWZ4cE9ZQ01xWFFoRVRJc3MyaXgyTXY3VHY3ZWVfSzk1UTpJPGI-QmVzdDwvYj4gRG9sYnkgQXRtb3MgPGI-U291bmRiYXJzPC9iPiB8IFNvbnksIEpCTCwgRGV2aWFsZXQsIFNvbm9zIC4uLkKvAUlmIHlvdSB3YW50IGEgbWlkLXJhbmdlIEF0bW9zIGJhciB0aGF0IGxvb2tzIGdyZWF0IG9uIGl0cyBvd24gYW5kIHNjYWxlcyBpbnRvIGEgdHJ1ZSBob21lIHRoZWF0ZXIgc3lzdGVtLCB0aGUgPGI-RW5jaGFudCAxMTAwPC9iPiBpcyBvbmUgb2YgdGhlIGJlc3Qgb3B0aW9ucyBhdmFpbGFibGUmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Audio Advice",
+      "read_more_link": "https://www.audioadvice.com/blogs/expert-advice/best-soundbars?srsltid=AU7gw4WYqrRjzF_ZGWZxzLq0_XTPop9BoQsMEYxhocIgF9GPcO4M4oBl#:~:text=If%20you%20want%20a%20mid%2Drange,best%20options%20available%20this%20year."
+    },
+    {
+      "position": 5,
+      "title": "Best soundbars 2026: options for every need ...",
+      "link": "https://www.whathifi.com/best-buys/home-cinema/best-soundbars",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVJTW0L0IHkP2KUwM-0zP1BE78B0V8kwH985dq5sqkKIXlvfroyvB0XGF0nyTSrMVMMQBxq7qYHrMgoDPEVcO4We59FgtAmqqrsr9DbQECcd5gI2be8p3WS_lGzyzOmBOHfIFsO2ZmCuKp3fAwZa-ptA&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0QFnoECFUQAQ&uoh=1",
+      "displayed_link": "https://www.whathifi.com › ... › Soundbars",
+      "date": "Jun 19, 2026",
+      "snippet": "The smartest, most compact, and very best TV soundbars to take your home-cinema sound to the next level.",
+      "snippet_highlighted_words": [
+        "The smartest, most compact, and very best TV soundbars"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best overall",
+            "link": "https://www.whathifi.com/best-buys/home-cinema/best-soundbars#section-1-best-soundbar-overall"
+          },
+          {
+            "title": "Best entry-level Dolby Atmos",
+            "link": "https://www.whathifi.com/best-buys/home-cinema/best-soundbars#section-5-best-entry-level-dolby-atmos-soundbar"
+          },
+          {
+            "title": "Best mid-range",
+            "link": "https://www.whathifi.com/best-buys/home-cinema/best-soundbars#section-6-best-mid-range-soundbar"
+          },
+          {
+            "title": "Best premium",
+            "link": "https://www.whathifi.com/best-buys/home-cinema/best-soundbars#section-10-best-premium-soundbar"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The smartest, most compact, and very best TV soundbars to take your home-cinema sound to the next level.",
+          "source_info_link": "https://www.whathifi.com/best-buys/home-cinema/best-soundbars",
+          "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHUHun4q8r8T_yUzyVSmQ-KohX749s95nACoTs5swBmeJCmQgqLaYgAA_m7Eya2Xxoy42wnQcTXOW5pjaxxXJ7gzCMxTV5SBs5PmgTrov03MgvuP3_ySwU7UhGvOSYUyslOjSbSdD7TEa-52RAsYn-Fxti6Z0wh7eFQKPzT4GCf8gacp_cBCR0wq_xawmihXNER5ufDnlxQZnkYmJ8BQ3lmFYsVCQAsT573byOmk1uycEXFAm88wuVBYQHBu11a7_dXCIeYK0P3pUK-ct4WSTv1uMmU-EPnt4uQS76XiSwkOatuwQZjxxWNroztmgPxetwk7bCGAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVkpUVzBMMElIa1AyS1V3TS0welAxQkU3OEIwVjhrd0g5ODVkcTVzcWtLSVhsdmZyb3l2QjBYR0YwbnlUU3JNVk1NUUJ4cTdxWUhyTWdvRFBFVmNPNFdlNTlGZ3RBbXFxcnNyOURiUUVDY2Q1Z0kyYmU4cDNXU19sR3p5ek9tQk9IZklGc08yWm1DdUtwM2ZBd1phLXB0QRIEGgIIABqnBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIEGCAAQABgAIAAqFgoEYmVzdBWghbxAGgRnb29kGgN0b3AqQQoJc291bmRiYXJzFWIIREAaCXNvdW5kIGJhchoKc291bmQgYmFycxoIc291bmRiYXIaDml2O3A7c291bmRiYXJzKgoKA2ZvchUAAAAAKkgKBGhvbWUVQyYgQBoFaG9tZXMaC2hvbWV0aGVhdGVyGgVob3VzZRoOc3Vycm91bmQgc291bmQaEGhvbWV0aGVhdGVyc2V0dXAqYgoHdGhlYXRlchUWFLY9GgZjaW5lbWEaDWVudGVydGFpbm1lbnQaC2hvbWV0aGVhdGVyGg5zdXJyb3VuZCBzb3VuZBoQaG9tZXRoZWF0ZXJzZXR1cBoMaXY7cDt0aGVhdGVyKnMKBXNldHVwFUl9Sj4aDWNvbmZpZ3VyYXRpb24aB2luc3RhbGwaDGluc3RhbGxhdGlvbhoKaW5zdGFsbGluZxoGbGF5b3V0GgZzZXQgdXAaB3NldHRpbmcaCHNldHRpbmdzGhBob21ldGhlYXRlcnNldHVwMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVkpUVzBMMElIa1AyS1V3TS0welAxQkU3OEIwVjhrd0g5ODVkcTVzcWtLSVhsdmZyb3l2QjBYR0YwbnlUU3JNVk1NUUJ4cTdxWUhyTWdvRFBFVmNPNFdlNTlGZ3RBbXFxcnNyOURiUUVDY2Q1Z0kyYmU4cDNXU19sR3p5ek9tQk9IZklGc08yWm1DdUtwM2ZBd1phLXB0QTpDPGI-QmVzdCBzb3VuZGJhcnM8L2I-IDIwMjY6IG9wdGlvbnMgZm9yIGV2ZXJ5IG5lZWQsIHJlY29tbWVuZGVkIC4uLkJvPGI-VGhlIHNtYXJ0ZXN0LCBtb3N0IGNvbXBhY3QsIGFuZCB2ZXJ5IGJlc3QgVFYgc291bmRiYXJzPC9iPiB0byB0YWtlIHlvdXIgaG9tZS1jaW5lbWEgc291bmQgdG8gdGhlIG5leHQgbGV2ZWwuSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVkpUVzBMMElIa1AyS1V3TS0welAxQkU3OEIwVjhrd0g5ODVkcTVzcWtLSVhsdmZyb3l2QjBYR0YwbnlUU3JNVk1NUUJ4cTdxWUhyTWdvRFBFVmNPNFdlNTlGZ3RBbXFxcnNyOURiUUVDY2Q1Z0kyYmU4cDNXU19sR3p5ek9tQk9IZklGc08yWm1DdUtwM2ZBd1phLXB0QRIEGgIIABqnBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIEGCAAQABgAIAAqFgoEYmVzdBWghbxAGgRnb29kGgN0b3AqQQoJc291bmRiYXJzFWIIREAaCXNvdW5kIGJhchoKc291bmQgYmFycxoIc291bmRiYXIaDml2O3A7c291bmRiYXJzKgoKA2ZvchUAAAAAKkgKBGhvbWUVQyYgQBoFaG9tZXMaC2hvbWV0aGVhdGVyGgVob3VzZRoOc3Vycm91bmQgc291bmQaEGhvbWV0aGVhdGVyc2V0dXAqYgoHdGhlYXRlchUWFLY9GgZjaW5lbWEaDWVudGVydGFpbm1lbnQaC2hvbWV0aGVhdGVyGg5zdXJyb3VuZCBzb3VuZBoQaG9tZXRoZWF0ZXJzZXR1cBoMaXY7cDt0aGVhdGVyKnMKBXNldHVwFUl9Sj4aDWNvbmZpZ3VyYXRpb24aB2luc3RhbGwaDGluc3RhbGxhdGlvbhoKaW5zdGFsbGluZxoGbGF5b3V0GgZzZXQgdXAaB3NldHRpbmcaCHNldHRpbmdzGhBob21ldGhlYXRlcnNldHVwMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVkpUVzBMMElIa1AyS1V3TS0welAxQkU3OEIwVjhrd0g5ODVkcTVzcWtLSVhsdmZyb3l2QjBYR0YwbnlUU3JNVk1NUUJ4cTdxWUhyTWdvRFBFVmNPNFdlNTlGZ3RBbXFxcnNyOURiUUVDY2Q1Z0kyYmU4cDNXU19sR3p5ek9tQk9IZklGc08yWm1DdUtwM2ZBd1phLXB0QTpDPGI-QmVzdCBzb3VuZGJhcnM8L2I-IDIwMjY6IG9wdGlvbnMgZm9yIGV2ZXJ5IG5lZWQsIHJlY29tbWVuZGVkIC4uLkJvPGI-VGhlIHNtYXJ0ZXN0LCBtb3N0IGNvbXBhY3QsIGFuZCB2ZXJ5IGJlc3QgVFYgc291bmRiYXJzPC9iPiB0byB0YWtlIHlvdXIgaG9tZS1jaW5lbWEgc291bmQgdG8gdGhlIG5leHQgbGV2ZWwuSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "What Hi-Fi?"
+    },
+    {
+      "position": 6,
+      "title": "The 4 Best Soundbars of 2026 | Reviews by Wirecutter",
+      "link": "https://www.nytimes.com/wirecutter/reviews/best-soundbar/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVFHczIbVSIkHQSwaiipJNeTHgkYK7O3IZN8phSoX95mWerNC7ojtVHeLU-QMYBna9hNPXk_2-js2VL59yXZJyl2fiVZNc3zQZfpm9hgtqI9YfVcNxuNPpQZDvSurV2YUdZEYj7ND_hN_8RjxE&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0QFnoECFAQAQ&uoh=1",
+      "displayed_link": "https://www.nytimes.com › Electronics › Audio",
+      "date": "Sep 14, 2026",
+      "snippet": "If you want theater-quality surround sound on a modest budget, the Vizio Elevate 7.1.4 Pro soundbar (model SL714PW-1006) is your best choice.",
+      "snippet_highlighted_words": [
+        "Vizio Elevate 7.1.4 Pro soundbar"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you want theater-quality surround sound on a modest budget, the Vizio Elevate 7.1.4 Pro soundbar (model SL714PW-1006) is your best choice.",
+          "source_info_link": "https://www.nytimes.com/wirecutter/reviews/best-soundbar/",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglpAARATxnEK-53JWvDHstgGhzN4zLjcujgAP70y3hbIMpz_UzumDFx5vNeLmNtc6KYIX8KBs2PnxmvVpWxXJ2Z-_20c7zNgNO9SlHtET_-QirUKQJp_KqP3hmZ658MxfYknTY3z49W6gyZPEu32blPW2VxF8a701Bdq_cNE_t3f7N2lls7m1XNPn9sEYjKl_98sH4hOtumLRq53YTM2gXCylqfVKmiGBp8fnWX7CA1ugZwgWzkjS6J3S_qHB9fj2penTr8er5CBGF-q-tsjHhfZzgeOKAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVkZIY3pJYlZTSWtIUVN3YWlpcEpOZVRIZ2tZSzdPM0laTjhwaFNvWDk1bVdlck5DN29qdFZIZUxVLVFNWUJuYTloTlBYa18yLWpzMlZMNTl5WFpKeWwyZmlWWk5jM3pRWmZwbTloZ3RxSTlZZlZjTnh1TlBwUVpEdlN1clYyWVVkWkVZajdORF9oTl84Ump4RRIEGgIIABq_BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJkGCAAQABgAIAAqFgoEYmVzdBVysEZAGgRnb29kGgN0b3AqQQoJc291bmRiYXJzFd-yKUAaCXNvdW5kIGJhchoKc291bmQgYmFycxoIc291bmRiYXIaDml2O3A7c291bmRiYXJzKgoKA2ZvchUAAAAAKkgKBGhvbWUVNvMQQBoFaG9tZXMaC2hvbWV0aGVhdGVyGgVob3VzZRoOc3Vycm91bmQgc291bmQaEGhvbWV0aGVhdGVyc2V0dXAqYgoHdGhlYXRlchXkiVw_GgZjaW5lbWEaDWVudGVydGFpbm1lbnQaC2hvbWV0aGVhdGVyGg5zdXJyb3VuZCBzb3VuZBoQaG9tZXRoZWF0ZXJzZXR1cBoMaXY7cDt0aGVhdGVyKnMKBXNldHVwFcB76z0aDWNvbmZpZ3VyYXRpb24aB2luc3RhbGwaDGluc3RhbGxhdGlvbhoKaW5zdGFsbGluZxoGbGF5b3V0GgZzZXQgdXAaB3NldHRpbmcaCHNldHRpbmdzGhBob21ldGhlYXRlcnNldHVwMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVkZIY3pJYlZTSWtIUVN3YWlpcEpOZVRIZ2tZSzdPM0laTjhwaFNvWDk1bVdlck5DN29qdFZIZUxVLVFNWUJuYTloTlBYa18yLWpzMlZMNTl5WFpKeWwyZmlWWk5jM3pRWmZwbTloZ3RxSTlZZlZjTnh1TlBwUVpEdlN1clYyWVVkWkVZajdORF9oTl84Ump4RTo7VGhlIDQgPGI-QmVzdCBTb3VuZGJhcnM8L2I-IG9mIDIwMjYgfCBSZXZpZXdzIGJ5IFdpcmVjdXR0ZXJClAFJZiB5b3Ugd2FudCB0aGVhdGVyLXF1YWxpdHkgc3Vycm91bmQgc291bmQgb24gYSBtb2Rlc3QgYnVkZ2V0LCB0aGUgPGI-Vml6aW8gRWxldmF0ZSA3LjEuNCBQcm8gc291bmRiYXI8L2I-IChtb2RlbCBTTDcxNFBXLTEwMDYpIGlzIHlvdXIgYmVzdCBjaG9pY2UuSgNmb3JSA3RvcCICEAEqFFdyaXRlciBhdCBXaXJlY3V0dGVySABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVkZIY3pJYlZTSWtIUVN3YWlpcEpOZVRIZ2tZSzdPM0laTjhwaFNvWDk1bVdlck5DN29qdFZIZUxVLVFNWUJuYTloTlBYa18yLWpzMlZMNTl5WFpKeWwyZmlWWk5jM3pRWmZwbTloZ3RxSTlZZlZjTnh1TlBwUVpEdlN1clYyWVVkWkVZajdORF9oTl84Ump4RRIEGgIIABq_BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJkGCAAQABgAIAAqFgoEYmVzdBVysEZAGgRnb29kGgN0b3AqQQoJc291bmRiYXJzFd-yKUAaCXNvdW5kIGJhchoKc291bmQgYmFycxoIc291bmRiYXIaDml2O3A7c291bmRiYXJzKgoKA2ZvchUAAAAAKkgKBGhvbWUVNvMQQBoFaG9tZXMaC2hvbWV0aGVhdGVyGgVob3VzZRoOc3Vycm91bmQgc291bmQaEGhvbWV0aGVhdGVyc2V0dXAqYgoHdGhlYXRlchXkiVw_GgZjaW5lbWEaDWVudGVydGFpbm1lbnQaC2hvbWV0aGVhdGVyGg5zdXJyb3VuZCBzb3VuZBoQaG9tZXRoZWF0ZXJzZXR1cBoMaXY7cDt0aGVhdGVyKnMKBXNldHVwFcB76z0aDWNvbmZpZ3VyYXRpb24aB2luc3RhbGwaDGluc3RhbGxhdGlvbhoKaW5zdGFsbGluZxoGbGF5b3V0GgZzZXQgdXAaB3NldHRpbmcaCHNldHRpbmdzGhBob21ldGhlYXRlcnNldHVwMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVkZIY3pJYlZTSWtIUVN3YWlpcEpOZVRIZ2tZSzdPM0laTjhwaFNvWDk1bVdlck5DN29qdFZIZUxVLVFNWUJuYTloTlBYa18yLWpzMlZMNTl5WFpKeWwyZmlWWk5jM3pRWmZwbTloZ3RxSTlZZlZjTnh1TlBwUVpEdlN1clYyWVVkWkVZajdORF9oTl84Ump4RTo7VGhlIDQgPGI-QmVzdCBTb3VuZGJhcnM8L2I-IG9mIDIwMjYgfCBSZXZpZXdzIGJ5IFdpcmVjdXR0ZXJClAFJZiB5b3Ugd2FudCB0aGVhdGVyLXF1YWxpdHkgc3Vycm91bmQgc291bmQgb24gYSBtb2Rlc3QgYnVkZ2V0LCB0aGUgPGI-Vml6aW8gRWxldmF0ZSA3LjEuNCBQcm8gc291bmRiYXI8L2I-IChtb2RlbCBTTDcxNFBXLTEwMDYpIGlzIHlvdXIgYmVzdCBjaG9pY2UuSgNmb3JSA3RvcCICEAEqFFdyaXRlciBhdCBXaXJlY3V0dGVySABYAGgA",
+      "source": "The New York Times",
+      "read_more_link": "https://www.nytimes.com/wirecutter/reviews/best-soundbar/#:~:text=If%20you%20want%20theater%2Dquality%20surround,SL714PW%2D1006)%20is%20your%20best%20choice."
+    },
+    {
+      "position": 7,
+      "title": "Best Dolby Atmos Soundbars 2026: The Complete Buyer's ...",
+      "link": "https://www.smarthomesounds.co.uk/blog/faqs/best-dolby-atmos-soundbars-the-complete-buyers-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFTY-tIMHclxjDA-rCYo0ncFsTrVjARtaLUDuhHJ_D83VwP0ADIPsdJW00tLc6zyuVbSmGsY_Uj16n6h626fIsPFThKFvAsYOJ4YSC3QrpsjZwJzizoVXYIHxZugoPdn1aHtXOV8KU2bfxd9erWde9kVF3PaQ7ruvpL_p2v0kX-OxazcPnG0VyGfeQ9FPp43yW6e2_w&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0QFnoECFEQAQ&uoh=1",
+      "displayed_link": "https://www.smarthomesounds.co.uk › blog › faqs › be...",
+      "snippet": "Best Dolby Atmos Soundbars: Our Top 7 Picks This Year · 1. Sonos Arc Ultra · 2. Samsung HW-Q990H · 3. KEF XIO · 4. Sony BRAVIA Theatre Bar 9 · 5. Marshall Heston 120.",
+      "snippet_highlighted_words": [
+        "1. Sonos Arc Ultra"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Best Dolby Atmos Soundbars: Our Top 7 Picks This Year · 1. Sonos Arc Ultra · 2. Samsung HW-Q990H · 3. KEF XIO · 4. Sony BRAVIA Theatre Bar 9 · 5. Marshall Heston 120.",
+          "source_info_link": "https://www.smarthomesounds.co.uk/blog/faqs/best-dolby-atmos-soundbars-the-complete-buyers-guide",
+          "icon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAABwBQCdASocABwAPtE-tFooIigoFAEAGglAE6BlgqU_jQTTQ7NjwJLG9E72FNc5mXKC8_fgAP7wyRIsc5ZOOdZsKEFKHX8_XTfh6MZMVLS5hlayx8K0Or8fh9_PFgk3ISj1GUM2xq0W4kLM5fThL0Gq7gOwm_OoFw-CWP0UeJF7I2hwpmemDqxol5Swl-z_xhAn8S1MDNcqbLJ9pRT0MsLZ_TJYj6Dc4bjPUL8tEG0HovLhVW5vtNx-H3_q3uNwbz2oj9JFhm9LNToxVlJlWWiVlg-fcCisgNZe6Rl-6r3IEinR_cRNqpJlt69Lu589QGVJynpQbmFINDajN5DdLLMOOy57GsMAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZUWS10SU1IY2x4akRBLXJDWW8wbmNGc1RyVmpBUnRhTFVEdWhISl9EODNWd1AwQURJUHNkSlcwMHRMYzZ6eXVWYlNtR3NZX1VqMTZuNmg2MjZmSXNQRlRoS0Z2QXNZT0o0WVNDM1FycHNqWndKeml6b1ZYWUlIeFp1Z29QZG4xYUh0WE9WOEtVMmJmeGQ5ZXJXZGU5a1ZGM1BhUTdydXZwTF9wMnYwa1gtT3hhemNQbkcwVnlHZmVROUZQcDQzeVc2ZTJfdxIEGgIIABrBBxICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJsHCAAQABgAIAAqFgoEYmVzdBUXX0FAGgRnb29kGgN0b3AqQQoJc291bmRiYXJzFaMeOkAaCXNvdW5kIGJhchoKc291bmQgYmFycxoIc291bmRiYXIaDml2O3A7c291bmRiYXJzKgoKA2ZvchUAAAAAKkgKBGhvbWUVfxPJPxoFaG9tZXMaC2hvbWV0aGVhdGVyGgVob3VzZRoOc3Vycm91bmQgc291bmQaEGhvbWV0aGVhdGVyc2V0dXAqYgoHdGhlYXRlchUAAAAAGgZjaW5lbWEaDWVudGVydGFpbm1lbnQaC2hvbWV0aGVhdGVyGg5zdXJyb3VuZCBzb3VuZBoQaG9tZXRoZWF0ZXJzZXR1cBoMaXY7cDt0aGVhdGVyKnMKBXNldHVwFaABlz4aDWNvbmZpZ3VyYXRpb24aB2luc3RhbGwaDGluc3RhbGxhdGlvbhoKaW5zdGFsbGluZxoGbGF5b3V0GgZzZXQgdXAaB3NldHRpbmcaCHNldHRpbmdzGhBob21ldGhlYXRlcnNldHVwMtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZUWS10SU1IY2x4akRBLXJDWW8wbmNGc1RyVmpBUnRhTFVEdWhISl9EODNWd1AwQURJUHNkSlcwMHRMYzZ6eXVWYlNtR3NZX1VqMTZuNmg2MjZmSXNQRlRoS0Z2QXNZT0o0WVNDM1FycHNqWndKeml6b1ZYWUlIeFp1Z29QZG4xYUh0WE9WOEtVMmJmeGQ5ZXJXZGU5a1ZGM1BhUTdydXZwTF9wMnYwa1gtT3hhemNQbkcwVnlHZmVROUZQcDQzeVc2ZTJfdzpLPGI-QmVzdDwvYj4gRG9sYnkgQXRtb3MgPGI-U291bmRiYXJzPC9iPiAyMDI2OiBUaGUgQ29tcGxldGUgQnV5ZXImIzM5O3MgLi4uQtABQmVzdCBEb2xieSBBdG1vcyBTb3VuZGJhcnM6IE91ciBUb3AgNyBQaWNrcyBUaGlzIFllYXIgJm1pZGRvdDsgPGI-MS4gU29ub3MgQXJjIFVsdHJhPC9iPiAmbWlkZG90OyAyLiBTYW1zdW5nIEhXLVE5OTBIICZtaWRkb3Q7IDMuIEtFRiBYSU8gJm1pZGRvdDsgNC4gU29ueSBCUkFWSUEgVGhlYXRyZSBCYXIgOSAmbWlkZG90OyA1LiBNYXJzaGFsbCBIZXN0b24gMTIwLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZUWS10SU1IY2x4akRBLXJDWW8wbmNGc1RyVmpBUnRhTFVEdWhISl9EODNWd1AwQURJUHNkSlcwMHRMYzZ6eXVWYlNtR3NZX1VqMTZuNmg2MjZmSXNQRlRoS0Z2QXNZT0o0WVNDM1FycHNqWndKeml6b1ZYWUlIeFp1Z29QZG4xYUh0WE9WOEtVMmJmeGQ5ZXJXZGU5a1ZGM1BhUTdydXZwTF9wMnYwa1gtT3hhemNQbkcwVnlHZmVROUZQcDQzeVc2ZTJfdxIEGgIIABrBBxICCAAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJsHCAAQABgAIAAqFgoEYmVzdBUXX0FAGgRnb29kGgN0b3AqQQoJc291bmRiYXJzFaMeOkAaCXNvdW5kIGJhchoKc291bmQgYmFycxoIc291bmRiYXIaDml2O3A7c291bmRiYXJzKgoKA2ZvchUAAAAAKkgKBGhvbWUVfxPJPxoFaG9tZXMaC2hvbWV0aGVhdGVyGgVob3VzZRoOc3Vycm91bmQgc291bmQaEGhvbWV0aGVhdGVyc2V0dXAqYgoHdGhlYXRlchUAAAAAGgZjaW5lbWEaDWVudGVydGFpbm1lbnQaC2hvbWV0aGVhdGVyGg5zdXJyb3VuZCBzb3VuZBoQaG9tZXRoZWF0ZXJzZXR1cBoMaXY7cDt0aGVhdGVyKnMKBXNldHVwFaABlz4aDWNvbmZpZ3VyYXRpb24aB2luc3RhbGwaDGluc3RhbGxhdGlvbhoKaW5zdGFsbGluZxoGbGF5b3V0GgZzZXQgdXAaB3NldHRpbmcaCHNldHRpbmdzGhBob21ldGhlYXRlcnNldHVwMtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZUWS10SU1IY2x4akRBLXJDWW8wbmNGc1RyVmpBUnRhTFVEdWhISl9EODNWd1AwQURJUHNkSlcwMHRMYzZ6eXVWYlNtR3NZX1VqMTZuNmg2MjZmSXNQRlRoS0Z2QXNZT0o0WVNDM1FycHNqWndKeml6b1ZYWUlIeFp1Z29QZG4xYUh0WE9WOEtVMmJmeGQ5ZXJXZGU5a1ZGM1BhUTdydXZwTF9wMnYwa1gtT3hhemNQbkcwVnlHZmVROUZQcDQzeVc2ZTJfdzpLPGI-QmVzdDwvYj4gRG9sYnkgQXRtb3MgPGI-U291bmRiYXJzPC9iPiAyMDI2OiBUaGUgQ29tcGxldGUgQnV5ZXImIzM5O3MgLi4uQtABQmVzdCBEb2xieSBBdG1vcyBTb3VuZGJhcnM6IE91ciBUb3AgNyBQaWNrcyBUaGlzIFllYXIgJm1pZGRvdDsgPGI-MS4gU29ub3MgQXJjIFVsdHJhPC9iPiAmbWlkZG90OyAyLiBTYW1zdW5nIEhXLVE5OTBIICZtaWRkb3Q7IDMuIEtFRiBYSU8gJm1pZGRvdDsgNC4gU29ueSBCUkFWSUEgVGhlYXRyZSBCYXIgOSAmbWlkZG90OyA1LiBNYXJzaGFsbCBIZXN0b24gMTIwLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Smart Home Sounds",
+      "read_more_link": "https://www.smarthomesounds.co.uk/blog/faqs/best-dolby-atmos-soundbars-the-complete-buyers-guide#:~:text=Best%20Dolby%20Atmos%20Soundbars%3A%20Our,Top%207%20Picks%20This%20Year&text=1.%20Sonos%20Arc%20Ultra&text=2.%20Samsung%20HW%2DQ990H&text=3.%20KEF%20XIO&text=4.%20Sony%20BRAVIA%20Theatre%20Bar,9&text=5.%20Marshall%20Heston%20120"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "Brent Butterworth",
+      "source": "The New York Times",
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab3ec1f3ee4c281ca9a7a13/images/vFS1WudHHtLpIBF4p8GsNvQBcTkBLHLLrfKOlVIjgKg.jpeg"
+      ],
+      "title": "Want Movie-Theater Sound at Home? A Soundbar Is the Easiest Option.",
+      "link": "https://www.nytimes.com/wirecutter/reviews/best-soundbar/",
+      "date": "1 week ago"
+    },
+    {
+      "author": "Stephen Eldon Kerr",
+      "source": "RTINGS.com",
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab3ec1f3ee4c281ca9a7a13/images/UmpwF8bWuUm6emLYpPZ8LEr_9ncDQktEZ1vBDEW6yHs.jpeg"
+      ],
+      "title": "The 5 Best Soundbars For Music of 2026",
+      "link": "https://www.rtings.com/soundbar/reviews/best/by-usage/music",
+      "date": "1 day ago"
+    },
+    {
+      "author": "John Brandon",
+      "source": "WIRED",
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab3ec1f3ee4c281ca9a7a13/images/JT3jvE_8AF_-VSzkdsjZbNikhfTEKPlrP5U1zHVRVGI.jpeg"
+      ],
+      "title": "I Tested the Best Soundbars to Create the Ultimate Home Theater Setup",
+      "link": "https://www.wired.com/story/best-soundbars/",
+      "date": "1 week ago"
+    },
+    {
+      "author": "Stefan Vazharov",
+      "source": "Popular Mechanics",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBJsriH-oksHZZ_CcNhqcQ68fb9B8Ek0YzkIryk1mSAVB6wIx-phkGv21xYw&usqp=CAI&s"
+      ],
+      "title": "The 5 Best Soundbars for 2025, Tested—TV Audio Reviews",
+      "link": "https://www.popularmechanics.com/technology/gear/a30784219/best-sound-bars/",
+      "date": "3 weeks ago"
+    },
+    {
+      "author": "The Hook Up",
+      "source": "YouTube",
+      "duration": "26:49",
+      "extensions": [
+        "54.8K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/MCYAnapaUN4/hqdefault.jpg"
+      ],
+      "title": "I Tested 12 Soundbars Under $100: There's a New Budget King",
+      "link": "https://www.youtube.com/watch?v=MCYAnapaUN4",
+      "date": "2 weeks ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcREQCcYst0PGMmcQ-WKaYzbjFNKTT6jRbxNSw"
+    },
+    {
+      "author": "Steven Cohen",
+      "source": "Business Insider",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbEI_CQzI4CD4lam7xwHJcyM9fiPPDi4qn0MA7o79gm0okBId1Mst1kkp7Ng&usqp=CAI&s"
+      ],
+      "title": "These are the 4 best soundbars for upgrading your TV's sound with clearer dialogue and deeper bass",
+      "link": "https://www.businessinsider.com/guides/tech/best-soundbars",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Kulwinder Rai",
+      "source": "The Telegraph",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBBWLFUWCkuylztY7ZiWxDTmleXU184ONFA9RqX2ycs375A1uu9JMnaY-xUA&usqp=CAI&s"
+      ],
+      "title": "The best soundbars to boost your TV’s audio for movies, music and gaming",
+      "link": "https://www.telegraph.co.uk/recommended/tech/best-soundbar/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "wired",
+      "source": "Facebook",
+      "extensions": [
+        "4 reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4RoOz7HOyJ_fb26aJGRWr4zPThMs2gLkSwmTpAtYyh3T63pMGGS204Og2lQ&usqp=CAI&s"
+      ],
+      "title": "A soundbar is one of the best upgrades to any home TV setup. These are the best ones I’ve tested.",
+      "link": "https://www.facebook.com/wired/posts/a-soundbar-is-one-of-the-best-upgrades-to-any-home-tv-setup-these-are-the-best-o/1448919807103607/",
+      "date": "1 week ago"
+    },
+    {
+      "author": "Unbox Tech",
+      "source": "YouTube",
+      "duration": "14:16",
+      "extensions": [
+        "36.1K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/zHrw37VICjI/hqdefault.jpg"
+      ],
+      "title": "Don't Miss These *TOP 10 Best Soundbars & Home Theatres* under ₹10000 🤯 ⚠️",
+      "link": "https://www.youtube.com/watch?v=zHrw37VICjI",
+      "date": "1 week ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSvsVQyjXf0jBKJfqpws_DEtU4UFgOyBQo6xA"
+    },
+    {
+      "author": "Al Griffin",
+      "source": "New York Magazine",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZAmaUXWJvsd21THLLIkYMYHjVT_-GaxP51RPYj3ykjClY8gRwNs1_ony0fg&usqp=CAI&s"
+      ],
+      "title": "The 7 Very Best Soundbars, According to Home Theater and Tech Experts",
+      "link": "https://nymag.com/strategist/article/best-soundbars.html",
+      "date": "1 month ago"
+    },
+    {
+      "author": "r/Soundbars",
+      "source": "Reddit",
+      "extensions": [
+        "100+ comments "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgomIm7cuZa2UlDuBeMhJ1-ab0xhQ5_ZGYkP2fXzQowDH7Y-laSLIUZeNAxA&usqp=CAI&s"
+      ],
+      "title": "Best soundbar system in 2026",
+      "link": "https://www.reddit.com/r/Soundbars/comments/1v8j4bs/best_soundbar_system_in_2026/",
+      "date": "Jul 28, 2026"
+    },
+    {
+      "author": "Gogi Tech",
+      "source": "YouTube",
+      "duration": "11:41",
+      "extensions": [
+        "61.2K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/DfVD5IfAnkg/hqdefault.jpg"
+      ],
+      "title": "Sony BRAVIA Theatre Bar 7 + Sub 8 + Rear 8 Review: Best Home Theatre Setup?",
+      "link": "https://www.youtube.com/watch?v=DfVD5IfAnkg",
+      "date": "3 weeks ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSNqORzR2i33oVQGRr1xLsaY6f2aP8TpohfAg"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best soundbars for home theater setup reddit",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&q=Best+soundbars+for+home+theater+setup+reddit&sa=X&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q1QJ6BAhJEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+soundbars+for+home+theater+setup+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best soundbars for home theater setup with subwoofer",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&q=Best+soundbars+for+home+theater+setup+with+subwoofer&sa=X&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q1QJ6BAhUEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+soundbars+for+home+theater+setup+with+subwoofer"
+    },
+    {
+      "block_position": 1,
+      "query": "Best soundbars for home theater setup without subwoofer",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&q=Best+soundbars+for+home+theater+setup+without+subwoofer&sa=X&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+soundbars+for+home+theater+setup+without+subwoofer"
+    },
+    {
+      "block_position": 1,
+      "query": "Best soundbars for home theater setup amazon",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&q=Best+soundbars+for+home+theater+setup+amazon&sa=X&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+soundbars+for+home+theater+setup+amazon"
+    },
+    {
+      "block_position": 1,
+      "query": "Best soundbar with subwoofer",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&q=Best+soundbar+with+subwoofer&sa=X&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+soundbar+with+subwoofer"
+    },
+    {
+      "block_position": 1,
+      "query": "Sound Bar for TV with Subwoofer",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&q=Sound+Bar+for+TV+with+Subwoofer&sa=X&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q1QJ6BAhMEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Sound+Bar+for+TV+with+Subwoofer"
+    },
+    {
+      "block_position": 1,
+      "query": "Best all-in-one soundbar",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&q=Best+all-in-one+soundbar&sa=X&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q1QJ6BAhLEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+all-in-one+soundbar"
+    },
+    {
+      "block_position": 1,
+      "query": "Best soundbar for TV",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&q=Best+soundbar+for+TV&sa=X&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q1QJ6BAhKEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+soundbar+for+TV"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+soundbars+for+home+theater+setup&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&ei=P-yzarXtE6aCwbkPl8rYaA&start=10&sa=N&sstk=AS6-VmIr1N6RM6UFtnNO-85DEpIWv1vzR_WLrlvIVqiq84A40SkKu89J8rht1RGi-SmGJCfGbcJs8MApeqH3OGyxsEAKe3rnTP4hZg&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q8NMDegQIRRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+soundbars+for+home+theater+setup&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&ei=P-yzarXtE6aCwbkPl8rYaA&start=10&sa=N&sstk=AS6-VmIr1N6RM6UFtnNO-85DEpIWv1vzR_WLrlvIVqiq84A40SkKu89J8rht1RGi-SmGJCfGbcJs8MApeqH3OGyxsEAKe3rnTP4hZg&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q8tMDegQIRRAE",
+      "3": "https://www.google.com/search?q=best+soundbars+for+home+theater+setup&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&ei=P-yzarXtE6aCwbkPl8rYaA&start=20&sa=N&sstk=AS6-VmIr1N6RM6UFtnNO-85DEpIWv1vzR_WLrlvIVqiq84A40SkKu89J8rht1RGi-SmGJCfGbcJs8MApeqH3OGyxsEAKe3rnTP4hZg&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q8tMDegQIRRAG",
+      "4": "https://www.google.com/search?q=best+soundbars+for+home+theater+setup&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&ei=P-yzarXtE6aCwbkPl8rYaA&start=30&sa=N&sstk=AS6-VmIr1N6RM6UFtnNO-85DEpIWv1vzR_WLrlvIVqiq84A40SkKu89J8rht1RGi-SmGJCfGbcJs8MApeqH3OGyxsEAKe3rnTP4hZg&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q8tMDegQIRRAI",
+      "5": "https://www.google.com/search?q=best+soundbars+for+home+theater+setup&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&ei=P-yzarXtE6aCwbkPl8rYaA&start=40&sa=N&sstk=AS6-VmIr1N6RM6UFtnNO-85DEpIWv1vzR_WLrlvIVqiq84A40SkKu89J8rht1RGi-SmGJCfGbcJs8MApeqH3OGyxsEAKe3rnTP4hZg&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q8tMDegQIRRAK",
+      "6": "https://www.google.com/search?q=best+soundbars+for+home+theater+setup&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&ei=P-yzarXtE6aCwbkPl8rYaA&start=50&sa=N&sstk=AS6-VmIr1N6RM6UFtnNO-85DEpIWv1vzR_WLrlvIVqiq84A40SkKu89J8rht1RGi-SmGJCfGbcJs8MApeqH3OGyxsEAKe3rnTP4hZg&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q8tMDegQIRRAM",
+      "7": "https://www.google.com/search?q=best+soundbars+for+home+theater+setup&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&ei=P-yzarXtE6aCwbkPl8rYaA&start=60&sa=N&sstk=AS6-VmIr1N6RM6UFtnNO-85DEpIWv1vzR_WLrlvIVqiq84A40SkKu89J8rht1RGi-SmGJCfGbcJs8MApeqH3OGyxsEAKe3rnTP4hZg&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q8tMDegQIRRAO",
+      "8": "https://www.google.com/search?q=best+soundbars+for+home+theater+setup&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&ei=P-yzarXtE6aCwbkPl8rYaA&start=70&sa=N&sstk=AS6-VmIr1N6RM6UFtnNO-85DEpIWv1vzR_WLrlvIVqiq84A40SkKu89J8rht1RGi-SmGJCfGbcJs8MApeqH3OGyxsEAKe3rnTP4hZg&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q8tMDegQIRRAQ",
+      "9": "https://www.google.com/search?q=best+soundbars+for+home+theater+setup&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&ei=P-yzarXtE6aCwbkPl8rYaA&start=80&sa=N&sstk=AS6-VmIr1N6RM6UFtnNO-85DEpIWv1vzR_WLrlvIVqiq84A40SkKu89J8rht1RGi-SmGJCfGbcJs8MApeqH3OGyxsEAKe3rnTP4hZg&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q8tMDegQIRRAS",
+      "10": "https://www.google.com/search?q=best+soundbars+for+home+theater+setup&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnsJW2DhOhMXFWhgG9CoakCHRlC-pw:1790176319331&ei=P-yzarXtE6aCwbkPl8rYaA&start=90&sa=N&sstk=AS6-VmIr1N6RM6UFtnNO-85DEpIWv1vzR_WLrlvIVqiq84A40SkKu89J8rht1RGi-SmGJCfGbcJs8MApeqH3OGyxsEAKe3rnTP4hZg&ved=2ahUKEwj1iOW8_oSXAxUmQTABHRclFg0Q8tMDegQIRRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+soundbars+for+home+theater+setup&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+soundbars+for+home+theater+setup&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+soundbars+for+home+theater+setup&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+soundbars+for+home+theater+setup&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+soundbars+for+home+theater+setup&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+soundbars+for+home+theater+setup&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+soundbars+for+home+theater+setup&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+soundbars+for+home+theater+setup&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+soundbars+for+home+theater+setup&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+soundbars+for+home+theater+setup&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+soundbars+for+home+theater+setup&start=90"
+    }
+  }
+}

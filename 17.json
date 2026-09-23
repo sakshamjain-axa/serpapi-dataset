@@ -1,0 +1,755 @@
+{
+  "search_metadata": {
+    "id": "6ab3e6a02ddc435e060ea807",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/0m_-SYvjqZeaBKEyijLqXAoKkw9o1N3OyexuH8-RqcQ/6ab3e6a02ddc435e060ea807.json",
+    "markdown_endpoint": "https://serpapi.com/searches/0m_-SYvjqZeaBKEyijLqXAoKkw9o1N3OyexuH8-RqcQ/6ab3e6a02ddc435e060ea807.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/0m_-SYvjqZeaBKEyijLqXAoKkw9o1N3OyexuH8-RqcQ/6ab3e6a02ddc435e060ea807.json_with_pixel_position",
+    "created_at": "2026-09-23 14:48:00 UTC",
+    "processed_at": "2026-09-23 14:48:00 UTC",
+    "google_url": "https://www.google.com/search?q=best+ultrawide+monitors+for+office+work&oq=best+ultrawide+monitors+for+office+work&uule=w+CAIQICIeSG91c3RvbixUWCxUZXhhcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/0m_-SYvjqZeaBKEyijLqXAoKkw9o1N3OyexuH8-RqcQ/6ab3e6a02ddc435e060ea807.html",
+    "total_time_taken": 0.73
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best ultrawide monitors for office work",
+    "location_requested": "Houston, TX, Texas, United States",
+    "location_used": "Houston,TX,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best ultrawide monitors for office work",
+    "total_results": 168,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What are the best UltraWide monitors for business use?",
+      "type": "ai_overview",
+      "page_token": "kfWZoHicHdBRboIwGADg7DI-KhVxwcQsUaiGyc8o2IIvSy2CQEs7xTF92112qp1myb4jfN8_su7a36fs3PfmuphMhmEYV1pX8jQWWk349d6JieBSHrloF_PnOXopxdK_Dqu1Hlbx3hjqESvdHnZhgyVHLibIfySZQQyDAxT7R1xo0uILINcCJB777mwXqr9FuMiJrR3xgBLulhPR2DptAYPvvJGOUuYVN1Gj12ND1H6j-whjG7axU2QkF17Vc7-6J9RIQEQzJW_HvdNS313zTTgLkfsVKkh3zMzyJrBSdoa8hSZmQZxavcOzPMFTV-aZOYupZLEifmoXNUerEnwIBcXNpg5WZAv3iB0S4gU6pu4cFKwpOuTJBvPIO3wSD3_ENvWKaWCPSvG5tEf_Y8v3UvULc9HVHzY0dlU",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kfWZoHicHdBRboIwGADg7DI-KhVxwcQsUaiGyc8o2IIvSy2CQEs7xTF92112qp1myb4jfN8_su7a36fs3PfmuphMhmEYV1pX8jQWWk349d6JieBSHrloF_PnOXopxdK_Dqu1Hlbx3hjqESvdHnZhgyVHLibIfySZQQyDAxT7R1xo0uILINcCJB777mwXqr9FuMiJrR3xgBLulhPR2DptAYPvvJGOUuYVN1Gj12ND1H6j-whjG7axU2QkF17Vc7-6J9RIQEQzJW_HvdNS313zTTgLkfsVKkh3zMzyJrBSdoa8hSZmQZxavcOzPMFTV-aZOYupZLEifmoXNUerEnwIBcXNpg5WZAv3iB0S4gU6pu4cFKwpOuTJBvPIO3wSD3_ENvWKaWCPSvG5tEf_Y8v3UvULc9HVHzY0dlU",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVWZEZOMlJUZUUwelZ6VjNjMDVvT1V4cVlVVlplVUZXYW5OeVJrbE5TVGt6V1RKRVZWRjNiRXBYYW1kcFZFTnpXbGhZUW5sQ1dFWjNVbFJCV0MxeVNEVmxaVzFhTFhOUFZ6RndZazVhZUVWZlVuWXlVM2xmUTBWV1FSSVhiMlZoZW1GemFWWkNaRVJQZDJKclVGODBRMHh4VVdNYUlrRkVjM0k1WmxKaGExVndhM2xoU2pOVFVuSkNTamRPVm5oRlNIaDJSM2RZV21jIiwiZmN2IjoiMyIsImVpIjoib2VhemFzaVZCZERPd2JrUF80Q0xxUWMiLCJxYyI6IkNpZGlaWE4wSUhWc2RISmhkMmxrWlNCdGIyNXBkRzl5Y3lCbWIzSWdiMlptYVdObElIZHZjbXNRQUgwVnhnVV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IFVsdHJhV2lkZSBtb25pdG9ycyBmb3IgYnVzaW5lc3MgdXNlPyIsImxrIjoiR2g1MWJIUnlZWGRwWkdVZ2JXOXVhWFJ2Y2lCbWIzSWdZblZ6YVc1bGMzTSIsImJzIjoiYzMzT3ZRdkNNQkFGY0Z3ek9XZVFVOVJOcWJHNE9CUW5FUWNuS2JqMUk3V2gyb05jU3YzelRVUEJhb3ZMVGJfMzdyRWIyNFY1WkNEU0Vrd3VJWlprNFBvd09ncFZLdUdKcFRLb0NUTFVFRmVrU2trRUZjbEFBSjlVamFzNzdvdXhDMXNjYk8xQTJ4MHhkYlpHWFFSaXllZk5fMTdkRDJUSTltNnNvc19XcmI5U1paTDN2N2dZWnBsS1pQdkc0LXMyQWk0eVBMOFRZVWMyUFpIMXZ2ZmEyQU1KbG1TOWxpbUlBaXoyejRHWThXYlFQMVNNUjI4IiwiaWQiOiJmY19vZWF6YXNpVkJkRE93YmtQXzRDTHFRY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVWZEZOMlJUZUUwelZ6VjNjMDVvT1V4cVlVVlplVUZXYW5OeVJrbE5TVGt6V1RKRVZWRjNiRXBYYW1kcFZFTnpXbGhZUW5sQ1dFWjNVbFJCV0MxeVNEVmxaVzFhTFhOUFZ6RndZazVhZUVWZlVuWXlVM2xmUTBWV1FSSVhiMlZoZW1GemFWWkNaRVJQZDJKclVGODBRMHh4VVdNYUlrRkVjM0k1WmxKaGExVndhM2xoU2pOVFVuSkNTamRPVm5oRlNIaDJSM2RZV21jIiwiZmN2IjoiMyIsImVpIjoib2VhemFzaVZCZERPd2JrUF80Q0xxUWMiLCJxYyI6IkNpZGlaWE4wSUhWc2RISmhkMmxrWlNCdGIyNXBkRzl5Y3lCbWIzSWdiMlptYVdObElIZHZjbXNRQUgwVnhnVV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IFVsdHJhV2lkZSBtb25pdG9ycyBmb3IgYnVzaW5lc3MgdXNlPyIsImxrIjoiR2g1MWJIUnlZWGRwWkdVZ2JXOXVhWFJ2Y2lCbWIzSWdZblZ6YVc1bGMzTSIsImJzIjoiYzMzT3ZRdkNNQkFGY0Z3ek9XZVFVOVJOcWJHNE9CUW5FUWNuS2JqMUk3V2gyb05jU3YzelRVUEJhb3ZMVGJfMzdyRWIyNFY1WkNEU0Vrd3VJWlprNFBvd09ncFZLdUdKcFRLb0NUTFVFRmVrU2trRUZjbEFBSjlVamFzNzdvdXhDMXNjYk8xQTJ4MHhkYlpHWFFSaXllZk5fMTdkRDJUSTltNnNvc19XcmI5U1paTDN2N2dZWnBsS1pQdkc0LXMyQWk0eVBMOFRZVWMyUFpIMXZ2ZmEyQU1KbG1TOWxpbUlBaXoyejRHWThXYlFQMVNNUjI4IiwiaWQiOiJmY19vZWF6YXNpVkJkRE93YmtQXzRDTHFRY181In0%3D"
+    },
+    {
+      "question": "Are UltraWide monitors good for work?",
+      "type": "ai_overview",
+      "page_token": "_0XABHicHZDLboJAFEDTn3GpIJFGE9N0BFTUMVyYB7NpGPDBMDyqFJVd_6Vf1a-p6f4szjnfPzqvit-X7ty2zXU2Gt1ut-Gprk_6MEzrcpRcH1U6ShOtZZIWM_vVNt-O6dz9WqPF5xoFpGmoA0bIPca46KnyVBCdPRifTSg0RG5sxAq3W2YeQb9PJJvaOyU2osJ5SKdfrGq6lGqQCtnE0RFdUgIGsXYW2gYGXkjHN7cct9jRdlLcAXq8oSrLs2Wmo0og6OMH7TOaKRQzjYgce1rmpskUZrByJ6Ep7KcLhIZ_kWNYRMakxtbOeMKCedCJ3t9L1poHLmi4bLtI-3XCAbnnrHsCdsxxQwu_AHdqxWUb8B6caOVBfK_zgECfKl2SsglAa-PZf5cruMBy9xClYMQRe24hSjlek2BwTLu5Nfj_Of84lu2sudSnP6Dqgus",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_0XABHicHZDLboJAFEDTn3GpIJFGE9N0BFTUMVyYB7NpGPDBMDyqFJVd_6Vf1a-p6f4szjnfPzqvit-X7ty2zXU2Gt1ut-Gprk_6MEzrcpRcH1U6ShOtZZIWM_vVNt-O6dz9WqPF5xoFpGmoA0bIPca46KnyVBCdPRifTSg0RG5sxAq3W2YeQb9PJJvaOyU2osJ5SKdfrGq6lGqQCtnE0RFdUgIGsXYW2gYGXkjHN7cct9jRdlLcAXq8oSrLs2Wmo0og6OMH7TOaKRQzjYgce1rmpskUZrByJ6Ep7KcLhIZ_kWNYRMakxtbOeMKCedCJ3t9L1poHLmi4bLtI-3XCAbnnrHsCdsxxQwu_AHdqxWUb8B6caOVBfK_zgECfKl2SsglAa-PZf5cruMBy9xClYMQRe24hSjlek2BwTLu5Nfj_Of84lu2sudSnP6Dqgus",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVWZEZOMlJUZUUwelZ6VjNjMDVvT1V4cVlVVlplVUZXYW5OeVJrbE5TVGt6V1RKRVZWRjNiRXBYYW1kcFZFTnpXbGhZUW5sQ1dFWjNVbFJCV0MxeVNEVmxaVzFhTFhOUFZ6RndZazVhZUVWZlVuWXlVM2xmUTBWV1FSSVhiMlZoZW1GemFWWkNaRVJQZDJKclVGODBRMHh4VVdNYUlrRkVjM0k1WmxKaGExVndhM2xoU2pOVFVuSkNTamRPVm5oRlNIaDJSM2RZV21jIiwiZmN2IjoiMyIsImVpIjoib2VhemFzaVZCZERPd2JrUF80Q0xxUWMiLCJxYyI6IkNpZGlaWE4wSUhWc2RISmhkMmxrWlNCdGIyNXBkRzl5Y3lCbWIzSWdiMlptYVdObElIZHZjbXNRQUgwVnhnVV8iLCJxdWVzdGlvbiI6IkFyZSBVbHRyYVdpZGUgbW9uaXRvcnMgZ29vZCBmb3Igd29yaz8iLCJsayI6IkdpUmhjbVVnZFd4MGNtRjNhV1JsSUcxdmJtbDBiM0p6SUdkdmIyUWdabTl5SUhkdmNtcyIsImJzIjoiYzMzT3ZRdkNNQkFGY0Z3ek9XZVFVOVJOcWJHNE9CUW5FUWNuS2JqMUk3V2gyb05jU3YzelRVUEJhb3ZMVGJfMzdyRWIyNFY1WkNEU0Vrd3VJWlprNFBvd09ncFZLdUdKcFRLb0NUTFVFRmVrU2trRUZjbEFBSjlVamFzNzdvdXhDMXNjYk8xQTJ4MHhkYlpHWFFSaXllZk5fMTdkRDJUSTltNnNvc19XcmI5U1paTDN2N2dZWnBsS1pQdkc0LXMyQWk0eVBMOFRZVWMyUFpIMXZ2ZmEyQU1KbG1TOWxpbUlBaXoyejRHWThXYlFQMVNNUjI4IiwiaWQiOiJmY19vZWF6YXNpVkJkRE93YmtQXzRDTHFRY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVWZEZOMlJUZUUwelZ6VjNjMDVvT1V4cVlVVlplVUZXYW5OeVJrbE5TVGt6V1RKRVZWRjNiRXBYYW1kcFZFTnpXbGhZUW5sQ1dFWjNVbFJCV0MxeVNEVmxaVzFhTFhOUFZ6RndZazVhZUVWZlVuWXlVM2xmUTBWV1FSSVhiMlZoZW1GemFWWkNaRVJQZDJKclVGODBRMHh4VVdNYUlrRkVjM0k1WmxKaGExVndhM2xoU2pOVFVuSkNTamRPVm5oRlNIaDJSM2RZV21jIiwiZmN2IjoiMyIsImVpIjoib2VhemFzaVZCZERPd2JrUF80Q0xxUWMiLCJxYyI6IkNpZGlaWE4wSUhWc2RISmhkMmxrWlNCdGIyNXBkRzl5Y3lCbWIzSWdiMlptYVdObElIZHZjbXNRQUgwVnhnVV8iLCJxdWVzdGlvbiI6IkFyZSBVbHRyYVdpZGUgbW9uaXRvcnMgZ29vZCBmb3Igd29yaz8iLCJsayI6IkdpUmhjbVVnZFd4MGNtRjNhV1JsSUcxdmJtbDBiM0p6SUdkdmIyUWdabTl5SUhkdmNtcyIsImJzIjoiYzMzT3ZRdkNNQkFGY0Z3ek9XZVFVOVJOcWJHNE9CUW5FUWNuS2JqMUk3V2gyb05jU3YzelRVUEJhb3ZMVGJfMzdyRWIyNFY1WkNEU0Vrd3VJWlprNFBvd09ncFZLdUdKcFRLb0NUTFVFRmVrU2trRUZjbEFBSjlVamFzNzdvdXhDMXNjYk8xQTJ4MHhkYlpHWFFSaXllZk5fMTdkRDJUSTltNnNvc19XcmI5U1paTDN2N2dZWnBsS1pQdkc0LXMyQWk0eVBMOFRZVWMyUFpIMXZ2ZmEyQU1KbG1TOWxpbUlBaXoyejRHWThXYlFQMVNNUjI4IiwiaWQiOiJmY19vZWF6YXNpVkJkRE93YmtQXzRDTHFRY181In0%3D"
+    },
+    {
+      "question": "What is the best 34-inch UltraWide monitor for office work?",
+      "type": "ai_overview",
+      "page_token": "5_xTr3icHdBfbpswHABg7TJ9bIy9ZkqkqFICjNFBZ-M_4JfJtRMI_AAvZSHhbVfYGXaqnWbSviN8v_7Aeej-fvjdTJN_365W8zw_1uNYw_HRjv3KvN8Hu7IG4M3Ybrv-tA6eT3YXXe3-cLF7KryXIUMFyQ92ASIRnJloBoYcyQOvvoqnmQapytSGHTv90yT6m-ggKRJ9pQgFrqUflaAkwyBKnBujdKVxutf3ILMcvhx7CIqwRmrwlww2RR7Ju0FPQ_E5zXPV5C7wN05ibAYgXAWID-y1iDYpL2Wpex_Zzp9sCaZIMsxD1xSQ3Q1GUwb7Q9XmaRbDi8ZA7GKJ6uKwUhoz7EOXNEii5scRmH6NvaetM1r4Q4ntHDXuqlW8rsrcyy7tWLQhVT_RcmEhT2JW3cYzFWyxLfRikVIsrMqEo4WskQtZxLkLbMxaW-qXNyJvbn442euOPPy_3n0_9dPWX8b6H-4gjC4",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5_xTr3icHdBfbpswHABg7TJ9bIy9ZkqkqFICjNFBZ-M_4JfJtRMI_AAvZSHhbVfYGXaqnWbSviN8v_7Aeej-fvjdTJN_365W8zw_1uNYw_HRjv3KvN8Hu7IG4M3Ybrv-tA6eT3YXXe3-cLF7KryXIUMFyQ92ASIRnJloBoYcyQOvvoqnmQapytSGHTv90yT6m-ggKRJ9pQgFrqUflaAkwyBKnBujdKVxutf3ILMcvhx7CIqwRmrwlww2RR7Ju0FPQ_E5zXPV5C7wN05ibAYgXAWID-y1iDYpL2Wpex_Zzp9sCaZIMsxD1xSQ3Q1GUwb7Q9XmaRbDi8ZA7GKJ6uKwUhoz7EOXNEii5scRmH6NvaetM1r4Q4ntHDXuqlW8rsrcyy7tWLQhVT_RcmEhT2JW3cYzFWyxLfRikVIsrMqEo4WskQtZxLkLbMxaW-qXNyJvbn442euOPPy_3n0_9dPWX8b6H-4gjC4",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVWZEZOMlJUZUUwelZ6VjNjMDVvT1V4cVlVVlplVUZXYW5OeVJrbE5TVGt6V1RKRVZWRjNiRXBYYW1kcFZFTnpXbGhZUW5sQ1dFWjNVbFJCV0MxeVNEVmxaVzFhTFhOUFZ6RndZazVhZUVWZlVuWXlVM2xmUTBWV1FSSVhiMlZoZW1GemFWWkNaRVJQZDJKclVGODBRMHh4VVdNYUlrRkVjM0k1WmxKaGExVndhM2xoU2pOVFVuSkNTamRPVm5oRlNIaDJSM2RZV21jIiwiZmN2IjoiMyIsImVpIjoib2VhemFzaVZCZERPd2JrUF80Q0xxUWMiLCJxYyI6IkNpZGlaWE4wSUhWc2RISmhkMmxrWlNCdGIyNXBkRzl5Y3lCbWIzSWdiMlptYVdObElIZHZjbXNRQUgwVnhnVV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgMzQtaW5jaCBVbHRyYVdpZGUgbW9uaXRvciBmb3Igb2ZmaWNlIHdvcms/IiwibGsiOiJHaTVpWlhOMElETTBJR2x1WTJnZ2RXeDBjbUYzYVdSbElHMXZibWwwYjNJZ1ptOXlJRzltWm1salpTQjNiM0pyIiwiYnMiOiJjMzNPdlF2Q01CQUZjRnd6T1dlUVU5Uk5xYkc0T0JRbkVRY25LYmoxSTdXaDJvTmNTdjN6VFVQQmFvdkxUYl8zN3JFYjI0VjVaQ0RTRWt3dUlaWms0UG93T2dwVkt1R0pwVEtvQ1RMVUVGZWtTa2tFRmNsQUFKOVVqYXM3N291eEMxc2NiTzFBMngweGRiWkdYUVJpeWVmTl8xN2REMlRJOW02c29zX1dyYjlTWlpMM3Y3Z1lacGxLWlB2RzQtczJBaTR5UEw4VFlVYzJQWkgxdnZmYTJBTUpsbVM5bGltSUFpejJ6NEdZOFdiUVAxU01SMjgiLCJpZCI6ImZjX29lYXphc2lWQmRET3dia1BfNENMcVFjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVWZEZOMlJUZUUwelZ6VjNjMDVvT1V4cVlVVlplVUZXYW5OeVJrbE5TVGt6V1RKRVZWRjNiRXBYYW1kcFZFTnpXbGhZUW5sQ1dFWjNVbFJCV0MxeVNEVmxaVzFhTFhOUFZ6RndZazVhZUVWZlVuWXlVM2xmUTBWV1FSSVhiMlZoZW1GemFWWkNaRVJQZDJKclVGODBRMHh4VVdNYUlrRkVjM0k1WmxKaGExVndhM2xoU2pOVFVuSkNTamRPVm5oRlNIaDJSM2RZV21jIiwiZmN2IjoiMyIsImVpIjoib2VhemFzaVZCZERPd2JrUF80Q0xxUWMiLCJxYyI6IkNpZGlaWE4wSUhWc2RISmhkMmxrWlNCdGIyNXBkRzl5Y3lCbWIzSWdiMlptYVdObElIZHZjbXNRQUgwVnhnVV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgMzQtaW5jaCBVbHRyYVdpZGUgbW9uaXRvciBmb3Igb2ZmaWNlIHdvcms%2FIiwibGsiOiJHaTVpWlhOMElETTBJR2x1WTJnZ2RXeDBjbUYzYVdSbElHMXZibWwwYjNJZ1ptOXlJRzltWm1salpTQjNiM0pyIiwiYnMiOiJjMzNPdlF2Q01CQUZjRnd6T1dlUVU5Uk5xYkc0T0JRbkVRY25LYmoxSTdXaDJvTmNTdjN6VFVQQmFvdkxUYl8zN3JFYjI0VjVaQ0RTRWt3dUlaWms0UG93T2dwVkt1R0pwVEtvQ1RMVUVGZWtTa2tFRmNsQUFKOVVqYXM3N291eEMxc2NiTzFBMngweGRiWkdYUVJpeWVmTl8xN2REMlRJOW02c29zX1dyYjlTWlpMM3Y3Z1lacGxLWlB2RzQtczJBaTR5UEw4VFlVYzJQWkgxdnZmYTJBTUpsbVM5bGltSUFpejJ6NEdZOFdiUVAxU01SMjgiLCJpZCI6ImZjX29lYXphc2lWQmRET3dia1BfNENMcVFjXzUifQ%3D%3D"
+    },
+    {
+      "question": "Is 3440x1440 considered 2k or 4K?",
+      "type": "ai_overview",
+      "page_token": "gRXDlHicHdDvUoIwAADw62X8mPwRS--8ToSJFDPmNti-dDDSBUOmLTC_9S49VU_T1e8Rfl_f6u3Y_Nz00hj9Ph-Ph2G4PXTdQb3eiq4dF--fRzEWhVJlIZr59G5qP-zFIvzY-KvTxk-J1jRA1s7RNW_MqqLLK8s8sF3L82sONM-rU3IEHGZ62NGZzC1OtxHvCYY2tWmK3ZgXWPZFY86igSZtZ4QDHQpS5QVWG2T7Grn6JCzt06NuWe1nFKjHrAa70q4i2MReoWiwzS59FYQea-GkrFGY0GTCch8T93DFedxDhyYCLAfkymeG-brM6BOz4qeEXKKy9uU28ybM8daMohSvgR_KqucZmLIcatrEDQpnLmtNml9RgCOA2KV7Swm6ilq1xEaPHMSmCBCEgTTQAlEC5N_LlDr3DrEV4cNoL_qFO_r_XLzsWzPX5-7wC3fcglc",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gRXDlHicHdDvUoIwAADw62X8mPwRS--8ToSJFDPmNti-dDDSBUOmLTC_9S49VU_T1e8Rfl_f6u3Y_Nz00hj9Ph-Ph2G4PXTdQb3eiq4dF--fRzEWhVJlIZr59G5qP-zFIvzY-KvTxk-J1jRA1s7RNW_MqqLLK8s8sF3L82sONM-rU3IEHGZ62NGZzC1OtxHvCYY2tWmK3ZgXWPZFY86igSZtZ4QDHQpS5QVWG2T7Grn6JCzt06NuWe1nFKjHrAa70q4i2MReoWiwzS59FYQea-GkrFGY0GTCch8T93DFedxDhyYCLAfkymeG-brM6BOz4qeEXKKy9uU28ybM8daMohSvgR_KqucZmLIcatrEDQpnLmtNml9RgCOA2KV7Swm6ilq1xEaPHMSmCBCEgTTQAlEC5N_LlDr3DrEV4cNoL_qFO_r_XLzsWzPX5-7wC3fcglc",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVWZEZOMlJUZUUwelZ6VjNjMDVvT1V4cVlVVlplVUZXYW5OeVJrbE5TVGt6V1RKRVZWRjNiRXBYYW1kcFZFTnpXbGhZUW5sQ1dFWjNVbFJCV0MxeVNEVmxaVzFhTFhOUFZ6RndZazVhZUVWZlVuWXlVM2xmUTBWV1FSSVhiMlZoZW1GemFWWkNaRVJQZDJKclVGODBRMHh4VVdNYUlrRkVjM0k1WmxKaGExVndhM2xoU2pOVFVuSkNTamRPVm5oRlNIaDJSM2RZV21jIiwiZmN2IjoiMyIsImVpIjoib2VhemFzaVZCZERPd2JrUF80Q0xxUWMiLCJxYyI6IkNpZGlaWE4wSUhWc2RISmhkMmxrWlNCdGIyNXBkRzl5Y3lCbWIzSWdiMlptYVdObElIZHZjbXNRQUgwVnhnVV8iLCJxdWVzdGlvbiI6IklzIDM0NDB4MTQ0MCBjb25zaWRlcmVkIDJrIG9yIDRLPyIsImxrIjoiR2lCcGN5QXpORFF3ZURFME5EQWdZMjl1YzJsa1pYSmxaQ0F5YXlCdmNpQTBhdyIsImJzIjoiYzMzT3ZRdkNNQkFGY0Z3ek9XZVFVOVJOcWJHNE9CUW5FUWNuS2JqMUk3V2gyb05jU3YzelRVUEJhb3ZMVGJfMzdyRWIyNFY1WkNEU0Vrd3VJWlprNFBvd09ncFZLdUdKcFRLb0NUTFVFRmVrU2trRUZjbEFBSjlVamFzNzdvdXhDMXNjYk8xQTJ4MHhkYlpHWFFSaXllZk5fMTdkRDJUSTltNnNvc19XcmI5U1paTDN2N2dZWnBsS1pQdkc0LXMyQWk0eVBMOFRZVWMyUFpIMXZ2ZmEyQU1KbG1TOWxpbUlBaXoyejRHWThXYlFQMVNNUjI4IiwiaWQiOiJmY19vZWF6YXNpVkJkRE93YmtQXzRDTHFRY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVWZEZOMlJUZUUwelZ6VjNjMDVvT1V4cVlVVlplVUZXYW5OeVJrbE5TVGt6V1RKRVZWRjNiRXBYYW1kcFZFTnpXbGhZUW5sQ1dFWjNVbFJCV0MxeVNEVmxaVzFhTFhOUFZ6RndZazVhZUVWZlVuWXlVM2xmUTBWV1FSSVhiMlZoZW1GemFWWkNaRVJQZDJKclVGODBRMHh4VVdNYUlrRkVjM0k1WmxKaGExVndhM2xoU2pOVFVuSkNTamRPVm5oRlNIaDJSM2RZV21jIiwiZmN2IjoiMyIsImVpIjoib2VhemFzaVZCZERPd2JrUF80Q0xxUWMiLCJxYyI6IkNpZGlaWE4wSUhWc2RISmhkMmxrWlNCdGIyNXBkRzl5Y3lCbWIzSWdiMlptYVdObElIZHZjbXNRQUgwVnhnVV8iLCJxdWVzdGlvbiI6IklzIDM0NDB4MTQ0MCBjb25zaWRlcmVkIDJrIG9yIDRLPyIsImxrIjoiR2lCcGN5QXpORFF3ZURFME5EQWdZMjl1YzJsa1pYSmxaQ0F5YXlCdmNpQTBhdyIsImJzIjoiYzMzT3ZRdkNNQkFGY0Z3ek9XZVFVOVJOcWJHNE9CUW5FUWNuS2JqMUk3V2gyb05jU3YzelRVUEJhb3ZMVGJfMzdyRWIyNFY1WkNEU0Vrd3VJWlprNFBvd09ncFZLdUdKcFRLb0NUTFVFRmVrU2trRUZjbEFBSjlVamFzNzdvdXhDMXNjYk8xQTJ4MHhkYlpHWFFSaXllZk5fMTdkRDJUSTltNnNvc19XcmI5U1paTDN2N2dZWnBsS1pQdkc0LXMyQWk0eVBMOFRZVWMyUFpIMXZ2ZmEyQU1KbG1TOWxpbUlBaXoyejRHWThXYlFQMVNNUjI4IiwiaWQiOiJmY19vZWF6YXNpVkJkRE93YmtQXzRDTHFRY181In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best ultrawide monitor for office work depends on your budget and space needs, with the Dell UltraSharp U4025QWGo to product viewer dialog for this item. standing out as the premier high-end productivity choice.",
+        "snippet_links": [
+          {
+            "text": "Dell UltraSharp U4025QWGo to product viewer dialog for this item.",
+            "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:5657799070859882729,gpcid:18311938694490832963,headlineOfferDocid:15110130672170917766,catalogid:5657494756756081658,productDocid:4670096756210051231,rds:PC_18311938694490832963%7CPROD_PC_18311938694490832963&q=product&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQxa4PegoIAggACAAIAhAH"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "Dell UltraSharp U4025QWGo to product viewer dialog for this item."
+        ],
+        "reference_indexes": [
+          7
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Ultrawide Monitors for Productivity"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Best Overall / Premium: Dell UltraSharp U4025QWGo to product viewer dialog for this item. (approx. $1,900)",
+            "snippet_links": [
+              {
+                "text": "Dell UltraSharp U4025QWGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:5657799070859882729,gpcid:18311938694490832963,headlineOfferDocid:15110130672170917766,catalogid:5657494756756081658,productDocid:4670096756210051231,rds:PC_18311938694490832963%7CPROD_PC_18311938694490832963&q=product&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQxa4PegoIAggACAAIAhAS"
+              }
+            ],
+            "list": [
+              {
+                "snippet": "Resolution: 5120 x 2160 (5K2K) on a 39.7-inch curved IPS screen."
+              },
+              {
+                "snippet": "Key Features: Incredible text sharpness, extensive Thunderbolt/USB-C connectivity with high power delivery, and a smooth 120Hz refresh rate."
+              }
+            ]
+          },
+          {
+            "snippet": "Best Mid-Range Value: LG 34WR55QK-BGo to product viewer dialog for this item. (approx. $350)",
+            "snippet_links": [
+              {
+                "text": "LG 34WR55QK-BGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462531124421713,imageDocid:9446368332282862812,gpcid:11918495780841233988,headlineOfferDocid:4023587904352573184,catalogid:11908877499703325359,productDocid:12006908260338615457,rds:PC_11918495780841233988%7CPROD_PC_11918495780841233988&q=product&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQxa4PegoIAggACAAIAhAe"
+              }
+            ],
+            "list": [
+              {
+                "snippet": "Resolution: 3440 x 1440 (UWQHD) on a 34-inch curved VA panel."
+              },
+              {
+                "snippet": "Key Features: USB-C single-cable connection, 100Hz refresh rate, and 99% sRGB color accuracy for everyday multi-window workflows."
+              }
+            ]
+          },
+          {
+            "snippet": "Best Budget Option: MSI Pro MP341CQGo to product viewer dialog for this item. (approx. $200)",
+            "snippet_links": [
+              {
+                "text": "MSI Pro MP341CQGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462859046460580,imageDocid:2965095872692641041,gpcid:1089962167515613520,headlineOfferDocid:5267920439481703458,catalogid:9442009511890294474,productDocid:4299108507388468059,rds:PC_1089962167515613520%7CPROD_PC_1089962167515613520&q=product&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQxa4PegoIAggACAAIFxAD"
+              }
+            ],
+            "list": [
+              {
+                "snippet": "Resolution: 3440 x 1440 on a 34-inch 1500R curved VA panel."
+              },
+              {
+                "snippet": "Key Features: Solid 100Hz refresh rate, anti-glare coating, and an expansive workspace without extra high-end cost."
+              }
+            ]
+          }
+        ],
+        "reference_indexes": [
+          8
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "See a detailed breakdown of top ultrawide displays designed specifically for work and multitasking:"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like to narrow down the choice, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Your approximate budget"
+          },
+          {
+            "snippet": "The applications or tasks you use most (spreadsheets, programming, creative design)"
+          },
+          {
+            "snippet": "Whether you need USB-C/Thunderbolt laptop charging"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.reddit.com/r/ultrawidemasterrace/comments/1p745yd/looking_for_ultrawide_monitor_for_home_office/",
+        "source": "reddit.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=NaMlotkIFqI",
+        "source": "youtube.com",
+        "index": 1
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=ONr15_xv1Wo",
+        "source": "youtube.com",
+        "index": 2
+      },
+      {
+        "link": "https://www.google.com/",
+        "source": "Google",
+        "index": 3
+      },
+      {
+        "title": "Looking for Ultrawide Monitor for Home Office - Reddit",
+        "link": "https://www.reddit.com/r/ultrawidemasterrace/comments/1p745yd/looking_for_ultrawide_monitor_for_home_office/",
+        "snippet": "5K2K Monitors for Office Work: For office tasks and programming, 5k2k ultrawide monitors are highly recommended for their ample vertical screen space and sharp tex...",
+        "source": "Reddit",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRSjG5IMgpC4fESVzRM8irlKbLMMOEdh4ylA3ahGM-e0N9W2RTpCN94IHzuPS-hRjsEBUc5peJxNJWd2GT4tlGEd4TrCg4i6u3Q09Fb",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 4
+      },
+      {
+        "title": "Best Ultrawide Monitors for Productivity",
+        "link": "https://www.youtube.com/watch?v=NaMlotkIFqI",
+        "snippet": "Best Ultrawide Monitors for Productivity if you're serious about productivity in 2026 an ultra wide monitor isn't a luxury anymore it's a workflow upgrade. once yo",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRoJeZI9V-nBT7_m6i3TFEZ4BryS3_Z8iBAWGPH2zlEF8aTmOJ56fblbaIZX_3rRhn9Lx17iXgh78J9BSDPvMjswK_lVwM_038gIJ8WvA",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "️ Upgrade Your Desk: Best Ultrawide Monitors for Productivity 2026",
+        "link": "https://www.youtube.com/watch?v=ONr15_xv1Wo&t=24",
+        "snippet": "▶️ Upgrade Your Desk: Best Ultrawide Monitors for Productivity 2026 below let's get started right now with our first. pick. we're looking at the Dell. S3425DW. and",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGgjWaozcfgmt0KvgIpWUGwXYBPO_EVErTH1TkyFBOx_Ba6-2Re2iD0TV0eefwo-asY5kC5zJ4t7dHdaqSgzWPvd8LFz5UeE7olHaUDA",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "LG 34WR55QK-B 34-inch UltraWide WQHD Curved Computer Monitor",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:12006908260338615457,catalogid:11908877499703325359,gpcid:11918495780841233988,mid:576462531124421713&ibp=oshop",
+        "snippet": "For work or even play, see the big picture with the LG UltraWIde 34\\\" WQHD curved monitor, the ultimate screen space upgrade for those who crave more screen space. The wide 21 - 9 aspect ratio and 3440 x 1440 resolution offer a crisp, immersive workspaceperfect for those whose work demands lots of screen space to see multiple windows all at once. Enjoy smoother performance with a 100Hz refresh rate and the convenience of USB Type-C connectivity, delivering power and data through a single cable. The height and tilt-adjustable stand ensures ergonomic comfort, while the 3-side virtually borderless design keeps your focus where it matters. Multitasking and managing large projects on one display has never been easier.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPrMAnCDOJ8rMmzEmare1nNVCY75J27RFBe7EVpBGSRkAde0bZKXBrEdxCm_u5tZ3piw23p9X-FGdmw8Y",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "MSI Pro MP341CQ promp341cq",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:4299108507388468059,catalogid:9442009511890294474,gpcid:1089962167515613520,mid:576462859046460580&ibp=oshop",
+        "snippet": "The MSI Pro MP341CQ is a 34-inch ultrawide curved monitor built for business productivity, multi-window working and everyday desktop use. Featuring a 3440 x 1440 UWQHD resolution across a 21:9 aspect ratio, it delivers a broad desktop canvas well suited to side-by-side documents, spreadsheets, timelines and split-screen workflows. The 1500R curved VA panel offers a 3000:1 typical contrast ratio and 300 cd/m2 brightness, producing deep blacks and solid shadow detail that VA technology is known for. A 100 Hz maximum refresh rate keeps motion smooth, while a 4 ms GTG response time and 1 ms MPRT help reduce blur during fast-moving content. Colour reproduction is handled by 10-bit depth supporting 1.07 billion colours with 116.25% sRGB coverage, making it suitable for colour-accurate office and creative work. Viewing angles reach 178 degrees both horizontally and vertically, ensuring consistent image quality from off-axis positions. Connectivity includes two HDMI 2.0b ports, one DisplayPort 1.2a and a DVI input, offering flexibility for desktop PCs, laptops and older hardware. The anti-glare screen coating reduces reflections in bright office environments. Compatible with Windows and macOS systems via standard display inputs.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQJyYkmJIyat1GTzQj9ljXv-ndw1ZNWcJasGwgP8gKu5QIPvMMEuxnrB8DkekABKIS05JnkSFcf6r1d8tQ",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The 4 Best Ultrawide Monitors of 2026",
+      "link": "https://www.rtings.com/monitor/reviews/best/by-features/ultrawide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVXG_BTAdEVcDTr-ofRVLBBiJxRXnq5qdUitbOi58MT_TFxy8leJwgDJ76szUd_1egfxd4ZXfo0EZzqlTKFLyvfjLMGtX0GG2Vuljy8lUgKrAiXVtQ0uloL5IZxZcqwSOW_sFsWmwBwXI1nPylig4EDbxveWM&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://www.rtings.com › Monitor › Best",
+      "date": "Aug 10, 2026",
+      "snippet": "The best ultrawide monitor is the ASUS ROG Swift OLED PG34WCDN. It's a high-end 34-inch model that excels for many different uses.",
+      "snippet_highlighted_words": [
+        "ASUS ROG Swift OLED PG34WCDN"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The best ultrawide monitor is the ASUS ROG Swift OLED PG34WCDN. It's a high-end 34-inch model that excels for many different uses.",
+          "source_info_link": "https://www.rtings.com/monitor/reviews/best/by-features/ultrawide",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBwCdASocABwAPtEutFooIagoGAEAGglsALsogPPAsk5vgZoLRX_mfsA6b_zoMDV6I1rVWbKRuDj2Xx5JrfIQx1IYAAD-9gEpnxuhc7ENnwKjzZoQnCod4QIHeqxtWkm-zR-KYZ1s1v_VznstYhRh3O74CYk2IT392EgBCIM99luEHmIleipgJlMN7ygb-jOW1Bn34ULpxMS_919JTLNvJnfR3F8LUP_-ZffK74uiqK2Rb638T_o0bNyH_FWK7GSyYExAvnazPBgeJx3__aKGooFvapPvH9V1SCEWzSW3TMrz2Efp2V914fVX14EW-xgAIoSM7sIKW_rtSB6q0s_KKxKP6W2YdnLdOfPf4deU0sAwra9ybej7ApMHfwBoA3MWtRmurjVvYuA5aPlwB_RdIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVlhHX0JUQWRFVmNEVHItb2ZSVkxCQmlKeFJYbnE1cWRVaXRiT2k1OE1UX1RGeHk4bGVKd2dESjc2c3pVZF8xZWdmeGQ0WlhmbzBFWnpxbFRLRkx5dmZqTE1HdFgwR0cyVnVsank4bFVnS3JBaVhWdFEwdWxvTDVJWnhaY3F3U09XX3NGc1dtd0J3WEkxblB5bGlnNEVEYnh2ZVdNEgQaAggAGqcFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAgQUIABAAGAAgACoWCgRiZXN0FeymuUAaBGdvb2QaA3RvcCosCgl1bHRyYXdpZGUV7bG1QBoKdWx0cmEgd2lkZRoOaXY7cDt1bHRyYXdpZGUqOQoIbW9uaXRvcnMV6Hm2QBoHZGlzcGxheRoHbW9uaXRvchoHc2NyZWVucxoNaXY7cDttb25pdG9ycyoKCgNmb3IVAAAAACojCgZvZmZpY2UVInG-PhoIb2ZmaWNpYWwaCm9mZmljZXdvcmsqPAoEd29yaxVzx8U_GgNqb2IaBXRhc2tzGgd3b3JrZXJzGgd3b3JraW5nGgV3b3JrcxoKb2ZmaWNld29yazKxAS9nb3RvP3VybD1DQUVTZVFIck96QVZYR19CVEFkRVZjRFRyLW9mUlZMQkJpSnhSWG5xNXFkVWl0Yk9pNThNVF9URnh5OGxlSndnREo3NnN6VWRfMWVnZnhkNFpYZm8wRVp6cWxUS0ZMeXZmakxNR3RYMEdHMlZ1bGp5OGxVZ0tyQWlYVnRRMHVsb0w1SVp4WmNxd1NPV19zRnNXbXdCd1hJMW5QeWxpZzRFRGJ4dmVXTTo5VGhlIDQgPGI-QmVzdCBVbHRyYXdpZGUgTW9uaXRvcnM8L2I-IG9mIDIwMjYgLSBSVElOR1MuY29tQo0BVGhlIGJlc3QgdWx0cmF3aWRlIG1vbml0b3IgaXMgdGhlIDxiPkFTVVMgUk9HIFN3aWZ0IE9MRUQgUEczNFdDRE48L2I-LiBJdCYjMzk7cyBhIGhpZ2gtZW5kIDM0LWluY2ggbW9kZWwgdGhhdCBleGNlbHMgZm9yIG1hbnkgZGlmZmVyZW50IHVzZXMuSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVlhHX0JUQWRFVmNEVHItb2ZSVkxCQmlKeFJYbnE1cWRVaXRiT2k1OE1UX1RGeHk4bGVKd2dESjc2c3pVZF8xZWdmeGQ0WlhmbzBFWnpxbFRLRkx5dmZqTE1HdFgwR0cyVnVsank4bFVnS3JBaVhWdFEwdWxvTDVJWnhaY3F3U09XX3NGc1dtd0J3WEkxblB5bGlnNEVEYnh2ZVdNEgQaAggAGqcFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAgQUIABAAGAAgACoWCgRiZXN0FeymuUAaBGdvb2QaA3RvcCosCgl1bHRyYXdpZGUV7bG1QBoKdWx0cmEgd2lkZRoOaXY7cDt1bHRyYXdpZGUqOQoIbW9uaXRvcnMV6Hm2QBoHZGlzcGxheRoHbW9uaXRvchoHc2NyZWVucxoNaXY7cDttb25pdG9ycyoKCgNmb3IVAAAAACojCgZvZmZpY2UVInG-PhoIb2ZmaWNpYWwaCm9mZmljZXdvcmsqPAoEd29yaxVzx8U_GgNqb2IaBXRhc2tzGgd3b3JrZXJzGgd3b3JraW5nGgV3b3JrcxoKb2ZmaWNld29yazKxAS9nb3RvP3VybD1DQUVTZVFIck96QVZYR19CVEFkRVZjRFRyLW9mUlZMQkJpSnhSWG5xNXFkVWl0Yk9pNThNVF9URnh5OGxlSndnREo3NnN6VWRfMWVnZnhkNFpYZm8wRVp6cWxUS0ZMeXZmakxNR3RYMEdHMlZ1bGp5OGxVZ0tyQWlYVnRRMHVsb0w1SVp4WmNxd1NPV19zRnNXbXdCd1hJMW5QeWxpZzRFRGJ4dmVXTTo5VGhlIDQgPGI-QmVzdCBVbHRyYXdpZGUgTW9uaXRvcnM8L2I-IG9mIDIwMjYgLSBSVElOR1MuY29tQo0BVGhlIGJlc3QgdWx0cmF3aWRlIG1vbml0b3IgaXMgdGhlIDxiPkFTVVMgUk9HIFN3aWZ0IE9MRUQgUEczNFdDRE48L2I-LiBJdCYjMzk7cyBhIGhpZ2gtZW5kIDM0LWluY2ggbW9kZWwgdGhhdCBleGNlbHMgZm9yIG1hbnkgZGlmZmVyZW50IHVzZXMuSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "RTINGS.com"
+    },
+    {
+      "position": 2,
+      "title": "Looking for Ultrawide Monitor for Home Office",
+      "link": "https://www.reddit.com/r/ultrawidemasterrace/comments/1p745yd/looking_for_ultrawide_monitor_for_home_office/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFfOzk7aqaNEQn5nqOqEjMSqdm_1kmHf6UHGw5CS0XpRe04xDs9b3M-A1sHW6KrNGKvrP1y8Qs-OxdtSy_ZFk8G5yaeT7TlvgVNagVBv-J95qleiTcp9ruRT1OWTkbd5F30_IejmrG_N0dzWZRYb1hvpBxDY2nGSEsRtqreUae6j85R5fN54BDSMO86lpTEmtJ9jSIo6_1mJRY5vrOO2VNA&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQFnoECBsQAQ&uoh=1",
+      "displayed_link": "30+ comments · 10 months ago",
+      "snippet": "LG 40U990A-W or Dell U4025QW. for office work such as programming. It seems IPS screens are better and these 2 monitors both have it. Samsung G ...",
+      "snippet_highlighted_words": [
+        "LG 40U990A-W or Dell U4025QW"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Ultra wide for non-gamer office worker? : r ...",
+            "link": "https://www.reddit.com/r/ultrawidemasterrace/comments/16kyidq/ultra_wide_for_nongamer_office_worker/",
+            "answer_count": 50,
+            "date": "Sep 17, 2023"
+          },
+          {
+            "title": "What ultrawide does everyone recommend for office ...",
+            "link": "https://www.reddit.com/r/ultrawidemasterrace/comments/158oili/what_ultrawide_does_everyone_recommend_for_office/",
+            "answer_count": 15,
+            "date": "Jul 24, 2023"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "LG 40U990A-W or Dell U4025QW. for office work such as programming. It seems IPS screens are better and these 2 monitors both have it. Samsung G ...",
+          "source_info_link": "https://www.reddit.com/r/ultrawidemasterrace/comments/1p745yd/looking_for_ultrawide_monitor_for_home_office/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZmT3prN2FxYU5FUW41bnFPcUVqTVNxZG1fMWttSGY2VUhHdzVDUzBYcFJlMDR4RHM5YjNNLUExc0hXNktyTkdLdnJQMXk4UXMtT3hkdFN5X1pGazhHNXlhZVQ3VGx2Z1ZOYWdWQnYtSjk1cWxlaVRjcDlydVJUMU9XVGtiZDVGMzBfSWVqbXJHX04wZHpXWlJZYjFodnBCeERZMm5HU0VzUnRxcmVVYWU2ajg1UjVmTjU0QkRTTU84NmxwVEVtdEo5alNJbzZfMW1KUlk1dnJPTzJWTkESBBoCCAAa_QUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2QUIABAAGAAgACoWCgRiZXN0FauFoD8aBGdvb2QaA3RvcCosCgl1bHRyYXdpZGUVUbKTQBoKdWx0cmEgd2lkZRoOaXY7cDt1bHRyYXdpZGUqOQoIbW9uaXRvcnMVvKSrPxoHZGlzcGxheRoHbW9uaXRvchoHc2NyZWVucxoNaXY7cDttb25pdG9ycyoKCgNmb3IVAAAAACojCgZvZmZpY2UVjSGAQBoIb2ZmaWNpYWwaCm9mZmljZXdvcmsqPAoEd29yaxVpPQ9AGgNqb2IaBXRhc2tzGgd3b3JrZXJzGgd3b3JraW5nGgV3b3JrcxoKb2ZmaWNld29yazLsAS9nb3RvP3VybD1DQUVTcEFFQjZ6c3dGZk96azdhcWFORVFuNW5xT3FFak1TcWRtXzFrbUhmNlVIR3c1Q1MwWHBSZTA0eERzOWIzTS1BMXNIVzZLck5HS3ZyUDF5OFFzLU94ZHRTeV9aRms4RzV5YWVUN1RsdmdWTmFnVkJ2LUo5NXFsZWlUY3A5cnVSVDFPV1RrYmQ1RjMwX0llam1yR19OMGR6V1pSWWIxaHZwQnhEWTJuR1NFc1J0cXJlVWFlNmo4NVI1Zk41NEJEU01PODZscFRFbXRKOWpTSW82XzFtSlJZNXZyT08yVk5BOkRMb29raW5nIGZvciA8Yj5VbHRyYXdpZGUgTW9uaXRvcjwvYj4gZm9yIEhvbWUgPGI-T2ZmaWNlPC9iPiAtIFJlZGRpdEKfATxiPkxHIDQwVTk5MEEtVyBvciBEZWxsIFU0MDI1UVc8L2I-LiBmb3Igb2ZmaWNlIHdvcmsgc3VjaCBhcyBwcm9ncmFtbWluZy4gSXQgc2VlbXMgSVBTIHNjcmVlbnMgYXJlIGJldHRlciBhbmQgdGhlc2UgMiBtb25pdG9ycyBib3RoIGhhdmUgaXQuIFNhbXN1bmcgRyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZmT3prN2FxYU5FUW41bnFPcUVqTVNxZG1fMWttSGY2VUhHdzVDUzBYcFJlMDR4RHM5YjNNLUExc0hXNktyTkdLdnJQMXk4UXMtT3hkdFN5X1pGazhHNXlhZVQ3VGx2Z1ZOYWdWQnYtSjk1cWxlaVRjcDlydVJUMU9XVGtiZDVGMzBfSWVqbXJHX04wZHpXWlJZYjFodnBCeERZMm5HU0VzUnRxcmVVYWU2ajg1UjVmTjU0QkRTTU84NmxwVEVtdEo5alNJbzZfMW1KUlk1dnJPTzJWTkESBBoCCAAa_QUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2QUIABAAGAAgACoWCgRiZXN0FauFoD8aBGdvb2QaA3RvcCosCgl1bHRyYXdpZGUVUbKTQBoKdWx0cmEgd2lkZRoOaXY7cDt1bHRyYXdpZGUqOQoIbW9uaXRvcnMVvKSrPxoHZGlzcGxheRoHbW9uaXRvchoHc2NyZWVucxoNaXY7cDttb25pdG9ycyoKCgNmb3IVAAAAACojCgZvZmZpY2UVjSGAQBoIb2ZmaWNpYWwaCm9mZmljZXdvcmsqPAoEd29yaxVpPQ9AGgNqb2IaBXRhc2tzGgd3b3JrZXJzGgd3b3JraW5nGgV3b3JrcxoKb2ZmaWNld29yazLsAS9nb3RvP3VybD1DQUVTcEFFQjZ6c3dGZk96azdhcWFORVFuNW5xT3FFak1TcWRtXzFrbUhmNlVIR3c1Q1MwWHBSZTA0eERzOWIzTS1BMXNIVzZLck5HS3ZyUDF5OFFzLU94ZHRTeV9aRms4RzV5YWVUN1RsdmdWTmFnVkJ2LUo5NXFsZWlUY3A5cnVSVDFPV1RrYmQ1RjMwX0llam1yR19OMGR6V1pSWWIxaHZwQnhEWTJuR1NFc1J0cXJlVWFlNmo4NVI1Zk41NEJEU01PODZscFRFbXRKOWpTSW82XzFtSlJZNXZyT08yVk5BOkRMb29raW5nIGZvciA8Yj5VbHRyYXdpZGUgTW9uaXRvcjwvYj4gZm9yIEhvbWUgPGI-T2ZmaWNlPC9iPiAtIFJlZGRpdEKfATxiPkxHIDQwVTk5MEEtVyBvciBEZWxsIFU0MDI1UVc8L2I-LiBmb3Igb2ZmaWNlIHdvcmsgc3VjaCBhcyBwcm9ncmFtbWluZy4gSXQgc2VlbXMgSVBTIHNjcmVlbnMgYXJlIGJldHRlciBhbmQgdGhlc2UgMiBtb25pdG9ycyBib3RoIGhhdmUgaXQuIFNhbXN1bmcgRyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Reddit · r/ultrawidemasterrace"
+    },
+    {
+      "position": 3,
+      "title": "I bought an ultrawide monitor for productivity, and here's ...",
+      "link": "https://www.androidauthority.com/ultrawide-monitor-for-productivity-3167406/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFbHdSQ7GGFipGHftvzxEjGffuJjVbO1sInKpNlOaWPHtzc6HvRsZXfbWVsvxMgNPP8fem6oVOLQIMDSPm71sGv5eFSApMLJblETLJ6RL9_u1qYnm5FueI-VMFHxID5do1sp4nJt7d8TDUlmad8rn4Q6FNhZsTUCvdGAuOTEEVWM&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQFnoECBMQAQ&uoh=1",
+      "displayed_link": "https://www.androidauthority.com › Computing",
+      "snippet": "Overall, the Dell P3421W is a solid, if not flashy purchase. It looks sleek on my desk, and the aluminum stand is sturdy enough not to wobble even at the ...",
+      "snippet_highlighted_words": [
+        "Dell P3421W"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Overall, the Dell P3421W is a solid, if not flashy purchase. It looks sleek on my desk, and the aluminum stand is sturdy enough not to wobble even at the ...",
+          "source_info_link": "https://www.androidauthority.com/ultrawide-monitor-for-productivity-3167406/",
+          "icon": "https://serpapi.com/images/i/UklGRtABAABXRUJQVlA4IMQBAAAQCQCdASogACAAPtEutFooIagoGAEAGglAGYQezrAdB61BTNv-R5Qfo72CP4__S_-LwJ_65Di_zLqACIdmF5gHUg-WmwNEtB0eUBsMArol0gAA_vYTRGVnlRhLU4P9QJfK4yKDLS_tHZLrB5fRxAqS4a2gVVZVe3_fYwLs_uvIynJ7ybp-xf8YpQFh9OZQs2n2KzPAozACX9_olLy3944Hq-ZtOefG6GTqxG7V8kmoJxH97rendweKFfHnhAXxCzJVfOz_dgPB3z_pXwgExsrxcUW5mNX9TJT_3tLoT49KlhnotWCj9UF0zoP7ntv9L1j7dMoIXolPVX1Jv21v83H_5a3r2OW7g9nOmPd3827VkH85j_9_GM9_Not9w5h70K7a7OHW1chlPIQYt3j1mlHul9Ef06urSg7Jj8lBPxV_OgLYh5IJD2SBi71nHrokRtOP5bjiXB3vrS06SsYDWNe4DfaQnfF_z4F-ta0-_vlK8F_K9errVg3uhZXv47__994j6vFq4Pf_wZjtjlq19BHPPUgiFZqE3yY4te59vrIDpQtZ5n-zuuecf2lc6KoX_H2aK94CiHz246s7mgWejWIBRAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZiSGRTUTdHR0ZpcEdIZnR2enhFakdmZnVKalZiTzFzSW5LcE5sT2FXUEh0emM2SHZSc1pYZmJXVnN2eE1nTlBQOGZlbTZvVk9MUUlNRFNQbTcxc0d2NWVGU0FwTUxKYmxFVExKNlJMOV91MXFZbm01RnVlSS1WTUZIeElENWRvMXNwNG5KdDdkOFREVWxtYWQ4cm40UTZGTmhac1RVQ3ZkR0F1T1RFRVZXTRIEGgIIABrqBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMQFCAAQABgAIAAqFgoEYmVzdBUsLjA9GgRnb29kGgN0b3AqLAoJdWx0cmF3aWRlFUHDgUAaCnVsdHJhIHdpZGUaDml2O3A7dWx0cmF3aWRlKjkKCG1vbml0b3JzFWQCLj8aB2Rpc3BsYXkaB21vbml0b3IaB3NjcmVlbnMaDWl2O3A7bW9uaXRvcnMqCgoDZm9yFQAAAAAqIwoGb2ZmaWNlFbeBJD8aCG9mZmljaWFsGgpvZmZpY2V3b3JrKjwKBHdvcmsVtq11PxoDam9iGgV0YXNrcxoHd29ya2VycxoHd29ya2luZxoFd29ya3MaCm9mZmljZXdvcmsywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RmJIZFNRN0dHRmlwR0hmdHZ6eEVqR2ZmdUpqVmJPMXNJbktwTmxPYVdQSHR6YzZIdlJzWlhmYldWc3Z4TWdOUFA4ZmVtNm9WT0xRSU1EU1BtNzFzR3Y1ZUZTQXBNTEpibEVUTEo2Ukw5X3UxcVlubTVGdWVJLVZNRkh4SUQ1ZG8xc3A0bkp0N2Q4VERVbG1hZDhybjRRNkZOaFpzVFVDdmRHQXVPVEVFVldNOlBJIGJvdWdodCBhbiA8Yj51bHRyYXdpZGUgbW9uaXRvcjwvYj4gZm9yIHByb2R1Y3Rpdml0eSwgYW5kIGhlcmUmIzM5O3Mgd2hhdCBJIC4uLkKpAU92ZXJhbGwsIHRoZSA8Yj5EZWxsIFAzNDIxVzwvYj4gaXMgYSBzb2xpZCwgaWYgbm90IGZsYXNoeSBwdXJjaGFzZS4gSXQgbG9va3Mgc2xlZWsgb24gbXkgZGVzaywgYW5kIHRoZSBhbHVtaW51bSBzdGFuZCBpcyBzdHVyZHkgZW5vdWdoIG5vdCB0byB3b2JibGUgZXZlbiBhdCB0aGUmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZiSGRTUTdHR0ZpcEdIZnR2enhFakdmZnVKalZiTzFzSW5LcE5sT2FXUEh0emM2SHZSc1pYZmJXVnN2eE1nTlBQOGZlbTZvVk9MUUlNRFNQbTcxc0d2NWVGU0FwTUxKYmxFVExKNlJMOV91MXFZbm01RnVlSS1WTUZIeElENWRvMXNwNG5KdDdkOFREVWxtYWQ4cm40UTZGTmhac1RVQ3ZkR0F1T1RFRVZXTRIEGgIIABrqBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMQFCAAQABgAIAAqFgoEYmVzdBUsLjA9GgRnb29kGgN0b3AqLAoJdWx0cmF3aWRlFUHDgUAaCnVsdHJhIHdpZGUaDml2O3A7dWx0cmF3aWRlKjkKCG1vbml0b3JzFWQCLj8aB2Rpc3BsYXkaB21vbml0b3IaB3NjcmVlbnMaDWl2O3A7bW9uaXRvcnMqCgoDZm9yFQAAAAAqIwoGb2ZmaWNlFbeBJD8aCG9mZmljaWFsGgpvZmZpY2V3b3JrKjwKBHdvcmsVtq11PxoDam9iGgV0YXNrcxoHd29ya2VycxoHd29ya2luZxoFd29ya3MaCm9mZmljZXdvcmsywQEvZ290bz91cmw9Q0FFU2hBRUI2enN3RmJIZFNRN0dHRmlwR0hmdHZ6eEVqR2ZmdUpqVmJPMXNJbktwTmxPYVdQSHR6YzZIdlJzWlhmYldWc3Z4TWdOUFA4ZmVtNm9WT0xRSU1EU1BtNzFzR3Y1ZUZTQXBNTEpibEVUTEo2Ukw5X3UxcVlubTVGdWVJLVZNRkh4SUQ1ZG8xc3A0bkp0N2Q4VERVbG1hZDhybjRRNkZOaFpzVFVDdmRHQXVPVEVFVldNOlBJIGJvdWdodCBhbiA8Yj51bHRyYXdpZGUgbW9uaXRvcjwvYj4gZm9yIHByb2R1Y3Rpdml0eSwgYW5kIGhlcmUmIzM5O3Mgd2hhdCBJIC4uLkKpAU92ZXJhbGwsIHRoZSA8Yj5EZWxsIFAzNDIxVzwvYj4gaXMgYSBzb2xpZCwgaWYgbm90IGZsYXNoeSBwdXJjaGFzZS4gSXQgbG9va3Mgc2xlZWsgb24gbXkgZGVzaywgYW5kIHRoZSBhbHVtaW51bSBzdGFuZCBpcyBzdHVyZHkgZW5vdWdoIG5vdCB0byB3b2JibGUgZXZlbiBhdCB0aGUmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Android Authority",
+      "read_more_link": "https://www.androidauthority.com/ultrawide-monitor-for-productivity-3167406/#:~:text=Overall%2C%20the%20Dell%20P3421W%20is,even%20at%20the%20tallest%20setting."
+    },
+    {
+      "position": 4,
+      "title": "Best Ultrawide Monitor for Work​: A Guide",
+      "link": "https://www.viewsonic.com/library/tech/buyers-guides/best-ultrawide-monitor-for-work/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFRIgv0gTuKZ-e_J5zAHDvVfyiCh-vgligFjoUbVmS2_KbRHd7sEFEtbKX1kaONmUvW0x17BfcA5HvEN1JGFLhvfr38wVwWHFJRQh2zMlCtuAhMG72V449otbL1qDaxKdi9HS2470CFsQR_fi3IKKXdpmS0SZ-Rm_iewtKbs20XWnENR4U_xKdFc&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://www.viewsonic.com › tech › buyers-guides › be...",
+      "date": "Jun 30, 2026",
+      "snippet": "For office use, 1800R or 1900R is the practical range. For a 34-inch ultrawide, 3440 x 1440 (WQHD) is the recommended minimum for text-heavy ...",
+      "snippet_highlighted_words": [
+        "1800R or 1900R is the practical range"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Ultrawide vs Dual Monitors...",
+            "link": "https://www.viewsonic.com/library/tech/buyers-guides/best-ultrawide-monitor-for-work/#Ultrawide_vs_Dual_Monitors_Which_Setup_Works_Better"
+          },
+          {
+            "title": "Which Ultrawide Size Works...",
+            "link": "https://www.viewsonic.com/library/tech/buyers-guides/best-ultrawide-monitor-for-work/#Which_Ultrawide_Size_Works_for_an_Office"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "For office use, 1800R or 1900R is the practical range. For a 34-inch ultrawide, 3440 x 1440 (WQHD) is the recommended minimum for text-heavy  ...",
+          "source_info_link": "https://www.viewsonic.com/library/tech/buyers-guides/best-ultrawide-monitor-for-work/",
+          "icon": "https://serpapi.com/images/i/UklGRrwAAABXRUJQVlA4ILAAAACQBACdASocABwAPtEwtFooIigoGAEAGgloAM44IeAgoSJ1mDUNJy4EGmPNRsAA_vTOQN00iua3buIVVJ2mVPkJWZ_3rKwO_lpZJrsjknC_TlaJk4nalTjLwYEu800hJIZoezBWZF8O9rwDzZh5aucEMRwiS8vmYun7iUb6bRmWfN_rRaRMTn5C8HRb0X6E62K2GjXurKFeN1rjixwLMaiAd6mMeG8zvuOnNQilPHLYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZSSWd2MGdUdUtaLWVfSjV6QUhEdlZmeWlDaC12Z2xpZ0Zqb1ViVm1TMl9LYlJIZDdzRUZFdGJLWDFrYU9ObVV2VzB4MTdCZmNBNUh2RU4xSkdGTGh2ZnIzOHdWd1dIRkpSUWgyek1sQ3R1QWhNRzcyVjQ0OW90YkwxcURheEtkaTlIUzI0NzBDRnNRUl9maTNJS0tYZHBtUzBTWi1SbV9pZXd0S2JzMjBYV25FTlI0VV94S2RGYxIEGgIIABrlBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDBBQgAEAAYACAAKhYKBGJlc3QVYG9dQBoEZ29vZBoDdG9wKiwKCXVsdHJhd2lkZRV3g4VAGgp1bHRyYSB3aWRlGg5pdjtwO3VsdHJhd2lkZSo5Cghtb25pdG9ycxVBNrE_GgdkaXNwbGF5Ggdtb25pdG9yGgdzY3JlZW5zGg1pdjtwO21vbml0b3JzKgoKA2ZvchUAAAAAKiMKBm9mZmljZRWUFK4_GghvZmZpY2lhbBoKb2ZmaWNld29yayo8CgR3b3JrFVZcc0AaA2pvYhoFdGFza3MaB3dvcmtlcnMaB3dvcmtpbmcaBXdvcmtzGgpvZmZpY2V3b3JrMs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZSSWd2MGdUdUtaLWVfSjV6QUhEdlZmeWlDaC12Z2xpZ0Zqb1ViVm1TMl9LYlJIZDdzRUZFdGJLWDFrYU9ObVV2VzB4MTdCZmNBNUh2RU4xSkdGTGh2ZnIzOHdWd1dIRkpSUWgyek1sQ3R1QWhNRzcyVjQ0OW90YkwxcURheEtkaTlIUzI0NzBDRnNRUl9maTNJS0tYZHBtUzBTWi1SbV9pZXd0S2JzMjBYV25FTlI0VV94S2RGYzpNPGI-QmVzdCBVbHRyYXdpZGUgTW9uaXRvcjwvYj4gZm9yIDxiPldvcms8L2I-4oCLOiBBIEd1aWRlIC0gVmlld1NvbmljIExpYnJhcnlCnQFGb3Igb2ZmaWNlIHVzZSwgPGI-MTgwMFIgb3IgMTkwMFIgaXMgdGhlIHByYWN0aWNhbCByYW5nZTwvYj4uIEZvciBhIDM0LWluY2ggdWx0cmF3aWRlLCAzNDQwIHggMTQ0MCAoV1FIRCkgaXMgdGhlIHJlY29tbWVuZGVkIG1pbmltdW0gZm9yIHRleHQtaGVhdnkgJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZSSWd2MGdUdUtaLWVfSjV6QUhEdlZmeWlDaC12Z2xpZ0Zqb1ViVm1TMl9LYlJIZDdzRUZFdGJLWDFrYU9ObVV2VzB4MTdCZmNBNUh2RU4xSkdGTGh2ZnIzOHdWd1dIRkpSUWgyek1sQ3R1QWhNRzcyVjQ0OW90YkwxcURheEtkaTlIUzI0NzBDRnNRUl9maTNJS0tYZHBtUzBTWi1SbV9pZXd0S2JzMjBYV25FTlI0VV94S2RGYxIEGgIIABrlBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDBBQgAEAAYACAAKhYKBGJlc3QVYG9dQBoEZ29vZBoDdG9wKiwKCXVsdHJhd2lkZRV3g4VAGgp1bHRyYSB3aWRlGg5pdjtwO3VsdHJhd2lkZSo5Cghtb25pdG9ycxVBNrE_GgdkaXNwbGF5Ggdtb25pdG9yGgdzY3JlZW5zGg1pdjtwO21vbml0b3JzKgoKA2ZvchUAAAAAKiMKBm9mZmljZRWUFK4_GghvZmZpY2lhbBoKb2ZmaWNld29yayo8CgR3b3JrFVZcc0AaA2pvYhoFdGFza3MaB3dvcmtlcnMaB3dvcmtpbmcaBXdvcmtzGgpvZmZpY2V3b3JrMs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZSSWd2MGdUdUtaLWVfSjV6QUhEdlZmeWlDaC12Z2xpZ0Zqb1ViVm1TMl9LYlJIZDdzRUZFdGJLWDFrYU9ObVV2VzB4MTdCZmNBNUh2RU4xSkdGTGh2ZnIzOHdWd1dIRkpSUWgyek1sQ3R1QWhNRzcyVjQ0OW90YkwxcURheEtkaTlIUzI0NzBDRnNRUl9maTNJS0tYZHBtUzBTWi1SbV9pZXd0S2JzMjBYV25FTlI0VV94S2RGYzpNPGI-QmVzdCBVbHRyYXdpZGUgTW9uaXRvcjwvYj4gZm9yIDxiPldvcms8L2I-4oCLOiBBIEd1aWRlIC0gVmlld1NvbmljIExpYnJhcnlCnQFGb3Igb2ZmaWNlIHVzZSwgPGI-MTgwMFIgb3IgMTkwMFIgaXMgdGhlIHByYWN0aWNhbCByYW5nZTwvYj4uIEZvciBhIDM0LWluY2ggdWx0cmF3aWRlLCAzNDQwIHggMTQ0MCAoV1FIRCkgaXMgdGhlIHJlY29tbWVuZGVkIG1pbmltdW0gZm9yIHRleHQtaGVhdnkgJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "ViewSonic"
+    },
+    {
+      "position": 5,
+      "title": "Ultrawide Monitors",
+      "link": "https://www.bestbuy.com/site/computer-monitors/ultrawide-monitors/pcmcat1568919041129.c?id=pcmcat1568919041129",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFUNxrZKhD6TIUOJUo9hO_16wPpMmJvQUGG_F_ulAjmndcvlzhjbG05HMVOefQ01snKwADBwxkr4Z5Ketc5Za4Xpk1yeSaUvHQgWHwffDRPULJodaN2-vgwe2efjsc1vhYZCBU6pxjoeyV9N3K_SnqXs62xFMlrjW4TlvslkKVEu742PJRXJhZUudSZsB87axc2tMzY-dJ1LCOCAfaS6-fnGm&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://www.bestbuy.com › ... › Monitors",
+      "snippet": "Shop Best Buy for a great selection of ultrawide monitors and enjoy an expanded view for gaming and multitasking.",
+      "snippet_highlighted_words": [
+        "ultrawide monitors"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "price_from": 100,
+            "price_to": 1700,
+            "currency": "$",
+            "day_returns": 15
+          },
+          "extensions": [
+            "4.6",
+            "store rating (1.8K)",
+            "$100 to $1,700",
+            "15-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Shop Best Buy for a great selection of ultrawide monitors and enjoy an expanded view for gaming and multitasking.",
+          "source_info_link": "https://www.bestbuy.com/site/computer-monitors/ultrawide-monitors/pcmcat1568919041129.c?id=pcmcat1568919041129",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZVTnhyWktoRDZUSVVPSlVvOWhPXzE2d1BwTW1KdlFVR0dfRl91bEFqbW5kY3ZsemhqYkcwNUhNVk9lZlEwMXNuS3dBREJ3eGtyNFo1S2V0YzVaYTRYcGsxeWVTYVV2SFFnV0h3ZmZEUlBVTEpvZGFOMi12Z3dlMmVmanNjMXZoWVpDQlU2cHhqb2V5VjlOM0tfU25xWHM2MnhGTWxyalc0VGx2c2xrS1ZFdTc0MlBKUlhKaFpVdWRTWnNCODdheGMydE16WS1kSjFMQ09DQWZhUzYtZm5HbRIEGgIIABrABRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJoFCAAQABgAIAAqFgoEYmVzdBXEDRZBGgRnb29kGgN0b3AqLAoJdWx0cmF3aWRlFZ5IXEAaCnVsdHJhIHdpZGUaDml2O3A7dWx0cmF3aWRlKjkKCG1vbml0b3JzFTyfVEAaB2Rpc3BsYXkaB21vbml0b3IaB3NjcmVlbnMaDWl2O3A7bW9uaXRvcnMqCgoDZm9yFQAAAAAqIwoGb2ZmaWNlFcukEz8aCG9mZmljaWFsGgpvZmZpY2V3b3JrKjwKBHdvcmsVnl0QPhoDam9iGgV0YXNrcxoHd29ya2VycxoHd29ya2luZxoFd29ya3MaCm9mZmljZXdvcmsy7gEvZ290bz91cmw9Q0FFU3BnRUI2enN3RlVOeHJaS2hENlRJVU9KVW85aE9fMTZ3UHBNbUp2UVVHR19GX3VsQWptbmRjdmx6aGpiRzA1SE1WT2VmUTAxc25Ld0FEQnd4a3I0WjVLZXRjNVphNFhwazF5ZVNhVXZIUWdXSHdmZkRSUFVMSm9kYU4yLXZnd2UyZWZqc2MxdmhZWkNCVTZweGpvZXlWOU4zS19TbnFYczYyeEZNbHJqVzRUbHZzbGtLVkV1NzQyUEpSWEpoWlV1ZFNac0I4N2F4YzJ0TXpZLWRKMUxDT0NBZmFTNi1mbkdtOis8Yj5VbHRyYXdpZGUgTW9uaXRvcnM8L2I-IC0gPGI-QmVzdDwvYj4gQnV5QnhTaG9wIEJlc3QgQnV5IGZvciBhIGdyZWF0IHNlbGVjdGlvbiBvZiA8Yj51bHRyYXdpZGUgbW9uaXRvcnM8L2I-IGFuZCBlbmpveSBhbiBleHBhbmRlZCB2aWV3IGZvciBnYW1pbmcgYW5kIG11bHRpdGFza2luZy5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZVTnhyWktoRDZUSVVPSlVvOWhPXzE2d1BwTW1KdlFVR0dfRl91bEFqbW5kY3ZsemhqYkcwNUhNVk9lZlEwMXNuS3dBREJ3eGtyNFo1S2V0YzVaYTRYcGsxeWVTYVV2SFFnV0h3ZmZEUlBVTEpvZGFOMi12Z3dlMmVmanNjMXZoWVpDQlU2cHhqb2V5VjlOM0tfU25xWHM2MnhGTWxyalc0VGx2c2xrS1ZFdTc0MlBKUlhKaFpVdWRTWnNCODdheGMydE16WS1kSjFMQ09DQWZhUzYtZm5HbRIEGgIIABrABRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJoFCAAQABgAIAAqFgoEYmVzdBXEDRZBGgRnb29kGgN0b3AqLAoJdWx0cmF3aWRlFZ5IXEAaCnVsdHJhIHdpZGUaDml2O3A7dWx0cmF3aWRlKjkKCG1vbml0b3JzFTyfVEAaB2Rpc3BsYXkaB21vbml0b3IaB3NjcmVlbnMaDWl2O3A7bW9uaXRvcnMqCgoDZm9yFQAAAAAqIwoGb2ZmaWNlFcukEz8aCG9mZmljaWFsGgpvZmZpY2V3b3JrKjwKBHdvcmsVnl0QPhoDam9iGgV0YXNrcxoHd29ya2VycxoHd29ya2luZxoFd29ya3MaCm9mZmljZXdvcmsy7gEvZ290bz91cmw9Q0FFU3BnRUI2enN3RlVOeHJaS2hENlRJVU9KVW85aE9fMTZ3UHBNbUp2UVVHR19GX3VsQWptbmRjdmx6aGpiRzA1SE1WT2VmUTAxc25Ld0FEQnd4a3I0WjVLZXRjNVphNFhwazF5ZVNhVXZIUWdXSHdmZkRSUFVMSm9kYU4yLXZnd2UyZWZqc2MxdmhZWkNCVTZweGpvZXlWOU4zS19TbnFYczYyeEZNbHJqVzRUbHZzbGtLVkV1NzQyUEpSWEpoWlV1ZFNac0I4N2F4YzJ0TXpZLWRKMUxDT0NBZmFTNi1mbkdtOis8Yj5VbHRyYXdpZGUgTW9uaXRvcnM8L2I-IC0gPGI-QmVzdDwvYj4gQnV5QnhTaG9wIEJlc3QgQnV5IGZvciBhIGdyZWF0IHNlbGVjdGlvbiBvZiA8Yj51bHRyYXdpZGUgbW9uaXRvcnM8L2I-IGFuZCBlbmpveSBhbiBleHBhbmRlZCB2aWV3IGZvciBnYW1pbmcgYW5kIG11bHRpdGFza2luZy5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Best Buy"
+    },
+    {
+      "position": 6,
+      "title": "The 4 Best Ultrawide Monitors of 2026",
+      "link": "https://www.nytimes.com/wirecutter/reviews/best-ultrawide-monitors/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAV_oWjS15qV4gLhUPiwsMVlkWvYUAMOvJS5uzQax9K7JKRWRdCqXviE3po43n8gOaPSzwANUrGZISo9DEDy8sopFBXF4NxUImj-3jDwh6k_ZrBH3_Az5E3O1eEUQsd82_3zn-GagjOaua9sgrvjcC4Tjo6nqVJwg&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://www.nytimes.com › Electronics › Computers",
+      "date": "Jan 14, 2026",
+      "snippet": "We recommend the Dell UltraSharp U3425WE for most people because it's truly impressive, with better contrast, a higher refresh rate, and more ...",
+      "snippet_highlighted_words": [
+        "Dell UltraSharp U3425WE"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We recommend the Dell UltraSharp U3425WE for most people because it's truly impressive, with better contrast, a higher refresh rate, and more ...",
+          "source_info_link": "https://www.nytimes.com/wirecutter/reviews/best-ultrawide-monitors/",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglpAARATxnEK-53JWvDHstgGhzN4zLjcujgAP70y3hbIMpz_UzumDFx5vNeLmNtc6KYIX8KBs2PnxmvVpWxXJ2Z-_20c7zNgNO9SlHtET_-QirUKQJp_KqP3hmZ658MxfYknTY3z49W6gyZPEu32blPW2VxF8a701Bdq_cNE_t3f7N2lls7m1XNPn9sEYjKl_98sH4hOtumLRq53YTM2gXCylqfVKmiGBp8fnWX7CA1ugZwgWzkjS6J3S_qHB9fj2penTr8er5CBGF-q-tsjHhfZzgeOKAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVl9vV2pTMTVxVjRnTGhVUGl3c01WbGtXdllVQU1PdkpTNXV6UWF4OUs3SktSV1JkQ3FYdmlFM3BvNDNuOGdPYVBTendBTlVyR1pJU285REVEeThzb3BGQlhGNE54VUltai0zakR3aDZrX1pyQkgzX0F6NUUzTzFlRVVRc2Q4Ml8zem4tR2Fnak9hdWE5c2dydmpjQzRUam82bnFWSndnEgQaAggAGskFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAowUIABAAGAAgACoWCgRiZXN0FZQEk0AaBGdvb2QaA3RvcCosCgl1bHRyYXdpZGUVGniqQBoKdWx0cmEgd2lkZRoOaXY7cDt1bHRyYXdpZGUqOQoIbW9uaXRvcnMV_qSeQBoHZGlzcGxheRoHbW9uaXRvchoHc2NyZWVucxoNaXY7cDttb25pdG9ycyoKCgNmb3IVAAAAACojCgZvZmZpY2UV6qZQPhoIb2ZmaWNpYWwaCm9mZmljZXdvcmsqPAoEd29yaxU-cqI_GgNqb2IaBXRhc2tzGgd3b3JrZXJzGgd3b3JraW5nGgV3b3JrcxoKb2ZmaWNld29yazK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZfb1dqUzE1cVY0Z0xoVVBpd3NNVmxrV3ZZVUFNT3ZKUzV1elFheDlLN0pLUldSZENxWHZpRTNwbzQzbjhnT2FQU3p3QU5VckdaSVNvOURFRHk4c29wRkJYRjROeFVJbWotM2pEd2g2a19ackJIM19BejVFM08xZUVVUXNkODJfM3puLUdhZ2pPYXVhOXNncnZqY0M0VGpvNm5xVkp3ZzpEVGhlIDQgPGI-QmVzdCBVbHRyYXdpZGUgTW9uaXRvcnM8L2I-IG9mIDIwMjYgfCBSZXZpZXdzIGJ5IFdpcmVjdXR0ZXJCoQFXZSByZWNvbW1lbmQgdGhlIDxiPkRlbGwgVWx0cmFTaGFycCBVMzQyNVdFPC9iPiBmb3IgbW9zdCBwZW9wbGUgYmVjYXVzZSBpdCYjMzk7cyB0cnVseSBpbXByZXNzaXZlLCB3aXRoIGJldHRlciBjb250cmFzdCwgYSBoaWdoZXIgcmVmcmVzaCByYXRlLCBhbmQgbW9yZSZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVl9vV2pTMTVxVjRnTGhVUGl3c01WbGtXdllVQU1PdkpTNXV6UWF4OUs3SktSV1JkQ3FYdmlFM3BvNDNuOGdPYVBTendBTlVyR1pJU285REVEeThzb3BGQlhGNE54VUltai0zakR3aDZrX1pyQkgzX0F6NUUzTzFlRVVRc2Q4Ml8zem4tR2Fnak9hdWE5c2dydmpjQzRUam82bnFWSndnEgQaAggAGskFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAowUIABAAGAAgACoWCgRiZXN0FZQEk0AaBGdvb2QaA3RvcCosCgl1bHRyYXdpZGUVGniqQBoKdWx0cmEgd2lkZRoOaXY7cDt1bHRyYXdpZGUqOQoIbW9uaXRvcnMV_qSeQBoHZGlzcGxheRoHbW9uaXRvchoHc2NyZWVucxoNaXY7cDttb25pdG9ycyoKCgNmb3IVAAAAACojCgZvZmZpY2UV6qZQPhoIb2ZmaWNpYWwaCm9mZmljZXdvcmsqPAoEd29yaxU-cqI_GgNqb2IaBXRhc2tzGgd3b3JrZXJzGgd3b3JraW5nGgV3b3JrcxoKb2ZmaWNld29yazK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZfb1dqUzE1cVY0Z0xoVVBpd3NNVmxrV3ZZVUFNT3ZKUzV1elFheDlLN0pLUldSZENxWHZpRTNwbzQzbjhnT2FQU3p3QU5VckdaSVNvOURFRHk4c29wRkJYRjROeFVJbWotM2pEd2g2a19ackJIM19BejVFM08xZUVVUXNkODJfM3puLUdhZ2pPYXVhOXNncnZqY0M0VGpvNm5xVkp3ZzpEVGhlIDQgPGI-QmVzdCBVbHRyYXdpZGUgTW9uaXRvcnM8L2I-IG9mIDIwMjYgfCBSZXZpZXdzIGJ5IFdpcmVjdXR0ZXJCoQFXZSByZWNvbW1lbmQgdGhlIDxiPkRlbGwgVWx0cmFTaGFycCBVMzQyNVdFPC9iPiBmb3IgbW9zdCBwZW9wbGUgYmVjYXVzZSBpdCYjMzk7cyB0cnVseSBpbXByZXNzaXZlLCB3aXRoIGJldHRlciBjb250cmFzdCwgYSBoaWdoZXIgcmVmcmVzaCByYXRlLCBhbmQgbW9yZSZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "The New York Times",
+      "read_more_link": "https://www.nytimes.com/wirecutter/reviews/best-ultrawide-monitors/#:~:text=We%20recommend%20the%20Dell%20UltraSharp,the%20monitors%20we've%20tested%20before."
+    },
+    {
+      "position": 7,
+      "title": "The Best Ultrawide Monitors We've Tested for 2026",
+      "link": "https://www.pcmag.com/picks/the-best-ultrawide-monitors",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAV6VFDvknTNUFaNGXHGaZ-8U9iZnPCUMaGeuW57Kilu7lqDX3nwQdliYtEAX_MEGU6mkkhX-NzQkaePq5OfuI4mup4G3Bt1YZlOHk487kADvQ5ZvqRR-RAqCLdlh1-5W1_DcjC5A7d0Dverw&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://www.pcmag.com › Best Products › Monitors",
+      "date": "Sep 4, 2026",
+      "snippet": "Our current overall top choice in ultrawides, the HP E45c G5, is a 45-inch productivity display, while our top pick for gaming is the Alienware ...",
+      "snippet_highlighted_words": [
+        "HP E45c G5"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our current overall top choice in ultrawides, the HP E45c G5, is a 45-inch productivity display, while our top pick for gaming is the Alienware ...",
+          "source_info_link": "https://www.pcmag.com/picks/the-best-ultrawide-monitors",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXrAC7rAC7rAC7rAC3rACHwZXXqAAzvS170kpz2qbHzhJD____5v8XtKUT71dn_-fr-7_HxcHzuOVHFtC6NAAAAA3RSTlNM9fvAUo4WAAAAqklEQVR4AbXTgQrEIAiA4TbNKmurvf_DnsM44agA4H4ghA8gyJw7zkWHcyesEpUTNdBsfhG9BgQShZhSBhxIPCqi9dI50sDblBqPMhpq0L9jI8PLs-QjS72whGBIhjVt8PkThizBAvHNcBR2SIpPl36x0_xCfLcSEFe3JUJYIkiKdYe-zHH-ZIqAMmsRFdkQalNLNBYsSh1BI59KiVVM0JZxsponLDu23-EDtDAWNH_t18YAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVjZWRkR2a25UTlVGYU5HWEhHYVotOFU5aVpuUENVTWFHZXVXNTdLaWx1N2xxRFgzbndRZGxpWXRFQVhfTUVHVTZta2toWC1OelFrYWVQcTVPZnVJNG11cDRHM0J0MVlabE9IazQ4N2tBRHZRNVp2cVJSLVJBcUNMZGxoMS01VzFfRGNqQzVBN2QwRHZlcncSBBoCCAAatwUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCRBQgAEAAYACAAKhYKBGJlc3QVGgvtQBoEZ29vZBoDdG9wKiwKCXVsdHJhd2lkZRWDOn1AGgp1bHRyYSB3aWRlGg5pdjtwO3VsdHJhd2lkZSo5Cghtb25pdG9ycxUny5hAGgdkaXNwbGF5Ggdtb25pdG9yGgdzY3JlZW5zGg1pdjtwO21vbml0b3JzKgoKA2ZvchUAAAAAKiMKBm9mZmljZRXwcnw_GghvZmZpY2lhbBoKb2ZmaWNld29yayo8CgR3b3JrFe9gBj8aA2pvYhoFdGFza3MaB3dvcmtlcnMaB3dvcmtpbmcaBXdvcmtzGgpvZmZpY2V3b3JrMqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVjZWRkR2a25UTlVGYU5HWEhHYVotOFU5aVpuUENVTWFHZXVXNTdLaWx1N2xxRFgzbndRZGxpWXRFQVhfTUVHVTZta2toWC1OelFrYWVQcTVPZnVJNG11cDRHM0J0MVlabE9IazQ4N2tBRHZRNVp2cVJSLVJBcUNMZGxoMS01VzFfRGNqQzVBN2QwRHZlcnc6RFRoZSA8Yj5CZXN0IFVsdHJhd2lkZSBNb25pdG9yczwvYj4gV2UmIzM5O3ZlIFRlc3RlZCBmb3IgMjAyNiAtIFBDTWFnQp8BT3VyIGN1cnJlbnQgb3ZlcmFsbCB0b3AgY2hvaWNlIGluIHVsdHJhd2lkZXMsIHRoZSA8Yj5IUCBFNDVjIEc1PC9iPiwgaXMgYSA0NS1pbmNoIHByb2R1Y3Rpdml0eSBkaXNwbGF5LCB3aGlsZSBvdXIgdG9wIHBpY2sgZm9yIGdhbWluZyBpcyB0aGUgQWxpZW53YXJlJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVjZWRkR2a25UTlVGYU5HWEhHYVotOFU5aVpuUENVTWFHZXVXNTdLaWx1N2xxRFgzbndRZGxpWXRFQVhfTUVHVTZta2toWC1OelFrYWVQcTVPZnVJNG11cDRHM0J0MVlabE9IazQ4N2tBRHZRNVp2cVJSLVJBcUNMZGxoMS01VzFfRGNqQzVBN2QwRHZlcncSBBoCCAAatwUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCRBQgAEAAYACAAKhYKBGJlc3QVGgvtQBoEZ29vZBoDdG9wKiwKCXVsdHJhd2lkZRWDOn1AGgp1bHRyYSB3aWRlGg5pdjtwO3VsdHJhd2lkZSo5Cghtb25pdG9ycxUny5hAGgdkaXNwbGF5Ggdtb25pdG9yGgdzY3JlZW5zGg1pdjtwO21vbml0b3JzKgoKA2ZvchUAAAAAKiMKBm9mZmljZRXwcnw_GghvZmZpY2lhbBoKb2ZmaWNld29yayo8CgR3b3JrFe9gBj8aA2pvYhoFdGFza3MaB3dvcmtlcnMaB3dvcmtpbmcaBXdvcmtzGgpvZmZpY2V3b3JrMqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVjZWRkR2a25UTlVGYU5HWEhHYVotOFU5aVpuUENVTWFHZXVXNTdLaWx1N2xxRFgzbndRZGxpWXRFQVhfTUVHVTZta2toWC1OelFrYWVQcTVPZnVJNG11cDRHM0J0MVlabE9IazQ4N2tBRHZRNVp2cVJSLVJBcUNMZGxoMS01VzFfRGNqQzVBN2QwRHZlcnc6RFRoZSA8Yj5CZXN0IFVsdHJhd2lkZSBNb25pdG9yczwvYj4gV2UmIzM5O3ZlIFRlc3RlZCBmb3IgMjAyNiAtIFBDTWFnQp8BT3VyIGN1cnJlbnQgb3ZlcmFsbCB0b3AgY2hvaWNlIGluIHVsdHJhd2lkZXMsIHRoZSA8Yj5IUCBFNDVjIEc1PC9iPiwgaXMgYSA0NS1pbmNoIHByb2R1Y3Rpdml0eSBkaXNwbGF5LCB3aGlsZSBvdXIgdG9wIHBpY2sgZm9yIGdhbWluZyBpcyB0aGUgQWxpZW53YXJlJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "PCMag",
+      "read_more_link": "https://www.pcmag.com/picks/the-best-ultrawide-monitors#:~:text=Our%20current%20overall%20top%20choice,for%20gaming%20is%20the%20Alienware"
+    },
+    {
+      "position": 8,
+      "title": "BEST Monitors for Productivity GUIDE (2026)",
+      "link": "https://www.youtube.com/watch?v=xUfmpJzASgk",
+      "displayed_link": "155.6K+ views · 2 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUGe51WYRmlVVB7lWt9lflDhYK7fiUqayqefCfOSKWWxCBPWLhfHyB3g&s",
+      "snippet": "The complete 2026 guide to choosing the right monitor for productivity and gaming, covering everything from screen size, aspect ratio. Dell 40 ...",
+      "duration": "32:42",
+      "about_this_result": {
+        "source": {
+          "description": "The complete 2026 guide to choosing the right monitor for productivity and gaming, covering everything from screen size, aspect ratio. Dell 40 ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlNiSFF5TFNlTXVVa0ZkOThIdlBCczFURE9pcl9XYV9NOFA2RFdnaTdRU0pLMkFZMDJmcTRzdDZ3VjE1MFktWHVQVXlTcnhJVHBPZFFTUzFHTlQ3bG1ob2JNWmpZSTY3b0NieDZMZmYwSnRFUEpTRDdSejZBcngtMjVKX0N2ZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlNiSFF5TFNlTXVVa0ZkOThIdlBCczFURE9pcl9XYV9NOFA2RFdnaTdRU0pLMkFZMDJmcTRzdDZ3VjE1MFktWHVQVXlTcnhJVHBPZFFTUzFHTlQ3bG1ob2JNWmpZSTY3b0NieDZMZmYwSnRFUEpTRDdSejZBcngtMjVKX0N2ZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTSGRxjX_H7b9dBA_ac0k0V5Pp4EybnEWVt2g",
+      "source": "YouTube · Pete Matheson"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best ultrawide monitors for office work reddit",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&q=Best+ultrawide+monitors+for+office+work+reddit&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+ultrawide+monitors+for+office+work+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best budget ultrawide monitor for office work",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&q=Best+budget+ultrawide+monitor+for+office+work&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ1QJ6BAhfEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+budget+ultrawide+monitor+for+office+work"
+    },
+    {
+      "block_position": 1,
+      "query": "Best 49-inch ultrawide monitor for office work",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&q=Best+49-inch+ultrawide+monitor+for+office+work&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ1QJ6BAheEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+49-inch+ultrawide+monitor+for+office+work"
+    },
+    {
+      "block_position": 1,
+      "query": "Best ultrawide curved monitor for office work",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&q=Best+ultrawide+curved+monitor+for+office+work&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+ultrawide+curved+monitor+for+office+work"
+    },
+    {
+      "block_position": 1,
+      "query": "Ultrawide Monitor 49 inch",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&q=Ultrawide+Monitor+49+inch&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Ultrawide+Monitor+49+inch"
+    },
+    {
+      "block_position": 1,
+      "query": "Best ultrawide monitor for home office",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&q=Best+ultrawide+monitor+for+home+office&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ1QJ6BAhgEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+ultrawide+monitor+for+home+office"
+    },
+    {
+      "block_position": 1,
+      "query": "Best super ultrawide monitor",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&q=Best+super+ultrawide+monitor&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+super+ultrawide+monitor"
+    },
+    {
+      "block_position": 1,
+      "query": "Best ultrawide monitor 2026",
+      "link": "https://www.google.com/search?sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&q=Best+ultrawide+monitor+2026&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+ultrawide+monitor+2026"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "34 – 39 in",
+      "link": "https://www.google.com/search?hl=en&q=34+in+to+39+in+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAESGioYCMjtRhISCQAAAEAKl1VAEQAAAADXw1hAGAEqJ2Jlc3QgdWx0cmF3aWRlIG1vbml0b3JzIGZvciBvZmZpY2Ugd29yazJICAESDDM0IOKAkyAzOSBpbiIaKhgIyO1GEhIJAAAAQAqXVUARAAAAANfDWEAqEAoOMzQgaW4gdG8gMzkgaW46CAjI7UYQADAGWI-qIGAB&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAB6BAgNEAI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=34+in+to+39+in+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "Over 39 in",
+      "link": "https://www.google.com/search?hl=en&q=over+39+in+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAESESoPCMjtRhIJCQAAAADXw1hAGAEqJ2Jlc3QgdWx0cmF3aWRlIG1vbml0b3JzIGZvciBvZmZpY2Ugd29yazIrCAESCk92ZXIgMzkgaW4iESoPCMjtRhIJCQAAAADXw1hAOggIyO1GEAAwBliPqiBgAQ&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAF6BAgNEAM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=over+39+in+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "23.8 – 34 in",
+      "link": "https://www.google.com/search?hl=en&q=23.8+in+to+34+in+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAESGioYCMjtRhISCQAAACDbOU5AEQAAAEAKl1VAGAEqJ2Jlc3QgdWx0cmF3aWRlIG1vbml0b3JzIGZvciBvZmZpY2Ugd29yazJMCAESDjIzLjgg4oCTIDM0IGluIhoqGAjI7UYSEgkAAAAg2zlOQBEAAABACpdVQCoSChAyMy44IGluIHRvIDM0IGluOggIyO1GEAAwBliPqiBgAQ&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAJ6BAgNEAQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=23.8+in+to+34+in+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "Curved",
+      "link": "https://www.google.com/search?hl=en&q=curved+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhYIARIGQ3VydmVkOgoI5LtOEOW7TjADWI-qIGAB&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAN6BAgNEAU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=curved+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "Under $300",
+      "link": "https://www.google.com/search?hl=en&q=best+ultrawide+monitors+for+office+work+under+$300&gl=us&shoprs=CAESDRILEQAAAACj4bFBGAEYBSonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMiMIBRIKVW5kZXIgJDMwMBgCIg0SCxEAAAAAo-GxQRgBKgIYAViPqiBgAQ&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAR6BAgNEAY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+ultrawide+monitors+for+office+work+under+%24300"
+    },
+    {
+      "query": "Gaming",
+      "link": "https://www.google.com/search?hl=en&q=gaming+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhYIARIGR2FtaW5nOgoI8dE6EPLROjADWI-qIGAB&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAV6BAgNEAc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=gaming+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "USB-C",
+      "link": "https://www.google.com/search?hl=en&q=usb-c+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhYIARIFVVNCLUM6CwiQgiwQ3K_qATAAWI-qIGAB&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAZ6BAgNEAg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=usb-c+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "240 Hz",
+      "link": "https://www.google.com/search?hl=en&q=240+hz+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAESGioYCPHtRhISCQAAAAAAAG5AEQAAAAAAAG5AGAEqJ2Jlc3QgdWx0cmF3aWRlIG1vbml0b3JzIGZvciBvZmZpY2Ugd29yazI0CAESBjI0MCBIeiIaKhgI8e1GEhIJAAAAAAAAbkARAAAAAAAAbkAqAhgBOggI8e1GEAAwBliPqiBgAQ&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAd6BAgNEAk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=240+hz+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "165 Hz",
+      "link": "https://www.google.com/search?hl=en&q=165+hz+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAESGioYCPHtRhISCQAAAAAAoGRAEQAAAAAAoGRAGAEqJ2Jlc3QgdWx0cmF3aWRlIG1vbml0b3JzIGZvciBvZmZpY2Ugd29yazI0CAESBjE2NSBIeiIaKhgI8e1GEhIJAAAAAACgZEARAAAAAACgZEAqAhgBOggI8e1GEAAwBliPqiBgAQ&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAh6BAgNEAo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=165+hz+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "IPS",
+      "link": "https://www.google.com/search?hl=en&q=ips+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhUIARIDSVBTOgwI_62OAhCBro4CMAJYj6ogYAE&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAl6BAgNEAs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=ips+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "60 Hz",
+      "link": "https://www.google.com/search?hl=en&q=60+hz+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAESGioYCPHtRhISCQAAAAAAAE5AEQAAAAAAAE5AGAEqJ2Jlc3QgdWx0cmF3aWRlIG1vbml0b3JzIGZvciBvZmZpY2Ugd29yazIzCAESBTYwIEh6IhoqGAjx7UYSEgkAAAAAAABOQBEAAAAAAABOQCoCGAE6CAjx7UYQADAGWI-qIGAB&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAp6BAgNEAw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=60+hz+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "75 Hz",
+      "link": "https://www.google.com/search?hl=en&q=75+hz+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAESGioYCPHtRhISCQAAAAAAwFJAEQAAAAAAwFJAGAEqJ2Jlc3QgdWx0cmF3aWRlIG1vbml0b3JzIGZvciBvZmZpY2Ugd29yazIzCAESBTc1IEh6IhoqGAjx7UYSEgkAAAAAAMBSQBEAAAAAAMBSQCoCGAE6CAjx7UYQADAGWI-qIGAB&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAt6BAgNEA0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=75+hz+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "120 Hz",
+      "link": "https://www.google.com/search?hl=en&q=120+hz+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAESGioYCPHtRhISCQAAAAAAAF5AEQAAAAAAAF5AGAEqJ2Jlc3QgdWx0cmF3aWRlIG1vbml0b3JzIGZvciBvZmZpY2Ugd29yazI0CAESBjEyMCBIeiIaKhgI8e1GEhIJAAAAAAAAXkARAAAAAAAAXkAqAhgBOggI8e1GEAAwBliPqiBgAQ&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKAx6BAgNEA4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=120+hz+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "With Speakers",
+      "link": "https://www.google.com/search?hl=en&q=best+ultrawide+monitors+for+office+work+with+speakers&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMh8IARINV2l0aCBTcGVha2VycxgCOgoIwPArEMHwKzADWI-qIGAB&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKA16BAgNEA8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+ultrawide+monitors+for+office+work+with+speakers"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?hl=en&q=hdmi+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhQIARIESERNSToKCJCCLBCRgiwwAFiPqiBgAQ&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKA56BAgNEBA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=hdmi+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "5K",
+      "link": "https://www.google.com/search?hl=en&q=5k+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhMIARICNUs6CwiL0zoQgvOTATAAWI-qIGAB&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKA96BAgNEBE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=5k+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "OLED",
+      "link": "https://www.google.com/search?hl=en&q=oled+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhUIARIET0xFRDoLCKXwKxDGotgCMAJYj6ogYAE&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKBB6BAgNEBI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=oled+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "Blue",
+      "link": "https://www.google.com/search?hl=en&q=blue+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhYIARIEQmx1ZToMCNiM9QEQ5or1ATALWI-qIGAB&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKBF6BAgNEBM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=blue+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "Purple",
+      "link": "https://www.google.com/search?hl=en&q=purple+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhgIARIGUHVycGxlOgwI2Iz1ARDsivUBMAtYj6ogYAE&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKBJ6BAgNEBQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=purple+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "Navy Blue",
+      "link": "https://www.google.com/search?hl=en&q=navy+blue+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhsIARIJTmF2eSBCbHVlOgwI2Iz1ARCHjPUBMAtYj6ogYAE&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKBN6BAgNEBU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=navy+blue+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "LED",
+      "link": "https://www.google.com/search?hl=en&q=led+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhMIARIDTEVEOgoIpfArEMfzKzACWI-qIGAB&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKBR6BAgNEBY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=led+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "DisplayPort",
+      "link": "https://www.google.com/search?hl=en&q=displayport+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhsIARILRGlzcGxheVBvcnQ6CgiQgiwQnoIsMABYj6ogYAE&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKBV6BAgNEBc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=displayport+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "5 milliseconds",
+      "link": "https://www.google.com/search?hl=en&q=5+milliseconds+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAESGyoZCJr4lQMSEgkAAAAAAAAUQBEAAAAAAAAUQBgBKidiZXN0IHVsdHJhd2lkZSBtb25pdG9ycyBmb3Igb2ZmaWNlIHdvcmsyPggBEg41IG1pbGxpc2Vjb25kcyIbKhkImviVAxISCQAAAAAAABRAEQAAAAAAABRAKgIYAToJCJr4lQMQADAGWI-qIGAB&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKBZ6BAgNEBg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=5+milliseconds+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "1920 x 1080",
+      "link": "https://www.google.com/search?hl=en&q=1920+x+1080+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYASonYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMhsIARILMTkyMCB4IDEwODA6Cgjv8CsQi4IsMABYj6ogYAE&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKBd6BAgNEBk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=1920+x+1080+best+ultrawide+monitors+for+office+work"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?hl=en&q=new+best+ultrawide+monitors+for+office+work&gl=us&shoprs=CAEYCionYmVzdCB1bHRyYXdpZGUgbW9uaXRvcnMgZm9yIG9mZmljZSB3b3JrMgcIChIDTmV3WI-qIGAB&sa=X&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQip4GKBh6BAgNEBo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=new+best+ultrawide+monitors+for+office+work"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Ultrawide Monitor for office work",
+      "link": "https://www.reddit.com/r/ultrawidemasterrace/comments/1o228i4/ultrawide_monitor_for_office_work/",
+      "date": "11 months ago",
+      "extensions": [
+        "r/ultrawidemasterrace",
+        "10+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/ultrawidemasterrace/comments/1o228i4/ultrawide_monitor_for_office_work/"
+        }
+      ]
+    },
+    {
+      "title": "What is the best ultrawide 4K monitor for gaming and office work?",
+      "link": "https://www.facebook.com/groups/372119787729533/posts/1056830189258486/",
+      "date": "1 year ago",
+      "extensions": [
+        "Pc, Gaming, Setups, and buildi…",
+        "1 comment"
+      ],
+      "source": "Facebook",
+      "answers": [
+        {
+          "link": "https://www.facebook.com/groups/372119787729533/posts/1056830189258486/",
+          "extensions": [
+            "Top answer",
+            "a year ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ultra wide monitor suggestions for productivity?",
+      "link": "https://www.facebook.com/groups/workspacesetupaddicts/posts/1863115127927435/",
+      "date": "9 months ago",
+      "extensions": [
+        "Workspace Setup Addicts",
+        "4 comments"
+      ],
+      "source": "Facebook",
+      "answers": [
+        {
+          "link": "https://www.facebook.com/groups/workspacesetupaddicts/posts/1863115127927435/"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+ultrawide+monitors+for+office+work&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&ei=oeazasiVBdDOwbkP_4CLqQc&start=10&sa=N&sstk=AS6-VmIMBWZ6Y1hrzLWEHUISRnJhNCu5Rt6Ve9i9q5YZjJVnjr1w-1BBvY859B6cD8BuBCUDsGHoceQ-lzTtBlEgVKFlLPxNO-rYmg&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ8NMDegQITRAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+ultrawide+monitors+for+office+work&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&ei=oeazasiVBdDOwbkP_4CLqQc&start=10&sa=N&sstk=AS6-VmIMBWZ6Y1hrzLWEHUISRnJhNCu5Rt6Ve9i9q5YZjJVnjr1w-1BBvY859B6cD8BuBCUDsGHoceQ-lzTtBlEgVKFlLPxNO-rYmg&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ8tMDegQITRAE",
+      "3": "https://www.google.com/search?q=best+ultrawide+monitors+for+office+work&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&ei=oeazasiVBdDOwbkP_4CLqQc&start=20&sa=N&sstk=AS6-VmIMBWZ6Y1hrzLWEHUISRnJhNCu5Rt6Ve9i9q5YZjJVnjr1w-1BBvY859B6cD8BuBCUDsGHoceQ-lzTtBlEgVKFlLPxNO-rYmg&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ8tMDegQITRAG",
+      "4": "https://www.google.com/search?q=best+ultrawide+monitors+for+office+work&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&ei=oeazasiVBdDOwbkP_4CLqQc&start=30&sa=N&sstk=AS6-VmIMBWZ6Y1hrzLWEHUISRnJhNCu5Rt6Ve9i9q5YZjJVnjr1w-1BBvY859B6cD8BuBCUDsGHoceQ-lzTtBlEgVKFlLPxNO-rYmg&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ8tMDegQITRAI",
+      "5": "https://www.google.com/search?q=best+ultrawide+monitors+for+office+work&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&ei=oeazasiVBdDOwbkP_4CLqQc&start=40&sa=N&sstk=AS6-VmIMBWZ6Y1hrzLWEHUISRnJhNCu5Rt6Ve9i9q5YZjJVnjr1w-1BBvY859B6cD8BuBCUDsGHoceQ-lzTtBlEgVKFlLPxNO-rYmg&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ8tMDegQITRAK",
+      "6": "https://www.google.com/search?q=best+ultrawide+monitors+for+office+work&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&ei=oeazasiVBdDOwbkP_4CLqQc&start=50&sa=N&sstk=AS6-VmIMBWZ6Y1hrzLWEHUISRnJhNCu5Rt6Ve9i9q5YZjJVnjr1w-1BBvY859B6cD8BuBCUDsGHoceQ-lzTtBlEgVKFlLPxNO-rYmg&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ8tMDegQITRAM",
+      "7": "https://www.google.com/search?q=best+ultrawide+monitors+for+office+work&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&ei=oeazasiVBdDOwbkP_4CLqQc&start=60&sa=N&sstk=AS6-VmIMBWZ6Y1hrzLWEHUISRnJhNCu5Rt6Ve9i9q5YZjJVnjr1w-1BBvY859B6cD8BuBCUDsGHoceQ-lzTtBlEgVKFlLPxNO-rYmg&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ8tMDegQITRAO",
+      "8": "https://www.google.com/search?q=best+ultrawide+monitors+for+office+work&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&ei=oeazasiVBdDOwbkP_4CLqQc&start=70&sa=N&sstk=AS6-VmIMBWZ6Y1hrzLWEHUISRnJhNCu5Rt6Ve9i9q5YZjJVnjr1w-1BBvY859B6cD8BuBCUDsGHoceQ-lzTtBlEgVKFlLPxNO-rYmg&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ8tMDegQITRAQ",
+      "9": "https://www.google.com/search?q=best+ultrawide+monitors+for+office+work&sca_esv=4ef347e5cd8f3683&hl=en&gl=us&sxsrf=APpeQnu09Yp9UyekRYI9_2KC-eOKvnwjjw:1790174881093&ei=oeazasiVBdDOwbkP_4CLqQc&start=80&sa=N&sstk=AS6-VmIMBWZ6Y1hrzLWEHUISRnJhNCu5Rt6Ve9i9q5YZjJVnjr1w-1BBvY859B6cD8BuBCUDsGHoceQ-lzTtBlEgVKFlLPxNO-rYmg&ved=2ahUKEwiI6v2O-YSXAxVQZzABHX_AInUQ8tMDegQITRAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+ultrawide+monitors+for+office+work&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+ultrawide+monitors+for+office+work&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+ultrawide+monitors+for+office+work&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+ultrawide+monitors+for+office+work&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+ultrawide+monitors+for+office+work&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+ultrawide+monitors+for+office+work&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+ultrawide+monitors+for+office+work&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+ultrawide+monitors+for+office+work&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+ultrawide+monitors+for+office+work&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+ultrawide+monitors+for+office+work&start=80"
+    }
+  }
+}

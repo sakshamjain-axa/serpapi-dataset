@@ -1,0 +1,1039 @@
+{
+  "search_metadata": {
+    "id": "6ab3cedd8c8a7e23f5c57162",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6RpxbYLyVjE7YfipqIveJqGMcxvalbmZeWQD1aThAt4/6ab3cedd8c8a7e23f5c57162.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6RpxbYLyVjE7YfipqIveJqGMcxvalbmZeWQD1aThAt4/6ab3cedd8c8a7e23f5c57162.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6RpxbYLyVjE7YfipqIveJqGMcxvalbmZeWQD1aThAt4/6ab3cedd8c8a7e23f5c57162.json_with_pixel_position",
+    "created_at": "2026-09-23 13:06:37 UTC",
+    "processed_at": "2026-09-23 13:06:37 UTC",
+    "google_url": "https://www.google.com/search?q=top+rated+portable+bluetooth+speakers+for+outdoors&oq=top+rated+portable+bluetooth+speakers+for+outdoors&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6RpxbYLyVjE7YfipqIveJqGMcxvalbmZeWQD1aThAt4/6ab3cedd8c8a7e23f5c57162.html",
+    "total_time_taken": 53.91
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top rated portable bluetooth speakers for outdoors",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top rated portable bluetooth speakers for outdoors",
+    "total_results": 185,
+    "time_taken_displayed": 0.31,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "The 8 Best Outdoor Speakers in 2026 (Don't Buy Until You ...",
+      "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en",
+      "thumbnail": "https://serpapi.com/searches/6ab3cedd8c8a7e23f5c57162/images/F6-2tGi9-CYZLSqFEZ_TjnLNqqfDNmux7tTOtFKaTmY.jpeg",
+      "channel": "Consumer Pick",
+      "duration": "11:40",
+      "platform": "YouTube",
+      "date": "May 3, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTTgqPLQ4c_ihxh8ZAXgTHon9eubcfrBcnlkw",
+      "key_moments": [
+        {
+          "time": "00:24",
+          "title": "TIER 1: BUDGET OUTDOOR SPEAKERS ($50–$80)",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=24"
+        },
+        {
+          "time": "00:30",
+          "title": "1. Tribit StormBox Micro 2",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=30"
+        },
+        {
+          "time": "01:33",
+          "title": "2. JBL Clip 5",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=93"
+        },
+        {
+          "time": "02:39",
+          "title": "TIER 2: MID-RANGE OUTDOOR SPEAKERS ($80–$150)",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=159"
+        },
+        {
+          "time": "02:46",
+          "title": "3. Soundcore Boom 2 by Anker",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=166"
+        },
+        {
+          "time": "03:51",
+          "title": "4. JBL Flip 7",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=231"
+        },
+        {
+          "time": "05:14",
+          "title": "TIER 3: PREMIUM OUTDOOR SPEAKERS ($150–$250)",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=314"
+        },
+        {
+          "time": "05:21",
+          "title": "5. Bose SoundLink Flex (2nd Gen)",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=321"
+        },
+        {
+          "time": "06:28",
+          "title": "6. Soundcore Boom 2 Plus",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=388"
+        },
+        {
+          "time": "07:36",
+          "title": "TIER 4: LUXURY OUTDOOR SPEAKERS ($250–$400)",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=456"
+        },
+        {
+          "time": "07:43",
+          "title": "7. JBL Xtreme 4",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=463"
+        },
+        {
+          "time": "08:58",
+          "title": "8. Bose SoundLink Max",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=538"
+        },
+        {
+          "time": "10:12",
+          "title": "Winners & Final Verdict",
+          "link": "https://www.youtube.com/watch?v=GhTbmUlgkIk&vl=en&t=612"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "[Top 10] Best Outdoor Bluetooth Speakers for Every Budget",
+      "link": "https://www.youtube.com/watch?v=S7DuygaZTM8",
+      "thumbnail": "https://serpapi.com/searches/6ab3cedd8c8a7e23f5c57162/images/zI_d04MVEmYTLM1PZd3UrREvh7d5zxZWFoz_WP3KZ-8.jpeg",
+      "channel": "Gadget Ten",
+      "duration": "11:54",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "snippet": "For a high-quality portable speaker, the Bang & Olufsen Beosound Explorer offers 27-hour battery life and IP67 water/dustproof rating.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTa6CIze3X7kzF3b6DHDhBaqxal_RKL9tRN7A"
+    },
+    {
+      "position": 3,
+      "title": "Best Outdoor Speakers 2026  Top Portable, Wireless & ...",
+      "link": "https://www.youtube.com/watch?v=GBalPESTyxA",
+      "thumbnail": "https://serpapi.com/searches/6ab3cedd8c8a7e23f5c57162/images/QsYMEb0vU_JOSxyFyzZbI4gWZnn7yXkY1Mte1MBcb0M.jpeg",
+      "channel": "ReviewSet",
+      "duration": "5:47",
+      "platform": "YouTube",
+      "date": "Jun 19, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcStnSaq-eLsN0o8-3G_vTcKNFeqlRN3HMw-GA"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVL7_Y0lkHSzV6wE0zNqCxJFJNrdJ_fJmA1eGNoEe1pfqJ-ToORnBhTcZfd707cCZh5ZplC69-4zx2EYjVQd__qr9XTZNYuIy0YJQOY_Ny",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "Bose SoundLink Flex Portable Bluetooth Speaker",
+      "rating": 4.8,
+      "reviews": 5800,
+      "price": "$159.00",
+      "extracted_price": 159.0,
+      "location": "Also nearby",
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "uVqfeXicbVNLrqNGFJWyhuzCilRV_DPzh8KmH7gpoPhMLL4GU3weYBuj7CF78OuO1Bl2ImUtL6sJL-Oe3ME59557zpXu78-s_EdNfpmjbt8Y15sHB-vzacgvaK1-6_o2vSZjmf4NZYCgzMtIViCUkCiKEH1LojFi7fmDBrIIRVlGCAqKpEi8xAvfiyxKWdlkxzzP-l2bfPSJCpJkSViEFAFIkoBE5c-yjs7Z__xfgqwgACSkyCLHcYhHovDWp8M7-rw9QR5xwjLNy7Io8xwHOeW3z-S4O_2Y-_p6zfrHOxrbbtVHY5auurYfo5hlq5hds7Ftx2I1dFlUZf2wytt-1V7HtG374eu5-_DyA823uky_C5LIi2gJyQmKguBS37rb-CzOX65Xlr3v7qvt-mAdtoeeIjxHGruGHLnF5aRaj3Vra7gJfX1ONYVbMJNsq4F6QpdqtDpgEwQ-Ycn9eWbP6_As2DNr_mij7pYn__70s9red9vhvrXcrqM7Auza9LyqCJwdKUOqT5EKPcfrSueyCQJazaTZTAYkJNMoi8F9tln4iXgGSjTBdd2xNtB5ijQhtx08GVtoOz7RiXoQYmY9nKYVYr-aQ26jJTuCDG3gDC3cxnt28JpQM-tiNugGeEwWEoBvFATA4LBoa_Ro1eE9u2BoqOEx2tNNCguYastMNer0ojcpVI6kLu42ICXd6dje64XPdarthttUHR8x0xHlWE8w6xJ3Chzt8KAODYwqtSJ_DVNXsAIQ3APPrI1Lmvuc2cU01S2OdUvWPKBpE2shITMZ42qsiGoigkkRuMLk1AagftEnqm5Sv-vpvgIuxSpRMQrrENpaeCOI1ibdHG23ew04PCWNMVloUh0v4I26aA2Q7mNADgZT-RhgtuywnIs-WdXYH3FhkVmHZPGcwGR2PFIutyXEo7uoCWwM6OXF74pELa6OTxGd8ezSTZ6g8NWoMNZKfUP25uPohY7jKY7lmSCuqJZgUjm1UhkIW6HbLTj-5GmMfJmGPn8HayyM9lHUji_V6fByYusoR2fbLCDziuMpI571K5QU8PGjAoAS_x8s1lKX",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=uVqfeXicbVNLrqNGFJWyhuzCilRV_DPzh8KmH7gpoPhMLL4GU3weYBuj7CF78OuO1Bl2ImUtL6sJL-Oe3ME59557zpXu78-s_EdNfpmjbt8Y15sHB-vzacgvaK1-6_o2vSZjmf4NZYCgzMtIViCUkCiKEH1LojFi7fmDBrIIRVlGCAqKpEi8xAvfiyxKWdlkxzzP-l2bfPSJCpJkSViEFAFIkoBE5c-yjs7Z__xfgqwgACSkyCLHcYhHovDWp8M7-rw9QR5xwjLNy7Io8xwHOeW3z-S4O_2Y-_p6zfrHOxrbbtVHY5auurYfo5hlq5hds7Ftx2I1dFlUZf2wytt-1V7HtG374eu5-_DyA823uky_C5LIi2gJyQmKguBS37rb-CzOX65Xlr3v7qvt-mAdtoeeIjxHGruGHLnF5aRaj3Vra7gJfX1ONYVbMJNsq4F6QpdqtDpgEwQ-Ycn9eWbP6_As2DNr_mij7pYn__70s9red9vhvrXcrqM7Auza9LyqCJwdKUOqT5EKPcfrSueyCQJazaTZTAYkJNMoi8F9tln4iXgGSjTBdd2xNtB5ijQhtx08GVtoOz7RiXoQYmY9nKYVYr-aQ26jJTuCDG3gDC3cxnt28JpQM-tiNugGeEwWEoBvFATA4LBoa_Ro1eE9u2BoqOEx2tNNCguYastMNer0ojcpVI6kLu42ICXd6dje64XPdarthttUHR8x0xHlWE8w6xJ3Chzt8KAODYwqtSJ_DVNXsAIQ3APPrI1Lmvuc2cU01S2OdUvWPKBpE2shITMZ42qsiGoigkkRuMLk1AagftEnqm5Sv-vpvgIuxSpRMQrrENpaeCOI1ibdHG23ew04PCWNMVloUh0v4I26aA2Q7mNADgZT-RhgtuywnIs-WdXYH3FhkVmHZPGcwGR2PFIutyXEo7uoCWwM6OXF74pELa6OTxGd8ezSTZ6g8NWoMNZKfUP25uPohY7jKY7lmSCuqJZgUjm1UhkIW6HbLTj-5GmMfJmGPn8HayyM9lHUji_V6fByYusoR2fbLCDziuMpI571K5QU8PGjAoAS_x8s1lKX"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRVWbsBF4rU3IdVvvoahMvyaD7OfCm80ApDK5OVWzRzgPnf58Zd3Edqj_oO0NNKHavpUdLT_UDUndYZuiJtzbu-K26YgQxnUhDTtRztcUeAjY_G0U2D_04V",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTorS2WuDcnRECgIMuOdh4CFEHob0ZK_5GiwDG90hW4dKNniWX6MBchPGoz7JLsBGRdDIyxU7Z_ojYKNu0s6m0l-4p_",
+      "source": "costco.com",
+      "title": "Soundcore by Anker Boom 3i Portable Outdoor Wireless Speaker",
+      "rating": 4.8,
+      "reviews": 298,
+      "price": "$112.99",
+      "extracted_price": 112.99,
+      "original_price": "Usually $130",
+      "extracted_original_price": 130,
+      "delivery": "Free delivery",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "dI_6XHicdZFdjqNGFIWlrCG7sCLVD2Vw3to2YJOm3PwVmJcWprDBlKEasPnR7CF7cM9EmjxOImUtndXEGuUxeb3nnk_n3vPrPSv-0tOfpkRuKvt6C2HrvLy2xzN60r_KpubXtCv4nxDjOVDnqgoVTABAqkbUr2nSJaI-FfwPpKlYRWROANHmREULhXzLs4SLosp2x2PWrOv0O0VZEGUOFahhvFioBCrk9-KSnLJ_dbAAC0wwJkjDUFOAAvB7w9sP5WX1CudE0VSAIMAaUCFRiIY-vbi79ev_iF_erlkzfqCulrMm6TI-k3XTJQeRzQ7imnV13eWzVmZJmTXt7Fg3s_ra8bpu2i8n-T3Of0DfLwX_RtS5Mn9EBBDCOVoAVX2Xt-6enz5fryL7WPez1dPW2a62DUPGlJjiGmP3digG3Rmfas80qjiyJm4u8GNG3VXZspBIbrJya1Cwj1yR9veTuF_bey7uWfVbncjbMf37hx_1ul-v2n7lBFKytQu88xZSyPowoN4eSI-a3EsAK2xkQAcvjQgMfqgbfRLuO2bmEUO82DM38pllMWENtu8qWUVL58I39kUZD0wkB2QENspvjOV6eOZKUumjw6zRR93AzH48nKlnY_5mRwG2w8FjZ2NJcTpxNGw8X5AstAqnymnK3I1n5pAG2kBRPsZh3jMm410w9Mk5fnis6HARlStYkPp5S89uYwO445MlvYhFDOdWaBhTsII5xyngID-7ARQ-OPWuSb0wEKEfGXUawtg246N_iQ0PyWTnx4Kaw9Iuc28fEtsDcLUX9GKbYgrMekx0Imgpmb9xKfVPiscWmOvQcKAoD5gHz4F7s9EJ7lE9HYCUznkJD0jsqA57asZlXLHw2XcwFdYvj93aDWUTgE66k66kkWh8Rld-SECs59jbxH0g8mlnyM6eKMpY6RmAnZ8jmad6fvUfjbDpcSNbHlMUv9mlYZiFtXQ3dNyFsbevrGVQ5sdEuC-7NbMYIGOM4sff6MrzgzEz4-rz0DbHD_BkkM7bKYkfXElZrddLkUvK4TNLGmuK9kPk_AzVBYBzTSMAquQfuWRUQA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dI_6XHicdZFdjqNGFIWlrCG7sCLVD2Vw3to2YJOm3PwVmJcWprDBlKEasPnR7CF7cM9EmjxOImUtndXEGuUxeb3nnk_n3vPrPSv-0tOfpkRuKvt6C2HrvLy2xzN60r_KpubXtCv4nxDjOVDnqgoVTABAqkbUr2nSJaI-FfwPpKlYRWROANHmREULhXzLs4SLosp2x2PWrOv0O0VZEGUOFahhvFioBCrk9-KSnLJ_dbAAC0wwJkjDUFOAAvB7w9sP5WX1CudE0VSAIMAaUCFRiIY-vbi79ev_iF_erlkzfqCulrMm6TI-k3XTJQeRzQ7imnV13eWzVmZJmTXt7Fg3s_ra8bpu2i8n-T3Of0DfLwX_RtS5Mn9EBBDCOVoAVX2Xt-6enz5fryL7WPez1dPW2a62DUPGlJjiGmP3digG3Rmfas80qjiyJm4u8GNG3VXZspBIbrJya1Cwj1yR9veTuF_bey7uWfVbncjbMf37hx_1ul-v2n7lBFKytQu88xZSyPowoN4eSI-a3EsAK2xkQAcvjQgMfqgbfRLuO2bmEUO82DM38pllMWENtu8qWUVL58I39kUZD0wkB2QENspvjOV6eOZKUumjw6zRR93AzH48nKlnY_5mRwG2w8FjZ2NJcTpxNGw8X5AstAqnymnK3I1n5pAG2kBRPsZh3jMm410w9Mk5fnis6HARlStYkPp5S89uYwO445MlvYhFDOdWaBhTsII5xyngID-7ARQ-OPWuSb0wEKEfGXUawtg246N_iQ0PyWTnx4Kaw9Iuc28fEtsDcLUX9GKbYgrMekx0Imgpmb9xKfVPiscWmOvQcKAoD5gHz4F7s9EJ7lE9HYCUznkJD0jsqA57asZlXLHw2XcwFdYvj93aDWUTgE66k66kkWh8Rld-SECs59jbxH0g8mlnyM6eKMpY6RmAnZ8jmad6fvUfjbDpcSNbHlMUv9mlYZiFtXQ3dNyFsbevrGVQ5sdEuC-7NbMYIGOM4sff6MrzgzEz4-rz0DbHD_BkkM7bKYkfXElZrddLkUvK4TNLGmuK9kPk_AzVBYBzTSMAquQfuWRUQA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT8C8KXej1JUhdQhCAsxNGEs3BRlSRGwBPb0RMuPFb3anErkW3kKvYYAOE9FZDXA25VRRjIDsOjbJjLSmlncycfPinm2pMKvwrmuegBgQnP",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "JBL Charge 6 Portable Bluetooth Speaker Waterproof",
+      "rating": 4.8,
+      "reviews": 9000,
+      "price": "$199.99",
+      "extracted_price": 199.99,
+      "location": "Nearby, 4 mi",
+      "immersive_product_page_token": "979HH3icdZNfjqNGEMalnCG3sFbqBtpA3gbzxyZjbJqm2_TLqE1jg2kDxthjW7lD7uDZjbR53F1pzzI5Tbz7nKhUUqm-T_X9XurPe1F99_IPN9FNm_npzOAxXr4cNzvtyfvc9a085UMlv-qmhWxdh8DUbQ1BCwDrcy4GodptJb9B61FoDE3d0DRo6aZtoi9lIaSqmmKx2RS92-Y_fIZh2gCZhv7DBgFAlv53tRfb4qf-1TKRpiETjh-NTHP88L318vhuLCcvEBmWBnULGZoBDKhrhg7_WOKF-_I_4qfDqeiv79rQdqNeDIUcdW0_iLUqRmt1Koa2HcrRsStEXfTH0abtR-1pkG3bHz9tu5-0_3H0bV_JL-hBNtYsaEB7bBrQHJtv3Xm4l9uPp5Mq3t3X0eRpFs8ms55q_k0E6sR1fF5XFy--PrVJ4Dd8Fd5kYOuPXYQn9ZEy1MmA1jM_AtkKq_z1vlX30_FeqnvR_NWK7rzJ__nlV699dSfH10mcdh11MUiAhVjj80zvDvNpGayb2khVuFnQMIsbnsa6nxSprAWVXRTUegJVEBFnRlwZCRZGYuU0kvIg30MNN_ySNlIXxCnnQTljbkjJzcmIJnvO7JolsGW0XHIWgXnTQdzgkAB_RtPLgXs8yl0-EyR08Sryczc0cldCmqJ0veLPjxkljJ6ThuJimsG152sElGfSOCrxZ2hOeMh8vIimihA3rCgsYXKjINlLIlQ4xXqoMlW6WY1jlmI3Z54mwfyWMn8cpwPhge0IX1Km_Jru09eM-Up4qC1YGdAbxcwb-MKjBqu7HZ5Kvwi2l8XKv-YBnaQBuEaUZiy9HHMlL0JT1SNjk3t8wE23me_oKid0nzBcRY1_llq4jNPSiYE9W3vRldT8wYMYAdFtrdMJ2V9QtgeI7O1zRrsOAz4juxzSQK2IshIf0N3zqitzrzyRFdXozb-l1NnkGj_Ma98PqtDB0-i6YDwRkM_nKe6xcloJ7B0BUqw9FAhtOKU1OmC91D9ejv3mHTz5aEgWZjP8Hggr2ywXzy9nw_lwnUzKw_qFUx7_Bh_PB8eWhQA0zX8Bt-1Rvw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=979HH3icdZNfjqNGEMalnCG3sFbqBtpA3gbzxyZjbJqm2_TLqE1jg2kDxthjW7lD7uDZjbR53F1pzzI5Tbz7nKhUUqm-T_X9XurPe1F99_IPN9FNm_npzOAxXr4cNzvtyfvc9a085UMlv-qmhWxdh8DUbQ1BCwDrcy4GodptJb9B61FoDE3d0DRo6aZtoi9lIaSqmmKx2RS92-Y_fIZh2gCZhv7DBgFAlv53tRfb4qf-1TKRpiETjh-NTHP88L318vhuLCcvEBmWBnULGZoBDKhrhg7_WOKF-_I_4qfDqeiv79rQdqNeDIUcdW0_iLUqRmt1Koa2HcrRsStEXfTH0abtR-1pkG3bHz9tu5-0_3H0bV_JL-hBNtYsaEB7bBrQHJtv3Xm4l9uPp5Mq3t3X0eRpFs8ms55q_k0E6sR1fF5XFy--PrVJ4Dd8Fd5kYOuPXYQn9ZEy1MmA1jM_AtkKq_z1vlX30_FeqnvR_NWK7rzJ__nlV699dSfH10mcdh11MUiAhVjj80zvDvNpGayb2khVuFnQMIsbnsa6nxSprAWVXRTUegJVEBFnRlwZCRZGYuU0kvIg30MNN_ySNlIXxCnnQTljbkjJzcmIJnvO7JolsGW0XHIWgXnTQdzgkAB_RtPLgXs8yl0-EyR08Sryczc0cldCmqJ0veLPjxkljJ6ThuJimsG152sElGfSOCrxZ2hOeMh8vIimihA3rCgsYXKjINlLIlQ4xXqoMlW6WY1jlmI3Z54mwfyWMn8cpwPhge0IX1Km_Jru09eM-Up4qC1YGdAbxcwb-MKjBqu7HZ5Kvwi2l8XKv-YBnaQBuEaUZiy9HHMlL0JT1SNjk3t8wE23me_oKid0nzBcRY1_llq4jNPSiYE9W3vRldT8wYMYAdFtrdMJ2V9QtgeI7O1zRrsOAz4juxzSQK2IshIf0N3zqitzrzyRFdXozb-l1NnkGj_Ma98PqtDB0-i6YDwRkM_nKe6xcloJ7B0BUqw9FAhtOKU1OmC91D9ejv3mHTz5aEgWZjP8Hggr2ywXzy9nw_lwnUzKw_qFUx7_Bh_PB8eWhQA0zX8Bt-1Rvw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTvKoMuMM8M1ZoPusXx5wXgOd5fOhGDqdsffTtC9dlpZY4duKywuvuu0uZvu2VYU8tc-neEMzttcNT-K2jtO0lRE_IZmqPOfss2Ji0RuFzKG2-vwTe1cq7QdQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQESW27PvET218sh8Wps1BlczPLmMzOgZaLr7soHjIwob0--_zVqERLRjkPz_K3KnSn54SMwcxHngRkfrQAP2V3T6HL",
+      "source": "BJ's Wholesale Club",
+      "title": "Monster Rockin' Roller 300 Indoor Outdoor Portable Bluetooth Speaker",
+      "rating": 4.3,
+      "reviews": 12,
+      "price": "$179.99",
+      "extracted_price": 179.99,
+      "location": "Nearby, 22 mi",
+      "immersive_product_page_token": "P8ZClnicdZPbjqNGEIaV57FW6uZkyN0YaDBrw3BqDjcW0NjYNNDDwWOjfYe8QuTZjbS53I2UZ5k8SS5D9jpR3dX3_1WlUtUvj_L8p158mDNmtvvpGsHBfT4Mxwv3pH9lfUemYjyT75IoSLzIKzIPFAVy0hJfi2zMaHdaKLeGIhSgJPPKGnKQl4H8rSozQs9t6RyPZa91xSITIQdkQVj88loEvCiL4u_nJjuVP_AfkBdkwCk8BFDhJB6uBQ689WR4F57VA4RrRRIk-V8EZUFS1kD69Ow52uF_4JeXqezv79zYsVWfjSVZsa4fs5yWq5xO5dh1Y7UaWJnVZT-sjl2_6qaRdF0_fDmxH-P8R9G35kx-fWPX8VGdPk8TLd-115X6tHW36rbHHJozg04p713z801370-db6A2ja2ZGAq_5GxPrQcciYwYuN4iGySxR4vXx4k-puFR0UfZ_tZl7Hos_vrpb_1aqGpfqG7IGNY84Ac2Z-u3m41s6Le2FIVUC3QWuA15cfk9R-aUBRSnmS4D3Fh1UiuqfbGD4IJRalZnuxH7XFcue4SC5HISfb6a8zi5hyYe7QjBfYt2USOMRSMCH-vzPsZTyG9QrjOn0Kpd0KbHrGaio8MY64u-Trg8xCwyBhhoCSRIuQVGKjk6Tu3YpsnsNVFk3UjIpkAXN4ExzimmQmaSexCRHQ6tj-UldcraE0qjctNQdLFGeVJXQcwhzoktmmlEzbG1wSHe-XpleFABOcWdE7IhMIDgUndMaojsO3zNEDILxLbpTK5lTa0Q6HMWiiyni8ckbtJAiUBryFsyJPMeBHyaFBAbOc_sGFZaAGlctIwWnH0mvG0kQJxCDoZLv204e8su0sxvLBCZ9UjCEyxAIuwb2UcAX3Yxqwq9moIYc3hGc4g3x4JLX_Y1QsbZ2nimfXei1HfhBrntQnzoE7SHQdOB1ESvtsmOe94yvQBtPt-G_vgOnpA4-s66HT8amZwcn53d4SpsPtxVtXrJDylO3Z-XCwXL18kigOv1P1aFRGQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=P8ZClnicdZPbjqNGEIaV57FW6uZkyN0YaDBrw3BqDjcW0NjYNNDDwWOjfYe8QuTZjbS53I2UZ5k8SS5D9jpR3dX3_1WlUtUvj_L8p158mDNmtvvpGsHBfT4Mxwv3pH9lfUemYjyT75IoSLzIKzIPFAVy0hJfi2zMaHdaKLeGIhSgJPPKGnKQl4H8rSozQs9t6RyPZa91xSITIQdkQVj88loEvCiL4u_nJjuVP_AfkBdkwCk8BFDhJB6uBQ689WR4F57VA4RrRRIk-V8EZUFS1kD69Ow52uF_4JeXqezv79zYsVWfjSVZsa4fs5yWq5xO5dh1Y7UaWJnVZT-sjl2_6qaRdF0_fDmxH-P8R9G35kx-fWPX8VGdPk8TLd-115X6tHW36rbHHJozg04p713z801370-db6A2ja2ZGAq_5GxPrQcciYwYuN4iGySxR4vXx4k-puFR0UfZ_tZl7Hos_vrpb_1aqGpfqG7IGNY84Ac2Z-u3m41s6Le2FIVUC3QWuA15cfk9R-aUBRSnmS4D3Fh1UiuqfbGD4IJRalZnuxH7XFcue4SC5HISfb6a8zi5hyYe7QjBfYt2USOMRSMCH-vzPsZTyG9QrjOn0Kpd0KbHrGaio8MY64u-Trg8xCwyBhhoCSRIuQVGKjk6Tu3YpsnsNVFk3UjIpkAXN4ExzimmQmaSexCRHQ6tj-UldcraE0qjctNQdLFGeVJXQcwhzoktmmlEzbG1wSHe-XpleFABOcWdE7IhMIDgUndMaojsO3zNEDILxLbpTK5lTa0Q6HMWiiyni8ckbtJAiUBryFsyJPMeBHyaFBAbOc_sGFZaAGlctIwWnH0mvG0kQJxCDoZLv204e8su0sxvLBCZ9UjCEyxAIuwb2UcAX3Yxqwq9moIYc3hGc4g3x4JLX_Y1QsbZ2nimfXei1HfhBrntQnzoE7SHQdOB1ESvtsmOe94yvQBtPt-G_vgOnpA4-s66HT8amZwcn53d4SpsPtxVtXrJDylO3Z-XCwXL18kigOv1P1aFRGQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTjKH6NV77MxDhvc2wkvKXrJAntRFWfbCgj_b2iB2WU1p85z3nEuOK_bDCKCfGNWoPJgx8e9Hi8ky6U23gpfdt8nPx0Dv30PUJiPaFXJvRHcMNCVa62HsRB",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Anker Soundcore Boom 2 Waterproof Bluetooth Speaker",
+      "rating": 4.8,
+      "reviews": 282,
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "original_price": "$130",
+      "extracted_original_price": 130,
+      "location": "Nearby, 4 mi",
+      "delivery": "Same-day delivery $10",
+      "extensions": [
+        "23% OFF"
+      ],
+      "immersive_product_page_token": "SDAdqnicdY7LjqNGAEWV77FGKqp4OTsbU9jdDW4KqAI2Fq7CjW0e1Tz8QPmH_ELknok0s5xEyrd0viTLuGedbO-5uvf8esv3f9n805jJZe0OJ6Z0_vOm2x3gzP4q20YMvN-LPxVkIEM1NWgCBaiKqSOAvvKsz8rm5QMbKkII6FBBuqqb0NRM-L3IM1Hu63y92-XtouEfPVWHUDMRgvrUMJEJka5921fZS_6D_6HrH1S_fxnTqTI1tKn51oruXX22NgoChg7vMQAAIlP98PjlmawXm_-BX16HvL2-w76RkzbrczGRTdtn2zKfbMsh75umLyadzLNj3naTXdNOmqEXTdN2X17kD9v_GH2r9uK3N3nqb8XL52Eo8_fFeWLNVv7KWrUU4jFzyiFF5LTdX2z_OmsCB9dp_DAKZ4rumUesY0eZJoVDjyvsgSQmJT_fXsrb0N2K8pbXvzeZPO343z_9Y5-4ZbXc8iMp6YKAgCZntxIqY9pJACLdeH7Oy_Isjt11vaRjUlGcHn3Aq0sfgktFKHkUkUDR4iEhR_maVyR5ipMxQlLPSxGkdroK8EwTS28IF1jPxmIktqt4KLlwNGfhsXwUo0dDWyaufXmNImwFiGiu02lZVWb3f40sH3AC-3YLlSg4YMoortwoGYXtI257agx73XPSPq2J6itkFVBKIzQPuaMxn3UwZeWBHOZrj_VqxOSRKvMkADKOAddELVigcMRHKiNHPHIA1IyJhJZpw5bedRs-6NmhOK-ZpxOw6tOShllU2OlesQhQauYUsc-mLrOTS4QLf03FJXc6lVMZEByNPCaaH4pziPFjiot1XnXXpCr0bEE8vyqtaFloPiPnbXRUw6W4JjW9xEqBCJ06AUifUyYqHs4CDOjhKZYFt4shjCmkIx4jOt9xmL66R4yd_cOc3H3XLL372TCCeO8yz01i3Cesr9Nadl5c4q3d9R4j9edL1-7ewQxrfbA26v7Rycxk97x-2pzU-aerZRWv201KU_9nxZgCRTdNDSiG8S8N-keW",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=SDAdqnicdY7LjqNGAEWV77FGKqp4OTsbU9jdDW4KqAI2Fq7CjW0e1Tz8QPmH_ELknok0s5xEyrd0viTLuGedbO-5uvf8esv3f9n805jJZe0OJ6Z0_vOm2x3gzP4q20YMvN-LPxVkIEM1NWgCBaiKqSOAvvKsz8rm5QMbKkII6FBBuqqb0NRM-L3IM1Hu63y92-XtouEfPVWHUDMRgvrUMJEJka5921fZS_6D_6HrH1S_fxnTqTI1tKn51oruXX22NgoChg7vMQAAIlP98PjlmawXm_-BX16HvL2-w76RkzbrczGRTdtn2zKfbMsh75umLyadzLNj3naTXdNOmqEXTdN2X17kD9v_GH2r9uK3N3nqb8XL52Eo8_fFeWLNVv7KWrUU4jFzyiFF5LTdX2z_OmsCB9dp_DAKZ4rumUesY0eZJoVDjyvsgSQmJT_fXsrb0N2K8pbXvzeZPO343z_9Y5-4ZbXc8iMp6YKAgCZntxIqY9pJACLdeH7Oy_Isjt11vaRjUlGcHn3Aq0sfgktFKHkUkUDR4iEhR_maVyR5ipMxQlLPSxGkdroK8EwTS28IF1jPxmIktqt4KLlwNGfhsXwUo0dDWyaufXmNImwFiGiu02lZVWb3f40sH3AC-3YLlSg4YMoortwoGYXtI257agx73XPSPq2J6itkFVBKIzQPuaMxn3UwZeWBHOZrj_VqxOSRKvMkADKOAddELVigcMRHKiNHPHIA1IyJhJZpw5bedRs-6NmhOK-ZpxOw6tOShllU2OlesQhQauYUsc-mLrOTS4QLf03FJXc6lVMZEByNPCaaH4pziPFjiot1XnXXpCr0bEE8vyqtaFloPiPnbXRUw6W4JjW9xEqBCJ06AUifUyYqHs4CDOjhKZYFt4shjCmkIx4jOt9xmL66R4yd_cOc3H3XLL372TCCeO8yz01i3Cesr9Nadl5c4q3d9R4j9edL1-7ewQxrfbA26v7Rycxk97x-2pzU-aerZRWv201KU_9nxZgCRTdNDSiG8S8N-keW"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRxcOKBKFoo-9L4Ll8xhotk1kAojjHf7KUIOhNzm1pq_dstiJ3UQw27fa8tgoV6gjQifV1Yv7vnqtt34yIBzSAfGaHz7AAPLQ1ipXCO4jwhQPpDBI9bJ9va",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Ion Audio Trailblazer Summit Rugged Portable All-Weather Bluetooth Speaker",
+      "rating": 4.5,
+      "reviews": 37,
+      "price": "$99.82",
+      "extracted_price": 99.82,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "1qSZ43icdZNbrqNGEIalrCG7sEbqbu55sw2N7WPA3BrMi4VpMIa2wVyMsbKH7MFnJtLkcWakrOVkNUHJY5TXuvz111eq317p-U8t-fSM69XV6O8BbO3doc0KNNe-1k1F-6Q702-cAKDM8QJEIlRkwMnC1yTuYladzvQH5HgRAEHiJElSEFAAj6RveRpTdr6mVpaljVolZ_pdAgKQkTKVy5ATZSQJwh_nS3xK_00rgijxkqBAAGRlUpQBem9o-8HvlgfIyQhwytTCc6ICRUnilV93jqUe_if55danzfiBuqqeNXGX0lldNV18ZOnsyPq0q6oun7V1Gpdp086yqplVfUerqmm_nOrkn6X-K_p-mVAIksiLSJbh5JSXJCTw7_W9e-Wnz33P0g91mC3na3u9XDcE4Wessz7inPvx_NDscV65Or5G4eZJdYWbYqazLFsSCDXVSbnGJtiHDkuG14m9-vaVs1d6_b2K63uW_PXTz1o1qMt2WNp-XRPVAS6KkKnmdlrkNzdgG8NjG1LKIw0EQkobUZ3dbBJ5iS4_6ZNy-wtcEJUEhm4MJiIoGqEVBN0jUdnWh6ZIV8bgIWG1JwtsXMjF8fEYFWzwQtKZQNCMAIcOt2gcqFwMuACp7iwJI297RN2kBJ3j102K87WpAegViyzBRLcD5rnXPEj805iqJy4to4erQc-7ruFRWz_Ni2lRv74ZXD3Qa867fo6PKiVb3xEcX4PmKmpDgDGF2DOfi4er02CaLdoF5cyS7gLMbA8pnAFM18NYt_0NpIU2BCFZkZBsEwS1iQ-ItccjKdbQQRvbU1ng4XpFdTMzNOokRflML-bD8DcN0Vl5vC4squbl5HWw1M1uugpP9XyMuUXhr7BINR4FmoJoGU1MHhYplThgysYLT-OWlIB68y64Rm-ubwomrDNLr2szSAQv3LsYkGIb1nmi5f3EFZEnfvpkYoWim1FOC5w3C2dljlYQOb6KW2MVcQSt-SRQRr9gvY8ocEqlPSLhYuKI-_xom-wDzLHQuZZ07d70WN5nO2t7uPOLT-Nymd-Oh4hE9i9QUgAUZXn6ZEn6G_NuT_I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=1qSZ43icdZNbrqNGEIalrCG7sEbqbu55sw2N7WPA3BrMi4VpMIa2wVyMsbKH7MFnJtLkcWakrOVkNUHJY5TXuvz111eq317p-U8t-fSM69XV6O8BbO3doc0KNNe-1k1F-6Q702-cAKDM8QJEIlRkwMnC1yTuYladzvQH5HgRAEHiJElSEFAAj6RveRpTdr6mVpaljVolZ_pdAgKQkTKVy5ATZSQJwh_nS3xK_00rgijxkqBAAGRlUpQBem9o-8HvlgfIyQhwytTCc6ICRUnilV93jqUe_if55danzfiBuqqeNXGX0lldNV18ZOnsyPq0q6oun7V1Gpdp086yqplVfUerqmm_nOrkn6X-K_p-mVAIksiLSJbh5JSXJCTw7_W9e-Wnz33P0g91mC3na3u9XDcE4Wessz7inPvx_NDscV65Or5G4eZJdYWbYqazLFsSCDXVSbnGJtiHDkuG14m9-vaVs1d6_b2K63uW_PXTz1o1qMt2WNp-XRPVAS6KkKnmdlrkNzdgG8NjG1LKIw0EQkobUZ3dbBJ5iS4_6ZNy-wtcEJUEhm4MJiIoGqEVBN0jUdnWh6ZIV8bgIWG1JwtsXMjF8fEYFWzwQtKZQNCMAIcOt2gcqFwMuACp7iwJI297RN2kBJ3j102K87WpAegViyzBRLcD5rnXPEj805iqJy4to4erQc-7ruFRWz_Ni2lRv74ZXD3Qa867fo6PKiVb3xEcX4PmKmpDgDGF2DOfi4er02CaLdoF5cyS7gLMbA8pnAFM18NYt_0NpIU2BCFZkZBsEwS1iQ-ItccjKdbQQRvbU1ng4XpFdTMzNOokRflML-bD8DcN0Vl5vC4squbl5HWw1M1uugpP9XyMuUXhr7BINR4FmoJoGU1MHhYplThgysYLT-OWlIB68y64Rm-ubwomrDNLr2szSAQv3LsYkGIb1nmi5f3EFZEnfvpkYoWim1FOC5w3C2dljlYQOb6KW2MVcQSt-SRQRr9gvY8ocEqlPSLhYuKI-_xom-wDzLHQuZZ07d70WN5nO2t7uPOLT-Nymd-Oh4hE9i9QUgAUZXn6ZEn6G_NuT_I"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmoJFpdDBhKD92dglPUiUpj9oI-PuWcuA5AsI3GJ9LoXks9yomZeN96llpCbgI4kefsbUrMFRPkaq1kzFDBOptBI9fCKv4oVPoml-bI2K3YgrzNqAput_lNA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTUxcbAOp1W7saYdqcZvnnEGAgF4vylB2H-jyfij0iYPj-dwqlZe18y3pA7TtEvPHbzYxf-lajTL0rmS6X_ImuDdbAYjIZ3jyRB",
+      "source": "Home Depot",
+      "title": "Tzumi Super Bass Jobsite Speaker",
+      "rating": 4.8,
+      "reviews": 6000,
+      "price": "$29.98",
+      "extracted_price": 29.98,
+      "original_price": "$40",
+      "extracted_original_price": 40,
+      "location": "Nearby, 3 mi",
+      "extensions": [
+        "25% OFF"
+      ],
+      "immersive_product_page_token": "CPKHJXicbZHNjqNGAISV57EidTdgILex-bG9Q3tp6Mb0ZQQ0GJvmxxjGNtp3yCtEnt1Im2OyUp5l8iQ5xpvznkqqkr4qqX6954e_7eznKelWjTe-RvDsf3w5F0f0ZH_t-laM2XAQfxkK1BTNnKuaqemKCnRkfM2SIZHt_iC-wTkyTGAABegQaaaq6or5Z5knQh6afFsUeW-12YOiG3M0B5oBoYEgAuocwj8OdbLP_4-_QUXXdTBX50hVoA5NHQDlrRfnd_Rx-aIAVZvrBjKA_hAVQHP-6SPZWi8_zr6cxry_vaOh7WZ9MuRi1rX9kKQyn6VyzIe2HcrZucuTKu_Ps6LtZ-04iLbtz1_23fetP2C-1Qfx21v3OtzL_edxlPm7dZktn9b-ernuGXKmxJUjV8hrerja_u2pDVyn4bvNJFxTeXiYLKszi7ROuKxaOxjEOyKzy30v7-P5Xsp73vzeJt1rkf3z07_2a7Zc9tnSp13HLAICxIogwh12B4pvMKHQuKU3qGSrzZk-ukMEQBTAZXwsL17NIHa4G1lizWGp-HVXU_v6IanLFa5NZesOCT1SxVc8JbVhE1FhxZSDuGEeafBzzPgirDqWh6KgzmPjkSHi4pqvFiWeCPIn--bLzQdSix2pNCxcWQrqgW1ITsI2xyhiC6IQvg1lx2g1YCm3AhrXbMKMS3YK7PLGED4EKy6TaT3EFURbiieG5IJa8S1tmJKyveLZvN6u2IVb5Sm3KOTQOcQ754TDWBVIdCk0febyZ9JsGi47n6NrEU8LGdlrJa0cyFkZ-hT3eBKchSXyYXehdHPBNda4Ik9kt7ESt9x9_2NrlVN2lKd8VT36y9qTpCLRQILqMkVyA7k0pqgWQQzpNZ1wmTolJ4AGDmDH511XZnY5hjuG2ORMlC2KDPGTVzmOe9gsyArfthEPKPBAGmlFyogbQKp6EfdCRs5RSNwsyrQEdM3n67kv3sGTow3BVk1COmpVY1kLWXZYwGeW9JtpF193_i9QNwGcG4YGoK79B-6QSAg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=CPKHJXicbZHNjqNGAISV57EidTdgILex-bG9Q3tp6Mb0ZQQ0GJvmxxjGNtp3yCtEnt1Im2OyUp5l8iQ5xpvznkqqkr4qqX6954e_7eznKelWjTe-RvDsf3w5F0f0ZH_t-laM2XAQfxkK1BTNnKuaqemKCnRkfM2SIZHt_iC-wTkyTGAABegQaaaq6or5Z5knQh6afFsUeW-12YOiG3M0B5oBoYEgAuocwj8OdbLP_4-_QUXXdTBX50hVoA5NHQDlrRfnd_Rx-aIAVZvrBjKA_hAVQHP-6SPZWi8_zr6cxry_vaOh7WZ9MuRi1rX9kKQyn6VyzIe2HcrZucuTKu_Ps6LtZ-04iLbtz1_23fetP2C-1Qfx21v3OtzL_edxlPm7dZktn9b-ernuGXKmxJUjV8hrerja_u2pDVyn4bvNJFxTeXiYLKszi7ROuKxaOxjEOyKzy30v7-P5Xsp73vzeJt1rkf3z07_2a7Zc9tnSp13HLAICxIogwh12B4pvMKHQuKU3qGSrzZk-ukMEQBTAZXwsL17NIHa4G1lizWGp-HVXU_v6IanLFa5NZesOCT1SxVc8JbVhE1FhxZSDuGEeafBzzPgirDqWh6KgzmPjkSHi4pqvFiWeCPIn--bLzQdSix2pNCxcWQrqgW1ITsI2xyhiC6IQvg1lx2g1YCm3AhrXbMKMS3YK7PLGED4EKy6TaT3EFURbiieG5IJa8S1tmJKyveLZvN6u2IVb5Sm3KOTQOcQ754TDWBVIdCk0febyZ9JsGi47n6NrEU8LGdlrJa0cyFkZ-hT3eBKchSXyYXehdHPBNda4Ik9kt7ESt9x9_2NrlVN2lKd8VT36y9qTpCLRQILqMkVyA7k0pqgWQQzpNZ1wmTolJ4AGDmDH511XZnY5hjuG2ORMlC2KDPGTVzmOe9gsyArfthEPKPBAGmlFyogbQKp6EfdCRs5RSNwsyrQEdM3n67kv3sGTow3BVk1COmpVY1kLWXZYwGeW9JtpF193_i9QNwGcG4YGoK79B-6QSAg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSZoFx0AdiG24Dp0o4QjYC1j1uBewzky-x7I3AjcADLABK9JNN95lClrgOnbCjg3YSTK2F3nA8A6we82SfRCxxz32-7GtVorA0dA6ArhcNQ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Sonos Roam 2 Portable Bluetooth Speaker",
+      "rating": 4.2,
+      "reviews": 10000,
+      "price": "$179.00",
+      "extracted_price": 179.0,
+      "location": "Nearby, 23 mi",
+      "immersive_product_page_token": "2plFSXicdZJZruJGAEWlrCG7QC3V4PKQP8AuA_0o8FQ29fPkCQwuYz8PDFb2kD3wuiN1PjuRspaX1YQov8nvPfde6Ur3l0d-_NNKP41xszivh0sIO2f72u1PaGp9a9o6G9L-mP0Bka5oKjIQQRoE0DAAAd_SuI9lfThm3zUdq4amGQQCXVGhrqPvRR5n8njON_t93pp1esx-JxjAZ87Qny6sE13R0W_HKj7k_2KDGDoGyDAMqBBd1TEi723WfSjb-SvUAdAgVlSENKIY6rNE_XnrbszX_4Ff34a8vX-gvm4mbdzn2aSp2z5OZD5J5JD3dd0Xk67J4zJvu8m-bif10Gd13XZfD036z-L_KH2vnluJpj5FnWCIVQUrkGjvzaV_FIcvwyDzD_M6mU-XznK-bDmiY2zLQWD3khxvlnOf1p5NzyJajZlt4KfG3HnZ8ZA0mc3LJWVgF7kyvT4O8jF0j0I-8vOvddxc9ulfP_xo1Vdz3l3nTtA03HSBV4m38AhtX0ozPTeYQQZEtZJBxM20ojK1i4rBWeCFRpmWnRJUBfLkzFoHrs3lFHpojRM86xPauOw0QzGWLBmLwB3XMJDrm19l_u5cYH6e9ruwcNah8LhNLtxuvJAfiA9uilNJ04XyhVm30Ufuwi155Dx_klgKSksGcyouXtmv2KnwvbAXYiHRLhBLTsVVROKeW6tLzjPftw5jUjHBMfucnFw1i-gmLGkUQ7YQlG-FzFZBaIyhuaqDqoeuyfdhSNvkJG8BapZeeRi901TxoGEJfrj7yCEbkw6hxUIfllcRSpqOM-BUcJFX2cWTDLnYXQfgVnFaj0w695Quby-cF9kR0peQzNOSriIAz4FNt1kpJZeHW3aH_S6QJLEbS5TsxHDh8GiK1rDw04i--dzYpb5FRHDbCMBJino1KXeIl6zdhIFHAT-9RE2RWsXgRxzxkY4Bn-1TJN7WJaX2cTVzF-y-CUWQmKzwsVyw0ugzM4MOgncHC9MBRpcG8M6j1ezLrWv3H2BKSe9ttHP_2Y713X67eXm9KLNP9_m8eEteBRfOT1AzAFR1nQCoaX8DPHdSNw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2plFSXicdZJZruJGAEWlrCG7QC3V4PKQP8AuA_0o8FQ29fPkCQwuYz8PDFb2kD3wuiN1PjuRspaX1YQov8nvPfde6Ur3l0d-_NNKP41xszivh0sIO2f72u1PaGp9a9o6G9L-mP0Bka5oKjIQQRoE0DAAAd_SuI9lfThm3zUdq4amGQQCXVGhrqPvRR5n8njON_t93pp1esx-JxjAZ87Qny6sE13R0W_HKj7k_2KDGDoGyDAMqBBd1TEi723WfSjb-SvUAdAgVlSENKIY6rNE_XnrbszX_4Ff34a8vX-gvm4mbdzn2aSp2z5OZD5J5JD3dd0Xk67J4zJvu8m-bif10Gd13XZfD036z-L_KH2vnluJpj5FnWCIVQUrkGjvzaV_FIcvwyDzD_M6mU-XznK-bDmiY2zLQWD3khxvlnOf1p5NzyJajZlt4KfG3HnZ8ZA0mc3LJWVgF7kyvT4O8jF0j0I-8vOvddxc9ulfP_xo1Vdz3l3nTtA03HSBV4m38AhtX0ozPTeYQQZEtZJBxM20ojK1i4rBWeCFRpmWnRJUBfLkzFoHrs3lFHpojRM86xPauOw0QzGWLBmLwB3XMJDrm19l_u5cYH6e9ruwcNah8LhNLtxuvJAfiA9uilNJ04XyhVm30Ufuwi155Dx_klgKSksGcyouXtmv2KnwvbAXYiHRLhBLTsVVROKeW6tLzjPftw5jUjHBMfucnFw1i-gmLGkUQ7YQlG-FzFZBaIyhuaqDqoeuyfdhSNvkJG8BapZeeRi901TxoGEJfrj7yCEbkw6hxUIfllcRSpqOM-BUcJFX2cWTDLnYXQfgVnFaj0w695Quby-cF9kR0peQzNOSriIAz4FNt1kpJZeHW3aH_S6QJLEbS5TsxHDh8GiK1rDw04i--dzYpb5FRHDbCMBJino1KXeIl6zdhIFHAT-9RE2RWsXgRxzxkY4Bn-1TJN7WJaX2cTVzF-y-CUWQmKzwsVyw0ugzM4MOgncHC9MBRpcG8M6j1ezLrWv3H2BKSe9ttHP_2Y713X67eXm9KLNP9_m8eEteBRfOT1AzAFR1nQCoaX8DPHdSNw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRCxBd7T3rhdPiFk31ufIDIdDeWRf7fTBBm9SOakdkqLNFkDFcoK6dd90dqOiM7-K6P4SqsGvqC15Nsh1jEB85fRStkOi_bKX-j-Po-ZyXFozQl6R1Vl1aB",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQBoSS8mocsVb0ZGyBii4bPIVYhPppjtXZ7bAIoIbf8eeMQg-SGozo3hgG3Mqdwf5QXijkyUxnSXFSBw7SRlAU2o6JUvHsOu8I",
+      "source": "Bass Pro Shops",
+      "title": "ECOXGEAR Defender Speaker",
+      "rating": 4.6,
+      "reviews": 123,
+      "price": "$299.99",
+      "extracted_price": 299.99,
+      "delivery": "Free delivery by Tue",
+      "immersive_product_page_token": "BxewenicbZJNjuM2FISBnCG3MAYgKesvO9sSZastuUWJpK1NQxblliy2xdaP7RZyh9zBPRNgspwJkLN0ThMPsp1tfUDVw6v641ZU_7j5pzFTy1MwnDnsosen7nBEM_erahsx5H0lvuuaMbU0aAAbABPqtq2ZX_Osz2TzXIm_ITI0EyJriqYQTI2piZD-rSwyIatTsTkcitZp8ruLZpmGYZiaaSFgQVuzDPBX9ZI9F__jqaEjhO4BBrR-xCFkv7ei-0CPiyfDuFMTGCbSdDiFOoDw90eycZ5-zr68DkX79oH6Rk3arC_ERDVtn-1lMdnLoeibpi8nnSqyumi7yaFpJ83Qi6Zpuy_P6sctP_F8f6nEN928A2RalgUMBKfI1t_Vub-Vz5-HQRYfzmWymK2i1WLVMoTHzJNDqpHzvrq60dusiT18Srf-KDxbu2shWdQd47oSHqtXOAS7LZH55fYsb0N3K-WtOP3ZZOp8yP_95Ve3uTiL7rKIqFLMISCGbB2BUHGXrAoPb1KPLRkthzxJFwWHJECEx9gdQxbKNS8P8QI2OQ4v-SicjIdaLFOYLMk5YownW18l3L0m2kwPsCKBl-opVasE-zo5-kZY--uMBZpYrqaMB1p0YofUzUda6xn1-mtSY0KPYc8k6VIcXQIAX9PEf9xgfx3icLF7UZAn8iF2xSZ6YY85KI-pg0EAeiyWoSQekcItg5jbKJPWNR7Dc-YwEAP3QmHpCC1M9rV9oCPm8Uvpc97PExf7bDunGbVlegrZXjZaVMEHUcFrAuekOO60vcOo0FiQLQkXrj7GmtIpJoTylKwTMsZ1jwNmX4ORQsLshkHZ75BwUiqW915awixtx2TEluqB1iwiPKUJp2gPrl5RSxWwkrJTpIsEl5T7I3P7KD7iI8ESEiqdCIYPaQV5Xothf3JjDNhxvVVl7pZDsmWIjXikbH7IUfoa1Bh7lT8ny_Btw9OY1ekmAOkuBGxeeGou7l9Ilj4ix_l678yvQsPk87VrDx9ghvU-3kyzhA56fXKcuSxVKOCaZa0_bnfXbfQbNG0ADcu6D9nU_wOFzk-e",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BxewenicbZJNjuM2FISBnCG3MAYgKesvO9sSZastuUWJpK1NQxblliy2xdaP7RZyh9zBPRNgspwJkLN0ThMPsp1tfUDVw6v641ZU_7j5pzFTy1MwnDnsosen7nBEM_erahsx5H0lvuuaMbU0aAAbABPqtq2ZX_Osz2TzXIm_ITI0EyJriqYQTI2piZD-rSwyIatTsTkcitZp8ruLZpmGYZiaaSFgQVuzDPBX9ZI9F__jqaEjhO4BBrR-xCFkv7ei-0CPiyfDuFMTGCbSdDiFOoDw90eycZ5-zr68DkX79oH6Rk3arC_ERDVtn-1lMdnLoeibpi8nnSqyumi7yaFpJ83Qi6Zpuy_P6sctP_F8f6nEN928A2RalgUMBKfI1t_Vub-Vz5-HQRYfzmWymK2i1WLVMoTHzJNDqpHzvrq60dusiT18Srf-KDxbu2shWdQd47oSHqtXOAS7LZH55fYsb0N3K-WtOP3ZZOp8yP_95Ve3uTiL7rKIqFLMISCGbB2BUHGXrAoPb1KPLRkthzxJFwWHJECEx9gdQxbKNS8P8QI2OQ4v-SicjIdaLFOYLMk5YownW18l3L0m2kwPsCKBl-opVasE-zo5-kZY--uMBZpYrqaMB1p0YofUzUda6xn1-mtSY0KPYc8k6VIcXQIAX9PEf9xgfx3icLF7UZAn8iF2xSZ6YY85KI-pg0EAeiyWoSQekcItg5jbKJPWNR7Dc-YwEAP3QmHpCC1M9rV9oCPm8Uvpc97PExf7bDunGbVlegrZXjZaVMEHUcFrAuekOO60vcOo0FiQLQkXrj7GmtIpJoTylKwTMsZ1jwNmX4ORQsLshkHZ75BwUiqW915awixtx2TEluqB1iwiPKUJp2gPrl5RSxWwkrJTpIsEl5T7I3P7KD7iI8ESEiqdCIYPaQV5Xothf3JjDNhxvVVl7pZDsmWIjXikbH7IUfoa1Bh7lT8ny_Btw9OY1ekmAOkuBGxeeGou7l9Ilj4ix_l678yvQsPk87VrDx9ghvU-3kyzhA56fXKcuSxVKOCaZa0_bnfXbfQbNG0ADcu6D9nU_wOFzk-e"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRzNn7DjxDwKjyILbQOVKTDj_kemHuuWRQ9GQauuiaK4XaCmyHC16i3cSfYVsy4LLiNj1SPD7JpCqkmMQOQ42VQYzIDi3XyDRgpaCppjIg",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTUxcbAOp1W7saYdqcZvnnEGAgF4vylB2H-jyfij0iYPj-dwqlZe18y3pA7TtEvPHbzYxf-lajTL0rmS6X_ImuDdbAYjIZ3jyRB",
+      "source": "Home Depot",
+      "title": "iLive Indoor/Outdoor Bluetooth Speakers",
+      "rating": 4.4,
+      "reviews": 828,
+      "price": "$49.98",
+      "extracted_price": 49.98,
+      "original_price": "$25/ct",
+      "extracted_original_price": 25,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "5zZXm3icdZPNjqNGFIWV57FGKv4MlV0bU9ieBhpwVeHaWJgCY1M2NBT-QfMOeYXIPRNpspyJlGfpPEmWIVGWyfZ-R_ecszg_PfLD7072YUibxdnrL1TpwpdtVxzVJ-dr09a8z-SBf9egqlimMZ1a0DKhaepQ_5qlMhX1_sB_U0aoWyZQFVW3ADB0XTO_lXnKxeGcB0WRt_M6-1tnQgOqhgVMTTM0y5qq-vTXwynd5_9yVbN0U7GM0QYYcKprhv7W8u5df7G3igXgqNctQx2ZrlkQwk8vUTDf_g_88trn7f1dlXUzaVOZ80lTtzLdiXyyE30u61qWk67J0ypvu0lRt5O6l7yu2-7Lvvknzn88fTsd-M9vzUU-yv3nvhf5-_w6sZ-W4dJetkRFQ-qKnmnRZXe4OeH9qY5ddGbJauAu1MabH9lVR6jRcJdUS-SDTRKJ7PrYi0ffPUrxyM-_1GlzKbI_fvjTuWS23WZ2iJuGzCMQk2bsy0B8kmuuEMmxUkQYqXjONh4WSwYaG4uoxwKqPAZG6nS6d8JafFJImMxCQoT0RTNsVKYHVMaY6gpxm5t3YsJzoltarQ4MIco1bHBBYo79NEeeFh6RpGvUEyCVMe-Su02dO_CUUwC8Sqk9Kl8JcG4BQuUzNU7eGjkZMGrPgedYwEuO5Qum0MNJ9BwN_i3Aqw1GpNyMPVjCuwz5vufcvB0VaQYikGNBEwWudyAcMrEKNjRquSi7aFE2qSaKyFbu8WJ2ThfONUuaKgP7gQF_iE7lFQPjwgCarlXZBoSpkepcCUIfd6A8Mo3Q_MiKtdO4zBWHTRUOa5e9pgQqY3YvuSurtPIvHBjz-FwuiFZJL-GJT-GSYPKcn2stJUjjinPLKaLh4DPi4BgBcnxOmjJzyn6dEJUMaMBkVmQqe_UqhNzDahYt_HtAWcQH5zr6Ex_NijCpwY5CvFuUQUSra6RYV-qutM-3ri3ewRMyZByYZ_nRTa1N8RI8by_67MPdtsvX3ZYRFv44LgooU8sygGKafwEoGEcG",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5zZXm3icdZPNjqNGFIWV57FGKv4MlV0bU9ieBhpwVeHaWJgCY1M2NBT-QfMOeYXIPRNpspyJlGfpPEmWIVGWyfZ-R_ecszg_PfLD7072YUibxdnrL1TpwpdtVxzVJ-dr09a8z-SBf9egqlimMZ1a0DKhaepQ_5qlMhX1_sB_U0aoWyZQFVW3ADB0XTO_lXnKxeGcB0WRt_M6-1tnQgOqhgVMTTM0y5qq-vTXwynd5_9yVbN0U7GM0QYYcKprhv7W8u5df7G3igXgqNctQx2ZrlkQwk8vUTDf_g_88trn7f1dlXUzaVOZ80lTtzLdiXyyE30u61qWk67J0ypvu0lRt5O6l7yu2-7Lvvknzn88fTsd-M9vzUU-yv3nvhf5-_w6sZ-W4dJetkRFQ-qKnmnRZXe4OeH9qY5ddGbJauAu1MabH9lVR6jRcJdUS-SDTRKJ7PrYi0ffPUrxyM-_1GlzKbI_fvjTuWS23WZ2iJuGzCMQk2bsy0B8kmuuEMmxUkQYqXjONh4WSwYaG4uoxwKqPAZG6nS6d8JafFJImMxCQoT0RTNsVKYHVMaY6gpxm5t3YsJzoltarQ4MIco1bHBBYo79NEeeFh6RpGvUEyCVMe-Su02dO_CUUwC8Sqk9Kl8JcG4BQuUzNU7eGjkZMGrPgedYwEuO5Qum0MNJ9BwN_i3Aqw1GpNyMPVjCuwz5vufcvB0VaQYikGNBEwWudyAcMrEKNjRquSi7aFE2qSaKyFbu8WJ2ThfONUuaKgP7gQF_iE7lFQPjwgCarlXZBoSpkepcCUIfd6A8Mo3Q_MiKtdO4zBWHTRUOa5e9pgQqY3YvuSurtPIvHBjz-FwuiFZJL-GJT-GSYPKcn2stJUjjinPLKaLh4DPi4BgBcnxOmjJzyn6dEJUMaMBkVmQqe_UqhNzDahYt_HtAWcQH5zr6Ex_NijCpwY5CvFuUQUSra6RYV-qutM-3ri3ewRMyZByYZ_nRTa1N8RI8by_67MPdtsvX3ZYRFv44LgooU8sygGKafwEoGEcG"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSHpM8GaUh07iLojGJs52lygBmJUUoS6-2RlrPjPa6nYGJ8XBhE8OPhIecS7PTeXulk7NrBZnhjBQmXEnPuV9lsVG2yiiJr8ycbxS-GJbw0x2lA971FpZBZtA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "JBL XTREME 5 Portable Waterproof Speaker",
+      "rating": 4.7,
+      "reviews": 427,
+      "price": "$399.95",
+      "extracted_price": 399.95,
+      "location": "Nearby, 3 mi",
+      "delivery": "1 hour delivery $20",
+      "immersive_product_page_token": "7KMOTHicdZBLjqNWGIWlrCG7sCLdB8_MXAaMKcDFBS6PiYW52GAuj-ZRdlnZQ_bg6o7UGXYiZS2V1YRWpsngn5yjc_R_59dHUf2l5z_ds95snfk1gqP3chhPF7TWv_ZDx-Z8qtgfqoiF5QAUsSIpSJag8DXPpox354r9CWVZUYCkQIixAFVZRaryrSwyxqu22J9OxaB1-dKiIEWVsSBIAhJkjFUMwO9Vk52Lf224GAAteSQiBcgKgPh9YOOH8LI5QIABxliRl5yIJVUWIfzlhey1w_-YXz7NxfD2gaauXw3ZVLBV3w1TduTF6sjnYuq6qVyNfZHVxTCuTt2w6uaJdd0wfjn3-Xeo_yh9byr2TZQlQVpIkIQxEkUZgvf-dXqU58_zzIsP7brarHfebrMbKDLu2ZbPKSavx-qme2_rzt8abRpbd7ZV8aK5ZFOPNBJ7tqX1znBBEhOeXx9n_pjHR8kfRftbl_Wvp_zvH37Uu6u2Ga8bL-x7qhEQaNxk7RmSi-v5CAC_IS9OOIK9xtCRlqPD3YwavRjE5bOvTzhD58mjaRRFU8i4-12LUmChBHpXR7_ditogHiwFxzBaJ3AzEqQVoXSbmmuU8zQq4jT0w1LKaj4dddFOLoYdhJNDqDXnoeglUB2KkMWBWZo25SKp3WYfWpMdPCGfl1cH0S6NYEajUkqx5cRoKhNkDc52ylzEoB8aTnYns9daRqHxwYlut_32eqMXR4hMOvitFTAk4JSnQYDZpdDFbR6XjRsp0zFONRdaPGjSOqrdIQjISDg3SGRVoUlOR9MYspY9kdDBhQ6rGHeIIPaa67mw7GEeW2KTBpYBpbZH9Yk2MGWQ1yTiU6qTlGLmRZphFyFPll8qLyJVCtRs0VwGyjAJ3BNtqXXUdsjBfZ010E5iZh9h-exi9-rBNHKiq28AerHjvsz1cg5iiujduIf06ZSj9JNTG8a2sp6I6b7to4WxSbHP1SbU3WcWJJCiCYfmTnRAcs1rK06Q-PT5Ng6nD7A2xMnfS9u9XR929oGvsxM6-24JeVTuDwWJvJ-hrAIoKYoIoCz8A0qfUT8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7KMOTHicdZBLjqNWGIWlrCG7sCLdB8_MXAaMKcDFBS6PiYW52GAuj-ZRdlnZQ_bg6o7UGXYiZS2V1YRWpsngn5yjc_R_59dHUf2l5z_ds95snfk1gqP3chhPF7TWv_ZDx-Z8qtgfqoiF5QAUsSIpSJag8DXPpox354r9CWVZUYCkQIixAFVZRaryrSwyxqu22J9OxaB1-dKiIEWVsSBIAhJkjFUMwO9Vk52Lf224GAAteSQiBcgKgPh9YOOH8LI5QIABxliRl5yIJVUWIfzlhey1w_-YXz7NxfD2gaauXw3ZVLBV3w1TduTF6sjnYuq6qVyNfZHVxTCuTt2w6uaJdd0wfjn3-Xeo_yh9byr2TZQlQVpIkIQxEkUZgvf-dXqU58_zzIsP7brarHfebrMbKDLu2ZbPKSavx-qme2_rzt8abRpbd7ZV8aK5ZFOPNBJ7tqX1znBBEhOeXx9n_pjHR8kfRftbl_Wvp_zvH37Uu6u2Ga8bL-x7qhEQaNxk7RmSi-v5CAC_IS9OOIK9xtCRlqPD3YwavRjE5bOvTzhD58mjaRRFU8i4-12LUmChBHpXR7_ditogHiwFxzBaJ3AzEqQVoXSbmmuU8zQq4jT0w1LKaj4dddFOLoYdhJNDqDXnoeglUB2KkMWBWZo25SKp3WYfWpMdPCGfl1cH0S6NYEajUkqx5cRoKhNkDc52ylzEoB8aTnYns9daRqHxwYlut_32eqMXR4hMOvitFTAk4JSnQYDZpdDFbR6XjRsp0zFONRdaPGjSOqrdIQjISDg3SGRVoUlOR9MYspY9kdDBhQ6rGHeIIPaa67mw7GEeW2KTBpYBpbZH9Yk2MGWQ1yTiU6qTlGLmRZphFyFPll8qLyJVCtRs0VwGyjAJ3BNtqXXUdsjBfZ010E5iZh9h-exi9-rBNHKiq28AerHjvsz1cg5iiujduIf06ZSj9JNTG8a2sp6I6b7to4WxSbHP1SbU3WcWJJCiCYfmTnRAcs1rK06Q-PT5Ng6nD7A2xMnfS9u9XR929oGvsxM6-24JeVTuDwWJvJ-hrAIoKYoIoCz8A0qfUT8"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSyF1JIODDnlK8U1bE0tvR4qs34SY8jTvNvvwWDzBgIMvKYHxbPLjh04cvS-PohEwBe7v8LN6OLIdDVw_TCumRjkBoABKPzvGpwFVVpD1w7",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "Bose SoundLink Max Bluetooth Portable Speaker",
+      "rating": 4.8,
+      "reviews": 3400,
+      "price": "$377.00",
+      "extracted_price": 377.0,
+      "original_price": "$399",
+      "extracted_original_price": 399,
+      "location": "Also nearby",
+      "delivery": "Free delivery",
+      "extensions": [
+        "5% OFF"
+      ],
+      "immersive_product_page_token": "qLhBinicdVPbjqNGFJTyDfkLK1JfaLDzZgyNzaxhaOgG8zICGl-G6wA2tpV_yD94diNtHleR8i2TrwlZ5TF5PKeOSnVKVb8-8tOfZvbTPWnX9fZ8CWHvPb_0-1e0NL-2XSPP2XCSf0ACoIY1hNBc0ZCCEVmgr1kyJGVz-AfGhKgKmkM8B1iDGgSa8u2YJ7I81bm73-ed0WTf7-BCJUADCGBMpkkh5PdTlRzyf3FNUSHAQCNQA2ROFkAB753sP5Tn1QtUNYXMsapNBAuAlIkI_fLMXOPlf8Avb-e8u32goWlnXTLkctY23ZCkZT5Ly3M-NM1wnPVtnhR518_2TTdrzoNsmq7_cmi_y_kP0vfqJL8RTVVUNCdIW2AwnxMM3tvL8DgePp_PZf5hjLPVcuNtVptOIHpPrPIcY3ZJT1fTuy0b36J1HNl3aS3wtHPYquhFSFppiWJDHbCLWJmNj0P5OPePY_nI69-apL3ss79--NFsRmPVjyuPt60wGPCRd_cFvSXgqual3jAAUWrYJUOS-dBufMO8ZRbRfasV7lpWO8SS1Fp0qRChw-3LJ37tvYIjWZXRDrNjAGAVR-3G4UfgWxvM187TrrhWbiSfJBBhXA1KVjPLtewq47DI-Q5u0UAZskdnzXTfkK9bnt0czvbeCVzDuh3TgAapdbg5IXly7pMyJGHGy118F6O_Xg5exYfQkKWwnNETNgvE5prQ6T9e6oIujtG9GLeh0LNw6BKqX1OLqYmIu7w2b44huB-2rxnW1bCMIxk4TVixpx1oy8CUlhtCHsHFJi8olmtWbQ37KTe30MditeWKwmp95aDBFaWMXGuo08i5cCx3AjAzCGghrTZxhFNkUzEynI1uIEoP628S2CQGNMqqdufjmE_-OhKJkFeCpq-i2NbC48IxfZMYDm4bbhSDFPLohRufAvH6KWqPmXk8B5FA4k7vXOj7DMVv24JS62TrbO3c3DDmTkmTjMYuR8M6580oCuIFlIYBuBoRIgUvhvrzte_2H2BJyeC7iv1W2INykfuIyPMJMvKy8jOSsEQ5_AynGEN1CuzUZvVvFe1TAw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=qLhBinicdVPbjqNGFJTyDfkLK1JfaLDzZgyNzaxhaOgG8zICGl-G6wA2tpV_yD94diNtHleR8i2TrwlZ5TF5PKeOSnVKVb8-8tOfZvbTPWnX9fZ8CWHvPb_0-1e0NL-2XSPP2XCSf0ACoIY1hNBc0ZCCEVmgr1kyJGVz-AfGhKgKmkM8B1iDGgSa8u2YJ7I81bm73-ed0WTf7-BCJUADCGBMpkkh5PdTlRzyf3FNUSHAQCNQA2ROFkAB753sP5Tn1QtUNYXMsapNBAuAlIkI_fLMXOPlf8Avb-e8u32goWlnXTLkctY23ZCkZT5Ly3M-NM1wnPVtnhR518_2TTdrzoNsmq7_cmi_y_kP0vfqJL8RTVVUNCdIW2AwnxMM3tvL8DgePp_PZf5hjLPVcuNtVptOIHpPrPIcY3ZJT1fTuy0b36J1HNl3aS3wtHPYquhFSFppiWJDHbCLWJmNj0P5OPePY_nI69-apL3ss79--NFsRmPVjyuPt60wGPCRd_cFvSXgqual3jAAUWrYJUOS-dBufMO8ZRbRfasV7lpWO8SS1Fp0qRChw-3LJ37tvYIjWZXRDrNjAGAVR-3G4UfgWxvM187TrrhWbiSfJBBhXA1KVjPLtewq47DI-Q5u0UAZskdnzXTfkK9bnt0czvbeCVzDuh3TgAapdbg5IXly7pMyJGHGy118F6O_Xg5exYfQkKWwnNETNgvE5prQ6T9e6oIujtG9GLeh0LNw6BKqX1OLqYmIu7w2b44huB-2rxnW1bCMIxk4TVixpx1oy8CUlhtCHsHFJi8olmtWbQ37KTe30MditeWKwmp95aDBFaWMXGuo08i5cCx3AjAzCGghrTZxhFNkUzEynI1uIEoP628S2CQGNMqqdufjmE_-OhKJkFeCpq-i2NbC48IxfZMYDm4bbhSDFPLohRufAvH6KWqPmXk8B5FA4k7vXOj7DMVv24JS62TrbO3c3DDmTkmTjMYuR8M6580oCuIFlIYBuBoRIgUvhvrzte_2H2BJyeC7iv1W2INykfuIyPMJMvKy8jOSsEQ5_AynGEN1CuzUZvVvFe1TAw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSt5MJZXGFnRHI-3JGDi4ojYi8OSOda4v3rDFrpcwFkoebOmtLXtsdHWa_5aYh0Lt2EwyEhlS5b4Aoke3Fzi6XLzQwKDaCTg95s79njmzk",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSZcTCso2bbWMt-GpTT-2qAZXqaaaHPjw8ZQpDuRQwZfs-uIK3b_iKaqvnQI46wGzXuKWkd_q15_1lREIUCeA8XL9CILE4",
+      "source": "Bose",
+      "title": "Bose SoundLink Plus Portable Bluetooth Speaker",
+      "rating": 4.8,
+      "reviews": 852,
+      "price": "$269.00",
+      "extracted_price": 269.0,
+      "location": "Also nearby",
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "5wdoL3icbVJLruJGAFTOgyJ1u23szg5jt3mAG_CnbXrzZGyDwW278YcHaO6QK0S8mUiT5SRSzvJykizDZD2L2lSVqmpRvz7y4992-vM9kbPaHS4R7Dbr125_Uib2V9k22ZD2x-wvqOKxbuhYN6BhIGxgjLSvadInojkcsz81BehjzQAY6soYQqRA_VuRJ5k41vlqv89bq0mfNgMiDJChIsOAAGhjrKI_jlVyyP-Xf3tvs-5DWU9fVUVTVN3Az8InVENT0Ke1t7Jef6x9OQ95e_tQ-kaO2qTPs5Fs2j7ZiXy0E0PeN01fjDqZJ2XedqN9046aoc-apu2-HOT3XT_IfK-O2TdNH6tjoGNgIKhjFWLtXV76R3H4PAwi_7DeRtPJy-Zl-tIyhdwTRwwceZfd8WpvbpPGd0jN4_k9czB6ctSblh2LNJk5rHwhFGxjT6Rvj4N4DN2jEI-8_r1J5GWf_vPTv_YlnU7bdLoJpWSWB3yIb1vElNwRi6g-KJswC1OLOyG4-juL7pNyfsqqa5gKFqYzswgAXrhxAZYhOQdh13sRnnkOpnQ2QV7Zn6OaHT0iI7cSLHH4OreFGQi83qL5jQKvihhP3HrbUzHvN6fi5tvUD2tzSUvKQkLNpMLHFPQJCxvEZ4W7A12_ijTuVqz1q7eegVLlZQq9SnpcMJdHNHBDbLGaL3YhVNjpew7TmE3G27tnpqVccsdWkpMoIx9CVnGTgqsTBGLKLdMN64ymwr77iGl5pd18ILaprd7yEyl5WV45SQETGfGd8hbVc7lkpgzq4raMnout7EwrHLF6g9KayZ0yX4QzQhNQosCe-7TUaHD3ahd5ET-JKEZyvY3JsLJpvQqImxE5c8urkiEPurYs-N2FQcy9reL6BLDTMpZFahdDEDOF3ck9ZOY-VfjZLQlxjnPTm9HbKuIei0m8E_PF7vmJVfh2XYUaCq2szFBBolpMmS29z9eu3X-ACdF6f6UmQThoZW1ZpigkzeCSJe38Hm-v8eaX5yEBHBuGBqCu_QfS1Ecb",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5wdoL3icbVJLruJGAFTOgyJ1u23szg5jt3mAG_CnbXrzZGyDwW278YcHaO6QK0S8mUiT5SRSzvJykizDZD2L2lSVqmpRvz7y4992-vM9kbPaHS4R7Dbr125_Uib2V9k22ZD2x-wvqOKxbuhYN6BhIGxgjLSvadInojkcsz81BehjzQAY6soYQqRA_VuRJ5k41vlqv89bq0mfNgMiDJChIsOAAGhjrKI_jlVyyP-Xf3tvs-5DWU9fVUVTVN3Az8InVENT0Ke1t7Jef6x9OQ95e_tQ-kaO2qTPs5Fs2j7ZiXy0E0PeN01fjDqZJ2XedqN9046aoc-apu2-HOT3XT_IfK-O2TdNH6tjoGNgIKhjFWLtXV76R3H4PAwi_7DeRtPJy-Zl-tIyhdwTRwwceZfd8WpvbpPGd0jN4_k9czB6ctSblh2LNJk5rHwhFGxjT6Rvj4N4DN2jEI-8_r1J5GWf_vPTv_YlnU7bdLoJpWSWB3yIb1vElNwRi6g-KJswC1OLOyG4-juL7pNyfsqqa5gKFqYzswgAXrhxAZYhOQdh13sRnnkOpnQ2QV7Zn6OaHT0iI7cSLHH4OreFGQi83qL5jQKvihhP3HrbUzHvN6fi5tvUD2tzSUvKQkLNpMLHFPQJCxvEZ4W7A12_ijTuVqz1q7eegVLlZQq9SnpcMJdHNHBDbLGaL3YhVNjpew7TmE3G27tnpqVccsdWkpMoIx9CVnGTgqsTBGLKLdMN64ymwr77iGl5pd18ILaprd7yEyl5WV45SQETGfGd8hbVc7lkpgzq4raMnout7EwrHLF6g9KayZ0yX4QzQhNQosCe-7TUaHD3ahd5ET-JKEZyvY3JsLJpvQqImxE5c8urkiEPurYs-N2FQcy9reL6BLDTMpZFahdDEDOF3ck9ZOY-VfjZLQlxjnPTm9HbKuIei0m8E_PF7vmJVfh2XYUaCq2szFBBolpMmS29z9eu3X-ACdF6f6UmQThoZW1ZpigkzeCSJe38Hm-v8eaX5yEBHBuGBqCu_QfS1Ecb"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTOXA9LS5XGOWXNdDEjZLPy6gxq-Xklm9H7jB0z3oFpKgGXZ1A2oWB7CS6TdX7CXH6NEM68-jh8rUQiQhG_3ZA33RLt1hvTsczKFX10Ncn4",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Soundcore Boom 2 Pro by Anker Outdoor Bluetooth Speaker Detachable Shoulder Strap",
+      "rating": 4.8,
+      "reviews": 76,
+      "price": "$197.00",
+      "extracted_price": 197.0,
+      "original_price": "Usually $248",
+      "extracted_original_price": 248,
+      "location": "Nearby, 12 mi",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "YPl163icdZPLjqNGFIaV57EiVXEnO2MobGJwcynAbFpFFTY2ZajG4Auad8grRO6ZSJNlJlKepfMkWcZKllG259P_6eg_Oj89qsMfDv1-ImLZ-uMlg-fw5fW8O0pz56voOzbS4cC-KYZsKNCQdM0AhmIAXdO-UjIQ3u2fVJc0ICkKVCVN1WQTaKryW10Rxg9ttdntqt7u6IH9DoFuGs-sbhimAgzdBLrx6-FE9tU__Jthmor-lBgAqIZpaECH7z07fygvi1cIIFDMZ0JSdSjJJpQN89NLtLFf_wd-eRur_v4hDZ2Y9WSo2Ex0_UBKXs1KPlZD1w317Cwq0lT9ebbr-lk3Dqzr-vOXvfh32_9K308H9vO7uAyPev95HHn1YV9ni_kqXC1WfSqhibh8LOToUh5uTnifd7GL2iL3Juaa8nMWRIvmnGaqYG7arFAAtnnE6fWx54_x_Kj5o2p_6Yi47Oif3_3lXOhi0dNFiIVI7QjEOA3jI8rDqbBKHORh4yWhdL2Xad2FTR0nJzGscSpSR52KTO1KF54SgDZJsh187tzTNBh84I1lDEUpAWWd-iA9IlLiW5_Y9d0Htbqx59e44WMuIRcjMWUN3MVgdUvyYqqaYutP-3uwZJcy50XUejcs4TudkEecdGTubZVlfKpsZuNjxEvI8bYVY-V4beZAtTrxA3XFtAWDxTLTT063gGAfVKfthBPrx03G2y0wiwJxnMNgosi8Z3lESMvadR5ciaSusvzZblbHjKdWZNfLkNdwe-KYYT7RYzPhk3PFSVCXErSonb7EeKUQWOdJzo6pC9tCaqboeQ0fBVuWmjJ5apKWbdgy0gIpwpETaNjxAUa8r7jXJ8viQhPrWiwjkQAWE9nCtIEtbVAWyUVQLGmMni2uc1FTpx6TPJXSCU04tXZUKt78BiH34FnRMrhvsiKKcyEH2QpShFRi12GQM0GW21vcWusNqptgsuTPt3O_-wBzpA7xRvHeGm9QLmyXq2w8wEh9XcRUJRFR9j_A5wtBzTBUAHXtb_zYSTQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=YPl163icdZPLjqNGFIaV57EiVXEnO2MobGJwcynAbFpFFTY2ZajG4Auad8grRO6ZSJNlJlKepfMkWcZKllG259P_6eg_Oj89qsMfDv1-ImLZ-uMlg-fw5fW8O0pz56voOzbS4cC-KYZsKNCQdM0AhmIAXdO-UjIQ3u2fVJc0ICkKVCVN1WQTaKryW10Rxg9ttdntqt7u6IH9DoFuGs-sbhimAgzdBLrx6-FE9tU__Jthmor-lBgAqIZpaECH7z07fygvi1cIIFDMZ0JSdSjJJpQN89NLtLFf_wd-eRur_v4hDZ2Y9WSo2Ex0_UBKXs1KPlZD1w317Cwq0lT9ebbr-lk3Dqzr-vOXvfh32_9K308H9vO7uAyPev95HHn1YV9ni_kqXC1WfSqhibh8LOToUh5uTnifd7GL2iL3Juaa8nMWRIvmnGaqYG7arFAAtnnE6fWx54_x_Kj5o2p_6Yi47Oif3_3lXOhi0dNFiIVI7QjEOA3jI8rDqbBKHORh4yWhdL2Xad2FTR0nJzGscSpSR52KTO1KF54SgDZJsh187tzTNBh84I1lDEUpAWWd-iA9IlLiW5_Y9d0Htbqx59e44WMuIRcjMWUN3MVgdUvyYqqaYutP-3uwZJcy50XUejcs4TudkEecdGTubZVlfKpsZuNjxEvI8bYVY-V4beZAtTrxA3XFtAWDxTLTT063gGAfVKfthBPrx03G2y0wiwJxnMNgosi8Z3lESMvadR5ciaSusvzZblbHjKdWZNfLkNdwe-KYYT7RYzPhk3PFSVCXErSonb7EeKUQWOdJzo6pC9tCaqboeQ0fBVuWmjJ5apKWbdgy0gIpwpETaNjxAUa8r7jXJ8viQhPrWiwjkQAWE9nCtIEtbVAWyUVQLGmMni2uc1FTpx6TPJXSCU04tXZUKt78BiH34FnRMrhvsiKKcyEH2QpShFRi12GQM0GW21vcWusNqptgsuTPt3O_-wBzpA7xRvHeGm9QLmyXq2w8wEh9XcRUJRFR9j_A5wtBzTBUAHXtb_zYSTQ"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRq2NRsCGE5iJ9-YBLmwjTNpiv95d37wWPoWKDwJhQdfEz8Xod5Zw7_SfgbR7rapRuJFRTTGf68cwOtp_kIga0zGP40Rr1PF4qdWi7Fp2Ez",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Sony ULT FIELD 5 Portable Speaker Wireless",
+      "rating": 4.8,
+      "reviews": 726,
+      "price": "$228.00",
+      "extracted_price": 228.0,
+      "original_price": "$350",
+      "extracted_original_price": 350,
+      "location": "Also nearby",
+      "delivery": "Free delivery by Fri",
+      "extensions": [
+        "34% OFF"
+      ],
+      "immersive_product_page_token": "pKJeKnicbZJbrqNGEIalrCG7sCJ1N9CGvB0bGhsd8KGB5vJyhLvBYGPAXHxB2UP24JmJNHmcRMpaTlYTRnmdp1LV_1fVV1L9_szKfwz-y5S2m9oeryHs3bf3Pj-iF-Nr2zVi5EMp_oZYk7EEkQrxEmuarGqq8pWnQ1o1h1L8hSGWNEleYqxBFS8RRstvRZaKqqyzXZ5nnd7w2TZrKgCzSVPmDnWO6p_lOT1k_8vSXFGBrEgIq0uIAUbgUyf6D_S2fscAqYoEZazA76IEofTbG93p7z_WvlzGrHt8oKFpF106ZGLRNt2Q7qtssa_GbGiaoVj0bZaesq5f5E23aMZBNE3Xfzm031l-MPPTuRTflCWWMVI1hCUgYw2g5af2OjyLw-dxrLIP_bZYv2zd7XrbMUSm1KzGRKLXfXk33MdL45mkTiJrEqYmzTWHrk89C5VWmOy0JQ6II1rx2_NQPcf-WVTPrP6jSdtrzv_96Wejuenr_rZ2g7ZlOgVeaFk0JDkPLDkNTiCrk1UYCcxPWrTTqc7rlkSAVelRXHntAE-3Aj8gb8wsclsSfew7D79iJZ0EoCaZeenON5VjaA79zB1TUI1eZF1SuFLCqErCmugREJ0ANhATlz3f6oMzWwVEDK8RVfjJQLzSLnxzGlxmGQkhcEfEmDJtEqF1CaREYWcX7Uj1CAz75pOkjoDmeMzBjim8BGmv8cSOKRCXmdX2Tu2rC7eARtU9Zo3smaxIAvZg58p3quSVB9SziTW5Z3vab5hjn9mNGbAOCUURgnkyFW1g0ksK7sA-ztdB5xJMdEhAovtw3uuzmof3lR0AKQbOtIdV7dds54L4EWySDTVuyD3yyfNXDzsQpRcoOTdal0uidCVHiU_VEEM2uoycHd0dEra6i6go0-hF2UNDcoglheFA9-HhFkMXJeebRwA7vkZtwY1i9COG2ESmgK1yjpKLfSLELK0V3TiPXZj48ZSwfcgU4a8UP0i2wZlLrCrmvCABut8yxqTP977LP8ALUQZvJ1uXkzXIV5FHihhLSJX3tceVlKby4Ve41MD8yaoC4BL_B8VjUdo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=pKJeKnicbZJbrqNGEIalrCG7sCJ1N9CGvB0bGhsd8KGB5vJyhLvBYGPAXHxB2UP24JmJNHmcRMpaTlYTRnmdp1LV_1fVV1L9_szKfwz-y5S2m9oeryHs3bf3Pj-iF-Nr2zVi5EMp_oZYk7EEkQrxEmuarGqq8pWnQ1o1h1L8hSGWNEleYqxBFS8RRstvRZaKqqyzXZ5nnd7w2TZrKgCzSVPmDnWO6p_lOT1k_8vSXFGBrEgIq0uIAUbgUyf6D_S2fscAqYoEZazA76IEofTbG93p7z_WvlzGrHt8oKFpF106ZGLRNt2Q7qtssa_GbGiaoVj0bZaesq5f5E23aMZBNE3Xfzm031l-MPPTuRTflCWWMVI1hCUgYw2g5af2OjyLw-dxrLIP_bZYv2zd7XrbMUSm1KzGRKLXfXk33MdL45mkTiJrEqYmzTWHrk89C5VWmOy0JQ6II1rx2_NQPcf-WVTPrP6jSdtrzv_96Wejuenr_rZ2g7ZlOgVeaFk0JDkPLDkNTiCrk1UYCcxPWrTTqc7rlkSAVelRXHntAE-3Aj8gb8wsclsSfew7D79iJZ0EoCaZeenON5VjaA79zB1TUI1eZF1SuFLCqErCmugREJ0ANhATlz3f6oMzWwVEDK8RVfjJQLzSLnxzGlxmGQkhcEfEmDJtEqF1CaREYWcX7Uj1CAz75pOkjoDmeMzBjim8BGmv8cSOKRCXmdX2Tu2rC7eARtU9Zo3smaxIAvZg58p3quSVB9SziTW5Z3vab5hjn9mNGbAOCUURgnkyFW1g0ksK7sA-ztdB5xJMdEhAovtw3uuzmof3lR0AKQbOtIdV7dds54L4EWySDTVuyD3yyfNXDzsQpRcoOTdal0uidCVHiU_VEEM2uoycHd0dEra6i6go0-hF2UNDcoglheFA9-HhFkMXJeebRwA7vkZtwY1i9COG2ESmgK1yjpKLfSLELK0V3TiPXZj48ZSwfcgU4a8UP0i2wZlLrCrmvCABut8yxqTP977LP8ALUQZvJ1uXkzXIV5FHihhLSJX3tceVlKby4Ve41MD8yaoC4BL_B8VjUdo"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSyONramwrEgdAOW09YENbvLJg0a5ZahQgNMkdcywm6b2tWx3LEtO-TLI8Svzer5kwTNcrN6-7HNjatqC3AI0Y5t_5L4zLPQGvLusubqn5FgG1aRGD8oYscMA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcR3xmR1w-5O4CsetSdcZ8XFvLjnzpy_HFnF9Y5hUT_-5b0ghYL77HmIov6tFFyb6uJSqmD-3stiC5rUmL_ht4qkDpiEsY8j",
+      "source": "Lowe's",
+      "title": "Kobalt 7-in 10-Watt Outdoor Portable Bluetooth Speaker",
+      "rating": 4.1,
+      "reviews": 89,
+      "price": "$79.00",
+      "extracted_price": 79.0,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "y6ms0nicbZLPjrM2FMXV54kqGRND6G4COAkzOAkGQ7wZASYhwQSHQP6gvkNfocp8X6Wvy3bRZ5k-SZeN2mW7uJv7O7q65-j89Cj2f7j590Oq5ke_v8Taeb16P28P8MX9ptpG9Hm3F78jDQFoAjTWnwM1YGjmtzztUtnsnhRaBkQIji3DMCyAkIHgb2WRCrk_FsvttmidJn_KdN0ygfGUIW1iAQPoBvh1X6e74l8MxxPTROZYs9B4oiNjgsyPVpw_4cp-1wFE-sSYAGgAZJq6pYEfV8HSef9_9vXUF-39E3aNGrVpV4iRatouzWQxymRfdE3TlaOzKtKqaM-jbdOOmr4TTdOev-7UP6_-9-ZHvRc_f6hL9yh3X_peFp_OdWS_LNYLe9EyiId0JnuuB5dsf3PX95eGzvCRJ94gZpb-3JHArs4sRkrMWLXABGySQObXx04--vOjlI_i-EuTqss2__O7v9xLbtttbq8jpZgTAKoTlUv1KnQcZXPVxpjoVKpFiBf3kOF0k8j5uvbsAOzGGdBOBZazjSYVdbx7dhAdrwQg2GKh9qILncRZWIKITWE6E0M8w0Nc35zMDWaiwtfgaT2TsiFz78IxW2aVpEtWOjQUr74sV_5xehGOd1yGJY103uU1okJ37-vKQvSA38KEh28hcZcxtiMc7APM6mJOKI2YpO7NK46yzGr3Gjk4YbpcJpoY8wMbOHj6cgKUzb2WQ3TPHUFYTWgUM5_TZy8TdSFAGMJhJ5KUG1Hv4DPPfhN7ne_egD_H6-C4GFKgENWEm0Y3QnSRpJAMtOZrH5IpPYgyw3wbzZurqFgdHqYrWqtmoykjhd2rn5BVOmc3GvLpJgoQAQQWtZoFoEx8Dd_CgaEQ82PucPQWnykG7PCWqDJ3yz5MGGQDHp65bnPIT36F8WzvTYM5uS9jHvmYcaqXLdGYHVb8NWLkykN-TY-VTiGGiaaCL7dzu_0ELxh1dDn2TpXXjS9imyDR77UAvds0R2mQjnc_aKYFNGMyQUAzjb8BnTlE-w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=y6ms0nicbZLPjrM2FMXV54kqGRND6G4COAkzOAkGQ7wZASYhwQSHQP6gvkNfocp8X6Wvy3bRZ5k-SZeN2mW7uJv7O7q65-j89Cj2f7j590Oq5ke_v8Taeb16P28P8MX9ptpG9Hm3F78jDQFoAjTWnwM1YGjmtzztUtnsnhRaBkQIji3DMCyAkIHgb2WRCrk_FsvttmidJn_KdN0ygfGUIW1iAQPoBvh1X6e74l8MxxPTROZYs9B4oiNjgsyPVpw_4cp-1wFE-sSYAGgAZJq6pYEfV8HSef9_9vXUF-39E3aNGrVpV4iRatouzWQxymRfdE3TlaOzKtKqaM-jbdOOmr4TTdOev-7UP6_-9-ZHvRc_f6hL9yh3X_peFp_OdWS_LNYLe9EyiId0JnuuB5dsf3PX95eGzvCRJ94gZpb-3JHArs4sRkrMWLXABGySQObXx04--vOjlI_i-EuTqss2__O7v9xLbtttbq8jpZgTAKoTlUv1KnQcZXPVxpjoVKpFiBf3kOF0k8j5uvbsAOzGGdBOBZazjSYVdbx7dhAdrwQg2GKh9qILncRZWIKITWE6E0M8w0Nc35zMDWaiwtfgaT2TsiFz78IxW2aVpEtWOjQUr74sV_5xehGOd1yGJY103uU1okJ37-vKQvSA38KEh28hcZcxtiMc7APM6mJOKI2YpO7NK46yzGr3Gjk4YbpcJpoY8wMbOHj6cgKUzb2WQ3TPHUFYTWgUM5_TZy8TdSFAGMJhJ5KUG1Hv4DPPfhN7ne_egD_H6-C4GFKgENWEm0Y3QnSRpJAMtOZrH5IpPYgyw3wbzZurqFgdHqYrWqtmoykjhd2rn5BVOmc3GvLpJgoQAQQWtZoFoEx8Dd_CgaEQ82PucPQWnykG7PCWqDJ3yz5MGGQDHp65bnPIT36F8WzvTYM5uS9jHvmYcaqXLdGYHVb8NWLkykN-TY-VTiGGiaaCL7dzu_0ELxh1dDn2TpXXjS9imyDR77UAvds0R2mQjnc_aKYFNGMyQUAzjb8BnTlE-w"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTin0saiM1O4t9L7O6qVvRAlZHThJIaJVYvqW5qHZB602WFPVRocM0EKZcCHIHBSqxuP-GSbqpgaxXkuYX6W1S4Nk6LmT3tg99LxC-nB71DqHD19Jcg4VkI",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Anker Soundcore Boom Go 3i Portable Bluetooth Speaker",
+      "rating": 5.0,
+      "reviews": 13,
+      "price": "$59.99",
+      "extracted_price": 59.99,
+      "original_price": "$80",
+      "extracted_original_price": 80,
+      "location": "Nearby, 20 mi",
+      "extensions": [
+        "25% OFF"
+      ],
+      "immersive_product_page_token": "C-dHLHicbVNLjqNIFJTmDHMLqyUy04CZnTEkttvgIoEE56bEz8YmgSw-dhn1HeYOru6RupfdizlLzWmGnlnOvNXTi1AoFE_x-yM__2mmH8ZYrGt7uIagc5-eu-MFLs2vom2yIe3P2Q9FRUhCMlBkVVNUiGQIvqZxH_PmNKGy9vOqgDmU0EJTEILS9yKPM36u8_3xmLdGk040pMqKJkFZmiOgKQt5Wr-dq_iU_wsrkqrJP1W0aSSgqmj-1mbdO3xaPaOJPwcAqDJcKKosS0j79ET2xvP_Y19ehry9v8O-EbM27vNsJpq2jxOezxI-5H3T9MWsE3lc5m03OzbtrBn6rGna7stJ_GP1v5pv1Tn7PvmbK3ChLWRVmitocvwmrv2jOH0eBp6_G7fZarlxN6tNSyEeY4sPDJFrcn413fuy8Sxcs2g7ZpaGpptDVmVHQ1lkFi032JEOEeHp7XHij6F7FPyR1380sbge079--dVsbsaqu63cQAhqEMm7ZDDw-XmPhZGYzPVDmdJIh2QtXvYBrxJ8gkHNvNTAAyu5kfgFSzmJE5Ne3bIZQ665jsEPvkXXBHHbNsjFqfo6m77jl4xmYb-zfSyCSNRegBHxwNyW2JqtMyPBdMMiMTrhVs7XLAhNWnnwdE_rbZhAcA19h6RWINmogU6lbYJID-MSl4HU3MKqvDmIiqAiEl07N7vERzI6TymlOAzJYEsYJYjWGXb8mC7GQ4TF5C04jIHsVQSGNb97QXGmmIc-EpJb9phFen246KZLeUk5vcRmsQ2r283nhRNBbMYR1hPK9F1EjbQmSgK2Tgw7SCoWscCes_qEDvUSTJq7zDTnPiziGGzvU65b2xKFDe1XArhOa747AGbvIsaTIAMeJa9-gKNkxPHeA1uvckzfks_5hR8C5FwYYIyWW-D7-OhB18MSvewiUaRmMfgRhXTEY0D1YwrZy5QDts5bnayd-z5kfgSzyrksb4GkfXQrh_vVqx5Bc_SsAyQYG3urQJ9fu_b4Li2x3Ht7te4_WvHicHza756vc_3DfbUqXpJnRpn7G1CnRimLqXNTr_4G0rdRRQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=C-dHLHicbVNLjqNIFJTmDHMLqyUy04CZnTEkttvgIoEE56bEz8YmgSw-dhn1HeYOru6RupfdizlLzWmGnlnOvNXTi1AoFE_x-yM__2mmH8ZYrGt7uIagc5-eu-MFLs2vom2yIe3P2Q9FRUhCMlBkVVNUiGQIvqZxH_PmNKGy9vOqgDmU0EJTEILS9yKPM36u8_3xmLdGk040pMqKJkFZmiOgKQt5Wr-dq_iU_wsrkqrJP1W0aSSgqmj-1mbdO3xaPaOJPwcAqDJcKKosS0j79ET2xvP_Y19ehry9v8O-EbM27vNsJpq2jxOezxI-5H3T9MWsE3lc5m03OzbtrBn6rGna7stJ_GP1v5pv1Tn7PvmbK3ChLWRVmitocvwmrv2jOH0eBp6_G7fZarlxN6tNSyEeY4sPDJFrcn413fuy8Sxcs2g7ZpaGpptDVmVHQ1lkFi032JEOEeHp7XHij6F7FPyR1380sbge079--dVsbsaqu63cQAhqEMm7ZDDw-XmPhZGYzPVDmdJIh2QtXvYBrxJ8gkHNvNTAAyu5kfgFSzmJE5Ne3bIZQ665jsEPvkXXBHHbNsjFqfo6m77jl4xmYb-zfSyCSNRegBHxwNyW2JqtMyPBdMMiMTrhVs7XLAhNWnnwdE_rbZhAcA19h6RWINmogU6lbYJID-MSl4HU3MKqvDmIiqAiEl07N7vERzI6TymlOAzJYEsYJYjWGXb8mC7GQ4TF5C04jIHsVQSGNb97QXGmmIc-EpJb9phFen246KZLeUk5vcRmsQ2r283nhRNBbMYR1hPK9F1EjbQmSgK2Tgw7SCoWscCes_qEDvUSTJq7zDTnPiziGGzvU65b2xKFDe1XArhOa747AGbvIsaTIAMeJa9-gKNkxPHeA1uvckzfks_5hR8C5FwYYIyWW-D7-OhB18MSvewiUaRmMfgRhXTEY0D1YwrZy5QDts5bnayd-z5kfgSzyrksb4GkfXQrh_vVqx5Bc_SsAyQYG3urQJ9fu_b4Li2x3Ht7te4_WvHicHza756vc_3DfbUqXpJnRpn7G1CnRimLqXNTr_4G0rdRRQ"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSxi41Uq_gHzdlvzfGcVbp0xRfbiUezfZ7eLLkE6PRe35P0eqGosNwwpjxATVbVSk_tH6weyh8vNa_nLdKO15FYwG6-SND1Bo1FmS2LBhIb",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "Sony ULT FIELD 1 Wireless Portable Speaker",
+      "rating": 4.8,
+      "reviews": 2700,
+      "price": "$98.00",
+      "extracted_price": 98.0,
+      "original_price": "$140",
+      "extracted_original_price": 140,
+      "location": "Also nearby",
+      "delivery": "Free delivery",
+      "extensions": [
+        "29% OFF"
+      ],
+      "immersive_product_page_token": "XT44cnicdZFZjqNWFIalrCG7sFq6A2PebCabKoO5wMXclxJwcYHNVAweUO8he3B1R-p-7I6UtVRWE0t5TaTzdL5fn86v8_s9L_8ysk9z0q2b7XSO4ODtXobDES2Nb13f8ikbS_4TyoIiKSIUAFIxQgBg4VuWjEnVvpb8BxaAIEuCICqiiJCARfyjyBNelU3uHg55r7fZwyFhWUEPrEoKFAQVQkX6XtbJa_4vhlCSBAAFRVYlEakKUsX3ng8fwk57gRIQZQFiLEFZAZIMkap-3hFXf_kf-PVtyvvbBxrbbtEnY84XXduPSVrli7Sa8rFtx2IxdHlyyvthcWj7RTuNvG374etr97jmz_-SvtePruKjqIQUEYmPiIwe896dx3vx-mWaqvxDvyy05cbbaJueInNOrGpimJzT8mp4t2XrW2bD9vbMLRU_dg7RTgONxI5b9LQxHRDvSZVd7q_VfRruRXXPmz_apDsfsr9_-dVoL7o2XDQv7DqqE-DX14SbpA9w8cQpC3hd1XHN27iy58gH0I-KDdFt7AWkSE_ixKLqFCAWEAuWeU0agh3I1mZD8RIFutNwWEypbtN0NjUGipABnkRGMZLwKqVH4vu48sjaLvwSenxP6wRdXdI4Fw-bz4kVoniuQFhtblGzcn2dlvG-cCnMkAO59_AmzKDdfjZXqcFxFnU6rVvoWx4IKY-T6DISSITt0RgTQ7gleHXbWqae1eotrtSenWiTmhw4ayJwSo0QsKcMmpFDM-CEXRtGpu3QTnNqdvGoWgXQdmJsVvRoiyEm-7RhbQy7nasX5VZntxgVbh5lkIWOnh1tlFIDMn0pZMFKoA3ZBXVVEtCO3ry6eEB0_RD2fkhWSVBpKS2iLSa1a5iOY_K9Xzs-xbafWYXIam92DD5s8fZK6WYOa6IlUUe2kJep5fkmoMfnfVdkRjEFe4robM4hXR0yxN62J9O0SntF1s7NjZi_NVdNCh2N0OIaVzQKj1x0arL2EGd-DU-PvzZfrkN_-ABLUxx9V27GJytR4sPOfX45C6tPN00r3tIXRpn3G5RVACVFEQGU5X8AsqZRIg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XT44cnicdZFZjqNWFIalrCG7sFq6A2PebCabKoO5wMXclxJwcYHNVAweUO8he3B1R-p-7I6UtVRWE0t5TaTzdL5fn86v8_s9L_8ysk9z0q2b7XSO4ODtXobDES2Nb13f8ikbS_4TyoIiKSIUAFIxQgBg4VuWjEnVvpb8BxaAIEuCICqiiJCARfyjyBNelU3uHg55r7fZwyFhWUEPrEoKFAQVQkX6XtbJa_4vhlCSBAAFRVYlEakKUsX3ng8fwk57gRIQZQFiLEFZAZIMkap-3hFXf_kf-PVtyvvbBxrbbtEnY84XXduPSVrli7Sa8rFtx2IxdHlyyvthcWj7RTuNvG374etr97jmz_-SvtePruKjqIQUEYmPiIwe896dx3vx-mWaqvxDvyy05cbbaJueInNOrGpimJzT8mp4t2XrW2bD9vbMLRU_dg7RTgONxI5b9LQxHRDvSZVd7q_VfRruRXXPmz_apDsfsr9_-dVoL7o2XDQv7DqqE-DX14SbpA9w8cQpC3hd1XHN27iy58gH0I-KDdFt7AWkSE_ixKLqFCAWEAuWeU0agh3I1mZD8RIFutNwWEypbtN0NjUGipABnkRGMZLwKqVH4vu48sjaLvwSenxP6wRdXdI4Fw-bz4kVoniuQFhtblGzcn2dlvG-cCnMkAO59_AmzKDdfjZXqcFxFnU6rVvoWx4IKY-T6DISSITt0RgTQ7gleHXbWqae1eotrtSenWiTmhw4ayJwSo0QsKcMmpFDM-CEXRtGpu3QTnNqdvGoWgXQdmJsVvRoiyEm-7RhbQy7nasX5VZntxgVbh5lkIWOnh1tlFIDMn0pZMFKoA3ZBXVVEtCO3ry6eEB0_RD2fkhWSVBpKS2iLSa1a5iOY_K9Xzs-xbafWYXIam92DD5s8fZK6WYOa6IlUUe2kJep5fkmoMfnfVdkRjEFe4robM4hXR0yxN62J9O0SntF1s7NjZi_NVdNCh2N0OIaVzQKj1x0arL2EGd-DU-PvzZfrkN_-ABLUxx9V27GJytR4sPOfX45C6tPN00r3tIXRpn3G5RVACVFEQGU5X8AsqZRIg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS1BRAXr_VbVMDpVabMnBMRDgf3x6KStko_BnhIe9_VsodQHI_1u_cpYfaeCA1BXCD1fePBeqlZjXbMvlU_6DWjj5XrrFwQofZ6qju5N_4",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Marshall Emberton III Portable Bluetooth Speaker",
+      "rating": 4.8,
+      "reviews": 3400,
+      "price": "$179.99",
+      "extracted_price": 179.99,
+      "delivery": "Free delivery by Tue",
+      "immersive_product_page_token": "cIhALHicbZLNjqNGFIWV57FGoqoobLKzMYXtNrhdQBWuTatMYWODgebHPyjvkFeI3DORZpYzkfIsnSfJMu6sZ3u_o3Pukc7v9-Twtx1_6mU1K9zuzEGzfn5pdkc4tr9Wdam6uD2ov4Cu6aaujyAGBoJ4qJka-hrLVubl_gNrGAJoYoARAroBTDDSvqeJVPmhSFa7XVJPy_hDhzSEhkgfjrA5hDoAD59vh5PcJ__zP95q1bzDZ-sFjhAwRrqJMNCx_hE3-u2ZrqYvP2dfXrukvr3DtqwGtWwTNajKupXbPBls8y5py7JNB02VyCypm8GurAdl16qyrJsv--oR_OMnnm-ng_qOh4ZuwBHQhgY2oPao_lad23u6_9x1efI-vQys8Xw9t-Y1g6SXTt4JRM_bw9Ve38al75BCRIteOSZ63DxqZQ3juFIOy-bE0zYRzePLfZ_fu-ae5vek-LOU1XkX__PLv_Y5tqw6ttZhVbEp1QIiXv0gxSoK2yB39S3EWcAvwI8WhtuT5YMdVoG326DKT5z9JYxUJgGV3Ll2krFezPLCjZguj5SvGJsxNMFBTxd-vkhZECI_xCWPPMcnVbBm9Cl0CFQcS8oJTuxcdx0i5TFtXH59inn6mvB2GdtmvwlcfeUDoLi6bYBpJQW5ihPJ_KnXiJOCgQ00Fo1bQfIZL8Z4FaiaspSpk3sRUTVdEbONkWpCR8k4JGBL1CHOlbMpmCbCGMnZxAihyNZ9euG5kJvQhQGqlttA9b7tGV6WT2NeuaJYLKgtHk08g-b0yrnp-pl-3TLP8okC8SkVPq8wD8Q6jMhlC68o6j0opnTqau3EdzRtyUZwE3gt7emSFt6cHynhoTj7x037UL5KhwkPsSUvaLRF7BQ7jU80dlxGVRrbaRdEDLKe9CGb7OKH3s0IcQ6LCZ15txUXAT1d69C-Lh6_1GJGq5iZmXuqdsGJZV6kigCk6PO1qXfv2pjg1l8Ni_bJkaPN7nm1fDnrk083y0pfty-CifWvYGhqj9GOsAaGw_8A1TtGlg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=cIhALHicbZLNjqNGFIWV57FGoqoobLKzMYXtNrhdQBWuTatMYWODgebHPyjvkFeI3DORZpYzkfIsnSfJMu6sZ3u_o3Pukc7v9-Twtx1_6mU1K9zuzEGzfn5pdkc4tr9Wdam6uD2ov4Cu6aaujyAGBoJ4qJka-hrLVubl_gNrGAJoYoARAroBTDDSvqeJVPmhSFa7XVJPy_hDhzSEhkgfjrA5hDoAD59vh5PcJ__zP95q1bzDZ-sFjhAwRrqJMNCx_hE3-u2ZrqYvP2dfXrukvr3DtqwGtWwTNajKupXbPBls8y5py7JNB02VyCypm8GurAdl16qyrJsv--oR_OMnnm-ng_qOh4ZuwBHQhgY2oPao_lad23u6_9x1efI-vQys8Xw9t-Y1g6SXTt4JRM_bw9Ve38al75BCRIteOSZ63DxqZQ3juFIOy-bE0zYRzePLfZ_fu-ae5vek-LOU1XkX__PLv_Y5tqw6ttZhVbEp1QIiXv0gxSoK2yB39S3EWcAvwI8WhtuT5YMdVoG326DKT5z9JYxUJgGV3Ll2krFezPLCjZguj5SvGJsxNMFBTxd-vkhZECI_xCWPPMcnVbBm9Cl0CFQcS8oJTuxcdx0i5TFtXH59inn6mvB2GdtmvwlcfeUDoLi6bYBpJQW5ihPJ_KnXiJOCgQ00Fo1bQfIZL8Z4FaiaspSpk3sRUTVdEbONkWpCR8k4JGBL1CHOlbMpmCbCGMnZxAihyNZ9euG5kJvQhQGqlttA9b7tGV6WT2NeuaJYLKgtHk08g-b0yrnp-pl-3TLP8okC8SkVPq8wD8Q6jMhlC68o6j0opnTqau3EdzRtyUZwE3gt7emSFt6cHynhoTj7x037UL5KhwkPsSUvaLRF7BQ7jU80dlxGVRrbaRdEDLKe9CGb7OKH3s0IcQ6LCZ15txUXAT1d69C-Lh6_1GJGq5iZmXuqdsGJZV6kigCk6PO1qXfv2pjg1l8Ni_bJkaPN7nm1fDnrk083y0pfty-CifWvYGhqj9GOsAaGw_8A1TtGlg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQiIpNa557bRAjMPlUM9eaHspHd1xpdgrJJtjqJVQKNQlr4ril0VM8pBIrD6t-JTJMoc3UTwbD_HqNRlHHfbpAMOq0cIP7eQ_mhXxch7Qk",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTT0Tmy1Tfrj2gTx9YogV9JASOlx23rpuvmGNx4Bq5y8RSu8-Z0lLHF-bSjuIKJIIqtvp6tbLoEo8gc01Ho4x7nq1feVYguWCY",
+      "source": "Best Buy",
+      "title": "JBL Grip Portable Bluetooth Speaker",
+      "rating": 4.5,
+      "reviews": 1200,
+      "price": "$89.95",
+      "extracted_price": 89.95,
+      "original_price": "$100",
+      "extracted_original_price": 100,
+      "location": "Also nearby",
+      "delivery": "Free delivery",
+      "extensions": [
+        "10% OFF"
+      ],
+      "immersive_product_page_token": "WUyYKnicdVPbjqNGEJXyDfkLa6VuaG55G2MuZof20ECD-2WEabAZmstgfEP5h_yDZzfS5nETKd8y-ZowUR6Tt6o6VedUlap-uRfVn1b-acp6t_VP5wQeg6fnY_kiPVjf-qHjp3ys-O86UpBm6IoiGQDqigqg-i3Pxkx0-4r_AYGOdCQhecZmS1KRon0_FBkXVVtsyrIYVl3-kQdVzQCaCjUNIiBDVYbGb1WT7Yt_cQXohirJCjLkjzxZV-DbwI_v6Ml8huocMZChIsOAuqEpkqb-_EQ2q-f_Ab--norh9i6NXb8YsrHgi74bxmwnisVOnIqx68bD4tgXWV0Mx0XZDYvuNPKuG45f9_0_7fwH6VtT8e-KpiJVmuecB9D0eSPqW38e74f9l9NJFO-ry8J8WAdrcz1QyZ4yR5yYTM676moFt4cudOyWpd7EHUOeY5iY9ZEmSs8dWq9tDLYpEfnlvhf30_F-EPei_bXL-nOZ__XDj1Z3WZnHixnEfU9XBEQujUJoLHMrkIklYN6QOL1BmE8eJImIw9V6CoAFWU3SMCE9rgmNar7dNjrkcR_sHAXlK_q6lesLlehj6OAyagUKaXfxVx7iDrd4LOo4EQMFeMRtn-aClbHbh49JLwetZxWN2ITucmAJVbPUB7Rd4liqr0mzv2HArjNfmLt2jZtryyo48WY9EYutfSBCEnsybrmPgeflMTtgilko9852Eg4DcJtPWOKQxr6NL5E1MuaI2cPdzJlkslfzBkvb-ur6EqsC4GFiLydWGyGRjojR-MKgNXInRnFj2EGyl3YvFgxaO-LCfmJRjWYNk00i4RGeGOCB72BMYl4GDbwlzfiKZ_287Ve0NswUGnFOqbtzcRwC-pm7c1Vqe9lE66h9mEKHmaHbTSy2lKiC2yIhZBexg19f_dzlm8heIn_KQxvQl8e0P-TW4RSl89Yne4rpsswl9urXtu1U3pK4-LZJWLhrfORbQiKNf4kcg8TggydAuxhuccI2WWqTL9fjUL6DB1sZw43Wjp-dTN-WT5vH5zNafrqZ5uF198woC36C2set6roC5g_8G9naUrw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WUyYKnicdVPbjqNGEJXyDfkLa6VuaG55G2MuZof20ECD-2WEabAZmstgfEP5h_yDZzfS5nETKd8y-ZowUR6Tt6o6VedUlap-uRfVn1b-acp6t_VP5wQeg6fnY_kiPVjf-qHjp3ys-O86UpBm6IoiGQDqigqg-i3Pxkx0-4r_AYGOdCQhecZmS1KRon0_FBkXVVtsyrIYVl3-kQdVzQCaCjUNIiBDVYbGb1WT7Yt_cQXohirJCjLkjzxZV-DbwI_v6Ml8huocMZChIsOAuqEpkqb-_EQ2q-f_Ab--norh9i6NXb8YsrHgi74bxmwnisVOnIqx68bD4tgXWV0Mx0XZDYvuNPKuG45f9_0_7fwH6VtT8e-KpiJVmuecB9D0eSPqW38e74f9l9NJFO-ry8J8WAdrcz1QyZ4yR5yYTM676moFt4cudOyWpd7EHUOeY5iY9ZEmSs8dWq9tDLYpEfnlvhf30_F-EPei_bXL-nOZ__XDj1Z3WZnHixnEfU9XBEQujUJoLHMrkIklYN6QOL1BmE8eJImIw9V6CoAFWU3SMCE9rgmNar7dNjrkcR_sHAXlK_q6lesLlehj6OAyagUKaXfxVx7iDrd4LOo4EQMFeMRtn-aClbHbh49JLwetZxWN2ITucmAJVbPUB7Rd4liqr0mzv2HArjNfmLt2jZtryyo48WY9EYutfSBCEnsybrmPgeflMTtgilko9852Eg4DcJtPWOKQxr6NL5E1MuaI2cPdzJlkslfzBkvb-ur6EqsC4GFiLydWGyGRjojR-MKgNXInRnFj2EGyl3YvFgxaO-LCfmJRjWYNk00i4RGeGOCB72BMYl4GDbwlzfiKZ_287Ve0NswUGnFOqbtzcRwC-pm7c1Vqe9lE66h9mEKHmaHbTSy2lKiC2yIhZBexg19f_dzlm8heIn_KQxvQl8e0P-TW4RSl89Yne4rpsswl9urXtu1U3pK4-LZJWLhrfORbQiKNf4kcg8TggydAuxhuccI2WWqTL9fjUL6DB1sZw43Wjp-dTN-WT5vH5zNafrqZ5uF198woC36C2set6roC5g_8G9naUrw"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the best weatherproof Bluetooth speakers for outdoor use?",
+      "type": "ai_overview",
+      "page_token": "STd4wnicHdBdboIwAADg7DI-CgV108QsAVqHUQylLaUvS2lVhPKjMhXfdpedaqdZsu8I3_ePOTXV78ut6PvuurCs-_0-Prbt0ezHqq0teR0aZSlpTC5VtZi9zsD7QS3hV-j559CLadexANsJOwIVoAkts6ks2TUpxRObuZegrSuhEBumm5yhM0PzlJT6Ftlgp0A35XaxieqOJGkfKoLsDVs3zA4HUSMuTHGJSFGpVTghT8xUakhizJUG6EG4aHertSNLLDSCgMBpm6fdoB3b2dMo1mWRMQf2JJ2ectA9IvjmJhWqE6q5XjGeG3OijYAqwLsk2A5yJYYYmJukOoyfrIGFRtkAZhn3wrwCQBv1UADF3I1qWa49jNtTTPFTlaZmPsh0gzkm0OWudmMHp-mHftCK8W0qfEyQL-6jg7ot3dH_5_LzUPeL7tIe_wAaU4MS",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=STd4wnicHdBdboIwAADg7DI-CgV108QsAVqHUQylLaUvS2lVhPKjMhXfdpedaqdZsu8I3_ePOTXV78ut6PvuurCs-_0-Prbt0ezHqq0teR0aZSlpTC5VtZi9zsD7QS3hV-j559CLadexANsJOwIVoAkts6ks2TUpxRObuZegrSuhEBumm5yhM0PzlJT6Ftlgp0A35XaxieqOJGkfKoLsDVs3zA4HUSMuTHGJSFGpVTghT8xUakhizJUG6EG4aHertSNLLDSCgMBpm6fdoB3b2dMo1mWRMQf2JJ2ectA9IvjmJhWqE6q5XjGeG3OijYAqwLsk2A5yJYYYmJukOoyfrIGFRtkAZhn3wrwCQBv1UADF3I1qWa49jNtTTPFTlaZmPsh0gzkm0OWudmMHp-mHftCK8W0qfEyQL-6jg7ot3dH_5_LzUPeL7tIe_wAaU4MS",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUxVkJhRFJCUXkxQ2VXZENWVGt0VWpRMWVFSjNVM0JCV2sweGF6TXdTVFp2UjA5ZlVWSkhNRXhqVmt0MmQwaE9RVTlTVjBOQmQxUmtUbVo1YTBsVlZWcENjMmN4UlZVME5FUlZTazlyTldGVk9WZ3ROVk5CZDBrNFp4SVhSV010ZW1Gd1NHNU5kWFpYTVhOUlVGOXpabW95UVVVYUlrRkVjM0k1WmxKYVJrSjZSbFZ3VGpRM2EzUjJVSGwyUjJ0RFgzWk9ZV2hOYzBFIiwiZmN2IjoiMyIsImVpIjoiRWMtemFwSG5NdXZXMXNRUF9zZmoyQUUiLCJxYyI6IkNqSjBiM0FnY21GMFpXUWdjRzl5ZEdGaWJHVWdZbXgxWlhSdmIzUm9JSE53WldGclpYSnpJR1p2Y2lCdmRYUmtiMjl5Y3hBQWZSTmpIVDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IHdlYXRoZXJwcm9vZiBCbHVldG9vdGggc3BlYWtlcnMgZm9yIG91dGRvb3IgdXNlPyIsImxrIjoiR2laM1pXRjBhR1Z5Y0hKdmIyWWdiM1YwWkc5dmNpQnpjR1ZoYTJWeUlHSnNkV1YwYjI5MGFBIiwiYnMiOiJjNVdQc1FyQ1FBeUdjYzNrZkZNbWNkSGEtZ0JDWDZKenpxWmVzWmh5bC1OZTMxSnRRUTVFcHdTUzdfXzU0QUYxNDBpUlBLTTZSc3RCTVRGTnV4LTlTSWYxRUZsRjFHRVltZTdzQTNiaVVhSzJNczBZLUZMdHplNkRXWTV2QXUyU0FReW54dlZYbDhkaUgxN3RXWHBwaWpRejlsY0dlcWhtcmVtLVdvM2lsZXpBSzV3Vm5VMlpfcVdBNExoVUVkNUVXaHdrdHV0TDVubXBDbk5JWDRqTWNydDVBZyIsImlkIjoiZmNfRWMtemFwSG5NdXZXMXNRUF9zZmoyQUVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUxVkJhRFJCUXkxQ2VXZENWVGt0VWpRMWVFSjNVM0JCV2sweGF6TXdTVFp2UjA5ZlVWSkhNRXhqVmt0MmQwaE9RVTlTVjBOQmQxUmtUbVo1YTBsVlZWcENjMmN4UlZVME5FUlZTazlyTldGVk9WZ3ROVk5CZDBrNFp4SVhSV010ZW1Gd1NHNU5kWFpYTVhOUlVGOXpabW95UVVVYUlrRkVjM0k1WmxKYVJrSjZSbFZ3VGpRM2EzUjJVSGwyUjJ0RFgzWk9ZV2hOYzBFIiwiZmN2IjoiMyIsImVpIjoiRWMtemFwSG5NdXZXMXNRUF9zZmoyQUUiLCJxYyI6IkNqSjBiM0FnY21GMFpXUWdjRzl5ZEdGaWJHVWdZbXgxWlhSdmIzUm9JSE53WldGclpYSnpJR1p2Y2lCdmRYUmtiMjl5Y3hBQWZSTmpIVDgiLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IHdlYXRoZXJwcm9vZiBCbHVldG9vdGggc3BlYWtlcnMgZm9yIG91dGRvb3IgdXNlPyIsImxrIjoiR2laM1pXRjBhR1Z5Y0hKdmIyWWdiM1YwWkc5dmNpQnpjR1ZoYTJWeUlHSnNkV1YwYjI5MGFBIiwiYnMiOiJjNVdQc1FyQ1FBeUdjYzNrZkZNbWNkSGEtZ0JDWDZKenpxWmVzWmh5bC1OZTMxSnRRUTVFcHdTUzdfXzU0QUYxNDBpUlBLTTZSc3RCTVRGTnV4LTlTSWYxRUZsRjFHRVltZTdzQTNiaVVhSzJNczBZLUZMdHplNkRXWTV2QXUyU0FReW54dlZYbDhkaUgxN3RXWHBwaWpRejlsY0dlcWhtcmVtLVdvM2lsZXpBSzV3Vm5VMlpfcVdBNExoVUVkNUVXaHdrdHV0TDVubXBDbk5JWDRqTWNydDVBZyIsImlkIjoiZmNfRWMtemFwSG5NdXZXMXNRUF9zZmoyQUVfNSJ9"
+    },
+    {
+      "question": "Which Bluetooth speaker is best for outdoor use?",
+      "type": "ai_overview",
+      "page_token": "wPtfYXicHdBRbpswHIBx9TJ9bGwcMjVSNNUppGGtIwy2gZfJ-dPEATu4CSqQt11hZ9ipdppVu8Cnn75ff-zp3P69-2363l-Xs9kwDA_Hrjva9wfo3ExfpzPMQFu719AuF98W-PsBVtEn0PUFaCq8l88cZdjOM8GoziHMCTsDpnNwVf-WoVHEhldBGO6ivlIvUml3DcTtCZUobplgAw-SjUSP03trrnmeqN0az1leNVrykxItfi34oIs4YWcbl3ndZAGuamvXKpKZEqHTskWp6MfdJhpYY6e9i0cR9AiwnbgaSY284shU8MwJRz7WWLp9i_MysGNexD2TYioI3aiX7sv-NKVyi8D6H4B8ApJW7JaEGWYfklAkc0MiU8flhBdlQbdfHVxbGAHHaUGY001COe9OqeA3aKwTxLDaSV-7cZuhCO2JCTh-m7QwFym9FLY-VcP9AT5X5P7_69XPg-uX_tId_wGRtYtD",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wPtfYXicHdBRbpswHIBx9TJ9bGwcMjVSNNUppGGtIwy2gZfJ-dPEATu4CSqQt11hZ9ipdppVu8Cnn75ff-zp3P69-2363l-Xs9kwDA_Hrjva9wfo3ExfpzPMQFu719AuF98W-PsBVtEn0PUFaCq8l88cZdjOM8GoziHMCTsDpnNwVf-WoVHEhldBGO6ivlIvUml3DcTtCZUobplgAw-SjUSP03trrnmeqN0az1leNVrykxItfi34oIs4YWcbl3ndZAGuamvXKpKZEqHTskWp6MfdJhpYY6e9i0cR9AiwnbgaSY284shU8MwJRz7WWLp9i_MysGNexD2TYioI3aiX7sv-NKVyi8D6H4B8ApJW7JaEGWYfklAkc0MiU8flhBdlQbdfHVxbGAHHaUGY001COe9OqeA3aKwTxLDaSV-7cZuhCO2JCTh-m7QwFym9FLY-VcP9AT5X5P7_69XPg-uX_tId_wGRtYtD",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUxVkJhRFJCUXkxQ2VXZENWVGt0VWpRMWVFSjNVM0JCV2sweGF6TXdTVFp2UjA5ZlVWSkhNRXhqVmt0MmQwaE9RVTlTVjBOQmQxUmtUbVo1YTBsVlZWcENjMmN4UlZVME5FUlZTazlyTldGVk9WZ3ROVk5CZDBrNFp4SVhSV010ZW1Gd1NHNU5kWFpYTVhOUlVGOXpabW95UVVVYUlrRkVjM0k1WmxKYVJrSjZSbFZ3VGpRM2EzUjJVSGwyUjJ0RFgzWk9ZV2hOYzBFIiwiZmN2IjoiMyIsImVpIjoiRWMtemFwSG5NdXZXMXNRUF9zZmoyQUUiLCJxYyI6IkNqSjBiM0FnY21GMFpXUWdjRzl5ZEdGaWJHVWdZbXgxWlhSdmIzUm9JSE53WldGclpYSnpJR1p2Y2lCdmRYUmtiMjl5Y3hBQWZSTmpIVDgiLCJxdWVzdGlvbiI6IldoaWNoIEJsdWV0b290aCBzcGVha2VyIGlzIGJlc3QgZm9yIG91dGRvb3IgdXNlPyIsImxrIjoiR2k5M2FHbGphQ0JpYkhWbGRHOXZkR2dnYzNCbFlXdGxjaUJwY3lCaVpYTjBJR1p2Y2lCdmRYUmtiMjl5SUhWelpRIiwiYnMiOiJjNVdQc1FyQ1FBeUdjYzNrZkZNbWNkSGEtZ0JDWDZKenpxWmVzWmh5bC1OZTMxSnRRUTVFcHdTUzdfXzU0QUYxNDBpUlBLTTZSc3RCTVRGTnV4LTlTSWYxRUZsRjFHRVltZTdzQTNiaVVhSzJNczBZLUZMdHplNkRXWTV2QXUyU0FReW54dlZYbDhkaUgxN3RXWHBwaWpRejlsY0dlcWhtcmVtLVdvM2lsZXpBSzV3Vm5VMlpfcVdBNExoVUVkNUVXaHdrdHV0TDVubXBDbk5JWDRqTWNydDVBZyIsImlkIjoiZmNfRWMtemFwSG5NdXZXMXNRUF9zZmoyQUVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUxVkJhRFJCUXkxQ2VXZENWVGt0VWpRMWVFSjNVM0JCV2sweGF6TXdTVFp2UjA5ZlVWSkhNRXhqVmt0MmQwaE9RVTlTVjBOQmQxUmtUbVo1YTBsVlZWcENjMmN4UlZVME5FUlZTazlyTldGVk9WZ3ROVk5CZDBrNFp4SVhSV010ZW1Gd1NHNU5kWFpYTVhOUlVGOXpabW95UVVVYUlrRkVjM0k1WmxKYVJrSjZSbFZ3VGpRM2EzUjJVSGwyUjJ0RFgzWk9ZV2hOYzBFIiwiZmN2IjoiMyIsImVpIjoiRWMtemFwSG5NdXZXMXNRUF9zZmoyQUUiLCJxYyI6IkNqSjBiM0FnY21GMFpXUWdjRzl5ZEdGaWJHVWdZbXgxWlhSdmIzUm9JSE53WldGclpYSnpJR1p2Y2lCdmRYUmtiMjl5Y3hBQWZSTmpIVDgiLCJxdWVzdGlvbiI6IldoaWNoIEJsdWV0b290aCBzcGVha2VyIGlzIGJlc3QgZm9yIG91dGRvb3IgdXNlPyIsImxrIjoiR2k5M2FHbGphQ0JpYkhWbGRHOXZkR2dnYzNCbFlXdGxjaUJwY3lCaVpYTjBJR1p2Y2lCdmRYUmtiMjl5SUhWelpRIiwiYnMiOiJjNVdQc1FyQ1FBeUdjYzNrZkZNbWNkSGEtZ0JDWDZKenpxWmVzWmh5bC1OZTMxSnRRUTVFcHdTUzdfXzU0QUYxNDBpUlBLTTZSc3RCTVRGTnV4LTlTSWYxRUZsRjFHRVltZTdzQTNiaVVhSzJNczBZLUZMdHplNkRXWTV2QXUyU0FReW54dlZYbDhkaUgxN3RXWHBwaWpRejlsY0dlcWhtcmVtLVdvM2lsZXpBSzV3Vm5VMlpfcVdBNExoVUVkNUVXaHdrdHV0TDVubXBDbk5JWDRqTWNydDVBZyIsImlkIjoiZmNfRWMtemFwSG5NdXZXMXNRUF9zZmoyQUVfNSJ9"
+    },
+    {
+      "question": "What is the best portable speaker for outdoor use?",
+      "type": "ai_overview",
+      "page_token": "3-NXUHicHdBtbpswAIBh7TL92eCyZWukqJIbOwsrXm38Af4zGUM-wAZESOLkX6-wM-xUPc26XeDVq-ftjzt07fun3_tpGo6L2exyudzv-n7n6nvb-5k5Xjs7s8a50th2Mf86B09bu0RnC59HC6kYBrliUcbxWEZYlQ_MFT68ivUxFB1OjXSyFk5LlcZVlOSlc2cR6bFUKCpu5HvaasJjGKgbqPTylUQaKvEYrNsFm7tD2j72NobP4gr6WrC19XpTcc34Gmh5I4g2-lS1U8NRkpJGX6sV_EwbhgnCeyYFkNGUMjGEnytZcJk0H38_lMJO4m_TSw47ua5S7aeTaKcXI7DiXeIzx0yGNDWIzbkIUS0AKzwbM5ScqGIj2le4uIJ5kcNN2QJQORsswDSPiTdNAhnrD1Swm22cF5wpwfUkHwby4UQNJ_96WQ5gV_tjMM3mC6V3W3texnf_rZe_tn5aDGO_-wuXdY4I",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3-NXUHicHdBtbpswAIBh7TL92eCyZWukqJIbOwsrXm38Af4zGUM-wAZESOLkX6-wM-xUPc26XeDVq-ftjzt07fun3_tpGo6L2exyudzv-n7n6nvb-5k5Xjs7s8a50th2Mf86B09bu0RnC59HC6kYBrliUcbxWEZYlQ_MFT68ivUxFB1OjXSyFk5LlcZVlOSlc2cR6bFUKCpu5HvaasJjGKgbqPTylUQaKvEYrNsFm7tD2j72NobP4gr6WrC19XpTcc34Gmh5I4g2-lS1U8NRkpJGX6sV_EwbhgnCeyYFkNGUMjGEnytZcJk0H38_lMJO4m_TSw47ua5S7aeTaKcXI7DiXeIzx0yGNDWIzbkIUS0AKzwbM5ScqGIj2le4uIJ5kcNN2QJQORsswDSPiTdNAhnrD1Swm22cF5wpwfUkHwby4UQNJ_96WQ5gV_tjMM3mC6V3W3texnf_rZe_tn5aDGO_-wuXdY4I",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUxVkJhRFJCUXkxQ2VXZENWVGt0VWpRMWVFSjNVM0JCV2sweGF6TXdTVFp2UjA5ZlVWSkhNRXhqVmt0MmQwaE9RVTlTVjBOQmQxUmtUbVo1YTBsVlZWcENjMmN4UlZVME5FUlZTazlyTldGVk9WZ3ROVk5CZDBrNFp4SVhSV010ZW1Gd1NHNU5kWFpYTVhOUlVGOXpabW95UVVVYUlrRkVjM0k1WmxKYVJrSjZSbFZ3VGpRM2EzUjJVSGwyUjJ0RFgzWk9ZV2hOYzBFIiwiZmN2IjoiMyIsImVpIjoiRWMtemFwSG5NdXZXMXNRUF9zZmoyQUUiLCJxYyI6IkNqSjBiM0FnY21GMFpXUWdjRzl5ZEdGaWJHVWdZbXgxWlhSdmIzUm9JSE53WldGclpYSnpJR1p2Y2lCdmRYUmtiMjl5Y3hBQWZSTmpIVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgcG9ydGFibGUgc3BlYWtlciBmb3Igb3V0ZG9vciB1c2U/IiwibGsiOiJHakYzYUdGMElHbHpJSFJvWlNCaVpYTjBJSEJ2Y25SaFlteGxJSE53WldGclpYSWdabTl5SUc5MWRHUnZiM0lnZFhObCIsImJzIjoiYzVXUHNRckNRQXlHY2Mza2ZGTW1jZEhhLWdCQ1g2Snp6cVplc1poeWwtTmUzMUp0UVE1RXB3U1M3X181NEFGMTQwaVJQS002UnN0Qk1URk51eC05U0lmMUVGbEYxR0VZbWU3c0EzYmlVYUsyTXMwWS1GTHR6ZTZEV1k1dkF1MlNBUXlueHZWWGw4ZGlIMTd0V1hwcGlqUXo5bGNHZXFobXJlbS1XbzNpbGV6QUs1d1ZuVTJaX3FXQTRMaFVFZDVFV2h3a3R1dEw1bm1wQ25OSVg0ak1jcnQ1QWciLCJpZCI6ImZjX0VjLXphcEhuTXV2VzFzUVBfc2ZqMkFFXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUxVkJhRFJCUXkxQ2VXZENWVGt0VWpRMWVFSjNVM0JCV2sweGF6TXdTVFp2UjA5ZlVWSkhNRXhqVmt0MmQwaE9RVTlTVjBOQmQxUmtUbVo1YTBsVlZWcENjMmN4UlZVME5FUlZTazlyTldGVk9WZ3ROVk5CZDBrNFp4SVhSV010ZW1Gd1NHNU5kWFpYTVhOUlVGOXpabW95UVVVYUlrRkVjM0k1WmxKYVJrSjZSbFZ3VGpRM2EzUjJVSGwyUjJ0RFgzWk9ZV2hOYzBFIiwiZmN2IjoiMyIsImVpIjoiRWMtemFwSG5NdXZXMXNRUF9zZmoyQUUiLCJxYyI6IkNqSjBiM0FnY21GMFpXUWdjRzl5ZEdGaWJHVWdZbXgxWlhSdmIzUm9JSE53WldGclpYSnpJR1p2Y2lCdmRYUmtiMjl5Y3hBQWZSTmpIVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgcG9ydGFibGUgc3BlYWtlciBmb3Igb3V0ZG9vciB1c2U%2FIiwibGsiOiJHakYzYUdGMElHbHpJSFJvWlNCaVpYTjBJSEJ2Y25SaFlteGxJSE53WldGclpYSWdabTl5SUc5MWRHUnZiM0lnZFhObCIsImJzIjoiYzVXUHNRckNRQXlHY2Mza2ZGTW1jZEhhLWdCQ1g2Snp6cVplc1poeWwtTmUzMUp0UVE1RXB3U1M3X181NEFGMTQwaVJQS002UnN0Qk1URk51eC05U0lmMUVGbEYxR0VZbWU3c0EzYmlVYUsyTXMwWS1GTHR6ZTZEV1k1dkF1MlNBUXlueHZWWGw4ZGlIMTd0V1hwcGlqUXo5bGNHZXFobXJlbS1XbzNpbGV6QUs1d1ZuVTJaX3FXQTRMaFVFZDVFV2h3a3R1dEw1bm1wQ25OSVg0ak1jcnQ1QWciLCJpZCI6ImZjX0VjLXphcEhuTXV2VzFzUVBfc2ZqMkFFXzUifQ%3D%3D"
+    },
+    {
+      "question": "What is a good loud outdoor Bluetooth speaker?",
+      "type": "ai_overview",
+      "page_token": "lCnw2XicHdDBboIwAIDh7GU8alsGiyZmCQqICZCWtiKXhRYVbSlMmSC3vcueak8zs_t_-PJ__-izUb8v96rr2ttiNuv7fnpqmpM-TGVTz4rbw8iZLLQWhVQL582B70e59L5Cd_UZupi1LV8TkOrILgOCuAltyhUgaN-lnt1nVquFV0WHHR5o0IxFMDiSKlju5i5HzBKg86hxN7EmahfoC0U3uB_JnaDuKtgWSMiTDHKNqW9nqO_lhfiJ79dizEMZ5F261rcYdK8UDat0EwKO7D7PXCV0nFAam3hTpsKvEgzYwBXumeIDhhwdqGuiGoMC5E7EhrVE_JpaRB94C0kAjVeV_v4BnX3mhkJBWGo5SOjjzIrr4rJ1CWnOmJFRXnTNTFyL3Xx8ukGSPlswEEZ5Sja5XZiqpUBHGE-O8r60Jv8_lx_Hulu01-b0ByQfgdA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=lCnw2XicHdDBboIwAIDh7GU8alsGiyZmCQqICZCWtiKXhRYVbSlMmSC3vcueak8zs_t_-PJ__-izUb8v96rr2ttiNuv7fnpqmpM-TGVTz4rbw8iZLLQWhVQL582B70e59L5Cd_UZupi1LV8TkOrILgOCuAltyhUgaN-lnt1nVquFV0WHHR5o0IxFMDiSKlju5i5HzBKg86hxN7EmahfoC0U3uB_JnaDuKtgWSMiTDHKNqW9nqO_lhfiJ79dizEMZ5F261rcYdK8UDat0EwKO7D7PXCV0nFAam3hTpsKvEgzYwBXumeIDhhwdqGuiGoMC5E7EhrVE_JpaRB94C0kAjVeV_v4BnX3mhkJBWGo5SOjjzIrr4rJ1CWnOmJFRXnTNTFyL3Xx8ukGSPlswEEZ5Sja5XZiqpUBHGE-O8r60Jv8_lx_Hulu01-b0ByQfgdA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUxVkJhRFJCUXkxQ2VXZENWVGt0VWpRMWVFSjNVM0JCV2sweGF6TXdTVFp2UjA5ZlVWSkhNRXhqVmt0MmQwaE9RVTlTVjBOQmQxUmtUbVo1YTBsVlZWcENjMmN4UlZVME5FUlZTazlyTldGVk9WZ3ROVk5CZDBrNFp4SVhSV010ZW1Gd1NHNU5kWFpYTVhOUlVGOXpabW95UVVVYUlrRkVjM0k1WmxKYVJrSjZSbFZ3VGpRM2EzUjJVSGwyUjJ0RFgzWk9ZV2hOYzBFIiwiZmN2IjoiMyIsImVpIjoiRWMtemFwSG5NdXZXMXNRUF9zZmoyQUUiLCJxYyI6IkNqSjBiM0FnY21GMFpXUWdjRzl5ZEdGaWJHVWdZbXgxWlhSdmIzUm9JSE53WldGclpYSnpJR1p2Y2lCdmRYUmtiMjl5Y3hBQWZSTmpIVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgYSBnb29kIGxvdWQgb3V0ZG9vciBCbHVldG9vdGggc3BlYWtlcj8iLCJsayI6IkdpMTNhR0YwSUdseklHRWdaMjl2WkNCc2IzVmtJRzkxZEdSdmIzSWdZbXgxWlhSdmIzUm9JSE53WldGclpYSSIsImJzIjoiYzVXUHNRckNRQXlHY2Mza2ZGTW1jZEhhLWdCQ1g2Snp6cVplc1poeWwtTmUzMUp0UVE1RXB3U1M3X181NEFGMTQwaVJQS002UnN0Qk1URk51eC05U0lmMUVGbEYxR0VZbWU3c0EzYmlVYUsyTXMwWS1GTHR6ZTZEV1k1dkF1MlNBUXlueHZWWGw4ZGlIMTd0V1hwcGlqUXo5bGNHZXFobXJlbS1XbzNpbGV6QUs1d1ZuVTJaX3FXQTRMaFVFZDVFV2h3a3R1dEw1bm1wQ25OSVg0ak1jcnQ1QWciLCJpZCI6ImZjX0VjLXphcEhuTXV2VzFzUVBfc2ZqMkFFXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVUxVkJhRFJCUXkxQ2VXZENWVGt0VWpRMWVFSjNVM0JCV2sweGF6TXdTVFp2UjA5ZlVWSkhNRXhqVmt0MmQwaE9RVTlTVjBOQmQxUmtUbVo1YTBsVlZWcENjMmN4UlZVME5FUlZTazlyTldGVk9WZ3ROVk5CZDBrNFp4SVhSV010ZW1Gd1NHNU5kWFpYTVhOUlVGOXpabW95UVVVYUlrRkVjM0k1WmxKYVJrSjZSbFZ3VGpRM2EzUjJVSGwyUjJ0RFgzWk9ZV2hOYzBFIiwiZmN2IjoiMyIsImVpIjoiRWMtemFwSG5NdXZXMXNRUF9zZmoyQUUiLCJxYyI6IkNqSjBiM0FnY21GMFpXUWdjRzl5ZEdGaWJHVWdZbXgxWlhSdmIzUm9JSE53WldGclpYSnpJR1p2Y2lCdmRYUmtiMjl5Y3hBQWZSTmpIVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgYSBnb29kIGxvdWQgb3V0ZG9vciBCbHVldG9vdGggc3BlYWtlcj8iLCJsayI6IkdpMTNhR0YwSUdseklHRWdaMjl2WkNCc2IzVmtJRzkxZEdSdmIzSWdZbXgxWlhSdmIzUm9JSE53WldGclpYSSIsImJzIjoiYzVXUHNRckNRQXlHY2Mza2ZGTW1jZEhhLWdCQ1g2Snp6cVplc1poeWwtTmUzMUp0UVE1RXB3U1M3X181NEFGMTQwaVJQS002UnN0Qk1URk51eC05U0lmMUVGbEYxR0VZbWU3c0EzYmlVYUsyTXMwWS1GTHR6ZTZEV1k1dkF1MlNBUXlueHZWWGw4ZGlIMTd0V1hwcGlqUXo5bGNHZXFobXJlbS1XbzNpbGV6QUs1d1ZuVTJaX3FXQTRMaFVFZDVFV2h3a3R1dEw1bm1wQ25OSVg0ak1jcnQ1QWciLCJpZCI6ImZjX0VjLXphcEhuTXV2VzFzUVBfc2ZqMkFFXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "tgIGUHiczVVbcuI4FF3ArGP8Q4IfGDCpcnXJiiEygcQQQsiPyy9ssEFg2Rj4673MqmYPs4eRzSMmDaS7P6ZGVX5Ilo7u0b3H5_tf4WQe_P3HP34cL8gdy6ZpWvYw9kK3bOMZa5LN3GbHOCSR7X_zQjkhTJKErpyWIEA6gih6FZpbsxUm75XeypqsVX0DcL_VnL-_aVun1ajQsW4PBuR1WF04rdcANbvc6K0X2injh7I7ZzYrucLYROYYdyKr9u3WXDzMO8lqyBP92SDjqQBUJg9ENiyTuFMa53pKWIOlt-DPyj3tlEnZnZc7_kYY2_p0mIplgRMq5SfWnNEJ4L9rOgQqAJ6C6LtycRKd8TNgCkWgQEFhCO1XFrBHAGZ4SM978AKyl6NlAEjJFtCH8R6JCmgfsKB-MRBY3I92spkqzInkTCc_w6bAIWvqERNenX2Ozw6Bbq8eRjqFryq40OCnShhQdAl0EPD3A58ypuJiT8tu97vtx0BMVbHXvBo5PZ1BqlTb4Mt0N0Fv7u1JIRjTlQrreLRyOdaK6INnJ7Zv5y8RyQoavjQ43BShIXG2azxKzed0ORXU0eKpamhp0AWsbdF5ITYd1zF8g_uW93mBr3KNSl26yZVkk6OUSFFKoN2qNDhzWRc65ceywh90BI8n_yllWS1AdIaYAvdTz-ZY-Rj_OPlALWahvTuT7CwFBI7750v02i7Vx6w-I6B4qFgKR9xs3Tkd7dr-PddRXtxZWPgYXZGZR2V0DLDIqnNW75_H9IdjBEj5YWIxJqQgj9I-iPKEVbaxCpCffRzQQ3709gq0ixgIqDo4AMAD04w5bB2JqUWKanGbCUXKhTHtg6z6sZblWMkA4W7FQfYDsBsukLnw7yMgBdp1vV9q6Iv_xH7ng2A-1X9RN6oSCitfsQK7blR9VUJNT-BWgRiPt-C8TvDM-gXPsf9XSjo4Ujv_dllJWd18qSRa_OiqI-Xve0fSdkqC3kUl5Zb0gyM9nXWk04qCoPehpLZy1ZF-XUnwqpK8PdMzSqKOdE5JwSUl5Y50qiRf0k8c6YT3hyMdlfQ7jgR_z5FyYbm7x6k9JVPvok21-HU96SSa-tCP_K7-1oMcSHSij_HI-9KmxrP4bmY64Y0xce4UQYs3zo1BB_Cd6zBLOcaLUmTGrlNa4Cg2rdAtWWHixhjHfoksXDNwI1Ia46iEk9jBOCLMLIywzJm1MFi2PKnbwETTX1ecdf8M-8PK9l5C-nK-fpm0_UmVSL2eBHnBrfTF8dDrvcDmaCCMRpVbri4FI9Qf1MQlcLbSJHkQbbH1nKzieIWi-xdnnY6I3n3zxcEgwchYh7hyu_C30ROsR7ezd6yplmVsNOcp9KY1TRimeWBEttXGYButxCoaMJQncWWemUW2TFMmeqCrg6FHaxOOqK5pUUNMr5ReNaCrCkNs03DJSm6MG3WL582xJNSqNUFgZl68Wcgiz5B5JPP_As1lYvo",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=tgIGUHiczVVbcuI4FF3ArGP8Q4IfGDCpcnXJiiEygcQQQsiPyy9ssEFg2Rj4673MqmYPs4eRzSMmDaS7P6ZGVX5Ilo7u0b3H5_tf4WQe_P3HP34cL8gdy6ZpWvYw9kK3bOMZa5LN3GbHOCSR7X_zQjkhTJKErpyWIEA6gih6FZpbsxUm75XeypqsVX0DcL_VnL-_aVun1ajQsW4PBuR1WF04rdcANbvc6K0X2injh7I7ZzYrucLYROYYdyKr9u3WXDzMO8lqyBP92SDjqQBUJg9ENiyTuFMa53pKWIOlt-DPyj3tlEnZnZc7_kYY2_p0mIplgRMq5SfWnNEJ4L9rOgQqAJ6C6LtycRKd8TNgCkWgQEFhCO1XFrBHAGZ4SM978AKyl6NlAEjJFtCH8R6JCmgfsKB-MRBY3I92spkqzInkTCc_w6bAIWvqERNenX2Ozw6Bbq8eRjqFryq40OCnShhQdAl0EPD3A58ypuJiT8tu97vtx0BMVbHXvBo5PZ1BqlTb4Mt0N0Fv7u1JIRjTlQrreLRyOdaK6INnJ7Zv5y8RyQoavjQ43BShIXG2azxKzed0ORXU0eKpamhp0AWsbdF5ITYd1zF8g_uW93mBr3KNSl26yZVkk6OUSFFKoN2qNDhzWRc65ceywh90BI8n_yllWS1AdIaYAvdTz-ZY-Rj_OPlALWahvTuT7CwFBI7750v02i7Vx6w-I6B4qFgKR9xs3Tkd7dr-PddRXtxZWPgYXZGZR2V0DLDIqnNW75_H9IdjBEj5YWIxJqQgj9I-iPKEVbaxCpCffRzQQ3709gq0ixgIqDo4AMAD04w5bB2JqUWKanGbCUXKhTHtg6z6sZblWMkA4W7FQfYDsBsukLnw7yMgBdp1vV9q6Iv_xH7ng2A-1X9RN6oSCitfsQK7blR9VUJNT-BWgRiPt-C8TvDM-gXPsf9XSjo4Ujv_dllJWd18qSRa_OiqI-Xve0fSdkqC3kUl5Zb0gyM9nXWk04qCoPehpLZy1ZF-XUnwqpK8PdMzSqKOdE5JwSUl5Y50qiRf0k8c6YT3hyMdlfQ7jgR_z5FyYbm7x6k9JVPvok21-HU96SSa-tCP_K7-1oMcSHSij_HI-9KmxrP4bmY64Y0xce4UQYs3zo1BB_Cd6zBLOcaLUmTGrlNa4Cg2rdAtWWHixhjHfoksXDNwI1Ia46iEk9jBOCLMLIywzJm1MFi2PKnbwETTX1ecdf8M-8PK9l5C-nK-fpm0_UmVSL2eBHnBrfTF8dDrvcDmaCCMRpVbri4FI9Qf1MQlcLbSJHkQbbH1nKzieIWi-xdnnY6I3n3zxcEgwchYh7hyu_C30ROsR7ezd6yplmVsNOcp9KY1TRimeWBEttXGYButxCoaMJQncWWemUW2TFMmeqCrg6FHaxOOqK5pUUNMr5ReNaCrCkNs03DJSm6MG3WL582xJNSqNUFgZl68Wcgiz5B5JPP_As1lYvo"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best Bluetooth Speakers of 2026",
+      "link": "https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVq_2U0D3SZ4323ESx9DA-vfso0xeVWmLE52LO8H1R1m5lloj2AQeUogPgFhtl7It_AADrXeVNvQi8Bux6zrf0UQzuoEOpvZZfeNaYc-ewVyx4adnhHB5EefbWn6elqAvgQJB7j06_ctT3UPR8zi6DuzlOwrfVI6s&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.cnet.com › tech › best-bluetooth-speaker",
+      "snippet": "Best Bluetooth speaker overall Bose SoundLink Plus … it's dust-resistant and fully waterproof. . Sony SRS-XB100: This portable Bluetooth speaker is both dust- ...",
+      "snippet_highlighted_words": [
+        "Bose SoundLink Plus"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What is the best Bluetooth...",
+            "link": "https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#c995f3cd-6297-43db-a098-d0d6b389bd4f"
+          },
+          {
+            "title": "Sound quality",
+            "link": "https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/#0ee27798-055b-4042-bafb-a05d09b0d937"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Best Bluetooth speaker overall Bose SoundLink Plus … it's dust-resistant and fully waterproof. . Sony SRS-XB100: This portable Bluetooth speaker is both dust- ...",
+          "source_info_link": "https://www.cnet.com/tech/home-entertainment/best-bluetooth-speaker/",
+          "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAADwBACdASocABwAPtEutFooIagoGAEAGglsAJ0zJgFWEzAyEODWdIX7EkNIFnR4kAAA_u--jDs64DksFWVDTsHrNI5CL4UPG8RA-n9zXXuEFTBbascawcdbTeRX8gdE3IXe3VoNhv5G-Wc7kkvbee4ih7h2JGcTHt62PirY_wOsQnnrMevIqbnBDSVCUAfysO-Pj22g2z0HIuVqu4y7FiDhAVMIwif3ScbgedBqOAmT-Tv7pOAP51F574mQPwB-fnyklzvrXzL4RYASb7Q2Vwgw4HWv1-eh0_bTzm_cX-RynsHLP8_8_8__isiMRICAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnFfMlUwRDNTWjQzMjNFU3g5REEtdmZzbzB4ZVZXbUxFNTJMTzhIMVIxbTVsbG9qMkFRZVVvZ1BnRmh0bDdJdF9BQURyWGVWTnZRaThCdXg2enJmMFVRenVvRU9wdlpaZmVOYVljLWV3Vnl4NGFkbmhIQjVFZWZiV242ZWxxQXZnUUpCN2owNl9jdFQzVVBSOHppNkR1emxPd3JmVkk2cxIEGgIIABryBxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMwHCAAQABgAIAAqsQEKA3RvcBUPg5A_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGgVncmVhdBoHaGlnaGVzdBoGaGlnaGx5GgRtb3N0GgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoGcmV2aWV3GgdyZXZpZXdzGgxyZXZpZXdzIDIwMTAaDHJldmlld3MgMjAxMhoIdG9wcmF0ZWQqWwoFcmF0ZWQVLJ-6PhoCMTAaCmNvbXBhcmlzb24aBnJhbmtlZBoGcmF0aW5nGgdyYXRpbmdzGgxyZXZpZXdzIDIwMTAaDHJldmlld3MgMjAxMhoIdG9wcmF0ZWQqGQoIcG9ydGFibGUVSSnRPxoId2lyZWxlc3MqRQoJYmx1ZXRvb3RoFXLdxEAaEHBvcnRhYmxlIHNwZWFrZXIaEWJsdWV0b290aHNwZWFrZXJzGg5pdjtwO2JsdWV0b290aCpaCghzcGVha2VycxWADZhAGhBwb3J0YWJsZSBzcGVha2VyGgxzb3VuZCBzeXN0ZW0aB3NwZWFrZXIaEWJsdWV0b290aHNwZWFrZXJzGg1pdjtwO3NwZWFrZXJzKgoKA2ZvchUAAAAAKjoKCG91dGRvb3JzFRAqoT4aCGV4dGVyaW9yGgZnYXJkZW4aB291dGRvb3IaB291dHNpZGUaBXBhdGlvMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnFfMlUwRDNTWjQzMjNFU3g5REEtdmZzbzB4ZVZXbUxFNTJMTzhIMVIxbTVsbG9qMkFRZVVvZ1BnRmh0bDdJdF9BQURyWGVWTnZRaThCdXg2enJmMFVRenVvRU9wdlpaZmVOYVljLWV3Vnl4NGFkbmhIQjVFZWZiV242ZWxxQXZnUUpCN2owNl9jdFQzVVBSOHppNkR1emxPd3JmVkk2czotPGI-QmVzdCBCbHVldG9vdGggU3BlYWtlcnM8L2I-IG9mIDIwMjYgLSBDTkVUQrQBQmVzdCBCbHVldG9vdGggc3BlYWtlciBvdmVyYWxsIDxiPkJvc2UgU291bmRMaW5rIFBsdXM8L2I-IOKApiBpdCYjMzk7cyBkdXN0LXJlc2lzdGFudCBhbmQgZnVsbHkgd2F0ZXJwcm9vZi4gLiBTb255IFNSUy1YQjEwMDogVGhpcyBwb3J0YWJsZSBCbHVldG9vdGggc3BlYWtlciBpcyBib3RoIGR1c3QtJm5ic3A7Li4uSgNmb3JSAjEwUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnFfMlUwRDNTWjQzMjNFU3g5REEtdmZzbzB4ZVZXbUxFNTJMTzhIMVIxbTVsbG9qMkFRZVVvZ1BnRmh0bDdJdF9BQURyWGVWTnZRaThCdXg2enJmMFVRenVvRU9wdlpaZmVOYVljLWV3Vnl4NGFkbmhIQjVFZWZiV242ZWxxQXZnUUpCN2owNl9jdFQzVVBSOHppNkR1emxPd3JmVkk2cxIEGgIIABryBxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMwHCAAQABgAIAAqsQEKA3RvcBUPg5A_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGgVncmVhdBoHaGlnaGVzdBoGaGlnaGx5GgRtb3N0GgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoGcmV2aWV3GgdyZXZpZXdzGgxyZXZpZXdzIDIwMTAaDHJldmlld3MgMjAxMhoIdG9wcmF0ZWQqWwoFcmF0ZWQVLJ-6PhoCMTAaCmNvbXBhcmlzb24aBnJhbmtlZBoGcmF0aW5nGgdyYXRpbmdzGgxyZXZpZXdzIDIwMTAaDHJldmlld3MgMjAxMhoIdG9wcmF0ZWQqGQoIcG9ydGFibGUVSSnRPxoId2lyZWxlc3MqRQoJYmx1ZXRvb3RoFXLdxEAaEHBvcnRhYmxlIHNwZWFrZXIaEWJsdWV0b290aHNwZWFrZXJzGg5pdjtwO2JsdWV0b290aCpaCghzcGVha2VycxWADZhAGhBwb3J0YWJsZSBzcGVha2VyGgxzb3VuZCBzeXN0ZW0aB3NwZWFrZXIaEWJsdWV0b290aHNwZWFrZXJzGg1pdjtwO3NwZWFrZXJzKgoKA2ZvchUAAAAAKjoKCG91dGRvb3JzFRAqoT4aCGV4dGVyaW9yGgZnYXJkZW4aB291dGRvb3IaB291dHNpZGUaBXBhdGlvMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnFfMlUwRDNTWjQzMjNFU3g5REEtdmZzbzB4ZVZXbUxFNTJMTzhIMVIxbTVsbG9qMkFRZVVvZ1BnRmh0bDdJdF9BQURyWGVWTnZRaThCdXg2enJmMFVRenVvRU9wdlpaZmVOYVljLWV3Vnl4NGFkbmhIQjVFZWZiV242ZWxxQXZnUUpCN2owNl9jdFQzVVBSOHppNkR1emxPd3JmVkk2czotPGI-QmVzdCBCbHVldG9vdGggU3BlYWtlcnM8L2I-IG9mIDIwMjYgLSBDTkVUQrQBQmVzdCBCbHVldG9vdGggc3BlYWtlciBvdmVyYWxsIDxiPkJvc2UgU291bmRMaW5rIFBsdXM8L2I-IOKApiBpdCYjMzk7cyBkdXN0LXJlc2lzdGFudCBhbmQgZnVsbHkgd2F0ZXJwcm9vZi4gLiBTb255IFNSUy1YQjEwMDogVGhpcyBwb3J0YWJsZSBCbHVldG9vdGggc3BlYWtlciBpcyBib3RoIGR1c3QtJm5ic3A7Li4uSgNmb3JSAjEwUgRiZXN0IgIQAUgAWABoAA",
+      "source": "CNET"
+    },
+    {
+      "position": 2,
+      "title": "Best Portable Bluetooth Speakers",
+      "link": "https://www.amazon.com/Best-Sellers-Portable-Bluetooth-Speakers/zgbs/electronics/7073956011",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFZKv0f07jWbkrx_OXJcPKndglPI5LI4jmbkTeWaN75ZZWLf5Z-L6-Is7T9Mf0vhnvHBiAOUB3jGIboAKAYJjxn4k3mIyemunH8QpoSM7sqrvAx7mRY4kmV9EXiU9BWnxeqcNi_jTAh2FFFdTGoHlBsRquWweGl2wOjzeTaIpfVf21Qx9Cs5ekdvf-xPJLoM&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › zgbs › electronics",
+      "snippet": "#1 Anker soundcore 2 Portable Bluetooth Speaker, Outdoors, Travel, Camping ・ for Home/Party/Outdoor/Camping/Beach #3 JBL Go 5 Portable Bluetooth Speaker, ...",
+      "snippet_highlighted_words": [
+        "Anker soundcore 2 Portable Bluetooth Speaker"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "#1 Anker soundcore 2 Portable Bluetooth Speaker, Outdoors, Travel, Camping ・ for Home/Party/Outdoor/Camping/Beach #3 JBL Go 5 Portable Bluetooth Speaker, ...",
+          "source_info_link": "https://www.amazon.com/Best-Sellers-Portable-Bluetooth-Speakers/zgbs/electronics/7073956011",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZaS3YwZjA3aldia3J4X09YSmNQS25kZ2xQSTVMSTRqbWJrVGVXYU43NVpaV0xmNVotTDYtSXM3VDlNZjB2aG52SEJpQU9VQjNqR0lib0FLQVlKanhuNGszbUl5ZW11bkg4UXBvU003c3FydkF4N21SWTRrbVY5RVhpVTlCV254ZXFjTmlfalRBaDJGRkZkVEdvSGxCc1JxdVd3ZUdsMndPanplVGFJcGZWZjIxUXg5Q3M1ZWtkdmYteFBKTG9NEgQaAggAGp8IEgIIARoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA-QcIABAAGAAgACqxAQoDdG9wFX6H_DsaBGJlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aBGdvb2QaBWdyZWF0GgdoaWdoZXN0GgZoaWdobHkaBG1vc3QaB3JhbmtpbmcaCHJhbmtpbmdzGgZyYXRpbmcaB3JhdGluZ3MaC3JlY29tbWVuZGVkGgZyZXZpZXcaB3Jldmlld3MaDHJldmlld3MgMjAxMBoMcmV2aWV3cyAyMDEyGgh0b3ByYXRlZCpbCgVyYXRlZBUAAAAAGgIxMBoKY29tcGFyaXNvbhoGcmFua2VkGgZyYXRpbmcaB3JhdGluZ3MaDHJldmlld3MgMjAxMBoMcmV2aWV3cyAyMDEyGgh0b3ByYXRlZCoZCghwb3J0YWJsZRUNdwVBGgh3aXJlbGVzcypFCglibHVldG9vdGgV4AEGQRoQcG9ydGFibGUgc3BlYWtlchoRYmx1ZXRvb3Roc3BlYWtlcnMaDml2O3A7Ymx1ZXRvb3RoKloKCHNwZWFrZXJzFaxkrkAaEHBvcnRhYmxlIHNwZWFrZXIaDHNvdW5kIHN5c3RlbRoHc3BlYWtlchoRYmx1ZXRvb3Roc3BlYWtlcnMaDWl2O3A7c3BlYWtlcnMqCgoDZm9yFQAAAAAqOgoIb3V0ZG9vcnMVPZHgPxoIZXh0ZXJpb3IaBmdhcmRlbhoHb3V0ZG9vchoHb3V0c2lkZRoFcGF0aW8y1QEvZ290bz91cmw9Q0FFU2t3RUI2enN3RlpLdjBmMDdqV2JrcnhfT1hKY1BLbmRnbFBJNUxJNGptYmtUZVdhTjc1WlpXTGY1Wi1MNi1JczdUOU1mMHZobnZIQmlBT1VCM2pHSWJvQUtBWUpqeG40azNtSXllbXVuSDhRcG9TTTdzcXJ2QXg3bVJZNGttVjlFWGlVOUJXbnhlcWNOaV9qVEFoMkZGRmRUR29IbEJzUnF1V3dlR2wyd09qemVUYUlwZlZmMjFReDlDczVla2R2Zi14UEpMb006Q0FtYXpvbiA8Yj5CZXN0PC9iPiBTZWxsZXJzOiA8Yj5CZXN0IFBvcnRhYmxlIEJsdWV0b290aCBTcGVha2VyczwvYj5CqwEjMSA8Yj5BbmtlciBzb3VuZGNvcmUgMiBQb3J0YWJsZSBCbHVldG9vdGggU3BlYWtlcjwvYj4sIE91dGRvb3JzLCBUcmF2ZWwsIENhbXBpbmcg44O7IGZvciBIb21lL1BhcnR5L091dGRvb3IvQ2FtcGluZy9CZWFjaCAjMyBKQkwgR28gNSBQb3J0YWJsZSBCbHVldG9vdGggU3BlYWtlciwmbmJzcDsuLi5KA2ZvclIEYmVzdFICMTAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZaS3YwZjA3aldia3J4X09YSmNQS25kZ2xQSTVMSTRqbWJrVGVXYU43NVpaV0xmNVotTDYtSXM3VDlNZjB2aG52SEJpQU9VQjNqR0lib0FLQVlKanhuNGszbUl5ZW11bkg4UXBvU003c3FydkF4N21SWTRrbVY5RVhpVTlCV254ZXFjTmlfalRBaDJGRkZkVEdvSGxCc1JxdVd3ZUdsMndPanplVGFJcGZWZjIxUXg5Q3M1ZWtkdmYteFBKTG9NEgQaAggAGp8IEgIIARoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA-QcIABAAGAAgACqxAQoDdG9wFX6H_DsaBGJlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aBGdvb2QaBWdyZWF0GgdoaWdoZXN0GgZoaWdobHkaBG1vc3QaB3JhbmtpbmcaCHJhbmtpbmdzGgZyYXRpbmcaB3JhdGluZ3MaC3JlY29tbWVuZGVkGgZyZXZpZXcaB3Jldmlld3MaDHJldmlld3MgMjAxMBoMcmV2aWV3cyAyMDEyGgh0b3ByYXRlZCpbCgVyYXRlZBUAAAAAGgIxMBoKY29tcGFyaXNvbhoGcmFua2VkGgZyYXRpbmcaB3JhdGluZ3MaDHJldmlld3MgMjAxMBoMcmV2aWV3cyAyMDEyGgh0b3ByYXRlZCoZCghwb3J0YWJsZRUNdwVBGgh3aXJlbGVzcypFCglibHVldG9vdGgV4AEGQRoQcG9ydGFibGUgc3BlYWtlchoRYmx1ZXRvb3Roc3BlYWtlcnMaDml2O3A7Ymx1ZXRvb3RoKloKCHNwZWFrZXJzFaxkrkAaEHBvcnRhYmxlIHNwZWFrZXIaDHNvdW5kIHN5c3RlbRoHc3BlYWtlchoRYmx1ZXRvb3Roc3BlYWtlcnMaDWl2O3A7c3BlYWtlcnMqCgoDZm9yFQAAAAAqOgoIb3V0ZG9vcnMVPZHgPxoIZXh0ZXJpb3IaBmdhcmRlbhoHb3V0ZG9vchoHb3V0c2lkZRoFcGF0aW8y1QEvZ290bz91cmw9Q0FFU2t3RUI2enN3RlpLdjBmMDdqV2JrcnhfT1hKY1BLbmRnbFBJNUxJNGptYmtUZVdhTjc1WlpXTGY1Wi1MNi1JczdUOU1mMHZobnZIQmlBT1VCM2pHSWJvQUtBWUpqeG40azNtSXllbXVuSDhRcG9TTTdzcXJ2QXg3bVJZNGttVjlFWGlVOUJXbnhlcWNOaV9qVEFoMkZGRmRUR29IbEJzUnF1V3dlR2wyd09qemVUYUlwZlZmMjFReDlDczVla2R2Zi14UEpMb006Q0FtYXpvbiA8Yj5CZXN0PC9iPiBTZWxsZXJzOiA8Yj5CZXN0IFBvcnRhYmxlIEJsdWV0b290aCBTcGVha2VyczwvYj5CqwEjMSA8Yj5BbmtlciBzb3VuZGNvcmUgMiBQb3J0YWJsZSBCbHVldG9vdGggU3BlYWtlcjwvYj4sIE91dGRvb3JzLCBUcmF2ZWwsIENhbXBpbmcg44O7IGZvciBIb21lL1BhcnR5L091dGRvb3IvQ2FtcGluZy9CZWFjaCAjMyBKQkwgR28gNSBQb3J0YWJsZSBCbHVldG9vdGggU3BlYWtlciwmbmJzcDsuLi5KA2ZvclIEYmVzdFICMTAiAhABSABYAGgA",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 3,
+      "title": "Best outdoor speakers 2026: portable, wireless, waterproof ...",
+      "link": "https://www.whathifi.com/best-buys/best-outdoor-speakers-portable-wireless-waterproof",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjQEB6zswFf33DmJew9xYv2eOTnaRlFHL-MKbqSi0-t7KDhwxfV5D6X2YrjbmyiZypcFS1meQahjYCqbAfAC9xFD2S5j-oO37krRTAgktZzDL-ll2rY1fXVCtP6KKkwY7VFGlDjT22giQMjQmqvxEo7r4OM4o3bblp-cYnhu6H2YnZy0QWbtadK0TaHfhXs0&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://www.whathifi.com › Speakers › Wireless Speakers",
+      "date": "Mar 27, 2026",
+      "snippet": "The JBL Xtreme 4 below is our pick as the best Bluetooth speaker at its price and for its type, but the Bose SoundLink Max isn't far behind.",
+      "snippet_highlighted_words": [
+        "JBL Xtreme 4"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best overall",
+            "link": "https://www.whathifi.com/best-buys/best-outdoor-speakers-portable-wireless-waterproof#section-best-outdoor-speaker-overall"
+          },
+          {
+            "title": "Best portable",
+            "link": "https://www.whathifi.com/best-buys/best-outdoor-speakers-portable-wireless-waterproof#section-best-portable-outdoor-speaker"
+          },
+          {
+            "title": "Best budget",
+            "link": "https://www.whathifi.com/best-buys/best-outdoor-speakers-portable-wireless-waterproof#section-best-budget-outdoor-speaker"
+          },
+          {
+            "title": "Best multi-room",
+            "link": "https://www.whathifi.com/best-buys/best-outdoor-speakers-portable-wireless-waterproof#section-best-multi-room-outdoor-speaker"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The JBL Xtreme 4 below is our pick as the best Bluetooth speaker at its price and for its type, but the Bose SoundLink Max isn't far behind.",
+          "source_info_link": "https://www.whathifi.com/best-buys/best-outdoor-speakers-portable-wireless-waterproof",
+          "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHUHun4q8r8T_yUzyVSmQ-KohX749s95nACoTs5swBmeJCmQgqLaYgAA_m7Eya2Xxoy42wnQcTXOW5pjaxxXJ7gzCMxTV5SBs5PmgTrov03MgvuP3_ySwU7UhGvOSYUyslOjSbSdD7TEa-52RAsYn-Fxti6Z0wh7eFQKPzT4GCf8gacp_cBCR0wq_xawmihXNER5ufDnlxQZnkYmJ8BQ3lmFYsVCQAsT573byOmk1uycEXFAm88wuVBYQHBu11a7_dXCIeYK0P3pUK-ct4WSTv1uMmU-EPnt4uQS76XiSwkOatuwQZjxxWNroztmgPxetwk7bCGAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZmMzNEbUpldzl4WXYyZU9UbmFSbEZITC1NS2JxU2kwLXQ3S0Rod3hmVjVENlgyWXJqYm15aVp5cGNGUzFtZVFhaGpZQ3FiQWZBQzl4RkQyUzVqLW9PMzdrclJUQWdrdFp6REwtbGwyclkxZlhWQ3RQNktLa3dZN1ZGR2xEalQyMmdpUU1qUW1xdnhFbzdyNE9NNG8zYmJscC1jWW5odTZIMlluWnkwUVdidGFkSzBUYUhmaFhzMBIEGgIIABqMCBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOYHCAAQABgAIAAqsQEKA3RvcBU2zQI_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGgVncmVhdBoHaGlnaGVzdBoGaGlnaGx5GgRtb3N0GgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoGcmV2aWV3GgdyZXZpZXdzGgxyZXZpZXdzIDIwMTAaDHJldmlld3MgMjAxMhoIdG9wcmF0ZWQqWwoFcmF0ZWQVx5TMPhoCMTAaCmNvbXBhcmlzb24aBnJhbmtlZBoGcmF0aW5nGgdyYXRpbmdzGgxyZXZpZXdzIDIwMTAaDHJldmlld3MgMjAxMhoIdG9wcmF0ZWQqGQoIcG9ydGFibGUV9uiFQBoId2lyZWxlc3MqRQoJYmx1ZXRvb3RoFYFOwz8aEHBvcnRhYmxlIHNwZWFrZXIaEWJsdWV0b290aHNwZWFrZXJzGg5pdjtwO2JsdWV0b290aCpaCghzcGVha2VycxUeVIZAGhBwb3J0YWJsZSBzcGVha2VyGgxzb3VuZCBzeXN0ZW0aB3NwZWFrZXIaEWJsdWV0b290aHNwZWFrZXJzGg1pdjtwO3NwZWFrZXJzKgoKA2ZvchUAAAAAKjoKCG91dGRvb3JzFXvTQT8aCGV4dGVyaW9yGgZnYXJkZW4aB291dGRvb3IaB291dHNpZGUaBXBhdGlvMs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZmMzNEbUpldzl4WXYyZU9UbmFSbEZITC1NS2JxU2kwLXQ3S0Rod3hmVjVENlgyWXJqYm15aVp5cGNGUzFtZVFhaGpZQ3FiQWZBQzl4RkQyUzVqLW9PMzdrclJUQWdrdFp6REwtbGwyclkxZlhWQ3RQNktLa3dZN1ZGR2xEalQyMmdpUU1qUW1xdnhFbzdyNE9NNG8zYmJscC1jWW5odTZIMlluWnkwUVdidGFkSzBUYUhmaFhzMDpMPGI-QmVzdCBvdXRkb29yIHNwZWFrZXJzPC9iPiAyMDI2OiA8Yj5wb3J0YWJsZTwvYj4sIHdpcmVsZXNzLCB3YXRlcnByb29mIC4uLkKXAVRoZSA8Yj5KQkwgWHRyZW1lIDQ8L2I-IGJlbG93IGlzIG91ciBwaWNrIGFzIHRoZSBiZXN0IEJsdWV0b290aCBzcGVha2VyIGF0IGl0cyBwcmljZSBhbmQgZm9yIGl0cyB0eXBlLCBidXQgdGhlIEJvc2UgU291bmRMaW5rIE1heCBpc24mIzM5O3QgZmFyIGJlaGluZC5KA2ZvclICMTBSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZmMzNEbUpldzl4WXYyZU9UbmFSbEZITC1NS2JxU2kwLXQ3S0Rod3hmVjVENlgyWXJqYm15aVp5cGNGUzFtZVFhaGpZQ3FiQWZBQzl4RkQyUzVqLW9PMzdrclJUQWdrdFp6REwtbGwyclkxZlhWQ3RQNktLa3dZN1ZGR2xEalQyMmdpUU1qUW1xdnhFbzdyNE9NNG8zYmJscC1jWW5odTZIMlluWnkwUVdidGFkSzBUYUhmaFhzMBIEGgIIABqMCBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOYHCAAQABgAIAAqsQEKA3RvcBU2zQI_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGgVncmVhdBoHaGlnaGVzdBoGaGlnaGx5GgRtb3N0GgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoGcmV2aWV3GgdyZXZpZXdzGgxyZXZpZXdzIDIwMTAaDHJldmlld3MgMjAxMhoIdG9wcmF0ZWQqWwoFcmF0ZWQVx5TMPhoCMTAaCmNvbXBhcmlzb24aBnJhbmtlZBoGcmF0aW5nGgdyYXRpbmdzGgxyZXZpZXdzIDIwMTAaDHJldmlld3MgMjAxMhoIdG9wcmF0ZWQqGQoIcG9ydGFibGUV9uiFQBoId2lyZWxlc3MqRQoJYmx1ZXRvb3RoFYFOwz8aEHBvcnRhYmxlIHNwZWFrZXIaEWJsdWV0b290aHNwZWFrZXJzGg5pdjtwO2JsdWV0b290aCpaCghzcGVha2VycxUeVIZAGhBwb3J0YWJsZSBzcGVha2VyGgxzb3VuZCBzeXN0ZW0aB3NwZWFrZXIaEWJsdWV0b290aHNwZWFrZXJzGg1pdjtwO3NwZWFrZXJzKgoKA2ZvchUAAAAAKjoKCG91dGRvb3JzFXvTQT8aCGV4dGVyaW9yGgZnYXJkZW4aB291dGRvb3IaB291dHNpZGUaBXBhdGlvMs0BL2dvdG8_dXJsPUNBRVNqUUVCNnpzd0ZmMzNEbUpldzl4WXYyZU9UbmFSbEZITC1NS2JxU2kwLXQ3S0Rod3hmVjVENlgyWXJqYm15aVp5cGNGUzFtZVFhaGpZQ3FiQWZBQzl4RkQyUzVqLW9PMzdrclJUQWdrdFp6REwtbGwyclkxZlhWQ3RQNktLa3dZN1ZGR2xEalQyMmdpUU1qUW1xdnhFbzdyNE9NNG8zYmJscC1jWW5odTZIMlluWnkwUVdidGFkSzBUYUhmaFhzMDpMPGI-QmVzdCBvdXRkb29yIHNwZWFrZXJzPC9iPiAyMDI2OiA8Yj5wb3J0YWJsZTwvYj4sIHdpcmVsZXNzLCB3YXRlcnByb29mIC4uLkKXAVRoZSA8Yj5KQkwgWHRyZW1lIDQ8L2I-IGJlbG93IGlzIG91ciBwaWNrIGFzIHRoZSBiZXN0IEJsdWV0b290aCBzcGVha2VyIGF0IGl0cyBwcmljZSBhbmQgZm9yIGl0cyB0eXBlLCBidXQgdGhlIEJvc2UgU291bmRMaW5rIE1heCBpc24mIzM5O3QgZmFyIGJlaGluZC5KA2ZvclICMTBSBGJlc3QiAhABSABYAGgA",
+      "source": "What Hi-Fi?",
+      "read_more_link": "https://www.whathifi.com/best-buys/best-outdoor-speakers-portable-wireless-waterproof#:~:text=The%20JBL%20Xtreme%204%20below,SoundLink%20Max%20isn't%20far%20behind."
+    },
+    {
+      "position": 4,
+      "title": "Best Bluetooth Speakers for Outdoor Activities - Audio Gear",
+      "link": "https://www.geminisound.com/collections/best-bluetooth-speakers-outdoor-activities?srsltid=AU7gw4XTDz4ZjGnp1_Yk9s352ex7WQJsVfiUxJ_FXWKTNjgg0xCqdMAU",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzAEB6zswFW2n1e3WRaxKnsoco2KI9EhZ8MwAvAjsoZ33ivaY38EAjPoR9ttrG6bt2GfNkj5uZBhs57jfqLoWeJhG3qEiyAbnyj0xMUg5mZAvEShAEsTUig8L-WWGlBM8EVCb_rS0gaFcm00jCRN0mZQm-uMbUYxoPi7CwEOOY4ewbDJn1H4VrIZ-nMlumLOZNzotcCv_nEsc87GnJYmD3rlczsqLb5Tp62q2Pmfn-RfK7jDQ8EzYduC7d43iONqOQRgCHf7F0xVu3mAnzmc&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://www.geminisound.com › collections › best-bluet...",
+      "snippet": "BEATORB IPX7 Waterproof Bluetooth Speaker stands out for its rugged durability and 12-hour battery life, making it ideal for camping and beach trips.",
+      "snippet_highlighted_words": [
+        "BEATORB IPX7 Waterproof Bluetooth Speaker"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Free delivery",
+            "Free 30-day returns"
+          ],
+          "detected_extensions": {
+            "free_day_returns": 30
+          }
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "BEATORB IPX7 Waterproof Bluetooth Speaker stands out for its rugged durability and 12-hour battery life, making it ideal for camping and beach trips.",
+          "source_info_link": "https://www.geminisound.com/collections/best-bluetooth-speakers-outdoor-activities?srsltid=AU7gw4XTDz4ZjGnp1_Yk9s352ex7WQJsVfiUxJ_FXWKTNjgg0xCqdMAU",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAMAAABY1h8eAAAAPFBMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACHr_7WAAAAFHRSTlMAKYfE3-zSpFds9xBK_7UeB3yUOzBNh4QAAAEmSURBVHgBZc0HjqUwFAXRwhlDEfe_15E78FHPUXzx8phCTDmX2vjP3Ms8Acta3Rbe9v5uNAPvagI4nsZWPrM-2gTj0zoT3yYZDrXBj2uDoU8MzW7kkVaAucJw2ZTHLoB7nACKS3EHOPsFbA3uLVoAlGoDJnWCu0C4VGAxMXsCVb0AYYvpcoXbymoFsrMJyDulh9FjXO0WWBQ9wJvkjR2qK9hhtRBtLK4UoThR3KELwYvTkXGzZTg9UWBsbDYmM8GdEBlZh4Xv39kJdCnCHYFss_J6Ud2MgAdcdhvQrJMJuHU0OC-Y1APYTbMVYLMzuEM1MGiyMaTGcMuj_rzgjHybM_xY9PzTmt0_Y4Ca-Ji8-Fj7BW-nW1sA7tDjzl_3VXLOaZuPp_UPAZYOSVIti2MAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqECL2dvdG8_dXJsPUNBRVN6QUVCNnpzd0ZXMm4xZTNXUmF4S25zb2NvMktJOUVoWjhNd0F2QWpzb1ozM2l2YVkzOEVBalBvUjl0dHJHNmJ0MkdmTmtqNXVaQmhzNTdqZnFMb1dlSmhHM3FFaXlBYm55ajB4TVVnNW1aQXZFU2hBRXNUVWlnOEwtV1dHbEJNOEVWQ2JfclMwZ2FGY20wMGpDUk4wbVpRbS11TWJVWXhvUGk3Q3dFT09ZNGV3YkRKbjFINFZySVotbk1sdW1MT1pOem90Y0N2X25Fc2M4N0duSlltRDNybGN6c3FMYjVUcDYycTJQbWZuLVJmSzdqRFE4RXpZZHVDN2Q0M2lPTnFPUVJnQ0hmN0YweFZ1M21BbnptYxIEGgIIABqBCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDdBwgAEAAYACAAKrEBCgN0b3AVE5w6PhoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQaB2hpZ2hlc3QaBmhpZ2hseRoEbW9zdBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBnJldmlldxoHcmV2aWV3cxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKlsKBXJhdGVkFQAAAAAaAjEwGgpjb21wYXJpc29uGgZyYW5rZWQaBnJhdGluZxoHcmF0aW5ncxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKhkKCHBvcnRhYmxlFZzmNkAaCHdpcmVsZXNzKkUKCWJsdWV0b290aBViaMpAGhBwb3J0YWJsZSBzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoOaXY7cDtibHVldG9vdGgqWgoIc3BlYWtlcnMVz-nkQBoQcG9ydGFibGUgc3BlYWtlchoMc291bmQgc3lzdGVtGgdzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoNaXY7cDtzcGVha2VycyoKCgNmb3IVAAAAACo6CghvdXRkb29ycxXHL04_GghleHRlcmlvchoGZ2FyZGVuGgdvdXRkb29yGgdvdXRzaWRlGgVwYXRpbzLJAS9nb3RvP3VybD1DQUVTaWdFQjZ6c3dGZDNJdzhUUXMzamtLOTMwVkVseHVVVzFzTFF1NFdsMUtpdUIxVXpfRnZXb0ZhcnN1RXdwdEVuN0VjTXRpdkN6MkFWWkx1WDZRZFpCT2JxV09LcF9DWDlQNjliRlJJZmhSZHJ3dWVtQmlmek1vTktmc3drd3NEM18tZ0VGLWJjTVZ6WDJMVzRtOC1pZG5GUXdCVWo5TU5zQy0tSmdoTHBmWG9JWHJfTU5oQXdoNjhhVXprUTpCPGI-QmVzdCBCbHVldG9vdGggU3BlYWtlcnMgZm9yIE91dGRvb3I8L2I-IEFjdGl2aXRpZXMgLSBBdWRpbyBHZWFyQpwBPGI-QkVBVE9SQiBJUFg3IFdhdGVycHJvb2YgQmx1ZXRvb3RoIFNwZWFrZXI8L2I-IHN0YW5kcyBvdXQgZm9yIGl0cyBydWdnZWQgZHVyYWJpbGl0eSBhbmQgMTItaG91ciBiYXR0ZXJ5IGxpZmUsIG1ha2luZyBpdCBpZGVhbCBmb3IgY2FtcGluZyBhbmQgYmVhY2ggdHJpcHMuSgNmb3JSAjEwUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqECL2dvdG8_dXJsPUNBRVN6QUVCNnpzd0ZXMm4xZTNXUmF4S25zb2NvMktJOUVoWjhNd0F2QWpzb1ozM2l2YVkzOEVBalBvUjl0dHJHNmJ0MkdmTmtqNXVaQmhzNTdqZnFMb1dlSmhHM3FFaXlBYm55ajB4TVVnNW1aQXZFU2hBRXNUVWlnOEwtV1dHbEJNOEVWQ2JfclMwZ2FGY20wMGpDUk4wbVpRbS11TWJVWXhvUGk3Q3dFT09ZNGV3YkRKbjFINFZySVotbk1sdW1MT1pOem90Y0N2X25Fc2M4N0duSlltRDNybGN6c3FMYjVUcDYycTJQbWZuLVJmSzdqRFE4RXpZZHVDN2Q0M2lPTnFPUVJnQ0hmN0YweFZ1M21BbnptYxIEGgIIABqBCBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDdBwgAEAAYACAAKrEBCgN0b3AVE5w6PhoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQaB2hpZ2hlc3QaBmhpZ2hseRoEbW9zdBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBnJldmlldxoHcmV2aWV3cxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKlsKBXJhdGVkFQAAAAAaAjEwGgpjb21wYXJpc29uGgZyYW5rZWQaBnJhdGluZxoHcmF0aW5ncxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKhkKCHBvcnRhYmxlFZzmNkAaCHdpcmVsZXNzKkUKCWJsdWV0b290aBViaMpAGhBwb3J0YWJsZSBzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoOaXY7cDtibHVldG9vdGgqWgoIc3BlYWtlcnMVz-nkQBoQcG9ydGFibGUgc3BlYWtlchoMc291bmQgc3lzdGVtGgdzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoNaXY7cDtzcGVha2VycyoKCgNmb3IVAAAAACo6CghvdXRkb29ycxXHL04_GghleHRlcmlvchoGZ2FyZGVuGgdvdXRkb29yGgdvdXRzaWRlGgVwYXRpbzLJAS9nb3RvP3VybD1DQUVTaWdFQjZ6c3dGZDNJdzhUUXMzamtLOTMwVkVseHVVVzFzTFF1NFdsMUtpdUIxVXpfRnZXb0ZhcnN1RXdwdEVuN0VjTXRpdkN6MkFWWkx1WDZRZFpCT2JxV09LcF9DWDlQNjliRlJJZmhSZHJ3dWVtQmlmek1vTktmc3drd3NEM18tZ0VGLWJjTVZ6WDJMVzRtOC1pZG5GUXdCVWo5TU5zQy0tSmdoTHBmWG9JWHJfTU5oQXdoNjhhVXprUTpCPGI-QmVzdCBCbHVldG9vdGggU3BlYWtlcnMgZm9yIE91dGRvb3I8L2I-IEFjdGl2aXRpZXMgLSBBdWRpbyBHZWFyQpwBPGI-QkVBVE9SQiBJUFg3IFdhdGVycHJvb2YgQmx1ZXRvb3RoIFNwZWFrZXI8L2I-IHN0YW5kcyBvdXQgZm9yIGl0cyBydWdnZWQgZHVyYWJpbGl0eSBhbmQgMTItaG91ciBiYXR0ZXJ5IGxpZmUsIG1ha2luZyBpdCBpZGVhbCBmb3IgY2FtcGluZyBhbmQgYmVhY2ggdHJpcHMuSgNmb3JSAjEwUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Gemini Sound"
+    },
+    {
+      "position": 5,
+      "title": "Look for the best outdoor bluetooth speaker. No real price ...",
+      "link": "https://www.reddit.com/r/Bluetooth_Speakers/comments/1l1jz33/look_for_the_best_outdoor_bluetooth_speaker_no/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFWJH9PMANMkjX3T0AKKlw3zWc4U4Fnq7q1HWUT1yRCxg_CbMHyyA2KQr2W-3MDbmXHeVOCWXg4ZqOdc93jx9ZTdYqhUwPZLfW_U5j2mw-YcRMkUFIuwHyCt-WqCZkQxs817IKXN_tMz_MM6a_bvkQxAfbUoFqOIw4O8-Q2H8B-9kmoYGOQ9Zi1pf2JWZaoNc2a4uw4R209ogR6QuAh8kgQ&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQFnoECDIQAQ&uoh=1",
+      "displayed_link": "50+ comments · 1 year ago",
+      "snippet": "First, the JBL Boombox 3. Great all-around speaker, sounds good, well-suited to the outdoors, and easy to carry with one hand. JBL PartyBox 310 ...",
+      "snippet_highlighted_words": [
+        "Great",
+        "speaker",
+        "good",
+        "outdoors"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "First, the JBL Boombox 3. Great all-around speaker, sounds good, well-suited to the outdoors, and easy to carry with one hand. JBL PartyBox 310 ...",
+          "source_info_link": "https://www.reddit.com/r/Bluetooth_Speakers/comments/1l1jz33/look_for_the_best_outdoor_bluetooth_speaker_no/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZXSkg5UE1BTk1ralgzVDBBS0tsdzN6V2M0VTRGbnE3cTFIV1VUMXlSQ3hnX0NiTUh5eUEyS1FyMlctM01EYm1YSGVWT0NXWGc0WnFPZGM5M2p4OVpUZFlxaFV3UFpMZldfVTVqMm13LVljUk1rVUZJdXdIeUN0LVdxQ1prUXhzODE3SUtYTl90TXpfTU02YV9idmtReEFmYlVvRnFPSXc0TzgtUTJIOEItOWttb1lHT1E5WmkxcGYySldaYW9OYzJhNHV3NFIyMDlvZ1I2UXVBaDhrZ1ESBBoCCAAaxAgSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCeCAgAEAAYACAAKrEBCgN0b3AV4WonPhoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQaB2hpZ2hlc3QaBmhpZ2hseRoEbW9zdBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBnJldmlldxoHcmV2aWV3cxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKlsKBXJhdGVkFT5G6j4aAjEwGgpjb21wYXJpc29uGgZyYW5rZWQaBnJhdGluZxoHcmF0aW5ncxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKhkKCHBvcnRhYmxlFXrTzD8aCHdpcmVsZXNzKkUKCWJsdWV0b290aBVAvaRAGhBwb3J0YWJsZSBzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoOaXY7cDtibHVldG9vdGgqWgoIc3BlYWtlcnMV6kPZPxoQcG9ydGFibGUgc3BlYWtlchoMc291bmQgc3lzdGVtGgdzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoNaXY7cDtzcGVha2VycyoKCgNmb3IVAAAAACo6CghvdXRkb29ycxXvP4Y_GghleHRlcmlvchoGZ2FyZGVuGgdvdXRkb29yGgdvdXRzaWRlGgVwYXRpbzLsAS9nb3RvP3VybD1DQUVTcEFFQjZ6c3dGV0pIOVBNQU5Na2pYM1QwQUtLbHczeldjNFU0Rm5xN3ExSFdVVDF5UkN4Z19DYk1IeXlBMktRcjJXLTNNRGJtWEhlVk9DV1hnNFpxT2RjOTNqeDlaVGRZcWhVd1BaTGZXX1U1ajJtdy1ZY1JNa1VGSXV3SHlDdC1XcUNaa1F4czgxN0lLWE5fdE16X01NNmFfYnZrUXhBZmJVb0ZxT0l3NE84LVEySDhCLTlrbW9ZR09ROVppMXBmMkpXWmFvTmMyYTR1dzRSMjA5b2dSNlF1QWg4a2dROkhMb29rIGZvciB0aGUgPGI-YmVzdCBvdXRkb29yIGJsdWV0b290aCBzcGVha2VyPC9iPi4gTm8gcmVhbCBwcmljZSByYW5nZS5CtAFGaXJzdCwgdGhlIEpCTCBCb29tYm94IDMuIDxiPkdyZWF0PC9iPiBhbGwtYXJvdW5kIDxiPnNwZWFrZXI8L2I-LCBzb3VuZHMgPGI-Z29vZDwvYj4sIHdlbGwtc3VpdGVkIHRvIHRoZSA8Yj5vdXRkb29yczwvYj4sIGFuZCBlYXN5IHRvIGNhcnJ5IHdpdGggb25lIGhhbmQuIEpCTCBQYXJ0eUJveCAzMTAmbmJzcDsuLi5KA2ZvclIEYmVzdFICMTAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZXSkg5UE1BTk1ralgzVDBBS0tsdzN6V2M0VTRGbnE3cTFIV1VUMXlSQ3hnX0NiTUh5eUEyS1FyMlctM01EYm1YSGVWT0NXWGc0WnFPZGM5M2p4OVpUZFlxaFV3UFpMZldfVTVqMm13LVljUk1rVUZJdXdIeUN0LVdxQ1prUXhzODE3SUtYTl90TXpfTU02YV9idmtReEFmYlVvRnFPSXc0TzgtUTJIOEItOWttb1lHT1E5WmkxcGYySldaYW9OYzJhNHV3NFIyMDlvZ1I2UXVBaDhrZ1ESBBoCCAAaxAgSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCeCAgAEAAYACAAKrEBCgN0b3AV4WonPhoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQaB2hpZ2hlc3QaBmhpZ2hseRoEbW9zdBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBnJldmlldxoHcmV2aWV3cxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKlsKBXJhdGVkFT5G6j4aAjEwGgpjb21wYXJpc29uGgZyYW5rZWQaBnJhdGluZxoHcmF0aW5ncxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKhkKCHBvcnRhYmxlFXrTzD8aCHdpcmVsZXNzKkUKCWJsdWV0b290aBVAvaRAGhBwb3J0YWJsZSBzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoOaXY7cDtibHVldG9vdGgqWgoIc3BlYWtlcnMV6kPZPxoQcG9ydGFibGUgc3BlYWtlchoMc291bmQgc3lzdGVtGgdzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoNaXY7cDtzcGVha2VycyoKCgNmb3IVAAAAACo6CghvdXRkb29ycxXvP4Y_GghleHRlcmlvchoGZ2FyZGVuGgdvdXRkb29yGgdvdXRzaWRlGgVwYXRpbzLsAS9nb3RvP3VybD1DQUVTcEFFQjZ6c3dGV0pIOVBNQU5Na2pYM1QwQUtLbHczeldjNFU0Rm5xN3ExSFdVVDF5UkN4Z19DYk1IeXlBMktRcjJXLTNNRGJtWEhlVk9DV1hnNFpxT2RjOTNqeDlaVGRZcWhVd1BaTGZXX1U1ajJtdy1ZY1JNa1VGSXV3SHlDdC1XcUNaa1F4czgxN0lLWE5fdE16X01NNmFfYnZrUXhBZmJVb0ZxT0l3NE84LVEySDhCLTlrbW9ZR09ROVppMXBmMkpXWmFvTmMyYTR1dzRSMjA5b2dSNlF1QWg4a2dROkhMb29rIGZvciB0aGUgPGI-YmVzdCBvdXRkb29yIGJsdWV0b290aCBzcGVha2VyPC9iPi4gTm8gcmVhbCBwcmljZSByYW5nZS5CtAFGaXJzdCwgdGhlIEpCTCBCb29tYm94IDMuIDxiPkdyZWF0PC9iPiBhbGwtYXJvdW5kIDxiPnNwZWFrZXI8L2I-LCBzb3VuZHMgPGI-Z29vZDwvYj4sIHdlbGwtc3VpdGVkIHRvIHRoZSA8Yj5vdXRkb29yczwvYj4sIGFuZCBlYXN5IHRvIGNhcnJ5IHdpdGggb25lIGhhbmQuIEpCTCBQYXJ0eUJveCAzMTAmbmJzcDsuLi5KA2ZvclIEYmVzdFICMTAiAhABSABYAGgA",
+      "source": "Reddit · r/Bluetooth_Speakers"
+    },
+    {
+      "position": 6,
+      "title": "The 5 Best Portable Bluetooth Speakers of 2026",
+      "link": "https://www.nytimes.com/wirecutter/reviews/best-bluetooth-speaker/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAV4AgWXhZ5wL3WemfdU9F8mdGQCsnwxg-VsXmrgTYDq2VBTFHOfV3vHFYcOQT6ZmaFaU0yFDW1QGigoEd4gYn65h3eY36gMsaQJYAS5V4YtK4pKXLSMsZs1eszoTjMAN-7EYE_NzqKRJQCE5h9xrGMg3fHSfqu&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQFnoECDAQAQ&uoh=1",
+      "displayed_link": "https://www.nytimes.com › Electronics › Audio",
+      "date": "May 29, 2026",
+      "snippet": "The W-King X10 is the best portable speaker to use in larger areas, such as at a picnic, a small beach party, or a yoga class. This football- ...",
+      "snippet_highlighted_words": [
+        "The W-King X10 is the best portable speaker"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The W-King X10 is the best portable speaker to use in larger areas, such as at a picnic, a small beach party, or a yoga class. This football- ...",
+          "source_info_link": "https://www.nytimes.com/wirecutter/reviews/best-bluetooth-speaker/",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAAAQBQCdASocABwAPtE-tFooIigoFAEAGglpAARATxnEK-53JWvDHstgGhzN4zLjcujgAP70y3hbIMpz_UzumDFx5vNeLmNtc6KYIX8KBs2PnxmvVpWxXJ2Z-_20c7zNgNO9SlHtET_-QirUKQJp_KqP3hmZ658MxfYknTY3z49W6gyZPEu32blPW2VxF8a701Bdq_cNE_t3f7N2lls7m1XNPn9sEYjKl_98sH4hOtumLRq53YTM2gXCylqfVKmiGBp8fnWX7CA1ugZwgWzkjS6J3S_qHB9fj2penTr8er5CBGF-q-tsjHhfZzgeOKAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjRBZ1dYaFo1d0wzV2VtZmRVOUY4bWRHUUNzbnd4Zy1Wc1htcmdUWURxMlZCVEZIT2ZWM3ZIRlljT1FUNlptYUZhVTB5RkRXMVFHaWdvRWQ0Z1luNjVoM2VZMzZnTXNhUUpZQVM1VjRZdEs0cEtYTFNNc1pzMWVzem9Uak1BTi03RVlFX056cUtSSlFDRTVoOXhyR01nM2ZIU2ZxdRIEGgIIABrrBxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMUHCAAQABgAIAAqsQEKA3RvcBUeVEs_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGgVncmVhdBoHaGlnaGVzdBoGaGlnaGx5GgRtb3N0GgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoGcmV2aWV3GgdyZXZpZXdzGgxyZXZpZXdzIDIwMTAaDHJldmlld3MgMjAxMhoIdG9wcmF0ZWQqWwoFcmF0ZWQVGrXXPhoCMTAaCmNvbXBhcmlzb24aBnJhbmtlZBoGcmF0aW5nGgdyYXRpbmdzGgxyZXZpZXdzIDIwMTAaDHJldmlld3MgMjAxMhoIdG9wcmF0ZWQqGQoIcG9ydGFibGUV0jyEQBoId2lyZWxlc3MqRQoJYmx1ZXRvb3RoFXWOY0AaEHBvcnRhYmxlIHNwZWFrZXIaEWJsdWV0b290aHNwZWFrZXJzGg5pdjtwO2JsdWV0b290aCpaCghzcGVha2VycxVZc0VAGhBwb3J0YWJsZSBzcGVha2VyGgxzb3VuZCBzeXN0ZW0aB3NwZWFrZXIaEWJsdWV0b290aHNwZWFrZXJzGg1pdjtwO3NwZWFrZXJzKgoKA2ZvchUAAAAAKjoKCG91dGRvb3JzFVC60D4aCGV4dGVyaW9yGgZnYXJkZW4aB291dGRvb3IaB291dHNpZGUaBXBhdGlvMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjRBZ1dYaFo1d0wzV2VtZmRVOUY4bWRHUUNzbnd4Zy1Wc1htcmdUWURxMlZCVEZIT2ZWM3ZIRlljT1FUNlptYUZhVTB5RkRXMVFHaWdvRWQ0Z1luNjVoM2VZMzZnTXNhUUpZQVM1VjRZdEs0cEtYTFNNc1pzMWVzem9Uak1BTi03RVlFX056cUtSSlFDRTVoOXhyR01nM2ZIU2ZxdTpAVGhlIDxiPkJlc3QgUG9ydGFibGUgQmx1ZXRvb3RoIFNwZWFrZXJzPC9iPiAtIFRoZSBOZXcgWW9yayBUaW1lc0KdATxiPlRoZSBXLUtpbmcgWDEwIGlzIHRoZSBiZXN0IHBvcnRhYmxlIHNwZWFrZXI8L2I-IHRvIHVzZSBpbiBsYXJnZXIgYXJlYXMsIHN1Y2ggYXMgYXQgYSBwaWNuaWMsIGEgc21hbGwgYmVhY2ggcGFydHksIG9yIGEgeW9nYSBjbGFzcy4gVGhpcyBmb290YmFsbC0mbmJzcDsuLi5KA2ZvclIEYmVzdFICMTAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjRBZ1dYaFo1d0wzV2VtZmRVOUY4bWRHUUNzbnd4Zy1Wc1htcmdUWURxMlZCVEZIT2ZWM3ZIRlljT1FUNlptYUZhVTB5RkRXMVFHaWdvRWQ0Z1luNjVoM2VZMzZnTXNhUUpZQVM1VjRZdEs0cEtYTFNNc1pzMWVzem9Uak1BTi03RVlFX056cUtSSlFDRTVoOXhyR01nM2ZIU2ZxdRIEGgIIABrrBxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMUHCAAQABgAIAAqsQEKA3RvcBUeVEs_GgRiZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgRnb29kGgVncmVhdBoHaGlnaGVzdBoGaGlnaGx5GgRtb3N0GgdyYW5raW5nGghyYW5raW5ncxoGcmF0aW5nGgdyYXRpbmdzGgtyZWNvbW1lbmRlZBoGcmV2aWV3GgdyZXZpZXdzGgxyZXZpZXdzIDIwMTAaDHJldmlld3MgMjAxMhoIdG9wcmF0ZWQqWwoFcmF0ZWQVGrXXPhoCMTAaCmNvbXBhcmlzb24aBnJhbmtlZBoGcmF0aW5nGgdyYXRpbmdzGgxyZXZpZXdzIDIwMTAaDHJldmlld3MgMjAxMhoIdG9wcmF0ZWQqGQoIcG9ydGFibGUV0jyEQBoId2lyZWxlc3MqRQoJYmx1ZXRvb3RoFXWOY0AaEHBvcnRhYmxlIHNwZWFrZXIaEWJsdWV0b290aHNwZWFrZXJzGg5pdjtwO2JsdWV0b290aCpaCghzcGVha2VycxVZc0VAGhBwb3J0YWJsZSBzcGVha2VyGgxzb3VuZCBzeXN0ZW0aB3NwZWFrZXIaEWJsdWV0b290aHNwZWFrZXJzGg1pdjtwO3NwZWFrZXJzKgoKA2ZvchUAAAAAKjoKCG91dGRvb3JzFVC60D4aCGV4dGVyaW9yGgZnYXJkZW4aB291dGRvb3IaB291dHNpZGUaBXBhdGlvMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjRBZ1dYaFo1d0wzV2VtZmRVOUY4bWRHUUNzbnd4Zy1Wc1htcmdUWURxMlZCVEZIT2ZWM3ZIRlljT1FUNlptYUZhVTB5RkRXMVFHaWdvRWQ0Z1luNjVoM2VZMzZnTXNhUUpZQVM1VjRZdEs0cEtYTFNNc1pzMWVzem9Uak1BTi03RVlFX056cUtSSlFDRTVoOXhyR01nM2ZIU2ZxdTpAVGhlIDxiPkJlc3QgUG9ydGFibGUgQmx1ZXRvb3RoIFNwZWFrZXJzPC9iPiAtIFRoZSBOZXcgWW9yayBUaW1lc0KdATxiPlRoZSBXLUtpbmcgWDEwIGlzIHRoZSBiZXN0IHBvcnRhYmxlIHNwZWFrZXI8L2I-IHRvIHVzZSBpbiBsYXJnZXIgYXJlYXMsIHN1Y2ggYXMgYXQgYSBwaWNuaWMsIGEgc21hbGwgYmVhY2ggcGFydHksIG9yIGEgeW9nYSBjbGFzcy4gVGhpcyBmb290YmFsbC0mbmJzcDsuLi5KA2ZvclIEYmVzdFICMTAiAhABSABYAGgA",
+      "source": "The New York Times",
+      "read_more_link": "https://www.nytimes.com/wirecutter/reviews/best-bluetooth-speaker/#:~:text=The%20W%2DKing%20X10%20is%20the,a%20yoga%20class.%20This%20football%2D"
+    },
+    {
+      "position": 7,
+      "title": "Bluetooth Outdoor Rated Speakers",
+      "link": "https://www.outdoorspeakerdepot.com/speakers/outdoor/bluetooth.html?srsltid=AU7gw4Wdngo-7njstldSi0gki41bltGUId8ZVLcb9JiO3nUu1gSr740o",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvQEB6zswFRcZQ6XnTeLzVYxTL8TSsphka8b9U7av4v8hCNIF2humyF-wmhjOtVw4_xxf7ohoyRjRU-ZQknGAMz1Gu1_6axsDrVuj_fmJeUHShv9ZOh2w38KgOrrJj4XNhLBwz4ON43TUT6iA6aGM-V__MI1fexn0fOw9FyEFwd73Hfnh8lUPE5NMalz-NIySU7s0Q-D9Pe5ejqQ42IMq5rNj4ow9PsG3bnRspUhUkyuYfdJofQ04-huagRbyV7g&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQFnoECDUQAQ&uoh=1",
+      "displayed_link": "https://www.outdoorspeakerdepot.com › speakers › bluet...",
+      "snippet": "Upgrade your outdoor audio experience with high-quality Bluetooth outdoor speakers from Outdoor Speaker Depot. Shop our range of durable and stylish options ...",
+      "snippet_highlighted_words": [
+        "high-quality Bluetooth outdoor speakers"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8,
+            "store_rating": 404,
+            "day_returns": 60
+          },
+          "extensions": [
+            "4.8",
+            "store rating (404)",
+            "Free delivery over $50",
+            "60-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Upgrade your outdoor audio experience with high-quality Bluetooth outdoor speakers from Outdoor Speaker Depot. Shop our range of durable and stylish options ...",
+          "source_info_link": "https://www.outdoorspeakerdepot.com/speakers/outdoor/bluetooth.html?srsltid=AU7gw4Wdngo-7njstldSi0gki41bltGUId8ZVLcb9JiO3nUu1gSr740o",
+          "icon": "https://serpapi.com/images/i/UklGRvgBAABXRUJQVlA4IOwBAACwCQCdASogACAAPtEutFooIagoGAEAGglsAJ0ygxg9gSH_0AbYDcO7wBvGlme_geIB4AxifPW9HirgbWgvhnq0ho7_QbXKnbgXCNHEECYR0S2t_LZHgAD-s5geptI_dKyJWR3Cf4tNjPlCQjKE214JG5A-GZNCOt4XO3aQpKxZeg9vkeI3HBkoERWEd3iAEgVK5R-oFTv_HHjtv2_-47_N3q1HK6Ja9hsmUo8CCB2TD0ghh3F5Yzk_8HPFTecUToElCiYXn6i0MewfjakNTcr-MLiWUb8qvlGUdQ-Isk8-wPsnJQlQGfrAH3GRTHBoOspIcUhF5BEbDaJhiaPJFBsN0tKw3bggX2vD8TsOVnu33exj193EBGEYJf8Nexvi42ER_It-LvwhO6k00otqUo_Y6IJjF4xfo9wFeEKNSYNf-Bgn_2_xHKC5IjZGOL3hznT-D_qpT0lcn0RylpgsZlXhs3J3w36dqXyOGFDeFh_3kNLBakygbVRK5_3Tn-ctxVwO23nkZWzzAuEN4kydc4MW_FIDiEcnJ-o9ik_stLzo0ZX8mBMGoYd-4bvfAhi7HVk_KYr-rteN0sXrt0ppXY1VoZmScdITET5dgF7__galpXpzqbfWHcROzn-Ni2TnohhVFp_YyZQUQUUgcAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0CL2dvdG8_dXJsPUNBRVN2UUVCNnpzd0ZSY1pRNlhuVGVMelZZeFRMOFRTc3Boa2E4YjlVN2F2NHY4aENOSUYyaHVteUYtd21oak90Vnc0X3h4ZjdvaG95UmpSVS1aUWtuR0FNejFHdTFfNmF4c0RyVnVqX2ZtSmVVSFNodjlaT2gydzM4S2dPcnJKajRYTmhMQnd6NE9ONDNUVVQ2aUE2YUdNLVZfX01JMWZleG4wZk93OUZ5RUZ3ZDczSGZuaDhsVVBFNU5NYWx6LU5JeVNVN3MwUS1EOVBlNWVqcVE0MklNcTVyTmo0b3c5UHNHM2JuUnNwVWhVa3l1WWZkSm9mUTA0LWh1YWdSYnlWN2cSBBoCCAAa4wcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC9BwgAEAAYACAAKrEBCgN0b3AVAAAAABoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQaB2hpZ2hlc3QaBmhpZ2hseRoEbW9zdBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBnJldmlldxoHcmV2aWV3cxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKlsKBXJhdGVkFZ4CRUAaAjEwGgpjb21wYXJpc29uGgZyYW5rZWQaBnJhdGluZxoHcmF0aW5ncxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKhkKCHBvcnRhYmxlFQAAAAAaCHdpcmVsZXNzKkUKCWJsdWV0b290aBXdic5AGhBwb3J0YWJsZSBzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoOaXY7cDtibHVldG9vdGgqWgoIc3BlYWtlcnMV-UsFQRoQcG9ydGFibGUgc3BlYWtlchoMc291bmQgc3lzdGVtGgdzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoNaXY7cDtzcGVha2VycyoKCgNmb3IVAAAAACo6CghvdXRkb29ycxUAAAAAGghleHRlcmlvchoGZ2FyZGVuGgdvdXRkb29yGgdvdXRzaWRlGgVwYXRpbzK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZ1cHYzOXMzTTBfbXRzZmhVMndOTVctVWt0XzFXVmFBaURiMU9mYW0tZVJMOURJY1NXOXF2Nlc1bkxRRG14aXQxd2tSZnV0ZGl3d2RzOW9QVU0zYW8wQUlPMmx0TDR3N0F6UjZrTXV0Q050eVF2OXNUZnFPMWUwSmhlekZUWGtLRDRiQkZtNjBlam5EZGFIV1l0SjQtbG1IYmRnd3lPZzonPGI-Qmx1ZXRvb3RoIE91dGRvb3IgUmF0ZWQgU3BlYWtlcnM8L2I-QqwBVXBncmFkZSB5b3VyIG91dGRvb3IgYXVkaW8gZXhwZXJpZW5jZSB3aXRoIDxiPmhpZ2gtcXVhbGl0eSBCbHVldG9vdGggb3V0ZG9vciBzcGVha2VyczwvYj4gZnJvbSBPdXRkb29yIFNwZWFrZXIgRGVwb3QuIFNob3Agb3VyIHJhbmdlIG9mIGR1cmFibGUgYW5kIHN0eWxpc2ggb3B0aW9ucyZuYnNwOy4uLkoDZm9yUgIxMFIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0CL2dvdG8_dXJsPUNBRVN2UUVCNnpzd0ZSY1pRNlhuVGVMelZZeFRMOFRTc3Boa2E4YjlVN2F2NHY4aENOSUYyaHVteUYtd21oak90Vnc0X3h4ZjdvaG95UmpSVS1aUWtuR0FNejFHdTFfNmF4c0RyVnVqX2ZtSmVVSFNodjlaT2gydzM4S2dPcnJKajRYTmhMQnd6NE9ONDNUVVQ2aUE2YUdNLVZfX01JMWZleG4wZk93OUZ5RUZ3ZDczSGZuaDhsVVBFNU5NYWx6LU5JeVNVN3MwUS1EOVBlNWVqcVE0MklNcTVyTmo0b3c5UHNHM2JuUnNwVWhVa3l1WWZkSm9mUTA0LWh1YWdSYnlWN2cSBBoCCAAa4wcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC9BwgAEAAYACAAKrEBCgN0b3AVAAAAABoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQaB2hpZ2hlc3QaBmhpZ2hseRoEbW9zdBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBnJldmlldxoHcmV2aWV3cxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKlsKBXJhdGVkFZ4CRUAaAjEwGgpjb21wYXJpc29uGgZyYW5rZWQaBnJhdGluZxoHcmF0aW5ncxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKhkKCHBvcnRhYmxlFQAAAAAaCHdpcmVsZXNzKkUKCWJsdWV0b290aBXdic5AGhBwb3J0YWJsZSBzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoOaXY7cDtibHVldG9vdGgqWgoIc3BlYWtlcnMV-UsFQRoQcG9ydGFibGUgc3BlYWtlchoMc291bmQgc3lzdGVtGgdzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoNaXY7cDtzcGVha2VycyoKCgNmb3IVAAAAACo6CghvdXRkb29ycxUAAAAAGghleHRlcmlvchoGZ2FyZGVuGgdvdXRkb29yGgdvdXRzaWRlGgVwYXRpbzK0AS9nb3RvP3VybD1DQUVTZXdIck96QVZ1cHYzOXMzTTBfbXRzZmhVMndOTVctVWt0XzFXVmFBaURiMU9mYW0tZVJMOURJY1NXOXF2Nlc1bkxRRG14aXQxd2tSZnV0ZGl3d2RzOW9QVU0zYW8wQUlPMmx0TDR3N0F6UjZrTXV0Q050eVF2OXNUZnFPMWUwSmhlekZUWGtLRDRiQkZtNjBlam5EZGFIV1l0SjQtbG1IYmRnd3lPZzonPGI-Qmx1ZXRvb3RoIE91dGRvb3IgUmF0ZWQgU3BlYWtlcnM8L2I-QqwBVXBncmFkZSB5b3VyIG91dGRvb3IgYXVkaW8gZXhwZXJpZW5jZSB3aXRoIDxiPmhpZ2gtcXVhbGl0eSBCbHVldG9vdGggb3V0ZG9vciBzcGVha2VyczwvYj4gZnJvbSBPdXRkb29yIFNwZWFrZXIgRGVwb3QuIFNob3Agb3VyIHJhbmdlIG9mIGR1cmFibGUgYW5kIHN0eWxpc2ggb3B0aW9ucyZuYnNwOy4uLkoDZm9yUgIxMFIEYmVzdCICEAFIAFgAaAA",
+      "source": "Outdoor Speaker Depot"
+    },
+    {
+      "position": 8,
+      "title": "The 7 Best Waterproof Bluetooth Speakers of 2026",
+      "link": "https://www.rtings.com/speaker/reviews/best/by-type/waterproof-bluetooth",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFZ1REsJuqr7gdsL8b1cYNAC5PRIKROvzL6aC_OBBKJZHesD2FtOla-xOPSyLvGGKhO7qS30VvUmisfNklOTkPyVb9sl7gv_zFMlL8Qg1r0RlLt9gkW7jnCGrLFcdZJZUQUi8aGTco7xuYDZ04ZWSzv4ZETLMQavVEcDvTQ&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQFnoECDEQAQ&uoh=1",
+      "displayed_link": "https://www.rtings.com › Speaker › Best",
+      "date": "Jul 3, 2026",
+      "snippet": "The JBL Boombox 4 is the best waterproof Bluetooth speaker we've tested. The JBL PartyBox Stage 320 is the best water-resistant party speaker ...",
+      "snippet_highlighted_words": [
+        "JBL Boombox 4 is the best waterproof Bluetooth speaker"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The JBL Boombox 4 is the best waterproof Bluetooth speaker we've tested. The JBL PartyBox Stage 320 is the best water-resistant party speaker ...",
+          "source_info_link": "https://www.rtings.com/speaker/reviews/best/by-type/waterproof-bluetooth",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAABwBwCdASocABwAPtEutFooIagoGAEAGglsALsogPPAsk5vgZoLRX_mfsA6b_zoMDV6I1rVWbKRuDj2Xx5JrfIQx1IYAAD-9gEpnxuhc7ENnwKjzZoQnCod4QIHeqxtWkm-zR-KYZ1s1v_VznstYhRh3O74CYk2IT392EgBCIM99luEHmIleipgJlMN7ygb-jOW1Bn34ULpxMS_919JTLNvJnfR3F8LUP_-ZffK74uiqK2Rb638T_o0bNyH_FWK7GSyYExAvnazPBgeJx3__aKGooFvapPvH9V1SCEWzSW3TMrz2Efp2V914fVX14EW-xgAIoSM7sIKW_rtSB6q0s_KKxKP6W2YdnLdOfPf4deU0sAwra9ybej7ApMHfwBoA3MWtRmurjVvYuA5aPlwB_RdIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZaMVJFc0p1cXI3Z2RzTDhiMWNZTkFDNVBSSUtST3Z6TDZhQ19PQkJLSlpIZXNEMkZ0T2xhLXhPUFN5THZHR0toTzdxUzMwVnZVbWlzZk5rbE9Ua1B5VmI5c2w3Z3ZfekZNbEw4UWcxcjBSbEx0OWdrVzdqbkNHckxGY2RaSlpVUVVpOGFHVGNvN3h1WURaMDRaV1N6djRaRVRMTVFhdlZFY0R2VFESBBoCCAAahAgSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDeBwgAEAAYACAAKrEBCgN0b3AVOTXxPhoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQaB2hpZ2hlc3QaBmhpZ2hseRoEbW9zdBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBnJldmlldxoHcmV2aWV3cxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKlsKBXJhdGVkFWBpDj8aAjEwGgpjb21wYXJpc29uGgZyYW5rZWQaBnJhdGluZxoHcmF0aW5ncxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKhkKCHBvcnRhYmxlFTPi0D8aCHdpcmVsZXNzKkUKCWJsdWV0b290aBUwjcdAGhBwb3J0YWJsZSBzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoOaXY7cDtibHVldG9vdGgqWgoIc3BlYWtlcnMVWSjOQBoQcG9ydGFibGUgc3BlYWtlchoMc291bmQgc3lzdGVtGgdzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoNaXY7cDtzcGVha2VycyoKCgNmb3IVAAAAACo6CghvdXRkb29ycxVXs8Y_GghleHRlcmlvchoGZ2FyZGVuGgdvdXRkb29yGgdvdXRzaWRlGgVwYXRpbzK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGWjFSRXNKdXFyN2dkc0w4YjFjWU5BQzVQUklLUk92ekw2YUNfT0JCS0paSGVzRDJGdE9sYS14T1BTeUx2R0dLaE83cVMzMFZ2VW1pc2ZOa2xPVGtQeVZiOXNsN2d2X3pGTWxMOFFnMXIwUmxMdDlna1c3am5DR3JMRmNkWkpaVVFVaThhR1Rjbzd4dVlEWjA0WldTenY0WkVUTE1RYXZWRWNEdlRROktUaGUgNyA8Yj5CZXN0PC9iPiBXYXRlcnByb29mIDxiPkJsdWV0b290aCBTcGVha2VyczwvYj4gb2YgMjAyNiAtIFJUSU5HUyAuLi5CoQFUaGUgPGI-SkJMIEJvb21ib3ggNCBpcyB0aGUgYmVzdCB3YXRlcnByb29mIEJsdWV0b290aCBzcGVha2VyPC9iPiB3ZSYjMzk7dmUgdGVzdGVkLiBUaGUgSkJMIFBhcnR5Qm94IFN0YWdlIDMyMCBpcyB0aGUgYmVzdCB3YXRlci1yZXNpc3RhbnQgcGFydHkgc3BlYWtlciZuYnNwOy4uLkoDZm9yUgRiZXN0UgIxMCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZaMVJFc0p1cXI3Z2RzTDhiMWNZTkFDNVBSSUtST3Z6TDZhQ19PQkJLSlpIZXNEMkZ0T2xhLXhPUFN5THZHR0toTzdxUzMwVnZVbWlzZk5rbE9Ua1B5VmI5c2w3Z3ZfekZNbEw4UWcxcjBSbEx0OWdrVzdqbkNHckxGY2RaSlpVUVVpOGFHVGNvN3h1WURaMDRaV1N6djRaRVRMTVFhdlZFY0R2VFESBBoCCAAahAgSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDeBwgAEAAYACAAKrEBCgN0b3AVOTXxPhoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQaB2hpZ2hlc3QaBmhpZ2hseRoEbW9zdBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBnJldmlldxoHcmV2aWV3cxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKlsKBXJhdGVkFWBpDj8aAjEwGgpjb21wYXJpc29uGgZyYW5rZWQaBnJhdGluZxoHcmF0aW5ncxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKhkKCHBvcnRhYmxlFTPi0D8aCHdpcmVsZXNzKkUKCWJsdWV0b290aBUwjcdAGhBwb3J0YWJsZSBzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoOaXY7cDtibHVldG9vdGgqWgoIc3BlYWtlcnMVWSjOQBoQcG9ydGFibGUgc3BlYWtlchoMc291bmQgc3lzdGVtGgdzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoNaXY7cDtzcGVha2VycyoKCgNmb3IVAAAAACo6CghvdXRkb29ycxVXs8Y_GghleHRlcmlvchoGZ2FyZGVuGgdvdXRkb29yGgdvdXRzaWRlGgVwYXRpbzK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGWjFSRXNKdXFyN2dkc0w4YjFjWU5BQzVQUklLUk92ekw2YUNfT0JCS0paSGVzRDJGdE9sYS14T1BTeUx2R0dLaE83cVMzMFZ2VW1pc2ZOa2xPVGtQeVZiOXNsN2d2X3pGTWxMOFFnMXIwUmxMdDlna1c3am5DR3JMRmNkWkpaVVFVaThhR1Rjbzd4dVlEWjA0WldTenY0WkVUTE1RYXZWRWNEdlRROktUaGUgNyA8Yj5CZXN0PC9iPiBXYXRlcnByb29mIDxiPkJsdWV0b290aCBTcGVha2VyczwvYj4gb2YgMjAyNiAtIFJUSU5HUyAuLi5CoQFUaGUgPGI-SkJMIEJvb21ib3ggNCBpcyB0aGUgYmVzdCB3YXRlcnByb29mIEJsdWV0b290aCBzcGVha2VyPC9iPiB3ZSYjMzk7dmUgdGVzdGVkLiBUaGUgSkJMIFBhcnR5Qm94IFN0YWdlIDMyMCBpcyB0aGUgYmVzdCB3YXRlci1yZXNpc3RhbnQgcGFydHkgc3BlYWtlciZuYnNwOy4uLkoDZm9yUgRiZXN0UgIxMCICEAFIAFgAaAA",
+      "source": "RTINGS.com"
+    },
+    {
+      "position": 9,
+      "title": "Outdoor Speakers | Waterproof Bluetooth Speakers",
+      "link": "https://www.jbl.com/outdoor-speakers/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVAIfwuGwUxwPke_N_sdu56x9qsJcVQgDZTnt3ovtg22jlxKq4vUA_8WhHlXqpQ7wujsovtUoMRvzwZvm519laOfS5AXM3LdfBkhwXrjLlqP3hhyptpsdfSA&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQFnoECDsQAQ&uoh=1",
+      "displayed_link": "https://www.jbl.com › outdoor-speakers",
+      "snippet": "JBLs waterproof & outdoor speakers, designed to deliver incredible sound clarity any season. Let these speakers fill your outdoor space with amazing sound!",
+      "snippet_highlighted_words": [
+        "JBLs waterproof & outdoor speakers"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "store_rating": 229,
+            "price_from": 50,
+            "price_to": 580,
+            "currency": "$",
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.5",
+            "store rating (229)",
+            "$50 to $580",
+            "Free delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "JBLs waterproof & outdoor speakers, designed to deliver incredible sound clarity any season. Let these speakers fill your outdoor space with amazing sound!",
+          "source_info_link": "https://www.jbl.com/outdoor-speakers/",
+          "icon": "https://serpapi.com/images/i/UklGRkgBAABXRUJQVlA4IDwBAACQCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhHw_l9w31A8gRrv_AaJ3zAY676AHldeycRE36zDAn5-9foucI1kA7Gd6l4BLC1tV4AD-7bO4Yo2ZZQrsIhQkh74XOaEQRg7g31Hv44d3yudAIvYD_3OXcU35IdO-eZTcuFJtGcio_0JdGcrGv_EzxKXZHjRPKU6so--_0Cc3NlrgsynP120R5iaApXy1qvakUCDVRqcNFr46Rf5efKnEaO279-XW8AHEHKGX9c2Of-avSL6Wf_LSO_v-J1bv3M49Hbhut3F8hQ7x4fsfes5zt96dt_Gq9Og8vz1_7F8PqZYYa62Ojv7assyAnLwa5r5Ynw8Mqp314fg35rgX4Mr1jxtkpBAdoe6SLrqOSPfsNfdWbY0vvF3XqukVHaU78gAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVkFJZnd1R3dVeHdQa2VfTl9zZHU1Nng5cXNKY1ZRZ0RaVG50M292dGcyMmpseEtxNHZVQV84V2hIbFhxcFE3d3Vqc292dFVvTVJ2endadm01MTlsYU9mUzVBWE0zTGRmQmtod1hyakxscVAzaGh5cHRwc2RmU0ESBBoCCAAa0gcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCsBwgAEAAYACAAKrEBCgN0b3AVUhO-PBoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQaB2hpZ2hlc3QaBmhpZ2hseRoEbW9zdBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBnJldmlldxoHcmV2aWV3cxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKlsKBXJhdGVkFQAAAAAaAjEwGgpjb21wYXJpc29uGgZyYW5rZWQaBnJhdGluZxoHcmF0aW5ncxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKhkKCHBvcnRhYmxlFSdWDUAaCHdpcmVsZXNzKkUKCWJsdWV0b290aBX2DGVAGhBwb3J0YWJsZSBzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoOaXY7cDtibHVldG9vdGgqWgoIc3BlYWtlcnMV_Z22QBoQcG9ydGFibGUgc3BlYWtlchoMc291bmQgc3lzdGVtGgdzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoNaXY7cDtzcGVha2VycyoKCgNmb3IVAAAAACo6CghvdXRkb29ycxUuNT4-GghleHRlcmlvchoGZ2FyZGVuGgdvdXRkb29yGgdvdXRzaWRlGgVwYXRpbzKMAS9nb3RvP3VybD1DQUVTWFFIck96QVZBSWZ3dUd3VXh3UGtlX05fc2R1NTZ4OXFzSmNWUWdEWlRudDNvdnRnMjJqbHhLcTR2VUFfOFdoSGxYcXBRN3d1anNvdnRVb01Sdnp3WnZtNTE5bGFPZlM1QVhNM0xkZkJraHdYcmpMbHFQM2hoeXB0cHNkZlNBOkQ8Yj5PdXRkb29yPC9iPiBTcGVha2VycyB8IFdhdGVycHJvb2YgPGI-Qmx1ZXRvb3RoIFNwZWFrZXJzPC9iPiAtIEpCTEKmATxiPkpCTHMgd2F0ZXJwcm9vZiAmYW1wOyBvdXRkb29yIHNwZWFrZXJzPC9iPiwgZGVzaWduZWQgdG8gZGVsaXZlciBpbmNyZWRpYmxlIHNvdW5kIGNsYXJpdHkgYW55IHNlYXNvbi4gTGV0IHRoZXNlIHNwZWFrZXJzIGZpbGwgeW91ciBvdXRkb29yIHNwYWNlIHdpdGggYW1hemluZyBzb3VuZCFKA2ZvclIEYmVzdFICMTAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVkFJZnd1R3dVeHdQa2VfTl9zZHU1Nng5cXNKY1ZRZ0RaVG50M292dGcyMmpseEtxNHZVQV84V2hIbFhxcFE3d3Vqc292dFVvTVJ2endadm01MTlsYU9mUzVBWE0zTGRmQmtod1hyakxscVAzaGh5cHRwc2RmU0ESBBoCCAAa0gcSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCsBwgAEAAYACAAKrEBCgN0b3AVUhO-PBoEYmVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQaB2hpZ2hlc3QaBmhpZ2hseRoEbW9zdBoHcmFua2luZxoIcmFua2luZ3MaBnJhdGluZxoHcmF0aW5ncxoLcmVjb21tZW5kZWQaBnJldmlldxoHcmV2aWV3cxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKlsKBXJhdGVkFQAAAAAaAjEwGgpjb21wYXJpc29uGgZyYW5rZWQaBnJhdGluZxoHcmF0aW5ncxoMcmV2aWV3cyAyMDEwGgxyZXZpZXdzIDIwMTIaCHRvcHJhdGVkKhkKCHBvcnRhYmxlFSdWDUAaCHdpcmVsZXNzKkUKCWJsdWV0b290aBX2DGVAGhBwb3J0YWJsZSBzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoOaXY7cDtibHVldG9vdGgqWgoIc3BlYWtlcnMV_Z22QBoQcG9ydGFibGUgc3BlYWtlchoMc291bmQgc3lzdGVtGgdzcGVha2VyGhFibHVldG9vdGhzcGVha2VycxoNaXY7cDtzcGVha2VycyoKCgNmb3IVAAAAACo6CghvdXRkb29ycxUuNT4-GghleHRlcmlvchoGZ2FyZGVuGgdvdXRkb29yGgdvdXRzaWRlGgVwYXRpbzKMAS9nb3RvP3VybD1DQUVTWFFIck96QVZBSWZ3dUd3VXh3UGtlX05fc2R1NTZ4OXFzSmNWUWdEWlRudDNvdnRnMjJqbHhLcTR2VUFfOFdoSGxYcXBRN3d1anNvdnRVb01Sdnp3WnZtNTE5bGFPZlM1QVhNM0xkZkJraHdYcmpMbHFQM2hoeXB0cHNkZlNBOkQ8Yj5PdXRkb29yPC9iPiBTcGVha2VycyB8IFdhdGVycHJvb2YgPGI-Qmx1ZXRvb3RoIFNwZWFrZXJzPC9iPiAtIEpCTEKmATxiPkpCTHMgd2F0ZXJwcm9vZiAmYW1wOyBvdXRkb29yIHNwZWFrZXJzPC9iPiwgZGVzaWduZWQgdG8gZGVsaXZlciBpbmNyZWRpYmxlIHNvdW5kIGNsYXJpdHkgYW55IHNlYXNvbi4gTGV0IHRoZXNlIHNwZWFrZXJzIGZpbGwgeW91ciBvdXRkb29yIHNwYWNlIHdpdGggYW1hemluZyBzb3VuZCFKA2ZvclIEYmVzdFICMTAiAhABSABYAGgA",
+      "source": "JBL"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best Bluetooth speakers for bass and sound quality",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&q=Best+Bluetooth+speakers+for+bass+and+sound+quality&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+Bluetooth+speakers+for+bass+and+sound+quality"
+    },
+    {
+      "block_position": 1,
+      "query": "Top rated portable bluetooth speakers for outdoors amazon",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&q=Top+rated+portable+bluetooth+speakers+for+outdoors+amazon&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ1QJ6BAhdEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Top+rated+portable+bluetooth+speakers+for+outdoors+amazon"
+    },
+    {
+      "block_position": 1,
+      "query": "Best Bluetooth speaker sound quality",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&q=Best+Bluetooth+speaker+sound+quality&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ1QJ6BAhcEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+Bluetooth+speaker+sound+quality"
+    },
+    {
+      "block_position": 1,
+      "query": "Best outdoor speakers Bluetooth waterproof",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&q=Best+outdoor+speakers+Bluetooth+waterproof&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+outdoor+speakers+Bluetooth+waterproof"
+    },
+    {
+      "block_position": 1,
+      "query": "Waterproof Outdoor speakers Bluetooth",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&q=Waterproof+Outdoor+speakers+Bluetooth&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Waterproof+Outdoor+speakers+Bluetooth"
+    },
+    {
+      "block_position": 1,
+      "query": "Best Bluetooth speaker for outdoor party",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&q=Best+Bluetooth+speaker+for+outdoor+party&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+Bluetooth+speaker+for+outdoor+party"
+    },
+    {
+      "block_position": 1,
+      "query": "Best Bluetooth speaker for home",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&q=Best+Bluetooth+speaker+for+home&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+Bluetooth+speaker+for+home"
+    },
+    {
+      "block_position": 1,
+      "query": "Best portable Bluetooth speaker 2026",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&q=Best+portable+Bluetooth+speaker+2026&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+portable+Bluetooth+speaker+2026"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Under $90",
+      "link": "https://www.google.com/search?gl=us&q=top+rated+portable+bluetooth+speakers+for+outdoors+under+$90&hl=en&shoprs=CAESDRILEQAAAAAqdZVBGAEYBSoydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyIggFEglVbmRlciAkOTAYAiINEgsRAAAAACp1lUEYASoCGAFYk6ogYAE&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKAF6BQgvEIwB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors+under+%2490"
+    },
+    {
+      "query": "Wireless",
+      "link": "https://www.google.com/search?gl=us&q=wireless+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAEYASoydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyGAgBEghXaXJlbGVzczoKCMyrKxDOqyswA1iTqiBgAQ&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKAJ6BQgvEI0B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=wireless+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&q=top+rated+portable+bluetooth+speakers+for+outdoors+sale&hl=en&shoprs=CAESBEoCGAEYBioydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyEwgGEgdPbiBzYWxlGAIiBEoCGAFYk6ogYAE&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKAN6BQgvEI4B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors+sale"
+    },
+    {
+      "query": "Small",
+      "link": "https://www.google.com/search?gl=us&q=small+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAEYEioydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyCQgSEgVTbWFsbGAB&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKAR6BQgvEI8B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=small+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "30 – 100 W",
+      "link": "https://www.google.com/search?gl=us&q=30+w+to+100+w+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAESGyoZCP6ulgMSEgkAAAAAAAA-QBEAAAAAAABZQBgBKjJ0b3AgcmF0ZWQgcG9ydGFibGUgYmx1ZXRvb3RoIHNwZWFrZXJzIGZvciBvdXRkb29yczJLCAESDDMwIOKAkyAxMDAgVyIbKhkI_q6WAxISCQAAAAAAAD5AEQAAAAAAAFlAKhEKDTMwIFcgdG8gMTAwIFcYAToJCP6ulgMQADAGWJOqIGAB&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKAV6BQgvEJAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=30+w+to+100+w+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "10 – 30 W",
+      "link": "https://www.google.com/search?gl=us&q=10+w+to+30+w+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAESGyoZCP6ulgMSEgkAAAAAAAAkQBEAAAAAAAA-QBgBKjJ0b3AgcmF0ZWQgcG9ydGFibGUgYmx1ZXRvb3RoIHNwZWFrZXJzIGZvciBvdXRkb29yczJJCAESCzEwIOKAkyAzMCBXIhsqGQj-rpYDEhIJAAAAAAAAJEARAAAAAAAAPkAqEAoMMTAgVyB0byAzMCBXGAE6CQj-rpYDEAAwBliTqiBgAQ&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKAZ6BQgvEJEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=10+w+to+30+w+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "Under 10 W",
+      "link": "https://www.google.com/search?gl=us&q=under+10+w+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAESEioQCP6ulgMSCREAAAAAAAAkQBgBKjJ0b3AgcmF0ZWQgcG9ydGFibGUgYmx1ZXRvb3RoIHNwZWFrZXJzIGZvciBvdXRkb29yczIxCAESClVuZGVyIDEwIFciEioQCP6ulgMSCREAAAAAAAAkQCoCGAE6CQj-rpYDEAAwBliTqiBgAQ&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKAd6BQgvEJIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=under+10+w+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "Over 100 W",
+      "link": "https://www.google.com/search?gl=us&q=over+100+w+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAESEioQCP6ulgMSCQkAAAAAAABZQBgBKjJ0b3AgcmF0ZWQgcG9ydGFibGUgYmx1ZXRvb3RoIHNwZWFrZXJzIGZvciBvdXRkb29yczIxCAESCk92ZXIgMTAwIFciEioQCP6ulgMSCQkAAAAAAABZQCoCGAE6CQj-rpYDEAAwBliTqiBgAQ&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKAh6BQgvEJMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=over+100+w+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "Get it today",
+      "link": "https://www.google.com/search?gl=us&q=top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAESDZoBCgoIEAA4AUADSAEYFCoydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyJQgUEgxHZXQgaXQgdG9kYXkiDZoBCgoIEAA4AUADSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKAl6BQgvEJQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "Large",
+      "link": "https://www.google.com/search?gl=us&q=large+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAEYEioydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyCQgSEgVMYXJnZWAB&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKAp6BQgvEJUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=large+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "16 – 24 hr battery life",
+      "link": "https://www.google.com/search?gl=us&q=16+hr+battery+life+to+24+hr+battery+life+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAESGyoZCOqd2gMSEgkAAAAAAAAwQBEAAAAAAAA4QBgBKjJ0b3AgcmF0ZWQgcG9ydGFibGUgYmx1ZXRvb3RoIHNwZWFrZXJzIGZvciBvdXRkb29yczJzCAESGTE2IOKAkyAyNCBociBiYXR0ZXJ5IGxpZmUiGyoZCOqd2gMSEgkAAAAAAAAwQBEAAAAAAAA4QCosCigxNiBociBiYXR0ZXJ5IGxpZmUgdG8gMjQgaHIgYmF0dGVyeSBsaWZlGAE6CQjqndoDEAAwBliTqiBgAQ&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKAt6BQgvEJYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=16+hr+battery+life+to+24+hr+battery+life+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "Over 24 hr battery life",
+      "link": "https://www.google.com/search?gl=us&q=over+24+hr+battery+life+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAESEioQCOqd2gMSCQkAAAAAAAA4QBgBKjJ0b3AgcmF0ZWQgcG9ydGFibGUgYmx1ZXRvb3RoIHNwZWFrZXJzIGZvciBvdXRkb29yczI-CAESF092ZXIgMjQgaHIgYmF0dGVyeSBsaWZlIhIqEAjqndoDEgkJAAAAAAAAOEAqAhgBOgkI6p3aAxAAMAZYk6ogYAE&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKAx6BQgvEJcB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=over+24+hr+battery+life+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "12 – 16 hr battery life",
+      "link": "https://www.google.com/search?gl=us&q=12+hr+battery+life+to+16+hr+battery+life+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAESGyoZCOqd2gMSEgkAAAAAAAAoQBEAAAAAAAAwQBgBKjJ0b3AgcmF0ZWQgcG9ydGFibGUgYmx1ZXRvb3RoIHNwZWFrZXJzIGZvciBvdXRkb29yczJzCAESGTEyIOKAkyAxNiBociBiYXR0ZXJ5IGxpZmUiGyoZCOqd2gMSEgkAAAAAAAAoQBEAAAAAAAAwQCosCigxMiBociBiYXR0ZXJ5IGxpZmUgdG8gMTYgaHIgYmF0dGVyeSBsaWZlGAE6CQjqndoDEAAwBliTqiBgAQ&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKA16BQgvEJgB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=12+hr+battery+life+to+16+hr+battery+life+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "Black",
+      "link": "https://www.google.com/search?gl=us&q=black+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAEYASoydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyFQgBEgVCbGFjazoKCKHIaBCiyGgwAFiTqiBgAQ&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKA56BQgvEJkB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=black+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "Under 12 hr battery life",
+      "link": "https://www.google.com/search?gl=us&q=under+12+hr+battery+life+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAESEioQCOqd2gMSCREAAAAAAAAoQBgBKjJ0b3AgcmF0ZWQgcG9ydGFibGUgYmx1ZXRvb3RoIHNwZWFrZXJzIGZvciBvdXRkb29yczI_CAESGFVuZGVyIDEyIGhyIGJhdHRlcnkgbGlmZSISKhAI6p3aAxIJEQAAAAAAAChAKgIYAToJCOqd2gMQADAGWJOqIGAB&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKA96BQgvEJoB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=under+12+hr+battery+life+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "2 Channel",
+      "link": "https://www.google.com/search?gl=us&q=2+channel+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAEYASoydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyGQgBEgkyIENoYW5uZWw6CgjSqysQ06srMABYk6ogYAE&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKBB6BQgvEJsB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=2+channel+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "Music",
+      "link": "https://www.google.com/search?gl=us&q=music+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAEYEioydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyCQgSEgVNdXNpY2AB&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKBF6BQgvEJwB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=music+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "DJ",
+      "link": "https://www.google.com/search?gl=us&q=dj+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAEYASoydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyFAgBEgJESjoMCMeM8AEQy4zwATAAWJOqIGAB&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKBJ6BQgvEJ0B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=dj+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "3.2 – 4.7 in wide",
+      "link": "https://www.google.com/search?gl=us&q=3.2+in+wide+to+4.7+in+wide+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAESGyoZCISe2gMSEgkAAABAiUEgQBEAAABAQNMnQBgBKjJ0b3AgcmF0ZWQgcG9ydGFibGUgYmx1ZXRvb3RoIHNwZWFrZXJzIGZvciBvdXRkb29yczJfCAESEzMuMiDigJMgNC43IGluIHdpZGUiGyoZCISe2gMSEgkAAABAiUEgQBEAAABAQNMnQCoeChozLjIgaW4gd2lkZSB0byA0LjcgaW4gd2lkZRgBOgkIhJ7aAxAAMAZYk6ogYAE&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKBN6BQgvEJ4B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=3.2+in+wide+to+4.7+in+wide+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "Set",
+      "link": "https://www.google.com/search?gl=us&q=set+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAEYASoydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyEwgBEgNTZXQ6CgiNzGwQjsxsMANYk6ogYAE&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKBR6BQgvEJ8B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=set+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "Over 11.2 in wide",
+      "link": "https://www.google.com/search?gl=us&q=over+11.2+in+wide+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAESEioQCISe2gMSCQkAAADgh148QBgBKjJ0b3AgcmF0ZWQgcG9ydGFibGUgYmx1ZXRvb3RoIHNwZWFrZXJzIGZvciBvdXRkb29yczI4CAESEU92ZXIgMTEuMiBpbiB3aWRlIhIqEAiEntoDEgkJAAAA4IdePEAqAhgBOgkIhJ7aAxAAMAZYk6ogYAE&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKBV6BQgvEKAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=over+11.2+in+wide+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "Over 7,500 mAh",
+      "link": "https://www.google.com/search?gl=us&q=over+7,500+mah+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAESEioQCMD12QMSCQkAAAAAAEy9QBgBKjJ0b3AgcmF0ZWQgcG9ydGFibGUgYmx1ZXRvb3RoIHNwZWFrZXJzIGZvciBvdXRkb29yczI1CAESDk92ZXIgNyw1MDAgbUFoIhIqEAjA9dkDEgkJAAAAAABMvUAqAhgBOgkIwPXZAxAAMAZYk6ogYAE&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKBZ6BQgvEKEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=over+7%2C500+mah+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "Smart Speaker",
+      "link": "https://www.google.com/search?gl=us&q=smart+speaker+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAEYASoydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyHQgBEg1TbWFydCBTcGVha2VyOgoI185DENjOQzADWJOqIGAB&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKBd6BQgvEKIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=smart+speaker+top+rated+portable+bluetooth+speakers+for+outdoors"
+    },
+    {
+      "query": "New",
+      "link": "https://www.google.com/search?gl=us&q=new+top+rated+portable+bluetooth+speakers+for+outdoors&hl=en&shoprs=CAEYCioydG9wIHJhdGVkIHBvcnRhYmxlIGJsdWV0b290aCBzcGVha2VycyBmb3Igb3V0ZG9vcnMyBwgKEgNOZXdYk6ogYAE&sa=X&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQip4GKBh6BQgvEKMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=new+top+rated+portable+bluetooth+speakers+for+outdoors"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+rated+portable+bluetooth+speakers+for+outdoors&sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&ei=Ec-zapHnMuvW1sQP_sfj2AE&start=10&sa=N&sstk=AS6-VmK8mcSCahWz2HCzWee1a-Qk5y07KOkimZHj-UXRuBw8VBXb-DUYSu2lvjyPqGS4PoyKG39Fts4EqfZJdozm20iEzI7QsaBalA&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ8NMDegQIShAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+rated+portable+bluetooth+speakers+for+outdoors&sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&ei=Ec-zapHnMuvW1sQP_sfj2AE&start=10&sa=N&sstk=AS6-VmK8mcSCahWz2HCzWee1a-Qk5y07KOkimZHj-UXRuBw8VBXb-DUYSu2lvjyPqGS4PoyKG39Fts4EqfZJdozm20iEzI7QsaBalA&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ8tMDegQIShAE",
+      "3": "https://www.google.com/search?q=top+rated+portable+bluetooth+speakers+for+outdoors&sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&ei=Ec-zapHnMuvW1sQP_sfj2AE&start=20&sa=N&sstk=AS6-VmK8mcSCahWz2HCzWee1a-Qk5y07KOkimZHj-UXRuBw8VBXb-DUYSu2lvjyPqGS4PoyKG39Fts4EqfZJdozm20iEzI7QsaBalA&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ8tMDegQIShAG",
+      "4": "https://www.google.com/search?q=top+rated+portable+bluetooth+speakers+for+outdoors&sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&ei=Ec-zapHnMuvW1sQP_sfj2AE&start=30&sa=N&sstk=AS6-VmK8mcSCahWz2HCzWee1a-Qk5y07KOkimZHj-UXRuBw8VBXb-DUYSu2lvjyPqGS4PoyKG39Fts4EqfZJdozm20iEzI7QsaBalA&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ8tMDegQIShAI",
+      "5": "https://www.google.com/search?q=top+rated+portable+bluetooth+speakers+for+outdoors&sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&ei=Ec-zapHnMuvW1sQP_sfj2AE&start=40&sa=N&sstk=AS6-VmK8mcSCahWz2HCzWee1a-Qk5y07KOkimZHj-UXRuBw8VBXb-DUYSu2lvjyPqGS4PoyKG39Fts4EqfZJdozm20iEzI7QsaBalA&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ8tMDegQIShAK",
+      "6": "https://www.google.com/search?q=top+rated+portable+bluetooth+speakers+for+outdoors&sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&ei=Ec-zapHnMuvW1sQP_sfj2AE&start=50&sa=N&sstk=AS6-VmK8mcSCahWz2HCzWee1a-Qk5y07KOkimZHj-UXRuBw8VBXb-DUYSu2lvjyPqGS4PoyKG39Fts4EqfZJdozm20iEzI7QsaBalA&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ8tMDegQIShAM",
+      "7": "https://www.google.com/search?q=top+rated+portable+bluetooth+speakers+for+outdoors&sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&ei=Ec-zapHnMuvW1sQP_sfj2AE&start=60&sa=N&sstk=AS6-VmK8mcSCahWz2HCzWee1a-Qk5y07KOkimZHj-UXRuBw8VBXb-DUYSu2lvjyPqGS4PoyKG39Fts4EqfZJdozm20iEzI7QsaBalA&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ8tMDegQIShAO",
+      "8": "https://www.google.com/search?q=top+rated+portable+bluetooth+speakers+for+outdoors&sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&ei=Ec-zapHnMuvW1sQP_sfj2AE&start=70&sa=N&sstk=AS6-VmK8mcSCahWz2HCzWee1a-Qk5y07KOkimZHj-UXRuBw8VBXb-DUYSu2lvjyPqGS4PoyKG39Fts4EqfZJdozm20iEzI7QsaBalA&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ8tMDegQIShAQ",
+      "9": "https://www.google.com/search?q=top+rated+portable+bluetooth+speakers+for+outdoors&sca_esv=9f97b11af8265622&gl=us&hl=en&sxsrf=APpeQntfnADuDtImsfoeDvhctjzzwGjUnQ:1790168849838&ei=Ec-zapHnMuvW1sQP_sfj2AE&start=80&sa=N&sstk=AS6-VmK8mcSCahWz2HCzWee1a-Qk5y07KOkimZHj-UXRuBw8VBXb-DUYSu2lvjyPqGS4PoyKG39Fts4EqfZJdozm20iEzI7QsaBalA&ved=2ahUKEwjRs4fT4oSXAxVrq5UCHf7jGBsQ8tMDegQIShAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+rated+portable+bluetooth+speakers+for+outdoors&start=80"
+    }
+  }
+}

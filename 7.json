@@ -1,0 +1,1325 @@
+{
+  "search_metadata": {
+    "id": "6ab3c833a39c28080cb186c3",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Etru1HV1QDBAtnUtirAIQxBitBVeQRmubDqLEnwRnqQ/6ab3c833a39c28080cb186c3.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Etru1HV1QDBAtnUtirAIQxBitBVeQRmubDqLEnwRnqQ/6ab3c833a39c28080cb186c3.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Etru1HV1QDBAtnUtirAIQxBitBVeQRmubDqLEnwRnqQ/6ab3c833a39c28080cb186c3.json_with_pixel_position",
+    "created_at": "2026-09-23 12:38:11 UTC",
+    "processed_at": "2026-09-23 12:38:11 UTC",
+    "google_url": "https://www.google.com/search?q=best+budget+smartphones+with+good+battery+life&oq=best+budget+smartphones+with+good+battery+life&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Etru1HV1QDBAtnUtirAIQxBitBVeQRmubDqLEnwRnqQ/6ab3c833a39c28080cb186c3.html",
+    "total_time_taken": 9.31
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best budget smartphones with good battery life",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best budget smartphones with good battery life",
+    "total_results": 186,
+    "time_taken_displayed": 0.36,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Best Budget 3 DAY BATTERY LIFE Phones to buy in 2026",
+      "link": "https://www.youtube.com/watch?v=nR4rHAHgSMU",
+      "thumbnail": "https://serpapi.com/searches/6ab3c833a39c28080cb186c3/images/5LyMORF6uOEsm6M8KUJlilrpgiON1cdWhrQcjLJp0kw.jpeg",
+      "channel": "GadgetGeeks",
+      "duration": "8:08",
+      "platform": "YouTube",
+      "date": "1 month ago"
+    },
+    {
+      "position": 2,
+      "title": "Best Cheap Budget Smartphones (Updated for 2026)",
+      "link": "https://www.youtube.com/watch?v=5-hD_TnDf4M",
+      "thumbnail": "https://serpapi.com/searches/6ab3c833a39c28080cb186c3/images/p1mdcPPIEo_Ez6IKFmxST2oOx_90Wbp8F2pvpdbRqBQ.jpeg",
+      "channel": "Kevin Breeze",
+      "duration": "12:21",
+      "platform": "YouTube",
+      "date": "4 days ago",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRkE-s66vfh2Kkezz4vmoLFWDWMGmBWbjO4lw"
+    },
+    {
+      "position": 3,
+      "title": "Best Battery Life Budget Phones 2026",
+      "link": "https://www.youtube.com/watch?v=JP41-ugxS_E&vl=en-US",
+      "thumbnail": "https://serpapi.com/searches/6ab3c833a39c28080cb186c3/images/KE2meoe0KSdVKOZyYql_Ini_3U_ai9dosSQJPZx9hbo.jpeg",
+      "channel": "GadgetGeeks",
+      "duration": "8:12",
+      "platform": "YouTube",
+      "date": "Oct 11, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTDkrehdVNVJ9hfgWw-5AWGWZYoBOok_6QZmA"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRS6VZncbv9vI-5JRiZcXe045Hy2IQhKh1A1QoMJ04j7rA28xXQhQjdAaZYZ_AhiKHCl9dJlSovlh-_-d4n7B9O6pdsQVWBJjQYw6ALzGM",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Motorola moto g play",
+      "rating": 4.4,
+      "reviews": 1200,
+      "price": "$99.99",
+      "extracted_price": 99.99,
+      "original_price": "$150",
+      "extracted_original_price": 150,
+      "location": "Nearby, 17 mi",
+      "extensions": [
+        "33% OFF"
+      ],
+      "immersive_product_page_token": "5yNbDXicbY_LjqNGFIaV57EmqqK4ZucL4Kah3JQBYzajgsIuTHGxKV8a5R3yDu6ZSJNlEinbvEbnSbKMW9nO6hzp_86v7_xyL6u_VmY10v6T9Wy64CiHl8ZXun3YfetPHTsXsmJ_QlNRDGAoGtBUXdeAZUHtW0ElFd3-I4aGYloIQkVTgKlb2oP_nZeUiaotV7tdeVp0RcX-gBowH7e6AXTDAAhZUP-taui-_D82IUKKCZBpaY-JTMMy305seFde5p91QzU0VYOK-jAxkP7Yfn4hq8Xn72dfj-fy9Pr-Y14OcpKf2b6Uk6GhJ9nzri2HybWSfLLvOjbJqZQPdCKqXfl13394fKfvranY32_9Rd75_sv5LMr3T9fJfPoUPs2faJgmI3PF2XeIKF1n9J3kTFMisvksYq4DsjS478X9PNy5uJftrx3tL7vinx_-tS_FfH4q5mHc98mCgHWCKV1yn47JuGl5skbZdbPsZZgwh9TEK5NAxUt83QpvFgDMiZ2lkbC6_LCH5MDXMepfggYetweeENi3ed1JPxXLUlg-AUx9MB1tMUoQppHLx3Utb6XNXqgrD2QUbVlbR-JulU1LdkHMMxpl2wz2hxwANRAZj2xnmSynKhaxsnKBmte4D-P4tkntK1O8tNhs5aP3WDZPiLmxFgPhl3Ym_DjhBRg0rFhdYsvNNnLq3L3Va9taxEKQsMYYNzfKbLHCIlkkDR62qK9yF4ogfrgllocbed4K7BW1CNORy7Cd8RRaKkPTW3Rw5kUsj8Qm2I_4jC1wz0ZOCQpvazRLo7qXAew1P_JmeJyFfvLxE-uoXbwWqfecKSpaxZ6NUYfyBdFZS3Rai-s2JummMdcOMFWa9ryYA2098mWwdEABZzJaeJcMOhe38mZkiV9XmyymwEKFi1_XKV_5UbLKRhEHKevyGpKgSa7xBrdfbsNp9w6mjibXK80zrWGPwktq3g47txLNFW6f8XC-3KY_QcMCUDcgABCi_wBOOT27",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5yNbDXicbY_LjqNGFIaV57EmqqK4ZucL4Kah3JQBYzajgsIuTHGxKV8a5R3yDu6ZSJNlEinbvEbnSbKMW9nO6hzp_86v7_xyL6u_VmY10v6T9Wy64CiHl8ZXun3YfetPHTsXsmJ_QlNRDGAoGtBUXdeAZUHtW0ElFd3-I4aGYloIQkVTgKlb2oP_nZeUiaotV7tdeVp0RcX-gBowH7e6AXTDAAhZUP-taui-_D82IUKKCZBpaY-JTMMy305seFde5p91QzU0VYOK-jAxkP7Yfn4hq8Xn72dfj-fy9Pr-Y14OcpKf2b6Uk6GhJ9nzri2HybWSfLLvOjbJqZQPdCKqXfl13394fKfvranY32_9Rd75_sv5LMr3T9fJfPoUPs2faJgmI3PF2XeIKF1n9J3kTFMisvksYq4DsjS478X9PNy5uJftrx3tL7vinx_-tS_FfH4q5mHc98mCgHWCKV1yn47JuGl5skbZdbPsZZgwh9TEK5NAxUt83QpvFgDMiZ2lkbC6_LCH5MDXMepfggYetweeENi3ed1JPxXLUlg-AUx9MB1tMUoQppHLx3Utb6XNXqgrD2QUbVlbR-JulU1LdkHMMxpl2wz2hxwANRAZj2xnmSynKhaxsnKBmte4D-P4tkntK1O8tNhs5aP3WDZPiLmxFgPhl3Ym_DjhBRg0rFhdYsvNNnLq3L3Va9taxEKQsMYYNzfKbLHCIlkkDR62qK9yF4ogfrgllocbed4K7BW1CNORy7Cd8RRaKkPTW3Rw5kUsj8Qm2I_4jC1wz0ZOCQpvazRLo7qXAew1P_JmeJyFfvLxE-uoXbwWqfecKSpaxZ6NUYfyBdFZS3Rai-s2JummMdcOMFWa9ryYA2098mWwdEABZzJaeJcMOhe38mZkiV9XmyymwEKFi1_XKV_5UbLKRhEHKevyGpKgSa7xBrdfbsNp9w6mjibXK80zrWGPwktq3g47txLNFW6f8XC-3KY_QcMCUDcgABCi_wBOOT27"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRaten3IzxlUiMZKK0kfpIMI7Un15argRsr5KMjed9ueYQwLvPBMyFBnI-jJOW9TNKXEkwRjOSuCeCREGyst-tIlEqomkSQ0h1bNUgQqvs",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Motorola Moto G 2025",
+      "rating": 3.9,
+      "reviews": 216,
+      "price": "$49.88",
+      "extracted_price": 49.88,
+      "location": "Nearby, 20 mi",
+      "immersive_product_page_token": "EjO3S3icbZBLjttGFEWBrCG7EBzUjxLpWUv8u0WKnyLVNTFIFsVPF8lqiRJbQvaQPch2AGdoB8haOqsJnbFnD-9d3Hve_eNeNv_4anPL5Dvtg2qBl_G06x7RUAXDV3kc-LkYG_5dVTFZahitgALgStWQSr4W2ZiJoWr43xArK0CWYAWhBlRNVVQEv9VlxkXTl_7hUB71ofihI3CFNKwgVSNEBRrCcPVX02VV-f_9O8QAL5caWWENEWUWE_LpyE9vaLf5iPESQUUByrzVMEAQq7_vQl__-PPbl5dzeby-_ZaXp3GRn3lVjotTlx1HWQ99eVpMzVgvqmHgizwbx1m6EM2h_FLJHxw_8fvUNfybslqS5QyvEEXFkOAZT17Ge119Pp9F-fZuWmwenMDZOFmwT27cEudHMxSlZd4ezeSc7UPBNuuYWyZg--29Evfz6V6Le9n_OWTycij-_eVXY5j0zWnaBFTKRA9B1LuU28Nta0ArBhxt96FLcRglRgiovfa3qXKKUjnHeW7ehj7veEs7B-V7N43acCq60SgNKBL9AczzhaaK72Hv6iHnNbOTp0KIa66HCWvXIwPm5OtJM4OyEGmb0tCWLHERt1kWY-EEezrGSBNPCdOZabaMQj1tXcmfRRcnXHiUKZzSkQPPob0MuHBftpawcuEdeM_cuHVRappTSoWzx7MHYIimNaL0VSnw88RvCUy7V2f-efI6pcs6MeSd2TMY-kWcJAUKd0XChkgwP7LrHTcECZK5p-fx6JnC4Vcwxu16nbe1EiNvy1pxKZ9dWHZQoUhLaFJPMxeluDZ4NwYerc8MzLmpFsc974vUtQrgPYXmQCJbDltdiD2W57IDIL9CyaC8Zr0c0uckzWni-4bYbClMY2MM5r5FKrQm6khkApVke1kXG6BEt9re2iYo4HqMdffCoHmxGncd2t7VTxkNkXmhltyWFrsUMY9CQ17SnokwDm7UDgN-q_vPr6fj4Q08mMoY-eSFkCztq2O5nqTqrh_BSWbV3v9gPQTv4UoDcLmCAEBI_gPMzkm6",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=EjO3S3icbZBLjttGFEWBrCG7EBzUjxLpWUv8u0WKnyLVNTFIFsVPF8lqiRJbQvaQPch2AGdoB8haOqsJnbFnD-9d3Hve_eNeNv_4anPL5Dvtg2qBl_G06x7RUAXDV3kc-LkYG_5dVTFZahitgALgStWQSr4W2ZiJoWr43xArK0CWYAWhBlRNVVQEv9VlxkXTl_7hUB71ofihI3CFNKwgVSNEBRrCcPVX02VV-f_9O8QAL5caWWENEWUWE_LpyE9vaLf5iPESQUUByrzVMEAQq7_vQl__-PPbl5dzeby-_ZaXp3GRn3lVjotTlx1HWQ99eVpMzVgvqmHgizwbx1m6EM2h_FLJHxw_8fvUNfybslqS5QyvEEXFkOAZT17Ge119Pp9F-fZuWmwenMDZOFmwT27cEudHMxSlZd4ezeSc7UPBNuuYWyZg--29Evfz6V6Le9n_OWTycij-_eVXY5j0zWnaBFTKRA9B1LuU28Nta0ArBhxt96FLcRglRgiovfa3qXKKUjnHeW7ehj7veEs7B-V7N43acCq60SgNKBL9AczzhaaK72Hv6iHnNbOTp0KIa66HCWvXIwPm5OtJM4OyEGmb0tCWLHERt1kWY-EEezrGSBNPCdOZabaMQj1tXcmfRRcnXHiUKZzSkQPPob0MuHBftpawcuEdeM_cuHVRappTSoWzx7MHYIimNaL0VSnw88RvCUy7V2f-efI6pcs6MeSd2TMY-kWcJAUKd0XChkgwP7LrHTcECZK5p-fx6JnC4Vcwxu16nbe1EiNvy1pxKZ9dWHZQoUhLaFJPMxeluDZ4NwYerc8MzLmpFsc974vUtQrgPYXmQCJbDltdiD2W57IDIL9CyaC8Zr0c0uckzWni-4bYbClMY2MM5r5FKrQm6khkApVke1kXG6BEt9re2iYo4HqMdffCoHmxGncd2t7VTxkNkXmhltyWFrsUMY9CQ17SnokwDm7UDgN-q_vPr6fj4Q08mMoY-eSFkCztq2O5nqTqrh_BSWbV3v9gPQTv4UoDcLmCAEBI_gPMzkm6"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ_YBUjmbEXAF3PFo0F5IwpSXntZH4eyZRo-oedUTebj4Z4aNy64VcLXMHFw2XUKE_oMkglmJSUBtIb22wcpQa-lRBZ4unnoJ7Qo33ayX0",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Motorola moto G",
+      "rating": 4.2,
+      "reviews": 776,
+      "price": "$169.99",
+      "extracted_price": 169.99,
+      "original_price": "$200",
+      "extracted_original_price": 200,
+      "location": "Nearby, 13 mi",
+      "extensions": [
+        "15% OFF"
+      ],
+      "immersive_product_page_token": "f8vrR3icdZPNrqNGEIWV57Fu1N3QBmd3_QMYGzC_DWxGQGOD3WBs2gajvEPewXcm0mQ5EynbvMbNk2QZrpRlsqnNV3VK56jql2de_mHJ5ZA0L7ONrIILb3fVFp0P9vlrcz3TW8ZL-juEUzydTiUgijNRBiIUJPlrlvCEnQ8fWACSLKEZmkEA5BkWxKn8rcgTyso6t_b7_Lo8ZyX9jpEsC6IswemoIchAlsTfyio55P9iDIEsjlIfiyQJTQF8u9L2XdwtPkEExiFBQkDAAI11huSfd461_PQ_8Mvlll8f7z-mecsn6Y0ecj5pq-TKm-Jc5-2kK3kxOZzPdJImnI-tE1bu8y-HJvsw9B-Cb1VJ_3xr7vxZHD7fbix_f-kmi9e1vV6sEzsMBqqy21ZxWK4qw1YJbknosHgx96iqgDg0ngf2vLXPgj3z-tdz0tz32V8__L26Z4vFNVvYftMESwe4xMBpGO_NlV5aaotjjXXZSd9kQqxFkCIbBXYK-nlSM5RqJg6FeGkcfRwRvPdWMfZRNwQhK-1hDYO6WeanCG-D2SNELIoJEClomi3pesdzfAMpBVWbnUF4YZH-EpCZblZ0MEhTBZ5-j5mi2CENSdVcM582XhgvjErknhojKgRmunLOJuDbBPENcUGXK_TkDEaf1lQLgXmJh0PvwKCP6uhB6gBH9ZylStF4wFy6g4ODIa4STd_4atDHdVNbaofsioY-AB056jeP9EKGxC4O6NIjRej4tpACtvErqpOjWeS-OTXqeeeQwMlXGPonHxOm7-kQLyyfX_3KMcipN32Vg7wu-khQQr9iy0yYa7TiMdVM4Kp8k4_eSeUw4xg9ti68JKreZnWEXEQBPfVxoMquMl5mEjZFtgDYHQrN0BSQwTn3lmNOULmrpT53NPNhkdjNhgxYK3bzh0CLjlkfEMjHHI5uoIQe4H4I9Ppz31737-BVwdy1pDt5tfMSILru4VbFPng5LFXWgt3w-hOUZgBOpfGzIMT_AAOKPUY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=f8vrR3icdZPNrqNGEIWV57Fu1N3QBmd3_QMYGzC_DWxGQGOD3WBs2gajvEPewXcm0mQ5EynbvMbNk2QZrpRlsqnNV3VK56jql2de_mHJ5ZA0L7ONrIILb3fVFp0P9vlrcz3TW8ZL-juEUzydTiUgijNRBiIUJPlrlvCEnQ8fWACSLKEZmkEA5BkWxKn8rcgTyso6t_b7_Lo8ZyX9jpEsC6IswemoIchAlsTfyio55P9iDIEsjlIfiyQJTQF8u9L2XdwtPkEExiFBQkDAAI11huSfd461_PQ_8Mvlll8f7z-mecsn6Y0ecj5pq-TKm-Jc5-2kK3kxOZzPdJImnI-tE1bu8y-HJvsw9B-Cb1VJ_3xr7vxZHD7fbix_f-kmi9e1vV6sEzsMBqqy21ZxWK4qw1YJbknosHgx96iqgDg0ngf2vLXPgj3z-tdz0tz32V8__L26Z4vFNVvYftMESwe4xMBpGO_NlV5aaotjjXXZSd9kQqxFkCIbBXYK-nlSM5RqJg6FeGkcfRwRvPdWMfZRNwQhK-1hDYO6WeanCG-D2SNELIoJEClomi3pesdzfAMpBVWbnUF4YZH-EpCZblZ0MEhTBZ5-j5mi2CENSdVcM582XhgvjErknhojKgRmunLOJuDbBPENcUGXK_TkDEaf1lQLgXmJh0PvwKCP6uhB6gBH9ZylStF4wFy6g4ODIa4STd_4atDHdVNbaofsioY-AB056jeP9EKGxC4O6NIjRej4tpACtvErqpOjWeS-OTXqeeeQwMlXGPonHxOm7-kQLyyfX_3KMcipN32Vg7wu-khQQr9iy0yYa7TiMdVM4Kp8k4_eSeUw4xg9ti68JKreZnWEXEQBPfVxoMquMl5mEjZFtgDYHQrN0BSQwTn3lmNOULmrpT53NPNhkdjNhgxYK3bzh0CLjlkfEMjHHI5uoIQe4H4I9Ppz31737-BVwdy1pDt5tfMSILru4VbFPng5LFXWgt3w-hOUZgBOpfGzIMT_AAOKPUY"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTb-Z_tXO40Ay-4VWGp8NJtbcWBdTe1KOSc2oj1qkFBcpCiFP6LnUvCp0QWpvCJwKIp0oysDaoFty3xUw96l3n2mFqKU4KKXR1heVbqhiX6",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Total Wireless Motorola moto g play 2024",
+      "rating": 3.5,
+      "reviews": 187,
+      "price": "$29.88",
+      "extracted_price": 29.88,
+      "original_price": "$50",
+      "extracted_original_price": 50,
+      "location": "Nearby, 15 mi",
+      "extensions": [
+        "40% OFF"
+      ],
+      "immersive_product_page_token": "HU16pHicdVNJjuM2FAVyhtzC6ICkrIG9Kw-USmXLtgZK1qZAibQlmxps0SNyh9zB1R2gs-xuIGepnCbqXie7__EePt6A_8dDlH8vrPLO2g_4xbLBQXXLaoaa7ar50h4bfspVyb9DpBvWEGOIwFDTdQwNAL_kTDHZbH_AOrYAGOrIBBYy-w1A8LUQjMuyFovNRhwnTf6DZyFL0wzTxENNszSEMdL_Kiu2FT_xb5qBTAMOETYtC5gAYwzejrx7Hy7Hr9DAWAOaCUzL7GcLWgb6fekvJq__A34-nMTx9v5bJjo1yE58K9Sgq9hRtUVTi25wKVUx2DYNH2RMqZ46kOVGfN62P5X-x8G3quRfddMYGn0aGoaahvXez1t7Vo9i--l0kuL9w2UwfnpePY-f2Sqhd27L04z4UtjkPiP0xBJfpuNRyG0C0mT-2MrHqXsU8iHqPxvWnjf5P7_8Om0uk3F3Ga-itqUTHwR1ccu0Is0j0uQTSTON7-eR3InYZ6lsFJukcR5K6dvdcB7PlRc-X_w9Ycl9NBWRcoJJsRLJqBTE17KqHQunrQMoX0TUnoPQfQkRZ8GeXlMb134iS-bwON3RZlUVLJ66zjqk6SyGyzxaX3O7MPgu0kIbKo7mykcFWsFRr2HkhrG_YZF3XksX5A5l-R7c_JrbAVJXduduhnKVE56utRWKJYb5JA04IYcEXC_JnR4jGzN-Lw7zsNjM6UjPiDTSmvjePboGDoc0uurrOt2LxD2uKz4SjlwGcQoz4p09e3qjk3TqTyXIKlz6-xzFDj2vgUrp3lNZ5EkRFiCsKBKhu_BiP06rlsY11TxCFIPeLOi9ryJJvXp0DJEEAXq-BBSH_k5uVrtIpWGvB8EZj919YKvdOm7PIvKaRcLvInZptHvS1xrti10HBFhDlrRFPgZ6cC-cuUNA3ucUTtxzCsnZLt2R73i3RZz6fO8anJKO1e5STL1ZCug0j2kVaq2XVXQaxmT06dodN-_giegqWAwDiA6v6PVgixeb87DoKvNaz5-cWbj9CM3--wwTAgCh8S882EtR",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=HU16pHicdVNJjuM2FAVyhtzC6ICkrIG9Kw-USmXLtgZK1qZAibQlmxps0SNyh9zB1R2gs-xuIGepnCbqXie7__EePt6A_8dDlH8vrPLO2g_4xbLBQXXLaoaa7ar50h4bfspVyb9DpBvWEGOIwFDTdQwNAL_kTDHZbH_AOrYAGOrIBBYy-w1A8LUQjMuyFovNRhwnTf6DZyFL0wzTxENNszSEMdL_Kiu2FT_xb5qBTAMOETYtC5gAYwzejrx7Hy7Hr9DAWAOaCUzL7GcLWgb6fekvJq__A34-nMTx9v5bJjo1yE58K9Sgq9hRtUVTi25wKVUx2DYNH2RMqZ46kOVGfN62P5X-x8G3quRfddMYGn0aGoaahvXez1t7Vo9i--l0kuL9w2UwfnpePY-f2Sqhd27L04z4UtjkPiP0xBJfpuNRyG0C0mT-2MrHqXsU8iHqPxvWnjf5P7_8Om0uk3F3Ga-itqUTHwR1ccu0Is0j0uQTSTON7-eR3InYZ6lsFJukcR5K6dvdcB7PlRc-X_w9Ycl9NBWRcoJJsRLJqBTE17KqHQunrQMoX0TUnoPQfQkRZ8GeXlMb134iS-bwON3RZlUVLJ66zjqk6SyGyzxaX3O7MPgu0kIbKo7mykcFWsFRr2HkhrG_YZF3XksX5A5l-R7c_JrbAVJXduduhnKVE56utRWKJYb5JA04IYcEXC_JnR4jGzN-Lw7zsNjM6UjPiDTSmvjePboGDoc0uurrOt2LxD2uKz4SjlwGcQoz4p09e3qjk3TqTyXIKlz6-xzFDj2vgUrp3lNZ5EkRFiCsKBKhu_BiP06rlsY11TxCFIPeLOi9ryJJvXp0DJEEAXq-BBSH_k5uVrtIpWGvB8EZj919YKvdOm7PIvKaRcLvInZptHvS1xrti10HBFhDlrRFPgZ6cC-cuUNA3ucUTtxzCsnZLt2R73i3RZz6fO8anJKO1e5STL1ZCug0j2kVaq2XVXQaxmT06dodN-_giegqWAwDiA6v6PVgixeb87DoKvNaz5-cWbj9CM3--wwTAgCh8S882EtR"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT6TLfry1FaY1qNj97kv_mK543h7lOPAXggAhhI43NVpai0nmIDZuDFnaMnzOfy2MQA7uQfhxpOWFUs_I6khQJw8CzAUFha7n-21HWOwmGX",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Total Wireless Motorola 2025 Moto g 5G",
+      "rating": 4.2,
+      "reviews": 89,
+      "price": "$39.99",
+      "extracted_price": 39.99,
+      "immersive_product_page_token": "WSnVJnicdZNLjutEGIXFeqJGVeVXzKxju5yExI4rdvkxuaq4HNtJ-dFOOS-xB_aQvhfpMgQkpmyjWQlDIsEMoX9ypO_o6PyD8-OjqH_3p_Wd9S_m91MXvMnTplmhrgy6r_3Q8TGXNf_VABqEQIHI1M2prisa0L_mTDLRlU-K1CkCKjKgZpgqAkBV9F-qgnFRt4W_3xeD3eU1_w0ixdAUw9AhMBQTGSY0tJ_rhpXFv1zXoQLVKVAh0qAOnwb1feCnD3VjfYK6CdAUaMbznmVUZBrwhw3x7U__A7-8jcVw-_h2V5zkZDfyspCTU8MG2VddW5wml1pWk7Lr-GTHpHxaJ6LeF1_K_p8q_w18b2r-x3t_lo-q_DyOovh4uUys10WwsBYsSOidu2JcYSIKF99XmI4sISKzZiF3MciS9aMUj_H0qMSjaH_qWH_e539-85dzzi1ryK0g6ntqExDafEEPtIqwGOO4X8UHsmFHDaRI2F6j3nNEw4KaQ4iqLL3nKnPxOU-8RSZme-4ILaNZQmJ5zOcp4tS7ZGi5TLcwXQtMiibr86SHLO7kTqHIO_AlxaYo5oIFiOhRVK0CWJEcC8ufOxcuRBPcs5FEss-OWbtKshVX-ogecEqSTPCGCOJg28emF4fc39qVvUv65fruKdl8JskNOnHLg_TAtcwRitcGaHug8vkfiZzrJZ-L7VO7O6VaJ0haNMRaQPktjGW6ilPkR5iESu8QQFQWetUOaG3kRBdylMn2KN_imA6-PeuKhjuhQ3xuY8qbZZeKTBTR6UIT7JOGtswhtdeYYxp5YQT7a9CIG51Xl8KtutDGe37gvqd0yE9mgsVmxxy637kRCFpqZaGnkXu5xWCqsqSvcgto23s1X88xyOFMhvbynEF8duvljMy9mx9n2x0ShxRVlB2vbtrITUS9qx_zq9dQN7Y5IG7Wfr6ehv0HeMWa3PoGd83wcnxptXNdL2KXe0e2el0Mml6X3z13AKBuQAAgnP4N6wg-Xg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WSnVJnicdZNLjutEGIXFeqJGVeVXzKxju5yExI4rdvkxuaq4HNtJ-dFOOS-xB_aQvhfpMgQkpmyjWQlDIsEMoX9ypO_o6PyD8-OjqH_3p_Wd9S_m91MXvMnTplmhrgy6r_3Q8TGXNf_VABqEQIHI1M2prisa0L_mTDLRlU-K1CkCKjKgZpgqAkBV9F-qgnFRt4W_3xeD3eU1_w0ixdAUw9AhMBQTGSY0tJ_rhpXFv1zXoQLVKVAh0qAOnwb1feCnD3VjfYK6CdAUaMbznmVUZBrwhw3x7U__A7-8jcVw-_h2V5zkZDfyspCTU8MG2VddW5wml1pWk7Lr-GTHpHxaJ6LeF1_K_p8q_w18b2r-x3t_lo-q_DyOovh4uUys10WwsBYsSOidu2JcYSIKF99XmI4sISKzZiF3MciS9aMUj_H0qMSjaH_qWH_e539-85dzzi1ryK0g6ntqExDafEEPtIqwGOO4X8UHsmFHDaRI2F6j3nNEw4KaQ4iqLL3nKnPxOU-8RSZme-4ILaNZQmJ5zOcp4tS7ZGi5TLcwXQtMiibr86SHLO7kTqHIO_AlxaYo5oIFiOhRVK0CWJEcC8ufOxcuRBPcs5FEss-OWbtKshVX-ogecEqSTPCGCOJg28emF4fc39qVvUv65fruKdl8JskNOnHLg_TAtcwRitcGaHug8vkfiZzrJZ-L7VO7O6VaJ0haNMRaQPktjGW6ilPkR5iESu8QQFQWetUOaG3kRBdylMn2KN_imA6-PeuKhjuhQ3xuY8qbZZeKTBTR6UIT7JOGtswhtdeYYxp5YQT7a9CIG51Xl8KtutDGe37gvqd0yE9mgsVmxxy637kRCFpqZaGnkXu5xWCqsqSvcgto23s1X88xyOFMhvbynEF8duvljMy9mx9n2x0ShxRVlB2vbtrITUS9qx_zq9dQN7Y5IG7Wfr6ehv0HeMWa3PoGd83wcnxptXNdL2KXe0e2el0Mml6X3z13AKBuQAAgnP4N6wg-Xg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRb6twzl1DkFmjH1vCjAHX7Cru-qmaUgFf6Z_qnmyBYDZaGoqUj1yvz7rDbiArL9LqTkJUm9TJa2nCm1WkM2u-NMxHiD2pFUFzlfYsa4pQ_YGKyY9_1WbJLtQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSjiqt_PZyZePtM9nc6-MTe2CDOJK0leEmKalOoogEaRVJK6rEt2cYhncKPeuKuiYp1ec9K-d63OCoxXQaSqRcufLv9OIHluXI",
+      "source": "Nothing US",
+      "title": "Nothing Phone Pro",
+      "rating": 4.7,
+      "reviews": 234,
+      "price": "$499.00",
+      "extracted_price": 499.0,
+      "location": "Also nearby",
+      "immersive_product_page_token": "jqmYfnicbZNNrqNGFIWlrCG7sF5UVfyZnhljMH4Gm58qTE1amMIGUxieKfyDsofswd0dqTPsbilreVlNiJRZMrmDez4d6dyj-9szL__cTMshbV_016kN3kS3rdeoOfrN1_bSsD4TJfuuaZKOkDxOdapp2hROwdcsFSlvjqOKFIAgUmVJRSOg6pqkfCvylPHynG8Oh_xiNlnJfkCoykhTFKSNHgrSNR2AP8o6Peb_6qomybICVGmqT0cWSBL4dGHdO9rOPyIdwNEd6ghAIE8B1KVft8HG_Pj_2pe3Pr883n_Z552Y7Ht2zMWkq9OLaIvmnHeTWymKybFp2GSfCjGiE14e8i_HNvsnz3_9PtUl-6ZoqqwiRdaBDiRN0cd1exXP4vi573n-_nKbzGeO78yd1N-Rgdm8X1sBz21rWFukT3cBp3MjYrYF6M59Hvmz754Ff-bn35u0vR6yv376edHczHl3m_u4bYkZgGhp4QwWbYbIPEP3xEXFNq_pmpIMpadEoVinJCIPLBVpWtGNh1evaeWAEFORgSNMYjgndqD6AwvWsXLzItoHRO_xsvBDqaU-anG4w3I6cEgHInK7jTd28IgW0GGL-y3kLgzB3UzQPXJN_tibQZvE4hRy_hrWwWWHRO_XzMUVuWQ2C2gFE18yep_MHvuFoJjTao3vyOOUhrHz8KJgSxZUuGC1SWomrwmDCWS1t7jb-3p1wqZx3sTCd3FxHbMZNFrxAGcoiYzEO_Mmj4wtqVjjSY4yZlhlgF_88wxmmL9hmwtXIlZoVkOM4TpAd-gNxXZPPJhUrAx3AYqJboQVGcKKYhoZdbZYdT7Wy2ghI2x5bRo3Q7zoHiHQk-zElimGSx8HpmsRmpPxhNyrNxYVYy_ArWGXcR_EkeWQ2EPuMrvH5yq0wFROd22RzYESDsXSHdkMGiIyV1cKratdroxg6T02MY3WMYEslpVw6SjxiZxiHBghgsPY5RkD98GslfH53l0O72BmKSLcaMzWo1v1clauZenENvOqdD1zLopaHj_A8aXGL4IAQDj9GwQ9RtY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=jqmYfnicbZNNrqNGFIWlrCG7sF5UVfyZnhljMH4Gm58qTE1amMIGUxieKfyDsofswd0dqTPsbilreVlNiJRZMrmDez4d6dyj-9szL__cTMshbV_016kN3kS3rdeoOfrN1_bSsD4TJfuuaZKOkDxOdapp2hROwdcsFSlvjqOKFIAgUmVJRSOg6pqkfCvylPHynG8Oh_xiNlnJfkCoykhTFKSNHgrSNR2AP8o6Peb_6qomybICVGmqT0cWSBL4dGHdO9rOPyIdwNEd6ghAIE8B1KVft8HG_Pj_2pe3Pr883n_Z552Y7Ht2zMWkq9OLaIvmnHeTWymKybFp2GSfCjGiE14e8i_HNvsnz3_9PtUl-6ZoqqwiRdaBDiRN0cd1exXP4vi573n-_nKbzGeO78yd1N-Rgdm8X1sBz21rWFukT3cBp3MjYrYF6M59Hvmz754Ff-bn35u0vR6yv376edHczHl3m_u4bYkZgGhp4QwWbYbIPEP3xEXFNq_pmpIMpadEoVinJCIPLBVpWtGNh1evaeWAEFORgSNMYjgndqD6AwvWsXLzItoHRO_xsvBDqaU-anG4w3I6cEgHInK7jTd28IgW0GGL-y3kLgzB3UzQPXJN_tibQZvE4hRy_hrWwWWHRO_XzMUVuWQ2C2gFE18yep_MHvuFoJjTao3vyOOUhrHz8KJgSxZUuGC1SWomrwmDCWS1t7jb-3p1wqZx3sTCd3FxHbMZNFrxAGcoiYzEO_Mmj4wtqVjjSY4yZlhlgF_88wxmmL9hmwtXIlZoVkOM4TpAd-gNxXZPPJhUrAx3AYqJboQVGcKKYhoZdbZYdT7Wy2ghI2x5bRo3Q7zoHiHQk-zElimGSx8HpmsRmpPxhNyrNxYVYy_ArWGXcR_EkeWQ2EPuMrvH5yq0wFROd22RzYESDsXSHdkMGiIyV1cKratdroxg6T02MY3WMYEslpVw6SjxiZxiHBghgsPY5RkD98GslfH53l0O72BmKSLcaMzWo1v1clauZenENvOqdD1zLopaHj_A8aXGL4IAQDj9GwQ9RtY"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRaten3IzxlUiMZKK0kfpIMI7Un15argRsr5KMjed9ueYQwLvPBMyFBnI-jJOW9TNKXEkwRjOSuCeCREGyst-tIlEqomkSQ0h1bNUgQqvs",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Straight Talk Motorola moto g 2025",
+      "rating": 3.9,
+      "reviews": 1100,
+      "price": "$29.88",
+      "extracted_price": 29.88,
+      "location": "Nearby, 20 mi",
+      "immersive_product_page_token": "IAo0pXicdc9LjqNGAMZx5TxWR1XFy2TXxi78ApqCKh6bEaYKgykMtvELzR1yB_dMpMkyiZRtrtE5SZZxlG2y_n_6Sd-PD1H97o2rIetezNXYBof-9NasUbv122_dseXnvK_4r4Zp6rqh6aquQQUYhomUb3nWZ7LdVvw3OFYVU0eqqcMxMhUDAQ3-UoqMy2ovvKIQx2mbP5UxAopuPBEInmPtqaCfqybbin_zU1Z03VQNxUSqpkJDVd-P_PShvlmfoAJNHSCom4YyRmMDPOvnN-JNP_1P_Ho4i-P94_uNOPWjzZlvRT86Ndmx78p2L06ja9WXo23b8tEm6_vndCSrQnzddvk_h_4DfG8q_sd7d-kf5fbL-SzFx8t1ZL0u_IW1yPyYDdyW5zUmUth4WGN2zmIiU2sSchuDNHYeW_k4nx6lfIj9T23WXYr8z-_-ml1yyzrmlk-7jk0JCEJ2ywDoWaQNZO9DNidutCtDV0oraMxjFnV1inEt8OK-mXIsml4nNqRrSu4eNZOgKQsPvwIfkoYiGTohvrvMtVzA7wxRJZxRRdS3iDF_oPFynSsTzY-6OACnIbBgyqAb04YcRMzrpIbFZp6jLLpN0pAt3OmyZ_GEZTY7JHGrMnTbk3kpEzDrnR0ewiFNRJMuA1AW0Y5VopHQncl7Rk2LRaSk0RVGO-kFjLsE1QPBxKGS35M9P4eIeQS1ShIzJw1nSOzINahhEs1wwackcYHcU4xJOusWni2PTJbLlC6voZSUUbzOmt6iyL1FtVxRZdKKnTuJdstrEM6ujG57vkszEcl7aKdVADnxLIASRRZixg7ChlrasENu89aHZZKwTnPqLXKhmTmy7p2pH2AwVrO4K3MLaMFQzp05Bjmc9OF0eUkhvtjVckLm7t2L0jBgDJO4RAGesCS6LRzK1k4NQ2eaNpvQZQm9KV9up2PxAV6x1gee8VIeVmZ8DodshXnR7rrOJ_XqarL89QdomADqBgQAQvNv89g8zQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=IAo0pXicdc9LjqNGAMZx5TxWR1XFy2TXxi78ApqCKh6bEaYKgykMtvELzR1yB_dMpMkyiZRtrtE5SZZxlG2y_n_6Sd-PD1H97o2rIetezNXYBof-9NasUbv122_dseXnvK_4r4Zp6rqh6aquQQUYhomUb3nWZ7LdVvw3OFYVU0eqqcMxMhUDAQ3-UoqMy2ovvKIQx2mbP5UxAopuPBEInmPtqaCfqybbin_zU1Z03VQNxUSqpkJDVd-P_PShvlmfoAJNHSCom4YyRmMDPOvnN-JNP_1P_Ho4i-P94_uNOPWjzZlvRT86Ndmx78p2L06ja9WXo23b8tEm6_vndCSrQnzddvk_h_4DfG8q_sd7d-kf5fbL-SzFx8t1ZL0u_IW1yPyYDdyW5zUmUth4WGN2zmIiU2sSchuDNHYeW_k4nx6lfIj9T23WXYr8z-_-ml1yyzrmlk-7jk0JCEJ2ywDoWaQNZO9DNidutCtDV0oraMxjFnV1inEt8OK-mXIsml4nNqRrSu4eNZOgKQsPvwIfkoYiGTohvrvMtVzA7wxRJZxRRdS3iDF_oPFynSsTzY-6OACnIbBgyqAb04YcRMzrpIbFZp6jLLpN0pAt3OmyZ_GEZTY7JHGrMnTbk3kpEzDrnR0ewiFNRJMuA1AW0Y5VopHQncl7Rk2LRaSk0RVGO-kFjLsE1QPBxKGS35M9P4eIeQS1ShIzJw1nSOzINahhEs1wwackcYHcU4xJOusWni2PTJbLlC6voZSUUbzOmt6iyL1FtVxRZdKKnTuJdstrEM6ujG57vkszEcl7aKdVADnxLIASRRZixg7ChlrasENu89aHZZKwTnPqLXKhmTmy7p2pH2AwVrO4K3MLaMFQzp05Bjmc9OF0eUkhvtjVckLm7t2L0jBgDJO4RAGesCS6LRzK1k4NQ2eaNpvQZQm9KV9up2PxAV6x1gee8VIeVmZ8DodshXnR7rrOJ_XqarL89QdomADqBgQAQvNv89g8zQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQPkDTW6n775sSu-ogZFlp07-tdkvnHqTt-X46mLtvTEkJJ24i7rynYK7CZrJ5ow9bJHlRDHvGEkBB6rT5TqNzYDUUkmfq_8al6dX6mJXwvwCRvXp1Um99G",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT4AagMZKCcjVae3_bHPa5ei7aLleaMJeTUgTIKwk2wh5JBcPqgHzz5WufonBl3XJg_EHVAQ74bs762lvitj95s4-0YjFkevDBI",
+      "source": "Google Store",
+      "title": "Google Pixel 10a",
+      "rating": 4.6,
+      "reviews": 1700,
+      "price": "$424.00",
+      "extracted_price": 424.0,
+      "original_price": "$499",
+      "extracted_original_price": 499,
+      "location": "Nearby, 14 mi",
+      "extensions": [
+        "15% OFF"
+      ],
+      "immersive_product_page_token": "CWterHicbY7NrqJIAIWTeYZ5C9OTquJH6N1VBEQpLwUUyMYAhYIUggKiZN5h3sHbPUnPsruTfpY7TzP2rHtzzuJ8Ofn-emTFj41SjHHzQV0pBjh37Wu1RvXBqb80l5r1aVewb4ogqKosI0mBMhChKiL5Sxp3Ma8PBfsOFaAgpCIEptJUgaKIpuhrnsWMF6dss99nF61Of3KyKouqBEVFgVAAKhAU4Z-iig_Z__s3AYkAIWEqyYqoAgnI0-nbhbXv6HW-U-UnDqEMp0AGwjMQ_POVbLTdr7fP5z673N__SLK2myQ9O2TdpK3iS9fk9SlrJ0PR5ZNDXbNJEnfdE53wYp99PjQ_PX7x91YV7Ks0lUUZPeUFEUqiLIjKW3PtHvnhU9_z7P3DMJm_LJ3lfBk7IR2Zwfu1Tnhm6ONap30cEh7NZx4zdBCF9uPAH337yPkjO_1dx811n_772--LetDm7TB3_KahGgFuaAUusDbukfakzFsSDGN65D1FLQiqxnXCxogFajLKcgemA0V5EZ1KyfW7LTEpTkYMSMAwRtI2usMB-7drdrSlpBJhCGdWXEKeaDPLC6K7a9BzhFiHUXvHNB8pXd5cgUKHUz0yI4dR4jkFrPEiv_laKdkLWlG6vQVhOnoj3iYmNyPeWMxkJDD1Pg66dXaczSKjHX2YSr7ftNTL166eY3-Rd7GeA3cBI0_gHFdpt6alaOt0sEfrjI-EJhSvSGm5zwZeaTkexOcozFc-JQ09si0zSeiPzAxHvMB-s6YVuboACNh3BuKnIAU3OfWZaHNrmQaDxJC1IkfapB61Mdre7FOzxZzdfY1KsaHAoOSBu-gQA5HmB7bIaHoPSmrYXMWJnt48jZse1RuvjEpy4veszO9EwJGN1IpwDHzI99vj1tWBIsZhk6dzILljbtqmDlI46zzNukZQvxqFNSMmvm-CyPU8EjoeWdlAX6V-HmaVBWyqNl6gH6nGgYOg8OnWXvbv4EWXOncj7oJ0h6ABULJ7aSSA-CE49teTshOHj3CqAihPIQAQgf8ArNFIFw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=CWterHicbY7NrqJIAIWTeYZ5C9OTquJH6N1VBEQpLwUUyMYAhYIUggKiZN5h3sHbPUnPsruTfpY7TzP2rHtzzuJ8Ofn-emTFj41SjHHzQV0pBjh37Wu1RvXBqb80l5r1aVewb4ogqKosI0mBMhChKiL5Sxp3Ma8PBfsOFaAgpCIEptJUgaKIpuhrnsWMF6dss99nF61Of3KyKouqBEVFgVAAKhAU4Z-iig_Z__s3AYkAIWEqyYqoAgnI0-nbhbXv6HW-U-UnDqEMp0AGwjMQ_POVbLTdr7fP5z673N__SLK2myQ9O2TdpK3iS9fk9SlrJ0PR5ZNDXbNJEnfdE53wYp99PjQ_PX7x91YV7Ks0lUUZPeUFEUqiLIjKW3PtHvnhU9_z7P3DMJm_LJ3lfBk7IR2Zwfu1Tnhm6ONap30cEh7NZx4zdBCF9uPAH337yPkjO_1dx811n_772--LetDm7TB3_KahGgFuaAUusDbukfakzFsSDGN65D1FLQiqxnXCxogFajLKcgemA0V5EZ1KyfW7LTEpTkYMSMAwRtI2usMB-7drdrSlpBJhCGdWXEKeaDPLC6K7a9BzhFiHUXvHNB8pXd5cgUKHUz0yI4dR4jkFrPEiv_laKdkLWlG6vQVhOnoj3iYmNyPeWMxkJDD1Pg66dXaczSKjHX2YSr7ftNTL166eY3-Rd7GeA3cBI0_gHFdpt6alaOt0sEfrjI-EJhSvSGm5zwZeaTkexOcozFc-JQ09si0zSeiPzAxHvMB-s6YVuboACNh3BuKnIAU3OfWZaHNrmQaDxJC1IkfapB61Mdre7FOzxZzdfY1KsaHAoOSBu-gQA5HmB7bIaHoPSmrYXMWJnt48jZse1RuvjEpy4veszO9EwJGN1IpwDHzI99vj1tWBIsZhk6dzILljbtqmDlI46zzNukZQvxqFNSMmvm-CyPU8EjoeWdlAX6V-HmaVBWyqNl6gH6nGgYOg8OnWXvbv4EWXOncj7oJ0h6ABULJ7aSSA-CE49teTshOHj3CqAihPIQAQgf8ArNFIFw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRwO8KkQ6Wri8x0YVAEYSB0VoppMIKJV1kKlVD45lu6b4JIP0XZcjkM5pexOjkXxClBdbLB95KYe9DwQT3HcsOCY8Gxrz_tw4Azhq-b9qTAeehqKnv2IncX",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Tracfone Motorola Moto G Power 2024 5G",
+      "rating": 4.0,
+      "reviews": 171,
+      "price": "$49.88",
+      "extracted_price": 49.88,
+      "original_price": "$80",
+      "extracted_original_price": 80,
+      "location": "Nearby, 15 mi",
+      "extensions": [
+        "37% OFF"
+      ],
+      "immersive_product_page_token": "ZM9th3icbZLNjqNGFIWV57EmquKf7BpDgWkDTZkqfjYjoLDBLgzG4LbRvEPewT0TaWY5iZRtXqPzJFnGUbazPp_OPefo_nqvmj8DrZnz_oP-rNngNJ5f2rXQ7cLuaz90bCrHhv0BFRnIuiwqugZ1CCVFAPrXMh9z3u0a9rusCKokCLqqQyAqmiZq2ve6yhlvjlWw3VaD2ZUPTJOBAKCqyhAC6UGrsv6tafNd9b8sSwBIsibqmgolCWiKKr8N7PwuvCw_6gBCVZYUWdAlTdEEUQOfXnBgfvyx9uU0VcPt_eeiOo-LYmK7alyc23wY-7o7VufFazPWi13XsUWRj-MDXfBmW33Z9f_l-IHfW9uwv976y3ivd5-niVfvH14Xy6dVuFqu8jChM7P5tEaYVzaa14hOeYJ5tjQiZiOQJd59x-_T-V7ze3X8rcv7y7b8-6d_rEu5XA7lMiR9T00MIpvMEaqDCNFbGvdxFq-kyiqhR-gUgoPATBTiY00ijvZ-iy_F_gAq1FtxlL0wx8B0X2chkWmZcDmNUZ8m2GZHVylN5BJqrAi0Zi_WQAF56tl1mCdMIQd9QxOKY8cwIkF_DYh7WxN6IxGbWGLgNYFRLqLo4Rv7jh_7Nh1STsRc8Pu4la-R6IpRy5fMNKQM1kbMXb8wXSdt0SNL73vWeIviK8qtcoySeuVBHPkWTP0bTAuT3uID9WLkXjF_AhQZcUZqk7Z8jiyeBQSKcasJ65gbJKlJJjCfEnnPIpbjFp1KMnbFgWE2o-dNy8eSaDAEo02PfrIRqBlSdItbeAoifo1a2OSAnx4dstKqDxlyPeLUW0yk2ZspLyEOCMJdCGojJbKUwPqV2P2mhGSDgCblSV-XSyBv5trxHARKaIyR6V4yiC524xrY8W9BnG2opQ-Pm8c0YdcU4q6YcZrtDfLYx6HHp2vhYOPz9Txs38ETksdNIDuKRhI0cPGirM8vujedpjKGq2e_C3-B6uMZFRUCAAX4L_c0OUM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZM9th3icbZLNjqNGFIWV57EmquKf7BpDgWkDTZkqfjYjoLDBLgzG4LbRvEPewT0TaWY5iZRtXqPzJFnGUbazPp_OPefo_nqvmj8DrZnz_oP-rNngNJ5f2rXQ7cLuaz90bCrHhv0BFRnIuiwqugZ1CCVFAPrXMh9z3u0a9rusCKokCLqqQyAqmiZq2ve6yhlvjlWw3VaD2ZUPTJOBAKCqyhAC6UGrsv6tafNd9b8sSwBIsibqmgolCWiKKr8N7PwuvCw_6gBCVZYUWdAlTdEEUQOfXnBgfvyx9uU0VcPt_eeiOo-LYmK7alyc23wY-7o7VufFazPWi13XsUWRj-MDXfBmW33Z9f_l-IHfW9uwv976y3ivd5-niVfvH14Xy6dVuFqu8jChM7P5tEaYVzaa14hOeYJ5tjQiZiOQJd59x-_T-V7ze3X8rcv7y7b8-6d_rEu5XA7lMiR9T00MIpvMEaqDCNFbGvdxFq-kyiqhR-gUgoPATBTiY00ijvZ-iy_F_gAq1FtxlL0wx8B0X2chkWmZcDmNUZ8m2GZHVylN5BJqrAi0Zi_WQAF56tl1mCdMIQd9QxOKY8cwIkF_DYh7WxN6IxGbWGLgNYFRLqLo4Rv7jh_7Nh1STsRc8Pu4la-R6IpRy5fMNKQM1kbMXb8wXSdt0SNL73vWeIviK8qtcoySeuVBHPkWTP0bTAuT3uID9WLkXjF_AhQZcUZqk7Z8jiyeBQSKcasJ65gbJKlJJjCfEnnPIpbjFp1KMnbFgWE2o-dNy8eSaDAEo02PfrIRqBlSdItbeAoifo1a2OSAnx4dstKqDxlyPeLUW0yk2ZspLyEOCMJdCGojJbKUwPqV2P2mhGSDgCblSV-XSyBv5trxHARKaIyR6V4yiC524xrY8W9BnG2opQ-Pm8c0YdcU4q6YcZrtDfLYx6HHp2vhYOPz9Txs38ETksdNIDuKRhI0cPGirM8vujedpjKGq2e_C3-B6uMZFRUCAAX4L_c0OUM"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTE9CeSAvaAgsQjP7pbErIL_26GKUZDzOfFu6VLSrSRgzjeWXTfRuTYFtWJ6XiFO9o66gsrYdgoE-IF4ijL-nnRtz1dW3gUMruafGv0my1y",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Straight Talk Motorola Moto Edge 2025",
+      "rating": 4.2,
+      "reviews": 96,
+      "price": "$199.00",
+      "extracted_price": 199.0,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "WmZOc3icbZNNjqNGAIWV81gTVRU_huza_Nm0wQ2mClybERTYYBdQbZcNjXKH3ME9E2mynImUba7ROUmW6VG2s3ir7-npbb7f7lXz18Zoplx8MB8NDzzLy1O7Rv0h6r-Ic19emWzKPyFSDA2oCjCRoSpQ16Cpf2G5zHl_-I4VpCjIfI8CITJ0YJrK17rKS9501Wa_r852z5ryGzSNOYQmgGiuAlMzkWr80bT5ofofI9VEUFFNA5mmrqjae-_1XF7e0JP10TDnyhypc13XFDSfm5qu_voUb-yPP2afn6_V-eXt56K6yFlxLQ-VnF3a_CxF3XfVZTY0sp4d-r6cFbmU79UZb_bV54P4_uMHe69tU_79Km7yXh8-Xa-8evswzKyHVbSyVnmUkan0-HXtxrzy3GntkmuexZxai6T0XECz4H7g9-vlXvN71f3e5-K2Z__89K9zY5Z1ZlaEhSB2DLa41ArA9dDph8RdiAL4KrYxzJWFSiFHhBtahviYI9JitAPYGZe71PdLDJswIfuipVF84g47hU2YSrHLxESz3YBRMOB2JCnmtHTkc8xDJUoWdQlpvj2RIQbEyZEzVY52LTjVCR5voSdtPNV6DHq1dN2GLH1aHuMmOPmycmqVIJMGhCLGOSmOq4HY4Ut4MnXi1Bo51nnoBhrB0tm4oguwr7EjFXkbtsHR13YTReUyztZ4hAnwu12qrRjuh3VaL6uT37EuXG0BpcVUdrQLpvwk2jzzh4S4z4HHNwzxNnXrRdI6IEjNPknZWPBg2ip8vevoArehjLHMWCfqGIw0bgVPJkoJdJsNqYfEghZLuY1xmcZtHOCUHEtP7ljiP4ZoN8Tp-JghGSWeTyov2LrAUPNM1MwC2naql8HSBQwuZGL7Nwrdm9f4i3gZvmxSigMv1rZH4jNXgBzxZUROI2tFyzraxqnoMXHjT-PlvH8DD64mtxutDy8Os7X9xX5Qzlzx-FPS0UKPrjj6Bc7fbdHnELy7gP4DE6M92Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WmZOc3icbZNNjqNGAIWV81gTVRU_huza_Nm0wQ2mClybERTYYBdQbZcNjXKH3ME9E2mynImUba7ROUmW6VG2s3ir7-npbb7f7lXz18Zoplx8MB8NDzzLy1O7Rv0h6r-Ic19emWzKPyFSDA2oCjCRoSpQ16Cpf2G5zHl_-I4VpCjIfI8CITJ0YJrK17rKS9501Wa_r852z5ryGzSNOYQmgGiuAlMzkWr80bT5ofofI9VEUFFNA5mmrqjae-_1XF7e0JP10TDnyhypc13XFDSfm5qu_voUb-yPP2afn6_V-eXt56K6yFlxLQ-VnF3a_CxF3XfVZTY0sp4d-r6cFbmU79UZb_bV54P4_uMHe69tU_79Km7yXh8-Xa-8evswzKyHVbSyVnmUkan0-HXtxrzy3GntkmuexZxai6T0XECz4H7g9-vlXvN71f3e5-K2Z__89K9zY5Z1ZlaEhSB2DLa41ArA9dDph8RdiAL4KrYxzJWFSiFHhBtahviYI9JitAPYGZe71PdLDJswIfuipVF84g47hU2YSrHLxESz3YBRMOB2JCnmtHTkc8xDJUoWdQlpvj2RIQbEyZEzVY52LTjVCR5voSdtPNV6DHq1dN2GLH1aHuMmOPmycmqVIJMGhCLGOSmOq4HY4Ut4MnXi1Bo51nnoBhrB0tm4oguwr7EjFXkbtsHR13YTReUyztZ4hAnwu12qrRjuh3VaL6uT37EuXG0BpcVUdrQLpvwk2jzzh4S4z4HHNwzxNnXrRdI6IEjNPknZWPBg2ip8vevoArehjLHMWCfqGIw0bgVPJkoJdJsNqYfEghZLuY1xmcZtHOCUHEtP7ljiP4ZoN8Tp-JghGSWeTyov2LrAUPNM1MwC2naql8HSBQwuZGL7Nwrdm9f4i3gZvmxSigMv1rZH4jNXgBzxZUROI2tFyzraxqnoMXHjT-PlvH8DD64mtxutDy8Os7X9xX5Qzlzx-FPS0UKPrjj6Bc7fbdHnELy7gP4DE6M92Q"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQBNw3xJbxH7UAcGDG7s8wSN4rK-nHlT5Cpg4wisdKP_6gMQAkFIYoBJCX-KPCCSh_g_fljQmyCx9Jw0dPKIZmAQi3oqN7AjjN5iwYgb_0",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "BLU G65L G1130WW 128GB",
+      "rating": 4.0,
+      "reviews": 38,
+      "price": "$129.99",
+      "extracted_price": 129.99,
+      "original_price": "$150",
+      "extracted_original_price": 150,
+      "location": "Nearby, 13 mi",
+      "extensions": [
+        "13% OFF"
+      ],
+      "immersive_product_page_token": "7shxenicbZNBjqNGGIWlnCG3sCYqqihMzW5swNhtQ1NQBWbTKigasMuGNmC7Ue6QO7hnIk2WM5Fyls5p4pGynPX3v0_vX7w_bkX9j2_Wo2g_kAdzAV767vGwhk0ZNF_bUyOHvK_ld0PHJiGYAEIQ1DUNEvA1F71QTfmDIh1ifYowwRgYRDdM_K0qhFT1sfCfn4uT1eS1_Fu7R3VIsGkQCJCpaVMw_as-iLL4nwMwJQCamgFNggAxMARvJ9m9w8f50z2JoGmawDAMbIK7ifz-SH3r6efsy8tQnF7ff8uKrp9kgyyLftIdxKlvq-ZYdJNL3VeTsmnkJBN9fz-dqPq5-FK29yLff-J7O9TyG54a-r2bMUWIEGAiZLy15_5WlZ-HQRXvHy6T-adlsJwvRZDwUS7UsHaoKhbOuHb4IBKq0vkskgsHpMnmVqrb0N0qdSuOfzaiPT_n__7yq91crHl3mQesbblFQRitTmnibCLbqSPmXATPdZaolit-pe4eRzZ4DUaviw_UlUen2-48WyJFU83zPMhDOapTHpMHn7WBB_HIUOuFIIcZ8txox14zh78kkMzT-EqZQ4Ps6C0CQA4ClSA6MCASzxUowHm0hGycBbFNt1Fk9zxSlue2Yh1fjxuH70JwtTLbOfJFFdG7kx6uUcDImCBvR49yGaLVKdh7jyHALdvzfZasugi2lpekQ-56ScSrA0PpWiyaMWVtSl3l-0k72yLphza9MEChBLjmCxlEqsWcKZElPN7GlSHGAPqJUkWcupu9dNOkHbx4gzYuA5sDvtJ9eZWOs2fHJc400iZICT9SFxE7C8ZXM8_OgVSzh2wnV_f-64Kzi8_Iec35LrX4OWP66NsS8FHBmNNwu293zC1_fIZTy9NpsnKpU6Hcomlq2aEDTF0kbZXPAQ7Hyt24Dsi1WR9Zq3OqOedFvZpR13v14zTKlalHrrfZIjWw_epFzDWW7_EQKgk5kxeheejztTs9v4NPDu5DH-ej80S2Kyrt7StHoV0IZdtoTK-k_Kjd96MZ0_uQNIj-A2HORoM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7shxenicbZNBjqNGGIWlnCG3sCYqqihMzW5swNhtQ1NQBWbTKigasMuGNmC7Ue6QO7hnIk2WM5Fyls5p4pGynPX3v0_vX7w_bkX9j2_Wo2g_kAdzAV767vGwhk0ZNF_bUyOHvK_ld0PHJiGYAEIQ1DUNEvA1F71QTfmDIh1ifYowwRgYRDdM_K0qhFT1sfCfn4uT1eS1_Fu7R3VIsGkQCJCpaVMw_as-iLL4nwMwJQCamgFNggAxMARvJ9m9w8f50z2JoGmawDAMbIK7ifz-SH3r6efsy8tQnF7ff8uKrp9kgyyLftIdxKlvq-ZYdJNL3VeTsmnkJBN9fz-dqPq5-FK29yLff-J7O9TyG54a-r2bMUWIEGAiZLy15_5WlZ-HQRXvHy6T-adlsJwvRZDwUS7UsHaoKhbOuHb4IBKq0vkskgsHpMnmVqrb0N0qdSuOfzaiPT_n__7yq91crHl3mQesbblFQRitTmnibCLbqSPmXATPdZaolit-pe4eRzZ4DUaviw_UlUen2-48WyJFU83zPMhDOapTHpMHn7WBB_HIUOuFIIcZ8txox14zh78kkMzT-EqZQ4Ps6C0CQA4ClSA6MCASzxUowHm0hGycBbFNt1Fk9zxSlue2Yh1fjxuH70JwtTLbOfJFFdG7kx6uUcDImCBvR49yGaLVKdh7jyHALdvzfZasugi2lpekQ-56ScSrA0PpWiyaMWVtSl3l-0k72yLphza9MEChBLjmCxlEqsWcKZElPN7GlSHGAPqJUkWcupu9dNOkHbx4gzYuA5sDvtJ9eZWOs2fHJc400iZICT9SFxE7C8ZXM8_OgVSzh2wnV_f-64Kzi8_Iec35LrX4OWP66NsS8FHBmNNwu293zC1_fIZTy9NpsnKpU6Hcomlq2aEDTF0kbZXPAQ7Hyt24Dsi1WR9Zq3OqOedFvZpR13v14zTKlalHrrfZIjWw_epFzDWW7_EQKgk5kxeheejztTs9v4NPDu5DH-ej80S2Kyrt7StHoV0IZdtoTK-k_Kjd96MZ0_uQNIj-A2HORoM"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSz_1B1id5U-13_57k4TS0Bp1iyy3zOjhYU1P0rLm9AiwP9CANxXyQGdQzHG_v9q-KCoJ5GVDMT46s30cqkApLyniD2e9IcWRQt2jKBi4M-",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Total Wireless Motorola Moto g 2025",
+      "rating": 3.9,
+      "reviews": 36,
+      "price": "$59.88",
+      "extracted_price": 59.88,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "WBfDBXicdY_PsqJGGEcrz2NNqv_QCNldlUYZba8NNNibKaBbQVphFPVK5R3yDt6ZVE2WyVRlm9e4eZIs48w6-bbnV6fO98tdV38unarP2nfue8cHH7vT836Omu2q-dIeG3Uuukp9hchGCDtD63HAxdCFaPilyLrMNNtv2CYYWK4NHDy0HISBjZzfS50pUx30crPRx0lTVOoP17FsApBDbBvBh8jFzm_VPtvq7_grxBYABBCIHNt-SDC0wetRnd6s5_EHaJEhAtgeOjaAGBGIbfzzM19OPvwP_PzxrI-3tx9zfeoG-VltdTc47bNj15bNQZ8G16orB9umUYM867rHdGCqjf68bb-n_IfwdV-pv17bS3cvt5_OZ6Pf3l0H46fZajaeZatU9Mo35znlRvu0n1NxzlJu5HgUKZ8CmS7uW3M_n-6luevDr03WXjbF3z_8412K8fhYjFdx24oJB6FRoxSYcXwwRCbwnAtDxU6d1EGAHMCqmAZEGsGzVK0Kv4YZqBGLS8QTD4SRvCZ-x6KJRzIqSrHvHmHBjHv0OcatWMcl054MRC1TnSiz6ulF1S_9ooKGYdbnPe-5oIhhitcx3a2xrIu4C-WeiIXHfAG-edlLYcwyEiskPHN-vP0cH_hjaSEGoMxqGXHjHta4uAkzCueC7xY1YcWevp-n5TraBUh5DIiE09yDt3hCDYeyk7UKwr6A0Z6VbFo2i0QkYVxf88jrC0FvMYCPjm4VTlc494ORFjyO0IxEdbApEriMjLwlgpJowtaaqiaGvMoRvAnEoDBPRCdMZtjAZEcJr10vr4urjgRPImmHyGVsJ6_zmAQ5nHXCmyG1U2m2m_USi1anRUiBY2VpWxZjQMK-nC6mFBRw1EWT4CIhvfhVMOJTdlsmMlokLyXzRKancpmBgBS-6daAHDjyrGyqvLSn-NPL6bh5A0-UdOFySJ55P89tVSnm83TmtqCtmwqc0vH2Jzh0AbSHEACIrH8Bwsg5eA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=WBfDBXicdY_PsqJGGEcrz2NNqv_QCNldlUYZba8NNNibKaBbQVphFPVK5R3yDt6ZVE2WyVRlm9e4eZIs48w6-bbnV6fO98tdV38unarP2nfue8cHH7vT836Omu2q-dIeG3Uuukp9hchGCDtD63HAxdCFaPilyLrMNNtv2CYYWK4NHDy0HISBjZzfS50pUx30crPRx0lTVOoP17FsApBDbBvBh8jFzm_VPtvq7_grxBYABBCIHNt-SDC0wetRnd6s5_EHaJEhAtgeOjaAGBGIbfzzM19OPvwP_PzxrI-3tx9zfeoG-VltdTc47bNj15bNQZ8G16orB9umUYM867rHdGCqjf68bb-n_IfwdV-pv17bS3cvt5_OZ6Pf3l0H46fZajaeZatU9Mo35znlRvu0n1NxzlJu5HgUKZ8CmS7uW3M_n-6luevDr03WXjbF3z_8412K8fhYjFdx24oJB6FRoxSYcXwwRCbwnAtDxU6d1EGAHMCqmAZEGsGzVK0Kv4YZqBGLS8QTD4SRvCZ-x6KJRzIqSrHvHmHBjHv0OcatWMcl054MRC1TnSiz6ulF1S_9ooKGYdbnPe-5oIhhitcx3a2xrIu4C-WeiIXHfAG-edlLYcwyEiskPHN-vP0cH_hjaSEGoMxqGXHjHta4uAkzCueC7xY1YcWevp-n5TraBUh5DIiE09yDt3hCDYeyk7UKwr6A0Z6VbFo2i0QkYVxf88jrC0FvMYCPjm4VTlc494ORFjyO0IxEdbApEriMjLwlgpJowtaaqiaGvMoRvAnEoDBPRCdMZtjAZEcJr10vr4urjgRPImmHyGVsJ6_zmAQ5nHXCmyG1U2m2m_USi1anRUiBY2VpWxZjQMK-nC6mFBRw1EWT4CIhvfhVMOJTdlsmMlokLyXzRKancpmBgBS-6daAHDjyrGyqvLSn-NPL6bh5A0-UdOFySJ55P89tVSnm83TmtqCtmwqc0vH2Jzh0AbSHEACIrH8Bwsg5eA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSv18nK32kx0zYxGCpxMBMt_9xqiWMZbwhYyjnt3QiRqE9sVjtBM_yF-9yLZDC9HSAbb8V0mZht8T-b-5TDOcZwLf2LaFcE374JAVKF99c",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSmUHwy1L2uTOlLCd7eiJkBEww43jPqCJuuL9IPjNgSZd7Qi-vbDDoOp5y5aeXAsf5XhdT4yGRyadjmStGKgVQq8jZY",
+      "source": "Verizon",
+      "title": "Motorola moto g power",
+      "rating": 4.2,
+      "reviews": 214,
+      "price": "$11.11/mo",
+      "extracted_price": 11.11,
+      "original_price": "x 36",
+      "extracted_original_price": 36,
+      "location": "Also nearby",
+      "immersive_product_page_token": "VL1A7XicdVNLjuM2FARyhtzCmICkRH2ya8uibHVbbutDydw0KJHW1zbblj8t5A65g3smwGQ5CZCzdE4TZbZBtlUPhap6qF_vsv5rZdUDV5_sR8sDr_3pefeEDuX68FUdD-Jc9LX4E0JNRwgiC1gYQqQjywBfC97z7lD-S2PLMKEJoG3YAGqWadrat0py0dV7udpu5XF2KGrxhwGMUQKbUANA0yGGBvq93vFSfqe_GebIInsUMTRbQxjp70dx-tCfnRcITWRjqOuGqdvAthBA-JfncDV7-R_yy-tZHt8-fsrlqZ_kZ1HKfnLa8WOvqsNenibXuq8m5eEgJjnv-_F00tVb-aVUxfe4_xV8340OsWnoYwQTWro-opaJ39Wlv1fl5_O5kx-frhPnYbFeOAu-zuggvO78RMJOemR4IvTMs7BjzjQWHgEsW97L7n4-3avuLve_Hbi6bIu_f_jRPVxnzunqrBOl6CwEEbRxvi-vPOuusVfF0qtQlBU9b0uQkDBKWx0-pZXic3IrGj_aUEpkN00SpLBIqrc0hYncB4x5rBat4k9Zi2lC9LQhOEZVl4OwCTs132TT2aZlKk0rg-87L0YnWAyhX8wrhw-Eha0PNsMG56mOJZ1el4C1tGUGbYq-gH62dG0nQCrNh3DONP_COrqnKU4oZBEHHV8iqAUuddPkxlfx4kYzBvIurHkj9jEJlzmdJrGXgCUVj7zxPdpRUnh-Kkn1GmoLGMc0iZPbSqbqHLv9JWzVIF3Y5y5ORp8X1kxDRkafO1cTCO9XbrBj8wdIqdgG6VWjHlRBKjgHwfgGe7xRg2goi1pCEhd7wh1x9zYTHp1KD_QJtBe0JUGyI4oDEjEy9g9IIxBsCiRUkdoonhV9DoMF292aImP-ivqabK2IAEvnmaoKB-BoqObLOQEFnPbxbOwFkotX-9NwHrytUhZJB3rFDo_5wihIVRB6_iAz348hwYkWxJx24efb6bj9AA8E99EK67vly1oF7nClbUkLmFuL4fGKh6x5-Bma4wDHLQIAEf4HlUFGHw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=VL1A7XicdVNLjuM2FARyhtzCmICkRH2ya8uibHVbbutDydw0KJHW1zbblj8t5A65g3smwGQ5CZCzdE4TZbZBtlUPhap6qF_vsv5rZdUDV5_sR8sDr_3pefeEDuX68FUdD-Jc9LX4E0JNRwgiC1gYQqQjywBfC97z7lD-S2PLMKEJoG3YAGqWadrat0py0dV7udpu5XF2KGrxhwGMUQKbUANA0yGGBvq93vFSfqe_GebIInsUMTRbQxjp70dx-tCfnRcITWRjqOuGqdvAthBA-JfncDV7-R_yy-tZHt8-fsrlqZ_kZ1HKfnLa8WOvqsNenibXuq8m5eEgJjnv-_F00tVb-aVUxfe4_xV8340OsWnoYwQTWro-opaJ39Wlv1fl5_O5kx-frhPnYbFeOAu-zuggvO78RMJOemR4IvTMs7BjzjQWHgEsW97L7n4-3avuLve_Hbi6bIu_f_jRPVxnzunqrBOl6CwEEbRxvi-vPOuusVfF0qtQlBU9b0uQkDBKWx0-pZXic3IrGj_aUEpkN00SpLBIqrc0hYncB4x5rBat4k9Zi2lC9LQhOEZVl4OwCTs132TT2aZlKk0rg-87L0YnWAyhX8wrhw-Eha0PNsMG56mOJZ1el4C1tGUGbYq-gH62dG0nQCrNh3DONP_COrqnKU4oZBEHHV8iqAUuddPkxlfx4kYzBvIurHkj9jEJlzmdJrGXgCUVj7zxPdpRUnh-Kkn1GmoLGMc0iZPbSqbqHLv9JWzVIF3Y5y5ORp8X1kxDRkafO1cTCO9XbrBj8wdIqdgG6VWjHlRBKjgHwfgGe7xRg2goi1pCEhd7wh1x9zYTHp1KD_QJtBe0JUGyI4oDEjEy9g9IIxBsCiRUkdoonhV9DoMF292aImP-ivqabK2IAEvnmaoKB-BoqObLOQEFnPbxbOwFkotX-9NwHrytUhZJB3rFDo_5wihIVRB6_iAz348hwYkWxJx24efb6bj9AA8E99EK67vly1oF7nClbUkLmFuL4fGKh6x5-Bma4wDHLQIAEf4HlUFGHw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQVdVLsCKxCHNvSZNesaKxIbO7OixFr2odz5lmwZv0uiLYlPImvujtWc0MoYDC4VMMTQ7W2F0jJXBukjkfrqbDdMPqZV2CC9uVKtkhhVQrb",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Tracfone Samsung Galaxy A16 128gb 5G",
+      "rating": 3.9,
+      "reviews": 847,
+      "price": "$59.88",
+      "extracted_price": 59.88,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "-NNRw3icbZPNjqNGFIWV57EmquLHQHYNTYFpA6ag-Nu0yhQG7OKnbWxjlHfIO7hnIk2WmUjZ5jU6T5JlHCnLka50pHs-Hd27OL_cy-ZPX21mOnzSXlQLvI2nTbsW-irovw7Hnp2LsWHfIFiqSxnCxyhQkRVtufxa0JHyvmrYH1DRFCBrsqyooiSpoqYC6fe6pIw3XenvduXxuS_-4yRVEVVZ0BRVFUUVyqoEfmtaWpX_-zJQoCQtVUGQHzlAUyXp_chOH8LGeJUETVBV7bEUoQK0JVwKP2-w__z6fe_L27k83j5-3JancbE9s6ocF6eWHseh7rvytLg2Y72o-p4ttnQcH-iCN7vySzU8Dvn2nbz3tmF_vQ-X8V5Xn89nXn58ui6Mp1WwMlY0SOOZWfy8RpiXFprXKD7TFPPc0CNmIZCn7r3i9_PpXvN72f3a0-GyK_7-4R_zUhjGsTACMgzxMwZhCP3SzluCtCUGfOXx_JLsa9k3Hb-04iSywEj3zlsgHq5bZIquVd2KEIpe5-wC4ujEgJd0dmJKPDsWDrc8RiTc6yAWNC8WcOPZ-plyNrGDI1ALZgwNL6Epw62lURLl2CWTnuyDiUI0x4lXFwAdk9ad8KEew5lbLIoTDOveJTgvo3pOZ04SgmnRsRfW5RsKnKAkY0ZFr_etekcAt9xnPcsSzysEGeII6ZEFV2Vbr0uOehwVt9BmU8B5G9l6ms36BtuOx5J4xwi8xgd5YuQ6JQfEKdRNAmIvagff5eiWd7VdQFbnLZzcLk-8A-w85IFgX29SqJkucKfQYiTpqltIKujF2MBAGjORZzkqYNb2IhGkK45rITLHPDqYD4V-yNGaRMHkI29DeJ6F-ypEQJVoOtSFAeRwrm3XRqCA-hg9O5ccoovVODq2vZuf5AQn0zlGmsSIt04FmLotFKl9mIoEZSFnZmJi_Hk6HXcf4AnJY-jLUuu-BoNnzo9_q7iAW3U1v1zlOd0__fToFoBLBQIABflfR_A6tQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-NNRw3icbZPNjqNGFIWV57EmquLHQHYNTYFpA6ag-Nu0yhQG7OKnbWxjlHfIO7hnIk2WmUjZ5jU6T5JlHCnLka50pHs-Hd27OL_cy-ZPX21mOnzSXlQLvI2nTbsW-irovw7Hnp2LsWHfIFiqSxnCxyhQkRVtufxa0JHyvmrYH1DRFCBrsqyooiSpoqYC6fe6pIw3XenvduXxuS_-4yRVEVVZ0BRVFUUVyqoEfmtaWpX_-zJQoCQtVUGQHzlAUyXp_chOH8LGeJUETVBV7bEUoQK0JVwKP2-w__z6fe_L27k83j5-3JancbE9s6ocF6eWHseh7rvytLg2Y72o-p4ttnQcH-iCN7vySzU8Dvn2nbz3tmF_vQ-X8V5Xn89nXn58ui6Mp1WwMlY0SOOZWfy8RpiXFprXKD7TFPPc0CNmIZCn7r3i9_PpXvN72f3a0-GyK_7-4R_zUhjGsTACMgzxMwZhCP3SzluCtCUGfOXx_JLsa9k3Hb-04iSywEj3zlsgHq5bZIquVd2KEIpe5-wC4ujEgJd0dmJKPDsWDrc8RiTc6yAWNC8WcOPZ-plyNrGDI1ALZgwNL6Epw62lURLl2CWTnuyDiUI0x4lXFwAdk9ad8KEew5lbLIoTDOveJTgvo3pOZ04SgmnRsRfW5RsKnKAkY0ZFr_etekcAt9xnPcsSzysEGeII6ZEFV2Vbr0uOehwVt9BmU8B5G9l6ms36BtuOx5J4xwi8xgd5YuQ6JQfEKdRNAmIvagff5eiWd7VdQFbnLZzcLk-8A-w85IFgX29SqJkucKfQYiTpqltIKujF2MBAGjORZzkqYNb2IhGkK45rITLHPDqYD4V-yNGaRMHkI29DeJ6F-ypEQJVoOtSFAeRwrm3XRqCA-hg9O5ccoovVODq2vZuf5AQn0zlGmsSIt04FmLotFKl9mIoEZSFnZmJi_Hk6HXcf4AnJY-jLUuu-BoNnzo9_q7iAW3U1v1zlOd0__fToFoBLBQIABflfR_A6tQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTbr7PM8de-qBi2a-McyJYEwM7VVKu4biAU-Vp_2A3Q7t8R0KPhQSJ81hP6n3fzQtS1Lawfe0HH9oyi0ER04ZuYErKUM913Y9vu9IZXRwOkAz_zzKbm0o5h",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTmHgd3BIUFVolWtb3YgorwqYTmV5NBnUsxWG5mcWgeHtz5dNUxXF4T9fqywosTnd93weIKIRmAqFMBHtItx217tDgH7YA",
+      "source": "Motorola - United States",
+      "title": "Motorola moto g power 2025",
+      "rating": 4.3,
+      "reviews": 875,
+      "price": "$199.99",
+      "extracted_price": 199.99,
+      "original_price": "$300",
+      "extracted_original_price": 300,
+      "extensions": [
+        "33% OFF"
+      ],
+      "immersive_product_page_token": "nmAxDXicbZJdjqNGAISlnCG3sDbqH8CQtzHQ2Hhom59uMC-rNo0N4zYwBns8KHfIHTy7kXYfdyPlLJPTxKu8br3Wp1KVVH_eyvqflVmPovtgLU0PPA_9-viI2n3YfulOrTwXQy3_hghgExsaRPAuTcO6hr4UYhCq3dfyOzItC2km0jU8hXfGMMG3qhRS1U252u3Kk9MWPzAEdaxDS7vTU2SYFph-rY9iX_5vTxHGJkIAIBNhaBkWAG8n2b-jtf3RgpoJsTa9J2vQQJZp4D_W0cr5-HPv8_O5PL2-_7Yt-2GyPct9OUz6ozgNXdU2ZT95qYdqsm9bOdmKYbijE1Xvys_77kePn-S9HWv5TZ8amnGfaugITC3D1PW37jLcqv2n81mV7x9eJvbDIlzYCxFmfJSeOj-SSJUeGR8JP4ssUrk9S6RHQJ4Ft726nftbpW5l81crusuu-PeXX932xbH7FztkXcedCMSNYiEPwBZWu-gAbcn0oxxpSkdKYswHin2XwujKErlI3FyTyte3zDpzptoIwFPI_D7OunHbSDv3SLh18vUGk82WRVUEJKUjETRTkCcPenrQeYgopnPCGZN9Dnz7MbXSiPmrZM4bwcg8A6FWulccpwQGh3y5QUOYODwXOPdi5V6lo3zqadcAScRggVf8QYud2XM679zwicIkJReGXLhRuchT6JQeZNEojYATsWl4F_FISzy1ocehL-aqop6OyyZ6jTx52hy69X17yJgV5yM95UeuZFattg5tOPazVULG1HEHng5EenRWzvOApVxnvHJz7MfhscLc61GIpFOMpJGuZWxS7oRscy0ytaNsAbZucBXzfCcZbNKUIQ6jZfFEd_zJr0RzeA3SgYawukaMe4XaoyAhlzKrloJIhwLIKdnEBJiayLqqsIEej9U8mBNQwNmQOP4lh-Ti1f4smtPXVZonIag8cSB9yvQmyDgQR-iwJncD5Mex69-PIptP1_60ewcPRB_ilTY6S9YeI5aAMnXqLF2L3TCWaRPk4e9wagFoTCEAEBn_AakeRBs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=nmAxDXicbZJdjqNGAISlnCG3sDbqH8CQtzHQ2Hhom59uMC-rNo0N4zYwBns8KHfIHTy7kXYfdyPlLJPTxKu8br3Wp1KVVH_eyvqflVmPovtgLU0PPA_9-viI2n3YfulOrTwXQy3_hghgExsaRPAuTcO6hr4UYhCq3dfyOzItC2km0jU8hXfGMMG3qhRS1U252u3Kk9MWPzAEdaxDS7vTU2SYFph-rY9iX_5vTxHGJkIAIBNhaBkWAG8n2b-jtf3RgpoJsTa9J2vQQJZp4D_W0cr5-HPv8_O5PL2-_7Yt-2GyPct9OUz6ozgNXdU2ZT95qYdqsm9bOdmKYbijE1Xvys_77kePn-S9HWv5TZ8amnGfaugITC3D1PW37jLcqv2n81mV7x9eJvbDIlzYCxFmfJSeOj-SSJUeGR8JP4ssUrk9S6RHQJ4Ft726nftbpW5l81crusuu-PeXX932xbH7FztkXcedCMSNYiEPwBZWu-gAbcn0oxxpSkdKYswHin2XwujKErlI3FyTyte3zDpzptoIwFPI_D7OunHbSDv3SLh18vUGk82WRVUEJKUjETRTkCcPenrQeYgopnPCGZN9Dnz7MbXSiPmrZM4bwcg8A6FWulccpwQGh3y5QUOYODwXOPdi5V6lo3zqadcAScRggVf8QYud2XM679zwicIkJReGXLhRuchT6JQeZNEojYATsWl4F_FISzy1ocehL-aqop6OyyZ6jTx52hy69X17yJgV5yM95UeuZFattg5tOPazVULG1HEHng5EenRWzvOApVxnvHJz7MfhscLc61GIpFOMpJGuZWxS7oRscy0ytaNsAbZucBXzfCcZbNKUIQ6jZfFEd_zJr0RzeA3SgYawukaMe4XaoyAhlzKrloJIhwLIKdnEBJiayLqqsIEej9U8mBNQwNmQOP4lh-Ti1f4smtPXVZonIag8cSB9yvQmyDgQR-iwJncD5Mex69-PIptP1_60ewcPRB_ilTY6S9YeI5aAMnXqLF2L3TCWaRPk4e9wagFoTCEAEBn_AakeRBs"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT5dJcd-u8lZ1dA2gMsA-MrkJHU_BxZAtFcbDsggYSVOb0D8M3H-kRgnvBU2Eym0nAjTek0lGIqHpwqJvnCEApT5BuaIowT6TDHnPXKRYaOFUmN79gvLf5a1Q",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Tracfone Motorola moto g 2026 5G",
+      "rating": 3.9,
+      "reviews": 55,
+      "price": "$99.88",
+      "extracted_price": 99.88,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "PLqnDHicdZLLjqNGFIaV57EmqovBkF1jXPgCuCmgwLUZYQobTHFpG2w3yjvkHdwzkSbLmUjZ5jU6T5JlyKyTxZGO9P3_-Y90zi-PrPhjqxVD0n7QN5oFXrrLc2Wj5ug1X9pzI_q0K8Q3BNQp0mc6ggpSxwaC2Zc06RLZHEc6VVRN06GG8FRTNBUjMPuaZ4mQRZ1tD4fsbDbpKNMUHQIMoYKRinVFBwr-raiSY_Yd_w5VZaqpaKqNSQqEGGsqeDuLy_v0ef4RzjD416gghIGuqeoMzn5-plvz4__Azy99dn59_3GfXbrJvhfHrJtcquTctXlTZ5fJrejyybFpxGSfdN0oncjikH0-tt9X-Y-Bb1Uh_nxrr90jP37qe5m9f7hN5k8rbzVfJV7MBmHJ3iZUZhYZbML6JKaSz41AWATw2Hkc5aO_PHL5yOpfm6S9HtK_fvh7cU3n83M698K2ZSYFAZFBVIq7qI3Aqd1NiEnMiKhDoMQcLV4FuFvCXHtedK992W5EKN3d4CrCorazdM9u4J58xHBm5ShbhHgvjSWN81xYAAfxUxcwQ3rAtdzyLlOyAvuQJTzSCzYWNY2dw4TtQmlkC7Z2wxUcc5-DiiWhmVMO2YmTReefCOI1w0Gon1LUwqSUdhRq2I-ZzXB5C0re7DBNEosl1OSKHbXQh0adYsadkjkJcm-hRbxwcG-BSc-pmY9-Hu5Q23uIYxbThYMY4Yy_BDXJo4p7DOjXqIILf-DP25Cug2id7CWliaRXemLhvgKvEZEFhcJ3YnF1l2Xn1TzYRW3vDnLpVWvooNxk0XRIsRic2F2l9Q57LL_RQcpdRU4uaZlfsmBP1uM9pM0Yt6OTaGJY-gRo0yRu83QOFH_Il86SgBQaXWCurxySq1WsDbp0X7cRDygTZXhieVbSzreI4ZASBSfJozLETJJpWkrj0_1yPryDJ6J0_laxW_MSpXm7f1k0ZK1scLdUdk_XtN7cfoIzHcDxAQGAaPYPONQ7HA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=PLqnDHicdZLLjqNGFIaV57EmqovBkF1jXPgCuCmgwLUZYQobTHFpG2w3yjvkHdwzkSbLmUjZ5jU6T5JlyKyTxZGO9P3_-Y90zi-PrPhjqxVD0n7QN5oFXrrLc2Wj5ug1X9pzI_q0K8Q3BNQp0mc6ggpSxwaC2Zc06RLZHEc6VVRN06GG8FRTNBUjMPuaZ4mQRZ1tD4fsbDbpKNMUHQIMoYKRinVFBwr-raiSY_Yd_w5VZaqpaKqNSQqEGGsqeDuLy_v0ef4RzjD416gghIGuqeoMzn5-plvz4__Azy99dn59_3GfXbrJvhfHrJtcquTctXlTZ5fJrejyybFpxGSfdN0oncjikH0-tt9X-Y-Bb1Uh_nxrr90jP37qe5m9f7hN5k8rbzVfJV7MBmHJ3iZUZhYZbML6JKaSz41AWATw2Hkc5aO_PHL5yOpfm6S9HtK_fvh7cU3n83M698K2ZSYFAZFBVIq7qI3Aqd1NiEnMiKhDoMQcLV4FuFvCXHtedK992W5EKN3d4CrCorazdM9u4J58xHBm5ShbhHgvjSWN81xYAAfxUxcwQ3rAtdzyLlOyAvuQJTzSCzYWNY2dw4TtQmlkC7Z2wxUcc5-DiiWhmVMO2YmTReefCOI1w0Gon1LUwqSUdhRq2I-ZzXB5C0re7DBNEosl1OSKHbXQh0adYsadkjkJcm-hRbxwcG-BSc-pmY9-Hu5Q23uIYxbThYMY4Yy_BDXJo4p7DOjXqIILf-DP25Cug2id7CWliaRXemLhvgKvEZEFhcJ3YnF1l2Xn1TzYRW3vDnLpVWvooNxk0XRIsRic2F2l9Q57LL_RQcpdRU4uaZlfsmBP1uM9pM0Yt6OTaGJY-gRo0yRu83QOFH_Il86SgBQaXWCurxySq1WsDbp0X7cRDygTZXhieVbSzreI4ZASBSfJozLETJJpWkrj0_1yPryDJ6J0_laxW_MSpXm7f1k0ZK1scLdUdk_XtN7cfoIzHcDxAQGAaPYPONQ7HA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS6jL98iy8M3Eg7etljJKPvlx5g14_ggzl_g33uWp9lTuIU3aqui-89GEIaS4FkK2QARg-S1nyNrUWz08yJuCQD3jE6tFZSRG524FwOa2X60QUEwmnF4TCp",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSu-a8bVf9ml0lukXkEBdFRxkoH_Fc7D_mNj4fG2K2j4b5H1245rxoYO0NotEoSRoZ2AUaoJ6NEc7nS1hn940MXm1MYC0yoGtRlO64",
+      "source": "Swiftronics USA",
+      "title": "Nothing Phone",
+      "rating": 4.8,
+      "reviews": 378,
+      "price": "$289.99",
+      "extracted_price": 289.99,
+      "original_price": "Was $370",
+      "extracted_original_price": 370,
+      "extensions": [
+        "21% OFF"
+      ],
+      "immersive_product_page_token": "HfvECHicbZLdjqNGEIWlPEPewtqou3Hzk7vB0HhsA8NPdzPcrKAbG48bwxhsZqy8Q97Bsxtp93J3pTzL5GmCktu9KJVU5-jUV1L9eav2f4fm_lp0H6y16YHnoX9oNqjdRe2X7tTKsxj28vsc6LqhA03XkG5iUzeQ8UUUQ6Ha3V7-gIYBMIaaZmDN1E0dYk37VleFVPtjFW631clpxf8-iA0NGBDONcNAEGjg674pdtV_-jcLAgOjaRXCFpwb87nxdpL9O3pYfMQAQAsYCJkYQBPNddP84yEOnY8_1z4_n6vT6_tvZdUPs_Isd9Uw65viNHR1e6z62bgf6tmubeWsLIZhss7Uflt93nUTxvef5L01Ex429LmOTBNijCd40wRv3WW41btP57Oq3j-Ms8XdfXS_uC-ijF2lp84bEqvKI9cNYecii1W-sFPpEZBn_m2nbuf-VqtbdfyrLbrLVvzzy69uOzqLflxEtOuYE4PkMMQCDa_sWC9jTi4FCoIgq585jbclejkHhxhw90XxdEUlyQ8S4SakLdjwzmcsnvNMjr7Ktzkg4yMK2kQFOKQvGeWsSK527TfWMZ3mglpecQxW0pF1QgJdUowlrdfxcoc5z7m_ZHaAck8ou-cNPgQOQyFnpHQVjLJc-VeGhCfPaXoAUdO5aUpSX7EodOOooApl18NIrznmx27DSf5UOdLOYDDmxOIU-qDKBGJPsZZnAqY83nDFwtKxtxWxPEGxl2SsFUhqUbOCeapsH9WPsWu1yQKyWLGxyogdPB1ekyf5WoB6E7pq8JGAvjrMKbOfJ35SopXPshylB4xTGnC2JHDqBaPWOoDS95u8TpvxKuiUn9qbolG4PMQq06Sbk6moGGjT2cXxHkon6MMF1EoPD5VDYcmtteAdLiFNCDDnRdbVYgFwcq2X_pIAAe0hdVaXHJKLt1_Z8TJ4DXmell7MI_Sy8t37IZ3u8T3IH7Muibh0Ey9IBA_iTy_9afsO7ggekhBvOqfnou7KZ7clK7zWhiV-vLuI43r8HRoWgLoBp_9Fxr_20UTP",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=HfvECHicbZLdjqNGEIWlPEPewtqou3Hzk7vB0HhsA8NPdzPcrKAbG48bwxhsZqy8Q97Bsxtp93J3pTzL5GmCktu9KJVU5-jUV1L9eav2f4fm_lp0H6y16YHnoX9oNqjdRe2X7tTKsxj28vsc6LqhA03XkG5iUzeQ8UUUQ6Ha3V7-gIYBMIaaZmDN1E0dYk37VleFVPtjFW631clpxf8-iA0NGBDONcNAEGjg674pdtV_-jcLAgOjaRXCFpwb87nxdpL9O3pYfMQAQAsYCJkYQBPNddP84yEOnY8_1z4_n6vT6_tvZdUPs_Isd9Uw65viNHR1e6z62bgf6tmubeWsLIZhss7Uflt93nUTxvef5L01Ex429LmOTBNijCd40wRv3WW41btP57Oq3j-Ms8XdfXS_uC-ijF2lp84bEqvKI9cNYecii1W-sFPpEZBn_m2nbuf-VqtbdfyrLbrLVvzzy69uOzqLflxEtOuYE4PkMMQCDa_sWC9jTi4FCoIgq585jbclejkHhxhw90XxdEUlyQ8S4SakLdjwzmcsnvNMjr7Ktzkg4yMK2kQFOKQvGeWsSK527TfWMZ3mglpecQxW0pF1QgJdUowlrdfxcoc5z7m_ZHaAck8ou-cNPgQOQyFnpHQVjLJc-VeGhCfPaXoAUdO5aUpSX7EodOOooApl18NIrznmx27DSf5UOdLOYDDmxOIU-qDKBGJPsZZnAqY83nDFwtKxtxWxPEGxl2SsFUhqUbOCeapsH9WPsWu1yQKyWLGxyogdPB1ekyf5WoB6E7pq8JGAvjrMKbOfJ35SopXPshylB4xTGnC2JHDqBaPWOoDS95u8TpvxKuiUn9qbolG4PMQq06Sbk6moGGjT2cXxHkon6MMF1EoPD5VDYcmtteAdLiFNCDDnRdbVYgFwcq2X_pIAAe0hdVaXHJKLt1_Z8TJ4DXmell7MI_Sy8t37IZ3u8T3IH7Muibh0Ey9IBA_iTy_9afsO7ggekhBvOqfnou7KZ7clK7zWhiV-vLuI43r8HRoWgLoBp_9Fxr_20UTP"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSLsjjQ2EhaQmKKBXDcv1rhSQgNkhXsL_BnkMzrhgrqo6vsz-blSr4YA3k2gih9RBpFw3OO5zXK6eA-v6VxG0y1uKJp3n3CL3YakTkJYpM",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Samsung Galaxy A17 5G",
+      "rating": 4.6,
+      "reviews": 21000,
+      "price": "$249.99",
+      "extracted_price": 249.99,
+      "immersive_product_page_token": "mNpHKnicbZNPjqNGGMWlnCG3sCaqP5SB7NrYhU23oSmgwLUZlSkM2GDTpmy3Ue6QO7hnIs0sZ0bKWTqniZP17D7pffrpPT29P29F_Xdg1YPsPtiPlgtedP_cPqFDGR6-dMeDOuW6Vt_hmFhjbBBiW-bYMiHC5pdcatkcylr9gAAjwzZsYEGCx9CApml_qwqpmnpfBJtNcZwe8jsF25ZlEhsAw0K2gRAG4GvdyrL4X_4BIQAmAWAMELGxBaBl4Lej6t_Rs_NxbBFMjDvYsE0IbWOMwB_PLJh-_Ln2-eVUHK_vv62LXo_WJ1UWetS38qi76rAv-tGl1tWoPBzUaC21vr-OmnpTfC67_3z-hPfW1uobMcf327Ixse-RbWKjt-6sb1X56XRqivcPl5HzsAgXzkKGGR-U25yeKGsKlw5PlJ9kxhrhTGLlUiCy5a1sbqf-VjW3Yv_XQXbnTf7PL7_ODpep01-cMOk6PmUg2iYGdxuwGli7dEktuTckUD0yrLi443gLLiFSm_WMDnmr5arV1yBRfZEsUQjga77ze5ax1RosB8FVHM9YFHGPB0m3yLNmGWeTxQrpkx9BHbjecd2Gho8E49yCKe12Ys9TwW2PpTnMsbquttRlrn0MwQypoZJyziLFlRu2M712gCEaL8y3gkXAlvGuo0nsr3w-QTnsVutEGGpLPZHaTzIhjxHswjBmlQ-V4e_ZMQaViFM_8YGF_WaS5DN9DHFpRLtuyzKxuOeAAgoWJ9TJUy-IEhKtB1ov6eKqkAFiRJ_ZvHpM8CSOXD_12_K1mIsnP_MbhcA1GtgyQtSPm1JHaYdFpkgOFb4XMw3cxTWtoZvsXs8pDXXczF6LPSfS5YJRtlMZE5ErONv5mLnaDbfVznfFTsJqrlqIfZwTPm16noURBZYhs67KHUCioZov5xTkcKLjqXcWkJ7d2puwuX8NUhEnMzjOW0HEfLIpZr4MhxJL6A1yL3QyEzgCDfv02h837-CBEh0FpoGW-qET26wIA69gdDhvq8RxXjbT8ndo2gCOzfuOILL-BXdjRPw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=mNpHKnicbZNPjqNGGMWlnCG3sCaqP5SB7NrYhU23oSmgwLUZlSkM2GDTpmy3Ue6QO7hnIs0sZ0bKWTqniZP17D7pffrpPT29P29F_Xdg1YPsPtiPlgtedP_cPqFDGR6-dMeDOuW6Vt_hmFhjbBBiW-bYMiHC5pdcatkcylr9gAAjwzZsYEGCx9CApml_qwqpmnpfBJtNcZwe8jsF25ZlEhsAw0K2gRAG4GvdyrL4X_4BIQAmAWAMELGxBaBl4Lej6t_Rs_NxbBFMjDvYsE0IbWOMwB_PLJh-_Ln2-eVUHK_vv62LXo_WJ1UWetS38qi76rAv-tGl1tWoPBzUaC21vr-OmnpTfC67_3z-hPfW1uobMcf327Ixse-RbWKjt-6sb1X56XRqivcPl5HzsAgXzkKGGR-U25yeKGsKlw5PlJ9kxhrhTGLlUiCy5a1sbqf-VjW3Yv_XQXbnTf7PL7_ODpep01-cMOk6PmUg2iYGdxuwGli7dEktuTckUD0yrLi443gLLiFSm_WMDnmr5arV1yBRfZEsUQjga77ze5ax1RosB8FVHM9YFHGPB0m3yLNmGWeTxQrpkx9BHbjecd2Gho8E49yCKe12Ys9TwW2PpTnMsbquttRlrn0MwQypoZJyziLFlRu2M712gCEaL8y3gkXAlvGuo0nsr3w-QTnsVutEGGpLPZHaTzIhjxHswjBmlQ-V4e_ZMQaViFM_8YGF_WaS5DN9DHFpRLtuyzKxuOeAAgoWJ9TJUy-IEhKtB1ov6eKqkAFiRJ_ZvHpM8CSOXD_12_K1mIsnP_MbhcA1GtgyQtSPm1JHaYdFpkgOFb4XMw3cxTWtoZvsXs8pDXXczF6LPSfS5YJRtlMZE5ErONv5mLnaDbfVznfFTsJqrlqIfZwTPm16noURBZYhs67KHUCioZov5xTkcKLjqXcWkJ7d2puwuX8NUhEnMzjOW0HEfLIpZr4MhxJL6A1yL3QyEzgCDfv02h837-CBEh0FpoGW-qET26wIA69gdDhvq8RxXjbT8ndo2gCOzfuOILL-BXdjRPw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTyPOUoBxN7jKK2zwo8xkm56lrpEW1rDZocUaUZKwzsXlBITHx4g2_yvMViPnJodPGjGQqRObZd6hnr06io5jI5ZNzY6FKUjAL_8h3n3i-55Q2d4uKsXX4L",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Straight Talk Motorola moto g 2026",
+      "rating": 3.2,
+      "reviews": 42,
+      "price": "$79.88",
+      "extracted_price": 79.88,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "9YOHDXicddBLrqNGFAZgZT1WR1U8i8yugQLbF2woKDCTFlBlg42hbPAL9R6yB9_uSN3DTqRMs42blWQYR5kmkzP5jz795_z84PXvS1SPufhgLJADjkO_OrxK3TbovopTx87lULNfdYiQIqmSrkuqiiRF0_WvZT7kTbet2W8QAlnVkSEBoEpIUQ1dV75XPGdN3fLlZsNPVlc-FaQYBkRQ0TSIdGgYT-tbfci3_N_YQJqhPRFFV7SnJOuy8XZi_buyMj9CxZANWUJAAs-BZKQD6dMqXFof_yf8cjzz0_39x4L3w6Q4sy0fJv0hPw2i6lreT671UE22XccmRT4Mz9VJU2_4l60o_znoP8C3Q83-eBOX4VFtP5_PDX__cJ2YL7NgZs7yIKUjc5rzKw4b7uDxFdNznoZNZk4j5mCQpd5j2zzO_aNqHrz9pcvFZVP--cNf9qU0zVNpBrEQ1AoBaViQu_6O4blbUNFlFksz6k99E278aKvEMm6K3dynEZMSd96sD_6dtJnPDnBHCMwpRrBIhhV35rO8QTcPNkPpVtq6FVG0x6fE7lUGhc0IFHEUWr4jQJhmdZHSLjrgI7HnmxgaMnEEJomIacvWCQ3Vws1eeTwcs10YlwDdgqiSwoYO8Y7WFLAFtYOrDwN1SQOJuKHjH0RP7cxOpWbxmlTHsMWQxYLm0FhRF_cxnKfPsmPRCifYV6TE6BraVCvkbvQInDEbj4lFG0LDReZUILfYLXazIXRxTqWmjlPhMptRv6VwLSmyP-LQq-HJl8WQud5ATGgGu7WatLQnFhVxkl3z8UUhDiSeJHZExkFxKK_JDq_9HSYeZc-fGStvnymxhNT16Dt8z048wkoG9wQDpOSpqEoTqGSsXM_FoITTIbLmlwzii1PPp6Hr35dJFgVpuPba2Y070GcRPaayPURNeFxa7M5oQ9cxDT_f-tPmHbxgdSBLbR-3YsE5XE3tFCeb436G-7tVW30e_AR1A0BNhwBAyfgbz487Ag",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9YOHDXicddBLrqNGFAZgZT1WR1U8i8yugQLbF2woKDCTFlBlg42hbPAL9R6yB9_uSN3DTqRMs42blWQYR5kmkzP5jz795_z84PXvS1SPufhgLJADjkO_OrxK3TbovopTx87lULNfdYiQIqmSrkuqiiRF0_WvZT7kTbet2W8QAlnVkSEBoEpIUQ1dV75XPGdN3fLlZsNPVlc-FaQYBkRQ0TSIdGgYT-tbfci3_N_YQJqhPRFFV7SnJOuy8XZi_buyMj9CxZANWUJAAs-BZKQD6dMqXFof_yf8cjzz0_39x4L3w6Q4sy0fJv0hPw2i6lreT671UE22XccmRT4Mz9VJU2_4l60o_znoP8C3Q83-eBOX4VFtP5_PDX__cJ2YL7NgZs7yIKUjc5rzKw4b7uDxFdNznoZNZk4j5mCQpd5j2zzO_aNqHrz9pcvFZVP--cNf9qU0zVNpBrEQ1AoBaViQu_6O4blbUNFlFksz6k99E278aKvEMm6K3dynEZMSd96sD_6dtJnPDnBHCMwpRrBIhhV35rO8QTcPNkPpVtq6FVG0x6fE7lUGhc0IFHEUWr4jQJhmdZHSLjrgI7HnmxgaMnEEJomIacvWCQ3Vws1eeTwcs10YlwDdgqiSwoYO8Y7WFLAFtYOrDwN1SQOJuKHjH0RP7cxOpWbxmlTHsMWQxYLm0FhRF_cxnKfPsmPRCifYV6TE6BraVCvkbvQInDEbj4lFG0LDReZUILfYLXazIXRxTqWmjlPhMptRv6VwLSmyP-LQq-HJl8WQud5ATGgGu7WatLQnFhVxkl3z8UUhDiSeJHZExkFxKK_JDq_9HSYeZc-fGStvnymxhNT16Dt8z048wkoG9wQDpOSpqEoTqGSsXM_FoITTIbLmlwzii1PPp6Hr35dJFgVpuPba2Y070GcRPaayPURNeFxa7M5oQ9cxDT_f-tPmHbxgdSBLbR-3YsE5XE3tFCeb436G-7tVW30e_AR1A0BNhwBAyfgbz487Ag"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTQnkBI8uuqonSqdq0RphMNiEEGTrqzLTYz6jGxi2yiKmPDjTvcyjp3k9FSzr5nKJwQbqwp-yTqhnc_bshJqWJSfFJdFv0l0VUxKAMEs0U",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQSIjw_Sm31vtE4llsRLULKEodCnehZ1WaRaauyYlS2eStfv7Kyxet_x4L01fsvDQWEqO1SWnvkPpPMf8-rC2s56eeAiOIQ-pg0",
+      "source": "Cell2Get",
+      "title": "Motorola moto G 2026",
+      "rating": 4.1,
+      "reviews": 489,
+      "price": "$193.45",
+      "extracted_price": 193.45,
+      "original_price": "$198",
+      "extracted_original_price": 198,
+      "extensions": [
+        "$5 OFF"
+      ],
+      "immersive_product_page_token": "y6AN2HicbY5NrqNGFIWlrCG7sDqqKlz89KxtKGzagCmgwExaQJUNj7LhGfCfsofswa87UmfYGWQtL6sJUobJ6ErnO-ee89tT1H_5ev3Iuw_GZ90Gr0O_PW5Qewja79255WM51PxPrOoamBuqpiFNwRqAmva9zIdctoeJIqwpEAF1bhhQVTHChvGjEjmX9Un4-704m2052XRVn-tImcJgukhDBvyjPuYH8S9G6nxu6FifzyEGCjAwUN_OvH8H2-UXpOpAVaduY-qGUDHgr1vqm1_-F317HcX5_v5LIfphVoz8IIZZf8zPQ1e1J9HPrvVQzQ5ty2dFPgyTdSbrvfh26KYVP_777u04yVhT5yrCyiRpWNM1Dbx1l-FZHb6OoxTvH66z5ad1sF6u8yBlD27LcUOoFDZ5bAgb85TKbLmIuE1AlrrPg3yO_bOST3H6vc27y778-6efrfZqLvvrMoi7jpkUhC_VNQOO51tGl1vGw4WewhR-KhiRlDhpqtBdARd-cWJ-2TCfR8yjq4VarioYImebs8WrZ1WuF5NqB3BcmMyhCUWF6dhMOq4wHbd8MMs1WV_YN3fHqusu6cYMsdBD8iIs9pkxR4bJcBMr5zztAgzckGtxlxHmlZbXp7AzBVuoPHWuObRgCowXPyX3AuGE2Q0SCXmNmnZIpH7NSOdEDb9Sq7ODxtgwhZms8a7xSu4yC2YR6OeFIlOeGOvMZG4us7Q8Otvw1JEYGUA0WZ80jreJ2CqQnSNq8PAisggavqCR44kQjnwJ7pk13CLZ4dDOgGvycRetcYi4H8XZKWGHhzjRJD4GN5E0Q2ERnLPuxoHcRcka56BSE5snHGZ3dvRIeaT7OKY4iUkvGI0Y8ViRDHgTycG3srpEMs-Ph7uQVV-k65AAfZ6nXVUuAQ4f1cpdEVDCxRCZziWD5GLXzoKuvLufZDQ0eUdBcPNiumFL2DDG7OwRYKq4KAX8xTsx-vXWn_fv4BPBQ-irdVuFwz7Bld0sgRdJnUB-vJQuMoKPUDMAVDUIAFTAP8naRRM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=y6AN2HicbY5NrqNGFIWlrCG7sDqqKlz89KxtKGzagCmgwExaQJUNj7LhGfCfsofswa87UmfYGWQtL6sJUobJ6ErnO-ee89tT1H_5ev3Iuw_GZ90Gr0O_PW5Qewja79255WM51PxPrOoamBuqpiFNwRqAmva9zIdctoeJIqwpEAF1bhhQVTHChvGjEjmX9Un4-704m2052XRVn-tImcJgukhDBvyjPuYH8S9G6nxu6FifzyEGCjAwUN_OvH8H2-UXpOpAVaduY-qGUDHgr1vqm1_-F317HcX5_v5LIfphVoz8IIZZf8zPQ1e1J9HPrvVQzQ5ty2dFPgyTdSbrvfh26KYVP_777u04yVhT5yrCyiRpWNM1Dbx1l-FZHb6OoxTvH66z5ad1sF6u8yBlD27LcUOoFDZ5bAgb85TKbLmIuE1AlrrPg3yO_bOST3H6vc27y778-6efrfZqLvvrMoi7jpkUhC_VNQOO51tGl1vGw4WewhR-KhiRlDhpqtBdARd-cWJ-2TCfR8yjq4VarioYImebs8WrZ1WuF5NqB3BcmMyhCUWF6dhMOq4wHbd8MMs1WV_YN3fHqusu6cYMsdBD8iIs9pkxR4bJcBMr5zztAgzckGtxlxHmlZbXp7AzBVuoPHWuObRgCowXPyX3AuGE2Q0SCXmNmnZIpH7NSOdEDb9Sq7ODxtgwhZms8a7xSu4yC2YR6OeFIlOeGOvMZG4us7Q8Otvw1JEYGUA0WZ80jreJ2CqQnSNq8PAisggavqCR44kQjnwJ7pk13CLZ4dDOgGvycRetcYi4H8XZKWGHhzjRJD4GN5E0Q2ERnLPuxoHcRcka56BSE5snHGZ3dvRIeaT7OKY4iUkvGI0Y8ViRDHgTycG3srpEMs-Ph7uQVV-k65AAfZ6nXVUuAQ4f1cpdEVDCxRCZziWD5GLXzoKuvLufZDQ0eUdBcPNiumFL2DDG7OwRYKq4KAX8xTsx-vXWn_fv4BPBQ-irdVuFwz7Bld0sgRdJnUB-vJQuMoKPUDMAVDUIAFTAP8naRRM"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQe9fc4WUdxe6s94bfo4rbvLAkufoqmQCxGmxcOdGrM2g83oQLXKJ6uGmaheNGnQx-5ui8gtSnzs8T-HoRfLUZZADutEc0tQjtf05YX-PGg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcT4AagMZKCcjVae3_bHPa5ei7aLleaMJeTUgTIKwk2wh5JBcPqgHzz5WufonBl3XJg_EHVAQ74bs762lvitj95s4-0YjFkevDBI",
+      "source": "Google Store",
+      "title": "Google Pixel 9a",
+      "rating": 4.6,
+      "reviews": 3600,
+      "price": "$499.00",
+      "extracted_price": 499.0,
+      "immersive_product_page_token": "2_R0K3icdZNdjqNGFIWlrCG7sCaqAoqfeWtsCppuQ1NQVZiXEVAYaApD29huo-whe3DPRJo8TiJlLZ3VxKPkLcq9j9-5R-fh3F-uVftnaLZzPn6wHkwXvEyHp_5RGepo-DruB3Esp1b8rqi6AnUETWRA1UQQGPBrmU-5HOpW_AE1BHRFtQwdAeO2qmmY35oqF7LdVeF2W-1XQ_ldBy1Vh6oCFEPTv1sCZP3W9nld_ct1Q7FMoGiqBQ1DhwgB9LYXh3ftafkJ6jq83QAVmZZlKYoGTP3nJxKuPv0P_PJyrPaX95-K6jAtiqOoq2lx6PP9NDbDrjoszu3ULOphEIsin6abdCHbbfWlHv-J8l_Dt74V35Ch37IjCM3bQGQg7W08Tdem_nw8yur9w3mxvLuP7pf3eZSyWbjy-IiJrFw8P2J2zFMis6WdCBeDLF1fa3k9Hq6NvFa7X4d8PG3Lv3740RnOq-XhvIzoOLIVAYmD04BqWu76F-5kD5STOUnrKV-RnPHNmUq8KXeNvk6zWKSbs3AO83r29Uwlp5L7XtVPKE7YJe8AiGU9J96g5bgZQ0e0iYrtRG2eC-gT_ix8whzAWqAFiT3EQDaMBvsCjM8R99dBN0WbTjQVHi9CNqSiFk3cQAbY3zHFTxMuqODdVKgSreV4inH5mrljSntxSJjNNt39a5JsNNKXoJDkcb2SLU3ZJZkJj-ToUZqdCMNNntoe67sLd62n0mncfBVgxgkOnMBhfRYVLSQhH2HoBLicieRp45UdCvKdrVHP7ugzjrgThAHDTsAtbcNwyCgbi97ahYloqYtQqgiWu-JWnxtT7efSHQmhWbwGaBfjQeEcnCtHnohq-8kKI8LFltHXOZslj5fwRDs4iB43DDSsgBTGncQUyz1zMi46LcbA1PJ0bMolQPHceGsPgxLaU7LyTxnEJ7f1beIFl5BnMe9hHyljT1zWUy9DnFrbymkeSizDggY06yfy-fWw376DO4ymONSjKrufIzf26kP3sr1jajg9RC_OvMbRR2hY4PZIEACowr8BG9ZJFQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2_R0K3icdZNdjqNGFIWlrCG7sCaqAoqfeWtsCppuQ1NQVZiXEVAYaApD29huo-whe3DPRJo8TiJlLZ3VxKPkLcq9j9-5R-fh3F-uVftnaLZzPn6wHkwXvEyHp_5RGepo-DruB3Esp1b8rqi6AnUETWRA1UQQGPBrmU-5HOpW_AE1BHRFtQwdAeO2qmmY35oqF7LdVeF2W-1XQ_ldBy1Vh6oCFEPTv1sCZP3W9nld_ct1Q7FMoGiqBQ1DhwgB9LYXh3ftafkJ6jq83QAVmZZlKYoGTP3nJxKuPv0P_PJyrPaX95-K6jAtiqOoq2lx6PP9NDbDrjoszu3ULOphEIsin6abdCHbbfWlHv-J8l_Dt74V35Ch37IjCM3bQGQg7W08Tdem_nw8yur9w3mxvLuP7pf3eZSyWbjy-IiJrFw8P2J2zFMis6WdCBeDLF1fa3k9Hq6NvFa7X4d8PG3Lv3740RnOq-XhvIzoOLIVAYmD04BqWu76F-5kD5STOUnrKV-RnPHNmUq8KXeNvk6zWKSbs3AO83r29Uwlp5L7XtVPKE7YJe8AiGU9J96g5bgZQ0e0iYrtRG2eC-gT_ix8whzAWqAFiT3EQDaMBvsCjM8R99dBN0WbTjQVHi9CNqSiFk3cQAbY3zHFTxMuqODdVKgSreV4inH5mrljSntxSJjNNt39a5JsNNKXoJDkcb2SLU3ZJZkJj-ToUZqdCMNNntoe67sLd62n0mncfBVgxgkOnMBhfRYVLSQhH2HoBLicieRp45UdCvKdrVHP7ugzjrgThAHDTsAtbcNwyCgbi97ahYloqYtQqgiWu-JWnxtT7efSHQmhWbwGaBfjQeEcnCtHnohq-8kKI8LFltHXOZslj5fwRDs4iB43DDSsgBTGncQUyz1zMi46LcbA1PJ0bMolQPHceGsPgxLaU7LyTxnEJ7f1beIFl5BnMe9hHyljT1zWUy9DnFrbymkeSizDggY06yfy-fWw376DO4ymONSjKrufIzf26kP3sr1jajg9RC_OvMbRR2hY4PZIEACowr8BG9ZJFQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT92-ogSc7hCGf4Cwt-ARx5fXNO3jJpHR88bWAWMCwtnkEF19-v1fkS8UyRy34RkzAcbMnv8Jz23NgxmqKly_2P9KqhIpy4yjvh-s9msw5L",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Straight Talk Google Pixel 6A",
+      "rating": 2.8,
+      "reviews": 302,
+      "price": "$199.00",
+      "extracted_price": 199.0,
+      "location": "Nearby, 18 mi",
+      "immersive_product_page_token": "x5GGiXicdZBNjqNGAIWlnCG3sCaqgioM2bV_Cuwx0JShYNiMiioMmMJgg-02yh1yB_dMpMlyEiln6ZwmbmWbrL_3nvS9X-959ZdvViPvPlgfTRsch_652WhtEbTfulMrz2Ko5J8QaaZh6aYFsGkhBOEUTb8JPnDVFu94OjWmGOsWNCwTaMhAFv5e5lyq6pD7u11-WrSikn9g3QTIAhY2NFM38SNl_F41vMj_xboB39sm1gwdGBrCJno9yf4NPc8_Q2BCy9B0iDVo6roxtUz0yzP1F5__B349nvPT7e2nLO-HSXaWRT5M-oafhq5sD3k_uVZDOSnaVk4yPgyP6ERVu_xr0Yl3of8YfG0q-R1PDWRoU2ABYOimYSDw2l2Ge1l8OZ9V_vbhOpk_rYLVfMWDhI3SVucNoSq3ybgh7MwTqtL5LJQ2AWni3gt1P_f3Ut3zw28t7y478fcPPy7b62LeX-dB1HVsQcG2HrosinDU4L3UWLg9dHZYey8RjIYQvJQuLIlvQ8dfYpAulnoIy4OrmL2FKqaO6ty487LQ8-g-VZE21JzJU6JJluoFknulyWhdCvDSpwu1pAuv4iFz8hgfU7LEwmEbGpU2jQaDjnSMG7KJGblktQdo7FHe0CV1OuqG6WG7l5uIMZax2cCTruUHhfJwDQRYx5EdIC9Od9u4PCU3GPgRuTLwcuENc7gjEFcCxYnA2Q3OuS3tOCQbEa2PIk65jGUs4Gwm7E86tcnM3RPEl6oLa9bF9XqVAVK7C3njMUYhU1EWUY0m3adN4jVesoZCu-qeLvSQUOrHwS3RaU0bGgpb9kxbN1mEL3wRIFEXo6srz9NLO3UYDpKupqQd88QbpEaPuV26IiJjRtjKU-zIAU1ZI9Otzcaots6ywSlt4MUP6y0BJnp8UIo5wNuxdFyHgIfDEC7WlxSSi12tZ9Txbn6cRo__ZqmNQ7lMFYutkAPMafPwSWbLT3u62cTl7MtLf9q9gSeCh61vBHm6GgN76xR9fdw9Md0fPgbH5eiS4Gc4tQA0phAAqMN_AMHNSDs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=x5GGiXicdZBNjqNGAIWlnCG3sCaqgioM2bV_Cuwx0JShYNiMiioMmMJgg-02yh1yB_dMpMlyEiln6ZwmbmWbrL_3nvS9X-959ZdvViPvPlgfTRsch_652WhtEbTfulMrz2Ko5J8QaaZh6aYFsGkhBOEUTb8JPnDVFu94OjWmGOsWNCwTaMhAFv5e5lyq6pD7u11-WrSikn9g3QTIAhY2NFM38SNl_F41vMj_xboB39sm1gwdGBrCJno9yf4NPc8_Q2BCy9B0iDVo6roxtUz0yzP1F5__B349nvPT7e2nLO-HSXaWRT5M-oafhq5sD3k_uVZDOSnaVk4yPgyP6ERVu_xr0Yl3of8YfG0q-R1PDWRoU2ABYOimYSDw2l2Ge1l8OZ9V_vbhOpk_rYLVfMWDhI3SVucNoSq3ybgh7MwTqtL5LJQ2AWni3gt1P_f3Ut3zw28t7y478fcPPy7b62LeX-dB1HVsQcG2HrosinDU4L3UWLg9dHZYey8RjIYQvJQuLIlvQ8dfYpAulnoIy4OrmL2FKqaO6ty487LQ8-g-VZE21JzJU6JJluoFknulyWhdCvDSpwu1pAuv4iFz8hgfU7LEwmEbGpU2jQaDjnSMG7KJGblktQdo7FHe0CV1OuqG6WG7l5uIMZax2cCTruUHhfJwDQRYx5EdIC9Od9u4PCU3GPgRuTLwcuENc7gjEFcCxYnA2Q3OuS3tOCQbEa2PIk65jGUs4Gwm7E86tcnM3RPEl6oLa9bF9XqVAVK7C3njMUYhU1EWUY0m3adN4jVesoZCu-qeLvSQUOrHwS3RaU0bGgpb9kxbN1mEL3wRIFEXo6srz9NLO3UYDpKupqQd88QbpEaPuV26IiJjRtjKU-zIAU1ZI9Otzcaots6ywSlt4MUP6y0BJnp8UIo5wNuxdFyHgIfDEC7WlxSSi12tZ9Txbn6cRo__ZqmNQ7lMFYutkAPMafPwSWbLT3u62cTl7MtLf9q9gSeCh61vBHm6GgN76xR9fdw9Md0fPgbH5eiS4Gc4tQA0phAAqMN_AMHNSDs"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ84w8i0tgnIl6oFal-9xjO5pIoGguq5bBWSSKuelOixPxLBLI320zIDyh9EzXOXs3fp92DcC85dhFaAfgpIaAtTMAdvdbs6_Vzy3ppkJnX6fbh9Y2qUeEi",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRHRllx5HqkshXLYDF6IqhLvdOjGIIkmp5NyqVtlSeYFpp0Ht7FkdVQjR1Pk-dwQ6DvndPL4fJhf_hr1NaIspHnGOZ1iZlxfiBDn1xG6ztBblE",
+      "source": "Consumer Cellular",
+      "title": "Motorola Moto G Power 2026 Smartphone in Evening Blue 128GB",
+      "price": "$229.99",
+      "extracted_price": 229.99,
+      "immersive_product_page_token": "wLrQYnicHVLLcptAEKx8j8qpXZ4iN1sIjCJWAbEL3otrxSKQWAQSi2TxAznmF1KynSrnmKQq1_yG8zXBmeN0V0_3zHy5ZJvfi_GmZ82V9XHsgr1sP1Vzpc6D-qU51LxL5Yb_1FTLMseaomqmPtZNYFr6S8okE3U-oG9doJsQaoahWUNpxo8iY1xsdtlivc4Odp2-iQBdszQwCKm6rqiWoenfNxXLs__wL6gYpqZoKlSgNrAGIV19PPD26_O-yw7n1_errJWjVcfzTI7aih1kU9S7rB2dNrIY5XXNRysm5UAdic06e86bt6GmoYwHPwZQVB0aUFWB8lht-J_H5igvRf7UdSJ7vTqNJtde4E08FiSk567o5k4oMtfp5w7pWBIKOrmJuOsAmviXXFy69lKIS7b7VrPmuE7_vvs83XuTSefdBLhpiB2CyA37OCohBg1G6uwYqcimClnjcrZIyfTsx2F715Mwxl6_iov1sqQEqUTgKn_gMfSo7Z3wGTygSBxDQDWCG29V-XAV0zgC1o0vMEQlrMmwVYw1SHq6JArcsm3h-glKiLg7LaM7NYDh1K9mex_IiJVhR119z2y_5wqdUoV2uMxPbBvuSUyrGEOXbIs5naJlFNdnv5SA3zpyETkRFhzTyjkj3NR3wj8PORFzkUSuY5MtOmfurJ3H7TkoG4OpNwZTuEMwd7JSOniq26SkRVjBJVrCgjk0QIM3_uAlUV80WeWc5pGYL6bpKU3CHrvQ9ytrh-Mx80pnmqqeTgWCOJkVOBIdJggRMWuDXhAe-3I4zC0CxSFR0qeH9rB-BdeOLpcL0-7uvd2tkeLCKFaLxTiodvbt_fCg0ekDNC0ADRMCAFXlH-0rCbw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=wLrQYnicHVLLcptAEKx8j8qpXZ4iN1sIjCJWAbEL3otrxSKQWAQSi2TxAznmF1KynSrnmKQq1_yG8zXBmeN0V0_3zHy5ZJvfi_GmZ82V9XHsgr1sP1Vzpc6D-qU51LxL5Yb_1FTLMseaomqmPtZNYFr6S8okE3U-oG9doJsQaoahWUNpxo8iY1xsdtlivc4Odp2-iQBdszQwCKm6rqiWoenfNxXLs__wL6gYpqZoKlSgNrAGIV19PPD26_O-yw7n1_errJWjVcfzTI7aih1kU9S7rB2dNrIY5XXNRysm5UAdic06e86bt6GmoYwHPwZQVB0aUFWB8lht-J_H5igvRf7UdSJ7vTqNJtde4E08FiSk567o5k4oMtfp5w7pWBIKOrmJuOsAmviXXFy69lKIS7b7VrPmuE7_vvs83XuTSefdBLhpiB2CyA37OCohBg1G6uwYqcimClnjcrZIyfTsx2F715Mwxl6_iov1sqQEqUTgKn_gMfSo7Z3wGTygSBxDQDWCG29V-XAV0zgC1o0vMEQlrMmwVYw1SHq6JArcsm3h-glKiLg7LaM7NYDh1K9mex_IiJVhR119z2y_5wqdUoV2uMxPbBvuSUyrGEOXbIs5naJlFNdnv5SA3zpyETkRFhzTyjkj3NR3wj8PORFzkUSuY5MtOmfurJ3H7TkoG4OpNwZTuEMwd7JSOniq26SkRVjBJVrCgjk0QIM3_uAlUV80WeWc5pGYL6bpKU3CHrvQ9ytrh-Mx80pnmqqeTgWCOJkVOBIdJggRMWuDXhAe-3I4zC0CxSFR0qeH9rB-BdeOLpcL0-7uvd2tkeLCKFaLxTiodvbt_fCg0ekDNC0ADRMCAFXlH-0rCbw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRjeUM-kU6NzH8FE2urpkdv1ifpYFdHnVHhH5xTWSpWAnRaet3XQZReaBKmmY_lsrNARkjKWomZeYqId727prOqmQd4oof7QiB3E3xktASYqpjNutfkZHyq",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRJLrYt8ApvztGsW8TSy6-5HL7LwDNwH2emYmRabMUepMDXWE3LqD_Jltucg6NfE5z5MV57q9G1n_VVMyiUtZCVGXOuFlVA6g",
+      "source": "Best Buy",
+      "title": "Samsung Galaxy A57 5G",
+      "rating": 4.8,
+      "reviews": 18000,
+      "price": "$474.99",
+      "extracted_price": 474.99,
+      "original_price": "$550",
+      "extracted_original_price": 550,
+      "extensions": [
+        "13% OFF"
+      ],
+      "immersive_product_page_token": "Bi0c9HicbZNdjqNGFIWlrCG7sCaqH37z1gYKzNjGFFVgeGmVC2xog2FsMG0re8ge3DORJo-TSFlLZzVhpDzO25W-c849utL9_VFU_wRGdRfdB_Oj4YJP_WXTLFF7CNuv3bnNB9lX-d9QMSGGyFAR0hUN6RrWwFcpelG3h-8YK7pmqhpSkWlCgAAA-FtZiLyuTkWw3xdnu5XfdZppKuoUoQBF1wFSMUZ_Vo04FP9zpBkq0DQdQ6ApqgEhMt_O-eUdbaxnFUF96qFM0ETTPgXi3zY0sJ9_zL58Gorz7f2XXXHpZ7shPxT97NKIc9-V7am4zMaqL2eHts1nO9H3k3RWV_viy6Gbivz1g7y3psq_qdOoIcPAhj7dQUem_tZd-0d5-DwMdfH-YZxZT4twYS1EuI3vuVsPS0LrwiX3JYkHsaV1Zs1Z7hKQbVePQ_0YLo-yfhSnP1rRXffy359-dtrRti6jFfKui20KotMBrxrzmjsmYug12jV-lB9NLzu-HimnYZD4Tu5Cix77htvOLWV5EgE_DdwsXiHopIirLDmo0o0pS-AlvAEsj3KMeXleJRKE3E9SQMIcyjHj6rJ4od7kBKyhR-GUCd_mvcBhH0MDFTVp82TtrB1HCZl_EpgOtCZE8O6TTEoxeWkKj8rqhS52Td1IHGsrdFF3jjJmFvTkKVMiu96utnUp7fVLhklXkDxiuGRFnfusifdpQ-iKk6UksZJ5_jlJyo-yobeY1Vi4EsanpxttchYlsFzF9TVPzErcOWT38sg5ISlq-8Alm-KFVFtM96ttOyYWHIU9Pwcs3jLgnzLO7wJJRXpza43WHXfjhSDUEe6IQpgtlqxOA97THew2sdu-soRsdpi2Ai-UmM25uGfdMvazFCkwA_6G1xQHnFppUtLdPY0IMBSx7UppATW6l97KI0DCec9s_5pBcnUrf0699S1IskhgB8d1OSRuv2DenGUo38cswylXFymSuGBk_vn1ct6_gyei9lGg28Pz4uRpkpdauQsCI2xOtvc8fRYbf4W6CaCmQwAgRv8BcEJEsg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Bi0c9HicbZNdjqNGFIWlrCG7sCaqH37z1gYKzNjGFFVgeGmVC2xog2FsMG0re8ge3DORJo-TSFlLZzVhpDzO25W-c849utL9_VFU_wRGdRfdB_Oj4YJP_WXTLFF7CNuv3bnNB9lX-d9QMSGGyFAR0hUN6RrWwFcpelG3h-8YK7pmqhpSkWlCgAAA-FtZiLyuTkWw3xdnu5XfdZppKuoUoQBF1wFSMUZ_Vo04FP9zpBkq0DQdQ6ApqgEhMt_O-eUdbaxnFUF96qFM0ETTPgXi3zY0sJ9_zL58Gorz7f2XXXHpZ7shPxT97NKIc9-V7am4zMaqL2eHts1nO9H3k3RWV_viy6Gbivz1g7y3psq_qdOoIcPAhj7dQUem_tZd-0d5-DwMdfH-YZxZT4twYS1EuI3vuVsPS0LrwiX3JYkHsaV1Zs1Z7hKQbVePQ_0YLo-yfhSnP1rRXffy359-dtrRti6jFfKui20KotMBrxrzmjsmYug12jV-lB9NLzu-HimnYZD4Tu5Cix77htvOLWV5EgE_DdwsXiHopIirLDmo0o0pS-AlvAEsj3KMeXleJRKE3E9SQMIcyjHj6rJ4od7kBKyhR-GUCd_mvcBhH0MDFTVp82TtrB1HCZl_EpgOtCZE8O6TTEoxeWkKj8rqhS52Td1IHGsrdFF3jjJmFvTkKVMiu96utnUp7fVLhklXkDxiuGRFnfusifdpQ-iKk6UksZJ5_jlJyo-yobeY1Vi4EsanpxttchYlsFzF9TVPzErcOWT38sg5ISlq-8Alm-KFVFtM96ttOyYWHIU9Pwcs3jLgnzLO7wJJRXpza43WHXfjhSDUEe6IQpgtlqxOA97THew2sdu-soRsdpi2Ai-UmM25uGfdMvazFCkwA_6G1xQHnFppUtLdPY0IMBSx7UppATW6l97KI0DCec9s_5pBcnUrf0699S1IskhgB8d1OSRuv2DenGUo38cswylXFymSuGBk_vn1ct6_gyei9lGg28Pz4uRpkpdauQsCI2xOtvc8fRYbf4W6CaCmQwAgRv8BcEJEsg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcShj-6lPwLfxyDPss4unD8JMa0ssAKg93S60scQsgjNbjVWlCeh6k9ZVr7T2wqMPgqbYkqIlHdOJAzoFl8wvZBpyo8hF9NN2Lk8M35EPpV6K2cLou9h7hHVQA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTqLXb4UhIV15Ds2X2-vREDxJ1aS0MKrdrjbX9VFlXWsC7Deyr-UUQYC1BvLB6ewA2qef8p_ZYFhXVgIthFeWMTHRcUOQ",
+      "source": "oukitel.com",
+      "title": "Oukitel C53 5G 6.6-inch 4300mAh Battery 8.9mm Ultra-thin Body SmartPhone",
+      "rating": 3.9,
+      "reviews": 12,
+      "price": "$169.99",
+      "extracted_price": 169.99,
+      "immersive_product_page_token": "2mvBHXicdZDLjqNGGIWV57E6quJOdgZc-AaYSxW4Ni2gsMEubIzBptG8Q97BPRNpZjmJlG1eo_MkWcZRtsm_PUff0ff__Ciq3z2tGtPmRV9pNrh01029Fs57__y1ac-sz7uK_aooqqxCTZRFWZIhlHVN_5qnXcrP-4r9BgUANUkEsiIoQFN1RVaV72WRMl6dCm-3K1rrnD8pItQlIOmqImuKqAGgSvK3qk73xb-xrgqSDMTnAUUWRCAB-b1l1w9pY75CVRIglAAUNAUKsiYpkv5pE3jW6_-EXy590b59_JgV126S9WxfdJNrnbZdU55PxXVyr7pysj-f2SRLu-5ZnfBqV3zZN_k_Qv8BfK8r9sd7c-se5f5z3_Pi4-U-MacLf2EuUj8hI7N5v0YBL2w0rhHp0yTg1DQiZiNAE-ex54_--ij5ozj9ck6b2y7_84e_ZrfcNNvc9HHTECsAIaFmOs7uPiAeruEunmGAR2RsQdNSvHSKI_Vy2LQsDmb4RC7RcVixmb7YHumFCmxFozIJ7OGwhWWd1jqIbOnuoSUgcTkG4n4kAjxFNRgw50qaIIqJM-T2EKwJfm66xwQGYRSTXWpzXhD_ThA7hUi745h1ZCyHGFMLC-7mueNgxLkPuRJFBFJBXhX1chMemeGRqYTnhuQgutqK1ArixZgTw80xSbAw-GGMKhYduzxeLnGEYXog9xAZTZQsUUAIyp663nwhFLNmQ61yERxLIQSN4sbbERMDY-TGKc67zA76rcA8F3SbjBDuJoafRqQnI13FFumo7TZURDAagyTk9K2wysSNphI5uWZ2DPqMIzGYnwf3sL1n8TAnidE6NlwFNksy0aX5oUzimClUcEIENClNmjI3gRyO5dyZI5BDo4us5Y1CdLOrpRHM3Tcvpti1OA5rWLOEWE8d48mWIuCaTkylwubPn7vB5-Ha7j7AFMld6Kk676rN9G3tXJIXr7oLr0wKDv6wMdvpT1DVAVRUCAAUxb8BRPA63A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2mvBHXicdZDLjqNGGIWV57E6quJOdgZc-AaYSxW4Ni2gsMEubIzBptG8Q97BPRNpZjmJlG1eo_MkWcZRtsm_PUff0ff__Ciq3z2tGtPmRV9pNrh01029Fs57__y1ac-sz7uK_aooqqxCTZRFWZIhlHVN_5qnXcrP-4r9BgUANUkEsiIoQFN1RVaV72WRMl6dCm-3K1rrnD8pItQlIOmqImuKqAGgSvK3qk73xb-xrgqSDMTnAUUWRCAB-b1l1w9pY75CVRIglAAUNAUKsiYpkv5pE3jW6_-EXy590b59_JgV126S9WxfdJNrnbZdU55PxXVyr7pysj-f2SRLu-5ZnfBqV3zZN_k_Qv8BfK8r9sd7c-se5f5z3_Pi4-U-MacLf2EuUj8hI7N5v0YBL2w0rhHp0yTg1DQiZiNAE-ex54_--ij5ozj9ck6b2y7_84e_ZrfcNNvc9HHTECsAIaFmOs7uPiAeruEunmGAR2RsQdNSvHSKI_Vy2LQsDmb4RC7RcVixmb7YHumFCmxFozIJ7OGwhWWd1jqIbOnuoSUgcTkG4n4kAjxFNRgw50qaIIqJM-T2EKwJfm66xwQGYRSTXWpzXhD_ThA7hUi745h1ZCyHGFMLC-7mueNgxLkPuRJFBFJBXhX1chMemeGRqYTnhuQgutqK1ArixZgTw80xSbAw-GGMKhYduzxeLnGEYXog9xAZTZQsUUAIyp663nwhFLNmQ61yERxLIQSN4sbbERMDY-TGKc67zA76rcA8F3SbjBDuJoafRqQnI13FFumo7TZURDAagyTk9K2wysSNphI5uWZ2DPqMIzGYnwf3sL1n8TAnidE6NlwFNksy0aX5oUzimClUcEIENClNmjI3gRyO5dyZI5BDo4us5Y1CdLOrpRHM3Tcvpti1OA5rWLOEWE8d48mWIuCaTkylwubPn7vB5-Ha7j7AFMld6Kk676rN9G3tXJIXr7oLr0wKDv6wMdvpT1DVAVRUCAAUxb8BRPA63A"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRluF5QxN8xux2_jiXqJ0ULcT1vYOurkGz3XJd1gIj04I41p0EQCKRcd9pKP9nJxEdHf830VTB1qTAjzw9OkaJKjtkmChYAMG_Vk2lHagc",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTmHgd3BIUFVolWtb3YgorwqYTmV5NBnUsxWG5mcWgeHtz5dNUxXF4T9fqywosTnd93weIKIRmAqFMBHtItx217tDgH7YA",
+      "source": "Motorola - United States",
+      "title": "Motorola Moto G Power 5G",
+      "rating": 4.2,
+      "reviews": 2800,
+      "price": "$129.99",
+      "extracted_price": 129.99,
+      "original_price": "$300",
+      "extracted_original_price": 300,
+      "immersive_product_page_token": "CtkDpnicbZNdjqNGFIWlrCG7sCaqAoqfvLWBwk0baBe_rpdWmcKGNmVowMaNsofswT0TaeZxJlLW0llN6DzP473n6NM9R7p_3orqn0CvJtZ-Mh50B7wM_aNYS81h03xtu4af86Hif0MEkGIAQ0ca0gxdVzUdfs3ZwOrm8CGrmqobSIIyALquqbKkSN_LgvG6OhXBfl90VpN_-CRFARpCsq6oBpCRrEL1WyXYofhf_wHnLVCBJBtQ0nVFkTXjreP9u_RoPhlQhipAuqFAaQbMVvmPRxJYTz_Xvryci-71_bdd0Q-L3ZkfimHRC9YNbdmcin4xVkO5ODQNX-zYMMzWRV3tiy-H9uOOn_DeRMW_I01VVEkHOpQ1TUaGDt7ay3ArD5_P57p4_zQuzLv7zb15zzZZMnGnPq8xqQsHT2ucnFlGamouI-5gQDPvdqhv5_5W1rfi9FfD2ss-__eXX-1mtMx-NDdx2yYWAeFzAuP0MOYAiki-k70jOtETpnxyw0Ryt8lEyjwr12EFR_-Zi-0zsXlCU9-qp0gQhT3jOkzpZnc6jiwibhTTxsfEiTLXotLVLFIqU0yqwnYtD9aTF-ORipYFmCs8clGcGhbHRsSO-cDluttm-FLUSUCz5EJsMtB0i9ZZTTcAbRLQK8HKlZiFqQeNOArhha48tImviW_bEhVEonajFDYPMsl_zCQaxVFNPGtZsWPSbYBv7uLBzeFyDJ1B4aekotZB2UT0xACFuRiCNFvGW0g6nrpmDPE8kwcm0WvheGOYba-JTZe-OF7DOVuAcVRktEstjtjRGHJpePGOg-Xj-yudSBsKbrGsDX3nes6zZUiP7doTsJt7Xc78djeRdCv6qUiTcivo2gf2FNnuKj5iQk_tOpJxTR3ehafEikU9EYc8EKGHGOjKzC1zE6BwKlfeCoM50xBZ7oVCfHEqd0lW_muQ0jAUPcoFnfK6lsIUo0jUq8imrwQbLBVYUNAuP1_7bv8O7jAawgA9qXYJt8vd6hjB8fwKy2SPOtaHZnz3O9QMMD8jBADKyn_vKUhJ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=CtkDpnicbZNdjqNGFIWlrCG7sCaqAoqfvLWBwk0baBe_rpdWmcKGNmVowMaNsofswT0TaeZxJlLW0llN6DzP473n6NM9R7p_3orqn0CvJtZ-Mh50B7wM_aNYS81h03xtu4af86Hif0MEkGIAQ0ca0gxdVzUdfs3ZwOrm8CGrmqobSIIyALquqbKkSN_LgvG6OhXBfl90VpN_-CRFARpCsq6oBpCRrEL1WyXYofhf_wHnLVCBJBtQ0nVFkTXjreP9u_RoPhlQhipAuqFAaQbMVvmPRxJYTz_Xvryci-71_bdd0Q-L3ZkfimHRC9YNbdmcin4xVkO5ODQNX-zYMMzWRV3tiy-H9uOOn_DeRMW_I01VVEkHOpQ1TUaGDt7ay3ArD5_P57p4_zQuzLv7zb15zzZZMnGnPq8xqQsHT2ucnFlGamouI-5gQDPvdqhv5_5W1rfi9FfD2ss-__eXX-1mtMx-NDdx2yYWAeFzAuP0MOYAiki-k70jOtETpnxyw0Ryt8lEyjwr12EFR_-Zi-0zsXlCU9-qp0gQhT3jOkzpZnc6jiwibhTTxsfEiTLXotLVLFIqU0yqwnYtD9aTF-ORipYFmCs8clGcGhbHRsSO-cDluttm-FLUSUCz5EJsMtB0i9ZZTTcAbRLQK8HKlZiFqQeNOArhha48tImviW_bEhVEonajFDYPMsl_zCQaxVFNPGtZsWPSbYBv7uLBzeFyDJ1B4aekotZB2UT0xACFuRiCNFvGW0g6nrpmDPE8kwcm0WvheGOYba-JTZe-OF7DOVuAcVRktEstjtjRGHJpePGOg-Xj-yudSBsKbrGsDX3nes6zZUiP7doTsJt7Xc78djeRdCv6qUiTcivo2gf2FNnuKj5iQk_tOpJxTR3ehafEikU9EYc8EKGHGOjKzC1zE6BwKlfeCoM50xBZ7oVCfHEqd0lW_muQ0jAUPcoFnfK6lsIUo0jUq8imrwQbLBVYUNAuP1_7bv8O7jAawgA9qXYJt8vd6hjB8fwKy2SPOtaHZnz3O9QMMD8jBADKyn_vKUhJ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ7yCOnKBXncYXkoIzWALp8iBb2rK5sZ3O68PwOLW9Dz0k0oGXBlzR1jhp05BJgPHyrYy3S0CIvdyaMvIIuLlHRBUVeiw3hGNmTtA1ldZI",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Tracfone Blu View 5 Pro",
+      "rating": 2.7,
+      "reviews": 538,
+      "price": "$29.88",
+      "extracted_price": 29.88,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "57tW23icdY_NjqNGAISV57E26h8wkNtgaOweAwZDA30ZAY0NYzCMDcZGeYe8g2c30ua4iZRrXmPyJDnG2nNyrqqvqn65F9WfrlpNafdJe1Yt8NafN80atXuv_dqdWjHkfSV-RypEEsAAKpIMIQZY0r7maZ_W7b4Sf0AZKRJCACt4LkuqImlo_q0sUlFXx8Ld7YqT0eaV-KbKCEmPNIQIzjUJYfm3qkn3xXf1QcGaNFcxnuM5AtocIBm8n8T5Q9osXiCWFAU-qqW5MsdYVRWs_bzxXePlf8Qvb0Nxun38mBXnfpYNYl_0s3OTnvqubI_FeTZWfTnbt62YZWnfP6yzutoVX_bd9yn_AXxvKvHXe3fp7-X-8zDUxcencbZ4WnmrxSr1YjYJqx7WxK8Li0xrwoY09mu-0ANhEcBj-76v78P5Xtb34vhrm3aXXf73D_-Yl3yxOOULL-w6ZvggMCn0m3HMD-U5MvbTtqHmNmJeiJ3IZSEIDpCljTxw1Ft57QB32a3cpQ23gbPjoE89QIKMcGMd-jCLue6wLnGg9ppZMLAjbeVGNLRj3fCwgMx0KDP5JUPdwOISZZDfbJPWqRHeHLN8s4FshxOftq8E80PNkoYG3LpuBKZmGHdv6cFHDAqJod4ISXcMDxALVm5tkzeRxdd50w2ipokT-EkWJoARqhc1kxMg6w6CYx7JDW9o4zJvyuMcehPdFsx_Tuv6lkbaKZ9yXFRwkzQlYcg_JMDZrJkKC8MJ0wgA-5iP3it9i-quD4gTiBuUOSQkPwrqMxHaE7OKmp4F0XFyUEdv0mGGAAhidmLMdzLipwEuxzCUnxNUtv6R8cy8RtuIHPy4xszgkWg4TiJ1S4AqpXFX5gsgb6dyaS8JyKHeBwa9PDovVkV1f-nc3IgHoqGPt-erS7praJGGNWyyGzrkoDxw0195iOqfr-fT7gM8EbnfulLtxAt6kUeXU_GiW9Apmdb5T4V8GX-CigbgXIEAQCz_Cxx-OXk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=57tW23icdY_NjqNGAISV57E26h8wkNtgaOweAwZDA30ZAY0NYzCMDcZGeYe8g2c30ua4iZRrXmPyJDnG2nNyrqqvqn65F9WfrlpNafdJe1Yt8NafN80atXuv_dqdWjHkfSV-RypEEsAAKpIMIQZY0r7maZ_W7b4Sf0AZKRJCACt4LkuqImlo_q0sUlFXx8Ld7YqT0eaV-KbKCEmPNIQIzjUJYfm3qkn3xXf1QcGaNFcxnuM5AtocIBm8n8T5Q9osXiCWFAU-qqW5MsdYVRWs_bzxXePlf8Qvb0Nxun38mBXnfpYNYl_0s3OTnvqubI_FeTZWfTnbt62YZWnfP6yzutoVX_bd9yn_AXxvKvHXe3fp7-X-8zDUxcencbZ4WnmrxSr1YjYJqx7WxK8Li0xrwoY09mu-0ANhEcBj-76v78P5Xtb34vhrm3aXXf73D_-Yl3yxOOULL-w6ZvggMCn0m3HMD-U5MvbTtqHmNmJeiJ3IZSEIDpCljTxw1Ft57QB32a3cpQ23gbPjoE89QIKMcGMd-jCLue6wLnGg9ppZMLAjbeVGNLRj3fCwgMx0KDP5JUPdwOISZZDfbJPWqRHeHLN8s4FshxOftq8E80PNkoYG3LpuBKZmGHdv6cFHDAqJod4ISXcMDxALVm5tkzeRxdd50w2ipokT-EkWJoARqhc1kxMg6w6CYx7JDW9o4zJvyuMcehPdFsx_Tuv6lkbaKZ9yXFRwkzQlYcg_JMDZrJkKC8MJ0wgA-5iP3it9i-quD4gTiBuUOSQkPwrqMxHaE7OKmp4F0XFyUEdv0mGGAAhidmLMdzLipwEuxzCUnxNUtv6R8cy8RtuIHPy4xszgkWg4TiJ1S4AqpXFX5gsgb6dyaS8JyKHeBwa9PDovVkV1f-nc3IgHoqGPt-erS7praJGGNWyyGzrkoDxw0195iOqfr-fT7gM8EbnfulLtxAt6kUeXU_GiW9Apmdb5T4V8GX-CigbgXIEAQCz_Cxx-OXk"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ3dKv_GMOXzDTRul3PTvKnNB2tL9p-lTH_hRBJUw55X5uUgX33tRy973Eb_oupAk65NbvFC3zEv9SiqgYEXSjbY6LOQqOyhc5bA_FcjcVY_HJH-ZYNdUI_",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRYkZku5J8Ds4mHGS3JgN8AwzJFS5GeGqfPLDMJgYyDU5_E1pRs_SzGZlonvP5ynWkhF5Xdhk1EGY6y5V_VII1Vw14mDJ4TYw",
+      "source": "oukitel.com",
+      "title": "OUKITEL C2-EV 6.52-inch 5000mAh Battery 9.3mm Ultra-thin Body Smartphone",
+      "price": "$119.99",
+      "extracted_price": 119.99,
+      "immersive_product_page_token": "CY_LUnicJY9ZrqNGAEWV9VgvqqIYivx5Kozb4AYX408ERdlgisEYG8wmsoXIrztS57MTKWt5WU3cyt-V7tHVub89efHPHhdT0r7pn7ABLv31c7WTmpPTfGu7Jruxvsj-QrKMEdIUFWEdyboOFOUbS_pENKci-xsqWEE6hkhSgSxhiJGMv-c8yURR8_3xyLtVw14rWNExUmUFqroO1Rekyn8WVXLi_9cqUiQMNASxjHWsKQBK7112_f3r5ca7x8fPKb_2s_SWnXg_u1ZJ17d5U_PrbCj6fHZqmmyWJn3_QmeiOPKvp_bHqCYjJGkyljWovRyRpmnvVZF9VzRVViWMf7irr6jj9_beP_PTl9tN8I-3Ybacm465NBMn9KfMELcdcQU3yLQj_i0JXREvFzQzCIhD63kSz9v1mYsnr_9okvZ-ZP_-9L7u2HJ5ZwvHa1t_5YKDpH-ywta3DfceQUGzjW_Znjm4wXbjhGJNA_3qwaxnQFcdKO6-kXdxVQ5e3UaciCIIt5dDMO5Y4MOA5rl7gAk9izbdOGPmu9Pe2IJ9oC9ZmF9oKYRTZ3e2Yr1Vi5ILm1Bor-0DNBOhn4PaB4mwHkltb2MwhmnQrxgi_uvWghmDHKzLKS3tbVaWfVo1MKKEeoSMDhCIB0R2V4I6oJd4uJ28MPsclScpoeIQVWKyBbkkQry-uOfUGzu6hpXvx6O92To88NEu2HoMtKso8Ke4aolbkYCXOXKogzidQ2uzqAPfr6OwVfyza1qSPdBKB_FohnTKW16RYUfFbr9mAwvdyTOgZVV67QU4MUuyZshUYkEglaIHg4uWVmPlhs3DI9sF30QDN0TD_SyiBvsyXrvjB5gTpT_sVfW82hvpW1gp8ePs2rs-noI5PHu_NvNfoKYDqGoQAIjU_wDzRhl9",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=CY_LUnicJY9ZrqNGAEWV9VgvqqIYivx5Kozb4AYX408ERdlgisEYG8wmsoXIrztS57MTKWt5WU3cyt-V7tHVub89efHPHhdT0r7pn7ABLv31c7WTmpPTfGu7Jruxvsj-QrKMEdIUFWEdyboOFOUbS_pENKci-xsqWEE6hkhSgSxhiJGMv-c8yURR8_3xyLtVw14rWNExUmUFqroO1Rekyn8WVXLi_9cqUiQMNASxjHWsKQBK7112_f3r5ca7x8fPKb_2s_SWnXg_u1ZJ17d5U_PrbCj6fHZqmmyWJn3_QmeiOPKvp_bHqCYjJGkyljWovRyRpmnvVZF9VzRVViWMf7irr6jj9_beP_PTl9tN8I-3Ybacm465NBMn9KfMELcdcQU3yLQj_i0JXREvFzQzCIhD63kSz9v1mYsnr_9okvZ-ZP_-9L7u2HJ5ZwvHa1t_5YKDpH-ywta3DfceQUGzjW_Znjm4wXbjhGJNA_3qwaxnQFcdKO6-kXdxVQ5e3UaciCIIt5dDMO5Y4MOA5rl7gAk9izbdOGPmu9Pe2IJ9oC9ZmF9oKYRTZ3e2Yr1Vi5ILm1Bor-0DNBOhn4PaB4mwHkltb2MwhmnQrxgi_uvWghmDHKzLKS3tbVaWfVo1MKKEeoSMDhCIB0R2V4I6oJd4uJ28MPsclScpoeIQVWKyBbkkQry-uOfUGzu6hpXvx6O92To88NEu2HoMtKso8Ke4aolbkYCXOXKogzidQ2uzqAPfr6OwVfyza1qSPdBKB_FohnTKW16RYUfFbr9mAwvdyTOgZVV67QU4MUuyZshUYkEglaIHg4uWVmPlhs3DI9sF30QDN0TD_SyiBvsyXrvjB5gTpT_sVfW82hvpW1gp8ePs2rs-noI5PHu_NvNfoKYDqGoQAIjU_wDzRhl9"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSomKbrRMnGhxnuhFkqKwh2sSEoTOnGwOl-6jsnAPSGEzx81GqWex7701TbxO3rIkSzTfhvPxmt_3TFZ6i2zFMrXRhDVpGQKLvwjffTSBLptzAA7RnrVlro",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "At&t Motorola moto g Power 2026,128gb",
+      "rating": 3.7,
+      "reviews": 59,
+      "price": "$99.00",
+      "extracted_price": 99.0,
+      "location": "Nearby, 14 mi",
+      "immersive_product_page_token": "Aeu0r3icdZDJrqNGAEWV77FeVAMFODuDDZ4AU4xm81SmsMEuBtvl4aH8Q_7BrztSZ9ndUrb5jZcvyTJWr5P1vTrn6v72KKo_Pb3qWfcyXOg2OMrzql6idue3X7pTyy-5rPh3qCsK0rEOEMKKDhFSgPIlZ5KJdlfxb3hIkKap6hBBhIlOkA6_lgXjomoKb7stTuM2f9Z0FWtIBZpCNEVVgQKJ8kdVs13xI_4ONawRHQEMMYKEAEKg-n7i5w9lZb5CAAkcDhVd15QnBOtPx68r6o1f_yf8fLwUp7ePnzfFWQ42F74r5OBcs5PsyrYpzoNbJcvBrm35YMOkfFYHotoWn3fdjyn_AXyvK_7Xe3eVj3L36XIRxcfLbWCOZv7MnDE_jXtui8vSoqKwrX5pxReWUpGZRshtC2Sp89iJx-X8KMWjaH5vWXfd5n__9M_kmpvmKTf9qOviMQVB2q2ylPcxNI5hAsNoXwbU6iQ9uIfA7hiznXs0jQg_yHuAzvcIuceosRpuuVYmspWPeONY3OBWV6X96MamPHzS5old7iNgKTyCRjCeX31BQVHLJLL4wkHxguOyTuIRzkA55pPs4IYTsoZ8vhbdOt_Hh03MWWHLNA7n0oWGmyTQ8-HcL-Jy4mAeb3DnBsIYxxXMAryDYTK7rbFrhPXtHsHMTCFNKJrhuOmIg4hH92LpJx1ktmWHFbg5SM7ovnx7mq2iEcfEogsWuS1rSsyibhU3c-GFhz7qhcVBWXFRRj66s3Vyp1nSmU7aRSw1KtobM2qTOgSy9KHb5xOyCCaz20aIdbE3MD3cJ07jgufm0h07vQPpIo_pIptwFoSxm0_n6fogSdHwLDvcUwqG8cZ2AgvoCku7MjcBCfpy6kwtkENDhs8vM2hd7Wpu0Kn75iVZ6IUznI2F4R84DmoHBKFrs0RMi9RRMtsB-b5sPt3Pp-0HGFlEBp6q7seevXlJa5K97am7lFmfjOA-em1Hv0BtCKCqQQAgVv8FLLY7rQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Aeu0r3icdZDJrqNGAEWV77FeVAMFODuDDZ4AU4xm81SmsMEuBtvl4aH8Q_7BrztSZ9ndUrb5jZcvyTJWr5P1vTrn6v72KKo_Pb3qWfcyXOg2OMrzql6idue3X7pTyy-5rPh3qCsK0rEOEMKKDhFSgPIlZ5KJdlfxb3hIkKap6hBBhIlOkA6_lgXjomoKb7stTuM2f9Z0FWtIBZpCNEVVgQKJ8kdVs13xI_4ONawRHQEMMYKEAEKg-n7i5w9lZb5CAAkcDhVd15QnBOtPx68r6o1f_yf8fLwUp7ePnzfFWQ42F74r5OBcs5PsyrYpzoNbJcvBrm35YMOkfFYHotoWn3fdjyn_AXyvK_7Xe3eVj3L36XIRxcfLbWCOZv7MnDE_jXtui8vSoqKwrX5pxReWUpGZRshtC2Sp89iJx-X8KMWjaH5vWXfd5n__9M_kmpvmKTf9qOviMQVB2q2ylPcxNI5hAsNoXwbU6iQ9uIfA7hiznXs0jQg_yHuAzvcIuceosRpuuVYmspWPeONY3OBWV6X96MamPHzS5old7iNgKTyCRjCeX31BQVHLJLL4wkHxguOyTuIRzkA55pPs4IYTsoZ8vhbdOt_Hh03MWWHLNA7n0oWGmyTQ8-HcL-Jy4mAeb3DnBsIYxxXMAryDYTK7rbFrhPXtHsHMTCFNKJrhuOmIg4hH92LpJx1ktmWHFbg5SM7ovnx7mq2iEcfEogsWuS1rSsyibhU3c-GFhz7qhcVBWXFRRj66s3Vyp1nSmU7aRSw1KtobM2qTOgSy9KHb5xOyCCaz20aIdbE3MD3cJ07jgufm0h07vQPpIo_pIptwFoSxm0_n6fogSdHwLDvcUwqG8cZ2AgvoCku7MjcBCfpy6kwtkENDhs8vM2hd7Wpu0Kn75iVZ6IUznI2F4R84DmoHBKFrs0RMi9RRMtsB-b5sPt3Pp-0HGFlEBp6q7seevXlJa5K97am7lFmfjOA-em1Hv0BtCKCqQQAgVv8FLLY7rQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTYqRRpFTsrx6-UKNdIrDJIb30t5lafYomqvARxVhAA8mzyiOZFzDQeWrOUu-EOjk-JVhOY6kwBAhRmUPLucx9YSdKI7PztNb2z0kGMd0YTg-edlasa1PTHiw",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQPSE19oKxpFkq8hcm7wAosRNogtgbQW_IAYIkEDyOXFUjaygxrkVajmOl9e5j8PYVdd7ElQ-rDsAkaSpC74P2o92bzIs714U2cGVm2Gv7k",
+      "source": "Cricket Wireless",
+      "title": "Apple iPhone 16e",
+      "rating": 4.6,
+      "reviews": 10000,
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "immersive_product_page_token": "5423DHicdZBZjqNGAIalnCG3sDqqKva8mc1uxi43SxWYl1axmMIUhsbYeFDukDu4ZyJNHieRcpbOaWIpr8nz9-vffr2X9V87vZ5Z_2R80lfgbTy_tBvUVX73rR-64pKPdfGHDg0VAgVCiDQNyaoC0LecjUx01YNqhgJlHWgGVCRJA5qmwu-8ZIWoT-XucCgHu8sfMiQbSEOqakiSCh5msqT-XresKv_FmqEqhqwohgEeIeCB9fehOH_IL9YrlCFSoSZJQNdlVUZQUrVfXoKd_fo_8OvbpRw-f_yUledxkV2KqhwX55YNY8-7U3leTPXIF1XXFYuMjeNDuhD1ofxa9Y8mf_6X4XtbF98VTZVVpD-m6lA2FBWp7_11vPPqy-Uiyo-naWEtn_1n65n5CZ2Llbhs3ECUK3feuPTCkkCklhkVKxekyfZeifvlfOfiXp5-61h_PeR___Cj0022dZ4sn_Q9tQMQIgcyIo_UFruMBh6e-aeiUcLI5t4W-JAJvstWhR2K_pg21UzcIA4ijEoXv_nEMItTb2Ka0pxSmkueHRyL4zYOuhw4MKbcD2LDxcBzmFhKYYxvPjKGLOE8akWQ2mJMYwfR1dhkxL3kTsr9RjmHkFu4xYdNrIhijdchcmMMbk02p9tIohMjY7Kf6T5wTSdKcMJOprWJ3TSPhEKO4rxb9xg3lZLFVA2ByygxTnukKAHi7Rb2tS8VceT0IT56n-J1NW6BgfNWeKEFOYFGuxf-FLvevCHjMSPpmp5Mkh6XY4Y8todiCgSPIkKHDKV4H9Eak5tLEIDUcWDkFphQUxT2HrE4dYN2fMukAMZtjpgbzHTFb6zl5ibGaBtPU0SCnd_0ImjT2IePvoSPuJERAfLMEnxNk2BTCA_kjRuF8W3YJHnoAl1mSc9zCyjhzNfbtQtyaI6R7V1T6F5XtWcGa_x5F6dkT5dT4Bjn8kjN0unp1jbjfUMmInp5t4JmCrn55XYeDh9g6SpjuJObwXjSfH3QDs9ZZ12f7McX0kmXX_fLn6FmAKhqEAAoaf8Au5ZFnw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=5423DHicdZBZjqNGAIalnCG3sDqqKva8mc1uxi43SxWYl1axmMIUhsbYeFDukDu4ZyJNHieRcpbOaWIpr8nz9-vffr2X9V87vZ5Z_2R80lfgbTy_tBvUVX73rR-64pKPdfGHDg0VAgVCiDQNyaoC0LecjUx01YNqhgJlHWgGVCRJA5qmwu-8ZIWoT-XucCgHu8sfMiQbSEOqakiSCh5msqT-XresKv_FmqEqhqwohgEeIeCB9fehOH_IL9YrlCFSoSZJQNdlVUZQUrVfXoKd_fo_8OvbpRw-f_yUledxkV2KqhwX55YNY8-7U3leTPXIF1XXFYuMjeNDuhD1ofxa9Y8mf_6X4XtbF98VTZVVpD-m6lA2FBWp7_11vPPqy-Uiyo-naWEtn_1n65n5CZ2Llbhs3ECUK3feuPTCkkCklhkVKxekyfZeifvlfOfiXp5-61h_PeR___Cj0022dZ4sn_Q9tQMQIgcyIo_UFruMBh6e-aeiUcLI5t4W-JAJvstWhR2K_pg21UzcIA4ijEoXv_nEMItTb2Ka0pxSmkueHRyL4zYOuhw4MKbcD2LDxcBzmFhKYYxvPjKGLOE8akWQ2mJMYwfR1dhkxL3kTsr9RjmHkFu4xYdNrIhijdchcmMMbk02p9tIohMjY7Kf6T5wTSdKcMJOprWJ3TSPhEKO4rxb9xg3lZLFVA2ByygxTnukKAHi7Rb2tS8VceT0IT56n-J1NW6BgfNWeKEFOYFGuxf-FLvevCHjMSPpmp5Mkh6XY4Y8todiCgSPIkKHDKV4H9Eak5tLEIDUcWDkFphQUxT2HrE4dYN2fMukAMZtjpgbzHTFb6zl5ibGaBtPU0SCnd_0ImjT2IePvoSPuJERAfLMEnxNk2BTCA_kjRuF8W3YJHnoAl1mSc9zCyjhzNfbtQtyaI6R7V1T6F5XtWcGa_x5F6dkT5dT4Bjn8kjN0unp1jbjfUMmInp5t4JmCrn55XYeDh9g6SpjuJObwXjSfH3QDs9ZZ12f7McX0kmXX_fLn6FmAKhqEAAoaf8Au5ZFnw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTthuA9z2n1xKUxowEcP7el8qnvGyDGX-qed-INQhwwus8eG6SDJYiLQDwlYpDqpbIc8JYyY8tk5ofUbT_V8SM7UwZ5D0kHUonhGcBKx2DCmDikBNnHKKQF4w",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Total Wireless Samsung Galaxy A17 5G 128GB Prepaid Smartphone",
+      "rating": 3.5,
+      "reviews": 11,
+      "price": "$99.88",
+      "extracted_price": 99.88,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "bcNTpnicdZLLjqNGFIaV57F6VAXFLbs2dtlmDDQFFJdNC6qwwRSXtrEbo3mHvIN7JtLMciZStnmNzpNkGSfrZP2d8_-fjs4vt6L63dWrKesfjI_6CrwMp6dmK3V7r_vaHzt-ZkPFfxhA0oGuSDJEsmSoqoTQV5YNmej2dwqhIUFFRchAUNWQquv697LIuKjawt3tiuOiYxX_DiUoaRowgKEqCpBVQ_1WNdm--Jf-QJqmIiDLuq4qmoxkRdLfjvz0jp7MZ6jKxn0NoXuNrBkAGir69ETcxfP_wC8v5-J4ff-QF6dhlp_5vhhmpyY7Dn3ZtcVp9loN5WzfdXyWZ8NwH52Jald82fd3k9_-K_Ctqfgfb_1luJX7z-ezKN4fXmfm48bbmJvMi-nEV-K8xUQUKzxtMT1nMRGpOQ_4CoM0tm97cTufbqW4Fe2vXdZfduzPn_5aXphpHpnphX1PFwT4MblfbTn50162ae9ybNQh4LUPceU1KbaXo5sEPMtCa-dFvMtqy-dxHyYT7xLKu_xg1UFrT5kJX9w1fnImWtMVHr3WSaKI0jxiV68Zt1TuUDxRENHkmgR30UCsKBSESkaQ47JJJmITkUhu1HceSKVE6pes5QEP-TyJrCxsSOCHnmQLvAtweskhOTi1AbcxL3lrWUU7F6zdADsaDwymVtgylE024jXFeQhjdzW4fF3WAbVf8yVOmEgvPGCARAN2YuIkoFS4IC-s9a4BGIYQwD6YrDmN0sqN4M5e903QjBOL-rpY9n4ijTZpN5DUw4lJzonSjUwP84_BGg9hpBz8tje3kXDyaDPl9Wa0A3skgl6TAx6K1gaOEFtGGUprgoJFClgzhvnSOgcCvzoR8zHQURb3JTOB4k_l2l5jwOB8CBbWJYX4sqqsOVk7VzdKSVpTicC5T5phmdXOgYHR91fjyYHliq3nIIFO-3k8HXfv4BErg--i-mg8aJ5-1HabvDMvD4vXCMutjp6Tx5_hP_-nahAAKGt_AwbdPo4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bcNTpnicdZLLjqNGFIaV57F6VAXFLbs2dtlmDDQFFJdNC6qwwRSXtrEbo3mHvIN7JtLMciZStnmNzpNkGSfrZP2d8_-fjs4vt6L63dWrKesfjI_6CrwMp6dmK3V7r_vaHzt-ZkPFfxhA0oGuSDJEsmSoqoTQV5YNmej2dwqhIUFFRchAUNWQquv697LIuKjawt3tiuOiYxX_DiUoaRowgKEqCpBVQ_1WNdm--Jf-QJqmIiDLuq4qmoxkRdLfjvz0jp7MZ6jKxn0NoXuNrBkAGir69ETcxfP_wC8v5-J4ff-QF6dhlp_5vhhmpyY7Dn3ZtcVp9loN5WzfdXyWZ8NwH52Jald82fd3k9_-K_Ctqfgfb_1luJX7z-ezKN4fXmfm48bbmJvMi-nEV-K8xUQUKzxtMT1nMRGpOQ_4CoM0tm97cTufbqW4Fe2vXdZfduzPn_5aXphpHpnphX1PFwT4MblfbTn50162ae9ybNQh4LUPceU1KbaXo5sEPMtCa-dFvMtqy-dxHyYT7xLKu_xg1UFrT5kJX9w1fnImWtMVHr3WSaKI0jxiV68Zt1TuUDxRENHkmgR30UCsKBSESkaQ47JJJmITkUhu1HceSKVE6pes5QEP-TyJrCxsSOCHnmQLvAtweskhOTi1AbcxL3lrWUU7F6zdADsaDwymVtgylE024jXFeQhjdzW4fF3WAbVf8yVOmEgvPGCARAN2YuIkoFS4IC-s9a4BGIYQwD6YrDmN0sqN4M5e903QjBOL-rpY9n4ijTZpN5DUw4lJzonSjUwP84_BGg9hpBz8tje3kXDyaDPl9Wa0A3skgl6TAx6K1gaOEFtGGUprgoJFClgzhvnSOgcCvzoR8zHQURb3JTOB4k_l2l5jwOB8CBbWJYX4sqqsOVk7VzdKSVpTicC5T5phmdXOgYHR91fjyYHliq3nIIFO-3k8HXfv4BErg--i-mg8aJ5-1HabvDMvD4vXCMutjp6Tx5_hP_-nahAAKGt_AwbdPo4"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQVL4J-ToEDupq_DomjfJTCj4DDxLOmcY7_v026FLbKrg7hYn0StruCJvRuiwUKo0I0CkfojCUemFpqhqe4F6F1ztpbaU1fzTI9qb85x54DQVTsslnUUaRr",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQZ2zc3DPOgk7GkIwtY8MQloCLcyC5bxBx3172XNqK-oVkt-LWEmZILiDqIIeiq1D8NHV8OBBViAN6jQ0v2VEBeD199iJ_GipU",
+      "source": "Zoiko Mobile",
+      "title": "Samsung Galaxy A15 5G",
+      "rating": 4.2,
+      "reviews": 12000,
+      "price": "$199.00",
+      "extracted_price": 199.0,
+      "immersive_product_page_token": "B0oWynicdZPNjqNGFIWV57E6qqLAmOwMdkF7TLn5K3BtWgWFgeGv2oDdtvIOeQf3TKTJcmakbPManSfJMlayjLI-3z36dKT7yy2vft8tqiuXD8aHhQ1exuGp3Sp94fVf5LEXUzZW4jvUAEBI06CuAcPQ9QVazL9kfORNX1Ti2wLqUIU6mgN9rgNDV5Hytcy5aKou3x0O-XHVZ3cMKnBuqDpSkAYVzVAMHf1WtbzI_4m_Q9UA0EAAAA0puqEgVdXejmJ4V5-s53u_pgG4UO_3uqIhwzDgz0_-bvX8P-Hnlyk_Xt5_TPNhnKWTKPJxNrT8OMqy7_Jhdq7Gclb0vZilfBzv6KypDvnnQv6r8t_Ct7YSf7zJ03gri0_T1OTvD-eZtXz0Hq1H7iX0Kuxm2mK_yW183WI68cRvmGWGwsaAJe6taG7TcCubW9792nN5OmR__vDX-pRZ1jGzvEhKuvJBADZKtCZRSIlDE5Mxh9QCvO5SSvwYF69xx6o0Yet8zZ6yjljE2ajCLlncEJ8iM_CjjSdgDXjDiLsWg6eMkkRkzhFLPCBBRs3Wi4mSNmZPO1zt6WaXO0yhYPQ8BSDW9WrmlJUfw9hN6kt4LUe_FSCwoONem9UuerXTWh3zujmnNbQpKJO0Mbq0Hi-MGmgbl6Hb4o5H8BxQCvKWabtVfY3rHnALKi5eX0jCLLdtgKtALbhiJtqS71Gj7SGWaSgOdw6EH8vITVjptlrLbRpym21zKuZitVQpNJu7xzqKxCnGMuFrGjLYAxFRmyLRk9q7BLXkWScDkhSXODRx9nFzCOuNm2H_5DY-SduyimPNo9i8jwdfcptIEWn7PBrj0KHbCBLqNkvo1fjEIxBgsFB5IsvMAnfn0nEdDDJojuFqc2IQn-xqY_oOuexi5tOVKX1YKhmONL8jgxfLuXvFQ-bQad_JaR-P6NPrcDy8gyXWxmA3B8sYSh1swIcHGeBSPp8pITCqynr5E9TvbzHXIQAQLf4GgUw6Yg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=B0oWynicdZPNjqNGFIWV57E6qqLAmOwMdkF7TLn5K3BtWgWFgeGv2oDdtvIOeQf3TKTJcmakbPManSfJMlayjLI-3z36dKT7yy2vft8tqiuXD8aHhQ1exuGp3Sp94fVf5LEXUzZW4jvUAEBI06CuAcPQ9QVazL9kfORNX1Ti2wLqUIU6mgN9rgNDV5Hytcy5aKou3x0O-XHVZ3cMKnBuqDpSkAYVzVAMHf1WtbzI_4m_Q9UA0EAAAA0puqEgVdXejmJ4V5-s53u_pgG4UO_3uqIhwzDgz0_-bvX8P-Hnlyk_Xt5_TPNhnKWTKPJxNrT8OMqy7_Jhdq7Gclb0vZilfBzv6KypDvnnQv6r8t_Ct7YSf7zJ03gri0_T1OTvD-eZtXz0Hq1H7iX0Kuxm2mK_yW183WI68cRvmGWGwsaAJe6taG7TcCubW9792nN5OmR__vDX-pRZ1jGzvEhKuvJBADZKtCZRSIlDE5Mxh9QCvO5SSvwYF69xx6o0Yet8zZ6yjljE2ajCLlncEJ8iM_CjjSdgDXjDiLsWg6eMkkRkzhFLPCBBRs3Wi4mSNmZPO1zt6WaXO0yhYPQ8BSDW9WrmlJUfw9hN6kt4LUe_FSCwoONem9UuerXTWh3zujmnNbQpKJO0Mbq0Hi-MGmgbl6Hb4o5H8BxQCvKWabtVfY3rHnALKi5eX0jCLLdtgKtALbhiJtqS71Gj7SGWaSgOdw6EH8vITVjptlrLbRpym21zKuZitVQpNJu7xzqKxCnGMuFrGjLYAxFRmyLRk9q7BLXkWScDkhSXODRx9nFzCOuNm2H_5DY-SduyimPNo9i8jwdfcptIEWn7PBrj0KHbCBLqNkvo1fjEIxBgsFB5IsvMAnfn0nEdDDJojuFqc2IQn-xqY_oOuexi5tOVKX1YKhmONL8jgxfLuXvFQ-bQad_JaR-P6NPrcDy8gyXWxmA3B8sYSh1swIcHGeBSPp8pITCqynr5E9TvbzHXIQAQLf4GgUw6Yg"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is a good low-budget phone with good battery life?",
+      "type": "ai_overview",
+      "page_token": "GZgCNnicHdBdToMwAADgeBkf3QBFXbIY2eiAhSK1P8CLKS3btC10Dgfy5l08lafR-B3h-_rWr636uTgf-t6eFrPZMAxX-67b6-ZKdGbGT5-tmAmudc2FWvi3vvOwE8vwIw5WxzjIibV0jebPOGFZFLu1C5TEtESaHjMANiysjsQc_IYAlBpA6ZT0HCOnZDBiBfSkpqjBUuUFfMfunVOFo5Ha-ggnW6zvGVR0VTLbkjZ284n2lNGRu3pL5zYXxPHYZvR5Yc9ZZJ9yk3QUA__ZWCTfQNfgQHEDDXSqVbWxXAAUC5PgJgynVMGPhqAgpXrLwX1QR8G59FCWOmokoW3Dg3zKNtovi8c-I6drNAWjjGBek-GzdiWqx-41J2gSb9qQeV-lFLDCS8YKHG6avwG8TmAaQV-uwTpXYC6Hy504L73L_8_ly870C_ve7X8BZYKDuQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GZgCNnicHdBdToMwAADgeBkf3QBFXbIY2eiAhSK1P8CLKS3btC10Dgfy5l08lafR-B3h-_rWr636uTgf-t6eFrPZMAxX-67b6-ZKdGbGT5-tmAmudc2FWvi3vvOwE8vwIw5WxzjIibV0jebPOGFZFLu1C5TEtESaHjMANiysjsQc_IYAlBpA6ZT0HCOnZDBiBfSkpqjBUuUFfMfunVOFo5Ha-ggnW6zvGVR0VTLbkjZ284n2lNGRu3pL5zYXxPHYZvR5Yc9ZZJ9yk3QUA__ZWCTfQNfgQHEDDXSqVbWxXAAUC5PgJgynVMGPhqAgpXrLwX1QR8G59FCWOmokoW3Dg3zKNtovi8c-I6drNAWjjGBek-GzdiWqx-41J2gSb9qQeV-lFLDCS8YKHG6avwG8TmAaQV-uwTpXYC6Hy504L73L_8_ly870C_ve7X8BZYKDuQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FHaHdNUzFIU1VKMVIwdHZkbGhyWkdodWNuWTVkV3REZDI4d1l6RnFRVVJDYmpVeU1scGtibFF0Vm1sMVdUVXROeTFWTVVaMldGSkZlVlpCVWpJeGRVTkZYMnByYUMxd1ZXVmFYemg0WDBWUGMwcENOVXR0ZEZoZlFSSVhUemhwZW1Gd0xUbExPRWN3Y1hSelVHMU1NbTluVVc4YUlrRkVjM0k1WmxSd1JYRjJUVXhzVWtSc2MxSkxZa0pKY2w5RVNpMUtkVVZxVmxFIiwiZmN2IjoiMyIsImVpIjoiTzhpemFwLTlLOEcwcXRzUG1MMm9nUW8iLCJxYyI6IkNpNWlaWE4wSUdKMVpHZGxkQ0J6YldGeWRIQm9iMjVsY3lCM2FYUm9JR2R2YjJRZ1ltRjBkR1Z5ZVNCc2FXWmxFQUI5YUliN1BnIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgZ29vZCBsb3ctYnVkZ2V0IHBob25lIHdpdGggZ29vZCBiYXR0ZXJ5IGxpZmU/IiwibGsiOiJHaUpzYjNjZ1luVmtaMlYwSUhCb2IyNWxJSGRwZEdnZ1oyOXZaQ0JpWVhSMFpYSjUiLCJicyI6ImM0Mk9NUXZDUUF5RmNjM2tmQ0FHY1JDbENJSTQ2aTl3N1NqcE5UWUhiYV9jUllyX1hyR0sxa0c3SnRfNzNvTVQ3RkloUlJlUnNQQS14OUszU1hiSkMxWnN4TmVNclZQcFhobXBjcmhpNmM2ODM4ek43TTdpYnhZc2JGOEZLb3daUl8wVGVlcVhaakVVaGlPc1VuRldNRllVdEVPRlBodDc2cW1aUEs1dk92WjlFUTVEUjF1cU9CQlNfYjFfYlJJclRNM1F4SGgwQXciLCJpZCI6ImZjX084aXphcC05SzhHMHF0c1BtTDJvZ1FvXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FHaHdNUzFIU1VKMVIwdHZkbGhyWkdodWNuWTVkV3REZDI4d1l6RnFRVVJDYmpVeU1scGtibFF0Vm1sMVdUVXROeTFWTVVaMldGSkZlVlpCVWpJeGRVTkZYMnByYUMxd1ZXVmFYemg0WDBWUGMwcENOVXR0ZEZoZlFSSVhUemhwZW1Gd0xUbExPRWN3Y1hSelVHMU1NbTluVVc4YUlrRkVjM0k1WmxSd1JYRjJUVXhzVWtSc2MxSkxZa0pKY2w5RVNpMUtkVVZxVmxFIiwiZmN2IjoiMyIsImVpIjoiTzhpemFwLTlLOEcwcXRzUG1MMm9nUW8iLCJxYyI6IkNpNWlaWE4wSUdKMVpHZGxkQ0J6YldGeWRIQm9iMjVsY3lCM2FYUm9JR2R2YjJRZ1ltRjBkR1Z5ZVNCc2FXWmxFQUI5YUliN1BnIiwicXVlc3Rpb24iOiJXaGF0IGlzIGEgZ29vZCBsb3ctYnVkZ2V0IHBob25lIHdpdGggZ29vZCBiYXR0ZXJ5IGxpZmU%2FIiwibGsiOiJHaUpzYjNjZ1luVmtaMlYwSUhCb2IyNWxJSGRwZEdnZ1oyOXZaQ0JpWVhSMFpYSjUiLCJicyI6ImM0Mk9NUXZDUUF5RmNjM2tmQ0FHY1JDbENJSTQ2aTl3N1NqcE5UWUhiYV9jUllyX1hyR0sxa0c3SnRfNzNvTVQ3RkloUlJlUnNQQS14OUszU1hiSkMxWnN4TmVNclZQcFhobXBjcmhpNmM2ODM4ek43TTdpYnhZc2JGOEZLb3daUl8wVGVlcVhaakVVaGlPc1VuRldNRllVdEVPRlBodDc2cW1aUEs1dk92WjlFUTVEUjF1cU9CQlNfYjFfYlJJclRNM1F4SGgwQXciLCJpZCI6ImZjX084aXphcC05SzhHMHF0c1BtTDJvZ1FvXzQifQ%3D%3D"
+    },
+    {
+      "question": "What is the best budget phone with good battery life?",
+      "type": "ai_overview",
+      "page_token": "3Ou0KHicHdBRcppAGADg6WXyGIsSOzrjdEKyC6KFsPAvuC8d2AVR_oWNUkHeeoWeIafqaZrpBb6H7_cHntrm75c_dd-b63o2G4bh8dh1RywfZadn-fXeypnMEYtcNuvlt6X1vZIbcpPOy0U6ERjDX9nXGFd7mZk8pKrK9ZPFqBPkC3_PvO3ECJ845_Y-NSTWKy_KYADo7zyhTMKYimb1zi3zlL76c9HUt9zta0GNObS-XWZNDy3bCUptcRZbOR875YqxdNGNz8qNG8v7gTTihKNAmHJLLURyXMQ6OJS0bnIY3wTHHXAaFcCcBAMtcDsc5opBRu4hudop8fvYNW6C5hfn5gZaRTJVPtNWVEJ_KtF4BTU1S8ddmDktqdVb6OLykD33IVxtNjmj8oJPf7gXn24xdqcI2CTPqAFYkiRsCAhCwbGVHKcC-FZxrJIX6yKBvavhoZK3zeLh__XmZ6X7tbl0x38yfZDj",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3Ou0KHicHdBRcppAGADg6WXyGIsSOzrjdEKyC6KFsPAvuC8d2AVR_oWNUkHeeoWeIafqaZrpBb6H7_cHntrm75c_dd-b63o2G4bh8dh1RywfZadn-fXeypnMEYtcNuvlt6X1vZIbcpPOy0U6ERjDX9nXGFd7mZk8pKrK9ZPFqBPkC3_PvO3ECJ845_Y-NSTWKy_KYADo7zyhTMKYimb1zi3zlL76c9HUt9zta0GNObS-XWZNDy3bCUptcRZbOR875YqxdNGNz8qNG8v7gTTihKNAmHJLLURyXMQ6OJS0bnIY3wTHHXAaFcCcBAMtcDsc5opBRu4hudop8fvYNW6C5hfn5gZaRTJVPtNWVEJ_KtF4BTU1S8ddmDktqdVb6OLykD33IVxtNjmj8oJPf7gXn24xdqcI2CTPqAFYkiRsCAhCwbGVHKcC-FZxrJIX6yKBvavhoZK3zeLh__XmZ6X7tbl0x38yfZDj",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FHaHdNUzFIU1VKMVIwdHZkbGhyWkdodWNuWTVkV3REZDI4d1l6RnFRVVJDYmpVeU1scGtibFF0Vm1sMVdUVXROeTFWTVVaMldGSkZlVlpCVWpJeGRVTkZYMnByYUMxd1ZXVmFYemg0WDBWUGMwcENOVXR0ZEZoZlFSSVhUemhwZW1Gd0xUbExPRWN3Y1hSelVHMU1NbTluVVc4YUlrRkVjM0k1WmxSd1JYRjJUVXhzVWtSc2MxSkxZa0pKY2w5RVNpMUtkVVZxVmxFIiwiZmN2IjoiMyIsImVpIjoiTzhpemFwLTlLOEcwcXRzUG1MMm9nUW8iLCJxYyI6IkNpNWlaWE4wSUdKMVpHZGxkQ0J6YldGeWRIQm9iMjVsY3lCM2FYUm9JR2R2YjJRZ1ltRjBkR1Z5ZVNCc2FXWmxFQUI5YUliN1BnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IGJ1ZGdldCBwaG9uZSB3aXRoIGdvb2QgYmF0dGVyeSBsaWZlPyIsImxrIjoiR2loaVpYTjBJR0oxWkdkbGRDQndhRzl1WlNCM2FYUm9JR2R2YjJRZ1ltRjBkR1Z5ZVNCc2FXWmwiLCJicyI6ImM0Mk9NUXZDUUF5RmNjM2tmQ0FHY1JDbENJSTQ2aTl3N1NqcE5UWUhiYV9jUllyX1hyR0sxa0c3SnRfNzNvTVQ3RkloUlJlUnNQQS14OUszU1hiSkMxWnN4TmVNclZQcFhobXBjcmhpNmM2ODM4ek43TTdpYnhZc2JGOEZLb3daUl8wVGVlcVhaakVVaGlPc1VuRldNRllVdEVPRlBodDc2cW1aUEs1dk92WjlFUTVEUjF1cU9CQlNfYjFfYlJJclRNM1F4SGgwQXciLCJpZCI6ImZjX084aXphcC05SzhHMHF0c1BtTDJvZ1FvXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FHaHdNUzFIU1VKMVIwdHZkbGhyWkdodWNuWTVkV3REZDI4d1l6RnFRVVJDYmpVeU1scGtibFF0Vm1sMVdUVXROeTFWTVVaMldGSkZlVlpCVWpJeGRVTkZYMnByYUMxd1ZXVmFYemg0WDBWUGMwcENOVXR0ZEZoZlFSSVhUemhwZW1Gd0xUbExPRWN3Y1hSelVHMU1NbTluVVc4YUlrRkVjM0k1WmxSd1JYRjJUVXhzVWtSc2MxSkxZa0pKY2w5RVNpMUtkVVZxVmxFIiwiZmN2IjoiMyIsImVpIjoiTzhpemFwLTlLOEcwcXRzUG1MMm9nUW8iLCJxYyI6IkNpNWlaWE4wSUdKMVpHZGxkQ0J6YldGeWRIQm9iMjVsY3lCM2FYUm9JR2R2YjJRZ1ltRjBkR1Z5ZVNCc2FXWmxFQUI5YUliN1BnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IGJ1ZGdldCBwaG9uZSB3aXRoIGdvb2QgYmF0dGVyeSBsaWZlPyIsImxrIjoiR2loaVpYTjBJR0oxWkdkbGRDQndhRzl1WlNCM2FYUm9JR2R2YjJRZ1ltRjBkR1Z5ZVNCc2FXWmwiLCJicyI6ImM0Mk9NUXZDUUF5RmNjM2tmQ0FHY1JDbENJSTQ2aTl3N1NqcE5UWUhiYV9jUllyX1hyR0sxa0c3SnRfNzNvTVQ3RkloUlJlUnNQQS14OUszU1hiSkMxWnN4TmVNclZQcFhobXBjcmhpNmM2ODM4ek43TTdpYnhZc2JGOEZLb3daUl8wVGVlcVhaakVVaGlPc1VuRldNRllVdEVPRlBodDc2cW1aUEs1dk92WjlFUTVEUjF1cU9CQlNfYjFfYlJJclRNM1F4SGgwQXciLCJpZCI6ImZjX084aXphcC05SzhHMHF0c1BtTDJvZ1FvXzQifQ%3D%3D"
+    },
+    {
+      "question": "Which smartphone has the best battery life?",
+      "type": "ai_overview",
+      "page_token": "7jYmtXicHdDbboIwGADg7GW8VA7qFhOzjNmKGKpUWqQ3C21VDj8HJypyt3fZU-1ptuwJvuT7-oasKn6ebmnbNpfZaHS_34enuj7BYajqcpRcHpUaqQRAJqqYTZ-n5utRzdF15byfV07AmoYvqBG60PhGh4kh1qHVZQxN0G4hegWilAjyxIWI5444cBElhln6YWFqRHYEjR8aXrqINVvq8qtYEKAmxEGVtkk52cp9ymKr_Ty4nkEM4qlcTXaFefa5vkqjWaueLH2mWmpjFhQCyT3GIhdRDNwPc1rRh2lpu7A3Ed0mhWlo7OUBcEoRTBMQawV6SbiDZE8wK7o0XHY3udcVSvV2s4RpvH9rN-wypr3TaZcEkt0f0tJUdnUWMNqrHEoW-hbh3pgtIGZ_jgac6cjjChEqTGFzjDMWDI7qNrcH_5_zj2PZzprP-vQLsN2EFg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=7jYmtXicHdDbboIwGADg7GW8VA7qFhOzjNmKGKpUWqQ3C21VDj8HJypyt3fZU-1ptuwJvuT7-oasKn6ebmnbNpfZaHS_34enuj7BYajqcpRcHpUaqQRAJqqYTZ-n5utRzdF15byfV07AmoYvqBG60PhGh4kh1qHVZQxN0G4hegWilAjyxIWI5444cBElhln6YWFqRHYEjR8aXrqINVvq8qtYEKAmxEGVtkk52cp9ymKr_Ty4nkEM4qlcTXaFefa5vkqjWaueLH2mWmpjFhQCyT3GIhdRDNwPc1rRh2lpu7A3Ed0mhWlo7OUBcEoRTBMQawV6SbiDZE8wK7o0XHY3udcVSvV2s4RpvH9rN-wypr3TaZcEkt0f0tJUdnUWMNqrHEoW-hbh3pgtIGZ_jgac6cjjChEqTGFzjDMWDI7qNrcH_5_zj2PZzprP-vQLsN2EFg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FHaHdNUzFIU1VKMVIwdHZkbGhyWkdodWNuWTVkV3REZDI4d1l6RnFRVVJDYmpVeU1scGtibFF0Vm1sMVdUVXROeTFWTVVaMldGSkZlVlpCVWpJeGRVTkZYMnByYUMxd1ZXVmFYemg0WDBWUGMwcENOVXR0ZEZoZlFSSVhUemhwZW1Gd0xUbExPRWN3Y1hSelVHMU1NbTluVVc4YUlrRkVjM0k1WmxSd1JYRjJUVXhzVWtSc2MxSkxZa0pKY2w5RVNpMUtkVVZxVmxFIiwiZmN2IjoiMyIsImVpIjoiTzhpemFwLTlLOEcwcXRzUG1MMm9nUW8iLCJxYyI6IkNpNWlaWE4wSUdKMVpHZGxkQ0J6YldGeWRIQm9iMjVsY3lCM2FYUm9JR2R2YjJRZ1ltRjBkR1Z5ZVNCc2FXWmxFQUI5YUliN1BnIiwicXVlc3Rpb24iOiJXaGljaCBzbWFydHBob25lIGhhcyB0aGUgYmVzdCBiYXR0ZXJ5IGxpZmU/IiwibGsiOiJHaDFpWlhOMElITnRZWEowY0dodmJtVnpJR0poZEhSbGNua2diR2xtWlEiLCJicyI6ImM0Mk9NUXZDUUF5RmNjM2tmQ0FHY1JDbENJSTQ2aTl3N1NqcE5UWUhiYV9jUllyX1hyR0sxa0c3SnRfNzNvTVQ3RkloUlJlUnNQQS14OUszU1hiSkMxWnN4TmVNclZQcFhobXBjcmhpNmM2ODM4ek43TTdpYnhZc2JGOEZLb3daUl8wVGVlcVhaakVVaGlPc1VuRldNRllVdEVPRlBodDc2cW1aUEs1dk92WjlFUTVEUjF1cU9CQlNfYjFfYlJJclRNM1F4SGgwQXciLCJpZCI6ImZjX084aXphcC05SzhHMHF0c1BtTDJvZ1FvXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FHaHdNUzFIU1VKMVIwdHZkbGhyWkdodWNuWTVkV3REZDI4d1l6RnFRVVJDYmpVeU1scGtibFF0Vm1sMVdUVXROeTFWTVVaMldGSkZlVlpCVWpJeGRVTkZYMnByYUMxd1ZXVmFYemg0WDBWUGMwcENOVXR0ZEZoZlFSSVhUemhwZW1Gd0xUbExPRWN3Y1hSelVHMU1NbTluVVc4YUlrRkVjM0k1WmxSd1JYRjJUVXhzVWtSc2MxSkxZa0pKY2w5RVNpMUtkVVZxVmxFIiwiZmN2IjoiMyIsImVpIjoiTzhpemFwLTlLOEcwcXRzUG1MMm9nUW8iLCJxYyI6IkNpNWlaWE4wSUdKMVpHZGxkQ0J6YldGeWRIQm9iMjVsY3lCM2FYUm9JR2R2YjJRZ1ltRjBkR1Z5ZVNCc2FXWmxFQUI5YUliN1BnIiwicXVlc3Rpb24iOiJXaGljaCBzbWFydHBob25lIGhhcyB0aGUgYmVzdCBiYXR0ZXJ5IGxpZmU%2FIiwibGsiOiJHaDFpWlhOMElITnRZWEowY0dodmJtVnpJR0poZEhSbGNua2diR2xtWlEiLCJicyI6ImM0Mk9NUXZDUUF5RmNjM2tmQ0FHY1JDbENJSTQ2aTl3N1NqcE5UWUhiYV9jUllyX1hyR0sxa0c3SnRfNzNvTVQ3RkloUlJlUnNQQS14OUszU1hiSkMxWnN4TmVNclZQcFhobXBjcmhpNmM2ODM4ek43TTdpYnhZc2JGOEZLb3daUl8wVGVlcVhaakVVaGlPc1VuRldNRllVdEVPRlBodDc2cW1aUEs1dk92WjlFUTVEUjF1cU9CQlNfYjFfYlJJclRNM1F4SGgwQXciLCJpZCI6ImZjX084aXphcC05SzhHMHF0c1BtTDJvZ1FvXzQifQ%3D%3D"
+    },
+    {
+      "question": "What is the best budget phone with good camera and battery life?",
+      "type": "ai_overview",
+      "page_token": "NHCoiHicHdFLjpswGABg9TKznGBIUiVSVJWAyZCBFIJ_A5sK2yQ8DLiBDI9d79J1D9TTtOriO8H385cs2_rPp9_FMKh-v1qN4_h677q7zF9516yyfm75imdSsozX--3nLfpy4we7G4_HfjQDohRYoXY1ZMlrhSgUFmtcEBYMEMnhPU413wnXtPZ1H2TrkUD3GxjyVpZ5bFaR4RlhiQg4KfFiuAEt1sLyMaPDM2t2P1K8MxIIH5nRGSxyn8RJS04U8rE6RnVqeLZQF6zOohnnAMmHqAQltB7Zqbh4uPBAQy7EUPHY1CIpjwRElSxAOe112uzOIcgNw_gBhnDyU2H6TXoNSI08mczXxUaAgETI_KARnok0z3nkvoe6OsPJpWwpNv9MxEplhBMtXt4muxDfLo7cJvHX4UL6dbiYkzj5ASPjzHQRsqkrAxIuvJIN2G8opSj2W3XN7ERLWnO6xPWS6mLDK1xBLZ5ifLnxj4Px8v_h8P3WDHv16O5_AaWsmIw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NHCoiHicHdFLjpswGABg9TKznGBIUiVSVJWAyZCBFIJ_A5sK2yQ8DLiBDI9d79J1D9TTtOriO8H385cs2_rPp9_FMKh-v1qN4_h677q7zF9516yyfm75imdSsozX--3nLfpy4we7G4_HfjQDohRYoXY1ZMlrhSgUFmtcEBYMEMnhPU413wnXtPZ1H2TrkUD3GxjyVpZ5bFaR4RlhiQg4KfFiuAEt1sLyMaPDM2t2P1K8MxIIH5nRGSxyn8RJS04U8rE6RnVqeLZQF6zOohnnAMmHqAQltB7Zqbh4uPBAQy7EUPHY1CIpjwRElSxAOe112uzOIcgNw_gBhnDyU2H6TXoNSI08mczXxUaAgETI_KARnok0z3nkvoe6OsPJpWwpNv9MxEplhBMtXt4muxDfLo7cJvHX4UL6dbiYkzj5ASPjzHQRsqkrAxIuvJIN2G8opSj2W3XN7ERLWnO6xPWS6mLDK1xBLZ5ifLnxj4Px8v_h8P3WDHv16O5_AaWsmIw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FHaHdNUzFIU1VKMVIwdHZkbGhyWkdodWNuWTVkV3REZDI4d1l6RnFRVVJDYmpVeU1scGtibFF0Vm1sMVdUVXROeTFWTVVaMldGSkZlVlpCVWpJeGRVTkZYMnByYUMxd1ZXVmFYemg0WDBWUGMwcENOVXR0ZEZoZlFSSVhUemhwZW1Gd0xUbExPRWN3Y1hSelVHMU1NbTluVVc4YUlrRkVjM0k1WmxSd1JYRjJUVXhzVWtSc2MxSkxZa0pKY2w5RVNpMUtkVVZxVmxFIiwiZmN2IjoiMyIsImVpIjoiTzhpemFwLTlLOEcwcXRzUG1MMm9nUW8iLCJxYyI6IkNpNWlaWE4wSUdKMVpHZGxkQ0J6YldGeWRIQm9iMjVsY3lCM2FYUm9JR2R2YjJRZ1ltRjBkR1Z5ZVNCc2FXWmxFQUI5YUliN1BnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IGJ1ZGdldCBwaG9uZSB3aXRoIGdvb2QgY2FtZXJhIGFuZCBiYXR0ZXJ5IGxpZmU/IiwibGsiOiJHaTFqYUdWaGNDQndhRzl1WlNCM2FYUm9JR2R2YjJRZ1kyRnRaWEpoSUdGdVpDQmlZWFIwWlhKNUlHeHBabVUiLCJicyI6ImM0Mk9NUXZDUUF5RmNjM2tmQ0FHY1JDbENJSTQ2aTl3N1NqcE5UWUhiYV9jUllyX1hyR0sxa0c3SnRfNzNvTVQ3RkloUlJlUnNQQS14OUszU1hiSkMxWnN4TmVNclZQcFhobXBjcmhpNmM2ODM4ek43TTdpYnhZc2JGOEZLb3daUl8wVGVlcVhaakVVaGlPc1VuRldNRllVdEVPRlBodDc2cW1aUEs1dk92WjlFUTVEUjF1cU9CQlNfYjFfYlJJclRNM1F4SGgwQXciLCJpZCI6ImZjX084aXphcC05SzhHMHF0c1BtTDJvZ1FvXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2FHaHdNUzFIU1VKMVIwdHZkbGhyWkdodWNuWTVkV3REZDI4d1l6RnFRVVJDYmpVeU1scGtibFF0Vm1sMVdUVXROeTFWTVVaMldGSkZlVlpCVWpJeGRVTkZYMnByYUMxd1ZXVmFYemg0WDBWUGMwcENOVXR0ZEZoZlFSSVhUemhwZW1Gd0xUbExPRWN3Y1hSelVHMU1NbTluVVc4YUlrRkVjM0k1WmxSd1JYRjJUVXhzVWtSc2MxSkxZa0pKY2w5RVNpMUtkVVZxVmxFIiwiZmN2IjoiMyIsImVpIjoiTzhpemFwLTlLOEcwcXRzUG1MMm9nUW8iLCJxYyI6IkNpNWlaWE4wSUdKMVpHZGxkQ0J6YldGeWRIQm9iMjVsY3lCM2FYUm9JR2R2YjJRZ1ltRjBkR1Z5ZVNCc2FXWmxFQUI5YUliN1BnIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IGJ1ZGdldCBwaG9uZSB3aXRoIGdvb2QgY2FtZXJhIGFuZCBiYXR0ZXJ5IGxpZmU%2FIiwibGsiOiJHaTFqYUdWaGNDQndhRzl1WlNCM2FYUm9JR2R2YjJRZ1kyRnRaWEpoSUdGdVpDQmlZWFIwWlhKNUlHeHBabVUiLCJicyI6ImM0Mk9NUXZDUUF5RmNjM2tmQ0FHY1JDbENJSTQ2aTl3N1NqcE5UWUhiYV9jUllyX1hyR0sxa0c3SnRfNzNvTVQ3RkloUlJlUnNQQS14OUszU1hiSkMxWnN4TmVNclZQcFhobXBjcmhpNmM2ODM4ek43TTdpYnhZc2JGOEZLb3daUl8wVGVlcVhaakVVaGlPc1VuRldNRllVdEVPRlBodDc2cW1aUEs1dk92WjlFUTVEUjF1cU9CQlNfYjFfYlJJclRNM1F4SGgwQXciLCJpZCI6ImZjX084aXphcC05SzhHMHF0c1BtTDJvZ1FvXzQifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best budget smartphone with long battery life is the Motorola Moto G Power (2025)Go to product viewer dialog for this item., which costs around $200 and pairs an efficient processor with a large 5,000 mAh battery.",
+        "snippet_links": [
+          {
+            "text": "Motorola Moto G Power (2025)Go to product viewer dialog for this item.",
+            "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462896520796855,imageDocid:1391836109906827536,gpcid:9148134768041629863,headlineOfferDocid:15957694374790262652,catalogid:4017854550939954213,productDocid:3101830831183677125,rds:PC_9148134768041629863%7CPROD_PC_9148134768041629863&q=product&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQxa4PegYIAggOEAU"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "Motorola Moto G Power (2025)Go to product viewer dialog for this item."
+        ],
+        "reference_indexes": [
+          3
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "You can view available models and compare current offers by checking Best Buy's Budget Smartphones With Long Battery Life.",
+        "snippet_links": [
+          {
+            "text": "Best Buy's Budget Smartphones With Long Battery Life",
+            "link": "https://www.bestbuy.com/site/shop/budget-smartphones-with-long-battery-life"
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Budget Phone Choices"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "shopping_result": {
+              "title": "Motorola Moto G Power (2025)",
+              "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462896520796855,imageDocid:1391836109906827536,gpcid:9148134768041629863,headlineOfferDocid:15957694374790262652,catalogid:4017854550939954213,productDocid:3101830831183677125,rds:PC_9148134768041629863%7CPROD_PC_9148134768041629863&q=product&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQgLcPegYIAggOEBI",
+              "immersive_product_page_token": "eXW9IXicbY7LasJAAEU_KFjm_Vi2iiK1-KCIuCmjM0kGRicmE22l_9B_iFqwy1ro1t_wbxq7dnUX53I4H5Wxv31htypryEfRAatQDBY95JOhP2a51-U8WH3CEECBgcCwHsY5RPQ4V0E5n9SUAMgFJZQCiaWkBEH8nRqlnV2afhybvOXnVv9AKilnkmBOuASIIUbRl12oxPzzE8TyaodASsAE4hSzXa6LCxo0XyQkAmLCmQAEMiQFw--DUb_1cpsdVqXJ3y53M1OEaFbqxISoWKg8ZKlfmiLa2JBGifc6mqkQ6mvkbGwOSXbtuOHbLaz-ruMJQ0LW2YBLJijdZetQpcm-LJ25NDZR87477Da7ajgZb3XHlb32yJlOe9trj0s1Gblp8-FZd9pgOnmqEleVRZW6yiw_vcrW8fy8fy3y-PwHimSG5g",
+              "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eXW9IXicbY7LasJAAEU_KFjm_Vi2iiK1-KCIuCmjM0kGRicmE22l_9B_iFqwy1ro1t_wbxq7dnUX53I4H5Wxv31htypryEfRAatQDBY95JOhP2a51-U8WH3CEECBgcCwHsY5RPQ4V0E5n9SUAMgFJZQCiaWkBEH8nRqlnV2afhybvOXnVv9AKilnkmBOuASIIUbRl12oxPzzE8TyaodASsAE4hSzXa6LCxo0XyQkAmLCmQAEMiQFw--DUb_1cpsdVqXJ3y53M1OEaFbqxISoWKg8ZKlfmiLa2JBGifc6mqkQ6mvkbGwOSXbtuOHbLaz-ruMJQ0LW2YBLJijdZetQpcm-LJ25NDZR87477Da7ajgZb3XHlb32yJlOe9trj0s1Gblp8-FZd9pgOnmqEleVRZW6yiw_vcrW8fy8fy3y-PwHimSG5g",
+              "thumbnail": "https://serpapi.com/searches/6ab3c833a39c28080cb186c3/images/lan6Vn0v3tfSK4M5cvODFjFDHeTnjGDKivqfmtEIj5kfHXR4pyMG2Ykfvxl6dCokeifwKDlpA1mrryMfRNM9Yw.jpeg",
+              "price": "$199.99",
+              "extracted_price": 199.99,
+              "old_price": "$300",
+              "extracted_old_price": 300,
+              "source": "Motorola - United States& more",
+              "rating": 4.2,
+              "reviews": 455
+            },
+            "list": [
+              {
+                "snippet": "Price: Around $200"
+              },
+              {
+                "snippet": "Battery: 5,000 mAh with fast charging"
+              },
+              {
+                "snippet": "Screen: 6.8-inch display"
+              }
+            ]
+          },
+          {
+            "shopping_result": {
+              "title": "Samsung Galaxy A35 5G",
+              "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462772031680262,imageDocid:251791694244348489,gpcid:17235610256742029209,headlineOfferDocid:2503899366728364597,catalogid:6198195485556962337,productDocid:11339758135044999060,rds:PC_17235610256742029209%7CPROD_PC_17235610256742029209&q=product&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQgLcPegYIAggOECQ",
+              "immersive_product_page_token": "e8qDYXicdY_LTsJAAEU_qMHM-7HUkhIihkcMIWzI0Jk-koEp7RSU-A_-QwETXKKJW36DvxFd6_qc3Jz72pj8qy_yrSpa8l50wMpXg0UPuXTojkXpdB37XH9CiLHkVEBMASFSSsDAMVZeWZfm-oNBKaCkRFBKmWQIY37KjNI2X5p-kpiy7eKrhijAQkrMGEcCM0Ilf88XKjW_-IQo5BIySRAhmAgi5K7U1YUMwhnkCFMGAaKMEwSQREC-DEb99uwfeFjVpny-3MxN5YN5rVPjg2qhSl9kbmmqYJP7LEid08FceX9VA5sn5pAW8c_bPwZ3i2sh5YwwxDkCGDIBEEO7Yu2bLN3XtTWX1iYIb7vDbthVw8l4qzu27kUjazrRtheNazUZ2Wl496g7EZhOHprUNnXVZLYxyzeninUSn_dPVZmcvwFmbIcm",
+              "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=e8qDYXicdY_LTsJAAEU_qMHM-7HUkhIihkcMIWzI0Jk-koEp7RSU-A_-QwETXKKJW36DvxFd6_qc3Jz72pj8qy_yrSpa8l50wMpXg0UPuXTojkXpdB37XH9CiLHkVEBMASFSSsDAMVZeWZfm-oNBKaCkRFBKmWQIY37KjNI2X5p-kpiy7eKrhijAQkrMGEcCM0Ilf88XKjW_-IQo5BIySRAhmAgi5K7U1YUMwhnkCFMGAaKMEwSQREC-DEb99uwfeFjVpny-3MxN5YN5rVPjg2qhSl9kbmmqYJP7LEid08FceX9VA5sn5pAW8c_bPwZ3i2sh5YwwxDkCGDIBEEO7Yu2bLN3XtTWX1iYIb7vDbthVw8l4qzu27kUjazrRtheNazUZ2Wl496g7EZhOHprUNnXVZLYxyzeninUSn_dPVZmcvwFmbIcm",
+              "thumbnail": "https://serpapi.com/searches/6ab3c833a39c28080cb186c3/images/lan6Vn0v3tfSK4M5cvODFrEdtTZBaghnUL2jivNFLwWiNE0Uia2tWQZU-wXFnIVw4j-fHQYGVpRvG6U8XFliBQ.jpeg",
+              "price": "$335.99",
+              "extracted_price": 335.99,
+              "source": "Overseas Electronics& more",
+              "rating": 4.6,
+              "reviews": 17000
+            },
+            "list": [
+              {
+                "snippet": "Price: Around $400"
+              },
+              {
+                "snippet": "Battery: 5,000 mAh that can last up to two days"
+              },
+              {
+                "snippet": "Screen: 6.6-inch AMOLED display"
+              }
+            ],
+            "reference_indexes": [
+              3
+            ]
+          },
+          {
+            "snippet": "Battery: 5,000 mAh that can last up to two days"
+          },
+          {
+            "snippet": "Screen: 6.6-inch AMOLED display",
+            "reference_indexes": [
+              3
+            ]
+          },
+          {
+            "shopping_result": {
+              "title": "Samsung Galaxy A16 5G",
+              "product_link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:6166203977342190124,gpcid:806700773965430900,headlineOfferDocid:932544846234679147,catalogid:5274440426465716668,productDocid:7156016392040059756&q=product&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQgLcPegYIAggQEAE",
+              "immersive_product_page_token": "CamaoXicHY3RTsIwGEYfaMH867p2vVTMFiIGIYYQ7grtuiYdHVsLykv4DgNM8BIuvN1r-DZOr893vvPRSv09SfSBVwP2lGSwdc1LOUZWTe2lqq3wa6fFjYYxgZBEDAEGiBmNyWXNHTdW9TRGFGMMGBFMYhoSQpJrIbkweiMneS7rR7vW4soiFGOcYIIiTCgLMf3SJVfyn95I7yGIGKURRiGDEOFjLZruvPWyfv-5W8nGBSsvlHRBU_LaVYXdyCbYa1cEyloRrLhz_TQwOpdnVf0lEyAUoL9kJMYRMIBjqUV3rHauLdTJeyN_BvtgeD-ajoYjPl3MDyIzfpzOjMzSwzide76YmeXw4VVkKSwXz60yrW_awrRy82l5tcvX3emtqfPuF4TZdmw",
+              "serpapi_immersive_product_api": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=CamaoXicHY3RTsIwGEYfaMH867p2vVTMFiIGIYYQ7grtuiYdHVsLykv4DgNM8BIuvN1r-DZOr893vvPRSv09SfSBVwP2lGSwdc1LOUZWTe2lqq3wa6fFjYYxgZBEDAEGiBmNyWXNHTdW9TRGFGMMGBFMYhoSQpJrIbkweiMneS7rR7vW4soiFGOcYIIiTCgLMf3SJVfyn95I7yGIGKURRiGDEOFjLZruvPWyfv-5W8nGBSsvlHRBU_LaVYXdyCbYa1cEyloRrLhz_TQwOpdnVf0lEyAUoL9kJMYRMIBjqUV3rHauLdTJeyN_BvtgeD-ajoYjPl3MDyIzfpzOjMzSwzide76YmeXw4VVkKSwXz60yrW_awrRy82l5tcvX3emtqfPuF4TZdmw",
+              "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRpAlaVIXqu4T9mjpduJpyBS5nqIuVaLsieMb4TJiYibj99JBGt3CAZ3tJyO_c&usqp=CAE",
+              "price": "$199.99",
+              "extracted_price": 199.99,
+              "source": "Samsung"
+            },
+            "list": [
+              {
+                "snippet": "Price: Around $150 to $200"
+              },
+              {
+                "snippet": "Battery: 5,000 mAh for all-day use"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "Here is a video review highlighting more affordable phones with large batteries:"
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you want to narrow down your choice, please tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "What is your maximum budget?"
+          },
+          {
+            "snippet": "Which mobile carrier do you use?"
+          },
+          {
+            "snippet": "Do you prefer a larger screen or a smaller phone?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.google.com/",
+        "source": "Google",
+        "index": 0
+      },
+      {
+        "link": "https://www.bestbuy.com/site/shop/budget-smartphones-with-long-battery-life",
+        "source": "bestbuy.com",
+        "index": 1
+      },
+      {
+        "link": "https://www.reddit.com/r/Smartphones/comments/1qzkp6n/best_value_android_with_good_battery/",
+        "source": "reddit.com",
+        "index": 2
+      },
+      {
+        "title": "Motorola moto g power 2025",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:3101830831183677125,catalogid:4017854550939954213,gpcid:9148134768041629863,mid:576462896520796855&ibp=oshop",
+        "snippet": "The Motorola Moto g power (2025) is designed to keep users connected with its 5000 mAh battery, ensuring extended usage without frequent recharges. With TurboPower technology, fast charging allows for more time engaged with the functions of the smartphone. The large 6.8-inch Full HD+ LCD display offers impressive visuals, making every experience immersive. The device supports dual-SIM functionality, catering to diverse connectivity needs. The integration of 5G technology positions this smartphone for fast mobile broadband, ensuring smooth streaming and quick downloads. Photography enthusiasts will appreciate its dual rear camera system, featuring a 50 megapixel main lens equipped with Optical Image Stabilizer for clear images, and an 8 megapixel macro camera for intricate close-ups. The 16 megapixel front camera includes robust features such as HDR for enhanced selfies. Coupled with 8 GB RAM and virtual RAM extension capabilities, the phone delivers smooth multitasking performance. With comprehensive navigation features and enhanced connectivity options like Bluetooth and NFC, the Motorola Moto g power (2025) excels in both design and functionality.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiFIP9D-bEbj4tCrAnZVIHSR8Ww9KVuhC0BIXQj2SslGwbEu5igmgPMswaF5O0ddBmJBNFfgTutTRjdkg",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 3
+      },
+      {
+        "title": "Budget Smartphones With Long Battery Life - Best Buy",
+        "link": "https://www.bestbuy.com/site/shop/budget-smartphones-with-long-battery-life",
+        "snippet": "A leaf green Android smartphone featuring a 6.8\\\" display, 128GB storage, 50MP camera, and 5G connectivity.",
+        "source": "Best Buy",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtaRIGquLqEWoKWfgucy8xOzvoOxsy8tjUZ9OXz4v0tJFki89X2ck1jg6WKOzHlZkMlVTtj4Gh_HmsuyPfyKsYkUKRzVMZ7aiaVxSu",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bestbuy.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 4
+      },
+      {
+        "title": "Best Value Android with Good Battery? : r/Smartphones - Reddit",
+        "link": "https://www.reddit.com/r/Smartphones/comments/1qzkp6n/best_value_android_with_good_battery/",
+        "snippet": "Premium Android Options: For a higher budget (around 1K), the Oppo Find X9 Pro, Honor Magic 8 Pro, or Galaxy S25 Ultra are suggested as comprehensive options that ...",
+        "source": "Reddit",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "The Best Cheap Phones We've Tested for 2026",
+      "link": "https://www.pcmag.com/picks/the-best-cheap-phones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVaF58XPD7XoAE9bYCfhwrYV3Np7DvFnYY4eIFnqqd83Zfs4XjJw82RBuVBrG7rcFZWhPrQbM6pyi5gezbJSXQkoimkJrb8TigAWQTGTw4qe-qPbjXmLIV8RSP4Bdy63sWuXUqOA&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.pcmag.com › Best Products › Mobile Phones",
+      "date": "Jun 22, 2026",
+      "snippet": "Our Top Tested Picks ; Samsung Galaxy A17 5G. $199.99 at T-Mobile · Samsung Galaxy A17 5G Review · Good battery life ; Samsung Galaxy A25 5G.",
+      "snippet_highlighted_words": [
+        "Samsung Galaxy A17 5G"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Table of Contents",
+            "link": "https://www.pcmag.com/picks/the-best-cheap-phones#table-of-contents"
+          },
+          {
+            "title": "Our Top Tested Picks",
+            "link": "https://www.pcmag.com/picks/the-best-cheap-phones#our-top-tested-picks"
+          },
+          {
+            "title": "What Do You Need in a Cheap...",
+            "link": "https://www.pcmag.com/picks/the-best-cheap-phones#what-do-you-need-in-a-cheap-smartphone"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Our Top Tested Picks ; Samsung Galaxy A17 5G. $199.99 at T-Mobile · Samsung Galaxy A17 5G Review · Good battery life ; Samsung Galaxy A25 5G.",
+          "source_info_link": "https://www.pcmag.com/picks/the-best-cheap-phones",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXrAC7rAC7rAC7rAC3rACHwZXXqAAzvS170kpz2qbHzhJD____5v8XtKUT71dn_-fr-7_HxcHzuOVHFtC6NAAAAA3RSTlNM9fvAUo4WAAAAqklEQVR4AbXTgQrEIAiA4TbNKmurvf_DnsM44agA4H4ghA8gyJw7zkWHcyesEpUTNdBsfhG9BgQShZhSBhxIPCqi9dI50sDblBqPMhpq0L9jI8PLs-QjS72whGBIhjVt8PkThizBAvHNcBR2SIpPl36x0_xCfLcSEFe3JUJYIkiKdYe-zHH-ZIqAMmsRFdkQalNLNBYsSh1BI59KiVVM0JZxsponLDu23-EDtDAWNH_t18YAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmFGNThYUEQ3WG9BRTliWUNmaHdyWVYzTnA3RHZGbllZNGVJRm5xcWQ4M1pmczRYakp3ODJSQnVWQnJHN3JjRlpXaFByUWJNNnB5aTVnZXpiSlNYUWtvaW1rSnJiOFRpZ0FXUVRHVHc0cWUtcVBialhtTElWOFJTUDRCZHk2M3NXdVhVcU9BEgQaAggAGqIGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA_AUIABAAGAAgACocCgRiZXN0FbgtuUAaA3RvcBoKYmVzdGJ1ZGdldCpJCgZidWRnZXQVcs7OPhoKYWZmb3JkYWJsZRoFY2hlYXAaCGxvdyBjb3N0GgpiZXN0YnVkZ2V0GhFidWRnZXRzbWFydHBob25lcyp2CgtzbWFydHBob25lcxX9mK09Gg1tb2JpbGUgcGhvbmVzGgdtb2JpbGVzGgtzbWFydCBwaG9uZRoMc21hcnQgcGhvbmVzGgpzbWFydHBob25lGhFidWRnZXRzbWFydHBob25lcxoQaXY7cDtzbWFydHBob25lcyoLCgR3aXRoFQAAAAAqNAoEZ29vZBWtDVo_GgZiZXR0ZXIaCWV4Y2VsbGVudBoFZ3JlYXQaBGxvbmcaB2xvbmdlc3QqGwoHYmF0dGVyeRVRXZQ_GgtiYXR0ZXJ5bGlmZSoiCgRsaWZlFY3xiT8aCHByb2JsZW1zGgtiYXR0ZXJ5bGlmZTKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZhRjU4WFBEN1hvQUU5YllDZmh3cllWM05wN0R2Rm5ZWTRlSUZucXFkODNaZnM0WGpKdzgyUkJ1VkJyRzdyY0ZaV2hQclFiTTZweWk1Z2V6YkpTWFFrb2lta0pyYjhUaWdBV1FUR1R3NHFlLXFQYmpYbUxJVjhSU1A0QmR5NjNzV3VYVXFPQTo-VGhlIDxiPkJlc3QgQ2hlYXA8L2I-IFBob25lcyBXZSYjMzk7dmUgVGVzdGVkIGZvciAyMDI2IHwgUENNYWdCogFPdXIgVG9wIFRlc3RlZCBQaWNrcyA7IDxiPlNhbXN1bmcgR2FsYXh5IEExNyA1RzwvYj4uICQxOTkuOTkgYXQgVC1Nb2JpbGUgJm1pZGRvdDsgU2Ftc3VuZyBHYWxheHkgQTE3IDVHIFJldmlldyAmbWlkZG90OyBHb29kIGJhdHRlcnkgbGlmZSA7IFNhbXN1bmcgR2FsYXh5IEEyNSA1Ry5KBHdpdGhSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmFGNThYUEQ3WG9BRTliWUNmaHdyWVYzTnA3RHZGbllZNGVJRm5xcWQ4M1pmczRYakp3ODJSQnVWQnJHN3JjRlpXaFByUWJNNnB5aTVnZXpiSlNYUWtvaW1rSnJiOFRpZ0FXUVRHVHc0cWUtcVBialhtTElWOFJTUDRCZHk2M3NXdVhVcU9BEgQaAggAGqIGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA_AUIABAAGAAgACocCgRiZXN0FbgtuUAaA3RvcBoKYmVzdGJ1ZGdldCpJCgZidWRnZXQVcs7OPhoKYWZmb3JkYWJsZRoFY2hlYXAaCGxvdyBjb3N0GgpiZXN0YnVkZ2V0GhFidWRnZXRzbWFydHBob25lcyp2CgtzbWFydHBob25lcxX9mK09Gg1tb2JpbGUgcGhvbmVzGgdtb2JpbGVzGgtzbWFydCBwaG9uZRoMc21hcnQgcGhvbmVzGgpzbWFydHBob25lGhFidWRnZXRzbWFydHBob25lcxoQaXY7cDtzbWFydHBob25lcyoLCgR3aXRoFQAAAAAqNAoEZ29vZBWtDVo_GgZiZXR0ZXIaCWV4Y2VsbGVudBoFZ3JlYXQaBGxvbmcaB2xvbmdlc3QqGwoHYmF0dGVyeRVRXZQ_GgtiYXR0ZXJ5bGlmZSoiCgRsaWZlFY3xiT8aCHByb2JsZW1zGgtiYXR0ZXJ5bGlmZTKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZhRjU4WFBEN1hvQUU5YllDZmh3cllWM05wN0R2Rm5ZWTRlSUZucXFkODNaZnM0WGpKdzgyUkJ1VkJyRzdyY0ZaV2hQclFiTTZweWk1Z2V6YkpTWFFrb2lta0pyYjhUaWdBV1FUR1R3NHFlLXFQYmpYbUxJVjhSU1A0QmR5NjNzV3VYVXFPQTo-VGhlIDxiPkJlc3QgQ2hlYXA8L2I-IFBob25lcyBXZSYjMzk7dmUgVGVzdGVkIGZvciAyMDI2IHwgUENNYWdCogFPdXIgVG9wIFRlc3RlZCBQaWNrcyA7IDxiPlNhbXN1bmcgR2FsYXh5IEExNyA1RzwvYj4uICQxOTkuOTkgYXQgVC1Nb2JpbGUgJm1pZGRvdDsgU2Ftc3VuZyBHYWxheHkgQTE3IDVHIFJldmlldyAmbWlkZG90OyBHb29kIGJhdHRlcnkgbGlmZSA7IFNhbXN1bmcgR2FsYXh5IEEyNSA1Ry5KBHdpdGhSA3RvcCICEAFIAFgAaAA",
+      "source": "PCMag",
+      "read_more_link": "https://www.pcmag.com/picks/the-best-cheap-phones#:~:text=Our%20Top%20Tested%20Picks&text=Samsung%20Galaxy%20A17%205G,%24199.99%20at%20T%2DMobile&text=EXPAND%20PROS%20%26%20CONS&text=EXPAND%20PROS%20%26%20CONS&text=Samsung%20Galaxy%20A25%205G"
+    },
+    {
+      "position": 2,
+      "title": "Cheapest Android with the Best Battery? : r/AndroidQuestions",
+      "link": "https://www.reddit.com/r/AndroidQuestions/comments/1f3buyw/cheapest_android_with_the_best_battery/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmgEB6zswFZIhs-otYp8L5ZwNsbDaE_hAf5Dcq3rRr14R96yLHHi6dNTmBcwgNmDR6JAavGzTsEQGhjhA4mxJZEK8rA-dg8fu8hzcQgCyiKxf7bwRSV0Avriee5iJKmUNZ1pCXJRuaicL0L2QuEQVsF6dtvp6fN3p3my4BAfQuF0eIGEjgZ8yqjl-5TylKLXO-HgqV9th-FsljqiR&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQFnoECCcQAQ&uoh=1",
+      "displayed_link": "30+ comments · 2 years ago",
+      "snippet": "What is the cheapest Android with the best battery life? What is the best brand or model for a cheap phone that will last the longest? And for cheap I mean ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Best Value Android with Good Battery? : r ...",
+            "link": "https://www.reddit.com/r/Smartphones/comments/1qzkp6n/best_value_android_with_good_battery/",
+            "answer_count": 23,
+            "date": "Feb 8, 2026"
+          },
+          {
+            "title": "Cheapest Android phone with robust battery life. : r ...",
+            "link": "https://www.reddit.com/r/Smartphones/comments/1qumg5q/cheapest_android_phone_with_robust_battery_life/",
+            "answer_count": 11,
+            "date": "Feb 3, 2026"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "I use a Moto G Play 2021 exactly for this and sometimes hotspot. 5000mah battery and under USD 200. The G Play 2023 is almost the exact same ...",
+          "source_info_link": "https://www.reddit.com/r/AndroidQuestions/comments/1f3buyw/cheapest_android_with_the_best_battery/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZaSWhzLW90WXA4TDVad05zYkRhRV9oQWY1RGNxM3JScjE0Ujk2eUxISGk2ZE5UbUJjd2dObURSNkpBYXZHelRzRVFHaGpoQTRteEpaRUs4ckEtZGc4ZnU4aHpjUWdDeWlLeGY3YndSU1YwQXZyaWVlNWlKS21VTloxcENYSlJ1YWljTDBMMlF1RVFWc0Y2ZHR2cDZmTjNwM215NEJBZlF1RjBlSUdFamdaOHlxamwtNVR5bEtMWE8tSGdxVjl0aC1Gc2xqcWlSEgQaAggAGuEGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL0GCAAQABgAIAAqHAoEYmVzdBXLTpdAGgN0b3AaCmJlc3RidWRnZXQqSQoGYnVkZ2V0FdXOKD8aCmFmZm9yZGFibGUaBWNoZWFwGghsb3cgY29zdBoKYmVzdGJ1ZGdldBoRYnVkZ2V0c21hcnRwaG9uZXMqdgoLc21hcnRwaG9uZXMVouTdPhoNbW9iaWxlIHBob25lcxoHbW9iaWxlcxoLc21hcnQgcGhvbmUaDHNtYXJ0IHBob25lcxoKc21hcnRwaG9uZRoRYnVkZ2V0c21hcnRwaG9uZXMaEGl2O3A7c21hcnRwaG9uZXMqCwoEd2l0aBUAAAAAKjQKBGdvb2QVVs4mPxoGYmV0dGVyGglleGNlbGxlbnQaBWdyZWF0GgRsb25nGgdsb25nZXN0KhsKB2JhdHRlcnkVnseyQBoLYmF0dGVyeWxpZmUqIgoEbGlmZRW9YRNAGghwcm9ibGVtcxoLYmF0dGVyeWxpZmUy3gEvZ290bz91cmw9Q0FFU21nRUI2enN3RlpJaHMtb3RZcDhMNVp3TnNiRGFFX2hBZjVEY3EzclJyMTRSOTZ5TEhIaTZkTlRtQmN3Z05tRFI2SkFhdkd6VHNFUUdoamhBNG14SlpFSzhyQS1kZzhmdThoemNRZ0N5aUt4Zjdid1JTVjBBdnJpZWU1aUpLbVVOWjFwQ1hKUnVhaWNMMEwyUXVFUVZzRjZkdHZwNmZOM3AzbXk0QkFmUXVGMGVJR0VqZ1o4eXFqbC01VHlsS0xYTy1IZ3FWOXRoLUZzbGpxaVI6Q0NoZWFwZXN0IEFuZHJvaWQgd2l0aCB0aGUgPGI-QmVzdCBCYXR0ZXJ5PC9iPj8gOiByL0FuZHJvaWRRdWVzdGlvbnNCnAFJIHVzZSBhIDxiPk1vdG8gRyBQbGF5IDIwMjE8L2I-IGV4YWN0bHkgZm9yIHRoaXMgYW5kIHNvbWV0aW1lcyBob3RzcG90LiA1MDAwbWFoIGJhdHRlcnkgYW5kIHVuZGVyIFVTRCAyMDAuIFRoZSBHIFBsYXkgMjAyMyBpcyBhbG1vc3QgdGhlIGV4YWN0IHNhbWUmbmJzcDsuLi5KBHdpdGhSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZaSWhzLW90WXA4TDVad05zYkRhRV9oQWY1RGNxM3JScjE0Ujk2eUxISGk2ZE5UbUJjd2dObURSNkpBYXZHelRzRVFHaGpoQTRteEpaRUs4ckEtZGc4ZnU4aHpjUWdDeWlLeGY3YndSU1YwQXZyaWVlNWlKS21VTloxcENYSlJ1YWljTDBMMlF1RVFWc0Y2ZHR2cDZmTjNwM215NEJBZlF1RjBlSUdFamdaOHlxamwtNVR5bEtMWE8tSGdxVjl0aC1Gc2xqcWlSEgQaAggAGuEGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL0GCAAQABgAIAAqHAoEYmVzdBXLTpdAGgN0b3AaCmJlc3RidWRnZXQqSQoGYnVkZ2V0FdXOKD8aCmFmZm9yZGFibGUaBWNoZWFwGghsb3cgY29zdBoKYmVzdGJ1ZGdldBoRYnVkZ2V0c21hcnRwaG9uZXMqdgoLc21hcnRwaG9uZXMVouTdPhoNbW9iaWxlIHBob25lcxoHbW9iaWxlcxoLc21hcnQgcGhvbmUaDHNtYXJ0IHBob25lcxoKc21hcnRwaG9uZRoRYnVkZ2V0c21hcnRwaG9uZXMaEGl2O3A7c21hcnRwaG9uZXMqCwoEd2l0aBUAAAAAKjQKBGdvb2QVVs4mPxoGYmV0dGVyGglleGNlbGxlbnQaBWdyZWF0GgRsb25nGgdsb25nZXN0KhsKB2JhdHRlcnkVnseyQBoLYmF0dGVyeWxpZmUqIgoEbGlmZRW9YRNAGghwcm9ibGVtcxoLYmF0dGVyeWxpZmUy3gEvZ290bz91cmw9Q0FFU21nRUI2enN3RlpJaHMtb3RZcDhMNVp3TnNiRGFFX2hBZjVEY3EzclJyMTRSOTZ5TEhIaTZkTlRtQmN3Z05tRFI2SkFhdkd6VHNFUUdoamhBNG14SlpFSzhyQS1kZzhmdThoemNRZ0N5aUt4Zjdid1JTVjBBdnJpZWU1aUpLbVVOWjFwQ1hKUnVhaWNMMEwyUXVFUVZzRjZkdHZwNmZOM3AzbXk0QkFmUXVGMGVJR0VqZ1o4eXFqbC01VHlsS0xYTy1IZ3FWOXRoLUZzbGpxaVI6Q0NoZWFwZXN0IEFuZHJvaWQgd2l0aCB0aGUgPGI-QmVzdCBCYXR0ZXJ5PC9iPj8gOiByL0FuZHJvaWRRdWVzdGlvbnNCnAFJIHVzZSBhIDxiPk1vdG8gRyBQbGF5IDIwMjE8L2I-IGV4YWN0bHkgZm9yIHRoaXMgYW5kIHNvbWV0aW1lcyBob3RzcG90LiA1MDAwbWFoIGJhdHRlcnkgYW5kIHVuZGVyIFVTRCAyMDAuIFRoZSBHIFBsYXkgMjAyMyBpcyBhbG1vc3QgdGhlIGV4YWN0IHNhbWUmbmJzcDsuLi5KBHdpdGhSA3RvcCICEAFIAFgAaAA",
+      "source": "Reddit · r/AndroidQuestions"
+    },
+    {
+      "position": 3,
+      "title": "Best Battery Life Phone 2026: Longest Lasting Mobiles",
+      "link": "https://www.techadvisor.com/article/724337/best-battery-phone.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAV97WxjdbTbZYzsiZMgH82gtwMXrXOI78pPINZrF9nu4kdHcF6o8odbE0te8WKCBGADr8wtXfvlBwBM1St_YWmnY-rjvH5ik4AT46Aqyj9hP8kjW1rWwdgXO00pLUiRTRulNabqj1LM6Pl8O1Wv60Y4zyjbcw-&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.techadvisor.com › Mobile › Smartphones",
+      "snippet": "1. Oppo Find X9 Pro – Best Overall · 2. Oppo Find X9 Ultra – Runner Up · 3. OnePlus 15 – Best Alternative · 4. Poco X8 Pro Max – Best Mid-Range · 5. Xiaomi 17 Ultra ...",
+      "snippet_highlighted_words": [
+        "1. Oppo Find X9 Pro – Best Overall"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Oppo Find X9 Pro – Best Overall · 2. Oppo Find X9 Ultra – Runner Up · 3. OnePlus 15 – Best Alternative · 4. Poco X8 Pro Max – Best Mid-Range · 5. Xiaomi 17 Ultra ...",
+          "source_info_link": "https://www.techadvisor.com/article/724337/best-battery-phone.html",
+          "icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAADwBQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAmgUaFMAJXUL-npkMQK8Tlfks0MNV10n7AAAD-yx7uZcQqOyWolXSZVPStLdmYMvg2xqx1bhQOyCxU8u4sU1YPPjhMsImwjPPUa86un5b_5beyx20fYMr9nff6N0skAu3xmep5TKnBlar79E9Tih5F0BQmjwiRbKBO7GDeX__F6GH-6IwImIn5GfpBc38wQC1J3o1rbV-fNO5TYWxdzHfb66MEikmNLHggTy6mPv35_6rYuHqCgnsWSujsdDQp_B4t0bMwOo7oTGT87MLaulAvW7YTYpSOXnOl6_nAfVU0ztVRGDAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjk3V3hqZGJUYlpZenNpWk1nSDgyZ3R3TVhyWE9JNzhwUElOWnJGOW51NGtkSGNGNm84b2RiRTB0ZThXS0NCR0FEcjh3dFhmdmxCd0JNMVN0X1lXbW5ZLXJqdkg1aWs0QVQ0NkFxeWo5aFA4a2pXMXJXd2RnWE8wMHBMVWlSVFJ1bE5hYnFqMUxNNlBsOE8xV3Y2MFk0enlqYmN3LRIEGgIIABr4BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNIGCAAQABgAIAAqHAoEYmVzdBWS9-NAGgN0b3AaCmJlc3RidWRnZXQqSQoGYnVkZ2V0FUZUhj8aCmFmZm9yZGFibGUaBWNoZWFwGghsb3cgY29zdBoKYmVzdGJ1ZGdldBoRYnVkZ2V0c21hcnRwaG9uZXMqdgoLc21hcnRwaG9uZXMV8IUkPxoNbW9iaWxlIHBob25lcxoHbW9iaWxlcxoLc21hcnQgcGhvbmUaDHNtYXJ0IHBob25lcxoKc21hcnRwaG9uZRoRYnVkZ2V0c21hcnRwaG9uZXMaEGl2O3A7c21hcnRwaG9uZXMqCwoEd2l0aBUAAAAAKjQKBGdvb2QV0hBUPRoGYmV0dGVyGglleGNlbGxlbnQaBWdyZWF0GgRsb25nGgdsb25nZXN0KhsKB2JhdHRlcnkVvBzKQBoLYmF0dGVyeWxpZmUqIgoEbGlmZRWXuZ5AGghwcm9ibGVtcxoLYmF0dGVyeWxpZmUysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWOTdXeGpkYlRiWll6c2laTWdIODJndHdNWHJYT0k3OHBQSU5ackY5bnU0a2RIY0Y2bzhvZGJFMHRlOFdLQ0JHQURyOHd0WGZ2bEJ3Qk0xU3RfWVdtblktcmp2SDVpazRBVDQ2QXF5ajloUDhralcxcld3ZGdYTzAwcExVaVJUUnVsTmFicWoxTE02UGw4TzFXdjYwWTR6eWpiY3ctOkg8Yj5CZXN0IGJhdHRlcnkgbGlmZTwvYj4gcGhvbmVzOiBHbyBmb3IgbXVsdGlwbGUgZGF5cyBvbiBhIHNpbmdsZSBjaGFyZ2VC2AE8Yj4xLiBPcHBvIEZpbmQgWDkgUHJvIOKAkyBCZXN0IE92ZXJhbGw8L2I-ICZtaWRkb3Q7IDIuIE9wcG8gRmluZCBYOSBVbHRyYSDigJMgUnVubmVyIFVwICZtaWRkb3Q7IDMuIE9uZVBsdXMgMTUg4oCTIEJlc3QgQWx0ZXJuYXRpdmUgJm1pZGRvdDsgNC4gUG9jbyBYOCBQcm8gTWF4IOKAkyBCZXN0IE1pZC1SYW5nZSAmbWlkZG90OyA1LiBYaWFvbWkgMTcgVWx0cmEmbmJzcDsuLi5KBHdpdGhSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjk3V3hqZGJUYlpZenNpWk1nSDgyZ3R3TVhyWE9JNzhwUElOWnJGOW51NGtkSGNGNm84b2RiRTB0ZThXS0NCR0FEcjh3dFhmdmxCd0JNMVN0X1lXbW5ZLXJqdkg1aWs0QVQ0NkFxeWo5aFA4a2pXMXJXd2RnWE8wMHBMVWlSVFJ1bE5hYnFqMUxNNlBsOE8xV3Y2MFk0enlqYmN3LRIEGgIIABr4BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNIGCAAQABgAIAAqHAoEYmVzdBWS9-NAGgN0b3AaCmJlc3RidWRnZXQqSQoGYnVkZ2V0FUZUhj8aCmFmZm9yZGFibGUaBWNoZWFwGghsb3cgY29zdBoKYmVzdGJ1ZGdldBoRYnVkZ2V0c21hcnRwaG9uZXMqdgoLc21hcnRwaG9uZXMV8IUkPxoNbW9iaWxlIHBob25lcxoHbW9iaWxlcxoLc21hcnQgcGhvbmUaDHNtYXJ0IHBob25lcxoKc21hcnRwaG9uZRoRYnVkZ2V0c21hcnRwaG9uZXMaEGl2O3A7c21hcnRwaG9uZXMqCwoEd2l0aBUAAAAAKjQKBGdvb2QV0hBUPRoGYmV0dGVyGglleGNlbGxlbnQaBWdyZWF0GgRsb25nGgdsb25nZXN0KhsKB2JhdHRlcnkVvBzKQBoLYmF0dGVyeWxpZmUqIgoEbGlmZRWXuZ5AGghwcm9ibGVtcxoLYmF0dGVyeWxpZmUysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWOTdXeGpkYlRiWll6c2laTWdIODJndHdNWHJYT0k3OHBQSU5ackY5bnU0a2RIY0Y2bzhvZGJFMHRlOFdLQ0JHQURyOHd0WGZ2bEJ3Qk0xU3RfWVdtblktcmp2SDVpazRBVDQ2QXF5ajloUDhralcxcld3ZGdYTzAwcExVaVJUUnVsTmFicWoxTE02UGw4TzFXdjYwWTR6eWpiY3ctOkg8Yj5CZXN0IGJhdHRlcnkgbGlmZTwvYj4gcGhvbmVzOiBHbyBmb3IgbXVsdGlwbGUgZGF5cyBvbiBhIHNpbmdsZSBjaGFyZ2VC2AE8Yj4xLiBPcHBvIEZpbmQgWDkgUHJvIOKAkyBCZXN0IE92ZXJhbGw8L2I-ICZtaWRkb3Q7IDIuIE9wcG8gRmluZCBYOSBVbHRyYSDigJMgUnVubmVyIFVwICZtaWRkb3Q7IDMuIE9uZVBsdXMgMTUg4oCTIEJlc3QgQWx0ZXJuYXRpdmUgJm1pZGRvdDsgNC4gUG9jbyBYOCBQcm8gTWF4IOKAkyBCZXN0IE1pZC1SYW5nZSAmbWlkZG90OyA1LiBYaWFvbWkgMTcgVWx0cmEmbmJzcDsuLi5KBHdpdGhSA3RvcCICEAFIAFgAaAA",
+      "source": "Tech Advisor",
+      "read_more_link": "https://www.techadvisor.com/article/724337/best-battery-phone.html#:~:text=1.%20Oppo%20Find%20X9%20Pro,%E2%80%93%20Best%20Overall&text=2.%20Oppo%20Find%20X9%20Ultra,%E2%80%93%20Runner%20Up&text=3.%20OnePlus%2015%20%E2%80%93%20Best,Alternative&text=4.%20Poco%20X8%20Pro%20Max,%E2%80%93%20Best%20Mid%2DRange&text=5.%20Xiaomi%2017%20Ultra%20%E2%80%93,Best%20Cameras"
+    },
+    {
+      "position": 4,
+      "title": "Budget Smartphones With Long Battery Life",
+      "link": "https://www.bestbuy.com/site/shop/budget-smartphones-with-long-battery-life",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFeTV-mYaiXzkGD6EOlC6uUgRplDng4THE9jAhbq6UBj0c0s3613F5iAQz4wlPnNsZHBfuKnTmu-7XrIPRuB6tgpXHIQlYARLyl7mj-oxost3XMTjzygI3oIunLTrJFGflI5N6FVusLe0c_vVxnsbHJfk7YUbq0OB80pVVgvYhA&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.bestbuy.com › ... › all unlocked cell phones",
+      "snippet": "Budget Smartphones With Long Battery Life. Cell Phones $199.99 Your price for this item is $199.99. Jitterbug Smart4 Smartphone. Lively Phones ...",
+      "snippet_highlighted_words": [
+        "Jitterbug Smart4 Smartphone"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "price_from": 48,
+            "price_to": 300,
+            "currency": "$",
+            "store_nearby_mi": 25.3,
+            "day_returns": 15
+          },
+          "extensions": [
+            "4.6",
+            "store rating (1.8K)",
+            "$48 to $300",
+            "Store nearby (25.3 mi)",
+            "15-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Budget Smartphones With Long Battery Life. Cell Phones $199.99 Your price for this item is $199.99. Jitterbug Smart4 Smartphone. Lively Phones ...",
+          "source_info_link": "https://www.bestbuy.com/site/shop/budget-smartphones-with-long-battery-life",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZlVFYtbVlhaVh6a0dENkVPbEM2dVVnUnBsRG5nNFRIRTlqQWhicTZVQmowYzBzMzYxM0Y1aUFRejR3bFBuTnNaSEJmdUtuVG11LTdYcklQUnVCNnRncFhISVFsWUFSTHlsN21qLW94b3N0M1hNVGp6eWdJM29JdW5MVHJKRkdmbEk1TjZGVnVzTGUwY192Vnhuc2JISmZrN1lVYnEwT0I4MHBWVmd2WWhBEgQaAggAGsQGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKAGCAAQABgAIAAqHAoEYmVzdBVaUUdBGgN0b3AaCmJlc3RidWRnZXQqSQoGYnVkZ2V0FfAVjUAaCmFmZm9yZGFibGUaBWNoZWFwGghsb3cgY29zdBoKYmVzdGJ1ZGdldBoRYnVkZ2V0c21hcnRwaG9uZXMqdgoLc21hcnRwaG9uZXMVMWiKQBoNbW9iaWxlIHBob25lcxoHbW9iaWxlcxoLc21hcnQgcGhvbmUaDHNtYXJ0IHBob25lcxoKc21hcnRwaG9uZRoRYnVkZ2V0c21hcnRwaG9uZXMaEGl2O3A7c21hcnRwaG9uZXMqCwoEd2l0aBUAAAAAKjQKBGdvb2QVrB8XPxoGYmV0dGVyGglleGNlbGxlbnQaBWdyZWF0GgRsb25nGgdsb25nZXN0KhsKB2JhdHRlcnkVzMmWQBoLYmF0dGVyeWxpZmUqIgoEbGlmZRX0npJAGghwcm9ibGVtcxoLYmF0dGVyeWxpZmUywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmVUVi1tWWFpWHprR0Q2RU9sQzZ1VWdScGxEbmc0VEhFOWpBaGJxNlVCajBjMHMzNjEzRjVpQVF6NHdsUG5Oc1pIQmZ1S25UbXUtN1hySVBSdUI2dGdwWEhJUWxZQVJMeWw3bWotb3hvc3QzWE1Uanp5Z0kzb0l1bkxUckpGR2ZsSTVONkZWdXNMZTBjX3ZWeG5zYkhKZms3WVVicTBPQjgwcFZWZ3ZZaEE6QjxiPkJ1ZGdldCBTbWFydHBob25lcyBXaXRoIExvbmcgQmF0dGVyeSBMaWZlPC9iPiAtIDxiPkJlc3Q8L2I-IEJ1eUKeAUJ1ZGdldCBTbWFydHBob25lcyBXaXRoIExvbmcgQmF0dGVyeSBMaWZlLiBDZWxsIFBob25lcyAkMTk5Ljk5IFlvdXIgcHJpY2UgZm9yIHRoaXMgaXRlbSBpcyAkMTk5Ljk5LiA8Yj5KaXR0ZXJidWcgU21hcnQ0IFNtYXJ0cGhvbmU8L2I-LiBMaXZlbHkgUGhvbmVzJm5ic3A7Li4uSgR3aXRoUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZlVFYtbVlhaVh6a0dENkVPbEM2dVVnUnBsRG5nNFRIRTlqQWhicTZVQmowYzBzMzYxM0Y1aUFRejR3bFBuTnNaSEJmdUtuVG11LTdYcklQUnVCNnRncFhISVFsWUFSTHlsN21qLW94b3N0M1hNVGp6eWdJM29JdW5MVHJKRkdmbEk1TjZGVnVzTGUwY192Vnhuc2JISmZrN1lVYnEwT0I4MHBWVmd2WWhBEgQaAggAGsQGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKAGCAAQABgAIAAqHAoEYmVzdBVaUUdBGgN0b3AaCmJlc3RidWRnZXQqSQoGYnVkZ2V0FfAVjUAaCmFmZm9yZGFibGUaBWNoZWFwGghsb3cgY29zdBoKYmVzdGJ1ZGdldBoRYnVkZ2V0c21hcnRwaG9uZXMqdgoLc21hcnRwaG9uZXMVMWiKQBoNbW9iaWxlIHBob25lcxoHbW9iaWxlcxoLc21hcnQgcGhvbmUaDHNtYXJ0IHBob25lcxoKc21hcnRwaG9uZRoRYnVkZ2V0c21hcnRwaG9uZXMaEGl2O3A7c21hcnRwaG9uZXMqCwoEd2l0aBUAAAAAKjQKBGdvb2QVrB8XPxoGYmV0dGVyGglleGNlbGxlbnQaBWdyZWF0GgRsb25nGgdsb25nZXN0KhsKB2JhdHRlcnkVzMmWQBoLYmF0dGVyeWxpZmUqIgoEbGlmZRX0npJAGghwcm9ibGVtcxoLYmF0dGVyeWxpZmUywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmVUVi1tWWFpWHprR0Q2RU9sQzZ1VWdScGxEbmc0VEhFOWpBaGJxNlVCajBjMHMzNjEzRjVpQVF6NHdsUG5Oc1pIQmZ1S25UbXUtN1hySVBSdUI2dGdwWEhJUWxZQVJMeWw3bWotb3hvc3QzWE1Uanp5Z0kzb0l1bkxUckpGR2ZsSTVONkZWdXNMZTBjX3ZWeG5zYkhKZms3WVVicTBPQjgwcFZWZ3ZZaEE6QjxiPkJ1ZGdldCBTbWFydHBob25lcyBXaXRoIExvbmcgQmF0dGVyeSBMaWZlPC9iPiAtIDxiPkJlc3Q8L2I-IEJ1eUKeAUJ1ZGdldCBTbWFydHBob25lcyBXaXRoIExvbmcgQmF0dGVyeSBMaWZlLiBDZWxsIFBob25lcyAkMTk5Ljk5IFlvdXIgcHJpY2UgZm9yIHRoaXMgaXRlbSBpcyAkMTk5Ljk5LiA8Yj5KaXR0ZXJidWcgU21hcnQ0IFNtYXJ0cGhvbmU8L2I-LiBMaXZlbHkgUGhvbmVzJm5ic3A7Li4uSgR3aXRoUgN0b3AiAhABSABYAGgA",
+      "source": "Best Buy"
+    },
+    {
+      "position": 5,
+      "title": "Best Android Phones Right Now (By Budget, Battery Life ...",
+      "link": "https://gojimobile.com/blog/best-android-phones-right-now-by-budget-battery-life-camera-and-performance",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFfa1F2VKpcgWgyeGtWheqbBMctBos59S8CXo4r_T-vkDadtVGFfvG4QSLAegjqAQYIMpY3pk3ECAL_otX-rT7glV9RVAXUauB6vKTpMwfCrtgtlbxe0mUEGyQFYpk0guqzI2Io4Qd6WLlovcHX3rqeotlvWX5LV2WsU1_2pNgwozlt0KszpbDB8hNVWvrJxNN0k_vx7HaeAe2_E&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQFnoECFQQAQ&uoh=1",
+      "displayed_link": "https://gojimobile.com › Home › Blog",
+      "date": "Feb 2, 2026",
+      "snippet": "For battery life, OnePlus is the top pick, especially the OnePlus 13, If you want the budget version of that story, the Moto G Power 2026 is ...",
+      "snippet_highlighted_words": [
+        "battery life",
+        "top",
+        "budget"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "For battery life, OnePlus is the top pick, especially the OnePlus 13, If you want the budget version of that story, the Moto G Power 2026 is ...",
+          "source_info_link": "https://gojimobile.com/blog/best-android-phones-right-now-by-budget-battery-life-camera-and-performance",
+          "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAABwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3tfFGUAaEBkohEK7u4GaB2wV-P8HZnGAAMur3fAAASz8wDuRkXN0aqhqFWHYFsuzbg0wIOgDdPxp8Jqw2wGhl6mtjGiGiQ7j__TGM0O9R8uYqAvL-k_P7vgEqKvdM4ixh6XvjdD-wbHuo0T-BKu4naJ74vmy-WumGXKMGcfkUY9bOGFhahwPNsJFDGkV8WM_ikrVz8LXUars2MdOa_s3rr210Np9eUYK5Otn88iE2EuWMwwavK13Wa4IS9VxE4j97M0AuERUyZp2EwgkY_I1MuMRO0x_hfZL1mIqk3KjhIpxWR6cjDzBvxTGRrE5z9f95G5ImSGm-3bxn2oAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZmYTFGMlZLcGNnV2d5ZUd0V2hlcWJCTWN0Qm9zNTlTOENYbzRyX1QtdmtEYWR0VkdGZnZHNFFTTEFlZ2pxQVFZSU1wWTNwazNFQ0FMX290WC1yVDdnbFY5UlZBWFVhdUI2dktUcE13ZkNydGd0bGJ4ZTBtVUVHeVFGWXBrMGd1cXpJMklvNFFkNldMbG92Y0hYM3JxZW90bHZXWDVMVjJXc1UxXzJwTmd3b3psdDBLc3pwYkRCOGhOVld2ckp4Tk4wa192eDdIYWVBZTJfRRIEGgIIABqCBxIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDeBggAEAAYACAAKhwKBGJlc3QVC5-5QBoDdG9wGgpiZXN0YnVkZ2V0KkkKBmJ1ZGdldBUii6FAGgphZmZvcmRhYmxlGgVjaGVhcBoIbG93IGNvc3QaCmJlc3RidWRnZXQaEWJ1ZGdldHNtYXJ0cGhvbmVzKnYKC3NtYXJ0cGhvbmVzFQAAAAAaDW1vYmlsZSBwaG9uZXMaB21vYmlsZXMaC3NtYXJ0IHBob25lGgxzbWFydCBwaG9uZXMaCnNtYXJ0cGhvbmUaEWJ1ZGdldHNtYXJ0cGhvbmVzGhBpdjtwO3NtYXJ0cGhvbmVzKgsKBHdpdGgVAAAAACo0CgRnb29kFcx3qD0aBmJldHRlchoJZXhjZWxsZW50GgVncmVhdBoEbG9uZxoHbG9uZ2VzdCobCgdiYXR0ZXJ5FSg9nkAaC2JhdHRlcnlsaWZlKiIKBGxpZmUVE9ybQBoIcHJvYmxlbXMaC2JhdHRlcnlsaWZlMuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZmYTFGMlZLcGNnV2d5ZUd0V2hlcWJCTWN0Qm9zNTlTOENYbzRyX1QtdmtEYWR0VkdGZnZHNFFTTEFlZ2pxQVFZSU1wWTNwazNFQ0FMX290WC1yVDdnbFY5UlZBWFVhdUI2dktUcE13ZkNydGd0bGJ4ZTBtVUVHeVFGWXBrMGd1cXpJMklvNFFkNldMbG92Y0hYM3JxZW90bHZXWDVMVjJXc1UxXzJwTmd3b3psdDBLc3pwYkRCOGhOVld2ckp4Tk4wa192eDdIYWVBZTJfRTpPPGI-QmVzdDwvYj4gQW5kcm9pZCBQaG9uZXMgUmlnaHQgTm93IChCeSA8Yj5CdWRnZXQ8L2I-LCA8Yj5CYXR0ZXJ5IExpZmU8L2I-IC4uLkKqAUZvciA8Yj5iYXR0ZXJ5IGxpZmU8L2I-LCBPbmVQbHVzIGlzIHRoZSA8Yj50b3A8L2I-IHBpY2ssIGVzcGVjaWFsbHkgdGhlIE9uZVBsdXMgMTMsIElmIHlvdSB3YW50IHRoZSA8Yj5idWRnZXQ8L2I-IHZlcnNpb24gb2YgdGhhdCBzdG9yeSwgdGhlIE1vdG8gRyBQb3dlciAyMDI2IGlzJm5ic3A7Li4uSgR3aXRoUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZmYTFGMlZLcGNnV2d5ZUd0V2hlcWJCTWN0Qm9zNTlTOENYbzRyX1QtdmtEYWR0VkdGZnZHNFFTTEFlZ2pxQVFZSU1wWTNwazNFQ0FMX290WC1yVDdnbFY5UlZBWFVhdUI2dktUcE13ZkNydGd0bGJ4ZTBtVUVHeVFGWXBrMGd1cXpJMklvNFFkNldMbG92Y0hYM3JxZW90bHZXWDVMVjJXc1UxXzJwTmd3b3psdDBLc3pwYkRCOGhOVld2ckp4Tk4wa192eDdIYWVBZTJfRRIEGgIIABqCBxIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDeBggAEAAYACAAKhwKBGJlc3QVC5-5QBoDdG9wGgpiZXN0YnVkZ2V0KkkKBmJ1ZGdldBUii6FAGgphZmZvcmRhYmxlGgVjaGVhcBoIbG93IGNvc3QaCmJlc3RidWRnZXQaEWJ1ZGdldHNtYXJ0cGhvbmVzKnYKC3NtYXJ0cGhvbmVzFQAAAAAaDW1vYmlsZSBwaG9uZXMaB21vYmlsZXMaC3NtYXJ0IHBob25lGgxzbWFydCBwaG9uZXMaCnNtYXJ0cGhvbmUaEWJ1ZGdldHNtYXJ0cGhvbmVzGhBpdjtwO3NtYXJ0cGhvbmVzKgsKBHdpdGgVAAAAACo0CgRnb29kFcx3qD0aBmJldHRlchoJZXhjZWxsZW50GgVncmVhdBoEbG9uZxoHbG9uZ2VzdCobCgdiYXR0ZXJ5FSg9nkAaC2JhdHRlcnlsaWZlKiIKBGxpZmUVE9ybQBoIcHJvYmxlbXMaC2JhdHRlcnlsaWZlMuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZmYTFGMlZLcGNnV2d5ZUd0V2hlcWJCTWN0Qm9zNTlTOENYbzRyX1QtdmtEYWR0VkdGZnZHNFFTTEFlZ2pxQVFZSU1wWTNwazNFQ0FMX290WC1yVDdnbFY5UlZBWFVhdUI2dktUcE13ZkNydGd0bGJ4ZTBtVUVHeVFGWXBrMGd1cXpJMklvNFFkNldMbG92Y0hYM3JxZW90bHZXWDVMVjJXc1UxXzJwTmd3b3psdDBLc3pwYkRCOGhOVld2ckp4Tk4wa192eDdIYWVBZTJfRTpPPGI-QmVzdDwvYj4gQW5kcm9pZCBQaG9uZXMgUmlnaHQgTm93IChCeSA8Yj5CdWRnZXQ8L2I-LCA8Yj5CYXR0ZXJ5IExpZmU8L2I-IC4uLkKqAUZvciA8Yj5iYXR0ZXJ5IGxpZmU8L2I-LCBPbmVQbHVzIGlzIHRoZSA8Yj50b3A8L2I-IHBpY2ssIGVzcGVjaWFsbHkgdGhlIE9uZVBsdXMgMTMsIElmIHlvdSB3YW50IHRoZSA8Yj5idWRnZXQ8L2I-IHZlcnNpb24gb2YgdGhhdCBzdG9yeSwgdGhlIE1vdG8gRyBQb3dlciAyMDI2IGlzJm5ic3A7Li4uSgR3aXRoUgN0b3AiAhABSABYAGgA",
+      "source": "Goji Mobile"
+    },
+    {
+      "position": 6,
+      "title": "The best budget phones to buy in 2026",
+      "link": "https://www.expertreviews.co.uk/technology/phones/best-budget-smartphones",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFYCX4VLq5cOGqfR6t-uF_SWOkhwH-MX70wwl4GqFqBqebRFPPEbwHo-WSCPw_pXAPzct_q_eq7JtfBNhEz2Q5dZBC5ClYMFzweBqj-_G4Q2YZLn2St8NjgVc8BViuey48wcBEQT9A8CkK0GNZ-b3YIWFv5hukdg3LGo4g5g&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQFnoECFMQAQ&uoh=1",
+      "displayed_link": "https://www.expertreviews.co.uk › Technology › Phones",
+      "snippet": "Where most budget phones last between 24 and 28 hours in our in-house battery test, the Nord CE 5 kept going for an outstanding 33 hours.",
+      "snippet_highlighted_words": [
+        "Nord CE 5"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best budget phone: At a glance",
+            "link": "https://www.expertreviews.co.uk/technology/phones/best-budget-smartphones#link-best-budget-phone-at-a-glance"
+          },
+          {
+            "title": "How we test budget...",
+            "link": "https://www.expertreviews.co.uk/technology/phones/best-budget-smartphones#link-how-we-test-budget-smartphones"
+          },
+          {
+            "title": "OnePlus Nord CE 5: Best...",
+            "link": "https://www.expertreviews.co.uk/technology/phones/best-budget-smartphones#link-2-oneplus-nord-ce-5-best-budget-phone-for-battery-life"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Where most budget phones last between 24 and 28 hours in our in-house battery test, the Nord CE 5 kept going for an outstanding 33 hours.",
+          "source_info_link": "https://www.expertreviews.co.uk/technology/phones/best-budget-smartphones",
+          "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACQBwCdASogACAAPtEutFooIagoGAEAGglsAK5VjVzaKggAXcB1OW8ofsA_PDf83Ix1lWgF5_JhOeOqaH56NLbaRysQXKAA_v7CoLSmTI28yHhDADLHB-E1MGS_Tdm0vVogsI-49NO33d-kRjar3JW8k5_jrYpQZsLLL48S8bisfEwg-B8Ysle_kCbl_6P1OAbH_p64jRzmx8ppBvQzOkTHK4sh-_4v86imC8ku2QsrRxL2SMcP045ImH18b3zCrhpciB7J9dDnBPcZhFmnMvrMLZ0ud3v1qTOijA9FLQ3n-EML05F7zvnRhVaTGSnzQAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZZQ1g0VkxxNWNPR3FmUjZ0LXVGX1NXT2tod0gtTVg3MHd3bDRHcUZxQnFlYlJGUFBFYndIby1XU0NQd19wWEFQemN0X3FfZXE3SnRmQk5oRXoyUTVkWkJDNUNsWU1GendlQnFqLV9HNFEyWVpMbjJTdDhOamdWYzhCVml1ZXk0OHdjQkVRVDlBOENrSzBHTlotYjNZSVdGdjVodWtkZzNMR280ZzVnEgQaAggAGrAGEgIIARoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAigYIABAAGAAgACocCgRiZXN0FchI1EAaA3RvcBoKYmVzdGJ1ZGdldCpJCgZidWRnZXQVW7DIQBoKYWZmb3JkYWJsZRoFY2hlYXAaCGxvdyBjb3N0GgpiZXN0YnVkZ2V0GhFidWRnZXRzbWFydHBob25lcyp2CgtzbWFydHBob25lcxWwQT5AGg1tb2JpbGUgcGhvbmVzGgdtb2JpbGVzGgtzbWFydCBwaG9uZRoMc21hcnQgcGhvbmVzGgpzbWFydHBob25lGhFidWRnZXRzbWFydHBob25lcxoQaXY7cDtzbWFydHBob25lcyoLCgR3aXRoFQAAAAAqNAoEZ29vZBVYiJQ-GgZiZXR0ZXIaCWV4Y2VsbGVudBoFZ3JlYXQaBGxvbmcaB2xvbmdlc3QqGwoHYmF0dGVyeRWEIQtAGgtiYXR0ZXJ5bGlmZSoiCgRsaWZlFW5U9z8aCHByb2JsZW1zGgtiYXR0ZXJ5bGlmZTK9AS9nb3RvP3VybD1DQUVTZ1FFQjZ6c3dGWUNYNFZMcTVjT0dxZlI2dC11Rl9TV09raHdILU1YNzB3d2w0R3FGcUJxZWJSRlBQRWJ3SG8tV1NDUHdfcFhBUHpjdF9xX2VxN0p0ZkJOaEV6MlE1ZFpCQzVDbFlNRnp3ZUJxai1fRzRRMllaTG4yU3Q4TmpnVmM4QlZpdWV5NDh3Y0JFUVQ5QThDa0swR05aLWIzWUlXRnY1aHVrZGczTEdvNGc1Zzo9VGhlIDxiPmJlc3QgYnVkZ2V0PC9iPiBwaG9uZXMgdG8gYnV5IGluIDIwMjYgLSBFeHBlcnQgUmV2aWV3c0KQAVdoZXJlIG1vc3QgYnVkZ2V0IHBob25lcyBsYXN0IGJldHdlZW4gMjQgYW5kIDI4IGhvdXJzIGluIG91ciBpbi1ob3VzZSBiYXR0ZXJ5IHRlc3QsIHRoZSA8Yj5Ob3JkIENFIDU8L2I-IGtlcHQgZ29pbmcgZm9yIGFuIG91dHN0YW5kaW5nIDMzIGhvdXJzLkoEd2l0aFIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZZQ1g0VkxxNWNPR3FmUjZ0LXVGX1NXT2tod0gtTVg3MHd3bDRHcUZxQnFlYlJGUFBFYndIby1XU0NQd19wWEFQemN0X3FfZXE3SnRmQk5oRXoyUTVkWkJDNUNsWU1GendlQnFqLV9HNFEyWVpMbjJTdDhOamdWYzhCVml1ZXk0OHdjQkVRVDlBOENrSzBHTlotYjNZSVdGdjVodWtkZzNMR280ZzVnEgQaAggAGrAGEgIIARoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAigYIABAAGAAgACocCgRiZXN0FchI1EAaA3RvcBoKYmVzdGJ1ZGdldCpJCgZidWRnZXQVW7DIQBoKYWZmb3JkYWJsZRoFY2hlYXAaCGxvdyBjb3N0GgpiZXN0YnVkZ2V0GhFidWRnZXRzbWFydHBob25lcyp2CgtzbWFydHBob25lcxWwQT5AGg1tb2JpbGUgcGhvbmVzGgdtb2JpbGVzGgtzbWFydCBwaG9uZRoMc21hcnQgcGhvbmVzGgpzbWFydHBob25lGhFidWRnZXRzbWFydHBob25lcxoQaXY7cDtzbWFydHBob25lcyoLCgR3aXRoFQAAAAAqNAoEZ29vZBVYiJQ-GgZiZXR0ZXIaCWV4Y2VsbGVudBoFZ3JlYXQaBGxvbmcaB2xvbmdlc3QqGwoHYmF0dGVyeRWEIQtAGgtiYXR0ZXJ5bGlmZSoiCgRsaWZlFW5U9z8aCHByb2JsZW1zGgtiYXR0ZXJ5bGlmZTK9AS9nb3RvP3VybD1DQUVTZ1FFQjZ6c3dGWUNYNFZMcTVjT0dxZlI2dC11Rl9TV09raHdILU1YNzB3d2w0R3FGcUJxZWJSRlBQRWJ3SG8tV1NDUHdfcFhBUHpjdF9xX2VxN0p0ZkJOaEV6MlE1ZFpCQzVDbFlNRnp3ZUJxai1fRzRRMllaTG4yU3Q4TmpnVmM4QlZpdWV5NDh3Y0JFUVQ5QThDa0swR05aLWIzWUlXRnY1aHVrZGczTEdvNGc1Zzo9VGhlIDxiPmJlc3QgYnVkZ2V0PC9iPiBwaG9uZXMgdG8gYnV5IGluIDIwMjYgLSBFeHBlcnQgUmV2aWV3c0KQAVdoZXJlIG1vc3QgYnVkZ2V0IHBob25lcyBsYXN0IGJldHdlZW4gMjQgYW5kIDI4IGhvdXJzIGluIG91ciBpbi1ob3VzZSBiYXR0ZXJ5IHRlc3QsIHRoZSA8Yj5Ob3JkIENFIDU8L2I-IGtlcHQgZ29pbmcgZm9yIGFuIG91dHN0YW5kaW5nIDMzIGhvdXJzLkoEd2l0aFIDdG9wIgIQAUgAWABoAA",
+      "source": "Expert Reviews"
+    },
+    {
+      "position": 7,
+      "title": "Phones with best battery life 2026 - buyer's guide",
+      "link": "https://www.gsmarena.com/phones_best_battery_life_buyers_guide-review-2028.php",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFWoKC4KacxiP2AAq-Mtfj7tyCA8ddI1ZhDXxPArKj1s9JLO95fJ1o1x3CKt4Ycn3c0M5k1aTvJv7-eCuMZ78Eg7KXyNrZMv54VCTzJPCcZ_7cyArR6x8hMIcXhSe3-4yF2Z2HX5sL0buNm9RoqJXHHI7m8-Wdyn88ECgkliuaQaZiA&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQFnoECFkQAQ&uoh=1",
+      "displayed_link": "https://www.gsmarena.com › phones_best_battery_life_b...",
+      "date": "May 3, 2026",
+      "snippet": "The Realme P4 Power is all about battery life. The OnePlus 15R … including impressive battery life. RedMagic 11 Pro is a great choice. long- ...",
+      "snippet_highlighted_words": [
+        "RedMagic 11 Pro"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Vivo Iqoo 15",
+            "link": "https://www.gsmarena.com/phones_best_battery_life_buyers_guide-review-2028.php#:~:text=vivo%20iQOO%2015,-Specs"
+          },
+          {
+            "title": "Oppo Find X9 Ultra",
+            "link": "https://www.gsmarena.com/phones_best_battery_life_buyers_guide-review-2028.php#:~:text=Oppo%20Find%20X9%20Ultra,-Specs"
+          },
+          {
+            "title": "Xiaomi Poco F8 Ultra",
+            "link": "https://www.gsmarena.com/phones_best_battery_life_buyers_guide-review-2028.php#:~:text=Xiaomi%20Poco%20F8%20Ultra,-Specs"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The Realme P4 Power is all about battery life. The OnePlus 15R … including impressive battery life. RedMagic 11 Pro is a great choice. long- ...",
+          "source_info_link": "https://www.gsmarena.com/phones_best_battery_life_buyers_guide-review-2028.php",
+          "icon": "https://serpapi.com/images/i/UklGRoIAAABXRUJQVlA4IHYAAADwAQCdASoQABAAAsBMJQAB8clsosLUJgAA4iuMzplxtHajgjj93T8mPw43NR3r5hJXAXg5_YD7YUBa3texe3kSRbtRZAd11-OEWJRcln9wv5FXPURz_RDRnRI8H2YlXypGsZAojQ3ELNn4pJrokepbiSdLsiAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZXb0tDNEthY3hpUDJBQXEtTXRmajd0eUNBOGRkSTFaaERYeFBBcktqMXM5SkxPOTVmSjFvMXgzQ0t0NFljbjNjME01azFhVHZKdjctZUN1TVo3OEVnN0tYeU5yWk12NTRWQ1R6SlBDY1pfN2N5QXJSNng4aE1JY1hoU2UzLTR5RjJaMkhYNXNMMGJ1Tm05Um9xSlhISEk3bTgtV2R5bjg4RUNna2xpdWFRYVppQRIEGgIIABrHBhICCAEaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHICCAF6AIJAnwYIABAAGAAgACocCgRiZXN0FUSsRUAaA3RvcBoKYmVzdGJ1ZGdldCpJCgZidWRnZXQVAAAAABoKYWZmb3JkYWJsZRoFY2hlYXAaCGxvdyBjb3N0GgpiZXN0YnVkZ2V0GhFidWRnZXRzbWFydHBob25lcyp2CgtzbWFydHBob25lcxUV3z8_Gg1tb2JpbGUgcGhvbmVzGgdtb2JpbGVzGgtzbWFydCBwaG9uZRoMc21hcnQgcGhvbmVzGgpzbWFydHBob25lGhFidWRnZXRzbWFydHBob25lcxoQaXY7cDtzbWFydHBob25lcyoLCgR3aXRoFQAAAAAqNAoEZ29vZBXYL3A_GgZiZXR0ZXIaCWV4Y2VsbGVudBoFZ3JlYXQaBGxvbmcaB2xvbmdlc3QqGwoHYmF0dGVyeRWl6ZVAGgtiYXR0ZXJ5bGlmZSoiCgRsaWZlFacejkAaCHByb2JsZW1zGgtiYXR0ZXJ5bGlmZTLEAS9nb3RvP3VybD1DQUVTaGdFQjZ6c3dGV29LQzRLYWN4aVAyQUFxLU10Zmo3dHlDQThkZEkxWmhEWHhQQXJLajFzOUpMTzk1ZkoxbzF4M0NLdDRZY24zYzBNNWsxYVR2SnY3LWVDdU1aNzhFZzdLWHlOclpNdjU0VkNUekpQQ2NaXzdjeUFyUjZ4OGhNSWNYaFNlMy00eUYyWjJIWDVzTDBidU5tOVJvcUpYSEhJN204LVdkeW44OEVDZ2tsaXVhUWFaaUE6PVBob25lcyB3aXRoIDxiPmJlc3QgYmF0dGVyeSBsaWZlPC9iPiAyMDI2IC0gYnV5ZXImIzM5O3MgZ3VpZGVCngFUaGUgUmVhbG1lIFA0IFBvd2VyIGlzIGFsbCBhYm91dCBiYXR0ZXJ5IGxpZmUuIFRoZSBPbmVQbHVzIDE1UiDigKYgaW5jbHVkaW5nIGltcHJlc3NpdmUgYmF0dGVyeSBsaWZlLiA8Yj5SZWRNYWdpYyAxMSBQcm88L2I-IGlzIGEgZ3JlYXQgY2hvaWNlLiBsb25nLSZuYnNwOy4uLkoEd2l0aFIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZXb0tDNEthY3hpUDJBQXEtTXRmajd0eUNBOGRkSTFaaERYeFBBcktqMXM5SkxPOTVmSjFvMXgzQ0t0NFljbjNjME01azFhVHZKdjctZUN1TVo3OEVnN0tYeU5yWk12NTRWQ1R6SlBDY1pfN2N5QXJSNng4aE1JY1hoU2UzLTR5RjJaMkhYNXNMMGJ1Tm05Um9xSlhISEk3bTgtV2R5bjg4RUNna2xpdWFRYVppQRIEGgIIABrHBhICCAEaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHICCAF6AIJAnwYIABAAGAAgACocCgRiZXN0FUSsRUAaA3RvcBoKYmVzdGJ1ZGdldCpJCgZidWRnZXQVAAAAABoKYWZmb3JkYWJsZRoFY2hlYXAaCGxvdyBjb3N0GgpiZXN0YnVkZ2V0GhFidWRnZXRzbWFydHBob25lcyp2CgtzbWFydHBob25lcxUV3z8_Gg1tb2JpbGUgcGhvbmVzGgdtb2JpbGVzGgtzbWFydCBwaG9uZRoMc21hcnQgcGhvbmVzGgpzbWFydHBob25lGhFidWRnZXRzbWFydHBob25lcxoQaXY7cDtzbWFydHBob25lcyoLCgR3aXRoFQAAAAAqNAoEZ29vZBXYL3A_GgZiZXR0ZXIaCWV4Y2VsbGVudBoFZ3JlYXQaBGxvbmcaB2xvbmdlc3QqGwoHYmF0dGVyeRWl6ZVAGgtiYXR0ZXJ5bGlmZSoiCgRsaWZlFacejkAaCHByb2JsZW1zGgtiYXR0ZXJ5bGlmZTLEAS9nb3RvP3VybD1DQUVTaGdFQjZ6c3dGV29LQzRLYWN4aVAyQUFxLU10Zmo3dHlDQThkZEkxWmhEWHhQQXJLajFzOUpMTzk1ZkoxbzF4M0NLdDRZY24zYzBNNWsxYVR2SnY3LWVDdU1aNzhFZzdLWHlOclpNdjU0VkNUekpQQ2NaXzdjeUFyUjZ4OGhNSWNYaFNlMy00eUYyWjJIWDVzTDBidU5tOVJvcUpYSEhJN204LVdkeW44OEVDZ2tsaXVhUWFaaUE6PVBob25lcyB3aXRoIDxiPmJlc3QgYmF0dGVyeSBsaWZlPC9iPiAyMDI2IC0gYnV5ZXImIzM5O3MgZ3VpZGVCngFUaGUgUmVhbG1lIFA0IFBvd2VyIGlzIGFsbCBhYm91dCBiYXR0ZXJ5IGxpZmUuIFRoZSBPbmVQbHVzIDE1UiDigKYgaW5jbHVkaW5nIGltcHJlc3NpdmUgYmF0dGVyeSBsaWZlLiA8Yj5SZWRNYWdpYyAxMSBQcm88L2I-IGlzIGEgZ3JlYXQgY2hvaWNlLiBsb25nLSZuYnNwOy4uLkoEd2l0aFIDdG9wIgIQAUgAWABoAA",
+      "source": "GSMArena.com"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best budget smartphones with good battery life reddit",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&q=Best+budget+smartphones+with+good+battery+life+reddit&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+budget+smartphones+with+good+battery+life+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best budget smartphone under 20000",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&q=Best+budget+smartphone+under+20000&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+budget+smartphone+under+20000"
+    },
+    {
+      "block_position": 1,
+      "query": "Best budget smartphone under 100",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&q=Best+budget+smartphone+under+100&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ1QJ6BAhYEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+budget+smartphone+under+100"
+    },
+    {
+      "block_position": 1,
+      "query": "Best budget smartphone 2026",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&q=Best+budget+smartphone+2026&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ1QJ6BAhXEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+budget+smartphone+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Best budget smartphone under 10000",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&q=Best+budget+smartphone+under+10000&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+budget+smartphone+under+10000"
+    },
+    {
+      "block_position": 1,
+      "query": "Best battery life phone 2026",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&q=Best+battery+life+phone+2026&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ1QJ6BAhVEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+battery+life+phone+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Best budget smartphone under 150",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&q=Best+budget+smartphone+under+150&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+budget+smartphone+under+150"
+    },
+    {
+      "block_position": 1,
+      "query": "Best budget Android phone 2026",
+      "link": "https://www.google.com/search?sca_esv=9f97b11af8265622&gl=us&hl=en&q=Best+budget+Android+phone+2026&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Best+budget+Android+phone+2026"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Unlocked",
+      "link": "https://www.google.com/search?q=unlocked+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAEYASouYmVzdCBidWRnZXQgc21hcnRwaG9uZXMgd2l0aCBnb29kIGJhdHRlcnkgbGlmZTIZCAESCFVubG9ja2VkOgsIlY8rEOm4mAIwAFiJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKAF6BQg2EI0B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=unlocked+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "5G",
+      "link": "https://www.google.com/search?q=5g+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAEYASouYmVzdCBidWRnZXQgc21hcnRwaG9uZXMgd2l0aCBnb29kIGJhdHRlcnkgbGlmZTIUCAESAjVHOgwIt6PwARC6o_ABMABYiaogYAE&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKAJ6BQg2EI4B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=5g+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "15 hour battery",
+      "link": "https://www.google.com/search?q=15+hour+battery+best+budget+smartphones+with+good+life&gl=us&hl=en&shoprs=CAESGyoZCMTB0QMSEgkAAAAAAAAuQBEAAAAAAAAuQBgBKi5iZXN0IGJ1ZGdldCBzbWFydHBob25lcyB3aXRoIGdvb2QgYmF0dGVyeSBsaWZlMjsIARIPMTUgaG91ciBiYXR0ZXJ5IhsqGQjEwdEDEhIJAAAAAAAALkARAAAAAAAALkA6CQjEwdEDEAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKAN6BQg2EI8B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=15+hour+battery+best+budget+smartphones+with+good+life"
+    },
+    {
+      "query": "18 hour battery",
+      "link": "https://www.google.com/search?q=18+hour+battery+best+budget+smartphones+with+good+life&gl=us&hl=en&shoprs=CAESGyoZCMTB0QMSEgkAAAAAAAAyQBEAAAAAAAAyQBgBKi5iZXN0IGJ1ZGdldCBzbWFydHBob25lcyB3aXRoIGdvb2QgYmF0dGVyeSBsaWZlMjsIARIPMTggaG91ciBiYXR0ZXJ5IhsqGQjEwdEDEhIJAAAAAAAAMkARAAAAAAAAMkA6CQjEwdEDEAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKAR6BQg2EJAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=18+hour+battery+best+budget+smartphones+with+good+life"
+    },
+    {
+      "query": "26 hour battery",
+      "link": "https://www.google.com/search?q=26+hour+battery+best+budget+smartphones+with+good+life&gl=us&hl=en&shoprs=CAESGyoZCMTB0QMSEgkAAAAAAAA6QBEAAAAAAAA6QBgBKi5iZXN0IGJ1ZGdldCBzbWFydHBob25lcyB3aXRoIGdvb2QgYmF0dGVyeSBsaWZlMjsIARIPMjYgaG91ciBiYXR0ZXJ5IhsqGQjEwdEDEhIJAAAAAAAAOkARAAAAAAAAOkA6CQjEwdEDEAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKAV6BQg2EJEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=26+hour+battery+best+budget+smartphones+with+good+life"
+    },
+    {
+      "query": "31 hour battery",
+      "link": "https://www.google.com/search?q=31+hour+battery+best+budget+smartphones+with+good+life&gl=us&hl=en&shoprs=CAESGyoZCMTB0QMSEgkAAAAAAAA_QBEAAAAAAAA_QBgBKi5iZXN0IGJ1ZGdldCBzbWFydHBob25lcyB3aXRoIGdvb2QgYmF0dGVyeSBsaWZlMjsIARIPMzEgaG91ciBiYXR0ZXJ5IhsqGQjEwdEDEhIJAAAAAAAAP0ARAAAAAAAAP0A6CQjEwdEDEAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKAZ6BQg2EJIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=31+hour+battery+best+budget+smartphones+with+good+life"
+    },
+    {
+      "query": "6.7 – 6.8″",
+      "link": "https://www.google.com/search?q=6.7%E2%80%B3+to+6.8%E2%80%B3+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESGioYCKX9PBISCQAAAKCbBDFAEQAAAMChRTFAGAEqLmJlc3QgYnVkZ2V0IHNtYXJ0cGhvbmVzIHdpdGggZ29vZCBiYXR0ZXJ5IGxpZmUyTggBEg42Ljcg4oCTIDYuOOKAsyIaKhgIpf08EhIJAAAAoJsEMUARAAAAwKFFMUAqFAoQNi434oCzIHRvIDYuOOKAsxgBOggIpf08EAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKAd6BQg2EJMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=6.7%E2%80%B3+to+6.8%E2%80%B3+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "6.5 – 6.7″",
+      "link": "https://www.google.com/search?q=6.5%E2%80%B3+to+6.7%E2%80%B3+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESGioYCKX9PBISCQAAAGCPgjBAEQAAAKCbBDFAGAEqLmJlc3QgYnVkZ2V0IHNtYXJ0cGhvbmVzIHdpdGggZ29vZCBiYXR0ZXJ5IGxpZmUyTggBEg42LjUg4oCTIDYuN-KAsyIaKhgIpf08EhIJAAAAYI-CMEARAAAAoJsEMUAqFAoQNi414oCzIHRvIDYuN-KAsxgBOggIpf08EAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKAh6BQg2EJQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=6.5%E2%80%B3+to+6.7%E2%80%B3+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "Under 6.3″",
+      "link": "https://www.google.com/search?q=under+6.3%E2%80%B3+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESESoPCKX9PBIJEQAAACCDADBAGAEqLmJlc3QgYnVkZ2V0IHNtYXJ0cGhvbmVzIHdpdGggZ29vZCBiYXR0ZXJ5IGxpZmUyMQgBEgxVbmRlciA2LjPigLMiESoPCKX9PBIJEQAAACCDADBAKgIYAToICKX9PBAAMAZYiaogYAE&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKAl6BQg2EJUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=under+6.3%E2%80%B3+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "Over 6.8″",
+      "link": "https://www.google.com/search?q=over+6.8%E2%80%B3+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESESoPCKX9PBIJCQAAAMChRTFAGAEqLmJlc3QgYnVkZ2V0IHNtYXJ0cGhvbmVzIHdpdGggZ29vZCBiYXR0ZXJ5IGxpZmUyMAgBEgtPdmVyIDYuOOKAsyIRKg8Ipf08EgkJAAAAwKFFMUAqAhgBOggIpf08EAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKAp6BQg2EJYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=over+6.8%E2%80%B3+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "6.3 – 6.5″",
+      "link": "https://www.google.com/search?q=6.3%E2%80%B3+to+6.5%E2%80%B3+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESGioYCKX9PBISCQAAACCDADBAEQAAAGCPgjBAGAEqLmJlc3QgYnVkZ2V0IHNtYXJ0cGhvbmVzIHdpdGggZ29vZCBiYXR0ZXJ5IGxpZmUyTggBEg42LjMg4oCTIDYuNeKAsyIaKhgIpf08EhIJAAAAIIMAMEARAAAAYI-CMEAqFAoQNi4z4oCzIHRvIDYuNeKAsxgBOggIpf08EAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKAt6BQg2EJcB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=6.3%E2%80%B3+to+6.5%E2%80%B3+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "128 GB storage",
+      "link": "https://www.google.com/search?q=128+gb+storage+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESGioYCKuEPRISCQAAAAAAAGBAEQAAAAAAAGBAGAEqLmJlc3QgYnVkZ2V0IHNtYXJ0cGhvbmVzIHdpdGggZ29vZCBiYXR0ZXJ5IGxpZmUyPAgBEg4xMjggR0Igc3RvcmFnZSIaKhgIq4Q9EhIJAAAAAAAAYEARAAAAAAAAYEAqAhgBOggIq4Q9EAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKAx6BQg2EJgB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=128+gb+storage+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=best+budget+smartphones+with+good+battery+life+sale&gl=us&hl=en&shoprs=CAESBEoCGAEYBiouYmVzdCBidWRnZXQgc21hcnRwaG9uZXMgd2l0aCBnb29kIGJhdHRlcnkgbGlmZTITCAYSB09uIHNhbGUYAiIESgIYAViJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKA16BQg2EJkB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+budget+smartphones+with+good+battery+life+sale"
+    },
+    {
+      "query": "Get it by Fri",
+      "link": "https://www.google.com/search?q=best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESDZoBCgoIEAI4AUAFSAEYFCouYmVzdCBidWRnZXQgc21hcnRwaG9uZXMgd2l0aCBnb29kIGJhdHRlcnkgbGlmZTImCBQSDUdldCBpdCBieSBGcmkiDZoBCgoIEAI4AUAFSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKA56BQg2EJoB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "4G",
+      "link": "https://www.google.com/search?q=4g+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAEYASouYmVzdCBidWRnZXQgc21hcnRwaG9uZXMgd2l0aCBnb29kIGJhdHRlcnkgbGlmZTIUCAESAjRHOgwIt6PwARC5o_ABMABYiaogYAE&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKA96BQg2EJsB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=4g+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "Headphone Jack",
+      "link": "https://www.google.com/search?q=headphone+jack+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAEYASouYmVzdCBidWRnZXQgc21hcnRwaG9uZXMgd2l0aCBnb29kIGJhdHRlcnkgbGlmZTIeCAESDkhlYWRwaG9uZSBKYWNrOgoI3rk9EOK5PTAAWImqIGAB&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKBB6BQg2EJwB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=headphone+jack+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "256 GB storage",
+      "link": "https://www.google.com/search?q=256+gb+storage+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESGioYCKuEPRISCQAAAAAAAHBAEQAAAAAAAHBAGAEqLmJlc3QgYnVkZ2V0IHNtYXJ0cGhvbmVzIHdpdGggZ29vZCBiYXR0ZXJ5IGxpZmUyPAgBEg4yNTYgR0Igc3RvcmFnZSIaKhgIq4Q9EhIJAAAAAAAAcEARAAAAAAAAcEAqAhgBOggIq4Q9EAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKBF6BQg2EJ0B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=256+gb+storage+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "64 GB storage",
+      "link": "https://www.google.com/search?q=64+gb+storage+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESGioYCKuEPRISCQAAAAAAAFBAEQAAAAAAAFBAGAEqLmJlc3QgYnVkZ2V0IHNtYXJ0cGhvbmVzIHdpdGggZ29vZCBiYXR0ZXJ5IGxpZmUyOwgBEg02NCBHQiBzdG9yYWdlIhoqGAirhD0SEgkAAAAAAABQQBEAAAAAAABQQCoCGAE6CAirhD0QADAGWImqIGAB&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKBJ6BQg2EJ4B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=64+gb+storage+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "8 GB RAM",
+      "link": "https://www.google.com/search?q=8+gb+ram+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESGyoZCPS88AESEgkAAAAAAAAgQBEAAAAAAAAgQBgBKi5iZXN0IGJ1ZGdldCBzbWFydHBob25lcyB3aXRoIGdvb2QgYmF0dGVyeSBsaWZlMjgIARIIOCBHQiBSQU0iGyoZCPS88AESEgkAAAAAAAAgQBEAAAAAAAAgQCoCGAE6CQj0vPABEAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKBN6BQg2EJ8B",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=8+gb+ram+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "4 GB RAM",
+      "link": "https://www.google.com/search?q=4+gb+ram+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESGyoZCPS88AESEgkAAAAAAAAQQBEAAAAAAAAQQBgBKi5iZXN0IGJ1ZGdldCBzbWFydHBob25lcyB3aXRoIGdvb2QgYmF0dGVyeSBsaWZlMjgIARIINCBHQiBSQU0iGyoZCPS88AESEgkAAAAAAAAQQBEAAAAAAAAQQCoCGAE6CQj0vPABEAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKBR6BQg2EKAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=4+gb+ram+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "Cell Phones",
+      "link": "https://www.google.com/search?q=cell+phones+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAEYCSouYmVzdCBidWRnZXQgc21hcnRwaG9uZXMgd2l0aCBnb29kIGJhdHRlcnkgbGlmZTIPCAkSC0NlbGwgUGhvbmVzYAE&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKBV6BQg2EKEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=cell+phones+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "Dual SIM",
+      "link": "https://www.google.com/search?q=dual+sim+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAEYASouYmVzdCBidWRnZXQgc21hcnRwaG9uZXMgd2l0aCBnb29kIGJhdHRlcnkgbGlmZTIYCAESCER1YWwgU0lNOgoItMo7ELbKOzAAWImqIGAB&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKBZ6BQg2EKIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=dual+sim+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "32 GB storage",
+      "link": "https://www.google.com/search?q=32+gb+storage+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESGioYCKuEPRISCQAAAAAAAEBAEQAAAAAAAEBAGAEqLmJlc3QgYnVkZ2V0IHNtYXJ0cGhvbmVzIHdpdGggZ29vZCBiYXR0ZXJ5IGxpZmUyOwgBEg0zMiBHQiBzdG9yYWdlIhoqGAirhD0SEgkAAAAAAABAQBEAAAAAAABAQCoCGAE6CAirhD0QADAGWImqIGAB&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKBd6BQg2EKMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=32+gb+storage+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "512 GB storage",
+      "link": "https://www.google.com/search?q=512+gb+storage+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESGioYCKuEPRISCQAAAAAAAIBAEQAAAAAAAIBAGAEqLmJlc3QgYnVkZ2V0IHNtYXJ0cGhvbmVzIHdpdGggZ29vZCBiYXR0ZXJ5IGxpZmUyPAgBEg41MTIgR0Igc3RvcmFnZSIaKhgIq4Q9EhIJAAAAAAAAgEARAAAAAAAAgEAqAhgBOggIq4Q9EAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKBh6BQg2EKQB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=512+gb+storage+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "T-Mobile",
+      "link": "https://www.google.com/search?q=t-mobile+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAEYASouYmVzdCBidWRnZXQgc21hcnRwaG9uZXMgd2l0aCBnb29kIGJhdHRlcnkgbGlmZTIYCAESCFQtTW9iaWxlOgoIlY8rEJiPKzAAWImqIGAB&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKBl6BQg2EKUB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=t-mobile+best+budget+smartphones+with+good+battery+life"
+    },
+    {
+      "query": "6 GB RAM",
+      "link": "https://www.google.com/search?q=6+gb+ram+best+budget+smartphones+with+good+battery+life&gl=us&hl=en&shoprs=CAESGyoZCPS88AESEgkAAAAAAAAYQBEAAAAAAAAYQBgBKi5iZXN0IGJ1ZGdldCBzbWFydHBob25lcyB3aXRoIGdvb2QgYmF0dGVyeSBsaWZlMjgIARIINiBHQiBSQU0iGyoZCPS88AESEgkAAAAAAAAYQBEAAAAAAAAYQCoCGAE6CQj0vPABEAAwBliJqiBgAQ&sa=X&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQip4GKBp6BQg2EKYB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=6+gb+ram+best+budget+smartphones+with+good+battery+life"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Best Value Android with Good Battery?",
+      "link": "https://www.reddit.com/r/Smartphones/comments/1qzkp6n/best_value_android_with_good_battery/",
+      "date": "7 months ago",
+      "extensions": [
+        "r/Smartphones",
+        "20+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/Smartphones/comments/1qzkp6n/best_value_android_with_good_battery/o4bgt5i/",
+          "extensions": [
+            "Top answer",
+            "2 votes",
+            "7 months ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/Smartphones/comments/1qzkp6n/best_value_android_with_good_battery/o4bwtn7/",
+          "extensions": [
+            "2 votes",
+            "7 months ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/Smartphones/comments/1qzkp6n/best_value_android_with_good_battery/o4bm8kc/",
+          "extensions": [
+            "7 months ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What are good budget phones with long battery life?",
+      "link": "https://www.facebook.com/groups/983295315800436/posts/2059593494837274/",
+      "date": "10 months ago",
+      "extensions": [
+        "Connect Augusta ™️",
+        "20+ comments"
+      ],
+      "source": "Facebook",
+      "answers": [
+        {
+          "link": "https://www.facebook.com/groups/983295315800436/posts/2059593494837274/"
+        }
+      ]
+    },
+    {
+      "title": "What is the best budget smartphone for a user who ONLY cares about ...",
+      "link": "https://www.quora.com/What-is-the-best-budget-smartphone-for-a-user-who-ONLY-cares-about-the-longest-possible-battery-life-and-is-willing-to-compromise-on-camera-screen",
+      "date": "11 months ago",
+      "extensions": [
+        "30+ answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "link": "https://www.quora.com/What-is-the-best-budget-smartphone-for-a-user-who-ONLY-cares-about-the-longest-possible-battery-life-and-is-willing-to-compromise-on-camera-screen"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+budget+smartphones+with+good+battery+life&sca_esv=9f97b11af8265622&gl=us&hl=en&ei=O8izap-9K8G0qtsPmL2ogQo&start=10&sa=N&sstk=AS6-VmL2x615WiSc5UjtCHkN7_HYatIjvhUEtJ1v_y2YINnGSfG8vZnbXA3b5GgiNWX3K_ahVnBp3cv7hDVP12WJeLrpsj2Cs1xHqw&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ8NMDegQIThAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+budget+smartphones+with+good+battery+life&sca_esv=9f97b11af8265622&gl=us&hl=en&ei=O8izap-9K8G0qtsPmL2ogQo&start=10&sa=N&sstk=AS6-VmL2x615WiSc5UjtCHkN7_HYatIjvhUEtJ1v_y2YINnGSfG8vZnbXA3b5GgiNWX3K_ahVnBp3cv7hDVP12WJeLrpsj2Cs1xHqw&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ8tMDegQIThAE",
+      "3": "https://www.google.com/search?q=best+budget+smartphones+with+good+battery+life&sca_esv=9f97b11af8265622&gl=us&hl=en&ei=O8izap-9K8G0qtsPmL2ogQo&start=20&sa=N&sstk=AS6-VmL2x615WiSc5UjtCHkN7_HYatIjvhUEtJ1v_y2YINnGSfG8vZnbXA3b5GgiNWX3K_ahVnBp3cv7hDVP12WJeLrpsj2Cs1xHqw&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ8tMDegQIThAG",
+      "4": "https://www.google.com/search?q=best+budget+smartphones+with+good+battery+life&sca_esv=9f97b11af8265622&gl=us&hl=en&ei=O8izap-9K8G0qtsPmL2ogQo&start=30&sa=N&sstk=AS6-VmL2x615WiSc5UjtCHkN7_HYatIjvhUEtJ1v_y2YINnGSfG8vZnbXA3b5GgiNWX3K_ahVnBp3cv7hDVP12WJeLrpsj2Cs1xHqw&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ8tMDegQIThAI",
+      "5": "https://www.google.com/search?q=best+budget+smartphones+with+good+battery+life&sca_esv=9f97b11af8265622&gl=us&hl=en&ei=O8izap-9K8G0qtsPmL2ogQo&start=40&sa=N&sstk=AS6-VmL2x615WiSc5UjtCHkN7_HYatIjvhUEtJ1v_y2YINnGSfG8vZnbXA3b5GgiNWX3K_ahVnBp3cv7hDVP12WJeLrpsj2Cs1xHqw&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ8tMDegQIThAK",
+      "6": "https://www.google.com/search?q=best+budget+smartphones+with+good+battery+life&sca_esv=9f97b11af8265622&gl=us&hl=en&ei=O8izap-9K8G0qtsPmL2ogQo&start=50&sa=N&sstk=AS6-VmL2x615WiSc5UjtCHkN7_HYatIjvhUEtJ1v_y2YINnGSfG8vZnbXA3b5GgiNWX3K_ahVnBp3cv7hDVP12WJeLrpsj2Cs1xHqw&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ8tMDegQIThAM",
+      "7": "https://www.google.com/search?q=best+budget+smartphones+with+good+battery+life&sca_esv=9f97b11af8265622&gl=us&hl=en&ei=O8izap-9K8G0qtsPmL2ogQo&start=60&sa=N&sstk=AS6-VmL2x615WiSc5UjtCHkN7_HYatIjvhUEtJ1v_y2YINnGSfG8vZnbXA3b5GgiNWX3K_ahVnBp3cv7hDVP12WJeLrpsj2Cs1xHqw&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ8tMDegQIThAO",
+      "8": "https://www.google.com/search?q=best+budget+smartphones+with+good+battery+life&sca_esv=9f97b11af8265622&gl=us&hl=en&ei=O8izap-9K8G0qtsPmL2ogQo&start=70&sa=N&sstk=AS6-VmL2x615WiSc5UjtCHkN7_HYatIjvhUEtJ1v_y2YINnGSfG8vZnbXA3b5GgiNWX3K_ahVnBp3cv7hDVP12WJeLrpsj2Cs1xHqw&ved=2ahUKEwjfxsSQ3ISXAxVBmmoFHZgeKqAQ8tMDegQIThAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+budget+smartphones+with+good+battery+life&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+budget+smartphones+with+good+battery+life&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+budget+smartphones+with+good+battery+life&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+budget+smartphones+with+good+battery+life&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+budget+smartphones+with+good+battery+life&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+budget+smartphones+with+good+battery+life&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+budget+smartphones+with+good+battery+life&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+budget+smartphones+with+good+battery+life&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=best+budget+smartphones+with+good+battery+life&start=70"
+    }
+  }
+}

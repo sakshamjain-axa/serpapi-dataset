@@ -1,0 +1,781 @@
+{
+  "search_metadata": {
+    "id": "6ab3de171a29fe59151122f7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/8-i4qIBcsX6vtCzITVpPYYd9z1YLFUB7RElNFJE5aVA/6ab3de171a29fe59151122f7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/8-i4qIBcsX6vtCzITVpPYYd9z1YLFUB7RElNFJE5aVA/6ab3de171a29fe59151122f7.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/8-i4qIBcsX6vtCzITVpPYYd9z1YLFUB7RElNFJE5aVA/6ab3de171a29fe59151122f7.json_with_pixel_position",
+    "created_at": "2026-09-23 14:11:35 UTC",
+    "processed_at": "2026-09-23 14:11:35 UTC",
+    "google_url": "https://www.google.com/search?q=top+graphics+cards+for+1440p+gaming&oq=top+graphics+cards+for+1440p+gaming&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/8-i4qIBcsX6vtCzITVpPYYd9z1YLFUB7RElNFJE5aVA/6ab3de171a29fe59151122f7.html",
+    "total_time_taken": 0.75
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top graphics cards for 1440p gaming",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top graphics cards for 1440p gaming",
+    "total_results": 179,
+    "time_taken_displayed": 0.4,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Best GPUs / Graphics Cards for Gaming 2026! [1080p,1440p & ...",
+      "link": "https://www.youtube.com/watch?v=j6BiRUJPvyI",
+      "thumbnail": "https://serpapi.com/searches/6ab3de171a29fe59151122f7/images/_TXMs6fHPvDtBTj_sWGWohV0gVEnBJRN98ZP38CD1_A.jpeg",
+      "channel": "ShadowGamingPC",
+      "duration": "7:31",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "snippet": "For under $500, the RX 960 XT 16GB delivers 100+ FPS at 1080p and 80+ FPS at 1440p on high settings."
+    },
+    {
+      "position": 2,
+      "title": "Best 1440p GPUs Under $400 — Don't Buy the Wrong One",
+      "link": "https://www.youtube.com/watch?v=GcGatdCrE_Y",
+      "thumbnail": "https://serpapi.com/searches/6ab3de171a29fe59151122f7/images/OU5Y8ZyjS0tc0csnklJ5OThxnvwK3B4E9wqxPThyfHM.jpeg",
+      "channel": "BC Zone",
+      "duration": "9:27",
+      "platform": "YouTube",
+      "date": "May 23, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR5hAjiOTFdal3Y5ooDRETm86OYnhRay7Mfmw"
+    },
+    {
+      "position": 3,
+      "title": "Top 5 Best GPUs / Graphics Cards for Gaming at 1440p!!!",
+      "link": "https://www.youtube.com/watch?v=bVoBffhHZLU",
+      "thumbnail": "https://serpapi.com/searches/6ab3de171a29fe59151122f7/images/tISF4hSIWvRo4H488qO9plblzKAFg8rxZzqm5kjKvwk.jpeg",
+      "channel": "ShadowGamingPC",
+      "duration": "6:26",
+      "platform": "YouTube",
+      "date": "Mar 28, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSFYqfZTv7dC279fMlRFUml0xa7DOgT9dIBmg",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Best GPUs for 1440p Gaming!",
+          "link": "https://www.youtube.com/watch?v=bVoBffhHZLU&t=0"
+        },
+        {
+          "time": "00:48",
+          "title": "Best Price to Performance GPU",
+          "link": "https://www.youtube.com/watch?v=bVoBffhHZLU&t=48"
+        },
+        {
+          "time": "02:05",
+          "title": "Premium 1440p GPU",
+          "link": "https://www.youtube.com/watch?v=bVoBffhHZLU&t=125"
+        },
+        {
+          "time": "03:20",
+          "title": "High-End GPU (4K READY)",
+          "link": "https://www.youtube.com/watch?v=bVoBffhHZLU&t=200"
+        },
+        {
+          "time": "04:22",
+          "title": "Nvidia Alternative (Higher End)",
+          "link": "https://www.youtube.com/watch?v=bVoBffhHZLU&t=262"
+        },
+        {
+          "time": "05:13",
+          "title": "Bonus Budget GPU for 1440p",
+          "link": "https://www.youtube.com/watch?v=bVoBffhHZLU&t=313"
+        },
+        {
+          "time": "05:47",
+          "title": "Prebuilt PCs are CHEAPER?!",
+          "link": "https://www.youtube.com/watch?v=bVoBffhHZLU&t=347"
+        }
+      ]
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRj47lQG6YVGTZcOKZrq1_hdXwe8BmRphiExwVpEU9MF9ElEQtQOy6psMhxuwtFosM-cRvp2U5AXHB-ubBVWu0zlg322XTteAsw-OVoCvLolWZjaqqVNEdRvQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Pny Nvidia Geforce Rtx 5070 OC Triple Fan Graphics Card 12GB GDDR7",
+      "rating": 4.2,
+      "reviews": 190,
+      "price": "$679.00",
+      "extracted_price": 679.0,
+      "original_price": "$779",
+      "extracted_original_price": 779,
+      "location": "Nearby, 3 mi",
+      "extensions": [
+        "12% OFF"
+      ],
+      "immersive_product_page_token": "rEfinHicbZLLrqNGEIaVZ8nyKFJ3czFkZ5ubPQcw0DSXzQh3Y7BpLsbgC5p3yCtEPjORJsskUp7l5EmyDKNsZ1Wl-qSv_pLql2d-_NtQ5SkbPwiuaqJu8HbK6169LMOvXd-ykQ5H9udigZCsLCQoLeYWAkUFX2k2ZLwtjuwvKKiKJAhAlgAAC3UhipL0R5lnjB-b3D0c8l5r6WyRoSipChIAEqGiigJawN-PdVbk_2M0O0RBlgUoLySgzDbprWeXd7RbfxQFKIjyDIGClIUKIASfdr6rffw--3Ie8_7x_uPQdi9Fn3XlkV5eaDbbXg5t_wJFEcwgq49N8aXovi3_juStPrJf37rr8CyLz-PI83ft9rJebrzNetMTZEyZycdU8K_74133Hss2MI0mjbcTM1Vhnjn-urqQSOqYSaqN4YAk9jm9PQv-HC_Pkj_z5rc2664H-s8P_-pXul73dO2FXUc0H2CLxbTmU0acMTJ8tK8AiCHBoZDazmRYvunBsEk5w6trgu1HblDJrsUpBJXoWiVntapFZnJLcBqTmuzyqMQZdES_Ls9RRacsurtOrdyY4IzM5FUSwXjfrEZHWGk4JF5SOTuC2Q3XTKDV_epYq8Q22IcArnoa8Wtkstf9KZTwqQyI3iVeTDA20jqvoLjXfMdDyd21mP0agHtS3805zzlBLcwmsiG47JlA3CiSUoaGQ2qWW2qlLkVMixoe2Zrvp7iY74G2HYBH3vhtDOybB4bEIRvA9Gpw49II8GpkUZeExipgOsyILnn7-jLkMTlFFT8Ri10Zdho3NIT85PQB4GIUbq-2VcBw8r0o3vZpVUkU6YhUcM6VHlK8Mn29lQJOHAyVB62GNiBdMNdDjpeBARLJabqShZcJT9yymxUIyVLE5kaiwCDmcbvyLefhRqmfnLgb1qWQIniyNSJQnccRL0Rf59fc2FakYv7n-6U_vIOlIQ2BK6MzoefbmubdbeNXF1QkySE3VKL9VPwMv33lAsmqLALpPy9yP1c",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=rEfinHicbZLLrqNGEIaVZ8nyKFJ3czFkZ5ubPQcw0DSXzQh3Y7BpLsbgC5p3yCtEPjORJsskUp7l5EmyDKNsZ1Wl-qSv_pLql2d-_NtQ5SkbPwiuaqJu8HbK6169LMOvXd-ykQ5H9udigZCsLCQoLeYWAkUFX2k2ZLwtjuwvKKiKJAhAlgAAC3UhipL0R5lnjB-b3D0c8l5r6WyRoSipChIAEqGiigJawN-PdVbk_2M0O0RBlgUoLySgzDbprWeXd7RbfxQFKIjyDIGClIUKIASfdr6rffw--3Ie8_7x_uPQdi9Fn3XlkV5eaDbbXg5t_wJFEcwgq49N8aXovi3_juStPrJf37rr8CyLz-PI83ft9rJebrzNetMTZEyZycdU8K_74133Hss2MI0mjbcTM1Vhnjn-urqQSOqYSaqN4YAk9jm9PQv-HC_Pkj_z5rc2664H-s8P_-pXul73dO2FXUc0H2CLxbTmU0acMTJ8tK8AiCHBoZDazmRYvunBsEk5w6trgu1HblDJrsUpBJXoWiVntapFZnJLcBqTmuzyqMQZdES_Ls9RRacsurtOrdyY4IzM5FUSwXjfrEZHWGk4JF5SOTuC2Q3XTKDV_epYq8Q22IcArnoa8Wtkstf9KZTwqQyI3iVeTDA20jqvoLjXfMdDyd21mP0agHtS3805zzlBLcwmsiG47JlA3CiSUoaGQ2qWW2qlLkVMixoe2Zrvp7iY74G2HYBH3vhtDOybB4bEIRvA9Gpw49II8GpkUZeExipgOsyILnn7-jLkMTlFFT8Ri10Zdho3NIT85PQB4GIUbq-2VcBw8r0o3vZpVUkU6YhUcM6VHlK8Mn29lQJOHAyVB62GNiBdMNdDjpeBARLJabqShZcJT9yymxUIyVLE5kaiwCDmcbvyLefhRqmfnLgb1qWQIniyNSJQnccRL0Rf59fc2FakYv7n-6U_vIOlIQ2BK6MzoefbmubdbeNXF1QkySE3VKL9VPwMv33lAsmqLALpPy9yP1c"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRjxuddyX8IA6wL1Tlyjz-uCulvdP3iorEO62VQ6v1h-tB2C6t9VnuZG1rhzkxviTE9CTkOYrHD26Yd7T_paqSppVijvijswCpjwULTT7R2",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "MSI RTX 5070 12G SHADOW OC",
+      "rating": 4.8,
+      "reviews": 300,
+      "price": "$779.00",
+      "extracted_price": 779.0,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "fTBKNnicdZPLjqNGFIalPEPeIMtWpLpwMbOzjYtLmnJTUMVlMypT2NDGNm1wY6O8Q97BPRNpspwZKc_SeZoQZZtszuL8vz7955fOb_ey_pNYxigvv-C15aC2D59mjxurm_Mv7fmkLkVfq-9QR6Y2Mw3DMBGEJrIMCL8UspfNaVerb6ZpIBMCCyOMNMOEhjX7WpVSNfWxXG-35dk-FZPN0izT1IE-TUO39BnG-I_6IHflvzI2Z8CAGFsaABqGMwvP3s6qe9eelh8nuIWwBjTNggjOsAmw_usTW9sf_0f8_HIpz7f3n_pT-7A7y7aqi-6hkBPvYXs6P0BNA5MgD_Vx93nXFv_c-B-Ut0OtvuqmoRloBnUI8BTeQuZb-9rfq92ny6Up3-3hYTn3Qm_pnQUio3SaS47Z66a-rsLb_BQ55Jin_qgcC087ypb7TiR6qxyx9wgFWcqaYrjvmvulu1fNvTz-fpLt67b464cfV6fBXnbDMuRtK2wG4pU2cpDj8AZZJiqbO3SbPM9BiqwwEMSPk2Yv7eBWCnHeYJEGkPpZzNbxXm0D0N3Evh9lBECMF44ELUmBCJjLR-U2WiBUTY9enyE10jTEOeK3_Lnq5CHHFPUkINY64WKVP-dpmUBSuG3FeH585NcqX8JGxP41xRSvCXGDo69viEIxDGHW-CIX3hCPi1y4KpSw6NeCvSYreJh4HeXCF0ilEaSDJESjhxkO-dUT2M-4IBcV-7fcFZfAbVk4Uib3Gma2iGPUpGXarJlDJE9o-JioSMRKi-xgYIReokPPYkzS5MAcxgEKk_bKx9XAgd-VYn7Lm3zF7FCLhajD0dMje8GzMb9FQgQ0XdRFmlcxrqokrjDHOxC4wpZOD8KG9NGx8RXJqRyrmPFmtYGLZOrgKuHiKUunDGkelc41SscsIiDT6bGtFO_GeGymbhaAi7kWO55eACKc2l8wl97WSR6xI91TUAmJVZsJrm8a0ZapcmPOPL6iY4QY_nTtztt3MCd6H60N9CKKl2FZlO3gsX2Hdlm2LYkl7J93H6BpgelXDcvQgP43w6JIgA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=fTBKNnicdZPLjqNGFIalPEPeIMtWpLpwMbOzjYtLmnJTUMVlMypT2NDGNm1wY6O8Q97BPRNpspwZKc_SeZoQZZtszuL8vz7955fOb_ey_pNYxigvv-C15aC2D59mjxurm_Mv7fmkLkVfq-9QR6Y2Mw3DMBGEJrIMCL8UspfNaVerb6ZpIBMCCyOMNMOEhjX7WpVSNfWxXG-35dk-FZPN0izT1IE-TUO39BnG-I_6IHflvzI2Z8CAGFsaABqGMwvP3s6qe9eelh8nuIWwBjTNggjOsAmw_usTW9sf_0f8_HIpz7f3n_pT-7A7y7aqi-6hkBPvYXs6P0BNA5MgD_Vx93nXFv_c-B-Ut0OtvuqmoRloBnUI8BTeQuZb-9rfq92ny6Up3-3hYTn3Qm_pnQUio3SaS47Z66a-rsLb_BQ55Jin_qgcC087ypb7TiR6qxyx9wgFWcqaYrjvmvulu1fNvTz-fpLt67b464cfV6fBXnbDMuRtK2wG4pU2cpDj8AZZJiqbO3SbPM9BiqwwEMSPk2Yv7eBWCnHeYJEGkPpZzNbxXm0D0N3Evh9lBECMF44ELUmBCJjLR-U2WiBUTY9enyE10jTEOeK3_Lnq5CHHFPUkINY64WKVP-dpmUBSuG3FeH585NcqX8JGxP41xRSvCXGDo69viEIxDGHW-CIX3hCPi1y4KpSw6NeCvSYreJh4HeXCF0ilEaSDJESjhxkO-dUT2M-4IBcV-7fcFZfAbVk4Uib3Gma2iGPUpGXarJlDJE9o-JioSMRKi-xgYIReokPPYkzS5MAcxgEKk_bKx9XAgd-VYn7Lm3zF7FCLhajD0dMje8GzMb9FQgQ0XdRFmlcxrqokrjDHOxC4wpZOD8KG9NGx8RXJqRyrmPFmtYGLZOrgKuHiKUunDGkelc41SscsIiDT6bGtFO_GeGymbhaAi7kWO55eACKc2l8wl97WSR6xI91TUAmJVZsJrm8a0ZapcmPOPL6iY4QY_nTtztt3MCd6H60N9CKKl2FZlO3gsX2Hdlm2LYkl7J93H6BpgelXDcvQgP43w6JIgA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRDDlzVTkoo0e6It8UaLGgmtvr4oerRLzh5tHMTQyFdq0Oo6wTue0RxuO4z4xm9n9n-R2et4Q3y6rOIL_XQ7OlVG-hRo0EUQ_7KfxIszxGP30uGeiEDZ53a",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "MSI GeForce RTX 5050 SHADOW 2X OC Graphics Card",
+      "rating": 4.6,
+      "reviews": 23,
+      "price": "$299.00",
+      "extracted_price": 299.0,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "rZ4hsXicbZPLjqNGFIaVZ8nSm7pwMdnZ5mLoptwUpsC1GQGFAVPYDNhtbOUd8gqReybSzHImUp6l8yRZhkjZJYuzOf_R_-n8R-eXR1H_YRvaPb084Y3hoO4cvMyfM2NYRF-6_iQu-bkW33UFG4o2NxBSka5qUNH0L3l6TuWp_EedK0CbKyrC2hxhRcOK_q0qUiHrY7HZ74vePOW1-B2qGsDA0CFGCAIAkW5oX-s2LYt_daCrGOk6UpQ50FR9wqlvvRjewcvqg6FqE1mf7DGeRlSAfn6hG_PD_0qfP16K_vb-4_nUzco-7ao6H2Z5OnnN9qd-BhUFTELa1sfyc9lN7G__9Xhra_HrW_d6flTlp8tFFu_mdbZauIG7cnuG7HvqyAvH9DWrRyu4LU6hYx954t2FY-CpR-iqGVisdsJhjWsTsEuozK-PUj4uw6OSj-L42yntXvf5nz_8Zb3mq1Wfr4Ko65hJwdYZbzkTqWh3MIr4lSbemNkWSttqiA_sOYvgSE3P9Bt7nUveciwqKg2NIfUS3m03aIdzJrshk164tWnCLBmR1l6yhN52DfHzhLgUudeIdSBfQbew6RhEXpBBA-wkk3wtQGrz2LeEmybkmrVEhq2Fw6M30hiaBEY3jn112unkO65KEO9pZHR-6zWxbbcMWGqEjLsPjX1ew-c4tkMBRhrgJeOJ8IIjeeGWMZBmHP2W1REW48Qdpgq2mGiR1eDMOrfEJH0CpEaT6rqNKrg7sIOwWZhHcvRtug7X_IneKctb1jGr2orDUo2d6R6yI8SBLYtF6yfLkQDo8DZXqeSEIq6kFnuOGN3wJFI3zGDcFn3RyE14rz7yg7Row5cEeHF2XLppXPlBxMe4AaENdio5dpWIhvv2Ltf-cQkitlC2UwY5sJlTe0u6JrdNzClvzjhoSc2Yi8Rd0k0iX7dTHgKUZwI95q8p_jQO_f4dLGz1HG5UM99dfby2hnKfwyrMUsVsRfBkFuvyJ6gbAOpIM7Tp1_4G6EQ8yQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=rZ4hsXicbZPLjqNGFIaVZ8nSm7pwMdnZ5mLoptwUpsC1GQGFAVPYDNhtbOUd8gqReybSzHImUp6l8yRZhkjZJYuzOf_R_-n8R-eXR1H_YRvaPb084Y3hoO4cvMyfM2NYRF-6_iQu-bkW33UFG4o2NxBSka5qUNH0L3l6TuWp_EedK0CbKyrC2hxhRcOK_q0qUiHrY7HZ74vePOW1-B2qGsDA0CFGCAIAkW5oX-s2LYt_daCrGOk6UpQ50FR9wqlvvRjewcvqg6FqE1mf7DGeRlSAfn6hG_PD_0qfP16K_vb-4_nUzco-7ao6H2Z5OnnN9qd-BhUFTELa1sfyc9lN7G__9Xhra_HrW_d6flTlp8tFFu_mdbZauIG7cnuG7HvqyAvH9DWrRyu4LU6hYx954t2FY-CpR-iqGVisdsJhjWsTsEuozK-PUj4uw6OSj-L42yntXvf5nz_8Zb3mq1Wfr4Ko65hJwdYZbzkTqWh3MIr4lSbemNkWSttqiA_sOYvgSE3P9Bt7nUveciwqKg2NIfUS3m03aIdzJrshk164tWnCLBmR1l6yhN52DfHzhLgUudeIdSBfQbew6RhEXpBBA-wkk3wtQGrz2LeEmybkmrVEhq2Fw6M30hiaBEY3jn112unkO65KEO9pZHR-6zWxbbcMWGqEjLsPjX1ew-c4tkMBRhrgJeOJ8IIjeeGWMZBmHP2W1REW48Qdpgq2mGiR1eDMOrfEJH0CpEaT6rqNKrg7sIOwWZhHcvRtug7X_IneKctb1jGr2orDUo2d6R6yI8SBLYtF6yfLkQDo8DZXqeSEIq6kFnuOGN3wJFI3zGDcFn3RyE14rz7yg7Row5cEeHF2XLppXPlBxMe4AaENdio5dpWIhvv2Ltf-cQkitlC2UwY5sJlTe0u6JrdNzClvzjhoSc2Yi8Rd0k0iX7dTHgKUZwI95q8p_jQO_f4dLGz1HG5UM99dfby2hnKfwyrMUsVsRfBkFuvyJ6gbAOpIM7Tp1_4G6EQ8yQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSQ4gzYHwEHx8njLYqtLeFoY6PpdWCIbIaPydri3sXXVmtBhrvmjUDbzCDquaq9HLKSRAp-ktAeBCFOyq_-JZkiOk4rB0_vFjMPKN6WSELJLPVnTrb-nKfI",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTW7_VZtyG9u9U6EhVcj6pwyveSs1S81nIt6UQvfYbK8PAAlBg7T4Rp0A4_o2UaZlqSUNB544M4-S9lJqIoQ5shmYbKYxAcsVx2",
+      "source": "bhphotovideo.com",
+      "title": "ASUS Radeon RX 9070 XT Prime OC White Graphics Card",
+      "rating": 5.0,
+      "reviews": 3,
+      "price": "$849.99",
+      "extracted_price": 849.99,
+      "immersive_product_page_token": "74Mx0HicdZE5ruNGFEXhtThUUsWx6UwSVRz0WfziUBySRrFIcabqkxooovfgLTTU3QbaoWHAa_leiUPLgNNOXvDOue8F99dHUf-FNGWhl73oaobAz4fXDy-ZNq3D73w85Rd2rvM_oaDKmqKqACiCAFWoaFD4zuiZdqeyzj__URU07-qhcI_HYtRP7AeR3-uelsX_HEJNVQRJkIAqwKf1Aahfxnx6l163H6GgAVmCkiaIQJKfqqCqn149V__4A_jt7VKM9_efzye-KkfKq5pNK0af91bH07iCkgSegPb1UH4r-fP_5y_9f4Nfz4-q_Hq5dMW7fltt19bB2lojEdBCje6Sit41q-fd4b4--QYa0theckMTnzvsbduJRDLPDdJaCIMk9jp2e5Td4zI9qu5RDL-dKL8e2d8__bO7su12ZNtDyDnRPeBHTHYQnsMl34dh90YHBBKxwmTJd5kxvwW6J3qDJ7Bdun-Juz1tOoMR8hLttJkMHODgIHkRVHyRm2njyNnizFHfVYx4Lhty4gbIpDomTgvbLOanEGGTggq8RCmnPUKuuV5iEY84ut1xg3mhd2-e2dlJC7dZZE8HQqCjV66D0Cvp8RWHMw-jM4iB5_oLgbmO7xlAFo2rEQvejejJPezxkMS2kJm7OQxLmeoWCEwGMpDjqNlYNKhugVCJDszTXOQzQfwS6dWchdxNxM5LYIXDACdBg-S0rcQc2Wc_8I504H3YVNEhRHah230QaoYfkyY1ZCVpLNHbzRVZrBvpWoEiJiRLCoMWRxFJxaIGMiHILfpkwY29j5p8DgRuuqZtevFmysRUPsA0YiS_FwPzny3IeOBVHk5LsHSmM2xASNZSYFgyA4gYtb3xTHx3ozQMW5SSvrMZsE9504Io3kgx5E4aVygzNJr60Ps6T-PxHayRfPZdWWfJzRHN3VQeGaz8jEp6nx_2emGWv0BVA1AVFE2RgPIvy2k2RA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=74Mx0HicdZE5ruNGFEXhtThUUsWx6UwSVRz0WfziUBySRrFIcabqkxooovfgLTTU3QbaoWHAa_leiUPLgNNOXvDOue8F99dHUf-FNGWhl73oaobAz4fXDy-ZNq3D73w85Rd2rvM_oaDKmqKqACiCAFWoaFD4zuiZdqeyzj__URU07-qhcI_HYtRP7AeR3-uelsX_HEJNVQRJkIAqwKf1Aahfxnx6l163H6GgAVmCkiaIQJKfqqCqn149V__4A_jt7VKM9_efzye-KkfKq5pNK0af91bH07iCkgSegPb1UH4r-fP_5y_9f4Nfz4-q_Hq5dMW7fltt19bB2lojEdBCje6Sit41q-fd4b4--QYa0theckMTnzvsbduJRDLPDdJaCIMk9jp2e5Td4zI9qu5RDL-dKL8e2d8__bO7su12ZNtDyDnRPeBHTHYQnsMl34dh90YHBBKxwmTJd5kxvwW6J3qDJ7Bdun-Juz1tOoMR8hLttJkMHODgIHkRVHyRm2njyNnizFHfVYx4Lhty4gbIpDomTgvbLOanEGGTggq8RCmnPUKuuV5iEY84ut1xg3mhd2-e2dlJC7dZZE8HQqCjV66D0Cvp8RWHMw-jM4iB5_oLgbmO7xlAFo2rEQvejejJPezxkMS2kJm7OQxLmeoWCEwGMpDjqNlYNKhugVCJDszTXOQzQfwS6dWchdxNxM5LYIXDACdBg-S0rcQc2Wc_8I504H3YVNEhRHah230QaoYfkyY1ZCVpLNHbzRVZrBvpWoEiJiRLCoMWRxFJxaIGMiHILfpkwY29j5p8DgRuuqZtevFmysRUPsA0YiS_FwPzny3IeOBVHk5LsHSmM2xASNZSYFgyA4gYtb3xTHx3ozQMW5SSvrMZsE9504Io3kgx5E4aVygzNJr60Ps6T-PxHayRfPZdWWfJzRHN3VQeGaz8jEp6nx_2emGWv0BVA1AVFE2RgPIvy2k2RA"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is rtx 4090 overkill for 1440p?",
+      "type": "ai_overview",
+      "page_token": "Jxj8EXicHdDBboIwAIDh7GU8jlbETROzjEkBpxBqW6SXBVsVpEA3UJDb3mVPtaeZ2fm_fPm_f1ReFb8P16xtdTM3jK7rHk91fVKHR1GXRtrcKmGIVKl9Kor59GkKX45i4Vx8--3TtyOqNVtisFUKBGbSHdBsQpfITXboGpMAM-_e0MaKANNcSZBS6OCK23wXKDbu9aacVVhRuKeZDqnMsZP0Iu6b0AtiAe1yW0AgTG3FrhwfPFkLE4O0DHhUqWsE2g1BdkOLVUg8PI7dVZO6updmhgmFFiv6kpt-K4vWj2nWiLgwKXodxBj0nOF3ZurzmgQuLR3A0cwXLlR7IrcJ6Csnk25I-DTZsfUGPFt4WHUSoSh0-jzcBTbDdR5RPIizKpkDO7JEl5A5A4Vq2Hqru1ZMYsQunARn4eob70ZHcV2Yo_-fi49j2c71V336Axchgjw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Jxj8EXicHdDBboIwAIDh7GU8jlbETROzjEkBpxBqW6SXBVsVpEA3UJDb3mVPtaeZ2fm_fPm_f1ReFb8P16xtdTM3jK7rHk91fVKHR1GXRtrcKmGIVKl9Kor59GkKX45i4Vx8--3TtyOqNVtisFUKBGbSHdBsQpfITXboGpMAM-_e0MaKANNcSZBS6OCK23wXKDbu9aacVVhRuKeZDqnMsZP0Iu6b0AtiAe1yW0AgTG3FrhwfPFkLE4O0DHhUqWsE2g1BdkOLVUg8PI7dVZO6updmhgmFFiv6kpt-K4vWj2nWiLgwKXodxBj0nOF3ZurzmgQuLR3A0cwXLlR7IrcJ6Csnk25I-DTZsfUGPFt4WHUSoSh0-jzcBTbDdR5RPIizKpkDO7JEl5A5A4Vq2Hqru1ZMYsQunARn4eob70ZHcV2Yo_-fi49j2c71V336Axchgjw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVqRnZOVnBVWjJscFprRmxjVEZXU2t4YU5sQTJTMWRsV25KSWJGcHpialE1V2trM1luVkVaSFJDUzNwb09HdG9aVXh6YTJkMlpEWnhlRloxYTJZNVVsbGhURkp3VG1kQlZESk1NR2xZVUY5VFEweGhlWGRYZW1ScVp4SVhSamsyZW1GMVN6TlBPVWN5Y0hSUlVEaE1Zamx6UVZVYUlrRkVjM0k1WmxOTmJYUk9iWEF4TnpCaGVWZDNZVVI2YUVKMGVITm9halp6YVZFIiwiZmN2IjoiMyIsImVpIjoiRjk2emF1SzNPOUcycHRRUDhMYjlzQVUiLCJxYyI6IkNpTjBiM0FnWjNKaGNHaHBZM01nWTJGeVpITWdabTl5SURFME5EQndJR2RoYldsdVp4QUFmWTBVQ1Q4IiwicXVlc3Rpb24iOiJJcyBydHggNDA5MCBvdmVya2lsbCBmb3IgMTQ0MHA/IiwibGsiOiJHaDVwY3lCeWRIZ2dOREE1TUNCdmRtVnlhMmxzYkNCbWIzSWdNVFEwTUhBIiwiYnMiOiJjMzNPT3d2Q01CUUZZRnp2NUZ4ZmQxUUhpYUdLRGxMRVFSMEVLV3BkbzQxdHNDX1N0UHJ6YlZwRlJPaDh2blB1aFJYMHRpbEs5VVNUekFuR09aZDNFUVI0aXlXT1RaTWtGa1dqSzJvSkxLQmRqQ2lmbzMwNDQ0VE1DTElxd3ZYLWFOR08wUkpWcmxkLWNpX0p3SWFSNHpPRmIzUGhxZEs5N3dIMFdDZ2lEMFdFbE5CcC1WS3BpdmFfMGdRY0dHemlCNGJaMWNlVHZkenA4WWh6bDd0X0JZc09qYjdfd2Jsa1lRMXVObDQiLCJpZCI6ImZjX0Y5NnphdUszTzlHMnB0UVA4TGI5c0FVXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVqRnZOVnBVWjJscFprRmxjVEZXU2t4YU5sQTJTMWRsV25KSWJGcHpialE1V2trM1luVkVaSFJDUzNwb09HdG9aVXh6YTJkMlpEWnhlRloxYTJZNVVsbGhURkp3VG1kQlZESk1NR2xZVUY5VFEweGhlWGRYZW1ScVp4SVhSamsyZW1GMVN6TlBPVWN5Y0hSUlVEaE1Zamx6UVZVYUlrRkVjM0k1WmxOTmJYUk9iWEF4TnpCaGVWZDNZVVI2YUVKMGVITm9halp6YVZFIiwiZmN2IjoiMyIsImVpIjoiRjk2emF1SzNPOUcycHRRUDhMYjlzQVUiLCJxYyI6IkNpTjBiM0FnWjNKaGNHaHBZM01nWTJGeVpITWdabTl5SURFME5EQndJR2RoYldsdVp4QUFmWTBVQ1Q4IiwicXVlc3Rpb24iOiJJcyBydHggNDA5MCBvdmVya2lsbCBmb3IgMTQ0MHA%2FIiwibGsiOiJHaDVwY3lCeWRIZ2dOREE1TUNCdmRtVnlhMmxzYkNCbWIzSWdNVFEwTUhBIiwiYnMiOiJjMzNPT3d2Q01CUUZZRnp2NUZ4ZmQxUUhpYUdLRGxMRVFSMEVLV3BkbzQxdHNDX1N0UHJ6YlZwRlJPaDh2blB1aFJYMHRpbEs5VVNUekFuR09aZDNFUVI0aXlXT1RaTWtGa1dqSzJvSkxLQmRqQ2lmbzMwNDQ0VE1DTElxd3ZYLWFOR08wUkpWcmxkLWNpX0p3SWFSNHpPRmIzUGhxZEs5N3dIMFdDZ2lEMFdFbE5CcC1WS3BpdmFfMGdRY0dHemlCNGJaMWNlVHZkenA4WWh6bDd0X0JZc09qYjdfd2Jsa1lRMXVObDQiLCJpZCI6ImZjX0Y5NnphdUszTzlHMnB0UVA4TGI5c0FVXzUifQ%3D%3D"
+    },
+    {
+      "question": "Is the RTX 5080 a 1440p GPU?",
+      "type": "ai_overview",
+      "page_token": "i1QF_nicHdBdboIwAADg7DI-Coi4aGKWoS2ItgSk5edlgfKnFGgGG9i33WWn2mm27ARf8n1981vX_DxF9TiKYaco0zQtq76veLFkfaukw6NjCks5z1LW7DbPG-2lZHswTOahn0yPCEGPvnrltZ5o2GM2XqcSXy7E6FM1oTk0MT6aZdyIObColtgcZXzbMCrcMKyTlAA95DiJZXLIGn8VNNOUqrOBIB5DuzYLyGXWzgEC3oTvXLLOn3EbSzcyz8FKWMGf7dqeRAS2uDvNPkiGDAiCOtwWV-2Qg7pHFo8y7aQju1Ixz2FInI-YeleoxgbuRJ2TQQaS26gzVUJf14F1MpgKqXVzTN_GDzdMAhLRPmvzsWgNznQH5A2Z0T0_IxiPsXQoAVt9UbLPvb74H9u_le24E-999QsW9HnC",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=i1QF_nicHdBdboIwAADg7DI-Coi4aGKWoS2ItgSk5edlgfKnFGgGG9i33WWn2mm27ARf8n1981vX_DxF9TiKYaco0zQtq76veLFkfaukw6NjCks5z1LW7DbPG-2lZHswTOahn0yPCEGPvnrltZ5o2GM2XqcSXy7E6FM1oTk0MT6aZdyIObColtgcZXzbMCrcMKyTlAA95DiJZXLIGn8VNNOUqrOBIB5DuzYLyGXWzgEC3oTvXLLOn3EbSzcyz8FKWMGf7dqeRAS2uDvNPkiGDAiCOtwWV-2Qg7pHFo8y7aQju1Ixz2FInI-YeleoxgbuRJ2TQQaS26gzVUJf14F1MpgKqXVzTN_GDzdMAhLRPmvzsWgNznQH5A2Z0T0_IxiPsXQoAVt9UbLPvb74H9u_le24E-999QsW9HnC",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVqRnZOVnBVWjJscFprRmxjVEZXU2t4YU5sQTJTMWRsV25KSWJGcHpialE1V2trM1luVkVaSFJDUzNwb09HdG9aVXh6YTJkMlpEWnhlRloxYTJZNVVsbGhURkp3VG1kQlZESk1NR2xZVUY5VFEweGhlWGRYZW1ScVp4SVhSamsyZW1GMVN6TlBPVWN5Y0hSUlVEaE1Zamx6UVZVYUlrRkVjM0k1WmxOTmJYUk9iWEF4TnpCaGVWZDNZVVI2YUVKMGVITm9halp6YVZFIiwiZmN2IjoiMyIsImVpIjoiRjk2emF1SzNPOUcycHRRUDhMYjlzQVUiLCJxYyI6IkNpTjBiM0FnWjNKaGNHaHBZM01nWTJGeVpITWdabTl5SURFME5EQndJR2RoYldsdVp4QUFmWTBVQ1Q4IiwicXVlc3Rpb24iOiJJcyB0aGUgUlRYIDUwODAgYSAxNDQwcCBHUFU/IiwibGsiOiJHaHRwY3lCMGFHVWdjblI0SURVd09EQWdZU0F4TkRRd2NDQm5jSFUiLCJicyI6ImMzM09Pd3ZDTUJRRllGenY1RnhmZDFRSGlhR0tEbExFUVIwRUtXcGRvNDF0c0NfU3RQcnpiVnBGUk9oOHZuUHVoUlgwdGlsSzlVU1R6QW5HT1pkM0VRUjRpeVdPVFpNa0ZrV2pLMm9KTEtCZGpDaWZvMzA0NDRUTUNMSXF3dlgtYU5HTzBSSlZybGQtY2lfSndJYVI0ek9GYjNQaHFkSzk3d0gwV0NnaUQwV0VsTkJwLVZLcGl2YV8wZ1FjR0d6aUI0YloxY2VUdmR6cDhZaHpsN3RfQllzT2piN193YmxrWVExdU5sNCIsImlkIjoiZmNfRjk2emF1SzNPOUcycHRRUDhMYjlzQVVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVqRnZOVnBVWjJscFprRmxjVEZXU2t4YU5sQTJTMWRsV25KSWJGcHpialE1V2trM1luVkVaSFJDUzNwb09HdG9aVXh6YTJkMlpEWnhlRloxYTJZNVVsbGhURkp3VG1kQlZESk1NR2xZVUY5VFEweGhlWGRYZW1ScVp4SVhSamsyZW1GMVN6TlBPVWN5Y0hSUlVEaE1Zamx6UVZVYUlrRkVjM0k1WmxOTmJYUk9iWEF4TnpCaGVWZDNZVVI2YUVKMGVITm9halp6YVZFIiwiZmN2IjoiMyIsImVpIjoiRjk2emF1SzNPOUcycHRRUDhMYjlzQVUiLCJxYyI6IkNpTjBiM0FnWjNKaGNHaHBZM01nWTJGeVpITWdabTl5SURFME5EQndJR2RoYldsdVp4QUFmWTBVQ1Q4IiwicXVlc3Rpb24iOiJJcyB0aGUgUlRYIDUwODAgYSAxNDQwcCBHUFU%2FIiwibGsiOiJHaHRwY3lCMGFHVWdjblI0SURVd09EQWdZU0F4TkRRd2NDQm5jSFUiLCJicyI6ImMzM09Pd3ZDTUJRRllGenY1RnhmZDFRSGlhR0tEbExFUVIwRUtXcGRvNDF0c0NfU3RQcnpiVnBGUk9oOHZuUHVoUlgwdGlsSzlVU1R6QW5HT1pkM0VRUjRpeVdPVFpNa0ZrV2pLMm9KTEtCZGpDaWZvMzA0NDRUTUNMSXF3dlgtYU5HTzBSSlZybGQtY2lfSndJYVI0ek9GYjNQaHFkSzk3d0gwV0NnaUQwV0VsTkJwLVZLcGl2YV8wZ1FjR0d6aUI0YloxY2VUdmR6cDhZaHpsN3RfQllzT2piN193YmxrWVExdU5sNCIsImlkIjoiZmNfRjk2emF1SzNPOUcycHRRUDhMYjlzQVVfNSJ9"
+    },
+    {
+      "question": "What is the best GPU for 1440p gaming in 2026?",
+      "type": "ai_overview",
+      "page_token": "Ujav-HicHdBNcpswGADQ6WWyjPkxtPGMJ1OKRAYHEQm-T1ibDohgbAtDY2Jsdr1Cz5BT9TTNdPuW7_eH2Z-Of7_8acdxOK8Wi2ma7nd9vzOv97rvFuX5dtILXRpTlfq48r_69mOj1-Sigx9vOuAwDBgKK5O4SQtMUcaRPtAls1SQP1GfO6zLXWWVgE1m-huT3j4PTVoTz3-N4nFrs3cI2zaV4xbldStgeEbXOIDxBRw8C_Jprp4rosoqGkJ-NCkYylhBY-ZyV0dXDpRlSISR5uEd4cGTRLSQ1yk6IpegNqKgDOn3ZeKgh503MbDt5IB-RQOLoV7yE4oyZL9KB6yEmE11ZCG3hZ9Jz68PLIOTwLxTpiTXWYHtkraO0lz52wKfE-ubJ-Z4qinlKbnu04IFKPo9BzHrg-nwSb0kM21qq3a5ZXdAjeDS-zTlJQCugOVNTXeNvqzdu__X659NN66Gt373D5z6iP0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ujav-HicHdBNcpswGADQ6WWyjPkxtPGMJ1OKRAYHEQm-T1ibDohgbAtDY2Jsdr1Cz5BT9TTNdPuW7_eH2Z-Of7_8acdxOK8Wi2ma7nd9vzOv97rvFuX5dtILXRpTlfq48r_69mOj1-Sigx9vOuAwDBgKK5O4SQtMUcaRPtAls1SQP1GfO6zLXWWVgE1m-huT3j4PTVoTz3-N4nFrs3cI2zaV4xbldStgeEbXOIDxBRw8C_Jprp4rosoqGkJ-NCkYylhBY-ZyV0dXDpRlSISR5uEd4cGTRLSQ1yk6IpegNqKgDOn3ZeKgh503MbDt5IB-RQOLoV7yE4oyZL9KB6yEmE11ZCG3hZ9Jz68PLIOTwLxTpiTXWYHtkraO0lz52wKfE-ubJ-Z4qinlKbnu04IFKPo9BzHrg-nwSb0kM21qq3a5ZXdAjeDS-zTlJQCugOVNTXeNvqzdu__X659NN66Gt373D5z6iP0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVqRnZOVnBVWjJscFprRmxjVEZXU2t4YU5sQTJTMWRsV25KSWJGcHpialE1V2trM1luVkVaSFJDUzNwb09HdG9aVXh6YTJkMlpEWnhlRloxYTJZNVVsbGhURkp3VG1kQlZESk1NR2xZVUY5VFEweGhlWGRYZW1ScVp4SVhSamsyZW1GMVN6TlBPVWN5Y0hSUlVEaE1Zamx6UVZVYUlrRkVjM0k1WmxOTmJYUk9iWEF4TnpCaGVWZDNZVVI2YUVKMGVITm9halp6YVZFIiwiZmN2IjoiMyIsImVpIjoiRjk2emF1SzNPOUcycHRRUDhMYjlzQVUiLCJxYyI6IkNpTjBiM0FnWjNKaGNHaHBZM01nWTJGeVpITWdabTl5SURFME5EQndJR2RoYldsdVp4QUFmWTBVQ1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IEdQVSBmb3IgMTQ0MHAgZ2FtaW5nIGluIDIwMjY/IiwibGsiOiJHaDVpWlhOMElHZHdkU0JtYjNJZ01UUTBNSEFnWjJGdGFXNW5JREl3TWpZIiwiYnMiOiJjMzNPT3d2Q01CUUZZRnp2NUZ4ZmQxUUhpYUdLRGxMRVFSMEVLV3BkbzQxdHNDX1N0UHJ6YlZwRlJPaDh2blB1aFJYMHRpbEs5VVNUekFuR09aZDNFUVI0aXlXT1RaTWtGa1dqSzJvSkxLQmRqQ2lmbzMwNDQ0VE1DTElxd3ZYLWFOR08wUkpWcmxkLWNpX0p3SWFSNHpPRmIzUGhxZEs5N3dIMFdDZ2lEMFdFbE5CcC1WS3BpdmFfMGdRY0dHemlCNGJaMWNlVHZkenA4WWh6bDd0X0JZc09qYjdfd2Jsa1lRMXVObDQiLCJpZCI6ImZjX0Y5NnphdUszTzlHMnB0UVA4TGI5c0FVXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVqRnZOVnBVWjJscFprRmxjVEZXU2t4YU5sQTJTMWRsV25KSWJGcHpialE1V2trM1luVkVaSFJDUzNwb09HdG9aVXh6YTJkMlpEWnhlRloxYTJZNVVsbGhURkp3VG1kQlZESk1NR2xZVUY5VFEweGhlWGRYZW1ScVp4SVhSamsyZW1GMVN6TlBPVWN5Y0hSUlVEaE1Zamx6UVZVYUlrRkVjM0k1WmxOTmJYUk9iWEF4TnpCaGVWZDNZVVI2YUVKMGVITm9halp6YVZFIiwiZmN2IjoiMyIsImVpIjoiRjk2emF1SzNPOUcycHRRUDhMYjlzQVUiLCJxYyI6IkNpTjBiM0FnWjNKaGNHaHBZM01nWTJGeVpITWdabTl5SURFME5EQndJR2RoYldsdVp4QUFmWTBVQ1Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IEdQVSBmb3IgMTQ0MHAgZ2FtaW5nIGluIDIwMjY%2FIiwibGsiOiJHaDVpWlhOMElHZHdkU0JtYjNJZ01UUTBNSEFnWjJGdGFXNW5JREl3TWpZIiwiYnMiOiJjMzNPT3d2Q01CUUZZRnp2NUZ4ZmQxUUhpYUdLRGxMRVFSMEVLV3BkbzQxdHNDX1N0UHJ6YlZwRlJPaDh2blB1aFJYMHRpbEs5VVNUekFuR09aZDNFUVI0aXlXT1RaTWtGa1dqSzJvSkxLQmRqQ2lmbzMwNDQ0VE1DTElxd3ZYLWFOR08wUkpWcmxkLWNpX0p3SWFSNHpPRmIzUGhxZEs5N3dIMFdDZ2lEMFdFbE5CcC1WS3BpdmFfMGdRY0dHemlCNGJaMWNlVHZkenA4WWh6bDd0X0JZc09qYjdfd2Jsa1lRMXVObDQiLCJpZCI6ImZjX0Y5NnphdUszTzlHMnB0UVA4TGI5c0FVXzUifQ%3D%3D"
+    },
+    {
+      "question": "How much VRAM is needed for 1440p gaming?",
+      "type": "ai_overview",
+      "page_token": "jnbJWXicHdBNcoIwGADQ6WVcagCx6ozTGSqgVEMT-YKw6UCCIuEnrSjirnfpqXqaOr3AW7zvn_JUy9-na9626jwfjbquGx6b5lhmQ95Uo-Tc13zEk7JMEy7nk-eJ9nLgC_uytl4_1xYBpdiSop1U43QvIKriPLS1KGOWkzp4zZEwAKYmuLTdozHCq1xFJ63ybTPcOrgnRW5FUt1Y5WHq4kMAjg_SvCRSLXGt4GGxQFM9XVlWgriRSdVh_YZZ4Z2JIfBWj88CsShiCnFdTRLwwsTO37Kw7YJKdTxYj0E3x1k52zA5I0FRVqK0ahIwL3PzHddzV7i0ZjqYRIp3FmpX0BW1c-H6QTyJ9myzRVOT3r1OOA7x7dvJ32OL0eZEgN75w4M76-PKWQUr5qZFqW8NRRnMjFTeukTGfVYAAjI48OvCGPx_Lj4OVTtXX83xD3Dpgs0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jnbJWXicHdBNcoIwGADQ6WVcagCx6ozTGSqgVEMT-YKw6UCCIuEnrSjirnfpqXqaOr3AW7zvn_JUy9-na9626jwfjbquGx6b5lhmQ95Uo-Tc13zEk7JMEy7nk-eJ9nLgC_uytl4_1xYBpdiSop1U43QvIKriPLS1KGOWkzp4zZEwAKYmuLTdozHCq1xFJ63ybTPcOrgnRW5FUt1Y5WHq4kMAjg_SvCRSLXGt4GGxQFM9XVlWgriRSdVh_YZZ4Z2JIfBWj88CsShiCnFdTRLwwsTO37Kw7YJKdTxYj0E3x1k52zA5I0FRVqK0ahIwL3PzHddzV7i0ZjqYRIp3FmpX0BW1c-H6QTyJ9myzRVOT3r1OOA7x7dvJ32OL0eZEgN75w4M76-PKWQUr5qZFqW8NRRnMjFTeukTGfVYAAjI48OvCGPx_Lj4OVTtXX83xD3Dpgs0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVqRnZOVnBVWjJscFprRmxjVEZXU2t4YU5sQTJTMWRsV25KSWJGcHpialE1V2trM1luVkVaSFJDUzNwb09HdG9aVXh6YTJkMlpEWnhlRloxYTJZNVVsbGhURkp3VG1kQlZESk1NR2xZVUY5VFEweGhlWGRYZW1ScVp4SVhSamsyZW1GMVN6TlBPVWN5Y0hSUlVEaE1Zamx6UVZVYUlrRkVjM0k1WmxOTmJYUk9iWEF4TnpCaGVWZDNZVVI2YUVKMGVITm9halp6YVZFIiwiZmN2IjoiMyIsImVpIjoiRjk2emF1SzNPOUcycHRRUDhMYjlzQVUiLCJxYyI6IkNpTjBiM0FnWjNKaGNHaHBZM01nWTJGeVpITWdabTl5SURFME5EQndJR2RoYldsdVp4QUFmWTBVQ1Q4IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBWUkFNIGlzIG5lZWRlZCBmb3IgMTQ0MHAgZ2FtaW5nPyIsImxrIjoiR2lob2IzY2diWFZqYUNCMmNtRnRJR2x6SUc1bFpXUmxaQ0JtYjNJZ01UUTBNSEFnWjJGdGFXNW4iLCJicyI6ImMzM09Pd3ZDTUJRRllGenY1RnhmZDFRSGlhR0tEbExFUVIwRUtXcGRvNDF0c0NfU3RQcnpiVnBGUk9oOHZuUHVoUlgwdGlsSzlVU1R6QW5HT1pkM0VRUjRpeVdPVFpNa0ZrV2pLMm9KTEtCZGpDaWZvMzA0NDRUTUNMSXF3dlgtYU5HTzBSSlZybGQtY2lfSndJYVI0ek9GYjNQaHFkSzk3d0gwV0NnaUQwV0VsTkJwLVZLcGl2YV8wZ1FjR0d6aUI0YloxY2VUdmR6cDhZaHpsN3RfQllzT2piN193YmxrWVExdU5sNCIsImlkIjoiZmNfRjk2emF1SzNPOUcycHRRUDhMYjlzQVVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWVqRnZOVnBVWjJscFprRmxjVEZXU2t4YU5sQTJTMWRsV25KSWJGcHpialE1V2trM1luVkVaSFJDUzNwb09HdG9aVXh6YTJkMlpEWnhlRloxYTJZNVVsbGhURkp3VG1kQlZESk1NR2xZVUY5VFEweGhlWGRYZW1ScVp4SVhSamsyZW1GMVN6TlBPVWN5Y0hSUlVEaE1Zamx6UVZVYUlrRkVjM0k1WmxOTmJYUk9iWEF4TnpCaGVWZDNZVVI2YUVKMGVITm9halp6YVZFIiwiZmN2IjoiMyIsImVpIjoiRjk2emF1SzNPOUcycHRRUDhMYjlzQVUiLCJxYyI6IkNpTjBiM0FnWjNKaGNHaHBZM01nWTJGeVpITWdabTl5SURFME5EQndJR2RoYldsdVp4QUFmWTBVQ1Q4IiwicXVlc3Rpb24iOiJIb3cgbXVjaCBWUkFNIGlzIG5lZWRlZCBmb3IgMTQ0MHAgZ2FtaW5nPyIsImxrIjoiR2lob2IzY2diWFZqYUNCMmNtRnRJR2x6SUc1bFpXUmxaQ0JtYjNJZ01UUTBNSEFnWjJGdGFXNW4iLCJicyI6ImMzM09Pd3ZDTUJRRllGenY1RnhmZDFRSGlhR0tEbExFUVIwRUtXcGRvNDF0c0NfU3RQcnpiVnBGUk9oOHZuUHVoUlgwdGlsSzlVU1R6QW5HT1pkM0VRUjRpeVdPVFpNa0ZrV2pLMm9KTEtCZGpDaWZvMzA0NDRUTUNMSXF3dlgtYU5HTzBSSlZybGQtY2lfSndJYVI0ek9GYjNQaHFkSzk3d0gwV0NnaUQwV0VsTkJwLVZLcGl2YV8wZ1FjR0d6aUI0YloxY2VUdmR6cDhZaHpsN3RfQllzT2piN193YmxrWVExdU5sNCIsImlkIjoiZmNfRjk2emF1SzNPOUcycHRRUDhMYjlzQVVfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "gjPiu3iczVXbbuo4FP2A-Y7JSwsJSaCkUnRkuyE14dJAub6g3DCXhEAMBPp2_mW-aqT5l3HCpaEH2jNnpNFYysWOvfZe9l5Z3__wp4v5n7_9NVmvl_SR5-M4zpMwJL6Xd8KAt-h-4fDj0KeRM_lGfHVDuc3G99T4DgFsYoSjrlh5s3R_M5RaW3u608w9CNt6ZTHsV99cXZHYWKOF5rTbKy5dvTvHlYYw6Ld8J-YmvuotuP1WlTiHqgLnTdWKUnqzNobUVHRxuTZfyjVboaDDpYmoI9ui3ozluZtRfsSz2_x36Yl18jTvLfJmVRwOgGO3bC0vCgUl3-StgE0A_10zEdAAIBCzd3hzEpvxM2CQITCgeWYIH1dmsAcAJXjYTHvoBjJJ0RIADJMF7DEaRjIExgkLxjcTQdl4rJOE0lBKJGU6_Rk2GQ5J086Y6NPZ1_gcEFh47TRSz3zVwI2GPlRCh6GXQR2DyXHgw4lpYbZXTW5Ph_BjIMea3Kp8mjnbnU4Miwb48rgroLUgR1IYrdlKyLuEVa7A2xF7FPipM3HSl4gmBY1eFSF8ftLaJau-GM4n0n7nx0JtF8oDQykbEuAdm83zQ8v13NFkJHxL-wWxUBQU6aF8nyrJoWcp0ayUgKFLimCtHsR6vpaHhZOO0HnnPxxZUgsIXyEG0XHqxYLjbhD4Pv6-83MtewrGYU-SvRQxOMdPl5ilw1GfT_UFA0hw4yKB4zNZd01HFwmlOkqLO0krPGeXZUaYjM4JZlnVr-r945j5fM4Awx8mkkwsDDFhtM0zfLahpMrxJPnYYZtcI0cFOplSgw2omeAEgE5ME-ZIPxPTshS1bJgpQ0qFMWuDpPpX1eSMYQKIDitOsu-Aw3CGzI1_HwUxqH6u91sNf_GfOEY-CeZD_Wd1ozVNkGvt7JfAsct6vztqeA3jyZZRXQHXdRIG9j_wHOd_paSTIxnpt9tKSqC-VBIrfvypI6XvR0eqHpSEyE0lpZb0gyM1rzrSZUUh0HpXkgGvOdK_UBL6VEnkyPSKkpgjXVPS_JaSUke6VNKkbF440gXvd0c6K-lXHAn9miOlwvIOj0t72szITZuq6Gv7uSTu6uVd5ymny-NV6zWUZDe36n5tU-Ng_RhYrn8_mrqPUKyu9-79iA2Ej57LrdR1uLwjkbWcTB1651iRS-_GYXRXkGWBfbCC6YJwgR-FqmDJiqzEIlgSZ2VV481stxp4WI-tba5XqmqD4iouNkIsLbuVprIrBpA09_Kg1G4OzF4tGA4sty3su0DfziKx9KIHucKorzceprhU7PQbslBu9nG799BcFfrFVmuzel23xSFd77ezWRvWRkIvFpqGDeWxEJSaE9QFaV5UfWHx3iIjR_sCx3hRTy1wQeSo7IhkAhom6BFWi2jAdMyKGIXsitlVAqYGOepYI49uVVF4KAlFwXGKtijZQpELyHq_VOUCRxeRWvgboNdYNQ",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gjPiu3iczVXbbuo4FP2A-Y7JSwsJSaCkUnRkuyE14dJAub6g3DCXhEAMBPp2_mW-aqT5l3HCpaEH2jNnpNFYysWOvfZe9l5Z3__wp4v5n7_9NVmvl_SR5-M4zpMwJL6Xd8KAt-h-4fDj0KeRM_lGfHVDuc3G99T4DgFsYoSjrlh5s3R_M5RaW3u608w9CNt6ZTHsV99cXZHYWKOF5rTbKy5dvTvHlYYw6Ld8J-YmvuotuP1WlTiHqgLnTdWKUnqzNobUVHRxuTZfyjVboaDDpYmoI9ui3ozluZtRfsSz2_x36Yl18jTvLfJmVRwOgGO3bC0vCgUl3-StgE0A_10zEdAAIBCzd3hzEpvxM2CQITCgeWYIH1dmsAcAJXjYTHvoBjJJ0RIADJMF7DEaRjIExgkLxjcTQdl4rJOE0lBKJGU6_Rk2GQ5J086Y6NPZ1_gcEFh47TRSz3zVwI2GPlRCh6GXQR2DyXHgw4lpYbZXTW5Ph_BjIMea3Kp8mjnbnU4Miwb48rgroLUgR1IYrdlKyLuEVa7A2xF7FPipM3HSl4gmBY1eFSF8ftLaJau-GM4n0n7nx0JtF8oDQykbEuAdm83zQ8v13NFkJHxL-wWxUBQU6aF8nyrJoWcp0ayUgKFLimCtHsR6vpaHhZOO0HnnPxxZUgsIXyEG0XHqxYLjbhD4Pv6-83MtewrGYU-SvRQxOMdPl5ilw1GfT_UFA0hw4yKB4zNZd01HFwmlOkqLO0krPGeXZUaYjM4JZlnVr-r945j5fM4Awx8mkkwsDDFhtM0zfLahpMrxJPnYYZtcI0cFOplSgw2omeAEgE5ME-ZIPxPTshS1bJgpQ0qFMWuDpPpX1eSMYQKIDitOsu-Aw3CGzI1_HwUxqH6u91sNf_GfOEY-CeZD_Wd1ozVNkGvt7JfAsct6vztqeA3jyZZRXQHXdRIG9j_wHOd_paSTIxnpt9tKSqC-VBIrfvypI6XvR0eqHpSEyE0lpZb0gyM1rzrSZUUh0HpXkgGvOdK_UBL6VEnkyPSKkpgjXVPS_JaSUke6VNKkbF440gXvd0c6K-lXHAn9miOlwvIOj0t72szITZuq6Gv7uSTu6uVd5ymny-NV6zWUZDe36n5tU-Ng_RhYrn8_mrqPUKyu9-79iA2Ej57LrdR1uLwjkbWcTB1651iRS-_GYXRXkGWBfbCC6YJwgR-FqmDJiqzEIlgSZ2VV481stxp4WI-tba5XqmqD4iouNkIsLbuVprIrBpA09_Kg1G4OzF4tGA4sty3su0DfziKx9KIHucKorzceprhU7PQbslBu9nG799BcFfrFVmuzel23xSFd77ezWRvWRkIvFpqGDeWxEJSaE9QFaV5UfWHx3iIjR_sCx3hRTy1wQeSo7IhkAhom6BFWi2jAdMyKGIXsitlVAqYGOepYI49uVVF4KAlFwXGKtijZQpELyHq_VOUCRxeRWvgboNdYNQ"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best GPU For Gaming on 1440p : r/buildapc",
+      "link": "https://www.reddit.com/r/buildapc/comments/1j7co91/best_gpu_for_gaming_on_1440p/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/buildapc/comments/1j7co91/best_gpu_for_gaming_on_1440p/&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQFnoECCIQAQ",
+      "displayed_link": "400+ comments · 1 year ago",
+      "snippet": "Hey guys, so i'm new to building a Pc and I was wondering what GPU to get to play games on 1440p",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "the best graphics card for 1440p gaming that's ...",
+            "link": "https://www.reddit.com/r/buildapc/comments/18wvf7c/whats_the_best_graphics_card_for_1440p_gaming/",
+            "answer_count": 320,
+            "date": "Jan 2, 2024"
+          },
+          {
+            "title": "What is the best GPU for 1440p? : r/buildapc - Reddit",
+            "link": "https://www.reddit.com/r/buildapc/comments/1ku3mdy/what_is_the_best_gpu_for_1440p/",
+            "answer_count": 215,
+            "date": "May 24, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "RX 6800/6800XT or 7700xt. The 6800s perform almost identical to a 3080. If you care about ray tracing however and content creation, go with 3080 ...",
+          "source_info_link": "https://www.reddit.com/r/buildapc/comments/1j7co91/best_gpu_for_gaming_on_1440p/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ClBodHRwczovL3d3dy5yZWRkaXQuY29tL3IvYnVpbGRhcGMvY29tbWVudHMvMWo3Y285MS9iZXN0X2dwdV9mb3JfZ2FtaW5nX29uXzE0NDBwLxIEGgIIABrhBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC9BAgAEAAYACAAKjcKA3RvcBWaPU4-GgRiZXN0GgdmYXN0ZXN0GgdsZWFkaW5nGgZuZXdlc3QaC3JlY29tbWVuZGVkKjkKCGdyYXBoaWNzFQJSqD0aA2dwdRoEZ3B1cxoHZ3JhcGhpYxoFdmlkZW8aDWdyYXBoaWNzY2FyZHMqLAoFY2FyZHMV71KAPxoEY2FyZBoDZ3B1GgRncHVzGg1ncmFwaGljc2NhcmRzKgoKA2ZvchUAAAAAKiAKBTE0NDBwFTC_ukAaBjE0NDAgcBoKaXY7cDsxNDQwcCoTCgZnYW1pbmcVJKKgQBoEZ2FtZTJQaHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL2J1aWxkYXBjL2NvbW1lbnRzLzFqN2NvOTEvYmVzdF9ncHVfZm9yX2dhbWluZ19vbl8xNDQwcC86RzxiPkJlc3QgR1BVPC9iPiBGb3IgPGI-R2FtaW5nPC9iPiBvbiA8Yj4xNDQwcDwvYj4gOiByL2J1aWxkYXBjIC0gUmVkZGl0QqABPGI-UlggNjgwMC82ODAwWFQgb3IgNzcwMHh0PC9iPi4gVGhlIDY4MDBzIHBlcmZvcm0gYWxtb3N0IGlkZW50aWNhbCB0byBhIDMwODAuIElmIHlvdSBjYXJlIGFib3V0IHJheSB0cmFjaW5nIGhvd2V2ZXIgYW5kIGNvbnRlbnQgY3JlYXRpb24sIGdvIHdpdGggMzA4MCZuYnNwOy4uLkoDZm9yUgRiZXN0UgV2aWRlbyICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ClBodHRwczovL3d3dy5yZWRkaXQuY29tL3IvYnVpbGRhcGMvY29tbWVudHMvMWo3Y285MS9iZXN0X2dwdV9mb3JfZ2FtaW5nX29uXzE0NDBwLxIEGgIIABrhBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC9BAgAEAAYACAAKjcKA3RvcBWaPU4-GgRiZXN0GgdmYXN0ZXN0GgdsZWFkaW5nGgZuZXdlc3QaC3JlY29tbWVuZGVkKjkKCGdyYXBoaWNzFQJSqD0aA2dwdRoEZ3B1cxoHZ3JhcGhpYxoFdmlkZW8aDWdyYXBoaWNzY2FyZHMqLAoFY2FyZHMV71KAPxoEY2FyZBoDZ3B1GgRncHVzGg1ncmFwaGljc2NhcmRzKgoKA2ZvchUAAAAAKiAKBTE0NDBwFTC_ukAaBjE0NDAgcBoKaXY7cDsxNDQwcCoTCgZnYW1pbmcVJKKgQBoEZ2FtZTJQaHR0cHM6Ly93d3cucmVkZGl0LmNvbS9yL2J1aWxkYXBjL2NvbW1lbnRzLzFqN2NvOTEvYmVzdF9ncHVfZm9yX2dhbWluZ19vbl8xNDQwcC86RzxiPkJlc3QgR1BVPC9iPiBGb3IgPGI-R2FtaW5nPC9iPiBvbiA8Yj4xNDQwcDwvYj4gOiByL2J1aWxkYXBjIC0gUmVkZGl0QqABPGI-UlggNjgwMC82ODAwWFQgb3IgNzcwMHh0PC9iPi4gVGhlIDY4MDBzIHBlcmZvcm0gYWxtb3N0IGlkZW50aWNhbCB0byBhIDMwODAuIElmIHlvdSBjYXJlIGFib3V0IHJheSB0cmFjaW5nIGhvd2V2ZXIgYW5kIGNvbnRlbnQgY3JlYXRpb24sIGdvIHdpdGggMzA4MCZuYnNwOy4uLkoDZm9yUgRiZXN0UgV2aWRlbyICEAFIAFgAaAA",
+      "source": "Reddit · r/buildapc"
+    },
+    {
+      "position": 2,
+      "title": "Best Graphics Cards for Gaming in 2026",
+      "link": "https://www.tomshardware.com/reviews/best-gpus,4380.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.tomshardware.com/reviews/best-gpus,4380.html&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQFnoECBUQAQ",
+      "displayed_link": "https://www.tomshardware.com › ... › GPUs",
+      "date": "Jul 30, 2026",
+      "snippet": "If you want the best blend of high performance and cutting-edge graphics tech out there for 1440p or 4K gaming, the GeForce RTX 5070 Ti is it.",
+      "snippet_highlighted_words": [
+        "GeForce RTX 5070 Ti"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "If you want the best blend of high performance and cutting-edge graphics tech out there for 1440p or 4K gaming, the GeForce RTX 5070 Ti is it.",
+          "source_info_link": "https://www.tomshardware.com/reviews/best-gpus,4380.html",
+          "icon": "https://serpapi.com/images/i/UklGRpoAAABXRUJQVlA4II4AAACwBACdASocABwAPtEutFooIagoGAEAGglsAMkDjpV8LfbE2iUNevY0bMpeUQJ4AP72AlvL7Ct25_cY9tf78G7t09KOYFQdttNIuoN4VOH1n2-2HPDNoTktTg1cfVLb1SSuBEj6L_iu3d6TN_ZHdwx1BBiR-7ooyLe5YcEklfb__Vi1LU-KVF0APMysAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjhodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3Jldmlld3MvYmVzdC1ncHVzLDQzODAuaHRtbBIEGgIIABrCBBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJwECAAQABgAIAAqNwoDdG9wFYyZ_D4aBGJlc3QaB2Zhc3Rlc3QaB2xlYWRpbmcaBm5ld2VzdBoLcmVjb21tZW5kZWQqOQoIZ3JhcGhpY3MVXIRgQBoDZ3B1GgRncHVzGgdncmFwaGljGgV2aWRlbxoNZ3JhcGhpY3NjYXJkcyosCgVjYXJkcxUsEl9AGgRjYXJkGgNncHUaBGdwdXMaDWdyYXBoaWNzY2FyZHMqCgoDZm9yFQAAAAAqIAoFMTQ0MHAVsy2mPxoGMTQ0MCBwGgppdjtwOzE0NDBwKhMKBmdhbWluZxU0hXlAGgRnYW1lMjhodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3Jldmlld3MvYmVzdC1ncHVzLDQzODAuaHRtbDpJPGI-QmVzdCBHcmFwaGljcyBDYXJkczwvYj4gZm9yIDxiPkdhbWluZzwvYj4gaW4gMjAyNiB8IFRvbSYjMzk7cyBIYXJkd2FyZUKVAUlmIHlvdSB3YW50IHRoZSBiZXN0IGJsZW5kIG9mIGhpZ2ggcGVyZm9ybWFuY2UgYW5kIGN1dHRpbmctZWRnZSBncmFwaGljcyB0ZWNoIG91dCB0aGVyZSBmb3IgMTQ0MHAgb3IgNEsgZ2FtaW5nLCB0aGUgPGI-R2VGb3JjZSBSVFggNTA3MCBUaTwvYj4gaXMgaXQuSgNmb3JSBGJlc3RSBXZpZGVvIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjhodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3Jldmlld3MvYmVzdC1ncHVzLDQzODAuaHRtbBIEGgIIABrCBBICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJwECAAQABgAIAAqNwoDdG9wFYyZ_D4aBGJlc3QaB2Zhc3Rlc3QaB2xlYWRpbmcaBm5ld2VzdBoLcmVjb21tZW5kZWQqOQoIZ3JhcGhpY3MVXIRgQBoDZ3B1GgRncHVzGgdncmFwaGljGgV2aWRlbxoNZ3JhcGhpY3NjYXJkcyosCgVjYXJkcxUsEl9AGgRjYXJkGgNncHUaBGdwdXMaDWdyYXBoaWNzY2FyZHMqCgoDZm9yFQAAAAAqIAoFMTQ0MHAVsy2mPxoGMTQ0MCBwGgppdjtwOzE0NDBwKhMKBmdhbWluZxU0hXlAGgRnYW1lMjhodHRwczovL3d3dy50b21zaGFyZHdhcmUuY29tL3Jldmlld3MvYmVzdC1ncHVzLDQzODAuaHRtbDpJPGI-QmVzdCBHcmFwaGljcyBDYXJkczwvYj4gZm9yIDxiPkdhbWluZzwvYj4gaW4gMjAyNiB8IFRvbSYjMzk7cyBIYXJkd2FyZUKVAUlmIHlvdSB3YW50IHRoZSBiZXN0IGJsZW5kIG9mIGhpZ2ggcGVyZm9ybWFuY2UgYW5kIGN1dHRpbmctZWRnZSBncmFwaGljcyB0ZWNoIG91dCB0aGVyZSBmb3IgMTQ0MHAgb3IgNEsgZ2FtaW5nLCB0aGUgPGI-R2VGb3JjZSBSVFggNTA3MCBUaTwvYj4gaXMgaXQuSgNmb3JSBGJlc3RSBXZpZGVvIgIQAUgAWABoAA",
+      "source": "Tom's Hardware",
+      "read_more_link": "https://www.tomshardware.com/reviews/best-gpus,4380.html#:~:text=If%20you%20want%20the%20best,RTX%205070%20Ti%20is%20it."
+    },
+    {
+      "position": 3,
+      "title": "Best GPUs to Buy for 1440p Gaming in 2025",
+      "link": "https://geekawhat.com/best-graphics-cards-to-buy-for-1440p-gaming/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://geekawhat.com/best-graphics-cards-to-buy-for-1440p-gaming/&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQFnoECBcQAQ",
+      "displayed_link": "https://geekawhat.com › Components › Graphics Cards",
+      "date": "Sep 27, 2025",
+      "snippet": "The Best GPUs for 1440p Gaming · 1. NVIDIA GeForce RTX 5060 Ti · 2. NVIDIA GeForce RTX 5070 · 3. AMD Radeon RX 9060 XT 16GB · 4. AMD Radeon RX ...",
+      "snippet_highlighted_words": [
+        "NVIDIA GeForce RTX 5060 Ti"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Best GPUs for 1440p Gaming · 1. NVIDIA GeForce RTX 5060 Ti · 2. NVIDIA GeForce RTX 5070 · 3. AMD Radeon RX 9060 XT 16GB · 4. AMD Radeon RX ...",
+          "source_info_link": "https://geekawhat.com/best-graphics-cards-to-buy-for-1440p-gaming/",
+          "icon": "https://serpapi.com/images/i/UklGRkoBAABXRUJQVlA4ID4BAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0vlfme9NmAWwD0AaADcMf-bHwiDFC9W5svph_SR7-Bz-ZKZDE3oo3ig2TPAAD-9gnV509FZy1vlaNO74J303oUHv00rvjDr-wUt24T35nPNJRIMumzPDL6FgXsytxLGxOAe7feUch0Srf8-CUPVuUtyy1vkcWkgIvBqLIQEmSMQZtSRpW6TT3u-z7wjbQ7jETn6CrzMD2Dx8yQtP6kO4jCGbIJJbrishxltLznHuwwxvsl_VxF5f1qrtzTLNtJKZ5ELjt-1Dd_t_rJ0Qb7vQvebNYKiYtVMmUcjHbx8YOHZpEYfR3HVPFyshdnoYWzUuQd97iMnU62Wg9U8ZsNkwlq3n_jddP313Q0w1kbWIHz_mm4vuO13AHuxmwP1o1glca9KAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CkJodHRwczovL2dlZWthd2hhdC5jb20vYmVzdC1ncmFwaGljcy1jYXJkcy10by1idXktZm9yLTE0NDBwLWdhbWluZy8SBBoCCAAa6QQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxQQIABAAGAAgACo3CgN0b3AV9lzHPxoEYmVzdBoHZmFzdGVzdBoHbGVhZGluZxoGbmV3ZXN0GgtyZWNvbW1lbmRlZCo5CghncmFwaGljcxVIp1xAGgNncHUaBGdwdXMaB2dyYXBoaWMaBXZpZGVvGg1ncmFwaGljc2NhcmRzKiwKBWNhcmRzFT_VPUAaBGNhcmQaA2dwdRoEZ3B1cxoNZ3JhcGhpY3NjYXJkcyoKCgNmb3IVAAAAACogCgUxNDQwcBWpp-FAGgYxNDQwIHAaCml2O3A7MTQ0MHAqEwoGZ2FtaW5nFa6w0kAaBGdhbWUyQmh0dHBzOi8vZ2Vla2F3aGF0LmNvbS9iZXN0LWdyYXBoaWNzLWNhcmRzLXRvLWJ1eS1mb3ItMTQ0MHAtZ2FtaW5nLzpDPGI-QmVzdCBHUFVzPC9iPiB0byBCdXkgZm9yIDxiPjE0NDBwIEdhbWluZzwvYj4gaW4gMjAyNSAtIEdlZWthV2hhdEK6AVRoZSBCZXN0IEdQVXMgZm9yIDE0NDBwIEdhbWluZyAmbWlkZG90OyAxLiA8Yj5OVklESUEgR2VGb3JjZSBSVFggNTA2MCBUaTwvYj4gJm1pZGRvdDsgMi4gTlZJRElBIEdlRm9yY2UgUlRYIDUwNzAgJm1pZGRvdDsgMy4gQU1EIFJhZGVvbiBSWCA5MDYwIFhUIDE2R0IgJm1pZGRvdDsgNC4gQU1EIFJhZGVvbiBSWCZuYnNwOy4uLkoDZm9yUgV2aWRlb1IEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CkJodHRwczovL2dlZWthd2hhdC5jb20vYmVzdC1ncmFwaGljcy1jYXJkcy10by1idXktZm9yLTE0NDBwLWdhbWluZy8SBBoCCAAa6QQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxQQIABAAGAAgACo3CgN0b3AV9lzHPxoEYmVzdBoHZmFzdGVzdBoHbGVhZGluZxoGbmV3ZXN0GgtyZWNvbW1lbmRlZCo5CghncmFwaGljcxVIp1xAGgNncHUaBGdwdXMaB2dyYXBoaWMaBXZpZGVvGg1ncmFwaGljc2NhcmRzKiwKBWNhcmRzFT_VPUAaBGNhcmQaA2dwdRoEZ3B1cxoNZ3JhcGhpY3NjYXJkcyoKCgNmb3IVAAAAACogCgUxNDQwcBWpp-FAGgYxNDQwIHAaCml2O3A7MTQ0MHAqEwoGZ2FtaW5nFa6w0kAaBGdhbWUyQmh0dHBzOi8vZ2Vla2F3aGF0LmNvbS9iZXN0LWdyYXBoaWNzLWNhcmRzLXRvLWJ1eS1mb3ItMTQ0MHAtZ2FtaW5nLzpDPGI-QmVzdCBHUFVzPC9iPiB0byBCdXkgZm9yIDxiPjE0NDBwIEdhbWluZzwvYj4gaW4gMjAyNSAtIEdlZWthV2hhdEK6AVRoZSBCZXN0IEdQVXMgZm9yIDE0NDBwIEdhbWluZyAmbWlkZG90OyAxLiA8Yj5OVklESUEgR2VGb3JjZSBSVFggNTA2MCBUaTwvYj4gJm1pZGRvdDsgMi4gTlZJRElBIEdlRm9yY2UgUlRYIDUwNzAgJm1pZGRvdDsgMy4gQU1EIFJhZGVvbiBSWCA5MDYwIFhUIDE2R0IgJm1pZGRvdDsgNC4gQU1EIFJhZGVvbiBSWCZuYnNwOy4uLkoDZm9yUgV2aWRlb1IEYmVzdCICEAFIAFgAaAA",
+      "source": "GeekaWhat",
+      "read_more_link": "https://geekawhat.com/best-graphics-cards-to-buy-for-1440p-gaming/#:~:text=The%20Best%20GPUs%20for%201440p,Gaming&text=1.%20NVIDIA%20GeForce%20RTX%205060,Ti&text=2.%20NVIDIA%20GeForce%20RTX%205070&text=3.%20AMD%20Radeon%20RX%209060,XT%2016GB&text=4.%20AMD%20Radeon%20RX%209070"
+    },
+    {
+      "position": 4,
+      "title": "1440p Graphics Card",
+      "link": "https://www.bestbuy.com/site/shop/1440p-graphics-card",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.bestbuy.com/site/shop/1440p-graphics-card&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQFnoECBYQAQ",
+      "displayed_link": "https://www.bestbuy.com › site › shop › 1440p-graphics...",
+      "snippet": "Upgrade your gaming with a 1440p graphics card from Best Buy. Shop top brands for smooth, high-resolution performance.",
+      "snippet_highlighted_words": [
+        "1440p graphics card from Best Buy"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.6,
+            "price_from": 350,
+            "price_to": 1700,
+            "currency": "$",
+            "day_returns": 15
+          },
+          "extensions": [
+            "4.6",
+            "store rating (1.8K)",
+            "$350 to $1,700",
+            "15-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Upgrade your gaming with a 1440p graphics card from Best Buy. Shop top brands for smooth, high-resolution performance.",
+          "source_info_link": "https://www.bestbuy.com/site/shop/1440p-graphics-card",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjVodHRwczovL3d3dy5iZXN0YnV5LmNvbS9zaXRlL3Nob3AvMTQ0MHAtZ3JhcGhpY3MtY2FyZBIEGgIIABqHBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDjAwgAEAAYACAAKjcKA3RvcBWLBklAGgRiZXN0GgdmYXN0ZXN0GgdsZWFkaW5nGgZuZXdlc3QaC3JlY29tbWVuZGVkKjkKCGdyYXBoaWNzFUOjikAaA2dwdRoEZ3B1cxoHZ3JhcGhpYxoFdmlkZW8aDWdyYXBoaWNzY2FyZHMqLAoFY2FyZHMVfIq_PxoEY2FyZBoDZ3B1GgRncHVzGg1ncmFwaGljc2NhcmRzKgoKA2ZvchUAAAAAKiAKBTE0NDBwFV6FckAaBjE0NDAgcBoKaXY7cDsxNDQwcCoTCgZnYW1pbmcVdcEGQBoEZ2FtZTI1aHR0cHM6Ly93d3cuYmVzdGJ1eS5jb20vc2l0ZS9zaG9wLzE0NDBwLWdyYXBoaWNzLWNhcmQ6LDxiPjE0NDBwIEdyYXBoaWNzIENhcmQ8L2I-IC0gPGI-QmVzdDwvYj4gQnV5Qn1VcGdyYWRlIHlvdXIgZ2FtaW5nIHdpdGggYSA8Yj4xNDQwcCBncmFwaGljcyBjYXJkIGZyb20gQmVzdCBCdXk8L2I-LiBTaG9wIHRvcCBicmFuZHMgZm9yIHNtb290aCwgaGlnaC1yZXNvbHV0aW9uIHBlcmZvcm1hbmNlLkoDZm9yUgV2aWRlb1IEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjVodHRwczovL3d3dy5iZXN0YnV5LmNvbS9zaXRlL3Nob3AvMTQ0MHAtZ3JhcGhpY3MtY2FyZBIEGgIIABqHBBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDjAwgAEAAYACAAKjcKA3RvcBWLBklAGgRiZXN0GgdmYXN0ZXN0GgdsZWFkaW5nGgZuZXdlc3QaC3JlY29tbWVuZGVkKjkKCGdyYXBoaWNzFUOjikAaA2dwdRoEZ3B1cxoHZ3JhcGhpYxoFdmlkZW8aDWdyYXBoaWNzY2FyZHMqLAoFY2FyZHMVfIq_PxoEY2FyZBoDZ3B1GgRncHVzGg1ncmFwaGljc2NhcmRzKgoKA2ZvchUAAAAAKiAKBTE0NDBwFV6FckAaBjE0NDAgcBoKaXY7cDsxNDQwcCoTCgZnYW1pbmcVdcEGQBoEZ2FtZTI1aHR0cHM6Ly93d3cuYmVzdGJ1eS5jb20vc2l0ZS9zaG9wLzE0NDBwLWdyYXBoaWNzLWNhcmQ6LDxiPjE0NDBwIEdyYXBoaWNzIENhcmQ8L2I-IC0gPGI-QmVzdDwvYj4gQnV5Qn1VcGdyYWRlIHlvdXIgZ2FtaW5nIHdpdGggYSA8Yj4xNDQwcCBncmFwaGljcyBjYXJkIGZyb20gQmVzdCBCdXk8L2I-LiBTaG9wIHRvcCBicmFuZHMgZm9yIHNtb290aCwgaGlnaC1yZXNvbHV0aW9uIHBlcmZvcm1hbmNlLkoDZm9yUgV2aWRlb1IEYmVzdCICEAFIAFgAaAA",
+      "source": "Best Buy"
+    },
+    {
+      "position": 5,
+      "title": "Best gpu for 1440p gaming?",
+      "link": "https://www.facebook.com/groups/372119787729533/posts/1266655778275925/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/groups/372119787729533/posts/1266655778275925/&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQFnoECEIQAQ",
+      "displayed_link": "10+ comments · 7 months ago",
+      "snippet": "Ive been using a 5700XT gpu for the last 6 years. Looking to upgrade or switch to nvidia. What is your favorite GPU for 1440p gaming? Thanks!",
+      "about_this_result": {
+        "source": {
+          "description": "If you're looking for an excellent GPU for 1440p, AMD has the #RX7900XT, and NVIDIA has the #RTX4070Ti. But which one should you pick? We ...",
+          "source_info_link": "https://www.facebook.com/groups/372119787729533/posts/1266655778275925/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CkdodHRwczovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXBzLzM3MjExOTc4NzcyOTUzMy9wb3N0cy8xMjY2NjU1Nzc4Mjc1OTI1LxIEGgIIABq6BBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCWBAgAEAAYACAAKjcKA3RvcBUAAAAAGgRiZXN0GgdmYXN0ZXN0GgdsZWFkaW5nGgZuZXdlc3QaC3JlY29tbWVuZGVkKjkKCGdyYXBoaWNzFbUUtj4aA2dwdRoEZ3B1cxoHZ3JhcGhpYxoFdmlkZW8aDWdyYXBoaWNzY2FyZHMqLAoFY2FyZHMVWZzKPxoEY2FyZBoDZ3B1GgRncHVzGg1ncmFwaGljc2NhcmRzKgoKA2ZvchUAAAAAKiAKBTE0NDBwFQlx0kAaBjE0NDAgcBoKaXY7cDsxNDQwcCoTCgZnYW1pbmcV_n_kQBoEZ2FtZTJHaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2dyb3Vwcy8zNzIxMTk3ODc3Mjk1MzMvcG9zdHMvMTI2NjY1NTc3ODI3NTkyNS86LDxiPkJlc3QgZ3B1IGZvciAxNDQwcCBnYW1pbmc8L2I-PyAtIEZhY2Vib29rQp0BSWYgeW91JiMzOTtyZSBsb29raW5nIGZvciBhbiBleGNlbGxlbnQgR1BVIGZvciAxNDQwcCwgPGI-QU1EIGhhcyB0aGUgI1JYNzkwMFhUPC9iPiwgYW5kIE5WSURJQSBoYXMgdGhlICNSVFg0MDcwVGkuIEJ1dCB3aGljaCBvbmUgc2hvdWxkIHlvdSBwaWNrPyBXZSZuYnNwOy4uLkoDZm9yUgV2aWRlb1IEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CkdodHRwczovL3d3dy5mYWNlYm9vay5jb20vZ3JvdXBzLzM3MjExOTc4NzcyOTUzMy9wb3N0cy8xMjY2NjU1Nzc4Mjc1OTI1LxIEGgIIABq6BBIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCWBAgAEAAYACAAKjcKA3RvcBUAAAAAGgRiZXN0GgdmYXN0ZXN0GgdsZWFkaW5nGgZuZXdlc3QaC3JlY29tbWVuZGVkKjkKCGdyYXBoaWNzFbUUtj4aA2dwdRoEZ3B1cxoHZ3JhcGhpYxoFdmlkZW8aDWdyYXBoaWNzY2FyZHMqLAoFY2FyZHMVWZzKPxoEY2FyZBoDZ3B1GgRncHVzGg1ncmFwaGljc2NhcmRzKgoKA2ZvchUAAAAAKiAKBTE0NDBwFQlx0kAaBjE0NDAgcBoKaXY7cDsxNDQwcCoTCgZnYW1pbmcV_n_kQBoEZ2FtZTJHaHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2dyb3Vwcy8zNzIxMTk3ODc3Mjk1MzMvcG9zdHMvMTI2NjY1NTc3ODI3NTkyNS86LDxiPkJlc3QgZ3B1IGZvciAxNDQwcCBnYW1pbmc8L2I-PyAtIEZhY2Vib29rQp0BSWYgeW91JiMzOTtyZSBsb29raW5nIGZvciBhbiBleGNlbGxlbnQgR1BVIGZvciAxNDQwcCwgPGI-QU1EIGhhcyB0aGUgI1JYNzkwMFhUPC9iPiwgYW5kIE5WSURJQSBoYXMgdGhlICNSVFg0MDcwVGkuIEJ1dCB3aGljaCBvbmUgc2hvdWxkIHlvdSBwaWNrPyBXZSZuYnNwOy4uLkoDZm9yUgV2aWRlb1IEYmVzdCICEAFIAFgAaAA",
+      "source": "Facebook · Pc, Gaming, Setups, and building advice."
+    },
+    {
+      "position": 6,
+      "title": "Best graphics cards in 2026: These are the GPUs worth ...",
+      "link": "https://www.pcgamer.com/the-best-graphics-cards/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcgamer.com/the-best-graphics-cards/&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQFnoECEAQAQ",
+      "displayed_link": "https://www.pcgamer.com › Hardware › Graphics Cards",
+      "date": "Aug 21, 2026",
+      "snippet": "The Radeon RX 9070 is an excellent graphics card if you're looking for high 1440p performance without the almost $1,000 price points of the ...",
+      "snippet_highlighted_words": [
+        "Radeon RX 9070"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The Radeon RX 9070 is an excellent graphics card if you're looking for high 1440p performance without the almost $1,000 price points of the ...",
+          "source_info_link": "https://www.pcgamer.com/the-best-graphics-cards/",
+          "icon": "https://serpapi.com/images/i/UklGRiYCAABXRUJQVlA4IBoCAADQCQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0gXzwLtB4uWSV7zB5UdLXfCVII4FcUqghkXjc1B-kMyk52Rji-hQpEf1re41Z9GqU7fchFqyhgtOo-ClgA_uo2SAXqVBnrj-xnOFPRcEoTFS_6UwzNBs-TBvwA4ubX5xtWsRb3qToCVFvsuR5QMAFwXNTcwGbjv9_z1_yyW0ogyO_Vg1u1N4m_rowmGvVJhOt8OFfRfe7pQe7r_-UKiKPpoe5PaNIDTmq7d_-oz1tYf1_49_5fFf_-lcmkKm_902Kkn_wL_hGRfb9-cD1GPv8RMZP08CPCpAFM47UoujwXDyEswjrn2qiISSH4azi14KZQobSMGwYN5ZYzF7tEm7ATRuBYZTjDMyf2dQh1MXdHyONduxyWquPKHZ2810ciqenUraPtOcC48kCu90ZbtbPNX-B8M3MgSAuQU2DdND6SVLV1qFMgK1P9nc7hk8zahC-4cWTEBO2FZXeVQkuo9VuNxrfYIkvzEOmmYCeA36-678lhF-1-fsHPnKxyLv-p_xrfrE8CTzTWDioRI1bifC2vFxMfwLJc0V5kj4VlkG8nA6oWGujQs_TVF-LqBEYckrR7x7v9Ve3CEBwlPmRhrAhmNgFVZfnX58ZQAGsB3IfjU2ziaf0iqEvu3LBKzLWnVdmhHy7xPTRIXV-kHSNusk3gCgxmf9nst1Mr9aX14AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CjBodHRwczovL3d3dy5wY2dhbWVyLmNvbS90aGUtYmVzdC1ncmFwaGljcy1jYXJkcy8SBBoCCAAawAQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCaBAgAEAAYACAAKjcKA3RvcBXpuj0_GgRiZXN0GgdmYXN0ZXN0GgdsZWFkaW5nGgZuZXdlc3QaC3JlY29tbWVuZGVkKjkKCGdyYXBoaWNzFeX4b0AaA2dwdRoEZ3B1cxoHZ3JhcGhpYxoFdmlkZW8aDWdyYXBoaWNzY2FyZHMqLAoFY2FyZHMVSolqQBoEY2FyZBoDZ3B1GgRncHVzGg1ncmFwaGljc2NhcmRzKgoKA2ZvchUAAAAAKiAKBTE0NDBwFW-KdT8aBjE0NDAgcBoKaXY7cDsxNDQwcCoTCgZnYW1pbmcVd8smQBoEZ2FtZTIwaHR0cHM6Ly93d3cucGNnYW1lci5jb20vdGhlLWJlc3QtZ3JhcGhpY3MtY2FyZHMvOkU8Yj5CZXN0IGdyYXBoaWNzIGNhcmRzPC9iPiBpbiAyMDI2OiBUaGVzZSBhcmUgdGhlIEdQVXMgLi4uIC0gUEMgR2FtZXJCnwFUaGUgPGI-UmFkZW9uIFJYIDkwNzA8L2I-IGlzIGFuIGV4Y2VsbGVudCBncmFwaGljcyBjYXJkIGlmIHlvdSYjMzk7cmUgbG9va2luZyBmb3IgaGlnaCAxNDQwcCBwZXJmb3JtYW5jZSB3aXRob3V0IHRoZSBhbG1vc3QgJDEsMDAwIHByaWNlIHBvaW50cyBvZiB0aGUmbmJzcDsuLi5KA2ZvclIFdmlkZW9SBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CjBodHRwczovL3d3dy5wY2dhbWVyLmNvbS90aGUtYmVzdC1ncmFwaGljcy1jYXJkcy8SBBoCCAAawAQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCaBAgAEAAYACAAKjcKA3RvcBXpuj0_GgRiZXN0GgdmYXN0ZXN0GgdsZWFkaW5nGgZuZXdlc3QaC3JlY29tbWVuZGVkKjkKCGdyYXBoaWNzFeX4b0AaA2dwdRoEZ3B1cxoHZ3JhcGhpYxoFdmlkZW8aDWdyYXBoaWNzY2FyZHMqLAoFY2FyZHMVSolqQBoEY2FyZBoDZ3B1GgRncHVzGg1ncmFwaGljc2NhcmRzKgoKA2ZvchUAAAAAKiAKBTE0NDBwFW-KdT8aBjE0NDAgcBoKaXY7cDsxNDQwcCoTCgZnYW1pbmcVd8smQBoEZ2FtZTIwaHR0cHM6Ly93d3cucGNnYW1lci5jb20vdGhlLWJlc3QtZ3JhcGhpY3MtY2FyZHMvOkU8Yj5CZXN0IGdyYXBoaWNzIGNhcmRzPC9iPiBpbiAyMDI2OiBUaGVzZSBhcmUgdGhlIEdQVXMgLi4uIC0gUEMgR2FtZXJCnwFUaGUgPGI-UmFkZW9uIFJYIDkwNzA8L2I-IGlzIGFuIGV4Y2VsbGVudCBncmFwaGljcyBjYXJkIGlmIHlvdSYjMzk7cmUgbG9va2luZyBmb3IgaGlnaCAxNDQwcCBwZXJmb3JtYW5jZSB3aXRob3V0IHRoZSBhbG1vc3QgJDEsMDAwIHByaWNlIHBvaW50cyBvZiB0aGUmbmJzcDsuLi5KA2ZvclIFdmlkZW9SBGJlc3QiAhABSABYAGgA",
+      "source": "PC Gamer",
+      "read_more_link": "https://www.pcgamer.com/the-best-graphics-cards/#:~:text=%F0%9F%AA%9B%20The%20Radeon%20RX%209070,GPU%20for%20most%20PC%20gamers."
+    },
+    {
+      "position": 7,
+      "title": "What graphics card should you get for 1440p gaming?",
+      "link": "https://www.quora.com/What-graphics-card-should-you-get-for-1440p-gaming",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.quora.com/What-graphics-card-should-you-get-for-1440p-gaming&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQFnoECEQQAQ",
+      "displayed_link": "30+ answers · 5 years ago",
+      "snippet": "What graphics card should you get for 1440p gaming?",
+      "about_this_result": {
+        "source": {
+          "description": "The best value gpu for 1440p is probably the rx5600xt or the 2060 ko but you may have to drop a few of the settings depending on the game to hit ...",
+          "source_info_link": "https://www.quora.com/What-graphics-card-should-you-get-for-1440p-gaming",
+          "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CkhodHRwczovL3d3dy5xdW9yYS5jb20vV2hhdC1ncmFwaGljcy1jYXJkLXNob3VsZC15b3UtZ2V0LWZvci0xNDQwcC1nYW1pbmcSBBoCCAAa2wQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAtwQIABAAGAAgACo3CgN0b3AVlWPCPhoEYmVzdBoHZmFzdGVzdBoHbGVhZGluZxoGbmV3ZXN0GgtyZWNvbW1lbmRlZCo5CghncmFwaGljcxVDhaFAGgNncHUaBGdwdXMaB2dyYXBoaWMaBXZpZGVvGg1ncmFwaGljc2NhcmRzKiwKBWNhcmRzFfD1sD8aBGNhcmQaA2dwdRoEZ3B1cxoNZ3JhcGhpY3NjYXJkcyoKCgNmb3IVAAAAACogCgUxNDQwcBU8sKJAGgYxNDQwIHAaCml2O3A7MTQ0MHAqEwoGZ2FtaW5nFUsOqkAaBGdhbWUySGh0dHBzOi8vd3d3LnF1b3JhLmNvbS9XaGF0LWdyYXBoaWNzLWNhcmQtc2hvdWxkLXlvdS1nZXQtZm9yLTE0NDBwLWdhbWluZzpJV2hhdCA8Yj5ncmFwaGljcyBjYXJkPC9iPiBzaG91bGQgeW91IGdldCBmb3IgPGI-MTQ0MHAgZ2FtaW5nPC9iPj8gLSBRdW9yYUKgAVRoZSBiZXN0IHZhbHVlIGdwdSBmb3IgMTQ0MHAgaXMgcHJvYmFibHkgdGhlIDxiPnJ4NTYwMHh0IG9yIHRoZSAyMDYwIGtvPC9iPiBidXQgeW91IG1heSBoYXZlIHRvIGRyb3AgYSBmZXcgb2YgdGhlIHNldHRpbmdzIGRlcGVuZGluZyBvbiB0aGUgZ2FtZSB0byBoaXQmbmJzcDsuLi5KA2ZvclIEYmVzdFIFdmlkZW8iAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CkhodHRwczovL3d3dy5xdW9yYS5jb20vV2hhdC1ncmFwaGljcy1jYXJkLXNob3VsZC15b3UtZ2V0LWZvci0xNDQwcC1nYW1pbmcSBBoCCAAa2wQSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAtwQIABAAGAAgACo3CgN0b3AVlWPCPhoEYmVzdBoHZmFzdGVzdBoHbGVhZGluZxoGbmV3ZXN0GgtyZWNvbW1lbmRlZCo5CghncmFwaGljcxVDhaFAGgNncHUaBGdwdXMaB2dyYXBoaWMaBXZpZGVvGg1ncmFwaGljc2NhcmRzKiwKBWNhcmRzFfD1sD8aBGNhcmQaA2dwdRoEZ3B1cxoNZ3JhcGhpY3NjYXJkcyoKCgNmb3IVAAAAACogCgUxNDQwcBU8sKJAGgYxNDQwIHAaCml2O3A7MTQ0MHAqEwoGZ2FtaW5nFUsOqkAaBGdhbWUySGh0dHBzOi8vd3d3LnF1b3JhLmNvbS9XaGF0LWdyYXBoaWNzLWNhcmQtc2hvdWxkLXlvdS1nZXQtZm9yLTE0NDBwLWdhbWluZzpJV2hhdCA8Yj5ncmFwaGljcyBjYXJkPC9iPiBzaG91bGQgeW91IGdldCBmb3IgPGI-MTQ0MHAgZ2FtaW5nPC9iPj8gLSBRdW9yYUKgAVRoZSBiZXN0IHZhbHVlIGdwdSBmb3IgMTQ0MHAgaXMgcHJvYmFibHkgdGhlIDxiPnJ4NTYwMHh0IG9yIHRoZSAyMDYwIGtvPC9iPiBidXQgeW91IG1heSBoYXZlIHRvIGRyb3AgYSBmZXcgb2YgdGhlIHNldHRpbmdzIGRlcGVuZGluZyBvbiB0aGUgZ2FtZSB0byBoaXQmbmJzcDsuLi5KA2ZvclIEYmVzdFIFdmlkZW8iAhABSABYAGgA",
+      "source": "Quora"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "Nicholas Di Giovanni",
+      "source": "RTINGS.com",
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab3de171a29fe59151122f7/images/Ajhp_0uzlPA1qO08sUAa9XlcGCuCBiN-R9BC99N-AZU.jpeg"
+      ],
+      "title": "The 6 Best 1440p Gaming Monitors of 2026",
+      "link": "https://www.rtings.com/monitor/reviews/best/1440p-gaming-monitors",
+      "date": "3 weeks ago"
+    },
+    {
+      "author": "Toasty Bros",
+      "source": "YouTube",
+      "duration": "0:38",
+      "extensions": [
+        "102.5K+ views "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab3de171a29fe59151122f7/images/Lzry8f4CkFKckKCBBEDtvurPF6V4HfjJs8vurehT-n0.jpeg"
+      ],
+      "title": "Recommend GPU for 1440p Gaming",
+      "link": "https://www.youtube.com/shorts/DTR2mB_QP_M",
+      "date": "2 weeks ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRxhWCa8NscM1VJXk-NDWV-9L3TMTNA_HN69Q"
+    },
+    {
+      "author": "Pc, Gaming, Setups, and building advice.",
+      "source": "Facebook",
+      "extensions": [
+        "7 reactions "
+      ],
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab3de171a29fe59151122f7/images/O6-JvjSyqMUFn9Zus5FK2Ukt4WIFNVlioP3HuyT404Q.jpeg"
+      ],
+      "title": "Tell me a card that will play 1440p even on medium to high settings, for £250 or less? 😃",
+      "link": "https://www.facebook.com/groups/372119787729533/posts/1473135137627987/",
+      "date": "1 week ago"
+    },
+    {
+      "author": "r/PcBuild",
+      "source": "Reddit",
+      "extensions": [
+        "140+ comments "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgW6zbx6sI3cge93AsR4KRLl4XoF5yX2ceFnny5XJSbOax7Pa3q5rnAJPZA&usqp=CAI&s"
+      ],
+      "title": "What’s the best option for 1440p gaming?",
+      "link": "https://www.reddit.com/r/PcBuild/comments/1wgt9l1/whats_the_best_option_for_1440p_gaming/",
+      "date": "1 week ago"
+    },
+    {
+      "author": "GeekaWhat",
+      "source": "TikTok",
+      "duration": "2:36",
+      "extensions": [
+        "282.4K+ views "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxBYHNB8VNrSo9yzBv3JJ9eWYOKrNs7p9sMXyq2_fJVGB0LkX9H4X1AmuFWQ&usqp=CAI&s=10"
+      ],
+      "title": "1440p GPUs: Hit or Miss?? ✅❌#1440p #gpus #pcgaming #pcbuild #fyp",
+      "link": "https://www.tiktok.com/@geekawhat/video/7683917105414065430",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "r/buildapc",
+      "source": "Reddit",
+      "extensions": [
+        "170+ comments "
+      ],
+      "title": "Which gpu is the minimum for decent 1440P experience today?",
+      "link": "https://www.reddit.com/r/buildapc/comments/1wactzg/which_gpu_is_the_minimum_for_decent_1440p/",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "Zach's Tech Turf",
+      "source": "YouTube",
+      "duration": "1:18",
+      "extensions": [
+        "247.6K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/ulQtjk5SpSQ/hqdefault.jpg"
+      ],
+      "title": "These 2 GPUs are Fantastic for 1440p Gaming in 2026",
+      "link": "https://www.youtube.com/shorts/ulQtjk5SpSQ",
+      "date": "Jul 22, 2026",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQHXI7loeTxrRa3dfu_ReNYIVM5mne_-uwwXw"
+    },
+    {
+      "author": "John Burek",
+      "source": "PCMag UK",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYuupHYBPy_QEHJaWM3JF7IrsC4DQmDMdpNxEFRYUcj2oqPG1X-gkTVdN4_g&usqp=CAI&s"
+      ],
+      "title": "The Best Graphics Cards for Compact PCs in 2026",
+      "link": "https://uk.pcmag.com/graphics-cards/94526/the-best-graphics-cards-for-compact-pcs",
+      "date": "Jul 8, 2026"
+    },
+    {
+      "author": "r/eGPU",
+      "source": "Reddit",
+      "extensions": [
+        "20+ comments "
+      ],
+      "title": "What's the best graphics card for playing games at 1080-1440p with everything on very good quality and at least 80 fps?",
+      "link": "https://www.reddit.com/r/eGPU/comments/1wfxqby/whats_the_best_graphics_card_for_playing_games_at/",
+      "date": "1 week ago"
+    },
+    {
+      "author": "GpuSniper_com",
+      "source": "YouTube",
+      "duration": "1:42",
+      "extensions": [
+        "5.8K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/kQ6szRAcXCY/hqdefault.jpg"
+      ],
+      "title": "The Best 1440P GPUs!",
+      "link": "https://www.youtube.com/shorts/kQ6szRAcXCY",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "infohubofficialy",
+      "source": "Instagram",
+      "duration": "1:17",
+      "extensions": [
+        "2.6K+ likes "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1G7d2mHJkYVPX08_f0-nrhcYx_GCsURBT9aCJf3SokV8R1DljjY9p3wNTRA&usqp=CAI&s=10"
+      ],
+      "title": "Best Budget Radeon GPUs for 1440p Gaming (2026) 🎮 Ranked by Memes! | Part 1 Looking for the best budget AMD Radeon GPU for 1440p gaming? In this video, I rank the top Radeon graphics cards based on price, performance, VRAM, and overall value—with memes! 😂 From the RX 6600 XT to the RX 7800 XT, find out which GPU gives you the best 1440p experience without breaking the bank. 🔥 Part 2 is coming next, where I'll rank the best NVIDIA budget GPUs for 1440p gaming! Don't miss it! #Radeon #AMDGPU #1440pGaming #BudgetGPU #PCGaming #GamingPC #GPUComparison #TechHub",
+      "link": "https://www.instagram.com/reel/DboDcCRkQDi/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "ShadowGamingPC",
+      "source": "YouTube",
+      "duration": "7:31",
+      "extensions": [
+        "10K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/j6BiRUJPvyI/hqdefault.jpg"
+      ],
+      "title": "Best GPUs / Graphics Cards for Gaming 2026! [1080p,1440p & 4K]",
+      "link": "https://www.youtube.com/watch?v=j6BiRUJPvyI",
+      "date": "1 month ago"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Top graphics cards for 1440p gaming reddit",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Top+graphics+cards+for+1440p+gaming+reddit&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Top+graphics+cards+for+1440p+gaming+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best GPU for 1440p 144Hz",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+GPU+for+1440p+144Hz&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+GPU+for+1440p+144Hz"
+    },
+    {
+      "block_position": 1,
+      "query": "Best graphics card for 1440p gaming budget",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+graphics+card+for+1440p+gaming+budget&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+graphics+card+for+1440p+gaming+budget"
+    },
+    {
+      "block_position": 1,
+      "query": "Best graphics card for gaming",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+graphics+card+for+gaming&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+graphics+card+for+gaming"
+    },
+    {
+      "block_position": 1,
+      "query": "Best GPU for 1440p 165hz",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+GPU+for+1440p+165hz&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+GPU+for+1440p+165hz"
+    },
+    {
+      "block_position": 1,
+      "query": "Best Nvidia GPU for 1440p gaming",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+Nvidia+GPU+for+1440p+gaming&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+Nvidia+GPU+for+1440p+gaming"
+    },
+    {
+      "block_position": 1,
+      "query": "Best GPU for 4K gaming",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+GPU+for+4K+gaming&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+GPU+for+4K+gaming"
+    },
+    {
+      "block_position": 1,
+      "query": "Best graphics card for 1080p gaming",
+      "link": "https://www.google.com/search?sca_esv=2076050cc5b23b05&gl=us&hl=en&q=Best+graphics+card+for+1080p+gaming&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+graphics+card+for+1080p+gaming"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Under $450",
+      "link": "https://www.google.com/search?gl=us&q=top+graphics+cards+for+1440p+gaming+under+$450&hl=en&shoprs=Eg0SCxEAAACAdNK6QRgBGAUqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMiMIBRIKVW5kZXIgJDQ1MBgCIg0SCxEAAACAdNK6QRgBKgIYAVi1sSBgAQ&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKAF6BAg2EGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming+under+%24450"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?gl=us&q=top+graphics+cards+for+1440p+gaming+nearby&hl=en&shoprs=GAMqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMgwIAxIGTmVhcmJ5GAJYtbEgYAE&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKAJ6BAg2EGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming+nearby"
+    },
+    {
+      "query": "HDMI",
+      "link": "https://www.google.com/search?gl=us&q=hdmi+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GAEqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMhQIARIESERNSToKCNORKxDXkSswAFi1sSBgAQ&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKAN6BAg2EGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=hdmi+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "16 GB",
+      "link": "https://www.google.com/search?gl=us&q=16+gb+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=EhoqGAjJnGISEgkAAAAAAAAwQBEAAAAAAAAwQBgBKiN0b3AgZ3JhcGhpY3MgY2FyZHMgZm9yIDE0NDBwIGdhbWluZzIzCAESBTE2IEdCIhoqGAjJnGISEgkAAAAAAAAwQBEAAAAAAAAwQCoCGAE6CAjJnGIQADAGWLWxIGAB&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKAR6BAg2EGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=16+gb+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "12 GB",
+      "link": "https://www.google.com/search?gl=us&q=12+gb+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=EhoqGAjJnGISEgkAAAAAAAAoQBEAAAAAAAAoQBgBKiN0b3AgZ3JhcGhpY3MgY2FyZHMgZm9yIDE0NDBwIGdhbWluZzIzCAESBTEyIEdCIhoqGAjJnGISEgkAAAAAAAAoQBEAAAAAAAAoQCoCGAE6CAjJnGIQADAGWLWxIGAB&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKAV6BAg2EGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=12+gb+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "8 GB",
+      "link": "https://www.google.com/search?gl=us&q=8+gb+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=EhoqGAjJnGISEgkAAAAAAAAgQBEAAAAAAAAgQBgBKiN0b3AgZ3JhcGhpY3MgY2FyZHMgZm9yIDE0NDBwIGdhbWluZzIyCAESBDggR0IiGioYCMmcYhISCQAAAAAAACBAEQAAAAAAACBAKgIYAToICMmcYhAAMAZYtbEgYAE&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKAZ6BAg2EGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=8+gb+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "32 GB",
+      "link": "https://www.google.com/search?gl=us&q=32+gb+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=EhoqGAjJnGISEgkAAAAAAABAQBEAAAAAAABAQBgBKiN0b3AgZ3JhcGhpY3MgY2FyZHMgZm9yIDE0NDBwIGdhbWluZzIzCAESBTMyIEdCIhoqGAjJnGISEgkAAAAAAABAQBEAAAAAAABAQCoCGAE6CAjJnGIQADAGWLWxIGAB&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKAd6BAg2EGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=32+gb+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?gl=us&q=top+graphics+cards+for+1440p+gaming+sale&hl=en&shoprs=EgRKAhgBGAYqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMhMIBhIHT24gc2FsZRgCIgRKAhgBWLWxIGAB&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKAh6BAg2EG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming+sale"
+    },
+    {
+      "query": "MSI",
+      "link": "https://www.google.com/search?gl=us&q=msi+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GAEqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMhMIARIDTVNJOgoIt5ErEPO-KzACWLWxIGAB&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKAl6BAg2EG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=msi+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "6 GB",
+      "link": "https://www.google.com/search?gl=us&q=6+gb+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=EhoqGAjJnGISEgkAAAAAAAAYQBEAAAAAAAAYQBgBKiN0b3AgZ3JhcGhpY3MgY2FyZHMgZm9yIDE0NDBwIGdhbWluZzIyCAESBDYgR0IiGioYCMmcYhISCQAAAAAAABhAEQAAAAAAABhAKgIYAToICMmcYhAAMAZYtbEgYAE&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKAp6BAg2EG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=6+gb+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "ASUS",
+      "link": "https://www.google.com/search?gl=us&q=asus+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GAEqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMhQIARIEQVNVUzoKCLeRKxCkliswAli1sSBgAQ&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKAt6BAg2EHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=asus+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "Get it fast",
+      "link": "https://www.google.com/search?gl=us&q=top+graphics+cards+for+1440p+gaming&hl=en&shoprs=Eg2aAQoKCBADOAFABkgBGBQqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMiQIFBILR2V0IGl0IGZhc3QiDZoBCgoIEAM4AUAGSAEqBBABGAFgAQ&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKAx6BAg2EHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?gl=us&q=white+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GAEqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMhUIARIFV2hpdGU6CgjNyWgQ0sloMABYtbEgYAE&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKA16BAg2EHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=white+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?gl=us&q=price+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GBIqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKA56BAg2EHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=price+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "GIGABYTE",
+      "link": "https://www.google.com/search?gl=us&q=gigabyte+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GAEqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMhgIARIIR0lHQUJZVEU6Cgi3kSsQ9L4rMAJYtbEgYAE&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKA96BAg2EHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=gigabyte+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "Ray Tracing Support",
+      "link": "https://www.google.com/search?gl=us&q=ray+tracing+support+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GAEqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMiUIARITUmF5IFRyYWNpbmcgU3VwcG9ydDoMCOOu6wEQ5K7rATADWLWxIGAB&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKBB6BAg2EHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=ray+tracing+support+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "PCI Express",
+      "link": "https://www.google.com/search?gl=us&q=pci+express+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GAEqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMhsIARILUENJIEV4cHJlc3M6Cgic6SwQoOksMABYtbEgYAE&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKBF6BAg2EHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=pci+express+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "DisplayPort",
+      "link": "https://www.google.com/search?gl=us&q=displayport+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GAEqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMhsIARILRGlzcGxheVBvcnQ6CgjTkSsQ2JErMABYtbEgYAE&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKBJ6BAg2EHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=displayport+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "Graphics Card",
+      "link": "https://www.google.com/search?gl=us&q=graphics+card+top+cards+for+1440p+gaming&hl=en&shoprs=GAEqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMh8IARINR3JhcGhpY3MgQ2FyZDoMCKnCxQEQqsLFATACWLWxIGAB&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKBN6BAg2EHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=graphics+card+top+cards+for+1440p+gaming"
+    },
+    {
+      "query": "Four",
+      "link": "https://www.google.com/search?gl=us&q=four+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GAEqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMhYIARIERm91cjoMCO-VsgIQhpayAjAAWLWxIGAB&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKBR6BAg2EHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=four+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "10 – 12 in long",
+      "link": "https://www.google.com/search?gl=us&q=10+in+long+to+12+in+long+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=EhoqGAjLnGISEgkAAAAAACBvQBEAAADAzAxzQBgBKiN0b3AgZ3JhcGhpY3MgY2FyZHMgZm9yIDE0NDBwIGdhbWluZzJZCAESETEwIOKAkyAxMiBpbiBsb25nIhoqGAjLnGISEgkAAAAAACBvQBEAAADAzAxzQCocChgxMCBpbiBsb25nIHRvIDEyIGluIGxvbmcYAToICMucYhAAMAZYtbEgYAE&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKBV6BAg2EHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=10+in+long+to+12+in+long+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "Online",
+      "link": "https://www.google.com/search?gl=us&q=online+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GBIqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMgoIEhIGT25saW5lYAE&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKBZ6BAg2EHs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=online+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "Custom",
+      "link": "https://www.google.com/search?gl=us&q=custom+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GBIqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMgoIEhIGQ3VzdG9tYAE&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKBd6BAg2EHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=custom+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "Three",
+      "link": "https://www.google.com/search?gl=us&q=three+top+graphics+cards+for+1440p+gaming&hl=en&shoprs=GAEqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMhcIARIFVGhyZWU6DAjvlbICEIWWsgIwAFi1sSBgAQ&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKBh6BAg2EH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=three+top+graphics+cards+for+1440p+gaming"
+    },
+    {
+      "query": "For Sale",
+      "link": "https://www.google.com/search?gl=us&q=top+graphics+cards+for+1440p+gaming+sale&hl=en&shoprs=GBIqI3RvcCBncmFwaGljcyBjYXJkcyBmb3IgMTQ0MHAgZ2FtaW5nMgwIEhIIRm9yIFNhbGVgAQ&sa=X&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQip4GKBl6BAg2EH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming+sale"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+graphics+cards+for+1440p+gaming&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=F96zauK3O9G2ptQP8Lb9sAU&start=10&sa=N&sstk=AS6-VmIAJGFdilGnxJ13iY_156PKxhY-WyvcdddYYJ0mXBhu9joHbZX1HY9I6LyMemYqPCvxdeaXjILI9d3wIsNu_NqiC1_k70DMXg&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ8NMDegQINxAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+graphics+cards+for+1440p+gaming&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=F96zauK3O9G2ptQP8Lb9sAU&start=10&sa=N&sstk=AS6-VmIAJGFdilGnxJ13iY_156PKxhY-WyvcdddYYJ0mXBhu9joHbZX1HY9I6LyMemYqPCvxdeaXjILI9d3wIsNu_NqiC1_k70DMXg&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ8tMDegQINxAE",
+      "3": "https://www.google.com/search?q=top+graphics+cards+for+1440p+gaming&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=F96zauK3O9G2ptQP8Lb9sAU&start=20&sa=N&sstk=AS6-VmIAJGFdilGnxJ13iY_156PKxhY-WyvcdddYYJ0mXBhu9joHbZX1HY9I6LyMemYqPCvxdeaXjILI9d3wIsNu_NqiC1_k70DMXg&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ8tMDegQINxAG",
+      "4": "https://www.google.com/search?q=top+graphics+cards+for+1440p+gaming&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=F96zauK3O9G2ptQP8Lb9sAU&start=30&sa=N&sstk=AS6-VmIAJGFdilGnxJ13iY_156PKxhY-WyvcdddYYJ0mXBhu9joHbZX1HY9I6LyMemYqPCvxdeaXjILI9d3wIsNu_NqiC1_k70DMXg&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ8tMDegQINxAI",
+      "5": "https://www.google.com/search?q=top+graphics+cards+for+1440p+gaming&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=F96zauK3O9G2ptQP8Lb9sAU&start=40&sa=N&sstk=AS6-VmIAJGFdilGnxJ13iY_156PKxhY-WyvcdddYYJ0mXBhu9joHbZX1HY9I6LyMemYqPCvxdeaXjILI9d3wIsNu_NqiC1_k70DMXg&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ8tMDegQINxAK",
+      "6": "https://www.google.com/search?q=top+graphics+cards+for+1440p+gaming&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=F96zauK3O9G2ptQP8Lb9sAU&start=50&sa=N&sstk=AS6-VmIAJGFdilGnxJ13iY_156PKxhY-WyvcdddYYJ0mXBhu9joHbZX1HY9I6LyMemYqPCvxdeaXjILI9d3wIsNu_NqiC1_k70DMXg&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ8tMDegQINxAM",
+      "7": "https://www.google.com/search?q=top+graphics+cards+for+1440p+gaming&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=F96zauK3O9G2ptQP8Lb9sAU&start=60&sa=N&sstk=AS6-VmIAJGFdilGnxJ13iY_156PKxhY-WyvcdddYYJ0mXBhu9joHbZX1HY9I6LyMemYqPCvxdeaXjILI9d3wIsNu_NqiC1_k70DMXg&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ8tMDegQINxAO",
+      "8": "https://www.google.com/search?q=top+graphics+cards+for+1440p+gaming&sca_esv=2076050cc5b23b05&gl=us&hl=en&ei=F96zauK3O9G2ptQP8Lb9sAU&start=70&sa=N&sstk=AS6-VmIAJGFdilGnxJ13iY_156PKxhY-WyvcdddYYJ0mXBhu9joHbZX1HY9I6LyMemYqPCvxdeaXjILI9d3wIsNu_NqiC1_k70DMXg&ved=2ahUKEwiin4X98ISXAxVRm4kEHXBbH1YQ8tMDegQINxAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+graphics+cards+for+1440p+gaming&start=70"
+    }
+  }
+}
