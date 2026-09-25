@@ -1,0 +1,465 @@
+{
+  "search_metadata": {
+    "id": "6ab6594e9df9dd64552373cc",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-W730LPM72PwAMacKw-hOSn5ui1Kv9G6qbV852NZtAY/6ab6594e9df9dd64552373cc.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-W730LPM72PwAMacKw-hOSn5ui1Kv9G6qbV852NZtAY/6ab6594e9df9dd64552373cc.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/-W730LPM72PwAMacKw-hOSn5ui1Kv9G6qbV852NZtAY/6ab6594e9df9dd64552373cc.json_with_pixel_position",
+    "created_at": "2026-09-25 11:21:50 UTC",
+    "processed_at": "2026-09-25 11:21:50 UTC",
+    "google_url": "https://www.google.com/search?q=best+help+desk+ticketing+systems+for+it+support&oq=best+help+desk+ticketing+systems+for+it+support&uule=w+CAIQICIeSG91c3RvbixUWCxUZXhhcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/-W730LPM72PwAMacKw-hOSn5ui1Kv9G6qbV852NZtAY/6ab6594e9df9dd64552373cc.html",
+    "total_time_taken": 3.04
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best help desk ticketing systems for it support",
+    "location_requested": "Houston, TX, Texas, United States",
+    "location_used": "Houston,TX,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best help desk ticketing systems for it support",
+    "total_results": 89,
+    "time_taken_displayed": 0.33,
+    "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+    "spelling_fix": "best help desk ticketing systems for it support",
+    "showing_results_for": "best help desk ticketing systems for it support"
+  },
+  "related_questions": [
+    {
+      "question": "What are the ticketing systems used in IT?",
+      "type": "ai_overview",
+      "page_token": "qy0NjnicHZBLboJAAEDTy3SpA1QbTEwTdabVyJD5A5sGBoWWAUalCux6l56qp6np4i1fXvK-f8xHU_0-XMuus5fFdHq73SZF2xbmMNFtPU0vQ6OnOjUmS3W1mD_PnZejXsKv7Wp92q6IsFZuKGCfOORe0uqG3IgqSRaVQ1oZLqET5p49areEB-SrvdrFKipPocAjAx0KnNUXk8YL72SgtwmYhZkoeozsCVf-iYicqspfSyM90eAxdWmjomCkb3jDhCS5pDbwCpCOxZDXEgbIIAkujkJ5dW8Nqu5nzElULG295ybQDd0cXv1YiIQLvjtnb8ZJgM9Sk0PJEcOKXkNoKSxzKWswxMrnGkqcqe6cIEmw6LbMdVZx334QQUf9aWoBdnMqZozfjdT1E4ykq-EsUBF64iaPo5EiQR6P-rr0Hv9_Lt-Pdbew57b4A6uzgw4",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qy0NjnicHZBLboJAAEDTy3SpA1QbTEwTdabVyJD5A5sGBoWWAUalCux6l56qp6np4i1fXvK-f8xHU_0-XMuus5fFdHq73SZF2xbmMNFtPU0vQ6OnOjUmS3W1mD_PnZejXsKv7Wp92q6IsFZuKGCfOORe0uqG3IgqSRaVQ1oZLqET5p49areEB-SrvdrFKipPocAjAx0KnNUXk8YL72SgtwmYhZkoeozsCVf-iYicqspfSyM90eAxdWmjomCkb3jDhCS5pDbwCpCOxZDXEgbIIAkujkJ5dW8Nqu5nzElULG295ybQDd0cXv1YiIQLvjtnb8ZJgM9Sk0PJEcOKXkNoKSxzKWswxMrnGkqcqe6cIEmw6LbMdVZx334QQUf9aWoBdnMqZozfjdT1E4ykq-EsUBF64iaPo5EiQR6P-rr0Hv9_Lt-Pdbew57b4A6uzgw4",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVHdzNiRVZQUzA5SVFqVkhVM1V5Y1ZkNVZ6RlpWMUZvVDNsS1ZraHRVRE54WW5kT1RWOVVObmt4TnkxQ1FuQXdNVnBqTXpZeVRrRklZWG80TjNWaFptNTZVamRyTVdGaFNsRlViSGxCV1VwaVFtdFFSRE5HZWpSclFSSVhWVlp0TW1GdlUzQkZUVzFyYTJSVlVEVkxTRXR0UVdNYUlrRkVjM0k1WmxOMWRFbEtiWGhuWWpOdWFFMVlMWGhEWlU1a2RVMTBjSGd4TldjIiwiZmN2IjoiMyIsImVpIjoiVVZtMmFvU3BFTW1ra2RVUDVLSEttQWMiLCJxYyI6IkNpOWlaWE4wSUdobGJIQWdaR1Z6YXlCMGFXTnJaWFJwYm1jZ2MzbHpkR1Z0Y3lCbWIzSWdhWFFnYzNWd2NHOXlkQkFBZmZ3eUl6OCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRpY2tldGluZyBzeXN0ZW1zIHVzZWQgaW4gSVQ/IiwibGsiOiJHaWwzYUdGMElHRnlaU0IwYUdVZ2RHbGphMlYwYVc1bklITjVjM1JsYlhNZ2RYTmxaQ0JwYmlCcGRBIiwiYnMiOiJjNDJQUFF2Q01CUkZjYzNrS0prZVdMLTNfb0dBbTRPTENFVW4wX2ExRFRWcFNaNFVfZldtVlFjdGlzUGJ6bm4zWG5aZ3k2aVFCTklpVU9GUEpTV1NNam00cXlQVURpNE9VMUFHTm5zUnJ2aWktWTlXeExZc2lJb0tsSU1qbWhSZE9YTVFxenhIUjVCVXV2WWlWVmFFRXo1dUh0enRCOGQyYk40MTlaeHMyMENCNTdyRmV5MUVPT1ZCODJRVmZRZlppYTFmUDlzNWNSdVpXZXdQZzZ5eWI1bGFHcG1qUmtNaTVIelVTVDdxMHhzTzdnIiwiaWQiOiJmY19VVm0yYW9TcEVNbWtrZFVQNUtIS21BY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVHdzNiRVZQUzA5SVFqVkhVM1V5Y1ZkNVZ6RlpWMUZvVDNsS1ZraHRVRE54WW5kT1RWOVVObmt4TnkxQ1FuQXdNVnBqTXpZeVRrRklZWG80TjNWaFptNTZVamRyTVdGaFNsRlViSGxCV1VwaVFtdFFSRE5HZWpSclFSSVhWVlp0TW1GdlUzQkZUVzFyYTJSVlVEVkxTRXR0UVdNYUlrRkVjM0k1WmxOMWRFbEtiWGhuWWpOdWFFMVlMWGhEWlU1a2RVMTBjSGd4TldjIiwiZmN2IjoiMyIsImVpIjoiVVZtMmFvU3BFTW1ra2RVUDVLSEttQWMiLCJxYyI6IkNpOWlaWE4wSUdobGJIQWdaR1Z6YXlCMGFXTnJaWFJwYm1jZ2MzbHpkR1Z0Y3lCbWIzSWdhWFFnYzNWd2NHOXlkQkFBZmZ3eUl6OCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRpY2tldGluZyBzeXN0ZW1zIHVzZWQgaW4gSVQ%2FIiwibGsiOiJHaWwzYUdGMElHRnlaU0IwYUdVZ2RHbGphMlYwYVc1bklITjVjM1JsYlhNZ2RYTmxaQ0JwYmlCcGRBIiwiYnMiOiJjNDJQUFF2Q01CUkZjYzNrS0prZVdMLTNfb0dBbTRPTENFVW4wX2ExRFRWcFNaNFVfZldtVlFjdGlzUGJ6bm4zWG5aZ3k2aVFCTklpVU9GUEpTV1NNam00cXlQVURpNE9VMUFHTm5zUnJ2aWktWTlXeExZc2lJb0tsSU1qbWhSZE9YTVFxenhIUjVCVXV2WWlWVmFFRXo1dUh0enRCOGQyYk40MTlaeHMyMENCNTdyRmV5MUVPT1ZCODJRVmZRZlppYTFmUDlzNWNSdVpXZXdQZzZ5eWI1bGFHcG1qUmtNaTVIelVTVDdxMHhzTzdnIiwiaWQiOiJmY19VVm0yYW9TcEVNbWtrZFVQNUtIS21BY181In0%3D"
+    },
+    {
+      "question": "Who is Zendesk's biggest competitor?",
+      "type": "ai_overview",
+      "page_token": "fcDbvXicHdBRboIwAADQ7DJ-KoXNbSZmGaMFjIIU2mJ_FmhVkBZQUcS_3WWn2mm27AjvfX2rsq5-Hq5F17Xn2WTS9_143zR7tR2LRk-y81CLiciUyjNRzabPU_C2E3N48e2Po29HpG2pg404KTxRUZ9XLYiVunAH9nmlyEr3ZsbAepvaZUixgU1Uc5en1JBVAGQpYVBlbn9LIJhKEDjSsrnUGMXpvg8dygV8sYhSZ0aKJdbBkXvcy922YigaRIpMxl5jbKDLijwawno3E4iOuCYgSakVa2BmhvSCWt1XB3RiaDFgvbCiuyw3Cq1zwIPQVUgCFQpKhz-Dxl7hSIfasJCUamPYsNdEQBrkrDtxRKOAdH5sAntza8qI4Ls4KE1hkTL3xuNk00tAuyXjNiFPTXygKvNwx1x1INFoJ65za_T_Of_c6W7Wnpr9L-mpg0A",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fcDbvXicHdBRboIwAADQ7DJ-KoXNbSZmGaMFjIIU2mJ_FmhVkBZQUcS_3WWn2mm27AjvfX2rsq5-Hq5F17Xn2WTS9_143zR7tR2LRk-y81CLiciUyjNRzabPU_C2E3N48e2Po29HpG2pg404KTxRUZ9XLYiVunAH9nmlyEr3ZsbAepvaZUixgU1Uc5en1JBVAGQpYVBlbn9LIJhKEDjSsrnUGMXpvg8dygV8sYhSZ0aKJdbBkXvcy922YigaRIpMxl5jbKDLijwawno3E4iOuCYgSakVa2BmhvSCWt1XB3RiaDFgvbCiuyw3Cq1zwIPQVUgCFQpKhz-Dxl7hSIfasJCUamPYsNdEQBrkrDtxRKOAdH5sAntza8qI4Ls4KE1hkTL3xuNk00tAuyXjNiFPTXygKvNwx1x1INFoJ65za_T_Of_c6W7Wnpr9L-mpg0A",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVHdzNiRVZQUzA5SVFqVkhVM1V5Y1ZkNVZ6RlpWMUZvVDNsS1ZraHRVRE54WW5kT1RWOVVObmt4TnkxQ1FuQXdNVnBqTXpZeVRrRklZWG80TjNWaFptNTZVamRyTVdGaFNsRlViSGxCV1VwaVFtdFFSRE5HZWpSclFSSVhWVlp0TW1GdlUzQkZUVzFyYTJSVlVEVkxTRXR0UVdNYUlrRkVjM0k1WmxOMWRFbEtiWGhuWWpOdWFFMVlMWGhEWlU1a2RVMTBjSGd4TldjIiwiZmN2IjoiMyIsImVpIjoiVVZtMmFvU3BFTW1ra2RVUDVLSEttQWMiLCJxYyI6IkNpOWlaWE4wSUdobGJIQWdaR1Z6YXlCMGFXTnJaWFJwYm1jZ2MzbHpkR1Z0Y3lCbWIzSWdhWFFnYzNWd2NHOXlkQkFBZmZ3eUl6OCIsInF1ZXN0aW9uIjoiV2hvIGlzIFplbmRlc2sncyBiaWdnZXN0IGNvbXBldGl0b3I/IiwibGsiOiJHaU4zYUc4Z2FYTWdlbVZ1WkdWemF5ZHpJR0pwWjJkbGMzUWdZMjl0Y0dWMGFYUnZjZyIsImJzIjoiYzQyUFBRdkNNQlJGY2Mza0tKa2VXTC0zX29HQW00T0xDRVVuMF9hMURUVnBTWjRVX2ZXbVZRY3Rpc1Biem5uM1huWmd5NmlRQk5JaVVPRlBKU1dTTWptNHF5UFVEaTRPVTFBR05uc1JydmlpLVk5V3hMWXNpSW9LbElNam1oUmRPWE1RcXp4SFI1QlV1dllpVlZhRUV6NXVIdHp0QjhkMmJONDE5WnhzMjBDQjU3ckZleTFFT09WQjgyUVZmUWZaaWExZlA5czVjUnVaV2V3UGc2eXliNWxhR3BtalJrTWk1SHpVU1Q3cTB4c083ZyIsImlkIjoiZmNfVVZtMmFvU3BFTW1ra2RVUDVLSEttQWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVHdzNiRVZQUzA5SVFqVkhVM1V5Y1ZkNVZ6RlpWMUZvVDNsS1ZraHRVRE54WW5kT1RWOVVObmt4TnkxQ1FuQXdNVnBqTXpZeVRrRklZWG80TjNWaFptNTZVamRyTVdGaFNsRlViSGxCV1VwaVFtdFFSRE5HZWpSclFSSVhWVlp0TW1GdlUzQkZUVzFyYTJSVlVEVkxTRXR0UVdNYUlrRkVjM0k1WmxOMWRFbEtiWGhuWWpOdWFFMVlMWGhEWlU1a2RVMTBjSGd4TldjIiwiZmN2IjoiMyIsImVpIjoiVVZtMmFvU3BFTW1ra2RVUDVLSEttQWMiLCJxYyI6IkNpOWlaWE4wSUdobGJIQWdaR1Z6YXlCMGFXTnJaWFJwYm1jZ2MzbHpkR1Z0Y3lCbWIzSWdhWFFnYzNWd2NHOXlkQkFBZmZ3eUl6OCIsInF1ZXN0aW9uIjoiV2hvIGlzIFplbmRlc2sncyBiaWdnZXN0IGNvbXBldGl0b3I%2FIiwibGsiOiJHaU4zYUc4Z2FYTWdlbVZ1WkdWemF5ZHpJR0pwWjJkbGMzUWdZMjl0Y0dWMGFYUnZjZyIsImJzIjoiYzQyUFBRdkNNQlJGY2Mza0tKa2VXTC0zX29HQW00T0xDRVVuMF9hMURUVnBTWjRVX2ZXbVZRY3Rpc1Biem5uM1huWmd5NmlRQk5JaVVPRlBKU1dTTWptNHF5UFVEaTRPVTFBR05uc1JydmlpLVk5V3hMWXNpSW9LbElNam1oUmRPWE1RcXp4SFI1QlV1dllpVlZhRUV6NXVIdHp0QjhkMmJONDE5WnhzMjBDQjU3ckZleTFFT09WQjgyUVZmUWZaaWExZlA5czVjUnVaV2V3UGc2eXliNWxhR3BtalJrTWk1SHpVU1Q3cTB4c083ZyIsImlkIjoiZmNfVVZtMmFvU3BFTW1ra2RVUDVLSEttQWNfNSJ9"
+    },
+    {
+      "question": "What is an IT helpdesk ticketing system?",
+      "type": "ai_overview",
+      "page_token": "uvFSF3icHdBdjqIwAADg7GXmcSwS3GBiNqm2DKA1LbT8vExqi6JQ6GhXGd_2LnuqPc1O5uG7wPfnb38eun8_7q1z9raczR6Px-tpHE9986pGM5O3z0HNlOz7g1TdcvFz4f06qhX6HcP1Rwwpt1ZsGMgG5mVF_CRDku5zEWRv5KMC9Z6a6Vn7MKUAczaQoFl7hUT6oSKRkAu57nLk1IaUB6HX1DiiBSY6YkYZDfc5TLhvEe1cIL3Yb4bWyJ67rYBpPb8B1tWL0gtvTZ4AAbDUPJQ7zmwzQMs2ECrT0hy0SHbhhWFCd3N7L0EYfNlJMw0StVGOJnqI2JqYKhCdw6Qgme4ERK0WwoDPqghzhQQ5FO5aY0EJd3E292A1jWfK2VNdesPNlG5FUmUdSVUPaY5t1Gw0Ln1yJGWCVVEbTl-O6r7yX74_V-9H45b2Op7-Az0Hgj0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uvFSF3icHdBdjqIwAADg7GXmcSwS3GBiNqm2DKA1LbT8vExqi6JQ6GhXGd_2LnuqPc1O5uG7wPfnb38eun8_7q1z9raczR6Px-tpHE9986pGM5O3z0HNlOz7g1TdcvFz4f06qhX6HcP1Rwwpt1ZsGMgG5mVF_CRDku5zEWRv5KMC9Z6a6Vn7MKUAczaQoFl7hUT6oSKRkAu57nLk1IaUB6HX1DiiBSY6YkYZDfc5TLhvEe1cIL3Yb4bWyJ67rYBpPb8B1tWL0gtvTZ4AAbDUPJQ7zmwzQMs2ECrT0hy0SHbhhWFCd3N7L0EYfNlJMw0StVGOJnqI2JqYKhCdw6Qgme4ERK0WwoDPqghzhQQ5FO5aY0EJd3E292A1jWfK2VNdesPNlG5FUmUdSVUPaY5t1Gw0Ln1yJGWCVVEbTl-O6r7yX74_V-9H45b2Op7-Az0Hgj0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVHdzNiRVZQUzA5SVFqVkhVM1V5Y1ZkNVZ6RlpWMUZvVDNsS1ZraHRVRE54WW5kT1RWOVVObmt4TnkxQ1FuQXdNVnBqTXpZeVRrRklZWG80TjNWaFptNTZVamRyTVdGaFNsRlViSGxCV1VwaVFtdFFSRE5HZWpSclFSSVhWVlp0TW1GdlUzQkZUVzFyYTJSVlVEVkxTRXR0UVdNYUlrRkVjM0k1WmxOMWRFbEtiWGhuWWpOdWFFMVlMWGhEWlU1a2RVMTBjSGd4TldjIiwiZmN2IjoiMyIsImVpIjoiVVZtMmFvU3BFTW1ra2RVUDVLSEttQWMiLCJxYyI6IkNpOWlaWE4wSUdobGJIQWdaR1Z6YXlCMGFXTnJaWFJwYm1jZ2MzbHpkR1Z0Y3lCbWIzSWdhWFFnYzNWd2NHOXlkQkFBZmZ3eUl6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhbiBJVCBoZWxwZGVzayB0aWNrZXRpbmcgc3lzdGVtPyIsImxrIjoiR2lSM2FHRjBJR2x6SUdsMElHaGxiSEJrWlhOcklIUnBZMnRsZEdsdVp5QnplWE4wWlcwIiwiYnMiOiJjNDJQUFF2Q01CUkZjYzNrS0prZVdMLTNfb0dBbTRPTENFVW4wX2ExRFRWcFNaNFVfZldtVlFjdGlzUGJ6bm4zWG5aZ3k2aVFCTklpVU9GUEpTV1NNam00cXlQVURpNE9VMUFHTm5zUnJ2aWktWTlXeExZc2lJb0tsSU1qbWhSZE9YTVFxenhIUjVCVXV2WWlWVmFFRXo1dUh0enRCOGQyYk40MTlaeHMyMENCNTdyRmV5MUVPT1ZCODJRVmZRZlppYTFmUDlzNWNSdVpXZXdQZzZ5eWI1bGFHcG1qUmtNaTVIelVTVDdxMHhzTzdnIiwiaWQiOiJmY19VVm0yYW9TcEVNbWtrZFVQNUtIS21BY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVHdzNiRVZQUzA5SVFqVkhVM1V5Y1ZkNVZ6RlpWMUZvVDNsS1ZraHRVRE54WW5kT1RWOVVObmt4TnkxQ1FuQXdNVnBqTXpZeVRrRklZWG80TjNWaFptNTZVamRyTVdGaFNsRlViSGxCV1VwaVFtdFFSRE5HZWpSclFSSVhWVlp0TW1GdlUzQkZUVzFyYTJSVlVEVkxTRXR0UVdNYUlrRkVjM0k1WmxOMWRFbEtiWGhuWWpOdWFFMVlMWGhEWlU1a2RVMTBjSGd4TldjIiwiZmN2IjoiMyIsImVpIjoiVVZtMmFvU3BFTW1ra2RVUDVLSEttQWMiLCJxYyI6IkNpOWlaWE4wSUdobGJIQWdaR1Z6YXlCMGFXTnJaWFJwYm1jZ2MzbHpkR1Z0Y3lCbWIzSWdhWFFnYzNWd2NHOXlkQkFBZmZ3eUl6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyBhbiBJVCBoZWxwZGVzayB0aWNrZXRpbmcgc3lzdGVtPyIsImxrIjoiR2lSM2FHRjBJR2x6SUdsMElHaGxiSEJrWlhOcklIUnBZMnRsZEdsdVp5QnplWE4wWlcwIiwiYnMiOiJjNDJQUFF2Q01CUkZjYzNrS0prZVdMLTNfb0dBbTRPTENFVW4wX2ExRFRWcFNaNFVfZldtVlFjdGlzUGJ6bm4zWG5aZ3k2aVFCTklpVU9GUEpTV1NNam00cXlQVURpNE9VMUFHTm5zUnJ2aWktWTlXeExZc2lJb0tsSU1qbWhSZE9YTVFxenhIUjVCVXV2WWlWVmFFRXo1dUh0enRCOGQyYk40MTlaeHMyMENCNTdyRmV5MUVPT1ZCODJRVmZRZlppYTFmUDlzNWNSdVpXZXdQZzZ5eWI1bGFHcG1qUmtNaTVIelVTVDdxMHhzTzdnIiwiaWQiOiJmY19VVm0yYW9TcEVNbWtrZFVQNUtIS21BY181In0%3D"
+    },
+    {
+      "question": "What is the best free ticketing system for IT helpdesk management?",
+      "type": "ai_overview",
+      "page_token": "mqW-83icHdBfboIwHADg7DI-CoXgoolZhghoFEJLf0BfFmhB5G-dxI697S471U6zZUf4vq_v7jq0P09pPU3yvtE0pdTyMo6Xrlzysdfy-zxwjeddV-S83ayeV-il4tv9Xdm7UdkRlRIcrBPkymiop7gFG9NsjgZci17euAse0ECVrewpQVIAVBGIiu1lQjx0Lt3gVCYfepbKXW6ImVMUnh24pqa8AWV-4XcjMyIEKbawfgwL7-NR-nAITIxwr1s8tYMY7M9YrxWjVkuAucSBBCfCDD2hSI_tLK4b0bo0M7o7jkXATDozeiAugqSIj3WBAoUpmnJjagFeEdHrU0HdxrsebewHc5gwTIluUUc03K9DqjMphlb9mZuz39knWAdgrPGi4o-tufgf275V_bSR7-PlF_TieGM",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mqW-83icHdBfboIwHADg7DI-CoXgoolZhghoFEJLf0BfFmhB5G-dxI697S471U6zZUf4vq_v7jq0P09pPU3yvtE0pdTyMo6Xrlzysdfy-zxwjeddV-S83ayeV-il4tv9Xdm7UdkRlRIcrBPkymiop7gFG9NsjgZci17euAse0ECVrewpQVIAVBGIiu1lQjx0Lt3gVCYfepbKXW6ImVMUnh24pqa8AWV-4XcjMyIEKbawfgwL7-NR-nAITIxwr1s8tYMY7M9YrxWjVkuAucSBBCfCDD2hSI_tLK4b0bo0M7o7jkXATDozeiAugqSIj3WBAoUpmnJjagFeEdHrU0HdxrsebewHc5gwTIluUUc03K9DqjMphlb9mZuz39knWAdgrPGi4o-tufgf275V_bSR7-PlF_TieGM",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVHdzNiRVZQUzA5SVFqVkhVM1V5Y1ZkNVZ6RlpWMUZvVDNsS1ZraHRVRE54WW5kT1RWOVVObmt4TnkxQ1FuQXdNVnBqTXpZeVRrRklZWG80TjNWaFptNTZVamRyTVdGaFNsRlViSGxCV1VwaVFtdFFSRE5HZWpSclFSSVhWVlp0TW1GdlUzQkZUVzFyYTJSVlVEVkxTRXR0UVdNYUlrRkVjM0k1WmxOMWRFbEtiWGhuWWpOdWFFMVlMWGhEWlU1a2RVMTBjSGd4TldjIiwiZmN2IjoiMyIsImVpIjoiVVZtMmFvU3BFTW1ra2RVUDVLSEttQWMiLCJxYyI6IkNpOWlaWE4wSUdobGJIQWdaR1Z6YXlCMGFXTnJaWFJwYm1jZ2MzbHpkR1Z0Y3lCbWIzSWdhWFFnYzNWd2NHOXlkQkFBZmZ3eUl6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBmcmVlIHRpY2tldGluZyBzeXN0ZW0gZm9yIElUIGhlbHBkZXNrIG1hbmFnZW1lbnQ/IiwibGsiOiJHaGhtY21WbElHbDBJSFJwWTJ0bGRHbHVaeUJ6ZVhOMFpXMCIsImJzIjoiYzQyUFBRdkNNQlJGY2Mza0tKa2VXTC0zX29HQW00T0xDRVVuMF9hMURUVnBTWjRVX2ZXbVZRY3Rpc1Biem5uM1huWmd5NmlRQk5JaVVPRlBKU1dTTWptNHF5UFVEaTRPVTFBR05uc1JydmlpLVk5V3hMWXNpSW9LbElNam1oUmRPWE1RcXp4SFI1QlV1dllpVlZhRUV6NXVIdHp0QjhkMmJONDE5WnhzMjBDQjU3ckZleTFFT09WQjgyUVZmUWZaaWExZlA5czVjUnVaV2V3UGc2eXliNWxhR3BtalJrTWk1SHpVU1Q3cTB4c083ZyIsImlkIjoiZmNfVVZtMmFvU3BFTW1ra2RVUDVLSEttQWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTVVHdzNiRVZQUzA5SVFqVkhVM1V5Y1ZkNVZ6RlpWMUZvVDNsS1ZraHRVRE54WW5kT1RWOVVObmt4TnkxQ1FuQXdNVnBqTXpZeVRrRklZWG80TjNWaFptNTZVamRyTVdGaFNsRlViSGxCV1VwaVFtdFFSRE5HZWpSclFSSVhWVlp0TW1GdlUzQkZUVzFyYTJSVlVEVkxTRXR0UVdNYUlrRkVjM0k1WmxOMWRFbEtiWGhuWWpOdWFFMVlMWGhEWlU1a2RVMTBjSGd4TldjIiwiZmN2IjoiMyIsImVpIjoiVVZtMmFvU3BFTW1ra2RVUDVLSEttQWMiLCJxYyI6IkNpOWlaWE4wSUdobGJIQWdaR1Z6YXlCMGFXTnJaWFJwYm1jZ2MzbHpkR1Z0Y3lCbWIzSWdhWFFnYzNWd2NHOXlkQkFBZmZ3eUl6OCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBmcmVlIHRpY2tldGluZyBzeXN0ZW0gZm9yIElUIGhlbHBkZXNrIG1hbmFnZW1lbnQ%2FIiwibGsiOiJHaGhtY21WbElHbDBJSFJwWTJ0bGRHbHVaeUJ6ZVhOMFpXMCIsImJzIjoiYzQyUFBRdkNNQlJGY2Mza0tKa2VXTC0zX29HQW00T0xDRVVuMF9hMURUVnBTWjRVX2ZXbVZRY3Rpc1Biem5uM1huWmd5NmlRQk5JaVVPRlBKU1dTTWptNHF5UFVEaTRPVTFBR05uc1JydmlpLVk5V3hMWXNpSW9LbElNam1oUmRPWE1RcXp4SFI1QlV1dllpVlZhRUV6NXVIdHp0QjhkMmJONDE5WnhzMjBDQjU3ckZleTFFT09WQjgyUVZmUWZaaWExZlA5czVjUnVaV2V3UGc2eXliNWxhR3BtalJrTWk1SHpVU1Q3cTB4c083ZyIsImlkIjoiZmNfVVZtMmFvU3BFTW1ra2RVUDVLSEttQWNfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "w-eujHiczVXbkqI4GH6AfY7lxh4FTy1dRU0lERW120YbnfaG4hADymkMinq377JPtJf7NBsRFXvV6ZmLrU2VJPx8_yHJ__n98afnBou_f_vLieOIPpVKSZIUSRgSDxet0C8ZdBtYpVno0aXlfCWetKKc40k44FYrD0tJAQFFVZCCR21RsCrDtelutAnaaNNvjmNtN2PT9_jpRCVaZejY7fGO266lCmdRieewK2ljv2yEo0h-9hcLW3ut9To9H1hcmlbSTYPiOatqM6clvcQei98rTfZSpEUcFM2gUX582wHTpcUyL4jFQcnwGQD8ZwMCBagAAUDYJN_GtT8VTZb3gZCaMxGUfTpZmnsMGwuWmo2baWHmK6vk4N9Mdo2kwtb8EXKRKT-Uy6AtcogISRoIIeVT2zkONdsBPKa9Db3xKfPsneuD4Ly-k_n9MjoB8oxAeHbKOzOzc1G0cry2GoDVV4A6CIR3kgEUgqavQkUF91ohRS6RlmTrPhDYtks2YY3Ll8wlm4SSazlWuljSfT-jN5EPW9tWJBJjNB7q4HnTe-ssknVNHU8FsiAly2Q4LzRsbOuOzn9N34WyUOPFymPjISWSRU9MonkmPXd9c15ernkhLPaLUDjSCJ3O58O1yOz9ag9AlEGv3iM820_XJwPSy0HCU5wma1ty6PSjS6ha-8Xz0dJIeVXN5zqeOwHXafQRxGikprXIh_bMPuVcIUDuue78vVavbPHDoUBgnUs4NBMkp0AfDskFQ-W04cvGTQ0qIsxLY4fTJ-7BaF2UCuCZFVkgBez_ngHJCHyyH4AKyTnIGvvtW15GKgJDJDdVMMrgauohZ7nYgeTuBdzohX3JMpjIdwl6e7Q-gWG0yfjyof3ztJF340lcJtNBY-6Iu_aqrxh1LaDtTbkCrtMk9M2fUBzr_0Skkx6FB2G4RSS8X_yQSIwU5J4epY-THqnd_aTJ8i0iuSmR_q1HjSMkl-nyUBQo54mU6hEkt_ToZ4mEbhMJ3SVS7xqRlDtE2uvRJZEWF3qEruvRiUi_oketX9SjlFf4MF2K02pOboqU3FgJyLQjxekFk_FQLSuq0A6T8pcK_2ORmvnxk2_Y3oPu2k-w3I239oPODOETtrnvkolpXHCwFxVsTBeF2LUWOHYDUqBbGmOfFmbhsuDGBbqKonAZc763DCXeqHXJs-7IZjx_pbteENZg1HoFpvg-6Qr4XXOR2N5SZ6D1W3O1Hi8aOz1o2KsuqdXrIo2cl40OdrS3c2zR8PX3cBrOKzoWN4I4SILReDxsDqKy8-YIWrWjtaYAbjW-AuP-Ohqs4uXce9eDQecFf_lGOnOzBtOqqIRH2iga9tuOkXBshxRLAucvLYk1XJWAFxVMCLQASpsVaAajM0qA2q4DVYYctQwd07U0q4o8Fh-rdXNmzWqCxfkk3kZSVeBosJSEfwBJ813K",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=w-eujHiczVXbkqI4GH6AfY7lxh4FTy1dRU0lERW120YbnfaG4hADymkMinq377JPtJf7NBsRFXvV6ZmLrU2VJPx8_yHJ__n98afnBou_f_vLieOIPpVKSZIUSRgSDxet0C8ZdBtYpVno0aXlfCWetKKc40k44FYrD0tJAQFFVZCCR21RsCrDtelutAnaaNNvjmNtN2PT9_jpRCVaZejY7fGO266lCmdRieewK2ljv2yEo0h-9hcLW3ut9To9H1hcmlbSTYPiOatqM6clvcQei98rTfZSpEUcFM2gUX582wHTpcUyL4jFQcnwGQD8ZwMCBagAAUDYJN_GtT8VTZb3gZCaMxGUfTpZmnsMGwuWmo2baWHmK6vk4N9Mdo2kwtb8EXKRKT-Uy6AtcogISRoIIeVT2zkONdsBPKa9Db3xKfPsneuD4Ly-k_n9MjoB8oxAeHbKOzOzc1G0cry2GoDVV4A6CIR3kgEUgqavQkUF91ohRS6RlmTrPhDYtks2YY3Ll8wlm4SSazlWuljSfT-jN5EPW9tWJBJjNB7q4HnTe-ssknVNHU8FsiAly2Q4LzRsbOuOzn9N34WyUOPFymPjISWSRU9MonkmPXd9c15ernkhLPaLUDjSCJ3O58O1yOz9ag9AlEGv3iM820_XJwPSy0HCU5wma1ty6PSjS6ha-8Xz0dJIeVXN5zqeOwHXafQRxGikprXIh_bMPuVcIUDuue78vVavbPHDoUBgnUs4NBMkp0AfDskFQ-W04cvGTQ0qIsxLY4fTJ-7BaF2UCuCZFVkgBez_ngHJCHyyH4AKyTnIGvvtW15GKgJDJDdVMMrgauohZ7nYgeTuBdzohX3JMpjIdwl6e7Q-gWG0yfjyof3ztJF340lcJtNBY-6Iu_aqrxh1LaDtTbkCrtMk9M2fUBzr_0Skkx6FB2G4RSS8X_yQSIwU5J4epY-THqnd_aTJ8i0iuSmR_q1HjSMkl-nyUBQo54mU6hEkt_ToZ4mEbhMJ3SVS7xqRlDtE2uvRJZEWF3qEruvRiUi_oketX9SjlFf4MF2K02pOboqU3FgJyLQjxekFk_FQLSuq0A6T8pcK_2ORmvnxk2_Y3oPu2k-w3I239oPODOETtrnvkolpXHCwFxVsTBeF2LUWOHYDUqBbGmOfFmbhsuDGBbqKonAZc763DCXeqHXJs-7IZjx_pbteENZg1HoFpvg-6Qr4XXOR2N5SZ6D1W3O1Hi8aOz1o2KsuqdXrIo2cl40OdrS3c2zR8PX3cBrOKzoWN4I4SILReDxsDqKy8-YIWrWjtaYAbjW-AuP-Ohqs4uXce9eDQecFf_lGOnOzBtOqqIRH2iga9tuOkXBshxRLAucvLYk1XJWAFxVMCLQASpsVaAajM0qA2q4DVYYctQwd07U0q4o8Fh-rdXNmzWqCxfkk3kZSVeBosJSEfwBJ813K"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Whats your favorite ticketing system? : r/sysadmin",
+      "link": "https://www.reddit.com/r/sysadmin/comments/10bssr6/whats_your_favorite_ticketing_system/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFe5PDPndsaBnOtA5csPKrALcDFsLC_C3C-dC4iK2-2JbviCuCkPvU05V48aVrONCi5SEblsgQHztLY5LKcuIdZbeFVslFpuPQLYifee0JnqcTQpNaGfPslVUjmtkbBnWLDrIdwCsgg-P4N1l_UEUBzjMipt9GlaGAGYOCcSVUHuEEAcf69kylxUA_M4&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQFnoECCoQAQ&uoh=1",
+      "displayed_link": "210+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Hi Friends! Wondering what is everyones favorite ticketing system? We are looking for an internal one for keeping track of support requests from our employees ...",
+      "sitelinks": {
+        "list": [
+          {
+            "title": "what's the best internal help desk or ticketing system ...",
+            "link": "https://www.reddit.com/r/ITManagers/comments/1on3bop/whats_the_best_internal_help_desk_or_ticketing/",
+            "answer_count": 87,
+            "date": "Nov 3, 2025"
+          },
+          {
+            "title": "What's everyone using for internal IT help desk ...",
+            "link": "https://www.reddit.com/r/ITManagers/comments/1msldt9/whats_everyone_using_for_internal_it_help_desk/",
+            "answer_count": 130,
+            "date": "Aug 17, 2025"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Zendesk has been the best one I've used. Before Zendesk, we had Servicedesk Plus. Not great, support was terrible.",
+          "source_info_link": "https://www.reddit.com/r/sysadmin/comments/10bssr6/whats_your_favorite_ticketing_system/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZlNVBEUG5kc2FCbk90QTVjc1BLckFMY0RGc0xDX0MzQy1kQzRpSzItMkpidmlDdUNrUHZVMDVWNDhhVnJPTkNpNVNFYmxzZ1FIenRMWTVMS2N1SWRaYmVGVnNsRnB1UFFMWWlmZWUwSm5xY1RRcE5hR2ZQc2xWVWptdGtiQm5XTERySWR3Q3NnZy1QNE4xbF9VRVVCempNaXB0OUdsYUdBR1lPQ2NTVlVIdUVFQWNmNjlreWx4VUFfTTQSBBoCCAAa0gUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArgUIABAAGAAgACoLCgRiZXN0Fd0nET8qMAoEaGVscBUb8Ys_GhBjdXN0b21lciBzdXBwb3J0GghoZWxwZGVzaxoHc2VydmljZSo2CgRkZXNrFe2pkz8aEGN1c3RvbWVyIHN1cHBvcnQaB2Rlc2t0b3AaCGhlbHBkZXNrGgRsaW5lKjEKCXRpY2tldGluZxUWjoVAGgZ0aWNrZXQaB3RpY2tldHMaDml2O3A7dGlja2V0aW5nKiAKB3N5c3RlbXMVi6Q3PxoIc29mdHdhcmUaBnN5c3RlbSoKCgNmb3IVAAAAACoJCgJpdBUAAAAAKiEKB3N1cHBvcnQVNp5wPxoIaGVscGRlc2saB3NlcnZpY2Uy0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RmU1UERQbmRzYUJuT3RBNWNzUEtyQUxjREZzTENfQzNDLWRDNGlLMi0ySmJ2aUN1Q2tQdlUwNVY0OGFWck9OQ2k1U0VibHNnUUh6dExZNUxLY3VJZFpiZUZWc2xGcHVQUUxZaWZlZTBKbnFjVFFwTmFHZlBzbFZVam10a2JCbldMRHJJZHdDc2dnLVA0TjFsX1VFVUJ6ak1pcHQ5R2xhR0FHWU9DY1NWVUh1RUVBY2Y2OWt5bHhVQV9NNDpCV2hhdHMgeW91ciBmYXZvcml0ZSA8Yj50aWNrZXRpbmcgc3lzdGVtPC9iPj8gOiByL3N5c2FkbWluIC0gUmVkZGl0Qn08Yj5aZW5kZXNrPC9iPiBoYXMgYmVlbiB0aGUgYmVzdCBvbmUgSSYjMzk7dmUgdXNlZC4gQmVmb3JlIFplbmRlc2ssIHdlIGhhZCBTZXJ2aWNlZGVzayBQbHVzLiBOb3QgZ3JlYXQsIHN1cHBvcnQgd2FzIHRlcnJpYmxlLkoCaXRKA2ZvciICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZlNVBEUG5kc2FCbk90QTVjc1BLckFMY0RGc0xDX0MzQy1kQzRpSzItMkpidmlDdUNrUHZVMDVWNDhhVnJPTkNpNVNFYmxzZ1FIenRMWTVMS2N1SWRaYmVGVnNsRnB1UFFMWWlmZWUwSm5xY1RRcE5hR2ZQc2xWVWptdGtiQm5XTERySWR3Q3NnZy1QNE4xbF9VRVVCempNaXB0OUdsYUdBR1lPQ2NTVlVIdUVFQWNmNjlreWx4VUFfTTQSBBoCCAAa0gUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArgUIABAAGAAgACoLCgRiZXN0Fd0nET8qMAoEaGVscBUb8Ys_GhBjdXN0b21lciBzdXBwb3J0GghoZWxwZGVzaxoHc2VydmljZSo2CgRkZXNrFe2pkz8aEGN1c3RvbWVyIHN1cHBvcnQaB2Rlc2t0b3AaCGhlbHBkZXNrGgRsaW5lKjEKCXRpY2tldGluZxUWjoVAGgZ0aWNrZXQaB3RpY2tldHMaDml2O3A7dGlja2V0aW5nKiAKB3N5c3RlbXMVi6Q3PxoIc29mdHdhcmUaBnN5c3RlbSoKCgNmb3IVAAAAACoJCgJpdBUAAAAAKiEKB3N1cHBvcnQVNp5wPxoIaGVscGRlc2saB3NlcnZpY2Uy0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RmU1UERQbmRzYUJuT3RBNWNzUEtyQUxjREZzTENfQzNDLWRDNGlLMi0ySmJ2aUN1Q2tQdlUwNVY0OGFWck9OQ2k1U0VibHNnUUh6dExZNUxLY3VJZFpiZUZWc2xGcHVQUUxZaWZlZTBKbnFjVFFwTmFHZlBzbFZVam10a2JCbldMRHJJZHdDc2dnLVA0TjFsX1VFVUJ6ak1pcHQ5R2xhR0FHWU9DY1NWVUh1RUVBY2Y2OWt5bHhVQV9NNDpCV2hhdHMgeW91ciBmYXZvcml0ZSA8Yj50aWNrZXRpbmcgc3lzdGVtPC9iPj8gOiByL3N5c2FkbWluIC0gUmVkZGl0Qn08Yj5aZW5kZXNrPC9iPiBoYXMgYmVlbiB0aGUgYmVzdCBvbmUgSSYjMzk7dmUgdXNlZC4gQmVmb3JlIFplbmRlc2ssIHdlIGhhZCBTZXJ2aWNlZGVzayBQbHVzLiBOb3QgZ3JlYXQsIHN1cHBvcnQgd2FzIHRlcnJpYmxlLkoCaXRKA2ZvciICEAFIAFgAaAA",
+      "source": "Reddit · r/sysadmin"
+    },
+    {
+      "position": 2,
+      "title": "11 Best Help Desk Software to Fix Customer Support in 2026",
+      "link": "https://www.proprofsdesk.com/blog/best-help-desk-software/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVq8rtMH8qFoEl4MynBGsmQWlrRocfWitwfp97asEz5484q-fmi2zZmYCE1rbWV6FRbqtS2_hpoFg4EFsQYqd28_AE9S7AUhUshM7OvwYyIeXXF-mcJf3Ge35fgxGEUSaOkE8t67nDMMglVdpLVg&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.proprofsdesk.com › Blog › Help Desk",
+      "favicon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAABQBgCdASogACAAPrUurVanIacnG_DgFolsAHfEEFeAlwCYzKv4-ksputzAdZYvrj3KMrPgRZKlz_HcAAD-6EH_b2_z6lYPhBnC_Nb-ssEP_f-lB781-Mh_DWxpnWePEnolrJxJo_FfHuj7pef_Ex_zA490PUFyf4mSWxq1lfuOBvzrM8____9m5Lom3Fef6f8-uje_-lzad9VIHp7tOOUW-xRikKceaHj5QQeZdzB8J-KjHR7pmgLhYWRQ5O9cuUobbmXhErPJUW2lFbs5MaKoDj5mPRElJoksof6-YN9J3DD4OUSclRdYzAvUppqqOyQqFqdafoS9BLtE40gUg9tZ9qucnC1urlKX7eFhHecydoYgMj6YfaXNrWGsXKAA.webp",
+      "date": "Aug 31, 2026",
+      "snippet": "ProProfs Desk is the best help desk software I've used for over 3 years to streamline ticket management, improve agent efficiency, and deliver ...",
+      "snippet_highlighted_words": [
+        "ProProfs Desk"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What Is Help Desk Software?",
+            "link": "https://www.proprofsdesk.com/blog/best-help-desk-software/#What_Is_Help_Desk_Software"
+          },
+          {
+            "title": "Top 11 Help Desk Software",
+            "link": "https://www.proprofsdesk.com/blog/best-help-desk-software/#Top_11_Help_Desk_Software_The_Big_Players"
+          },
+          {
+            "title": "Key Benefits",
+            "link": "https://www.proprofsdesk.com/blog/best-help-desk-software/#What_Are_the_Key_Benefits_of_Help_Desk_Ticketing_Software"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "ProProfs Desk is the best help desk software I've used for over 3 years to streamline ticket management, improve agent efficiency, and deliver ...",
+          "source_info_link": "https://www.proprofsdesk.com/blog/best-help-desk-software/",
+          "icon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAABQBgCdASogACAAPrUurVanIacnG_DgFolsAHfEEFeAlwCYzKv4-ksputzAdZYvrj3KMrPgRZKlz_HcAAD-6EH_b2_z6lYPhBnC_Nb-ssEP_f-lB781-Mh_DWxpnWePEnolrJxJo_FfHuj7pef_Ex_zA490PUFyf4mSWxq1lfuOBvzrM8____9m5Lom3Fef6f8-uje_-lzad9VIHp7tOOUW-xRikKceaHj5QQeZdzB8J-KjHR7pmgLhYWRQ5O9cuUobbmXhErPJUW2lFbs5MaKoDj5mPRElJoksof6-YN9J3DD4OUSclRdYzAvUppqqOyQqFqdafoS9BLtE40gUg9tZ9qucnC1urlKX7eFhHecydoYgMj6YfaXNrWGsXKAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnE4cnRNSDhxRm9FbDRNeW5CR3NtUVdsclJvY2ZXaXR3ZnA5N2FzRXo1NDg0cS1mbWkyelptWUNFMXJiV1Y2RlJicXRTMl9ocG9GZzRFRnNRWXFkMjhfQUU5UzdBVWhVc2hNN092d1l5SWVYWEYtbWNKZjNHZTM1Zmd4R0VVU2FPa0U4dDY3bkRNTWdsVmRwTFZnEgQaAggAGtcFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsQUIABAAGAAgACoLCgRiZXN0FUIQt0AqMAoEaGVscBXh6vVAGhBjdXN0b21lciBzdXBwb3J0GghoZWxwZGVzaxoHc2VydmljZSo2CgRkZXNrFbga8kAaEGN1c3RvbWVyIHN1cHBvcnQaB2Rlc2t0b3AaCGhlbHBkZXNrGgRsaW5lKjEKCXRpY2tldGluZxVdiM4_GgZ0aWNrZXQaB3RpY2tldHMaDml2O3A7dGlja2V0aW5nKiAKB3N5c3RlbXMVEgSePxoIc29mdHdhcmUaBnN5c3RlbSoKCgNmb3IVAAAAACoJCgJpdBUAAAAAKiEKB3N1cHBvcnQV-SW4QBoIaGVscGRlc2saB3NlcnZpY2UyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWcThydE1IOHFGb0VsNE15bkJHc21RV2xyUm9jZldpdHdmcDk3YXNFejU0ODRxLWZtaTJ6Wm1ZQ0UxcmJXVjZGUmJxdFMyX2hwb0ZnNEVGc1FZcWQyOF9BRTlTN0FVaFVzaE03T3Z3WXlJZVhYRi1tY0pmM0dlMzVmZ3hHRVVTYU9rRTh0NjduRE1NZ2xWZHBMVmc6SDExIDxiPkJlc3QgSGVscCBEZXNrIFNvZnR3YXJlPC9iPiB0byBGaXggPGI-Q3VzdG9tZXIgU3VwcG9ydDwvYj4gaW4gMjAyNkKiATxiPlByb1Byb2ZzIERlc2s8L2I-IGlzIHRoZSBiZXN0IGhlbHAgZGVzayBzb2Z0d2FyZSBJJiMzOTt2ZSB1c2VkIGZvciBvdmVyIDMgeWVhcnMgdG8gc3RyZWFtbGluZSB0aWNrZXQgbWFuYWdlbWVudCwgaW1wcm92ZSBhZ2VudCBlZmZpY2llbmN5LCBhbmQgZGVsaXZlciZuYnNwOy4uLkoCaXRKA2ZvciICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnE4cnRNSDhxRm9FbDRNeW5CR3NtUVdsclJvY2ZXaXR3ZnA5N2FzRXo1NDg0cS1mbWkyelptWUNFMXJiV1Y2RlJicXRTMl9ocG9GZzRFRnNRWXFkMjhfQUU5UzdBVWhVc2hNN092d1l5SWVYWEYtbWNKZjNHZTM1Zmd4R0VVU2FPa0U4dDY3bkRNTWdsVmRwTFZnEgQaAggAGtcFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAsQUIABAAGAAgACoLCgRiZXN0FUIQt0AqMAoEaGVscBXh6vVAGhBjdXN0b21lciBzdXBwb3J0GghoZWxwZGVzaxoHc2VydmljZSo2CgRkZXNrFbga8kAaEGN1c3RvbWVyIHN1cHBvcnQaB2Rlc2t0b3AaCGhlbHBkZXNrGgRsaW5lKjEKCXRpY2tldGluZxVdiM4_GgZ0aWNrZXQaB3RpY2tldHMaDml2O3A7dGlja2V0aW5nKiAKB3N5c3RlbXMVEgSePxoIc29mdHdhcmUaBnN5c3RlbSoKCgNmb3IVAAAAACoJCgJpdBUAAAAAKiEKB3N1cHBvcnQV-SW4QBoIaGVscGRlc2saB3NlcnZpY2UyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWcThydE1IOHFGb0VsNE15bkJHc21RV2xyUm9jZldpdHdmcDk3YXNFejU0ODRxLWZtaTJ6Wm1ZQ0UxcmJXVjZGUmJxdFMyX2hwb0ZnNEVGc1FZcWQyOF9BRTlTN0FVaFVzaE03T3Z3WXlJZVhYRi1tY0pmM0dlMzVmZ3hHRVVTYU9rRTh0NjduRE1NZ2xWZHBMVmc6SDExIDxiPkJlc3QgSGVscCBEZXNrIFNvZnR3YXJlPC9iPiB0byBGaXggPGI-Q3VzdG9tZXIgU3VwcG9ydDwvYj4gaW4gMjAyNkKiATxiPlByb1Byb2ZzIERlc2s8L2I-IGlzIHRoZSBiZXN0IGhlbHAgZGVzayBzb2Z0d2FyZSBJJiMzOTt2ZSB1c2VkIGZvciBvdmVyIDMgeWVhcnMgdG8gc3RyZWFtbGluZSB0aWNrZXQgbWFuYWdlbWVudCwgaW1wcm92ZSBhZ2VudCBlZmZpY2llbmN5LCBhbmQgZGVsaXZlciZuYnNwOy4uLkoCaXRKA2ZvciICEAFIAFgAaAA",
+      "source": "ProProfs Help Desk",
+      "read_more_link": "https://www.proprofsdesk.com/blog/best-help-desk-software/#:~:text=ProProfs%20Desk%20is%20the%20best,and%20deliver%20delightful%20customer%20support."
+    },
+    {
+      "position": 3,
+      "title": "Best Ticketing System in 2026: 15 Tools Reviewed by a ...",
+      "link": "https://kayako.com/blog/best-ticketing-system/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAV04WwqFeE3YGNcsth5jCPk5BBRk3L3Ka3-C2lTj1PfHQe83JiFEzKy5-gGarUhdygVcRUpQhePAxMLZ1MWl0glcmscyfPMrEpkbud08oFPCZ8NjDPKuIGssg67E-tabhFGA&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQFnoECDAQAQ&uoh=1",
+      "displayed_link": "https://kayako.com › blog › best-ticketing-system",
+      "favicon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAAAQBQCdASocABwAPtE-tFooIigoFAEAGglsAL_tizZxNsv5twylNE_Nw6mvfi1fJE2AAP72CdJjwuq4XnIRHQs_xVpRBIdcEQ8CClIcniRxyOO1Iak56blL_fXAJ-mS4rY4m6UE9DN7k-32tqkeBOnZJl1SZm0bntTRhWBSnd1Bm-BXrvQOIlfdNZkE_JocEvKjvxF0fx-mlqxrA79FHtl_ZfxUxxcJ--OZg9Cu0XqIOO3nCYMfk_fqPnyd6cBf-PnETNgAAAA.webp",
+      "date": "Mar 22, 2026",
+      "snippet": "A Head of CX breaks down the 15 best ticketing systems in 2026 — from Kayako and Zendesk to Eventbrite and DICE. Real pros, cons, pricing, ...",
+      "snippet_highlighted_words": [
+        "Kayako and Zendesk"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Kayako — The AI Ticketing...",
+            "link": "https://kayako.com/blog/best-ticketing-system/#section-3"
+          },
+          {
+            "title": "Jira Service Management...",
+            "link": "https://kayako.com/blog/best-ticketing-system/#section-7"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "A Head of CX breaks down the 15 best ticketing systems in 2026 — from Kayako and Zendesk to Eventbrite and DICE. Real pros, cons, pricing, ...",
+          "source_info_link": "https://kayako.com/blog/best-ticketing-system/",
+          "icon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAAAQBQCdASocABwAPtE-tFooIigoFAEAGglsAL_tizZxNsv5twylNE_Nw6mvfi1fJE2AAP72CdJjwuq4XnIRHQs_xVpRBIdcEQ8CClIcniRxyOO1Iak56blL_fXAJ-mS4rY4m6UE9DN7k-32tqkeBOnZJl1SZm0bntTRhWBSnd1Bm-BXrvQOIlfdNZkE_JocEvKjvxF0fx-mlqxrA79FHtl_ZfxUxxcJ--OZg9Cu0XqIOO3nCYMfk_fqPnyd6cBf-PnETNgAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjA0V3dxRmVFM1lHTmNzdGg1akNQazVCQlJrM0wzS2EzLUMybFRqMVBmSFFlODNKaUZFekt5NS1nR2FyVWhkeWdWY1JVcFFoZVBBeE1MWjFNV2wwZ2xjbXNjeWZQTXJFcGtidWQwOG9GUENaOE5qRFBLdUlHc3NnNjdFLXRhYmhGR0ESBBoCCAAavgUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCYBQgAEAAYACAAKgsKBGJlc3QVryykQCowCgRoZWxwFXUHCkAaEGN1c3RvbWVyIHN1cHBvcnQaCGhlbHBkZXNrGgdzZXJ2aWNlKjYKBGRlc2sVTFkEQBoQY3VzdG9tZXIgc3VwcG9ydBoHZGVza3RvcBoIaGVscGRlc2saBGxpbmUqMQoJdGlja2V0aW5nFd1lskAaBnRpY2tldBoHdGlja2V0cxoOaXY7cDt0aWNrZXRpbmcqIAoHc3lzdGVtcxXAPeY_Gghzb2Z0d2FyZRoGc3lzdGVtKgoKA2ZvchUAAAAAKgkKAml0FQAAAAAqIQoHc3VwcG9ydBWmdGJAGghoZWxwZGVzaxoHc2VydmljZTKYAS9nb3RvP3VybD1DQUVTWmdIck96QVYwNFd3cUZlRTNZR05jc3RoNWpDUGs1QkJSazNMM0thMy1DMmxUajFQZkhRZTgzSmlGRXpLeTUtZ0dhclVoZHlnVmNSVXBRaGVQQXhNTFoxTVdsMGdsY21zY3lmUE1yRXBrYnVkMDhvRlBDWjhOakRQS3VJR3NzZzY3RS10YWJoRkdBOkU8Yj5CZXN0IFRpY2tldGluZyBTeXN0ZW08L2I-IGluIDIwMjY6IDE1IFRvb2xzIFJldmlld2VkIGJ5IGEgSGVhZCAuLi5CnAFBIEhlYWQgb2YgQ1ggYnJlYWtzIGRvd24gdGhlIDE1IGJlc3QgdGlja2V0aW5nIHN5c3RlbXMgaW4gMjAyNiDigJQgZnJvbSA8Yj5LYXlha28gYW5kIFplbmRlc2s8L2I-IHRvIEV2ZW50YnJpdGUgYW5kIERJQ0UuIFJlYWwgcHJvcywgY29ucywgcHJpY2luZywmbmJzcDsuLi5KA2ZvckoCaXQiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjA0V3dxRmVFM1lHTmNzdGg1akNQazVCQlJrM0wzS2EzLUMybFRqMVBmSFFlODNKaUZFekt5NS1nR2FyVWhkeWdWY1JVcFFoZVBBeE1MWjFNV2wwZ2xjbXNjeWZQTXJFcGtidWQwOG9GUENaOE5qRFBLdUlHc3NnNjdFLXRhYmhGR0ESBBoCCAAavgUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCYBQgAEAAYACAAKgsKBGJlc3QVryykQCowCgRoZWxwFXUHCkAaEGN1c3RvbWVyIHN1cHBvcnQaCGhlbHBkZXNrGgdzZXJ2aWNlKjYKBGRlc2sVTFkEQBoQY3VzdG9tZXIgc3VwcG9ydBoHZGVza3RvcBoIaGVscGRlc2saBGxpbmUqMQoJdGlja2V0aW5nFd1lskAaBnRpY2tldBoHdGlja2V0cxoOaXY7cDt0aWNrZXRpbmcqIAoHc3lzdGVtcxXAPeY_Gghzb2Z0d2FyZRoGc3lzdGVtKgoKA2ZvchUAAAAAKgkKAml0FQAAAAAqIQoHc3VwcG9ydBWmdGJAGghoZWxwZGVzaxoHc2VydmljZTKYAS9nb3RvP3VybD1DQUVTWmdIck96QVYwNFd3cUZlRTNZR05jc3RoNWpDUGs1QkJSazNMM0thMy1DMmxUajFQZkhRZTgzSmlGRXpLeTUtZ0dhclVoZHlnVmNSVXBRaGVQQXhNTFoxTVdsMGdsY21zY3lmUE1yRXBrYnVkMDhvRlBDWjhOakRQS3VJR3NzZzY3RS10YWJoRkdBOkU8Yj5CZXN0IFRpY2tldGluZyBTeXN0ZW08L2I-IGluIDIwMjY6IDE1IFRvb2xzIFJldmlld2VkIGJ5IGEgSGVhZCAuLi5CnAFBIEhlYWQgb2YgQ1ggYnJlYWtzIGRvd24gdGhlIDE1IGJlc3QgdGlja2V0aW5nIHN5c3RlbXMgaW4gMjAyNiDigJQgZnJvbSA8Yj5LYXlha28gYW5kIFplbmRlc2s8L2I-IHRvIEV2ZW50YnJpdGUgYW5kIERJQ0UuIFJlYWwgcHJvcywgY29ucywgcHJpY2luZywmbmJzcDsuLi5KA2ZvckoCaXQiAhABSABYAGgA",
+      "source": "Kayako"
+    },
+    {
+      "position": 4,
+      "title": "The Best IT Help Desk Software We've Tested for 2026",
+      "link": "https://www.pcmag.com/picks/the-best-it-help-desk-software",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAV9MrDYw2gneIfl-QpIkEACC1E-A9RdrPDOPwdfMB4IZ-nxhK60hLHgGSCATOpkb80duR-b4UNwSjmZXkhMrsNjZkxsmj5kd7PMjZj8cJnGOQKLZgVGoNJg7AZUlUGJ8RAFmolQYyPUQKt4JeADQ&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQFnoECCAQAQ&uoh=1",
+      "displayed_link": "https://www.pcmag.com › ... › Help Desk",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXrAC7rAC7rAC7rAC3rACHwZXXqAAzvS170kpz2qbHzhJD____5v8XtKUT71dn_-fr-7_HxcHzuOVHFtC6NAAAAA3RSTlNM9fvAUo4WAAAAqklEQVR4AbXTgQrEIAiA4TbNKmurvf_DnsM44agA4H4ghA8gyJw7zkWHcyesEpUTNdBsfhG9BgQShZhSBhxIPCqi9dI50sDblBqPMhpq0L9jI8PLs-QjS72whGBIhjVt8PkThizBAvHNcBR2SIpPl36x0_xCfLcSEFe3JUJYIkiKdYe-zHH-ZIqAMmsRFdkQalNLNBYsSh1BI59KiVVM0JZxsponLDu23-EDtDAWNH_t18YAAAAASUVORK5CYII.png",
+      "date": "Aug 12, 2026",
+      "snippet": "Zendesk for Employee Service is an excellent IT help desk service, offering extensive ticket management tools, productivity-boosting AI features ...",
+      "snippet_highlighted_words": [
+        "Zendesk for Employee Service"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Zendesk for Employee Service is an excellent IT help desk service, offering extensive ticket management tools, productivity-boosting AI features ...",
+          "source_info_link": "https://www.pcmag.com/picks/the-best-it-help-desk-software",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXrAC7rAC7rAC7rAC3rACHwZXXqAAzvS170kpz2qbHzhJD____5v8XtKUT71dn_-fr-7_HxcHzuOVHFtC6NAAAAA3RSTlNM9fvAUo4WAAAAqklEQVR4AbXTgQrEIAiA4TbNKmurvf_DnsM44agA4H4ghA8gyJw7zkWHcyesEpUTNdBsfhG9BgQShZhSBhxIPCqi9dI50sDblBqPMhpq0L9jI8PLs-QjS72whGBIhjVt8PkThizBAvHNcBR2SIpPl36x0_xCfLcSEFe3JUJYIkiKdYe-zHH-ZIqAMmsRFdkQalNLNBYsSh1BI59KiVVM0JZxsponLDu23-EDtDAWNH_t18YAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVjlNckRZdzJnbmVJZmwtUXBJa0VBQ0MxRS1BOVJkclBET1B3ZGZNQjRJWi1ueGhLNjBoTEhnR1NDQVRPcGtiODBkdVItYjRVTndTam1aWGtoTXJzTmpaa3hzbWo1a2Q3UE1qWmo4Y0puR09RS0xaZ1ZHb05KZzdBWlVsVUdKOFJBRm1vbFFZeVBVUUt0NEplQURREgQaAggAGtsFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAtQUIABAAGAAgACoLCgRiZXN0FabC_EAqMAoEaGVscBXq9pFAGhBjdXN0b21lciBzdXBwb3J0GghoZWxwZGVzaxoHc2VydmljZSo2CgRkZXNrFbZYkkAaEGN1c3RvbWVyIHN1cHBvcnQaB2Rlc2t0b3AaCGhlbHBkZXNrGgRsaW5lKjEKCXRpY2tldGluZxW6HiI_GgZ0aWNrZXQaB3RpY2tldHMaDml2O3A7dGlja2V0aW5nKiAKB3N5c3RlbXMVwyChPxoIc29mdHdhcmUaBnN5c3RlbSoKCgNmb3IVAAAAACoJCgJpdBUAAAAAKiEKB3N1cHBvcnQV9gO9PxoIaGVscGRlc2saB3NlcnZpY2UyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWOU1yRFl3MmduZUlmbC1RcElrRUFDQzFFLUE5UmRyUERPUHdkZk1CNElaLW54aEs2MGhMSGdHU0NBVE9wa2I4MGR1Ui1iNFVOd1NqbVpYa2hNcnNOalpreHNtajVrZDdQTWpaajhjSm5HT1FLTFpnVkdvTkpnN0FaVWxVR0o4UkFGbW9sUVl5UFVRS3Q0SmVBRFE6TlRoZSA8Yj5CZXN0PC9iPiBJVCA8Yj5IZWxwIERlc2sgU29mdHdhcmU8L2I-IFdlJiMzOTt2ZSBUZXN0ZWQgZm9yIDIwMjYgfCBQQ01hZ0KgATxiPlplbmRlc2sgZm9yIEVtcGxveWVlIFNlcnZpY2U8L2I-IGlzIGFuIGV4Y2VsbGVudCBJVCBoZWxwIGRlc2sgc2VydmljZSwgb2ZmZXJpbmcgZXh0ZW5zaXZlIHRpY2tldCBtYW5hZ2VtZW50IHRvb2xzLCBwcm9kdWN0aXZpdHktYm9vc3RpbmcgQUkgZmVhdHVyZXMmbmJzcDsuLi5KAml0SgNmb3IiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVjlNckRZdzJnbmVJZmwtUXBJa0VBQ0MxRS1BOVJkclBET1B3ZGZNQjRJWi1ueGhLNjBoTEhnR1NDQVRPcGtiODBkdVItYjRVTndTam1aWGtoTXJzTmpaa3hzbWo1a2Q3UE1qWmo4Y0puR09RS0xaZ1ZHb05KZzdBWlVsVUdKOFJBRm1vbFFZeVBVUUt0NEplQURREgQaAggAGtsFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAtQUIABAAGAAgACoLCgRiZXN0FabC_EAqMAoEaGVscBXq9pFAGhBjdXN0b21lciBzdXBwb3J0GghoZWxwZGVzaxoHc2VydmljZSo2CgRkZXNrFbZYkkAaEGN1c3RvbWVyIHN1cHBvcnQaB2Rlc2t0b3AaCGhlbHBkZXNrGgRsaW5lKjEKCXRpY2tldGluZxW6HiI_GgZ0aWNrZXQaB3RpY2tldHMaDml2O3A7dGlja2V0aW5nKiAKB3N5c3RlbXMVwyChPxoIc29mdHdhcmUaBnN5c3RlbSoKCgNmb3IVAAAAACoJCgJpdBUAAAAAKiEKB3N1cHBvcnQV9gO9PxoIaGVscGRlc2saB3NlcnZpY2UyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWOU1yRFl3MmduZUlmbC1RcElrRUFDQzFFLUE5UmRyUERPUHdkZk1CNElaLW54aEs2MGhMSGdHU0NBVE9wa2I4MGR1Ui1iNFVOd1NqbVpYa2hNcnNOalpreHNtajVrZDdQTWpaajhjSm5HT1FLTFpnVkdvTkpnN0FaVWxVR0o4UkFGbW9sUVl5UFVRS3Q0SmVBRFE6TlRoZSA8Yj5CZXN0PC9iPiBJVCA8Yj5IZWxwIERlc2sgU29mdHdhcmU8L2I-IFdlJiMzOTt2ZSBUZXN0ZWQgZm9yIDIwMjYgfCBQQ01hZ0KgATxiPlplbmRlc2sgZm9yIEVtcGxveWVlIFNlcnZpY2U8L2I-IGlzIGFuIGV4Y2VsbGVudCBJVCBoZWxwIGRlc2sgc2VydmljZSwgb2ZmZXJpbmcgZXh0ZW5zaXZlIHRpY2tldCBtYW5hZ2VtZW50IHRvb2xzLCBwcm9kdWN0aXZpdHktYm9vc3RpbmcgQUkgZmVhdHVyZXMmbmJzcDsuLi5KAml0SgNmb3IiAhABSABYAGgA",
+      "source": "PCMag",
+      "read_more_link": "https://www.pcmag.com/picks/the-best-it-help-desk-software#:~:text=EXPAND%20PROS%20%26%20CONS"
+    },
+    {
+      "position": 5,
+      "title": "Best Help Desk Software & Ticketing System Comparison",
+      "link": "https://crm.org/crmland/best-help-desk-software",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAV-QM4z-U2PyUWaBbcrPANhgQ2EavwPehVxly7YjPW4dj696bUbELGeunb3OJFdIh3NVU4tN-frMhxqRdAmp_-i9qfVJa5Uw4fkh1ppYMydsq3mHKAl3_QN9io0iNGa7CqsuQ&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://crm.org › crmland › best-help-desk-software",
+      "favicon": "https://serpapi.com/images/i/UklGRloAAABXRUJQVlA4IE4AAAAwAwCdASogACAAPrkurlcnIacnG_DgFwlmALEJf6D2MFKIAP7bUfr1paiYh_-N4_yXev4V9Y4Nr1XD9mZCUb69ocYGKdH-xQ3nSiniIAA.webp",
+      "date": "Jan 19, 2026",
+      "snippet": "We tested 25+ tools to find the seven best help desk software options for faster support, smoother workflows, and happier customers in 2025.",
+      "snippet_highlighted_words": [
+        "seven best help desk software options"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We tested 25+ tools to find the seven best help desk software options for faster support, smoother workflows, and happier customers in 2025.",
+          "source_info_link": "https://crm.org/crmland/best-help-desk-software",
+          "icon": "https://serpapi.com/images/i/UklGRloAAABXRUJQVlA4IE4AAAAwAwCdASogACAAPrkurlcnIacnG_DgFwlmALEJf6D2MFKIAP7bUfr1paiYh_-N4_yXev4V9Y4Nr1XD9mZCUb69ocYGKdH-xQ3nSiniIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVi1RTTR6LVUyUHlVV2FCYmNyUEFOaGdRMkVhdndQZWhWeGx5N1lqUFc0ZGo2OTZiVWJFTEdldW5iM09KRmRJaDNOVlU0dE4tZnJNaHhxUmRBbXBfLWk5cWZWSmE1VXc0ZmtoMXBwWU15ZHNxM21IS0FsM19RTjlpbzBpTkdhN0Nxc3VREgQaAggAGrgFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAkgUIABAAGAAgACoLCgRiZXN0FQT_1EAqMAoEaGVscBX2HPNAGhBjdXN0b21lciBzdXBwb3J0GghoZWxwZGVzaxoHc2VydmljZSo2CgRkZXNrFa6T9kAaEGN1c3RvbWVyIHN1cHBvcnQaB2Rlc2t0b3AaCGhlbHBkZXNrGgRsaW5lKjEKCXRpY2tldGluZxWyI1pAGgZ0aWNrZXQaB3RpY2tldHMaDml2O3A7dGlja2V0aW5nKiAKB3N5c3RlbXMVPRq9PxoIc29mdHdhcmUaBnN5c3RlbSoKCgNmb3IVAAAAACoJCgJpdBUAAAAAKiEKB3N1cHBvcnQVHmRaQBoIaGVscGRlc2saB3NlcnZpY2UymQEvZ290bz91cmw9Q0FFU1p3SHJPekFWLVFNNHotVTJQeVVXYUJiY3JQQU5oZ1EyRWF2d1BlaFZ4bHk3WWpQVzRkajY5NmJVYkVMR2V1bmIzT0pGZEloM05WVTR0Ti1mck1oeHFSZEFtcF8taTlxZlZKYTVVdzRma2gxcHBZTXlkc3EzbUhLQWwzX1FOOWlvMGlOR2E3Q3FzdVE6RzxiPkJlc3QgSGVscCBEZXNrIFNvZnR3YXJlPC9iPiAmYW1wOyA8Yj5UaWNrZXRpbmcgU3lzdGVtPC9iPiBDb21wYXJpc29uQpMBV2UgdGVzdGVkIDI1KyB0b29scyB0byBmaW5kIHRoZSA8Yj5zZXZlbiBiZXN0IGhlbHAgZGVzayBzb2Z0d2FyZSBvcHRpb25zPC9iPiBmb3IgZmFzdGVyIHN1cHBvcnQsIHNtb290aGVyIHdvcmtmbG93cywgYW5kIGhhcHBpZXIgY3VzdG9tZXJzIGluIDIwMjUuSgJpdEoDZm9yIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVi1RTTR6LVUyUHlVV2FCYmNyUEFOaGdRMkVhdndQZWhWeGx5N1lqUFc0ZGo2OTZiVWJFTEdldW5iM09KRmRJaDNOVlU0dE4tZnJNaHhxUmRBbXBfLWk5cWZWSmE1VXc0ZmtoMXBwWU15ZHNxM21IS0FsM19RTjlpbzBpTkdhN0Nxc3VREgQaAggAGrgFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAkgUIABAAGAAgACoLCgRiZXN0FQT_1EAqMAoEaGVscBX2HPNAGhBjdXN0b21lciBzdXBwb3J0GghoZWxwZGVzaxoHc2VydmljZSo2CgRkZXNrFa6T9kAaEGN1c3RvbWVyIHN1cHBvcnQaB2Rlc2t0b3AaCGhlbHBkZXNrGgRsaW5lKjEKCXRpY2tldGluZxWyI1pAGgZ0aWNrZXQaB3RpY2tldHMaDml2O3A7dGlja2V0aW5nKiAKB3N5c3RlbXMVPRq9PxoIc29mdHdhcmUaBnN5c3RlbSoKCgNmb3IVAAAAACoJCgJpdBUAAAAAKiEKB3N1cHBvcnQVHmRaQBoIaGVscGRlc2saB3NlcnZpY2UymQEvZ290bz91cmw9Q0FFU1p3SHJPekFWLVFNNHotVTJQeVVXYUJiY3JQQU5oZ1EyRWF2d1BlaFZ4bHk3WWpQVzRkajY5NmJVYkVMR2V1bmIzT0pGZEloM05WVTR0Ti1mck1oeHFSZEFtcF8taTlxZlZKYTVVdzRma2gxcHBZTXlkc3EzbUhLQWwzX1FOOWlvMGlOR2E3Q3FzdVE6RzxiPkJlc3QgSGVscCBEZXNrIFNvZnR3YXJlPC9iPiAmYW1wOyA8Yj5UaWNrZXRpbmcgU3lzdGVtPC9iPiBDb21wYXJpc29uQpMBV2UgdGVzdGVkIDI1KyB0b29scyB0byBmaW5kIHRoZSA8Yj5zZXZlbiBiZXN0IGhlbHAgZGVzayBzb2Z0d2FyZSBvcHRpb25zPC9iPiBmb3IgZmFzdGVyIHN1cHBvcnQsIHNtb290aGVyIHdvcmtmbG93cywgYW5kIGhhcHBpZXIgY3VzdG9tZXJzIGluIDIwMjUuSgJpdEoDZm9yIgIQAUgAWABoAA",
+      "source": "CRM.org"
+    },
+    {
+      "position": 6,
+      "title": "Best Helpdesk Ticketing Systems for Small Business (2026)",
+      "link": "https://helply.com/blog/helpdesk-ticketing-systems-small-business",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVLI14kdcMeMWnTvysMS3rcbsIY8XH-u7uCZOENsPwpOmuThr_uRAayNiZh16jmxb9M6N4NSyxl_udvBNSJiTcSlpENBiVwWCNySa-iWqwD3HHTgTpTkyEV_rkSUvmFYUYNGG2gPe36yXee4kEoR19NvFkBhQ&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQFnoECEkQAQ&uoh=1",
+      "displayed_link": "https://helply.com › blog › helpdesk-ticketing-systems-s...",
+      "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAABwBgCdASocABwAPtEutFooIagoGAEAGglpAARCPxifRHsAbo6OriDuTosiTerQICDUzv-tT-Jf2a6laAAA_ub5d7mZlp-sQx2SWu_NuUAwVnePFtda1y0jVYTcrW7078PTCfqF0d9mVqDXwEj3EHGs1ZfZdB6ta6WLd8Uv451eUtMLjmdUYdVaHvtk4066v_VkYNw1sDndIr_dFxt2vSZ751ayuf2U__tP_y-yE_P5vF-fdyhkvDQG1kgmfvjwV5zc7pei9JvRSD6z7jokoJcJPd8K4Ld1cl1Zbu-BVENYq32J8mL_yK68Aabd9qkLtwp_XrXJXnAe9p-_3zfa_n7T5sWddPOH_cwa9IAA.webp",
+      "date": "Sep 2, 2026",
+      "snippet": "Compare the 10 best helpdesk ticketing systems for small business (2026): AI, pricing, pros, cons and the right fit for your team.",
+      "snippet_highlighted_words": [
+        "10 best helpdesk ticketing systems for small business"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "The Best Email Ticketing...",
+            "link": "https://helply.com/blog/helpdesk-ticketing-systems-small-business#the-best-email-ticketing-systems-at-a-glance"
+          },
+          {
+            "title": "Helply: Best for Handling More...",
+            "link": "https://helply.com/blog/helpdesk-ticketing-systems-small-business#helply-best-for-handling-more-tickets-without-growing-the-team"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Compare the 10 best helpdesk ticketing systems for small business (2026): AI, pricing, pros, cons and the right fit for your team.",
+          "source_info_link": "https://helply.com/blog/helpdesk-ticketing-systems-small-business",
+          "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAABwBgCdASocABwAPtEutFooIagoGAEAGglpAARCPxifRHsAbo6OriDuTosiTerQICDUzv-tT-Jf2a6laAAA_ub5d7mZlp-sQx2SWu_NuUAwVnePFtda1y0jVYTcrW7078PTCfqF0d9mVqDXwEj3EHGs1ZfZdB6ta6WLd8Uv451eUtMLjmdUYdVaHvtk4066v_VkYNw1sDndIr_dFxt2vSZ751ayuf2U__tP_y-yE_P5vF-fdyhkvDQG1kgmfvjwV5zc7pei9JvRSD6z7jokoJcJPd8K4Ld1cl1Zbu-BVENYq32J8mL_yK68Aabd9qkLtwp_XrXJXnAe9p-_3zfa_n7T5sWddPOH_cwa9IAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkxJMTRrZGNNZU1XblR2eXNNUzNyY2JzSVk4WEgtdTd1Q1pPRU5zUHdwT211VGhyX3VSQWF5TmlaaDE2am14YjlNNk40TlN5eGxfdWR2Qk5TSmlUY1NscEVOQmlWd1dDTnlTYS1pV3F3RDNISFRnVHBUa3lFVl9ya1NVdm1GWVVZTkdHMmdQZTM2eVhlZTRrRW9SMTlOdkZrQmhREgQaAggAGr8FEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAmQUIABAAGAAgACoLCgRiZXN0FQTI20AqMAoEaGVscBVYBdBAGhBjdXN0b21lciBzdXBwb3J0GghoZWxwZGVzaxoHc2VydmljZSo2CgRkZXNrFayBzkAaEGN1c3RvbWVyIHN1cHBvcnQaB2Rlc2t0b3AaCGhlbHBkZXNrGgRsaW5lKjEKCXRpY2tldGluZxVU-dpAGgZ0aWNrZXQaB3RpY2tldHMaDml2O3A7dGlja2V0aW5nKiAKB3N5c3RlbXMVElG3QBoIc29mdHdhcmUaBnN5c3RlbSoKCgNmb3IVAAAAACoJCgJpdBUAAAAAKiEKB3N1cHBvcnQVfF1GQBoIaGVscGRlc2saB3NlcnZpY2UysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWTEkxNGtkY01lTVduVHZ5c01TM3JjYnNJWThYSC11N3VDWk9FTnNQd3BPbXVUaHJfdVJBYXlOaVpoMTZqbXhiOU02TjROU3l4bF91ZHZCTlNKaVRjU2xwRU5CaVZ3V0NOeVNhLWlXcXdEM0hIVGdUcFRreUVWX3JrU1V2bUZZVVlOR0cyZ1BlMzZ5WGVlNGtFb1IxOU52RmtCaFE6QDxiPkJlc3QgSGVscGRlc2sgVGlja2V0aW5nIFN5c3RlbXM8L2I-IGZvciBTbWFsbCBCdXNpbmVzcyAoMjAyNilCiQFDb21wYXJlIHRoZSA8Yj4xMCBiZXN0IGhlbHBkZXNrIHRpY2tldGluZyBzeXN0ZW1zIGZvciBzbWFsbCBidXNpbmVzczwvYj4gKDIwMjYpOiBBSSwgcHJpY2luZywgcHJvcywgY29ucyBhbmQgdGhlIHJpZ2h0IGZpdCBmb3IgeW91ciB0ZWFtLkoDZm9ySgJpdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVkxJMTRrZGNNZU1XblR2eXNNUzNyY2JzSVk4WEgtdTd1Q1pPRU5zUHdwT211VGhyX3VSQWF5TmlaaDE2am14YjlNNk40TlN5eGxfdWR2Qk5TSmlUY1NscEVOQmlWd1dDTnlTYS1pV3F3RDNISFRnVHBUa3lFVl9ya1NVdm1GWVVZTkdHMmdQZTM2eVhlZTRrRW9SMTlOdkZrQmhREgQaAggAGr8FEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAmQUIABAAGAAgACoLCgRiZXN0FQTI20AqMAoEaGVscBVYBdBAGhBjdXN0b21lciBzdXBwb3J0GghoZWxwZGVzaxoHc2VydmljZSo2CgRkZXNrFayBzkAaEGN1c3RvbWVyIHN1cHBvcnQaB2Rlc2t0b3AaCGhlbHBkZXNrGgRsaW5lKjEKCXRpY2tldGluZxVU-dpAGgZ0aWNrZXQaB3RpY2tldHMaDml2O3A7dGlja2V0aW5nKiAKB3N5c3RlbXMVElG3QBoIc29mdHdhcmUaBnN5c3RlbSoKCgNmb3IVAAAAACoJCgJpdBUAAAAAKiEKB3N1cHBvcnQVfF1GQBoIaGVscGRlc2saB3NlcnZpY2UysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWTEkxNGtkY01lTVduVHZ5c01TM3JjYnNJWThYSC11N3VDWk9FTnNQd3BPbXVUaHJfdVJBYXlOaVpoMTZqbXhiOU02TjROU3l4bF91ZHZCTlNKaVRjU2xwRU5CaVZ3V0NOeVNhLWlXcXdEM0hIVGdUcFRreUVWX3JrU1V2bUZZVVlOR0cyZ1BlMzZ5WGVlNGtFb1IxOU52RmtCaFE6QDxiPkJlc3QgSGVscGRlc2sgVGlja2V0aW5nIFN5c3RlbXM8L2I-IGZvciBTbWFsbCBCdXNpbmVzcyAoMjAyNilCiQFDb21wYXJlIHRoZSA8Yj4xMCBiZXN0IGhlbHBkZXNrIHRpY2tldGluZyBzeXN0ZW1zIGZvciBzbWFsbCBidXNpbmVzczwvYj4gKDIwMjYpOiBBSSwgcHJpY2luZywgcHJvcywgY29ucyBhbmQgdGhlIHJpZ2h0IGZpdCBmb3IgeW91ciB0ZWFtLkoDZm9ySgJpdCICEAFIAFgAaAA",
+      "source": "Helply"
+    },
+    {
+      "position": 7,
+      "title": "10 Best Help Desk Software For Amazing Service In 2026",
+      "link": "https://thedigitalprojectmanager.com/tools/helpdesk-software/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAV3ZVkYly9UqSOGIQ0pnrsnjBX-p3PqNothpKo0jPBW6Wcv8-xrcO2CClYWh90GnZzZICC1q6TDrRAhUEnwJCYVryAAzXe-vibw9hR3fIvlYmycoqeHTl4NzfVmOnQN1_g2sIZ1kKe8BXc7E7w5AKjaA&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQFnoECEQQAQ&uoh=1",
+      "displayed_link": "https://thedigitalprojectmanager.com › Tools",
+      "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAAAwBwCdASocABwAPtEutFooIagoGAEAGglsALEe4343nPDq7_90A1ENvsO4CbHeM5Bv5BiebbcUlvnjjp6Wy8FvRYAA_tiOXRcwKA73y2zV5FevDjWZ57d-J3a27bUdRJ4y4b-t4_XY-yYxbZgSKPl59olwNzfHbDYgBf_5mjYUPUVhpK1kR0AaUa_0D1MNIgnXvfRtjeitevjCR_PDZ7Wtn86n_bPSwzLgv_9HrPdf_s_bJa3BRHgeZVPv_DjK2tG2rjNlcTJR6FsXdPJfttEBkkv-4_5_-MO3V2txIBHOAMYIuW_HDNbiDaZwS38Dr_cwETJhpgz4QM8hkYTb6L2_LnI3tqOZIv7GNnr7TbF6mYHnFl0J983tl8BX2ktogXPFYsccIy8lBlEmj-lbacp7mAA.webp",
+      "date": "Aug 31, 2026",
+      "snippet": "Zoho Desk has great features for prioritizing, managing, and closing customer support tickets. Users have control over tickets submitted to the ...",
+      "snippet_highlighted_words": [
+        "Zoho Desk"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Zoho Desk has great features for prioritizing, managing, and closing customer support tickets. Users have control over tickets submitted to the ...",
+          "source_info_link": "https://thedigitalprojectmanager.com/tools/helpdesk-software/",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAAAwBwCdASocABwAPtEutFooIagoGAEAGglsALEe4343nPDq7_90A1ENvsO4CbHeM5Bv5BiebbcUlvnjjp6Wy8FvRYAA_tiOXRcwKA73y2zV5FevDjWZ57d-J3a27bUdRJ4y4b-t4_XY-yYxbZgSKPl59olwNzfHbDYgBf_5mjYUPUVhpK1kR0AaUa_0D1MNIgnXvfRtjeitevjCR_PDZ7Wtn86n_bPSwzLgv_9HrPdf_s_bJa3BRHgeZVPv_DjK2tG2rjNlcTJR6FsXdPJfttEBkkv-4_5_-MO3V2txIBHOAMYIuW_HDNbiDaZwS38Dr_cwETJhpgz4QM8hkYTb6L2_LnI3tqOZIv7GNnr7TbF6mYHnFl0J983tl8BX2ktogXPFYsccIy8lBlEmj-lbacp7mAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjNaVmtZbHk5VXFTT0dJUTBwbnJzbmpCWC1wM1BxTm90aHBLbzBqUEJXNldjdjgteHJjTzJDQ2xZV2g5MEduWnpaSUNDMXE2VERyUkFoVUVud0pDWVZyeUFBelhlLXZpYnc5aFIzZkl2bFlteWNvcWVIVGw0TnpmVm1PblFOMV9nMnNJWjFrS2U4QlhjN0U3dzVBS2phQRIEGgIIABrUBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQK4FCAAQABgAIAAqCwoEYmVzdBXQ3dBAKjAKBGhlbHAVhDndQBoQY3VzdG9tZXIgc3VwcG9ydBoIaGVscGRlc2saB3NlcnZpY2UqNgoEZGVzaxXMjNNAGhBjdXN0b21lciBzdXBwb3J0GgdkZXNrdG9wGghoZWxwZGVzaxoEbGluZSoxCgl0aWNrZXRpbmcVXoa1PxoGdGlja2V0Ggd0aWNrZXRzGg5pdjtwO3RpY2tldGluZyogCgdzeXN0ZW1zFYNnjj8aCHNvZnR3YXJlGgZzeXN0ZW0qCgoDZm9yFQAAAAAqCQoCaXQVAAAAACohCgdzdXBwb3J0FWl23z8aCGhlbHBkZXNrGgdzZXJ2aWNlMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjNaVmtZbHk5VXFTT0dJUTBwbnJzbmpCWC1wM1BxTm90aHBLbzBqUEJXNldjdjgteHJjTzJDQ2xZV2g5MEduWnpaSUNDMXE2VERyUkFoVUVud0pDWVZyeUFBelhlLXZpYnc5aFIzZkl2bFlteWNvcWVIVGw0TnpmVm1PblFOMV9nMnNJWjFrS2U4QlhjN0U3dzVBS2phQTpEMTAgPGI-QmVzdCBIZWxwIERlc2sgU29mdHdhcmU8L2I-IEZvciBBbWF6aW5nIDxiPlNlcnZpY2U8L2I-IEluIDIwMjZCnwE8Yj5ab2hvIERlc2s8L2I-IGhhcyBncmVhdCBmZWF0dXJlcyBmb3IgcHJpb3JpdGl6aW5nLCBtYW5hZ2luZywgYW5kIGNsb3NpbmcgY3VzdG9tZXIgc3VwcG9ydCB0aWNrZXRzLiBVc2VycyBoYXZlIGNvbnRyb2wgb3ZlciB0aWNrZXRzIHN1Ym1pdHRlZCB0byB0aGUmbmJzcDsuLi5KA2ZvckoCaXQiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjNaVmtZbHk5VXFTT0dJUTBwbnJzbmpCWC1wM1BxTm90aHBLbzBqUEJXNldjdjgteHJjTzJDQ2xZV2g5MEduWnpaSUNDMXE2VERyUkFoVUVud0pDWVZyeUFBelhlLXZpYnc5aFIzZkl2bFlteWNvcWVIVGw0TnpmVm1PblFOMV9nMnNJWjFrS2U4QlhjN0U3dzVBS2phQRIEGgIIABrUBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQK4FCAAQABgAIAAqCwoEYmVzdBXQ3dBAKjAKBGhlbHAVhDndQBoQY3VzdG9tZXIgc3VwcG9ydBoIaGVscGRlc2saB3NlcnZpY2UqNgoEZGVzaxXMjNNAGhBjdXN0b21lciBzdXBwb3J0GgdkZXNrdG9wGghoZWxwZGVzaxoEbGluZSoxCgl0aWNrZXRpbmcVXoa1PxoGdGlja2V0Ggd0aWNrZXRzGg5pdjtwO3RpY2tldGluZyogCgdzeXN0ZW1zFYNnjj8aCHNvZnR3YXJlGgZzeXN0ZW0qCgoDZm9yFQAAAAAqCQoCaXQVAAAAACohCgdzdXBwb3J0FWl23z8aCGhlbHBkZXNrGgdzZXJ2aWNlMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjNaVmtZbHk5VXFTT0dJUTBwbnJzbmpCWC1wM1BxTm90aHBLbzBqUEJXNldjdjgteHJjTzJDQ2xZV2g5MEduWnpaSUNDMXE2VERyUkFoVUVud0pDWVZyeUFBelhlLXZpYnc5aFIzZkl2bFlteWNvcWVIVGw0TnpmVm1PblFOMV9nMnNJWjFrS2U4QlhjN0U3dzVBS2phQTpEMTAgPGI-QmVzdCBIZWxwIERlc2sgU29mdHdhcmU8L2I-IEZvciBBbWF6aW5nIDxiPlNlcnZpY2U8L2I-IEluIDIwMjZCnwE8Yj5ab2hvIERlc2s8L2I-IGhhcyBncmVhdCBmZWF0dXJlcyBmb3IgcHJpb3JpdGl6aW5nLCBtYW5hZ2luZywgYW5kIGNsb3NpbmcgY3VzdG9tZXIgc3VwcG9ydCB0aWNrZXRzLiBVc2VycyBoYXZlIGNvbnRyb2wgb3ZlciB0aWNrZXRzIHN1Ym1pdHRlZCB0byB0aGUmbmJzcDsuLi5KA2ZvckoCaXQiAhABSABYAGgA",
+      "source": "The Digital Project Manager",
+      "read_more_link": "https://thedigitalprojectmanager.com/tools/helpdesk-software/#:~:text=Zoho%20Desk%20has%20great%20features,portal%2C%20forums%2C%20and%20web%20forms."
+    },
+    {
+      "position": 8,
+      "title": "10 Best Free Ticketing Systems Reviewed in 2026",
+      "link": "https://thecxlead.com/tools/best-free-ticketing-systems/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVaZFapfWGzv-WQGNLiiR4zK3C0qn7lbMsFKiZ2Z9CXch59Jnr6xyrZlJ5KZ3Md5ktvh8BJnwYyw5dfNj5qAIJ6r5En4awAS2GVbakYCdA2jiR2Ex4dbSz6Vdxw-AY9JT3DDZm2Tf9GlQLaO4&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQFnoECEcQAQ&uoh=1",
+      "displayed_link": "https://thecxlead.com › Tools",
+      "favicon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAAAQBwCdASocABwAPtEwtFooIigoGAEAGglsAJ0zEuSXGAuwDeTkaCEA1hLx0SsmbUyrF-2MVrU59Cb7rzejRXvwAACdLmYlqgy7aOIpfJPPr4nD77WbvIY77tSTovxVfmYyBWjT-rRSYkoi0XbBkupfT96PnJzOep8qaAXVPA_icWvS6p5yCkfn74alGmo_CLbSnSO0xNc1QgHAvq6f7KnhcXbHcUzyWmwXCc_h2X9gx-B8bSqRwyTaThP3bDZvM1xBN7xExndoWyZsbpNwBZIvHJUuL_Ysd2eqn1jSSE8JyVkSnNnlEAhfv2xt4bfLJEYA4beaKR03g_ntZfunqiPRY2BUVwwAAAA.webp",
+      "date": "Jul 30, 2026",
+      "snippet": "Spiceworks simplifies IT support with ticketing, asset tracking, and help desk tools. Spiceworks is a free ticketing and IT management ...",
+      "snippet_highlighted_words": [
+        "Spiceworks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Spiceworks simplifies IT support with ticketing, asset tracking, and help desk tools. Spiceworks is a free ticketing and IT management ...",
+          "source_info_link": "https://thecxlead.com/tools/best-free-ticketing-systems/",
+          "icon": "https://serpapi.com/images/i/UklGRhQBAABXRUJQVlA4IAgBAAAQBwCdASocABwAPtEwtFooIigoGAEAGglsAJ0zEuSXGAuwDeTkaCEA1hLx0SsmbUyrF-2MVrU59Cb7rzejRXvwAACdLmYlqgy7aOIpfJPPr4nD77WbvIY77tSTovxVfmYyBWjT-rRSYkoi0XbBkupfT96PnJzOep8qaAXVPA_icWvS6p5yCkfn74alGmo_CLbSnSO0xNc1QgHAvq6f7KnhcXbHcUzyWmwXCc_h2X9gx-B8bSqRwyTaThP3bDZvM1xBN7xExndoWyZsbpNwBZIvHJUuL_Ysd2eqn1jSSE8JyVkSnNnlEAhfv2xt4bfLJEYA4beaKR03g_ntZfunqiPRY2BUVwwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVmFaRmFwZldHenYtV1FHTkxpaVI0ekszQzBxbjdsYk1zRktpWjJaOUNYY2g1OUpucjZ4eXJabEo1S1ozTWQ1a3R2aDhCSm53WXl3NWRmTmo1cUFJSjZyNUVuNGF3QVMyR1ZiYWtZQ2RBMmppUjJFeDRkYlN6NlZkeHctQVk5SlQzRERabTJUZjlHbFFMYU80EgQaAggAGr0FEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlwUIABAAGAAgACoLCgRiZXN0FV901UAqMAoEaGVscBWg7UJAGhBjdXN0b21lciBzdXBwb3J0GghoZWxwZGVzaxoHc2VydmljZSo2CgRkZXNrFdn39j8aEGN1c3RvbWVyIHN1cHBvcnQaB2Rlc2t0b3AaCGhlbHBkZXNrGgRsaW5lKjEKCXRpY2tldGluZxXWOrdAGgZ0aWNrZXQaB3RpY2tldHMaDml2O3A7dGlja2V0aW5nKiAKB3N5c3RlbXMVNOiyQBoIc29mdHdhcmUaBnN5c3RlbSoKCgNmb3IVAAAAACoJCgJpdBUAAAAAKiEKB3N1cHBvcnQV9jMlQBoIaGVscGRlc2saB3NlcnZpY2UypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWYVpGYXBmV0d6di1XUUdOTGlpUjR6SzNDMHFuN2xiTXNGS2laMlo5Q1hjaDU5Sm5yNnh5clpsSjVLWjNNZDVrdHZoOEJKbndZeXc1ZGZOajVxQUlKNnI1RW40YXdBUzJHVmJha1lDZEEyamlSMkV4NGRiU3o2VmR4dy1BWTlKVDNERFptMlRmOUdsUUxhTzQ6PTEwIDxiPkJlc3Q8L2I-IEZyZWUgPGI-VGlja2V0aW5nIFN5c3RlbXM8L2I-IFJldmlld2VkIGluIDIwMjZClgE8Yj5TcGljZXdvcmtzPC9iPiBzaW1wbGlmaWVzIElUIHN1cHBvcnQgd2l0aCB0aWNrZXRpbmcsIGFzc2V0IHRyYWNraW5nLCBhbmQgaGVscCBkZXNrIHRvb2xzLiBTcGljZXdvcmtzIGlzIGEgZnJlZSB0aWNrZXRpbmcgYW5kIElUIG1hbmFnZW1lbnQmbmJzcDsuLi5KAml0SgNmb3IiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVmFaRmFwZldHenYtV1FHTkxpaVI0ekszQzBxbjdsYk1zRktpWjJaOUNYY2g1OUpucjZ4eXJabEo1S1ozTWQ1a3R2aDhCSm53WXl3NWRmTmo1cUFJSjZyNUVuNGF3QVMyR1ZiYWtZQ2RBMmppUjJFeDRkYlN6NlZkeHctQVk5SlQzRERabTJUZjlHbFFMYU80EgQaAggAGr0FEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlwUIABAAGAAgACoLCgRiZXN0FV901UAqMAoEaGVscBWg7UJAGhBjdXN0b21lciBzdXBwb3J0GghoZWxwZGVzaxoHc2VydmljZSo2CgRkZXNrFdn39j8aEGN1c3RvbWVyIHN1cHBvcnQaB2Rlc2t0b3AaCGhlbHBkZXNrGgRsaW5lKjEKCXRpY2tldGluZxXWOrdAGgZ0aWNrZXQaB3RpY2tldHMaDml2O3A7dGlja2V0aW5nKiAKB3N5c3RlbXMVNOiyQBoIc29mdHdhcmUaBnN5c3RlbSoKCgNmb3IVAAAAACoJCgJpdBUAAAAAKiEKB3N1cHBvcnQV9jMlQBoIaGVscGRlc2saB3NlcnZpY2UypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWYVpGYXBmV0d6di1XUUdOTGlpUjR6SzNDMHFuN2xiTXNGS2laMlo5Q1hjaDU5Sm5yNnh5clpsSjVLWjNNZDVrdHZoOEJKbndZeXc1ZGZOajVxQUlKNnI1RW40YXdBUzJHVmJha1lDZEEyamlSMkV4NGRiU3o2VmR4dy1BWTlKVDNERFptMlRmOUdsUUxhTzQ6PTEwIDxiPkJlc3Q8L2I-IEZyZWUgPGI-VGlja2V0aW5nIFN5c3RlbXM8L2I-IFJldmlld2VkIGluIDIwMjZClgE8Yj5TcGljZXdvcmtzPC9iPiBzaW1wbGlmaWVzIElUIHN1cHBvcnQgd2l0aCB0aWNrZXRpbmcsIGFzc2V0IHRyYWNraW5nLCBhbmQgaGVscCBkZXNrIHRvb2xzLiBTcGljZXdvcmtzIGlzIGEgZnJlZSB0aWNrZXRpbmcgYW5kIElUIG1hbmFnZW1lbnQmbmJzcDsuLi5KAml0SgNmb3IiAhABSABYAGgA",
+      "source": "The CX Lead",
+      "read_more_link": "https://thecxlead.com/tools/best-free-ticketing-systems/#:~:text=Spiceworks%20simplifies%20IT%20support%20with,free%20ticketing%20and%20IT%20management"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best help desk ticketing systems for it support reddit",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&q=Best+help+desk+ticketing+systems+for+it+support+reddit&sa=X&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+help+desk+ticketing+systems+for+it+support+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best help desk ticketing systems for it support free",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&q=Best+help+desk+ticketing+systems+for+it+support+free&sa=X&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+help+desk+ticketing+systems+for+it+support+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Help desk ticketing software list",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&q=Help+desk+ticketing+software+list&sa=X&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Help+desk+ticketing+software+list"
+    },
+    {
+      "block_position": 1,
+      "query": "Ticketing system examples",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&q=Ticketing+system+examples&sa=X&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Ticketing+system+examples"
+    },
+    {
+      "block_position": 1,
+      "query": "Best ticketing system for small business",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&q=Best+ticketing+system+for+small+business&sa=X&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Best+ticketing+system+for+small+business"
+    },
+    {
+      "block_position": 1,
+      "query": "Top 10 help desk software",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&q=Top+10+help+desk+software&sa=X&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Top+10+help+desk+software"
+    },
+    {
+      "block_position": 1,
+      "query": "List of ticketing systems",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&q=List+of+ticketing+systems&sa=X&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=List+of+ticketing+systems"
+    },
+    {
+      "block_position": 1,
+      "query": "Help desk software free",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&q=Help+desk+software+free&sa=X&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=Help+desk+software+free"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "what's the best internal help desk or ticketing system you've used?",
+      "link": "https://www.reddit.com/r/ITManagers/comments/1on3bop/whats_the_best_internal_help_desk_or_ticketing/",
+      "date": "10 months ago",
+      "extensions": [
+        "r/ITManagers",
+        "80+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/ITManagers/comments/1on3bop/whats_the_best_internal_help_desk_or_ticketing/"
+        }
+      ]
+    },
+    {
+      "title": "What are some great options for helpdesk ticketing systems for a 2-person ...",
+      "link": "https://community.spiceworks.com/t/what-are-some-great-options-for-helpdesk-ticketing-systems-for-a-2-person-it-team/1166123",
+      "date": "1 year ago",
+      "source": "Spiceworks Community",
+      "answers": [
+        {
+          "link": "https://community.spiceworks.com/t/what-are-some-great-options-for-helpdesk-ticketing-systems-for-a-2-person-it-team/1166123"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+help+desk+ticketing+systems+for+it+support&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&ei=UVm2aoSpEMmkkdUP5KHKmAc&start=10&sa=N&sstk=AS6-VmLwFxOr1eJumxpv6UFjrNGSFPyAdvuuq184Iiw6EBEgFd8OEcp49PSOt7LfkgvYCxSQagqFHfiUqZbyvihGaLiJFD7TWCmwEQ&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ8NMDegQIOhAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+help+desk+ticketing+systems+for+it+support&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&ei=UVm2aoSpEMmkkdUP5KHKmAc&start=10&sa=N&sstk=AS6-VmLwFxOr1eJumxpv6UFjrNGSFPyAdvuuq184Iiw6EBEgFd8OEcp49PSOt7LfkgvYCxSQagqFHfiUqZbyvihGaLiJFD7TWCmwEQ&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ8tMDegQIOhAE",
+      "3": "https://www.google.com/search?q=best+help+desk+ticketing+systems+for+it+support&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&ei=UVm2aoSpEMmkkdUP5KHKmAc&start=20&sa=N&sstk=AS6-VmLwFxOr1eJumxpv6UFjrNGSFPyAdvuuq184Iiw6EBEgFd8OEcp49PSOt7LfkgvYCxSQagqFHfiUqZbyvihGaLiJFD7TWCmwEQ&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ8tMDegQIOhAG",
+      "4": "https://www.google.com/search?q=best+help+desk+ticketing+systems+for+it+support&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&ei=UVm2aoSpEMmkkdUP5KHKmAc&start=30&sa=N&sstk=AS6-VmLwFxOr1eJumxpv6UFjrNGSFPyAdvuuq184Iiw6EBEgFd8OEcp49PSOt7LfkgvYCxSQagqFHfiUqZbyvihGaLiJFD7TWCmwEQ&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ8tMDegQIOhAI",
+      "5": "https://www.google.com/search?q=best+help+desk+ticketing+systems+for+it+support&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&ei=UVm2aoSpEMmkkdUP5KHKmAc&start=40&sa=N&sstk=AS6-VmLwFxOr1eJumxpv6UFjrNGSFPyAdvuuq184Iiw6EBEgFd8OEcp49PSOt7LfkgvYCxSQagqFHfiUqZbyvihGaLiJFD7TWCmwEQ&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ8tMDegQIOhAK",
+      "6": "https://www.google.com/search?q=best+help+desk+ticketing+systems+for+it+support&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&ei=UVm2aoSpEMmkkdUP5KHKmAc&start=50&sa=N&sstk=AS6-VmLwFxOr1eJumxpv6UFjrNGSFPyAdvuuq184Iiw6EBEgFd8OEcp49PSOt7LfkgvYCxSQagqFHfiUqZbyvihGaLiJFD7TWCmwEQ&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ8tMDegQIOhAM",
+      "7": "https://www.google.com/search?q=best+help+desk+ticketing+systems+for+it+support&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&ei=UVm2aoSpEMmkkdUP5KHKmAc&start=60&sa=N&sstk=AS6-VmLwFxOr1eJumxpv6UFjrNGSFPyAdvuuq184Iiw6EBEgFd8OEcp49PSOt7LfkgvYCxSQagqFHfiUqZbyvihGaLiJFD7TWCmwEQ&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ8tMDegQIOhAO",
+      "8": "https://www.google.com/search?q=best+help+desk+ticketing+systems+for+it+support&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnugSBwextZyKM8SXoLaje6zrN_StQ:1790335313274&ei=UVm2aoSpEMmkkdUP5KHKmAc&start=70&sa=N&sstk=AS6-VmLwFxOr1eJumxpv6UFjrNGSFPyAdvuuq184Iiw6EBEgFd8OEcp49PSOt7LfkgvYCxSQagqFHfiUqZbyvihGaLiJFD7TWCmwEQ&ved=2ahUKEwjElYHjzomXAxVJUqQEHeSQEnMQ8tMDegQIOhAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+help+desk+ticketing+systems+for+it+support&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+help+desk+ticketing+systems+for+it+support&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+help+desk+ticketing+systems+for+it+support&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+help+desk+ticketing+systems+for+it+support&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+help+desk+ticketing+systems+for+it+support&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+help+desk+ticketing+systems+for+it+support&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+help+desk+ticketing+systems+for+it+support&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+help+desk+ticketing+systems+for+it+support&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+help+desk+ticketing+systems+for+it+support&start=70"
+    }
+  }
+}

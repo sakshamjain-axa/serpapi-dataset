@@ -1,0 +1,575 @@
+{
+  "search_metadata": {
+    "id": "6ab65cd51fad368bd3e24a57",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/LmjYJJdgJ_XhNxBXSoXSgzlNqUZgvHHpdfCUkM_kDZ0/6ab65cd51fad368bd3e24a57.json",
+    "markdown_endpoint": "https://serpapi.com/searches/LmjYJJdgJ_XhNxBXSoXSgzlNqUZgvHHpdfCUkM_kDZ0/6ab65cd51fad368bd3e24a57.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/LmjYJJdgJ_XhNxBXSoXSgzlNqUZgvHHpdfCUkM_kDZ0/6ab65cd51fad368bd3e24a57.json_with_pixel_position",
+    "created_at": "2026-09-25 11:36:53 UTC",
+    "processed_at": "2026-09-25 11:36:53 UTC",
+    "google_url": "https://www.google.com/search?q=top+cybersecurity+endpoint+protection+platforms&oq=top+cybersecurity+endpoint+protection+platforms&uule=w+CAIQICIeSG91c3RvbixUWCxUZXhhcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/LmjYJJdgJ_XhNxBXSoXSgzlNqUZgvHHpdfCUkM_kDZ0/6ab65cd51fad368bd3e24a57.html",
+    "total_time_taken": 1.45
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top cybersecurity endpoint protection platforms",
+    "location_requested": "Houston, TX, Texas, United States",
+    "location_used": "Houston,TX,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top cybersecurity endpoint protection platforms",
+    "total_results": 140000,
+    "time_taken_displayed": 0.39,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Best Enterprise Security - ManageEngine Endpoint Central",
+      "link": "https://www.manageengine.com/products/desktop-central/endpoint-central-endpoint-security.html",
+      "displayed_link": "https://www.manageengine.com › endpointcentral › endpointmgmt",
+      "thumbnail": "https://serpapi.com/searches/6ab65cd51fad368bd3e24a57/images/83qAmjjjp8qzFlEnHkDWUw.png",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwio5OiQ0omXAxWMt1oFHQDVEB8YACICCAEQCxoCdnU&co=1&ase=2&gclid=EAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAAYASADEgImMfD_BwE&cid=CAASuwHkaOZyQiFbIdtvcrugVJFXdn3-gt8Eb-H9ftRUdGboqV9OFS0P8r1cQ5EMioq9I6n6gqC8I8eDn_57W7UiqjBLYZphevAziKLCkQyKxz0BHGY1V-IKvP2IXgGFaW73iL-m444XWScmFuwDA3gBQpvg_Yauh16OBzzBHpy1gP0GsehPRKnTYlT2g_F9fO_LoxWRMwD_9p_LYegY2DDS6QsdgLUG_9SqRZ7lR4sfaHDoAG0ih1qJEukDOBwg&cce=2&category=acrcp_v1_32&sig=AOD64_2xTDYy0xnop7l5SK6l5dtydLgOkw&q=&nis=4&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40Qh78CegQIORAB&adurl=https://www.manageengine.com/products/desktop-central/endpoint-central-endpoint-security.html%3Fnetwork%3Dg%26device%3Dc%26keyword%3Dbest%2520enterprise%2520endpoint%2520security%26campaignid%3D9135488370%26creative%3D611599083260%26matchtype%3De%26adposition%3D%26placement%3D%26adgroup%3D90518849737%26targetid%3Dkwd-333790762203%26gad_source%3D1%26gad_campaignid%3D9135488370%26gbraid%3D0AAAAAChbZwVEbHQlD0ssbfO51_G5Prxe5%26gclid%3DEAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAAYASADEgImMfD_BwE",
+      "description": "Automate Endpoint Security - Vulnerability & Patch Management... Read more",
+      "source": "ManageEngine",
+      "sitelinks": [
+        {
+          "title": "Get a Quote",
+          "link": "https://www.manageengine.com/products/desktop-central/get-quote.html?Ext=GetQuote"
+        },
+        {
+          "title": "Personalized Online Demo",
+          "link": "https://www.manageengine.com/products/desktop-central/request-demo.html?Ext=FreeOnlineDemo"
+        },
+        {
+          "title": "All-in-one UEM solution",
+          "link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwio5OiQ0omXAxWMt1oFHQDVEB8YACICCAEQDxoCdnU&co=1&ase=2&gclid=EAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAAYASAEEgLNwPD_BwE&cid=CAASuwHkaOZyQiFbIdtvcrugVJFXdn3-gt8Eb-H9ftRUdGboqV9OFS0P8r1cQ5EMioq9I6n6gqC8I8eDn_57W7UiqjBLYZphevAziKLCkQyKxz0BHGY1V-IKvP2IXgGFaW73iL-m444XWScmFuwDA3gBQpvg_Yauh16OBzzBHpy1gP0GsehPRKnTYlT2g_F9fO_LoxWRMwD_9p_LYegY2DDS6QsdgLUG_9SqRZ7lR4sfaHDoAG0ih1qJEukDOBwg&cce=2&category=acrcp_v1_32&sig=AOD64_22gEVSqSJV6zM-R5YzWOk_oWqEVg&adurl=https://www.manageengine.com/products/desktop-central/endpoint-central-endpoint-security.html%3Fnetwork%3Dg%26device%3Dc%26keyword%3Dbest%2520enterprise%2520endpoint%2520security%26campaignid%3D9135488370%26creative%3D611599083260%26matchtype%3De%26adposition%3D%26placement%3D%26adgroup%3D90518849737%26targetid%3Dkwd-333790762203%26gad_source%3D1%26gad_campaignid%3D9135488370%26gbraid%3D0AAAAAChbZwVEbHQlD0ssbfO51_G5Prxe5%26gclid%3DEAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAAYASAEEgLNwPD_BwE&q="
+        },
+        {
+          "title": "Alternative to many UEM tools",
+          "link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwio5OiQ0omXAxWMt1oFHQDVEB8YACICCAEQExoCdnU&co=1&ase=2&gclid=EAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAAYASAFEgKU9vD_BwE&cid=CAASuwHkaOZyQiFbIdtvcrugVJFXdn3-gt8Eb-H9ftRUdGboqV9OFS0P8r1cQ5EMioq9I6n6gqC8I8eDn_57W7UiqjBLYZphevAziKLCkQyKxz0BHGY1V-IKvP2IXgGFaW73iL-m444XWScmFuwDA3gBQpvg_Yauh16OBzzBHpy1gP0GsehPRKnTYlT2g_F9fO_LoxWRMwD_9p_LYegY2DDS6QsdgLUG_9SqRZ7lR4sfaHDoAG0ih1qJEukDOBwg&cce=2&category=acrcp_v1_32&sig=AOD64_3hGwV-C6evuI3IYdW67BX6C3neJw&adurl=https://www.manageengine.com/products/desktop-central/endpoint-central-endpoint-security.html%3Fnetwork%3Dg%26device%3Dc%26keyword%3Dbest%2520enterprise%2520endpoint%2520security%26campaignid%3D9135488370%26creative%3D611599083260%26matchtype%3De%26adposition%3D%26placement%3D%26adgroup%3D90518849737%26targetid%3Dkwd-333790762203%26gad_source%3D1%26gad_campaignid%3D9135488370%26gbraid%3D0AAAAAChbZwVEbHQlD0ssbfO51_G5Prxe5%26gclid%3DEAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAAYASAFEgKU9vD_BwE&q="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Endpoint Threat Protection - See What Got Exfiltrated",
+      "link": "https://spycloud.com/lp/world-largest-recaptured-identity-data-t1/",
+      "displayed_link": "https://www.spycloud.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwio5OiQ0omXAxWMt1oFHQDVEB8YACICCAEQAhoCdnU&co=1&ase=2&gclid=EAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAAYAiAAEgIcnfD_BwE&cid=CAASuwHkaOZyQiFbIdtvcrugVJFXdn3-gt8Eb-H9ftRUdGboqV9OFS0P8r1cQ5EMioq9I6n6gqC8I8eDn_57W7UiqjBLYZphevAziKLCkQyKxz0BHGY1V-IKvP2IXgGFaW73iL-m444XWScmFuwDA3gBQpvg_Yauh16OBzzBHpy1gP0GsehPRKnTYlT2g_F9fO_LoxWRMwD_9p_LYegY2DDS6QsdgLUG_9SqRZ7lR4sfaHDoAG0ih1qJEukDOBwg&cce=2&category=acrcp_v1_32&sig=AOD64_2R4sinGT3tBb8mDEaJVuh5SnjQCQ&q&nis=4&adurl=https://spycloud.com/lp/world-largest-recaptured-identity-data-t1/?utm_medium%3Dppc%26utm_source%3Dgoogle%26utm_campaign%3Dcye%26utm_term%3Dendpoint%2520protection%2520software%26utm_campaign%3DElevate%2B-%2BEnterprise%2BProtection%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D4387830593%26hsa_cam%3D18910244339%26hsa_grp%3D191561172157%26hsa_ad%3D811628558040%26hsa_src%3Dg%26hsa_tgt%3Dkwd-6912262637%26hsa_kw%3Dendpoint%2520protection%2520software%26hsa_mt%3De%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D1%26gad_campaignid%3D23445432918%26gbraid%3D0AAAAADDlkCO-pPouaXFuG5oJK4WXUNUq7%26gclid%3DEAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAAYAiAAEgIcnfD_BwE",
+      "description": "Stolen credentials are the leading cause of breaches — and yours may already be out there.",
+      "source": "SpyCloud",
+      "sitelinks": [
+        {
+          "title": "Why SpyCloud?",
+          "link": "https://spycloud.com/why-spycloud/"
+        },
+        {
+          "title": "Get a Demo",
+          "link": "https://spycloud.com/request-a-demo/"
+        },
+        {
+          "title": "Check Your Exposure",
+          "link": "https://spycloud.com/check-your-exposure/"
+        },
+        {
+          "title": "Use Cases",
+          "link": "https://spycloud.com/use-cases/"
+        },
+        {
+          "title": "Platform Solutions",
+          "link": "https://spycloud.com/platform/"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "Endpoint Protection Platform | Book a Demo Today",
+      "link": "https://www.n-able.com/lp/endpoint-security-manager",
+      "displayed_link": "https://www.n-able.com",
+      "thumbnail": "https://serpapi.com/searches/6ab65cd51fad368bd3e24a57/images/cSM1HmaejYtDnEe5uvJ09g.jpeg",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwio5OiQ0omXAxWMt1oFHQDVEB8YACICCAEQFhoCdnU&ae=2&co=1&ase=2&gclid=EAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAAYAyADEgIX1_D_BwE&cid=CAASuwHkaOZyQiFbIdtvcrugVJFXdn3-gt8Eb-H9ftRUdGboqV9OFS0P8r1cQ5EMioq9I6n6gqC8I8eDn_57W7UiqjBLYZphevAziKLCkQyKxz0BHGY1V-IKvP2IXgGFaW73iL-m444XWScmFuwDA3gBQpvg_Yauh16OBzzBHpy1gP0GsehPRKnTYlT2g_F9fO_LoxWRMwD_9p_LYegY2DDS6QsdgLUG_9SqRZ7lR4sfaHDoAG0ih1qJEukDOBwg&cce=2&category=acrcp_v1_71&sig=AOD64_21I6_3-9fIXasvizbBQD7YC0F2qg&q=&nis=4&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40Qh78CegQIDBAB&adurl=",
+      "description": "N-able™ Endpoint Protection solutions to reduce risks & defend devices. Book a demo now! AI-driven protection against ransomware, malware, and emerging...",
+      "source": "N-able",
+      "sitelinks": [
+        {
+          "title": "N-able™ Free Demos",
+          "link": "https://www.n-able.com/demos"
+        },
+        {
+          "title": "Gain Forensic-Level Visibility",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwio5OiQ0omXAxWMt1oFHQDVEB8YACICCAEQGBoCdnU&ae=2&co=1&ase=2&gclid=EAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAAYAyAEEgLlvfD_BwE&cid=CAASuwHkaOZyQiFbIdtvcrugVJFXdn3-gt8Eb-H9ftRUdGboqV9OFS0P8r1cQ5EMioq9I6n6gqC8I8eDn_57W7UiqjBLYZphevAziKLCkQyKxz0BHGY1V-IKvP2IXgGFaW73iL-m444XWScmFuwDA3gBQpvg_Yauh16OBzzBHpy1gP0GsehPRKnTYlT2g_F9fO_LoxWRMwD_9p_LYegY2DDS6QsdgLUG_9SqRZ7lR4sfaHDoAG0ih1qJEukDOBwg&cce=2&category=acrcp_v1_71&sig=AOD64_3btvuB7GmpbaYkX-eeZ0jmb049gg&adurl=&q="
+        },
+        {
+          "title": "Talk to a Specialist",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwio5OiQ0omXAxWMt1oFHQDVEB8YACICCAEQGRoCdnU&ae=2&co=1&ase=2&gclid=EAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAAYAyAFEgLjz_D_BwE&cid=CAASuwHkaOZyQiFbIdtvcrugVJFXdn3-gt8Eb-H9ftRUdGboqV9OFS0P8r1cQ5EMioq9I6n6gqC8I8eDn_57W7UiqjBLYZphevAziKLCkQyKxz0BHGY1V-IKvP2IXgGFaW73iL-m444XWScmFuwDA3gBQpvg_Yauh16OBzzBHpy1gP0GsehPRKnTYlT2g_F9fO_LoxWRMwD_9p_LYegY2DDS6QsdgLUG_9SqRZ7lR4sfaHDoAG0ih1qJEukDOBwg&cce=2&category=acrcp_v1_71&sig=AOD64_0C3RfFoyroCd8JxRzrbFCqbuR2_Q&adurl=&q="
+        },
+        {
+          "title": "Contact EDR Team",
+          "link": "https://www.n-able.com/products/endpoint-detection-and-response/contact"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "block_position": "top",
+      "title": "IGEL Immutable Security OS | Save 62% on CAPEX and OPEX",
+      "link": "https://www.igel.com/preventative-security-model/",
+      "displayed_link": "https://www.igel.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwio5OiQ0omXAxWMt1oFHQDVEB8YACICCAEQARoCdnU&co=1&ase=2&gclid=EAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAAYBCAAEgIiaPD_BwE&cid=CAASuwHkaOZyQiFbIdtvcrugVJFXdn3-gt8Eb-H9ftRUdGboqV9OFS0P8r1cQ5EMioq9I6n6gqC8I8eDn_57W7UiqjBLYZphevAziKLCkQyKxz0BHGY1V-IKvP2IXgGFaW73iL-m444XWScmFuwDA3gBQpvg_Yauh16OBzzBHpy1gP0GsehPRKnTYlT2g_F9fO_LoxWRMwD_9p_LYegY2DDS6QsdgLUG_9SqRZ7lR4sfaHDoAG0ih1qJEukDOBwg&cce=2&category=acrcp_v1_32&sig=AOD64_0_hCybh3_3tyBM57GouSLav6LbQw&q&nis=4&adurl",
+      "description": "IGEL's preventative approach stops attacks at the endpoint before they reach your network. Transform endpoint security from reactive to preventative with IGEL. Request a Demo Today! Next-Gen Edge OS. Secure By Design. Platform Independent. Simple To Manage. Free Trial.",
+      "source": "IGEL Technology",
+      "sitelinks": [
+        {
+          "title": "Try IGEL for Free",
+          "link": "https://www.igel.com/get-started/try-for-free/"
+        },
+        {
+          "title": "IGEL for Omnissa",
+          "link": "https://www.igel.com/omnissa/"
+        },
+        {
+          "title": "IGEL for Citrix",
+          "link": "https://www.igel.com/citrix/"
+        },
+        {
+          "title": "Why IGEL OS",
+          "link": "https://www.igel.com/secure-endpoint-os/"
+        },
+        {
+          "title": "TCO Calculator",
+          "link": "https://www.igel.com/tco-calculator/"
+        },
+        {
+          "title": "Security Model",
+          "link": "https://www.igel.com/preventative-security-model/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "title": "Best Enterprise Security - Alternative to many UEM tools",
+      "link": "https://www.manageengine.com/products/desktop-central/endpoint-central-endpoint-security.html",
+      "displayed_link": "https://www.manageengine.com › endpointcentral › endpointmgmt",
+      "thumbnail": "https://tpc.googlesyndication.com/simgad/1491168636729292941?sqp=-oaymwEKCFwQXCABUAFYAQ&rs=AOga4qleG9Pzn_k0xTYVzDipfyIl7drqQg",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwio5OiQ0omXAxWMt1oFHQDVEB8YACICCAIQCBoCdnU&co=1&ase=2&gclid=EAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAMYASADEgLa5fD_BwE&cid=CAASuwHkaOZyQiFbIdtvcrugVJFXdn3-gt8Eb-H9ftRUdGboqV9OFS0P8r1cQ5EMioq9I6n6gqC8I8eDn_57W7UiqjBLYZphevAziKLCkQyKxz0BHGY1V-IKvP2IXgGFaW73iL-m444XWScmFuwDA3gBQpvg_Yauh16OBzzBHpy1gP0GsehPRKnTYlT2g_F9fO_LoxWRMwD_9p_LYegY2DDS6QsdgLUG_9SqRZ7lR4sfaHDoAG0ih1qJEukDOBwg&cce=2&category=acrcp_v1_32&sig=AOD64_3QrfLoFg4FH39km3byuTDxbAm66w&q=&nis=4&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40Qh78CegQIVRAB&adurl=",
+      "description": "Automate Endpoint Security - Vulnerability & Patch Management, Secure USBs ...",
+      "source": "ManageEngine",
+      "sitelinks": [
+        {
+          "title": "Get a Quote",
+          "link": "https://www.manageengine.com/products/desktop-central/get-quote.html?Ext=GetQuote"
+        },
+        {
+          "title": "ManageEngine Endpoint Central",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwio5OiQ0omXAxWMt1oFHQDVEB8YACICCAIQChoCdnU&co=1&ase=2&gclid=EAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAMYASAEEgLQ0fD_BwE&cid=CAASuwHkaOZyQiFbIdtvcrugVJFXdn3-gt8Eb-H9ftRUdGboqV9OFS0P8r1cQ5EMioq9I6n6gqC8I8eDn_57W7UiqjBLYZphevAziKLCkQyKxz0BHGY1V-IKvP2IXgGFaW73iL-m444XWScmFuwDA3gBQpvg_Yauh16OBzzBHpy1gP0GsehPRKnTYlT2g_F9fO_LoxWRMwD_9p_LYegY2DDS6QsdgLUG_9SqRZ7lR4sfaHDoAG0ih1qJEukDOBwg&cce=2&category=acrcp_v1_32&sig=AOD64_3D0GXVFLFtQc3ZQH5KpRxiQKoyyQ&adurl=&q="
+        },
+        {
+          "title": "Personalized Online Demo",
+          "link": "https://www.manageengine.com/products/desktop-central/request-demo.html?Ext=FreeOnlineDemo"
+        },
+        {
+          "title": "All-in-one UEM solution",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwio5OiQ0omXAxWMt1oFHQDVEB8YACICCAIQCxoCdnU&co=1&ase=2&gclid=EAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAMYASAFEgJIT_D_BwE&cid=CAASuwHkaOZyQiFbIdtvcrugVJFXdn3-gt8Eb-H9ftRUdGboqV9OFS0P8r1cQ5EMioq9I6n6gqC8I8eDn_57W7UiqjBLYZphevAziKLCkQyKxz0BHGY1V-IKvP2IXgGFaW73iL-m444XWScmFuwDA3gBQpvg_Yauh16OBzzBHpy1gP0GsehPRKnTYlT2g_F9fO_LoxWRMwD_9p_LYegY2DDS6QsdgLUG_9SqRZ7lR4sfaHDoAG0ih1qJEukDOBwg&cce=2&category=acrcp_v1_32&sig=AOD64_1K9Jov5FuXkl9cT8DAHV1aEP7xDQ&adurl=&q="
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "title": "Endpoint Threat Detection | See What Got Exfiltrated",
+      "link": "https://spycloud.com/lp/world-largest-recaptured-identity-data-t1/",
+      "displayed_link": "https://www.spycloud.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwio5OiQ0omXAxWMt1oFHQDVEB8YACICCAIQABoCdnU&co=1&ase=2&gclid=EAIaIQobChMIqOTokNKJlwMVjLdaBR0A1RAfEAMYAiAAEgJHN_D_BwE&cid=CAASuwHkaOZyQiFbIdtvcrugVJFXdn3-gt8Eb-H9ftRUdGboqV9OFS0P8r1cQ5EMioq9I6n6gqC8I8eDn_57W7UiqjBLYZphevAziKLCkQyKxz0BHGY1V-IKvP2IXgGFaW73iL-m444XWScmFuwDA3gBQpvg_Yauh16OBzzBHpy1gP0GsehPRKnTYlT2g_F9fO_LoxWRMwD_9p_LYegY2DDS6QsdgLUG_9SqRZ7lR4sfaHDoAG0ih1qJEukDOBwg&cce=2&category=acrcp_v1_32&sig=AOD64_3fx3WTzC_hPuHXlVgJGjvjXqkO8w&q&nis=4&adurl",
+      "description": "Stolen credentials are the leading cause of breaches — and yours may already be out there. Check...",
+      "extensions": [
+        "10K+ visits in past month"
+      ],
+      "source": "SpyCloud",
+      "sitelinks": [
+        {
+          "title": "Why SpyCloud?",
+          "link": "https://spycloud.com/why-spycloud/"
+        },
+        {
+          "title": "Get a Demo",
+          "link": "https://spycloud.com/request-a-demo/"
+        },
+        {
+          "title": "Check Your Exposure",
+          "link": "https://spycloud.com/check-your-exposure/"
+        },
+        {
+          "title": "Use Cases",
+          "link": "https://spycloud.com/use-cases/"
+        },
+        {
+          "title": "Platform Solutions",
+          "link": "https://spycloud.com/platform/"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is CrowdStrike an EDR solution?",
+      "type": "ai_overview",
+      "page_token": "bZBz5HicHdDbaoMwAABQ9jN9rLfZQaEMnIlVqNLEXMzL0MTW4i1oUOzb_mVfta_Z2A-ch_P13T2G9ueFN8bo-WhZ67ru7-N47-q9HHurnLdBWrLsuqqU7fHwdnDeb_IE5jX4GNfgSrSmIbIxHV9ZBCfuoPbCk4i1KVeAuAyoUDEfp16zIaIEpiLOOHRQXtgZoCUmYCP9utWD9mRkorwLLjIXk3LHNX-KhACT4RaRmiog3dlTtkaS6oXypK05YtWTogvx5yqEXeVJk3uwqIY_c7MN8kRSR2a6do2bnpO4srWvQLpknOYFJxg-4VznSSNd7WOGODqrR-kEqxxiP23hED2SAJ3TLWOCCIDCK4O4IipGNiyUbdyM616FlNBQLOkzQLubXE7e7n_s9HnrzVFP4_0XzcF5Vg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bZBz5HicHdDbaoMwAABQ9jN9rLfZQaEMnIlVqNLEXMzL0MTW4i1oUOzb_mVfta_Z2A-ch_P13T2G9ueFN8bo-WhZ67ru7-N47-q9HHurnLdBWrLsuqqU7fHwdnDeb_IE5jX4GNfgSrSmIbIxHV9ZBCfuoPbCk4i1KVeAuAyoUDEfp16zIaIEpiLOOHRQXtgZoCUmYCP9utWD9mRkorwLLjIXk3LHNX-KhACT4RaRmiog3dlTtkaS6oXypK05YtWTogvx5yqEXeVJk3uwqIY_c7MN8kRSR2a6do2bnpO4srWvQLpknOYFJxg-4VznSSNd7WOGODqrR-kEqxxiP23hED2SAJ3TLWOCCIDCK4O4IipGNiyUbdyM616FlNBQLOkzQLubXE7e7n_s9HnrzVFP4_0XzcF5Vg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2IxSk5NbUpUVm5OaFVVRlhNVFpNUTBzMVRsVXhhamxCZWtwUWRqbEdUVzVZWmtKYVprNXVXRjk0UjFwa01IcGtUekpyTldONlFrMWZSRTlMVlU1c1NqQnNiWFpNTURSR1h6VjJWMEpFV2pGd1UzTnNMVlEwVVVWQ1p4SVhNV3g1TW1GemFubEpaRmRFZDJKclVIQnljamsyUVdjYUlrRkVjM0k1WmxKTk9FTXljRFI0VjFSMFlqTjVZV1Z1U1hkelpXa3hTVmRqZDFFIiwiZmN2IjoiMyIsImVpIjoiMWx5MmFzanlJZFdEd2JrUHBycjk2QWciLCJxYyI6IkNpOTBiM0FnWTNsaVpYSnpaV04xY21sMGVTQmxibVJ3YjJsdWRDQndjbTkwWldOMGFXOXVJSEJzWVhSbWIzSnRjeEFBZmZtcEV6OCIsInF1ZXN0aW9uIjoiSXMgQ3Jvd2RTdHJpa2UgYW4gRURSIHNvbHV0aW9uPyIsImxrIjoiR2g1cGN5QmpjbTkzWkhOMGNtbHJaU0JoYmlCbFpISWdjMjlzZFhScGIyNCIsImJzIjoiYzQzUFBZX0NNQXlBWWQyYTZlWUtjZDRRSDdxaEVuTUhZR0NydU9HRW1FSml3S0xFVWV5cTR0LVRNblFETWZ1eDlkcXN6TTlXWUpXNDgzLWE2SXBnQTJ6V094QnVXaVVPVlFuRm1BUmNUMlFnNk5OQXpNSE1feTlXd1NZRXZTQWM2UXhMY1BjakprSFhKdEk3T0w1Rkd3aWxLaGZGclB1WW03Mlo5Y2NuOHJTZVRpZE1HRnhlUS0wUWMyMWQ1eUxmVjFmbHZKaDJielhHLU5UNUFWT2IzNkZiLUlZUU9iYU5UWURCUjZhZ01QUW9jNVBUeDhYb3hRd2FFdjMtZWdBIiwiaWQiOiJmY18xbHkyYXNqeUlkV0R3YmtQcHJyOTZBZ181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2IxSk5NbUpUVm5OaFVVRlhNVFpNUTBzMVRsVXhhamxCZWtwUWRqbEdUVzVZWmtKYVprNXVXRjk0UjFwa01IcGtUekpyTldONlFrMWZSRTlMVlU1c1NqQnNiWFpNTURSR1h6VjJWMEpFV2pGd1UzTnNMVlEwVVVWQ1p4SVhNV3g1TW1GemFubEpaRmRFZDJKclVIQnljamsyUVdjYUlrRkVjM0k1WmxKTk9FTXljRFI0VjFSMFlqTjVZV1Z1U1hkelpXa3hTVmRqZDFFIiwiZmN2IjoiMyIsImVpIjoiMWx5MmFzanlJZFdEd2JrUHBycjk2QWciLCJxYyI6IkNpOTBiM0FnWTNsaVpYSnpaV04xY21sMGVTQmxibVJ3YjJsdWRDQndjbTkwWldOMGFXOXVJSEJzWVhSbWIzSnRjeEFBZmZtcEV6OCIsInF1ZXN0aW9uIjoiSXMgQ3Jvd2RTdHJpa2UgYW4gRURSIHNvbHV0aW9uPyIsImxrIjoiR2g1cGN5QmpjbTkzWkhOMGNtbHJaU0JoYmlCbFpISWdjMjlzZFhScGIyNCIsImJzIjoiYzQzUFBZX0NNQXlBWWQyYTZlWUtjZDRRSDdxaEVuTUhZR0NydU9HRW1FSml3S0xFVWV5cTR0LVRNblFETWZ1eDlkcXN6TTlXWUpXNDgzLWE2SXBnQTJ6V094QnVXaVVPVlFuRm1BUmNUMlFnNk5OQXpNSE1feTlXd1NZRXZTQWM2UXhMY1BjakprSFhKdEk3T0w1Rkd3aWxLaGZGclB1WW03Mlo5Y2NuOHJTZVRpZE1HRnhlUS0wUWMyMWQ1eUxmVjFmbHZKaDJielhHLU5UNUFWT2IzNkZiLUlZUU9iYU5UWURCUjZhZ01QUW9jNVBUeDhYb3hRd2FFdjMtZWdBIiwiaWQiOiJmY18xbHkyYXNqeUlkV0R3YmtQcHJyOTZBZ181In0%3D"
+    },
+    {
+      "question": "What are the big 5 cybersecurity companies?",
+      "type": "ai_overview",
+      "page_token": "wxGGhXicHdDbToMwAIDh-DK7dIUdjEsWE2ZXQOls6QF6Y0phw1EOOnSMO9_Fp_JpXLz_L7783z_2ral-b77Kvu9Oq-n0fD7fHtr2YItb09ZTfbo0Zmq0tZk21Wp5t3Qe9mYNPwNv8x54hHedeKQgTnKb-4EbSzHGKHSlKBvsCqIlTsRWjAxGQMp-2CGKcKVGNlIWOff0WbTzDKm0SDy882GPZ8GiaMKQOUpqYYnh3VPqbusYhk3uOh9ZEswjOABcUaDH7QIL2mVHDMgxT-msTHBjYQzv97ETAcXxKZJhkqOBMZQvtOg27JEDA-Z9zMUgUClT4ASxsyXmqiyYKqlfKgoXFJZmyPzqkib4veC2EoDO0ronxg8vO6Y8NbRvhNPRHG3Nx3DUAntK9hsO8xfNlLtD15bZZ4MsFFcjIZO9-VrPJv8_16_7ul91H-3hD9tkgik",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wxGGhXicHdDbToMwAIDh-DK7dIUdjEsWE2ZXQOls6QF6Y0phw1EOOnSMO9_Fp_JpXLz_L7783z_2ral-b77Kvu9Oq-n0fD7fHtr2YItb09ZTfbo0Zmq0tZk21Wp5t3Qe9mYNPwNv8x54hHedeKQgTnKb-4EbSzHGKHSlKBvsCqIlTsRWjAxGQMp-2CGKcKVGNlIWOff0WbTzDKm0SDy882GPZ8GiaMKQOUpqYYnh3VPqbusYhk3uOh9ZEswjOABcUaDH7QIL2mVHDMgxT-msTHBjYQzv97ETAcXxKZJhkqOBMZQvtOg27JEDA-Z9zMUgUClT4ASxsyXmqiyYKqlfKgoXFJZmyPzqkib4veC2EoDO0ronxg8vO6Y8NbRvhNPRHG3Nx3DUAntK9hsO8xfNlLtD15bZZ4MsFFcjIZO9-VrPJv8_16_7ul91H-3hD9tkgik",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2IxSk5NbUpUVm5OaFVVRlhNVFpNUTBzMVRsVXhhamxCZWtwUWRqbEdUVzVZWmtKYVprNXVXRjk0UjFwa01IcGtUekpyTldONlFrMWZSRTlMVlU1c1NqQnNiWFpNTURSR1h6VjJWMEpFV2pGd1UzTnNMVlEwVVVWQ1p4SVhNV3g1TW1GemFubEpaRmRFZDJKclVIQnljamsyUVdjYUlrRkVjM0k1WmxKTk9FTXljRFI0VjFSMFlqTjVZV1Z1U1hkelpXa3hTVmRqZDFFIiwiZmN2IjoiMyIsImVpIjoiMWx5MmFzanlJZFdEd2JrUHBycjk2QWciLCJxYyI6IkNpOTBiM0FnWTNsaVpYSnpaV04xY21sMGVTQmxibVJ3YjJsdWRDQndjbTkwWldOMGFXOXVJSEJzWVhSbWIzSnRjeEFBZmZtcEV6OCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJpZyA1IGN5YmVyc2VjdXJpdHkgY29tcGFuaWVzPyIsImxrIjoiR2lwM2FHRjBJR0Z5WlNCMGFHVWdZbWxuSURVZ1kzbGlaWEp6WldOMWNtbDBlU0JqYjIxd1lXNXBaWE0iLCJicyI6ImM0M1BQWV9DTUF5QVlkMmE2ZVlLY2Q0UUg3cWhFbk1IWUdDcnVPR0VtRUppd0tMRVVleXE0dC1UTW5RRE1mdXg5ZHFzek05V1lKVzQ4My1hNklwZ0EyeldPeEJ1V2lVT1ZRbkZtQVJjVDJRZzZOTkF6TUhNX3k5V3dTWUV2U0FjNlF4TGNQY2pKa0hYSnRJN09MNUZHd2lsS2hmRnJQdVltNzJaOWNjbjhyU2VUaWRNR0Z4ZVEtMFFjMjFkNXlMZlYxZmx2SmgyYnpYRy1OVDVBVk9iMzZGYi1JWVFPYmFOVFlEQlI2YWdNUFFvYzVQVHg4WG94UXdhRXYzLWVnQSIsImlkIjoiZmNfMWx5MmFzanlJZFdEd2JrUHBycjk2QWdfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2IxSk5NbUpUVm5OaFVVRlhNVFpNUTBzMVRsVXhhamxCZWtwUWRqbEdUVzVZWmtKYVprNXVXRjk0UjFwa01IcGtUekpyTldONlFrMWZSRTlMVlU1c1NqQnNiWFpNTURSR1h6VjJWMEpFV2pGd1UzTnNMVlEwVVVWQ1p4SVhNV3g1TW1GemFubEpaRmRFZDJKclVIQnljamsyUVdjYUlrRkVjM0k1WmxKTk9FTXljRFI0VjFSMFlqTjVZV1Z1U1hkelpXa3hTVmRqZDFFIiwiZmN2IjoiMyIsImVpIjoiMWx5MmFzanlJZFdEd2JrUHBycjk2QWciLCJxYyI6IkNpOTBiM0FnWTNsaVpYSnpaV04xY21sMGVTQmxibVJ3YjJsdWRDQndjbTkwWldOMGFXOXVJSEJzWVhSbWIzSnRjeEFBZmZtcEV6OCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIGJpZyA1IGN5YmVyc2VjdXJpdHkgY29tcGFuaWVzPyIsImxrIjoiR2lwM2FHRjBJR0Z5WlNCMGFHVWdZbWxuSURVZ1kzbGlaWEp6WldOMWNtbDBlU0JqYjIxd1lXNXBaWE0iLCJicyI6ImM0M1BQWV9DTUF5QVlkMmE2ZVlLY2Q0UUg3cWhFbk1IWUdDcnVPR0VtRUppd0tMRVVleXE0dC1UTW5RRE1mdXg5ZHFzek05V1lKVzQ4My1hNklwZ0EyeldPeEJ1V2lVT1ZRbkZtQVJjVDJRZzZOTkF6TUhNX3k5V3dTWUV2U0FjNlF4TGNQY2pKa0hYSnRJN09MNUZHd2lsS2hmRnJQdVltNzJaOWNjbjhyU2VUaWRNR0Z4ZVEtMFFjMjFkNXlMZlYxZmx2SmgyYnpYRy1OVDVBVk9iMzZGYi1JWVFPYmFOVFlEQlI2YWdNUFFvYzVQVHg4WG94UXdhRXYzLWVnQSIsImlkIjoiZmNfMWx5MmFzanlJZFdEd2JrUHBycjk2QWdfNSJ9"
+    },
+    {
+      "question": "What's the difference between EPP and EDR?",
+      "type": "ai_overview",
+      "page_token": "E30jlnicHdBRToMwAADQeJl9DgvbzGYWE5QWcJBQoC39MaUMcLRAGBO2v93FU3kajRd4H-_-rT7b5ufhuR7H_rwzjGmallXXVeq4lJ02xPnaSkMKpXIhm93maQNeSrl3hsx-bQs71ioNXRxkjSqF5k6i6jFmimJGPMzUGyY1y_RsU7SaogaDiGKvIL3FWTpjmll5AklihSeegk2iQjdS1SrXs-YIC4HAJUAFypnd5rA_yBt8TxgsA9cfQgtPsesfkhiAoCUCg-1IHO92JDZP6GjmiKRi9lhA53Wg4U20yuewcArTH1LXvspTY0ZUCq-BjrS8NVehxU14pc7KlCY_xCY5YVBfMNyi9HGsj_DPQHJRyq-9tfhP2X-Uetz1Q1f9AnUcboc",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=E30jlnicHdBRToMwAADQeJl9DgvbzGYWE5QWcJBQoC39MaUMcLRAGBO2v93FU3kajRd4H-_-rT7b5ufhuR7H_rwzjGmallXXVeq4lJ02xPnaSkMKpXIhm93maQNeSrl3hsx-bQs71ioNXRxkjSqF5k6i6jFmimJGPMzUGyY1y_RsU7SaogaDiGKvIL3FWTpjmll5AklihSeegk2iQjdS1SrXs-YIC4HAJUAFypnd5rA_yBt8TxgsA9cfQgtPsesfkhiAoCUCg-1IHO92JDZP6GjmiKRi9lhA53Wg4U20yuewcArTH1LXvspTY0ZUCq-BjrS8NVehxU14pc7KlCY_xCY5YVBfMNyi9HGsj_DPQHJRyq-9tfhP2X-Uetz1Q1f9AnUcboc",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2IxSk5NbUpUVm5OaFVVRlhNVFpNUTBzMVRsVXhhamxCZWtwUWRqbEdUVzVZWmtKYVprNXVXRjk0UjFwa01IcGtUekpyTldONlFrMWZSRTlMVlU1c1NqQnNiWFpNTURSR1h6VjJWMEpFV2pGd1UzTnNMVlEwVVVWQ1p4SVhNV3g1TW1GemFubEpaRmRFZDJKclVIQnljamsyUVdjYUlrRkVjM0k1WmxKTk9FTXljRFI0VjFSMFlqTjVZV1Z1U1hkelpXa3hTVmRqZDFFIiwiZmN2IjoiMyIsImVpIjoiMWx5MmFzanlJZFdEd2JrUHBycjk2QWciLCJxYyI6IkNpOTBiM0FnWTNsaVpYSnpaV04xY21sMGVTQmxibVJ3YjJsdWRDQndjbTkwWldOMGFXOXVJSEJzWVhSbWIzSnRjeEFBZmZtcEV6OCIsInF1ZXN0aW9uIjoiV2hhdCdzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gRVBQIGFuZCBFRFI/IiwibGsiOiJHaWwzYUdGMEozTWdkR2hsSUdScFptWmxjbVZ1WTJVZ1ltVjBkMlZsYmlCbGNIQWdZVzVrSUdWa2NnIiwiYnMiOiJjNDNQUFlfQ01BeUFZZDJhNmVZS2NkNFFIN3FoRW5NSFlHQ3J1T0dFbUVKaXdLTEVVZXlxNHQtVE1uUURNZnV4OWRxc3pNOVdZSlc0ODMtYTZJcGdBMnpXT3hCdVdpVU9WUW5GbUFSY1QyUWc2Tk5Bek1ITV95OVd3U1lFdlNBYzZReExjUGNqSmtIWEp0STdPTDVGR3dpbEtoZkZyUHVZbTcyWjljY244clNlVGlkTUdGeGVRLTBRYzIxZDV5TGZWMWZsdkpoMmJ6WEctTlQ1QVZPYjM2RmItSVlRT2JhTlRZREJSNmFnTVBRb2M1UFR4OFhveFF3YUV2My1lZ0EiLCJpZCI6ImZjXzFseTJhc2p5SWRXRHdia1BwcnI5NkFnXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2IxSk5NbUpUVm5OaFVVRlhNVFpNUTBzMVRsVXhhamxCZWtwUWRqbEdUVzVZWmtKYVprNXVXRjk0UjFwa01IcGtUekpyTldONlFrMWZSRTlMVlU1c1NqQnNiWFpNTURSR1h6VjJWMEpFV2pGd1UzTnNMVlEwVVVWQ1p4SVhNV3g1TW1GemFubEpaRmRFZDJKclVIQnljamsyUVdjYUlrRkVjM0k1WmxKTk9FTXljRFI0VjFSMFlqTjVZV1Z1U1hkelpXa3hTVmRqZDFFIiwiZmN2IjoiMyIsImVpIjoiMWx5MmFzanlJZFdEd2JrUHBycjk2QWciLCJxYyI6IkNpOTBiM0FnWTNsaVpYSnpaV04xY21sMGVTQmxibVJ3YjJsdWRDQndjbTkwWldOMGFXOXVJSEJzWVhSbWIzSnRjeEFBZmZtcEV6OCIsInF1ZXN0aW9uIjoiV2hhdCdzIHRoZSBkaWZmZXJlbmNlIGJldHdlZW4gRVBQIGFuZCBFRFI%2FIiwibGsiOiJHaWwzYUdGMEozTWdkR2hsSUdScFptWmxjbVZ1WTJVZ1ltVjBkMlZsYmlCbGNIQWdZVzVrSUdWa2NnIiwiYnMiOiJjNDNQUFlfQ01BeUFZZDJhNmVZS2NkNFFIN3FoRW5NSFlHQ3J1T0dFbUVKaXdLTEVVZXlxNHQtVE1uUURNZnV4OWRxc3pNOVdZSlc0ODMtYTZJcGdBMnpXT3hCdVdpVU9WUW5GbUFSY1QyUWc2Tk5Bek1ITV95OVd3U1lFdlNBYzZReExjUGNqSmtIWEp0STdPTDVGR3dpbEtoZkZyUHVZbTcyWjljY244clNlVGlkTUdGeGVRLTBRYzIxZDV5TGZWMWZsdkpoMmJ6WEctTlQ1QVZPYjM2RmItSVlRT2JhTlRZREJSNmFnTVBRb2M1UFR4OFhveFF3YUV2My1lZ0EiLCJpZCI6ImZjXzFseTJhc2p5SWRXRHdia1BwcnI5NkFnXzUifQ%3D%3D"
+    },
+    {
+      "question": "What are some popular endpoint security tools?",
+      "type": "ai_overview",
+      "page_token": "3RqmjnicHdDNboIwAADg7GU8ahnipolZgoBIRk0LLbSXBQqKtvwpk5_b3mVPtafZstN3_76-1aWSP0-Pouua-2ax6Pt-fq7rs8rnoi4XyX2sxEIkSqWJkJvVy0p7O4mt_Xkwd-3BRKRpqIVBII2G7jQnl2yCujn4yqHoAiYGsimPoSsqZqAqC8Ln5sYqB6WkaAOiERh5f9YgcyBEMntn2uuIVOb7YKAJ6FZQz1oe0ZFrxQ0DHEOLXpPIifieHsMS9_4zH1IdGbzyTkzzjWPsXVmI3dzCu8RuPn257MjkXSkpVOAyA1vOStiqFHv1yGkT5yUtYjAsI8vuqG62ufTGwMKmXYghdeXIYtjmREkKsM7KDgnXG48hN_lQXxDBk7iqkpTK4Yp0PsFHCChPtcJK92sYuh4TZE3hhAfez07isdVn_5_bj1PZbZpbff4FqieEgg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3RqmjnicHdDNboIwAADg7GU8ahnipolZgoBIRk0LLbSXBQqKtvwpk5_b3mVPtafZstN3_76-1aWSP0-Pouua-2ax6Pt-fq7rs8rnoi4XyX2sxEIkSqWJkJvVy0p7O4mt_Xkwd-3BRKRpqIVBII2G7jQnl2yCujn4yqHoAiYGsimPoSsqZqAqC8Ln5sYqB6WkaAOiERh5f9YgcyBEMntn2uuIVOb7YKAJ6FZQz1oe0ZFrxQ0DHEOLXpPIifieHsMS9_4zH1IdGbzyTkzzjWPsXVmI3dzCu8RuPn257MjkXSkpVOAyA1vOStiqFHv1yGkT5yUtYjAsI8vuqG62ufTGwMKmXYghdeXIYtjmREkKsM7KDgnXG48hN_lQXxDBk7iqkpTK4Yp0PsFHCChPtcJK92sYuh4TZE3hhAfez07isdVn_5_bj1PZbZpbff4FqieEgg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2IxSk5NbUpUVm5OaFVVRlhNVFpNUTBzMVRsVXhhamxCZWtwUWRqbEdUVzVZWmtKYVprNXVXRjk0UjFwa01IcGtUekpyTldONlFrMWZSRTlMVlU1c1NqQnNiWFpNTURSR1h6VjJWMEpFV2pGd1UzTnNMVlEwVVVWQ1p4SVhNV3g1TW1GemFubEpaRmRFZDJKclVIQnljamsyUVdjYUlrRkVjM0k1WmxKTk9FTXljRFI0VjFSMFlqTjVZV1Z1U1hkelpXa3hTVmRqZDFFIiwiZmN2IjoiMyIsImVpIjoiMWx5MmFzanlJZFdEd2JrUHBycjk2QWciLCJxYyI6IkNpOTBiM0FnWTNsaVpYSnpaV04xY21sMGVTQmxibVJ3YjJsdWRDQndjbTkwWldOMGFXOXVJSEJzWVhSbWIzSnRjeEFBZmZtcEV6OCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgc29tZSBwb3B1bGFyIGVuZHBvaW50IHNlY3VyaXR5IHRvb2xzPyIsImxrIjoiR2h4bGJtUndiMmx1ZENCelpXTjFjbWwwZVNCMGIyOXNjeUJzYVhOMCIsImJzIjoiYzQzUFBZX0NNQXlBWWQyYTZlWUtjZDRRSDdxaEVuTUhZR0NydU9HRW1FSml3S0xFVWV5cTR0LVRNblFETWZ1eDlkcXN6TTlXWUpXNDgzLWE2SXBnQTJ6V094QnVXaVVPVlFuRm1BUmNUMlFnNk5OQXpNSE1feTlXd1NZRXZTQWM2UXhMY1BjakprSFhKdEk3T0w1Rkd3aWxLaGZGclB1WW03Mlo5Y2NuOHJTZVRpZE1HRnhlUS0wUWMyMWQ1eUxmVjFmbHZKaDJielhHLU5UNUFWT2IzNkZiLUlZUU9iYU5UWURCUjZhZ01QUW9jNVBUeDhYb3hRd2FFdjMtZWdBIiwiaWQiOiJmY18xbHkyYXNqeUlkV0R3YmtQcHJyOTZBZ181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS2IxSk5NbUpUVm5OaFVVRlhNVFpNUTBzMVRsVXhhamxCZWtwUWRqbEdUVzVZWmtKYVprNXVXRjk0UjFwa01IcGtUekpyTldONlFrMWZSRTlMVlU1c1NqQnNiWFpNTURSR1h6VjJWMEpFV2pGd1UzTnNMVlEwVVVWQ1p4SVhNV3g1TW1GemFubEpaRmRFZDJKclVIQnljamsyUVdjYUlrRkVjM0k1WmxKTk9FTXljRFI0VjFSMFlqTjVZV1Z1U1hkelpXa3hTVmRqZDFFIiwiZmN2IjoiMyIsImVpIjoiMWx5MmFzanlJZFdEd2JrUHBycjk2QWciLCJxYyI6IkNpOTBiM0FnWTNsaVpYSnpaV04xY21sMGVTQmxibVJ3YjJsdWRDQndjbTkwWldOMGFXOXVJSEJzWVhSbWIzSnRjeEFBZmZtcEV6OCIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgc29tZSBwb3B1bGFyIGVuZHBvaW50IHNlY3VyaXR5IHRvb2xzPyIsImxrIjoiR2h4bGJtUndiMmx1ZENCelpXTjFjbWwwZVNCMGIyOXNjeUJzYVhOMCIsImJzIjoiYzQzUFBZX0NNQXlBWWQyYTZlWUtjZDRRSDdxaEVuTUhZR0NydU9HRW1FSml3S0xFVWV5cTR0LVRNblFETWZ1eDlkcXN6TTlXWUpXNDgzLWE2SXBnQTJ6V094QnVXaVVPVlFuRm1BUmNUMlFnNk5OQXpNSE1feTlXd1NZRXZTQWM2UXhMY1BjakprSFhKdEk3T0w1Rkd3aWxLaGZGclB1WW03Mlo5Y2NuOHJTZVRpZE1HRnhlUS0wUWMyMWQ1eUxmVjFmbHZKaDJielhHLU5UNUFWT2IzNkZiLUlZUU9iYU5UWURCUjZhZ01QUW9jNVBUeDhYb3hRd2FFdjMtZWdBIiwiaWQiOiJmY18xbHkyYXNqeUlkV0R3YmtQcHJyOTZBZ181In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "OU73-HiczVXbcqpIFP2A-Y7hJYmCqNFUUaeatjV4OQmiJubFQmgb5KaAIr6df5nPmS-Yr5kGESWJ5pzzMDVdBX1h7967d6_F-vGXbbrWP3_8bYThKngol6MoKhHPIzYuaZ5TVoPY1coLzw58zfi22dhYiG4gkGQJSljpNDmNH27n5m78Anfjt1fD0OLdZO7Y7NuLTMb80NA7kz1j2AJ2GWILm4CJtwLPaIHAMtgUODuuqMEylvSXVjS3nle-36wDwqRhhdlcDfCSZrVbBuVZmb6sP_kWnZSCEnZLnX7E7Ty-YSmDUoWt8KWnsupQA_CfNRFIQAYQAEI7dNmu81O7IZRsBOWzJQKzT_lKK7GhzaKhabsYVsx8kUwO_q1o34h4OmZzk-hCIlJx0zY5mIsk3QhC6aeOc2xydgIxm8PLphc-ZZ69U34iOI2vRJ4WdycALYgonpzOnemyUUhaOl5bDYjVZwAfIfCuBAPQAy1HFiUZXINCaunD8bH2fcDRY5d1QoHLluc-7biyqRlaOvCDBM9w1GS99lNXj_dk22ndr0SFqzXugDzDdpeX-nJZm1M721N1rM-MGfstnXMVrsY2-fvGbUokLciZFJwzadB15suKv2U5r9QvidyRRjCvT34thwGi3XsMpFNRySwK95jhmYin9fz6ECC9M9OsviIELQpbckD60cWTtWQwOK40El7B6nmsY92p36c0em-U0CjNBR3giQoZH8L2zI-uSauCj-1dUUSgnVI4gEkk-UbvwG6CoZQfuAjcdEGGhHqNaXH6JEtJO6WK6I9h2D7Zkyyf5FcNSEbgfP1Qf4mcaATQmD4J5BGUIRhCZMhAyczl1ANlsaB5fi-ggIXzAkxpUi_oKkEvt_bXJgltMr68g_85bRCuyW7LwuAVAWTJuF1bj0f92as07kef08Rz5r-gONr_iUi5HnkHYbhEJJwMviQSJQW5pkfp66RH3aQbI3SJSOsUtR_1qJGbnPSoWBRJROdESvVIJJf06FeJBC8TCV4lUu8zIklXiJToUZFIVkGPCkQ66VFOpN_Ro_Zv6lHKK3zoiuK0WZKLIvWIB_262lU5y96Su6ZVlzcevt-_uVPna5FaOOGDo-r27czUH8RKN4z12xld8B6wzqyF0FvdaPEc-5SjG98M4xvs6ivPdMOble-FWAtNz71Z2Wq48HwnYBzb9wRWvfeXfWVh9r3N3aTCKqNRtaIrUtiJ_fCxYvGVWm2qjZW2ZU1m1s7cWGpjsdbMbX0AHNaGQ_Wpgc0JWI6MyaQLe-7ShXjpyMo-nNbX_X2Pf5W8ded1uNh3ZHvam1bVhb8b7aOo9b2qIkXprXY63-qNYzS4eyVgGaV5BYL13NPW3ciI2lPG8TWBQq1KwHcZvBAKR5jClD6UyDCiTx3ISGQCTZ3hYCssqk0WN--r9flCW9Q4jXFIGK-EKscEri9w_wIZc149",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OU73-HiczVXbcqpIFP2A-Y7hJYmCqNFUUaeatjV4OQmiJubFQmgb5KaAIr6df5nPmS-Yr5kGESWJ5pzzMDVdBX1h7967d6_F-vGXbbrWP3_8bYThKngol6MoKhHPIzYuaZ5TVoPY1coLzw58zfi22dhYiG4gkGQJSljpNDmNH27n5m78Anfjt1fD0OLdZO7Y7NuLTMb80NA7kz1j2AJ2GWILm4CJtwLPaIHAMtgUODuuqMEylvSXVjS3nle-36wDwqRhhdlcDfCSZrVbBuVZmb6sP_kWnZSCEnZLnX7E7Ty-YSmDUoWt8KWnsupQA_CfNRFIQAYQAEI7dNmu81O7IZRsBOWzJQKzT_lKK7GhzaKhabsYVsx8kUwO_q1o34h4OmZzk-hCIlJx0zY5mIsk3QhC6aeOc2xydgIxm8PLphc-ZZ69U34iOI2vRJ4WdycALYgonpzOnemyUUhaOl5bDYjVZwAfIfCuBAPQAy1HFiUZXINCaunD8bH2fcDRY5d1QoHLluc-7biyqRlaOvCDBM9w1GS99lNXj_dk22ndr0SFqzXugDzDdpeX-nJZm1M721N1rM-MGfstnXMVrsY2-fvGbUokLciZFJwzadB15suKv2U5r9QvidyRRjCvT34thwGi3XsMpFNRySwK95jhmYin9fz6ECC9M9OsviIELQpbckD60cWTtWQwOK40El7B6nmsY92p36c0em-U0CjNBR3giQoZH8L2zI-uSauCj-1dUUSgnVI4gEkk-UbvwG6CoZQfuAjcdEGGhHqNaXH6JEtJO6WK6I9h2D7Zkyyf5FcNSEbgfP1Qf4mcaATQmD4J5BGUIRhCZMhAyczl1ANlsaB5fi-ggIXzAkxpUi_oKkEvt_bXJgltMr68g_85bRCuyW7LwuAVAWTJuF1bj0f92as07kef08Rz5r-gONr_iUi5HnkHYbhEJJwMviQSJQW5pkfp66RH3aQbI3SJSOsUtR_1qJGbnPSoWBRJROdESvVIJJf06FeJBC8TCV4lUu8zIklXiJToUZFIVkGPCkQ66VFOpN_Ro_Zv6lHKK3zoiuK0WZKLIvWIB_262lU5y96Su6ZVlzcevt-_uVPna5FaOOGDo-r27czUH8RKN4z12xld8B6wzqyF0FvdaPEc-5SjG98M4xvs6ivPdMOble-FWAtNz71Z2Wq48HwnYBzb9wRWvfeXfWVh9r3N3aTCKqNRtaIrUtiJ_fCxYvGVWm2qjZW2ZU1m1s7cWGpjsdbMbX0AHNaGQ_Wpgc0JWI6MyaQLe-7ShXjpyMo-nNbX_X2Pf5W8ded1uNh3ZHvam1bVhb8b7aOo9b2qIkXprXY63-qNYzS4eyVgGaV5BYL13NPW3ciI2lPG8TWBQq1KwHcZvBAKR5jClD6UyDCiTx3ISGQCTZ3hYCssqk0WN--r9flCW9Q4jXFIGK-EKscEri9w_wIZc149"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top CrowdStrike Competitors & Alternatives 2026",
+      "link": "https://www.gartner.com/reviews/market/endpoint-protection-platforms/vendor/crowdstrike/alternatives?pageNum=9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFaWSouBJDqEW_VME-owWMX5B_-qu6oRzwVk3OkPB6tMoAmZw6532RfByP4VKn7g31dx38ddS9dPJvxbhiPNO4kk2k9iY_bgclTGdUME7v6TLiTC9pyaG5KxVzEdNARIMyrfgnFYILykcHg0My36rCtd5Hifa5N99w_JZBkJ6Qju8jP6i3wodPpwF_Dq4KtVz5K5z1lfIyoGsBte4FzYY-RgF&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40QFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://www.gartner.com › reviews › market › vendor",
+      "favicon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAACwBQCdASocABwAPtEutFooIagoGAEAGgloAKwBjE7fby1LBL3XKv0cTOPsI-8ymbglxuP2U0AA_vYJ0mPBAKhqlx6rwJOFYUZZZymgh5pLItE7DtbG_tDfZyxO5hU0BF2DsaH0j548LDn-z7a0nQa6AeSy0PiXfR_KvZ_9otIlMn-PK3xuHOWiwjrDD__qlT-Kiy2k5mAYlP2fN-C1f_83sZvfdTmlSd_KmORlla2dtdLLQGPUBPWXsC2Ix4cHJhstIaFyw2-458liMMmBkwYQNnEByaDkGfz1RWOjJJt9HTeY5B_iQOMhss0-cJVqxnfhcoGGPVA3cZYVKMdxdN_dLn7SQ_-hIDKdm5AAAAA.webp",
+      "snippet": "Vipre has one of the best Endpoint security software on the market. We have installed it in many of our locations. It is very easy to setup and administrate ...",
+      "snippet_highlighted_words": [
+        "best Endpoint"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Vipre has one of the best Endpoint security software on the market. We have installed it in many of our locations. It is very easy to setup and administrate ...",
+          "source_info_link": "https://www.gartner.com/reviews/market/endpoint-protection-platforms/vendor/crowdstrike/alternatives?pageNum=9",
+          "icon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAACwBQCdASocABwAPtEutFooIagoGAEAGgloAKwBjE7fby1LBL3XKv0cTOPsI-8ymbglxuP2U0AA_vYJ0mPBAKhqlx6rwJOFYUZZZymgh5pLItE7DtbG_tDfZyxO5hU0BF2DsaH0j548LDn-z7a0nQa6AeSy0PiXfR_KvZ_9otIlMn-PK3xuHOWiwjrDD__qlT-Kiy2k5mAYlP2fN-C1f_83sZvfdTmlSd_KmORlla2dtdLLQGPUBPWXsC2Ix4cHJhstIaFyw2-458liMMmBkwYQNnEByaDkGfz1RWOjJJt9HTeY5B_iQOMhss0-cJVqxnfhcoGGPVA3cZYVKMdxdN_dLn7SQ_-hIDKdm5AAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZhV1NvdUJKRHFFV19WTUUtb3dXTVg1Ql8tcXU2b1J6d1ZrM09rUEI2dE1vQW1adzY1MzJSZkJ5UDRWS243ZzMxZHgzOGRkUzlkUEp2eGJoaVBOTzRrazJrOWlZX2JnY2xUR2RVTUU3djZUTGlUQzlweWFHNUt4VnpFZE5BUklNeXJmZ25GWUlMeWtjSGcwTXkzNnJDdGQ1SGlmYTVOOTl3X0paQmtKNlFqdThqUDZpM3dvZFBwd0ZfRHE0S3RWejVLNXoxbGZJeW9Hc0J0ZTRGellZLVJnRhIEGgIIABr2BRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDSBQgAEAAYACAAKisKA3RvcBWeaf8_GgRiZXN0GgdiaWdnZXN0GgdsYXJnZXN0GgdsZWFkaW5nKjgKDWN5YmVyc2VjdXJpdHkVhFTCPRoOY3liZXIgc2VjdXJpdHkaEml2O3A7Y3liZXJzZWN1cml0eSoyCghlbmRwb2ludBVjdJZAGhJlbmRwb2ludHByb3RlY3Rpb24aDWl2O3A7ZW5kcG9pbnQqJQoKcHJvdGVjdGlvbhVqtphAGhJlbmRwb2ludHByb3RlY3Rpb24qGgoJcGxhdGZvcm1zFXJ2ukAaCHBsYXRmb3JtMu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZhV1NvdUJKRHFFV19WTUUtb3dXTVg1Ql8tcXU2b1J6d1ZrM09rUEI2dE1vQW1adzY1MzJSZkJ5UDRWS243ZzMxZHgzOGRkUzlkUEp2eGJoaVBOTzRrazJrOWlZX2JnY2xUR2RVTUU3djZUTGlUQzlweWFHNUt4VnpFZE5BUklNeXJmZ25GWUlMeWtjSGcwTXkzNnJDdGQ1SGlmYTVOOTl3X0paQmtKNlFqdThqUDZpM3dvZFBwd0ZfRHE0S3RWejVLNXoxbGZJeW9Hc0J0ZTRGellZLVJnRjpEPGI-VG9wPC9iPiBDcm93ZFN0cmlrZSBDb21wZXRpdG9ycyAmYW1wOyBBbHRlcm5hdGl2ZXMgMjAyNiAtIEdhcnRuZXJCrAFWaXByZSBoYXMgb25lIG9mIHRoZSA8Yj5iZXN0IEVuZHBvaW50PC9iPiBzZWN1cml0eSBzb2Z0d2FyZSBvbiB0aGUgbWFya2V0LiBXZSBoYXZlIGluc3RhbGxlZCBpdCBpbiBtYW55IG9mIG91ciBsb2NhdGlvbnMuIEl0IGlzIHZlcnkgZWFzeSB0byBzZXR1cCBhbmQgYWRtaW5pc3RyYXRlJm5ic3A7Li4uUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZhV1NvdUJKRHFFV19WTUUtb3dXTVg1Ql8tcXU2b1J6d1ZrM09rUEI2dE1vQW1adzY1MzJSZkJ5UDRWS243ZzMxZHgzOGRkUzlkUEp2eGJoaVBOTzRrazJrOWlZX2JnY2xUR2RVTUU3djZUTGlUQzlweWFHNUt4VnpFZE5BUklNeXJmZ25GWUlMeWtjSGcwTXkzNnJDdGQ1SGlmYTVOOTl3X0paQmtKNlFqdThqUDZpM3dvZFBwd0ZfRHE0S3RWejVLNXoxbGZJeW9Hc0J0ZTRGellZLVJnRhIEGgIIABr2BRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDSBQgAEAAYACAAKisKA3RvcBWeaf8_GgRiZXN0GgdiaWdnZXN0GgdsYXJnZXN0GgdsZWFkaW5nKjgKDWN5YmVyc2VjdXJpdHkVhFTCPRoOY3liZXIgc2VjdXJpdHkaEml2O3A7Y3liZXJzZWN1cml0eSoyCghlbmRwb2ludBVjdJZAGhJlbmRwb2ludHByb3RlY3Rpb24aDWl2O3A7ZW5kcG9pbnQqJQoKcHJvdGVjdGlvbhVqtphAGhJlbmRwb2ludHByb3RlY3Rpb24qGgoJcGxhdGZvcm1zFXJ2ukAaCHBsYXRmb3JtMu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZhV1NvdUJKRHFFV19WTUUtb3dXTVg1Ql8tcXU2b1J6d1ZrM09rUEI2dE1vQW1adzY1MzJSZkJ5UDRWS243ZzMxZHgzOGRkUzlkUEp2eGJoaVBOTzRrazJrOWlZX2JnY2xUR2RVTUU3djZUTGlUQzlweWFHNUt4VnpFZE5BUklNeXJmZ25GWUlMeWtjSGcwTXkzNnJDdGQ1SGlmYTVOOTl3X0paQmtKNlFqdThqUDZpM3dvZFBwd0ZfRHE0S3RWejVLNXoxbGZJeW9Hc0J0ZTRGellZLVJnRjpEPGI-VG9wPC9iPiBDcm93ZFN0cmlrZSBDb21wZXRpdG9ycyAmYW1wOyBBbHRlcm5hdGl2ZXMgMjAyNiAtIEdhcnRuZXJCrAFWaXByZSBoYXMgb25lIG9mIHRoZSA8Yj5iZXN0IEVuZHBvaW50PC9iPiBzZWN1cml0eSBzb2Z0d2FyZSBvbiB0aGUgbWFya2V0LiBXZSBoYXZlIGluc3RhbGxlZCBpdCBpbiBtYW55IG9mIG91ciBsb2NhdGlvbnMuIEl0IGlzIHZlcnkgZWFzeSB0byBzZXR1cCBhbmQgYWRtaW5pc3RyYXRlJm5ic3A7Li4uUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Gartner",
+      "read_more_link": "https://www.gartner.com/reviews/market/endpoint-protection-platforms/vendor/crowdstrike/alternatives?pageNum=9#:~:text=Vipre%20has%20one%20of%20the,administrate%20thru%20the%20cloud%20portal."
+    },
+    {
+      "position": 2,
+      "title": "7 best endpoint protection software for 2026",
+      "link": "https://www.guideflow.com/blog/best-endpoint-protection-software",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVxQkZUznudReUnDgnpluU9Lf6Ge1MWCzQzsWHrQftyUoJ9ltSQA3CExl7Xx6CtFVY4j_bJlrIL581pvu1ig-oX86N7DVb--1ry5lhn9ofAulrZsyunszRSNMrspoDXUmJ3R3PgWdfGSnwF_D9sjCfKhmpIg&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40QFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://www.guideflow.com › blog › best-endpoint-pro...",
+      "favicon": "https://serpapi.com/images/i/UklGRlgBAABXRUJQVlA4IEwBAABQBwCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHAmgr0G2wu03eSSVPePJnPtvuEPtOl7-KR7ArxmW3yKq9dj7_MAAP7ws5dqtB7zI7YanD00u5iLbxB2KvVEKaKfoMVC_C0OkZy4T3Gl23yxyvubQ6r6JVVQq8n_8cx1fs9qnnUXifcvv5MQvwn7XTBVq8GSmNFfygnp_yICGVXxBS8zQv_MAJtuU9Y9Lrg3EHfXDaWjTYN7wlqHdf4ZkZhjkkaaeJI1jBanPpzXDH2HBF9FljtcMJTl1bVqHh8IyEQNoVIxwgEPuIZYm8OIOuxNF5xir2U6mSLIs_YX8_7S14Y1rpFJuy3jg6Qn7_m9wQgThBNuRvzjyyFEcDvRcF8V2Pj4ETlTTaacFcnOzLQ2b6Nd7nKWs_Q2RAV-aeyJVug3LhnO3JbYDQ4Xrz6AAA.webp",
+      "date": "Jul 14, 2026",
+      "snippet": "1. Microsoft Defender for Endpoint · 2. SentinelOne Singularity Endpoint · 3. Sophos Endpoint · 4. Bitdefender GravityZone · 5. CrowdStrike Falcon ...",
+      "snippet_highlighted_words": [
+        "Microsoft Defender for Endpoint"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Microsoft Defender for Endpoint · 2. SentinelOne Singularity Endpoint · 3. Sophos Endpoint · 4. Bitdefender GravityZone · 5. CrowdStrike Falcon ...",
+          "source_info_link": "https://www.guideflow.com/blog/best-endpoint-protection-software",
+          "icon": "https://serpapi.com/images/i/UklGRlgBAABXRUJQVlA4IEwBAABQBwCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHAmgr0G2wu03eSSVPePJnPtvuEPtOl7-KR7ArxmW3yKq9dj7_MAAP7ws5dqtB7zI7YanD00u5iLbxB2KvVEKaKfoMVC_C0OkZy4T3Gl23yxyvubQ6r6JVVQq8n_8cx1fs9qnnUXifcvv5MQvwn7XTBVq8GSmNFfygnp_yICGVXxBS8zQv_MAJtuU9Y9Lrg3EHfXDaWjTYN7wlqHdf4ZkZhjkkaaeJI1jBanPpzXDH2HBF9FljtcMJTl1bVqHh8IyEQNoVIxwgEPuIZYm8OIOuxNF5xir2U6mSLIs_YX8_7S14Y1rpFJuy3jg6Qn7_m9wQgThBNuRvzjyyFEcDvRcF8V2Pj4ETlTTaacFcnOzLQ2b6Nd7nKWs_Q2RAV-aeyJVug3LhnO3JbYDQ4Xrz6AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVnhRa1pVem51ZFJlVW5EZ25wbHVVOUxmNkdlMU1XQ3pRenNXSHJRZnR5VW9KOWx0U1FBM0NFeGw3WHg2Q3RGVlk0al9iSmxySUw1ODFwdnUxaWctb1g4Nk43RFZiLS0xcnk1bGhuOW9mQXVsclpzeXVuc3pSU05NcnNwb0RYVW1KM1IzUGdXZGZHU253Rl9EOXNqQ2ZLaG1wSWcSBBoCCAAaygUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJApgUIABAAGAAgACorCgN0b3AVDvX5PRoEYmVzdBoHYmlnZ2VzdBoHbGFyZ2VzdBoHbGVhZGluZyo4Cg1jeWJlcnNlY3VyaXR5FeFGIj0aDmN5YmVyIHNlY3VyaXR5GhJpdjtwO2N5YmVyc2VjdXJpdHkqMgoIZW5kcG9pbnQVOWajQBoSZW5kcG9pbnRwcm90ZWN0aW9uGg1pdjtwO2VuZHBvaW50KiUKCnByb3RlY3Rpb24VbHqdQBoSZW5kcG9pbnRwcm90ZWN0aW9uKhoKCXBsYXRmb3JtcxWnu2c_GghwbGF0Zm9ybTKwAS9nb3RvP3VybD1DQUVTZUFIck96QVZ4UWtaVXpudWRSZVVuRGducGx1VTlMZjZHZTFNV0N6UXpzV0hyUWZ0eVVvSjlsdFNRQTNDRXhsN1h4NkN0RlZZNGpfYkpscklMNTgxcHZ1MWlnLW9YODZON0RWYi0tMXJ5NWxobjlvZkF1bHJac3l1bnN6UlNOTXJzcG9EWFVtSjNSM1BnV2RmR1Nud0ZfRDlzakNmS2htcElnOkQ3IDxiPmJlc3QgZW5kcG9pbnQgcHJvdGVjdGlvbjwvYj4gc29mdHdhcmUgZm9yIDIwMjYgLSBHdWlkZWZsb3cgQmxvZ0K-ATEuIDxiPk1pY3Jvc29mdCBEZWZlbmRlciBmb3IgRW5kcG9pbnQ8L2I-ICZtaWRkb3Q7IDIuIFNlbnRpbmVsT25lIFNpbmd1bGFyaXR5IEVuZHBvaW50ICZtaWRkb3Q7IDMuIFNvcGhvcyBFbmRwb2ludCAmbWlkZG90OyA0LiBCaXRkZWZlbmRlciBHcmF2aXR5Wm9uZSAmbWlkZG90OyA1LiBDcm93ZFN0cmlrZSBGYWxjb24mbmJzcDsuLi5SBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVnhRa1pVem51ZFJlVW5EZ25wbHVVOUxmNkdlMU1XQ3pRenNXSHJRZnR5VW9KOWx0U1FBM0NFeGw3WHg2Q3RGVlk0al9iSmxySUw1ODFwdnUxaWctb1g4Nk43RFZiLS0xcnk1bGhuOW9mQXVsclpzeXVuc3pSU05NcnNwb0RYVW1KM1IzUGdXZGZHU253Rl9EOXNqQ2ZLaG1wSWcSBBoCCAAaygUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJApgUIABAAGAAgACorCgN0b3AVDvX5PRoEYmVzdBoHYmlnZ2VzdBoHbGFyZ2VzdBoHbGVhZGluZyo4Cg1jeWJlcnNlY3VyaXR5FeFGIj0aDmN5YmVyIHNlY3VyaXR5GhJpdjtwO2N5YmVyc2VjdXJpdHkqMgoIZW5kcG9pbnQVOWajQBoSZW5kcG9pbnRwcm90ZWN0aW9uGg1pdjtwO2VuZHBvaW50KiUKCnByb3RlY3Rpb24VbHqdQBoSZW5kcG9pbnRwcm90ZWN0aW9uKhoKCXBsYXRmb3JtcxWnu2c_GghwbGF0Zm9ybTKwAS9nb3RvP3VybD1DQUVTZUFIck96QVZ4UWtaVXpudWRSZVVuRGducGx1VTlMZjZHZTFNV0N6UXpzV0hyUWZ0eVVvSjlsdFNRQTNDRXhsN1h4NkN0RlZZNGpfYkpscklMNTgxcHZ1MWlnLW9YODZON0RWYi0tMXJ5NWxobjlvZkF1bHJac3l1bnN6UlNOTXJzcG9EWFVtSjNSM1BnV2RmR1Nud0ZfRDlzakNmS2htcElnOkQ3IDxiPmJlc3QgZW5kcG9pbnQgcHJvdGVjdGlvbjwvYj4gc29mdHdhcmUgZm9yIDIwMjYgLSBHdWlkZWZsb3cgQmxvZ0K-ATEuIDxiPk1pY3Jvc29mdCBEZWZlbmRlciBmb3IgRW5kcG9pbnQ8L2I-ICZtaWRkb3Q7IDIuIFNlbnRpbmVsT25lIFNpbmd1bGFyaXR5IEVuZHBvaW50ICZtaWRkb3Q7IDMuIFNvcGhvcyBFbmRwb2ludCAmbWlkZG90OyA0LiBCaXRkZWZlbmRlciBHcmF2aXR5Wm9uZSAmbWlkZG90OyA1LiBDcm93ZFN0cmlrZSBGYWxjb24mbmJzcDsuLi5SBGJlc3QiAhABSABYAGgA",
+      "source": "Guideflow",
+      "read_more_link": "https://www.guideflow.com/blog/best-endpoint-protection-software#:~:text=1.%20Microsoft%20Defender%20for%20Endpoint&text=2.%20SentinelOne%20Singularity%20Endpoint&text=3.%20Sophos%20Endpoint&text=4.%20Bitdefender%20GravityZone&text=5.%20CrowdStrike%20Falcon%20Endpoint%20Protection,Platform"
+    },
+    {
+      "position": 3,
+      "title": "Top Endpoint Security Products for Business in 2026",
+      "link": "https://www.sentinelone.com/tw/cybersecurity-101/endpoint-security/endpoint-security-products/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlgEB6zswFWiZwMrpvFbnyr9IEZ9GloeY4G4vYj4Q2G-LUYUcRsmPt_nm9xidBT8b8CPwdjwe8Baxn6RJ72VPeLOsNxsQTapkRGVJBO83ljSVcwhm856Bx1YKeG16UbQjMv5MoVpy3Mz4iHUk8ujoY6ugVRScOq-xdQXa9zu-sjNgDSHwoUU4Uhz0S6UHP0h3wzT2aqiQkxw&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40QFnoECBsQAQ&uoh=1",
+      "displayed_link": "https://www.sentinelone.com › end...",
+      "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAAAwCQCdASogACAAPrUurVanIacnG_DgFolsAJ0yhH4mgzgM-A3wD9ZuAA6TX9ofRriQVJrRBM7K3czn1Yh72FITC47YPvvvjciM8pJIttg_j1YAAP7wt6o7f7jb79xtYbh2_vamUHAa2iR2HTD18RyUjffhLrhfJNvteMUn-tdyGj-dOaST-uersAOUPdKFAtexp6DhXNqBUOzn7QuZeTfCBQvwZem2qKfg2wkB1f_eUJ7_bQCvkf_Q4r84MzueoR__coXfp4no3Efxz__knj0Pxc9Qv7ktWIgKmxX49_Yiwga-c5ekxnA-GLbTG0IRsF-vSTrP2eAL9HcZy6NEOdHFNfVkVXdAQbE8z4z_fymVPuvt5KGg3dq0-QNtEXPORGm0hxInc0vk74HwbQ0PAxk33GRrYHMUjMbRzwj7L6iZUTH2TpnXnWoQg_flksMFaIF-beFOs0QlW_Nn5yI6wGnHzLF-ZJYc5EbRZV2DFrqxSLan_oNlXHuD8jShc0amLlqvCktTYwF3oozTSF42mUheGN3evpLdtAFldGhI3gMDBctHVs6dv_rnCco0OKnAunnSXM898cjdje8u_j_PdxIAAAA.webp",
+      "date": "Jan 7, 2026",
+      "snippet": "Discover the top 8 endpoint security products for businesses in 2026, with comparison table and guide to help you choose the right solution.",
+      "snippet_highlighted_words": [
+        "top 8 endpoint security products for businesses in 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Discover the top 8 endpoint security products for businesses in 2026, with comparison table and guide to help you choose the right solution.",
+          "source_info_link": "https://www.sentinelone.com/tw/cybersecurity-101/endpoint-security/endpoint-security-products/",
+          "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAAAwCQCdASogACAAPrUurVanIacnG_DgFolsAJ0yhH4mgzgM-A3wD9ZuAA6TX9ofRriQVJrRBM7K3czn1Yh72FITC47YPvvvjciM8pJIttg_j1YAAP7wt6o7f7jb79xtYbh2_vamUHAa2iR2HTD18RyUjffhLrhfJNvteMUn-tdyGj-dOaST-uersAOUPdKFAtexp6DhXNqBUOzn7QuZeTfCBQvwZem2qKfg2wkB1f_eUJ7_bQCvkf_Q4r84MzueoR__coXfp4no3Efxz__knj0Pxc9Qv7ktWIgKmxX49_Yiwga-c5ekxnA-GLbTG0IRsF-vSTrP2eAL9HcZy6NEOdHFNfVkVXdAQbE8z4z_fymVPuvt5KGg3dq0-QNtEXPORGm0hxInc0vk74HwbQ0PAxk33GRrYHMUjMbRzwj7L6iZUTH2TpnXnWoQg_flksMFaIF-beFOs0QlW_Nn5yI6wGnHzLF-ZJYc5EbRZV2DFrqxSLan_oNlXHuD8jShc0amLlqvCktTYwF3oozTSF42mUheGN3evpLdtAFldGhI3gMDBctHVs6dv_rnCco0OKnAunnSXM898cjdje8u_j_PdxIAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXaVp3TXJwdkZibnlyOUlFWjlHbG9lWTRHNHZZajRRMkctTFVZVWNSc21QdF9ubTl4aWRCVDhiOENQd2Rqd2U4QmF4bjZSSjcyVlBlTE9zTnhzUVRhcGtSR1ZKQk84M2xqU1Zjd2htODU2QngxWUtlRzE2VWJRak12NU1vVnB5M016NGlIVWs4dWpvWTZ1Z1ZSU2NPcS14ZFFYYTl6dS1zak5nRFNId29VVTRVaHowUzZVSFAwaDN3elQyYXFpUWt4dxIEGgIIABq-BRIAGgAiACoAMgYIAxICdXM6AEIECAIQAEoAWgByAHoAgkCaBQgAEAAYACAAKisKA3RvcBWz6vo_GgRiZXN0GgdiaWdnZXN0GgdsYXJnZXN0GgdsZWFkaW5nKjgKDWN5YmVyc2VjdXJpdHkVBBZ0PxoOY3liZXIgc2VjdXJpdHkaEml2O3A7Y3liZXJzZWN1cml0eSoyCghlbmRwb2ludBWmf21AGhJlbmRwb2ludHByb3RlY3Rpb24aDWl2O3A7ZW5kcG9pbnQqJQoKcHJvdGVjdGlvbhWOxqE_GhJlbmRwb2ludHByb3RlY3Rpb24qGgoJcGxhdGZvcm1zFd8TIT4aCHBsYXRmb3JtMtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXaVp3TXJwdkZibnlyOUlFWjlHbG9lWTRHNHZZajRRMkctTFVZVWNSc21QdF9ubTl4aWRCVDhiOENQd2Rqd2U4QmF4bjZSSjcyVlBlTE9zTnhzUVRhcGtSR1ZKQk84M2xqU1Zjd2htODU2QngxWUtlRzE2VWJRak12NU1vVnB5M016NGlIVWs4dWpvWTZ1Z1ZSU2NPcS14ZFFYYTl6dS1zak5nRFNId29VVTRVaHowUzZVSFAwaDN3elQyYXFpUWt4dzo6PGI-VG9wIEVuZHBvaW50PC9iPiBTZWN1cml0eSBQcm9kdWN0cyBmb3IgQnVzaW5lc3MgaW4gMjAyNkKTAURpc2NvdmVyIHRoZSA8Yj50b3AgOCBlbmRwb2ludCBzZWN1cml0eSBwcm9kdWN0cyBmb3IgYnVzaW5lc3NlcyBpbiAyMDI2PC9iPiwgd2l0aCBjb21wYXJpc29uIHRhYmxlIGFuZCBndWlkZSB0byBoZWxwIHlvdSBjaG9vc2UgdGhlIHJpZ2h0IHNvbHV0aW9uLlIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXaVp3TXJwdkZibnlyOUlFWjlHbG9lWTRHNHZZajRRMkctTFVZVWNSc21QdF9ubTl4aWRCVDhiOENQd2Rqd2U4QmF4bjZSSjcyVlBlTE9zTnhzUVRhcGtSR1ZKQk84M2xqU1Zjd2htODU2QngxWUtlRzE2VWJRak12NU1vVnB5M016NGlIVWs4dWpvWTZ1Z1ZSU2NPcS14ZFFYYTl6dS1zak5nRFNId29VVTRVaHowUzZVSFAwaDN3elQyYXFpUWt4dxIEGgIIABq-BRIAGgAiACoAMgYIAxICdXM6AEIECAIQAEoAWgByAHoAgkCaBQgAEAAYACAAKisKA3RvcBWz6vo_GgRiZXN0GgdiaWdnZXN0GgdsYXJnZXN0GgdsZWFkaW5nKjgKDWN5YmVyc2VjdXJpdHkVBBZ0PxoOY3liZXIgc2VjdXJpdHkaEml2O3A7Y3liZXJzZWN1cml0eSoyCghlbmRwb2ludBWmf21AGhJlbmRwb2ludHByb3RlY3Rpb24aDWl2O3A7ZW5kcG9pbnQqJQoKcHJvdGVjdGlvbhWOxqE_GhJlbmRwb2ludHByb3RlY3Rpb24qGgoJcGxhdGZvcm1zFd8TIT4aCHBsYXRmb3JtMtkBL2dvdG8_dXJsPUNBRVNsZ0VCNnpzd0ZXaVp3TXJwdkZibnlyOUlFWjlHbG9lWTRHNHZZajRRMkctTFVZVWNSc21QdF9ubTl4aWRCVDhiOENQd2Rqd2U4QmF4bjZSSjcyVlBlTE9zTnhzUVRhcGtSR1ZKQk84M2xqU1Zjd2htODU2QngxWUtlRzE2VWJRak12NU1vVnB5M016NGlIVWs4dWpvWTZ1Z1ZSU2NPcS14ZFFYYTl6dS1zak5nRFNId29VVTRVaHowUzZVSFAwaDN3elQyYXFpUWt4dzo6PGI-VG9wIEVuZHBvaW50PC9iPiBTZWN1cml0eSBQcm9kdWN0cyBmb3IgQnVzaW5lc3MgaW4gMjAyNkKTAURpc2NvdmVyIHRoZSA8Yj50b3AgOCBlbmRwb2ludCBzZWN1cml0eSBwcm9kdWN0cyBmb3IgYnVzaW5lc3NlcyBpbiAyMDI2PC9iPiwgd2l0aCBjb21wYXJpc29uIHRhYmxlIGFuZCBndWlkZSB0byBoZWxwIHlvdSBjaG9vc2UgdGhlIHJpZ2h0IHNvbHV0aW9uLlIEYmVzdCICEAFIAFgAaAA",
+      "source": "SentinelOne"
+    },
+    {
+      "position": 4,
+      "title": "Top 10 Endpoint Protection Alternatives & Competitors",
+      "link": "https://www.g2.com/products/continuity-focus-endpoint-protection/competitors/alternatives",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFWeNtFiqG1dvH9jVI_CghdOy0taSAtgdy-8DxD1yPRD1_AgZ5-dRATavbsJdUlyq0nFaZCkbJkEJZnP_YnS77uno5K4n9cijTLU8SHXYEWhzST7r6XfKxFyW83ydIaK1rvXo4hy5mmQogOGdiG4VAEUzFJIG4WKZecliK0CTMdTyO6SYlxn4H0YKNMzL&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40QFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://www.g2.com › ... › Endpoint Protection",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEz_SSz_SSz_SSz_SSz_SSz_SSz_SSz_SSz_SSz_Pxz_OA__MgH_XEX_tKv_7Or_____fGz_pJr_xsD_2tb_h3n_9vSOWCvuAAAACnRSTlMAMobC7P9gGN5Dzy4TxgAAAOxJREFUeAFkkdESxBAMRbV1265AwP7_p-5IZjpbzpPMGdwk5mHbDwvYY9_MzGnxYM-Xum68uC_z8MHCZ3WrvaDAkScH57TSl28tKMTEHH0uWt-SE4KPPEDhyoTByGzVVXGV4DI77ciYTb8rQ7UYQI2zSmxmhzBc9w6ufHOGspvjudhJTq0lKId-SY05eQxCCHAqrdE4SbIAJLkClEkGHjSv8v0sJRY0r50C9Z77aFfk8d9K9o58CJEZwj4NoVRunovG3abxDXpXZ6fBC9VDOJeVfWsmre912b-Bohsa2fiSCb4Ehi9pEk7UeLMDAJ5AFVu_MpWgAAAAAElFTkSuQmCC.png",
+      "snippet": "The best Endpoint Protection alternatives are Chrome Enterprise, Acronis Cyber Protect Cloud, and ManageEngine Endpoint Central. Find top-ranking free ...",
+      "snippet_highlighted_words": [
+        "Chrome Enterprise"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The best Endpoint Protection alternatives are Chrome Enterprise, Acronis Cyber Protect Cloud, and ManageEngine Endpoint Central. Find top-ranking free ...",
+          "source_info_link": "https://www.g2.com/products/continuity-focus-endpoint-protection/competitors/alternatives",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAARVBMVEVHcEz_SSz_SSz_SSz_SSz_SSz_SSz_SSz_SSz_SSz_Pxz_OA__MgH_XEX_tKv_7Or_____fGz_pJr_xsD_2tb_h3n_9vSOWCvuAAAACnRSTlMAMobC7P9gGN5Dzy4TxgAAAOxJREFUeAFkkdESxBAMRbV1265AwP7_p-5IZjpbzpPMGdwk5mHbDwvYY9_MzGnxYM-Xum68uC_z8MHCZ3WrvaDAkScH57TSl28tKMTEHH0uWt-SE4KPPEDhyoTByGzVVXGV4DI77ciYTb8rQ7UYQI2zSmxmhzBc9w6ufHOGspvjudhJTq0lKId-SY05eQxCCHAqrdE4SbIAJLkClEkGHjSv8v0sJRY0r50C9Z77aFfk8d9K9o58CJEZwj4NoVRunovG3abxDXpXZ6fBC9VDOJeVfWsmre912b-Bohsa2fiSCb4Ehi9pEk7UeLMDAJ5AFVu_MpWgAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZXZU50RmlxRzFkdkg5alZJX0NnaGRPeTB0YVNBdGdkeS04RHhEMXlQUkQxX0FnWjUtZFJBVGF2YnNKZFVseXEwbkZhWkNrYkprRUpablBfWW5TNzd1bm81SzRuOWNpalRMVThTSFhZRVdoelNUN3I2WGZLeEZ5VzgzeWRJYUsxcnZYbzRoeTVtbVFvZ09HZGlHNFZBRVV6RkpJRzRXS1plY2xpSzBDVE1kVHlPNlNZbHhuNEgwWUtOTXpMEgQaAggAGtwFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLgFCAAQABgAIAAqKwoDdG9wFQBPgUAaBGJlc3QaB2JpZ2dlc3QaB2xhcmdlc3QaB2xlYWRpbmcqOAoNY3liZXJzZWN1cml0eRXkFFw-Gg5jeWJlciBzZWN1cml0eRoSaXY7cDtjeWJlcnNlY3VyaXR5KjIKCGVuZHBvaW50Fc5H10AaEmVuZHBvaW50cHJvdGVjdGlvbhoNaXY7cDtlbmRwb2ludColCgpwcm90ZWN0aW9uFSCs1kAaEmVuZHBvaW50cHJvdGVjdGlvbioaCglwbGF0Zm9ybXMVe3IbQBoIcGxhdGZvcm0y0gEvZ290bz91cmw9Q0FFU2tRRUI2enN3RldlTnRGaXFHMWR2SDlqVklfQ2doZE95MHRhU0F0Z2R5LThEeEQxeVBSRDFfQWdaNS1kUkFUYXZic0pkVWx5cTBuRmFaQ2tiSmtFSlpuUF9ZblM3N3VubzVLNG45Y2lqVExVOFNIWFlFV2h6U1Q3cjZYZkt4RnlXODN5ZElhSzFydlhvNGh5NW1tUW9nT0dkaUc0VkFFVXpGSklHNFdLWmVjbGlLMENUTWRUeU82U1lseG40SDBZS05Nekw6TDxiPlRvcDwvYj4gMTAgPGI-RW5kcG9pbnQgUHJvdGVjdGlvbjwvYj4gQWx0ZXJuYXRpdmVzICZhbXA7IENvbXBldGl0b3JzIC0gRzJCpgFUaGUgYmVzdCBFbmRwb2ludCBQcm90ZWN0aW9uIGFsdGVybmF0aXZlcyBhcmUgPGI-Q2hyb21lIEVudGVycHJpc2U8L2I-LCBBY3JvbmlzIEN5YmVyIFByb3RlY3QgQ2xvdWQsIGFuZCBNYW5hZ2VFbmdpbmUgRW5kcG9pbnQgQ2VudHJhbC4gRmluZCB0b3AtcmFua2luZyBmcmVlJm5ic3A7Li4uUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZXZU50RmlxRzFkdkg5alZJX0NnaGRPeTB0YVNBdGdkeS04RHhEMXlQUkQxX0FnWjUtZFJBVGF2YnNKZFVseXEwbkZhWkNrYkprRUpablBfWW5TNzd1bm81SzRuOWNpalRMVThTSFhZRVdoelNUN3I2WGZLeEZ5VzgzeWRJYUsxcnZYbzRoeTVtbVFvZ09HZGlHNFZBRVV6RkpJRzRXS1plY2xpSzBDVE1kVHlPNlNZbHhuNEgwWUtOTXpMEgQaAggAGtwFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLgFCAAQABgAIAAqKwoDdG9wFQBPgUAaBGJlc3QaB2JpZ2dlc3QaB2xhcmdlc3QaB2xlYWRpbmcqOAoNY3liZXJzZWN1cml0eRXkFFw-Gg5jeWJlciBzZWN1cml0eRoSaXY7cDtjeWJlcnNlY3VyaXR5KjIKCGVuZHBvaW50Fc5H10AaEmVuZHBvaW50cHJvdGVjdGlvbhoNaXY7cDtlbmRwb2ludColCgpwcm90ZWN0aW9uFSCs1kAaEmVuZHBvaW50cHJvdGVjdGlvbioaCglwbGF0Zm9ybXMVe3IbQBoIcGxhdGZvcm0y0gEvZ290bz91cmw9Q0FFU2tRRUI2enN3RldlTnRGaXFHMWR2SDlqVklfQ2doZE95MHRhU0F0Z2R5LThEeEQxeVBSRDFfQWdaNS1kUkFUYXZic0pkVWx5cTBuRmFaQ2tiSmtFSlpuUF9ZblM3N3VubzVLNG45Y2lqVExVOFNIWFlFV2h6U1Q3cjZYZkt4RnlXODN5ZElhSzFydlhvNGh5NW1tUW9nT0dkaUc0VkFFVXpGSklHNFdLWmVjbGlLMENUTWRUeU82U1lseG40SDBZS05Nekw6TDxiPlRvcDwvYj4gMTAgPGI-RW5kcG9pbnQgUHJvdGVjdGlvbjwvYj4gQWx0ZXJuYXRpdmVzICZhbXA7IENvbXBldGl0b3JzIC0gRzJCpgFUaGUgYmVzdCBFbmRwb2ludCBQcm90ZWN0aW9uIGFsdGVybmF0aXZlcyBhcmUgPGI-Q2hyb21lIEVudGVycHJpc2U8L2I-LCBBY3JvbmlzIEN5YmVyIFByb3RlY3QgQ2xvdWQsIGFuZCBNYW5hZ2VFbmdpbmUgRW5kcG9pbnQgQ2VudHJhbC4gRmluZCB0b3AtcmFua2luZyBmcmVlJm5ic3A7Li4uUgRiZXN0IgIQAUgAWABoAA",
+      "source": "G2"
+    },
+    {
+      "position": 5,
+      "title": "Top Enterprise Endpoint Security Platforms of 2026",
+      "link": "https://globalcybersecuritynetwork.com/blog/top-enterprise-endpoint-security-platforms/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjwEB6zswFf_5HWnl_kQsmR05QzB0E_vxD4E_sI1qqH3OVKXpO0cEZJGi-MKWBVGP1SMqEuBSVKqpehutWd4OUWVUYERpUPELQagPDZi3fKUGMLsHMg6RBhQ3ljiFVVDnqr1AMt8FXgkVQvVeNOd34cX-1FP0BpUQIgnFu38al3ESYkAnTvrkek9kGor98JbZyQ&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40QFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://globalcybersecuritynetwork.com › blog › top-ent...",
+      "favicon": "https://serpapi.com/images/i/UklGRvABAABXRUJQVlA4IOQBAABQCQCdASogACAAPtE-tFooIigoFAEAGgliAMDt_BZF8trewOIGL-5uXoj2Av1T9AD1W_sl7Gf61o37tWvyZNb7Fu58sUjy8dXTbAnAsmMV0pEAAAD--lmmSLzH4htsTDwrcJwfweI-5VybtJXt7-mtNuKIJElHnFnvrsz9eWkhepANqhZr9OyuqPksKYLcrd5FIWabZRmNZpP8dJFDYWl8MYHTz21297QU-XV0o-e6Pt4APrSiR1MA275iMtl0OCyw3XcH_G7zcBXm-69p_yHBpfwN3vVB_njs43ZCr8gMbUTgxBIaskC3X2L3TZKyLPT19pxsUXLElI5duNBflpOANbovDYs5P4OgiqgyzgOENeo3xPxvF7pnFFO8y55fTMgyXNVFlXsJj93onoESdTpe3HSVlSvpbq7yszI_-tS_Sy7TQT0M_jWHQfsvU9bolz_WcJPV8PAlLIZwaF39jnAXo-YzJEEGXpPog9R642UuwcK91QPMuYiIFt3U2Bcc6GfwWR78skJ8PXeGzG5mdQNG9D71NUI0J6kpz8K4zcprT33r4hTBVXe-lyy0EZ4VOPbxYz5mElqQ1YokYfuVvB5Z0kEe9A7L1Y2_5s0SGnhpTzzfOodMzJePeu29rYBwQiswoygA.webp",
+      "date": "Feb 9, 2026",
+      "snippet": "A deep look at the top enterprise endpoint security platforms of 2026 and how behavioral, context-driven EDR reduces modern attack risk.",
+      "snippet_highlighted_words": [
+        "top enterprise endpoint security platforms of 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A deep look at the top enterprise endpoint security platforms of 2026 and how behavioral, context-driven EDR reduces modern attack risk.",
+          "source_info_link": "https://globalcybersecuritynetwork.com/blog/top-enterprise-endpoint-security-platforms/",
+          "icon": "https://serpapi.com/images/i/UklGRvABAABXRUJQVlA4IOQBAABQCQCdASogACAAPtE-tFooIigoFAEAGgliAMDt_BZF8trewOIGL-5uXoj2Av1T9AD1W_sl7Gf61o37tWvyZNb7Fu58sUjy8dXTbAnAsmMV0pEAAAD--lmmSLzH4htsTDwrcJwfweI-5VybtJXt7-mtNuKIJElHnFnvrsz9eWkhepANqhZr9OyuqPksKYLcrd5FIWabZRmNZpP8dJFDYWl8MYHTz21297QU-XV0o-e6Pt4APrSiR1MA275iMtl0OCyw3XcH_G7zcBXm-69p_yHBpfwN3vVB_njs43ZCr8gMbUTgxBIaskC3X2L3TZKyLPT19pxsUXLElI5duNBflpOANbovDYs5P4OgiqgyzgOENeo3xPxvF7pnFFO8y55fTMgyXNVFlXsJj93onoESdTpe3HSVlSvpbq7yszI_-tS_Sy7TQT0M_jWHQfsvU9bolz_WcJPV8PAlLIZwaF39jnAXo-YzJEEGXpPog9R642UuwcK91QPMuYiIFt3U2Bcc6GfwWR78skJ8PXeGzG5mdQNG9D71NUI0J6kpz8K4zcprT33r4hTBVXe-lyy0EZ4VOPbxYz5mElqQ1YokYfuVvB5Z0kEe9A7L1Y2_5s0SGnhpTzzfOodMzJePeu29rYBwQiswoygA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZmXzVIV25sX2tRc21SMDVRekIwRV92eEQ0RV9zSTFxcUgzT1ZLWHBPMGNFWkpHaS1NS1dCVkdQMVNNcUV1QlNWS3FwZWh1dFdkNE9VV1ZVWUVScFVQRUxRYWdQRFppM2ZLVUdNTHNITWc2UkJoUTNsamlGVlZEbnFyMUFNdDhGWGdrVlF2VmVOT2QzNGNYLTFGUDBCcFVRSWduRnUzOGFsM0VTWWtBblR2cmtlazlrR29yOThKYlp5URIEGgIIABq-BRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCaBQgAEAAYACAAKisKA3RvcBXzM0RAGgRiZXN0GgdiaWdnZXN0GgdsYXJnZXN0GgdsZWFkaW5nKjgKDWN5YmVyc2VjdXJpdHkVNRLxPxoOY3liZXIgc2VjdXJpdHkaEml2O3A7Y3liZXJzZWN1cml0eSoyCghlbmRwb2ludBWsJY9AGhJlbmRwb2ludHByb3RlY3Rpb24aDWl2O3A7ZW5kcG9pbnQqJQoKcHJvdGVjdGlvbhW_jpM_GhJlbmRwb2ludHByb3RlY3Rpb24qGgoJcGxhdGZvcm1zFZw3hUAaCHBsYXRmb3JtMtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZmXzVIV25sX2tRc21SMDVRekIwRV92eEQ0RV9zSTFxcUgzT1ZLWHBPMGNFWkpHaS1NS1dCVkdQMVNNcUV1QlNWS3FwZWh1dFdkNE9VV1ZVWUVScFVQRUxRYWdQRFppM2ZLVUdNTHNITWc2UkJoUTNsamlGVlZEbnFyMUFNdDhGWGdrVlF2VmVOT2QzNGNYLTFGUDBCcFVRSWduRnUzOGFsM0VTWWtBblR2cmtlazlrR29yOThKYlp5UTpHPGI-VG9wPC9iPiBFbnRlcnByaXNlIDxiPkVuZHBvaW50PC9iPiBTZWN1cml0eSA8Yj5QbGF0Zm9ybXM8L2I-IG9mIDIwMjZCjwFBIGRlZXAgbG9vayBhdCB0aGUgPGI-dG9wIGVudGVycHJpc2UgZW5kcG9pbnQgc2VjdXJpdHkgcGxhdGZvcm1zIG9mIDIwMjY8L2I-IGFuZCBob3cgYmVoYXZpb3JhbCwgY29udGV4dC1kcml2ZW4gRURSIHJlZHVjZXMgbW9kZXJuIGF0dGFjayByaXNrLlIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZmXzVIV25sX2tRc21SMDVRekIwRV92eEQ0RV9zSTFxcUgzT1ZLWHBPMGNFWkpHaS1NS1dCVkdQMVNNcUV1QlNWS3FwZWh1dFdkNE9VV1ZVWUVScFVQRUxRYWdQRFppM2ZLVUdNTHNITWc2UkJoUTNsamlGVlZEbnFyMUFNdDhGWGdrVlF2VmVOT2QzNGNYLTFGUDBCcFVRSWduRnUzOGFsM0VTWWtBblR2cmtlazlrR29yOThKYlp5URIEGgIIABq-BRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCaBQgAEAAYACAAKisKA3RvcBXzM0RAGgRiZXN0GgdiaWdnZXN0GgdsYXJnZXN0GgdsZWFkaW5nKjgKDWN5YmVyc2VjdXJpdHkVNRLxPxoOY3liZXIgc2VjdXJpdHkaEml2O3A7Y3liZXJzZWN1cml0eSoyCghlbmRwb2ludBWsJY9AGhJlbmRwb2ludHByb3RlY3Rpb24aDWl2O3A7ZW5kcG9pbnQqJQoKcHJvdGVjdGlvbhW_jpM_GhJlbmRwb2ludHByb3RlY3Rpb24qGgoJcGxhdGZvcm1zFZw3hUAaCHBsYXRmb3JtMtABL2dvdG8_dXJsPUNBRVNqd0VCNnpzd0ZmXzVIV25sX2tRc21SMDVRekIwRV92eEQ0RV9zSTFxcUgzT1ZLWHBPMGNFWkpHaS1NS1dCVkdQMVNNcUV1QlNWS3FwZWh1dFdkNE9VV1ZVWUVScFVQRUxRYWdQRFppM2ZLVUdNTHNITWc2UkJoUTNsamlGVlZEbnFyMUFNdDhGWGdrVlF2VmVOT2QzNGNYLTFGUDBCcFVRSWduRnUzOGFsM0VTWWtBblR2cmtlazlrR29yOThKYlp5UTpHPGI-VG9wPC9iPiBFbnRlcnByaXNlIDxiPkVuZHBvaW50PC9iPiBTZWN1cml0eSA8Yj5QbGF0Zm9ybXM8L2I-IG9mIDIwMjZCjwFBIGRlZXAgbG9vayBhdCB0aGUgPGI-dG9wIGVudGVycHJpc2UgZW5kcG9pbnQgc2VjdXJpdHkgcGxhdGZvcm1zIG9mIDIwMjY8L2I-IGFuZCBob3cgYmVoYXZpb3JhbCwgY29udGV4dC1kcml2ZW4gRURSIHJlZHVjZXMgbW9kZXJuIGF0dGFjayByaXNrLlIEYmVzdCICEAFIAFgAaAA",
+      "source": "Global Cyber Security Network"
+    },
+    {
+      "position": 6,
+      "title": "5 Best Endpoint Detection & Response Solutions",
+      "link": "https://www.techrepublic.com/article/best-edr-software/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAV5fTfajNsXwGMIgCADoqsamtgydXJ_fMzPXQuNf_GoEE32P3aU2zIi8rqh7GsmlkM5OhsAWsZLBxo0UnCa7wFiX47b14KjiASz9cMuRZS-hI9c1RCnYu0deoRlZmo6D_lDfBM310ymARFRA&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40QFnoECBQQAQ&uoh=1",
+      "displayed_link": "https://www.techrepublic.com › best-edr-software",
+      "favicon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABQBQCdASocABwAPtE-tFooIigoFAEAGglqAKwyhHUAgE8ApgPZsJEDRSjMcNsgdwAPAAAA-daGQrQMs0aDtCQHQ-cMjkXV_8lKPT9gcbRmE2mom0CohSIIoR3PxP3iwM5M_iubwXe3e-NUQg_JsEow_jJ1oJQZOBhT61fdAZSyoY_sVus9TreOGZVWsCONTq_1ABMUduk1nQCiRJuh_-NFVPsMP7jt_UU4b7BxCyUihCq7Z8vyY_CKEJ4gdYgz0URTjGDiWvVrEksAAAA.webp",
+      "snippet": "Discover the best EDR solutions to protect your business from threats. Explore our guide, compare features, and elevate your cybersecurity today.",
+      "snippet_highlighted_words": [
+        "best EDR solutions"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Discover the best EDR solutions to protect your business from threats. Explore our guide, compare features, and elevate your cybersecurity today.",
+          "source_info_link": "https://www.techrepublic.com/article/best-edr-software/",
+          "icon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABQBQCdASocABwAPtE-tFooIigoFAEAGglqAKwyhHUAgE8ApgPZsJEDRSjMcNsgdwAPAAAA-daGQrQMs0aDtCQHQ-cMjkXV_8lKPT9gcbRmE2mom0CohSIIoR3PxP3iwM5M_iubwXe3e-NUQg_JsEow_jJ1oJQZOBhT61fdAZSyoY_sVus9TreOGZVWsCONTq_1ABMUduk1nQCiRJuh_-NFVPsMP7jt_UU4b7BxCyUihCq7Z8vyY_CKEJ4gdYgz0URTjGDiWvVrEksAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVjVmVGZhak5zWHdHTUlnQ0FEb3FzYW10Z3lkWEpfZk16UFhRdU5mX0dvRUUzMlAzYVUyeklpOHJxaDdHc21sa001T2hzQVdzWkxCeG8wVW5DYTd3RmlYNDdiMTRLamlBU3o5Y011UlpTLWhJOWMxUkNuWXUwZGVvUmxabW82RF9sRGZCTTMxMHltQVJGUkESBBoCCAAajwUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDpBAgAEAAYACAAKisKA3RvcBVKfAk_GgRiZXN0GgdiaWdnZXN0GgdsYXJnZXN0GgdsZWFkaW5nKjgKDWN5YmVyc2VjdXJpdHkVNvkdPhoOY3liZXIgc2VjdXJpdHkaEml2O3A7Y3liZXJzZWN1cml0eSoyCghlbmRwb2ludBUOKIZAGhJlbmRwb2ludHByb3RlY3Rpb24aDWl2O3A7ZW5kcG9pbnQqJQoKcHJvdGVjdGlvbhXFdJA_GhJlbmRwb2ludHByb3RlY3Rpb24qGgoJcGxhdGZvcm1zFUWeTD8aCHBsYXRmb3JtMqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVjVmVGZhak5zWHdHTUlnQ0FEb3FzYW10Z3lkWEpfZk16UFhRdU5mX0dvRUUzMlAzYVUyeklpOHJxaDdHc21sa001T2hzQVdzWkxCeG8wVW5DYTd3RmlYNDdiMTRLamlBU3o5Y011UlpTLWhJOWMxUkNuWXUwZGVvUmxabW82RF9sRGZCTTMxMHltQVJGUkE6OTUgPGI-QmVzdCBFbmRwb2ludDwvYj4gRGV0ZWN0aW9uICZhbXA7IFJlc3BvbnNlIFNvbHV0aW9uc0KYAURpc2NvdmVyIHRoZSA8Yj5iZXN0IEVEUiBzb2x1dGlvbnM8L2I-IHRvIHByb3RlY3QgeW91ciBidXNpbmVzcyBmcm9tIHRocmVhdHMuIEV4cGxvcmUgb3VyIGd1aWRlLCBjb21wYXJlIGZlYXR1cmVzLCBhbmQgZWxldmF0ZSB5b3VyIGN5YmVyc2VjdXJpdHkgdG9kYXkuUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVjVmVGZhak5zWHdHTUlnQ0FEb3FzYW10Z3lkWEpfZk16UFhRdU5mX0dvRUUzMlAzYVUyeklpOHJxaDdHc21sa001T2hzQVdzWkxCeG8wVW5DYTd3RmlYNDdiMTRLamlBU3o5Y011UlpTLWhJOWMxUkNuWXUwZGVvUmxabW82RF9sRGZCTTMxMHltQVJGUkESBBoCCAAajwUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDpBAgAEAAYACAAKisKA3RvcBVKfAk_GgRiZXN0GgdiaWdnZXN0GgdsYXJnZXN0GgdsZWFkaW5nKjgKDWN5YmVyc2VjdXJpdHkVNvkdPhoOY3liZXIgc2VjdXJpdHkaEml2O3A7Y3liZXJzZWN1cml0eSoyCghlbmRwb2ludBUOKIZAGhJlbmRwb2ludHByb3RlY3Rpb24aDWl2O3A7ZW5kcG9pbnQqJQoKcHJvdGVjdGlvbhXFdJA_GhJlbmRwb2ludHByb3RlY3Rpb24qGgoJcGxhdGZvcm1zFUWeTD8aCHBsYXRmb3JtMqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVjVmVGZhak5zWHdHTUlnQ0FEb3FzYW10Z3lkWEpfZk16UFhRdU5mX0dvRUUzMlAzYVUyeklpOHJxaDdHc21sa001T2hzQVdzWkxCeG8wVW5DYTd3RmlYNDdiMTRLamlBU3o5Y011UlpTLWhJOWMxUkNuWXUwZGVvUmxabW82RF9sRGZCTTMxMHltQVJGUkE6OTUgPGI-QmVzdCBFbmRwb2ludDwvYj4gRGV0ZWN0aW9uICZhbXA7IFJlc3BvbnNlIFNvbHV0aW9uc0KYAURpc2NvdmVyIHRoZSA8Yj5iZXN0IEVEUiBzb2x1dGlvbnM8L2I-IHRvIHByb3RlY3QgeW91ciBidXNpbmVzcyBmcm9tIHRocmVhdHMuIEV4cGxvcmUgb3VyIGd1aWRlLCBjb21wYXJlIGZlYXR1cmVzLCBhbmQgZWxldmF0ZSB5b3VyIGN5YmVyc2VjdXJpdHkgdG9kYXkuUgRiZXN0IgIQAUgAWABoAA",
+      "source": "TechRepublic"
+    },
+    {
+      "position": 7,
+      "title": "Top 10 Endpoint Protection Platforms EPP: Features, Pros ...",
+      "link": "https://www.myhospitalnow.com/blog/top-10-endpoint-protection-platforms-epp-features-pros-cons-comparison-2/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpAEB6zswFUTLwIz9l_qA0EG7MleuGonwXklMURRyC-dVPkjO8Rs3Z8hIRXZBuVfWiMwfv5VnzMKh8DeHfZYbZJBgGxpA7z13XKHShBuTQS5LGdyw1-cqjsxh-Jsqbr0kUj8Zv1YiYKIytmLeuDT8nAM8L3YdLkbMw534Me_1Xagdequ2WWrEwv__i2Uvs1memiwJNWlcvivINuytx5LlUYjOy44b8A&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40QFnoECEAQAQ&uoh=1",
+      "displayed_link": "https://www.myhospitalnow.com › blog › top-10-endpoi...",
+      "favicon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAADQBgCdASogABsAPtEutFooIagoGAEAGglsAJ0wAJQIMBtgNxLvDW8eESML_WvIxweY9MNR0vPFiDZkF4z3WoAA_vYC_b9MOuspfbsUBwnSGs8MaI54SxHv2dEqqcNuGaO-iTXB7BqynLHQGr2v0CQo9tOnznYyLC2zDz54LU4v7Q4-FtKjNTK7D-u3O-zuT5nJmbmpMcq9IAMofrDsWytrKgYY3vLHpJsgVymrR8RnuYBx0Y2r3nDrS8_eIbd2N0ihY0fTeALPpJZpxVM7UdP-smE0sMHypYetall56zGa5DdAhuL6UnZ2aPSlMeFdKpQGsSm2tK57y4Wa4UbLoq-QvdLLme65wRnEvOfyxblSCAAA.webp",
+      "date": "May 18, 2026",
+      "snippet": "Sophos, Bitdefender, ESET, and Malwarebytes are often easier for smaller teams to administer. CrowdStrike, SentinelOne, Microsoft Defender, ...",
+      "snippet_highlighted_words": [
+        "Sophos, Bitdefender, ESET, and Malwarebytes"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Sophos, Bitdefender, ESET, and Malwarebytes are often easier for smaller teams to administer. CrowdStrike, SentinelOne, Microsoft Defender, ...",
+          "source_info_link": "https://www.myhospitalnow.com/blog/top-10-endpoint-protection-platforms-epp-features-pros-cons-comparison-2/",
+          "icon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAADQBgCdASogABsAPtEutFooIagoGAEAGglsAJ0wAJQIMBtgNxLvDW8eESML_WvIxweY9MNR0vPFiDZkF4z3WoAA_vYC_b9MOuspfbsUBwnSGs8MaI54SxHv2dEqqcNuGaO-iTXB7BqynLHQGr2v0CQo9tOnznYyLC2zDz54LU4v7Q4-FtKjNTK7D-u3O-zuT5nJmbmpMcq9IAMofrDsWytrKgYY3vLHpJsgVymrR8RnuYBx0Y2r3nDrS8_eIbd2N0ihY0fTeALPpJZpxVM7UdP-smE0sMHypYetall56zGa5DdAhuL6UnZ2aPSlMeFdKpQGsSm2tK57y4Wa4UbLoq-QvdLLme65wRnEvOfyxblSCAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZVVEx3SXo5bF9xQTBFRzdNbGV1R29ud1hrbE1VUlJ5Qy1kVlBrak84UnMzWjhoSVJYWkJ1VmZXaU13ZnY1Vm56TUtoOERlSGZaWWJaSkJnR3hwQTd6MTNYS0hTaEJ1VFFTNUxHZHl3MS1jcWpzeGgtSnNxYnIwa1VqOFp2MVlpWUtJeXRtTGV1RFQ4bkFNOEwzWWRMa2JNdzUzNE1lXzFYYWdkZXF1MldXckV3dl9faTJVdnMxbWVtaXdKTldsY3ZpdklOdXl0eDVMbFVZak95NDRiOEESBBoCCAAa6QUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAxQUIABAAGAAgACorCgN0b3AVK26WQBoEYmVzdBoHYmlnZ2VzdBoHbGFyZ2VzdBoHbGVhZGluZyo4Cg1jeWJlcnNlY3VyaXR5FZRvaj4aDmN5YmVyIHNlY3VyaXR5GhJpdjtwO2N5YmVyc2VjdXJpdHkqMgoIZW5kcG9pbnQVRNfDQBoSZW5kcG9pbnRwcm90ZWN0aW9uGg1pdjtwO2VuZHBvaW50KiUKCnByb3RlY3Rpb24VslCqQBoSZW5kcG9pbnRwcm90ZWN0aW9uKhoKCXBsYXRmb3JtcxXCDaJAGghwbGF0Zm9ybTLsAS9nb3RvP3VybD1DQUVTcEFFQjZ6c3dGVVRMd0l6OWxfcUEwRUc3TWxldUdvbndYa2xNVVJSeUMtZFZQa2pPOFJzM1o4aElSWFpCdVZmV2lNd2Z2NVZuek1LaDhEZUhmWlliWkpCZ0d4cEE3ejEzWEtIU2hCdVRRUzVMR2R5dzEtY3Fqc3hoLUpzcWJyMGtVajhadjFZaVlLSXl0bUxldURUOG5BTThMM1lkTGtiTXc1MzRNZV8xWGFnZGVxdTJXV3JFd3ZfX2kyVXZzMW1lbWl3Sk5XbGN2aXZJTnV5dHg1TGxVWWpPeTQ0YjhBOko8Yj5Ub3A8L2I-IDEwIDxiPkVuZHBvaW50IFByb3RlY3Rpb24gUGxhdGZvcm1zPC9iPiBFUFA6IEZlYXR1cmVzLCBQcm9zIC4uLkKbATxiPlNvcGhvcywgQml0ZGVmZW5kZXIsIEVTRVQsIGFuZCBNYWx3YXJlYnl0ZXM8L2I-IGFyZSBvZnRlbiBlYXNpZXIgZm9yIHNtYWxsZXIgdGVhbXMgdG8gYWRtaW5pc3Rlci4gQ3Jvd2RTdHJpa2UsIFNlbnRpbmVsT25lLCBNaWNyb3NvZnQgRGVmZW5kZXIsJm5ic3A7Li4uUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuwBL2dvdG8_dXJsPUNBRVNwQUVCNnpzd0ZVVEx3SXo5bF9xQTBFRzdNbGV1R29ud1hrbE1VUlJ5Qy1kVlBrak84UnMzWjhoSVJYWkJ1VmZXaU13ZnY1Vm56TUtoOERlSGZaWWJaSkJnR3hwQTd6MTNYS0hTaEJ1VFFTNUxHZHl3MS1jcWpzeGgtSnNxYnIwa1VqOFp2MVlpWUtJeXRtTGV1RFQ4bkFNOEwzWWRMa2JNdzUzNE1lXzFYYWdkZXF1MldXckV3dl9faTJVdnMxbWVtaXdKTldsY3ZpdklOdXl0eDVMbFVZak95NDRiOEESBBoCCAAa6QUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAxQUIABAAGAAgACorCgN0b3AVK26WQBoEYmVzdBoHYmlnZ2VzdBoHbGFyZ2VzdBoHbGVhZGluZyo4Cg1jeWJlcnNlY3VyaXR5FZRvaj4aDmN5YmVyIHNlY3VyaXR5GhJpdjtwO2N5YmVyc2VjdXJpdHkqMgoIZW5kcG9pbnQVRNfDQBoSZW5kcG9pbnRwcm90ZWN0aW9uGg1pdjtwO2VuZHBvaW50KiUKCnByb3RlY3Rpb24VslCqQBoSZW5kcG9pbnRwcm90ZWN0aW9uKhoKCXBsYXRmb3JtcxXCDaJAGghwbGF0Zm9ybTLsAS9nb3RvP3VybD1DQUVTcEFFQjZ6c3dGVVRMd0l6OWxfcUEwRUc3TWxldUdvbndYa2xNVVJSeUMtZFZQa2pPOFJzM1o4aElSWFpCdVZmV2lNd2Z2NVZuek1LaDhEZUhmWlliWkpCZ0d4cEE3ejEzWEtIU2hCdVRRUzVMR2R5dzEtY3Fqc3hoLUpzcWJyMGtVajhadjFZaVlLSXl0bUxldURUOG5BTThMM1lkTGtiTXc1MzRNZV8xWGFnZGVxdTJXV3JFd3ZfX2kyVXZzMW1lbWl3Sk5XbGN2aXZJTnV5dHg1TGxVWWpPeTQ0YjhBOko8Yj5Ub3A8L2I-IDEwIDxiPkVuZHBvaW50IFByb3RlY3Rpb24gUGxhdGZvcm1zPC9iPiBFUFA6IEZlYXR1cmVzLCBQcm9zIC4uLkKbATxiPlNvcGhvcywgQml0ZGVmZW5kZXIsIEVTRVQsIGFuZCBNYWx3YXJlYnl0ZXM8L2I-IGFyZSBvZnRlbiBlYXNpZXIgZm9yIHNtYWxsZXIgdGVhbXMgdG8gYWRtaW5pc3Rlci4gQ3Jvd2RTdHJpa2UsIFNlbnRpbmVsT25lLCBNaWNyb3NvZnQgRGVmZW5kZXIsJm5ic3A7Li4uUgRiZXN0IgIQAUgAWABoAA",
+      "source": "MyHospitalNow",
+      "read_more_link": "https://www.myhospitalnow.com/blog/top-10-endpoint-protection-platforms-epp-features-pros-cons-comparison-2/#:~:text=Sophos%2C%20Bitdefender%2C%20ESET%2C%20and%20Malwarebytes,require%20stronger%20security%20operations%20maturity."
+    },
+    {
+      "position": 8,
+      "title": "Top 10 Endpoint Management Software Picks for CIOs",
+      "link": "https://cioinfluence.com/it-and-devops/top-10-endpoint-management-software-picks-for-cios/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFTt3qjOjK7R5AYii8y349kzowsd-Ybrbe5tyFXt98W0rAOMT_KPIdW9aeBRfprtePJFv9wgTSov2HsMey0awwHXByXD7ZXGpzWuRRZpXL5w6UfEBRB99QSaeGGL_mbG4xQggJEhF3mXMcBYKWk3kUNvvRxoRSc8zPHQp53cI297izu_11mL1qLdKFeDmCw&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40QFnoECEEQAQ&uoh=1",
+      "displayed_link": "https://cioinfluence.com › it-and-devops › top-10-endp...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEVHcEzyZyjyZyjyZyjyZyjyZyjzaCXxZC3yZyjsXDzfRWLPKILyZy7fRWLfRmLfRmLfRmLfRmLfRmLyZyjfRmI93hERAAAAFXRSTlMAyLzZ7fkJGf8tUgYQh_-uyNrxp2_M2srKAAAAx0lEQVR4AX3QgQqDMAyE4dPNaWMba7f3f9Yh5YgcagAC_F8hFDLDiMd5vafhsU-feREhHVCh_VKwA8lsRRYRvbjb5jWrYK_uO8zdkwq-J3C9o9_nAYqIo_eyc1FER-klHashBDsBtmODgv0EYFutRsF-AhyK4d37FUCeRozLfA_S8gVFAOmg-BGUvbXfqVMQ1GNHD2HyUewUvezdNeldtACldxEWoHcVuRDM7CqsuVXf1ovOO3Ka5T4Vq3YV951CO1Ro1_lq_wPTQg_DQ10RiQAAAABJRU5ErkJggg.png",
+      "date": "Feb 15, 2024",
+      "snippet": "WatchGuard Endpoint Security offers robust solutions to safeguard devices against cyber threats. Formerly known as Adaptive Defense 360, ...",
+      "snippet_highlighted_words": [
+        "WatchGuard Endpoint Security"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "List Of Top Endpoint...",
+            "link": "https://cioinfluence.com/it-and-devops/top-10-endpoint-management-software-picks-for-cios/#:~:text=List%20of%20Top%20Endpoint%20Management%20Software"
+          },
+          {
+            "title": "Ninjaone",
+            "link": "https://cioinfluence.com/it-and-devops/top-10-endpoint-management-software-picks-for-cios/#:~:text=NinjaOne,-NinjaOne"
+          },
+          {
+            "title": "Crowdstrike Falcon Endpoint...",
+            "link": "https://cioinfluence.com/it-and-devops/top-10-endpoint-management-software-picks-for-cios/#:~:text=CrowdStrike%20Falcon%20Endpoint%20Protection%20Platform,-CrowdStrike%20is%20a%20cybersecurity%20leader"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "WatchGuard Endpoint Security offers robust solutions to safeguard devices against cyber threats. Formerly known as Adaptive Defense 360, ...",
+          "source_info_link": "https://cioinfluence.com/it-and-devops/top-10-endpoint-management-software-picks-for-cios/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAP1BMVEVHcEzyZyjyZyjyZyjyZyjyZyjzaCXxZC3yZyjsXDzfRWLPKILyZy7fRWLfRmLfRmLfRmLfRmLfRmLyZyjfRmI93hERAAAAFXRSTlMAyLzZ7fkJGf8tUgYQh_-uyNrxp2_M2srKAAAAx0lEQVR4AX3QgQqDMAyE4dPNaWMba7f3f9Yh5YgcagAC_F8hFDLDiMd5vafhsU-feREhHVCh_VKwA8lsRRYRvbjb5jWrYK_uO8zdkwq-J3C9o9_nAYqIo_eyc1FER-klHashBDsBtmODgv0EYFutRsF-AhyK4d37FUCeRozLfA_S8gVFAOmg-BGUvbXfqVMQ1GNHD2HyUewUvezdNeldtACldxEWoHcVuRDM7CqsuVXf1ovOO3Ka5T4Vq3YV951CO1Ro1_lq_wPTQg_DQ10RiQAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZUdDNxak9qSzdSNUFZaWk4eTM0OWt6b3dzZC1ZYnJiZTV0eUZYdDk4VzByQU9NVF9LUElkVzlhZUJSZnBydGVQSkZ2OXdnVFNvdjJIc01leTBhd3dIWEJ5WEQ3WlhHcHpXdVJSWnBYTDV3NlVmRUJSQjk5UVNhZUdHTF9tYkc0eFFnZ0pFaEYzbVhNY0JZS1drM2tVTnZ2UnhvUlNjOHpQSFFwNTNjSTI5N2l6dV8xMW1MMXFMZEtGZURtQ3cSBBoCCAAaxgUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkCgBQgAEAAYACAAKisKA3RvcBXb2oJAGgRiZXN0GgdiaWdnZXN0GgdsYXJnZXN0GgdsZWFkaW5nKjgKDWN5YmVyc2VjdXJpdHkV4DoGQBoOY3liZXIgc2VjdXJpdHkaEml2O3A7Y3liZXJzZWN1cml0eSoyCghlbmRwb2ludBWpf7tAGhJlbmRwb2ludHByb3RlY3Rpb24aDWl2O3A7ZW5kcG9pbnQqJQoKcHJvdGVjdGlvbhXwkdk_GhJlbmRwb2ludHByb3RlY3Rpb24qGgoJcGxhdGZvcm1zFRitdj8aCHBsYXRmb3JtMtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZUdDNxak9qSzdSNUFZaWk4eTM0OWt6b3dzZC1ZYnJiZTV0eUZYdDk4VzByQU9NVF9LUElkVzlhZUJSZnBydGVQSkZ2OXdnVFNvdjJIc01leTBhd3dIWEJ5WEQ3WlhHcHpXdVJSWnBYTDV3NlVmRUJSQjk5UVNhZUdHTF9tYkc0eFFnZ0pFaEYzbVhNY0JZS1drM2tVTnZ2UnhvUlNjOHpQSFFwNTNjSTI5N2l6dV8xMW1MMXFMZEtGZURtQ3c6QDxiPlRvcDwvYj4gMTAgPGI-RW5kcG9pbnQ8L2I-IE1hbmFnZW1lbnQgU29mdHdhcmUgUGlja3MgZm9yIENJT3NCmAE8Yj5XYXRjaEd1YXJkIEVuZHBvaW50IFNlY3VyaXR5PC9iPiBvZmZlcnMgcm9idXN0IHNvbHV0aW9ucyB0byBzYWZlZ3VhcmQgZGV2aWNlcyBhZ2FpbnN0IGN5YmVyIHRocmVhdHMuIEZvcm1lcmx5IGtub3duIGFzIEFkYXB0aXZlIERlZmVuc2UgMzYwLCZuYnNwOy4uLlIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZUdDNxak9qSzdSNUFZaWk4eTM0OWt6b3dzZC1ZYnJiZTV0eUZYdDk4VzByQU9NVF9LUElkVzlhZUJSZnBydGVQSkZ2OXdnVFNvdjJIc01leTBhd3dIWEJ5WEQ3WlhHcHpXdVJSWnBYTDV3NlVmRUJSQjk5UVNhZUdHTF9tYkc0eFFnZ0pFaEYzbVhNY0JZS1drM2tVTnZ2UnhvUlNjOHpQSFFwNTNjSTI5N2l6dV8xMW1MMXFMZEtGZURtQ3cSBBoCCAAaxgUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkCgBQgAEAAYACAAKisKA3RvcBXb2oJAGgRiZXN0GgdiaWdnZXN0GgdsYXJnZXN0GgdsZWFkaW5nKjgKDWN5YmVyc2VjdXJpdHkV4DoGQBoOY3liZXIgc2VjdXJpdHkaEml2O3A7Y3liZXJzZWN1cml0eSoyCghlbmRwb2ludBWpf7tAGhJlbmRwb2ludHByb3RlY3Rpb24aDWl2O3A7ZW5kcG9pbnQqJQoKcHJvdGVjdGlvbhXwkdk_GhJlbmRwb2ludHByb3RlY3Rpb24qGgoJcGxhdGZvcm1zFRitdj8aCHBsYXRmb3JtMtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZUdDNxak9qSzdSNUFZaWk4eTM0OWt6b3dzZC1ZYnJiZTV0eUZYdDk4VzByQU9NVF9LUElkVzlhZUJSZnBydGVQSkZ2OXdnVFNvdjJIc01leTBhd3dIWEJ5WEQ3WlhHcHpXdVJSWnBYTDV3NlVmRUJSQjk5UVNhZUdHTF9tYkc0eFFnZ0pFaEYzbVhNY0JZS1drM2tVTnZ2UnhvUlNjOHpQSFFwNTNjSTI5N2l6dV8xMW1MMXFMZEtGZURtQ3c6QDxiPlRvcDwvYj4gMTAgPGI-RW5kcG9pbnQ8L2I-IE1hbmFnZW1lbnQgU29mdHdhcmUgUGlja3MgZm9yIENJT3NCmAE8Yj5XYXRjaEd1YXJkIEVuZHBvaW50IFNlY3VyaXR5PC9iPiBvZmZlcnMgcm9idXN0IHNvbHV0aW9ucyB0byBzYWZlZ3VhcmQgZGV2aWNlcyBhZ2FpbnN0IGN5YmVyIHRocmVhdHMuIEZvcm1lcmx5IGtub3duIGFzIEFkYXB0aXZlIERlZmVuc2UgMzYwLCZuYnNwOy4uLlIEYmVzdCICEAFIAFgAaAA",
+      "source": "CIO Influence",
+      "read_more_link": "https://cioinfluence.com/it-and-devops/top-10-endpoint-management-software-picks-for-cios/#:~:text=WatchGuard%20Endpoint%20Security%20offers%20robust,known%20as%20Adaptive%20Defense%20360%2C"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Are you confident in your cybersecurity strategy? | Caprice Post",
+      "link": "https://www.linkedin.com/posts/capricepost_cybersecurity-endpointsecurity-zerotrust-activity-7372382005847789568-Vv_i",
+      "date": "1 year ago",
+      "extensions": [
+        "Caprice Post",
+        "10+ reactions"
+      ],
+      "source": "LinkedIn",
+      "answers": [
+        {
+          "link": "https://www.linkedin.com/posts/capricepost_cybersecurity-endpointsecurity-zerotrust-activity-7372382005847789568-Vv_i"
+        }
+      ]
+    },
+    {
+      "title": "Top MDR Tools Every Cybersecurity Team Must Know! | Marcel Velica",
+      "link": "https://www.linkedin.com/posts/marcelvelica_top-mdr-tools-every-cybersecurity-team-must-activity-7369396228251484160-JZcv",
+      "date": "1 year ago",
+      "extensions": [
+        "Marcel Velica",
+        "170+ reactions"
+      ],
+      "source": "LinkedIn",
+      "answers": [
+        {
+          "link": "https://www.linkedin.com/posts/marcelvelica_top-mdr-tools-every-cybersecurity-team-must-activity-7369396228251484160-JZcv"
+        }
+      ]
+    },
+    {
+      "title": "Best alternative of Kaspersky Endpoint protection? - Security",
+      "link": "https://community.spiceworks.com/t/best-alternative-of-kaspersky-endpoint-protection/828587",
+      "date": "4 years ago",
+      "source": "Spiceworks Community",
+      "answers": [
+        {
+          "link": "https://community.spiceworks.com/t/best-alternative-of-kaspersky-endpoint-protection/828587"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+cybersecurity+endpoint+protection+platforms&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnvOAA-76nHeHt8_6yN5f35BBPo4Ig:1790336214563&ei=1ly2asjyIdWDwbkPprr96Ag&start=10&sa=N&sstk=AS6-VmLjBX3S6nGJUuAXg3DD04kTqgnZdo1I55HYLQXKCESq2h8QlijSuVo1ntsA8bSntVsmvGaKNYdiGBUrv92qkw0rVeixWhFpew&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40Q8NMDegQIOhAO",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+cybersecurity+endpoint+protection+platforms&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnvOAA-76nHeHt8_6yN5f35BBPo4Ig:1790336214563&ei=1ly2asjyIdWDwbkPprr96Ag&start=10&sa=N&sstk=AS6-VmLjBX3S6nGJUuAXg3DD04kTqgnZdo1I55HYLQXKCESq2h8QlijSuVo1ntsA8bSntVsmvGaKNYdiGBUrv92qkw0rVeixWhFpew&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40Q8tMDegQIOhAE",
+      "3": "https://www.google.com/search?q=top+cybersecurity+endpoint+protection+platforms&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnvOAA-76nHeHt8_6yN5f35BBPo4Ig:1790336214563&ei=1ly2asjyIdWDwbkPprr96Ag&start=20&sa=N&sstk=AS6-VmLjBX3S6nGJUuAXg3DD04kTqgnZdo1I55HYLQXKCESq2h8QlijSuVo1ntsA8bSntVsmvGaKNYdiGBUrv92qkw0rVeixWhFpew&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40Q8tMDegQIOhAG",
+      "4": "https://www.google.com/search?q=top+cybersecurity+endpoint+protection+platforms&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnvOAA-76nHeHt8_6yN5f35BBPo4Ig:1790336214563&ei=1ly2asjyIdWDwbkPprr96Ag&start=30&sa=N&sstk=AS6-VmLjBX3S6nGJUuAXg3DD04kTqgnZdo1I55HYLQXKCESq2h8QlijSuVo1ntsA8bSntVsmvGaKNYdiGBUrv92qkw0rVeixWhFpew&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40Q8tMDegQIOhAI",
+      "5": "https://www.google.com/search?q=top+cybersecurity+endpoint+protection+platforms&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnvOAA-76nHeHt8_6yN5f35BBPo4Ig:1790336214563&ei=1ly2asjyIdWDwbkPprr96Ag&start=40&sa=N&sstk=AS6-VmLjBX3S6nGJUuAXg3DD04kTqgnZdo1I55HYLQXKCESq2h8QlijSuVo1ntsA8bSntVsmvGaKNYdiGBUrv92qkw0rVeixWhFpew&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40Q8tMDegQIOhAK",
+      "6": "https://www.google.com/search?q=top+cybersecurity+endpoint+protection+platforms&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnvOAA-76nHeHt8_6yN5f35BBPo4Ig:1790336214563&ei=1ly2asjyIdWDwbkPprr96Ag&start=50&sa=N&sstk=AS6-VmLjBX3S6nGJUuAXg3DD04kTqgnZdo1I55HYLQXKCESq2h8QlijSuVo1ntsA8bSntVsmvGaKNYdiGBUrv92qkw0rVeixWhFpew&ved=2ahUKEwjIteOQ0omXAxXVQTABHSZdH40Q8tMDegQIOhAM"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+cybersecurity+endpoint+protection+platforms&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+cybersecurity+endpoint+protection+platforms&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+cybersecurity+endpoint+protection+platforms&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+cybersecurity+endpoint+protection+platforms&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+cybersecurity+endpoint+protection+platforms&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+cybersecurity+endpoint+protection+platforms&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+cybersecurity+endpoint+protection+platforms&start=50"
+    }
+  }
+}

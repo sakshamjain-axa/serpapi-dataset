@@ -1,0 +1,687 @@
+{
+  "search_metadata": {
+    "id": "6ab665ad71a90d7b079db680",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Cp1NlSQcj8c5CNhEn-J3FHnTNLo4zsNDjGN_DVwtLcQ/6ab665ad71a90d7b079db680.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Cp1NlSQcj8c5CNhEn-J3FHnTNLo4zsNDjGN_DVwtLcQ/6ab665ad71a90d7b079db680.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Cp1NlSQcj8c5CNhEn-J3FHnTNLo4zsNDjGN_DVwtLcQ/6ab665ad71a90d7b079db680.json_with_pixel_position",
+    "created_at": "2026-09-25 12:14:37 UTC",
+    "processed_at": "2026-09-25 12:14:37 UTC",
+    "google_url": "https://www.google.com/search?q=top+social+media+scheduling+platforms&oq=top+social+media+scheduling+platforms&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Cp1NlSQcj8c5CNhEn-J3FHnTNLo4zsNDjGN_DVwtLcQ/6ab665ad71a90d7b079db680.html",
+    "total_time_taken": 0.65
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top social media scheduling platforms",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top social media scheduling platforms",
+    "total_results": 125000,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "All-In-One Social Platform | #1 Rated On G2 For Ease of Use",
+      "link": "https://www.dashsocial.com/social-media-management-platform-for-high-growth-brands",
+      "displayed_link": "https://www.dashsocial.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwiO-PLH2omXAxUOploFHbqLDU4YACICCAEQARoCdnU&co=1&ase=2&gclid=EAIaIQobChMIjvjyx9qJlwMVDqZaBR26iw1OEAAYASAAEgJwUPD_BwE&cid=CAASuwHkaNsaBpEuRbPxe65Xa_9h-ZkL44ehwFj71XAEy2T4op9qwE6FrDrFsZVOlIRS7t2eOFp_VqiZm_qSg4zTBe_oU9jNwrdf2Q9SD_bz_7bSfaY-ohYxz562MGfPa-rKu1WV9VEuoIqhZHsUGZdY4uecetTMOf1eUJ3k4LDfK16pqaTR6-h8hcdMN1qRFZDhwBCuXQo3Y00R-REkLjKop-_loqO6h5UwoTqou9DxRhbs0-4PTdlkfhCDEPLU&cce=2&category=acrcp_v1_32&sig=AOD64_0mp1MdWHj7YWrpF8YgPk8kJ9YJjA&q&nis=4&adurl=https://www.dashsocial.com/social-media-management-platform-for-high-growth-brands?campaign_id%3D24249435597%26ad_group_id%3D201747501562%26ad_id%3D824886346748%26keyword%3Dsocial%2520media%2520management%2520software%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dnam_bofu_category_t1_exact%26utm_content%3Dh1_category%26utm_term%3D824886346748%26utm_id%3D24249435597%26hsa_acc%3D7228502463%26hsa_cam%3D24249435597%26hsa_grp%3D201747501562%26hsa_ad%3D824886346748%26hsa_src%3Dg%26hsa_tgt%3Dkwd-12915462023%26hsa_kw%3Dsocial%2520media%2520management%2520software%26hsa_mt%3De%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D1%26gad_campaignid%3D24249435597%26gbraid%3D0AAAAADniozfCrep6IVkGE1pxafuRV5ban%26gclid%3DEAIaIQobChMIjvjyx9qJlwMVDqZaBR26iw1OEAAYASAAEgJwUPD_BwE",
+      "description": "Built for teams that live in visual content, not for CRMs with social bolted on. Stop stitching four tools together to answer one question about your social program. All-in-one Platform. Read more",
+      "source": "Dash Social",
+      "sitelinks": [
+        {
+          "title": "View Pricing",
+          "link": "https://www.dashsocial.com/solutions/monetize-and-convert?sa=X&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQwgUoAXoECBIQEg"
+        },
+        {
+          "title": "Link-in-Bio Tool",
+          "link": "https://dashsocial.com/features/likeshop?utm_medium=cpc&utm_source=google&utm_campaign=Sitelink_Global_5_07_2023&utm_content=Paid_Sitelinks_Search_Google_General_0_0_BOFU&sa=X&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQwgUoA3oECBIQFA"
+        },
+        {
+          "title": "Get a Demo",
+          "link": "https://dashsocial.com/demo?sa=X&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQwgUoBXoECBIQFg"
+        },
+        {
+          "title": "Creator Management",
+          "link": "https://dashsocial.com/solutions/measure-influencer-roi?utm_medium=cpc&utm_source=google&utm_campaign=Sitelink_Global_5_07_2023&utm_content=Paid_Sitelinks_Search_Google_General_0_0_BOFU&sa=X&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQwgUoB3oECBIQGA"
+        },
+        {
+          "title": "Social Commerce",
+          "link": "https://www.dashsocial.com/solutions/monetize-and-convert?sa=X&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQwgUoCXoECBIQGg"
+        },
+        {
+          "title": "Contact Us",
+          "link": "https://www.dashsocial.com/contact?sa=X&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQwgUoC3oECBIQHA"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "AI Social Management Tool - Social Media AI Management",
+      "link": "https://www.socialbear.com/services/socialbear-ai-social-media-moderation",
+      "displayed_link": "https://www.socialbear.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiO-PLH2omXAxUOploFHbqLDU4YACICCAEQAhoCdnU&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMIjvjyx9qJlwMVDqZaBR26iw1OEAAYAiAAEgL-vfD_BwE&cid=CAASuwHkaNsaBpEuRbPxe65Xa_9h-ZkL44ehwFj71XAEy2T4op9qwE6FrDrFsZVOlIRS7t2eOFp_VqiZm_qSg4zTBe_oU9jNwrdf2Q9SD_bz_7bSfaY-ohYxz562MGfPa-rKu1WV9VEuoIqhZHsUGZdY4uecetTMOf1eUJ3k4LDfK16pqaTR6-h8hcdMN1qRFZDhwBCuXQo3Y00R-REkLjKop-_loqO6h5UwoTqou9DxRhbs0-4PTdlkfhCDEPLU&cce=2&category=acrcp_v1_35&sig=AOD64_2QzEKikCSi42cbZ1Nghv2PxdirzA&q&nis=4&adurl",
+      "description": "AI social media management for moderation, flags, and responses.",
+      "source": "Socialbear"
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "Top 10 Social Media Platforms | What's The Best SMM Tool",
+      "link": "https://influencermarketinghub.com/social-media-marketing-platforms/",
+      "displayed_link": "https://www.influencermarketinghub.com",
+      "thumbnail": "https://serpapi.com/searches/6ab665ad71a90d7b079db680/images/oXkVKwouHVy6eEOMuppqnA.png",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiO-PLH2omXAxUOploFHbqLDU4YACICCAEQBRoCdnU&co=1&ase=2&gclid=EAIaIQobChMIjvjyx9qJlwMVDqZaBR26iw1OEAAYAyACEgIAVfD_BwE&cid=CAASuwHkaNsaBpEuRbPxe65Xa_9h-ZkL44ehwFj71XAEy2T4op9qwE6FrDrFsZVOlIRS7t2eOFp_VqiZm_qSg4zTBe_oU9jNwrdf2Q9SD_bz_7bSfaY-ohYxz562MGfPa-rKu1WV9VEuoIqhZHsUGZdY4uecetTMOf1eUJ3k4LDfK16pqaTR6-h8hcdMN1qRFZDhwBCuXQo3Y00R-REkLjKop-_loqO6h5UwoTqou9DxRhbs0-4PTdlkfhCDEPLU&cce=2&category=acrcp_v1_32&sig=AOD64_2gSUKMq-Ps4KguHMTmvNNEbFnJOg&q=&nis=4&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQh78CegQIERAB&adurl=",
+      "description": "Which Social Media Marketing and Monitoring Solutions will be best for 2026?",
+      "source": "Influencer Marketing Hub",
+      "sitelinks": [
+        {
+          "title": "Ratings & Reviews of SMM Tools",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiO-PLH2omXAxUOploFHbqLDU4YACICCAEQBxoCdnU&co=1&ase=2&gclid=EAIaIQobChMIjvjyx9qJlwMVDqZaBR26iw1OEAAYAyADEgK1C_D_BwE&cid=CAASuwHkaNsaBpEuRbPxe65Xa_9h-ZkL44ehwFj71XAEy2T4op9qwE6FrDrFsZVOlIRS7t2eOFp_VqiZm_qSg4zTBe_oU9jNwrdf2Q9SD_bz_7bSfaY-ohYxz562MGfPa-rKu1WV9VEuoIqhZHsUGZdY4uecetTMOf1eUJ3k4LDfK16pqaTR6-h8hcdMN1qRFZDhwBCuXQo3Y00R-REkLjKop-_loqO6h5UwoTqou9DxRhbs0-4PTdlkfhCDEPLU&cce=2&category=acrcp_v1_32&sig=AOD64_2Z1DDbiYfmVHomLZB0Mb1QxF6pJg&adurl=&q="
+        },
+        {
+          "title": "Discover the Best Tool for You",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiO-PLH2omXAxUOploFHbqLDU4YACICCAEQCRoCdnU&co=1&ase=2&gclid=EAIaIQobChMIjvjyx9qJlwMVDqZaBR26iw1OEAAYAyAEEgJTNfD_BwE&cid=CAASuwHkaNsaBpEuRbPxe65Xa_9h-ZkL44ehwFj71XAEy2T4op9qwE6FrDrFsZVOlIRS7t2eOFp_VqiZm_qSg4zTBe_oU9jNwrdf2Q9SD_bz_7bSfaY-ohYxz562MGfPa-rKu1WV9VEuoIqhZHsUGZdY4uecetTMOf1eUJ3k4LDfK16pqaTR6-h8hcdMN1qRFZDhwBCuXQo3Y00R-REkLjKop-_loqO6h5UwoTqou9DxRhbs0-4PTdlkfhCDEPLU&cce=2&category=acrcp_v1_32&sig=AOD64_37HKl5f-8j-vjn5dR6vqc4xUYMCg&adurl=&q="
+        },
+        {
+          "title": "Marketing Platforms",
+          "link": "https://influencermarketinghub.com/influencer-marketing-platforms/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "block_position": "bottom",
+      "title": "All-In-One Social Platform | One Platform, Not Four Tools",
+      "link": "https://www.dashsocial.com/social-media-management-platform-for-high-growth-brands",
+      "displayed_link": "https://www.dashsocial.com",
+      "thumbnail": "https://tpc.googlesyndication.com/simgad/12717353210781560299?sqp=-oaymwEKCFwQXCABUAFYAQ&rs=AOga4qnMr6FTJqX6vD7Prn3jiVu28iHypQ",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiO-PLH2omXAxUOploFHbqLDU4YACICCAIQCBoCdnU&co=1&ase=2&gclid=EAIaIQobChMIjvjyx9qJlwMVDqZaBR26iw1OEAMYASAHEgLDGPD_BwE&cid=CAASuwHkaNsaBpEuRbPxe65Xa_9h-ZkL44ehwFj71XAEy2T4op9qwE6FrDrFsZVOlIRS7t2eOFp_VqiZm_qSg4zTBe_oU9jNwrdf2Q9SD_bz_7bSfaY-ohYxz562MGfPa-rKu1WV9VEuoIqhZHsUGZdY4uecetTMOf1eUJ3k4LDfK16pqaTR6-h8hcdMN1qRFZDhwBCuXQo3Y00R-REkLjKop-_loqO6h5UwoTqou9DxRhbs0-4PTdlkfhCDEPLU&cce=2&category=acrcp_v1_32&sig=AOD64_2bDvK5EkJZEGwwQaLej2EZD_bbjQ&q=&nis=4&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQh78CegQIVBAB&adurl=",
+      "description": "Built for teams that live in visual content, not for CRMs with social bolted on.",
+      "extensions": [
+        "1M+ visits in past month"
+      ],
+      "source": "Dash Social",
+      "sitelinks": [
+        {
+          "title": "View Pricing",
+          "link": "https://www.dashsocial.com/solutions/monetize-and-convert"
+        },
+        {
+          "title": "Link-in-Bio Tool",
+          "link": "https://dashsocial.com/features/likeshop?utm_medium=cpc&utm_source=google&utm_campaign=Sitelink_Global_5_07_2023&utm_content=Paid_Sitelinks_Search_Google_General_0_0_BOFU"
+        },
+        {
+          "title": "Get a Demo",
+          "link": "https://dashsocial.com/demo"
+        },
+        {
+          "title": "Creator Management",
+          "link": "https://dashsocial.com/solutions/measure-influencer-roi?utm_medium=cpc&utm_source=google&utm_campaign=Sitelink_Global_5_07_2023&utm_content=Paid_Sitelinks_Search_Google_General_0_0_BOFU"
+        },
+        {
+          "title": "Social Commerce",
+          "link": "https://www.dashsocial.com/solutions/monetize-and-convert"
+        },
+        {
+          "title": "Contact Us",
+          "link": "https://www.dashsocial.com/contact"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "block_position": "bottom",
+      "title": "AI Social Management Tool - Social Media AI Moderation",
+      "link": "https://www.socialbear.com/services/socialbear-ai-social-media-moderation",
+      "displayed_link": "https://www.socialbear.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiO-PLH2omXAxUOploFHbqLDU4YACICCAIQARoCdnU&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMIjvjyx9qJlwMVDqZaBR26iw1OEAMYAiAAEgJ_sPD_BwE&cid=CAASuwHkaNsaBpEuRbPxe65Xa_9h-ZkL44ehwFj71XAEy2T4op9qwE6FrDrFsZVOlIRS7t2eOFp_VqiZm_qSg4zTBe_oU9jNwrdf2Q9SD_bz_7bSfaY-ohYxz562MGfPa-rKu1WV9VEuoIqhZHsUGZdY4uecetTMOf1eUJ3k4LDfK16pqaTR6-h8hcdMN1qRFZDhwBCuXQo3Y00R-REkLjKop-_loqO6h5UwoTqou9DxRhbs0-4PTdlkfhCDEPLU&cce=2&category=acrcp_v1_35&sig=AOD64_2yEeyo0zShjeOINnQFYiPRH0JPuw&q&nis=4&adurl",
+      "description": "AI social media management for moderation, flags, and responses.",
+      "source": "Socialbear"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the top 5 social media schedulers?",
+      "type": "ai_overview",
+      "page_token": "837tqnicHdBdboIwAADg7DI-TsDhoolZwgBBR01rW0pfllpUHC1UYfLztrvsVDvNlp3gS76vb3Wpyp-He9G2pllOp13XPZ7r-qyOj7LWU9EMlZxKodRByHI5f57bLye5Cj5j7_Uae5AYQ31k4WizfiM9o4ONMKGCjdSiur_vR3oDFW-h3hhuo4Kv3eTAQH30Fd6FZoew1yDK3cwBW0SLraB5ii23h1hd9kGRYbK4CisZgV-6GQsHmPa20PDpuLbdpATmz_N4FPJ8LEasXZ6WIJak6SWh4dEvYp62c-YojMreIsSEqd6k-4B3KMq1LF3OLKMTuqlzFTvQ4U2-polgeRUU-UBtOWTMYzhQCSdqlukW7tLQF07rIVRfIEGj_FCaVEUFrIWDQmB2zIvojFMSqfnBQg3wQ32YZSOBk5O8r2aT_8_V-0m3S3Orz78SyoQX",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=837tqnicHdBdboIwAADg7DI-TsDhoolZwgBBR01rW0pfllpUHC1UYfLztrvsVDvNlp3gS76vb3Wpyp-He9G2pllOp13XPZ7r-qyOj7LWU9EMlZxKodRByHI5f57bLye5Cj5j7_Uae5AYQ31k4WizfiM9o4ONMKGCjdSiur_vR3oDFW-h3hhuo4Kv3eTAQH30Fd6FZoew1yDK3cwBW0SLraB5ii23h1hd9kGRYbK4CisZgV-6GQsHmPa20PDpuLbdpATmz_N4FPJ8LEasXZ6WIJak6SWh4dEvYp62c-YojMreIsSEqd6k-4B3KMq1LF3OLKMTuqlzFTvQ4U2-polgeRUU-UBtOWTMYzhQCSdqlukW7tLQF07rIVRfIEGj_FCaVEUFrIWDQmB2zIvojFMSqfnBQg3wQ32YZSOBk5O8r2aT_8_V-0m3S3Orz78SyoQX",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVrbFhNVE00Um5GcmVtaHZjMGxvYVRkdmF6bE9jWEZ0YW5WRWNrMWtlbFkxUVRKbE1qYzRhemRzWXpsdFluazRaVnBMZVhKRlYyZFNibmd0YzBSWlNYTTVMV1J3WWpWcGEwRlhiRXh4VFRSNU5rODNiMkZITVZoMVFSSVhjbGRYTW1Gd1YweEpUR1ZKZDJKclVEbGhRMnRyUVVVYUlrRkVjM0k1WmxOQ05qUjZaVlJuUWxOc01GZFRTM2hMYmtOMmRHRmZlVWQzYldjIiwiZmN2IjoiMyIsImVpIjoicldXMmFwV0xJTGVJd2JrUDlhQ2trQUUiLCJxYyI6IkNpVjBiM0FnYzI5amFXRnNJRzFsWkdsaElITmphR1ZrZFd4cGJtY2djR3hoZEdadmNtMXpFQUI5ZkRBTlB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDUgc29jaWFsIG1lZGlhIHNjaGVkdWxlcnM/IiwibGsiOiJHaHgwYjNBZ05TQnpiMk5wWVd3Z2JXVmthV0VnYzJOb1pXUjFiR1Z5IiwiYnMiOiJjLVB5NWRJT3owZ3NVVWdzU2xVb3lRRGlfQUlGVTRYaV9PVE14QnlGM05TVXpFU0Y0dVNNMUpUU25OU2lZbnNqT1NrWmZDcTRRcmswd01abEZvTk5Nd1hESXFDVVFscC1FWW9tZXlOTktmVnk0dFJ5aFhOcElodWJsRnBjb2xDUWsxZ0NWSmdMVVExeFFXWmV1cjJSbHBSR09aR0t1YUpCM3M5TXpzRG5mNWhlb1BkMXBMVEtpVll1d0FnQSIsImlkIjoiZmNfcldXMmFwV0xJTGVJd2JrUDlhQ2trQUVfMyJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVrbFhNVE00Um5GcmVtaHZjMGxvYVRkdmF6bE9jWEZ0YW5WRWNrMWtlbFkxUVRKbE1qYzRhemRzWXpsdFluazRaVnBMZVhKRlYyZFNibmd0YzBSWlNYTTVMV1J3WWpWcGEwRlhiRXh4VFRSNU5rODNiMkZITVZoMVFSSVhjbGRYTW1Gd1YweEpUR1ZKZDJKclVEbGhRMnRyUVVVYUlrRkVjM0k1WmxOQ05qUjZaVlJuUWxOc01GZFRTM2hMYmtOMmRHRmZlVWQzYldjIiwiZmN2IjoiMyIsImVpIjoicldXMmFwV0xJTGVJd2JrUDlhQ2trQUUiLCJxYyI6IkNpVjBiM0FnYzI5amFXRnNJRzFsWkdsaElITmphR1ZrZFd4cGJtY2djR3hoZEdadmNtMXpFQUI5ZkRBTlB3IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDUgc29jaWFsIG1lZGlhIHNjaGVkdWxlcnM%2FIiwibGsiOiJHaHgwYjNBZ05TQnpiMk5wWVd3Z2JXVmthV0VnYzJOb1pXUjFiR1Z5IiwiYnMiOiJjLVB5NWRJT3owZ3NVVWdzU2xVb3lRRGlfQUlGVTRYaV9PVE14QnlGM05TVXpFU0Y0dVNNMUpUU25OU2lZbnNqT1NrWmZDcTRRcmswd01abEZvTk5Nd1hESXFDVVFscC1FWW9tZXlOTktmVnk0dFJ5aFhOcElodWJsRnBjb2xDUWsxZ0NWSmdMVVExeFFXWmV1cjJSbHBSR09aR0t1YUpCM3M5TXpzRG5mNWhlb1BkMXBMVEtpVll1d0FnQSIsImlkIjoiZmNfcldXMmFwV0xJTGVJd2JrUDlhQ2trQUVfMyJ9"
+    },
+    {
+      "question": "What is the 5 5 5 rule for social media?",
+      "type": "ai_overview",
+      "page_token": "Hwh-T3icHdBbUoMwGEDhcTM-WpLaOu1MxzECVWzQBAjlf3GASGmTQLS0lL65F1flarys4DtzPr_0tlHfF8e66-x-Phr1fX-1aduNfrsqWzPK90NTjspc6yIv1Xx6M0W3VbnwDo_k_v2RsMRa4XInwnpgIhhTAVXRyC1XqE2VZfScOZHyae4TEiobRo1egRuoxCU0FCRPjWZxI9egkAdpPWXnoKVe3aUKAV2ecGImotjBUHgoKpwMSWODZ59fZ-pPFTZ3JkTq2mPjIA7VTL-5ZBXpu14Kfh8_hBE8kC1HoCCFipoaohSeJBbst49Sp8YQoSN1ElxgP5MOP4hleMqSmnu1HAQqh2xN1rGnKSR6nJmOPae-m-OOcN5uWcLP5U4bsTx1ck1eBA5iaOD0ayPRbIYCzViCJzYzgYD-siqPi_Hl_8_Fa2W6uf1oNz_Qh4Km",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Hwh-T3icHdBbUoMwGEDhcTM-WpLaOu1MxzECVWzQBAjlf3GASGmTQLS0lL65F1flarys4DtzPr_0tlHfF8e66-x-Phr1fX-1aduNfrsqWzPK90NTjspc6yIv1Xx6M0W3VbnwDo_k_v2RsMRa4XInwnpgIhhTAVXRyC1XqE2VZfScOZHyae4TEiobRo1egRuoxCU0FCRPjWZxI9egkAdpPWXnoKVe3aUKAV2ecGImotjBUHgoKpwMSWODZ59fZ-pPFTZ3JkTq2mPjIA7VTL-5ZBXpu14Kfh8_hBE8kC1HoCCFipoaohSeJBbst49Sp8YQoSN1ElxgP5MOP4hleMqSmnu1HAQqh2xN1rGnKSR6nJmOPae-m-OOcN5uWcLP5U4bsTx1ck1eBA5iaOD0ayPRbIYCzViCJzYzgYD-siqPi_Hl_8_Fa2W6uf1oNz_Qh4Km",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVrbFhNVE00Um5GcmVtaHZjMGxvYVRkdmF6bE9jWEZ0YW5WRWNrMWtlbFkxUVRKbE1qYzRhemRzWXpsdFluazRaVnBMZVhKRlYyZFNibmd0YzBSWlNYTTVMV1J3WWpWcGEwRlhiRXh4VFRSNU5rODNiMkZITVZoMVFSSVhjbGRYTW1Gd1YweEpUR1ZKZDJKclVEbGhRMnRyUVVVYUlrRkVjM0k1WmxOQ05qUjZaVlJuUWxOc01GZFRTM2hMYmtOMmRHRmZlVWQzYldjIiwiZmN2IjoiMyIsImVpIjoicldXMmFwV0xJTGVJd2JrUDlhQ2trQUUiLCJxYyI6IkNpVjBiM0FnYzI5amFXRnNJRzFsWkdsaElITmphR1ZrZFd4cGJtY2djR3hoZEdadmNtMXpFQUI5ZkRBTlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA1IDUgNSBydWxlIGZvciBzb2NpYWwgbWVkaWE/IiwibGsiOiJjNU5TTDg5SUxGSElMRllveVVoVk1BWERvdEtjVklXMF9DS0Y0dnprek1RY2hkelVsTXhFQUEiLCJicyI6ImMtUHk1ZElPejBnc1VVZ3NTbFVveVFEaV9BSUZVNFhpX09UTXhCeUYzTlNVekVTRjR1U00xSlRTbk5TaVluc2pPU2taZkNxNFFyazB3TVpsRm9OTk13WERJcUNVUWxwLUVZb21leU5OS2ZWeTR0UnloWE5wSWh1YmxGcGNvbENRazFnQ1ZKZ0xVUTF4UVdaZXVyMlJscFJHT1pHS3VhSkIzczlNenNEbmY1aGVvUGQxcExUS2lWWXV3QWdBIiwiaWQiOiJmY19yV1cyYXBXTElMZUl3YmtQOWFDa2tBRV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVrbFhNVE00Um5GcmVtaHZjMGxvYVRkdmF6bE9jWEZ0YW5WRWNrMWtlbFkxUVRKbE1qYzRhemRzWXpsdFluazRaVnBMZVhKRlYyZFNibmd0YzBSWlNYTTVMV1J3WWpWcGEwRlhiRXh4VFRSNU5rODNiMkZITVZoMVFSSVhjbGRYTW1Gd1YweEpUR1ZKZDJKclVEbGhRMnRyUVVVYUlrRkVjM0k1WmxOQ05qUjZaVlJuUWxOc01GZFRTM2hMYmtOMmRHRmZlVWQzYldjIiwiZmN2IjoiMyIsImVpIjoicldXMmFwV0xJTGVJd2JrUDlhQ2trQUUiLCJxYyI6IkNpVjBiM0FnYzI5amFXRnNJRzFsWkdsaElITmphR1ZrZFd4cGJtY2djR3hoZEdadmNtMXpFQUI5ZkRBTlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA1IDUgNSBydWxlIGZvciBzb2NpYWwgbWVkaWE%2FIiwibGsiOiJjNU5TTDg5SUxGSElMRllveVVoVk1BWERvdEtjVklXMF9DS0Y0dnprek1RY2hkelVsTXhFQUEiLCJicyI6ImMtUHk1ZElPejBnc1VVZ3NTbFVveVFEaV9BSUZVNFhpX09UTXhCeUYzTlNVekVTRjR1U00xSlRTbk5TaVluc2pPU2taZkNxNFFyazB3TVpsRm9OTk13WERJcUNVUWxwLUVZb21leU5OS2ZWeTR0UnloWE5wSWh1YmxGcGNvbENRazFnQ1ZKZ0xVUTF4UVdaZXVyMlJscFJHT1pHS3VhSkIzczlNenNEbmY1aGVvUGQxcExUS2lWWXV3QWdBIiwiaWQiOiJmY19yV1cyYXBXTElMZUl3YmtQOWFDa2tBRV8zIn0%3D"
+    },
+    {
+      "question": "What is the best platform for scheduling?",
+      "type": "ai_overview",
+      "page_token": "VLIdP3icHdDdToMwGIDheDMeOn50uiWLCaPC0NZQaMt6YthXBpNCmbIxOPNevCqvRuPpe_Tk_frWh7b-uTpXfd99LmezYRhuSmNKXdyAaWb559jCDHKtdznUy_n93H7cwwqdNt76uPFi1nXcp1aK-ImFyueWxEJrA1Z0IeKyJy21ZajixOnnpK0aWcuRZKW1qysCtUywuB0FpwFG9klxcxHiYfjrumDdEQdPG-WoA7fYpHxtbVsegs81e5c-pDRXgluA5CCzciwa-ZxOUYCDiOap7Eld3hHXW4vArjAj3e4PRetLmDgUq1Czl6xq07BCRRO7AskXbEfropUOd42bOQsPVWrkNozbzMtSpLFk2t02ffwqnvzc6T1KzSFmdIJ33TChomRSG0g1InxhYUaPECwM1FWbsHKCzFvL4XoP55V7_f9z9bZv-mX3YcpfUpSEqw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=VLIdP3icHdDdToMwGIDheDMeOn50uiWLCaPC0NZQaMt6YthXBpNCmbIxOPNevCqvRuPpe_Tk_frWh7b-uTpXfd99LmezYRhuSmNKXdyAaWb559jCDHKtdznUy_n93H7cwwqdNt76uPFi1nXcp1aK-ImFyueWxEJrA1Z0IeKyJy21ZajixOnnpK0aWcuRZKW1qysCtUywuB0FpwFG9klxcxHiYfjrumDdEQdPG-WoA7fYpHxtbVsegs81e5c-pDRXgluA5CCzciwa-ZxOUYCDiOap7Eld3hHXW4vArjAj3e4PRetLmDgUq1Czl6xq07BCRRO7AskXbEfropUOd42bOQsPVWrkNozbzMtSpLFk2t02ffwqnvzc6T1KzSFmdIJ33TChomRSG0g1InxhYUaPECwM1FWbsHKCzFvL4XoP55V7_f9z9bZv-mX3YcpfUpSEqw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVrbFhNVE00Um5GcmVtaHZjMGxvYVRkdmF6bE9jWEZ0YW5WRWNrMWtlbFkxUVRKbE1qYzRhemRzWXpsdFluazRaVnBMZVhKRlYyZFNibmd0YzBSWlNYTTVMV1J3WWpWcGEwRlhiRXh4VFRSNU5rODNiMkZITVZoMVFSSVhjbGRYTW1Gd1YweEpUR1ZKZDJKclVEbGhRMnRyUVVVYUlrRkVjM0k1WmxOQ05qUjZaVlJuUWxOc01GZFRTM2hMYmtOMmRHRmZlVWQzYldjIiwiZmN2IjoiMyIsImVpIjoicldXMmFwV0xJTGVJd2JrUDlhQ2trQUUiLCJxYyI6IkNpVjBiM0FnYzI5amFXRnNJRzFsWkdsaElITmphR1ZrZFd4cGJtY2djR3hoZEdadmNtMXpFQUI5ZkRBTlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHBsYXRmb3JtIGZvciBzY2hlZHVsaW5nPyIsImxrIjoiR2loM2FHRjBJR2x6SUhSb1pTQmlaWE4wSUhCc1lYUm1iM0p0SUdadmNpQnpZMmhsWkhWc2FXNW4iLCJicyI6ImMtUHk1ZElPejBnc1VVZ3NTbFVveVFEaV9BSUZVNFhpX09UTXhCeUYzTlNVekVTRjR1U00xSlRTbk5TaVluc2pPU2taZkNxNFFyazB3TVpsRm9OTk13WERJcUNVUWxwLUVZb21leU5OS2ZWeTR0UnloWE5wSWh1YmxGcGNvbENRazFnQ1ZKZ0xVUTF4UVdaZXVyMlJscFJHT1pHS3VhSkIzczlNenNEbmY1aGVvUGQxcExUS2lWWXV3QWdBIiwiaWQiOiJmY19yV1cyYXBXTElMZUl3YmtQOWFDa2tBRV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVrbFhNVE00Um5GcmVtaHZjMGxvYVRkdmF6bE9jWEZ0YW5WRWNrMWtlbFkxUVRKbE1qYzRhemRzWXpsdFluazRaVnBMZVhKRlYyZFNibmd0YzBSWlNYTTVMV1J3WWpWcGEwRlhiRXh4VFRSNU5rODNiMkZITVZoMVFSSVhjbGRYTW1Gd1YweEpUR1ZKZDJKclVEbGhRMnRyUVVVYUlrRkVjM0k1WmxOQ05qUjZaVlJuUWxOc01GZFRTM2hMYmtOMmRHRmZlVWQzYldjIiwiZmN2IjoiMyIsImVpIjoicldXMmFwV0xJTGVJd2JrUDlhQ2trQUUiLCJxYyI6IkNpVjBiM0FnYzI5amFXRnNJRzFsWkdsaElITmphR1ZrZFd4cGJtY2djR3hoZEdadmNtMXpFQUI5ZkRBTlB3IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBiZXN0IHBsYXRmb3JtIGZvciBzY2hlZHVsaW5nPyIsImxrIjoiR2loM2FHRjBJR2x6SUhSb1pTQmlaWE4wSUhCc1lYUm1iM0p0SUdadmNpQnpZMmhsWkhWc2FXNW4iLCJicyI6ImMtUHk1ZElPejBnc1VVZ3NTbFVveVFEaV9BSUZVNFhpX09UTXhCeUYzTlNVekVTRjR1U00xSlRTbk5TaVluc2pPU2taZkNxNFFyazB3TVpsRm9OTk13WERJcUNVUWxwLUVZb21leU5OS2ZWeTR0UnloWE5wSWh1YmxGcGNvbENRazFnQ1ZKZ0xVUTF4UVdaZXVyMlJscFJHT1pHS3VhSkIzczlNenNEbmY1aGVvUGQxcExUS2lWWXV3QWdBIiwiaWQiOiJmY19yV1cyYXBXTElMZUl3YmtQOWFDa2tBRV8zIn0%3D"
+    },
+    {
+      "question": "Which are the top 5 social media platforms?",
+      "type": "ai_overview",
+      "page_token": "funZ7nicHdDdTsIwGIDheDMcwgaIkYQYCy0_jg832m7riSktsJ92GzAZ7Mx78aq8Go0X8CZP3q9vkxb5z8M1qevqMu71mqbpHsvyaPZdVdqevNwL1VPSmJ1U-Xj0NHJfDmqCP5doeloin1UVnwXONnerrcUOFOQOYbWCDF0VBulzUezwo5GtsTpDnC50Bn1yFi2c1ACEn_PIjyCVM_QGWXIRlLTrDIqtrQu_D6mIACQ3LLY8Ugv4a1kTmmVLp-47LyrhseQcWrjtI9YoF5nAmtRjYrhfvN5oCyuZ4SHPAynmAiuHnHyuhQjdqRcmwHOylI4mEK3OnBiynePbbo6dtSUFTvSdu-oeRyii2KwFM4PY1v4mJDPZr1EQlKnPglZlxjInoBuclJyshpo_v8cUxX82j8107FHNaeg0uukc1HUy6Pz_nHwcbD2uzuXxF-GdhQE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=funZ7nicHdDdTsIwGIDheDMcwgaIkYQYCy0_jg832m7riSktsJ92GzAZ7Mx78aq8Go0X8CZP3q9vkxb5z8M1qevqMu71mqbpHsvyaPZdVdqevNwL1VPSmJ1U-Xj0NHJfDmqCP5doeloin1UVnwXONnerrcUOFOQOYbWCDF0VBulzUezwo5GtsTpDnC50Bn1yFi2c1ACEn_PIjyCVM_QGWXIRlLTrDIqtrQu_D6mIACQ3LLY8Ugv4a1kTmmVLp-47LyrhseQcWrjtI9YoF5nAmtRjYrhfvN5oCyuZ4SHPAynmAiuHnHyuhQjdqRcmwHOylI4mEK3OnBiynePbbo6dtSUFTvSdu-oeRyii2KwFM4PY1v4mJDPZr1EQlKnPglZlxjInoBuclJyshpo_v8cUxX82j8107FHNaeg0uukc1HUy6Pz_nHwcbD2uzuXxF-GdhQE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVrbFhNVE00Um5GcmVtaHZjMGxvYVRkdmF6bE9jWEZ0YW5WRWNrMWtlbFkxUVRKbE1qYzRhemRzWXpsdFluazRaVnBMZVhKRlYyZFNibmd0YzBSWlNYTTVMV1J3WWpWcGEwRlhiRXh4VFRSNU5rODNiMkZITVZoMVFSSVhjbGRYTW1Gd1YweEpUR1ZKZDJKclVEbGhRMnRyUVVVYUlrRkVjM0k1WmxOQ05qUjZaVlJuUWxOc01GZFRTM2hMYmtOMmRHRmZlVWQzYldjIiwiZmN2IjoiMyIsImVpIjoicldXMmFwV0xJTGVJd2JrUDlhQ2trQUUiLCJxYyI6IkNpVjBiM0FnYzI5amFXRnNJRzFsWkdsaElITmphR1ZrZFd4cGJtY2djR3hoZEdadmNtMXpFQUI5ZkRBTlB3IiwicXVlc3Rpb24iOiJXaGljaCBhcmUgdGhlIHRvcCA1IHNvY2lhbCBtZWRpYSBwbGF0Zm9ybXM/IiwibGsiOiJHaXAzYUdsamFDQmhjbVVnZEdobElIUnZjQ0ExSUhOdlkybGhiQ0J0WldScFlTQndiR0YwWm05eWJYTSIsImJzIjoiYy1QeTVkSU96MGdzVVVnc1NsVW95UURpX0FJRlU0WGlfT1RNeEJ5RjNOU1V6RVNGNHVTTTFKVFNuTlNpWW5zak9Ta1pmQ3E0UXJrMHdNWmxGb05OTXdYRElxQ1VRbHAtRVlvbWV5Tk5LZlZ5NHRSeWhYTnBJaHVibEZwY29sQ1FrMWdDVkpnTFVRMXhRV1pldXIyUmxwUkdPWkdLdWFKQjNzOU16c0RuZjVoZW9QZDFwTFRLaVZZdXdBZ0EiLCJpZCI6ImZjX3JXVzJhcFdMSUxlSXdia1A5YUNra0FFXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlVrbFhNVE00Um5GcmVtaHZjMGxvYVRkdmF6bE9jWEZ0YW5WRWNrMWtlbFkxUVRKbE1qYzRhemRzWXpsdFluazRaVnBMZVhKRlYyZFNibmd0YzBSWlNYTTVMV1J3WWpWcGEwRlhiRXh4VFRSNU5rODNiMkZITVZoMVFSSVhjbGRYTW1Gd1YweEpUR1ZKZDJKclVEbGhRMnRyUVVVYUlrRkVjM0k1WmxOQ05qUjZaVlJuUWxOc01GZFRTM2hMYmtOMmRHRmZlVWQzYldjIiwiZmN2IjoiMyIsImVpIjoicldXMmFwV0xJTGVJd2JrUDlhQ2trQUUiLCJxYyI6IkNpVjBiM0FnYzI5amFXRnNJRzFsWkdsaElITmphR1ZrZFd4cGJtY2djR3hoZEdadmNtMXpFQUI5ZkRBTlB3IiwicXVlc3Rpb24iOiJXaGljaCBhcmUgdGhlIHRvcCA1IHNvY2lhbCBtZWRpYSBwbGF0Zm9ybXM%2FIiwibGsiOiJHaXAzYUdsamFDQmhjbVVnZEdobElIUnZjQ0ExSUhOdlkybGhiQ0J0WldScFlTQndiR0YwWm05eWJYTSIsImJzIjoiYy1QeTVkSU96MGdzVVVnc1NsVW95UURpX0FJRlU0WGlfT1RNeEJ5RjNOU1V6RVNGNHVTTTFKVFNuTlNpWW5zak9Ta1pmQ3E0UXJrMHdNWmxGb05OTXdYRElxQ1VRbHAtRVlvbWV5Tk5LZlZ5NHRSeWhYTnBJaHVibEZwY29sQ1FrMWdDVkpnTFVRMXhRV1pldXIyUmxwUkdPWkdLdWFKQjNzOU16c0RuZjVoZW9QZDFwTFRLaVZZdXdBZ0EiLCJpZCI6ImZjX3JXVzJhcFdMSUxlSXdia1A5YUNra0FFXzMifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best social media scheduling tool depends on your budget and needs, with Buffer offering the top clean interface and value for simple scheduling, and Hootsuite leading for large teams and advanced management.",
+        "snippet_highlighted_words": [
+          "Buffer offering the top clean interface and value for simple scheduling, and Hootsuite leading for large teams and advanced management"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Social Media Schedulers"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Buffer: Best for Simplicity and Value",
+            "list": [
+              {
+                "snippet": "Standout feature: Per-channel pricing and a clean, easy-to-use interface."
+              },
+              {
+                "snippet": "Pricing: Free plan available; paid plans start at $6/month per channel."
+              }
+            ]
+          },
+          {
+            "snippet": "Hootsuite: Best for Full-Featured Management",
+            "list": [
+              {
+                "snippet": "Standout feature: Unified calendar, robust AI integrations, and deep analytics."
+              },
+              {
+                "snippet": "Pricing: Starts at $99/user/month."
+              }
+            ]
+          },
+          {
+            "snippet": "Pricing: Starts at $99/user/month."
+          },
+          {
+            "snippet": "Sprout Social: Best for Enterprises and Teams",
+            "list": [
+              {
+                "snippet": "Standout feature: Deep social listening, engagement tools, and human-led support."
+              },
+              {
+                "snippet": "Pricing: Starts at $199/month for robust platform features."
+              }
+            ]
+          },
+          {
+            "snippet": "Metricool: Best for Analytics and Reports",
+            "list": [
+              {
+                "snippet": "Standout feature: Combines social tracking with web traffic and ad data."
+              },
+              {
+                "snippet": "Pricing: Free plan available; paid plans start at $25/month."
+              }
+            ]
+          },
+          {
+            "snippet": "Later: Best for Visual Content",
+            "list": [
+              {
+                "snippet": "Standout feature: Drag-and-drop visual planner tailored for Instagram and Pinterest."
+              },
+              {
+                "snippet": "Pricing: Varies by tier with strong focus on visual-first channels."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "To help narrow down the right choice, tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "What social platforms do you plan to use?"
+          },
+          {
+            "snippet": "Are you working solo or with a team?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.reddit.com/r/AskMarketing/comments/1q0ww0i/best_tool_for_scheduling_social_media_posts/",
+        "source": "reddit.com",
+        "index": 0
+      },
+      {
+        "link": "https://zapier.com/blog/best-social-media-management-tools/",
+        "source": "zapier.com",
+        "index": 1
+      },
+      {
+        "link": "https://www.blaze.ai/blog/social-media-scheduling-tools",
+        "source": "blaze.ai",
+        "index": 2
+      },
+      {
+        "link": "https://www.hootsuite.com/platform/publishing",
+        "source": "hootsuite.com",
+        "index": 3
+      },
+      {
+        "link": "https://sintra.ai/blog/social-media-scheduling-tools",
+        "source": "sintra.ai",
+        "index": 4
+      },
+      {
+        "link": "https://www.reddit.com/r/marketing/comments/1efcxjn/best_social_media_scheduling_app/",
+        "source": "reddit.com",
+        "index": 5
+      },
+      {
+        "link": "https://socialmediacurve.com/social-media-scheduling-tools/",
+        "source": "socialmediacurve.com",
+        "index": 6
+      },
+      {
+        "title": "Best tool for scheduling social media posts across Instagram ... - Reddit",
+        "link": "https://www.reddit.com/r/AskMarketing/comments/1q0ww0i/best_tool_for_scheduling_social_media_posts/",
+        "snippet": "Buffer is the best value for small to mid-size teams. Clean interface, handles all the formats you mentioned including carousels and reels, and the approval workfl...",
+        "source": "Reddit",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "The 10 best social media management tools in 2026 - Zapier",
+        "link": "https://zapier.com/blog/best-social-media-management-tools/",
+        "snippet": "The best social media management tools * Buffer for social media scheduling. * Hootsuite for fully-featured social media management. * Sprout Social for premium so...",
+        "source": "Zapier",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg6pMrqCzSTlUbbIJudl8a-mfjk3gxw3bL1-ig8cT-ZDm_t9kW4ePE8ipxJNZEgw-38ObBz_HlPZgC0S54oAn_WojBSBEbCuFuYE-A",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://zapier.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "Social Media Scheduling Tools",
+        "link": "https://www.blaze.ai/blog/social-media-scheduling-tools",
+        "snippet": "When choosing a social media scheduler, you can consider things like: * **Ease of use** * **Cross-channel functionality** * **Content calendar** * **Bulk schedulin...",
+        "source": "Blaze.ai",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.blaze.ai&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      },
+      {
+        "title": "Social Media Calendar and Scheduler",
+        "link": "https://www.hootsuite.com/platform/publishing",
+        "snippet": "Parliament Learn more → Top-rated in social media management See why real users love publishing with Hootsuite Apr 26, 2026 May 14, 2026 “This platform helps me cu...",
+        "source": "Hootsuite",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-POQxXqp9x16UKtIf5RHy9qH2sOl5S_ttXBd7kATGvK3evaftZrnxEYjxAbR_7S3hEFl3D__X3HdG0lbdPn3PN17oJ16NYr2tmP3p",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.hootsuite.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 10
+      },
+      {
+        "title": "Best Social Media Scheduling Tools to Plan and Publish Content in 2026",
+        "link": "https://sintra.ai/blog/social-media-scheduling-tools",
+        "snippet": "12 Best Social Media Scheduling Tools for 2026 * 1. Sintra AI. Sintra AI is an AI-powered platform that gives you role-based AI assistants to handle everyday busin...",
+        "source": "Sintra AI",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQw-12-GTPyNM0zcH05taQvGsaOwUVoOls0Pd4k5BuTJXM_V3UR5Y8inZQL2PnYnd3FluZQQF_I5lTZvl5VZaphn-CW6doJhsuLAN7",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://sintra.ai&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      },
+      {
+        "title": "Best social media scheduling app? : r/marketing - Reddit",
+        "link": "https://www.reddit.com/r/marketing/comments/1efcxjn/best_social_media_scheduling_app/",
+        "snippet": "Recommended Scheduling Apps: Several social media scheduling applications are frequently mentioned, each offering distinct features. Hootsuite provides extensive s...",
+        "source": "Reddit",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 12
+      },
+      {
+        "title": "The Best Social Media Scheduling Tools For 2026: Tried & Tested",
+        "link": "https://socialmediacurve.com/social-media-scheduling-tools/",
+        "snippet": "#1 – Viraly * Sendible is an industry-leading all-in-one social media tool with strong publishing and scheduling capabilities. It's a great choice for agencies and...",
+        "source": "Social Media Curve",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnyGSl2zEOWfMKZ637CAjdJI3ysF-TcgAceYu77Hiu8IRQTlgkVW5-Oae0sCq2WIu-Rux7-b6lIt95yF7cj7MVTqxw4CZ3zi_519Rh",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://socialmediacurve.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 13
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Recommend a social media scheduling tool",
+      "link": "https://www.reddit.com/r/SocialMediaMarketing/comments/10pxptb/recommend_a_social_media_scheduling_tool/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoAEB6zswFRqmHr7r7yQERF3gDtwgB8kwwzAQx7_YAMIUrVtCxtwtJc5EZHpjkDGWxoC7GaptojxPUI6iO4EwdPy4XjzQ_LgCC9uRV2411H2_yv_fyxC-Bb8IiMWD95Oz6mGB84g-zxsqEeXP0sUIIIasngjisjneOIs7p63UHH2uS6V4IUUbcCQKhPZwAvEb6PvOfymRruAaFE1x5GBfPzky&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQFnoECD8QAQ&uoh=1",
+      "displayed_link": "20+ comments · 3 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Please recommend a social media scheduling tool that allows you to schedule reels and add a custom cover image.",
+      "snippet_highlighted_words": [
+        "social media scheduling"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Please recommend a social media scheduling tool that allows you to schedule reels and add a custom cover image.",
+          "source_info_link": "https://www.reddit.com/r/SocialMediaMarketing/comments/10pxptb/recommend_a_social_media_scheduling_tool/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZScW1IcjdyN3lRRVJGM2dEdHdnQjhrd3d6QVF4N19ZQU1JVXJWdEN4dHd0SmM1RVpIcGprREdXeG9DN0dhcHRvanhQVUk2aU80RXdkUHk0WGp6UV9MZ0NDOXVSVjI0MTFIMl95dl9meXhDLUJiOElpTVdEOTVPejZtR0I4NGctenhzcUVlWFAwc1VJSUlhc25namlzam5lT0lzN3A2M1VISDJ1UzZWNElVVWJjQ1FLaFBad0F2RWI2UHZPZnltUnJ1QWFGRTF4NUdCZlB6a3kSBBoCCAAaggYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA3gUIABAAGAAgACpBCgN0b3AV526NPxoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgdsYXJnZXN0GgdsZWFkaW5nGgxtb3N0IHBvcHVsYXIqMQoGc29jaWFsFQNO8UAaC3NvY2lhbG1lZGlhGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcqZgoFbWVkaWEV8z7zQBoHbWVkaWEncxoGbWVkaWFzGgduZXR3b3JrGhBuZXR3b3JraW5nIHNpdGVzGghuZXR3b3JrcxoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZyo5CgpzY2hlZHVsaW5nFVmq6kAaFXNvY2lhbG1lZGlhc2NoZWR1bGluZxoPaXY7cDtzY2hlZHVsaW5nKhoKCXBsYXRmb3JtcxWtfAZAGghwbGF0Zm9ybTLmAS9nb3RvP3VybD1DQUVTb0FFQjZ6c3dGUnFtSHI3cjd5UUVSRjNnRHR3Z0I4a3d3ekFReDdfWUFNSVVyVnRDeHR3dEpjNUVaSHBqa0RHV3hvQzdHYXB0b2p4UFVJNmlPNEV3ZFB5NFhqelFfTGdDQzl1UlYyNDExSDJfeXZfZnl4Qy1CYjhJaU1XRDk1T3o2bUdCODRnLXp4c3FFZVhQMHNVSUlJYXNuZ2ppc2puZU9JczdwNjNVSEgydVM2VjRJVVViY0NRS2hQWndBdkViNlB2T2Z5bVJydUFhRkUxeDVHQmZQemt5OjhSZWNvbW1lbmQgYSA8Yj5zb2NpYWwgbWVkaWEgc2NoZWR1bGluZzwvYj4gdG9vbCAtIFJlZGRpdEJ2UGxlYXNlIHJlY29tbWVuZCBhIDxiPnNvY2lhbCBtZWRpYSBzY2hlZHVsaW5nPC9iPiB0b29sIHRoYXQgYWxsb3dzIHlvdSB0byBzY2hlZHVsZSByZWVscyBhbmQgYWRkIGEgY3VzdG9tIGNvdmVyIGltYWdlLlIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuYBL2dvdG8_dXJsPUNBRVNvQUVCNnpzd0ZScW1IcjdyN3lRRVJGM2dEdHdnQjhrd3d6QVF4N19ZQU1JVXJWdEN4dHd0SmM1RVpIcGprREdXeG9DN0dhcHRvanhQVUk2aU80RXdkUHk0WGp6UV9MZ0NDOXVSVjI0MTFIMl95dl9meXhDLUJiOElpTVdEOTVPejZtR0I4NGctenhzcUVlWFAwc1VJSUlhc25namlzam5lT0lzN3A2M1VISDJ1UzZWNElVVWJjQ1FLaFBad0F2RWI2UHZPZnltUnJ1QWFGRTF4NUdCZlB6a3kSBBoCCAAaggYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA3gUIABAAGAAgACpBCgN0b3AV526NPxoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgdsYXJnZXN0GgdsZWFkaW5nGgxtb3N0IHBvcHVsYXIqMQoGc29jaWFsFQNO8UAaC3NvY2lhbG1lZGlhGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcqZgoFbWVkaWEV8z7zQBoHbWVkaWEncxoGbWVkaWFzGgduZXR3b3JrGhBuZXR3b3JraW5nIHNpdGVzGghuZXR3b3JrcxoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZyo5CgpzY2hlZHVsaW5nFVmq6kAaFXNvY2lhbG1lZGlhc2NoZWR1bGluZxoPaXY7cDtzY2hlZHVsaW5nKhoKCXBsYXRmb3JtcxWtfAZAGghwbGF0Zm9ybTLmAS9nb3RvP3VybD1DQUVTb0FFQjZ6c3dGUnFtSHI3cjd5UUVSRjNnRHR3Z0I4a3d3ekFReDdfWUFNSVVyVnRDeHR3dEpjNUVaSHBqa0RHV3hvQzdHYXB0b2p4UFVJNmlPNEV3ZFB5NFhqelFfTGdDQzl1UlYyNDExSDJfeXZfZnl4Qy1CYjhJaU1XRDk1T3o2bUdCODRnLXp4c3FFZVhQMHNVSUlJYXNuZ2ppc2puZU9JczdwNjNVSEgydVM2VjRJVVViY0NRS2hQWndBdkViNlB2T2Z5bVJydUFhRkUxeDVHQmZQemt5OjhSZWNvbW1lbmQgYSA8Yj5zb2NpYWwgbWVkaWEgc2NoZWR1bGluZzwvYj4gdG9vbCAtIFJlZGRpdEJ2UGxlYXNlIHJlY29tbWVuZCBhIDxiPnNvY2lhbCBtZWRpYSBzY2hlZHVsaW5nPC9iPiB0b29sIHRoYXQgYWxsb3dzIHlvdSB0byBzY2hlZHVsZSByZWVscyBhbmQgYWRkIGEgY3VzdG9tIGNvdmVyIGltYWdlLlIEYmVzdCICEAFIAFgAaAA",
+      "source": "Reddit · r/SocialMediaMarketing",
+      "read_more_link": "https://www.reddit.com/r/SocialMediaMarketing/comments/10pxptb/recommend_a_social_media_scheduling_tool/#:~:text=Please%20recommend%20a%20social%20media,add%20a%20custom%20cover%20image."
+    },
+    {
+      "position": 2,
+      "title": "The Top 14 Facebook Scheduling Tools to Streamline Your ...",
+      "link": "https://www.brandwatch.com/blog/facebook-scheduling-tools/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVsmwgKzSCvGOz88ZKJ5QvQ2bFBAmFXqFU4OUKbq_H1RQKpGaGfYaa5gsD8IfE5LaqhJ-2HuPCmgBPU9Rx_j6bq2N2rMCvOon5_4aQjK86XTuCCN5HzgCjaTaqfdvgUWNq0wijXbnuGlyG7PvT0Q&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQFnoECDMQAQ&uoh=1",
+      "displayed_link": "https://www.brandwatch.com › blog › facebook-schedu...",
+      "favicon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAACwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vbfs3CGbu9zclTgLbZa7L_QA6U4iLUnr-olkt-YL1qyJfBQNdhDxQ50AAAP7-w4hk0aNm5i4YC6QCCXuk13qsEA5YybJKmJet2mOnZpSoEZQHrpnvHuZ2D-SS9u_MSVWRXyY4dc6ivPqlwm0u5sijLRzfzohTLOh7MJqklZvq0jmoRdE-ve_t6sTrjDxPC4Cw-7T6HzkYvqnm0gL86aY3UV164v1qMGCsuuN9MXyzuTO8PTdOvV_fCfmnfORBMmi3lo3l1_TxtjctT1bXdz4nKJvskuFsosYEky-TbIP8auPnqf3P_PcCatvY2p2fAFBvbYmacnroYAAAAA.webp",
+      "date": "Oct 1, 2025",
+      "snippet": "Sprout Social is a social media management platform that offers Facebook scheduling alongside team collaboration and analytics. Get 16 weeks' ...",
+      "snippet_highlighted_words": [
+        "Sprout Social"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Sprout Social is a social media management platform that offers Facebook scheduling alongside team collaboration and analytics. Get 16 weeks' ...",
+          "source_info_link": "https://www.brandwatch.com/blog/facebook-scheduling-tools/",
+          "icon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAACwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vbfs3CGbu9zclTgLbZa7L_QA6U4iLUnr-olkt-YL1qyJfBQNdhDxQ50AAAP7-w4hk0aNm5i4YC6QCCXuk13qsEA5YybJKmJet2mOnZpSoEZQHrpnvHuZ2D-SS9u_MSVWRXyY4dc6ivPqlwm0u5sijLRzfzohTLOh7MJqklZvq0jmoRdE-ve_t6sTrjDxPC4Cw-7T6HzkYvqnm0gL86aY3UV164v1qMGCsuuN9MXyzuTO8PTdOvV_fCfmnfORBMmi3lo3l1_TxtjctT1bXdz4nKJvskuFsosYEky-TbIP8auPnqf3P_PcCatvY2p2fAFBvbYmacnroYAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnNtd2dLelNDdkdPejg4WktKNVF2UTJiRkJBbUZYcUZVNE9VS2JxX0gxUlFLcEdhR2ZZYWE1Z3NEOElmRTVMYXFoSi0ySHVQQ21nQlBVOVJ4X2o2YnEyTjJyTUN2T29uNV80YVFqSzg2WFR1Q0NONUh6Z0NqYVRhcWZkdmdVV05xMHdpalhibnVHbHlHN1B2VDBREgQaAggAGv8FEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsFCAAQABgAIAAqQQoDdG9wFXKG5j8aBGJlc3QaB2JpZ2dlc3QaBmZhbW91cxoHbGFyZ2VzdBoHbGVhZGluZxoMbW9zdCBwb3B1bGFyKjEKBnNvY2lhbBUcKz5AGgtzb2NpYWxtZWRpYRoVc29jaWFsbWVkaWFzY2hlZHVsaW5nKmYKBW1lZGlhFf3RQUAaB21lZGlhJ3MaBm1lZGlhcxoHbmV0d29yaxoQbmV0d29ya2luZyBzaXRlcxoIbmV0d29ya3MaC3NvY2lhbG1lZGlhGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcqOQoKc2NoZWR1bGluZxVkj5FAGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcaD2l2O3A7c2NoZWR1bGluZyoaCglwbGF0Zm9ybXMVc6i2PxoIcGxhdGZvcm0yqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWc213Z0t6U0N2R096ODhaS0o1UXZRMmJGQkFtRlhxRlU0T1VLYnFfSDFSUUtwR2FHZllhYTVnc0Q4SWZFNUxhcWhKLTJIdVBDbWdCUFU5UnhfajZicTJOMnJNQ3ZPb241XzRhUWpLODZYVHVDQ041SHpnQ2phVGFxZmR2Z1VXTnEwd2lqWGJudUdseUc3UHZUMFE6R1RoZSAxNCA8Yj5CZXN0PC9iPiBGYWNlYm9vayA8Yj5TY2hlZHVsaW5nPC9iPiBUb29scyB0byAuLi4gLSBCcmFuZHdhdGNoQqEBPGI-U3Byb3V0IFNvY2lhbDwvYj4gaXMgYSBzb2NpYWwgbWVkaWEgbWFuYWdlbWVudCBwbGF0Zm9ybSB0aGF0IG9mZmVycyBGYWNlYm9vayBzY2hlZHVsaW5nIGFsb25nc2lkZSB0ZWFtIGNvbGxhYm9yYXRpb24gYW5kIGFuYWx5dGljcy4gR2V0IDE2IHdlZWtzJiMzOTsmbmJzcDsuLi5SBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVnNtd2dLelNDdkdPejg4WktKNVF2UTJiRkJBbUZYcUZVNE9VS2JxX0gxUlFLcEdhR2ZZYWE1Z3NEOElmRTVMYXFoSi0ySHVQQ21nQlBVOVJ4X2o2YnEyTjJyTUN2T29uNV80YVFqSzg2WFR1Q0NONUh6Z0NqYVRhcWZkdmdVV05xMHdpalhibnVHbHlHN1B2VDBREgQaAggAGv8FEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsFCAAQABgAIAAqQQoDdG9wFXKG5j8aBGJlc3QaB2JpZ2dlc3QaBmZhbW91cxoHbGFyZ2VzdBoHbGVhZGluZxoMbW9zdCBwb3B1bGFyKjEKBnNvY2lhbBUcKz5AGgtzb2NpYWxtZWRpYRoVc29jaWFsbWVkaWFzY2hlZHVsaW5nKmYKBW1lZGlhFf3RQUAaB21lZGlhJ3MaBm1lZGlhcxoHbmV0d29yaxoQbmV0d29ya2luZyBzaXRlcxoIbmV0d29ya3MaC3NvY2lhbG1lZGlhGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcqOQoKc2NoZWR1bGluZxVkj5FAGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcaD2l2O3A7c2NoZWR1bGluZyoaCglwbGF0Zm9ybXMVc6i2PxoIcGxhdGZvcm0yqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWc213Z0t6U0N2R096ODhaS0o1UXZRMmJGQkFtRlhxRlU0T1VLYnFfSDFSUUtwR2FHZllhYTVnc0Q4SWZFNUxhcWhKLTJIdVBDbWdCUFU5UnhfajZicTJOMnJNQ3ZPb241XzRhUWpLODZYVHVDQ041SHpnQ2phVGFxZmR2Z1VXTnEwd2lqWGJudUdseUc3UHZUMFE6R1RoZSAxNCA8Yj5CZXN0PC9iPiBGYWNlYm9vayA8Yj5TY2hlZHVsaW5nPC9iPiBUb29scyB0byAuLi4gLSBCcmFuZHdhdGNoQqEBPGI-U3Byb3V0IFNvY2lhbDwvYj4gaXMgYSBzb2NpYWwgbWVkaWEgbWFuYWdlbWVudCBwbGF0Zm9ybSB0aGF0IG9mZmVycyBGYWNlYm9vayBzY2hlZHVsaW5nIGFsb25nc2lkZSB0ZWFtIGNvbGxhYm9yYXRpb24gYW5kIGFuYWx5dGljcy4gR2V0IDE2IHdlZWtzJiMzOTsmbmJzcDsuLi5SBGJlc3QiAhABSABYAGgA",
+      "source": "Brandwatch",
+      "read_more_link": "https://www.brandwatch.com/blog/facebook-scheduling-tools/#:~:text=Sprout%20Social%20is%20a%20social,to%20guide%20your%20scheduling%20decisions."
+    },
+    {
+      "position": 3,
+      "title": "Top 8 Social Media Marketing Automation Tools",
+      "link": "https://www.hopperhq.com/blog/top-social-media-marketing-automation-tools/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFTX_F03WURdVvCfjO3Msyls-BiScWtxIWJ0loJfLCsOBGpAPHdbrhfSo7vtZsk-EM3nV6EIQk-BN87ej8rCOQ_l9BDsZTf-gIqfHfgPDe4rwz6tUNW6f5HYT2mRflhJ1fX3VQwBPcc6oPuU34t5dHzFCHInZhAC59_eP01Gj&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://www.hopperhq.com › blog › top-social-media-...",
+      "favicon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAJ0yhHThoBqLQGQgSqJPDO5t4n3J38MLEMkQAP4Qqb16T5-WAPbUoqrviA5b6fvN7V_H75Bbn43HSALcXwL_4hyIWnWPyj9O5GNFkXucX6D_8i0kMQ4-SfsHd-wYk_qLuegarLdSypNIVGO7X_6C_w9n5rG_YlD-Za43uQMpMCL9qb0vr8lii7-bhfCnfmjCnLLm7RTCnoOXaKbUFtxobl7F4gEvXHVH5S7I-_p-z0xCp5_5gZz_8dk-klQdJTO7yOUCAAA.webp",
+      "date": "Jan 5, 2026",
+      "snippet": "Platforms: · Instagram · Facebook · Twitter (X) · tikTok · LinkedIn · Threads · Pinterest · YouTube ...",
+      "snippet_highlighted_words": [
+        "Instagram"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Platforms: · Instagram · Facebook · Twitter (X) · tikTok · LinkedIn · Threads · Pinterest · YouTube ...",
+          "source_info_link": "https://www.hopperhq.com/blog/top-social-media-marketing-automation-tools/",
+          "icon": "https://serpapi.com/images/i/UklGRuoAAABXRUJQVlA4IN4AAABwBQCdASocABwAPtEwtFooIigoGAEAGglsAJ0yhHThoBqLQGQgSqJPDO5t4n3J38MLEMkQAP4Qqb16T5-WAPbUoqrviA5b6fvN7V_H75Bbn43HSALcXwL_4hyIWnWPyj9O5GNFkXucX6D_8i0kMQ4-SfsHd-wYk_qLuegarLdSypNIVGO7X_6C_w9n5rG_YlD-Za43uQMpMCL9qb0vr8lii7-bhfCnfmjCnLLm7RTCnoOXaKbUFtxobl7F4gEvXHVH5S7I-_p-z0xCp5_5gZz_8dk-klQdJTO7yOUCAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZUWF9GMDNXVVJkVnZDZmpPM01zeWxzLUJpU2NXdHhJV0owbG9KZkxDc09CR3BBUEhkYnJoZlNvN3Z0WnNrLUVNM25WNkVJUWstQk44N2VqOHJDT1FfbDlCRHNaVGYtZ0lxZkhmZ1BEZTRyd3o2dFVOVzZmNUhZVDJtUmZsaEoxZlgzVlF3QlBjYzZvUHVVMzR0NWRIekZDSEluWmhBQzU5X2VQMDFHahIEGgIIABqfBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD7BQgAEAAYACAAKkEKA3RvcBXoQJ1AGgRiZXN0GgdiaWdnZXN0GgZmYW1vdXMaB2xhcmdlc3QaB2xlYWRpbmcaDG1vc3QgcG9wdWxhcioxCgZzb2NpYWwV7iO9QBoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZypmCgVtZWRpYRXzg7ZAGgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaEG5ldHdvcmtpbmcgc2l0ZXMaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYRoVc29jaWFsbWVkaWFzY2hlZHVsaW5nKjkKCnNjaGVkdWxpbmcVkfb4PxoVc29jaWFsbWVkaWFzY2hlZHVsaW5nGg9pdjtwO3NjaGVkdWxpbmcqGgoJcGxhdGZvcm1zFfWfJkAaCHBsYXRmb3JtMr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZUWF9GMDNXVVJkVnZDZmpPM01zeWxzLUJpU2NXdHhJV0owbG9KZkxDc09CR3BBUEhkYnJoZlNvN3Z0WnNrLUVNM25WNkVJUWstQk44N2VqOHJDT1FfbDlCRHNaVGYtZ0lxZkhmZ1BEZTRyd3o2dFVOVzZmNUhZVDJtUmZsaEoxZlgzVlF3QlBjYzZvUHVVMzR0NWRIekZDSEluWmhBQzU5X2VQMDFHajpHPGI-VG9wPC9iPiA4IDxiPlNvY2lhbCBNZWRpYTwvYj4gTWFya2V0aW5nIEF1dG9tYXRpb24gVG9vbHMgLSBIb3BwZXIgSFFCqwFQbGF0Zm9ybXM6ICZtaWRkb3Q7IDxiPkluc3RhZ3JhbTwvYj4gJm1pZGRvdDsgRmFjZWJvb2sgJm1pZGRvdDsgVHdpdHRlciAoWCkgJm1pZGRvdDsgdGlrVG9rICZtaWRkb3Q7IExpbmtlZEluICZtaWRkb3Q7IFRocmVhZHMgJm1pZGRvdDsgUGludGVyZXN0ICZtaWRkb3Q7IFlvdVR1YmUmbmJzcDsuLi5SBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZUWF9GMDNXVVJkVnZDZmpPM01zeWxzLUJpU2NXdHhJV0owbG9KZkxDc09CR3BBUEhkYnJoZlNvN3Z0WnNrLUVNM25WNkVJUWstQk44N2VqOHJDT1FfbDlCRHNaVGYtZ0lxZkhmZ1BEZTRyd3o2dFVOVzZmNUhZVDJtUmZsaEoxZlgzVlF3QlBjYzZvUHVVMzR0NWRIekZDSEluWmhBQzU5X2VQMDFHahIEGgIIABqfBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD7BQgAEAAYACAAKkEKA3RvcBXoQJ1AGgRiZXN0GgdiaWdnZXN0GgZmYW1vdXMaB2xhcmdlc3QaB2xlYWRpbmcaDG1vc3QgcG9wdWxhcioxCgZzb2NpYWwV7iO9QBoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZypmCgVtZWRpYRXzg7ZAGgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaEG5ldHdvcmtpbmcgc2l0ZXMaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYRoVc29jaWFsbWVkaWFzY2hlZHVsaW5nKjkKCnNjaGVkdWxpbmcVkfb4PxoVc29jaWFsbWVkaWFzY2hlZHVsaW5nGg9pdjtwO3NjaGVkdWxpbmcqGgoJcGxhdGZvcm1zFfWfJkAaCHBsYXRmb3JtMr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZUWF9GMDNXVVJkVnZDZmpPM01zeWxzLUJpU2NXdHhJV0owbG9KZkxDc09CR3BBUEhkYnJoZlNvN3Z0WnNrLUVNM25WNkVJUWstQk44N2VqOHJDT1FfbDlCRHNaVGYtZ0lxZkhmZ1BEZTRyd3o2dFVOVzZmNUhZVDJtUmZsaEoxZlgzVlF3QlBjYzZvUHVVMzR0NWRIekZDSEluWmhBQzU5X2VQMDFHajpHPGI-VG9wPC9iPiA4IDxiPlNvY2lhbCBNZWRpYTwvYj4gTWFya2V0aW5nIEF1dG9tYXRpb24gVG9vbHMgLSBIb3BwZXIgSFFCqwFQbGF0Zm9ybXM6ICZtaWRkb3Q7IDxiPkluc3RhZ3JhbTwvYj4gJm1pZGRvdDsgRmFjZWJvb2sgJm1pZGRvdDsgVHdpdHRlciAoWCkgJm1pZGRvdDsgdGlrVG9rICZtaWRkb3Q7IExpbmtlZEluICZtaWRkb3Q7IFRocmVhZHMgJm1pZGRvdDsgUGludGVyZXN0ICZtaWRkb3Q7IFlvdVR1YmUmbmJzcDsuLi5SBGJlc3QiAhABSABYAGgA",
+      "source": "Hopper HQ",
+      "read_more_link": "https://www.hopperhq.com/blog/top-social-media-marketing-automation-tools/#:~:text=Platforms%3A&text=Instagram&text=Facebook&text=Twitter%20(X)&text=tikTok&text=LinkedIn&text=Threads&text=Pinterest&text=YouTube"
+    },
+    {
+      "position": 4,
+      "title": "12 Best Free Social Media Schedulers for 2025 (Reviewed)",
+      "link": "https://www.evergreenfeed.com/blog/best-free-social-media-schedulers/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVgB1o0DWIqYYXiWXGnXQPue7lqMBqYNatA1PSd1vicEK3XRa5lHuc5aRgsQd9DoC4DG2Ebgibi8dy8sj7MrFVC8zN3tzxmh-4CM4ly3ZN7fYopvNxm3hri6EUN115espTH7M7nd7uyd72NVMMWbinpUch7FOOUbn2&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://www.evergreenfeed.com › blog › best-free-social-...",
+      "date": "Aug 7, 2025",
+      "snippet": "Buffer Buffer has long been a top contender in the social media scheduling space, TweetDeck is invaluable. Later's visual planner is a clear ...",
+      "snippet_highlighted_words": [
+        "top",
+        "social media scheduling"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Buffer Buffer has long been a top contender in the social media scheduling space, TweetDeck is invaluable. Later's visual planner is a clear ...",
+          "source_info_link": "https://www.evergreenfeed.com/blog/best-free-social-media-schedulers/"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmdCMW8wRFdJcVlZWGlXWEduWFFQdWU3bHFNQnFZTmF0QTFQU2QxdmljRUszWFJhNWxIdWM1YVJnc1FkOURvQzRERzJFYmdpYmk4ZHk4c2o3TXJGVkM4ek4zdHp4bWgtNENNNGx5M1pON2ZZb3B2TnhtM2hyaTZFVU4xMTVlc3BUSDdNN25kN3V5ZDcyTlZNTVdiaW5wVWNoN0ZPT1VibjISBBoCCAAalAYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDuBQgAEAAYACAAKkEKA3RvcBUuxOE_GgRiZXN0GgdiaWdnZXN0GgZmYW1vdXMaB2xhcmdlc3QaB2xlYWRpbmcaDG1vc3QgcG9wdWxhcioxCgZzb2NpYWwVPlDJQBoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZypmCgVtZWRpYRXv7b5AGgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaEG5ldHdvcmtpbmcgc2l0ZXMaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYRoVc29jaWFsbWVkaWFzY2hlZHVsaW5nKjkKCnNjaGVkdWxpbmcVpnf4PxoVc29jaWFsbWVkaWFzY2hlZHVsaW5nGg9pdjtwO3NjaGVkdWxpbmcqGgoJcGxhdGZvcm1zFUcvjD8aCHBsYXRmb3JtMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmdCMW8wRFdJcVlZWGlXWEduWFFQdWU3bHFNQnFZTmF0QTFQU2QxdmljRUszWFJhNWxIdWM1YVJnc1FkOURvQzRERzJFYmdpYmk4ZHk4c2o3TXJGVkM4ek4zdHp4bWgtNENNNGx5M1pON2ZZb3B2TnhtM2hyaTZFVU4xMTVlc3BUSDdNN25kN3V5ZDcyTlZNTVdiaW5wVWNoN0ZPT1VibjI6RjEyIDxiPkJlc3Q8L2I-IEZyZWUgPGI-U29jaWFsIE1lZGlhPC9iPiBTY2hlZHVsZXJzIGZvciAyMDI1IChSZXZpZXdlZClCpwFCdWZmZXIgQnVmZmVyIGhhcyBsb25nIGJlZW4gYSA8Yj50b3A8L2I-IGNvbnRlbmRlciBpbiB0aGUgPGI-c29jaWFsIG1lZGlhIHNjaGVkdWxpbmc8L2I-IHNwYWNlLCBUd2VldERlY2sgaXMgaW52YWx1YWJsZS4gTGF0ZXImIzM5O3MgdmlzdWFsIHBsYW5uZXIgaXMgYSBjbGVhciZuYnNwOy4uLlIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmdCMW8wRFdJcVlZWGlXWEduWFFQdWU3bHFNQnFZTmF0QTFQU2QxdmljRUszWFJhNWxIdWM1YVJnc1FkOURvQzRERzJFYmdpYmk4ZHk4c2o3TXJGVkM4ek4zdHp4bWgtNENNNGx5M1pON2ZZb3B2TnhtM2hyaTZFVU4xMTVlc3BUSDdNN25kN3V5ZDcyTlZNTVdiaW5wVWNoN0ZPT1VibjISBBoCCAAalAYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDuBQgAEAAYACAAKkEKA3RvcBUuxOE_GgRiZXN0GgdiaWdnZXN0GgZmYW1vdXMaB2xhcmdlc3QaB2xlYWRpbmcaDG1vc3QgcG9wdWxhcioxCgZzb2NpYWwVPlDJQBoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZypmCgVtZWRpYRXv7b5AGgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaEG5ldHdvcmtpbmcgc2l0ZXMaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYRoVc29jaWFsbWVkaWFzY2hlZHVsaW5nKjkKCnNjaGVkdWxpbmcVpnf4PxoVc29jaWFsbWVkaWFzY2hlZHVsaW5nGg9pdjtwO3NjaGVkdWxpbmcqGgoJcGxhdGZvcm1zFUcvjD8aCHBsYXRmb3JtMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmdCMW8wRFdJcVlZWGlXWEduWFFQdWU3bHFNQnFZTmF0QTFQU2QxdmljRUszWFJhNWxIdWM1YVJnc1FkOURvQzRERzJFYmdpYmk4ZHk4c2o3TXJGVkM4ek4zdHp4bWgtNENNNGx5M1pON2ZZb3B2TnhtM2hyaTZFVU4xMTVlc3BUSDdNN25kN3V5ZDcyTlZNTVdiaW5wVWNoN0ZPT1VibjI6RjEyIDxiPkJlc3Q8L2I-IEZyZWUgPGI-U29jaWFsIE1lZGlhPC9iPiBTY2hlZHVsZXJzIGZvciAyMDI1IChSZXZpZXdlZClCpwFCdWZmZXIgQnVmZmVyIGhhcyBsb25nIGJlZW4gYSA8Yj50b3A8L2I-IGNvbnRlbmRlciBpbiB0aGUgPGI-c29jaWFsIG1lZGlhIHNjaGVkdWxpbmc8L2I-IHNwYWNlLCBUd2VldERlY2sgaXMgaW52YWx1YWJsZS4gTGF0ZXImIzM5O3MgdmlzdWFsIHBsYW5uZXIgaXMgYSBjbGVhciZuYnNwOy4uLlIEYmVzdCICEAFIAFgAaAA",
+      "source": "EvergreenFeed"
+    },
+    {
+      "position": 5,
+      "title": "19 Social Media Calendar Tools for 2026 (+ Free Template)",
+      "link": "https://influencermarketinghub.com/social-media-posting-scheduling-tools/social-media-calendar-tools/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFRIXr3Ujq50CjzomshDADM88gb6UUz1RH1hdqgxZP7vU3fL7TOhfhojTin12B7Vk6sss5LSGYENQF-mTdto4N5yOM2G0vrCewUohItYG9nZo3FOgXlbcpa6qyNmR8OOBvkXPxdFthl_O507B0CoujFRmSz2GGcLAlKKDYBmoytUS6015742FsIrSNWFBxCwiR5inzRRYhyIH&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQFnoECDUQAQ&uoh=1",
+      "displayed_link": "https://influencermarketinghub.com › social-media-cale...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAHlBMVEVHcEzEJ1vvQHPvPnLyQHTwQHSyIVLBJVnAJFj0QXa9P0EeAAAACnRSTlMAVwpF_8T__8nJgiyzGQAAAGNJREFUeAFsyYEFgGAYhOEvCQHaoBFCI9wI7XBtUIBG79c5dfQCr6d-6-bYNa5HIhKRiEQkIhGJSEQiEjE9LVXbszxaZ-Ph3autmEIzjWIaxTSKaRTTKKZRTKN4r2_jVfeIAAAANyi2FDSfnwAAAABJRU5ErkJggg.png",
+      "date": "Aug 20, 2026",
+      "snippet": "Explore 18 social media calendar tools for 2026, compare features, pricing, and workflows, and download a free template to plan smarter.",
+      "snippet_highlighted_words": [
+        "Explore 18 social media calendar tools for 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Explore 18 social media calendar tools for 2026, compare features, pricing, and workflows, and download a free template to plan smarter.",
+          "source_info_link": "https://influencermarketinghub.com/social-media-posting-scheduling-tools/social-media-calendar-tools/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAHlBMVEVHcEzEJ1vvQHPvPnLyQHTwQHSyIVLBJVnAJFj0QXa9P0EeAAAACnRSTlMAVwpF_8T__8nJgiyzGQAAAGNJREFUeAFsyYEFgGAYhOEvCQHaoBFCI9wI7XBtUIBG79c5dfQCr6d-6-bYNa5HIhKRiEQkIhGJSEQiEjE9LVXbszxaZ-Ph3autmEIzjWIaxTSKaRTTKKZRTKN4r2_jVfeIAAAANyi2FDSfnwAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZSSVhyM1VqcTUwQ2p6b21zaERBRE04OGdiNlVVejFSSDFoZHFneFpQN3ZVM2ZMN1RPaGZob2pUaW4xMkI3Vms2c3NzNUxTR1lFTlFGLW1UZHRvNE41eU9NMkcwdnJDZXdVb2hJdFlHOW5abzNGT2dYbGJjcGE2cXlObVI4T09CdmtYUHhkRnRobF9PNTA3QjBDb3VqRlJtU3oyR0djTEFsS0tEWUJtb3l0VVM2MDE1NzQyRnNJclNOV0ZCeEN3aVI1aW56UlJZaHlJSBIEGgIIABqgBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD8BQgAEAAYACAAKkEKA3RvcBWhwHJAGgRiZXN0GgdiaWdnZXN0GgZmYW1vdXMaB2xhcmdlc3QaB2xlYWRpbmcaDG1vc3QgcG9wdWxhcioxCgZzb2NpYWwV-_PFQBoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZypmCgVtZWRpYRUR3MFAGgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaEG5ldHdvcmtpbmcgc2l0ZXMaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYRoVc29jaWFsbWVkaWFzY2hlZHVsaW5nKjkKCnNjaGVkdWxpbmcVGyQtQBoVc29jaWFsbWVkaWFzY2hlZHVsaW5nGg9pdjtwO3NjaGVkdWxpbmcqGgoJcGxhdGZvcm1zFbBZG0AaCHBsYXRmb3JtMuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZSSVhyM1VqcTUwQ2p6b21zaERBRE04OGdiNlVVejFSSDFoZHFneFpQN3ZVM2ZMN1RPaGZob2pUaW4xMkI3Vms2c3NzNUxTR1lFTlFGLW1UZHRvNE41eU9NMkcwdnJDZXdVb2hJdFlHOW5abzNGT2dYbGJjcGE2cXlObVI4T09CdmtYUHhkRnRobF9PNTA3QjBDb3VqRlJtU3oyR0djTEFsS0tEWUJtb3l0VVM2MDE1NzQyRnNJclNOV0ZCeEN3aVI1aW56UlJZaHlJSDpAMTkgPGI-U29jaWFsIE1lZGlhPC9iPiBDYWxlbmRhciBUb29scyBmb3IgMjAyNiAoKyBGcmVlIFRlbXBsYXRlKUKPATxiPkV4cGxvcmUgMTggc29jaWFsIG1lZGlhIGNhbGVuZGFyIHRvb2xzIGZvciAyMDI2PC9iPiwgY29tcGFyZSBmZWF0dXJlcywgcHJpY2luZywgYW5kIHdvcmtmbG93cywgYW5kIGRvd25sb2FkIGEgZnJlZSB0ZW1wbGF0ZSB0byBwbGFuIHNtYXJ0ZXIuUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZSSVhyM1VqcTUwQ2p6b21zaERBRE04OGdiNlVVejFSSDFoZHFneFpQN3ZVM2ZMN1RPaGZob2pUaW4xMkI3Vms2c3NzNUxTR1lFTlFGLW1UZHRvNE41eU9NMkcwdnJDZXdVb2hJdFlHOW5abzNGT2dYbGJjcGE2cXlObVI4T09CdmtYUHhkRnRobF9PNTA3QjBDb3VqRlJtU3oyR0djTEFsS0tEWUJtb3l0VVM2MDE1NzQyRnNJclNOV0ZCeEN3aVI1aW56UlJZaHlJSBIEGgIIABqgBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD8BQgAEAAYACAAKkEKA3RvcBWhwHJAGgRiZXN0GgdiaWdnZXN0GgZmYW1vdXMaB2xhcmdlc3QaB2xlYWRpbmcaDG1vc3QgcG9wdWxhcioxCgZzb2NpYWwV-_PFQBoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZypmCgVtZWRpYRUR3MFAGgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaEG5ldHdvcmtpbmcgc2l0ZXMaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYRoVc29jaWFsbWVkaWFzY2hlZHVsaW5nKjkKCnNjaGVkdWxpbmcVGyQtQBoVc29jaWFsbWVkaWFzY2hlZHVsaW5nGg9pdjtwO3NjaGVkdWxpbmcqGgoJcGxhdGZvcm1zFbBZG0AaCHBsYXRmb3JtMuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZSSVhyM1VqcTUwQ2p6b21zaERBRE04OGdiNlVVejFSSDFoZHFneFpQN3ZVM2ZMN1RPaGZob2pUaW4xMkI3Vms2c3NzNUxTR1lFTlFGLW1UZHRvNE41eU9NMkcwdnJDZXdVb2hJdFlHOW5abzNGT2dYbGJjcGE2cXlObVI4T09CdmtYUHhkRnRobF9PNTA3QjBDb3VqRlJtU3oyR0djTEFsS0tEWUJtb3l0VVM2MDE1NzQyRnNJclNOV0ZCeEN3aVI1aW56UlJZaHlJSDpAMTkgPGI-U29jaWFsIE1lZGlhPC9iPiBDYWxlbmRhciBUb29scyBmb3IgMjAyNiAoKyBGcmVlIFRlbXBsYXRlKUKPATxiPkV4cGxvcmUgMTggc29jaWFsIG1lZGlhIGNhbGVuZGFyIHRvb2xzIGZvciAyMDI2PC9iPiwgY29tcGFyZSBmZWF0dXJlcywgcHJpY2luZywgYW5kIHdvcmtmbG93cywgYW5kIGRvd25sb2FkIGEgZnJlZSB0ZW1wbGF0ZSB0byBwbGFuIHNtYXJ0ZXIuUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Influencer Marketing Hub"
+    },
+    {
+      "position": 6,
+      "title": "Ultimate Guide to Social Media Management Tools in 2025",
+      "link": "https://www.tryordinal.com/blog/ultimate-guide-to-social-media-management-tools",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFXLFMwtyRCs-PbeU2A8d-0svQ2Q-INr1T6Gb3uhV0JhotTvuCNUYVuIKAyCnLp756ZXGs1ty_v_xXg7DND4AkeE3sXjvbOyQMze2215dUCpesYH0JPIyRxrNJRoKFJB3n5GXQc4332m6O5zlwPktUMVumch1BVUB7-XuGWfmmOcbGI4&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQFnoECDYQAQ&uoh=1",
+      "displayed_link": "https://www.tryordinal.com › blog › ultimate-guide-to-s...",
+      "favicon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAADQBgCdASocABwAPtE-tFooIigoFAEAGglpAASa_ywsx3yv7AH6i_8HgK_13Ds0-Ys7cUjsXG_IGyUPMvZtHAAA_vQh1em1su6-AOwhFxECQYP8R4Wjhz7qwhzpGmOtRVM_K8s82RJLJUhCOFehdNF-F9dRO766sFmKfF-Vxsuoy9J2W-HNglzo_nYZ7B1vLLRssN1Tcft-wGz_10Xlz_DgwoFZFPy_5R7ZWPdQDUqZXsEl6xXo45n_el6G-Kq-47Z6LKjPTbH9h2-d_7TArq7vFjV9NMddntH3_gyPAu5Y51t9EX_DX8CaNXCGQOt_wv4AM_EI0PUv4FfdwDQ3Dd06-Kxqv982LCgN_cBWUCVxH-en-VcSJp8hECrQ-HhgiYfnKJeHpvQadN3nfdofE67a3s4rA4EAAAA.webp",
+      "snippet": "Instagram, Facebook, TikTok, and YouTube. Ordinal combines content creation, scheduling, and auto-engagement in one platform, Buffer Simple, minimal scheduler. ...",
+      "snippet_highlighted_words": [
+        "Instagram, Facebook, TikTok, and YouTube"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Instagram, Facebook, TikTok, and YouTube. Ordinal combines content creation, scheduling, and auto-engagement in one platform, Buffer Simple, minimal scheduler. ...",
+          "source_info_link": "https://www.tryordinal.com/blog/ultimate-guide-to-social-media-management-tools",
+          "icon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAADQBgCdASocABwAPtE-tFooIigoFAEAGglpAASa_ywsx3yv7AH6i_8HgK_13Ds0-Ys7cUjsXG_IGyUPMvZtHAAA_vQh1em1su6-AOwhFxECQYP8R4Wjhz7qwhzpGmOtRVM_K8s82RJLJUhCOFehdNF-F9dRO766sFmKfF-Vxsuoy9J2W-HNglzo_nYZ7B1vLLRssN1Tcft-wGz_10Xlz_DgwoFZFPy_5R7ZWPdQDUqZXsEl6xXo45n_el6G-Kq-47Z6LKjPTbH9h2-d_7TArq7vFjV9NMddntH3_gyPAu5Y51t9EX_DX8CaNXCGQOt_wv4AM_EI0PUv4FfdwDQ3Dd06-Kxqv982LCgN_cBWUCVxH-en-VcSJp8hECrQ-HhgiYfnKJeHpvQadN3nfdofE67a3s4rA4EAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZYTEZNd3R5UkNzLVBiZVUyQThkLTBzdlEyUS1JTnIxVDZHYjN1aFYwSmhvdFR2dUNOVVlWdUlLQXlDbkxwNzU2WlhHczF0eV92X3hYZzdETkQ0QWtlRTNzWGp2Yk95UU16ZTIyMTVkVUNwZXNZSDBKUEl5UnhyTkpSb0tGSkIzbjVHWFFjNDMzMm02TzV6bHdQa3RVTVZ1bWNoMUJWVUI3LVh1R1dmbW1PY2JHSTQSBBoCCAAaowYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD9BQgAEAAYACAAKkEKA3RvcBU7jJM_GgRiZXN0GgdiaWdnZXN0GgZmYW1vdXMaB2xhcmdlc3QaB2xlYWRpbmcaDG1vc3QgcG9wdWxhcioxCgZzb2NpYWwVTG7GQBoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZypmCgVtZWRpYRUZ0r9AGgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaEG5ldHdvcmtpbmcgc2l0ZXMaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYRoVc29jaWFsbWVkaWFzY2hlZHVsaW5nKjkKCnNjaGVkdWxpbmcV9DLHPxoVc29jaWFsbWVkaWFzY2hlZHVsaW5nGg9pdjtwO3NjaGVkdWxpbmcqGgoJcGxhdGZvcm1zFcRkJkAaCHBsYXRmb3JtMsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZYTEZNd3R5UkNzLVBiZVUyQThkLTBzdlEyUS1JTnIxVDZHYjN1aFYwSmhvdFR2dUNOVVlWdUlLQXlDbkxwNzU2WlhHczF0eV92X3hYZzdETkQ0QWtlRTNzWGp2Yk95UU16ZTIyMTVkVUNwZXNZSDBKUEl5UnhyTkpSb0tGSkIzbjVHWFFjNDMzMm02TzV6bHdQa3RVTVZ1bWNoMUJWVUI3LVh1R1dmbW1PY2JHSTQ6PlVsdGltYXRlIEd1aWRlIHRvIDxiPlNvY2lhbCBNZWRpYTwvYj4gTWFuYWdlbWVudCBUb29scyBpbiAyMDI1Qq8BPGI-SW5zdGFncmFtLCBGYWNlYm9vaywgVGlrVG9rLCBhbmQgWW91VHViZTwvYj4uIE9yZGluYWwgY29tYmluZXMgY29udGVudCBjcmVhdGlvbiwgc2NoZWR1bGluZywgYW5kIGF1dG8tZW5nYWdlbWVudCBpbiBvbmUgcGxhdGZvcm0sIEJ1ZmZlciBTaW1wbGUsIG1pbmltYWwgc2NoZWR1bGVyLiZuYnNwOy4uLlIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZYTEZNd3R5UkNzLVBiZVUyQThkLTBzdlEyUS1JTnIxVDZHYjN1aFYwSmhvdFR2dUNOVVlWdUlLQXlDbkxwNzU2WlhHczF0eV92X3hYZzdETkQ0QWtlRTNzWGp2Yk95UU16ZTIyMTVkVUNwZXNZSDBKUEl5UnhyTkpSb0tGSkIzbjVHWFFjNDMzMm02TzV6bHdQa3RVTVZ1bWNoMUJWVUI3LVh1R1dmbW1PY2JHSTQSBBoCCAAaowYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD9BQgAEAAYACAAKkEKA3RvcBU7jJM_GgRiZXN0GgdiaWdnZXN0GgZmYW1vdXMaB2xhcmdlc3QaB2xlYWRpbmcaDG1vc3QgcG9wdWxhcioxCgZzb2NpYWwVTG7GQBoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZypmCgVtZWRpYRUZ0r9AGgdtZWRpYSdzGgZtZWRpYXMaB25ldHdvcmsaEG5ldHdvcmtpbmcgc2l0ZXMaCG5ldHdvcmtzGgtzb2NpYWxtZWRpYRoVc29jaWFsbWVkaWFzY2hlZHVsaW5nKjkKCnNjaGVkdWxpbmcV9DLHPxoVc29jaWFsbWVkaWFzY2hlZHVsaW5nGg9pdjtwO3NjaGVkdWxpbmcqGgoJcGxhdGZvcm1zFcRkJkAaCHBsYXRmb3JtMsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZYTEZNd3R5UkNzLVBiZVUyQThkLTBzdlEyUS1JTnIxVDZHYjN1aFYwSmhvdFR2dUNOVVlWdUlLQXlDbkxwNzU2WlhHczF0eV92X3hYZzdETkQ0QWtlRTNzWGp2Yk95UU16ZTIyMTVkVUNwZXNZSDBKUEl5UnhyTkpSb0tGSkIzbjVHWFFjNDMzMm02TzV6bHdQa3RVTVZ1bWNoMUJWVUI3LVh1R1dmbW1PY2JHSTQ6PlVsdGltYXRlIEd1aWRlIHRvIDxiPlNvY2lhbCBNZWRpYTwvYj4gTWFuYWdlbWVudCBUb29scyBpbiAyMDI1Qq8BPGI-SW5zdGFncmFtLCBGYWNlYm9vaywgVGlrVG9rLCBhbmQgWW91VHViZTwvYj4uIE9yZGluYWwgY29tYmluZXMgY29udGVudCBjcmVhdGlvbiwgc2NoZWR1bGluZywgYW5kIGF1dG8tZW5nYWdlbWVudCBpbiBvbmUgcGxhdGZvcm0sIEJ1ZmZlciBTaW1wbGUsIG1pbmltYWwgc2NoZWR1bGVyLiZuYnNwOy4uLlIEYmVzdCICEAFIAFgAaAA",
+      "source": "Ordinal | Social"
+    },
+    {
+      "position": 7,
+      "title": "7 Social Media Scheduling Tools - Shana Bull, Digital Marketing",
+      "link": "https://shanabull.com/blog/social-media-scheduling-tools",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVlrRp6uy4PkTLk9loCIgRUVpBUnR9NE_OT2L5-H1FBfg45SbIyub-UgUtnXJ_EH8vBOQj4Ot-MtFxaIQUlV9-wWFT1UKLjmozTKCeFLz3OCj7zPeXBMY1mCJyyrWMAm64xW_QYTxI1nuvU48&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQFnoECE4QAQ&uoh=1",
+      "displayed_link": "https://shanabull.com › blog › social-media-scheduling-...",
+      "favicon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAABQBgCdASogACAAPrkurlcnIacnG_DgFwllAM7tp32c16M1ABqUZu3ggws9p2kthMR16pP9ecbxlsQwAAD-_sKgj8C2eLGlqUKs4e_cXlbA079xUdwDONr_dzr7H08r_4emSbbkfl_QHzBlp9DjR8Frt_-OVgf96lI-hjLWGxjx4HeeIl4g1Pjo198QF3eXS_-Gf8rXrPVPKWE61VAf1Ozz17a2s5S19MQX4RlfsFET8OnTfDmq8MNpBhuPFoTktsFDS-gn6RH5wOJMVTYEFMkvgCyIw8LSjPOmfuXnt4BDy5dFF5XGq-T_M6vX5oxrRvbN61P7ykMrfLqPVf_Av_ZhVVILgsciAOOS7Bu9lNKgAA.webp",
+      "date": "Apr 7, 2022",
+      "snippet": "1. Buffer - My personal favorite. 2. AgoraPulse - 3. SproutSocial - Another great option. Plann and Planoly. SproutSocial + AgoraPulse are the ...",
+      "snippet_highlighted_words": [
+        "Buffer"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Buffer - My personal favorite. 2. AgoraPulse - 3. SproutSocial - Another great option. Plann and Planoly. SproutSocial + AgoraPulse are the ...",
+          "source_info_link": "https://shanabull.com/blog/social-media-scheduling-tools",
+          "icon": "https://serpapi.com/images/i/UklGRhwBAABXRUJQVlA4IBABAABQBgCdASogACAAPrkurlcnIacnG_DgFwllAM7tp32c16M1ABqUZu3ggws9p2kthMR16pP9ecbxlsQwAAD-_sKgj8C2eLGlqUKs4e_cXlbA079xUdwDONr_dzr7H08r_4emSbbkfl_QHzBlp9DjR8Frt_-OVgf96lI-hjLWGxjx4HeeIl4g1Pjo198QF3eXS_-Gf8rXrPVPKWE61VAf1Ozz17a2s5S19MQX4RlfsFET8OnTfDmq8MNpBhuPFoTktsFDS-gn6RH5wOJMVTYEFMkvgCyIw8LSjPOmfuXnt4BDy5dFF5XGq-T_M6vX5oxrRvbN61P7ykMrfLqPVf_Av_ZhVVILgsciAOOS7Bu9lNKgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVmxyUnA2dXk0UGtUTGs5bG9DSWdSVVZwQlVuUjlORV9PVDJMNS1IMUZCZmc0NVNiSXl1Yi1VZ1V0blhKX0VIOHZCT1FqNE90LU10RnhhSVFVbFY5LXdXRlQxVUtMam1velRLQ2VGTHozT0NqN3pQZVhCTVkxbUNKeXlyV01BbTY0eFdfUVlUeEkxbnV2VTQ4EgQaAggAGvgFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNQFCAAQABgAIAAqQQoDdG9wFdXMkD0aBGJlc3QaB2JpZ2dlc3QaBmZhbW91cxoHbGFyZ2VzdBoHbGVhZGluZxoMbW9zdCBwb3B1bGFyKjEKBnNvY2lhbBVG5b5AGgtzb2NpYWxtZWRpYRoVc29jaWFsbWVkaWFzY2hlZHVsaW5nKmYKBW1lZGlhFZSdvEAaB21lZGlhJ3MaBm1lZGlhcxoHbmV0d29yaxoQbmV0d29ya2luZyBzaXRlcxoIbmV0d29ya3MaC3NvY2lhbG1lZGlhGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcqOQoKc2NoZWR1bGluZxUITbBAGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcaD2l2O3A7c2NoZWR1bGluZyoaCglwbGF0Zm9ybXMVyivHPhoIcGxhdGZvcm0ypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWbHJScDZ1eTRQa1RMazlsb0NJZ1JVVnBCVW5SOU5FX09UMkw1LUgxRkJmZzQ1U2JJeXViLVVnVXRuWEpfRUg4dkJPUWo0T3QtTXRGeGFJUVVsVjktd1dGVDFVS0xqbW96VEtDZUZMejNPQ2o3elBlWEJNWTFtQ0p5eXJXTUFtNjR4V19RWVR4STFudXZVNDg6RjcgPGI-U29jaWFsIE1lZGlhIFNjaGVkdWxpbmc8L2I-IFRvb2xzIC0gU2hhbmEgQnVsbCwgRGlnaXRhbCBNYXJrZXRpbmdCngExLiA8Yj5CdWZmZXI8L2I-IC0gTXkgcGVyc29uYWwgZmF2b3JpdGUuIDIuIEFnb3JhUHVsc2UgLSAzLiBTcHJvdXRTb2NpYWwgLSBBbm90aGVyIGdyZWF0IG9wdGlvbi4gUGxhbm4gYW5kIFBsYW5vbHkuIFNwcm91dFNvY2lhbCArIEFnb3JhUHVsc2UgYXJlIHRoZSZuYnNwOy4uLlIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVmxyUnA2dXk0UGtUTGs5bG9DSWdSVVZwQlVuUjlORV9PVDJMNS1IMUZCZmc0NVNiSXl1Yi1VZ1V0blhKX0VIOHZCT1FqNE90LU10RnhhSVFVbFY5LXdXRlQxVUtMam1velRLQ2VGTHozT0NqN3pQZVhCTVkxbUNKeXlyV01BbTY0eFdfUVlUeEkxbnV2VTQ4EgQaAggAGvgFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNQFCAAQABgAIAAqQQoDdG9wFdXMkD0aBGJlc3QaB2JpZ2dlc3QaBmZhbW91cxoHbGFyZ2VzdBoHbGVhZGluZxoMbW9zdCBwb3B1bGFyKjEKBnNvY2lhbBVG5b5AGgtzb2NpYWxtZWRpYRoVc29jaWFsbWVkaWFzY2hlZHVsaW5nKmYKBW1lZGlhFZSdvEAaB21lZGlhJ3MaBm1lZGlhcxoHbmV0d29yaxoQbmV0d29ya2luZyBzaXRlcxoIbmV0d29ya3MaC3NvY2lhbG1lZGlhGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcqOQoKc2NoZWR1bGluZxUITbBAGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcaD2l2O3A7c2NoZWR1bGluZyoaCglwbGF0Zm9ybXMVyivHPhoIcGxhdGZvcm0ypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWbHJScDZ1eTRQa1RMazlsb0NJZ1JVVnBCVW5SOU5FX09UMkw1LUgxRkJmZzQ1U2JJeXViLVVnVXRuWEpfRUg4dkJPUWo0T3QtTXRGeGFJUVVsVjktd1dGVDFVS0xqbW96VEtDZUZMejNPQ2o3elBlWEJNWTFtQ0p5eXJXTUFtNjR4V19RWVR4STFudXZVNDg6RjcgPGI-U29jaWFsIE1lZGlhIFNjaGVkdWxpbmc8L2I-IFRvb2xzIC0gU2hhbmEgQnVsbCwgRGlnaXRhbCBNYXJrZXRpbmdCngExLiA8Yj5CdWZmZXI8L2I-IC0gTXkgcGVyc29uYWwgZmF2b3JpdGUuIDIuIEFnb3JhUHVsc2UgLSAzLiBTcHJvdXRTb2NpYWwgLSBBbm90aGVyIGdyZWF0IG9wdGlvbi4gUGxhbm4gYW5kIFBsYW5vbHkuIFNwcm91dFNvY2lhbCArIEFnb3JhUHVsc2UgYXJlIHRoZSZuYnNwOy4uLlIEYmVzdCICEAFIAFgAaAA",
+      "source": "shanabull.com"
+    },
+    {
+      "position": 8,
+      "title": "Best Social Media Publishing Tools in 2024",
+      "link": "https://marketbeam.io/best-social-media-publishing-tools-in-2024-features-reviews-and-recommendations/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFSBG5oeouIr-3-_2vo8wM7WxQH1NvcbsE6VoV4vHwqRrtfBTOX4ZRY67UxmJ3kG8qAO4EKJ4ZqMOK2smpx97EtuXlgP9wYu7LS80z0EgoIpvar1Y2kPTuuyN413o1P7lKrORqCeEFrrsnsKj0P5UM9RWsSJYBN8qg_LeIJuqONN5XYOhy_ZMKte_uIsXykOpyHjwXnbuVFhnMQ&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQFnoECFEQAQ&uoh=1",
+      "displayed_link": "https://marketbeam.io › General",
+      "favicon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAAAwCACdASogACAAPrkurlcnIacnG_DgFwlsALUbZy7Al_PZ7jNqkRXge3r6S6YD1wFKTXaDHs7RDbA7kQXGxfbzaxs0OwtWOxfhwAD-9-al3K0ICE7WQHiXUjN9sjE4AiBdntKp58K9nYaSNC9SCqgG8TZT4Up8QHxgPhjxbU5Imv4nCQQA9m-JWcOu8Z6J402Upj8fZfk-LbYQ146u7XBMuIEsBDkPvvx8l-YL4onHegdVQj0y1RNoYh9AJY2zht-8qNpO0sGUjh0CKeiHvCc_IehoPFRvRgTKAgcSWcl9c2MKIROWbYSu99gJ-tRvgUqeU9eF645nPaqKyeyeEr_KgRCulSYqQU-_0cHiaHZd_n_8m6V_K8KKF86EjW_c_2564RVH-slrqjX4Eg0U-vPH1MbKgu2vy0H4ii67ccxEsSzITpJs-hO_sbWpAPbPeYL3Vnxklr5tRUiX_8Vs3K3dy_QAAA.webp",
+      "date": "Dec 27, 2024",
+      "snippet": "With a wide array of tools available, such as MarketBeam, Buffer, Sprout Social, and Bambu Software, the social media publishing ecosystem has ...",
+      "snippet_highlighted_words": [
+        "MarketBeam"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5.0
+          },
+          "extensions": [
+            "5.0",
+            "Review by Jim nichols"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "With a wide array of tools available, such as MarketBeam, Buffer, Sprout Social, and Bambu Software, the social media publishing ecosystem has ...",
+          "source_info_link": "https://marketbeam.io/best-social-media-publishing-tools-in-2024-features-reviews-and-recommendations/",
+          "icon": "https://serpapi.com/images/i/UklGRnABAABXRUJQVlA4IGQBAAAwCACdASogACAAPrkurlcnIacnG_DgFwlsALUbZy7Al_PZ7jNqkRXge3r6S6YD1wFKTXaDHs7RDbA7kQXGxfbzaxs0OwtWOxfhwAD-9-al3K0ICE7WQHiXUjN9sjE4AiBdntKp58K9nYaSNC9SCqgG8TZT4Up8QHxgPhjxbU5Imv4nCQQA9m-JWcOu8Z6J402Upj8fZfk-LbYQ146u7XBMuIEsBDkPvvx8l-YL4onHegdVQj0y1RNoYh9AJY2zht-8qNpO0sGUjh0CKeiHvCc_IehoPFRvRgTKAgcSWcl9c2MKIROWbYSu99gJ-tRvgUqeU9eF645nPaqKyeyeEr_KgRCulSYqQU-_0cHiaHZd_n_8m6V_K8KKF86EjW_c_2564RVH-slrqjX4Eg0U-vPH1MbKgu2vy0H4ii67ccxEsSzITpJs-hO_sbWpAPbPeYL3Vnxklr5tRUiX_8Vs3K3dy_QAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZTQkc1b2VvdUlyLTMtXzJ2bzh3TTdXeFFIMU52Y2JzRTZWb1Y0dkh3cVJydGZCVE9YNFpSWTY3VXhtSjNrRzhxQU80RUtKNFpxTU9LMnNtcHg5N0V0dVhsZ1A5d1l1N0xTODB6MEVnb0lwdmFyMVkya1BUdXV5TjQxM28xUDdsS3JPUnFDZUVGcnJzbnNLajBQNVVNOVJXc1NKWUJOOHFnX0xlSUp1cU9OTjVYWU9oeV9aTUt0ZV91SXNYeWtPcHlIandYbmJ1VkZobk1REgQaAggAGrEGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwYIABAAGAAgACpBCgN0b3AVACIxPxoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgdsYXJnZXN0GgdsZWFkaW5nGgxtb3N0IHBvcHVsYXIqMQoGc29jaWFsFWU430AaC3NvY2lhbG1lZGlhGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcqZgoFbWVkaWEVe9rUQBoHbWVkaWEncxoGbWVkaWFzGgduZXR3b3JrGhBuZXR3b3JraW5nIHNpdGVzGghuZXR3b3JrcxoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZyo5CgpzY2hlZHVsaW5nFRki_T8aFXNvY2lhbG1lZGlhc2NoZWR1bGluZxoPaXY7cDtzY2hlZHVsaW5nKhoKCXBsYXRmb3JtcxXOX_Q_GghwbGF0Zm9ybTLkAS9nb3RvP3VybD1DQUVTbmdFQjZ6c3dGU0JHNW9lb3VJci0zLV8ydm84d003V3hRSDFOdmNic0U2Vm9WNHZId3FScnRmQlRPWDRaUlk2N1V4bUoza0c4cUFPNEVLSjRacU1PSzJzbXB4OTdFdHVYbGdQOXdZdTdMUzgwejBFZ29JcHZhcjFZMmtQVHV1eU40MTNvMVA3bEtyT1JxQ2VFRnJyc25zS2owUDVVTTlSV3NTSllCTjhxZ19MZUlKdXFPTk41WFlPaHlfWk1LdGVfdUlzWHlrT3B5SGp3WG5idVZGaG5NUTo-PGI-QmVzdCBTb2NpYWwgTWVkaWE8L2I-IFB1Ymxpc2hpbmcgVG9vbHMgaW4gMjAyNCAtIE1hcmtldEJlYW1CngFXaXRoIGEgd2lkZSBhcnJheSBvZiB0b29scyBhdmFpbGFibGUsIHN1Y2ggYXMgPGI-TWFya2V0QmVhbTwvYj4sIEJ1ZmZlciwgU3Byb3V0IFNvY2lhbCwgYW5kIEJhbWJ1IFNvZnR3YXJlLCB0aGUgc29jaWFsIG1lZGlhIHB1Ymxpc2hpbmcgZWNvc3lzdGVtIGhhcyZuYnNwOy4uLlIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZTQkc1b2VvdUlyLTMtXzJ2bzh3TTdXeFFIMU52Y2JzRTZWb1Y0dkh3cVJydGZCVE9YNFpSWTY3VXhtSjNrRzhxQU80RUtKNFpxTU9LMnNtcHg5N0V0dVhsZ1A5d1l1N0xTODB6MEVnb0lwdmFyMVkya1BUdXV5TjQxM28xUDdsS3JPUnFDZUVGcnJzbnNLajBQNVVNOVJXc1NKWUJOOHFnX0xlSUp1cU9OTjVYWU9oeV9aTUt0ZV91SXNYeWtPcHlIandYbmJ1VkZobk1REgQaAggAGrEGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwYIABAAGAAgACpBCgN0b3AVACIxPxoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgdsYXJnZXN0GgdsZWFkaW5nGgxtb3N0IHBvcHVsYXIqMQoGc29jaWFsFWU430AaC3NvY2lhbG1lZGlhGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcqZgoFbWVkaWEVe9rUQBoHbWVkaWEncxoGbWVkaWFzGgduZXR3b3JrGhBuZXR3b3JraW5nIHNpdGVzGghuZXR3b3JrcxoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZyo5CgpzY2hlZHVsaW5nFRki_T8aFXNvY2lhbG1lZGlhc2NoZWR1bGluZxoPaXY7cDtzY2hlZHVsaW5nKhoKCXBsYXRmb3JtcxXOX_Q_GghwbGF0Zm9ybTLkAS9nb3RvP3VybD1DQUVTbmdFQjZ6c3dGU0JHNW9lb3VJci0zLV8ydm84d003V3hRSDFOdmNic0U2Vm9WNHZId3FScnRmQlRPWDRaUlk2N1V4bUoza0c4cUFPNEVLSjRacU1PSzJzbXB4OTdFdHVYbGdQOXdZdTdMUzgwejBFZ29JcHZhcjFZMmtQVHV1eU40MTNvMVA3bEtyT1JxQ2VFRnJyc25zS2owUDVVTTlSV3NTSllCTjhxZ19MZUlKdXFPTk41WFlPaHlfWk1LdGVfdUlzWHlrT3B5SGp3WG5idVZGaG5NUTo-PGI-QmVzdCBTb2NpYWwgTWVkaWE8L2I-IFB1Ymxpc2hpbmcgVG9vbHMgaW4gMjAyNCAtIE1hcmtldEJlYW1CngFXaXRoIGEgd2lkZSBhcnJheSBvZiB0b29scyBhdmFpbGFibGUsIHN1Y2ggYXMgPGI-TWFya2V0QmVhbTwvYj4sIEJ1ZmZlciwgU3Byb3V0IFNvY2lhbCwgYW5kIEJhbWJ1IFNvZnR3YXJlLCB0aGUgc29jaWFsIG1lZGlhIHB1Ymxpc2hpbmcgZWNvc3lzdGVtIGhhcyZuYnNwOy4uLlIEYmVzdCICEAFIAFgAaAA",
+      "source": "MarketBeam",
+      "read_more_link": "https://marketbeam.io/best-social-media-publishing-tools-in-2024-features-reviews-and-recommendations/#:~:text=With%20a%20wide%20array%20of,publishing%20ecosystem%20has%20grown%20immensely."
+    },
+    {
+      "position": 9,
+      "title": "15 Best Social Media Scheduling Tools for Startups in 2026",
+      "link": "https://socialbu.com/blog/social-media-scheduling-tools-for-startups",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVNCHkZLYBsjc68_zYEyHTuNgJjmBhZy8nbAlivDDreJMxuTsYOfL_Ndx8kYWhvHzvQ2mLIDHtCctvLoXbdEeHpRZtP3IfI2W0drEH8Qd_cYUXW03xKnvPMqo8EA0SJ8kHmmbnhBc4oZG1dNqG1vsyBCiD8HGFjSs&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQFnoECFAQAQ&uoh=1",
+      "displayed_link": "https://socialbu.com › blog › social-media-scheduling-to...",
+      "favicon": "https://serpapi.com/images/i/UklGRtwBAABXRUJQVlA4INABAACwCQCdASogACAAAsBMJbACdMoR11oM4EGA2wHmA86r0Af__1AP6r1AG8Z_tJ-1Xsq4CJIEZQEDrbZF92imJ1MLlnuJ1wFvnxbVoBCP0rLW04O6WTjVMAD--EBEjczdIzJhe1LcTv4FSlk4Fdr75N_yGJjABW3G6VudoJcxKxb7uR9Mr9bnOB32Mmq8yXvvDkx43QC1OtrDT5v-0syB7v30zHL73IGWS5N9DGMe_NlUfqX5vKX4fjaefjevxZy0Ms6CE3CAtvSUgeE96I5wN-rjQSRn8qvQeAeKe9a_T5EFNOb6YgOE1h2flSP_81joTaUHIv09ZMmMZV2dedU40mG3l96afVegmVB-qcU9u0M2c8iFItv0bNekLBHYenewLTWO2JUn5o7QXmlXIfPXYquP1WFrGLmJ24fJpn4zN4QgRBHHlyuf6HTYcWnhnxICccg2AoX_r2Fi5eFyayGr_X_b0DAxoz-3o357vpD3WuCaR67Q0liWVTDJTpJx5FWPLHqm68ZNuy_I7r_gffhTlr5jh5uFODVTBsmzE1oMgPBlzZNH6zVLvl3R5Iu2lZ6do_PH_M00VX9JLga73Qvpl70G3Hw5N2vUFqVxBGHLFaqAAA.webp",
+      "date": "Jan 15, 2025",
+      "snippet": "Discover the top social media scheduling tools for startups. Streamline your content strategy with our expert-curated list.",
+      "snippet_highlighted_words": [
+        "top social media scheduling tools for startups"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Agorapulse",
+            "link": "https://socialbu.com/blog/social-media-scheduling-tools-for-startups#:~:text=Agorapulse,-Agorapulse"
+          },
+          {
+            "title": "Socialpilot",
+            "link": "https://socialbu.com/blog/social-media-scheduling-tools-for-startups#:~:text=SocialPilot,-SocialPilot"
+          },
+          {
+            "title": "Zoho Social",
+            "link": "https://socialbu.com/blog/social-media-scheduling-tools-for-startups#:~:text=Zoho%20Social,-Zoho%20Social"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Discover the top social media scheduling tools for startups. Streamline your content strategy with our expert-curated list.",
+          "source_info_link": "https://socialbu.com/blog/social-media-scheduling-tools-for-startups",
+          "icon": "https://serpapi.com/images/i/UklGRtwBAABXRUJQVlA4INABAACwCQCdASogACAAAsBMJbACdMoR11oM4EGA2wHmA86r0Af__1AP6r1AG8Z_tJ-1Xsq4CJIEZQEDrbZF92imJ1MLlnuJ1wFvnxbVoBCP0rLW04O6WTjVMAD--EBEjczdIzJhe1LcTv4FSlk4Fdr75N_yGJjABW3G6VudoJcxKxb7uR9Mr9bnOB32Mmq8yXvvDkx43QC1OtrDT5v-0syB7v30zHL73IGWS5N9DGMe_NlUfqX5vKX4fjaefjevxZy0Ms6CE3CAtvSUgeE96I5wN-rjQSRn8qvQeAeKe9a_T5EFNOb6YgOE1h2flSP_81joTaUHIv09ZMmMZV2dedU40mG3l96afVegmVB-qcU9u0M2c8iFItv0bNekLBHYenewLTWO2JUn5o7QXmlXIfPXYquP1WFrGLmJ24fJpn4zN4QgRBHHlyuf6HTYcWnhnxICccg2AoX_r2Fi5eFyayGr_X_b0DAxoz-3o357vpD3WuCaR67Q0liWVTDJTpJx5FWPLHqm68ZNuy_I7r_gffhTlr5jh5uFODVTBsmzE1oMgPBlzZNH6zVLvl3R5Iu2lZ6do_PH_M00VX9JLga73Qvpl70G3Hw5N2vUFqVxBGHLFaqAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVk5DSGtaTFlCc2pjNjhfellFeUhUdU5nSmptQmhaeThuYkFsaXZERHJlSk14dVRzWU9mTF9OZHg4a1lXaHZIenZRMm1MSURIdENjdHZMb1hiZEVlSHBSWnRQM0lmSTJXMGRyRUg4UWRfY1lVWFcwM3hLbnZQTXFvOEVBMFNKOGtIbW1ibmhCYzRvWkcxZE5xRzF2c3lCQ2lEOEhHRmpTcxIEGgIIABrrBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHICCAF6AIJAwwUIABAAGAAgACpBCgN0b3AVML5FPxoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgdsYXJnZXN0GgdsZWFkaW5nGgxtb3N0IHBvcHVsYXIqMQoGc29jaWFsFbo03UAaC3NvY2lhbG1lZGlhGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcqZgoFbWVkaWEVJsrbQBoHbWVkaWEncxoGbWVkaWFzGgduZXR3b3JrGhBuZXR3b3JraW5nIHNpdGVzGghuZXR3b3JrcxoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZyo5CgpzY2hlZHVsaW5nFTtm0EAaFXNvY2lhbG1lZGlhc2NoZWR1bGluZxoPaXY7cDtzY2hlZHVsaW5nKhoKCXBsYXRmb3JtcxUKfHQ_GghwbGF0Zm9ybTK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZOQ0hrWkxZQnNqYzY4X3pZRXlIVHVOZ0pqbUJoWnk4bmJBbGl2RERyZUpNeHVUc1lPZkxfTmR4OGtZV2h2SHp2UTJtTElESHRDY3R2TG9YYmRFZUhwUlp0UDNJZkkyVzBkckVIOFFkX2NZVVhXMDN4S252UE1xbzhFQTBTSjhrSG1tYm5oQmM0b1pHMWROcUcxdnN5QkNpRDhIR0ZqU3M6QTE1IDxiPkJlc3QgU29jaWFsIE1lZGlhIFNjaGVkdWxpbmc8L2I-IFRvb2xzIGZvciBTdGFydHVwcyBpbiAyMDI2QoIBRGlzY292ZXIgdGhlIDxiPnRvcCBzb2NpYWwgbWVkaWEgc2NoZWR1bGluZyB0b29scyBmb3Igc3RhcnR1cHM8L2I-LiBTdHJlYW1saW5lIHlvdXIgY29udGVudCBzdHJhdGVneSB3aXRoIG91ciBleHBlcnQtY3VyYXRlZCBsaXN0LlIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVk5DSGtaTFlCc2pjNjhfellFeUhUdU5nSmptQmhaeThuYkFsaXZERHJlSk14dVRzWU9mTF9OZHg4a1lXaHZIenZRMm1MSURIdENjdHZMb1hiZEVlSHBSWnRQM0lmSTJXMGRyRUg4UWRfY1lVWFcwM3hLbnZQTXFvOEVBMFNKOGtIbW1ibmhCYzRvWkcxZE5xRzF2c3lCQ2lEOEhHRmpTcxIEGgIIABrrBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHICCAF6AIJAwwUIABAAGAAgACpBCgN0b3AVML5FPxoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgdsYXJnZXN0GgdsZWFkaW5nGgxtb3N0IHBvcHVsYXIqMQoGc29jaWFsFbo03UAaC3NvY2lhbG1lZGlhGhVzb2NpYWxtZWRpYXNjaGVkdWxpbmcqZgoFbWVkaWEVJsrbQBoHbWVkaWEncxoGbWVkaWFzGgduZXR3b3JrGhBuZXR3b3JraW5nIHNpdGVzGghuZXR3b3JrcxoLc29jaWFsbWVkaWEaFXNvY2lhbG1lZGlhc2NoZWR1bGluZyo5CgpzY2hlZHVsaW5nFTtm0EAaFXNvY2lhbG1lZGlhc2NoZWR1bGluZxoPaXY7cDtzY2hlZHVsaW5nKhoKCXBsYXRmb3JtcxUKfHQ_GghwbGF0Zm9ybTK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZOQ0hrWkxZQnNqYzY4X3pZRXlIVHVOZ0pqbUJoWnk4bmJBbGl2RERyZUpNeHVUc1lPZkxfTmR4OGtZV2h2SHp2UTJtTElESHRDY3R2TG9YYmRFZUhwUlp0UDNJZkkyVzBkckVIOFFkX2NZVVhXMDN4S252UE1xbzhFQTBTSjhrSG1tYm5oQmM0b1pHMWROcUcxdnN5QkNpRDhIR0ZqU3M6QTE1IDxiPkJlc3QgU29jaWFsIE1lZGlhIFNjaGVkdWxpbmc8L2I-IFRvb2xzIGZvciBTdGFydHVwcyBpbiAyMDI2QoIBRGlzY292ZXIgdGhlIDxiPnRvcCBzb2NpYWwgbWVkaWEgc2NoZWR1bGluZyB0b29scyBmb3Igc3RhcnR1cHM8L2I-LiBTdHJlYW1saW5lIHlvdXIgY29udGVudCBzdHJhdGVneSB3aXRoIG91ciBleHBlcnQtY3VyYXRlZCBsaXN0LlIEYmVzdCICEAFIAFgAaAA",
+      "source": "SocialBu"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+social+media+scheduling+platforms&sca_esv=6dacb47cd9b525ae&hl=en&gl=us&sxsrf=APpeQnvKb7HVlqfKlFCpI7sZAVyuBh_0ZQ:1790338477535&ei=rWW2apWLILeIwbkP9aCkkAE&start=10&sa=N&sstk=AS6-VmKW0b96pVJoBhxLvYm7_Vf549Ogjpg_ekNnsAijlVP0dtI3iYawLZi_N_a1bCQi2YbfSE_6jXsJ4WpH1SY9nh4ROFCS1lIL1Q&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQ8NMDegQISBAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+social+media+scheduling+platforms&sca_esv=6dacb47cd9b525ae&hl=en&gl=us&sxsrf=APpeQnvKb7HVlqfKlFCpI7sZAVyuBh_0ZQ:1790338477535&ei=rWW2apWLILeIwbkP9aCkkAE&start=10&sa=N&sstk=AS6-VmKW0b96pVJoBhxLvYm7_Vf549Ogjpg_ekNnsAijlVP0dtI3iYawLZi_N_a1bCQi2YbfSE_6jXsJ4WpH1SY9nh4ROFCS1lIL1Q&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQ8tMDegQISBAE",
+      "3": "https://www.google.com/search?q=top+social+media+scheduling+platforms&sca_esv=6dacb47cd9b525ae&hl=en&gl=us&sxsrf=APpeQnvKb7HVlqfKlFCpI7sZAVyuBh_0ZQ:1790338477535&ei=rWW2apWLILeIwbkP9aCkkAE&start=20&sa=N&sstk=AS6-VmKW0b96pVJoBhxLvYm7_Vf549Ogjpg_ekNnsAijlVP0dtI3iYawLZi_N_a1bCQi2YbfSE_6jXsJ4WpH1SY9nh4ROFCS1lIL1Q&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQ8tMDegQISBAG",
+      "4": "https://www.google.com/search?q=top+social+media+scheduling+platforms&sca_esv=6dacb47cd9b525ae&hl=en&gl=us&sxsrf=APpeQnvKb7HVlqfKlFCpI7sZAVyuBh_0ZQ:1790338477535&ei=rWW2apWLILeIwbkP9aCkkAE&start=30&sa=N&sstk=AS6-VmKW0b96pVJoBhxLvYm7_Vf549Ogjpg_ekNnsAijlVP0dtI3iYawLZi_N_a1bCQi2YbfSE_6jXsJ4WpH1SY9nh4ROFCS1lIL1Q&ved=2ahUKEwjVlezH2omXAxU3RDABHXUQCRIQ8tMDegQISBAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+social+media+scheduling+platforms&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+social+media+scheduling+platforms&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+social+media+scheduling+platforms&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+social+media+scheduling+platforms&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+social+media+scheduling+platforms&start=30"
+    }
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "search_metadata": {
+    "id": "6ab64e754fa3bae6f971d411",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/_xguR24DJTtYzTMyK8dhxITChewobayYBUpQSX23qnY/6ab64e754fa3bae6f971d411.json",
+    "markdown_endpoint": "https://serpapi.com/searches/_xguR24DJTtYzTMyK8dhxITChewobayYBUpQSX23qnY/6ab64e754fa3bae6f971d411.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/_xguR24DJTtYzTMyK8dhxITChewobayYBUpQSX23qnY/6ab64e754fa3bae6f971d411.json_with_pixel_position",
+    "created_at": "2026-09-25 10:35:33 UTC",
+    "processed_at": "2026-09-25 10:35:33 UTC",
+    "google_url": "https://www.google.com/search?q=best+accounting+software+for+freelance+designers&oq=best+accounting+software+for+freelance+designers&uule=w+CAIQICIeSG91c3RvbixUWCxUZXhhcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/_xguR24DJTtYzTMyK8dhxITChewobayYBUpQSX23qnY/6ab64e754fa3bae6f971d411.html",
+    "total_time_taken": 24.73
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best accounting software for freelance designers",
+    "location_requested": "Houston, TX, Texas, United States",
+    "location_used": "Houston,TX,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best accounting software for freelance designers",
+    "total_results": 124000,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Freelancer Payment System | Pay Freelancers Worldwide",
+      "link": "https://www.talentdesk.io/how-it-works/payments",
+      "displayed_link": "https://www.talentdesk.io › freelancer › payments",
+      "thumbnail": "https://serpapi.com/searches/6ab64e754fa3bae6f971d411/images/yyMDrnfYybrnhWSXaVAJHQ.png",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjVn9HAxImXAxVWXX8AHWvEDw0YACICCAEQDRoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAAYASACEgKYvfD_BwE&cid=CAASuwHkaM0Vr9jhFgbdcv-Awllnubg8lrWSJRhj4Tfb84Rai7PTo8pHGtWiM9xTQWiu8U8K2NDZnboSy2oZ4V17SqzAVvCRECP-iOpCScPYEsea5O9AQ6k0sW2-c8eBmAPLLlKIOO3orUe2rJTWQWeGHv98MhtBeuj4jKbqT3K24AamBOEpMd-6h8L2OnzK5OXtMDS5sB6Nb0dYrdTO4rNItI2ssISh1Hx1ICcl7ZxhobtkfvxcuYZEm_u1cdfj&cce=2&category=acrcp_v1_32&sig=AOD64_3D_P8PWgrsxCUgTEXkCSp3Rpq-EQ&q=&nis=4&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQh78CegQIExAB&adurl=https://www.talentdesk.io/how-it-works/payments%3Futm_medium%3Dcpc%26utm_term%3Dfreelancer%2520payment%2520software%26utm_campaign%3DCUS_NS_Freelancer%2520Management%25202025%26utm_source%3Dgoogle%26utm_id%3D23087786363%26hsa_kw%3Dfreelancer%2520payment%2520software%26hsa_cam%3D23087786363%26hsa_ver%3D3%26hsa_acc%3D5790469943%26hsa_ad%3D824263672947%26hsa_grp%3D187525912738%26hsa_src%3Dg%26hsa_mt%3Dp%26hsa_tgt%3Dkwd-399479404727%26hsa_net%3Dadwords%26gad_source%3D1%26gad_campaignid%3D23087786363%26gbraid%3D0AAAAADGTL1V15_JjKKRMPsk-Uzyoi7Se7%26gclid%3DEAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAAYASACEgKYvfD_BwE",
+      "description": "Global Payment Solution: Payout In Multiple Currencies With Just One...",
+      "source": "TalentDesk",
+      "sitelinks": [
+        {
+          "title": "Finance",
+          "link": "https://www.talentdesk.io/team/finance"
+        },
+        {
+          "title": "Top 12 Payment Systems",
+          "link": "https://www.talentdesk.io/blog/reasons-why-you-should-revamp-your-freelancer-payment-portal"
+        },
+        {
+          "title": "Contractor Pay Guide",
+          "link": "https://www.talentdesk.io/blog/contractor-payments"
+        },
+        {
+          "title": "Multiple Currencies, 1 Invoice",
+          "link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjVn9HAxImXAxVWXX8AHWvEDw0YACICCAEQGBoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAAYASAGEgJS3_D_BwE&cid=CAASuwHkaM0Vr9jhFgbdcv-Awllnubg8lrWSJRhj4Tfb84Rai7PTo8pHGtWiM9xTQWiu8U8K2NDZnboSy2oZ4V17SqzAVvCRECP-iOpCScPYEsea5O9AQ6k0sW2-c8eBmAPLLlKIOO3orUe2rJTWQWeGHv98MhtBeuj4jKbqT3K24AamBOEpMd-6h8L2OnzK5OXtMDS5sB6Nb0dYrdTO4rNItI2ssISh1Hx1ICcl7ZxhobtkfvxcuYZEm_u1cdfj&cce=2&category=acrcp_v1_32&sig=AOD64_2DrfiGRK3zbrBCFLu0M8O0uKKabA&adurl=https://www.talentdesk.io/how-it-works/payments%3Futm_medium%3Dcpc%26utm_term%3Dfreelancer%2520payment%2520software%26utm_campaign%3DCUS_NS_Freelancer%2520Management%25202025%26utm_source%3Dgoogle%26utm_id%3D23087786363%26hsa_kw%3Dfreelancer%2520payment%2520software%26hsa_cam%3D23087786363%26hsa_ver%3D3%26hsa_acc%3D5790469943%26hsa_ad%3D824263672947%26hsa_grp%3D187525912738%26hsa_src%3Dg%26hsa_mt%3Dp%26hsa_tgt%3Dkwd-399479404727%26hsa_net%3Dadwords%26gad_source%3D1%26gad_campaignid%3D23087786363%26gbraid%3D0AAAAADGTL1V15_JjKKRMPsk-Uzyoi7Se7%26gclid%3DEAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAAYASAGEgJS3_D_BwE&q="
+        },
+        {
+          "title": "Pricing",
+          "link": "https://www.talentdesk.io/pricing"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Automate Accounting | Speed Up Collections",
+      "link": "https://www.tabs.com/demo-pm-nb-accounting",
+      "displayed_link": "https://www.tabs.com › automate › accounting",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjVn9HAxImXAxVWXX8AHWvEDw0YACICCAEQABoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAAYAiAAEgJOGfD_BwE&cid=CAASuwHkaM0Vr9jhFgbdcv-Awllnubg8lrWSJRhj4Tfb84Rai7PTo8pHGtWiM9xTQWiu8U8K2NDZnboSy2oZ4V17SqzAVvCRECP-iOpCScPYEsea5O9AQ6k0sW2-c8eBmAPLLlKIOO3orUe2rJTWQWeGHv98MhtBeuj4jKbqT3K24AamBOEpMd-6h8L2OnzK5OXtMDS5sB6Nb0dYrdTO4rNItI2ssISh1Hx1ICcl7ZxhobtkfvxcuYZEm_u1cdfj&cce=2&category=acrcp_v1_32&sig=AOD64_1yh5mboewReWc0-zE6vzo_J3ZiXA&q&nis=4&adurl=https://www.tabs.com/demo-pm-nb-accounting?hstk_creative%3D802081559494%26hstk_campaign%3D23690659619%26hstk_network%3DgoogleAds%26utm_term%3Dbest%2520accounting%2520software%26utm_campaign%3DNon-brand%2BHigh%2BIntent%26utm_source%3Dadwords%26utm_medium%3Dppc%26hsa_acc%3D4814961501%26hsa_cam%3D23690659619%26hsa_grp%3D198262324481%26hsa_ad%3D802081559494%26hsa_src%3Dg%26hsa_tgt%3Dkwd-108276710%26hsa_kw%3Dbest%2520accounting%2520software%26hsa_mt%3Dp%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D1%26gad_campaignid%3D23690659619%26gbraid%3D0AAAAAqcEnTM2qG4leJKtoHbx5m2zDnWcO%26gclid%3DEAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAAYAiAAEgJOGfD_BwE",
+      "description": "Tabs automates the financial workflows modern SaaS companies rely on. Get your demo! Unified...",
+      "source": "Tabs",
+      "sitelinks": [
+        {
+          "title": "Finance Efficiency Score",
+          "link": "https://www.tabs.com/finance-efficiency-calculator"
+        },
+        {
+          "title": "AI-Native Rev Automation",
+          "link": "https://www.tabs.com/guide/the-architecture-behind-ai-native-revenue-automation"
+        },
+        {
+          "title": "Revenue Automation",
+          "link": "https://www.tabs.com/blog/revenue-automation"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "#1 Most Recommended | See How Jobber Works",
+      "link": "https://www.getjobber.com/dlp/fsm-software/",
+      "displayed_link": "https://www.getjobber.com",
+      "thumbnail": "https://serpapi.com/searches/6ab64e754fa3bae6f971d411/images/KujGsNAxMgKQFpoE1hV6iQ.jpeg",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVn9HAxImXAxVWXX8AHWvEDw0YACICCAEQChoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAAYAyADEgKVAvD_BwE&cid=CAASuwHkaM0Vr9jhFgbdcv-Awllnubg8lrWSJRhj4Tfb84Rai7PTo8pHGtWiM9xTQWiu8U8K2NDZnboSy2oZ4V17SqzAVvCRECP-iOpCScPYEsea5O9AQ6k0sW2-c8eBmAPLLlKIOO3orUe2rJTWQWeGHv98MhtBeuj4jKbqT3K24AamBOEpMd-6h8L2OnzK5OXtMDS5sB6Nb0dYrdTO4rNItI2ssISh1Hx1ICcl7ZxhobtkfvxcuYZEm_u1cdfj&cce=2&category=acrcp_v1_32&sig=AOD64_15bwttaqLnC5MmkDMEdpAr5U9qrQ&q=&nis=4&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQh78CegQIDxAB&adurl=",
+      "description": "Small Business Service Software. Quote, Schedule & Get Paid... Read more",
+      "source": "getjobber.com",
+      "sitelinks": [
+        {
+          "title": "Jobber Plus",
+          "link": "https://www.getjobber.com/plus/"
+        },
+        {
+          "title": "Try The #1 Field Service App",
+          "link": "https://getjobber.com/dlp/fsm-software/"
+        },
+        {
+          "title": "Jobber® (Official App)",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVn9HAxImXAxVWXX8AHWvEDw0YACICCAEQERoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAAYAyAFEgJZ-vD_BwE&cid=CAASuwHkaM0Vr9jhFgbdcv-Awllnubg8lrWSJRhj4Tfb84Rai7PTo8pHGtWiM9xTQWiu8U8K2NDZnboSy2oZ4V17SqzAVvCRECP-iOpCScPYEsea5O9AQ6k0sW2-c8eBmAPLLlKIOO3orUe2rJTWQWeGHv98MhtBeuj4jKbqT3K24AamBOEpMd-6h8L2OnzK5OXtMDS5sB6Nb0dYrdTO4rNItI2ssISh1Hx1ICcl7ZxhobtkfvxcuYZEm_u1cdfj&cce=2&category=acrcp_v1_32&sig=AOD64_0MO2pq-_y6k0Ux6f2b9lDnCYeG_A&adurl=&q="
+        },
+        {
+          "title": "Get 40% Off Jobber",
+          "link": "https://www.getjobber.com/pricing/"
+        },
+        {
+          "title": "About Us",
+          "link": "https://getjobber.com/about/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "block_position": "top",
+      "title": "QuickBooks® Online | QuickBooks® With Confidence",
+      "link": "https://quickbooks.intuit.com/payments-agent/",
+      "displayed_link": "https://quickbooks.intuit.com › quickbooks › online",
+      "thumbnail": "https://serpapi.com/searches/6ab64e754fa3bae6f971d411/images/M0bQpzl2V-zDEH7ReWHzUA.jpeg",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVn9HAxImXAxVWXX8AHWvEDw0YACICCAEQFBoCb2E&ae=2&co=1&ase=2&gclid=EAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAAYBCAEEgLS0vD_BwE&cid=CAASuwHkaM0Vr9jhFgbdcv-Awllnubg8lrWSJRhj4Tfb84Rai7PTo8pHGtWiM9xTQWiu8U8K2NDZnboSy2oZ4V17SqzAVvCRECP-iOpCScPYEsea5O9AQ6k0sW2-c8eBmAPLLlKIOO3orUe2rJTWQWeGHv98MhtBeuj4jKbqT3K24AamBOEpMd-6h8L2OnzK5OXtMDS5sB6Nb0dYrdTO4rNItI2ssISh1Hx1ICcl7ZxhobtkfvxcuYZEm_u1cdfj&cce=2&category=acrcp_v1_71&sig=AOD64_2lBzLVdYwx-ENiF0jEYTDfkERrbw&q=&nis=4&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQh78CegQIDhAB&adurl=",
+      "description": "Accounting Agent Automates And Categorizes Transactions And... Read more",
+      "source": "Intuit QuickBooks",
+      "sitelinks": [
+        {
+          "title": "QuickBooks® Is Now Free",
+          "link": "https://quickbooks.intuit.com/oa/online/free/"
+        },
+        {
+          "title": "QuickBooks® Online",
+          "link": "https://quickbooks.intuit.com/oa/get-quickbooks/"
+        },
+        {
+          "title": "QuickBooks® Scales With You",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVn9HAxImXAxVWXX8AHWvEDw0YACICCAEQFxoCb2E&ae=2&co=1&ase=2&gclid=EAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAAYBCAFEgJJiPD_BwE&cid=CAASuwHkaM0Vr9jhFgbdcv-Awllnubg8lrWSJRhj4Tfb84Rai7PTo8pHGtWiM9xTQWiu8U8K2NDZnboSy2oZ4V17SqzAVvCRECP-iOpCScPYEsea5O9AQ6k0sW2-c8eBmAPLLlKIOO3orUe2rJTWQWeGHv98MhtBeuj4jKbqT3K24AamBOEpMd-6h8L2OnzK5OXtMDS5sB6Nb0dYrdTO4rNItI2ssISh1Hx1ICcl7ZxhobtkfvxcuYZEm_u1cdfj&cce=2&category=acrcp_v1_71&sig=AOD64_2k1X73Y4gz0psQm0xmo5smEl9EhA&adurl=&q="
+        },
+        {
+          "title": "QuickBooks® Lite",
+          "link": "https://quickbooks.intuit.com/oa/online/lite/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "title": "Unify Your Accounting Data | Speed Up Collections",
+      "link": "https://www.tabs.com/demo-pm-nb-accounting",
+      "displayed_link": "https://www.tabs.com › automate › accounting",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVn9HAxImXAxVWXX8AHWvEDw0YACICCAIQARoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAMYASAAEgKHdvD_BwE&cid=CAASuwHkaM0Vr9jhFgbdcv-Awllnubg8lrWSJRhj4Tfb84Rai7PTo8pHGtWiM9xTQWiu8U8K2NDZnboSy2oZ4V17SqzAVvCRECP-iOpCScPYEsea5O9AQ6k0sW2-c8eBmAPLLlKIOO3orUe2rJTWQWeGHv98MhtBeuj4jKbqT3K24AamBOEpMd-6h8L2OnzK5OXtMDS5sB6Nb0dYrdTO4rNItI2ssISh1Hx1ICcl7ZxhobtkfvxcuYZEm_u1cdfj&cce=2&category=acrcp_v1_32&sig=AOD64_31XdA-nvHZ39zoExigCQRu_z--0A&q&nis=4&adurl",
+      "description": "Tabs automates the financial workflows modern SaaS companies rely on. Get your demo! Unified...",
+      "source": "Tabs",
+      "sitelinks": [
+        {
+          "title": "Finance Efficiency Score",
+          "link": "https://www.tabs.com/finance-efficiency-calculator"
+        },
+        {
+          "title": "AI-Native Rev Automation",
+          "link": "https://www.tabs.com/guide/the-architecture-behind-ai-native-revenue-automation"
+        },
+        {
+          "title": "Revenue Automation",
+          "link": "https://www.tabs.com/blog/revenue-automation"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "title": "#1 App for Contractors | #1 Most Recommended",
+      "link": "https://www.getjobber.com/dlp/fsm-software/",
+      "displayed_link": "https://www.getjobber.com",
+      "thumbnail": "https://tpc.googlesyndication.com/simgad/10794227544134942548?sqp=-oaymwEKCFwQXCABUAFYAQ&rs=AOga4qm3j6dIrOSoCnIwlgZFDrQ91H_5Qg",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVn9HAxImXAxVWXX8AHWvEDw0YACICCAIQBhoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAMYAiADEgL15fD_BwE&cid=CAASuwHkaM0Vr9jhFgbdcv-Awllnubg8lrWSJRhj4Tfb84Rai7PTo8pHGtWiM9xTQWiu8U8K2NDZnboSy2oZ4V17SqzAVvCRECP-iOpCScPYEsea5O9AQ6k0sW2-c8eBmAPLLlKIOO3orUe2rJTWQWeGHv98MhtBeuj4jKbqT3K24AamBOEpMd-6h8L2OnzK5OXtMDS5sB6Nb0dYrdTO4rNItI2ssISh1Hx1ICcl7ZxhobtkfvxcuYZEm_u1cdfj&cce=2&category=acrcp_v1_32&sig=AOD64_1gifFb_-mwtzsY3p1909zU7JStTg&q=&nis=4&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQh78CegQIUxAB&adurl=",
+      "description": "Small Business Service Software. Quote, Schedule & Get Paid Faster Through...",
+      "extensions": [
+        "1M+ visits in past month"
+      ],
+      "source": "getjobber.com",
+      "sitelinks": [
+        {
+          "title": "Jobber Plus",
+          "link": "https://www.getjobber.com/plus/"
+        },
+        {
+          "title": "Try The #1 Field Service App",
+          "link": "https://getjobber.com/dlp/fsm-software/"
+        },
+        {
+          "title": "Jobber® (Official App)",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVn9HAxImXAxVWXX8AHWvEDw0YACICCAIQCRoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1Z_RwMSJlwMVVl1_AB1rxA8NEAMYAiAFEgI2LPD_BwE&cid=CAASuwHkaM0Vr9jhFgbdcv-Awllnubg8lrWSJRhj4Tfb84Rai7PTo8pHGtWiM9xTQWiu8U8K2NDZnboSy2oZ4V17SqzAVvCRECP-iOpCScPYEsea5O9AQ6k0sW2-c8eBmAPLLlKIOO3orUe2rJTWQWeGHv98MhtBeuj4jKbqT3K24AamBOEpMd-6h8L2OnzK5OXtMDS5sB6Nb0dYrdTO4rNItI2ssISh1Hx1ICcl7ZxhobtkfvxcuYZEm_u1cdfj&cce=2&category=acrcp_v1_32&sig=AOD64_1auZ9rbOOxNIV8e4S6mdZzvGEUxA&adurl=&q="
+        },
+        {
+          "title": "Get 40% Off Jobber",
+          "link": "https://www.getjobber.com/pricing/"
+        },
+        {
+          "title": "About Us",
+          "link": "https://getjobber.com/about/"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best accounting software for freelancers?",
+      "type": "ai_overview",
+      "page_token": "OPxn-XicHdBbboJAFADQdDN-ahnUFhPTBB3wxdAZ5wH8NDiAo1wBLRX1r3vpqrqaJj1LON8_cKjK36eradvmczIYdF3X39f1HvK-rk-D9PNe6YFOAXapLifjl7H1Vugp_lq6s_PSpaJp5Jw987nXxALaWNwswd0w95qHFnAOfEJD3Pi554Yam02OPb7DzmkrnTGpDKQPt9AQ3HdlN6JoZQILW9o3C7Wouy1aRQknayXKh-TERMi5pRWxQ55h4pki9ON7CkmnVGuHwrskyIq1bZgq962eAySoucTcXWzRK0qxcyW2wQxLrCJziznwvCSWEBninMwyHAx3nqHqCCPmJxU22Znx-B5HLlL4BhvpdOGc0SzyIPNbV7L6QAV76COchCXfmTQpRzAWx6Wd4-GIK0tJlayFYJuAryilvUJfp3bv_3P6UZzaSXOp938034J0",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=OPxn-XicHdBbboJAFADQdDN-ahnUFhPTBB3wxdAZ5wH8NDiAo1wBLRX1r3vpqrqaJj1LON8_cKjK36eradvmczIYdF3X39f1HvK-rk-D9PNe6YFOAXapLifjl7H1Vugp_lq6s_PSpaJp5Jw987nXxALaWNwswd0w95qHFnAOfEJD3Pi554Yam02OPb7DzmkrnTGpDKQPt9AQ3HdlN6JoZQILW9o3C7Wouy1aRQknayXKh-TERMi5pRWxQ55h4pki9ON7CkmnVGuHwrskyIq1bZgq962eAySoucTcXWzRK0qxcyW2wQxLrCJziznwvCSWEBninMwyHAx3nqHqCCPmJxU22Znx-B5HLlL4BhvpdOGc0SzyIPNbV7L6QAV76COchCXfmTQpRzAWx6Wd4-GIK0tJlayFYJuAryilvUJfp3bv_3P6UZzaSXOp938034J0",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1UaEdabVYwVFhsQlJuRjRZMHRQUW5sWlZWTmpNbEV0VXpKMlVFRlVZWE5zU205T2FHbFBOVm90VG0xalVsTkNSRUprYURkT2NXd3lRamhwVDJWUFYzTklZVUZDZW5Gc1NVbFFRbEF0ZURjMWVIVjVVbEZZVW5aUlVSSVhha1UyTW1Gd2RsaE1aUzFmY0RnMFVIVnhaWFJyUVZVYUlrRkVjM0k1WmxKYVNVSXRRMXA2UW5scWRGVlpVa0oxYWtSMGVuQlVha0V6TUdjIiwiZmN2IjoiMyIsImVpIjoiakU2MmFwdlhMZS1fcDg0UHVxZXRrQVUiLCJxYyI6IkNqQmlaWE4wSUdGalkyOTFiblJwYm1jZ2MyOW1kSGRoY21VZ1ptOXlJR1p5WldWc1lXNWpaU0JrWlhOcFoyNWxjbk1RQUgyUWpoRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgYWNjb3VudGluZyBzb2Z0d2FyZSBmb3IgZnJlZWxhbmNlcnM/IiwibGsiOiJHaWhpWlhOMElHRmpZMjkxYm5ScGJtY2djMjltZEhkaGNtVWdabTl5SUdaeVpXVnNZVzVqWlhKeiIsImJzIjoiYzQyUU1RLUNNQkNGNDlySkdUVzVVWEVqY1RSRU4wWW40MWpxSVEzWXE3MGpfSDB0aWVpZ0NmUDdMdTk3cDR6YW5Xc3RZQm1rUmlpUkJiUXgxRG14N2daTWxmUTZJRlFVb0FxSXJYWUdBLWRabXF5bnd1cWkwcUVrWmg3SnR3Z0JmYXROdkRwMTFqUkhvb2FodDFMbjJUYlo5SF9wUjZUTGtWWjd0U3dZRHNVWEV0TUcwUS1hcTJUeG1xYnQ3M3cwRzlXdjlGNmtuVEIwak1OZjdzVHlNWnRDejJkUCIsImlkIjoiZmNfakU2MmFwdlhMZS1fcDg0UHVxZXRrQVVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1UaEdabVYwVFhsQlJuRjRZMHRQUW5sWlZWTmpNbEV0VXpKMlVFRlVZWE5zU205T2FHbFBOVm90VG0xalVsTkNSRUprYURkT2NXd3lRamhwVDJWUFYzTklZVUZDZW5Gc1NVbFFRbEF0ZURjMWVIVjVVbEZZVW5aUlVSSVhha1UyTW1Gd2RsaE1aUzFmY0RnMFVIVnhaWFJyUVZVYUlrRkVjM0k1WmxKYVNVSXRRMXA2UW5scWRGVlpVa0oxYWtSMGVuQlVha0V6TUdjIiwiZmN2IjoiMyIsImVpIjoiakU2MmFwdlhMZS1fcDg0UHVxZXRrQVUiLCJxYyI6IkNqQmlaWE4wSUdGalkyOTFiblJwYm1jZ2MyOW1kSGRoY21VZ1ptOXlJR1p5WldWc1lXNWpaU0JrWlhOcFoyNWxjbk1RQUgyUWpoRV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgYWNjb3VudGluZyBzb2Z0d2FyZSBmb3IgZnJlZWxhbmNlcnM%2FIiwibGsiOiJHaWhpWlhOMElHRmpZMjkxYm5ScGJtY2djMjltZEhkaGNtVWdabTl5SUdaeVpXVnNZVzVqWlhKeiIsImJzIjoiYzQyUU1RLUNNQkNGNDlySkdUVzVVWEVqY1RSRU4wWW40MWpxSVEzWXE3MGpfSDB0aWVpZ0NmUDdMdTk3cDR6YW5Xc3RZQm1rUmlpUkJiUXgxRG14N2daTWxmUTZJRlFVb0FxSXJYWUdBLWRabXF5bnd1cWkwcUVrWmg3SnR3Z0JmYXROdkRwMTFqUkhvb2FodDFMbjJUYlo5SF9wUjZUTGtWWjd0U3dZRHNVWEV0TUcwUS1hcTJUeG1xYnQ3M3cwRzlXdjlGNmtuVEIwak1OZjdzVHlNWnRDejJkUCIsImlkIjoiZmNfakU2MmFwdlhMZS1fcDg0UHVxZXRrQVVfNSJ9"
+    },
+    {
+      "question": "What are people replacing QuickBooks with?",
+      "type": "ai_overview",
+      "page_token": "gBt7IXicHZDdboIwGECzl_FS-YsLJmYJk6JEca1tgd4s2qIVvwIqE_Fu77Kn2tPM7PrknIvz_QPH6vT7ctNt21wno1HXdcNDXR-gGMrajLbXvpIjuQXYbeVpMn4d2297OQ2_FsH7eRFg1jR8RqyNhTxccYxdvhEQexsaZyRq1ooxdwX6tuSNlpmoFSVUzknwZCyv8rsA3OelavPUziSKzTpquHJ8zdj9VlDOdpH9wBRFKXA7sUnLQzQjJ-6tM3QVyD8WFWQ0RBQ7_ow4dS-M_ZE8-IlxOAs3cXbhome2H5JS3Iu57guDAmVULE2SLjPBlQ0eD5VHHtKlRqWiVNZqrkio1ZnQvM-zwEnDOyy5361nBKsMgYragJP6iNnTKsEwaFBiaaYc6eTga4JER599guCSg9YKiRLjwV7epu7g_-f0c2_aSXOpD39w8IQ8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gBt7IXicHZDdboIwGECzl_FS-YsLJmYJk6JEca1tgd4s2qIVvwIqE_Fu77Kn2tPM7PrknIvz_QPH6vT7ctNt21wno1HXdcNDXR-gGMrajLbXvpIjuQXYbeVpMn4d2297OQ2_FsH7eRFg1jR8RqyNhTxccYxdvhEQexsaZyRq1ooxdwX6tuSNlpmoFSVUzknwZCyv8rsA3OelavPUziSKzTpquHJ8zdj9VlDOdpH9wBRFKXA7sUnLQzQjJ-6tM3QVyD8WFWQ0RBQ7_ow4dS-M_ZE8-IlxOAs3cXbhome2H5JS3Iu57guDAmVULE2SLjPBlQ0eD5VHHtKlRqWiVNZqrkio1ZnQvM-zwEnDOyy5361nBKsMgYragJP6iNnTKsEwaFBiaaYc6eTga4JER599guCSg9YKiRLjwV7epu7g_-f0c2_aSXOpD39w8IQ8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1UaEdabVYwVFhsQlJuRjRZMHRQUW5sWlZWTmpNbEV0VXpKMlVFRlVZWE5zU205T2FHbFBOVm90VG0xalVsTkNSRUprYURkT2NXd3lRamhwVDJWUFYzTklZVUZDZW5Gc1NVbFFRbEF0ZURjMWVIVjVVbEZZVW5aUlVSSVhha1UyTW1Gd2RsaE1aUzFmY0RnMFVIVnhaWFJyUVZVYUlrRkVjM0k1WmxKYVNVSXRRMXA2UW5scWRGVlpVa0oxYWtSMGVuQlVha0V6TUdjIiwiZmN2IjoiMyIsImVpIjoiakU2MmFwdlhMZS1fcDg0UHVxZXRrQVUiLCJxYyI6IkNqQmlaWE4wSUdGalkyOTFiblJwYm1jZ2MyOW1kSGRoY21VZ1ptOXlJR1p5WldWc1lXNWpaU0JrWlhOcFoyNWxjbk1RQUgyUWpoRV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHBlb3BsZSByZXBsYWNpbmcgUXVpY2tCb29rcyB3aXRoPyIsImxrIjoiR2lsM2FHRjBJR0Z5WlNCd1pXOXdiR1VnY21Wd2JHRmphVzVuSUhGMWFXTnJZbTl2YTNNZ2QybDBhQSIsImJzIjoiYzQyUU1RLUNNQkNGNDlySkdUVzVVWEVqY1RSRU4wWW40MWpxSVEzWXE3MGpfSDB0aWVpZ0NmUDdMdTk3cDR6YW5Xc3RZQm1rUmlpUkJiUXgxRG14N2daTWxmUTZJRlFVb0FxSXJYWUdBLWRabXF5bnd1cWkwcUVrWmg3SnR3Z0JmYXROdkRwMTFqUkhvb2FodDFMbjJUYlo5SF9wUjZUTGtWWjd0U3dZRHNVWEV0TUcwUS1hcTJUeG1xYnQ3M3cwRzlXdjlGNmtuVEIwak1OZjdzVHlNWnRDejJkUCIsImlkIjoiZmNfakU2MmFwdlhMZS1fcDg0UHVxZXRrQVVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1UaEdabVYwVFhsQlJuRjRZMHRQUW5sWlZWTmpNbEV0VXpKMlVFRlVZWE5zU205T2FHbFBOVm90VG0xalVsTkNSRUprYURkT2NXd3lRamhwVDJWUFYzTklZVUZDZW5Gc1NVbFFRbEF0ZURjMWVIVjVVbEZZVW5aUlVSSVhha1UyTW1Gd2RsaE1aUzFmY0RnMFVIVnhaWFJyUVZVYUlrRkVjM0k1WmxKYVNVSXRRMXA2UW5scWRGVlpVa0oxYWtSMGVuQlVha0V6TUdjIiwiZmN2IjoiMyIsImVpIjoiakU2MmFwdlhMZS1fcDg0UHVxZXRrQVUiLCJxYyI6IkNqQmlaWE4wSUdGalkyOTFiblJwYm1jZ2MyOW1kSGRoY21VZ1ptOXlJR1p5WldWc1lXNWpaU0JrWlhOcFoyNWxjbk1RQUgyUWpoRV8iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHBlb3BsZSByZXBsYWNpbmcgUXVpY2tCb29rcyB3aXRoPyIsImxrIjoiR2lsM2FHRjBJR0Z5WlNCd1pXOXdiR1VnY21Wd2JHRmphVzVuSUhGMWFXTnJZbTl2YTNNZ2QybDBhQSIsImJzIjoiYzQyUU1RLUNNQkNGNDlySkdUVzVVWEVqY1RSRU4wWW40MWpxSVEzWXE3MGpfSDB0aWVpZ0NmUDdMdTk3cDR6YW5Xc3RZQm1rUmlpUkJiUXgxRG14N2daTWxmUTZJRlFVb0FxSXJYWUdBLWRabXF5bnd1cWkwcUVrWmg3SnR3Z0JmYXROdkRwMTFqUkhvb2FodDFMbjJUYlo5SF9wUjZUTGtWWjd0U3dZRHNVWEV0TUcwUS1hcTJUeG1xYnQ3M3cwRzlXdjlGNmtuVEIwak1OZjdzVHlNWnRDejJkUCIsImlkIjoiZmNfakU2MmFwdlhMZS1fcDg0UHVxZXRrQVVfNSJ9"
+    },
+    {
+      "question": "Is AI replacing bookkeepers?",
+      "type": "ai_overview",
+      "page_token": "-YRfB3icHdDNboIwAADg7GU8CgV00cQsMmiZCV0opUUuC7Qo8lsFBXbbu-yp9jRbdvru39d3fWmrn6e4GAbVbzVtHMfluevOdb4UXaOl_dwKTaR1naWi2q6f1-DlJHZuP9qv3WgHkVLMIXrI8C2h9pwhgHAtLV6RK0eT7VfAl0biiE9cR3xQfjOuMo69vCycP0kUAZ57EOSwgDnDd2JEK1oGc-iwexZhl1Jbl63dHNnmKkFyORow9kFSsWYzSVB7wnkbUrC3mCfvOXdNwiBNY3eWYPPI3SlJ9QK-I_gQABYUqJBQ6AWtWmWuH0JDQVweCuElR4qiITb3FoY2EJzpqQ4Zuhxs4uH5nScUmzKI0NQHDVZMxwZpGRKltKSniCgrI6gGsjiJx85c_I_tPk7NsFW37vwL6F93eg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-YRfB3icHdDNboIwAADg7GU8CgV00cQsMmiZCV0opUUuC7Qo8lsFBXbbu-yp9jRbdvru39d3fWmrn6e4GAbVbzVtHMfluevOdb4UXaOl_dwKTaR1naWi2q6f1-DlJHZuP9qv3WgHkVLMIXrI8C2h9pwhgHAtLV6RK0eT7VfAl0biiE9cR3xQfjOuMo69vCycP0kUAZ57EOSwgDnDd2JEK1oGc-iwexZhl1Jbl63dHNnmKkFyORow9kFSsWYzSVB7wnkbUrC3mCfvOXdNwiBNY3eWYPPI3SlJ9QK-I_gQABYUqJBQ6AWtWmWuH0JDQVweCuElR4qiITb3FoY2EJzpqQ4Zuhxs4uH5nScUmzKI0NQHDVZMxwZpGRKltKSniCgrI6gGsjiJx85c_I_tPk7NsFW37vwL6F93eg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1UaEdabVYwVFhsQlJuRjRZMHRQUW5sWlZWTmpNbEV0VXpKMlVFRlVZWE5zU205T2FHbFBOVm90VG0xalVsTkNSRUprYURkT2NXd3lRamhwVDJWUFYzTklZVUZDZW5Gc1NVbFFRbEF0ZURjMWVIVjVVbEZZVW5aUlVSSVhha1UyTW1Gd2RsaE1aUzFmY0RnMFVIVnhaWFJyUVZVYUlrRkVjM0k1WmxKYVNVSXRRMXA2UW5scWRGVlpVa0oxYWtSMGVuQlVha0V6TUdjIiwiZmN2IjoiMyIsImVpIjoiakU2MmFwdlhMZS1fcDg0UHVxZXRrQVUiLCJxYyI6IkNqQmlaWE4wSUdGalkyOTFiblJwYm1jZ2MyOW1kSGRoY21VZ1ptOXlJR1p5WldWc1lXNWpaU0JrWlhOcFoyNWxjbk1RQUgyUWpoRV8iLCJxdWVzdGlvbiI6IklzIEFJIHJlcGxhY2luZyBib29ra2VlcGVycz8iLCJsayI6IkdodHBjeUJoYVNCeVpYQnNZV05wYm1jZ1ltOXZhMnRsWlhCbGNuTSIsImJzIjoiYzQyUU1RLUNNQkNGNDlySkdUVzVVWEVqY1RSRU4wWW40MWpxSVEzWXE3MGpfSDB0aWVpZ0NmUDdMdTk3cDR6YW5Xc3RZQm1rUmlpUkJiUXgxRG14N2daTWxmUTZJRlFVb0FxSXJYWUdBLWRabXF5bnd1cWkwcUVrWmg3SnR3Z0JmYXROdkRwMTFqUkhvb2FodDFMbjJUYlo5SF9wUjZUTGtWWjd0U3dZRHNVWEV0TUcwUS1hcTJUeG1xYnQ3M3cwRzlXdjlGNmtuVEIwak1OZjdzVHlNWnRDejJkUCIsImlkIjoiZmNfakU2MmFwdlhMZS1fcDg0UHVxZXRrQVVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1UaEdabVYwVFhsQlJuRjRZMHRQUW5sWlZWTmpNbEV0VXpKMlVFRlVZWE5zU205T2FHbFBOVm90VG0xalVsTkNSRUprYURkT2NXd3lRamhwVDJWUFYzTklZVUZDZW5Gc1NVbFFRbEF0ZURjMWVIVjVVbEZZVW5aUlVSSVhha1UyTW1Gd2RsaE1aUzFmY0RnMFVIVnhaWFJyUVZVYUlrRkVjM0k1WmxKYVNVSXRRMXA2UW5scWRGVlpVa0oxYWtSMGVuQlVha0V6TUdjIiwiZmN2IjoiMyIsImVpIjoiakU2MmFwdlhMZS1fcDg0UHVxZXRrQVUiLCJxYyI6IkNqQmlaWE4wSUdGalkyOTFiblJwYm1jZ2MyOW1kSGRoY21VZ1ptOXlJR1p5WldWc1lXNWpaU0JrWlhOcFoyNWxjbk1RQUgyUWpoRV8iLCJxdWVzdGlvbiI6IklzIEFJIHJlcGxhY2luZyBib29ra2VlcGVycz8iLCJsayI6IkdodHBjeUJoYVNCeVpYQnNZV05wYm1jZ1ltOXZhMnRsWlhCbGNuTSIsImJzIjoiYzQyUU1RLUNNQkNGNDlySkdUVzVVWEVqY1RSRU4wWW40MWpxSVEzWXE3MGpfSDB0aWVpZ0NmUDdMdTk3cDR6YW5Xc3RZQm1rUmlpUkJiUXgxRG14N2daTWxmUTZJRlFVb0FxSXJYWUdBLWRabXF5bnd1cWkwcUVrWmg3SnR3Z0JmYXROdkRwMTFqUkhvb2FodDFMbjJUYlo5SF9wUjZUTGtWWjd0U3dZRHNVWEV0TUcwUS1hcTJUeG1xYnQ3M3cwRzlXdjlGNmtuVEIwak1OZjdzVHlNWnRDejJkUCIsImlkIjoiZmNfakU2MmFwdlhMZS1fcDg0UHVxZXRrQVVfNSJ9"
+    },
+    {
+      "question": "What software do accountants use the most?",
+      "type": "ai_overview",
+      "page_token": "jZlV2HicHdBfkpowHADg6WX2cTWw2sEZZ2co_7SCTUh-QF46IUEREqArivLWK_QMPVVP004P8L18P3_rS9f--fSrHsfhulkspml6Pff9WVevsjcLcX12ciGF1qWQ7Wb9eY3eT3Lr36X75UO6mA0DeGSZ5v1KtgDlBeUiqguR7VY4271VNJllruYDG0PVPlakRSnX6oqXPM1aJ05tYGUDB2IRO2ncW0lJiKmeANRXYhWIMs6oxsvKIzdpEoxbJyehukl_OKZaogMoI2gilO_EPNrZMkQiMYml7GGdevuCRnUSz5xgqI_CPHwVsmXsO4MK9ifSgVazCnnLVqTRBMwbgo5T4fG0oC5UOn7IJ1qXoPk_32RdEsC8t_1a_SC0eBa5a2X-Qx_AmY4ewSoPtApHF0h_wYzMstGGMX5Xuo64di0KyTee8SOjPII5IJUhzxQFCOOXk7xv7Zf_19vvJzNuho_-_BelQY2Q",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jZlV2HicHdBfkpowHADg6WX2cTWw2sEZZ2co_7SCTUh-QF46IUEREqArivLWK_QMPVVP004P8L18P3_rS9f--fSrHsfhulkspml6Pff9WVevsjcLcX12ciGF1qWQ7Wb9eY3eT3Lr36X75UO6mA0DeGSZ5v1KtgDlBeUiqguR7VY4271VNJllruYDG0PVPlakRSnX6oqXPM1aJ05tYGUDB2IRO2ncW0lJiKmeANRXYhWIMs6oxsvKIzdpEoxbJyehukl_OKZaogMoI2gilO_EPNrZMkQiMYml7GGdevuCRnUSz5xgqI_CPHwVsmXsO4MK9ifSgVazCnnLVqTRBMwbgo5T4fG0oC5UOn7IJ1qXoPk_32RdEsC8t_1a_SC0eBa5a2X-Qx_AmY4ewSoPtApHF0h_wYzMstGGMX5Xuo64di0KyTee8SOjPII5IJUhzxQFCOOXk7xv7Zf_19vvJzNuho_-_BelQY2Q",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1UaEdabVYwVFhsQlJuRjRZMHRQUW5sWlZWTmpNbEV0VXpKMlVFRlVZWE5zU205T2FHbFBOVm90VG0xalVsTkNSRUprYURkT2NXd3lRamhwVDJWUFYzTklZVUZDZW5Gc1NVbFFRbEF0ZURjMWVIVjVVbEZZVW5aUlVSSVhha1UyTW1Gd2RsaE1aUzFmY0RnMFVIVnhaWFJyUVZVYUlrRkVjM0k1WmxKYVNVSXRRMXA2UW5scWRGVlpVa0oxYWtSMGVuQlVha0V6TUdjIiwiZmN2IjoiMyIsImVpIjoiakU2MmFwdlhMZS1fcDg0UHVxZXRrQVUiLCJxYyI6IkNqQmlaWE4wSUdGalkyOTFiblJwYm1jZ2MyOW1kSGRoY21VZ1ptOXlJR1p5WldWc1lXNWpaU0JrWlhOcFoyNWxjbk1RQUgyUWpoRV8iLCJxdWVzdGlvbiI6IldoYXQgc29mdHdhcmUgZG8gYWNjb3VudGFudHMgdXNlIHRoZSBtb3N0PyIsImxrIjoiR2lsM2FHRjBJSE52Wm5SM1lYSmxJR1J2SUdGalkyOTFiblJoYm5SeklIVnpaU0IwYUdVZ2JXOXpkQSIsImJzIjoiYzQyUU1RLUNNQkNGNDlySkdUVzVVWEVqY1RSRU4wWW40MWpxSVEzWXE3MGpfSDB0aWVpZ0NmUDdMdTk3cDR6YW5Xc3RZQm1rUmlpUkJiUXgxRG14N2daTWxmUTZJRlFVb0FxSXJYWUdBLWRabXF5bnd1cWkwcUVrWmg3SnR3Z0JmYXROdkRwMTFqUkhvb2FodDFMbjJUYlo5SF9wUjZUTGtWWjd0U3dZRHNVWEV0TUcwUS1hcTJUeG1xYnQ3M3cwRzlXdjlGNmtuVEIwak1OZjdzVHlNWnRDejJkUCIsImlkIjoiZmNfakU2MmFwdlhMZS1fcDg0UHVxZXRrQVVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1UaEdabVYwVFhsQlJuRjRZMHRQUW5sWlZWTmpNbEV0VXpKMlVFRlVZWE5zU205T2FHbFBOVm90VG0xalVsTkNSRUprYURkT2NXd3lRamhwVDJWUFYzTklZVUZDZW5Gc1NVbFFRbEF0ZURjMWVIVjVVbEZZVW5aUlVSSVhha1UyTW1Gd2RsaE1aUzFmY0RnMFVIVnhaWFJyUVZVYUlrRkVjM0k1WmxKYVNVSXRRMXA2UW5scWRGVlpVa0oxYWtSMGVuQlVha0V6TUdjIiwiZmN2IjoiMyIsImVpIjoiakU2MmFwdlhMZS1fcDg0UHVxZXRrQVUiLCJxYyI6IkNqQmlaWE4wSUdGalkyOTFiblJwYm1jZ2MyOW1kSGRoY21VZ1ptOXlJR1p5WldWc1lXNWpaU0JrWlhOcFoyNWxjbk1RQUgyUWpoRV8iLCJxdWVzdGlvbiI6IldoYXQgc29mdHdhcmUgZG8gYWNjb3VudGFudHMgdXNlIHRoZSBtb3N0PyIsImxrIjoiR2lsM2FHRjBJSE52Wm5SM1lYSmxJR1J2SUdGalkyOTFiblJoYm5SeklIVnpaU0IwYUdVZ2JXOXpkQSIsImJzIjoiYzQyUU1RLUNNQkNGNDlySkdUVzVVWEVqY1RSRU4wWW40MWpxSVEzWXE3MGpfSDB0aWVpZ0NmUDdMdTk3cDR6YW5Xc3RZQm1rUmlpUkJiUXgxRG14N2daTWxmUTZJRlFVb0FxSXJYWUdBLWRabXF5bnd1cWkwcUVrWmg3SnR3Z0JmYXROdkRwMTFqUkhvb2FodDFMbjJUYlo5SF9wUjZUTGtWWjd0U3dZRHNVWEV0TUcwUS1hcTJUeG1xYnQ3M3cwRzlXdjlGNmtuVEIwak1OZjdzVHlNWnRDejJkUCIsImlkIjoiZmNfakU2MmFwdlhMZS1fcDg0UHVxZXRrQVVfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "r9B6HHiczVXdkqI4FH6AfY7lxm4Ff1rtKmoqxGjjz9jooLY3FoQQUBAbFNS7eZd9qq3ad9mA-NcjTs9cbG2qMMnJOScnyff5ff_LsZeLv__4x1qvV8FzoRBFUZ56HnVIHntuQQt2S1wwPSfwsfVls3GIGOUgkBUZymTYqgu4NAh1e6uO4VadTiwL77Yj3XX46VihamlgGa3RnrMckSy5wNv4mNiGiC3fcwlHHXETcLtQLHE4EHmO2OIcPRW1VTjpksfZqlZ-3byT9QKoXFKGONO1gMxZldt5UJgV2M_iz1KDTfJBnizzrW4kbL1SbTHs5Yt8sZTvFzSXOYD_rElABgqAAFDWoWy_1qeyIRQngsqFicJ06WRpxD6sLdjWrGVuK6WxSKGH-Ea0r0UlNuZPLlFGIfJ10iY9uEs0SQSh_KnjHJuSnkBK5zDbNWMpjeyc65PAeXxn57fr7BQgk0rSOegymJmtq6Ll47NVgFR-BfAFAu_OZgB6oOEqkqyAe1BIPH2oHu--CwR27IJBGXD5gu6zTijY2MLJwA9iPMNvdd5r9tvGbk_DVqO6koZCpfYIlBlx2iW5qxSwzvwcTzOIMbNm_JdkLhSFCl8vVWsPCZFwcGJScMmkXtvV50U_5AUv381LwpFG8HQ_H54FsflNDEgwdb31jlQ620_PhwDtXPh4pzwNBlt6QPoxxFNwPOgdrbWEV-XLvY73zjxu0uijU0yjpBZ0gGe6dBEqgY79Y2jcyjfO-OFSJIDPJRzAJNFTog-XZIOBfDrwNXATgwIpi1LZ5XRpWhI-lxrXPzizIk0kg_ivG9CUwBeFJav0IgCp7Ishj6ACwQAiSQHDNI2SRKB0L2hfvgvIwEJcMgJjdJeg2a35CR9Gm5QvH-B_SRukafO-ikFVRe1wheU3vkqE1_fH0QiC2zTxXP0XFAf_n4h00iPvIAxZRCLx4KdEYqSg9_Qo-TnrUTvuVISyiPSeoPZHPaqdXM56dH0psoQuiZTokUSz9OhXiQSziQTvEqlzi0jyHSLFenRNpMWVHsHbenQi0u_oUfM39SjhFTl01-K0mdNMkWpJzfFwa08nE8fwFv6MhMpSH4yhtQb0pyJluutnVzOch5ltPEvF9npnPMyYwXsmBvcu6iRY5zSMvc1ybS9pLvDMdaT5JGd6fs70CXG0JSY5gwQ2XRI_4FzH90ReKy-jZeXJrERFt4cbVe2rrGsoajba5b3BD741zV7lxXZk6aX_Ve91iiWz6kxg5DRCtFOtkWOXXdMctrebVrdrqON3XAn7--7UBvPqW6n20q0vhv2OEQ6CDlWJt9pi_Ir0CtPmRliZrFuDENW04eil-yRP50DfF5WkrkB8BdudAOvTKOQ518ciw1p5BwYKGFOGR5jglH2MyTBi3xNQkMQFWJuRIBTNcp0n9Wr5STexWREw59L1biWWBS5Y-qLwLxHQYZ0",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=r9B6HHiczVXdkqI4FH6AfY7lxm4Ff1rtKmoqxGjjz9jooLY3FoQQUBAbFNS7eZd9qq3ad9mA-NcjTs9cbG2qMMnJOScnyff5ff_LsZeLv__4x1qvV8FzoRBFUZ56HnVIHntuQQt2S1wwPSfwsfVls3GIGOUgkBUZymTYqgu4NAh1e6uO4VadTiwL77Yj3XX46VihamlgGa3RnrMckSy5wNv4mNiGiC3fcwlHHXETcLtQLHE4EHmO2OIcPRW1VTjpksfZqlZ-3byT9QKoXFKGONO1gMxZldt5UJgV2M_iz1KDTfJBnizzrW4kbL1SbTHs5Yt8sZTvFzSXOYD_rElABgqAAFDWoWy_1qeyIRQngsqFicJ06WRpxD6sLdjWrGVuK6WxSKGH-Ea0r0UlNuZPLlFGIfJ10iY9uEs0SQSh_KnjHJuSnkBK5zDbNWMpjeyc65PAeXxn57fr7BQgk0rSOegymJmtq6Ll47NVgFR-BfAFAu_OZgB6oOEqkqyAe1BIPH2oHu--CwR27IJBGXD5gu6zTijY2MLJwA9iPMNvdd5r9tvGbk_DVqO6koZCpfYIlBlx2iW5qxSwzvwcTzOIMbNm_JdkLhSFCl8vVWsPCZFwcGJScMmkXtvV50U_5AUv381LwpFG8HQ_H54FsflNDEgwdb31jlQ620_PhwDtXPh4pzwNBlt6QPoxxFNwPOgdrbWEV-XLvY73zjxu0uijU0yjpBZ0gGe6dBEqgY79Y2jcyjfO-OFSJIDPJRzAJNFTog-XZIOBfDrwNXATgwIpi1LZ5XRpWhI-lxrXPzizIk0kg_ivG9CUwBeFJav0IgCp7Ishj6ACwQAiSQHDNI2SRKB0L2hfvgvIwEJcMgJjdJeg2a35CR9Gm5QvH-B_SRukafO-ikFVRe1wheU3vkqE1_fH0QiC2zTxXP0XFAf_n4h00iPvIAxZRCLx4KdEYqSg9_Qo-TnrUTvuVISyiPSeoPZHPaqdXM56dH0psoQuiZTokUSz9OhXiQSziQTvEqlzi0jyHSLFenRNpMWVHsHbenQi0u_oUfM39SjhFTl01-K0mdNMkWpJzfFwa08nE8fwFv6MhMpSH4yhtQb0pyJluutnVzOch5ltPEvF9npnPMyYwXsmBvcu6iRY5zSMvc1ybS9pLvDMdaT5JGd6fs70CXG0JSY5gwQ2XRI_4FzH90ReKy-jZeXJrERFt4cbVe2rrGsoajba5b3BD741zV7lxXZk6aX_Ve91iiWz6kxg5DRCtFOtkWOXXdMctrebVrdrqON3XAn7--7UBvPqW6n20q0vhv2OEQ6CDlWJt9pi_Ir0CtPmRliZrFuDENW04eil-yRP50DfF5WkrkB8BdudAOvTKOQ518ciw1p5BwYKGFOGR5jglH2MyTBi3xNQkMQFWJuRIBTNcp0n9Wr5STexWREw59L1biWWBS5Y-qLwLxHQYZ0"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best Accounting Software for Startups in 2025 - Inkle",
+      "link": "https://www.inkle.ai/blog/best-accounting-software-for-startups",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVqia71i-X7VBiMQtWmeORFiZ1In9y53hZwwFYpBNccQidQIHhgISYN0WZ_jwJ9tyr9u9KkvzHD_h7X5YG1AR5GTRsL7ixj6h7Pc0BTfmLXxTDXGiQsU3R56emWpqZG7X2tAjQunyeWYatrEtxqaUAwMgN&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://www.inkle.ai › blog › best-accounting-software-...",
+      "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAACwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmfs3DlZMPRIIkAW_-ty-gaedG6zBwfcjgGdxkfPoKcAAD-9gtewexb-g-i_zFREJwBjbUOCHhTDJxXqXhgdWeQicX8zi7Zy8uEgc1oaxZZs95TFzLd6-ptwJzUm326qU-kPEV_4ZdIyKw8FqPhOIc_3DljbEPdjLIWMBkClUgoa1YxDVUlS8aagfmVqIAEOB3Uln9zXvZueoQ1-SjVVyiadi0QcHoeKXYQtxBEuX_tBx_H_P8N8rP_FiAlH_1fhS7-acFL9nJIs78G3MKEscZTk4VsGdltAwFjltv5FEvRfN4z0Of9ZEWih8Qr5nnHt6S1SCav_POriPuJ4c9vbus1T1kBQ_3yWZXbbf2tmB1SBx47AAA.webp",
+      "date": "Dec 25, 2024",
+      "snippet": "FreshBooks is intuitive accounting software that focuses on simplicity and time-saving features. It caters primarily to freelancers and service- ...",
+      "snippet_highlighted_words": [
+        "FreshBooks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "FreshBooks is intuitive accounting software that focuses on simplicity and time-saving features. It caters primarily to freelancers and service- ...",
+          "source_info_link": "https://www.inkle.ai/blog/best-accounting-software-for-startups",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAACwBgCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmfs3DlZMPRIIkAW_-ty-gaedG6zBwfcjgGdxkfPoKcAAD-9gtewexb-g-i_zFREJwBjbUOCHhTDJxXqXhgdWeQicX8zi7Zy8uEgc1oaxZZs95TFzLd6-ptwJzUm326qU-kPEV_4ZdIyKw8FqPhOIc_3DljbEPdjLIWMBkClUgoa1YxDVUlS8aagfmVqIAEOB3Uln9zXvZueoQ1-SjVVyiadi0QcHoeKXYQtxBEuX_tBx_H_P8N8rP_FiAlH_1fhS7-acFL9nJIs78G3MKEscZTk4VsGdltAwFjltv5FEvRfN4z0Of9ZEWih8Qr5nnHt6S1SCav_POriPuJ4c9vbus1T1kBQ_3yWZXbbf2tmB1SBx47AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVnFpYTcxaS1YN1ZCaU1RdFdtZU9SRmlaMUluOXk1M2had3dGWXBCTmNjUWlkUUlIaGdJU1lOMFdaX2p3Sjl0eXI5dTlLa3Z6SERfaDdYNVlHMUFSNUdUUnNMN2l4ajZoN1BjMEJUZm1MWHhURFhHaVFzVTNSNTZlbVdwcVpHN1gydEFqUXVueWVXWWF0ckV0eHFhVUF3TWdOEgQaAggAGsQGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAngYIABAAGAAgACooCgRiZXN0FUDitj8aA3RvcBoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZSpWCgphY2NvdW50aW5nFWB0hUAaCmFjY291bnRhbnQaC2Jvb2trZWVwaW5nGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlGhJhY2NvdW50aW5nc29mdHdhcmUqRAoIc29mdHdhcmUV1LckQBoHcHJvZ3JhbRoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZRoSYWNjb3VudGluZ3NvZnR3YXJlKgoKA2ZvchUAAAAAKlwKCWZyZWVsYW5jZRWbAR0-GgpmcmVlbGFuY2VyGgtmcmVlbGFuY2VycxoNc2VsZiBlbXBsb3llZBoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2ZyZWVsYW5jZSpGCglkZXNpZ25lcnMVAAAAABoGZGVzaWduGghkZXNpZ25lchoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2Rlc2lnbmVyczKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZxaWE3MWktWDdWQmlNUXRXbWVPUkZpWjFJbjl5NTNoWnd3RllwQk5jY1FpZFFJSGhnSVNZTjBXWl9qd0o5dHlyOXU5S2t2ekhEX2g3WDVZRzFBUjVHVFJzTDdpeGo2aDdQYzBCVGZtTFh4VERYR2lRc1UzUjU2ZW1XcHFaRzdYMnRBalF1bnllV1lhdHJFdHhxYVVBd01nTjo8PGI-QmVzdCBBY2NvdW50aW5nIFNvZnR3YXJlPC9iPiBmb3IgU3RhcnR1cHMgaW4gMjAyNSAtIElua2xlQqABPGI-RnJlc2hCb29rczwvYj4gaXMgaW50dWl0aXZlIGFjY291bnRpbmcgc29mdHdhcmUgdGhhdCBmb2N1c2VzIG9uIHNpbXBsaWNpdHkgYW5kIHRpbWUtc2F2aW5nIGZlYXR1cmVzLiBJdCBjYXRlcnMgcHJpbWFyaWx5IHRvIGZyZWVsYW5jZXJzIGFuZCBzZXJ2aWNlLSZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVnFpYTcxaS1YN1ZCaU1RdFdtZU9SRmlaMUluOXk1M2had3dGWXBCTmNjUWlkUUlIaGdJU1lOMFdaX2p3Sjl0eXI5dTlLa3Z6SERfaDdYNVlHMUFSNUdUUnNMN2l4ajZoN1BjMEJUZm1MWHhURFhHaVFzVTNSNTZlbVdwcVpHN1gydEFqUXVueWVXWWF0ckV0eHFhVUF3TWdOEgQaAggAGsQGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAngYIABAAGAAgACooCgRiZXN0FUDitj8aA3RvcBoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZSpWCgphY2NvdW50aW5nFWB0hUAaCmFjY291bnRhbnQaC2Jvb2trZWVwaW5nGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlGhJhY2NvdW50aW5nc29mdHdhcmUqRAoIc29mdHdhcmUV1LckQBoHcHJvZ3JhbRoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZRoSYWNjb3VudGluZ3NvZnR3YXJlKgoKA2ZvchUAAAAAKlwKCWZyZWVsYW5jZRWbAR0-GgpmcmVlbGFuY2VyGgtmcmVlbGFuY2VycxoNc2VsZiBlbXBsb3llZBoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2ZyZWVsYW5jZSpGCglkZXNpZ25lcnMVAAAAABoGZGVzaWduGghkZXNpZ25lchoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2Rlc2lnbmVyczKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZxaWE3MWktWDdWQmlNUXRXbWVPUkZpWjFJbjl5NTNoWnd3RllwQk5jY1FpZFFJSGhnSVNZTjBXWl9qd0o5dHlyOXU5S2t2ekhEX2g3WDVZRzFBUjVHVFJzTDdpeGo2aDdQYzBCVGZtTFh4VERYR2lRc1UzUjU2ZW1XcHFaRzdYMnRBalF1bnllV1lhdHJFdHhxYVVBd01nTjo8PGI-QmVzdCBBY2NvdW50aW5nIFNvZnR3YXJlPC9iPiBmb3IgU3RhcnR1cHMgaW4gMjAyNSAtIElua2xlQqABPGI-RnJlc2hCb29rczwvYj4gaXMgaW50dWl0aXZlIGFjY291bnRpbmcgc29mdHdhcmUgdGhhdCBmb2N1c2VzIG9uIHNpbXBsaWNpdHkgYW5kIHRpbWUtc2F2aW5nIGZlYXR1cmVzLiBJdCBjYXRlcnMgcHJpbWFyaWx5IHRvIGZyZWVsYW5jZXJzIGFuZCBzZXJ2aWNlLSZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "inkle.ai",
+      "read_more_link": "https://www.inkle.ai/blog/best-accounting-software-for-startups#:~:text=FreshBooks%20is%20intuitive%20accounting%20software,to%20freelancers%20and%20service%2Dbased%20startups."
+    },
+    {
+      "position": 2,
+      "title": "Pie Tax: The Top Freelancer Accounting Software of 2024",
+      "link": "https://www.pie.tax/tax-pible/pie-tax-the-top-freelancer-accounting-software-2024",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFRRbKJFFB1VnM3T31wTWISlSsaG4lI3TN6X_imTBna1qFR4gdMVwVMbePslODhcPcZL6WiGOjCRQfZHodPRcGQUcdZ24L4iGM2vOsEQSFGSb92jhxkK542S8i4RKRZlazfuprkqtQv5-e67oqaChJgeHMQGUKlwDuqgtX4_K9aKSINeZhw&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://www.pie.tax › tax-pible › pie-tax-the-top-freelan...",
+      "favicon": "https://serpapi.com/images/i/UklGRkwBAABXRUJQVlA4IEABAADQBgCdASocABwAPtEwtFooIigoGAEAGglsAJ0y4JgDeAN5QIjsW_-MZ0rMs0rfKOV9WaHABlsLOQ-9CslDwAAA_vYTzXNCSh7XXmnboHTsw7lPwn7-yhS_iwAvxnP2GNxNMWqfQiOf_RNwVvPBtLfr3xUFcj1CoYg_2B4D6yCKqbxPi3tjXQEc_NwnsrWbA9dqgxjNNy0RY76DdK9VAYvzYRp8H9_FnL2_rKiP17ZTLbZSfte89aMi_-TkCcdQCDajXZlAcyf91b5T7b67vXl_pOjuxyM_HiJ2pFX9D8jYW0NOzKFr0RuEoWiCOHZVbH_agOwEqqBmd6e3qf3A53subIlUrALPSj4o-nsR2nMdbHMcLip9q0vBCcJ59qXCqthQ-X1kLyfSRkDwnNgDA2fjzIDEVkERESTrM4FCXvpYAA.webp",
+      "snippet": "We'll be exploring the following software: Pie; Zoho Books; FreshBooks; QuickBooks Online; Xero. Here is a quick overview of their features and prices:.",
+      "snippet_highlighted_words": [
+        "Pie"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We'll be exploring the following software: Pie; Zoho Books; FreshBooks; QuickBooks Online; Xero. Here is a quick overview of their features and prices:.",
+          "source_info_link": "https://www.pie.tax/tax-pible/pie-tax-the-top-freelancer-accounting-software-2024",
+          "icon": "https://serpapi.com/images/i/UklGRkwBAABXRUJQVlA4IEABAADQBgCdASocABwAPtEwtFooIigoGAEAGglsAJ0y4JgDeAN5QIjsW_-MZ0rMs0rfKOV9WaHABlsLOQ-9CslDwAAA_vYTzXNCSh7XXmnboHTsw7lPwn7-yhS_iwAvxnP2GNxNMWqfQiOf_RNwVvPBtLfr3xUFcj1CoYg_2B4D6yCKqbxPi3tjXQEc_NwnsrWbA9dqgxjNNy0RY76DdK9VAYvzYRp8H9_FnL2_rKiP17ZTLbZSfte89aMi_-TkCcdQCDajXZlAcyf91b5T7b67vXl_pOjuxyM_HiJ2pFX9D8jYW0NOzKFr0RuEoWiCOHZVbH_agOwEqqBmd6e3qf3A53subIlUrALPSj4o-nsR2nMdbHMcLip9q0vBCcJ59qXCqthQ-X1kLyfSRkDwnNgDA2fjzIDEVkERESTrM4FCXvpYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZSUmJLSkZGQjFWbk0zVDMxd1RXSVNsU3NhRzRsSTNUTjZYX2ltVEJuYTFxRlI0Z2RNVndWTWJlUHNsT0RoY1BjWkw2V2lHT2pDUlFmWkhvZFBSY0dRVWNkWjI0TDRpR00ydk9zRVFTRkdTYjkyamh4a0s1NDJTOGk0UktSWmxhemZ1cHJrcXRRdjUtZTY3b3FhQ2hKZ2VITVFHVUtsd0R1cWd0WDRfSzlhS1NJTmVaaHcSBBoCCAAa4QYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAvQYIABAAGAAgACooCgRiZXN0FVn15j8aA3RvcBoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZSpWCgphY2NvdW50aW5nFb6-1EAaCmFjY291bnRhbnQaC2Jvb2trZWVwaW5nGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlGhJhY2NvdW50aW5nc29mdHdhcmUqRAoIc29mdHdhcmUVdNHSQBoHcHJvZ3JhbRoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZRoSYWNjb3VudGluZ3NvZnR3YXJlKgoKA2ZvchUAAAAAKlwKCWZyZWVsYW5jZRXqZyhAGgpmcmVlbGFuY2VyGgtmcmVlbGFuY2VycxoNc2VsZiBlbXBsb3llZBoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2ZyZWVsYW5jZSpGCglkZXNpZ25lcnMVAAAAABoGZGVzaWduGghkZXNpZ25lchoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2Rlc2lnbmVyczLIAS9nb3RvP3VybD1DQUVTaVFFQjZ6c3dGUlJiS0pGRkIxVm5NM1QzMXdUV0lTbFNzYUc0bEkzVE42WF9pbVRCbmExcUZSNGdkTVZ3Vk1iZVBzbE9EaGNQY1pMNldpR09qQ1JRZlpIb2RQUmNHUVVjZFoyNEw0aUdNMnZPc0VRU0ZHU2I5MmpoeGtLNTQyUzhpNFJLUlpsYXpmdXBya3F0UXY1LWU2N29xYUNoSmdlSE1RR1VLbHdEdXFndFg0X0s5YUtTSU5lWmh3Oj5QaWUgVGF4OiBUaGUgPGI-VG9wIEZyZWVsYW5jZXIgQWNjb3VudGluZyBTb2Z0d2FyZTwvYj4gb2YgMjAyNEKjAVdlJiMzOTtsbCBiZSBleHBsb3JpbmcgdGhlIGZvbGxvd2luZyBzb2Z0d2FyZTogPGI-UGllPC9iPjsgWm9obyBCb29rczsgRnJlc2hCb29rczsgUXVpY2tCb29rcyBPbmxpbmU7IFhlcm8uIEhlcmUgaXMgYSBxdWljayBvdmVydmlldyBvZiB0aGVpciBmZWF0dXJlcyBhbmQgcHJpY2VzOi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZSUmJLSkZGQjFWbk0zVDMxd1RXSVNsU3NhRzRsSTNUTjZYX2ltVEJuYTFxRlI0Z2RNVndWTWJlUHNsT0RoY1BjWkw2V2lHT2pDUlFmWkhvZFBSY0dRVWNkWjI0TDRpR00ydk9zRVFTRkdTYjkyamh4a0s1NDJTOGk0UktSWmxhemZ1cHJrcXRRdjUtZTY3b3FhQ2hKZ2VITVFHVUtsd0R1cWd0WDRfSzlhS1NJTmVaaHcSBBoCCAAa4QYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAvQYIABAAGAAgACooCgRiZXN0FVn15j8aA3RvcBoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZSpWCgphY2NvdW50aW5nFb6-1EAaCmFjY291bnRhbnQaC2Jvb2trZWVwaW5nGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlGhJhY2NvdW50aW5nc29mdHdhcmUqRAoIc29mdHdhcmUVdNHSQBoHcHJvZ3JhbRoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZRoSYWNjb3VudGluZ3NvZnR3YXJlKgoKA2ZvchUAAAAAKlwKCWZyZWVsYW5jZRXqZyhAGgpmcmVlbGFuY2VyGgtmcmVlbGFuY2VycxoNc2VsZiBlbXBsb3llZBoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2ZyZWVsYW5jZSpGCglkZXNpZ25lcnMVAAAAABoGZGVzaWduGghkZXNpZ25lchoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2Rlc2lnbmVyczLIAS9nb3RvP3VybD1DQUVTaVFFQjZ6c3dGUlJiS0pGRkIxVm5NM1QzMXdUV0lTbFNzYUc0bEkzVE42WF9pbVRCbmExcUZSNGdkTVZ3Vk1iZVBzbE9EaGNQY1pMNldpR09qQ1JRZlpIb2RQUmNHUVVjZFoyNEw0aUdNMnZPc0VRU0ZHU2I5MmpoeGtLNTQyUzhpNFJLUlpsYXpmdXBya3F0UXY1LWU2N29xYUNoSmdlSE1RR1VLbHdEdXFndFg0X0s5YUtTSU5lWmh3Oj5QaWUgVGF4OiBUaGUgPGI-VG9wIEZyZWVsYW5jZXIgQWNjb3VudGluZyBTb2Z0d2FyZTwvYj4gb2YgMjAyNEKjAVdlJiMzOTtsbCBiZSBleHBsb3JpbmcgdGhlIGZvbGxvd2luZyBzb2Z0d2FyZTogPGI-UGllPC9iPjsgWm9obyBCb29rczsgRnJlc2hCb29rczsgUXVpY2tCb29rcyBPbmxpbmU7IFhlcm8uIEhlcmUgaXMgYSBxdWljayBvdmVydmlldyBvZiB0aGVpciBmZWF0dXJlcyBhbmQgcHJpY2VzOi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Pie Tax App",
+      "read_more_link": "https://www.pie.tax/tax-pible/pie-tax-the-top-freelancer-accounting-software-2024#:~:text=We'll%20be%20exploring%20the%20following,of%20their%20features%20and%20prices%3A"
+    },
+    {
+      "position": 3,
+      "title": "Freelance Bookkeeping Software: 7 Ways to Manage ...",
+      "link": "https://www.meruaccounting.com/freelance-bookkeeping-software-receipts/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVJxd1l5G1TKgYgKj4x2BJ1WJVTDBN1jUBiYuG_RchocgViKCxL0ay4FN0FW0OkwQKFaBPQcrAikWOV21bLKIYpSGDaSiKVXRnSgX0LHarb6kTgI7Ntu0M6tMUmNAs9-A6qHuK9qNNJei7SLeo23jCedUx_zP3JvUcKgU&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://www.meruaccounting.com › Accounting",
+      "favicon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAABwBgCdASogAB0APtEutFooIagoGAEAGglsAJ0yhHAwq_g8IAegB0oAGpzOCf29t9I6gpoupMuQ63u91sAA_uKNjburBAkZ0kjJCvhk2Gb9Ybl6erRE7EErbR6MVnSTwq3Crvp8Gh3brHA5zP1hE_allPUnBt78vg0Zbp1piKp5Rs_Yv58bJ6DaGYZnXFyWy8qIYAE7Sff6_s_vgH546pXzfgNtddEgsSUuzjr7tuoCJi_t6QeVzg7NvQ6zDVHWOMjkGuK0Vs4m6Xah_0-yeBlguOQjj66NAFp2796C3yfyb8N1P1kmmZanR-AAAA.webp",
+      "date": "Sep 11, 2026",
+      "snippet": "Freelance bookkeeping software is a digital tool that helps self-employed people track income, costs, bank activity, and other book data.",
+      "snippet_highlighted_words": [
+        "Freelance bookkeeping software"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Freelance bookkeeping software is a digital tool that helps self-employed people track income, costs, bank activity, and other book data.",
+          "source_info_link": "https://www.meruaccounting.com/freelance-bookkeeping-software-receipts/",
+          "icon": "https://serpapi.com/images/i/UklGRvgAAABXRUJQVlA4IOwAAABwBgCdASogAB0APtEutFooIagoGAEAGglsAJ0yhHAwq_g8IAegB0oAGpzOCf29t9I6gpoupMuQ63u91sAA_uKNjburBAkZ0kjJCvhk2Gb9Ybl6erRE7EErbR6MVnSTwq3Crvp8Gh3brHA5zP1hE_allPUnBt78vg0Zbp1piKp5Rs_Yv58bJ6DaGYZnXFyWy8qIYAE7Sff6_s_vgH546pXzfgNtddEgsSUuzjr7tuoCJi_t6QeVzg7NvQ6zDVHWOMjkGuK0Vs4m6Xah_0-yeBlguOQjj66NAFp2796C3yfyb8N1P1kmmZanR-AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkp4ZDFsNUcxVEtnWWdLajR4MkJKMVdKVlREQk4xalVCaVl1R19SY2hvY2dWaUtDeEwwYXk0Rk4wRlcwT2t3UUtGYUJQUWNyQWlrV09WMjFiTEtJWXBTR0RhU2lLVlhSblNnWDBMSGFyYjZrVGdJN050dTBNNnRNVW1OQXM5LUE2cUh1SzlxTk5KZWk3U0xlbzIzakNlZFV4X3pQM0p2VWNLZ1USBBoCCAAawQYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnQYIABAAGAAgACooCgRiZXN0FQnfvz8aA3RvcBoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZSpWCgphY2NvdW50aW5nFVVaXUAaCmFjY291bnRhbnQaC2Jvb2trZWVwaW5nGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlGhJhY2NvdW50aW5nc29mdHdhcmUqRAoIc29mdHdhcmUVT_TLQBoHcHJvZ3JhbRoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZRoSYWNjb3VudGluZ3NvZnR3YXJlKgoKA2ZvchUAAAAAKlwKCWZyZWVsYW5jZRWMyLtAGgpmcmVlbGFuY2VyGgtmcmVlbGFuY2VycxoNc2VsZiBlbXBsb3llZBoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2ZyZWVsYW5jZSpGCglkZXNpZ25lcnMVAAAAABoGZGVzaWduGghkZXNpZ25lchoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2Rlc2lnbmVyczK5AS9nb3RvP3VybD1DQUVTZndIck96QVZKeGQxbDVHMVRLZ1lnS2o0eDJCSjFXSlZUREJOMWpVQmlZdUdfUmNob2NnVmlLQ3hMMGF5NEZOMEZXME9rd1FLRmFCUFFjckFpa1dPVjIxYkxLSVlwU0dEYVNpS1ZYUm5TZ1gwTEhhcmI2a1RnSTdOdHUwTTZ0TVVtTkFzOS1BNnFIdUs5cU5OSmVpN1NMZW8yM2pDZWRVeF96UDNKdlVjS2dVOkA8Yj5GcmVlbGFuY2UgQm9va2tlZXBpbmcgU29mdHdhcmU8L2I-OiA3IFdheXMgdG8gTWFuYWdlIFJlY2VpcHRzQpABPGI-RnJlZWxhbmNlIGJvb2trZWVwaW5nIHNvZnR3YXJlPC9iPiBpcyBhIGRpZ2l0YWwgdG9vbCB0aGF0IGhlbHBzIHNlbGYtZW1wbG95ZWQgcGVvcGxlIHRyYWNrIGluY29tZSwgY29zdHMsIGJhbmsgYWN0aXZpdHksIGFuZCBvdGhlciBib29rIGRhdGEuSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVkp4ZDFsNUcxVEtnWWdLajR4MkJKMVdKVlREQk4xalVCaVl1R19SY2hvY2dWaUtDeEwwYXk0Rk4wRlcwT2t3UUtGYUJQUWNyQWlrV09WMjFiTEtJWXBTR0RhU2lLVlhSblNnWDBMSGFyYjZrVGdJN050dTBNNnRNVW1OQXM5LUE2cUh1SzlxTk5KZWk3U0xlbzIzakNlZFV4X3pQM0p2VWNLZ1USBBoCCAAawQYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAnQYIABAAGAAgACooCgRiZXN0FQnfvz8aA3RvcBoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZSpWCgphY2NvdW50aW5nFVVaXUAaCmFjY291bnRhbnQaC2Jvb2trZWVwaW5nGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlGhJhY2NvdW50aW5nc29mdHdhcmUqRAoIc29mdHdhcmUVT_TLQBoHcHJvZ3JhbRoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZRoSYWNjb3VudGluZ3NvZnR3YXJlKgoKA2ZvchUAAAAAKlwKCWZyZWVsYW5jZRWMyLtAGgpmcmVlbGFuY2VyGgtmcmVlbGFuY2VycxoNc2VsZiBlbXBsb3llZBoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2ZyZWVsYW5jZSpGCglkZXNpZ25lcnMVAAAAABoGZGVzaWduGghkZXNpZ25lchoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2Rlc2lnbmVyczK5AS9nb3RvP3VybD1DQUVTZndIck96QVZKeGQxbDVHMVRLZ1lnS2o0eDJCSjFXSlZUREJOMWpVQmlZdUdfUmNob2NnVmlLQ3hMMGF5NEZOMEZXME9rd1FLRmFCUFFjckFpa1dPVjIxYkxLSVlwU0dEYVNpS1ZYUm5TZ1gwTEhhcmI2a1RnSTdOdHUwTTZ0TVVtTkFzOS1BNnFIdUs5cU5OSmVpN1NMZW8yM2pDZWRVeF96UDNKdlVjS2dVOkA8Yj5GcmVlbGFuY2UgQm9va2tlZXBpbmcgU29mdHdhcmU8L2I-OiA3IFdheXMgdG8gTWFuYWdlIFJlY2VpcHRzQpABPGI-RnJlZWxhbmNlIGJvb2trZWVwaW5nIHNvZnR3YXJlPC9iPiBpcyBhIGRpZ2l0YWwgdG9vbCB0aGF0IGhlbHBzIHNlbGYtZW1wbG95ZWQgcGVvcGxlIHRyYWNrIGluY29tZSwgY29zdHMsIGJhbmsgYWN0aXZpdHksIGFuZCBvdGhlciBib29rIGRhdGEuSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "Meru Accounting",
+      "read_more_link": "https://www.meruaccounting.com/freelance-bookkeeping-software-receipts/#:~:text=Freelance%20bookkeeping%20software%20is%20a,activity%2C%20and%20other%20book%20data."
+    },
+    {
+      "position": 4,
+      "title": "Online Bookkeeping Options for Freelancers Working Remotely",
+      "link": "https://nomadexcel.co/online-bookkeeping-options-for-freelancers/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAV2UktzYoIEwRVNN5VpG7khc193ZjyukuJrntMCew_9w98-rhrG0dP0pNmIEUtWWisVvI0kffNTspT1NcSKqfCPySRh2lFg82HKAxkzQtA-81x4x7g_CxilrNsc_J_72ELPJGyDApH1aC3_NF4PxtAEP8ZJ3c&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQFnoECD4QAQ&uoh=1",
+      "displayed_link": "https://nomadexcel.co › Blog",
+      "favicon": "https://serpapi.com/images/i/UklGRq4BAABXRUJQVlA4IKIBAAAwCACdASocABwAPtEutFooIagoGAEAGglsAKkNprbAbgDeOd5pX4K0FAB7SvozgADfb1z8XearMXGiDfYjDo3T5u3nOpMuHS7bAAD-9gfCzyNxjNO6CXukyVgxrxEYPNf8Ml-AcEba5l0BQJewf42_RLQe3XkU_8nx9FZbsS5Q5c0qT0UHJHOhv_OjpvFs8iNjYhHHSP33N5Hr1wU9ifRxfRQOhQtGEUKd0P2wBMcDgydmPWnwP25uqMzXaHwcLDXX6gpZPdSafbs0b6qaYlX_X2Mko7XtkezebXK_lMEPpHi98uf14NRDITS0UQf3cuUMDi8hXTCAeFTcDxQw4FtHUpLdbhfAHfiPn4bW_S3TaJoF94euL-EmPms8eAZh_ofnD_6h0e-N0PDM06ppfqo14UFUFdBakeL1zPCmacNkJKzpT1-MzrHbkL_F-38pCIu_tcWWWimq7dNldtwONphKUxClSL1U8mmbphcB-Vkf8ffNb9Y3oP1jhnW9TrV7ZYbS2v-jpAy5pfDmL8wcrNRHBf8UBgySFOP1_VwSMY_NmaAA.webp",
+      "date": "Aug 4, 2025",
+      "snippet": "Top 5 Bookkeeping Tools Reviewed · QuickBooks Online: The Industry Standard · Xero: The User-Friendly Alternative · FreshBooks: Built for Service ...",
+      "snippet_highlighted_words": [
+        "QuickBooks Online: The Industry Standard"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Top 5 Bookkeeping Tools Reviewed · QuickBooks Online: The Industry Standard · Xero: The User-Friendly Alternative · FreshBooks: Built for Service ...",
+          "source_info_link": "https://nomadexcel.co/online-bookkeeping-options-for-freelancers/",
+          "icon": "https://serpapi.com/images/i/UklGRq4BAABXRUJQVlA4IKIBAAAwCACdASocABwAPtEutFooIagoGAEAGglsAKkNprbAbgDeOd5pX4K0FAB7SvozgADfb1z8XearMXGiDfYjDo3T5u3nOpMuHS7bAAD-9gfCzyNxjNO6CXukyVgxrxEYPNf8Ml-AcEba5l0BQJewf42_RLQe3XkU_8nx9FZbsS5Q5c0qT0UHJHOhv_OjpvFs8iNjYhHHSP33N5Hr1wU9ifRxfRQOhQtGEUKd0P2wBMcDgydmPWnwP25uqMzXaHwcLDXX6gpZPdSafbs0b6qaYlX_X2Mko7XtkezebXK_lMEPpHi98uf14NRDITS0UQf3cuUMDi8hXTCAeFTcDxQw4FtHUpLdbhfAHfiPn4bW_S3TaJoF94euL-EmPms8eAZh_ofnD_6h0e-N0PDM06ppfqo14UFUFdBakeL1zPCmacNkJKzpT1-MzrHbkL_F-38pCIu_tcWWWimq7dNldtwONphKUxClSL1U8mmbphcB-Vkf8ffNb9Y3oP1jhnW9TrV7ZYbS2v-jpAy5pfDmL8wcrNRHBf8UBgySFOP1_VwSMY_NmaAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVjJVa3R6WW9JRXdSVk5ONVZwRzdraGMxOTNaanl1a3VKcm50TUNld185dzk4LXJockcwZFAwcE5tSUVVdFdXaXNWdkkwa2ZmTlRzcFQxTmNTS3FmQ1B5U1JoMmxGZzgySEtBeGt6UXRBLTgxeDR4N2dfQ3hpbHJOc2NfSl83MkVMUEpHeURBcEgxYUMzX05GNFB4dEFFUDhaSjNjEgQaAggAGuoGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxAYIABAAGAAgACooCgRiZXN0FcQwTD8aA3RvcBoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZSpWCgphY2NvdW50aW5nFWfwWD8aCmFjY291bnRhbnQaC2Jvb2trZWVwaW5nGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlGhJhY2NvdW50aW5nc29mdHdhcmUqRAoIc29mdHdhcmUVtH-fPxoHcHJvZ3JhbRoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZRoSYWNjb3VudGluZ3NvZnR3YXJlKgoKA2ZvchUAAAAAKlwKCWZyZWVsYW5jZRVAu3Y_GgpmcmVlbGFuY2VyGgtmcmVlbGFuY2VycxoNc2VsZiBlbXBsb3llZBoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2ZyZWVsYW5jZSpGCglkZXNpZ25lcnMVJ3x_PRoGZGVzaWduGghkZXNpZ25lchoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2Rlc2lnbmVyczKxAS9nb3RvP3VybD1DQUVTZVFIck96QVYyVWt0ellvSUV3UlZOTjVWcEc3a2hjMTkzWmp5dWt1SnJudE1DZXdfOXc5OC1yaHJHMGRQMHBObUlFVXRXV2lzVnZJMGtmZk5Uc3BUMU5jU0txZkNQeVNSaDJsRmc4MkhLQXhrelF0QS04MXg0eDdnX0N4aWxyTnNjX0pfNzJFTFBKR3lEQXBIMWFDM19ORjRQeHRBRVA4WkozYzpJT25saW5lIDxiPkJvb2trZWVwaW5nPC9iPiBPcHRpb25zIGZvciA8Yj5GcmVlbGFuY2VyczwvYj4gV29ya2luZyBSZW1vdGVseUK2AVRvcCA1IEJvb2trZWVwaW5nIFRvb2xzIFJldmlld2VkICZtaWRkb3Q7IDxiPlF1aWNrQm9va3MgT25saW5lOiBUaGUgSW5kdXN0cnkgU3RhbmRhcmQ8L2I-ICZtaWRkb3Q7IFhlcm86IFRoZSBVc2VyLUZyaWVuZGx5IEFsdGVybmF0aXZlICZtaWRkb3Q7IEZyZXNoQm9va3M6IEJ1aWx0IGZvciBTZXJ2aWNlJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVjJVa3R6WW9JRXdSVk5ONVZwRzdraGMxOTNaanl1a3VKcm50TUNld185dzk4LXJockcwZFAwcE5tSUVVdFdXaXNWdkkwa2ZmTlRzcFQxTmNTS3FmQ1B5U1JoMmxGZzgySEtBeGt6UXRBLTgxeDR4N2dfQ3hpbHJOc2NfSl83MkVMUEpHeURBcEgxYUMzX05GNFB4dEFFUDhaSjNjEgQaAggAGuoGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxAYIABAAGAAgACooCgRiZXN0FcQwTD8aA3RvcBoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZSpWCgphY2NvdW50aW5nFWfwWD8aCmFjY291bnRhbnQaC2Jvb2trZWVwaW5nGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlGhJhY2NvdW50aW5nc29mdHdhcmUqRAoIc29mdHdhcmUVtH-fPxoHcHJvZ3JhbRoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZRoSYWNjb3VudGluZ3NvZnR3YXJlKgoKA2ZvchUAAAAAKlwKCWZyZWVsYW5jZRVAu3Y_GgpmcmVlbGFuY2VyGgtmcmVlbGFuY2VycxoNc2VsZiBlbXBsb3llZBoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2ZyZWVsYW5jZSpGCglkZXNpZ25lcnMVJ3x_PRoGZGVzaWduGghkZXNpZ25lchoSZnJlZWxhbmNlZGVzaWduZXJzGg5pdjtwO2Rlc2lnbmVyczKxAS9nb3RvP3VybD1DQUVTZVFIck96QVYyVWt0ellvSUV3UlZOTjVWcEc3a2hjMTkzWmp5dWt1SnJudE1DZXdfOXc5OC1yaHJHMGRQMHBObUlFVXRXV2lzVnZJMGtmZk5Uc3BUMU5jU0txZkNQeVNSaDJsRmc4MkhLQXhrelF0QS04MXg0eDdnX0N4aWxyTnNjX0pfNzJFTFBKR3lEQXBIMWFDM19ORjRQeHRBRVA4WkozYzpJT25saW5lIDxiPkJvb2trZWVwaW5nPC9iPiBPcHRpb25zIGZvciA8Yj5GcmVlbGFuY2VyczwvYj4gV29ya2luZyBSZW1vdGVseUK2AVRvcCA1IEJvb2trZWVwaW5nIFRvb2xzIFJldmlld2VkICZtaWRkb3Q7IDxiPlF1aWNrQm9va3MgT25saW5lOiBUaGUgSW5kdXN0cnkgU3RhbmRhcmQ8L2I-ICZtaWRkb3Q7IFhlcm86IFRoZSBVc2VyLUZyaWVuZGx5IEFsdGVybmF0aXZlICZtaWRkb3Q7IEZyZXNoQm9va3M6IEJ1aWx0IGZvciBTZXJ2aWNlJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "nomadexcel.co",
+      "read_more_link": "https://nomadexcel.co/online-bookkeeping-options-for-freelancers/#:~:text=Top%205%20Bookkeeping%20Tools%20Reviewed&text=QuickBooks%20Online%3A%20The%20Industry%20Standard&text=Xero%3A%20The%20User%2DFriendly%20Alternative&text=FreshBooks%3A%20Built%20for%20Service%20Professionals"
+    },
+    {
+      "position": 5,
+      "title": "Compare Invoicing Platforms by Freelance Profession |...",
+      "link": "https://influenceflow.io/resources/compare-invoicing-platforms-by-freelance-profession-the-complete-2026-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFbnduiPirKXeaQoXY38n-hILvwVFhbu31RQJBY8n-RcmbRLCJyPuYCNDGcFL3EfG5p6-LxNtv8MlB6I6QqO-KtDlbV3zmacYj05nho32mMVXmOgB1JPxIs24bvlG1iUs6_Z4N5-B8pvuSwkGsw5rAO5n_Hh1EoPxNNb0nWsC7aAqDVhWAjJJ02iaIoFjgWS8t2fvMl1-M0C-ykZedtHpmYYl5A&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQFnoECDYQAQ&uoh=1",
+      "displayed_link": "https://influenceflow.io › Resources",
+      "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vOSQaYcQDbAaH_1Eu8lkRGL_Zhc9bTGaTfR9MMWA-hDzFKUIhzUcDAAD-9gm4RBV3_qiQuvSKuYqwbFyKW-H7Jn1MJeiv-6v0wkTqYO31xAWvpMam0LL8CIC5oW_injJO8KIoUDt82cszcueGIWvEFnMkKBDE3zjeIFqcsZ-zNzmkO5CJX_a9BfFXboeAvtseEPH1UD3j8pYcbRJG_s8-5hR8GFxyPwP6oBWeGZj5NSTzfetMzrX0AFVOpiZtAnQ7Nq-Xh6UtDmKc0ECQ0NQ_H48PV_TQOFpNyRr0UGcoS2j-Ol6N6jb1n1TjCyhlpfCfepRf4HpnK_NJY967ztn3DDrv60-aiJGl1FEyjiHfqYs-V2KbaKfo_f_RHQe3S_BrvOHTh2l_aA9L8wJ0AAA.webp",
+      "date": "Mar 11, 2026",
+      "snippet": "Find the best invoicing platform for your freelance profession. Compare tools for designers, developers, writers & consultants.",
+      "snippet_highlighted_words": [
+        "best invoicing platform for your freelance profession"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Find the best invoicing platform for your freelance profession. Compare tools for designers, developers, writers & consultants.",
+          "source_info_link": "https://influenceflow.io/resources/compare-invoicing-platforms-by-freelance-profession-the-complete-2026-guide/",
+          "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vOSQaYcQDbAaH_1Eu8lkRGL_Zhc9bTGaTfR9MMWA-hDzFKUIhzUcDAAD-9gm4RBV3_qiQuvSKuYqwbFyKW-H7Jn1MJeiv-6v0wkTqYO31xAWvpMam0LL8CIC5oW_injJO8KIoUDt82cszcueGIWvEFnMkKBDE3zjeIFqcsZ-zNzmkO5CJX_a9BfFXboeAvtseEPH1UD3j8pYcbRJG_s8-5hR8GFxyPwP6oBWeGZj5NSTzfetMzrX0AFVOpiZtAnQ7Nq-Xh6UtDmKc0ECQ0NQ_H48PV_TQOFpNyRr0UGcoS2j-Ol6N6jb1n1TjCyhlpfCfepRf4HpnK_NJY967ztn3DDrv60-aiJGl1FEyjiHfqYs-V2KbaKfo_f_RHQe3S_BrvOHTh2l_aA9L8wJ0AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZibmR1aVBpcktYZWFRb1hZMzhuLWhJTHZ3VkZoYnUzMVJRSkJZOG4tUmNtYlJMQ0p5UHVZQ05ER2NGTDNFZkc1cDYtTHhOdHY4TWxCNkk2UXFPLUt0RGxiVjN6bWFjWWowNW5obzMybU1WWG1PZ0IxSlB4SXMyNGJ2bEcxaVVzNl9aNE41LUI4cHZ1U3drR3N3NXJBTzVuX0hoMUVvUHhOTmIwbldzQzdhQXFEVmhXQWpKSjAyaWFJb0ZqZ1dTOHQyZnZNbDEtTTBDLXlrWmVkdEhwbVlZbDVBEgQaAggAGvEGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQM0GCAAQABgAIAAqKAoEYmVzdBXxazFAGgN0b3AaFmJlc3RhY2NvdW50aW5nc29mdHdhcmUqVgoKYWNjb3VudGluZxWnF5o_GgphY2NvdW50YW50Ggtib29ra2VlcGluZxoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZRoSYWNjb3VudGluZ3NvZnR3YXJlKkQKCHNvZnR3YXJlFS8qCEAaB3Byb2dyYW0aFmJlc3RhY2NvdW50aW5nc29mdHdhcmUaEmFjY291bnRpbmdzb2Z0d2FyZSoKCgNmb3IVAAAAACpcCglmcmVlbGFuY2UVgFSaQBoKZnJlZWxhbmNlchoLZnJlZWxhbmNlcnMaDXNlbGYgZW1wbG95ZWQaEmZyZWVsYW5jZWRlc2lnbmVycxoOaXY7cDtmcmVlbGFuY2UqRgoJZGVzaWduZXJzFbElEEAaBmRlc2lnbhoIZGVzaWduZXIaEmZyZWVsYW5jZWRlc2lnbmVycxoOaXY7cDtkZXNpZ25lcnMy8AEvZ290bz91cmw9Q0FFU3B3RUI2enN3RmJuZHVpUGlyS1hlYVFvWFkzOG4taElMdndWRmhidTMxUlFKQlk4bi1SY21iUkxDSnlQdVlDTkRHY0ZMM0VmRzVwNi1MeE50djhNbEI2STZRcU8tS3REbGJWM3ptYWNZajA1bmhvMzJtTVZYbU9nQjFKUHhJczI0YnZsRzFpVXM2X1o0TjUtQjhwdnVTd2tHc3c1ckFPNW5fSGgxRW9QeE5OYjBuV3NDN2FBcURWaFdBakpKMDJpYUlvRmpnV1M4dDJmdk1sMS1NMEMteWtaZWR0SHBtWVlsNUE6P0NvbXBhcmUgSW52b2ljaW5nIFBsYXRmb3JtcyBieSA8Yj5GcmVlbGFuY2U8L2I-IFByb2Zlc3Npb24gfC4uLkKKAUZpbmQgdGhlIDxiPmJlc3QgaW52b2ljaW5nIHBsYXRmb3JtIGZvciB5b3VyIGZyZWVsYW5jZSBwcm9mZXNzaW9uPC9iPi4gQ29tcGFyZSB0b29scyBmb3IgZGVzaWduZXJzLCBkZXZlbG9wZXJzLCB3cml0ZXJzICZhbXA7IGNvbnN1bHRhbnRzLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZibmR1aVBpcktYZWFRb1hZMzhuLWhJTHZ3VkZoYnUzMVJRSkJZOG4tUmNtYlJMQ0p5UHVZQ05ER2NGTDNFZkc1cDYtTHhOdHY4TWxCNkk2UXFPLUt0RGxiVjN6bWFjWWowNW5obzMybU1WWG1PZ0IxSlB4SXMyNGJ2bEcxaVVzNl9aNE41LUI4cHZ1U3drR3N3NXJBTzVuX0hoMUVvUHhOTmIwbldzQzdhQXFEVmhXQWpKSjAyaWFJb0ZqZ1dTOHQyZnZNbDEtTTBDLXlrWmVkdEhwbVlZbDVBEgQaAggAGvEGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQM0GCAAQABgAIAAqKAoEYmVzdBXxazFAGgN0b3AaFmJlc3RhY2NvdW50aW5nc29mdHdhcmUqVgoKYWNjb3VudGluZxWnF5o_GgphY2NvdW50YW50Ggtib29ra2VlcGluZxoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZRoSYWNjb3VudGluZ3NvZnR3YXJlKkQKCHNvZnR3YXJlFS8qCEAaB3Byb2dyYW0aFmJlc3RhY2NvdW50aW5nc29mdHdhcmUaEmFjY291bnRpbmdzb2Z0d2FyZSoKCgNmb3IVAAAAACpcCglmcmVlbGFuY2UVgFSaQBoKZnJlZWxhbmNlchoLZnJlZWxhbmNlcnMaDXNlbGYgZW1wbG95ZWQaEmZyZWVsYW5jZWRlc2lnbmVycxoOaXY7cDtmcmVlbGFuY2UqRgoJZGVzaWduZXJzFbElEEAaBmRlc2lnbhoIZGVzaWduZXIaEmZyZWVsYW5jZWRlc2lnbmVycxoOaXY7cDtkZXNpZ25lcnMy8AEvZ290bz91cmw9Q0FFU3B3RUI2enN3RmJuZHVpUGlyS1hlYVFvWFkzOG4taElMdndWRmhidTMxUlFKQlk4bi1SY21iUkxDSnlQdVlDTkRHY0ZMM0VmRzVwNi1MeE50djhNbEI2STZRcU8tS3REbGJWM3ptYWNZajA1bmhvMzJtTVZYbU9nQjFKUHhJczI0YnZsRzFpVXM2X1o0TjUtQjhwdnVTd2tHc3c1ckFPNW5fSGgxRW9QeE5OYjBuV3NDN2FBcURWaFdBakpKMDJpYUlvRmpnV1M4dDJmdk1sMS1NMEMteWtaZWR0SHBtWVlsNUE6P0NvbXBhcmUgSW52b2ljaW5nIFBsYXRmb3JtcyBieSA8Yj5GcmVlbGFuY2U8L2I-IFByb2Zlc3Npb24gfC4uLkKKAUZpbmQgdGhlIDxiPmJlc3QgaW52b2ljaW5nIHBsYXRmb3JtIGZvciB5b3VyIGZyZWVsYW5jZSBwcm9mZXNzaW9uPC9iPi4gQ29tcGFyZSB0b29scyBmb3IgZGVzaWduZXJzLCBkZXZlbG9wZXJzLCB3cml0ZXJzICZhbXA7IGNvbnN1bHRhbnRzLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "InfluenceFlow"
+    },
+    {
+      "position": 6,
+      "title": "Looking for an AND.CO Alternative? Try These 8 Freelance ...",
+      "link": "https://www.makeuseof.com/and-co-alternative-freelance-accounting-platforms/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFW5I35__DMd46fenr5BdiK7NeskkptFEa5DadwlwmJn7n1NQSmvPifaSFE1_2GrbKEawPjWq-qkMwCgC0qxvnuiaeWoERUAphDeGQXYo8Epp20JwT1el4MEpxJpJG2UEUgYEv4fgaTx1ZCNODz-UgGPvEtTMgVQZwqyH5mgYrQY&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQFnoECDgQAQ&uoh=1",
+      "displayed_link": "https://www.makeuseof.com › Productivity",
+      "favicon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAACQBgCdASogACAAPtEwtFooIigoGAEAGglsAL5dAC7AN5Ab4DHZ_sw32tlRFaPpjs2uE8f5eZZ2ey2to8ogAP72AWd0wGP6P5eMoxPIpo6zz1EUW-ZddtG34uGbSFJ6w2s2GGLe5yocqRkqqf9q7u97Aqf-5xfhLoZeXIgOX_AmnVpxp_5ZLzla3_5HiMpS0_q-Ob3FSCvllDJ4AYqlRfrJkp9tv-33Fs0lzpSgeUi_fGD_am-HvXJ8HNHEp4cFw_0a8x8zk-GwSJsd_-iJM_nqz_h4m__9a4gW4k_3qRoK3VONx_eW3AQNHuwWRvbV7MXADPnxYHYQtTvyiAn27gMdbn09hfo_GAN-ARK0KrXtnR4yPsAAAA.webp",
+      "date": "Feb 21, 2021",
+      "snippet": "With Xero, you can claim expenses and accept payments from clients. You can also use the service to create accounting reports and send invoices.",
+      "snippet_highlighted_words": [
+        "Xero"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "With Xero, you can claim expenses and accept payments from clients. You can also use the service to create accounting reports and send invoices.",
+          "source_info_link": "https://www.makeuseof.com/and-co-alternative-freelance-accounting-platforms/",
+          "icon": "https://serpapi.com/images/i/UklGRiIBAABXRUJQVlA4IBYBAACQBgCdASogACAAPtEwtFooIigoGAEAGglsAL5dAC7AN5Ab4DHZ_sw32tlRFaPpjs2uE8f5eZZ2ey2to8ogAP72AWd0wGP6P5eMoxPIpo6zz1EUW-ZddtG34uGbSFJ6w2s2GGLe5yocqRkqqf9q7u97Aqf-5xfhLoZeXIgOX_AmnVpxp_5ZLzla3_5HiMpS0_q-Ob3FSCvllDJ4AYqlRfrJkp9tv-33Fs0lzpSgeUi_fGD_am-HvXJ8HNHEp4cFw_0a8x8zk-GwSJsd_-iJM_nqz_h4m__9a4gW4k_3qRoK3VONx_eW3AQNHuwWRvbV7MXADPnxYHYQtTvyiAn27gMdbn09hfo_GAN-ARK0KrXtnR4yPsAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZXNUkzNV9fRE1kNDZmZW5yNUJkaUs3TmVza2twdEZFYTVEYWR3bHdtSm43bjFOUVNtdlBpZmFTRkUxXzJHcmJLRWF3UGpXcS1xa013Q2dDMHF4dm51aWFlV29FUlVBcGhEZUdRWFlvOEVwcDIwSndUMWVsNE1FcHhKcEpHMlVFVWdZRXY0ZmdhVHgxWkNOT0R6LVVnR1B2RXRUTWdWUVp3cXlINW1nWXJRWRIEGgIIABrTBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCvBggAEAAYACAAKigKBGJlc3QV9Bk2PxoDdG9wGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlKlYKCmFjY291bnRpbmcVPHF5QBoKYWNjb3VudGFudBoLYm9va2tlZXBpbmcaFmJlc3RhY2NvdW50aW5nc29mdHdhcmUaEmFjY291bnRpbmdzb2Z0d2FyZSpECghzb2Z0d2FyZRWX_sE_Ggdwcm9ncmFtGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlGhJhY2NvdW50aW5nc29mdHdhcmUqCgoDZm9yFQAAAAAqXAoJZnJlZWxhbmNlFSwMQkAaCmZyZWVsYW5jZXIaC2ZyZWVsYW5jZXJzGg1zZWxmIGVtcGxveWVkGhJmcmVlbGFuY2VkZXNpZ25lcnMaDml2O3A7ZnJlZWxhbmNlKkYKCWRlc2lnbmVycxUAAAAAGgZkZXNpZ24aCGRlc2lnbmVyGhJmcmVlbGFuY2VkZXNpZ25lcnMaDml2O3A7ZGVzaWduZXJzMsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZXNUkzNV9fRE1kNDZmZW5yNUJkaUs3TmVza2twdEZFYTVEYWR3bHdtSm43bjFOUVNtdlBpZmFTRkUxXzJHcmJLRWF3UGpXcS1xa013Q2dDMHF4dm51aWFlV29FUlVBcGhEZUdRWFlvOEVwcDIwSndUMWVsNE1FcHhKcEpHMlVFVWdZRXY0ZmdhVHgxWkNOT0R6LVVnR1B2RXRUTWdWUVp3cXlINW1nWXJRWTpDTG9va2luZyBmb3IgYW4gQU5ELkNPIEFsdGVybmF0aXZlPyBUcnkgVGhlc2UgOCA8Yj5GcmVlbGFuY2U8L2I-IC4uLkKXAVdpdGggPGI-WGVybzwvYj4sIHlvdSBjYW4gY2xhaW0gZXhwZW5zZXMgYW5kIGFjY2VwdCBwYXltZW50cyBmcm9tIGNsaWVudHMuIFlvdSBjYW4gYWxzbyB1c2UgdGhlIHNlcnZpY2UgdG8gY3JlYXRlIGFjY291bnRpbmcgcmVwb3J0cyBhbmQgc2VuZCBpbnZvaWNlcy5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZXNUkzNV9fRE1kNDZmZW5yNUJkaUs3TmVza2twdEZFYTVEYWR3bHdtSm43bjFOUVNtdlBpZmFTRkUxXzJHcmJLRWF3UGpXcS1xa013Q2dDMHF4dm51aWFlV29FUlVBcGhEZUdRWFlvOEVwcDIwSndUMWVsNE1FcHhKcEpHMlVFVWdZRXY0ZmdhVHgxWkNOT0R6LVVnR1B2RXRUTWdWUVp3cXlINW1nWXJRWRIEGgIIABrTBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCvBggAEAAYACAAKigKBGJlc3QV9Bk2PxoDdG9wGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlKlYKCmFjY291bnRpbmcVPHF5QBoKYWNjb3VudGFudBoLYm9va2tlZXBpbmcaFmJlc3RhY2NvdW50aW5nc29mdHdhcmUaEmFjY291bnRpbmdzb2Z0d2FyZSpECghzb2Z0d2FyZRWX_sE_Ggdwcm9ncmFtGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlGhJhY2NvdW50aW5nc29mdHdhcmUqCgoDZm9yFQAAAAAqXAoJZnJlZWxhbmNlFSwMQkAaCmZyZWVsYW5jZXIaC2ZyZWVsYW5jZXJzGg1zZWxmIGVtcGxveWVkGhJmcmVlbGFuY2VkZXNpZ25lcnMaDml2O3A7ZnJlZWxhbmNlKkYKCWRlc2lnbmVycxUAAAAAGgZkZXNpZ24aCGRlc2lnbmVyGhJmcmVlbGFuY2VkZXNpZ25lcnMaDml2O3A7ZGVzaWduZXJzMsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZXNUkzNV9fRE1kNDZmZW5yNUJkaUs3TmVza2twdEZFYTVEYWR3bHdtSm43bjFOUVNtdlBpZmFTRkUxXzJHcmJLRWF3UGpXcS1xa013Q2dDMHF4dm51aWFlV29FUlVBcGhEZUdRWFlvOEVwcDIwSndUMWVsNE1FcHhKcEpHMlVFVWdZRXY0ZmdhVHgxWkNOT0R6LVVnR1B2RXRUTWdWUVp3cXlINW1nWXJRWTpDTG9va2luZyBmb3IgYW4gQU5ELkNPIEFsdGVybmF0aXZlPyBUcnkgVGhlc2UgOCA8Yj5GcmVlbGFuY2U8L2I-IC4uLkKXAVdpdGggPGI-WGVybzwvYj4sIHlvdSBjYW4gY2xhaW0gZXhwZW5zZXMgYW5kIGFjY2VwdCBwYXltZW50cyBmcm9tIGNsaWVudHMuIFlvdSBjYW4gYWxzbyB1c2UgdGhlIHNlcnZpY2UgdG8gY3JlYXRlIGFjY291bnRpbmcgcmVwb3J0cyBhbmQgc2VuZCBpbnZvaWNlcy5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "MakeUseOf",
+      "read_more_link": "https://www.makeuseof.com/and-co-alternative-freelance-accounting-platforms/#:~:text=With%20Xero%2C%20you%20can%20claim,accounting%20reports%20and%20send%20invoices."
+    },
+    {
+      "position": 7,
+      "title": "Freelance Accounting Software For ...",
+      "link": "https://instabooks.co/freelance-accounting-software/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVP0Yq9FKOfKNaVbMrELGjTDR1o6xoshp52i9OYWWtezPtTL2-jdHGgapAKebozMCOnybtwzE3-RTorv1CemsQ387N0ftLRqZsZlj1ISPhnHCa5654y3RvAt0rFkY0lp9teX48CQA3Bg&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://instabooks.co › freelance-accounting-software",
+      "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAADQBwCdASocABwAPtEwtFooIigoGAEAGglsAJ0zNDpqwKEBtgOfA9GG8S-gB0qCNAO84XO1fumEA434TEpDp6UFe-aXgm8BwAD-_pRjxxn61IUvlzXv3O5cgIi61KtpvosfcDHOToE4xlovue9EXNBQIqP_x4me0D-ePQFQWSU32cpjWhYP_mr_tHXv2Ul53l93_B6_UhLvKokr738yDn8Cz4E0McQbvUB9wE98pbh_PlRYhC_ZY6uyssijkX5h1waYXAKFCk-VH-RuzvMMOta8x33f0UqYtMB0-nJ89irBSWb35NDpMeV9bg-Exclp7uZWpIFJrUyVvNxOiYzbRtVrQZWLJyFwxymHxP1hkXdIov5_p4U9liU7fl2sUl9Wv5OCaBPOVaSmGO6uit52OF-AAAA.webp",
+      "snippet": "Spend less time on manual bookkeeping and more time serving customers. Our freelance accounting software is perfect for freelance workers, writers & businesses.",
+      "snippet_highlighted_words": [
+        "freelance accounting software"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Spend less time on manual bookkeeping and more time serving customers. Our freelance accounting software is perfect for freelance workers, writers & businesses.",
+          "source_info_link": "https://instabooks.co/freelance-accounting-software/",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAADQBwCdASocABwAPtEwtFooIigoGAEAGglsAJ0zNDpqwKEBtgOfA9GG8S-gB0qCNAO84XO1fumEA434TEpDp6UFe-aXgm8BwAD-_pRjxxn61IUvlzXv3O5cgIi61KtpvosfcDHOToE4xlovue9EXNBQIqP_x4me0D-ePQFQWSU32cpjWhYP_mr_tHXv2Ul53l93_B6_UhLvKokr738yDn8Cz4E0McQbvUB9wE98pbh_PlRYhC_ZY6uyssijkX5h1waYXAKFCk-VH-RuzvMMOta8x33f0UqYtMB0-nJ89irBSWb35NDpMeV9bg-Exclp7uZWpIFJrUyVvNxOiYzbRtVrQZWLJyFwxymHxP1hkXdIov5_p4U9liU7fl2sUl9Wv5OCaBPOVaSmGO6uit52OF-AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlAwWXE5RktPZktOYVZiTXJFTEdqVERSMW82eG9zaHA1Mmk5T1lXV3RlelB0VEwyLWpkSEdnYXBBS2Vib3pNQ09ueWJ0d3pFMy1SVG9ydjFDZW1zUTM4N04wZnRMUnFac1psajFJU1BobkhDYTU2NTR5M1J2QXQwckZrWTBscDl0ZVg0OENRQTNCZxIEGgIIABrHBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCjBggAEAAYACAAKigKBGJlc3QVUHS5PxoDdG9wGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlKlYKCmFjY291bnRpbmcV9lfWQBoKYWNjb3VudGFudBoLYm9va2tlZXBpbmcaFmJlc3RhY2NvdW50aW5nc29mdHdhcmUaEmFjY291bnRpbmdzb2Z0d2FyZSpECghzb2Z0d2FyZRVqi81AGgdwcm9ncmFtGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlGhJhY2NvdW50aW5nc29mdHdhcmUqCgoDZm9yFQAAAAAqXAoJZnJlZWxhbmNlFeRK2EAaCmZyZWVsYW5jZXIaC2ZyZWVsYW5jZXJzGg1zZWxmIGVtcGxveWVkGhJmcmVlbGFuY2VkZXNpZ25lcnMaDml2O3A7ZnJlZWxhbmNlKkYKCWRlc2lnbmVycxUAAAAAGgZkZXNpZ24aCGRlc2lnbmVyGhJmcmVlbGFuY2VkZXNpZ25lcnMaDml2O3A7ZGVzaWduZXJzMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlAwWXE5RktPZktOYVZiTXJFTEdqVERSMW82eG9zaHA1Mmk5T1lXV3RlelB0VEwyLWpkSEdnYXBBS2Vib3pNQ09ueWJ0d3pFMy1SVG9ydjFDZW1zUTM4N04wZnRMUnFac1psajFJU1BobkhDYTU2NTR5M1J2QXQwckZrWTBscDl0ZVg0OENRQTNCZzpEPGI-RnJlZWxhbmNlIEFjY291bnRpbmcgU29mdHdhcmUgRm9yIEZyZWVsYW5jZXJzPC9iPiB8IEluc3RhYm9va3MgVVNCqwFTcGVuZCBsZXNzIHRpbWUgb24gbWFudWFsIGJvb2trZWVwaW5nIGFuZCBtb3JlIHRpbWUgc2VydmluZyBjdXN0b21lcnMuIE91ciA8Yj5mcmVlbGFuY2UgYWNjb3VudGluZyBzb2Z0d2FyZTwvYj4gaXMgcGVyZmVjdCBmb3IgZnJlZWxhbmNlIHdvcmtlcnMsIHdyaXRlcnMgJmFtcDsgYnVzaW5lc3Nlcy5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlAwWXE5RktPZktOYVZiTXJFTEdqVERSMW82eG9zaHA1Mmk5T1lXV3RlelB0VEwyLWpkSEdnYXBBS2Vib3pNQ09ueWJ0d3pFMy1SVG9ydjFDZW1zUTM4N04wZnRMUnFac1psajFJU1BobkhDYTU2NTR5M1J2QXQwckZrWTBscDl0ZVg0OENRQTNCZxIEGgIIABrHBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCjBggAEAAYACAAKigKBGJlc3QVUHS5PxoDdG9wGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlKlYKCmFjY291bnRpbmcV9lfWQBoKYWNjb3VudGFudBoLYm9va2tlZXBpbmcaFmJlc3RhY2NvdW50aW5nc29mdHdhcmUaEmFjY291bnRpbmdzb2Z0d2FyZSpECghzb2Z0d2FyZRVqi81AGgdwcm9ncmFtGhZiZXN0YWNjb3VudGluZ3NvZnR3YXJlGhJhY2NvdW50aW5nc29mdHdhcmUqCgoDZm9yFQAAAAAqXAoJZnJlZWxhbmNlFeRK2EAaCmZyZWVsYW5jZXIaC2ZyZWVsYW5jZXJzGg1zZWxmIGVtcGxveWVkGhJmcmVlbGFuY2VkZXNpZ25lcnMaDml2O3A7ZnJlZWxhbmNlKkYKCWRlc2lnbmVycxUAAAAAGgZkZXNpZ24aCGRlc2lnbmVyGhJmcmVlbGFuY2VkZXNpZ25lcnMaDml2O3A7ZGVzaWduZXJzMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlAwWXE5RktPZktOYVZiTXJFTEdqVERSMW82eG9zaHA1Mmk5T1lXV3RlelB0VEwyLWpkSEdnYXBBS2Vib3pNQ09ueWJ0d3pFMy1SVG9ydjFDZW1zUTM4N04wZnRMUnFac1psajFJU1BobkhDYTU2NTR5M1J2QXQwckZrWTBscDl0ZVg0OENRQTNCZzpEPGI-RnJlZWxhbmNlIEFjY291bnRpbmcgU29mdHdhcmUgRm9yIEZyZWVsYW5jZXJzPC9iPiB8IEluc3RhYm9va3MgVVNCqwFTcGVuZCBsZXNzIHRpbWUgb24gbWFudWFsIGJvb2trZWVwaW5nIGFuZCBtb3JlIHRpbWUgc2VydmluZyBjdXN0b21lcnMuIE91ciA8Yj5mcmVlbGFuY2UgYWNjb3VudGluZyBzb2Z0d2FyZTwvYj4gaXMgcGVyZmVjdCBmb3IgZnJlZWxhbmNlIHdvcmtlcnMsIHdyaXRlcnMgJmFtcDsgYnVzaW5lc3Nlcy5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Instabooks",
+      "read_more_link": "https://instabooks.co/freelance-accounting-software/#:~:text=Spend%20less%20time%20on%20manual,freelance%20workers%2C%20writers%20%26%20businesses."
+    },
+    {
+      "position": 8,
+      "title": "The Ultimate Guide to Tools and Tips for Freelance ...",
+      "link": "https://hickmandesign.co.uk/blog/tips/the-ultimate-guide-to-tools-and-tips-for-freelance-designers/?srsltid=AU7gw4WXFtAf9YM6717DWZ6FOAs9XS_OEg-G02PzvIUMSQmwOW1RGAPU",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES3QEB6zswFT6qxduMQCZ9BO_QBgKfjkNfdwEy7jEo6fZZ7M5J1rivjW_Kzd2F74K8cdyd_4A5yIcFE8V-v47uZGb76DQjOjY8ITH2N0R0ZWxOE8gLQXbtefdcu1-PMetUQpc1M7e8dme334oZ0c6viTqGEPACqBBAt1svp9tHEP7Nrs9no_iIOAYLk980zzdySzO3bY58Zv5jd-Yj3Okt7MCsn3tNi9ZG3lM-JM4uE28ToEcEoetVEQIBZVkwsTZK8Vavl049hI1BvkHULU32PZdsqK7Mft4_BxOMRavi3Q&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://hickmandesign.co.uk › Art Tips & Tricks",
+      "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAABQBwCdASocABwAPtEutFooIagoGAEAGglpABOIPwlb4MMFM18gH0r50m8gDpm1iW6xO_DB9DA9tZ3h8asCpKxxmwAAAP72CdSucm0I0A_K8pQ12EepACSciwsK_l_-vhOwT6Wg-PcrEa7xr-KqzbpErOhHw34d7_-vq_z2tII16on8omYPCDGd6aoqdfpcAgplSRYG0DLy0s_V6rlrAi59EZfi0xw7bJs10BR2GCGZx3V_KqKmQy_IqnTFzgqX5JAl66O5i2dL_-JzjlvHLWUSfaP9__5Nu4pWRoKZcZKAzaUOJBNKwUIlv_NlSReZCH_zEvc-VqHBfwOdU1xyThtldHbt_88-X-lGBVRMhLKZ-5DXUlRK-MRRR_MVJbOU6DYQmHke2SithZOX1QqtYIwqfPs7fjG_qsfd11hsmbKTsc1EAAAAAA.webp",
+      "date": "Sep 25, 2024",
+      "snippet": "QuickBooks – Popular among freelancers and small businesses, QuickBooks makes it easy to manage invoices, track payments, and file taxes. It's a ...",
+      "snippet_highlighted_words": [
+        "QuickBooks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "QuickBooks – Popular among freelancers and small businesses, QuickBooks makes it easy to manage invoices, track payments, and file taxes. It's a ...",
+          "source_info_link": "https://hickmandesign.co.uk/blog/tips/the-ultimate-guide-to-tools-and-tips-for-freelance-designers/?srsltid=AU7gw4WXFtAf9YM6717DWZ6FOAs9XS_OEg-G02PzvIUMSQmwOW1RGAPU",
+          "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAABQBwCdASocABwAPtEutFooIagoGAEAGglpABOIPwlb4MMFM18gH0r50m8gDpm1iW6xO_DB9DA9tZ3h8asCpKxxmwAAAP72CdSucm0I0A_K8pQ12EepACSciwsK_l_-vhOwT6Wg-PcrEa7xr-KqzbpErOhHw34d7_-vq_z2tII16on8omYPCDGd6aoqdfpcAgplSRYG0DLy0s_V6rlrAi59EZfi0xw7bJs10BR2GCGZx3V_KqKmQy_IqnTFzgqX5JAl66O5i2dL_-JzjlvHLWUSfaP9__5Nu4pWRoKZcZKAzaUOJBNKwUIlv_NlSReZCH_zEvc-VqHBfwOdU1xyThtldHbt_88-X-lGBVRMhLKZ-5DXUlRK-MRRR_MVJbOU6DYQmHke2SithZOX1QqtYIwqfPs7fjG_qsfd11hsmbKTsc1EAAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgCL2dvdG8_dXJsPUNBRVMzUUVCNnpzd0ZUNnF4ZHVNUUNaOUJPX1FCZ0tmamtOZmR3RXk3akVvNmZaWjdNNUoxcml2aldfS3pkMkY3NEs4Y2R5ZF80QTV5SWNGRThWLXY0N3VaR2I3NkRRak9qWThJVEgyTjBSMFpXeE9FOGdMUVhidGVmZGN1MS1QTWV0VVFwYzFNN2U4ZG1lMzM0b1owYzZ2aVRxR0VQQUNxQkJBdDFzdnA5dEhFUDdOcnM5bm9faUlPQVlMazk4MHp6ZHlTek8zYlk1OFp2NWpkLVlqM09rdDdNQ3NuM3ROaTlaRzNsTS1KTTR1RTI4VG9FY0VvZXRWRVFJQlpWa3dzVFpLOFZhdmwwNDloSTFCdmtIVUxVMzJQWmRzcUs3TWZ0NF9CeE9NUmF2aTNREgQaAggAGoEHEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQN0GCAAQABgAIAAqKAoEYmVzdBWCl70_GgN0b3AaFmJlc3RhY2NvdW50aW5nc29mdHdhcmUqVgoKYWNjb3VudGluZxUkJOE9GgphY2NvdW50YW50Ggtib29ra2VlcGluZxoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZRoSYWNjb3VudGluZ3NvZnR3YXJlKkQKCHNvZnR3YXJlFZg5-T8aB3Byb2dyYW0aFmJlc3RhY2NvdW50aW5nc29mdHdhcmUaEmFjY291bnRpbmdzb2Z0d2FyZSoKCgNmb3IVAAAAACpcCglmcmVlbGFuY2UVy8htQBoKZnJlZWxhbmNlchoLZnJlZWxhbmNlcnMaDXNlbGYgZW1wbG95ZWQaEmZyZWVsYW5jZWRlc2lnbmVycxoOaXY7cDtmcmVlbGFuY2UqRgoJZGVzaWduZXJzFbINd0AaBmRlc2lnbhoIZGVzaWduZXIaEmZyZWVsYW5jZWRlc2lnbmVycxoOaXY7cDtkZXNpZ25lcnMy4AEvZ290bz91cmw9Q0FFU213RUI2enN3RmJiS0xScTZ3RTF6ejZLblppLVFiNVFtUWFrZjBPR1J5NmVjRUF0TWg5SmV1S1dwOER6Q25xcExwNjA2Ym1rMUk5V2RzQXZsQ1ZoUUdRcmxFNnU5MHJjSXktdmUyUUdHQW5iMXlRQTZlWnduemo1WWd4NFNnN2F1UDV3REl6TlVfeEFUTW14blZHWDAyN2tadHRFeHpZNFFGSjk4T2RQTGVYQ1plWE03bzVEZEp3ZllXSGxwaHVmNC1vd1BJMHk0Y1BUVl9WWGlBQTpDVGhlIFVsdGltYXRlIEd1aWRlIHRvIFRvb2xzIGFuZCBUaXBzIGZvciA8Yj5GcmVlbGFuY2UgRGVzaWduZXJzPC9iPkKmATxiPlF1aWNrQm9va3M8L2I-IOKAkyBQb3B1bGFyIGFtb25nIGZyZWVsYW5jZXJzIGFuZCBzbWFsbCBidXNpbmVzc2VzLCBRdWlja0Jvb2tzIG1ha2VzIGl0IGVhc3kgdG8gbWFuYWdlIGludm9pY2VzLCB0cmFjayBwYXltZW50cywgYW5kIGZpbGUgdGF4ZXMuIEl0JiMzOTtzIGEmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgCL2dvdG8_dXJsPUNBRVMzUUVCNnpzd0ZUNnF4ZHVNUUNaOUJPX1FCZ0tmamtOZmR3RXk3akVvNmZaWjdNNUoxcml2aldfS3pkMkY3NEs4Y2R5ZF80QTV5SWNGRThWLXY0N3VaR2I3NkRRak9qWThJVEgyTjBSMFpXeE9FOGdMUVhidGVmZGN1MS1QTWV0VVFwYzFNN2U4ZG1lMzM0b1owYzZ2aVRxR0VQQUNxQkJBdDFzdnA5dEhFUDdOcnM5bm9faUlPQVlMazk4MHp6ZHlTek8zYlk1OFp2NWpkLVlqM09rdDdNQ3NuM3ROaTlaRzNsTS1KTTR1RTI4VG9FY0VvZXRWRVFJQlpWa3dzVFpLOFZhdmwwNDloSTFCdmtIVUxVMzJQWmRzcUs3TWZ0NF9CeE9NUmF2aTNREgQaAggAGoEHEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQN0GCAAQABgAIAAqKAoEYmVzdBWCl70_GgN0b3AaFmJlc3RhY2NvdW50aW5nc29mdHdhcmUqVgoKYWNjb3VudGluZxUkJOE9GgphY2NvdW50YW50Ggtib29ra2VlcGluZxoWYmVzdGFjY291bnRpbmdzb2Z0d2FyZRoSYWNjb3VudGluZ3NvZnR3YXJlKkQKCHNvZnR3YXJlFZg5-T8aB3Byb2dyYW0aFmJlc3RhY2NvdW50aW5nc29mdHdhcmUaEmFjY291bnRpbmdzb2Z0d2FyZSoKCgNmb3IVAAAAACpcCglmcmVlbGFuY2UVy8htQBoKZnJlZWxhbmNlchoLZnJlZWxhbmNlcnMaDXNlbGYgZW1wbG95ZWQaEmZyZWVsYW5jZWRlc2lnbmVycxoOaXY7cDtmcmVlbGFuY2UqRgoJZGVzaWduZXJzFbINd0AaBmRlc2lnbhoIZGVzaWduZXIaEmZyZWVsYW5jZWRlc2lnbmVycxoOaXY7cDtkZXNpZ25lcnMy4AEvZ290bz91cmw9Q0FFU213RUI2enN3RmJiS0xScTZ3RTF6ejZLblppLVFiNVFtUWFrZjBPR1J5NmVjRUF0TWg5SmV1S1dwOER6Q25xcExwNjA2Ym1rMUk5V2RzQXZsQ1ZoUUdRcmxFNnU5MHJjSXktdmUyUUdHQW5iMXlRQTZlWnduemo1WWd4NFNnN2F1UDV3REl6TlVfeEFUTW14blZHWDAyN2tadHRFeHpZNFFGSjk4T2RQTGVYQ1plWE03bzVEZEp3ZllXSGxwaHVmNC1vd1BJMHk0Y1BUVl9WWGlBQTpDVGhlIFVsdGltYXRlIEd1aWRlIHRvIFRvb2xzIGFuZCBUaXBzIGZvciA8Yj5GcmVlbGFuY2UgRGVzaWduZXJzPC9iPkKmATxiPlF1aWNrQm9va3M8L2I-IOKAkyBQb3B1bGFyIGFtb25nIGZyZWVsYW5jZXJzIGFuZCBzbWFsbCBidXNpbmVzc2VzLCBRdWlja0Jvb2tzIG1ha2VzIGl0IGVhc3kgdG8gbWFuYWdlIGludm9pY2VzLCB0cmFjayBwYXltZW50cywgYW5kIGZpbGUgdGF4ZXMuIEl0JiMzOTtzIGEmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Hickman Design",
+      "read_more_link": "https://hickmandesign.co.uk/blog/tips/the-ultimate-guide-to-tools-and-tips-for-freelance-designers/?srsltid=AU7gw4WXFtAf9YM6717DWZ6FOAs9XS_OEg-G02PzvIUMSQmwOW1RGAPU#:~:text=QuickBooks%20%E2%80%93%20Popular%20among%20freelancers,accounting%20platform%20with%20invoicing%20features."
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Accounting Software Alternatives",
+      "link": "https://www.reddit.com/r/graphic_design/comments/1rjryci/accounting_software_alternatives/",
+      "date": "6 months ago",
+      "extensions": [
+        "r/graphic_design",
+        "20+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/graphic_design/comments/1rjryci/accounting_software_alternatives/"
+        }
+      ]
+    },
+    {
+      "title": "What are all the freelancers / sole proprietors doing about accounting software?",
+      "link": "https://www.reddit.com/r/graphic_design/comments/1uz6hdj/what_are_all_the_freelancers_sole_proprietors/",
+      "date": "2 months ago",
+      "extensions": [
+        "r/graphic_design",
+        "10+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/graphic_design/comments/1uz6hdj/what_are_all_the_freelancers_sole_proprietors/oy566a2/",
+          "extensions": [
+            "Top answer",
+            "4 votes",
+            "2 months ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/graphic_design/comments/1uz6hdj/what_are_all_the_freelancers_sole_proprietors/oy51gtc/",
+          "extensions": [
+            "2 votes",
+            "2 months ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/graphic_design/comments/1uz6hdj/what_are_all_the_freelancers_sole_proprietors/oy87i8i/",
+          "extensions": [
+            "2 months ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What are some good accounting software/apps for freelance/contract ...",
+      "link": "https://www.quora.com/What-are-some-good-accounting-software-apps-for-freelance-contract-designers",
+      "date": "12 years ago",
+      "extensions": [
+        "30+ answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "link": "https://www.quora.com/What-are-some-good-accounting-software-apps-for-freelance-contract-designers"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+accounting+software+for+freelance+designers&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnuugun8YkIFi0C-UCDLvnSS3lQXyA:1790332556755&ei=jE62apvXLe-_p84PuqetkAU&start=10&sa=N&sstk=AS6-VmLR2CZ8Vg9PFg37fd5u-WbHkGKwreoqhQ6tLcBf1EMuIIrrjymsq-0-s_lbOEheA7Pwe_cTa5sgk64dkNlKessbGKG6HUaCiQ&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQ8NMDegQINRAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+accounting+software+for+freelance+designers&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnuugun8YkIFi0C-UCDLvnSS3lQXyA:1790332556755&ei=jE62apvXLe-_p84PuqetkAU&start=10&sa=N&sstk=AS6-VmLR2CZ8Vg9PFg37fd5u-WbHkGKwreoqhQ6tLcBf1EMuIIrrjymsq-0-s_lbOEheA7Pwe_cTa5sgk64dkNlKessbGKG6HUaCiQ&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQ8tMDegQINRAE",
+      "3": "https://www.google.com/search?q=best+accounting+software+for+freelance+designers&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnuugun8YkIFi0C-UCDLvnSS3lQXyA:1790332556755&ei=jE62apvXLe-_p84PuqetkAU&start=20&sa=N&sstk=AS6-VmLR2CZ8Vg9PFg37fd5u-WbHkGKwreoqhQ6tLcBf1EMuIIrrjymsq-0-s_lbOEheA7Pwe_cTa5sgk64dkNlKessbGKG6HUaCiQ&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQ8tMDegQINRAG",
+      "4": "https://www.google.com/search?q=best+accounting+software+for+freelance+designers&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnuugun8YkIFi0C-UCDLvnSS3lQXyA:1790332556755&ei=jE62apvXLe-_p84PuqetkAU&start=30&sa=N&sstk=AS6-VmLR2CZ8Vg9PFg37fd5u-WbHkGKwreoqhQ6tLcBf1EMuIIrrjymsq-0-s_lbOEheA7Pwe_cTa5sgk64dkNlKessbGKG6HUaCiQ&ved=2ahUKEwibzczAxImXAxXv38kDHbpTC1IQ8tMDegQINRAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+accounting+software+for+freelance+designers&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+accounting+software+for+freelance+designers&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+accounting+software+for+freelance+designers&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+accounting+software+for+freelance+designers&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=best+accounting+software+for+freelance+designers&start=30"
+    }
+  }
+}

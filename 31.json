@@ -1,0 +1,353 @@
+{
+  "search_metadata": {
+    "id": "6ab6610c2f47f8a983327b75",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/rED61rGNdIQPE-8Mcw4qLJpkc8WH1HWTxKg-FK1dHnw/6ab6610c2f47f8a983327b75.json",
+    "markdown_endpoint": "https://serpapi.com/searches/rED61rGNdIQPE-8Mcw4qLJpkc8WH1HWTxKg-FK1dHnw/6ab6610c2f47f8a983327b75.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/rED61rGNdIQPE-8Mcw4qLJpkc8WH1HWTxKg-FK1dHnw/6ab6610c2f47f8a983327b75.json_with_pixel_position",
+    "created_at": "2026-09-25 11:54:52 UTC",
+    "processed_at": "2026-09-25 11:54:52 UTC",
+    "google_url": "https://www.google.com/search?q=best+ui+ux+design+prototyping+tools&oq=best+ui+ux+design+prototyping+tools&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/rED61rGNdIQPE-8Mcw4qLJpkc8WH1HWTxKg-FK1dHnw/6ab6610c2f47f8a983327b75.html",
+    "total_time_taken": 15.45
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best ui ux design prototyping tools",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best ui ux design prototyping tools",
+    "total_results": 108000,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Is UX a dead field?",
+      "type": "ai_overview",
+      "page_token": "J5fKn3icHdDNboIwAADg7GU8KoXJoolZYKMYNmoEWtpeltoiMFto_EO57V32VHuaLbt_p-_rW7fd4eeBNuezPS1ns2EYpnXf17qayt7MxOneyZkUWu-EPCz9Jx887-UqOg3hSz-EW2wtec2cvEOWUQiUuzjyCAj8SZLKWF-BBjMaeLkht5KipABszGhYKKMdSflcFIGDjL6kugd_1kckcqs4BczB8wrzd0GbHJXairExeIwG0UFbrREoYeikJOTYLLwynr8hj8dlrPfYaa7I5RcJySOjZM3crNnqw1l1iBHNIfVqwLEyTAc5dOQ9G5NGlaTcmgUTntogGNxkC9odgNe4TcJsje6bkmN-qF0V1U4FbZ5qDlKiLlmRYOJlHR1hX4Cwm-zldeVN_sdWH3tzXtpjX_8C2694Gg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=J5fKn3icHdDNboIwAADg7GU8KoXJoolZYKMYNmoEWtpeltoiMFto_EO57V32VHuaLbt_p-_rW7fd4eeBNuezPS1ns2EYpnXf17qayt7MxOneyZkUWu-EPCz9Jx887-UqOg3hSz-EW2wtec2cvEOWUQiUuzjyCAj8SZLKWF-BBjMaeLkht5KipABszGhYKKMdSflcFIGDjL6kugd_1kckcqs4BczB8wrzd0GbHJXairExeIwG0UFbrREoYeikJOTYLLwynr8hj8dlrPfYaa7I5RcJySOjZM3crNnqw1l1iBHNIfVqwLEyTAc5dOQ9G5NGlaTcmgUTntogGNxkC9odgNe4TcJsje6bkmN-qF0V1U4FbZ5qDlKiLlmRYOJlHR1hX4Cwm-zldeVN_sdWH3tzXtpjX_8C2694Gg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZrNDBTWEp6TFhFM01uSXpORXAxYlRCbmREVlRXV3RoV1V4T1NFcGFWRjl3ZDFwa1kwRndRVzlUYURoNFpVcHZNa2RUY2tORGN6bDNiVUpTY1ZocExWYzFWRXd0UlV4S01VUkhaemhNVFVReU5UWXlVM1ZIT0U1SFVSSVhSekpITW1GMVpWWkNiMWhyZDA0MFVERnlMV0p2VVc4YUlrRkVjM0k1WmxGaWJubEVXbTlwZWxwU1NWbEZjRVZvWm1ORmRWWnhVMk13ZFVFIiwiZmN2IjoiMyIsImVpIjoiRzJHMmF1ZVZCb1hrd040UDFyLWJvUW8iLCJxYyI6IkNpTmlaWE4wSUhWcElIVjRJR1JsYzJsbmJpQndjbTkwYjNSNWNHbHVaeUIwYjI5c2N4QUFmZW1jRWo4IiwicXVlc3Rpb24iOiJJcyBVWCBhIGRlYWQgZmllbGQ/IiwibGsiOiJHaEpwY3lCMWVDQmhJR1JsWVdRZ1ptbGxiR1EiLCJicyI6ImMzMk9NUXZDTUJDRmNjMGtWVkE3SGVvaURvV0FjM0FSZ25QUjlXclM5TEJ0U3BLQ19mZW1kZEhGOWQ2NzkzM3N5QmJTUTM0SEJLVlJRVW02Vm9JdjA0UTg5Sy1mTXhQc2NLc3dBRG9Ob2RKUWFCOGdXRnQ3S0syTEsxa3VZOS1UYVFWUDB2bVV4NUdlUGkxMlpidEl1NUJwRUJwOGFqRFdxdW0zY3piWU1IVFVHc0gzNlRiU3lfODFkbUxyVVYxbTBkN3Byc2FIVmxBTWNKYUNiOUxWNkU4al9UdERtc19lIiwiaWQiOiJmY19HMkcyYXVlVkJvWGt3TjRQMXItYm9Rb181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZrNDBTWEp6TFhFM01uSXpORXAxYlRCbmREVlRXV3RoV1V4T1NFcGFWRjl3ZDFwa1kwRndRVzlUYURoNFpVcHZNa2RUY2tORGN6bDNiVUpTY1ZocExWYzFWRXd0UlV4S01VUkhaemhNVFVReU5UWXlVM1ZIT0U1SFVSSVhSekpITW1GMVpWWkNiMWhyZDA0MFVERnlMV0p2VVc4YUlrRkVjM0k1WmxGaWJubEVXbTlwZWxwU1NWbEZjRVZvWm1ORmRWWnhVMk13ZFVFIiwiZmN2IjoiMyIsImVpIjoiRzJHMmF1ZVZCb1hrd040UDFyLWJvUW8iLCJxYyI6IkNpTmlaWE4wSUhWcElIVjRJR1JsYzJsbmJpQndjbTkwYjNSNWNHbHVaeUIwYjI5c2N4QUFmZW1jRWo4IiwicXVlc3Rpb24iOiJJcyBVWCBhIGRlYWQgZmllbGQ%2FIiwibGsiOiJHaEpwY3lCMWVDQmhJR1JsWVdRZ1ptbGxiR1EiLCJicyI6ImMzMk9NUXZDTUJDRmNjMGtWVkE3SGVvaURvV0FjM0FSZ25QUjlXclM5TEJ0U3BLQ19mZW1kZEhGOWQ2NzkzM3N5QmJTUTM0SEJLVlJRVW02Vm9JdjA0UTg5Sy1mTXhQc2NLc3dBRG9Ob2RKUWFCOGdXRnQ3S0syTEsxa3VZOS1UYVFWUDB2bVV4NUdlUGkxMlpidEl1NUJwRUJwOGFqRFdxdW0zY3piWU1IVFVHc0gzNlRiU3lfODFkbUxyVVYxbTBkN3Byc2FIVmxBTWNKYUNiOUxWNkU4al9UdERtc19lIiwiaWQiOiJmY19HMkcyYXVlVkJvWGt3TjRQMXItYm9Rb181In0%3D"
+    },
+    {
+      "question": "What are the best tools for UX/UI design?",
+      "type": "ai_overview",
+      "page_token": "jpFN8HicHdBdboIwAADg7DI-CoXhoolZhlAYkSrFFunLAgWBlZ9OiQXfdpedaqdZsu8I3_dP2_Ti9-lcj6O8bTRNKbWshqFqyyUfOi27zT3XeNa2ecbFZvWyAq8XvnVvyt4Nyo6IlNTBegywxURkhQkOiSl03g4mEdYRtdBK9QkUbs2wWRjIRKKkCMUe-sx8itKOTLmHn5lfAdbD-8nlFgVy5kk6YoADlDDnQMmEuuKYPyDIyDqIvVCxFsbcG9vcpNekZ1-hiIxUWDJzWBYb0s47uucE66WLd6UvYwyhsT-zK4a1y3QZMt-Noc5n_AjqIqFJ1K3TzCwOCL5NvAFNDuDdawIb-2g-JOzEH2wiRiGoeFdYF2pPKpU7gc28McGGdaYdxYsLv2_Nxf_Y9uPSjRt5Hao_eQx4EQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=jpFN8HicHdBdboIwAADg7DI-CoXhoolZhlAYkSrFFunLAgWBlZ9OiQXfdpedaqdZsu8I3_dP2_Ti9-lcj6O8bTRNKbWshqFqyyUfOi27zT3XeNa2ecbFZvWyAq8XvnVvyt4Nyo6IlNTBegywxURkhQkOiSl03g4mEdYRtdBK9QkUbs2wWRjIRKKkCMUe-sx8itKOTLmHn5lfAdbD-8nlFgVy5kk6YoADlDDnQMmEuuKYPyDIyDqIvVCxFsbcG9vcpNekZ1-hiIxUWDJzWBYb0s47uucE66WLd6UvYwyhsT-zK4a1y3QZMt-Noc5n_AjqIqFJ1K3TzCwOCL5NvAFNDuDdawIb-2g-JOzEH2wiRiGoeFdYF2pPKpU7gc28McGGdaYdxYsLv2_Nxf_Y9uPSjRt5Hao_eQx4EQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZrNDBTWEp6TFhFM01uSXpORXAxYlRCbmREVlRXV3RoV1V4T1NFcGFWRjl3ZDFwa1kwRndRVzlUYURoNFpVcHZNa2RUY2tORGN6bDNiVUpTY1ZocExWYzFWRXd0UlV4S01VUkhaemhNVFVReU5UWXlVM1ZIT0U1SFVSSVhSekpITW1GMVpWWkNiMWhyZDA0MFVERnlMV0p2VVc4YUlrRkVjM0k1WmxGaWJubEVXbTlwZWxwU1NWbEZjRVZvWm1ORmRWWnhVMk13ZFVFIiwiZmN2IjoiMyIsImVpIjoiRzJHMmF1ZVZCb1hrd040UDFyLWJvUW8iLCJxYyI6IkNpTmlaWE4wSUhWcElIVjRJR1JsYzJsbmJpQndjbTkwYjNSNWNHbHVaeUIwYjI5c2N4QUFmZW1jRWo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVzdCB0b29scyBmb3IgVVgvVUkgZGVzaWduPyIsImxrIjoiR2hCaVpYTjBJSFY0SUhWcElIUnZiMnh6IiwiYnMiOiJjMzJPTVF2Q01CQ0ZjYzBrVlZBN0hlb2lEb1dBYzNBUmduUFI5V3JTOUxCdFNwS0NfZmVtZGRIRjlkNjc5MzNzeUJiU1EzNEhCS1ZSUVVtNlZvSXYwNFE4OUstZk14UHNjS3N3QURvTm9kSlFhQjhnV0Z0N0tLMkxLMWt1WTktVGFRVlAwdm1VeDVHZVBpMTJaYnRJdTVCcEVCcDhhakRXcXVtM2N6YllNSFRVR3NIMzZUYlN5XzgxZG1MclVWMW0wZDdwcnNhSFZsQU1jSmFDYjlMVjZFOGpfVHREbXNfZSIsImlkIjoiZmNfRzJHMmF1ZVZCb1hrd040UDFyLWJvUW9fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZrNDBTWEp6TFhFM01uSXpORXAxYlRCbmREVlRXV3RoV1V4T1NFcGFWRjl3ZDFwa1kwRndRVzlUYURoNFpVcHZNa2RUY2tORGN6bDNiVUpTY1ZocExWYzFWRXd0UlV4S01VUkhaemhNVFVReU5UWXlVM1ZIT0U1SFVSSVhSekpITW1GMVpWWkNiMWhyZDA0MFVERnlMV0p2VVc4YUlrRkVjM0k1WmxGaWJubEVXbTlwZWxwU1NWbEZjRVZvWm1ORmRWWnhVMk13ZFVFIiwiZmN2IjoiMyIsImVpIjoiRzJHMmF1ZVZCb1hrd040UDFyLWJvUW8iLCJxYyI6IkNpTmlaWE4wSUhWcElIVjRJR1JsYzJsbmJpQndjbTkwYjNSNWNHbHVaeUIwYjI5c2N4QUFmZW1jRWo4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgYmVzdCB0b29scyBmb3IgVVgvVUkgZGVzaWduPyIsImxrIjoiR2hCaVpYTjBJSFY0SUhWcElIUnZiMnh6IiwiYnMiOiJjMzJPTVF2Q01CQ0ZjYzBrVlZBN0hlb2lEb1dBYzNBUmduUFI5V3JTOUxCdFNwS0NfZmVtZGRIRjlkNjc5MzNzeUJiU1EzNEhCS1ZSUVVtNlZvSXYwNFE4OUstZk14UHNjS3N3QURvTm9kSlFhQjhnV0Z0N0tLMkxLMWt1WTktVGFRVlAwdm1VeDVHZVBpMTJaYnRJdTVCcEVCcDhhakRXcXVtM2N6YllNSFRVR3NIMzZUYlN5XzgxZG1MclVWMW0wZDdwcnNhSFZsQU1jSmFDYjlMVjZFOGpfVHREbXNfZSIsImlkIjoiZmNfRzJHMmF1ZVZCb1hrd040UDFyLWJvUW9fNSJ9"
+    },
+    {
+      "question": "Is Figma make good for prototyping?",
+      "type": "ai_overview",
+      "page_token": "TAIr83icHdBdToMwAADgeBkfHT9zuiWLCQ4YbGWh9IfyYmpxA1oK0zoYb97FU3kajTf48n19q1rLn5tLZUz_sZrNhmG4O3XdSb3dia6d8Y-rFjPBlXrlQq4WDwv76SjW_mfkPZ8jL8V9TzbQynTJIV4SZFc5bxLGg2rPdRCX1DBkLc84TCpojQSoYovt2IUbVfHanhDxENbYwEaZApVSoPLMdLIT1NRALgGlpkfI2wlnBMIXVyIV3lOzS5RHC2lnYJPa6aQk8ZWGAfxMrDHOVOKARkWZHBepLvb7nJhDWJJDOB-L8NFlVvyeO0FNac_hBIbDtnJgmMSshT33q5RZJfSrcgukuLKcKCLjCw2NixqYgjwyrF3C17GrUwwn0aiWhNaQ0PsMupHz5zi-hYHCeH5lTrBJlTchHdnlcHsUl7V7-_-5fjm2ZtW_d6dfZrCErA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TAIr83icHdBdToMwAADgeBkfHT9zuiWLCQ4YbGWh9IfyYmpxA1oK0zoYb97FU3kajTf48n19q1rLn5tLZUz_sZrNhmG4O3XdSb3dia6d8Y-rFjPBlXrlQq4WDwv76SjW_mfkPZ8jL8V9TzbQynTJIV4SZFc5bxLGg2rPdRCX1DBkLc84TCpojQSoYovt2IUbVfHanhDxENbYwEaZApVSoPLMdLIT1NRALgGlpkfI2wlnBMIXVyIV3lOzS5RHC2lnYJPa6aQk8ZWGAfxMrDHOVOKARkWZHBepLvb7nJhDWJJDOB-L8NFlVvyeO0FNac_hBIbDtnJgmMSshT33q5RZJfSrcgukuLKcKCLjCw2NixqYgjwyrF3C17GrUwwn0aiWhNaQ0PsMupHz5zi-hYHCeH5lTrBJlTchHdnlcHsUl7V7-_-5fjm2ZtW_d6dfZrCErA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZrNDBTWEp6TFhFM01uSXpORXAxYlRCbmREVlRXV3RoV1V4T1NFcGFWRjl3ZDFwa1kwRndRVzlUYURoNFpVcHZNa2RUY2tORGN6bDNiVUpTY1ZocExWYzFWRXd0UlV4S01VUkhaemhNVFVReU5UWXlVM1ZIT0U1SFVSSVhSekpITW1GMVpWWkNiMWhyZDA0MFVERnlMV0p2VVc4YUlrRkVjM0k1WmxGaWJubEVXbTlwZWxwU1NWbEZjRVZvWm1ORmRWWnhVMk13ZFVFIiwiZmN2IjoiMyIsImVpIjoiRzJHMmF1ZVZCb1hrd040UDFyLWJvUW8iLCJxYyI6IkNpTmlaWE4wSUhWcElIVjRJR1JsYzJsbmJpQndjbTkwYjNSNWNHbHVaeUIwYjI5c2N4QUFmZW1jRWo4IiwicXVlc3Rpb24iOiJJcyBGaWdtYSBtYWtlIGdvb2QgZm9yIHByb3RvdHlwaW5nPyIsImxrIjoiR2lKcGN5Qm1hV2R0WVNCdFlXdGxJR2R2YjJRZ1ptOXlJSEJ5YjNSdmRIbHdhVzVuIiwiYnMiOiJjMzJPTVF2Q01CQ0ZjYzBrVlZBN0hlb2lEb1dBYzNBUmduUFI5V3JTOUxCdFNwS0NfZmVtZGRIRjlkNjc5MzNzeUJiU1EzNEhCS1ZSUVVtNlZvSXYwNFE4OUstZk14UHNjS3N3QURvTm9kSlFhQjhnV0Z0N0tLMkxLMWt1WTktVGFRVlAwdm1VeDVHZVBpMTJaYnRJdTVCcEVCcDhhakRXcXVtM2N6YllNSFRVR3NIMzZUYlN5XzgxZG1MclVWMW0wZDdwcnNhSFZsQU1jSmFDYjlMVjZFOGpfVHREbXNfZSIsImlkIjoiZmNfRzJHMmF1ZVZCb1hrd040UDFyLWJvUW9fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZrNDBTWEp6TFhFM01uSXpORXAxYlRCbmREVlRXV3RoV1V4T1NFcGFWRjl3ZDFwa1kwRndRVzlUYURoNFpVcHZNa2RUY2tORGN6bDNiVUpTY1ZocExWYzFWRXd0UlV4S01VUkhaemhNVFVReU5UWXlVM1ZIT0U1SFVSSVhSekpITW1GMVpWWkNiMWhyZDA0MFVERnlMV0p2VVc4YUlrRkVjM0k1WmxGaWJubEVXbTlwZWxwU1NWbEZjRVZvWm1ORmRWWnhVMk13ZFVFIiwiZmN2IjoiMyIsImVpIjoiRzJHMmF1ZVZCb1hrd040UDFyLWJvUW8iLCJxYyI6IkNpTmlaWE4wSUhWcElIVjRJR1JsYzJsbmJpQndjbTkwYjNSNWNHbHVaeUIwYjI5c2N4QUFmZW1jRWo4IiwicXVlc3Rpb24iOiJJcyBGaWdtYSBtYWtlIGdvb2QgZm9yIHByb3RvdHlwaW5nPyIsImxrIjoiR2lKcGN5Qm1hV2R0WVNCdFlXdGxJR2R2YjJRZ1ptOXlJSEJ5YjNSdmRIbHdhVzVuIiwiYnMiOiJjMzJPTVF2Q01CQ0ZjYzBrVlZBN0hlb2lEb1dBYzNBUmduUFI5V3JTOUxCdFNwS0NfZmVtZGRIRjlkNjc5MzNzeUJiU1EzNEhCS1ZSUVVtNlZvSXYwNFE4OUstZk14UHNjS3N3QURvTm9kSlFhQjhnV0Z0N0tLMkxLMWt1WTktVGFRVlAwdm1VeDVHZVBpMTJaYnRJdTVCcEVCcDhhakRXcXVtM2N6YllNSFRVR3NIMzZUYlN5XzgxZG1MclVWMW0wZDdwcnNhSFZsQU1jSmFDYjlMVjZFOGpfVHREbXNfZSIsImlkIjoiZmNfRzJHMmF1ZVZCb1hrd040UDFyLWJvUW9fNSJ9"
+    },
+    {
+      "question": "Is UI/UX replaced by AI?",
+      "type": "ai_overview",
+      "page_token": "TKC3anicHdDPboIwAIDx7GU8ChXngolZxqQ4nGUUKMhlgVb-SAtVmRVue5c91Z5mZtcvv9P3_cPrtvl9SKq-l5elpimlpmXXlfwwpZ3QssvQUo1mnOcZbZaLpwV4LujKvijrtVOWH0lJ1lgPgD36s34RhmxkRjmEIdy8J24RJXIkIzlFTqfYmKa5g3UGXU4E2QUtR-z4du8opvr8Fgng49isqW2eYw5R2pinQyJDQlJEWrdGazwPSLVNAVER5yhvyt6LoEJQct_oHol9u9AWfbHQlSEvZyFH_l6g-d3sCDE_GKiOqdPMgohfPacMoE4HPLoVi0nsC3OfGcxD8OVGa1DnAF6d2rXwBg1enEYUWIptKm8H_ZG21navY84GYJFWCircGRYunhT0ujIm_8dWn4Xol_LclX8ebnsN",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=TKC3anicHdDPboIwAIDx7GU8ChXngolZxqQ4nGUUKMhlgVb-SAtVmRVue5c91Z5mZtcvv9P3_cPrtvl9SKq-l5elpimlpmXXlfwwpZ3QssvQUo1mnOcZbZaLpwV4LujKvijrtVOWH0lJ1lgPgD36s34RhmxkRjmEIdy8J24RJXIkIzlFTqfYmKa5g3UGXU4E2QUtR-z4du8opvr8Fgng49isqW2eYw5R2pinQyJDQlJEWrdGazwPSLVNAVER5yhvyt6LoEJQct_oHol9u9AWfbHQlSEvZyFH_l6g-d3sCDE_GKiOqdPMgohfPacMoE4HPLoVi0nsC3OfGcxD8OVGa1DnAF6d2rXwBg1enEYUWIptKm8H_ZG21navY84GYJFWCircGRYunhT0ujIm_8dWn4Xol_LclX8ebnsN",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZrNDBTWEp6TFhFM01uSXpORXAxYlRCbmREVlRXV3RoV1V4T1NFcGFWRjl3ZDFwa1kwRndRVzlUYURoNFpVcHZNa2RUY2tORGN6bDNiVUpTY1ZocExWYzFWRXd0UlV4S01VUkhaemhNVFVReU5UWXlVM1ZIT0U1SFVSSVhSekpITW1GMVpWWkNiMWhyZDA0MFVERnlMV0p2VVc4YUlrRkVjM0k1WmxGaWJubEVXbTlwZWxwU1NWbEZjRVZvWm1ORmRWWnhVMk13ZFVFIiwiZmN2IjoiMyIsImVpIjoiRzJHMmF1ZVZCb1hrd040UDFyLWJvUW8iLCJxYyI6IkNpTmlaWE4wSUhWcElIVjRJR1JsYzJsbmJpQndjbTkwYjNSNWNHbHVaeUIwYjI5c2N4QUFmZW1jRWo4IiwicXVlc3Rpb24iOiJJcyBVSS9VWCByZXBsYWNlZCBieSBBST8iLCJsayI6IkdoZHBjeUIxYVNCMWVDQnlaWEJzWVdObFpDQmllU0JoYVEiLCJicyI6ImMzMk9NUXZDTUJDRmNjMGtWVkE3SGVvaURvV0FjM0FSZ25QUjlXclM5TEJ0U3BLQ19mZW1kZEhGOWQ2NzkzM3N5QmJTUTM0SEJLVlJRVW02Vm9JdjA0UTg5Sy1mTXhQc2NLc3dBRG9Ob2RKUWFCOGdXRnQ3S0syTEsxa3VZOS1UYVFWUDB2bVV4NUdlUGkxMlpidEl1NUJwRUJwOGFqRFdxdW0zY3piWU1IVFVHc0gzNlRiU3lfODFkbUxyVVYxbTBkN3Byc2FIVmxBTWNKYUNiOUxWNkU4al9UdERtc19lIiwiaWQiOiJmY19HMkcyYXVlVkJvWGt3TjRQMXItYm9Rb181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlZrNDBTWEp6TFhFM01uSXpORXAxYlRCbmREVlRXV3RoV1V4T1NFcGFWRjl3ZDFwa1kwRndRVzlUYURoNFpVcHZNa2RUY2tORGN6bDNiVUpTY1ZocExWYzFWRXd0UlV4S01VUkhaemhNVFVReU5UWXlVM1ZIT0U1SFVSSVhSekpITW1GMVpWWkNiMWhyZDA0MFVERnlMV0p2VVc4YUlrRkVjM0k1WmxGaWJubEVXbTlwZWxwU1NWbEZjRVZvWm1ORmRWWnhVMk13ZFVFIiwiZmN2IjoiMyIsImVpIjoiRzJHMmF1ZVZCb1hrd040UDFyLWJvUW8iLCJxYyI6IkNpTmlaWE4wSUhWcElIVjRJR1JsYzJsbmJpQndjbTkwYjNSNWNHbHVaeUIwYjI5c2N4QUFmZW1jRWo4IiwicXVlc3Rpb24iOiJJcyBVSS9VWCByZXBsYWNlZCBieSBBST8iLCJsayI6IkdoZHBjeUIxYVNCMWVDQnlaWEJzWVdObFpDQmllU0JoYVEiLCJicyI6ImMzMk9NUXZDTUJDRmNjMGtWVkE3SGVvaURvV0FjM0FSZ25QUjlXclM5TEJ0U3BLQ19mZW1kZEhGOWQ2NzkzM3N5QmJTUTM0SEJLVlJRVW02Vm9JdjA0UTg5Sy1mTXhQc2NLc3dBRG9Ob2RKUWFCOGdXRnQ3S0syTEsxa3VZOS1UYVFWUDB2bVV4NUdlUGkxMlpidEl1NUJwRUJwOGFqRFdxdW0zY3piWU1IVFVHc0gzNlRiU3lfODFkbUxyVVYxbTBkN3Byc2FIVmxBTWNKYUNiOUxWNkU4al9UdERtc19lIiwiaWQiOiJmY19HMkcyYXVlVkJvWGt3TjRQMXItYm9Rb181In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "3AkREHiczVbdcqJIFH6AfY7lxkT5iz-poqa625ag0YhGE72hAEmLIm1ARHM377IPtbVPsw2iYkadzFxs7anCbk6fv-4-H5_f__Jcf_7PH39PV6tleF8qxXFcJJQSzynadFEyw61vl96oFwb29BvxlCjkpp7i-FwUeY4SFxDQdA1pwVBsfJiqF42l3tpyN1jfAtpXG_74tfkxUWsS03V6aB4OX-6WE3U41xodfvTa8-yY264VibNDheccV1FFVTQjZwjp6zzuyF0huLWoTrm0EMWwzNCZsTo3s7BklNjP_E-pzl6KYdHxi-pjLGyoVJ3320WRF6XiU8lcMAPwnwkEGtABAoCwAV-2U78UDeMkENJzKoKypYOmntgwmbPUTC6mhZkv1snOvx5_VGOJzfm9yUmmvGinQRtkFxGSNBBC2pe2sxc92wHcp71semEp82wd64PgOL-SeXQanQD8RiA8OuWdmXp6UrS2v7Y7AOUuQA8I0CvJAKKgvtChpoNrrZBaBmgQZ_NHILBtlyaENS5fsgI2CCXXntrpJAiTfkbPNZ42YFTW358DAw-ea10RWzr_0n1w7-LOSC_ZFrPzqDlxJsbU4L-l74Io3PE1qVK9SYFkhwckhXkktZsLayYGa16gxcciFPYwQofz-XQtmL2f7QGIMtOz9wiP-sP1YUBaORN6iFNnbUt2nb53obqdTNp7TTXFlZzPtT93As7D6LNRAqO0Fga93nEp5wpBy_3RNRH5zBY_HQoE9rGEXTNBcgj06ZBc0NMOGz5t3FShI8K8BuxwHklWkn0sNYFX74iKLJAGkg82IBmAc4WlqyTngAfsSVoeIx2BHsJQB_0sjJ564CwXcvP3Ai70QlIyBi_4KkAvS-MLNgw2GV4-tX8eNg-RgZsDV25CXw6HM36K5FgLns0XySPnYUIX1i8wjv1_AtKBj-iOGC4ByUkmPwUSAwW5xkfpz5GPmskwwPgSkN7Trv2Rj6p7k1ym00PRIM4DKeUjSC7x0a8CCV0GEroKpNY5IGlXgJTw0SmQ5id8hM7z0QFIv8NHjd_koxRXzm44JadoRi6TVPAhdzZlH83mH5VW2Wtsyn1_ihrb9pr8lKTeFqv7hTnxbgx3cg_F5mo7uTGYgt47E-5dsZxwVYjcQrQpTJzQJX5hGdAVXW2Xrk8KK8r-tXILL6AKb5bt1wqdTTqLZTR-fe9K9qir9oNBrTIf-nENd4dOu9aqPNlqNwxh46HajIRotN64dLW-7YjdibR9fPfFFS8uy1Zj1DGr8fRp6XqBiCiWjdHMapafhNttyx0bTdwv30KjPDaHgbqZOyReN5OvTrVT66umFC2RkVYVKs7YqHfVNj_oxhzbVegoArcIbIU1mUxARwcvhDUiShuUPQzCKGZPGegYcqFtGk64Vt7kGu_UKnLZerPf7gSbWxB2AIoscKEfKMK_4u1dfg",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=3AkREHiczVbdcqJIFH6AfY7lxkT5iz-poqa625ag0YhGE72hAEmLIm1ARHM377IPtbVPsw2iYkadzFxs7anCbk6fv-4-H5_f__Jcf_7PH39PV6tleF8qxXFcJJQSzynadFEyw61vl96oFwb29BvxlCjkpp7i-FwUeY4SFxDQdA1pwVBsfJiqF42l3tpyN1jfAtpXG_74tfkxUWsS03V6aB4OX-6WE3U41xodfvTa8-yY264VibNDheccV1FFVTQjZwjp6zzuyF0huLWoTrm0EMWwzNCZsTo3s7BklNjP_E-pzl6KYdHxi-pjLGyoVJ3320WRF6XiU8lcMAPwnwkEGtABAoCwAV-2U78UDeMkENJzKoKypYOmntgwmbPUTC6mhZkv1snOvx5_VGOJzfm9yUmmvGinQRtkFxGSNBBC2pe2sxc92wHcp71semEp82wd64PgOL-SeXQanQD8RiA8OuWdmXp6UrS2v7Y7AOUuQA8I0CvJAKKgvtChpoNrrZBaBmgQZ_NHILBtlyaENS5fsgI2CCXXntrpJAiTfkbPNZ42YFTW358DAw-ea10RWzr_0n1w7-LOSC_ZFrPzqDlxJsbU4L-l74Io3PE1qVK9SYFkhwckhXkktZsLayYGa16gxcciFPYwQofz-XQtmL2f7QGIMtOz9wiP-sP1YUBaORN6iFNnbUt2nb53obqdTNp7TTXFlZzPtT93As7D6LNRAqO0Fga93nEp5wpBy_3RNRH5zBY_HQoE9rGEXTNBcgj06ZBc0NMOGz5t3FShI8K8BuxwHklWkn0sNYFX74iKLJAGkg82IBmAc4WlqyTngAfsSVoeIx2BHsJQB_0sjJ564CwXcvP3Ai70QlIyBi_4KkAvS-MLNgw2GV4-tX8eNg-RgZsDV25CXw6HM36K5FgLns0XySPnYUIX1i8wjv1_AtKBj-iOGC4ByUkmPwUSAwW5xkfpz5GPmskwwPgSkN7Trv2Rj6p7k1ym00PRIM4DKeUjSC7x0a8CCV0GEroKpNY5IGlXgJTw0SmQ5id8hM7z0QFIv8NHjd_koxRXzm44JadoRi6TVPAhdzZlH83mH5VW2Wtsyn1_ihrb9pr8lKTeFqv7hTnxbgx3cg_F5mo7uTGYgt47E-5dsZxwVYjcQrQpTJzQJX5hGdAVXW2Xrk8KK8r-tXILL6AKb5bt1wqdTTqLZTR-fe9K9qir9oNBrTIf-nENd4dOu9aqPNlqNwxh46HajIRotN64dLW-7YjdibR9fPfFFS8uy1Zj1DGr8fRp6XqBiCiWjdHMapafhNttyx0bTdwv30KjPDaHgbqZOyReN5OvTrVT66umFC2RkVYVKs7YqHfVNj_oxhzbVegoArcIbIU1mUxARwcvhDUiShuUPQzCKGZPGegYcqFtGk64Vt7kGu_UKnLZerPf7gSbWxB2AIoscKEfKMK_4u1dfg"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 31 Prototyping Tools for UI/UX Designers",
+      "link": "https://startupstash.com/prototyping-tools/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVb_kJI2iUSlIgvzr79h5GZYepc9ZmzllqB7lCCFX9jC-F4wkC_nkc4zsfyJdR2IE2BFnm7RBJI5DxTC8vCG_9Ue6nBgfd_hJOJcJTikYjgh2p_RcbAcfh6YRZR42gQQ&ved=2ahUKEwinj9-Z1omXAxUFMtAFHdbfJqQQFnoECBoQAQ&uoh=1",
+      "displayed_link": "https://startupstash.com › Top Tools",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVHcEz_ZkT_ZkT_ZkT_ZkT_ZkT_ZEL_Xzr_i3P_ppT_____yL3_5-L_WC7_c1T_2dH_r5__-fcaoeU5AAAABXRSTlMAden5-E6hneoAAADDSURBVHgBjZNREoMgDERRzS4Esfb-l20VLe1ETffnffCG2YEkhK4fxosMffc-l9t0ob8X-jDcC0MYN4ImkDVjFRiTSWQTEPUkER-B6UxIbDcgTyYZaB3AYkJIEwRzTkTjniaUh-pCEa4sF4JGCiutgPmp-pxx8EdAfSpVnYhK4Fuo4aKqueCgEaRkXYtipxWAaSsIVhrBFDVCLfrgzmIFKcsq1MKngjDlGY3-Z_nf_e_A0Bk5Z2idsXcXx109d3nd9X8BNY0buk9qH6sAAAAASUVORK5CYII.png",
+      "snippet": "Below is a curated list of the top prototyping tools used by UI/UX designers, along with their key features and pricing, to help you pick the right fit for your ...",
+      "snippet_highlighted_words": [
+        "top prototyping tools used by UI/UX designers"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Below is a curated list of the top prototyping tools used by UI/UX designers, along with their key features and pricing, to help you pick the right fit for your ...",
+          "source_info_link": "https://startupstash.com/prototyping-tools/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAANlBMVEVHcEz_ZkT_ZkT_ZkT_ZkT_ZkT_ZEL_Xzr_i3P_ppT_____yL3_5-L_WC7_c1T_2dH_r5__-fcaoeU5AAAABXRSTlMAden5-E6hneoAAADDSURBVHgBjZNREoMgDERRzS4Esfb-l20VLe1ETffnffCG2YEkhK4fxosMffc-l9t0ob8X-jDcC0MYN4ImkDVjFRiTSWQTEPUkER-B6UxIbDcgTyYZaB3AYkJIEwRzTkTjniaUh-pCEa4sF4JGCiutgPmp-pxx8EdAfSpVnYhK4Fuo4aKqueCgEaRkXYtipxWAaSsIVhrBFDVCLfrgzmIFKcsq1MKngjDlGY3-Z_nf_e_A0Bk5Z2idsXcXx109d3nd9X8BNY0buk9qH6sAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmJfa0pJMmlVU2xJZ3Z6cjc5aDVHWlllcGM5Wm16bGxxQjdsQ0NGWDlqQy1GNHdrQ19ua2M0enNmeUpkUjJJRTJCRm5tN1JCSkk1RHhUQzh2Q0dfOVVlNm5CZ2ZkX2hKT0pjSlRpa1lqZ2gycF9SY2JBY2ZoNllSWlI0MmdRURIEGgIIABrHBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCjBggAEAAYACAAKhYKBGJlc3QVNHQTQBoEZ29vZBoDdG9wKkUKAnVpFRgmhkAaDnVzZXIgaW50ZXJmYWNlGg91c2VyIGludGVyZmFjZXMaBHVpdXgaCnVpdXhkZXNpZ24aB2l2O3A7dWkqLgoCdXgVU8V1QBoEdWl1eBoKdWl1eGRlc2lnbhoIdXhkZXNpZ24aB2l2O3A7dXgqXwoGZGVzaWduFSjYD0AaCGRlc2lnbmVyGglkZXNpZ25lcnMaCWRlc2lnbmluZxoHZGVzaWducxoKdWl1eGRlc2lnbhoIdXhkZXNpZ24aEWRlc2lnbnByb3RvdHlwaW5nKkkKC3Byb3RvdHlwaW5nFbG7q0AaEWRlc2lnbnByb3RvdHlwaW5nGhBwcm90b3R5cGluZ3Rvb2xzGhBpdjtwO3Byb3RvdHlwaW5nKjUKBXRvb2xzFSpY00AaBGFwcHMaCWVxdWlwbWVudBoEdG9vbBoQcHJvdG90eXBpbmd0b29sczKUAS9nb3RvP3VybD1DQUVTWXdIck96QVZiX2tKSTJpVVNsSWd2enI3OWg1R1pZZXBjOVptemxscUI3bENDRlg5akMtRjR3a0NfbmtjNHpzZnlKZFIySUUyQkZubTdSQkpJNUR4VEM4dkNHXzlVZTZuQmdmZF9oSk9KY0pUaWtZamdoMnBfUmNiQWNmaDZZUlpSNDJnUVE6WDxiPlRvcDwvYj4gMzEgPGI-UHJvdG90eXBpbmcgVG9vbHM8L2I-IGZvciA8Yj5VSTwvYj4vPGI-VVggRGVzaWduZXJzPC9iPiAtIFN0YXJ0dXAgU3Rhc2hCsAFCZWxvdyBpcyBhIGN1cmF0ZWQgbGlzdCBvZiB0aGUgPGI-dG9wIHByb3RvdHlwaW5nIHRvb2xzIHVzZWQgYnkgVUkvVVggZGVzaWduZXJzPC9iPiwgYWxvbmcgd2l0aCB0aGVpciBrZXkgZmVhdHVyZXMgYW5kIHByaWNpbmcsIHRvIGhlbHAgeW91IHBpY2sgdGhlIHJpZ2h0IGZpdCBmb3IgeW91ciZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmJfa0pJMmlVU2xJZ3Z6cjc5aDVHWlllcGM5Wm16bGxxQjdsQ0NGWDlqQy1GNHdrQ19ua2M0enNmeUpkUjJJRTJCRm5tN1JCSkk1RHhUQzh2Q0dfOVVlNm5CZ2ZkX2hKT0pjSlRpa1lqZ2gycF9SY2JBY2ZoNllSWlI0MmdRURIEGgIIABrHBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCjBggAEAAYACAAKhYKBGJlc3QVNHQTQBoEZ29vZBoDdG9wKkUKAnVpFRgmhkAaDnVzZXIgaW50ZXJmYWNlGg91c2VyIGludGVyZmFjZXMaBHVpdXgaCnVpdXhkZXNpZ24aB2l2O3A7dWkqLgoCdXgVU8V1QBoEdWl1eBoKdWl1eGRlc2lnbhoIdXhkZXNpZ24aB2l2O3A7dXgqXwoGZGVzaWduFSjYD0AaCGRlc2lnbmVyGglkZXNpZ25lcnMaCWRlc2lnbmluZxoHZGVzaWducxoKdWl1eGRlc2lnbhoIdXhkZXNpZ24aEWRlc2lnbnByb3RvdHlwaW5nKkkKC3Byb3RvdHlwaW5nFbG7q0AaEWRlc2lnbnByb3RvdHlwaW5nGhBwcm90b3R5cGluZ3Rvb2xzGhBpdjtwO3Byb3RvdHlwaW5nKjUKBXRvb2xzFSpY00AaBGFwcHMaCWVxdWlwbWVudBoEdG9vbBoQcHJvdG90eXBpbmd0b29sczKUAS9nb3RvP3VybD1DQUVTWXdIck96QVZiX2tKSTJpVVNsSWd2enI3OWg1R1pZZXBjOVptemxscUI3bENDRlg5akMtRjR3a0NfbmtjNHpzZnlKZFIySUUyQkZubTdSQkpJNUR4VEM4dkNHXzlVZTZuQmdmZF9oSk9KY0pUaWtZamdoMnBfUmNiQWNmaDZZUlpSNDJnUVE6WDxiPlRvcDwvYj4gMzEgPGI-UHJvdG90eXBpbmcgVG9vbHM8L2I-IGZvciA8Yj5VSTwvYj4vPGI-VVggRGVzaWduZXJzPC9iPiAtIFN0YXJ0dXAgU3Rhc2hCsAFCZWxvdyBpcyBhIGN1cmF0ZWQgbGlzdCBvZiB0aGUgPGI-dG9wIHByb3RvdHlwaW5nIHRvb2xzIHVzZWQgYnkgVUkvVVggZGVzaWduZXJzPC9iPiwgYWxvbmcgd2l0aCB0aGVpciBrZXkgZmVhdHVyZXMgYW5kIHByaWNpbmcsIHRvIGhlbHAgeW91IHBpY2sgdGhlIHJpZ2h0IGZpdCBmb3IgeW91ciZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+      "source": "Startup Stash",
+      "read_more_link": "https://startupstash.com/prototyping-tools/#:~:text=Below%20is%20a%20curated%20list,right%20fit%20for%20your%20workflow."
+    },
+    {
+      "position": 2,
+      "title": "The best UI prototyping tools",
+      "link": "https://www.creativebloq.com/buying-guides/best-ui-prototyping-tools",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVQGge3L-CoEqynzJ2UZMmPqfpP0RGvpCBCaZmqplEHEUOq5e8ISUGz_MJppw0djGJtKih9So1M2_E3tDPWEoc4VhUKFnHEk6hD4Nw6jzLjyVO9UK2OavlarR495yjOmBK36YqwW1bRY39_HHssr9dy0wysjSh8Ls&ved=2ahUKEwinj9-Z1omXAxUFMtAFHdbfJqQQFnoECC4QAQ&uoh=1",
+      "displayed_link": "https://www.creativebloq.com › Web Design › UX & UI",
+      "favicon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAw_ndySAuwD-Af4DgWADC30NHuDXBusPMWOvVI-bb0zivKAAD51tRE8J-fVbTq3PTuhmW6Jr7dTW7g5jsCgt-DTe42Coz2hjmVC4uMI33bB434Lm5GHVyOzf8YzXrRvtWcROU_eLoG2OK2EZxb4-jlBLI5B6CZECnd-vOSv4xwosxgeITJXigp5pGzKSiHKokrS3GviH17viv-fEVUTcm09fFs18mov0GHBWxLl-drTJvxD6VwyAFWnnA-sT4Ep8qf066Kwb31NcxKq2NezmPLS5iWNThpqOrqNeRCybtbHbhwrNoFphIxO-AMYxv0p7ELJRSXKE7GQcLZcJ5wr4GiUFVaq7cJNtPzjLc6bmgAAA.webp",
+      "date": "Jul 30, 2022",
+      "snippet": "The best UI prototyping tools available now · 01. Marvel · 02. Figma · 03. UXPin · 04. ProtoPie · 05. Azure RP · 06. Adobe XD · 07. Framer · 08.",
+      "snippet_highlighted_words": [
+        "Marvel"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The best UI prototyping tools available now · 01. Marvel · 02. Figma · 03. UXPin · 04. ProtoPie · 05. Azure RP · 06. Adobe XD · 07. Framer · 08.",
+          "source_info_link": "https://www.creativebloq.com/buying-guides/best-ui-prototyping-tools",
+          "icon": "https://serpapi.com/images/i/UklGRjoBAABXRUJQVlA4IC4BAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAw_ndySAuwD-Af4DgWADC30NHuDXBusPMWOvVI-bb0zivKAAD51tRE8J-fVbTq3PTuhmW6Jr7dTW7g5jsCgt-DTe42Coz2hjmVC4uMI33bB434Lm5GHVyOzf8YzXrRvtWcROU_eLoG2OK2EZxb4-jlBLI5B6CZECnd-vOSv4xwosxgeITJXigp5pGzKSiHKokrS3GviH17viv-fEVUTcm09fFs18mov0GHBWxLl-drTJvxD6VwyAFWnnA-sT4Ep8qf066Kwb31NcxKq2NezmPLS5iWNThpqOrqNeRCybtbHbhwrNoFphIxO-AMYxv0p7ELJRSXKE7GQcLZcJ5wr4GiUFVaq7cJNtPzjLc6bmgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlFHZ2UzTC1Db0VxeW56SjJVWk1tUHFmcFAwUkd2cENCQ2FabXFwbEVIRVVPcTVlOElTVUd6X01KcHB3MGRqR0p0S2loOVNvMU0yX0UzdERQV0VvYzRWaFVLRm5IRWs2aEQ0Tnc2anpManlWTzlVSzJPYXZsYXJSNDk1eWpPbUJLMzZZcXdXMWJSWTM5X0hIc3NyOWR5MHd5c2pTaDhMcxIEGgIIABrlBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL8GCAAQABgAIAAqFgoEYmVzdBXmVMdAGgRnb29kGgN0b3AqRQoCdWkVhP23QBoOdXNlciBpbnRlcmZhY2UaD3VzZXIgaW50ZXJmYWNlcxoEdWl1eBoKdWl1eGRlc2lnbhoHaXY7cDt1aSouCgJ1eBUAKgpAGgR1aXV4Ggp1aXV4ZGVzaWduGgh1eGRlc2lnbhoHaXY7cDt1eCpfCgZkZXNpZ24VrlGgQBoIZGVzaWduZXIaCWRlc2lnbmVycxoJZGVzaWduaW5nGgdkZXNpZ25zGgp1aXV4ZGVzaWduGgh1eGRlc2lnbhoRZGVzaWducHJvdG90eXBpbmcqSQoLcHJvdG90eXBpbmcV1C6fQBoRZGVzaWducHJvdG90eXBpbmcaEHByb3RvdHlwaW5ndG9vbHMaEGl2O3A7cHJvdG90eXBpbmcqNQoFdG9vbHMVRBOrQBoEYXBwcxoJZXF1aXBtZW50GgR0b29sGhBwcm90b3R5cGluZ3Rvb2xzMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlFHZ2UzTC1Db0VxeW56SjJVWk1tUHFmcFAwUkd2cENCQ2FabXFwbEVIRVVPcTVlOElTVUd6X01KcHB3MGRqR0p0S2loOVNvMU0yX0UzdERQV0VvYzRWaFVLRm5IRWs2aEQ0Tnc2anpManlWTzlVSzJPYXZsYXJSNDk1eWpPbUJLMzZZcXdXMWJSWTM5X0hIc3NyOWR5MHd5c2pTaDhMczo0VGhlIDxiPmJlc3QgVUkgcHJvdG90eXBpbmcgdG9vbHM8L2I-IC0gQ3JlYXRpdmUgQmxvcULPAVRoZSBiZXN0IFVJIHByb3RvdHlwaW5nIHRvb2xzIGF2YWlsYWJsZSBub3cgJm1pZGRvdDsgMDEuIDxiPk1hcnZlbDwvYj4gJm1pZGRvdDsgMDIuIEZpZ21hICZtaWRkb3Q7IDAzLiBVWFBpbiAmbWlkZG90OyAwNC4gUHJvdG9QaWUgJm1pZGRvdDsgMDUuIEF6dXJlIFJQICZtaWRkb3Q7IDA2LiBBZG9iZSBYRCAmbWlkZG90OyAwNy4gRnJhbWVyICZtaWRkb3Q7IDA4LlIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlFHZ2UzTC1Db0VxeW56SjJVWk1tUHFmcFAwUkd2cENCQ2FabXFwbEVIRVVPcTVlOElTVUd6X01KcHB3MGRqR0p0S2loOVNvMU0yX0UzdERQV0VvYzRWaFVLRm5IRWs2aEQ0Tnc2anpManlWTzlVSzJPYXZsYXJSNDk1eWpPbUJLMzZZcXdXMWJSWTM5X0hIc3NyOWR5MHd5c2pTaDhMcxIEGgIIABrlBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL8GCAAQABgAIAAqFgoEYmVzdBXmVMdAGgRnb29kGgN0b3AqRQoCdWkVhP23QBoOdXNlciBpbnRlcmZhY2UaD3VzZXIgaW50ZXJmYWNlcxoEdWl1eBoKdWl1eGRlc2lnbhoHaXY7cDt1aSouCgJ1eBUAKgpAGgR1aXV4Ggp1aXV4ZGVzaWduGgh1eGRlc2lnbhoHaXY7cDt1eCpfCgZkZXNpZ24VrlGgQBoIZGVzaWduZXIaCWRlc2lnbmVycxoJZGVzaWduaW5nGgdkZXNpZ25zGgp1aXV4ZGVzaWduGgh1eGRlc2lnbhoRZGVzaWducHJvdG90eXBpbmcqSQoLcHJvdG90eXBpbmcV1C6fQBoRZGVzaWducHJvdG90eXBpbmcaEHByb3RvdHlwaW5ndG9vbHMaEGl2O3A7cHJvdG90eXBpbmcqNQoFdG9vbHMVRBOrQBoEYXBwcxoJZXF1aXBtZW50GgR0b29sGhBwcm90b3R5cGluZ3Rvb2xzMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVlFHZ2UzTC1Db0VxeW56SjJVWk1tUHFmcFAwUkd2cENCQ2FabXFwbEVIRVVPcTVlOElTVUd6X01KcHB3MGRqR0p0S2loOVNvMU0yX0UzdERQV0VvYzRWaFVLRm5IRWs2aEQ0Tnc2anpManlWTzlVSzJPYXZsYXJSNDk1eWpPbUJLMzZZcXdXMWJSWTM5X0hIc3NyOWR5MHd5c2pTaDhMczo0VGhlIDxiPmJlc3QgVUkgcHJvdG90eXBpbmcgdG9vbHM8L2I-IC0gQ3JlYXRpdmUgQmxvcULPAVRoZSBiZXN0IFVJIHByb3RvdHlwaW5nIHRvb2xzIGF2YWlsYWJsZSBub3cgJm1pZGRvdDsgMDEuIDxiPk1hcnZlbDwvYj4gJm1pZGRvdDsgMDIuIEZpZ21hICZtaWRkb3Q7IDAzLiBVWFBpbiAmbWlkZG90OyAwNC4gUHJvdG9QaWUgJm1pZGRvdDsgMDUuIEF6dXJlIFJQICZtaWRkb3Q7IDA2LiBBZG9iZSBYRCAmbWlkZG90OyAwNy4gRnJhbWVyICZtaWRkb3Q7IDA4LlIDdG9wIgIQAUgAWABoAA",
+      "source": "Creative Bloq",
+      "read_more_link": "https://www.creativebloq.com/buying-guides/best-ui-prototyping-tools#:~:text=The%20best%20UI%20prototyping%20tools,available%20now&text=01.%20Marvel&text=02.%20Figma&text=03.%20UXPin&text=04.%20ProtoPie&text=05.%20Azure%20RP&text=06.%20Adobe%20XD&text=07.%20Framer&text=08.%20Principle"
+    },
+    {
+      "position": 3,
+      "title": "Prototyping: What tool would be best to achieve this type -or ...",
+      "link": "https://www.reddit.com/r/UXDesign/comments/15cou7b/prototyping_what_tool_would_be_best_to_achieve/",
+      "displayed_link": "50+ comments · 3 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab6610c2f47f8a983327b75/images/f87uXQVJpubKiWU7699rtgcedTpNFFFzrN6_QY94X0k.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "drunk figma is the only tool for professional ui/ux. never heard of justinmind, figma is just too popular. big community = many plugins. Best ...",
+      "duration": "0:18",
+      "about_this_result": {
+        "source": {
+          "description": "drunk figma is the only tool for professional ui/ux. never heard of justinmind, figma is just too popular. big community = many plugins. Best ...",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZRUXcyWUpKcm5NWWlSWnFGbmdJS0RRY2kteWJNaElNb0VZdm40b0lacUlnM3hEOEpTazlpbWZlNGc2ZGxMOVYxLUxzS1cyelJaT3dfTFdzNmpsazdERVFaNkFEdHA0M0FXd1NNNnBvUVlzYUhkQlZSRDZ6UjZHUmlhMDNJekNHalpRUkVrUEF2a0NGeDVmUWg5TmpUblJYLXJKemVyQzVqVFBNYlBTWkxjbXRubmNPX0VuNlRyVEQzNWRZaF8xd3RKNTNBaXNUEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct4BL2dvdG8_dXJsPUNBRVNtZ0VCNnpzd0ZRUXcyWUpKcm5NWWlSWnFGbmdJS0RRY2kteWJNaElNb0VZdm40b0lacUlnM3hEOEpTazlpbWZlNGc2ZGxMOVYxLUxzS1cyelJaT3dfTFdzNmpsazdERVFaNkFEdHA0M0FXd1NNNnBvUVlzYUhkQlZSRDZ6UjZHUmlhMDNJekNHalpRUkVrUEF2a0NGeDVmUWg5TmpUblJYLXJKemVyQzVqVFBNYlBTWkxjbXRubmNPX0VuNlRyVEQzNWRZaF8xd3RKNTNBaXNUEhYKEAoECDBIAgoECEhIAgoCCD8aAggAGhYSABoAIgAqADIAOgBCAEoAWgByAHoAIgIQAUgAWABoAA",
+      "source": "Reddit · r/UXDesign"
+    },
+    {
+      "position": 4,
+      "title": "10 Best Prototyping Tools for Designers in 2026",
+      "link": "https://clickup.com/blog/prototyping-tools/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVznA3ytiqaASJNQPJeoYXSbVkFg9slOFGANijU9b52ZYJqmhQdAzN4sAeDjGzCsCUTa-3IEpbJXlj7CzkCPFpe21E02c7LzZdpNogHUsZJ1JGC4sE_NhPWchBEzx3AA&ved=2ahUKEwinj9-Z1omXAxUFMtAFHdbfJqQQFnoECBsQAQ&uoh=1",
+      "displayed_link": "https://clickup.com › Home › Software",
+      "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsALsZoCWAN4gIhjdkhmgrq6Pk3DseesLg8Qrzn37ybLPH8zvvqgAA_QNlsKgLsTBY8z_1gvwhr03KuKdSqiXq8-H2RnQAD36h_txj6iTGXclfDrqPqMGfOLfAF1vj0A10HbY8vEb8qkaX4XtJdn9QRlYBbQQgH92RUxjRQfMApDQUBE7JvmPjD-3tW3pjJrL5LSoFD-w6mkP55NacWTHWh60uoeBbaAYYJvzzueexxAGjfVzngHoP9WK7j4RzvXJn417EjqaJpzj1tAv8K_mJRVbPuUB0ZW5vG5LylCucE1HFkTES-esyBXa1DxAT_WX7KcPs9wsbLV6OQv3HmL-LX3fFQ_7F9sgZl1y-FVlUIAAA.webp",
+      "date": "Jan 28, 2025",
+      "snippet": "The 10 Best Prototyping Tools to Use · 1. Figma · 2. Origami Studio · 3. InVision · 4. Protopie · 5. Adobe XD · 6. Sketch · 7. Webflow · 8. Framer.",
+      "snippet_highlighted_words": [
+        "1. Figma"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The 10 Best Prototyping Tools to Use · 1. Figma · 2. Origami Studio · 3. InVision · 4. Protopie · 5. Adobe XD · 6. Sketch · 7. Webflow · 8. Framer.",
+          "source_info_link": "https://clickup.com/blog/prototyping-tools/",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBgCdASocABwAPtE-tFooIigoFAEAGglsALsZoCWAN4gIhjdkhmgrq6Pk3DseesLg8Qrzn37ybLPH8zvvqgAA_QNlsKgLsTBY8z_1gvwhr03KuKdSqiXq8-H2RnQAD36h_txj6iTGXclfDrqPqMGfOLfAF1vj0A10HbY8vEb8qkaX4XtJdn9QRlYBbQQgH92RUxjRQfMApDQUBE7JvmPjD-3tW3pjJrL5LSoFD-w6mkP55NacWTHWh60uoeBbaAYYJvzzueexxAGjfVzngHoP9WK7j4RzvXJn417EjqaJpzj1tAv8K_mJRVbPuUB0ZW5vG5LylCucE1HFkTES-esyBXa1DxAT_WX7KcPs9wsbLV6OQv3HmL-LX3fFQ_7F9sgZl1y-FVlUIAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnpuQTN5dGlxYUFTSk5RUEplb1lYU2JWa0ZnOXNsT0ZHQU5palU5YjUyWllKcW1oUWRBek40c0FlRGpHekNzQ1VUYS0zSUVwYkpYbGo3Q3prQ1BGcGUyMUUwMmM3THpaZHBOb2dIVXNaSjFKR0M0c0VfTmhQV2NoQkV6eDNBQRIEGgIIABrOBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCqBggAEAAYACAAKhYKBGJlc3QVxNtoQBoEZ29vZBoDdG9wKkUKAnVpFVdHbz8aDnVzZXIgaW50ZXJmYWNlGg91c2VyIGludGVyZmFjZXMaBHVpdXgaCnVpdXhkZXNpZ24aB2l2O3A7dWkqLgoCdXgVUzOFPxoEdWl1eBoKdWl1eGRlc2lnbhoIdXhkZXNpZ24aB2l2O3A7dXgqXwoGZGVzaWduFWyEE0AaCGRlc2lnbmVyGglkZXNpZ25lcnMaCWRlc2lnbmluZxoHZGVzaWducxoKdWl1eGRlc2lnbhoIdXhkZXNpZ24aEWRlc2lnbnByb3RvdHlwaW5nKkkKC3Byb3RvdHlwaW5nFUoKyUAaEWRlc2lnbnByb3RvdHlwaW5nGhBwcm90b3R5cGluZ3Rvb2xzGhBpdjtwO3Byb3RvdHlwaW5nKjUKBXRvb2xzFQSWxkAaBGFwcHMaCWVxdWlwbWVudBoEdG9vbBoQcHJvdG90eXBpbmd0b29sczKUAS9nb3RvP3VybD1DQUVTWXdIck96QVZ6bkEzeXRpcWFBU0pOUVBKZW9ZWFNiVmtGZzlzbE9GR0FOaWpVOWI1MlpZSnFtaFFkQXpONHNBZURqR3pDc0NVVGEtM0lFcGJKWGxqN0N6a0NQRnBlMjFFMDJjN0x6WmRwTm9nSFVzWkoxSkdDNHNFX05oUFdjaEJFengzQUE6PTEwIDxiPkJlc3QgUHJvdG90eXBpbmcgVG9vbHM8L2I-IGZvciA8Yj5EZXNpZ25lcnM8L2I-IGluIDIwMjZC0gFUaGUgMTAgQmVzdCBQcm90b3R5cGluZyBUb29scyB0byBVc2UgJm1pZGRvdDsgPGI-MS4gRmlnbWE8L2I-ICZtaWRkb3Q7IDIuIE9yaWdhbWkgU3R1ZGlvICZtaWRkb3Q7IDMuIEluVmlzaW9uICZtaWRkb3Q7IDQuIFByb3RvcGllICZtaWRkb3Q7IDUuIEFkb2JlIFhEICZtaWRkb3Q7IDYuIFNrZXRjaCAmbWlkZG90OyA3LiBXZWJmbG93ICZtaWRkb3Q7IDguIEZyYW1lci5SA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnpuQTN5dGlxYUFTSk5RUEplb1lYU2JWa0ZnOXNsT0ZHQU5palU5YjUyWllKcW1oUWRBek40c0FlRGpHekNzQ1VUYS0zSUVwYkpYbGo3Q3prQ1BGcGUyMUUwMmM3THpaZHBOb2dIVXNaSjFKR0M0c0VfTmhQV2NoQkV6eDNBQRIEGgIIABrOBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCqBggAEAAYACAAKhYKBGJlc3QVxNtoQBoEZ29vZBoDdG9wKkUKAnVpFVdHbz8aDnVzZXIgaW50ZXJmYWNlGg91c2VyIGludGVyZmFjZXMaBHVpdXgaCnVpdXhkZXNpZ24aB2l2O3A7dWkqLgoCdXgVUzOFPxoEdWl1eBoKdWl1eGRlc2lnbhoIdXhkZXNpZ24aB2l2O3A7dXgqXwoGZGVzaWduFWyEE0AaCGRlc2lnbmVyGglkZXNpZ25lcnMaCWRlc2lnbmluZxoHZGVzaWducxoKdWl1eGRlc2lnbhoIdXhkZXNpZ24aEWRlc2lnbnByb3RvdHlwaW5nKkkKC3Byb3RvdHlwaW5nFUoKyUAaEWRlc2lnbnByb3RvdHlwaW5nGhBwcm90b3R5cGluZ3Rvb2xzGhBpdjtwO3Byb3RvdHlwaW5nKjUKBXRvb2xzFQSWxkAaBGFwcHMaCWVxdWlwbWVudBoEdG9vbBoQcHJvdG90eXBpbmd0b29sczKUAS9nb3RvP3VybD1DQUVTWXdIck96QVZ6bkEzeXRpcWFBU0pOUVBKZW9ZWFNiVmtGZzlzbE9GR0FOaWpVOWI1MlpZSnFtaFFkQXpONHNBZURqR3pDc0NVVGEtM0lFcGJKWGxqN0N6a0NQRnBlMjFFMDJjN0x6WmRwTm9nSFVzWkoxSkdDNHNFX05oUFdjaEJFengzQUE6PTEwIDxiPkJlc3QgUHJvdG90eXBpbmcgVG9vbHM8L2I-IGZvciA8Yj5EZXNpZ25lcnM8L2I-IGluIDIwMjZC0gFUaGUgMTAgQmVzdCBQcm90b3R5cGluZyBUb29scyB0byBVc2UgJm1pZGRvdDsgPGI-MS4gRmlnbWE8L2I-ICZtaWRkb3Q7IDIuIE9yaWdhbWkgU3R1ZGlvICZtaWRkb3Q7IDMuIEluVmlzaW9uICZtaWRkb3Q7IDQuIFByb3RvcGllICZtaWRkb3Q7IDUuIEFkb2JlIFhEICZtaWRkb3Q7IDYuIFNrZXRjaCAmbWlkZG90OyA3LiBXZWJmbG93ICZtaWRkb3Q7IDguIEZyYW1lci5SA3RvcCICEAFIAFgAaAA",
+      "source": "ClickUp",
+      "read_more_link": "https://clickup.com/blog/prototyping-tools/#:~:text=The%2010%20Best%20Prototyping%20Tools,to%20Use&text=1.%20Figma&text=2.%20Origami%20Studio&text=3.%20InVision&text=4.%20Protopie&text=5.%20Adobe%20XD&text=6.%20Sketch&text=7.%20Webflow&text=8.%20Framer"
+    },
+    {
+      "position": 5,
+      "title": "8 Best Prototyping Tools for UX Designers in 2026 | IxDF",
+      "link": "https://www.linkedin.com/posts/interaction-design-org-foundation_8-best-prototyping-tools-for-ux-designers-activity-7289030277006331904-OhCo",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxQEB6zswFT5tChktwXf0vKRwtU1T6QAJPJ_ofJBIC2wB3WGjD7hUaD4LBLuUNvUpS91Bx8o9XvYkPGyy6T-8srQxE4ZPORUzsoxjjX3RkMywq5_GInk1pwumUMWKIShEQFSHcZeN9tcNUezgvA8VFUU0DAF9iuMuJAeX7EjAWAGdD9HrBt-nObG50rtxUn_opGW_TBc-A9XRixSUgKqe_mfcL5_r6FQfsFQJd611VyNcIHcfeijnqsxAtqWriQH6mm_T-Os05Q&ved=2ahUKEwinj9-Z1omXAxUFMtAFHdbfJqQQFnoECCQQAQ&uoh=1",
+      "displayed_link": "9 reactions · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "snippet": "8 Best Prototyping Tools for UX Designers in 2025. Segment with Purpose. Clarity brings focus. 4️⃣ Build Personas That Feel Real. 5️⃣ Map the ...",
+      "snippet_highlighted_words": [
+        "Segment with Purpose"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "8 Best Prototyping Tools for UX Designers in 2025. Segment with Purpose. Clarity brings focus. 4️⃣ Build Personas That Feel Real. 5️⃣ Map the ...",
+          "source_info_link": "https://www.linkedin.com/posts/interaction-design-org-foundation_8-best-prototyping-tools-for-ux-designers-activity-7289030277006331904-OhCo",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZUNXRDaGt0d1hmMHZLUnd0VTFUNlFBSlBKX29mSkJJQzJ3QjNXR2pEN2hVYUQ0TEJMdVVOdlVwUzkxQng4bzlYdllrUEd5eTZULThzclF4RTRaUE9SVXpzb3hqalgzUmtNeXdxNV9HSW5rMXB3dW1VTVdLSVNoRVFGU0hjWmVOOXRjTlVlemd2QThWRlVVMERBRjlpdU11SkFlWDdFakFXQUdkRDlIckJ0LW5PYkc1MHJ0eFVuX29wR1dfVEJjLUE5WFJpeFNVZ0txZV9tZmNMNV9yNkZRZnNGUUpkNjExVnlOY0lIY2ZlaWpucXN4QXRxV3JpUUg2bW1fVC1PczA1URIEGgIIABquBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCKBwgAEAAYACAAKhYKBGJlc3QVhQeSQBoEZ29vZBoDdG9wKkUKAnVpFflgwj8aDnVzZXIgaW50ZXJmYWNlGg91c2VyIGludGVyZmFjZXMaBHVpdXgaCnVpdXhkZXNpZ24aB2l2O3A7dWkqLgoCdXgVUGvTQBoEdWl1eBoKdWl1eGRlc2lnbhoIdXhkZXNpZ24aB2l2O3A7dXgqXwoGZGVzaWduFdSN50AaCGRlc2lnbmVyGglkZXNpZ25lcnMaCWRlc2lnbmluZxoHZGVzaWducxoKdWl1eGRlc2lnbhoIdXhkZXNpZ24aEWRlc2lnbnByb3RvdHlwaW5nKkkKC3Byb3RvdHlwaW5nFQpnx0AaEWRlc2lnbnByb3RvdHlwaW5nGhBwcm90b3R5cGluZ3Rvb2xzGhBpdjtwO3Byb3RvdHlwaW5nKjUKBXRvb2xzFWuAsUAaBGFwcHMaCWVxdWlwbWVudBoEdG9vbBoQcHJvdG90eXBpbmd0b29sczKYAi9nb3RvP3VybD1DQUVTeFFFQjZ6c3dGVDV0Q2hrdHdYZjB2S1J3dFUxVDZRQUpQSl9vZkpCSUMyd0IzV0dqRDdoVWFENExCTHVVTnZVcFM5MUJ4OG85WHZZa1BHeXk2VC04c3JReEU0WlBPUlV6c294ampYM1JrTXl3cTVfR0luazFwd3VtVU1XS0lTaEVRRlNIY1plTjl0Y05VZXpndkE4VkZVVTBEQUY5aXVNdUpBZVg3RWpBV0FHZEQ5SHJCdC1uT2JHNTBydHhVbl9vcEdXX1RCYy1BOVhSaXhTVWdLcWVfbWZjTDVfcjZGUWZzRlFKZDYxMVZ5TmNJSGNmZWlqbnFzeEF0cVdyaVFINm1tX1QtT3MwNVE6RjggPGI-QmVzdCBQcm90b3R5cGluZyBUb29sczwvYj4gZm9yIDxiPlVYIERlc2lnbmVyczwvYj4gaW4gMjAyNiB8IEl4REZCpQE4IEJlc3QgUHJvdG90eXBpbmcgVG9vbHMgZm9yIFVYIERlc2lnbmVycyBpbiAyMDI1LiA8Yj5TZWdtZW50IHdpdGggUHVycG9zZTwvYj4uIENsYXJpdHkgYnJpbmdzIGZvY3VzLiA077iP4oOjIEJ1aWxkIFBlcnNvbmFzIFRoYXQgRmVlbCBSZWFsLiA177iP4oOjIE1hcCB0aGUmbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZUNXRDaGt0d1hmMHZLUnd0VTFUNlFBSlBKX29mSkJJQzJ3QjNXR2pEN2hVYUQ0TEJMdVVOdlVwUzkxQng4bzlYdllrUEd5eTZULThzclF4RTRaUE9SVXpzb3hqalgzUmtNeXdxNV9HSW5rMXB3dW1VTVdLSVNoRVFGU0hjWmVOOXRjTlVlemd2QThWRlVVMERBRjlpdU11SkFlWDdFakFXQUdkRDlIckJ0LW5PYkc1MHJ0eFVuX29wR1dfVEJjLUE5WFJpeFNVZ0txZV9tZmNMNV9yNkZRZnNGUUpkNjExVnlOY0lIY2ZlaWpucXN4QXRxV3JpUUg2bW1fVC1PczA1URIEGgIIABquBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCKBwgAEAAYACAAKhYKBGJlc3QVhQeSQBoEZ29vZBoDdG9wKkUKAnVpFflgwj8aDnVzZXIgaW50ZXJmYWNlGg91c2VyIGludGVyZmFjZXMaBHVpdXgaCnVpdXhkZXNpZ24aB2l2O3A7dWkqLgoCdXgVUGvTQBoEdWl1eBoKdWl1eGRlc2lnbhoIdXhkZXNpZ24aB2l2O3A7dXgqXwoGZGVzaWduFdSN50AaCGRlc2lnbmVyGglkZXNpZ25lcnMaCWRlc2lnbmluZxoHZGVzaWducxoKdWl1eGRlc2lnbhoIdXhkZXNpZ24aEWRlc2lnbnByb3RvdHlwaW5nKkkKC3Byb3RvdHlwaW5nFQpnx0AaEWRlc2lnbnByb3RvdHlwaW5nGhBwcm90b3R5cGluZ3Rvb2xzGhBpdjtwO3Byb3RvdHlwaW5nKjUKBXRvb2xzFWuAsUAaBGFwcHMaCWVxdWlwbWVudBoEdG9vbBoQcHJvdG90eXBpbmd0b29sczKYAi9nb3RvP3VybD1DQUVTeFFFQjZ6c3dGVDV0Q2hrdHdYZjB2S1J3dFUxVDZRQUpQSl9vZkpCSUMyd0IzV0dqRDdoVWFENExCTHVVTnZVcFM5MUJ4OG85WHZZa1BHeXk2VC04c3JReEU0WlBPUlV6c294ampYM1JrTXl3cTVfR0luazFwd3VtVU1XS0lTaEVRRlNIY1plTjl0Y05VZXpndkE4VkZVVTBEQUY5aXVNdUpBZVg3RWpBV0FHZEQ5SHJCdC1uT2JHNTBydHhVbl9vcEdXX1RCYy1BOVhSaXhTVWdLcWVfbWZjTDVfcjZGUWZzRlFKZDYxMVZ5TmNJSGNmZWlqbnFzeEF0cVdyaVFINm1tX1QtT3MwNVE6RjggPGI-QmVzdCBQcm90b3R5cGluZyBUb29sczwvYj4gZm9yIDxiPlVYIERlc2lnbmVyczwvYj4gaW4gMjAyNiB8IEl4REZCpQE4IEJlc3QgUHJvdG90eXBpbmcgVG9vbHMgZm9yIFVYIERlc2lnbmVycyBpbiAyMDI1LiA8Yj5TZWdtZW50IHdpdGggUHVycG9zZTwvYj4uIENsYXJpdHkgYnJpbmdzIGZvY3VzLiA077iP4oOjIEJ1aWxkIFBlcnNvbmFzIFRoYXQgRmVlbCBSZWFsLiA177iP4oOjIE1hcCB0aGUmbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+      "source": "LinkedIn · IxDF - Interaction Design Foundation"
+    },
+    {
+      "position": 6,
+      "title": "Top 5 UX Prototyping Tools for UI/UX Designers in 2024",
+      "link": "https://medium.com/@uidesign0005/top-5-ux-prototyping-tools-for-ui-ux-designers-in-2024-288d888f713b",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFRvuP0BE_bsZMvv_ssxnWkfIGlyt2CiTvEO4mxIsfCaixTwf47CHWUHkl4qURLneLkRsog3sZrBZew178gi36UxO9gPWH6OLDoYZ-eC0CP0FObKn6veofY13InTpsomJgwqNNRcUucW_DgVmJvKv42CReSHS58-JVZSiXruAUy76fwC3X-KEung1kpb72pi_Ju12KLKgVVg&ved=2ahUKEwinj9-Z1omXAxUFMtAFHdbfJqQQFnoECB0QAQ&uoh=1",
+      "displayed_link": "50+ likes · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp",
+      "snippet": "1. Figma · Real-time collaboration- Enables UX UI designer to work together in real-time, ensuring seamless team coordination. ; 2. Adobe XD ...",
+      "snippet_highlighted_words": [
+        "Figma"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Figma · Real-time collaboration- Enables UX UI designer to work together in real-time, ensuring seamless team coordination. ; 2. Adobe XD ...",
+          "source_info_link": "https://medium.com/@uidesign0005/top-5-ux-prototyping-tools-for-ui-ux-designers-in-2024-288d888f713b",
+          "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBgCdASocABwAPtEwtFooIigoGAEAGglpAAzq71pc92cX6E9FXqq_sAM0L2JYbbZQyexZs_v-NrvA0U_FIAAA_sIYLXkbXykzt_3YNJ7eCObOzJSJIUK3TNIwx5T5djQFT7ZStkTTvgIhnq40fdJok7BALVaGNolDOeHbSXOIKODioKmP7R3S5LOLlECQO5Y5KdzMij8MDj19HbZ-M-v-xLfqGNYfsL6Imc2b0KTp4gRv9dErc-5NU_V6lufsojo3H16SD-AmH6KIbdenxCT9LrUpLf_I2l63ekMuwGZHXouDM1uGqlEXu4vTxXljUWXhCMi88CHq8DH8v6lFTcrf8RSY8-qSvTqGoip-_2z89tenN2sVinMXPY8brcY_COxeQbm61xg18_j-wboLoZV-zjlNxk7878y-ZJmG1mfD_qy6Ozw3BIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZSdnVQMEJFX2JzWk12dl9zc3huV2tmSUdseXQyQ2lUdkVPNG14SXNmQ2FpeFR3ZjQ3Q0hXVUhrbDRxVVJMbmVMa1Jzb2czc1pyQlpldzE3OGdpMzZVeE85Z1BXSDZPTERvWVotZUMwQ1AwRk9iS242dmVvZlkxM0luVHBzb21KZ3dxTk5SY1V1Y1dfRGdWbUp2S3Y0MkNSZVNIUzU4LUpWWlNpWHJ1QVV5NzZmd0MzWC1LRXVuZzFrcGI3MnBpX0p1MTJLTEtnVlZnEgQaAggAGoEHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQN0GCAAQABgAIAAqFgoEYmVzdBUEN5U-GgRnb29kGgN0b3AqRQoCdWkVtnYBQRoOdXNlciBpbnRlcmZhY2UaD3VzZXIgaW50ZXJmYWNlcxoEdWl1eBoKdWl1eGRlc2lnbhoHaXY7cDt1aSouCgJ1eBXxWApBGgR1aXV4Ggp1aXV4ZGVzaWduGgh1eGRlc2lnbhoHaXY7cDt1eCpfCgZkZXNpZ24VuPq2QBoIZGVzaWduZXIaCWRlc2lnbmVycxoJZGVzaWduaW5nGgdkZXNpZ25zGgp1aXV4ZGVzaWduGgh1eGRlc2lnbhoRZGVzaWducHJvdG90eXBpbmcqSQoLcHJvdG90eXBpbmcVRKDIQBoRZGVzaWducHJvdG90eXBpbmcaEHByb3RvdHlwaW5ndG9vbHMaEGl2O3A7cHJvdG90eXBpbmcqNQoFdG9vbHMVXlTcQBoEYXBwcxoJZXF1aXBtZW50GgR0b29sGhBwcm90b3R5cGluZ3Rvb2xzMuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZSdnVQMEJFX2JzWk12dl9zc3huV2tmSUdseXQyQ2lUdkVPNG14SXNmQ2FpeFR3ZjQ3Q0hXVUhrbDRxVVJMbmVMa1Jzb2czc1pyQlpldzE3OGdpMzZVeE85Z1BXSDZPTERvWVotZUMwQ1AwRk9iS242dmVvZlkxM0luVHBzb21KZ3dxTk5SY1V1Y1dfRGdWbUp2S3Y0MkNSZVNIUzU4LUpWWlNpWHJ1QVV5NzZmd0MzWC1LRXVuZzFrcGI3MnBpX0p1MTJLTEtnVlZnOlI8Yj5Ub3A8L2I-IDUgVVggPGI-UHJvdG90eXBpbmcgVG9vbHM8L2I-IGZvciA8Yj5VSTwvYj4vPGI-VVggRGVzaWduZXJzPC9iPiBpbiAyMDI0QqMBMS4gPGI-RmlnbWE8L2I-ICZtaWRkb3Q7IFJlYWwtdGltZSBjb2xsYWJvcmF0aW9uLSBFbmFibGVzIFVYIFVJIGRlc2lnbmVyIHRvIHdvcmsgdG9nZXRoZXIgaW4gcmVhbC10aW1lLCBlbnN1cmluZyBzZWFtbGVzcyB0ZWFtIGNvb3JkaW5hdGlvbi4gOyAyLiBBZG9iZSBYRCZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZSdnVQMEJFX2JzWk12dl9zc3huV2tmSUdseXQyQ2lUdkVPNG14SXNmQ2FpeFR3ZjQ3Q0hXVUhrbDRxVVJMbmVMa1Jzb2czc1pyQlpldzE3OGdpMzZVeE85Z1BXSDZPTERvWVotZUMwQ1AwRk9iS242dmVvZlkxM0luVHBzb21KZ3dxTk5SY1V1Y1dfRGdWbUp2S3Y0MkNSZVNIUzU4LUpWWlNpWHJ1QVV5NzZmd0MzWC1LRXVuZzFrcGI3MnBpX0p1MTJLTEtnVlZnEgQaAggAGoEHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQN0GCAAQABgAIAAqFgoEYmVzdBUEN5U-GgRnb29kGgN0b3AqRQoCdWkVtnYBQRoOdXNlciBpbnRlcmZhY2UaD3VzZXIgaW50ZXJmYWNlcxoEdWl1eBoKdWl1eGRlc2lnbhoHaXY7cDt1aSouCgJ1eBXxWApBGgR1aXV4Ggp1aXV4ZGVzaWduGgh1eGRlc2lnbhoHaXY7cDt1eCpfCgZkZXNpZ24VuPq2QBoIZGVzaWduZXIaCWRlc2lnbmVycxoJZGVzaWduaW5nGgdkZXNpZ25zGgp1aXV4ZGVzaWduGgh1eGRlc2lnbhoRZGVzaWducHJvdG90eXBpbmcqSQoLcHJvdG90eXBpbmcVRKDIQBoRZGVzaWducHJvdG90eXBpbmcaEHByb3RvdHlwaW5ndG9vbHMaEGl2O3A7cHJvdG90eXBpbmcqNQoFdG9vbHMVXlTcQBoEYXBwcxoJZXF1aXBtZW50GgR0b29sGhBwcm90b3R5cGluZ3Rvb2xzMuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZSdnVQMEJFX2JzWk12dl9zc3huV2tmSUdseXQyQ2lUdkVPNG14SXNmQ2FpeFR3ZjQ3Q0hXVUhrbDRxVVJMbmVMa1Jzb2czc1pyQlpldzE3OGdpMzZVeE85Z1BXSDZPTERvWVotZUMwQ1AwRk9iS242dmVvZlkxM0luVHBzb21KZ3dxTk5SY1V1Y1dfRGdWbUp2S3Y0MkNSZVNIUzU4LUpWWlNpWHJ1QVV5NzZmd0MzWC1LRXVuZzFrcGI3MnBpX0p1MTJLTEtnVlZnOlI8Yj5Ub3A8L2I-IDUgVVggPGI-UHJvdG90eXBpbmcgVG9vbHM8L2I-IGZvciA8Yj5VSTwvYj4vPGI-VVggRGVzaWduZXJzPC9iPiBpbiAyMDI0QqMBMS4gPGI-RmlnbWE8L2I-ICZtaWRkb3Q7IFJlYWwtdGltZSBjb2xsYWJvcmF0aW9uLSBFbmFibGVzIFVYIFVJIGRlc2lnbmVyIHRvIHdvcmsgdG9nZXRoZXIgaW4gcmVhbC10aW1lLCBlbnN1cmluZyBzZWFtbGVzcyB0ZWFtIGNvb3JkaW5hdGlvbi4gOyAyLiBBZG9iZSBYRCZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+      "source": "Medium · UIDesignz - UI UX Design Company",
+      "read_more_link": "https://medium.com/@uidesign0005/top-5-ux-prototyping-tools-for-ui-ux-designers-in-2024-288d888f713b#:~:text=1.%20Figma&text=Real%2Dtime%20collaboration%2D%20Enables%20UX%20UI,real%2Dtime%2C%20ensuring%20seamless%20team%20coordination.&text=2.%20Adobe%20XD"
+    },
+    {
+      "position": 7,
+      "title": "Best prototyping tool with already built, functioning ...",
+      "link": "https://www.reddit.com/r/UXDesign/comments/zmooip/best_prototyping_tool_with_already_built/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFYu_LJ0voHXKXHuzunqsP3xOuVkYyBXPB31BBbCrMkxKPVhJ0HXt82pTDnMvvwd06TcKNg3-AMJUmgYkIn44cZKDiAUNtHYH_zpqfoL7XRroHo5LO2rH9LOsMM4L9Euk9Ws9TgYO-MHTNTRdxGq7u2Gjjifa5e9RtAzawuJIHg-g1sJhN73H9tTKYd2Ckzs&ved=2ahUKEwinj9-Z1omXAxUFMtAFHdbfJqQQFnoECEIQAQ&uoh=1",
+      "displayed_link": "4 comments · 3 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Hey all, I know I should do my own research but I figured it would be faster just to ask ya'll, is there a prototyping tool that literally lets you ...",
+      "about_this_result": {
+        "source": {
+          "description": "Axure. But you have to commit to learning it. But it's completely worth it.",
+          "source_info_link": "https://www.reddit.com/r/UXDesign/comments/zmooip/best_prototyping_tool_with_already_built/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZZdV9MSjB2b0hYS1hIdXp1bnFzUDN4T3VWa1l5QlhQQjMxQkJiQ3JNa3hLUFZoSjBIWHQ4MnBURG5NdnZ3ZDA2VGNLTmczLUFNSlVtZ1lrSW40NGNaS0RpQVVOdEhZSF96cHFmb0w3WFJyb0hvNUxPMnJIOUxPc01NNEw5RXVrOVdzOVRnWU8tTUhUTlRSZHhHcTd1MkdqamlmYTVlOVJ0QXphd3VKSUhnLWcxc0poTjczSDl0VEtZZDJDa3pzEgQaAggAGp0GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPkFCAAQABgAIAAqFgoEYmVzdBXQy6pAGgRnb29kGgN0b3AqRQoCdWkVnNLXPxoOdXNlciBpbnRlcmZhY2UaD3VzZXIgaW50ZXJmYWNlcxoEdWl1eBoKdWl1eGRlc2lnbhoHaXY7cDt1aSouCgJ1eBWAy89AGgR1aXV4Ggp1aXV4ZGVzaWduGgh1eGRlc2lnbhoHaXY7cDt1eCpfCgZkZXNpZ24VsO_SQBoIZGVzaWduZXIaCWRlc2lnbmVycxoJZGVzaWduaW5nGgdkZXNpZ25zGgp1aXV4ZGVzaWduGgh1eGRlc2lnbhoRZGVzaWducHJvdG90eXBpbmcqSQoLcHJvdG90eXBpbmcVI43pQBoRZGVzaWducHJvdG90eXBpbmcaEHByb3RvdHlwaW5ndG9vbHMaEGl2O3A7cHJvdG90eXBpbmcqNQoFdG9vbHMVYtRwQBoEYXBwcxoJZXF1aXBtZW50GgR0b29sGhBwcm90b3R5cGluZ3Rvb2xzMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZZdV9MSjB2b0hYS1hIdXp1bnFzUDN4T3VWa1l5QlhQQjMxQkJiQ3JNa3hLUFZoSjBIWHQ4MnBURG5NdnZ3ZDA2VGNLTmczLUFNSlVtZ1lrSW40NGNaS0RpQVVOdEhZSF96cHFmb0w3WFJyb0hvNUxPMnJIOUxPc01NNEw5RXVrOVdzOVRnWU8tTUhUTlRSZHhHcTd1MkdqamlmYTVlOVJ0QXphd3VKSUhnLWcxc0poTjczSDl0VEtZZDJDa3pzOkg8Yj5CZXN0IHByb3RvdHlwaW5nIHRvb2w8L2I-IHdpdGggYWxyZWFkeSBidWlsdCwgZnVuY3Rpb25pbmcgY29tcG9uZW50cz9CVjxiPkF4dXJlPC9iPi4gQnV0IHlvdSBoYXZlIHRvIGNvbW1pdCB0byBsZWFybmluZyBpdC4gQnV0IGl0JiMzOTtzIGNvbXBsZXRlbHkgd29ydGggaXQuUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZZdV9MSjB2b0hYS1hIdXp1bnFzUDN4T3VWa1l5QlhQQjMxQkJiQ3JNa3hLUFZoSjBIWHQ4MnBURG5NdnZ3ZDA2VGNLTmczLUFNSlVtZ1lrSW40NGNaS0RpQVVOdEhZSF96cHFmb0w3WFJyb0hvNUxPMnJIOUxPc01NNEw5RXVrOVdzOVRnWU8tTUhUTlRSZHhHcTd1MkdqamlmYTVlOVJ0QXphd3VKSUhnLWcxc0poTjczSDl0VEtZZDJDa3pzEgQaAggAGp0GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPkFCAAQABgAIAAqFgoEYmVzdBXQy6pAGgRnb29kGgN0b3AqRQoCdWkVnNLXPxoOdXNlciBpbnRlcmZhY2UaD3VzZXIgaW50ZXJmYWNlcxoEdWl1eBoKdWl1eGRlc2lnbhoHaXY7cDt1aSouCgJ1eBWAy89AGgR1aXV4Ggp1aXV4ZGVzaWduGgh1eGRlc2lnbhoHaXY7cDt1eCpfCgZkZXNpZ24VsO_SQBoIZGVzaWduZXIaCWRlc2lnbmVycxoJZGVzaWduaW5nGgdkZXNpZ25zGgp1aXV4ZGVzaWduGgh1eGRlc2lnbhoRZGVzaWducHJvdG90eXBpbmcqSQoLcHJvdG90eXBpbmcVI43pQBoRZGVzaWducHJvdG90eXBpbmcaEHByb3RvdHlwaW5ndG9vbHMaEGl2O3A7cHJvdG90eXBpbmcqNQoFdG9vbHMVYtRwQBoEYXBwcxoJZXF1aXBtZW50GgR0b29sGhBwcm90b3R5cGluZ3Rvb2xzMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZZdV9MSjB2b0hYS1hIdXp1bnFzUDN4T3VWa1l5QlhQQjMxQkJiQ3JNa3hLUFZoSjBIWHQ4MnBURG5NdnZ3ZDA2VGNLTmczLUFNSlVtZ1lrSW40NGNaS0RpQVVOdEhZSF96cHFmb0w3WFJyb0hvNUxPMnJIOUxPc01NNEw5RXVrOVdzOVRnWU8tTUhUTlRSZHhHcTd1MkdqamlmYTVlOVJ0QXphd3VKSUhnLWcxc0poTjczSDl0VEtZZDJDa3pzOkg8Yj5CZXN0IHByb3RvdHlwaW5nIHRvb2w8L2I-IHdpdGggYWxyZWFkeSBidWlsdCwgZnVuY3Rpb25pbmcgY29tcG9uZW50cz9CVjxiPkF4dXJlPC9iPi4gQnV0IHlvdSBoYXZlIHRvIGNvbW1pdCB0byBsZWFybmluZyBpdC4gQnV0IGl0JiMzOTtzIGNvbXBsZXRlbHkgd29ydGggaXQuUgN0b3AiAhABSABYAGgA",
+      "source": "Reddit · r/UXDesign"
+    },
+    {
+      "position": 8,
+      "title": "The Five Best Prototyping Tools for UX/UI Designers",
+      "link": "https://www.hyperspaceventures.com/ideas/the-five-best-prototyping-tools-for-uxui-designers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkwEB6zswFTh4QCB81E6jBOEeXDJBHWgSivrx-KYZTJtzU9Yk-VJYJRQkHKlO2ykby6JpXG8wdvTzkPOzzfVq8k4v1lWLh8VQQWnQA8mY5whVmwQU3Qu8Qh9O22sTgY5azqyfsiIvSzcDGtSYm1kjE1aEml4GMt4pCZVk7qGcJ45KO0F8i8lk7nCQ9TeEEXIpvLgFR-0&ved=2ahUKEwinj9-Z1omXAxUFMtAFHdbfJqQQFnoECDsQAQ&uoh=1",
+      "displayed_link": "https://www.hyperspaceventures.com › ideas › the-five-...",
+      "favicon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0zMvzUjV2NbyqjQNpbRAetVHGpMWgkE50QihwfHQqUpL0zbYaIuPccAAD-_S_td05wUZHBpEJdFK_pvoCQIMKhooRJuZ9ubM10sKY8oGKHs8DLsROSNb3eEB0nBiIcjICBJ7qVj5jg_pXoW67e3nnYLLmg8DZLLtH47J-x1k9_rmxkjh959VPBRll4fjCynSo-2um0cxhDc4VK_xs92eTyDl1GiiaelgybmFWjk8BIQbmr7YmN7-MGt8i0HptWNoeoUWfWKrxfaCnJ1zaltGr-GQfpmPkYg96mWy9wQ5_u03DO3DfVuP66828HnyUgVhsBQ1B1EWhG5DpuSDJD7bHQyJH8P49Zc052e0aW0_e3z2sFNmyBgm0OTy9oAAA.webp",
+      "date": "Jun 22, 2023",
+      "snippet": "Five Best Prototyping Tools For UX/UI Designers 1. Figma … 2. Adobe Xd Adobe Xd is “a vector 3. Sketch Sketch is “a Mac app for designers to ...",
+      "snippet_highlighted_words": [
+        "Figma"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Five Best Prototyping Tools For UX/UI Designers 1. Figma … 2. Adobe Xd Adobe Xd is “a vector 3. Sketch Sketch is “a Mac app for designers to ...",
+          "source_info_link": "https://www.hyperspaceventures.com/ideas/the-five-best-prototyping-tools-for-uxui-designers",
+          "icon": "https://serpapi.com/images/i/UklGRkQBAABXRUJQVlA4IDgBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0zMvzUjV2NbyqjQNpbRAetVHGpMWgkE50QihwfHQqUpL0zbYaIuPccAAD-_S_td05wUZHBpEJdFK_pvoCQIMKhooRJuZ9ubM10sKY8oGKHs8DLsROSNb3eEB0nBiIcjICBJ7qVj5jg_pXoW67e3nnYLLmg8DZLLtH47J-x1k9_rmxkjh959VPBRll4fjCynSo-2um0cxhDc4VK_xs92eTyDl1GiiaelgybmFWjk8BIQbmr7YmN7-MGt8i0HptWNoeoUWfWKrxfaCnJ1zaltGr-GQfpmPkYg96mWy9wQ5_u03DO3DfVuP66828HnyUgVhsBQ1B1EWhG5DpuSDJD7bHQyJH8P49Zc052e0aW0_e3z2sFNmyBgm0OTy9oAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZUaDRRQ0I4MUU2akJPRWVYREpCSFdnU2l2cngtS1laVEp0elU5WWstVkpZSlJRa0hLbE8yeWtieTZKcFhHOHdkdlR6a1BPenpmVnE4azR2MWxXTGg4VlFRV25RQThtWTV3aFZtd1FVM1F1OFFoOU8yMnNUZ1k1YXpxeWZzaUl2U3pjREd0U1ltMWtqRTFhRW1sNEdNdDRwQ1pWazdxR2NKNDVLTzBGOGk4bGs3bkNROVRlRUVYSXB2TGdGUi0wEgQaAggAGuoGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQMYGCAAQABgAIAAqFgoEYmVzdBXcgL5AGgRnb29kGgN0b3AqRQoCdWkVCK6pQBoOdXNlciBpbnRlcmZhY2UaD3VzZXIgaW50ZXJmYWNlcxoEdWl1eBoKdWl1eGRlc2lnbhoHaXY7cDt1aSouCgJ1eBUXvbRAGgR1aXV4Ggp1aXV4ZGVzaWduGgh1eGRlc2lnbhoHaXY7cDt1eCpfCgZkZXNpZ24VsReyQBoIZGVzaWduZXIaCWRlc2lnbmVycxoJZGVzaWduaW5nGgdkZXNpZ25zGgp1aXV4ZGVzaWduGgh1eGRlc2lnbhoRZGVzaWducHJvdG90eXBpbmcqSQoLcHJvdG90eXBpbmcVhvQDQRoRZGVzaWducHJvdG90eXBpbmcaEHByb3RvdHlwaW5ndG9vbHMaEGl2O3A7cHJvdG90eXBpbmcqNQoFdG9vbHMVjLXfQBoEYXBwcxoJZXF1aXBtZW50GgR0b29sGhBwcm90b3R5cGluZ3Rvb2xzMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZUaDRRQ0I4MUU2akJPRWVYREpCSFdnU2l2cngtS1laVEp0elU5WWstVkpZSlJRa0hLbE8yeWtieTZKcFhHOHdkdlR6a1BPenpmVnE4azR2MWxXTGg4VlFRV25RQThtWTV3aFZtd1FVM1F1OFFoOU8yMnNUZ1k1YXpxeWZzaUl2U3pjREd0U1ltMWtqRTFhRW1sNEdNdDRwQ1pWazdxR2NKNDVLTzBGOGk4bGs3bkNROVRlRUVYSXB2TGdGUi0wOkhUaGUgRml2ZSA8Yj5CZXN0IFByb3RvdHlwaW5nIFRvb2xzPC9iPiBmb3IgPGI-VVg8L2I-LzxiPlVJIERlc2lnbmVyczwvYj5CogFGaXZlIEJlc3QgUHJvdG90eXBpbmcgVG9vbHMgRm9yIFVYL1VJIERlc2lnbmVycyAxLiA8Yj5GaWdtYTwvYj4g4oCmIDIuIEFkb2JlIFhkIEFkb2JlIFhkIGlzIOKAnGEgdmVjdG9yIDMuIFNrZXRjaCBTa2V0Y2ggaXMg4oCcYSBNYWMgYXBwIGZvciBkZXNpZ25lcnMgdG8mbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZUaDRRQ0I4MUU2akJPRWVYREpCSFdnU2l2cngtS1laVEp0elU5WWstVkpZSlJRa0hLbE8yeWtieTZKcFhHOHdkdlR6a1BPenpmVnE4azR2MWxXTGg4VlFRV25RQThtWTV3aFZtd1FVM1F1OFFoOU8yMnNUZ1k1YXpxeWZzaUl2U3pjREd0U1ltMWtqRTFhRW1sNEdNdDRwQ1pWazdxR2NKNDVLTzBGOGk4bGs3bkNROVRlRUVYSXB2TGdGUi0wEgQaAggAGuoGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQMYGCAAQABgAIAAqFgoEYmVzdBXcgL5AGgRnb29kGgN0b3AqRQoCdWkVCK6pQBoOdXNlciBpbnRlcmZhY2UaD3VzZXIgaW50ZXJmYWNlcxoEdWl1eBoKdWl1eGRlc2lnbhoHaXY7cDt1aSouCgJ1eBUXvbRAGgR1aXV4Ggp1aXV4ZGVzaWduGgh1eGRlc2lnbhoHaXY7cDt1eCpfCgZkZXNpZ24VsReyQBoIZGVzaWduZXIaCWRlc2lnbmVycxoJZGVzaWduaW5nGgdkZXNpZ25zGgp1aXV4ZGVzaWduGgh1eGRlc2lnbhoRZGVzaWducHJvdG90eXBpbmcqSQoLcHJvdG90eXBpbmcVhvQDQRoRZGVzaWducHJvdG90eXBpbmcaEHByb3RvdHlwaW5ndG9vbHMaEGl2O3A7cHJvdG90eXBpbmcqNQoFdG9vbHMVjLXfQBoEYXBwcxoJZXF1aXBtZW50GgR0b29sGhBwcm90b3R5cGluZ3Rvb2xzMtUBL2dvdG8_dXJsPUNBRVNrd0VCNnpzd0ZUaDRRQ0I4MUU2akJPRWVYREpCSFdnU2l2cngtS1laVEp0elU5WWstVkpZSlJRa0hLbE8yeWtieTZKcFhHOHdkdlR6a1BPenpmVnE4azR2MWxXTGg4VlFRV25RQThtWTV3aFZtd1FVM1F1OFFoOU8yMnNUZ1k1YXpxeWZzaUl2U3pjREd0U1ltMWtqRTFhRW1sNEdNdDRwQ1pWazdxR2NKNDVLTzBGOGk4bGs3bkNROVRlRUVYSXB2TGdGUi0wOkhUaGUgRml2ZSA8Yj5CZXN0IFByb3RvdHlwaW5nIFRvb2xzPC9iPiBmb3IgPGI-VVg8L2I-LzxiPlVJIERlc2lnbmVyczwvYj5CogFGaXZlIEJlc3QgUHJvdG90eXBpbmcgVG9vbHMgRm9yIFVYL1VJIERlc2lnbmVycyAxLiA8Yj5GaWdtYTwvYj4g4oCmIDIuIEFkb2JlIFhkIEFkb2JlIFhkIGlzIOKAnGEgdmVjdG9yIDMuIFNrZXRjaCBTa2V0Y2ggaXMg4oCcYSBNYWMgYXBwIGZvciBkZXNpZ25lcnMgdG8mbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+      "source": "Hyperspace Ventures"
+    },
+    {
+      "position": 9,
+      "title": "6 Best Prototyping Tools for UI/UX Designers Guide Tips",
+      "link": "https://www.seasiainfotech.com/blog/6-prototyping-tools-for-ui-ux-designers",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFax6bmcxbqP6HhiK5n5Gx9jMrThWhcD4RoQB-NT66x8J2goMqkRbrZ3FpKZr-IYWvAFfyx8M0sFQGyFd0QEl9Xku1f6Nxz0DVnQc0MuR9-0-VFpDfeqxTyQN6OaGl68VcX4GpftWQ9h6wU7lCfesjdKS0OFFTsI6Qd_823XeWw&ved=2ahUKEwinj9-Z1omXAxUFMtAFHdbfJqQQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://www.seasiainfotech.com › blog › 6-prototyping-...",
+      "favicon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABQBQCdASocABwAPrkurlcnIacnG_DgFwloACEAB6BnqpRE8TKBz6XBVmF03hTVQjoEqAAA_vfwmr2uv-vqmMq_vJbtcbcFat3unD27HrqhLekUKiRlFrLfismN7qNWtKC3NHFNvmcc3shvjcXgfeisexBqsS7ka0c_PJ0fU09DDNzGf8zmz-gEuVERk-gUjwbJjHUdOQgzvme8VhjoZ0AdGEYVTKbuMvPboxVHmAAKL6SvXQUI8d9ZNDbCfJisFuTPqgqkZarn6ENGszmltRDKq8nfnuvltjdTIK51uYAAAA.webp",
+      "date": "Aug 21, 2020",
+      "snippet": "Explore 6 best prototyping tools for UI/UX designers like Adobe XD, Framer, Webflow, InVision, Marvel and Origami to improve design workflow ...",
+      "snippet_highlighted_words": [
+        "Adobe XD"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Understanding Prototyping...",
+            "link": "https://www.seasiainfotech.com/blog/6-prototyping-tools-for-ui-ux-designers#:~:text=Understanding%20Prototyping%20Tools,-Designers%20are%20usually%20confined%20to"
+          },
+          {
+            "title": "Best Prototyping Tools For...",
+            "link": "https://www.seasiainfotech.com/blog/6-prototyping-tools-for-ui-ux-designers#:~:text=Best%20Prototyping%20Tools%20for%20Designers,-When%20it%20comes%20to%20efficient"
+          },
+          {
+            "title": "Adobe Xd",
+            "link": "https://www.seasiainfotech.com/blog/6-prototyping-tools-for-ui-ux-designers#:~:text=%21-,Adobe%20XD"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Explore 6 best prototyping tools for UI/UX designers like Adobe XD, Framer, Webflow, InVision, Marvel and Origami to improve design workflow ...",
+          "source_info_link": "https://www.seasiainfotech.com/blog/6-prototyping-tools-for-ui-ux-designers",
+          "icon": "https://serpapi.com/images/i/UklGRuwAAABXRUJQVlA4IOAAAABQBQCdASocABwAPrkurlcnIacnG_DgFwloACEAB6BnqpRE8TKBz6XBVmF03hTVQjoEqAAA_vfwmr2uv-vqmMq_vJbtcbcFat3unD27HrqhLekUKiRlFrLfismN7qNWtKC3NHFNvmcc3shvjcXgfeisexBqsS7ka0c_PJ0fU09DDNzGf8zmz-gEuVERk-gUjwbJjHUdOQgzvme8VhjoZ0AdGEYVTKbuMvPboxVHmAAKL6SvXQUI8d9ZNDbCfJisFuTPqgqkZarn6ENGszmltRDKq8nfnuvltjdTIK51uYAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZheDZibWN4YnFQNkhoaUs1bjVHeDlqTXJUaFdoY0Q0Um9RQi1OVDY2eDhKMmdvTXFrUmJyWjNGcEtaci1JWVd2QUZmeXg4TTBzRlFHeUZkMFFFbDlYa3UxZjZOeHowRFZuUWMwTXVSOS0wLVZGcERmZXF4VHlRTjZPYUdsNjhWY1g0R3BmdFdROWg2d1U3bENmZXNqZEtTME9GRlRzSTZRZF84MjNYZVd3EgQaAggAGtcGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHICCAF6AIJAsQYIABAAGAAgACoWCgRiZXN0FZo0TEAaBGdvb2QaA3RvcCpFCgJ1aRUIjJJAGg51c2VyIGludGVyZmFjZRoPdXNlciBpbnRlcmZhY2VzGgR1aXV4Ggp1aXV4ZGVzaWduGgdpdjtwO3VpKi4KAnV4FSq1mUAaBHVpdXgaCnVpdXhkZXNpZ24aCHV4ZGVzaWduGgdpdjtwO3V4Kl8KBmRlc2lnbhWIFxFAGghkZXNpZ25lchoJZGVzaWduZXJzGglkZXNpZ25pbmcaB2Rlc2lnbnMaCnVpdXhkZXNpZ24aCHV4ZGVzaWduGhFkZXNpZ25wcm90b3R5cGluZypJCgtwcm90b3R5cGluZxVNFp5AGhFkZXNpZ25wcm90b3R5cGluZxoQcHJvdG90eXBpbmd0b29scxoQaXY7cDtwcm90b3R5cGluZyo1CgV0b29scxWHO5xAGgRhcHBzGgllcXVpcG1lbnQaBHRvb2waEHByb3RvdHlwaW5ndG9vbHMywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmF4NmJtY3hicVA2SGhpSzVuNUd4OWpNclRoV2hjRDRSb1FCLU5UNjZ4OEoyZ29NcWtSYnJaM0ZwS1pyLUlZV3ZBRmZ5eDhNMHNGUUd5RmQwUUVsOVhrdTFmNk54ejBEVm5RYzBNdVI5LTAtVkZwRGZlcXhUeVFONk9hR2w2OFZjWDRHcGZ0V1E5aDZ3VTdsQ2Zlc2pkS1MwT0ZGVHNJNlFkXzgyM1hlV3c6TjYgPGI-UHJvdG90eXBpbmcgVG9vbHM8L2I-IGZvciA8Yj5VSTwvYj4vPGI-VVggRGVzaWduZXJzPC9iPiAtIFNlYXNpYSBJbmZvdGVjaEKcAUV4cGxvcmUgNiBiZXN0IHByb3RvdHlwaW5nIHRvb2xzIGZvciBVSS9VWCBkZXNpZ25lcnMgbGlrZSA8Yj5BZG9iZSBYRDwvYj4sIEZyYW1lciwgV2ViZmxvdywgSW5WaXNpb24sIE1hcnZlbCBhbmQgT3JpZ2FtaSB0byBpbXByb3ZlIGRlc2lnbiB3b3JrZmxvdyZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZheDZibWN4YnFQNkhoaUs1bjVHeDlqTXJUaFdoY0Q0Um9RQi1OVDY2eDhKMmdvTXFrUmJyWjNGcEtaci1JWVd2QUZmeXg4TTBzRlFHeUZkMFFFbDlYa3UxZjZOeHowRFZuUWMwTXVSOS0wLVZGcERmZXF4VHlRTjZPYUdsNjhWY1g0R3BmdFdROWg2d1U3bENmZXNqZEtTME9GRlRzSTZRZF84MjNYZVd3EgQaAggAGtcGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHICCAF6AIJAsQYIABAAGAAgACoWCgRiZXN0FZo0TEAaBGdvb2QaA3RvcCpFCgJ1aRUIjJJAGg51c2VyIGludGVyZmFjZRoPdXNlciBpbnRlcmZhY2VzGgR1aXV4Ggp1aXV4ZGVzaWduGgdpdjtwO3VpKi4KAnV4FSq1mUAaBHVpdXgaCnVpdXhkZXNpZ24aCHV4ZGVzaWduGgdpdjtwO3V4Kl8KBmRlc2lnbhWIFxFAGghkZXNpZ25lchoJZGVzaWduZXJzGglkZXNpZ25pbmcaB2Rlc2lnbnMaCnVpdXhkZXNpZ24aCHV4ZGVzaWduGhFkZXNpZ25wcm90b3R5cGluZypJCgtwcm90b3R5cGluZxVNFp5AGhFkZXNpZ25wcm90b3R5cGluZxoQcHJvdG90eXBpbmd0b29scxoQaXY7cDtwcm90b3R5cGluZyo1CgV0b29scxWHO5xAGgRhcHBzGgllcXVpcG1lbnQaBHRvb2waEHByb3RvdHlwaW5ndG9vbHMywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmF4NmJtY3hicVA2SGhpSzVuNUd4OWpNclRoV2hjRDRSb1FCLU5UNjZ4OEoyZ29NcWtSYnJaM0ZwS1pyLUlZV3ZBRmZ5eDhNMHNGUUd5RmQwUUVsOVhrdTFmNk54ejBEVm5RYzBNdVI5LTAtVkZwRGZlcXhUeVFONk9hR2w2OFZjWDRHcGZ0V1E5aDZ3VTdsQ2Zlc2pkS1MwT0ZGVHNJNlFkXzgyM1hlV3c6TjYgPGI-UHJvdG90eXBpbmcgVG9vbHM8L2I-IGZvciA8Yj5VSTwvYj4vPGI-VVggRGVzaWduZXJzPC9iPiAtIFNlYXNpYSBJbmZvdGVjaEKcAUV4cGxvcmUgNiBiZXN0IHByb3RvdHlwaW5nIHRvb2xzIGZvciBVSS9VWCBkZXNpZ25lcnMgbGlrZSA8Yj5BZG9iZSBYRDwvYj4sIEZyYW1lciwgV2ViZmxvdywgSW5WaXNpb24sIE1hcnZlbCBhbmQgT3JpZ2FtaSB0byBpbXByb3ZlIGRlc2lnbiB3b3JrZmxvdyZuYnNwOy4uLlIDdG9wIgIQAUgAWABoAA",
+      "source": "Seasia Infotech"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+ui+ux+design+prototyping+tools&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnueNufP0fqaisL76AKydR-Ts2NOgA:1790337307107&ei=G2G2aueVBoXkwN4P1r-boQo&start=10&sa=N&sstk=AS6-VmJPuKWZyE0os-UH1KnWxcMjzPEpulElwrInUJ_yCy4oFquN6zYsk2DxW0GEoN4iVMEPXr4OBfYoe23SyWs28QdunzdWogn8Ug&ved=2ahUKEwinj9-Z1omXAxUFMtAFHdbfJqQQ8NMDegQIOBAK",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+ui+ux+design+prototyping+tools&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnueNufP0fqaisL76AKydR-Ts2NOgA:1790337307107&ei=G2G2aueVBoXkwN4P1r-boQo&start=10&sa=N&sstk=AS6-VmJPuKWZyE0os-UH1KnWxcMjzPEpulElwrInUJ_yCy4oFquN6zYsk2DxW0GEoN4iVMEPXr4OBfYoe23SyWs28QdunzdWogn8Ug&ved=2ahUKEwinj9-Z1omXAxUFMtAFHdbfJqQQ8tMDegQIOBAE",
+      "3": "https://www.google.com/search?q=best+ui+ux+design+prototyping+tools&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnueNufP0fqaisL76AKydR-Ts2NOgA:1790337307107&ei=G2G2aueVBoXkwN4P1r-boQo&start=20&sa=N&sstk=AS6-VmJPuKWZyE0os-UH1KnWxcMjzPEpulElwrInUJ_yCy4oFquN6zYsk2DxW0GEoN4iVMEPXr4OBfYoe23SyWs28QdunzdWogn8Ug&ved=2ahUKEwinj9-Z1omXAxUFMtAFHdbfJqQQ8tMDegQIOBAG",
+      "4": "https://www.google.com/search?q=best+ui+ux+design+prototyping+tools&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnueNufP0fqaisL76AKydR-Ts2NOgA:1790337307107&ei=G2G2aueVBoXkwN4P1r-boQo&start=30&sa=N&sstk=AS6-VmJPuKWZyE0os-UH1KnWxcMjzPEpulElwrInUJ_yCy4oFquN6zYsk2DxW0GEoN4iVMEPXr4OBfYoe23SyWs28QdunzdWogn8Ug&ved=2ahUKEwinj9-Z1omXAxUFMtAFHdbfJqQQ8tMDegQIOBAI"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+ui+ux+design+prototyping+tools&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+ui+ux+design+prototyping+tools&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+ui+ux+design+prototyping+tools&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+ui+ux+design+prototyping+tools&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+ui+ux+design+prototyping+tools&start=30"
+    }
+  }
+}

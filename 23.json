@@ -1,0 +1,626 @@
+{
+  "search_metadata": {
+    "id": "6ab644ee5989b99bc24fcd8a",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/wzoFe67ItVatCcCG-DHRosIdXk2JNlDcK-7X3hFBO2Q/6ab644ee5989b99bc24fcd8a.json",
+    "markdown_endpoint": "https://serpapi.com/searches/wzoFe67ItVatCcCG-DHRosIdXk2JNlDcK-7X3hFBO2Q/6ab644ee5989b99bc24fcd8a.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/wzoFe67ItVatCcCG-DHRosIdXk2JNlDcK-7X3hFBO2Q/6ab644ee5989b99bc24fcd8a.json_with_pixel_position",
+    "created_at": "2026-09-25 09:54:54 UTC",
+    "processed_at": "2026-09-25 09:54:54 UTC",
+    "google_url": "https://www.google.com/search?q=best+email+marketing+platforms+for+ecommerce&oq=best+email+marketing+platforms+for+ecommerce&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/wzoFe67ItVatCcCG-DHRosIdXk2JNlDcK-7X3hFBO2Q/6ab644ee5989b99bc24fcd8a.html",
+    "total_time_taken": 9.49
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best email marketing platforms for ecommerce",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best email marketing platforms for ecommerce",
+    "total_results": 97,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Best Email Marketing Platforms – Our Picks After Testing 30+ ...",
+      "link": "https://www.youtube.com/watch?v=-kyZGbMRLFg",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrtY03J21bhYYzbUWMbUgw38RKjz39Q5kPKLyF1d4HsIU_li2eexdJDw&s",
+      "channel": "EmailTooltester",
+      "duration": "11:33",
+      "platform": "YouTube",
+      "date": "Aug 9, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSWCva6_4owSRhwOelZiB2rUvCu1is3R8bGHw",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=-kyZGbMRLFg&t=0"
+        },
+        {
+          "time": "00:48",
+          "title": "Brevo: Budget-friendly all-in-one platform for small-to-medium businesses",
+          "link": "https://www.youtube.com/watch?v=-kyZGbMRLFg&t=48"
+        },
+        {
+          "time": "03:17",
+          "title": "MailerLite: The best choice for freelancers & solopreneurs",
+          "link": "https://www.youtube.com/watch?v=-kyZGbMRLFg&t=197"
+        },
+        {
+          "time": "05:30",
+          "title": "Kit: Our top pick for monetizing newsletters",
+          "link": "https://www.youtube.com/watch?v=-kyZGbMRLFg&t=330"
+        },
+        {
+          "time": "06:56",
+          "title": "Omnisend: The best tool for online stores",
+          "link": "https://www.youtube.com/watch?v=-kyZGbMRLFg&t=416"
+        },
+        {
+          "time": "08:29",
+          "title": "ActiveCampaign: The ultimate automation powerhouse for B2B",
+          "link": "https://www.youtube.com/watch?v=-kyZGbMRLFg&t=509"
+        },
+        {
+          "time": "10:38",
+          "title": "Conclusion",
+          "link": "https://www.youtube.com/watch?v=-kyZGbMRLFg&t=638"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "The Best Email Marketing Platform for Ecommerce in 2026",
+      "link": "https://www.youtube.com/watch?v=MOFlFNdfGKU",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTjUMYHa3Sx56ET7tpRHWuTs9hNpKwgWfZXDOhQnmbyE1J9u5KdS7qDA&s",
+      "channel": "George Vlasyev",
+      "duration": "11:27",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "snippet": "Mailchimp is great for beginners, Omnisend for adding SMS on a budget, Klaviyo for Shopify users, and Maestra for true omnichannel personalization.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSN5zf1ldwldnzNgr-ghLKqaGHuTQ55VCpcEg"
+    },
+    {
+      "position": 3,
+      "title": "The 5 Best Email Marketing Platforms for 2026",
+      "link": "https://www.youtube.com/watch?v=EYia33AqZoo",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8eQPTNsQbem6il43RqpnmQW8XfL_PpVBRxgbKgFfAPjUX4gx0Y3nWA&s",
+      "channel": "Santrel Media",
+      "duration": "11:08",
+      "platform": "YouTube",
+      "date": "Apr 26, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT6hp2NTouEcfsVZIeMyw3PeJfpHVxKMmdnfA"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the 80/20 rule in email marketing?",
+      "type": "ai_overview",
+      "page_token": "Ps-xEnicHdBRboIwAADQ7DJ-TgrBZSZmCbOoZC1roS30ZymtilIEBw7wb3fZqXaaJXtHeN8_9nSpfh--yr5vu-V8PgzD47Fpjnb_qJt6rrrpoudaWVsoXS0XTwvwctAreNsFr9ddQFjb8jV1Et6-F4DeUjgMSMiLgmARi8ah0GzRprsXd4lzz_Qxlz25SJgz507PZlPUuzEO0ZC5bMxdCWlW-oTxIPfQVFQdMI69SdF2uGI-Acc-cZ4T5smrXIdRzAyKBX5LvVJkAI98An3OpOWVvRr43FF3bJI62u0zTPDG5jKLTnsRJiYkfsrxQgmrFIwSIgBiLi4R6z16tkI7I4Wl9lGIpjwLTgUc3X1qJ8M40bUkbGsCTpsTYfSuz7Zm7ljjbcgEx76CPFFnGhQVjahbvhFr6gLw1gyzg_5aebP_z9XHoe6X7Wdz_AOm4YQK",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Ps-xEnicHdBRboIwAADQ7DJ-TgrBZSZmCbOoZC1roS30ZymtilIEBw7wb3fZqXaaJXtHeN8_9nSpfh--yr5vu-V8PgzD47Fpjnb_qJt6rrrpoudaWVsoXS0XTwvwctAreNsFr9ddQFjb8jV1Et6-F4DeUjgMSMiLgmARi8ah0GzRprsXd4lzz_Qxlz25SJgz507PZlPUuzEO0ZC5bMxdCWlW-oTxIPfQVFQdMI69SdF2uGI-Acc-cZ4T5smrXIdRzAyKBX5LvVJkAI98An3OpOWVvRr43FF3bJI62u0zTPDG5jKLTnsRJiYkfsrxQgmrFIwSIgBiLi4R6z16tkI7I4Wl9lGIpjwLTgUc3X1qJ8M40bUkbGsCTpsTYfSuz7Zm7ljjbcgEx76CPFFnGhQVjahbvhFr6gLw1gyzg_5aebP_z9XHoe6X7Wdz_AOm4YQK",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFZHVkbEZhV0dzNGVsUmZaMWh5YW1KWVdHczVSVXhRUzBaeFNUSndkVXhNUW5oeFFWQk5VVWRFWlhkelpWcG1VbTh6TFZkeldrNUtaa1ozUTNReFVqaHZaek13VVV4MlJYRkNia0Z4T0ZSNGQxaGlTbkpvVDFac2R4SVhPVEJUTW1Gd1lteE1kbms1Y25WRlVISm1VRkIzUVZVYUlrRkVjM0k1WmxSMFIzVktkMlZ6VUZOWk1HZDZPV1ZNY1hkRVpVOVFSR3hNY0hjIiwiZmN2IjoiMyIsImVpIjoiOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVUiLCJxYyI6IkNpeGlaWE4wSUdWdFlXbHNJRzFoY210bGRHbHVaeUJ3YkdGMFptOXliWE1nWm05eUlHVmpiMjF0WlhKalpSQUFmUU9wS0Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA4MC8yMCBydWxlIGluIGVtYWlsIG1hcmtldGluZz8iLCJsayI6IkdpbDNhR0YwSUdseklIUm9aU0E0TUNBeU1DQnlkV3hsSUdsdUlHVnRZV2xzSUcxaGNtdGxkR2x1WnciLCJicyI6ImM0MlBzUXJDTUJSRmNjM2twbmE2bTFZUlM2RGkxbEg4QUJISFVKNXRNR2xLOGlTX2IxdHcwQ3E0dm50NDl4NXhGZXRMclJnNmdHdkNJZHZKRFA1aENMb0JXYVVOclBKM1l0MVVoZHdrYVh5ajhac1daN0VhWGl0UEE4MnVSUTdhbHM1YThpV2hOWXB2enR0UXlEUlp4aThzeHF6SXhmeTEyRk4zTHJzdUhQdnVRaTZTV1J4bFZaLUpUdlFVUGpjaXNEWUcwWG11b2JtM2tKbmNENkw2WDNvNmVRSSIsImlkIjoiZmNfOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFZHVkbEZhV0dzNGVsUmZaMWh5YW1KWVdHczVSVXhRUzBaeFNUSndkVXhNUW5oeFFWQk5VVWRFWlhkelpWcG1VbTh6TFZkeldrNUtaa1ozUTNReFVqaHZaek13VVV4MlJYRkNia0Z4T0ZSNGQxaGlTbkpvVDFac2R4SVhPVEJUTW1Gd1lteE1kbms1Y25WRlVISm1VRkIzUVZVYUlrRkVjM0k1WmxSMFIzVktkMlZ6VUZOWk1HZDZPV1ZNY1hkRVpVOVFSR3hNY0hjIiwiZmN2IjoiMyIsImVpIjoiOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVUiLCJxYyI6IkNpeGlaWE4wSUdWdFlXbHNJRzFoY210bGRHbHVaeUJ3YkdGMFptOXliWE1nWm05eUlHVmpiMjF0WlhKalpSQUFmUU9wS0Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSA4MC8yMCBydWxlIGluIGVtYWlsIG1hcmtldGluZz8iLCJsayI6IkdpbDNhR0YwSUdseklIUm9aU0E0TUNBeU1DQnlkV3hsSUdsdUlHVnRZV2xzSUcxaGNtdGxkR2x1WnciLCJicyI6ImM0MlBzUXJDTUJSRmNjM2twbmE2bTFZUlM2RGkxbEg4QUJISFVKNXRNR2xLOGlTX2IxdHcwQ3E0dm50NDl4NXhGZXRMclJnNmdHdkNJZHZKRFA1aENMb0JXYVVOclBKM1l0MVVoZHdrYVh5ajhac1daN0VhWGl0UEE4MnVSUTdhbHM1YThpV2hOWXB2enR0UXlEUlp4aThzeHF6SXhmeTEyRk4zTHJzdUhQdnVRaTZTV1J4bFZaLUpUdlFVUGpjaXNEWUcwWG11b2JtM2tKbmNENkw2WDNvNmVRSSIsImlkIjoiZmNfOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVVfNSJ9"
+    },
+    {
+      "question": "What are the top 5 e-commerce platforms?",
+      "type": "ai_overview",
+      "page_token": "zOVv2XicHZDbboJAFEXTn_GxAl7amJgmCIi0YGfgzMC8NDCDonO4VKy3t_5Lv6pfU9PHnayVlezvH9w1-vfhVB2PXT8bDs_n8-O2bbdYPsq2Hub9tZFDmSMWudSz6dPUfNnIufu1shefK5tA1zGHGrFme-mQCWgvShCBWtW7cNDNedewhvbgiGmR2i0bRWnsKwTox4Xb9dxnmHHl5x7rqPZujOHovkOovaYEWlN-IVJXr5GjjuFST8I7JxzaE4yS0Mc3roMo4ZOurCdWptErU9XHGI1KH7PCwT3UaPJEEMJNIeDZKGPjplKMUxOJMNoxiw0ztQIXeHUKQQDcqi_l2bZbyXsrvGapvSvci1UmeFXAiKwFAV_ZjLY7AvQm91iDGRwiHpA1N8ckycZ3nyms3tdLDMAK8sgKFuI82MjTfDT4_3P-samPs-7Qbv8AICuDsQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=zOVv2XicHZDbboJAFEXTn_GxAl7amJgmCIi0YGfgzMC8NDCDonO4VKy3t_5Lv6pfU9PHnayVlezvH9w1-vfhVB2PXT8bDs_n8-O2bbdYPsq2Hub9tZFDmSMWudSz6dPUfNnIufu1shefK5tA1zGHGrFme-mQCWgvShCBWtW7cNDNedewhvbgiGmR2i0bRWnsKwTox4Xb9dxnmHHl5x7rqPZujOHovkOovaYEWlN-IVJXr5GjjuFST8I7JxzaE4yS0Mc3roMo4ZOurCdWptErU9XHGI1KH7PCwT3UaPJEEMJNIeDZKGPjplKMUxOJMNoxiw0ztQIXeHUKQQDcqi_l2bZbyXsrvGapvSvci1UmeFXAiKwFAV_ZjLY7AvQm91iDGRwiHpA1N8ckycZ3nyms3tdLDMAK8sgKFuI82MjTfDT4_3P-samPs-7Qbv8AICuDsQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFZHVkbEZhV0dzNGVsUmZaMWh5YW1KWVdHczVSVXhRUzBaeFNUSndkVXhNUW5oeFFWQk5VVWRFWlhkelpWcG1VbTh6TFZkeldrNUtaa1ozUTNReFVqaHZaek13VVV4MlJYRkNia0Z4T0ZSNGQxaGlTbkpvVDFac2R4SVhPVEJUTW1Gd1lteE1kbms1Y25WRlVISm1VRkIzUVZVYUlrRkVjM0k1WmxSMFIzVktkMlZ6VUZOWk1HZDZPV1ZNY1hkRVpVOVFSR3hNY0hjIiwiZmN2IjoiMyIsImVpIjoiOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVUiLCJxYyI6IkNpeGlaWE4wSUdWdFlXbHNJRzFoY210bGRHbHVaeUJ3YkdGMFptOXliWE1nWm05eUlHVmpiMjF0WlhKalpSQUFmUU9wS0Q4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDUgZS1jb21tZXJjZSBwbGF0Zm9ybXM/IiwibGsiOiJHaWQzYUdGMElHRnlaU0IwYUdVZ2RHOXdJRFVnWlNCamIyMXRaWEpqWlNCd2JHRjBabTl5YlhNIiwiYnMiOiJjNDJQc1FyQ01CUkZjYzNrcG5hNm0xWVJTNkRpMWxIOEFCSEhVSjV0TUdsSzhpU19iMXR3MENxNHZudDQ5eDV4RmV0THJSZzZnR3ZDSWR2SkRQNWhDTG9CV2FVTnJQSjNZdDFVaGR3a2FYeWo4WnNXWjdFYVhpdFBBODJ1UlE3YWxzNWE4aVdoTllwdnp0dFF5RFJaeGk4c3hxekl4ZnkxMkZOM0xyc3VIUHZ1UWk2U1dSeGxWWi1KVHZRVVBqY2lzRFlHMFhtdW9ibTNrSm5jRDZMNlgzbzZlUUkiLCJpZCI6ImZjXzkwUzJhcGJsTHZ5OXJ1RVByZlBQd0FVXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFZHVkbEZhV0dzNGVsUmZaMWh5YW1KWVdHczVSVXhRUzBaeFNUSndkVXhNUW5oeFFWQk5VVWRFWlhkelpWcG1VbTh6TFZkeldrNUtaa1ozUTNReFVqaHZaek13VVV4MlJYRkNia0Z4T0ZSNGQxaGlTbkpvVDFac2R4SVhPVEJUTW1Gd1lteE1kbms1Y25WRlVISm1VRkIzUVZVYUlrRkVjM0k1WmxSMFIzVktkMlZ6VUZOWk1HZDZPV1ZNY1hkRVpVOVFSR3hNY0hjIiwiZmN2IjoiMyIsImVpIjoiOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVUiLCJxYyI6IkNpeGlaWE4wSUdWdFlXbHNJRzFoY210bGRHbHVaeUJ3YkdGMFptOXliWE1nWm05eUlHVmpiMjF0WlhKalpSQUFmUU9wS0Q4IiwicXVlc3Rpb24iOiJXaGF0IGFyZSB0aGUgdG9wIDUgZS1jb21tZXJjZSBwbGF0Zm9ybXM%2FIiwibGsiOiJHaWQzYUdGMElHRnlaU0IwYUdVZ2RHOXdJRFVnWlNCamIyMXRaWEpqWlNCd2JHRjBabTl5YlhNIiwiYnMiOiJjNDJQc1FyQ01CUkZjYzNrcG5hNm0xWVJTNkRpMWxIOEFCSEhVSjV0TUdsSzhpU19iMXR3MENxNHZudDQ5eDV4RmV0THJSZzZnR3ZDSWR2SkRQNWhDTG9CV2FVTnJQSjNZdDFVaGR3a2FYeWo4WnNXWjdFYVhpdFBBODJ1UlE3YWxzNWE4aVdoTllwdnp0dFF5RFJaeGk4c3hxekl4ZnkxMkZOM0xyc3VIUHZ1UWk2U1dSeGxWWi1KVHZRVVBqY2lzRFlHMFhtdW9ibTNrSm5jRDZMNlgzbzZlUUkiLCJpZCI6ImZjXzkwUzJhcGJsTHZ5OXJ1RVByZlBQd0FVXzUifQ%3D%3D"
+    },
+    {
+      "question": "What is replacing Gmail?",
+      "type": "ai_overview",
+      "page_token": "XINNInicHdDbboIwAADQ7Gd8lJu6aGKWMajYaB29cHtZsBXRFmgEh_C2f9lX7Wu27AtOcr6-1aWWP09J2XW6XRlG3_fTc9Oc1WnKm8rI26HmBs-VOuZcrhbPC-ul4Gu_7d23pndDpnXkYZP6y4GCcJ5X4s5iLNOa9fsR3vMxqrgNJGL6FkoV5KZumQdbVGc1pcimjnaZQgwFWXuUakBRmXBQQhxDD8flTfjiPQbASy01o_JBdiyKxJjNUioc6ndbXKGOAvciYlzkf2Zolwti7x2WZA1m2sFAHJgEFDFcEck7cn21d_HSSx1JwCh7NsKSb2BLg2x-SKCFI3fIlBsKE0SbC3RxgIZDnLGT4nMEcJ9K60HA1sQRvDOlN4hZV6J8m4yinhT8c-1M_sfWH0XVrfStOf8C04N6LA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XINNInicHdDbboIwAADQ7Gd8lJu6aGKWMajYaB29cHtZsBXRFmgEh_C2f9lX7Wu27AtOcr6-1aWWP09J2XW6XRlG3_fTc9Oc1WnKm8rI26HmBs-VOuZcrhbPC-ul4Gu_7d23pndDpnXkYZP6y4GCcJ5X4s5iLNOa9fsR3vMxqrgNJGL6FkoV5KZumQdbVGc1pcimjnaZQgwFWXuUakBRmXBQQhxDD8flTfjiPQbASy01o_JBdiyKxJjNUioc6ndbXKGOAvciYlzkf2Zolwti7x2WZA1m2sFAHJgEFDFcEck7cn21d_HSSx1JwCh7NsKSb2BLg2x-SKCFI3fIlBsKE0SbC3RxgIZDnLGT4nMEcJ9K60HA1sQRvDOlN4hZV6J8m4yinhT8c-1M_sfWH0XVrfStOf8C04N6LA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFZHVkbEZhV0dzNGVsUmZaMWh5YW1KWVdHczVSVXhRUzBaeFNUSndkVXhNUW5oeFFWQk5VVWRFWlhkelpWcG1VbTh6TFZkeldrNUtaa1ozUTNReFVqaHZaek13VVV4MlJYRkNia0Z4T0ZSNGQxaGlTbkpvVDFac2R4SVhPVEJUTW1Gd1lteE1kbms1Y25WRlVISm1VRkIzUVZVYUlrRkVjM0k1WmxSMFIzVktkMlZ6VUZOWk1HZDZPV1ZNY1hkRVpVOVFSR3hNY0hjIiwiZmN2IjoiMyIsImVpIjoiOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVUiLCJxYyI6IkNpeGlaWE4wSUdWdFlXbHNJRzFoY210bGRHbHVaeUJ3YkdGMFptOXliWE1nWm05eUlHVmpiMjF0WlhKalpSQUFmUU9wS0Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHJlcGxhY2luZyBHbWFpbD8iLCJsayI6IkdoZDNhR0YwSUdseklISmxjR3hoWTJsdVp5Qm5iV0ZwYkEiLCJicyI6ImM0MlBzUXJDTUJSRmNjM2twbmE2bTFZUlM2RGkxbEg4QUJISFVKNXRNR2xLOGlTX2IxdHcwQ3E0dm50NDl4NXhGZXRMclJnNmdHdkNJZHZKRFA1aENMb0JXYVVOclBKM1l0MVVoZHdrYVh5ajhac1daN0VhWGl0UEE4MnVSUTdhbHM1YThpV2hOWXB2enR0UXlEUlp4aThzeHF6SXhmeTEyRk4zTHJzdUhQdnVRaTZTV1J4bFZaLUpUdlFVUGpjaXNEWUcwWG11b2JtM2tKbmNENkw2WDNvNmVRSSIsImlkIjoiZmNfOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFZHVkbEZhV0dzNGVsUmZaMWh5YW1KWVdHczVSVXhRUzBaeFNUSndkVXhNUW5oeFFWQk5VVWRFWlhkelpWcG1VbTh6TFZkeldrNUtaa1ozUTNReFVqaHZaek13VVV4MlJYRkNia0Z4T0ZSNGQxaGlTbkpvVDFac2R4SVhPVEJUTW1Gd1lteE1kbms1Y25WRlVISm1VRkIzUVZVYUlrRkVjM0k1WmxSMFIzVktkMlZ6VUZOWk1HZDZPV1ZNY1hkRVpVOVFSR3hNY0hjIiwiZmN2IjoiMyIsImVpIjoiOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVUiLCJxYyI6IkNpeGlaWE4wSUdWdFlXbHNJRzFoY210bGRHbHVaeUJ3YkdGMFptOXliWE1nWm05eUlHVmpiMjF0WlhKalpSQUFmUU9wS0Q4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHJlcGxhY2luZyBHbWFpbD8iLCJsayI6IkdoZDNhR0YwSUdseklISmxjR3hoWTJsdVp5Qm5iV0ZwYkEiLCJicyI6ImM0MlBzUXJDTUJSRmNjM2twbmE2bTFZUlM2RGkxbEg4QUJISFVKNXRNR2xLOGlTX2IxdHcwQ3E0dm50NDl4NXhGZXRMclJnNmdHdkNJZHZKRFA1aENMb0JXYVVOclBKM1l0MVVoZHdrYVh5ajhac1daN0VhWGl0UEE4MnVSUTdhbHM1YThpV2hOWXB2enR0UXlEUlp4aThzeHF6SXhmeTEyRk4zTHJzdUhQdnVRaTZTV1J4bFZaLUpUdlFVUGpjaXNEWUcwWG11b2JtM2tKbmNENkw2WDNvNmVRSSIsImlkIjoiZmNfOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVVfNSJ9"
+    },
+    {
+      "question": "Is email marketing still worth it in 2026?",
+      "type": "ai_overview",
+      "page_token": "5ab4rXicHdBdToMwAADgeBkfN2itP0sWkyIdoHS2g_LzYkq7jUkZjE1gvHkXT-VpTPyO8H3_mMOx-r3py8ulPS_m82EYZvum2ZvtTDX1XJ6vRzVX0phCqmpx_3BvP-_U0v3ysXPyMYvbVrxwKyLYZKKC26NhBRQ0t9tTNgU0hb6VArt_S7HDLR8pqCM20VESGoqjO65JNm2NponQmE9knQH9GpJgxcWTE0KOqf0IUttHItEoFqWXGxexGvmJKHtOSECrEcWRTiKiV5E1AAmD19gzhKdGSlfZzEJIg1bkhOaFKLsiIr1ORp5UFygAP4UAOTrhUk5BJ1ZPXVGN78oy3C0VCkl4zVJ8KNwRbCNz1bFgqs5Z7GkseHNgMZ_Up6njCEvqqYEac1cAZm88NkoXJeu0gZvV2Gm7zPRwu1P9Et7-fy4_dvVl0XbN_g8aAIFh",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5ab4rXicHdBdToMwAADgeBkfN2itP0sWkyIdoHS2g_LzYkq7jUkZjE1gvHkXT-VpTPyO8H3_mMOx-r3py8ulPS_m82EYZvum2ZvtTDX1XJ6vRzVX0phCqmpx_3BvP-_U0v3ysXPyMYvbVrxwKyLYZKKC26NhBRQ0t9tTNgU0hb6VArt_S7HDLR8pqCM20VESGoqjO65JNm2NponQmE9knQH9GpJgxcWTE0KOqf0IUttHItEoFqWXGxexGvmJKHtOSECrEcWRTiKiV5E1AAmD19gzhKdGSlfZzEJIg1bkhOaFKLsiIr1ORp5UFygAP4UAOTrhUk5BJ1ZPXVGN78oy3C0VCkl4zVJ8KNwRbCNz1bFgqs5Z7GkseHNgMZ_Up6njCEvqqYEac1cAZm88NkoXJeu0gZvV2Gm7zPRwu1P9Et7-fy4_dvVl0XbN_g8aAIFh",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFZHVkbEZhV0dzNGVsUmZaMWh5YW1KWVdHczVSVXhRUzBaeFNUSndkVXhNUW5oeFFWQk5VVWRFWlhkelpWcG1VbTh6TFZkeldrNUtaa1ozUTNReFVqaHZaek13VVV4MlJYRkNia0Z4T0ZSNGQxaGlTbkpvVDFac2R4SVhPVEJUTW1Gd1lteE1kbms1Y25WRlVISm1VRkIzUVZVYUlrRkVjM0k1WmxSMFIzVktkMlZ6VUZOWk1HZDZPV1ZNY1hkRVpVOVFSR3hNY0hjIiwiZmN2IjoiMyIsImVpIjoiOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVUiLCJxYyI6IkNpeGlaWE4wSUdWdFlXbHNJRzFoY210bGRHbHVaeUJ3YkdGMFptOXliWE1nWm05eUlHVmpiMjF0WlhKalpSQUFmUU9wS0Q4IiwicXVlc3Rpb24iOiJJcyBlbWFpbCBtYXJrZXRpbmcgc3RpbGwgd29ydGggaXQgaW4gMjAyNj8iLCJsayI6IkdpbHBjeUJsYldGcGJDQnRZWEpyWlhScGJtY2djM1JwYkd3Z2QyOXlkR2dnYVhRZ2FXNGdNakF5TmciLCJicyI6ImM0MlBzUXJDTUJSRmNjM2twbmE2bTFZUlM2RGkxbEg4QUJISFVKNXRNR2xLOGlTX2IxdHcwQ3E0dm50NDl4NXhGZXRMclJnNmdHdkNJZHZKRFA1aENMb0JXYVVOclBKM1l0MVVoZHdrYVh5ajhac1daN0VhWGl0UEE4MnVSUTdhbHM1YThpV2hOWXB2enR0UXlEUlp4aThzeHF6SXhmeTEyRk4zTHJzdUhQdnVRaTZTV1J4bFZaLUpUdlFVUGpjaXNEWUcwWG11b2JtM2tKbmNENkw2WDNvNmVRSSIsImlkIjoiZmNfOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1RFZHVkbEZhV0dzNGVsUmZaMWh5YW1KWVdHczVSVXhRUzBaeFNUSndkVXhNUW5oeFFWQk5VVWRFWlhkelpWcG1VbTh6TFZkeldrNUtaa1ozUTNReFVqaHZaek13VVV4MlJYRkNia0Z4T0ZSNGQxaGlTbkpvVDFac2R4SVhPVEJUTW1Gd1lteE1kbms1Y25WRlVISm1VRkIzUVZVYUlrRkVjM0k1WmxSMFIzVktkMlZ6VUZOWk1HZDZPV1ZNY1hkRVpVOVFSR3hNY0hjIiwiZmN2IjoiMyIsImVpIjoiOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVUiLCJxYyI6IkNpeGlaWE4wSUdWdFlXbHNJRzFoY210bGRHbHVaeUJ3YkdGMFptOXliWE1nWm05eUlHVmpiMjF0WlhKalpSQUFmUU9wS0Q4IiwicXVlc3Rpb24iOiJJcyBlbWFpbCBtYXJrZXRpbmcgc3RpbGwgd29ydGggaXQgaW4gMjAyNj8iLCJsayI6IkdpbHBjeUJsYldGcGJDQnRZWEpyWlhScGJtY2djM1JwYkd3Z2QyOXlkR2dnYVhRZ2FXNGdNakF5TmciLCJicyI6ImM0MlBzUXJDTUJSRmNjM2twbmE2bTFZUlM2RGkxbEg4QUJISFVKNXRNR2xLOGlTX2IxdHcwQ3E0dm50NDl4NXhGZXRMclJnNmdHdkNJZHZKRFA1aENMb0JXYVVOclBKM1l0MVVoZHdrYVh5ajhac1daN0VhWGl0UEE4MnVSUTdhbHM1YThpV2hOWXB2enR0UXlEUlp4aThzeHF6SXhmeTEyRk4zTHJzdUhQdnVRaTZTV1J4bFZaLUpUdlFVUGpjaXNEWUcwWG11b2JtM2tKbmNENkw2WDNvNmVRSSIsImlkIjoiZmNfOTBTMmFwYmxMdnk5cnVFUHJmUFB3QVVfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best email marketing software for ecommerce is Klaviyo for data-heavy and enterprise brands, or Omnisend for a budget-friendly omnichannel option.",
+        "snippet_highlighted_words": [
+          "Klaviyo for data-heavy and enterprise brands, or Omnisend for a budget-friendly omnichannel option"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Ecommerce Email Tools at a Glance"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Klaviyo: Best for scaling and large stores. It offers deep data integrations (especially with Shopify), advanced predictive analytics, and powerful customer segmentation."
+          },
+          {
+            "snippet": "Omnisend: Best budget omnichannel choice. It combines email, SMS, and web push notifications with an easy-to-use interface and lower pricing tiers than Klaviyo."
+          },
+          {
+            "snippet": "Drip: Best for revenue-focused automation. It tracks metrics like revenue per person and provides deep behavioral targeting for online shops."
+          },
+          {
+            "snippet": "Mailchimp: Best for absolute beginners. It features a gentle learning curve and simple templates, though growing brands often outgrow its basic analytics and pricing model."
+          },
+          {
+            "snippet": "Brevo: Best for high-volume, low-cost sends. It uses a credit- or message-volume-based pricing structure instead of charging per contact."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "How to Choose the Right Platform"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Platform Integration: Ensure the software syncs natively with your store platform (like Shopify, WooCommerce, or BigCommerce) to track real-time purchases and browsing behavior."
+          },
+          {
+            "snippet": "Automation Flows: Look for pre-built templates for essential triggers like abandoned carts, browse abandonment, welcome series, and post-purchase follow-ups."
+          },
+          {
+            "snippet": "Pricing Model: Check if the tool charges by the total number of contacts (even inactive ones) or by the number of emails sent per month."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you share your ecommerce platform (Shopify, WooCommerce, etc.), monthly budget, and list size, I can recommend the exact software tier that fits your store."
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.drip.com/blog/best-email-marketing-software",
+        "source": "drip.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.reddit.com/r/DigitalMarketing/comments/1qauudt/whats_the_best_email_marketing_platform_to/",
+        "source": "reddit.com",
+        "index": 1
+      },
+      {
+        "link": "https://www.youtube.com/shorts/HAk17ejTCc8",
+        "source": "youtube.com",
+        "index": 2
+      },
+      {
+        "link": "https://www.youtube.com/shorts/aUVNF0zoPM4",
+        "source": "youtube.com",
+        "index": 3
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=UrAlwjQBzbU",
+        "source": "youtube.com",
+        "index": 4
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=hMnbJzIcQ9M",
+        "source": "youtube.com",
+        "index": 5
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=MOFlFNdfGKU",
+        "source": "youtube.com",
+        "index": 6
+      },
+      {
+        "title": "Best Email Marketing Software for Ecommerce (2026) - Drip",
+        "link": "https://www.drip.com/blog/best-email-marketing-software",
+        "snippet": "What You'll Find in This Post * The Best Ecommerce Email Tools at a Glance. * Quick Comparison Table. * 1. Drip: Best Overall for Ecommerce Revenue. * 2. Klaviyo: ...",
+        "source": "www.drip.com",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQj31RcWHB6_qbeuQzsQfU7e3BoG__b2_XxKJc9bgkkFCjhAxUxQlniohPSE4hvA7vuxdibE-1OUovBwqi3jz4zKwQWtwYvPdmqTGU7",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.drip.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "What's the best email marketing platform to consider? - Reddit",
+        "link": "https://www.reddit.com/r/DigitalMarketing/comments/1qauudt/whats_the_best_email_marketing_platform_to/",
+        "snippet": "Designer-Fan-5857 • 8mo ago Switched to ActiveCampaign last year and it's been a game changer. Good templates, reliable deliverability, and it scales welll as your...",
+        "source": "Reddit",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSB_dCaXuELyiXdtNYhS--7KRbLtkl7Vt9jIZGedkocjs_Xbh-tlA8w2mfFhnjmcxw013dGk9RbU48lCDYGOKqwbpzQE0k56ALYYPJA",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "Which Email Tool Is Best for Your E commerce Store?",
+        "link": "https://www.youtube.com/shorts/HAk17ejTCc8",
+        "snippet": "Which Email Tool Is Best for Your E commerce Store? you need a professional tool now picking a tool can feel like a bit scrolling ...",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMajY-ZUvVcgKGcZWtzQG78I65EGRTwKpwkD3XEN7umja2u1U0UY2K28Ce3igIJo_zzAA3QY4W-4WBOjfVjcfH4PybHePREAysVSNLtQ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      },
+      {
+        "title": "Most ecommerce brands pick their email platform for the wrong reasons.",
+        "link": "https://www.youtube.com/shorts/aUVNF0zoPM4",
+        "snippet": "Most ecommerce brands pick their email platform for the wrong reasons. all right so in the past eight years I helped more than 200...",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZUA0IrHkY_hva89y500jEGqQthdeYmGwEr_xtJkKmszxO1yaunNU_vXSfP5Y_Fy5GWll1ACa_5TB9iEX6wgd18pAX4ZyljbS5UzWQjw",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 10
+      },
+      {
+        "title": "Omnisend Review 2026: The Best Ecommerce Email Marketing App in ...",
+        "link": "https://www.youtube.com/watch?v=UrAlwjQBzbU&t=19",
+        "snippet": "Omnisend Review 2026: The Best Ecommerce Email Marketing App in 2026? so by the end of this video you're going to know if the Swit...",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT2iePiOagJtYpXzrfqsLbxk154uaUIBiBAlFtWiE7rUfi6g_Mte-HU0_ff20gbWv8mzkdvhyiy8SeQ3wcWJJEdha0_4u6czBW0VKiwaQ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      },
+      {
+        "title": "The Email Marketing Tools I'd Use to Run an Online Store",
+        "link": "https://www.youtube.com/watch?v=hMnbJzIcQ9M",
+        "snippet": "The Email Marketing Tools I'd Use to Run an Online Store if I were running an online store today choosing the right email marketin...",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSPMd2353OR986ADeUzCy6Bvix3nQlK2J9V_MtXyDZ0HKaaj5Znpm7dcWijpuY6n_sDVwssHKfJ0ni8wPQLTywTQ8u7SHNhGCV6pJmCew",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 12
+      },
+      {
+        "title": "The Best Email Marketing Platform for Ecommerce in 2026: Complete Guide",
+        "link": "https://www.youtube.com/watch?v=MOFlFNdfGKU&t=77",
+        "snippet": "The Best Email Marketing Platform for Ecommerce in 2026: Complete Guide where it actually fits.\\\" They didn't ask for script approv...",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSGPrtlMczy0143cfXxBNH9Y-gUjCp8kxzGZmDHAxXvzNXDPrZTCmYJ-bV5G7rUJgoh2sHKEo7TQ-V1ts5ZJQXJlDBOm2X-HNexf86Q3g",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 13
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Reviewed: 12 Best Email Marketing Platforms for Ecommerce",
+      "link": "https://www.emailtooltester.com/en/blog/best-email-marketing-for-ecommerce/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFTI4g7YX_H97_ovQ_WXSH0Q30XhbhxBCfYM2-aC_h3ba4CtZ_1BLWAU_551nEqsdB3enMQ1ZDaOttypVhH0s2QXyN8POeghL9o_xlkIDwbJfbc9utQ-tm2HoGc-vkiBAmiYdoE3QUgF1qEmsIG7nvxA4WPUdSID5S-a-87UEtg&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.emailtooltester.com › Home › Blog",
+      "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAADwBQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHUHuieAN4yOYBwQgyTbNOc0AefNShOCYwaYAADTdveGsMj-jiWwly6ftWGt73X6xv4Dq6fJTvkSl8XBmgf6AbTkMA8UwWv-39Jg_zbwfj5rNgwO8htY13AeO0e2n5VIiN5Yuc0biEZS3uF2pYENDJkK4-4kdexIBIYSk-rq6F_6NZMd5Mwd874g0WxupexnfXmibd0GOFNne9_TvDuDmXVc0w3XK6RPXKZZ1_deN42P9_jKAorIlrTLgwTNJvrAihIAAAAA.webp",
+      "date": "Aug 5, 2026",
+      "snippet": "12 best email marketing tools for ecommerce · 1. Omnisend · 2. Klaviyo · 3. ActiveCampaign · 4. GetResponse · 5. Mailchimp · 6. MailerLite · 7.",
+      "snippet_highlighted_words": [
+        "1. Omnisend"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Ecommerce features to look...",
+            "link": "https://www.emailtooltester.com/en/blog/best-email-marketing-for-ecommerce/#Ecommerce_features_to_look_out_for_in_an_email_marketing_service"
+          },
+          {
+            "title": "best email marketing tools for...",
+            "link": "https://www.emailtooltester.com/en/blog/best-email-marketing-for-ecommerce/#12_best_email_marketing_tools_for_ecommerce"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "12 best email marketing tools for ecommerce · 1. Omnisend · 2. Klaviyo · 3. ActiveCampaign · 4. GetResponse · 5. Mailchimp · 6. MailerLite · 7.",
+          "source_info_link": "https://www.emailtooltester.com/en/blog/best-email-marketing-for-ecommerce/",
+          "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAADwBQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHUHuieAN4yOYBwQgyTbNOc0AefNShOCYwaYAADTdveGsMj-jiWwly6ftWGt73X6xv4Dq6fJTvkSl8XBmgf6AbTkMA8UwWv-39Jg_zbwfj5rNgwO8htY13AeO0e2n5VIiN5Yuc0biEZS3uF2pYENDJkK4-4kdexIBIYSk-rq6F_6NZMd5Mwd874g0WxupexnfXmibd0GOFNne9_TvDuDmXVc0w3XK6RPXKZZ1_deN42P9_jKAorIlrTLgwTNJvrAihIAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZUSTRnN1lYX0g5N19vdlFfV1hTSDBRMzBYaGJoeEJDZllNMi1hQ19oM2JhNEN0Wl8xQkxXQVVfNTUxbkVxc2RCM2VuTVExWkRhT3R0eXBWaEgwczJRWHlOOFBPZWdoTDlvX3hsa0lEd2JKZmJjOXV0US10bTJIb0djLXZraUJBbWlZZG9FM1FVZ0YxcUVtc0lHN252eEE0V1BVZFNJRDVTLWEtODdVRXRnEgQaAggAGtMFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArQUIABAAGAAgACokCgRiZXN0FeBAxEAaCmNvbXBhcmlzb24aBGdvb2QaBWdyZWF0KhwKBWVtYWlsFTeJzUAaDmVtYWlsbWFya2V0aW5nKjUKCW1hcmtldGluZxU33cJAGghjYW1wYWlnbhoJY2FtcGFpZ25zGg5lbWFpbG1hcmtldGluZyoaCglwbGF0Zm9ybXMV1Q6TQBoIcGxhdGZvcm0qCgoDZm9yFQAAAAAqLAoJZWNvbW1lcmNlFShNp0AaCmUgY29tbWVyY2UaDml2O3A7ZWNvbW1lcmNlMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZUSTRnN1lYX0g5N19vdlFfV1hTSDBRMzBYaGJoeEJDZllNMi1hQ19oM2JhNEN0Wl8xQkxXQVVfNTUxbkVxc2RCM2VuTVExWkRhT3R0eXBWaEgwczJRWHlOOFBPZWdoTDlvX3hsa0lEd2JKZmJjOXV0US10bTJIb0djLXZraUJBbWlZZG9FM1FVZ0YxcUVtc0lHN252eEE0V1BVZFNJRDVTLWEtODdVRXRnOkBSZXZpZXdlZDogMTIgPGI-QmVzdCBFbWFpbCBNYXJrZXRpbmcgUGxhdGZvcm1zIGZvciBFY29tbWVyY2U8L2I-QscBMTIgYmVzdCBlbWFpbCBtYXJrZXRpbmcgdG9vbHMgZm9yIGVjb21tZXJjZSAmbWlkZG90OyA8Yj4xLiBPbW5pc2VuZDwvYj4gJm1pZGRvdDsgMi4gS2xhdml5byAmbWlkZG90OyAzLiBBY3RpdmVDYW1wYWlnbiAmbWlkZG90OyA0LiBHZXRSZXNwb25zZSAmbWlkZG90OyA1LiBNYWlsY2hpbXAgJm1pZGRvdDsgNi4gTWFpbGVyTGl0ZSAmbWlkZG90OyA3LkoDZm9yIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZUSTRnN1lYX0g5N19vdlFfV1hTSDBRMzBYaGJoeEJDZllNMi1hQ19oM2JhNEN0Wl8xQkxXQVVfNTUxbkVxc2RCM2VuTVExWkRhT3R0eXBWaEgwczJRWHlOOFBPZWdoTDlvX3hsa0lEd2JKZmJjOXV0US10bTJIb0djLXZraUJBbWlZZG9FM1FVZ0YxcUVtc0lHN252eEE0V1BVZFNJRDVTLWEtODdVRXRnEgQaAggAGtMFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArQUIABAAGAAgACokCgRiZXN0FeBAxEAaCmNvbXBhcmlzb24aBGdvb2QaBWdyZWF0KhwKBWVtYWlsFTeJzUAaDmVtYWlsbWFya2V0aW5nKjUKCW1hcmtldGluZxU33cJAGghjYW1wYWlnbhoJY2FtcGFpZ25zGg5lbWFpbG1hcmtldGluZyoaCglwbGF0Zm9ybXMV1Q6TQBoIcGxhdGZvcm0qCgoDZm9yFQAAAAAqLAoJZWNvbW1lcmNlFShNp0AaCmUgY29tbWVyY2UaDml2O3A7ZWNvbW1lcmNlMsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZUSTRnN1lYX0g5N19vdlFfV1hTSDBRMzBYaGJoeEJDZllNMi1hQ19oM2JhNEN0Wl8xQkxXQVVfNTUxbkVxc2RCM2VuTVExWkRhT3R0eXBWaEgwczJRWHlOOFBPZWdoTDlvX3hsa0lEd2JKZmJjOXV0US10bTJIb0djLXZraUJBbWlZZG9FM1FVZ0YxcUVtc0lHN252eEE0V1BVZFNJRDVTLWEtODdVRXRnOkBSZXZpZXdlZDogMTIgPGI-QmVzdCBFbWFpbCBNYXJrZXRpbmcgUGxhdGZvcm1zIGZvciBFY29tbWVyY2U8L2I-QscBMTIgYmVzdCBlbWFpbCBtYXJrZXRpbmcgdG9vbHMgZm9yIGVjb21tZXJjZSAmbWlkZG90OyA8Yj4xLiBPbW5pc2VuZDwvYj4gJm1pZGRvdDsgMi4gS2xhdml5byAmbWlkZG90OyAzLiBBY3RpdmVDYW1wYWlnbiAmbWlkZG90OyA0LiBHZXRSZXNwb25zZSAmbWlkZG90OyA1LiBNYWlsY2hpbXAgJm1pZGRvdDsgNi4gTWFpbGVyTGl0ZSAmbWlkZG90OyA3LkoDZm9yIgIQAUgAWABoAA",
+      "source": "EmailTooltester.com",
+      "read_more_link": "https://www.emailtooltester.com/en/blog/best-email-marketing-for-ecommerce/#:~:text=12%20best%20email%20marketing%20tools,for%20ecommerce&text=1.%20Omnisend&text=2.%20Klaviyo&text=3.%20ActiveCampaign&text=4.%20GetResponse&text=5.%20Mailchimp&text=6.%20MailerLite&text=7.%20Drip"
+    },
+    {
+      "position": 2,
+      "title": "12 Best Ecommerce Email Marketing Software in 2026 ...",
+      "link": "https://www.emailvendorselection.com/ecommerce-email-marketing-software/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFcHtiUkmRxRSQdYfWgevksDCKQmTwMc22WRx-63HbyRhsG2UgJ5yAk50dQ5vSMw0UNsWM2IMxxzqjEAZ1UKG8V5EhjP798zv_Sd25Uk-W5gVSvwf8XloouTocjtw1oCMcgjHxNXc5k5aC9mGO6wtvOhz2RjSS4pFPYrFnw&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://www.emailvendorselection.com › ecommerce-e...",
+      "favicon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHz2FDb6tHmzi949pW4OhCbp2fbeqSHxM9CP9tQAAP7YwGtLaYBbSSVU_3sZbBqcJkHNs_OSFXzWEOTznM33454ezS19Dq1Ucs8qnUaJCCcRxM_Nb_iK4YZz20sPI2ph3IzTx1Gel7NdkHNsADdfr7GJtA9E1H-tM271rfftqXyQ2sMSKrHgL5N0D9Hc1a9B7OE0u_uGNTpX0V-52cTQypIKnl_-ndr4mSS2py4IXDsDuQzkJjeKb9hr2-U-xGo593m7370XB_0dDs7X6X5mJNFBquglGHZ1JGrj4gxIbRU-Y7_vSkN9LDjp6JHfTiyQz4qwTR8baEcQBJU_plct57dmfwXEsQGfwJfVOGDFKVNu-iWPzvCWJuLjAVIZDEQsr9U60L8gAAA.webp",
+      "date": "Aug 14, 2026",
+      "snippet": "These include major ecommerce platforms like Shopify, BigCommerce, Magento, and PrestaShop. Plus ActiveCampaign for free. Omnisend: Best for ...",
+      "snippet_highlighted_words": [
+        "Shopify, BigCommerce, Magento, and PrestaShop"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best Ecommerce Email Tools",
+            "link": "https://www.emailvendorselection.com/ecommerce-email-marketing-software/#12_Best_Ecommerce_Email_Marketing_Software_Overview"
+          },
+          {
+            "title": "Klaviyo",
+            "link": "https://www.emailvendorselection.com/ecommerce-email-marketing-software/#Klaviyo_Best_for_Growing_Ecommerce_Businesses"
+          },
+          {
+            "title": "MailerLite",
+            "link": "https://www.emailvendorselection.com/ecommerce-email-marketing-software/#MailerLite_Best_for_Ecommerce_Marketing_Beginners"
+          },
+          {
+            "title": "Moosend",
+            "link": "https://www.emailvendorselection.com/ecommerce-email-marketing-software/#Moosend_%E2%80%93_Best_for_Ecommerce_Microbusinesses"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "These include major ecommerce platforms like Shopify, BigCommerce, Magento, and PrestaShop. Plus ActiveCampaign for free. Omnisend: Best for ...",
+          "source_info_link": "https://www.emailvendorselection.com/ecommerce-email-marketing-software/",
+          "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAAAwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHz2FDb6tHmzi949pW4OhCbp2fbeqSHxM9CP9tQAAP7YwGtLaYBbSSVU_3sZbBqcJkHNs_OSFXzWEOTznM33454ezS19Dq1Ucs8qnUaJCCcRxM_Nb_iK4YZz20sPI2ph3IzTx1Gel7NdkHNsADdfr7GJtA9E1H-tM271rfftqXyQ2sMSKrHgL5N0D9Hc1a9B7OE0u_uGNTpX0V-52cTQypIKnl_-ndr4mSS2py4IXDsDuQzkJjeKb9hr2-U-xGo593m7370XB_0dDs7X6X5mJNFBquglGHZ1JGrj4gxIbRU-Y7_vSkN9LDjp6JHfTiyQz4qwTR8baEcQBJU_plct57dmfwXEsQGfwJfVOGDFKVNu-iWPzvCWJuLjAVIZDEQsr9U60L8gAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZjSHRpVWttUnhSU1FkWWZXZ2V2a3NEQ0tRbVR3TWMyMldSeC02M0hieVJoc0cyVWdKNXlBazUwZFE1dlNNdzBVTnNXTTJJTXh4enFqRUFaMVVLRzhWNUVoalA3OTh6dl9TZDI1VWstVzVnVlN2d2Y4WGxvb3VUb2NqdHcxb0NNY2dqSHhOWGM1azVhQzltR082d3R2T2h6MlJqU1M0cEZQWXJGbncSBBoCCAAapgUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCABQgAEAAYACAAKiQKBGJlc3QVDsemQBoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQqHAoFZW1haWwV4ubsQBoOZW1haWxtYXJrZXRpbmcqNQoJbWFya2V0aW5nFQbXzEAaCGNhbXBhaWduGgljYW1wYWlnbnMaDmVtYWlsbWFya2V0aW5nKhoKCXBsYXRmb3JtcxUVBxFAGghwbGF0Zm9ybSoKCgNmb3IVAAAAACosCgllY29tbWVyY2UVnkPGQBoKZSBjb21tZXJjZRoOaXY7cDtlY29tbWVyY2UyvAEvZ290bz91cmw9Q0FFU2dBRUI2enN3RmNIdGlVa21SeFJTUWRZZldnZXZrc0RDS1FtVHdNYzIyV1J4LTYzSGJ5UmhzRzJVZ0o1eUFrNTBkUTV2U013MFVOc1dNMklNeHh6cWpFQVoxVUtHOFY1RWhqUDc5OHp2X1NkMjVVay1XNWdWU3Z3ZjhYbG9vdVRvY2p0dzFvQ01jZ2pIeE5YYzVrNWFDOW1HTzZ3dHZPaHoyUmpTUzRwRlBZckZudzpCMTIgPGI-QmVzdCBFY29tbWVyY2UgRW1haWwgTWFya2V0aW5nPC9iPiBTb2Z0d2FyZSBpbiAyMDI2IChUZXN0ZWQpQpwBVGhlc2UgaW5jbHVkZSBtYWpvciBlY29tbWVyY2UgcGxhdGZvcm1zIGxpa2UgPGI-U2hvcGlmeSwgQmlnQ29tbWVyY2UsIE1hZ2VudG8sIGFuZCBQcmVzdGFTaG9wPC9iPi4gUGx1cyBBY3RpdmVDYW1wYWlnbiBmb3IgZnJlZS4gT21uaXNlbmQ6IEJlc3QgZm9yJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZjSHRpVWttUnhSU1FkWWZXZ2V2a3NEQ0tRbVR3TWMyMldSeC02M0hieVJoc0cyVWdKNXlBazUwZFE1dlNNdzBVTnNXTTJJTXh4enFqRUFaMVVLRzhWNUVoalA3OTh6dl9TZDI1VWstVzVnVlN2d2Y4WGxvb3VUb2NqdHcxb0NNY2dqSHhOWGM1azVhQzltR082d3R2T2h6MlJqU1M0cEZQWXJGbncSBBoCCAAapgUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCABQgAEAAYACAAKiQKBGJlc3QVDsemQBoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQqHAoFZW1haWwV4ubsQBoOZW1haWxtYXJrZXRpbmcqNQoJbWFya2V0aW5nFQbXzEAaCGNhbXBhaWduGgljYW1wYWlnbnMaDmVtYWlsbWFya2V0aW5nKhoKCXBsYXRmb3JtcxUVBxFAGghwbGF0Zm9ybSoKCgNmb3IVAAAAACosCgllY29tbWVyY2UVnkPGQBoKZSBjb21tZXJjZRoOaXY7cDtlY29tbWVyY2UyvAEvZ290bz91cmw9Q0FFU2dBRUI2enN3RmNIdGlVa21SeFJTUWRZZldnZXZrc0RDS1FtVHdNYzIyV1J4LTYzSGJ5UmhzRzJVZ0o1eUFrNTBkUTV2U013MFVOc1dNMklNeHh6cWpFQVoxVUtHOFY1RWhqUDc5OHp2X1NkMjVVay1XNWdWU3Z3ZjhYbG9vdVRvY2p0dzFvQ01jZ2pIeE5YYzVrNWFDOW1HTzZ3dHZPaHoyUmpTUzRwRlBZckZudzpCMTIgPGI-QmVzdCBFY29tbWVyY2UgRW1haWwgTWFya2V0aW5nPC9iPiBTb2Z0d2FyZSBpbiAyMDI2IChUZXN0ZWQpQpwBVGhlc2UgaW5jbHVkZSBtYWpvciBlY29tbWVyY2UgcGxhdGZvcm1zIGxpa2UgPGI-U2hvcGlmeSwgQmlnQ29tbWVyY2UsIE1hZ2VudG8sIGFuZCBQcmVzdGFTaG9wPC9iPi4gUGx1cyBBY3RpdmVDYW1wYWlnbiBmb3IgZnJlZS4gT21uaXNlbmQ6IEJlc3QgZm9yJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+      "source": "Email vendor selection"
+    },
+    {
+      "position": 3,
+      "title": "The 8 Best Free Email Marketing Services in 2026",
+      "link": "https://zapier.com/blog/free-email-marketing-software/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAV_nC9YwF3XeKRnDS2uYGs9bL-pQgan3VFyNlJVrAketEDM49A-NKIoqTc2Yatqr8h_xalPfovjEiaBYgl5MbYWwIBxPFDoi0vOV_Bu7zHkvTKvpeqZQaAWTr21PwXSzfohN2htC6yyP-L&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQFnoECDYQAQ&uoh=1",
+      "displayed_link": "https://zapier.com › App picks › Best apps",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcAQMAAABIw03XAAAAA1BMVEX_TwBuA1r9AAAAC0lEQVR4AWMYRAAAAIwAASLW8i0AAAAASUVORK5CYII.png",
+      "date": "Jan 26, 2026",
+      "snippet": "We researched and tested dozens of free email marketing services to help you find the right one for your business. Here are the best ones.",
+      "snippet_highlighted_words": [
+        "free email marketing services"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We researched and tested dozens of free email marketing services to help you find the right one for your business. Here are the best ones.",
+          "source_info_link": "https://zapier.com/blog/free-email-marketing-software/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcAQMAAABIw03XAAAAA1BMVEX_TwBuA1r9AAAAC0lEQVR4AWMYRAAAAIwAASLW8i0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVl9uQzlZd0YzWGVLUm5EUzJ1WUdzOWJMLXBRZ2FuM1ZGeU5sSlZyQWtldEVETTQ5QS1OS0lvcVRjMllhdHFyOGhfeGFsUGZvdmpFaWFCWWdsNU1iWVd3SUJ4UEZEb2kwdk9WX0J1N3pIa3ZUS3ZwZXFaUWFBV1RyMjFQd1hTemZvaE4yaHRDNnl5UC1MEgQaAggAGoYFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA4AQIABAAGAAgACokCgRiZXN0Fd7yUkAaCmNvbXBhcmlzb24aBGdvb2QaBWdyZWF0KhwKBWVtYWlsFRh-hEAaDmVtYWlsbWFya2V0aW5nKjUKCW1hcmtldGluZxUkVZRAGghjYW1wYWlnbhoJY2FtcGFpZ25zGg5lbWFpbG1hcmtldGluZyoaCglwbGF0Zm9ybXMVzcv7PhoIcGxhdGZvcm0qCgoDZm9yFQAAAAAqLAoJZWNvbW1lcmNlFe-l_j4aCmUgY29tbWVyY2UaDml2O3A7ZWNvbW1lcmNlMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVl9uQzlZd0YzWGVLUm5EUzJ1WUdzOWJMLXBRZ2FuM1ZGeU5sSlZyQWtldEVETTQ5QS1OS0lvcVRjMllhdHFyOGhfeGFsUGZvdmpFaWFCWWdsNU1iWVd3SUJ4UEZEb2kwdk9WX0J1N3pIa3ZUS3ZwZXFaUWFBV1RyMjFQd1hTemZvaE4yaHRDNnl5UC1MOkdUaGUgOCA8Yj5CZXN0PC9iPiBGcmVlIDxiPkVtYWlsIE1hcmtldGluZzwvYj4gU2VydmljZXMgaW4gMjAyNiAtIFphcGllckKRAVdlIHJlc2VhcmNoZWQgYW5kIHRlc3RlZCBkb3plbnMgb2YgPGI-ZnJlZSBlbWFpbCBtYXJrZXRpbmcgc2VydmljZXM8L2I-IHRvIGhlbHAgeW91IGZpbmQgdGhlIHJpZ2h0IG9uZSBmb3IgeW91ciBidXNpbmVzcy4gSGVyZSBhcmUgdGhlIGJlc3Qgb25lcy5KA2ZvciICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVl9uQzlZd0YzWGVLUm5EUzJ1WUdzOWJMLXBRZ2FuM1ZGeU5sSlZyQWtldEVETTQ5QS1OS0lvcVRjMllhdHFyOGhfeGFsUGZvdmpFaWFCWWdsNU1iWVd3SUJ4UEZEb2kwdk9WX0J1N3pIa3ZUS3ZwZXFaUWFBV1RyMjFQd1hTemZvaE4yaHRDNnl5UC1MEgQaAggAGoYFEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA4AQIABAAGAAgACokCgRiZXN0Fd7yUkAaCmNvbXBhcmlzb24aBGdvb2QaBWdyZWF0KhwKBWVtYWlsFRh-hEAaDmVtYWlsbWFya2V0aW5nKjUKCW1hcmtldGluZxUkVZRAGghjYW1wYWlnbhoJY2FtcGFpZ25zGg5lbWFpbG1hcmtldGluZyoaCglwbGF0Zm9ybXMVzcv7PhoIcGxhdGZvcm0qCgoDZm9yFQAAAAAqLAoJZWNvbW1lcmNlFe-l_j4aCmUgY29tbWVyY2UaDml2O3A7ZWNvbW1lcmNlMqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVl9uQzlZd0YzWGVLUm5EUzJ1WUdzOWJMLXBRZ2FuM1ZGeU5sSlZyQWtldEVETTQ5QS1OS0lvcVRjMllhdHFyOGhfeGFsUGZvdmpFaWFCWWdsNU1iWVd3SUJ4UEZEb2kwdk9WX0J1N3pIa3ZUS3ZwZXFaUWFBV1RyMjFQd1hTemZvaE4yaHRDNnl5UC1MOkdUaGUgOCA8Yj5CZXN0PC9iPiBGcmVlIDxiPkVtYWlsIE1hcmtldGluZzwvYj4gU2VydmljZXMgaW4gMjAyNiAtIFphcGllckKRAVdlIHJlc2VhcmNoZWQgYW5kIHRlc3RlZCBkb3plbnMgb2YgPGI-ZnJlZSBlbWFpbCBtYXJrZXRpbmcgc2VydmljZXM8L2I-IHRvIGhlbHAgeW91IGZpbmQgdGhlIHJpZ2h0IG9uZSBmb3IgeW91ciBidXNpbmVzcy4gSGVyZSBhcmUgdGhlIGJlc3Qgb25lcy5KA2ZvciICEAFIAFgAaAA",
+      "source": "Zapier"
+    },
+    {
+      "position": 4,
+      "title": "What's the best email marketing platform to consider?",
+      "link": "https://www.reddit.com/r/DigitalMarketing/comments/1qauudt/whats_the_best_email_marketing_platform_to/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFaP77X3Wj8L-cSF8dLkI2gWl9RnLLn2Va90Tnmeg5OoypRw00iFg0Yq4Afl6SooyVsg3QtICMsQ0oAegqSwmkmkEMIX1ZfwDWaY3exhvKvbNW8fbeN3bjEMWLoSLtKVgjvTNDIdMDqoaFaFjYA1EODRt9ENwPe9NItPJgbhAsNIQkqq8pcyEuqWGbo8I9RagRwsZQARBEkaMCA&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQFnoECDwQAQ&uoh=1",
+      "displayed_link": "120+ comments · 8 months ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "We are kicking off the new year by cleaning up the tools that we are using and looking for better solutions. I'm currently looking for the best email marketing ...",
+      "about_this_result": {
+        "source": {
+          "description": "I'd recommend Klaviyo (best for eCommerce) or ActiveCampaign (best for B2B/service businesses). Both have strong automation, clean templates, ...",
+          "source_info_link": "https://www.reddit.com/r/DigitalMarketing/comments/1qauudt/whats_the_best_email_marketing_platform_to/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZhUDc3WDNXajhMLWNTRjhkTGtJMmdXbDlSbkxMbjJWYTkwVG5tZWc1T295cFJ3MDBpRmcwWXE0QWZsNlNvb3lWc2czUXRJQ01zUTBvQWVncVN3bWtta0VNSVgxWmZ3RFdhWTNleGh2S3ZiTlc4ZmJlTjNiakVNV0xvU0x0S1ZnanZUTkRJZE1EcW9hRmFGallBMUVPRFJ0OUVOd1BlOU5JdFBKZ2JoQXNOSVFrcXE4cGN5RXVxV0dibzhJOVJhZ1J3c1pRQVJCRWthTUNBEgQaAggAGtgFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLQFCAAQABgAIAAqJAoEYmVzdBUkMKVAGgpjb21wYXJpc29uGgRnb29kGgVncmVhdCocCgVlbWFpbBXE6bJAGg5lbWFpbG1hcmtldGluZyo1CgltYXJrZXRpbmcVPteoQBoIY2FtcGFpZ24aCWNhbXBhaWducxoOZW1haWxtYXJrZXRpbmcqGgoJcGxhdGZvcm1zFRRZuz8aCHBsYXRmb3JtKgoKA2ZvchUAAAAAKiwKCWVjb21tZXJjZRWAmRg_GgplIGNvbW1lcmNlGg5pdjtwO2Vjb21tZXJjZTLkAS9nb3RvP3VybD1DQUVTbmdFQjZ6c3dGYVA3N1gzV2o4TC1jU0Y4ZExrSTJnV2w5Um5MTG4yVmE5MFRubWVnNU9veXBSdzAwaUZnMFlxNEFmbDZTb295VnNnM1F0SUNNc1Ewb0FlZ3FTd21rbWtFTUlYMVpmd0RXYVkzZXhodkt2Yk5XOGZiZU4zYmpFTVdMb1NMdEtWZ2p2VE5ESWRNRHFvYUZhRmpZQTFFT0RSdDlFTndQZTlOSXRQSmdiaEFzTklRa3FxOHBjeUV1cVdHYm84STlSYWdSd3NaUUFSQkVrYU1DQTpJV2hhdCYjMzk7cyB0aGUgPGI-YmVzdCBlbWFpbCBtYXJrZXRpbmcgcGxhdGZvcm08L2I-IHRvIGNvbnNpZGVyPyAtIFJlZGRpdEKhAUkmIzM5O2QgcmVjb21tZW5kIDxiPktsYXZpeW88L2I-IChiZXN0IGZvciBlQ29tbWVyY2UpIG9yIEFjdGl2ZUNhbXBhaWduIChiZXN0IGZvciBCMkIvc2VydmljZSBidXNpbmVzc2VzKS4gQm90aCBoYXZlIHN0cm9uZyBhdXRvbWF0aW9uLCBjbGVhbiB0ZW1wbGF0ZXMsJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZhUDc3WDNXajhMLWNTRjhkTGtJMmdXbDlSbkxMbjJWYTkwVG5tZWc1T295cFJ3MDBpRmcwWXE0QWZsNlNvb3lWc2czUXRJQ01zUTBvQWVncVN3bWtta0VNSVgxWmZ3RFdhWTNleGh2S3ZiTlc4ZmJlTjNiakVNV0xvU0x0S1ZnanZUTkRJZE1EcW9hRmFGallBMUVPRFJ0OUVOd1BlOU5JdFBKZ2JoQXNOSVFrcXE4cGN5RXVxV0dibzhJOVJhZ1J3c1pRQVJCRWthTUNBEgQaAggAGtgFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLQFCAAQABgAIAAqJAoEYmVzdBUkMKVAGgpjb21wYXJpc29uGgRnb29kGgVncmVhdCocCgVlbWFpbBXE6bJAGg5lbWFpbG1hcmtldGluZyo1CgltYXJrZXRpbmcVPteoQBoIY2FtcGFpZ24aCWNhbXBhaWducxoOZW1haWxtYXJrZXRpbmcqGgoJcGxhdGZvcm1zFRRZuz8aCHBsYXRmb3JtKgoKA2ZvchUAAAAAKiwKCWVjb21tZXJjZRWAmRg_GgplIGNvbW1lcmNlGg5pdjtwO2Vjb21tZXJjZTLkAS9nb3RvP3VybD1DQUVTbmdFQjZ6c3dGYVA3N1gzV2o4TC1jU0Y4ZExrSTJnV2w5Um5MTG4yVmE5MFRubWVnNU9veXBSdzAwaUZnMFlxNEFmbDZTb295VnNnM1F0SUNNc1Ewb0FlZ3FTd21rbWtFTUlYMVpmd0RXYVkzZXhodkt2Yk5XOGZiZU4zYmpFTVdMb1NMdEtWZ2p2VE5ESWRNRHFvYUZhRmpZQTFFT0RSdDlFTndQZTlOSXRQSmdiaEFzTklRa3FxOHBjeUV1cVdHYm84STlSYWdSd3NaUUFSQkVrYU1DQTpJV2hhdCYjMzk7cyB0aGUgPGI-YmVzdCBlbWFpbCBtYXJrZXRpbmcgcGxhdGZvcm08L2I-IHRvIGNvbnNpZGVyPyAtIFJlZGRpdEKhAUkmIzM5O2QgcmVjb21tZW5kIDxiPktsYXZpeW88L2I-IChiZXN0IGZvciBlQ29tbWVyY2UpIG9yIEFjdGl2ZUNhbXBhaWduIChiZXN0IGZvciBCMkIvc2VydmljZSBidXNpbmVzc2VzKS4gQm90aCBoYXZlIHN0cm9uZyBhdXRvbWF0aW9uLCBjbGVhbiB0ZW1wbGF0ZXMsJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+      "source": "Reddit · r/DigitalMarketing"
+    },
+    {
+      "position": 5,
+      "title": "10 Best Email Marketing Platforms for 2026 (Compared)",
+      "link": "https://www.constantcontact.com/blog/email-marketing-tools/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVZTohWF-zLzhM7E8mlxkfQE0ADIwFzWEWKId8HQnHFqPY8LYKcfXLQ8y_5GdSASAQrymkD7bwPl5wc1hPERB4QOkScyie7sslKCMWmEqjTunbhdVIao0Hf9UwP7owoPtWjL21VMayHlplXBZwH0o&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQFnoECDkQAQ&uoh=1",
+      "displayed_link": "https://www.constantcontact.com › blog › email-market...",
+      "favicon": "https://serpapi.com/images/i/UklGRigCAABXRUJQVlA4IBwCAACQCgCdASogACAAAsBMJbACdMoR_h5Bbh2ggwG2A0QD-n_3LrAPQA8tb2M_3M9ECsKNCylJzO4pVBDQ_HR9LmEUNW_Sluw0IvxDrrxHN9qVx4ADynzrkIOsH9YahAAA_vqoy6_uyqU4HbPJ0o1bUIoG2bD8_A280duS9-Nvf9L-SpV9hs9jZdEFuX0fiHjXzaqyLcXRda0rz0biVNuzc2T-92QQVr-RQcyi0Mm-9LqU97rAGWDJ64-6KJJ3K_5s4LEj57zbka9tloeawNLYf7UwRXNsM8CCVXFEHJggJX-sFDepotYrNhuFlaGdg-rJbnARZ9jovVKyU4NFm3paDe4-3yAbWJqTNBGmFVp30V3zv0vW8ZVHljql3ILONtGwuLHiUUlY6z9ctS_7A96DS9i_JRCVXSb-C_nBuEOkobMkstkjP-td-5qKHTx4fmFu38U360nWa4EQdEHS4MMkNO_GWmK2XGi9YUsKMsCrWtW7OWAT2irR7w0ez-pdERdbwUzc0ar19pzsdh9xU8fmsPzzp-vnbOzgrRmvyFKhthhLyfnbRbycGeGfr1Ib_2bE-vXaXVpfXh_0SJpvdrn2Gj8lAce5eRdLuPzBXcIco_w54-25L99YoGhIkLFZeMQk2VkEjwlaDKESP-AQ4P2EvzWS1PvYcrK6HRcF7yKFCT4CHHc58JceH6r-vEgI1uFO-1GqoW1R4pUy_roAAAA.webp",
+      "snippet": "Compare 10 email marketing platforms for ecommerce, creators, and growing teams. Features, pricing, AI tools, and how to choose the right ESP.",
+      "snippet_highlighted_words": [
+        "10 email marketing platforms for ecommerce"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Compare 10 email marketing platforms for ecommerce, creators, and growing teams. Features, pricing, AI tools, and how to choose the right ESP.",
+          "source_info_link": "https://www.constantcontact.com/blog/email-marketing-tools/",
+          "icon": "https://serpapi.com/images/i/UklGRigCAABXRUJQVlA4IBwCAACQCgCdASogACAAAsBMJbACdMoR_h5Bbh2ggwG2A0QD-n_3LrAPQA8tb2M_3M9ECsKNCylJzO4pVBDQ_HR9LmEUNW_Sluw0IvxDrrxHN9qVx4ADynzrkIOsH9YahAAA_vqoy6_uyqU4HbPJ0o1bUIoG2bD8_A280duS9-Nvf9L-SpV9hs9jZdEFuX0fiHjXzaqyLcXRda0rz0biVNuzc2T-92QQVr-RQcyi0Mm-9LqU97rAGWDJ64-6KJJ3K_5s4LEj57zbka9tloeawNLYf7UwRXNsM8CCVXFEHJggJX-sFDepotYrNhuFlaGdg-rJbnARZ9jovVKyU4NFm3paDe4-3yAbWJqTNBGmFVp30V3zv0vW8ZVHljql3ILONtGwuLHiUUlY6z9ctS_7A96DS9i_JRCVXSb-C_nBuEOkobMkstkjP-td-5qKHTx4fmFu38U360nWa4EQdEHS4MMkNO_GWmK2XGi9YUsKMsCrWtW7OWAT2irR7w0ez-pdERdbwUzc0ar19pzsdh9xU8fmsPzzp-vnbOzgrRmvyFKhthhLyfnbRbycGeGfr1Ib_2bE-vXaXVpfXh_0SJpvdrn2Gj8lAce5eRdLuPzBXcIco_w54-25L99YoGhIkLFZeMQk2VkEjwlaDKESP-AQ4P2EvzWS1PvYcrK6HRcF7yKFCT4CHHc58JceH6r-vEgI1uFO-1GqoW1R4pUy_roAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVlpUb2hXRi16THpoTTdFOG1seGtmUUUwQURJd0Z6V0VXS0lkOEhRbkhGcVBZOExZS2NmWExROHlfNUdkU0FTQVFyeW1rRDdid1BsNXdjMWhQRVJCNFFPa1NjeWllN3NzbEtDTVdtRXFqVHVuYmhkVklhbzBIZjlVd1A3b3dvUHRXakwyMVZNYXlIbHBsWEJad0gwbxIEGgIIABqOBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOgECAAQABgAIAAqJAoEYmVzdBU0CodAGgpjb21wYXJpc29uGgRnb29kGgVncmVhdCocCgVlbWFpbBUKp75AGg5lbWFpbG1hcmtldGluZyo1CgltYXJrZXRpbmcVvreuQBoIY2FtcGFpZ24aCWNhbXBhaWducxoOZW1haWxtYXJrZXRpbmcqGgoJcGxhdGZvcm1zFS20WUAaCHBsYXRmb3JtKgoKA2ZvchUAAAAAKiwKCWVjb21tZXJjZRVdkX4_GgplIGNvbW1lcmNlGg5pdjtwO2Vjb21tZXJjZTKpAS9nb3RvP3VybD1DQUVTY3dIck96QVZaVG9oV0Ytekx6aE03RThtbHhrZlFFMEFESXdGeldFV0tJZDhIUW5IRnFQWThMWUtjZlhMUTh5XzVHZFNBU0FRcnlta0Q3YndQbDV3YzFoUEVSQjRRT2tTY3lpZTdzc2xLQ01XbUVxalR1bmJoZFZJYW8wSGY5VXdQN293b1B0V2pMMjFWTWF5SGxwbFhCWndIMG86RDEwIDxiPkJlc3QgRW1haWwgTWFya2V0aW5nIFBsYXRmb3JtczwvYj4gZm9yIDIwMjYgLSBDb25zdGFudCBDb250YWN0QpUBQ29tcGFyZSA8Yj4xMCBlbWFpbCBtYXJrZXRpbmcgcGxhdGZvcm1zIGZvciBlY29tbWVyY2U8L2I-LCBjcmVhdG9ycywgYW5kIGdyb3dpbmcgdGVhbXMuIEZlYXR1cmVzLCBwcmljaW5nLCBBSSB0b29scywgYW5kIGhvdyB0byBjaG9vc2UgdGhlIHJpZ2h0IEVTUC5KA2ZvciICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVlpUb2hXRi16THpoTTdFOG1seGtmUUUwQURJd0Z6V0VXS0lkOEhRbkhGcVBZOExZS2NmWExROHlfNUdkU0FTQVFyeW1rRDdid1BsNXdjMWhQRVJCNFFPa1NjeWllN3NzbEtDTVdtRXFqVHVuYmhkVklhbzBIZjlVd1A3b3dvUHRXakwyMVZNYXlIbHBsWEJad0gwbxIEGgIIABqOBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOgECAAQABgAIAAqJAoEYmVzdBU0CodAGgpjb21wYXJpc29uGgRnb29kGgVncmVhdCocCgVlbWFpbBUKp75AGg5lbWFpbG1hcmtldGluZyo1CgltYXJrZXRpbmcVvreuQBoIY2FtcGFpZ24aCWNhbXBhaWducxoOZW1haWxtYXJrZXRpbmcqGgoJcGxhdGZvcm1zFS20WUAaCHBsYXRmb3JtKgoKA2ZvchUAAAAAKiwKCWVjb21tZXJjZRVdkX4_GgplIGNvbW1lcmNlGg5pdjtwO2Vjb21tZXJjZTKpAS9nb3RvP3VybD1DQUVTY3dIck96QVZaVG9oV0Ytekx6aE03RThtbHhrZlFFMEFESXdGeldFV0tJZDhIUW5IRnFQWThMWUtjZlhMUTh5XzVHZFNBU0FRcnlta0Q3YndQbDV3YzFoUEVSQjRRT2tTY3lpZTdzc2xLQ01XbUVxalR1bmJoZFZJYW8wSGY5VXdQN293b1B0V2pMMjFWTWF5SGxwbFhCWndIMG86RDEwIDxiPkJlc3QgRW1haWwgTWFya2V0aW5nIFBsYXRmb3JtczwvYj4gZm9yIDIwMjYgLSBDb25zdGFudCBDb250YWN0QpUBQ29tcGFyZSA8Yj4xMCBlbWFpbCBtYXJrZXRpbmcgcGxhdGZvcm1zIGZvciBlY29tbWVyY2U8L2I-LCBjcmVhdG9ycywgYW5kIGdyb3dpbmcgdGVhbXMuIEZlYXR1cmVzLCBwcmljaW5nLCBBSSB0b29scywgYW5kIGhvdyB0byBjaG9vc2UgdGhlIHJpZ2h0IEVTUC5KA2ZvciICEAFIAFgAaAA",
+      "source": "Constant Contact"
+    },
+    {
+      "position": 6,
+      "title": "Best Email Marketing Platforms Reviews 2026",
+      "link": "https://www.gartner.com/reviews/market/email-marketing-platforms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVaVFcmPwGFHoA6tB1wRY5gHx2mrEwByXgl5ASoWw4tqSJS1fDC0jkEquhBe0Uy9DBtTQx7h32PRiavU1G4EQ8vW4c-X-tgKK5nRV5keDpr8SiNw3HXvapWSwcH0We4FHHmlpCJcprH5QMH3aZ11k6zVoo1w&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQFnoECDgQAQ&uoh=1",
+      "displayed_link": "https://www.gartner.com › All Categories › Marketing",
+      "favicon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAACwBQCdASocABwAPtEutFooIagoGAEAGgloAKwBjE7fby1LBL3XKv0cTOPsI-8ymbglxuP2U0AA_vYJ0mPBAKhqlx6rwJOFYUZZZymgh5pLItE7DtbG_tDfZyxO5hU0BF2DsaH0j548LDn-z7a0nQa6AeSy0PiXfR_KvZ_9otIlMn-PK3xuHOWiwjrDD__qlT-Kiy2k5mAYlP2fN-C1f_83sZvfdTmlSd_KmORlla2dtdLLQGPUBPWXsC2Ix4cHJhstIaFyw2-458liMMmBkwYQNnEByaDkGfz1RWOjJJt9HTeY5B_iQOMhss0-cJVqxnfhcoGGPVA3cZYVKMdxdN_dLn7SQ_-hIDKdm5AAAAA.webp",
+      "snippet": "Product Listings · Filter by · Mailchimp · HubSpot Marketing Hub · Netcore Customer Engagement · Adobe Marketo Engage · Twilio Marketing Campaigns · Constant Contact.",
+      "snippet_highlighted_words": [
+        "Mailchimp"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Product Listings · Filter by · Mailchimp · HubSpot Marketing Hub · Netcore Customer Engagement · Adobe Marketo Engage · Twilio Marketing Campaigns · Constant Contact.",
+          "source_info_link": "https://www.gartner.com/reviews/market/email-marketing-platforms",
+          "icon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAACwBQCdASocABwAPtEutFooIagoGAEAGgloAKwBjE7fby1LBL3XKv0cTOPsI-8ymbglxuP2U0AA_vYJ0mPBAKhqlx6rwJOFYUZZZymgh5pLItE7DtbG_tDfZyxO5hU0BF2DsaH0j548LDn-z7a0nQa6AeSy0PiXfR_KvZ_9otIlMn-PK3xuHOWiwjrDD__qlT-Kiy2k5mAYlP2fN-C1f_83sZvfdTmlSd_KmORlla2dtdLLQGPUBPWXsC2Ix4cHJhstIaFyw2-458liMMmBkwYQNnEByaDkGfz1RWOjJJt9HTeY5B_iQOMhss0-cJVqxnfhcoGGPVA3cZYVKMdxdN_dLn7SQ_-hIDKdm5AAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVmFWRmNtUHdHRkhvQTZ0QjF3Ulk1Z0h4Mm1yRXdCeVhnbDVBU29XdzR0cVNKUzFmREMwamtFcXVoQmUwVXk5REJ0VFF4N2gzMlBSaWF2VTFHNEVROHZXNGMtWC10Z0tLNW5SVjVrZURwcjhTaU53M0hYdmFwV1N3Y0gwV2U0RkhIbWxwQ0pjcHJINVFNSDNhWjExazZ6Vm9vMXcSBBoCCAAa1gUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCwBQgAEAAYACAAKiQKBGJlc3QVCMMzQBoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQqHAoFZW1haWwVIJCgQBoOZW1haWxtYXJrZXRpbmcqNQoJbWFya2V0aW5nFUVXrkAaCGNhbXBhaWduGgljYW1wYWlnbnMaDmVtYWlsbWFya2V0aW5nKhoKCXBsYXRmb3JtcxVVhdVAGghwbGF0Zm9ybSoKCgNmb3IVAAAAACosCgllY29tbWVyY2UVtdI_PhoKZSBjb21tZXJjZRoOaXY7cDtlY29tbWVyY2UysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWYVZGY21Qd0dGSG9BNnRCMXdSWTVnSHgybXJFd0J5WGdsNUFTb1d3NHRxU0pTMWZEQzBqa0VxdWhCZTBVeTlEQnRUUXg3aDMyUFJpYXZVMUc0RVE4dlc0Yy1YLXRnS0s1blJWNWtlRHByOFNpTnczSFh2YXBXU3djSDBXZTRGSEhtbHBDSmNwckg1UU1IM2FaMTFrNnpWb28xdzo8PGI-QmVzdCBFbWFpbCBNYXJrZXRpbmcgUGxhdGZvcm1zPC9iPiBSZXZpZXdzIDIwMjYgLSBHYXJ0bmVyQt4BUHJvZHVjdCBMaXN0aW5ncyAmbWlkZG90OyBGaWx0ZXIgYnkgJm1pZGRvdDsgPGI-TWFpbGNoaW1wPC9iPiAmbWlkZG90OyBIdWJTcG90IE1hcmtldGluZyBIdWIgJm1pZGRvdDsgTmV0Y29yZSBDdXN0b21lciBFbmdhZ2VtZW50ICZtaWRkb3Q7IEFkb2JlIE1hcmtldG8gRW5nYWdlICZtaWRkb3Q7IFR3aWxpbyBNYXJrZXRpbmcgQ2FtcGFpZ25zICZtaWRkb3Q7IENvbnN0YW50IENvbnRhY3QuSgNmb3IiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVmFWRmNtUHdHRkhvQTZ0QjF3Ulk1Z0h4Mm1yRXdCeVhnbDVBU29XdzR0cVNKUzFmREMwamtFcXVoQmUwVXk5REJ0VFF4N2gzMlBSaWF2VTFHNEVROHZXNGMtWC10Z0tLNW5SVjVrZURwcjhTaU53M0hYdmFwV1N3Y0gwV2U0RkhIbWxwQ0pjcHJINVFNSDNhWjExazZ6Vm9vMXcSBBoCCAAa1gUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCwBQgAEAAYACAAKiQKBGJlc3QVCMMzQBoKY29tcGFyaXNvbhoEZ29vZBoFZ3JlYXQqHAoFZW1haWwVIJCgQBoOZW1haWxtYXJrZXRpbmcqNQoJbWFya2V0aW5nFUVXrkAaCGNhbXBhaWduGgljYW1wYWlnbnMaDmVtYWlsbWFya2V0aW5nKhoKCXBsYXRmb3JtcxVVhdVAGghwbGF0Zm9ybSoKCgNmb3IVAAAAACosCgllY29tbWVyY2UVtdI_PhoKZSBjb21tZXJjZRoOaXY7cDtlY29tbWVyY2UysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWYVZGY21Qd0dGSG9BNnRCMXdSWTVnSHgybXJFd0J5WGdsNUFTb1d3NHRxU0pTMWZEQzBqa0VxdWhCZTBVeTlEQnRUUXg3aDMyUFJpYXZVMUc0RVE4dlc0Yy1YLXRnS0s1blJWNWtlRHByOFNpTnczSFh2YXBXU3djSDBXZTRGSEhtbHBDSmNwckg1UU1IM2FaMTFrNnpWb28xdzo8PGI-QmVzdCBFbWFpbCBNYXJrZXRpbmcgUGxhdGZvcm1zPC9iPiBSZXZpZXdzIDIwMjYgLSBHYXJ0bmVyQt4BUHJvZHVjdCBMaXN0aW5ncyAmbWlkZG90OyBGaWx0ZXIgYnkgJm1pZGRvdDsgPGI-TWFpbGNoaW1wPC9iPiAmbWlkZG90OyBIdWJTcG90IE1hcmtldGluZyBIdWIgJm1pZGRvdDsgTmV0Y29yZSBDdXN0b21lciBFbmdhZ2VtZW50ICZtaWRkb3Q7IEFkb2JlIE1hcmtldG8gRW5nYWdlICZtaWRkb3Q7IFR3aWxpbyBNYXJrZXRpbmcgQ2FtcGFpZ25zICZtaWRkb3Q7IENvbnN0YW50IENvbnRhY3QuSgNmb3IiAhABSABYAGgA",
+      "source": "Gartner",
+      "read_more_link": "https://www.gartner.com/reviews/market/email-marketing-platforms#:~:text=Product%20Listings&text=Products%201%20%2D%2020%20of&text=Mailchimp&text=HubSpot%20Marketing%20Hub&text=Netcore%20Customer%20Engagement&text=Adobe%20Marketo%20Engage&text=Twilio%20Marketing%20Campaigns&text=Constant%20Contact"
+    },
+    {
+      "position": 7,
+      "title": "I Tested Every Email Marketing Platform So You Dont Have To",
+      "link": "https://www.youtube.com/watch?v=BW_LnLUyWC4",
+      "displayed_link": "430+ views · 9 months ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDnnl2c11TvC4Et9NFwe6ekpnDCrj6goOBz9Nc3BFeSHoCGbDWKYMA2w&s",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+      "snippet": "In this video, I rank every major email platform from worst to best, including Klaviyo, OmniSend, Sendlane, HubSpot, and MailChimp. best ...",
+      "duration": "14:59",
+      "about_this_result": {
+        "source": {
+          "description": "In this video, I rank every major email platform from worst to best, including Klaviyo, OmniSend, Sendlane, HubSpot, and MailChimp. best ...",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmtwdDl2WVlTYllLUjJfRFYtN2Fpa2QxYV9qVlVPLTRjRDMzd3lEdHJYRUhZcW1GMkhYSzBtWV9kYWVNb0x4R3JPWC1iU2NLWjV1WDFITE5JbG1Nc3l3SlV0V3BTZzQxYnNvb0dyME5JaXdsNU5KMlViUWdlQlFfY2cyWmlSdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmtwdDl2WVlTYllLUjJfRFYtN2Fpa2QxYV9qVlVPLTRjRDMzd3lEdHJYRUhZcW1GMkhYSzBtWV9kYWVNb0x4R3JPWC1iU2NLWjV1WDFITE5JbG1Nc3l3SlV0V3BTZzQxYnNvb0dyME5JaXdsNU5KMlViUWdlQlFfY2cyWmlSdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcT9oHfea1u2LBxAS1izV7k79-FAqyTSKb9F2Q",
+      "source": "YouTube · Nikita Vakhrushev"
+    },
+    {
+      "position": 8,
+      "title": "9 Best Free Email Marketing Platforms Compared [2026]",
+      "link": "https://mailtrap.io/blog/free-email-marketing-platforms/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAV07zwOd7WBLvsSU5NeLSxrjL63z5PHYAnH_BVELublDB2pp-Gsb8aGG6vLOcSRz1Ik0kIwvY8PZ9TotM5cWwvMHvDWj1EwrrlTE_uhzsGwsTKpX2RvDKoZ_gHGnCki8gBjlrrWl6pyt8CB5Q&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://mailtrap.io › blog › free-email-marketing-platfor...",
+      "favicon": "https://serpapi.com/images/i/UklGRnoBAABXRUJQVlA4IG4BAABwBwCdASocABwAPtEutFooIagoGAEAGglsAKciIz3kmsmt0FSs8Xftpqro8O0M9YwYLcF-1evKor0ElEiCN2NsWMA-AAD-9grmfYaJPFifv0PmEyrbpQIqPDw5fv0MwNQ4FY2jOr2AVgUATaga84ZsNSuD3_V-1rqHuFCBhHY-lQrMFw_WHh-TmZjKJV2n89UpNt-Nr2nMoSMcGUfDBaHGzZ75eHmzfgkov4JD0QmXI76v7jEgiUAGTBgA8zEG0cyFaVPa8ssT-ze4MdXZv_ACp4ZTvwIj-AJ_Yv6_UIcHrFMi__m38Ho7_NGHLsULas32eJ8Eleybp-439mNxbVpN1E4ggcGOSUcosTorgW_SDj_j9XCpVICLSmPEfTk2Un5v0q5WR9FX3sjKsWs5UpV6dBWrvKFuk83-e1P9sAatc8_Ucccf_PADOZJ9sJcMnz1bnj_OKttad2pXZH9FrJIbG86v16d0VgfxFwHYAAA.webp",
+      "date": "Jun 18, 2026",
+      "snippet": "I tested and compared the 9 best free email marketing platforms to find out which one offers the best value for free.",
+      "snippet_highlighted_words": [
+        "best free email marketing platforms"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I tested and compared the 9 best free email marketing platforms to find out which one offers the best value for free.",
+          "source_info_link": "https://mailtrap.io/blog/free-email-marketing-platforms/",
+          "icon": "https://serpapi.com/images/i/UklGRnoBAABXRUJQVlA4IG4BAABwBwCdASocABwAPtEutFooIagoGAEAGglsAKciIz3kmsmt0FSs8Xftpqro8O0M9YwYLcF-1evKor0ElEiCN2NsWMA-AAD-9grmfYaJPFifv0PmEyrbpQIqPDw5fv0MwNQ4FY2jOr2AVgUATaga84ZsNSuD3_V-1rqHuFCBhHY-lQrMFw_WHh-TmZjKJV2n89UpNt-Nr2nMoSMcGUfDBaHGzZ75eHmzfgkov4JD0QmXI76v7jEgiUAGTBgA8zEG0cyFaVPa8ssT-ze4MdXZv_ACp4ZTvwIj-AJ_Yv6_UIcHrFMi__m38Ho7_NGHLsULas32eJ8Eleybp-439mNxbVpN1E4ggcGOSUcosTorgW_SDj_j9XCpVICLSmPEfTk2Un5v0q5WR9FX3sjKsWs5UpV6dBWrvKFuk83-e1P9sAatc8_Ucccf_PADOZJ9sJcMnz1bnj_OKttad2pXZH9FrJIbG86v16d0VgfxFwHYAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVjA3endPZDdXQkx2c1NVNU5lTFN4cmpMNjN6NVBIWUFuSF9CVkVMdWJsREIycHAtR3NiOGFHRzZ2TE9jU1J6MUlrMGtJd3ZZOFBaOVRvdE01Y1d3dk1IdkRXajFFd3JybFRFX3VoenNHd3NUS3BYMlJ2REtvWl9nSEduQ2tpOGdCamxycldsNnB5dDhDQjVREgQaAggAGu8EEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAyQQIABAAGAAgACokCgRiZXN0FdSfl0AaCmNvbXBhcmlzb24aBGdvb2QaBWdyZWF0KhwKBWVtYWlsFZpn-0AaDmVtYWlsbWFya2V0aW5nKjUKCW1hcmtldGluZxVeHsNAGghjYW1wYWlnbhoJY2FtcGFpZ25zGg5lbWFpbG1hcmtldGluZyoaCglwbGF0Zm9ybXMVU2aqQBoIcGxhdGZvcm0qCgoDZm9yFQAAAAAqLAoJZWNvbW1lcmNlFV-3oD8aCmUgY29tbWVyY2UaDml2O3A7ZWNvbW1lcmNlMqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVjA3endPZDdXQkx2c1NVNU5lTFN4cmpMNjN6NVBIWUFuSF9CVkVMdWJsREIycHAtR3NiOGFHRzZ2TE9jU1J6MUlrMGtJd3ZZOFBaOVRvdE01Y1d3dk1IdkRXajFFd3JybFRFX3VoenNHd3NUS3BYMlJ2REtvWl9nSEduQ2tpOGdCamxycldsNnB5dDhDQjVROkM5IDxiPkJlc3Q8L2I-IEZyZWUgPGI-RW1haWwgTWFya2V0aW5nIFBsYXRmb3JtczwvYj4gQ29tcGFyZWQgWzIwMjZdQnxJIHRlc3RlZCBhbmQgY29tcGFyZWQgdGhlIDkgPGI-YmVzdCBmcmVlIGVtYWlsIG1hcmtldGluZyBwbGF0Zm9ybXM8L2I-IHRvIGZpbmQgb3V0IHdoaWNoIG9uZSBvZmZlcnMgdGhlIGJlc3QgdmFsdWUgZm9yIGZyZWUuSgNmb3IiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVjA3endPZDdXQkx2c1NVNU5lTFN4cmpMNjN6NVBIWUFuSF9CVkVMdWJsREIycHAtR3NiOGFHRzZ2TE9jU1J6MUlrMGtJd3ZZOFBaOVRvdE01Y1d3dk1IdkRXajFFd3JybFRFX3VoenNHd3NUS3BYMlJ2REtvWl9nSEduQ2tpOGdCamxycldsNnB5dDhDQjVREgQaAggAGu8EEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAyQQIABAAGAAgACokCgRiZXN0FdSfl0AaCmNvbXBhcmlzb24aBGdvb2QaBWdyZWF0KhwKBWVtYWlsFZpn-0AaDmVtYWlsbWFya2V0aW5nKjUKCW1hcmtldGluZxVeHsNAGghjYW1wYWlnbhoJY2FtcGFpZ25zGg5lbWFpbG1hcmtldGluZyoaCglwbGF0Zm9ybXMVU2aqQBoIcGxhdGZvcm0qCgoDZm9yFQAAAAAqLAoJZWNvbW1lcmNlFV-3oD8aCmUgY29tbWVyY2UaDml2O3A7ZWNvbW1lcmNlMqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVjA3endPZDdXQkx2c1NVNU5lTFN4cmpMNjN6NVBIWUFuSF9CVkVMdWJsREIycHAtR3NiOGFHRzZ2TE9jU1J6MUlrMGtJd3ZZOFBaOVRvdE01Y1d3dk1IdkRXajFFd3JybFRFX3VoenNHd3NUS3BYMlJ2REtvWl9nSEduQ2tpOGdCamxycldsNnB5dDhDQjVROkM5IDxiPkJlc3Q8L2I-IEZyZWUgPGI-RW1haWwgTWFya2V0aW5nIFBsYXRmb3JtczwvYj4gQ29tcGFyZWQgWzIwMjZdQnxJIHRlc3RlZCBhbmQgY29tcGFyZWQgdGhlIDkgPGI-YmVzdCBmcmVlIGVtYWlsIG1hcmtldGluZyBwbGF0Zm9ybXM8L2I-IHRvIGZpbmQgb3V0IHdoaWNoIG9uZSBvZmZlcnMgdGhlIGJlc3QgdmFsdWUgZm9yIGZyZWUuSgNmb3IiAhABSABYAGgA",
+      "source": "Mailtrap"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best email marketing platforms for ecommerce reddit",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&q=Best+email+marketing+platforms+for+ecommerce+reddit&sa=X&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+email+marketing+platforms+for+ecommerce+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best email marketing platforms for ecommerce free",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&q=Best+email+marketing+platforms+for+ecommerce+free&sa=X&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+email+marketing+platforms+for+ecommerce+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Best email marketing platforms for ecommerce for beginners",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&q=Best+email+marketing+platforms+for+ecommerce+for+beginners&sa=X&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+email+marketing+platforms+for+ecommerce+for+beginners"
+    },
+    {
+      "block_position": 1,
+      "query": "Top 10 email marketing platforms",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&q=Top+10+email+marketing+platforms&sa=X&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Top+10+email+marketing+platforms"
+    },
+    {
+      "block_position": 1,
+      "query": "Best email platform for personal use",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&q=Best+email+platform+for+personal+use&sa=X&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+email+platform+for+personal+use"
+    },
+    {
+      "block_position": 1,
+      "query": "Brevo email marketing",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&q=Brevo+email+marketing&sa=X&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Brevo+email+marketing"
+    },
+    {
+      "block_position": 1,
+      "query": "HubSpot email marketing",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&q=HubSpot+email+marketing&sa=X&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=HubSpot+email+marketing"
+    },
+    {
+      "block_position": 1,
+      "query": "Free email marketing platforms",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&q=Free+email+marketing+platforms&sa=X&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Free+email+marketing+platforms"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+email+marketing+platforms+for+ecommerce&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&ei=90S2apblLvy9ruEPrfPPwAU&start=10&sa=N&sstk=AS6-VmJIBs6DvQgnhAweCyWpnqGeBPbdEgTQy2xZNDa5w86TlQFUzDakEN5J6zYgmEhncsRGa2Wu0-_x5p2CvcTCm6qSLQUy7Fnyog&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ8NMDegQILxAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+email+marketing+platforms+for+ecommerce&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&ei=90S2apblLvy9ruEPrfPPwAU&start=10&sa=N&sstk=AS6-VmJIBs6DvQgnhAweCyWpnqGeBPbdEgTQy2xZNDa5w86TlQFUzDakEN5J6zYgmEhncsRGa2Wu0-_x5p2CvcTCm6qSLQUy7Fnyog&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ8tMDegQILxAE",
+      "3": "https://www.google.com/search?q=best+email+marketing+platforms+for+ecommerce&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&ei=90S2apblLvy9ruEPrfPPwAU&start=20&sa=N&sstk=AS6-VmJIBs6DvQgnhAweCyWpnqGeBPbdEgTQy2xZNDa5w86TlQFUzDakEN5J6zYgmEhncsRGa2Wu0-_x5p2CvcTCm6qSLQUy7Fnyog&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ8tMDegQILxAG",
+      "4": "https://www.google.com/search?q=best+email+marketing+platforms+for+ecommerce&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&ei=90S2apblLvy9ruEPrfPPwAU&start=30&sa=N&sstk=AS6-VmJIBs6DvQgnhAweCyWpnqGeBPbdEgTQy2xZNDa5w86TlQFUzDakEN5J6zYgmEhncsRGa2Wu0-_x5p2CvcTCm6qSLQUy7Fnyog&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ8tMDegQILxAI",
+      "5": "https://www.google.com/search?q=best+email+marketing+platforms+for+ecommerce&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&ei=90S2apblLvy9ruEPrfPPwAU&start=40&sa=N&sstk=AS6-VmJIBs6DvQgnhAweCyWpnqGeBPbdEgTQy2xZNDa5w86TlQFUzDakEN5J6zYgmEhncsRGa2Wu0-_x5p2CvcTCm6qSLQUy7Fnyog&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ8tMDegQILxAK",
+      "6": "https://www.google.com/search?q=best+email+marketing+platforms+for+ecommerce&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&ei=90S2apblLvy9ruEPrfPPwAU&start=50&sa=N&sstk=AS6-VmJIBs6DvQgnhAweCyWpnqGeBPbdEgTQy2xZNDa5w86TlQFUzDakEN5J6zYgmEhncsRGa2Wu0-_x5p2CvcTCm6qSLQUy7Fnyog&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ8tMDegQILxAM",
+      "7": "https://www.google.com/search?q=best+email+marketing+platforms+for+ecommerce&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&ei=90S2apblLvy9ruEPrfPPwAU&start=60&sa=N&sstk=AS6-VmJIBs6DvQgnhAweCyWpnqGeBPbdEgTQy2xZNDa5w86TlQFUzDakEN5J6zYgmEhncsRGa2Wu0-_x5p2CvcTCm6qSLQUy7Fnyog&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ8tMDegQILxAO",
+      "8": "https://www.google.com/search?q=best+email+marketing+platforms+for+ecommerce&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&ei=90S2apblLvy9ruEPrfPPwAU&start=70&sa=N&sstk=AS6-VmJIBs6DvQgnhAweCyWpnqGeBPbdEgTQy2xZNDa5w86TlQFUzDakEN5J6zYgmEhncsRGa2Wu0-_x5p2CvcTCm6qSLQUy7Fnyog&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ8tMDegQILxAQ",
+      "9": "https://www.google.com/search?q=best+email+marketing+platforms+for+ecommerce&sca_esv=f490e9746bfcf51c&hl=en&gl=us&sxsrf=APpeQnt1URBc84F2mBujSJSgqZcQ61wexg:1790330103789&ei=90S2apblLvy9ruEPrfPPwAU&start=80&sa=N&sstk=AS6-VmJIBs6DvQgnhAweCyWpnqGeBPbdEgTQy2xZNDa5w86TlQFUzDakEN5J6zYgmEhncsRGa2Wu0-_x5p2CvcTCm6qSLQUy7Fnyog&ved=2ahUKEwjWvPauu4mXAxX8nisGHa35E1gQ8tMDegQILxAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+email+marketing+platforms+for+ecommerce&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+email+marketing+platforms+for+ecommerce&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+email+marketing+platforms+for+ecommerce&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+email+marketing+platforms+for+ecommerce&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+email+marketing+platforms+for+ecommerce&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+email+marketing+platforms+for+ecommerce&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+email+marketing+platforms+for+ecommerce&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+email+marketing+platforms+for+ecommerce&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+email+marketing+platforms+for+ecommerce&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+email+marketing+platforms+for+ecommerce&start=80"
+    }
+  }
+}

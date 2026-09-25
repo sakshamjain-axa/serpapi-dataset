@@ -1,0 +1,558 @@
+{
+  "search_metadata": {
+    "id": "6ab63aea529e4b0f248333d0",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/MXS8GPsxduAHyUQRT8sKf2CG3beh07A8enq2o5E4vJM/6ab63aea529e4b0f248333d0.json",
+    "markdown_endpoint": "https://serpapi.com/searches/MXS8GPsxduAHyUQRT8sKf2CG3beh07A8enq2o5E4vJM/6ab63aea529e4b0f248333d0.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/MXS8GPsxduAHyUQRT8sKf2CG3beh07A8enq2o5E4vJM/6ab63aea529e4b0f248333d0.json_with_pixel_position",
+    "created_at": "2026-09-25 09:12:10 UTC",
+    "processed_at": "2026-09-25 09:12:10 UTC",
+    "google_url": "https://www.google.com/search?q=best+crm+software+for+small+businesses&oq=best+crm+software+for+small+businesses&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/MXS8GPsxduAHyUQRT8sKf2CG3beh07A8enq2o5E4vJM/6ab63aea529e4b0f248333d0.html",
+    "total_time_taken": 23.02
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best crm software for small businesses",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best crm software for small businesses",
+    "total_results": 88,
+    "time_taken_displayed": 0.17,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "What is the best CRM software for small businesses?",
+      "type": "ai_overview",
+      "page_token": "MqmLCnicHdBRbtowAABQ7TL9LIQUJpDQpIBNFojBDjZOfipjJ7ixk1jUS4C_XaFn6Kl6mk67wPt4fz_tW2u-fnxo7937YjQahuH50nUXWz7LrhmJ93srR1JYexbSLGY_Z8GvSi5BL6PVVUaYOsfWZJxNyJC1yshHsWVA9ww6Ls00xePAoY1-OVHoyxP8zYxtM-tmBDJIeYH3J89yc6sFKCg1upeg2O64SrNGx-oBhyPwUzGBfxhXu5zhsDTsfpxIn9YQo9bV5yAK8cQfkIE9q5Mtbm6til2iKNuULRjYKvBZY69nrj0aT9npSHZnXpDczA9ifEMI6DVdk0rU1uF_bmkLlIfREYWKp3ERpjw5CO4OAs5TRjVJbfQAWkUspvecs6oAqCehvioLsbKO5nVCUNS9YUoesrYNg2ov62JPeKLRxq1ETKYIOCMDGAqAamzmFcVPleyX4dP_6-Vr1fiFu3aXb12hjv8",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MqmLCnicHdBRbtowAABQ7TL9LIQUJpDQpIBNFojBDjZOfipjJ7ixk1jUS4C_XaFn6Kl6mk67wPt4fz_tW2u-fnxo7937YjQahuH50nUXWz7LrhmJ93srR1JYexbSLGY_Z8GvSi5BL6PVVUaYOsfWZJxNyJC1yshHsWVA9ww6Ls00xePAoY1-OVHoyxP8zYxtM-tmBDJIeYH3J89yc6sFKCg1upeg2O64SrNGx-oBhyPwUzGBfxhXu5zhsDTsfpxIn9YQo9bV5yAK8cQfkIE9q5Mtbm6til2iKNuULRjYKvBZY69nrj0aT9npSHZnXpDczA9ifEMI6DVdk0rU1uF_bmkLlIfREYWKp3ERpjw5CO4OAs5TRjVJbfQAWkUspvecs6oAqCehvioLsbKO5nVCUNS9YUoesrYNg2ov62JPeKLRxq1ETKYIOCMDGAqAamzmFcVPleyX4dP_6-Vr1fiFu3aXb12hjv8",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VSmFVMEpUUkZsbFRuTndVbms1TkZWU2VVSnpaRWd6UVRkV1gxZHllRE5UVlZVd1EwbGplV05TTmtGUWFtRlBVWGxhYjFKSmIzVTNTVmQ2VUZkVU9XbEVNSEl3Yms5cGRERlFZMjkxWDBSNU1sVm9WamR3VlVKRVp4SVhRVlIxTW1GMVgyUkRiMGQ0YTNaUlVIWmFWR0l5VVRRYUlrRkVjM0k1WmxKQlJIbFZXSFZWVTFCelZtZGpaMlpOY2w4NVZHRjRjamx0WTBFIiwiZmN2IjoiMyIsImVpIjoiQVR1MmF1X2RDb0d4a3ZRUHZaVGIyUTQiLCJxYyI6IkNpWmlaWE4wSUdOeWJTQnpiMlowZDJGeVpTQm1iM0lnYzIxaGJHd2dZblZ6YVc1bGMzTmxjeEFBZmVud0dEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBDUk0gc29mdHdhcmUgZm9yIHNtYWxsIGJ1c2luZXNzZXM/IiwibGsiOiJHaGh6YldGc2JDQnpZMkZzWlNCamNtMGdjMjltZEhkaGNtVSIsImJzIjoiYzIyTk1RLUNNQkJHNDlySjBWU2ozMl9BMFlFWTR1RGdvQXR6S1lkY1VxcnBZWkJfYjRzSmczRzk5NzEzNnFyMlpXdDZzS0J2Q1JWSmotSjJnVHlhZmpDQjBEd0NwRFBPb1hvSmV4SWh5VE90VjktaldPTUlOblN6b1E1cVhYSkVLVk1SQWoyZHNWU2pHbkU4NTlsRzZ5SGg1UHhndzBrdWpNYzVmbU5YdzB3VjlqaTlMYmxKdGhIempGTWxZa3BZRldwWHRtemJyeVF4ZjJmdkthQUpUTDUyWTU1QmI0ZHBNb2xfSnN2RkJ3IiwiaWQiOiJmY19BVHUyYXVfZENvR3hrdlFQdlpUYjJRNF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VSmFVMEpUUkZsbFRuTndVbms1TkZWU2VVSnpaRWd6UVRkV1gxZHllRE5UVlZVd1EwbGplV05TTmtGUWFtRlBVWGxhYjFKSmIzVTNTVmQ2VUZkVU9XbEVNSEl3Yms5cGRERlFZMjkxWDBSNU1sVm9WamR3VlVKRVp4SVhRVlIxTW1GMVgyUkRiMGQ0YTNaUlVIWmFWR0l5VVRRYUlrRkVjM0k1WmxKQlJIbFZXSFZWVTFCelZtZGpaMlpOY2w4NVZHRjRjamx0WTBFIiwiZmN2IjoiMyIsImVpIjoiQVR1MmF1X2RDb0d4a3ZRUHZaVGIyUTQiLCJxYyI6IkNpWmlaWE4wSUdOeWJTQnpiMlowZDJGeVpTQm1iM0lnYzIxaGJHd2dZblZ6YVc1bGMzTmxjeEFBZmVud0dEOCIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCBDUk0gc29mdHdhcmUgZm9yIHNtYWxsIGJ1c2luZXNzZXM%2FIiwibGsiOiJHaGh6YldGc2JDQnpZMkZzWlNCamNtMGdjMjltZEhkaGNtVSIsImJzIjoiYzIyTk1RLUNNQkJHNDlySjBWU2ozMl9BMFlFWTR1RGdvQXR6S1lkY1VxcnBZWkJfYjRzSmczRzk5NzEzNnFyMlpXdDZzS0J2Q1JWSmotSjJnVHlhZmpDQjBEd0NwRFBPb1hvSmV4SWh5VE90VjktaldPTUlOblN6b1E1cVhYSkVLVk1SQWoyZHNWU2pHbkU4NTlsRzZ5SGg1UHhndzBrdWpNYzVmbU5YdzB3VjlqaTlMYmxKdGhIempGTWxZa3BZRldwWHRtemJyeVF4ZjJmdkthQUpUTDUyWTU1QmI0ZHBNb2xfSnN2RkJ3IiwiaWQiOiJmY19BVHUyYXVfZENvR3hrdlFQdlpUYjJRNF81In0%3D"
+    },
+    {
+      "question": "Will CRM be replaced by AI?",
+      "type": "ai_overview",
+      "page_token": "BxaCZXicHdBfboIwHADg7DI-agFxwcQsYVKwCzX86Q_tywIURWmlm2QV3naXnWqnWbLvCN_3j7zcut-nQzsM-r5eLIwx83Pfn2Uzr3u1KO_jrV7UpZRVWXfr1fPKejnVm-Bu_Nfe-AnTGrYpykOYOGpd2pGjsCWrcD3RK_EbTHkmOyPQ0uyBBzykY8JcnisyMkRkJvU2nogRtndgN-1WRTLW4O8r5cXiSlUV7uwmWCKOrA8ana0SY7QPScKu_jF1CBRYoxjjiAFkqQoGwK0B8No4sBBVzAVFEb-1_sHulzwkDNhDc4UvSZ5kGGEmctIK8LrE9qImHGwGvl3I9BLLAIUX4qcRHfcFZyxijyTn_Kh2S-GALZz2nrNHmQO88Yl3qbKc2an-2jiz_7HN-0kNa_3Zn_8AeFx2zg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=BxaCZXicHdBfboIwHADg7DI-agFxwcQsYVKwCzX86Q_tywIURWmlm2QV3naXnWqnWbLvCN_3j7zcut-nQzsM-r5eLIwx83Pfn2Uzr3u1KO_jrV7UpZRVWXfr1fPKejnVm-Bu_Nfe-AnTGrYpykOYOGpd2pGjsCWrcD3RK_EbTHkmOyPQ0uyBBzykY8JcnisyMkRkJvU2nogRtndgN-1WRTLW4O8r5cXiSlUV7uwmWCKOrA8ana0SY7QPScKu_jF1CBRYoxjjiAFkqQoGwK0B8No4sBBVzAVFEb-1_sHulzwkDNhDc4UvSZ5kGGEmctIK8LrE9qImHGwGvl3I9BLLAIUX4qcRHfcFZyxijyTn_Kh2S-GALZz2nrNHmQO88Yl3qbKc2an-2jiz_7HN-0kNa_3Zn_8AeFx2zg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VSmFVMEpUUkZsbFRuTndVbms1TkZWU2VVSnpaRWd6UVRkV1gxZHllRE5UVlZVd1EwbGplV05TTmtGUWFtRlBVWGxhYjFKSmIzVTNTVmQ2VUZkVU9XbEVNSEl3Yms5cGRERlFZMjkxWDBSNU1sVm9WamR3VlVKRVp4SVhRVlIxTW1GMVgyUkRiMGQ0YTNaUlVIWmFWR0l5VVRRYUlrRkVjM0k1WmxKQlJIbFZXSFZWVTFCelZtZGpaMlpOY2w4NVZHRjRjamx0WTBFIiwiZmN2IjoiMyIsImVpIjoiQVR1MmF1X2RDb0d4a3ZRUHZaVGIyUTQiLCJxYyI6IkNpWmlaWE4wSUdOeWJTQnpiMlowZDJGeVpTQm1iM0lnYzIxaGJHd2dZblZ6YVc1bGMzTmxjeEFBZmVud0dEOCIsInF1ZXN0aW9uIjoiV2lsbCBDUk0gYmUgcmVwbGFjZWQgYnkgQUk/IiwibGsiOiJHaHAzYVd4c0lHTnliU0JpWlNCeVpYQnNZV05sWkNCaWVTQmhhUSIsImJzIjoiYzIyTk1RLUNNQkJHNDlySjBWU2ozMl9BMFlFWTR1RGdvQXR6S1lkY1VxcnBZWkJfYjRzSmczRzk5NzEzNnFyMlpXdDZzS0J2Q1JWSmotSjJnVHlhZmpDQjBEd0NwRFBPb1hvSmV4SWh5VE90VjktaldPTUlOblN6b1E1cVhYSkVLVk1SQWoyZHNWU2pHbkU4NTlsRzZ5SGg1UHhndzBrdWpNYzVmbU5YdzB3VjlqaTlMYmxKdGhIempGTWxZa3BZRldwWHRtemJyeVF4ZjJmdkthQUpUTDUyWTU1QmI0ZHBNb2xfSnN2RkJ3IiwiaWQiOiJmY19BVHUyYXVfZENvR3hrdlFQdlpUYjJRNF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VSmFVMEpUUkZsbFRuTndVbms1TkZWU2VVSnpaRWd6UVRkV1gxZHllRE5UVlZVd1EwbGplV05TTmtGUWFtRlBVWGxhYjFKSmIzVTNTVmQ2VUZkVU9XbEVNSEl3Yms5cGRERlFZMjkxWDBSNU1sVm9WamR3VlVKRVp4SVhRVlIxTW1GMVgyUkRiMGQ0YTNaUlVIWmFWR0l5VVRRYUlrRkVjM0k1WmxKQlJIbFZXSFZWVTFCelZtZGpaMlpOY2w4NVZHRjRjamx0WTBFIiwiZmN2IjoiMyIsImVpIjoiQVR1MmF1X2RDb0d4a3ZRUHZaVGIyUTQiLCJxYyI6IkNpWmlaWE4wSUdOeWJTQnpiMlowZDJGeVpTQm1iM0lnYzIxaGJHd2dZblZ6YVc1bGMzTmxjeEFBZmVud0dEOCIsInF1ZXN0aW9uIjoiV2lsbCBDUk0gYmUgcmVwbGFjZWQgYnkgQUk%2FIiwibGsiOiJHaHAzYVd4c0lHTnliU0JpWlNCeVpYQnNZV05sWkNCaWVTQmhhUSIsImJzIjoiYzIyTk1RLUNNQkJHNDlySjBWU2ozMl9BMFlFWTR1RGdvQXR6S1lkY1VxcnBZWkJfYjRzSmczRzk5NzEzNnFyMlpXdDZzS0J2Q1JWSmotSjJnVHlhZmpDQjBEd0NwRFBPb1hvSmV4SWh5VE90VjktaldPTUlOblN6b1E1cVhYSkVLVk1SQWoyZHNWU2pHbkU4NTlsRzZ5SGg1UHhndzBrdWpNYzVmbU5YdzB3VjlqaTlMYmxKdGhIempGTWxZa3BZRldwWHRtemJyeVF4ZjJmdkthQUpUTDUyWTU1QmI0ZHBNb2xfSnN2RkJ3IiwiaWQiOiJmY19BVHUyYXVfZENvR3hrdlFQdlpUYjJRNF81In0%3D"
+    },
+    {
+      "question": "Can I build a CRM in Excel?",
+      "type": "ai_overview",
+      "page_token": "FaNBFXicHdBbToNAFADQuJl-llepoUljpGUgCIMMM8Pjx8DwLLdAhEj5dC-uytWYeJZwvn-gG_rfp6Rdlmk-SdK6rvtmHBuo9mK8S_m8DUISOUCRi_50fD4qL7U4W_NqXsbVDNk08SuRKZq6RG00bDULlfUtjY0Lu7V6PIQrQVwhDjlUMD5yB7_5DiylhaL4inTaE4w1FBQIbpGNH1Q2HMaQwnoDsDw5KRcLu2OvUEqZ8Cxjt37FAzn6IJTMBjfVpjZNwoPPICqGya1ounkcNJq0mejbNnKyKGClXGo89BM-M1XvKpu_Y7AiJCNWUrctudGHquFU9qIybqoxkM4HS7Y71yQO3oI4Y3SAgFMXJcqrRq649pjhcQWRyCpbn_O8AKTtavF11nb_Y-eP-r6cps-x-QNud3aR",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=FaNBFXicHdBbToNAFADQuJl-llepoUljpGUgCIMMM8Pjx8DwLLdAhEj5dC-uytWYeJZwvn-gG_rfp6Rdlmk-SdK6rvtmHBuo9mK8S_m8DUISOUCRi_50fD4qL7U4W_NqXsbVDNk08SuRKZq6RG00bDULlfUtjY0Lu7V6PIQrQVwhDjlUMD5yB7_5DiylhaL4inTaE4w1FBQIbpGNH1Q2HMaQwnoDsDw5KRcLu2OvUEqZ8Cxjt37FAzn6IJTMBjfVpjZNwoPPICqGya1ounkcNJq0mejbNnKyKGClXGo89BM-M1XvKpu_Y7AiJCNWUrctudGHquFU9qIybqoxkM4HS7Y71yQO3oI4Y3SAgFMXJcqrRq649pjhcQWRyCpbn_O8AKTtavF11nb_Y-eP-r6cps-x-QNud3aR",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VSmFVMEpUUkZsbFRuTndVbms1TkZWU2VVSnpaRWd6UVRkV1gxZHllRE5UVlZVd1EwbGplV05TTmtGUWFtRlBVWGxhYjFKSmIzVTNTVmQ2VUZkVU9XbEVNSEl3Yms5cGRERlFZMjkxWDBSNU1sVm9WamR3VlVKRVp4SVhRVlIxTW1GMVgyUkRiMGQ0YTNaUlVIWmFWR0l5VVRRYUlrRkVjM0k1WmxKQlJIbFZXSFZWVTFCelZtZGpaMlpOY2w4NVZHRjRjamx0WTBFIiwiZmN2IjoiMyIsImVpIjoiQVR1MmF1X2RDb0d4a3ZRUHZaVGIyUTQiLCJxYyI6IkNpWmlaWE4wSUdOeWJTQnpiMlowZDJGeVpTQm1iM0lnYzIxaGJHd2dZblZ6YVc1bGMzTmxjeEFBZmVud0dEOCIsInF1ZXN0aW9uIjoiQ2FuIEkgYnVpbGQgYSBDUk0gaW4gRXhjZWw/IiwibGsiOiJHaHBqWVc0Z2FTQmlkV2xzWkNCaElHTnliU0JwYmlCbGVHTmxiQSIsImJzIjoiYzIyTk1RLUNNQkJHNDlySjBWU2ozMl9BMFlFWTR1RGdvQXR6S1lkY1VxcnBZWkJfYjRzSmczRzk5NzEzNnFyMlpXdDZzS0J2Q1JWSmotSjJnVHlhZmpDQjBEd0NwRFBPb1hvSmV4SWh5VE90VjktaldPTUlOblN6b1E1cVhYSkVLVk1SQWoyZHNWU2pHbkU4NTlsRzZ5SGg1UHhndzBrdWpNYzVmbU5YdzB3VjlqaTlMYmxKdGhIempGTWxZa3BZRldwWHRtemJyeVF4ZjJmdkthQUpUTDUyWTU1QmI0ZHBNb2xfSnN2RkJ3IiwiaWQiOiJmY19BVHUyYXVfZENvR3hrdlFQdlpUYjJRNF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VSmFVMEpUUkZsbFRuTndVbms1TkZWU2VVSnpaRWd6UVRkV1gxZHllRE5UVlZVd1EwbGplV05TTmtGUWFtRlBVWGxhYjFKSmIzVTNTVmQ2VUZkVU9XbEVNSEl3Yms5cGRERlFZMjkxWDBSNU1sVm9WamR3VlVKRVp4SVhRVlIxTW1GMVgyUkRiMGQ0YTNaUlVIWmFWR0l5VVRRYUlrRkVjM0k1WmxKQlJIbFZXSFZWVTFCelZtZGpaMlpOY2w4NVZHRjRjamx0WTBFIiwiZmN2IjoiMyIsImVpIjoiQVR1MmF1X2RDb0d4a3ZRUHZaVGIyUTQiLCJxYyI6IkNpWmlaWE4wSUdOeWJTQnpiMlowZDJGeVpTQm1iM0lnYzIxaGJHd2dZblZ6YVc1bGMzTmxjeEFBZmVud0dEOCIsInF1ZXN0aW9uIjoiQ2FuIEkgYnVpbGQgYSBDUk0gaW4gRXhjZWw%2FIiwibGsiOiJHaHBqWVc0Z2FTQmlkV2xzWkNCaElHTnliU0JwYmlCbGVHTmxiQSIsImJzIjoiYzIyTk1RLUNNQkJHNDlySjBWU2ozMl9BMFlFWTR1RGdvQXR6S1lkY1VxcnBZWkJfYjRzSmczRzk5NzEzNnFyMlpXdDZzS0J2Q1JWSmotSjJnVHlhZmpDQjBEd0NwRFBPb1hvSmV4SWh5VE90VjktaldPTUlOblN6b1E1cVhYSkVLVk1SQWoyZHNWU2pHbkU4NTlsRzZ5SGg1UHhndzBrdWpNYzVmbU5YdzB3VjlqaTlMYmxKdGhIempGTWxZa3BZRldwWHRtemJyeVF4ZjJmdkthQUpUTDUyWTU1QmI0ZHBNb2xfSnN2RkJ3IiwiaWQiOiJmY19BVHUyYXVfZENvR3hrdlFQdlpUYjJRNF81In0%3D"
+    },
+    {
+      "question": "Which CRM is beginner friendly?",
+      "type": "ai_overview",
+      "page_token": "4EAV6XicHdBfboIwHADg7DJ7nAXERROzDPkzjdbQ0VL6srBfUYQWOsdEeNtddqqdZmYX-B6-7x91aurfu0vZdeZzMZn0ff9wbNujKh6g1ZP8c2hgArlS7znUi9njzHo6wDL4Wnurj7UXU2OYT9Arm5dUiVCm1IaKfIlR5Fka1twWWVJb5ZaGTqxFXyRK40Zt94G72ul5lickEDwYM0eGMrrW79yM3EZdpkmVBuYMyHKLKLZSf2dBs2lwWM5ItJ7ufBgoMi6o5zGhDKeh9KRj9rnjDUW1ITsHn0C7VeGXp5i6UzaCk3HD92zdicGaAt-cMOpyQGbglrKxz2zgOMaRImkqvaCUHnuhQ8bZQQT4QpzyLFUYS2VodvOx195cMkKlNNV4T_TNQCxiTKzECB1DKkmQuYpUxoR5nejvD3BZOvf_n8u3g-4W5twe_wA5MoOx",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4EAV6XicHdBfboIwHADg7DJ7nAXERROzDPkzjdbQ0VL6srBfUYQWOsdEeNtddqqdZmYX-B6-7x91aurfu0vZdeZzMZn0ff9wbNujKh6g1ZP8c2hgArlS7znUi9njzHo6wDL4Wnurj7UXU2OYT9Arm5dUiVCm1IaKfIlR5Fka1twWWVJb5ZaGTqxFXyRK40Zt94G72ul5lickEDwYM0eGMrrW79yM3EZdpkmVBuYMyHKLKLZSf2dBs2lwWM5ItJ7ufBgoMi6o5zGhDKeh9KRj9rnjDUW1ITsHn0C7VeGXp5i6UzaCk3HD92zdicGaAt-cMOpyQGbglrKxz2zgOMaRImkqvaCUHnuhQ8bZQQT4QpzyLFUYS2VodvOx195cMkKlNNV4T_TNQCxiTKzECB1DKkmQuYpUxoR5nejvD3BZOvf_n8u3g-4W5twe_wA5MoOx",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VSmFVMEpUUkZsbFRuTndVbms1TkZWU2VVSnpaRWd6UVRkV1gxZHllRE5UVlZVd1EwbGplV05TTmtGUWFtRlBVWGxhYjFKSmIzVTNTVmQ2VUZkVU9XbEVNSEl3Yms5cGRERlFZMjkxWDBSNU1sVm9WamR3VlVKRVp4SVhRVlIxTW1GMVgyUkRiMGQ0YTNaUlVIWmFWR0l5VVRRYUlrRkVjM0k1WmxKQlJIbFZXSFZWVTFCelZtZGpaMlpOY2w4NVZHRjRjamx0WTBFIiwiZmN2IjoiMyIsImVpIjoiQVR1MmF1X2RDb0d4a3ZRUHZaVGIyUTQiLCJxYyI6IkNpWmlaWE4wSUdOeWJTQnpiMlowZDJGeVpTQm1iM0lnYzIxaGJHd2dZblZ6YVc1bGMzTmxjeEFBZmVud0dEOCIsInF1ZXN0aW9uIjoiV2hpY2ggQ1JNIGlzIGJlZ2lubmVyIGZyaWVuZGx5PyIsImxrIjoiR2g1M2FHbGphQ0JqY20wZ2FYTWdZbVZuYVc1dVpYSWdabkpwWlc1a2JIayIsImJzIjoiYzIyTk1RLUNNQkJHNDlySjBWU2ozMl9BMFlFWTR1RGdvQXR6S1lkY1VxcnBZWkJfYjRzSmczRzk5NzEzNnFyMlpXdDZzS0J2Q1JWSmotSjJnVHlhZmpDQjBEd0NwRFBPb1hvSmV4SWh5VE90VjktaldPTUlOblN6b1E1cVhYSkVLVk1SQWoyZHNWU2pHbkU4NTlsRzZ5SGg1UHhndzBrdWpNYzVmbU5YdzB3VjlqaTlMYmxKdGhIempGTWxZa3BZRldwWHRtemJyeVF4ZjJmdkthQUpUTDUyWTU1QmI0ZHBNb2xfSnN2RkJ3IiwiaWQiOiJmY19BVHUyYXVfZENvR3hrdlFQdlpUYjJRNF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE9VSmFVMEpUUkZsbFRuTndVbms1TkZWU2VVSnpaRWd6UVRkV1gxZHllRE5UVlZVd1EwbGplV05TTmtGUWFtRlBVWGxhYjFKSmIzVTNTVmQ2VUZkVU9XbEVNSEl3Yms5cGRERlFZMjkxWDBSNU1sVm9WamR3VlVKRVp4SVhRVlIxTW1GMVgyUkRiMGQ0YTNaUlVIWmFWR0l5VVRRYUlrRkVjM0k1WmxKQlJIbFZXSFZWVTFCelZtZGpaMlpOY2w4NVZHRjRjamx0WTBFIiwiZmN2IjoiMyIsImVpIjoiQVR1MmF1X2RDb0d4a3ZRUHZaVGIyUTQiLCJxYyI6IkNpWmlaWE4wSUdOeWJTQnpiMlowZDJGeVpTQm1iM0lnYzIxaGJHd2dZblZ6YVc1bGMzTmxjeEFBZmVud0dEOCIsInF1ZXN0aW9uIjoiV2hpY2ggQ1JNIGlzIGJlZ2lubmVyIGZyaWVuZGx5PyIsImxrIjoiR2g1M2FHbGphQ0JqY20wZ2FYTWdZbVZuYVc1dVpYSWdabkpwWlc1a2JIayIsImJzIjoiYzIyTk1RLUNNQkJHNDlySjBWU2ozMl9BMFlFWTR1RGdvQXR6S1lkY1VxcnBZWkJfYjRzSmczRzk5NzEzNnFyMlpXdDZzS0J2Q1JWSmotSjJnVHlhZmpDQjBEd0NwRFBPb1hvSmV4SWh5VE90VjktaldPTUlOblN6b1E1cVhYSkVLVk1SQWoyZHNWU2pHbkU4NTlsRzZ5SGg1UHhndzBrdWpNYzVmbU5YdzB3VjlqaTlMYmxKdGhIempGTWxZa3BZRldwWHRtemJyeVF4ZjJmdkthQUpUTDUyWTU1QmI0ZHBNb2xfSnN2RkJ3IiwiaWQiOiJmY19BVHUyYXVfZENvR3hrdlFQdlpUYjJRNF81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best CRM for a small business depends on your budget and needs, with HubSpot CRM standing out as the top choice for an all-in-one free and scalable platform.",
+        "snippet_highlighted_words": [
+          "HubSpot CRM"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top CRM Options for Small Businesses"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "HubSpot CRM: Best for free tools and ease of use. It offers a robust free tier for up to two users (1,000 contacts), featuring email templates, scheduling, and pipeline tracking, with paid plans starting around $15/user/month."
+          },
+          {
+            "snippet": "Zoho CRM (or Bigin by Zoho): Best for budget-friendly customization. It offers a free tier for up to three users and low-cost paid plans starting around $14–$20/user/month, featuring powerful automation and AI tools."
+          },
+          {
+            "snippet": "Pipedrive: Best for visual sales pipelines. It focuses heavily on deal stages, user-friendly contact management, and robust third-party integrations, with smart automation features built in."
+          },
+          {
+            "snippet": "Freshsales: Best for built-in multi-channel communication. It includes integrated phone, chat, and email support on its lower-tier plans alongside AI-powered deal insights."
+          },
+          {
+            "snippet": "Less Annoying CRM: Best for simplicity and micro-businesses. It offers a straightforward, low-cost flat fee with zero bloat and a very short learning curve."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you tell me your team size, budget, and primary goal (like sales tracking, email marketing, or customer support), I can recommend the exact CRM for your workflow."
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.uschamber.com/co/start/strategy/low-cost-crm-tools",
+        "source": "uschamber.com",
+        "index": 0
+      },
+      {
+        "link": "https://slack.com/blog/crm/best-crm-for-small-business",
+        "source": "slack.com",
+        "index": 1
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=GCMdLB82FXg&vl=en",
+        "source": "youtube.com",
+        "index": 2
+      },
+      {
+        "link": "https://www.reddit.com/r/CRM/comments/1e5141p/best_and_inexpensive_crm_for_small_business/",
+        "source": "reddit.com",
+        "index": 3
+      },
+      {
+        "link": "https://www.youtube.com/shorts/Ex_dGycF2J4",
+        "source": "youtube.com",
+        "index": 4
+      },
+      {
+        "link": "https://fayedigital.com/blog/best-crm-for-small-business/",
+        "source": "fayedigital.com",
+        "index": 5
+      },
+      {
+        "title": "10 Free or Low-Cost CRM Tools for Small Businesses",
+        "link": "https://www.uschamber.com/co/start/strategy/low-cost-crm-tools",
+        "snippet": "HubSpot: Best free CRM tools for startups. HubSpot offers a free CRM packed with features for managing customers and sales. It supports two users and 1,000 contact...",
+        "source": "US Chamber",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTxni3FJVCIV_ToqtCqrY25M2FXn-TPjrncGCruN_0DHuoQhqKNwEBQugwA7s11iFrNS7gLGYsLtltuxRAnQ07WLveyNrJQFwG6b3H",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.uschamber.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "Best CRM for Small Business in 2026 - Slack",
+        "link": "https://slack.com/blog/crm/best-crm-for-small-business",
+        "snippet": "CRM for Small Business: Benefits, Top Tools, and How to Choose * What is a CRM for small businesses? Why do small businesses need a CRM? * Top CRMs for small busin...",
+        "source": "Slack",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQfjrADZsxdfeMFMlrd6G3x13WB4pjmdbsXQ5PzAqaoT4lPjrZprisWtomX2Eu_jiPUhBbzgDTp-tPNAumeECUvAdK78yxw-3VC9x2u",
+        "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://slack.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "My TOP 5 CRM Software | Free vs Paid CRMs for Small Business",
+        "link": "https://www.youtube.com/watch?v=GCMdLB82FXg&vl=en&t=172",
+        "snippet": "My TOP 5 CRM Software | Free vs Paid CRMs for Small Business i would recommend Bingan for small service-based businesses that are ...",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhTi5c5Sd_M_495uhyV07uVV7_8Urt4Iu9oVXg1AOytn0Y_qk3xdiWfEeS4Fsy4ziiuuwhEmaP3e2F9OMbN8MlKHRj22ye77nCrY9k6g",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "Best and inexpensive CRM for small business - Reddit",
+        "link": "https://www.reddit.com/r/CRM/comments/1e5141p/best_and_inexpensive_crm_for_small_business/",
+        "snippet": "Zoho CRM and Zoho One as Alternatives: Zoho CRM and Zoho One are recommended as affordable alternatives to HubSpot, especially for email marketing and comprehensiv...",
+        "source": "Reddit",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQGSRahlkSS-U8G7-9u0HPmKLhAbIPpHBTlWd7XBOr4JkvW8-St4fEUlHlCX3_l7C4dUO5q8wQBFZ9djryWqKbiYl3y_ZP0iygrO95",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      },
+      {
+        "title": "Best CRM for small business",
+        "link": "https://www.youtube.com/shorts/Ex_dGycF2J4",
+        "snippet": "Best CRM for small business 😍 and keep your entire team on the same page here's a quick breakdown of three of the best CRM. for s...",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCvYnCj5tikwBZXSPlKZpl6l1MUTrB3ZNkhJ-o-suzp4mHwQEpZeTE8BBS80hF0kM9oLwjzUtRHLtVCSNAyW3jC-yNb9xrFqVLVQRwOQ",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 10
+      },
+      {
+        "title": "Best CRM for Small Business: 2026 Guide",
+        "link": "https://fayedigital.com/blog/best-crm-for-small-business/",
+        "snippet": "Best CRM for Small Business: A Simple Guide to Choosing the Right One * Salesforce CRM is one of the most recognized names in the industry. * Pipedrive has emerged...",
+        "source": "fayedigital.com",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSrq55kDxaAfwj4kCuWzM2YvATICrJ9l310SsQLQFwUn5m_7-yxgDuYpY-ZMwtdx-ObkR6upvylySM637jUza3g--xj5THyUIzOxnfi",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://fayedigital.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 11
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best and inexpensive CRM for small business",
+      "link": "https://www.reddit.com/r/CRM/comments/1e5141p/best_and_inexpensive_crm_for_small_business/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkgEB6zswFZ4rqZk-4ZV9S1ZGSUJIIKNybFK0rjuLF5bW7lQ-vlbRw4DOEd7Ms34UdV8D88eJ1iCK8E4txDUp98nxO8b1q56PJ-Z20iItYiPO0Zv7GxjjkrAD_C2U7n97Ze3b5uytxC9rFmnqepx8zsC6UY3mHML0SIjwuLWDCxDb1UmEFB0glwO5YOc4Di3RubintQ&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQFnoECBwQAQ&uoh=1",
+      "displayed_link": "340+ comments · 2 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Teamgate CRM is definitely the best CRM for small business. Pipedrive and Hubspot are also great options, down the road though.",
+      "snippet_highlighted_words": [
+        "Teamgate CRM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Teamgate CRM is definitely the best CRM for small business. Pipedrive and Hubspot are also great options, down the road though.",
+          "source_info_link": "https://www.reddit.com/r/CRM/comments/1e5141p/best_and_inexpensive_crm_for_small_business/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZaNHJxWmstNFpWOVMxWkdTVUpJSUtOeWJGSzByanVMRjViVzdsUS12bGJSdzRET0VkN01zMzRVZFY4RDg4ZUoxaUNLOEU0dHhEVXA5OG54TzhiMXE1NlBKLVoyMGlJdFlpUE8wWnY3R3hqamtyQURfQzJVN245N1plM2I1dXl0eEM5ckZtbnFlcHg4enNDNlVZM21ITUwwU0lqd3VMV0RDeERiMVVtRUZCMGdsd081WU9jNERpM1J1YmludFESBBoCCAAaogYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD8BQgAEAAYACAAKisKBGJlc3QVFMGIQBoKY29tcGFyaXNvbhoEZ29vZBoDdG9wGgdiZXN0Y3JtKkwKA2NybRU2G75AGiBjdXN0b21lciByZWxhdGlvbnNoaXAgbWFuYWdlbWVudBoHYmVzdGNybRoLY3Jtc29mdHdhcmUaCGl2O3A7Y3JtKjwKCHNvZnR3YXJlFYJQDj4aDGFwcGxpY2F0aW9ucxoHcHJvZ3JhbRoHc3lzdGVtcxoLY3Jtc29mdHdhcmUqCgoDZm9yFQAAAAAqMgoFc21hbGwVulaXQBoHc21hbGxlchoEc21lcxoEdGlueRoPc21hbGxidXNpbmVzc2VzKkQKCmJ1c2luZXNzZXMVyTx8PxoDYml6GghidXNpbmVzcxoLZW50ZXJwcmlzZXMaBHNtZXMaD3NtYWxsYnVzaW5lc3NlczLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGWjRycVprLTRaVjlTMVpHU1VKSUlLTnliRkswcmp1TEY1Ylc3bFEtdmxiUnc0RE9FZDdNczM0VWRWOEQ4OGVKMWlDSzhFNHR4RFVwOThueE84YjFxNTZQSi1aMjBpSXRZaVBPMFp2N0d4amprckFEX0MyVTduOTdaZTNiNXV5dHhDOXJGbW5xZXB4OHpzQzZVWTNtSE1MMFNJand1TFdEQ3hEYjFVbUVGQjBnbHdPNVlPYzREaTNSdWJpbnRROkk8Yj5CZXN0PC9iPiBhbmQgaW5leHBlbnNpdmUgPGI-Q1JNPC9iPiBmb3IgPGI-c21hbGwgYnVzaW5lc3M8L2I-IC0gUmVkZGl0QoYBPGI-VGVhbWdhdGUgQ1JNPC9iPiBpcyBkZWZpbml0ZWx5IHRoZSBiZXN0IENSTSBmb3Igc21hbGwgYnVzaW5lc3MuIFBpcGVkcml2ZSBhbmQgSHVic3BvdCBhcmUgYWxzbyBncmVhdCBvcHRpb25zLCBkb3duIHRoZSByb2FkIHRob3VnaC5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtQBL2dvdG8_dXJsPUNBRVNrZ0VCNnpzd0ZaNHJxWmstNFpWOVMxWkdTVUpJSUtOeWJGSzByanVMRjViVzdsUS12bGJSdzRET0VkN01zMzRVZFY4RDg4ZUoxaUNLOEU0dHhEVXA5OG54TzhiMXE1NlBKLVoyMGlJdFlpUE8wWnY3R3hqamtyQURfQzJVN245N1plM2I1dXl0eEM5ckZtbnFlcHg4enNDNlVZM21ITUwwU0lqd3VMV0RDeERiMVVtRUZCMGdsd081WU9jNERpM1J1YmludFESBBoCCAAaogYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD8BQgAEAAYACAAKisKBGJlc3QVFMGIQBoKY29tcGFyaXNvbhoEZ29vZBoDdG9wGgdiZXN0Y3JtKkwKA2NybRU2G75AGiBjdXN0b21lciByZWxhdGlvbnNoaXAgbWFuYWdlbWVudBoHYmVzdGNybRoLY3Jtc29mdHdhcmUaCGl2O3A7Y3JtKjwKCHNvZnR3YXJlFYJQDj4aDGFwcGxpY2F0aW9ucxoHcHJvZ3JhbRoHc3lzdGVtcxoLY3Jtc29mdHdhcmUqCgoDZm9yFQAAAAAqMgoFc21hbGwVulaXQBoHc21hbGxlchoEc21lcxoEdGlueRoPc21hbGxidXNpbmVzc2VzKkQKCmJ1c2luZXNzZXMVyTx8PxoDYml6GghidXNpbmVzcxoLZW50ZXJwcmlzZXMaBHNtZXMaD3NtYWxsYnVzaW5lc3NlczLUAS9nb3RvP3VybD1DQUVTa2dFQjZ6c3dGWjRycVprLTRaVjlTMVpHU1VKSUlLTnliRkswcmp1TEY1Ylc3bFEtdmxiUnc0RE9FZDdNczM0VWRWOEQ4OGVKMWlDSzhFNHR4RFVwOThueE84YjFxNTZQSi1aMjBpSXRZaVBPMFp2N0d4amprckFEX0MyVTduOTdaZTNiNXV5dHhDOXJGbW5xZXB4OHpzQzZVWTNtSE1MMFNJand1TFdEQ3hEYjFVbUVGQjBnbHdPNVlPYzREaTNSdWJpbnRROkk8Yj5CZXN0PC9iPiBhbmQgaW5leHBlbnNpdmUgPGI-Q1JNPC9iPiBmb3IgPGI-c21hbGwgYnVzaW5lc3M8L2I-IC0gUmVkZGl0QoYBPGI-VGVhbWdhdGUgQ1JNPC9iPiBpcyBkZWZpbml0ZWx5IHRoZSBiZXN0IENSTSBmb3Igc21hbGwgYnVzaW5lc3MuIFBpcGVkcml2ZSBhbmQgSHVic3BvdCBhcmUgYWxzbyBncmVhdCBvcHRpb25zLCBkb3duIHRoZSByb2FkIHRob3VnaC5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Reddit · r/CRM"
+    },
+    {
+      "position": 2,
+      "title": "The Best CRM Software for Small Businesses",
+      "link": "https://www.zoho.com/crm/small-business-crm-software/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVNR2evoCY4c5pOH9rkeYZEY25wNfjanXOw9nZPU6htYAzksKolDqruaBZ_85adF1ViTG70O2CTBRz0wR2ceILIJ5A36wAEv2qDHBPp1YtQG_wcqpJM5p3bVcxlHVQJJPV7FmJaYMlXfg&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.zoho.com › crm › small-business-crm-soft...",
+      "favicon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHeWgrwG2AuxT0AOlZroehQOO8mQpxyCZ8NvZMUTwN47XHqXgAD-_S_5CZBduZYWuaoNj9aKJQk4Uk80sQjy20kFQYoRxQiLhCHsUhzzy8nBNz84Bndzhl-w1-rA6b2v0nXQkyoyixATJXZ05R_tfHtdLAosPcOzc_1_5_6_8XBQ7_9_9rn8mqMwT7iHicFbWWal193RrG2s9PY0HmgooGaumGMOfhATjNSGPAoOCFVm3XkDrryMZC_8f81erBsrN_m39fbIMVtXFE5CPjWxsxaBGPMAmbXFx_YKU3zJmF3LyL56PWHpXYoBZZbyJotd1C-XnKMLfpSH58JiRoznuMGG8mHZjvXcy1bwd_KKu8ry1W6QaoxB4cenUGIadE3pW222_6Cs-AAAAA.webp",
+      "snippet": "Zoho CRM the best choice for small businesses? Easy to use. CRM comes with a streamlined, easy-to-use interface that can help you start selling in no time.",
+      "snippet_highlighted_words": [
+        "Zoho CRM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Zoho CRM the best choice for small businesses? Easy to use. CRM comes with a streamlined, easy-to-use interface that can help you start selling in no time.",
+          "source_info_link": "https://www.zoho.com/crm/small-business-crm-software/",
+          "icon": "https://serpapi.com/images/i/UklGRlIBAABXRUJQVlA4IEYBAAAQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHeWgrwG2AuxT0AOlZroehQOO8mQpxyCZ8NvZMUTwN47XHqXgAD-_S_5CZBduZYWuaoNj9aKJQk4Uk80sQjy20kFQYoRxQiLhCHsUhzzy8nBNz84Bndzhl-w1-rA6b2v0nXQkyoyixATJXZ05R_tfHtdLAosPcOzc_1_5_6_8XBQ7_9_9rn8mqMwT7iHicFbWWal193RrG2s9PY0HmgooGaumGMOfhATjNSGPAoOCFVm3XkDrryMZC_8f81erBsrN_m39fbIMVtXFE5CPjWxsxaBGPMAmbXFx_YKU3zJmF3LyL56PWHpXYoBZZbyJotd1C-XnKMLfpSH58JiRoznuMGG8mHZjvXcy1bwd_KKu8ry1W6QaoxB4cenUGIadE3pW222_6Cs-AAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVk5SMmV2b0NZNGM1cE9IOXJrZVlaRVkyNXdOZmphblhPdzluWlBVNmh0WUF6a3NLb2xEcXJ1YUJaXzg1YWRGMVZpVEc3ME8yQ1RCUnowd1IyY2VJTElKNUEzNndBRXYycURIQlBwMVl0UUdfd2NxcEpNNXAzYlZjeGxIVlFKSlBWN0ZtSmFZTWxYZmcSBBoCCAAa-gUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDUBQgAEAAYACAAKisKBGJlc3QV69FgQBoKY29tcGFyaXNvbhoEZ29vZBoDdG9wGgdiZXN0Y3JtKkwKA2NybRUW-9RAGiBjdXN0b21lciByZWxhdGlvbnNoaXAgbWFuYWdlbWVudBoHYmVzdGNybRoLY3Jtc29mdHdhcmUaCGl2O3A7Y3JtKjwKCHNvZnR3YXJlFVv4EUAaDGFwcGxpY2F0aW9ucxoHcHJvZ3JhbRoHc3lzdGVtcxoLY3Jtc29mdHdhcmUqCgoDZm9yFQAAAAAqMgoFc21hbGwV25SRQBoHc21hbGxlchoEc21lcxoEdGlueRoPc21hbGxidXNpbmVzc2VzKkQKCmJ1c2luZXNzZXMVvpVrQBoDYml6GghidXNpbmVzcxoLZW50ZXJwcmlzZXMaBHNtZXMaD3NtYWxsYnVzaW5lc3NlczKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZOUjJldm9DWTRjNXBPSDlya2VZWkVZMjV3TmZqYW5YT3c5blpQVTZodFlBemtzS29sRHFydWFCWl84NWFkRjFWaVRHNzBPMkNUQlJ6MHdSMmNlSUxJSjVBMzZ3QUV2MnFESEJQcDFZdFFHX3djcXBKTTVwM2JWY3hsSFZRSkpQVjdGbUphWU1sWGZnOjhUaGUgPGI-QmVzdCBDUk0gU29mdHdhcmUgZm9yIFNtYWxsIEJ1c2luZXNzZXM8L2I-IC0gWm9ob0KiATxiPlpvaG8gQ1JNPC9iPiB0aGUgYmVzdCBjaG9pY2UgZm9yIHNtYWxsIGJ1c2luZXNzZXM_IEVhc3kgdG8gdXNlLiBDUk0gY29tZXMgd2l0aCBhIHN0cmVhbWxpbmVkLCBlYXN5LXRvLXVzZSBpbnRlcmZhY2UgdGhhdCBjYW4gaGVscCB5b3Ugc3RhcnQgc2VsbGluZyBpbiBubyB0aW1lLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVk5SMmV2b0NZNGM1cE9IOXJrZVlaRVkyNXdOZmphblhPdzluWlBVNmh0WUF6a3NLb2xEcXJ1YUJaXzg1YWRGMVZpVEc3ME8yQ1RCUnowd1IyY2VJTElKNUEzNndBRXYycURIQlBwMVl0UUdfd2NxcEpNNXAzYlZjeGxIVlFKSlBWN0ZtSmFZTWxYZmcSBBoCCAAa-gUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDUBQgAEAAYACAAKisKBGJlc3QV69FgQBoKY29tcGFyaXNvbhoEZ29vZBoDdG9wGgdiZXN0Y3JtKkwKA2NybRUW-9RAGiBjdXN0b21lciByZWxhdGlvbnNoaXAgbWFuYWdlbWVudBoHYmVzdGNybRoLY3Jtc29mdHdhcmUaCGl2O3A7Y3JtKjwKCHNvZnR3YXJlFVv4EUAaDGFwcGxpY2F0aW9ucxoHcHJvZ3JhbRoHc3lzdGVtcxoLY3Jtc29mdHdhcmUqCgoDZm9yFQAAAAAqMgoFc21hbGwV25SRQBoHc21hbGxlchoEc21lcxoEdGlueRoPc21hbGxidXNpbmVzc2VzKkQKCmJ1c2luZXNzZXMVvpVrQBoDYml6GghidXNpbmVzcxoLZW50ZXJwcmlzZXMaBHNtZXMaD3NtYWxsYnVzaW5lc3NlczKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZOUjJldm9DWTRjNXBPSDlya2VZWkVZMjV3TmZqYW5YT3c5blpQVTZodFlBemtzS29sRHFydWFCWl84NWFkRjFWaVRHNzBPMkNUQlJ6MHdSMmNlSUxJSjVBMzZ3QUV2MnFESEJQcDFZdFFHX3djcXBKTTVwM2JWY3hsSFZRSkpQVjdGbUphWU1sWGZnOjhUaGUgPGI-QmVzdCBDUk0gU29mdHdhcmUgZm9yIFNtYWxsIEJ1c2luZXNzZXM8L2I-IC0gWm9ob0KiATxiPlpvaG8gQ1JNPC9iPiB0aGUgYmVzdCBjaG9pY2UgZm9yIHNtYWxsIGJ1c2luZXNzZXM_IEVhc3kgdG8gdXNlLiBDUk0gY29tZXMgd2l0aCBhIHN0cmVhbWxpbmVkLCBlYXN5LXRvLXVzZSBpbnRlcmZhY2UgdGhhdCBjYW4gaGVscCB5b3Ugc3RhcnQgc2VsbGluZyBpbiBubyB0aW1lLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Zoho"
+    },
+    {
+      "position": 3,
+      "title": "Best CRM for Small Business in 2026",
+      "link": "https://slack.com/blog/crm/best-crm-for-small-business",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVZ5IFecZRNkbTsanLj4tCjHdtrLUzFVXm7HFxQLV2yT-fWT00JVtpzxt5dbeQX-uijqesJs-f7UawOdzOBbjQPJk5fU2BTbVctybqaTC0Nq5hZgu4lNjumw3gjv2Q-MlOJsY6NQxiAHhq&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://slack.com › blog › best-crm-for-small-business",
+      "favicon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAAAwCQCdASogAB8APrUurVanIacnG_DgFolsALElQX4BpBKM8VjgAbYDxAP1uwADpWHkAglNYY9dKJDxUKKyjmAR-8WdnHMKCZFOAZwGs_tBbtWAAP74suPDiqsULqYzQDyb3pv0I7HDfpbYjNI05zFMar8SeRD09ecHtSeGWz30lYRA0jpGePZ7bthEWv1_NYTd6sM0AWPs2r2qWqtMW_-y2qoV6AbahnbGzbfKP8Z26Z1XgNn2n_hNzd2t5nWovB9TOmv5MxHr41hXT1LTFDYvgzDult5K2v7nlzlp1kKHYiBsOl91OZib_jX8arblafPVNGk6a8cahNr-HfcOI6LnwyaQMRpWna1XCcodJ8heVt5noQgGOKzvtr8D-_W4Q6dP0WMI-1nU3KMsmeJL-5LDd-J--fAq_i_ftvWP_OdTY7-O1lxyIO3JFAp9Ihp_nkB9pX9X-Z73ZjyT4WgqcS-XQ7Ax03hcm_92rmp3Nvfh7UcFULfowX3UAAA.webp",
+      "snippet": "Insightly CRM helps small businesses manage customers, sales, and projects in one hub. The CRM suite is adaptable, customizable, and grows with your business.",
+      "snippet_highlighted_words": [
+        "Insightly CRM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Insightly CRM helps small businesses manage customers, sales, and projects in one hub. The CRM suite is adaptable, customizable, and grows with your business.",
+          "source_info_link": "https://slack.com/blog/crm/best-crm-for-small-business",
+          "icon": "https://serpapi.com/images/i/UklGRoYBAABXRUJQVlA4IHoBAAAwCQCdASogAB8APrUurVanIacnG_DgFolsALElQX4BpBKM8VjgAbYDxAP1uwADpWHkAglNYY9dKJDxUKKyjmAR-8WdnHMKCZFOAZwGs_tBbtWAAP74suPDiqsULqYzQDyb3pv0I7HDfpbYjNI05zFMar8SeRD09ecHtSeGWz30lYRA0jpGePZ7bthEWv1_NYTd6sM0AWPs2r2qWqtMW_-y2qoV6AbahnbGzbfKP8Z26Z1XgNn2n_hNzd2t5nWovB9TOmv5MxHr41hXT1LTFDYvgzDult5K2v7nlzlp1kKHYiBsOl91OZib_jX8arblafPVNGk6a8cahNr-HfcOI6LnwyaQMRpWna1XCcodJ8heVt5noQgGOKzvtr8D-_W4Q6dP0WMI-1nU3KMsmeJL-5LDd-J--fAq_i_ftvWP_OdTY7-O1lxyIO3JFAp9Ihp_nkB9pX9X-Z73ZjyT4WgqcS-XQ7Ax03hcm_92rmp3Nvfh7UcFULfowX3UAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVlo1SUZlY1pSTmtiVHNhbkxqNHRDakhkdHJMVXpGVlhtN0hGeFFMVjJ5VC1mV1QwMEpWdHB6eHQ1ZGJlUVgtdWlqcWVzSnMtZjdVYXdPZHpPQmJqUVBKazVmVTJCVGJWY3R5YnFhVEMwTnE1aFpndTRsTmp1bXczZ2p2MlEtTWxPSnNZNk5ReGlBSGhxEgQaAggAGv8FEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2QUIABAAGAAgACorCgRiZXN0FVokeUAaCmNvbXBhcmlzb24aBGdvb2QaA3RvcBoHYmVzdGNybSpMCgNjcm0VghCxQBogY3VzdG9tZXIgcmVsYXRpb25zaGlwIG1hbmFnZW1lbnQaB2Jlc3Rjcm0aC2NybXNvZnR3YXJlGghpdjtwO2NybSo8Cghzb2Z0d2FyZRW9yIo_GgxhcHBsaWNhdGlvbnMaB3Byb2dyYW0aB3N5c3RlbXMaC2NybXNvZnR3YXJlKgoKA2ZvchUAAAAAKjIKBXNtYWxsFTgspUAaB3NtYWxsZXIaBHNtZXMaBHRpbnkaD3NtYWxsYnVzaW5lc3NlcypECgpidXNpbmVzc2VzFZG2yz8aA2JpehoIYnVzaW5lc3MaC2VudGVycHJpc2VzGgRzbWVzGg9zbWFsbGJ1c2luZXNzZXMyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWWjVJRmVjWlJOa2JUc2FuTGo0dENqSGR0ckxVekZWWG03SEZ4UUxWMnlULWZXVDAwSlZ0cHp4dDVkYmVRWC11aWpxZXNKcy1mN1Vhd09kek9CYmpRUEprNWZVMkJUYlZjdHlicWFUQzBOcTVoWmd1NGxOanVtdzNnanYyUS1NbE9Kc1k2TlF4aUFIaHE6OTxiPkJlc3QgQ1JNPC9iPiBmb3IgPGI-U21hbGwgQnVzaW5lc3M8L2I-IGluIDIwMjYgLSBTbGFja0KlATxiPkluc2lnaHRseSBDUk08L2I-IGhlbHBzIHNtYWxsIGJ1c2luZXNzZXMgbWFuYWdlIGN1c3RvbWVycywgc2FsZXMsIGFuZCBwcm9qZWN0cyBpbiBvbmUgaHViLiBUaGUgQ1JNIHN1aXRlIGlzIGFkYXB0YWJsZSwgY3VzdG9taXphYmxlLCBhbmQgZ3Jvd3Mgd2l0aCB5b3VyIGJ1c2luZXNzLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVlo1SUZlY1pSTmtiVHNhbkxqNHRDakhkdHJMVXpGVlhtN0hGeFFMVjJ5VC1mV1QwMEpWdHB6eHQ1ZGJlUVgtdWlqcWVzSnMtZjdVYXdPZHpPQmJqUVBKazVmVTJCVGJWY3R5YnFhVEMwTnE1aFpndTRsTmp1bXczZ2p2MlEtTWxPSnNZNk5ReGlBSGhxEgQaAggAGv8FEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2QUIABAAGAAgACorCgRiZXN0FVokeUAaCmNvbXBhcmlzb24aBGdvb2QaA3RvcBoHYmVzdGNybSpMCgNjcm0VghCxQBogY3VzdG9tZXIgcmVsYXRpb25zaGlwIG1hbmFnZW1lbnQaB2Jlc3Rjcm0aC2NybXNvZnR3YXJlGghpdjtwO2NybSo8Cghzb2Z0d2FyZRW9yIo_GgxhcHBsaWNhdGlvbnMaB3Byb2dyYW0aB3N5c3RlbXMaC2NybXNvZnR3YXJlKgoKA2ZvchUAAAAAKjIKBXNtYWxsFTgspUAaB3NtYWxsZXIaBHNtZXMaBHRpbnkaD3NtYWxsYnVzaW5lc3NlcypECgpidXNpbmVzc2VzFZG2yz8aA2JpehoIYnVzaW5lc3MaC2VudGVycHJpc2VzGgRzbWVzGg9zbWFsbGJ1c2luZXNzZXMyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWWjVJRmVjWlJOa2JUc2FuTGo0dENqSGR0ckxVekZWWG03SEZ4UUxWMnlULWZXVDAwSlZ0cHp4dDVkYmVRWC11aWpxZXNKcy1mN1Vhd09kek9CYmpRUEprNWZVMkJUYlZjdHlicWFUQzBOcTVoWmd1NGxOanVtdzNnanYyUS1NbE9Kc1k2TlF4aUFIaHE6OTxiPkJlc3QgQ1JNPC9iPiBmb3IgPGI-U21hbGwgQnVzaW5lc3M8L2I-IGluIDIwMjYgLSBTbGFja0KlATxiPkluc2lnaHRseSBDUk08L2I-IGhlbHBzIHNtYWxsIGJ1c2luZXNzZXMgbWFuYWdlIGN1c3RvbWVycywgc2FsZXMsIGFuZCBwcm9qZWN0cyBpbiBvbmUgaHViLiBUaGUgQ1JNIHN1aXRlIGlzIGFkYXB0YWJsZSwgY3VzdG9taXphYmxlLCBhbmQgZ3Jvd3Mgd2l0aCB5b3VyIGJ1c2luZXNzLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Slack",
+      "read_more_link": "https://slack.com/blog/crm/best-crm-for-small-business#:~:text=Insightly%20CRM%20helps%20small%20businesses,and%20grows%20with%20your%20business."
+    },
+    {
+      "position": 4,
+      "title": "10 Free or Low-Cost CRM Tools for Small Businesses",
+      "link": "https://www.uschamber.com/co/start/strategy/low-cost-crm-tools",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVoHNkKyGlU69tYeRearqdB1USQJ9t5g3543d1hX4pnlU4t3QM3HRgQOvGXKkaPpyqlLL_vctgCsjH4vVBR32e33PUESraIr9WsOvSXrgbwMa74b3JM7l03K09AMuAWe117Mw6QVhoGCinKM0T9mF7YKI&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.uschamber.com › Start › Strategy",
+      "favicon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAAAQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhIF_qu8lOT1AOeqsmB8n1gTnX-p3AAONsn5cEyo8Fm0n0PRSYgZJjCo2Cu3AAP7yoZospeINYCZdavCgzlOcHN_Y84LQvIiMI6edQgCPpVXtQk3SdKrhGpBhph7LQ9-lVywrnHMi_xY0rvkiuoxAwOWV66gZVbPRvMGK5gzh8lcQ7H9q3lu6SOomP5fXB7UslpRD6M793T7RmnJMw8O0HbGIGaTOIKGcEn84AAsMSsckCXvVLFiWFsl9KVcxj7hM50lzUzhS4ZYFDG4yKe_9hLDd53XpymkF1m-bXxTTIAx-pnaQFd8zWGa3D-tfSgYtS2f4WbXRDxCYnVno3ujNdXPH2QAAAA.webp",
+      "date": "Aug 25, 2026",
+      "snippet": "Monday CRM: Best for small sales and marketing teams. For small businesses with three or more users, Monday CRM offers customizable templates ...",
+      "snippet_highlighted_words": [
+        "Monday CRM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Monday CRM: Best for small sales and marketing teams. For small businesses with three or more users, Monday CRM offers customizable templates ...",
+          "source_info_link": "https://www.uschamber.com/co/start/strategy/low-cost-crm-tools",
+          "icon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAAAQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhIF_qu8lOT1AOeqsmB8n1gTnX-p3AAONsn5cEyo8Fm0n0PRSYgZJjCo2Cu3AAP7yoZospeINYCZdavCgzlOcHN_Y84LQvIiMI6edQgCPpVXtQk3SdKrhGpBhph7LQ9-lVywrnHMi_xY0rvkiuoxAwOWV66gZVbPRvMGK5gzh8lcQ7H9q3lu6SOomP5fXB7UslpRD6M793T7RmnJMw8O0HbGIGaTOIKGcEn84AAsMSsckCXvVLFiWFsl9KVcxj7hM50lzUzhS4ZYFDG4yKe_9hLDd53XpymkF1m-bXxTTIAx-pnaQFd8zWGa3D-tfSgYtS2f4WbXRDxCYnVno3ujNdXPH2QAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVm9ITmtLeUdsVTY5dFllUmVhcnFkQjFVU1FKOXQ1ZzM1NDNkMWhYNHBubFU0dDNRTTNIUmdRT3ZHWEtrYVBweXFsTExfdmN0Z0Nzakg0dlZCUjMyZTMzUFVFU3JhSXI5V3NPdlNYcmdid01hNzRiM0pNN2wwM0swOUFNdUFXZTExN013NlFWaG9HQ2luS00wVDltRjdZS0kSBBoCCAAaiQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDjBQgAEAAYACAAKisKBGJlc3QVtKpVQBoKY29tcGFyaXNvbhoEZ29vZBoDdG9wGgdiZXN0Y3JtKkwKA2NybRVzN9RAGiBjdXN0b21lciByZWxhdGlvbnNoaXAgbWFuYWdlbWVudBoHYmVzdGNybRoLY3Jtc29mdHdhcmUaCGl2O3A7Y3JtKjwKCHNvZnR3YXJlFWErHEAaDGFwcGxpY2F0aW9ucxoHcHJvZ3JhbRoHc3lzdGVtcxoLY3Jtc29mdHdhcmUqCgoDZm9yFQAAAAAqMgoFc21hbGwV2JGhQBoHc21hbGxlchoEc21lcxoEdGlueRoPc21hbGxidXNpbmVzc2VzKkQKCmJ1c2luZXNzZXMVr6kWQBoDYml6GghidXNpbmVzcxoLZW50ZXJwcmlzZXMaBHNtZXMaD3NtYWxsYnVzaW5lc3NlczKtAS9nb3RvP3VybD1DQUVTZGdIck96QVZvSE5rS3lHbFU2OXRZZVJlYXJxZEIxVVNRSjl0NWczNTQzZDFoWDRwbmxVNHQzUU0zSFJnUU92R1hLa2FQcHlxbExMX3ZjdGdDc2pINHZWQlIzMmUzM1BVRVNyYUlyOVdzT3ZTWHJnYndNYTc0YjNKTTdsMDNLMDlBTXVBV2UxMTdNdzZRVmhvR0NpbktNMFQ5bUY3WUtJOkAxMCBGcmVlIG9yIExvdy1Db3N0IDxiPkNSTTwvYj4gVG9vbHMgZm9yIDxiPlNtYWxsIEJ1c2luZXNzZXM8L2I-Qp0BPGI-TW9uZGF5IENSTTwvYj46IEJlc3QgZm9yIHNtYWxsIHNhbGVzIGFuZCBtYXJrZXRpbmcgdGVhbXMuIEZvciBzbWFsbCBidXNpbmVzc2VzIHdpdGggdGhyZWUgb3IgbW9yZSB1c2VycywgTW9uZGF5IENSTSBvZmZlcnMgY3VzdG9taXphYmxlIHRlbXBsYXRlcyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVm9ITmtLeUdsVTY5dFllUmVhcnFkQjFVU1FKOXQ1ZzM1NDNkMWhYNHBubFU0dDNRTTNIUmdRT3ZHWEtrYVBweXFsTExfdmN0Z0Nzakg0dlZCUjMyZTMzUFVFU3JhSXI5V3NPdlNYcmdid01hNzRiM0pNN2wwM0swOUFNdUFXZTExN013NlFWaG9HQ2luS00wVDltRjdZS0kSBBoCCAAaiQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDjBQgAEAAYACAAKisKBGJlc3QVtKpVQBoKY29tcGFyaXNvbhoEZ29vZBoDdG9wGgdiZXN0Y3JtKkwKA2NybRVzN9RAGiBjdXN0b21lciByZWxhdGlvbnNoaXAgbWFuYWdlbWVudBoHYmVzdGNybRoLY3Jtc29mdHdhcmUaCGl2O3A7Y3JtKjwKCHNvZnR3YXJlFWErHEAaDGFwcGxpY2F0aW9ucxoHcHJvZ3JhbRoHc3lzdGVtcxoLY3Jtc29mdHdhcmUqCgoDZm9yFQAAAAAqMgoFc21hbGwV2JGhQBoHc21hbGxlchoEc21lcxoEdGlueRoPc21hbGxidXNpbmVzc2VzKkQKCmJ1c2luZXNzZXMVr6kWQBoDYml6GghidXNpbmVzcxoLZW50ZXJwcmlzZXMaBHNtZXMaD3NtYWxsYnVzaW5lc3NlczKtAS9nb3RvP3VybD1DQUVTZGdIck96QVZvSE5rS3lHbFU2OXRZZVJlYXJxZEIxVVNRSjl0NWczNTQzZDFoWDRwbmxVNHQzUU0zSFJnUU92R1hLa2FQcHlxbExMX3ZjdGdDc2pINHZWQlIzMmUzM1BVRVNyYUlyOVdzT3ZTWHJnYndNYTc0YjNKTTdsMDNLMDlBTXVBV2UxMTdNdzZRVmhvR0NpbktNMFQ5bUY3WUtJOkAxMCBGcmVlIG9yIExvdy1Db3N0IDxiPkNSTTwvYj4gVG9vbHMgZm9yIDxiPlNtYWxsIEJ1c2luZXNzZXM8L2I-Qp0BPGI-TW9uZGF5IENSTTwvYj46IEJlc3QgZm9yIHNtYWxsIHNhbGVzIGFuZCBtYXJrZXRpbmcgdGVhbXMuIEZvciBzbWFsbCBidXNpbmVzc2VzIHdpdGggdGhyZWUgb3IgbW9yZSB1c2VycywgTW9uZGF5IENSTSBvZmZlcnMgY3VzdG9taXphYmxlIHRlbXBsYXRlcyZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "US Chamber",
+      "read_more_link": "https://www.uschamber.com/co/start/strategy/low-cost-crm-tools#:~:text=Monday%20CRM%3A%20Best%20for%20small,unlimited%20sales%20pipelines%20and%20boards."
+    },
+    {
+      "position": 5,
+      "title": "Best CRM for Small Business: 2026 Guide - Faye Digital",
+      "link": "https://fayedigital.com/blog/best-crm-for-small-business/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVgGIcxDgxamO_dRbuffFDqJn8F0H6z9SzhWT3tRcY1JZTm22gNrfhMaYMEbc-Ag78pTJ9GkTcJ4LKbGVpGBcQW0u3RT9jtHGRCcsMQDDSIlc8cD-BObI0nc38WMufDvr0pzjTn8yNw_TuHcx5&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://fayedigital.com › blog › best-crm-for-small-busi...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAh0lEQVR4AWJguX8M0EsdYAAMwwAU7e0Gw44yoEAxdpyesSs-ATpIPz4CeQEZYrWY2HGfpZgYoIcBKpgAgjkgmAU2lhsgWAL4zq5lYFngtVrCQV0BwYYABiaAgQlgYAIY2HYQ7GHeDwbmgG3Wf6o5IB8kq-JhgB4G6GGAHgboYYAeBuhhgBpGH6UCsfJ6pGv9AAAAAElFTkSuQmCC.png",
+      "date": "Sep 30, 2025",
+      "snippet": "Compare the best CRMs for small business: Salesforce, HubSpot, Pipedrive, and Sugar — plus the features that matter and how to choose.",
+      "snippet_highlighted_words": [
+        "best",
+        "small business"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Compare the best CRMs for small business: Salesforce, HubSpot, Pipedrive, and Sugar — plus the features that matter and how to choose.",
+          "source_info_link": "https://fayedigital.com/blog/best-crm-for-small-business/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAh0lEQVR4AWJguX8M0EsdYAAMwwAU7e0Gw44yoEAxdpyesSs-ATpIPz4CeQEZYrWY2HGfpZgYoIcBKpgAgjkgmAU2lhsgWAL4zq5lYFngtVrCQV0BwYYABiaAgQlgYAIY2HYQ7GHeDwbmgG3Wf6o5IB8kq-JhgB4G6GGAHgboYYAeBuhhgBpGH6UCsfJ6pGv9AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmdHSWN4RGd4YW1PX2RSYnVmZkZEcUpuOEYwSDZ6OVN6aFdUM3RSY1kxSlpUbTIyZ05yZmhNYVlNRWJjLUFnNzhwVEo5R2tUY0o0TEtiR1ZwR0JjUVcwdTNSVDlqdEhHUkNjc01RRERTSWxjOGNELUJPYkkwbmMzOFdNdWZEdnIwcHpqVG44eU53X1R1SGN4NRIEGgIIABr_BRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNkFCAAQABgAIAAqKwoEYmVzdBUU1L9AGgpjb21wYXJpc29uGgRnb29kGgN0b3AaB2Jlc3Rjcm0qTAoDY3JtFYJ85EAaIGN1c3RvbWVyIHJlbGF0aW9uc2hpcCBtYW5hZ2VtZW50GgdiZXN0Y3JtGgtjcm1zb2Z0d2FyZRoIaXY7cDtjcm0qPAoIc29mdHdhcmUVhbE6QBoMYXBwbGljYXRpb25zGgdwcm9ncmFtGgdzeXN0ZW1zGgtjcm1zb2Z0d2FyZSoKCgNmb3IVAAAAACoyCgVzbWFsbBXgo9dAGgdzbWFsbGVyGgRzbWVzGgR0aW55Gg9zbWFsbGJ1c2luZXNzZXMqRAoKYnVzaW5lc3NlcxVTEgRAGgNiaXoaCGJ1c2luZXNzGgtlbnRlcnByaXNlcxoEc21lcxoPc21hbGxidXNpbmVzc2VzMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmdHSWN4RGd4YW1PX2RSYnVmZkZEcUpuOEYwSDZ6OVN6aFdUM3RSY1kxSlpUbTIyZ05yZmhNYVlNRWJjLUFnNzhwVEo5R2tUY0o0TEtiR1ZwR0JjUVcwdTNSVDlqdEhHUkNjc01RRERTSWxjOGNELUJPYkkwbmMzOFdNdWZEdnIwcHpqVG44eU53X1R1SGN4NTpEPGI-QmVzdCBDUk08L2I-IGZvciA8Yj5TbWFsbCBCdXNpbmVzczwvYj46IDIwMjYgR3VpZGUgLSBGYXllIERpZ2l0YWxClgFDb21wYXJlIHRoZSA8Yj5iZXN0PC9iPiBDUk1zIGZvciA8Yj5zbWFsbCBidXNpbmVzczwvYj46IFNhbGVzZm9yY2UsIEh1YlNwb3QsIFBpcGVkcml2ZSwgYW5kIFN1Z2FyIOKAlCBwbHVzIHRoZSBmZWF0dXJlcyB0aGF0IG1hdHRlciBhbmQgaG93IHRvIGNob29zZS5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmdHSWN4RGd4YW1PX2RSYnVmZkZEcUpuOEYwSDZ6OVN6aFdUM3RSY1kxSlpUbTIyZ05yZmhNYVlNRWJjLUFnNzhwVEo5R2tUY0o0TEtiR1ZwR0JjUVcwdTNSVDlqdEhHUkNjc01RRERTSWxjOGNELUJPYkkwbmMzOFdNdWZEdnIwcHpqVG44eU53X1R1SGN4NRIEGgIIABr_BRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNkFCAAQABgAIAAqKwoEYmVzdBUU1L9AGgpjb21wYXJpc29uGgRnb29kGgN0b3AaB2Jlc3Rjcm0qTAoDY3JtFYJ85EAaIGN1c3RvbWVyIHJlbGF0aW9uc2hpcCBtYW5hZ2VtZW50GgdiZXN0Y3JtGgtjcm1zb2Z0d2FyZRoIaXY7cDtjcm0qPAoIc29mdHdhcmUVhbE6QBoMYXBwbGljYXRpb25zGgdwcm9ncmFtGgdzeXN0ZW1zGgtjcm1zb2Z0d2FyZSoKCgNmb3IVAAAAACoyCgVzbWFsbBXgo9dAGgdzbWFsbGVyGgRzbWVzGgR0aW55Gg9zbWFsbGJ1c2luZXNzZXMqRAoKYnVzaW5lc3NlcxVTEgRAGgNiaXoaCGJ1c2luZXNzGgtlbnRlcnByaXNlcxoEc21lcxoPc21hbGxidXNpbmVzc2VzMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmdHSWN4RGd4YW1PX2RSYnVmZkZEcUpuOEYwSDZ6OVN6aFdUM3RSY1kxSlpUbTIyZ05yZmhNYVlNRWJjLUFnNzhwVEo5R2tUY0o0TEtiR1ZwR0JjUVcwdTNSVDlqdEhHUkNjc01RRERTSWxjOGNELUJPYkkwbmMzOFdNdWZEdnIwcHpqVG44eU53X1R1SGN4NTpEPGI-QmVzdCBDUk08L2I-IGZvciA8Yj5TbWFsbCBCdXNpbmVzczwvYj46IDIwMjYgR3VpZGUgLSBGYXllIERpZ2l0YWxClgFDb21wYXJlIHRoZSA8Yj5iZXN0PC9iPiBDUk1zIGZvciA8Yj5zbWFsbCBidXNpbmVzczwvYj46IFNhbGVzZm9yY2UsIEh1YlNwb3QsIFBpcGVkcml2ZSwgYW5kIFN1Z2FyIOKAlCBwbHVzIHRoZSBmZWF0dXJlcyB0aGF0IG1hdHRlciBhbmQgaG93IHRvIGNob29zZS5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "fayedigital.com"
+    },
+    {
+      "position": 6,
+      "title": "The 11 Best CRMs for Small Business in 2026",
+      "link": "https://zapier.com/blog/best-crms-for-small-business/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAV2adoFXg2XirmQKRBmpNt8KErQhxUEhE6v7u4quDBOYykXLFQ6eYcynHYeyofKnlb03jqoxuz00Kng7tj3nmOyobA8mNRxLwIfBhkqEh67lMXZHYfQ842W7GsbmKB2-bgeYrFDKJ2h9s&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://zapier.com › App picks › Best apps",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcAQMAAABIw03XAAAAA1BMVEX_TwBuA1r9AAAAC0lEQVR4AWMYRAAAAIwAASLW8i0AAAAASUVORK5CYII.png",
+      "date": "Jul 3, 2026",
+      "snippet": "Vtiger for an all-in-one CRM for product-based businesses. Flowlu for an all-in-one CRM for service-based businesses. Zoho CRM for scaling ...",
+      "snippet_highlighted_words": [
+        "Vtiger for an all-in-one CRM for product-based businesses"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Vtiger for an all-in-one CRM for product-based businesses. Flowlu for an all-in-one CRM for service-based businesses. Zoho CRM for scaling ...",
+          "source_info_link": "https://zapier.com/blog/best-crms-for-small-business/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcAQMAAABIw03XAAAAA1BMVEX_TwBuA1r9AAAAC0lEQVR4AWMYRAAAAIwAASLW8i0AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVjJhZG9GWGcyWGlybVFLUkJtcE50OEtFclFoeFVFaEU2djd1NHF1REJPWXlrWExGUTZlWWN5bkhZZXlvZktubGIwM2pxb3h1ejAwS25nN3RqM25tT3lvYkE4bU5SeEx3SWZCaGtxRWg2N2xNWFpIWWZRODQyVzdHc2JtS0IyLWJnZVlyRkRLSjJoOXMSBBoCCAAa_AUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDWBQgAEAAYACAAKisKBGJlc3QVeDN7QBoKY29tcGFyaXNvbhoEZ29vZBoDdG9wGgdiZXN0Y3JtKkwKA2NybRWNyApAGiBjdXN0b21lciByZWxhdGlvbnNoaXAgbWFuYWdlbWVudBoHYmVzdGNybRoLY3Jtc29mdHdhcmUaCGl2O3A7Y3JtKjwKCHNvZnR3YXJlFVwJxD8aDGFwcGxpY2F0aW9ucxoHcHJvZ3JhbRoHc3lzdGVtcxoLY3Jtc29mdHdhcmUqCgoDZm9yFQAAAAAqMgoFc21hbGwVjuiIQBoHc21hbGxlchoEc21lcxoEdGlueRoPc21hbGxidXNpbmVzc2VzKkQKCmJ1c2luZXNzZXMVBr-2PxoDYml6GghidXNpbmVzcxoLZW50ZXJwcmlzZXMaBHNtZXMaD3NtYWxsYnVzaW5lc3NlczKhAS9nb3RvP3VybD1DQUVTYlFIck96QVYyYWRvRlhnMlhpcm1RS1JCbXBOdDhLRXJRaHhVRWhFNnY3dTRxdURCT1l5a1hMRlE2ZVljeW5IWWV5b2ZLbmxiMDNqcW94dXowMEtuZzd0ajNubU95b2JBOG1OUnhMd0lmQmhrcUVoNjdsTVhaSFlmUTg0Mlc3R3NibUtCMi1iZ2VZckZES0oyaDlzOkJUaGUgMTEgPGI-QmVzdDwvYj4gQ1JNcyBmb3IgPGI-U21hbGwgQnVzaW5lc3M8L2I-IGluIDIwMjYgLSBaYXBpZXJCmgE8Yj5WdGlnZXIgZm9yIGFuIGFsbC1pbi1vbmUgQ1JNIGZvciBwcm9kdWN0LWJhc2VkIGJ1c2luZXNzZXM8L2I-LiBGbG93bHUgZm9yIGFuIGFsbC1pbi1vbmUgQ1JNIGZvciBzZXJ2aWNlLWJhc2VkIGJ1c2luZXNzZXMuIFpvaG8gQ1JNIGZvciBzY2FsaW5nJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVjJhZG9GWGcyWGlybVFLUkJtcE50OEtFclFoeFVFaEU2djd1NHF1REJPWXlrWExGUTZlWWN5bkhZZXlvZktubGIwM2pxb3h1ejAwS25nN3RqM25tT3lvYkE4bU5SeEx3SWZCaGtxRWg2N2xNWFpIWWZRODQyVzdHc2JtS0IyLWJnZVlyRkRLSjJoOXMSBBoCCAAa_AUSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDWBQgAEAAYACAAKisKBGJlc3QVeDN7QBoKY29tcGFyaXNvbhoEZ29vZBoDdG9wGgdiZXN0Y3JtKkwKA2NybRWNyApAGiBjdXN0b21lciByZWxhdGlvbnNoaXAgbWFuYWdlbWVudBoHYmVzdGNybRoLY3Jtc29mdHdhcmUaCGl2O3A7Y3JtKjwKCHNvZnR3YXJlFVwJxD8aDGFwcGxpY2F0aW9ucxoHcHJvZ3JhbRoHc3lzdGVtcxoLY3Jtc29mdHdhcmUqCgoDZm9yFQAAAAAqMgoFc21hbGwVjuiIQBoHc21hbGxlchoEc21lcxoEdGlueRoPc21hbGxidXNpbmVzc2VzKkQKCmJ1c2luZXNzZXMVBr-2PxoDYml6GghidXNpbmVzcxoLZW50ZXJwcmlzZXMaBHNtZXMaD3NtYWxsYnVzaW5lc3NlczKhAS9nb3RvP3VybD1DQUVTYlFIck96QVYyYWRvRlhnMlhpcm1RS1JCbXBOdDhLRXJRaHhVRWhFNnY3dTRxdURCT1l5a1hMRlE2ZVljeW5IWWV5b2ZLbmxiMDNqcW94dXowMEtuZzd0ajNubU95b2JBOG1OUnhMd0lmQmhrcUVoNjdsTVhaSFlmUTg0Mlc3R3NibUtCMi1iZ2VZckZES0oyaDlzOkJUaGUgMTEgPGI-QmVzdDwvYj4gQ1JNcyBmb3IgPGI-U21hbGwgQnVzaW5lc3M8L2I-IGluIDIwMjYgLSBaYXBpZXJCmgE8Yj5WdGlnZXIgZm9yIGFuIGFsbC1pbi1vbmUgQ1JNIGZvciBwcm9kdWN0LWJhc2VkIGJ1c2luZXNzZXM8L2I-LiBGbG93bHUgZm9yIGFuIGFsbC1pbi1vbmUgQ1JNIGZvciBzZXJ2aWNlLWJhc2VkIGJ1c2luZXNzZXMuIFpvaG8gQ1JNIGZvciBzY2FsaW5nJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "Zapier",
+      "read_more_link": "https://zapier.com/blog/best-crms-for-small-business/#:~:text=Vtiger%20for%20an%20all%2Din%2Done%20CRM,CRM%20for%20scaling%20your%20business"
+    },
+    {
+      "position": 7,
+      "title": "10 Best CRM Software for Small Business 2026",
+      "link": "https://routine-automation.com/blog/best-crm-for-small-business/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVTyMX_klULVpyUXbkcJjWuELj6AED2TAUzlgLorWCa5ceSnF5SDhDapvdsA52Rvnq8jNO1xg7l3-0t8uSxLrC532BvJ6i5VWrSQJlP7Tzk6qG_va8I4RArp75trbOyScxw8at8pGaue8KmAkVfC3W3pSsig&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://routine-automation.com › blog",
+      "favicon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAADQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIt85MK8D26mPLdLilqZgVvBikgm9mXGhb84zWfbv6QAAA_vYTQmMAraiO5znZ6X5DgI31iRJhJoRpT8VCLettoT5jEGp6n9igCIveuwfHxtiJKyEzf1opRXfEPQrEKG7LRO-ZgUxOLyvoWJ4UK2OBj_7iN0xge-NzMsyxMSpa-YAc3uuhJLg8-kSV_uDgh3fy_7S_ZlAcrXvAyTnrgpHpk77KYVgWrQJMKX1TDMGCfgcR40Tl0CZWP3QBEf-uN63-NihVUR-qeNfidUMgSRbPLN722gPz9gBPai5rRCNaDd6UYeUVGS3FrabDR_L6cDcCKl-i0tUTzubd-AM4MNS3x3r4VBdYis4H1YobOBywuOPoAAA.webp",
+      "date": "Apr 28, 2026",
+      "snippet": "Top 10 Best CRM Software for Small Business · 1. HubSpot CRM: Best Free All-in-One Starter · 2. Pipedrive: Best for Sales Teams · 3. Zoho CRM: ...",
+      "snippet_highlighted_words": [
+        "1. HubSpot CRM: Best Free All-in-One Starter"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 62
+          },
+          "extensions": [
+            "4.9(62)"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Top 10 Best CRM Software for Small Business · 1. HubSpot CRM: Best Free All-in-One Starter · 2. Pipedrive: Best for Sales Teams · 3. Zoho CRM: ...",
+          "source_info_link": "https://routine-automation.com/blog/best-crm-for-small-business/",
+          "icon": "https://serpapi.com/images/i/UklGRj4BAABXRUJQVlA4IDIBAADQBgCdASocABwAPtEutFooIagoGAEAGglsAJ0y1ThIt85MK8D26mPLdLilqZgVvBikgm9mXGhb84zWfbv6QAAA_vYTQmMAraiO5znZ6X5DgI31iRJhJoRpT8VCLettoT5jEGp6n9igCIveuwfHxtiJKyEzf1opRXfEPQrEKG7LRO-ZgUxOLyvoWJ4UK2OBj_7iN0xge-NzMsyxMSpa-YAc3uuhJLg8-kSV_uDgh3fy_7S_ZlAcrXvAyTnrgpHpk77KYVgWrQJMKX1TDMGCfgcR40Tl0CZWP3QBEf-uN63-NihVUR-qeNfidUMgSRbPLN722gPz9gBPai5rRCNaDd6UYeUVGS3FrabDR_L6cDcCKl-i0tUTzubd-AM4MNS3x3r4VBdYis4H1YobOBywuOPoAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlR5TVhfa2xVTFZweVVYYmtjSmpXdUVMajZBRUQyVEFVemxnTG9yV0NhNWNlU25GNVNEaERhcHZkc0E1MlJ2bnE4ak5PMXhnN2wzLTB0OHVTeExyQzUzMkJ2SjZpNVZXclNRSmxQN1R6azZxR192YThJNFJBcnA3NXRyYk95U2N4dzhhdDhwR2F1ZThLbUFrVmZDM1czcFNzaWcSBBoCCAAalQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDvBQgAEAAYACAAKisKBGJlc3QVy80AQRoKY29tcGFyaXNvbhoEZ29vZBoDdG9wGgdiZXN0Y3JtKkwKA2NybRWPGQNBGiBjdXN0b21lciByZWxhdGlvbnNoaXAgbWFuYWdlbWVudBoHYmVzdGNybRoLY3Jtc29mdHdhcmUaCGl2O3A7Y3JtKjwKCHNvZnR3YXJlFdJq8EAaDGFwcGxpY2F0aW9ucxoHcHJvZ3JhbRoHc3lzdGVtcxoLY3Jtc29mdHdhcmUqCgoDZm9yFQAAAAAqMgoFc21hbGwVsjwAQRoHc21hbGxlchoEc21lcxoEdGlueRoPc21hbGxidXNpbmVzc2VzKkQKCmJ1c2luZXNzZXMV_87GPxoDYml6GghidXNpbmVzcxoLZW50ZXJwcmlzZXMaBHNtZXMaD3NtYWxsYnVzaW5lc3NlczKwAS9nb3RvP3VybD1DQUVTZUFIck96QVZUeU1YX2tsVUxWcHlVWGJrY0pqV3VFTGo2QUVEMlRBVXpsZ0xvcldDYTVjZVNuRjVTRGhEYXB2ZHNBNTJSdm5xOGpOTzF4ZzdsMy0wdDh1U3hMckM1MzJCdko2aTVWV3JTUUpsUDdUems2cUdfdmE4STRSQXJwNzV0cmJPeVNjeHc4YXQ4cEdhdWU4S21Ba1ZmQzNXM3BTc2lnOjMxMCA8Yj5CZXN0IENSTSBTb2Z0d2FyZSBmb3IgU21hbGwgQnVzaW5lc3M8L2I-IDIwMjZCswFUb3AgMTAgQmVzdCBDUk0gU29mdHdhcmUgZm9yIFNtYWxsIEJ1c2luZXNzICZtaWRkb3Q7IDxiPjEuIEh1YlNwb3QgQ1JNOiBCZXN0IEZyZWUgQWxsLWluLU9uZSBTdGFydGVyPC9iPiAmbWlkZG90OyAyLiBQaXBlZHJpdmU6IEJlc3QgZm9yIFNhbGVzIFRlYW1zICZtaWRkb3Q7IDMuIFpvaG8gQ1JNOiZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlR5TVhfa2xVTFZweVVYYmtjSmpXdUVMajZBRUQyVEFVemxnTG9yV0NhNWNlU25GNVNEaERhcHZkc0E1MlJ2bnE4ak5PMXhnN2wzLTB0OHVTeExyQzUzMkJ2SjZpNVZXclNRSmxQN1R6azZxR192YThJNFJBcnA3NXRyYk95U2N4dzhhdDhwR2F1ZThLbUFrVmZDM1czcFNzaWcSBBoCCAAalQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDvBQgAEAAYACAAKisKBGJlc3QVy80AQRoKY29tcGFyaXNvbhoEZ29vZBoDdG9wGgdiZXN0Y3JtKkwKA2NybRWPGQNBGiBjdXN0b21lciByZWxhdGlvbnNoaXAgbWFuYWdlbWVudBoHYmVzdGNybRoLY3Jtc29mdHdhcmUaCGl2O3A7Y3JtKjwKCHNvZnR3YXJlFdJq8EAaDGFwcGxpY2F0aW9ucxoHcHJvZ3JhbRoHc3lzdGVtcxoLY3Jtc29mdHdhcmUqCgoDZm9yFQAAAAAqMgoFc21hbGwVsjwAQRoHc21hbGxlchoEc21lcxoEdGlueRoPc21hbGxidXNpbmVzc2VzKkQKCmJ1c2luZXNzZXMV_87GPxoDYml6GghidXNpbmVzcxoLZW50ZXJwcmlzZXMaBHNtZXMaD3NtYWxsYnVzaW5lc3NlczKwAS9nb3RvP3VybD1DQUVTZUFIck96QVZUeU1YX2tsVUxWcHlVWGJrY0pqV3VFTGo2QUVEMlRBVXpsZ0xvcldDYTVjZVNuRjVTRGhEYXB2ZHNBNTJSdm5xOGpOTzF4ZzdsMy0wdDh1U3hMckM1MzJCdko2aTVWV3JTUUpsUDdUems2cUdfdmE4STRSQXJwNzV0cmJPeVNjeHc4YXQ4cEdhdWU4S21Ba1ZmQzNXM3BTc2lnOjMxMCA8Yj5CZXN0IENSTSBTb2Z0d2FyZSBmb3IgU21hbGwgQnVzaW5lc3M8L2I-IDIwMjZCswFUb3AgMTAgQmVzdCBDUk0gU29mdHdhcmUgZm9yIFNtYWxsIEJ1c2luZXNzICZtaWRkb3Q7IDxiPjEuIEh1YlNwb3QgQ1JNOiBCZXN0IEZyZWUgQWxsLWluLU9uZSBTdGFydGVyPC9iPiAmbWlkZG90OyAyLiBQaXBlZHJpdmU6IEJlc3QgZm9yIFNhbGVzIFRlYW1zICZtaWRkb3Q7IDMuIFpvaG8gQ1JNOiZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Routine Automation",
+      "read_more_link": "https://routine-automation.com/blog/best-crm-for-small-business/#:~:text=Top%2010%20Best%20CRM%20Software,for%20Small%20Business&text=1.%20HubSpot%20CRM%3A%20Best%20Free,All%2Din%2DOne%20Starter&text=2.%20Pipedrive%3A%20Best%20for%20Sales,Teams&text=3.%20Zoho%20CRM%3A%20Best%20Value,and%20Flexibility"
+    },
+    {
+      "position": 8,
+      "title": "The Best Small Business CRM Software for 2026",
+      "link": "https://www.pcmag.com/picks/the-best-small-business-crm-software",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVPqnzbw59Has733DPGH90ibvSIGhR1ggv5lu9keDhoGsWMuJvw-KIdJy6U14G88oX1dDv9N3k931bu2bdY0QVd75q8k_sieGhAV1U1-CwGl4KqEztjTWWlTXnYuwz_E-HXBuJpbR1d7cj3xcVIbvql4YZQQ&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQFnoECCoQAQ&uoh=1",
+      "displayed_link": "https://www.pcmag.com › ... › CRM Software",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXrAC7rAC7rAC7rAC3rACHwZXXqAAzvS170kpz2qbHzhJD____5v8XtKUT71dn_-fr-7_HxcHzuOVHFtC6NAAAAA3RSTlNM9fvAUo4WAAAAqklEQVR4AbXTgQrEIAiA4TbNKmurvf_DnsM44agA4H4ghA8gyJw7zkWHcyesEpUTNdBsfhG9BgQShZhSBhxIPCqi9dI50sDblBqPMhpq0L9jI8PLs-QjS72whGBIhjVt8PkThizBAvHNcBR2SIpPl36x0_xCfLcSEFe3JUJYIkiKdYe-zHH-ZIqAMmsRFdkQalNLNBYsSh1BI59KiVVM0JZxsponLDu23-EDtDAWNH_t18YAAAAASUVORK5CYII.png",
+      "date": "Jul 22, 2026",
+      "snippet": "Bigin by Zoho CRM and Freshsales are our Editors' Choice winners, respectively, for their flexible dashboards and top-notch user experience.",
+      "snippet_highlighted_words": [
+        "Bigin by Zoho CRM"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best For Salesforce Users",
+            "link": "https://www.pcmag.com/picks/the-best-small-business-crm-software#:~:text=%29-,Best%20for%20Salesforce%20Users"
+          },
+          {
+            "title": "What Can A Crm Do For Your...",
+            "link": "https://www.pcmag.com/picks/the-best-small-business-crm-software#:~:text=What%20Can%20a%20CRM%20Do%20for%20Your%20Small%20Business%3F"
+          },
+          {
+            "title": "The Best Mobile Crm Apps",
+            "link": "https://www.pcmag.com/picks/the-best-small-business-crm-software#:~:text=The%20Best%20Mobile%20CRM%20Apps"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Bigin by Zoho CRM and Freshsales are our Editors' Choice winners, respectively, for their flexible dashboards and top-notch user experience.",
+          "source_info_link": "https://www.pcmag.com/picks/the-best-small-business-crm-software",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXrAC7rAC7rAC7rAC3rACHwZXXqAAzvS170kpz2qbHzhJD____5v8XtKUT71dn_-fr-7_HxcHzuOVHFtC6NAAAAA3RSTlNM9fvAUo4WAAAAqklEQVR4AbXTgQrEIAiA4TbNKmurvf_DnsM44agA4H4ghA8gyJw7zkWHcyesEpUTNdBsfhG9BgQShZhSBhxIPCqi9dI50sDblBqPMhpq0L9jI8PLs-QjS72whGBIhjVt8PkThizBAvHNcBR2SIpPl36x0_xCfLcSEFe3JUJYIkiKdYe-zHH-ZIqAMmsRFdkQalNLNBYsSh1BI59KiVVM0JZxsponLDu23-EDtDAWNH_t18YAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlBxbnpidzU5SGFzNzMzRFBHSDkwaWJ2U0lHaFIxZ2d2NWx1OWtlRGhvR3NXTXVKdnctS0lkSnk2VTE0Rzg4b1gxZER2OU4zazkzMWJ1MmJkWTBRVmQ3NXE4a19zaWVHaEFWMVUxLUN3R2w0S3FFenRqVFdXbFRYbll1d3pfRS1IWEJ1SnBiUjFkN2NqM3hjVklidnFsNFlaUVESBBoCCAAahAYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQNwFCAAQABgAIAAqKwoEYmVzdBWPMA5BGgpjb21wYXJpc29uGgRnb29kGgN0b3AaB2Jlc3Rjcm0qTAoDY3JtFSDkoEAaIGN1c3RvbWVyIHJlbGF0aW9uc2hpcCBtYW5hZ2VtZW50GgdiZXN0Y3JtGgtjcm1zb2Z0d2FyZRoIaXY7cDtjcm0qPAoIc29mdHdhcmUVhD_BQBoMYXBwbGljYXRpb25zGgdwcm9ncmFtGgdzeXN0ZW1zGgtjcm1zb2Z0d2FyZSoKCgNmb3IVAAAAACoyCgVzbWFsbBXMZY9AGgdzbWFsbGVyGgRzbWVzGgR0aW55Gg9zbWFsbGJ1c2luZXNzZXMqRAoKYnVzaW5lc3NlcxVgcbo_GgNiaXoaCGJ1c2luZXNzGgtlbnRlcnByaXNlcxoEc21lcxoPc21hbGxidXNpbmVzc2VzMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlBxbnpidzU5SGFzNzMzRFBHSDkwaWJ2U0lHaFIxZ2d2NWx1OWtlRGhvR3NXTXVKdnctS0lkSnk2VTE0Rzg4b1gxZER2OU4zazkzMWJ1MmJkWTBRVmQ3NXE4a19zaWVHaEFWMVUxLUN3R2w0S3FFenRqVFdXbFRYbll1d3pfRS1IWEJ1SnBiUjFkN2NqM3hjVklidnFsNFlaUVE6PFRoZSA8Yj5CZXN0IFNtYWxsIEJ1c2luZXNzIENSTSBTb2Z0d2FyZTwvYj4gZm9yIDIwMjYgLSBQQ01hZ0KXATxiPkJpZ2luIGJ5IFpvaG8gQ1JNPC9iPiBhbmQgRnJlc2hzYWxlcyBhcmUgb3VyIEVkaXRvcnMmIzM5OyBDaG9pY2Ugd2lubmVycywgcmVzcGVjdGl2ZWx5LCBmb3IgdGhlaXIgZmxleGlibGUgZGFzaGJvYXJkcyBhbmQgdG9wLW5vdGNoIHVzZXIgZXhwZXJpZW5jZS5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlBxbnpidzU5SGFzNzMzRFBHSDkwaWJ2U0lHaFIxZ2d2NWx1OWtlRGhvR3NXTXVKdnctS0lkSnk2VTE0Rzg4b1gxZER2OU4zazkzMWJ1MmJkWTBRVmQ3NXE4a19zaWVHaEFWMVUxLUN3R2w0S3FFenRqVFdXbFRYbll1d3pfRS1IWEJ1SnBiUjFkN2NqM3hjVklidnFsNFlaUVESBBoCCAAahAYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQNwFCAAQABgAIAAqKwoEYmVzdBWPMA5BGgpjb21wYXJpc29uGgRnb29kGgN0b3AaB2Jlc3Rjcm0qTAoDY3JtFSDkoEAaIGN1c3RvbWVyIHJlbGF0aW9uc2hpcCBtYW5hZ2VtZW50GgdiZXN0Y3JtGgtjcm1zb2Z0d2FyZRoIaXY7cDtjcm0qPAoIc29mdHdhcmUVhD_BQBoMYXBwbGljYXRpb25zGgdwcm9ncmFtGgdzeXN0ZW1zGgtjcm1zb2Z0d2FyZSoKCgNmb3IVAAAAACoyCgVzbWFsbBXMZY9AGgdzbWFsbGVyGgRzbWVzGgR0aW55Gg9zbWFsbGJ1c2luZXNzZXMqRAoKYnVzaW5lc3NlcxVgcbo_GgNiaXoaCGJ1c2luZXNzGgtlbnRlcnByaXNlcxoEc21lcxoPc21hbGxidXNpbmVzc2VzMrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVlBxbnpidzU5SGFzNzMzRFBHSDkwaWJ2U0lHaFIxZ2d2NWx1OWtlRGhvR3NXTXVKdnctS0lkSnk2VTE0Rzg4b1gxZER2OU4zazkzMWJ1MmJkWTBRVmQ3NXE4a19zaWVHaEFWMVUxLUN3R2w0S3FFenRqVFdXbFRYbll1d3pfRS1IWEJ1SnBiUjFkN2NqM3hjVklidnFsNFlaUVE6PFRoZSA8Yj5CZXN0IFNtYWxsIEJ1c2luZXNzIENSTSBTb2Z0d2FyZTwvYj4gZm9yIDIwMjYgLSBQQ01hZ0KXATxiPkJpZ2luIGJ5IFpvaG8gQ1JNPC9iPiBhbmQgRnJlc2hzYWxlcyBhcmUgb3VyIEVkaXRvcnMmIzM5OyBDaG9pY2Ugd2lubmVycywgcmVzcGVjdGl2ZWx5LCBmb3IgdGhlaXIgZmxleGlibGUgZGFzaGJvYXJkcyBhbmQgdG9wLW5vdGNoIHVzZXIgZXhwZXJpZW5jZS5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "PCMag"
+    },
+    {
+      "position": 9,
+      "title": "12 Best Small Business CRM Tools in 2026",
+      "link": "https://fitsmallbusiness.com/best-crm-for-small-business/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAV4b0vuXRRhfOqybWi8y4Rx8YwYgkgVQ5PyjaeOZ_CuTtq3xlWMi-WWj4ib0cHaz4VTfmTmjRdNSc3nEJBOwD2YiM2yOhCgdwx9BYXr4IhK26jV2-MHuEf9Co-noR-v4GyUOJRrqV8ItHwgxxJ&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://fitsmallbusiness.com › Sales",
+      "favicon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHXF9UMO40NqVQIXcH6mjfr_HxWnMxr_sHo1VbxwAP74sxq0Ymg0Ym1k9iaZD7MLck0pCxlVv4vG_58sLGTFEaXgQ6D8vff7dnhRc2wZTqRo3ql4W8QWyX6rlciIGWFIW0X_qQVYrpgzrjsMI8GVeGzNHAfM27zs6ba-YX5fnPdBM5kmoQAV_pka19dfPEwNz2ZUgFB6Sk5BXeIpgGI4nFm85wV8yEzC8EUVvEVkNAfimh4r7_vRhP9BxKfT3d9YMrhZ84hnCK9wb0ieSLYFitq3WtPgd-jTkddyvMAOiwOXHbBVaEUcdnI5_FoLy-GLXr8VRhgJFVMXg8KPz4SzkVyquim9_duxJCYAAA.webp",
+      "date": "Jun 4, 2026",
+      "snippet": "Compare the 12 best CRM tools for small business. Our 2026 top picks are HubSpot CRM, Bigin by Zoho CRM, and monday CRM to drive sales and ...",
+      "snippet_highlighted_words": [
+        "HubSpot CRM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Compare the 12 best CRM tools for small business. Our 2026 top picks are HubSpot CRM, Bigin by Zoho CRM, and monday CRM to drive sales and ...",
+          "source_info_link": "https://fitsmallbusiness.com/best-crm-for-small-business/",
+          "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAAAwBgCdASocABwAPrUurVanIacnG_DgFolsAJ0yhHXF9UMO40NqVQIXcH6mjfr_HxWnMxr_sHo1VbxwAP74sxq0Ymg0Ym1k9iaZD7MLck0pCxlVv4vG_58sLGTFEaXgQ6D8vff7dnhRc2wZTqRo3ql4W8QWyX6rlciIGWFIW0X_qQVYrpgzrjsMI8GVeGzNHAfM27zs6ba-YX5fnPdBM5kmoQAV_pka19dfPEwNz2ZUgFB6Sk5BXeIpgGI4nFm85wV8yEzC8EUVvEVkNAfimh4r7_vRhP9BxKfT3d9YMrhZ84hnCK9wb0ieSLYFitq3WtPgd-jTkddyvMAOiwOXHbBVaEUcdnI5_FoLy-GLXr8VRhgJFVMXg8KPz4SzkVyquim9_duxJCYAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVjRiMHZ1WFJSaGZPcXliV2k4eTRSeDhZd1lna2dWUTVQeWphZU9aX0N1VHRxM3hsV01pLVdXajRpYjBjSGF6NFZUZm1UbWpSZE5TYzNuRUpCT3dEMllpTTJ5T2hDZ2R3eDlCWVhyNEloSzI2alYyLU1IdUVmOUNvLW5vUi12NEd5VU9KUnJxVjhJdEh3Z3h4ShIEGgIIABruBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMgFCAAQABgAIAAqKwoEYmVzdBXc2Z5AGgpjb21wYXJpc29uGgRnb29kGgN0b3AaB2Jlc3Rjcm0qTAoDY3JtFVDzeEAaIGN1c3RvbWVyIHJlbGF0aW9uc2hpcCBtYW5hZ2VtZW50GgdiZXN0Y3JtGgtjcm1zb2Z0d2FyZRoIaXY7cDtjcm0qPAoIc29mdHdhcmUVe4ymPxoMYXBwbGljYXRpb25zGgdwcm9ncmFtGgdzeXN0ZW1zGgtjcm1zb2Z0d2FyZSoKCgNmb3IVAAAAACoyCgVzbWFsbBX4EA1BGgdzbWFsbGVyGgRzbWVzGgR0aW55Gg9zbWFsbGJ1c2luZXNzZXMqRAoKYnVzaW5lc3NlcxUsse4_GgNiaXoaCGJ1c2luZXNzGgtlbnRlcnByaXNlcxoEc21lcxoPc21hbGxidXNpbmVzc2VzMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVjRiMHZ1WFJSaGZPcXliV2k4eTRSeDhZd1lna2dWUTVQeWphZU9aX0N1VHRxM3hsV01pLVdXajRpYjBjSGF6NFZUZm1UbWpSZE5TYzNuRUpCT3dEMllpTTJ5T2hDZ2R3eDlCWVhyNEloSzI2alYyLU1IdUVmOUNvLW5vUi12NEd5VU9KUnJxVjhJdEh3Z3h4SjovMTIgPGI-QmVzdCBTbWFsbCBCdXNpbmVzcyBDUk08L2I-IFRvb2xzIGluIDIwMjZCmgFDb21wYXJlIHRoZSAxMiBiZXN0IENSTSB0b29scyBmb3Igc21hbGwgYnVzaW5lc3MuIE91ciAyMDI2IHRvcCBwaWNrcyBhcmUgPGI-SHViU3BvdCBDUk08L2I-LCBCaWdpbiBieSBab2hvIENSTSwgYW5kIG1vbmRheSBDUk0gdG8gZHJpdmUgc2FsZXMgYW5kJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVjRiMHZ1WFJSaGZPcXliV2k4eTRSeDhZd1lna2dWUTVQeWphZU9aX0N1VHRxM3hsV01pLVdXajRpYjBjSGF6NFZUZm1UbWpSZE5TYzNuRUpCT3dEMllpTTJ5T2hDZ2R3eDlCWVhyNEloSzI2alYyLU1IdUVmOUNvLW5vUi12NEd5VU9KUnJxVjhJdEh3Z3h4ShIEGgIIABruBRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMgFCAAQABgAIAAqKwoEYmVzdBXc2Z5AGgpjb21wYXJpc29uGgRnb29kGgN0b3AaB2Jlc3Rjcm0qTAoDY3JtFVDzeEAaIGN1c3RvbWVyIHJlbGF0aW9uc2hpcCBtYW5hZ2VtZW50GgdiZXN0Y3JtGgtjcm1zb2Z0d2FyZRoIaXY7cDtjcm0qPAoIc29mdHdhcmUVe4ymPxoMYXBwbGljYXRpb25zGgdwcm9ncmFtGgdzeXN0ZW1zGgtjcm1zb2Z0d2FyZSoKCgNmb3IVAAAAACoyCgVzbWFsbBX4EA1BGgdzbWFsbGVyGgRzbWVzGgR0aW55Gg9zbWFsbGJ1c2luZXNzZXMqRAoKYnVzaW5lc3NlcxUsse4_GgNiaXoaCGJ1c2luZXNzGgtlbnRlcnByaXNlcxoEc21lcxoPc21hbGxidXNpbmVzc2VzMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVjRiMHZ1WFJSaGZPcXliV2k4eTRSeDhZd1lna2dWUTVQeWphZU9aX0N1VHRxM3hsV01pLVdXajRpYjBjSGF6NFZUZm1UbWpSZE5TYzNuRUpCT3dEMllpTTJ5T2hDZ2R3eDlCWVhyNEloSzI2alYyLU1IdUVmOUNvLW5vUi12NEd5VU9KUnJxVjhJdEh3Z3h4SjovMTIgPGI-QmVzdCBTbWFsbCBCdXNpbmVzcyBDUk08L2I-IFRvb2xzIGluIDIwMjZCmgFDb21wYXJlIHRoZSAxMiBiZXN0IENSTSB0b29scyBmb3Igc21hbGwgYnVzaW5lc3MuIE91ciAyMDI2IHRvcCBwaWNrcyBhcmUgPGI-SHViU3BvdCBDUk08L2I-LCBCaWdpbiBieSBab2hvIENSTSwgYW5kIG1vbmRheSBDUk0gdG8gZHJpdmUgc2FsZXMgYW5kJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "Fit Small Business"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best crm software for small businesses reddit",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&q=Best+crm+software+for+small+businesses+reddit&sa=X&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ1QJ6BAhOEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+crm+software+for+small+businesses+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best crm software for small businesses free",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&q=Best+crm+software+for+small+businesses+free&sa=X&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ1QJ6BAhQEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+crm+software+for+small+businesses+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Best CRM for small business free",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&q=Best+CRM+for+small+business+free&sa=X&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ1QJ6BAhZEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+CRM+for+small+business+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Zoho CRM",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&q=Zoho+CRM&sa=X&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ1QJ6BAhPEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Zoho+CRM"
+    },
+    {
+      "block_position": 1,
+      "query": "Zoho CRM for small business",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&q=Zoho+CRM+for+small+business&sa=X&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ1QJ6BAhREAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Zoho+CRM+for+small+business"
+    },
+    {
+      "block_position": 1,
+      "query": "Best crm software for small businesses in usa",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&q=Best+crm+software+for+small+businesses+in+usa&sa=X&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ1QJ6BAhaEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+crm+software+for+small+businesses+in+usa"
+    },
+    {
+      "block_position": 1,
+      "query": "Best CRM for small business reddit",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&q=Best+CRM+for+small+business+reddit&sa=X&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ1QJ6BAhWEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+CRM+for+small+business+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Top 10 CRM software",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&q=Top+10+CRM+software&sa=X&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ1QJ6BAhSEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Top+10+CRM+software"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+crm+software+for+small+businesses&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&ei=ATu2au_dCoGxkvQPvZTb2Q4&start=10&sa=N&sstk=AS6-VmJ0fjp6GDOTgK0MykE2NElh_ihiHMMs1_pgfyHLB4qr_P2cugUAGyWmideFQ7CS7U6dYm5bvVoQ2Wx8Vy25wf3XFJM7fXTZkA&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ8NMDegQIQhAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+crm+software+for+small+businesses&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&ei=ATu2au_dCoGxkvQPvZTb2Q4&start=10&sa=N&sstk=AS6-VmJ0fjp6GDOTgK0MykE2NElh_ihiHMMs1_pgfyHLB4qr_P2cugUAGyWmideFQ7CS7U6dYm5bvVoQ2Wx8Vy25wf3XFJM7fXTZkA&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ8tMDegQIQhAE",
+      "3": "https://www.google.com/search?q=best+crm+software+for+small+businesses&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&ei=ATu2au_dCoGxkvQPvZTb2Q4&start=20&sa=N&sstk=AS6-VmJ0fjp6GDOTgK0MykE2NElh_ihiHMMs1_pgfyHLB4qr_P2cugUAGyWmideFQ7CS7U6dYm5bvVoQ2Wx8Vy25wf3XFJM7fXTZkA&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ8tMDegQIQhAG",
+      "4": "https://www.google.com/search?q=best+crm+software+for+small+businesses&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&ei=ATu2au_dCoGxkvQPvZTb2Q4&start=30&sa=N&sstk=AS6-VmJ0fjp6GDOTgK0MykE2NElh_ihiHMMs1_pgfyHLB4qr_P2cugUAGyWmideFQ7CS7U6dYm5bvVoQ2Wx8Vy25wf3XFJM7fXTZkA&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ8tMDegQIQhAI",
+      "5": "https://www.google.com/search?q=best+crm+software+for+small+businesses&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&ei=ATu2au_dCoGxkvQPvZTb2Q4&start=40&sa=N&sstk=AS6-VmJ0fjp6GDOTgK0MykE2NElh_ihiHMMs1_pgfyHLB4qr_P2cugUAGyWmideFQ7CS7U6dYm5bvVoQ2Wx8Vy25wf3XFJM7fXTZkA&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ8tMDegQIQhAK",
+      "6": "https://www.google.com/search?q=best+crm+software+for+small+businesses&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&ei=ATu2au_dCoGxkvQPvZTb2Q4&start=50&sa=N&sstk=AS6-VmJ0fjp6GDOTgK0MykE2NElh_ihiHMMs1_pgfyHLB4qr_P2cugUAGyWmideFQ7CS7U6dYm5bvVoQ2Wx8Vy25wf3XFJM7fXTZkA&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ8tMDegQIQhAM",
+      "7": "https://www.google.com/search?q=best+crm+software+for+small+businesses&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&ei=ATu2au_dCoGxkvQPvZTb2Q4&start=60&sa=N&sstk=AS6-VmJ0fjp6GDOTgK0MykE2NElh_ihiHMMs1_pgfyHLB4qr_P2cugUAGyWmideFQ7CS7U6dYm5bvVoQ2Wx8Vy25wf3XFJM7fXTZkA&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ8tMDegQIQhAO",
+      "8": "https://www.google.com/search?q=best+crm+software+for+small+businesses&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsebzKL39_r9GcLKo5RdQjst2_JHQ:1790327553184&ei=ATu2au_dCoGxkvQPvZTb2Q4&start=70&sa=N&sstk=AS6-VmJ0fjp6GDOTgK0MykE2NElh_ihiHMMs1_pgfyHLB4qr_P2cugUAGyWmideFQ7CS7U6dYm5bvVoQ2Wx8Vy25wf3XFJM7fXTZkA&ved=2ahUKEwiv4trusYmXAxWBmIQIHT3KNusQ8tMDegQIQhAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+crm+software+for+small+businesses&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+crm+software+for+small+businesses&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+crm+software+for+small+businesses&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+crm+software+for+small+businesses&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+crm+software+for+small+businesses&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+crm+software+for+small+businesses&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+crm+software+for+small+businesses&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+crm+software+for+small+businesses&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+crm+software+for+small+businesses&start=70"
+    }
+  }
+}

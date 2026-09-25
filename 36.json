@@ -1,0 +1,545 @@
+{
+  "search_metadata": {
+    "id": "6ab66769392e0b160dcf91a2",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/6P9U3z_0L0m4e__MV2O55SbCrPwcyMECRvBrHZiYwzs/6ab66769392e0b160dcf91a2.json",
+    "markdown_endpoint": "https://serpapi.com/searches/6P9U3z_0L0m4e__MV2O55SbCrPwcyMECRvBrHZiYwzs/6ab66769392e0b160dcf91a2.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/6P9U3z_0L0m4e__MV2O55SbCrPwcyMECRvBrHZiYwzs/6ab66769392e0b160dcf91a2.json_with_pixel_position",
+    "created_at": "2026-09-25 12:22:01 UTC",
+    "processed_at": "2026-09-25 12:22:01 UTC",
+    "google_url": "https://www.google.com/search?q=top+payment+processing+gateways+for+b2b&oq=top+payment+processing+gateways+for+b2b&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/6P9U3z_0L0m4e__MV2O55SbCrPwcyMECRvBrHZiYwzs/6ab66769392e0b160dcf91a2.html",
+    "total_time_taken": 61.41
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top payment processing gateways for b2b",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top payment processing gateways for b2b",
+    "total_results": 147000,
+    "time_taken_displayed": 0.24,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Payment Processing Software | Manage SaaS & AI Usage Billing",
+      "link": "https://www.maxio.com/saas-payments",
+      "displayed_link": "https://www.maxio.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAEQAhoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYASAAEgIho_D_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_32&sig=AOD64_3HI-mPGS5Pu0bIgERRJQuR5v0xfQ&q&nis=4&adurl=https://www.maxio.com/saas-payments?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%26utm_term%3Db2b%2520payment%2520tool%26ad_group_id%3D204553683052%26ad_creative%3D821398860231%26device%3Dc%26placement%3D%26gclid%3DEAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYASAAEgIho_D_BwE%26utm_content%3D%26matchtype%3De%26campaign_id%3D24154595936%26qgad%3D821398860231%26qgterm%3Db2b%2520payment%2520tool%26gad_source%3D1%26gad_campaignid%3D24154595936%26gbraid%3D0AAAAAoiMs89aTOpGdn5TH9B9lRZ4o08ah%26gclid%3DEAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYASAAEgIho_D_BwE",
+      "description": "Streamline SaaS & AI payments, protect recurring revenue & close books faster with Maxio. Simplify complex payment operations by consolidating...",
+      "extensions": [
+        "10K+ visits in past month"
+      ],
+      "source": "Maxio",
+      "sitelinks": [
+        {
+          "title": "Maxio vs. Zuora",
+          "link": "https://www.maxio.com/blog/zuora-vs-maxio"
+        },
+        {
+          "title": "Maxio | SaaS & AI Payments",
+          "link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAEQDhoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYASADEgKN7_D_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_32&sig=AOD64_0R27LqDSGp4tDD4zCxzywd0bN6Pg&adurl=https://www.maxio.com/saas-payments%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%26utm_term%3Db2b%2520payment%2520tool%26ad_group_id%3D204553683052%26ad_creative%3D821398860231%26device%3Dc%26placement%3D%26gclid%3DEAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYASADEgKN7_D_BwE%26utm_content%3D%26matchtype%3De%26campaign_id%3D24154595936%26qgad%3D821398860231%26qgterm%3Db2b%2520payment%2520tool%26gad_source%3D1%26gad_campaignid%3D24154595936%26gbraid%3D0AAAAAoiMs89aTOpGdn5TH9B9lRZ4o08ah%26gclid%3DEAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYASADEgKN7_D_BwE&q="
+        },
+        {
+          "title": "Maxio MCP",
+          "link": "https://www.maxio.com/mcp"
+        },
+        {
+          "title": "Simplify Payments with Maxio",
+          "link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAEQDxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYASAEEgKspPD_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_32&sig=AOD64_04N0PabWJkJ64dn4_R4zK7c5sW9g&adurl=https://www.maxio.com/saas-payments%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3D%26utm_term%3Db2b%2520payment%2520tool%26ad_group_id%3D204553683052%26ad_creative%3D821398860231%26device%3Dc%26placement%3D%26gclid%3DEAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYASAEEgKspPD_BwE%26utm_content%3D%26matchtype%3De%26campaign_id%3D24154595936%26qgad%3D821398860231%26qgterm%3Db2b%2520payment%2520tool%26gad_source%3D1%26gad_campaignid%3D24154595936%26gbraid%3D0AAAAAoiMs89aTOpGdn5TH9B9lRZ4o08ah%26gclid%3DEAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYASAEEgKspPD_BwE&q="
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Pay with Clicks, Not Checks | B2B Payments Solutions | Corpay®",
+      "link": "https://www.corpay.com/ap-automation/payments-automation",
+      "displayed_link": "https://www.corpay.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAEQBRoCb2E&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYAiAAEgJYW_D_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_35&sig=AOD64_1ODQYDjWooq1zFeZwpb7y4AOmDIw&q&nis=4&adurl",
+      "description": "Control Purchase Orders, Invoicing, and Payments from a Single Flexible Platform. Corpay® AP Automation Offers Solutions That are Tailored Specifically to Your Needs. 3.8M+ Vendor Network. Cut Processing Costs 70% Fully-Managed AP Software.",
+      "source": "Corpay®",
+      "sitelinks": [
+        {
+          "title": "Corpay® Procure-to-Pay",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAEQERoCb2E&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYAiADEgLM5fD_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_35&sig=AOD64_0avdZCIpee_lsRK0kC2R3zFBazJw&adurl=&q="
+        },
+        {
+          "title": "Corpay® Payments Automation",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAEQEhoCb2E&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYAiAEEgLkovD_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_35&sig=AOD64_0Db-mNsc2zENWVVWX_PNMtKSGtfA&adurl=&q="
+        },
+        {
+          "title": "PO Automation",
+          "link": "https://www.corpay.com/ap-automation/po-automation"
+        },
+        {
+          "title": "Corpay Complete",
+          "link": "https://www.corpay.com/corpay-complete"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "Highradius B2B Payments | Payment Gateway for SAP-HPAY",
+      "link": "https://www.highradius.com/lp/autonomous-receivables/b2b-payments-platform/",
+      "displayed_link": "https://www.highradius.com › software › b2b-payments",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAEQABoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYAyAAEgLPZPD_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_32&sig=AOD64_3fPq5GPQi0cWRVozMM-gF9wlc1cw&q&nis=4&adurl",
+      "description": "AI agents tokenize, authorize & settle payments via cards, ACH & global debits. Stop chasing...",
+      "source": "HighRadius",
+      "sitelinks": [
+        {
+          "title": "30+ Currencies, 40+ Proccesors",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAEQBxoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYAyACEgKG7fD_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_32&sig=AOD64_0XQUxLoX-dkeQ1cSu86b0zsiR8Cg&adurl=&q="
+        },
+        {
+          "title": "Boost Transaction Success Rate",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAEQCRoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYAyADEgJgo_D_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_32&sig=AOD64_2iEYs4M0_qkAwFOkvbUvwr5lohzA&adurl=&q="
+        },
+        {
+          "title": "IDC's Payment Leader",
+          "link": "https://www.highradius.com/resources/analyst-reports/idc-marketscape-embedded-payments-leader-2024/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "block_position": "top",
+      "title": "Flywire’s B2B Payment Platform | B2B Payment Platform | Flywire",
+      "link": "https://www.flywire.com/fr/industries/b2b",
+      "displayed_link": "https://www.flywire.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAEQARoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAAYBCAAEgLBL_D_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_32&sig=AOD64_2wiKIb-ePLFJqpOZjTbOlgo32oxA&q&nis=4&adurl",
+      "description": "Reduce DSO and increase the lifetime value of your customers with an A/R solution that’s integrated with your workflow and personalized",
+      "source": "Flywire",
+      "sitelinks": [
+        {
+          "title": "Flywire",
+          "link": "https://www.flywire.com/fr/industries/b2b"
+        },
+        {
+          "title": "Offer Local Payments Globally",
+          "link": "https://www.flywire.com/fr/industries/b2b"
+        },
+        {
+          "title": "A/R + Payments Solution",
+          "link": "https://www.flywire.com/industries/b2b/solution"
+        },
+        {
+          "title": "AI + I2C Webinar",
+          "link": "https://www.flywire.com/resources/on-demand-webinar-from-data-to-decisions-how-ai-is-optimizing-invoice-to-cash-and-payments"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "title": "Get A Demo Of Maxio | Simplify Payments with Maxio",
+      "link": "https://www.maxio.com/saas-payments",
+      "displayed_link": "https://www.maxio.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAIQABoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAMYASAAEgJCZPD_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_32&sig=AOD64_0V9WbUoyNhXIGSQReYE-2r1m_mUw&q&nis=4&adurl",
+      "description": "Streamline SaaS & AI payments, protect recurring revenue & close books faster with Maxio. Simplify complex payment operations by consolidating...",
+      "extensions": [
+        "10K+ visits in past month"
+      ],
+      "source": "Maxio",
+      "sitelinks": [
+        {
+          "title": "Maxio vs. Zuora",
+          "link": "https://www.maxio.com/blog/zuora-vs-maxio"
+        },
+        {
+          "title": "Maxio | SaaS & AI Payments",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAIQCBoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAMYASAEEgJoJvD_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_32&sig=AOD64_0kL7hPKOX4C4M_zr2O4hdCxFVBVA&adurl=&q="
+        },
+        {
+          "title": "Maxio MCP",
+          "link": "https://www.maxio.com/mcp"
+        },
+        {
+          "title": "SaaSpedia: SaaS & AI Wiki",
+          "link": "https://www.maxio.com/saaspedia"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "title": "Outbound Payment Technology | Self-Service Payment Portal",
+      "link": "https://tipalti.com/payment-ptr-2/",
+      "displayed_link": "https://www.tipalti.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjVlM243ImXAxW_K9QBHZfVCoEYACICCAIQARoCb2E&co=1&ase=2&gclid=EAIaIQobChMI1ZTNuNyJlwMVvyvUAR2X1QqBEAMYAiAAEgJvP_D_BwE&cid=CAASuwHkaH5nz9plD8PWX68fPOUConZkHXc9jhQUlgC8ud-CkXpgehkDR8nKz3u7bl47d0HldppY9_hqlR_f6odyzCvPtdNwmyKRt30ZMrFAfyw7LSp1Xk6Q58FMOSp33WecKYedHcMc51rsWOceTJyM-i4U9IgPhdvcglgUVKAVzj_GfVFSwz4nuTYFhXG2nlQcqzUo6A8C84tweBk8qbX1jswfacMd68hJnpRUpUI1HtAM8BGjB2mS0QkxNuGd&cce=2&category=acrcp_v1_32&sig=AOD64_3kU3x0n9CVvQpVhv_vNUhCIl0ogQ&q&nis=4&adurl",
+      "description": "Tipalti Offers A Best-In-Class Payment Experience With Our International Payment Solution. Execute Fast Payments To 200+ Countries and Territories...",
+      "extensions": [
+        "100K+ visits in past month"
+      ],
+      "source": "Tipalti",
+      "sitelinks": [
+        {
+          "title": "Self Billing Invoices",
+          "link": "https://tipalti.com/mass-payments/self-billing-invoice/"
+        },
+        {
+          "title": "Marketplace Payout System",
+          "link": "https://tipalti.com/marketplace-payments-ptr/"
+        },
+        {
+          "title": "Global Mass Payout API",
+          "link": "https://tipalti.com/mass-payments/payout-api/"
+        },
+        {
+          "title": "Affiliate Payments",
+          "link": "https://tipalti.com/industries/affiliates-and-influencers-solutions/"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the top 5 payment gateways?",
+      "type": "ai_overview",
+      "page_token": "sbrhnHicHdBfbpswHABg9TJ9bDAsWRspmkqBEZSY2fCzHb9Mxm5CwAGasPDnrXfpqXaaSfuO8H1-2XNT_324l33f3daLxTAMT6e2Pdn3J91eFuo2NXqhlbWF0vV69X2Ffhz1Jvyz9d8-tj6BrmMBdTKUNBlnDm9ws8tQBbnlpDKhhNuoLEHvsZ7y6tXLYitIXrKdYDmZ8QeNEyTnaKUQvTN32RbodTL183DIo0E6S5dFZsrBnEFIT4Mc9wIfVViuspole-G_mbqvC_uykyxJiQVXQbjM3XbWXkdxve0zpqeCb3uYk24fY4fXqDcOGnXc3Uw45piXRAflAU9IpRD91BXxtCv9sDRDwWE6CBpykIkSeDQxJoa9uDygfuq3ZwJ01pW9sDjCrGJXI8orBOyXivE15fCNNlamggUSKMjh8ajvG-_x_-fm9_HSr7tre_oHgVuEAQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sbrhnHicHdBfbpswHABg9TJ9bDAsWRspmkqBEZSY2fCzHb9Mxm5CwAGasPDnrXfpqXaaSfuO8H1-2XNT_324l33f3daLxTAMT6e2Pdn3J91eFuo2NXqhlbWF0vV69X2Ffhz1Jvyz9d8-tj6BrmMBdTKUNBlnDm9ws8tQBbnlpDKhhNuoLEHvsZ7y6tXLYitIXrKdYDmZ8QeNEyTnaKUQvTN32RbodTL183DIo0E6S5dFZsrBnEFIT4Mc9wIfVViuspole-G_mbqvC_uykyxJiQVXQbjM3XbWXkdxve0zpqeCb3uYk24fY4fXqDcOGnXc3Uw45piXRAflAU9IpRD91BXxtCv9sDRDwWE6CBpykIkSeDQxJoa9uDygfuq3ZwJ01pW9sDjCrGJXI8orBOyXivE15fCNNlamggUSKMjh8ajvG-_x_-fm9_HSr7tre_oHgVuEAQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rUjBlRTVTTVZsNU5VUkxWa1prYURsaVNuZGlSWEpYUVUxTk0xZ3haMDVHWTBkeVNVOVhNblJyTlhCd09WVmtSVzUzYlVOUldUTXdWa1F0TjFwWVZUWnJNbVJmVW0wdGVXTmxORlZUVXpsM1VVcGthVzFwUVc5alp4SVhjRzFsTW1GMFJGbEdTV2x6Y1hSelVIVmZkbGcwUVRnYUlrRkVjM0k1WmxReWEyRnhaMEp2ZVVwRVZYWk9hVVpTVFhsTFpFOVdhMmxRUTFFIiwiZmN2IjoiMyIsImVpIjoicG1lMmF0RFlGSWlzcXRzUHVfdlg0QTgiLCJxYyI6IkNpZDBiM0FnY0dGNWJXVnVkQ0J3Y205alpYTnphVzVuSUdkaGRHVjNZWGx6SUdadmNpQmlNbUlRQUgyMTBoZ18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgNSBwYXltZW50IGdhdGV3YXlzPyIsImxrIjoiR2lOM2FHRjBJR0Z5WlNCMGFHVWdkRzl3SURVZ2NHRjViV1Z1ZENCbllYUmxkMkY1Y3ciLCJicyI6ImM0V09NUS1DTUJDRjQzcVRvLWxnTG9LVGl6WmhKcklaNDJTVS1acFUyZ1FvNFVvSV8xNUtXTVNCNGFiM3ZlOGVQQ0RPRFhta1ZxTTM0N2tHRTJ4b3FIVHRzU0N2ZXhvNGxVY1I5ZXNjM09EMHA3dWNNWk1aTnE3MVZETGFla3BlejJzcWhkak5oSkpxSmdMUU1jRWI1S1JhX0VETHFEUjdfTGdXdWFLeVJOV3hyVFd6SG5laTJDOEx2eERjSWNxTkM1b3dROW1pQ0xaRktaV3hPUFNyMkhiekJRIiwiaWQiOiJmY19wbWUyYXREWUZJaXNxdHNQdV92WDRBOF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rUjBlRTVTTVZsNU5VUkxWa1prYURsaVNuZGlSWEpYUVUxTk0xZ3haMDVHWTBkeVNVOVhNblJyTlhCd09WVmtSVzUzYlVOUldUTXdWa1F0TjFwWVZUWnJNbVJmVW0wdGVXTmxORlZUVXpsM1VVcGthVzFwUVc5alp4SVhjRzFsTW1GMFJGbEdTV2x6Y1hSelVIVmZkbGcwUVRnYUlrRkVjM0k1WmxReWEyRnhaMEp2ZVVwRVZYWk9hVVpTVFhsTFpFOVdhMmxRUTFFIiwiZmN2IjoiMyIsImVpIjoicG1lMmF0RFlGSWlzcXRzUHVfdlg0QTgiLCJxYyI6IkNpZDBiM0FnY0dGNWJXVnVkQ0J3Y205alpYTnphVzVuSUdkaGRHVjNZWGx6SUdadmNpQmlNbUlRQUgyMTBoZ18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgNSBwYXltZW50IGdhdGV3YXlzPyIsImxrIjoiR2lOM2FHRjBJR0Z5WlNCMGFHVWdkRzl3SURVZ2NHRjViV1Z1ZENCbllYUmxkMkY1Y3ciLCJicyI6ImM0V09NUS1DTUJDRjQzcVRvLWxnTG9LVGl6WmhKcklaNDJTVS1acFUyZ1FvNFVvSV8xNUtXTVNCNGFiM3ZlOGVQQ0RPRFhta1ZxTTM0N2tHRTJ4b3FIVHRzU0N2ZXhvNGxVY1I5ZXNjM09EMHA3dWNNWk1aTnE3MVZETGFla3BlejJzcWhkak5oSkpxSmdMUU1jRWI1S1JhX0VETHFEUjdfTGdXdWFLeVJOV3hyVFd6SG5laTJDOEx2eERjSWNxTkM1b3dROW1pQ0xaRktaV3hPUFNyMkhiekJRIiwiaWQiOiJmY19wbWUyYXREWUZJaXNxdHNQdV92WDRBOF81In0%3D"
+    },
+    {
+      "question": "What are the top 10 B2B portals in the USA?",
+      "type": "ai_overview",
+      "page_token": "revMi3icHdDNToMwAADg-DI7upb96JYsJggMmXSh0Ba4GNpuw7WFqjhgN9_Fp_JpNN6_0_f1rV8b9XNzqbvOfqyn077vb09te9KHW9GaafUxNmIqKq15JdR6ebeED0ex8T-f3Me3Jzch1lIPgzQvtcjQdb8NrgXozpRggtgQU0AV8fBQGhhUYeAwU-P0XHupj2zsuTX3F7sUWJA2OEe53FUBLjgUAFE9ZCTS5Owq3uCYb22TbgdHmHpgqtxhWHcoKyNhFt4-pEmsMGShpETjngUrWmW4OHjx_MB0WRg54-q-Sx0JkhECvo3emVq0mWNZNsJMXhElBDiJio5pbp_3RDZ-LXvOyFjk2GekjKocDTJEiaQrh3nY3bvta0LwVZy1IQ1WXK1mgkHDQjqv2J_0SyVmZCgAjLMmKMp-chSXzWzy_7l5OZpubd_b0y9OW4NC",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=revMi3icHdDNToMwAADg-DI7upb96JYsJggMmXSh0Ba4GNpuw7WFqjhgN9_Fp_JpNN6_0_f1rV8b9XNzqbvOfqyn077vb09te9KHW9GaafUxNmIqKq15JdR6ebeED0ex8T-f3Me3Jzch1lIPgzQvtcjQdb8NrgXozpRggtgQU0AV8fBQGhhUYeAwU-P0XHupj2zsuTX3F7sUWJA2OEe53FUBLjgUAFE9ZCTS5Owq3uCYb22TbgdHmHpgqtxhWHcoKyNhFt4-pEmsMGShpETjngUrWmW4OHjx_MB0WRg54-q-Sx0JkhECvo3emVq0mWNZNsJMXhElBDiJio5pbp_3RDZ-LXvOyFjk2GekjKocDTJEiaQrh3nY3bvta0LwVZy1IQ1WXK1mgkHDQjqv2J_0SyVmZCgAjLMmKMp-chSXzWzy_7l5OZpubd_b0y9OW4NC",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rUjBlRTVTTVZsNU5VUkxWa1prYURsaVNuZGlSWEpYUVUxTk0xZ3haMDVHWTBkeVNVOVhNblJyTlhCd09WVmtSVzUzYlVOUldUTXdWa1F0TjFwWVZUWnJNbVJmVW0wdGVXTmxORlZUVXpsM1VVcGthVzFwUVc5alp4SVhjRzFsTW1GMFJGbEdTV2x6Y1hSelVIVmZkbGcwUVRnYUlrRkVjM0k1WmxReWEyRnhaMEp2ZVVwRVZYWk9hVVpTVFhsTFpFOVdhMmxRUTFFIiwiZmN2IjoiMyIsImVpIjoicG1lMmF0RFlGSWlzcXRzUHVfdlg0QTgiLCJxYyI6IkNpZDBiM0FnY0dGNWJXVnVkQ0J3Y205alpYTnphVzVuSUdkaGRHVjNZWGx6SUdadmNpQmlNbUlRQUgyMTBoZ18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgMTAgQjJCIHBvcnRhbHMgaW4gdGhlIFVTQT8iLCJsayI6IkdoaDBiM0FnTVRBZ1lqSmlJSEJ2Y25SaGJDQnBiaUIxYzJFIiwiYnMiOiJjNFdPTVEtQ01CQ0Y0M3FUby1sZ0xvS1RpelpoSnJJWjQyU1UtWnBVMmdRbzRVb0lfMTVLV01TQjRhYjN2ZThlUENET0RYbWtWcU0zNDdrR0UyeG9xSFR0c1NDdmV4bzRsVWNSOWVzYzNPRDBwN3VjTVpNWk5xNzFWRExhZWtwZXoyc3FoZGpOaEpKcUpnTFFNY0ViNUtSYV9FRExxRFI3X0xnV3VhS3lSTld4clRXekhuZWkyQzhMdnhEY0ljcU5DNW93UTltaUNMWkZLWld4T1BTcjJIYnpCUSIsImlkIjoiZmNfcG1lMmF0RFlGSWlzcXRzUHVfdlg0QThfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rUjBlRTVTTVZsNU5VUkxWa1prYURsaVNuZGlSWEpYUVUxTk0xZ3haMDVHWTBkeVNVOVhNblJyTlhCd09WVmtSVzUzYlVOUldUTXdWa1F0TjFwWVZUWnJNbVJmVW0wdGVXTmxORlZUVXpsM1VVcGthVzFwUVc5alp4SVhjRzFsTW1GMFJGbEdTV2x6Y1hSelVIVmZkbGcwUVRnYUlrRkVjM0k1WmxReWEyRnhaMEp2ZVVwRVZYWk9hVVpTVFhsTFpFOVdhMmxRUTFFIiwiZmN2IjoiMyIsImVpIjoicG1lMmF0RFlGSWlzcXRzUHVfdlg0QTgiLCJxYyI6IkNpZDBiM0FnY0dGNWJXVnVkQ0J3Y205alpYTnphVzVuSUdkaGRHVjNZWGx6SUdadmNpQmlNbUlRQUgyMTBoZ18iLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgMTAgQjJCIHBvcnRhbHMgaW4gdGhlIFVTQT8iLCJsayI6IkdoaDBiM0FnTVRBZ1lqSmlJSEJ2Y25SaGJDQnBiaUIxYzJFIiwiYnMiOiJjNFdPTVEtQ01CQ0Y0M3FUby1sZ0xvS1RpelpoSnJJWjQyU1UtWnBVMmdRbzRVb0lfMTVLV01TQjRhYjN2ZThlUENET0RYbWtWcU0zNDdrR0UyeG9xSFR0c1NDdmV4bzRsVWNSOWVzYzNPRDBwN3VjTVpNWk5xNzFWRExhZWtwZXoyc3FoZGpOaEpKcUpnTFFNY0ViNUtSYV9FRExxRFI3X0xnV3VhS3lSTld4clRXekhuZWkyQzhMdnhEY0ljcU5DNW93UTltaUNMWkZLWld4T1BTcjJIYnpCUSIsImlkIjoiZmNfcG1lMmF0RFlGSWlzcXRzUHVfdlg0QThfNSJ9"
+    },
+    {
+      "question": "What payment gateway is best for small businesses?",
+      "type": "ai_overview",
+      "page_token": "d9s7P3icHdBfbpswHABg7TJ9bPjXVo0UVSIxTrMYxg9sg18qsEtMMMEKrCS87Qo7w06100zad4Tv1x_TXrq_337rabLjerWa5_nxNAwn8_koh35VjfeLXMnKmLqS3fr55dl9a-QGfclwe5VhSq1lO3AyP_6psMW5bxHtR4-YMKE9AOsnXXE2SsTEkZ8Cvj-8l-f4VvUQlJz59KLLJNdpemZAeAR1H0yUWpbjwSUs3BWObj850NIrF06fGCnQXCPIChf5SSFKkuvxSNlcR4clvzuLdMS9LljEKFxLTycsemV1p1uKxQyeuahuAmlsmyD1o1oOR_B1lO2jjDgxZp6KiBHATTynfAiI0zmAVUPw9J0yaGLXUGBlgLSaa07vZQGIU3Goivim9nGq2KvHdxAm4dCmFBZ5Nj2lty349j1DT5jvbShweiOLCGM33Alf2XjrntX80Mivjf_w_3rz0fTT2l6H0z-__ozD",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=d9s7P3icHdBfbpswHABg7TJ9bPjXVo0UVSIxTrMYxg9sg18qsEtMMMEKrCS87Qo7w06100zad4Tv1x_TXrq_337rabLjerWa5_nxNAwn8_koh35VjfeLXMnKmLqS3fr55dl9a-QGfclwe5VhSq1lO3AyP_6psMW5bxHtR4-YMKE9AOsnXXE2SsTEkZ8Cvj-8l-f4VvUQlJz59KLLJNdpemZAeAR1H0yUWpbjwSUs3BWObj850NIrF06fGCnQXCPIChf5SSFKkuvxSNlcR4clvzuLdMS9LljEKFxLTycsemV1p1uKxQyeuahuAmlsmyD1o1oOR_B1lO2jjDgxZp6KiBHATTynfAiI0zmAVUPw9J0yaGLXUGBlgLSaa07vZQGIU3Goivim9nGq2KvHdxAm4dCmFBZ5Nj2lty349j1DT5jvbShweiOLCGM33Alf2XjrntX80Mivjf_w_3rz0fTT2l6H0z-__ozD",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rUjBlRTVTTVZsNU5VUkxWa1prYURsaVNuZGlSWEpYUVUxTk0xZ3haMDVHWTBkeVNVOVhNblJyTlhCd09WVmtSVzUzYlVOUldUTXdWa1F0TjFwWVZUWnJNbVJmVW0wdGVXTmxORlZUVXpsM1VVcGthVzFwUVc5alp4SVhjRzFsTW1GMFJGbEdTV2x6Y1hSelVIVmZkbGcwUVRnYUlrRkVjM0k1WmxReWEyRnhaMEp2ZVVwRVZYWk9hVVpTVFhsTFpFOVdhMmxRUTFFIiwiZmN2IjoiMyIsImVpIjoicG1lMmF0RFlGSWlzcXRzUHVfdlg0QTgiLCJxYyI6IkNpZDBiM0FnY0dGNWJXVnVkQ0J3Y205alpYTnphVzVuSUdkaGRHVjNZWGx6SUdadmNpQmlNbUlRQUgyMTBoZ18iLCJxdWVzdGlvbiI6IldoYXQgcGF5bWVudCBnYXRld2F5IGlzIGJlc3QgZm9yIHNtYWxsIGJ1c2luZXNzZXM/IiwibGsiOiJHaDV3WVhsdFpXNTBJR2RoZEdWM1lYa2djMjFoYkd3Z1luVnphVzVsYzNNIiwiYnMiOiJjNFdPTVEtQ01CQ0Y0M3FUby1sZ0xvS1RpelpoSnJJWjQyU1UtWnBVMmdRbzRVb0lfMTVLV01TQjRhYjN2ZThlUENET0RYbWtWcU0zNDdrR0UyeG9xSFR0c1NDdmV4bzRsVWNSOWVzYzNPRDBwN3VjTVpNWk5xNzFWRExhZWtwZXoyc3FoZGpOaEpKcUpnTFFNY0ViNUtSYV9FRExxRFI3X0xnV3VhS3lSTld4clRXekhuZWkyQzhMdnhEY0ljcU5DNW93UTltaUNMWkZLWld4T1BTcjJIYnpCUSIsImlkIjoiZmNfcG1lMmF0RFlGSWlzcXRzUHVfdlg0QThfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rUjBlRTVTTVZsNU5VUkxWa1prYURsaVNuZGlSWEpYUVUxTk0xZ3haMDVHWTBkeVNVOVhNblJyTlhCd09WVmtSVzUzYlVOUldUTXdWa1F0TjFwWVZUWnJNbVJmVW0wdGVXTmxORlZUVXpsM1VVcGthVzFwUVc5alp4SVhjRzFsTW1GMFJGbEdTV2x6Y1hSelVIVmZkbGcwUVRnYUlrRkVjM0k1WmxReWEyRnhaMEp2ZVVwRVZYWk9hVVpTVFhsTFpFOVdhMmxRUTFFIiwiZmN2IjoiMyIsImVpIjoicG1lMmF0RFlGSWlzcXRzUHVfdlg0QTgiLCJxYyI6IkNpZDBiM0FnY0dGNWJXVnVkQ0J3Y205alpYTnphVzVuSUdkaGRHVjNZWGx6SUdadmNpQmlNbUlRQUgyMTBoZ18iLCJxdWVzdGlvbiI6IldoYXQgcGF5bWVudCBnYXRld2F5IGlzIGJlc3QgZm9yIHNtYWxsIGJ1c2luZXNzZXM%2FIiwibGsiOiJHaDV3WVhsdFpXNTBJR2RoZEdWM1lYa2djMjFoYkd3Z1luVnphVzVsYzNNIiwiYnMiOiJjNFdPTVEtQ01CQ0Y0M3FUby1sZ0xvS1RpelpoSnJJWjQyU1UtWnBVMmdRbzRVb0lfMTVLV01TQjRhYjN2ZThlUENET0RYbWtWcU0zNDdrR0UyeG9xSFR0c1NDdmV4bzRsVWNSOWVzYzNPRDBwN3VjTVpNWk5xNzFWRExhZWtwZXoyc3FoZGpOaEpKcUpnTFFNY0ViNUtSYV9FRExxRFI3X0xnV3VhS3lSTld4clRXekhuZWkyQzhMdnhEY0ljcU5DNW93UTltaUNMWkZLWld4T1BTcjJIYnpCUSIsImlkIjoiZmNfcG1lMmF0RFlGSWlzcXRzUHVfdlg0QThfNSJ9"
+    },
+    {
+      "question": "Who is the biggest payment gateway?",
+      "type": "ai_overview",
+      "page_token": "pBhRUXicHdBRbpswGABg7TJ9bAw0nRYpquphIChA_Tv-DbxUYDchwQG60EDztrvsVDtNpx3h-37_sceu_fvt2ozjcFktFtM03R_6_mDf7nV_XlSXz04vdGVtXel29fj90Xna6zX72NCf7xvK5TCgD2QXtbcsLIlgs039NNwq-akiPeZOzFRHOfpmKGT8AO7YgleQwoKTsabd-Shz9-ImoRGFA9tM4Sa52ZMM4zhhYwLStLXTE1Twgmzy8DxNUs1xkm_cLEch3NkvSLAsTrAX7vCSEHNMZLDckdFiVExbtO9bNVAVaEfY56UhcMWu4SmJ-Y5xjwtHlC6EZS7nEoOrsU1TKwTWmKn-ZyhyYEqWcZWns4lSbvCHq3ygGe2PXMJNn-xZWoAUaYkeoIiAV9HzsgxtV7eWJkHzAUg7ye_2-rr27v5_rl_353E1_OoPX7oqgYQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pBhRUXicHdBRbpswGABg7TJ9bAw0nRYpquphIChA_Tv-DbxUYDchwQG60EDztrvsVDtNpx3h-37_sceu_fvt2ozjcFktFtM03R_6_mDf7nV_XlSXz04vdGVtXel29fj90Xna6zX72NCf7xvK5TCgD2QXtbcsLIlgs039NNwq-akiPeZOzFRHOfpmKGT8AO7YgleQwoKTsabd-Shz9-ImoRGFA9tM4Sa52ZMM4zhhYwLStLXTE1Twgmzy8DxNUs1xkm_cLEch3NkvSLAsTrAX7vCSEHNMZLDckdFiVExbtO9bNVAVaEfY56UhcMWu4SmJ-Y5xjwtHlC6EZS7nEoOrsU1TKwTWmKn-ZyhyYEqWcZWns4lSbvCHq3ygGe2PXMJNn-xZWoAUaYkeoIiAV9HzsgxtV7eWJkHzAUg7ye_2-rr27v5_rl_353E1_OoPX7oqgYQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rUjBlRTVTTVZsNU5VUkxWa1prYURsaVNuZGlSWEpYUVUxTk0xZ3haMDVHWTBkeVNVOVhNblJyTlhCd09WVmtSVzUzYlVOUldUTXdWa1F0TjFwWVZUWnJNbVJmVW0wdGVXTmxORlZUVXpsM1VVcGthVzFwUVc5alp4SVhjRzFsTW1GMFJGbEdTV2x6Y1hSelVIVmZkbGcwUVRnYUlrRkVjM0k1WmxReWEyRnhaMEp2ZVVwRVZYWk9hVVpTVFhsTFpFOVdhMmxRUTFFIiwiZmN2IjoiMyIsImVpIjoicG1lMmF0RFlGSWlzcXRzUHVfdlg0QTgiLCJxYyI6IkNpZDBiM0FnY0dGNWJXVnVkQ0J3Y205alpYTnphVzVuSUdkaGRHVjNZWGx6SUdadmNpQmlNbUlRQUgyMTBoZ18iLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgYmlnZ2VzdCBwYXltZW50IGdhdGV3YXk/IiwibGsiOiJHaUozYUc4Z2FYTWdkR2hsSUdKcFoyZGxjM1FnY0dGNWJXVnVkQ0JuWVhSbGQyRjUiLCJicyI6ImM0V09NUS1DTUJDRjQzcVRvLWxnTG9LVGl6WmhKcklaNDJTVS1acFUyZ1FvNFVvSV8xNUtXTVNCNGFiM3ZlOGVQQ0RPRFhta1ZxTTM0N2tHRTJ4b3FIVHRzU0N2ZXhvNGxVY1I5ZXNjM09EMHA3dWNNWk1aTnE3MVZETGFla3BlejJzcWhkak5oSkpxSmdMUU1jRWI1S1JhX0VETHFEUjdfTGdXdWFLeVJOV3hyVFd6SG5laTJDOEx2eERjSWNxTkM1b3dROW1pQ0xaRktaV3hPUFNyMkhiekJRIiwiaWQiOiJmY19wbWUyYXREWUZJaXNxdHNQdV92WDRBOF81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE1rUjBlRTVTTVZsNU5VUkxWa1prYURsaVNuZGlSWEpYUVUxTk0xZ3haMDVHWTBkeVNVOVhNblJyTlhCd09WVmtSVzUzYlVOUldUTXdWa1F0TjFwWVZUWnJNbVJmVW0wdGVXTmxORlZUVXpsM1VVcGthVzFwUVc5alp4SVhjRzFsTW1GMFJGbEdTV2x6Y1hSelVIVmZkbGcwUVRnYUlrRkVjM0k1WmxReWEyRnhaMEp2ZVVwRVZYWk9hVVpTVFhsTFpFOVdhMmxRUTFFIiwiZmN2IjoiMyIsImVpIjoicG1lMmF0RFlGSWlzcXRzUHVfdlg0QTgiLCJxYyI6IkNpZDBiM0FnY0dGNWJXVnVkQ0J3Y205alpYTnphVzVuSUdkaGRHVjNZWGx6SUdadmNpQmlNbUlRQUgyMTBoZ18iLCJxdWVzdGlvbiI6IldobyBpcyB0aGUgYmlnZ2VzdCBwYXltZW50IGdhdGV3YXk%2FIiwibGsiOiJHaUozYUc4Z2FYTWdkR2hsSUdKcFoyZGxjM1FnY0dGNWJXVnVkQ0JuWVhSbGQyRjUiLCJicyI6ImM0V09NUS1DTUJDRjQzcVRvLWxnTG9LVGl6WmhKcklaNDJTVS1acFUyZ1FvNFVvSV8xNUtXTVNCNGFiM3ZlOGVQQ0RPRFhta1ZxTTM0N2tHRTJ4b3FIVHRzU0N2ZXhvNGxVY1I5ZXNjM09EMHA3dWNNWk1aTnE3MVZETGFla3BlejJzcWhkak5oSkpxSmdMUU1jRWI1S1JhX0VETHFEUjdfTGdXdWFLeVJOV3hyVFd6SG5laTJDOEx2eERjSWNxTkM1b3dROW1pQ0xaRktaV3hPUFNyMkhiekJRIiwiaWQiOiJmY19wbWUyYXREWUZJaXNxdHNQdV92WDRBOF81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "ojS35HiczZXbcuI4EEA_YL9j_UKCwdxT5ZqShUwMgYm5Bl5cviEMvmEZDLzNv-xX7cv-ysrGGEggmZmHrVUVttTqlrrbfegff9mWu_r7j38WYeiTJ5aNoiiPPQ_bZl73HFYle1dn555NAn3xDdv8hjALmzddZrOxTT7KQSDJEpSCMSce1Ja9mZX6W83aIXkPvEFLdGdv7YPRapSorNeHKzKeVHyjNV5JYq8wfevbesTst3yJ0QlfYEyL9x2TU8PmVJQssg7J60bZvpVBnUkc4RVNJeaS-rlbElZh6WP1Z6lJF3mSN938bMptW6PncDrHea5QbOS_s6pDFcB_NgQgARlAADB9oft6rZ86DaH4IChfiDBMtzJJM9ahY0WvpuPutUJqi2R8tG9Gh3pUovNCphLdcUS6PlRMLgSwmWwlbgo_FVAaQ3pmGspneQJxQB9Hajk6Sy6_8X1f8HWAIvVCARCeL7m8DAIBnlc43uwe53vwHJkAfEf9W85lA8nguYsHcb6lz_SoIwPkn1xrCQHNCGtgWrgFVgvoq8ha-kJPJgGJ6xkOGwVPlIypPVWmROvXyQz5niq8Gvt2NG75MqtrVM_2VMM0lIVS-Jasi1yxUmiUavWHBCSdZCSRS5JeZLlj1buDjtTNv-SF4gkjmMUBr91HdA1vhUgTCG8ZpLtnefbJEMCdCxUvO6dJ04jT0klNPFmPJ92TpJ5wVb6861Ra1O4mRu-VKEZy4gutaeG8dWEqAGh9NI1H-UaI75IiAP3swvE_oHlWvOZAQMCSM-kHMjFYiLGVByB6FsTMhXOGEIDnVAqnQBCQsZCuYCaHqdIFRhLNvRSXvITomdZIgkn6ZQSO6aS76V0iekccuo1FRP0l0k2gvx6dr1VibFJe3pX_JTbPjU7TlQ6DN3uiub3I3TbK0WyBo9rQjW5j4jnaL3Qc_f8EUtaPvGNjuAeSGU--BIlCgT_rR8kj60dyO36NELoHkpWA9LEf1TOVc9VfJ0US0CVIST9q3utHvwwS-hQkOQ3kBkij2yD5d0GK-9E1SNf9CN3uRxlIv9OP1N_sRwlX5vF13Zw2S3y_SY2rjTfnUVqvvKgyLnCkNu5Yo1LYdnZfN6m5Ez45qmE_KJbxJHDtcG88KFTgPZkGs-ZDz8_56t4x3TDnB55uEmK5OIfV0IzUPcnNvSCncRrj2IHHF9RKcdVabSaHnjCY9zTOXqJQUodub2uBsX-wNrWKNC7s3aAeDAd6E3Sjwa40Wrid8CCWV_7rYLhrC2gzqPSs9VDZdiM_XPd3j51l89F3K8siQgEXivCx2uW4rqAcGp19ZaJBe70InCqKdm7ZGNY4ozqTXibb8bwxBIljhB-8tLaHEC3M3pShwRGTLzJOoPP0Y5cx6MlggmnbgFMg08KRISUZRvRXpRUkMERXFZNs-aqh6lq5phsNrcJVVJNxcLj3-XKRIW7AF_8Fryxkpw",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ojS35HiczZXbcuI4EEA_YL9j_UKCwdxT5ZqShUwMgYm5Bl5cviEMvmEZDLzNv-xX7cv-ysrGGEggmZmHrVUVttTqlrrbfegff9mWu_r7j38WYeiTJ5aNoiiPPQ_bZl73HFYle1dn555NAn3xDdv8hjALmzddZrOxTT7KQSDJEpSCMSce1Ja9mZX6W83aIXkPvEFLdGdv7YPRapSorNeHKzKeVHyjNV5JYq8wfevbesTst3yJ0QlfYEyL9x2TU8PmVJQssg7J60bZvpVBnUkc4RVNJeaS-rlbElZh6WP1Z6lJF3mSN938bMptW6PncDrHea5QbOS_s6pDFcB_NgQgARlAADB9oft6rZ86DaH4IChfiDBMtzJJM9ahY0WvpuPutUJqi2R8tG9Gh3pUovNCphLdcUS6PlRMLgSwmWwlbgo_FVAaQ3pmGspneQJxQB9Hajk6Sy6_8X1f8HWAIvVCARCeL7m8DAIBnlc43uwe53vwHJkAfEf9W85lA8nguYsHcb6lz_SoIwPkn1xrCQHNCGtgWrgFVgvoq8ha-kJPJgGJ6xkOGwVPlIypPVWmROvXyQz5niq8Gvt2NG75MqtrVM_2VMM0lIVS-Jasi1yxUmiUavWHBCSdZCSRS5JeZLlj1buDjtTNv-SF4gkjmMUBr91HdA1vhUgTCG8ZpLtnefbJEMCdCxUvO6dJ04jT0klNPFmPJ92TpJ5wVb6861Ra1O4mRu-VKEZy4gutaeG8dWEqAGh9NI1H-UaI75IiAP3swvE_oHlWvOZAQMCSM-kHMjFYiLGVByB6FsTMhXOGEIDnVAqnQBCQsZCuYCaHqdIFRhLNvRSXvITomdZIgkn6ZQSO6aS76V0iekccuo1FRP0l0k2gvx6dr1VibFJe3pX_JTbPjU7TlQ6DN3uiub3I3TbK0WyBo9rQjW5j4jnaL3Qc_f8EUtaPvGNjuAeSGU--BIlCgT_rR8kj60dyO36NELoHkpWA9LEf1TOVc9VfJ0US0CVIST9q3utHvwwS-hQkOQ3kBkij2yD5d0GK-9E1SNf9CN3uRxlIv9OP1N_sRwlX5vF13Zw2S3y_SY2rjTfnUVqvvKgyLnCkNu5Yo1LYdnZfN6m5Ez45qmE_KJbxJHDtcG88KFTgPZkGs-ZDz8_56t4x3TDnB55uEmK5OIfV0IzUPcnNvSCncRrj2IHHF9RKcdVabSaHnjCY9zTOXqJQUodub2uBsX-wNrWKNC7s3aAeDAd6E3Sjwa40Wrid8CCWV_7rYLhrC2gzqPSs9VDZdiM_XPd3j51l89F3K8siQgEXivCx2uW4rqAcGp19ZaJBe70InCqKdm7ZGNY4ozqTXibb8bwxBIljhB-8tLaHEC3M3pShwRGTLzJOoPP0Y5cx6MlggmnbgFMg08KRISUZRvRXpRUkMERXFZNs-aqh6lq5phsNrcJVVJNxcLj3-XKRIW7AF_8Fryxkpw"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "20 Best B2B Payment Platform in USA (Aug 2026)",
+      "link": "https://www.softwaresuggest.com/b2b-payment-platform/us",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVeamv85qFJ6GGgfioq87DGvClDDB-2IsHBxWwBSsIzaerCNu9dU5ylHgzwht9YzhiiKa-691KbyNFFF6fp3_GqsjNbjUexL9B6VIgzvCy8_jmWdCE7eoCsuWyUjAl0S_33JpAF9iVM7EkUg&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.softwaresuggest.com › b2b-payment-platfo...",
+      "favicon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAADwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHXXM0ybyh2cv9ADOu9D-iX6AHrA_VX0AA4nWXfAVW3ER0ytdrACxCJ7KBaAE3hnCDIrgAD-9hH-Y72fM95sNz1wgn2CFg4OKSJtobios1E7sw8BNnfztn6YEX_pK7a5uXreeQKSSDHwTaYU-LSlOV-dT6WgtAT_cG3oNdpoCBa8-CTbD4tuWes4k0eRVm_k8RHLPjsACu3WZaxarlsZdhYIQZ5ZKavuM0mpTrn7BFk3EK9Jl7UjFbssJ1k_-XEJ4U0dPm8qk13255v9I287cBqx8Y1jR2K5zr9KZzs88fQ1hd11p2L_Z9WblMfun3ugis_OIZl3HTkxgpq6Wu6HZrENmt7XInm7iIb2bCQAg1tx5QbPAKiiRPFf_vspjiCPRk9yZCjLjmzt32T4Rl59FfGI5Jzy_IsgiFDWVh5lBtzNgp8wpz4totBw2dRjwd68KOHVi6n9Y83itiWrT_wLwAAA.webp",
+      "date": "Aug 5, 2026",
+      "snippet": "Here is a list of top B2B Payment Platform in USA: OnePay Payment, Marqeta, Tranglo, Routable, and Tradeics. These B2B Payment Platform are ...",
+      "snippet_highlighted_words": [
+        "OnePay Payment"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Here is a list of top B2B Payment Platform in USA: OnePay Payment, Marqeta, Tranglo, Routable, and Tradeics. These B2B Payment Platform are ...",
+          "source_info_link": "https://www.softwaresuggest.com/b2b-payment-platform/us",
+          "icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAADwCACdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHXXM0ybyh2cv9ADOu9D-iX6AHrA_VX0AA4nWXfAVW3ER0ytdrACxCJ7KBaAE3hnCDIrgAD-9hH-Y72fM95sNz1wgn2CFg4OKSJtobios1E7sw8BNnfztn6YEX_pK7a5uXreeQKSSDHwTaYU-LSlOV-dT6WgtAT_cG3oNdpoCBa8-CTbD4tuWes4k0eRVm_k8RHLPjsACu3WZaxarlsZdhYIQZ5ZKavuM0mpTrn7BFk3EK9Jl7UjFbssJ1k_-XEJ4U0dPm8qk13255v9I287cBqx8Y1jR2K5zr9KZzs88fQ1hd11p2L_Z9WblMfun3ugis_OIZl3HTkxgpq6Wu6HZrENmt7XInm7iIb2bCQAg1tx5QbPAKiiRPFf_vspjiCPRk9yZCjLjmzt32T4Rl59FfGI5Jzy_IsgiFDWVh5lBtzNgp8wpz4totBw2dRjwd68KOHVi6n9Y83itiWrT_wLwAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVmVhbXY4NXFGSjZHR2dmaW9xODdER3ZDbEREQi0ySXNIQnhXd0JTc0l6YWVyQ051OWRVNXlsSGd6d2h0OVl6aGlpS2EtNjkxS2J5TkZGRjZmcDNfR3Fzak5ialVleEw5QjZWSWd6dkN5OF9qbVdkQ0U3ZW9Dc3VXeVVqQWwwU18zM0pwQUY5aVZNN0VrVWcSBBoCCAAa1AUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAsAUIABAAGAAgACpRCgN0b3AVok2NPxoEYmVzdBoHYmlnZ2VzdBoFY2hlYXAaCGNoZWFwZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdoaWdoZXN0GgdsZWFkaW5nKisKB3BheW1lbnQVjui4QBoIcGF5bWVudHMaEXBheW1lbnRwcm9jZXNzaW5nKlAKCnByb2Nlc3NpbmcVrSZFPxoJcHJvY2VkdXJlGglwcm9jZXNzb3IaCnByb2Nlc3NvcnMaCHNlcnZpY2VzGhFwYXltZW50cHJvY2Vzc2luZyonCghnYXRld2F5cxUAAAAAGgdnYXRld2F5Gg1pdjtwO2dhdGV3YXlzKgoKA2ZvchUAAAAAKhQKA2IyYhWhMopAGghpdjtwO2IyYjKkAS9nb3RvP3VybD1DQUVTYndIck96QVZlYW12ODVxRko2R0dnZmlvcTg3REd2Q2xEREItMklzSEJ4V3dCU3NJemFlckNOdTlkVTV5bEhnendodDlZemhpaUthLTY5MUtieU5GRkY2ZnAzX0dxc2pOYmpVZXhMOUI2VklnenZDeThfam1XZENFN2VvQ3N1V3lVakFsMFNfMzNKcEFGOWlWTTdFa1VnOjk8Yj5CZXN0IEIyQiBQYXltZW50PC9iPiBQbGF0Zm9ybSBpbiBVU0EgLSBTb2Z0d2FyZVN1Z2dlc3RCmwFIZXJlIGlzIGEgbGlzdCBvZiB0b3AgQjJCIFBheW1lbnQgUGxhdGZvcm0gaW4gVVNBOiA8Yj5PbmVQYXkgUGF5bWVudDwvYj4sIE1hcnFldGEsIFRyYW5nbG8sIFJvdXRhYmxlLCBhbmQgVHJhZGVpY3MuIFRoZXNlIEIyQiBQYXltZW50IFBsYXRmb3JtIGFyZSZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVmVhbXY4NXFGSjZHR2dmaW9xODdER3ZDbEREQi0ySXNIQnhXd0JTc0l6YWVyQ051OWRVNXlsSGd6d2h0OVl6aGlpS2EtNjkxS2J5TkZGRjZmcDNfR3Fzak5ialVleEw5QjZWSWd6dkN5OF9qbVdkQ0U3ZW9Dc3VXeVVqQWwwU18zM0pwQUY5aVZNN0VrVWcSBBoCCAAa1AUSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAsAUIABAAGAAgACpRCgN0b3AVok2NPxoEYmVzdBoHYmlnZ2VzdBoFY2hlYXAaCGNoZWFwZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdoaWdoZXN0GgdsZWFkaW5nKisKB3BheW1lbnQVjui4QBoIcGF5bWVudHMaEXBheW1lbnRwcm9jZXNzaW5nKlAKCnByb2Nlc3NpbmcVrSZFPxoJcHJvY2VkdXJlGglwcm9jZXNzb3IaCnByb2Nlc3NvcnMaCHNlcnZpY2VzGhFwYXltZW50cHJvY2Vzc2luZyonCghnYXRld2F5cxUAAAAAGgdnYXRld2F5Gg1pdjtwO2dhdGV3YXlzKgoKA2ZvchUAAAAAKhQKA2IyYhWhMopAGghpdjtwO2IyYjKkAS9nb3RvP3VybD1DQUVTYndIck96QVZlYW12ODVxRko2R0dnZmlvcTg3REd2Q2xEREItMklzSEJ4V3dCU3NJemFlckNOdTlkVTV5bEhnendodDlZemhpaUthLTY5MUtieU5GRkY2ZnAzX0dxc2pOYmpVZXhMOUI2VklnenZDeThfam1XZENFN2VvQ3N1V3lVakFsMFNfMzNKcEFGOWlWTTdFa1VnOjk8Yj5CZXN0IEIyQiBQYXltZW50PC9iPiBQbGF0Zm9ybSBpbiBVU0EgLSBTb2Z0d2FyZVN1Z2dlc3RCmwFIZXJlIGlzIGEgbGlzdCBvZiB0b3AgQjJCIFBheW1lbnQgUGxhdGZvcm0gaW4gVVNBOiA8Yj5PbmVQYXkgUGF5bWVudDwvYj4sIE1hcnFldGEsIFRyYW5nbG8sIFJvdXRhYmxlLCBhbmQgVHJhZGVpY3MuIFRoZXNlIEIyQiBQYXltZW50IFBsYXRmb3JtIGFyZSZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "SoftwareSuggest",
+      "read_more_link": "https://www.softwaresuggest.com/b2b-payment-platform/us#:~:text=Here%20is%20a%20list%20of,efficiency%20of%20your%20business%20operations."
+    },
+    {
+      "position": 2,
+      "title": "Best B2B Merchant Accounts & Payment Solutions (2026)",
+      "link": "https://paymentnerds.com/blog/b2b-payment-processing-guide-2026-best-merchant-accounts-for-wholesale-distribution-and-professional-services/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxQEB6zswFXEaEv3ZbDTS90s3OteBonBbkhRA2ZTwk65dffZt9i12PT9QrlWA46oZeRSDGKHkcaVqdWuD5ywkrtV9_Qbs9e95RMs53---YqqzY1IYuy6onIlcgGJY4vdQ-8JRAi4Z1gzP4j4oujz7ToFwJqeiZ_uyYoi6B1i-aFpBWGgst2QvpKZIrGKyXwvBE1O1p7zGVnNdpkYTrCET5v4hglmECXl7_SPC42jqTP-QsGjA_j8FEJ6B7atGgx-MNu-4zL6FCQ&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQFnoECB0QAQ&uoh=1",
+      "displayed_link": "https://paymentnerds.com › blog › b2b-payment-process...",
+      "favicon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAABwBwCdASogACAAPtEutFooIagoGAEAGglqAJ0yhHpWFLfKFLfoubgLiBZJQ5KMttYnqCiFyD0mYthro8BaqKxjjqUAAAD-ugd8-bZP-ucQOe054i3HcSlrSHh_JkEDcXJTgaaWYA9z-23HMQPlQiWHipEmM3rzskz6f_19lSwSs6BzyMNNSvEBbYXoLqG1x5gcRM5ljjLnvGnF-yGLpjmFG2Lu9tmdSjU-xvS0hn7V9ZJS-dl-bAwfRCYf9j_M__psdJ6W0dpUl_17_-P81Y45cp7Mf8Nnh_1z51_PsViPmWd-xkeV777F8f_kkiGBMukCS0eEDP_S_-ek-uGa61PeZ7uysadpjM65pkwULIP2ChxuOsvaVZOQyZW4ZJ_MSVIpE8RFpgYVDVGChFsy-ZxqT0NGN7Ss_xiK8DxMwL2T7Lmp4PqLuviSW4GlsrwG3CgdSTCEKCBBi0fjljnt2ObGYZNWPBTKH6utHSDZkAAAAA.webp",
+      "date": "Jul 22, 2026",
+      "snippet": "Best B2B Payment Processors & Platforms. QuickBooks Payments. Established gateway with recurring and remote payment tools. QuickBooks, Xero, ...",
+      "snippet_highlighted_words": [
+        "QuickBooks Payments"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Best B2B Payment Processors & Platforms. QuickBooks Payments. Established gateway with recurring and remote payment tools. QuickBooks, Xero, ...",
+          "source_info_link": "https://paymentnerds.com/blog/b2b-payment-processing-guide-2026-best-merchant-accounts-for-wholesale-distribution-and-professional-services/",
+          "icon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAABwBwCdASogACAAPtEutFooIagoGAEAGglqAJ0yhHpWFLfKFLfoubgLiBZJQ5KMttYnqCiFyD0mYthro8BaqKxjjqUAAAD-ugd8-bZP-ucQOe054i3HcSlrSHh_JkEDcXJTgaaWYA9z-23HMQPlQiWHipEmM3rzskz6f_19lSwSs6BzyMNNSvEBbYXoLqG1x5gcRM5ljjLnvGnF-yGLpjmFG2Lu9tmdSjU-xvS0hn7V9ZJS-dl-bAwfRCYf9j_M__psdJ6W0dpUl_17_-P81Y45cp7Mf8Nnh_1z51_PsViPmWd-xkeV777F8f_kkiGBMukCS0eEDP_S_-ek-uGa61PeZ7uysadpjM65pkwULIP2ChxuOsvaVZOQyZW4ZJ_MSVIpE8RFpgYVDVGChFsy-ZxqT0NGN7Ss_xiK8DxMwL2T7Lmp4PqLuviSW4GlsrwG3CgdSTCEKCBBi0fjljnt2ObGYZNWPBTKH6utHSDZkAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZYRWFFdjNaYkRUUzkwczNPdGVCb25CYmtoUkEyWlR3azY1ZGZmWnQ5aTEyUFQ5UXJsV0E0Nm9aZVJTREdLSGtjYVZxZFd1RDV5d2tydFY5X1FiczllOTVSTXM1My0tLVlxcXpZMUlZdXk2b25JbGNnR0pZNHZkUS04SlJBaTRaMWd6UDRqNG91ano3VG9Gd0pxZWlaX3V5WW9pNkIxaS1hRnBCV0dnc3QyUXZwS1pJckdLeVh3dkJFMU8xcDd6R1ZuTmRwa1lUckNFVDV2NGhnbG1FQ1hsN19TUEM0MmpxVFAtUXNHakFfajhGRUo2QjdhdEdneC1NTnUtNHpMNkZDURIEGgIIABrbBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC3BggAEAAYACAAKlEKA3RvcBUAAAAAGgRiZXN0GgdiaWdnZXN0GgVjaGVhcBoIY2hlYXBlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aB2hpZ2hlc3QaB2xlYWRpbmcqKwoHcGF5bWVudBXWQL5AGghwYXltZW50cxoRcGF5bWVudHByb2Nlc3NpbmcqUAoKcHJvY2Vzc2luZxX_pixAGglwcm9jZWR1cmUaCXByb2Nlc3NvchoKcHJvY2Vzc29ycxoIc2VydmljZXMaEXBheW1lbnRwcm9jZXNzaW5nKicKCGdhdGV3YXlzFRsg2j8aB2dhdGV3YXkaDWl2O3A7Z2F0ZXdheXMqCgoDZm9yFQAAAAAqFAoDYjJiFXABn0AaCGl2O3A7YjJiMpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZYRWFFdjNaYkRUUzkwczNPdGVCb25CYmtoUkEyWlR3azY1ZGZmWnQ5aTEyUFQ5UXJsV0E0Nm9aZVJTREdLSGtjYVZxZFd1RDV5d2tydFY5X1FiczllOTVSTXM1My0tLVlxcXpZMUlZdXk2b25JbGNnR0pZNHZkUS04SlJBaTRaMWd6UDRqNG91ano3VG9Gd0pxZWlaX3V5WW9pNkIxaS1hRnBCV0dnc3QyUXZwS1pJckdLeVh3dkJFMU8xcDd6R1ZuTmRwa1lUckNFVDV2NGhnbG1FQ1hsN19TUEM0MmpxVFAtUXNHakFfajhGRUo2QjdhdEdneC1NTnUtNHpMNkZDUTpHPGI-QmVzdCBCMkI8L2I-IE1lcmNoYW50IEFjY291bnRzICZhbXA7IDxiPlBheW1lbnQ8L2I-IFNvbHV0aW9ucyAoMjAyNilCoAFCZXN0IEIyQiBQYXltZW50IFByb2Nlc3NvcnMgJmFtcDsgUGxhdGZvcm1zLiA8Yj5RdWlja0Jvb2tzIFBheW1lbnRzPC9iPi4gRXN0YWJsaXNoZWQgZ2F0ZXdheSB3aXRoIHJlY3VycmluZyBhbmQgcmVtb3RlIHBheW1lbnQgdG9vbHMuIFF1aWNrQm9va3MsIFhlcm8sJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZYRWFFdjNaYkRUUzkwczNPdGVCb25CYmtoUkEyWlR3azY1ZGZmWnQ5aTEyUFQ5UXJsV0E0Nm9aZVJTREdLSGtjYVZxZFd1RDV5d2tydFY5X1FiczllOTVSTXM1My0tLVlxcXpZMUlZdXk2b25JbGNnR0pZNHZkUS04SlJBaTRaMWd6UDRqNG91ano3VG9Gd0pxZWlaX3V5WW9pNkIxaS1hRnBCV0dnc3QyUXZwS1pJckdLeVh3dkJFMU8xcDd6R1ZuTmRwa1lUckNFVDV2NGhnbG1FQ1hsN19TUEM0MmpxVFAtUXNHakFfajhGRUo2QjdhdEdneC1NTnUtNHpMNkZDURIEGgIIABrbBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC3BggAEAAYACAAKlEKA3RvcBUAAAAAGgRiZXN0GgdiaWdnZXN0GgVjaGVhcBoIY2hlYXBlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aB2hpZ2hlc3QaB2xlYWRpbmcqKwoHcGF5bWVudBXWQL5AGghwYXltZW50cxoRcGF5bWVudHByb2Nlc3NpbmcqUAoKcHJvY2Vzc2luZxX_pixAGglwcm9jZWR1cmUaCXByb2Nlc3NvchoKcHJvY2Vzc29ycxoIc2VydmljZXMaEXBheW1lbnRwcm9jZXNzaW5nKicKCGdhdGV3YXlzFRsg2j8aB2dhdGV3YXkaDWl2O3A7Z2F0ZXdheXMqCgoDZm9yFQAAAAAqFAoDYjJiFXABn0AaCGl2O3A7YjJiMpgCL2dvdG8_dXJsPUNBRVN4UUVCNnpzd0ZYRWFFdjNaYkRUUzkwczNPdGVCb25CYmtoUkEyWlR3azY1ZGZmWnQ5aTEyUFQ5UXJsV0E0Nm9aZVJTREdLSGtjYVZxZFd1RDV5d2tydFY5X1FiczllOTVSTXM1My0tLVlxcXpZMUlZdXk2b25JbGNnR0pZNHZkUS04SlJBaTRaMWd6UDRqNG91ano3VG9Gd0pxZWlaX3V5WW9pNkIxaS1hRnBCV0dnc3QyUXZwS1pJckdLeVh3dkJFMU8xcDd6R1ZuTmRwa1lUckNFVDV2NGhnbG1FQ1hsN19TUEM0MmpxVFAtUXNHakFfajhGRUo2QjdhdEdneC1NTnUtNHpMNkZDUTpHPGI-QmVzdCBCMkI8L2I-IE1lcmNoYW50IEFjY291bnRzICZhbXA7IDxiPlBheW1lbnQ8L2I-IFNvbHV0aW9ucyAoMjAyNilCoAFCZXN0IEIyQiBQYXltZW50IFByb2Nlc3NvcnMgJmFtcDsgUGxhdGZvcm1zLiA8Yj5RdWlja0Jvb2tzIFBheW1lbnRzPC9iPi4gRXN0YWJsaXNoZWQgZ2F0ZXdheSB3aXRoIHJlY3VycmluZyBhbmQgcmVtb3RlIHBheW1lbnQgdG9vbHMuIFF1aWNrQm9va3MsIFhlcm8sJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Payment Nerds"
+    },
+    {
+      "position": 3,
+      "title": "Mastering Payment Integrations for Your B2B eCommerce ...",
+      "link": "https://www.b2bwave.com/p/mastering-payment-integrations-for-your-b2b-ecommerce-platform",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFVjj2uTCHTAR5Ys9tfG1FyOCHQhJCi6acxKvOkb-1m34tpm1zxT-wSZjuI3YIsSr43sHqqKpPHbEiURve0BZAQOtrNSwYvXILfPhxg09orRgG-u3XtbbSehHJYoWJZA34Sil9CEuDvL1fT0B5E5PqMJhkY7_Z6kpxT6hrYpkKHNsGsbSkYuhO0vTS9g&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQFnoECBwQAQ&uoh=1",
+      "displayed_link": "https://www.b2bwave.com › mastering-payment-integra...",
+      "favicon": "https://serpapi.com/images/i/UklGRnAAAABXRUJQVlA4IGQAAABwAwCdASocABwAPtEutFooIagoGAEAGglAAAudZj4UvVDApoAA_vYAjLSAHq-8tVZka0GuFvFlaLq3cf2Q_xKmUD11pFy7lLY5dDoUQathkIDQkfmPDDJwh_yTQvX4LyaqcMAA.webp",
+      "date": "May 16, 2024",
+      "snippet": "8 payment options to connect with your B2B eCommerce platform · 1. Bank/Wire Transfers · 2. Stripe · 3. Square · 4. Authorize.net · 5. PayPal · 6.",
+      "snippet_highlighted_words": [
+        "1. Bank/Wire Transfers"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "8 payment options to connect with your B2B eCommerce platform · 1. Bank/Wire Transfers · 2. Stripe · 3. Square · 4. Authorize.net · 5. PayPal · 6.",
+          "source_info_link": "https://www.b2bwave.com/p/mastering-payment-integrations-for-your-b2b-ecommerce-platform",
+          "icon": "https://serpapi.com/images/i/UklGRnAAAABXRUJQVlA4IGQAAABwAwCdASocABwAPtEutFooIagoGAEAGglAAAudZj4UvVDApoAA_vYAjLSAHq-8tVZka0GuFvFlaLq3cf2Q_xKmUD11pFy7lLY5dDoUQathkIDQkfmPDDJwh_yTQvX4LyaqcMAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZWamoydVRDSFRBUjVZczl0ZkcxRnlPQ0hRaEpDaTZhY3hLdk9rYi0xbTM0dHBtMXp4VC13U1pqdUkzWUlzU3I0M3NIcXFLcFBIYkVpVVJ2ZTBCWkFRT3RyTlN3WXZYSUxmUGh4ZzA5b3JSZ0ctdTNYdGJiU2VoSEpZb1dKWkEzNFNpbDlDRXVEdkwxZlQwQjVFNVBxTUpoa1k3X1o2a3B4VDZocllwa0tITnNHc2JTa1l1aE8wdlRTOWcSBBoCCAAatwYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAkwYIABAAGAAgACpRCgN0b3AVsjovPxoEYmVzdBoHYmlnZ2VzdBoFY2hlYXAaCGNoZWFwZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdoaWdoZXN0GgdsZWFkaW5nKisKB3BheW1lbnQVEIekQBoIcGF5bWVudHMaEXBheW1lbnRwcm9jZXNzaW5nKlAKCnByb2Nlc3NpbmcVgrYhPxoJcHJvY2VkdXJlGglwcm9jZXNzb3IaCnByb2Nlc3NvcnMaCHNlcnZpY2VzGhFwYXltZW50cHJvY2Vzc2luZyonCghnYXRld2F5cxUAAAAAGgdnYXRld2F5Gg1pdjtwO2dhdGV3YXlzKgoKA2ZvchUAAAAAKhQKA2IyYhV4uZdAGghpdjtwO2IyYjLRAS9nb3RvP3VybD1DQUVTa0FFQjZ6c3dGVmpqMnVUQ0hUQVI1WXM5dGZHMUZ5T0NIUWhKQ2k2YWN4S3ZPa2ItMW0zNHRwbTF6eFQtd1NaanVJM1lJc1NyNDNzSHFxS3BQSGJFaVVSdmUwQlpBUU90ck5Td1l2WElMZlBoeGcwOW9yUmdHLXUzWHRiYlNlaEhKWW9XSlpBMzRTaWw5Q0V1RHZMMWZUMEI1RTVQcU1KaGtZN19aNmtweFQ2aHJZcGtLSE5zR3NiU2tZdWhPMHZUUzlnOkdNYXN0ZXJpbmcgPGI-UGF5bWVudDwvYj4gSW50ZWdyYXRpb25zIGZvciBZb3VyIDxiPkIyQjwvYj4gZUNvbW1lcmNlIC4uLkLDATggcGF5bWVudCBvcHRpb25zIHRvIGNvbm5lY3Qgd2l0aCB5b3VyIEIyQiBlQ29tbWVyY2UgcGxhdGZvcm0gJm1pZGRvdDsgPGI-MS4gQmFuay9XaXJlIFRyYW5zZmVyczwvYj4gJm1pZGRvdDsgMi4gU3RyaXBlICZtaWRkb3Q7IDMuIFNxdWFyZSAmbWlkZG90OyA0LiBBdXRob3JpemUubmV0ICZtaWRkb3Q7IDUuIFBheVBhbCAmbWlkZG90OyA2LkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZWamoydVRDSFRBUjVZczl0ZkcxRnlPQ0hRaEpDaTZhY3hLdk9rYi0xbTM0dHBtMXp4VC13U1pqdUkzWUlzU3I0M3NIcXFLcFBIYkVpVVJ2ZTBCWkFRT3RyTlN3WXZYSUxmUGh4ZzA5b3JSZ0ctdTNYdGJiU2VoSEpZb1dKWkEzNFNpbDlDRXVEdkwxZlQwQjVFNVBxTUpoa1k3X1o2a3B4VDZocllwa0tITnNHc2JTa1l1aE8wdlRTOWcSBBoCCAAatwYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAkwYIABAAGAAgACpRCgN0b3AVsjovPxoEYmVzdBoHYmlnZ2VzdBoFY2hlYXAaCGNoZWFwZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdoaWdoZXN0GgdsZWFkaW5nKisKB3BheW1lbnQVEIekQBoIcGF5bWVudHMaEXBheW1lbnRwcm9jZXNzaW5nKlAKCnByb2Nlc3NpbmcVgrYhPxoJcHJvY2VkdXJlGglwcm9jZXNzb3IaCnByb2Nlc3NvcnMaCHNlcnZpY2VzGhFwYXltZW50cHJvY2Vzc2luZyonCghnYXRld2F5cxUAAAAAGgdnYXRld2F5Gg1pdjtwO2dhdGV3YXlzKgoKA2ZvchUAAAAAKhQKA2IyYhV4uZdAGghpdjtwO2IyYjLRAS9nb3RvP3VybD1DQUVTa0FFQjZ6c3dGVmpqMnVUQ0hUQVI1WXM5dGZHMUZ5T0NIUWhKQ2k2YWN4S3ZPa2ItMW0zNHRwbTF6eFQtd1NaanVJM1lJc1NyNDNzSHFxS3BQSGJFaVVSdmUwQlpBUU90ck5Td1l2WElMZlBoeGcwOW9yUmdHLXUzWHRiYlNlaEhKWW9XSlpBMzRTaWw5Q0V1RHZMMWZUMEI1RTVQcU1KaGtZN19aNmtweFQ2aHJZcGtLSE5zR3NiU2tZdWhPMHZUUzlnOkdNYXN0ZXJpbmcgPGI-UGF5bWVudDwvYj4gSW50ZWdyYXRpb25zIGZvciBZb3VyIDxiPkIyQjwvYj4gZUNvbW1lcmNlIC4uLkLDATggcGF5bWVudCBvcHRpb25zIHRvIGNvbm5lY3Qgd2l0aCB5b3VyIEIyQiBlQ29tbWVyY2UgcGxhdGZvcm0gJm1pZGRvdDsgPGI-MS4gQmFuay9XaXJlIFRyYW5zZmVyczwvYj4gJm1pZGRvdDsgMi4gU3RyaXBlICZtaWRkb3Q7IDMuIFNxdWFyZSAmbWlkZG90OyA0LiBBdXRob3JpemUubmV0ICZtaWRkb3Q7IDUuIFBheVBhbCAmbWlkZG90OyA2LkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "B2B Wave",
+      "read_more_link": "https://www.b2bwave.com/p/mastering-payment-integrations-for-your-b2b-ecommerce-platform#:~:text=8%20payment%20options%20to%20connect,with%20your%20B2B%20eCommerce%20platform&text=1.%20Bank%2FWire%20Transfers&text=2.%20Stripe&text=3.%20Square&text=4.%20Authorize.net&text=5.%20PayPal&text=6.%20Balance%20payments"
+    },
+    {
+      "position": 4,
+      "title": "B2B Ecommerce Payment Methods: 2026 Guide for ...",
+      "link": "https://www.joor.com/insights/b2b-ecommerce-payment-methods-guide",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVVc_MAH2Qjng5fxP_pqTHCcw74HwBdeadN0Pze6eF0HA50OW4TGXAupM9FIsaNZ-Y_chCEO81S87WtpJMeiEQ3eRAA0xchRkhlBs56lYrItjx8AI84JrMv0h7njO5Y-KYBtr4aFiFN2qft1W2F711jMMOPgM&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQFnoECDgQAQ&uoh=1",
+      "displayed_link": "https://www.joor.com › insights › b2b-ecommerce-pay...",
+      "favicon": "https://serpapi.com/images/i/UklGRp4AAABXRUJQVlA4IJIAAABwBACdASocABwAPrkurlcnIacnG_DgFwlpAAPiiwkGf7fAUNpe2nFqKb_wAAD-9-LedsTXS7pixEAjjWNAyiXQUoxBqAg-9I5gWz6GrgqDqHZefuwGziRLtxVU7u2Ap9cbzGu1sKaXZnIZMYyvivRZO4fu90lbRuoDc46RWkNQEJsQ2q9Q2WXnEcNZuoNNcAAAAA.webp",
+      "snippet": "Common B2B Ecommerce Payment Methods · Local Bank Transfer Networks (ACH, SEPA, BACS) · Checks and Paper Payments · Wire Transfers · Credit & Debit Cards · Virtual ...",
+      "snippet_highlighted_words": [
+        "Local Bank Transfer Networks (ACH, SEPA, BACS"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Common B2B Ecommerce Payment Methods · Local Bank Transfer Networks (ACH, SEPA, BACS) · Checks and Paper Payments · Wire Transfers · Credit & Debit Cards · Virtual ...",
+          "source_info_link": "https://www.joor.com/insights/b2b-ecommerce-payment-methods-guide",
+          "icon": "https://serpapi.com/images/i/UklGRp4AAABXRUJQVlA4IJIAAABwBACdASocABwAPrkurlcnIacnG_DgFwlpAAPiiwkGf7fAUNpe2nFqKb_wAAD-9-LedsTXS7pixEAjjWNAyiXQUoxBqAg-9I5gWz6GrgqDqHZefuwGziRLtxVU7u2Ap9cbzGu1sKaXZnIZMYyvivRZO4fu90lbRuoDc46RWkNQEJsQ2q9Q2WXnEcNZuoNNcAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVlZjX01BSDJRam5nNWZ4UF9wcVRIQ2N3NzRId0JkZWFkTjBQemU2ZUYwSEE1ME9XNFRHWEF1cE05RklzYU5aLVlfY2hDRU84MVM4N1d0cEpNZWlFUTNlUkFBMHhjaFJraGxCczU2bFlySXRqeDhBSTg0SnJNdjBoN25qTzVZLUtZQnRyNGFGaUZOMnFmdDFXMkY3MTFqTU1PUGdNEgQaAggAGq0GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIkGCAAQABgAIAAqUQoDdG9wFQ5MhD0aBGJlc3QaB2JpZ2dlc3QaBWNoZWFwGghjaGVhcGVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoHaGlnaGVzdBoHbGVhZGluZyorCgdwYXltZW50FUG-kkAaCHBheW1lbnRzGhFwYXltZW50cHJvY2Vzc2luZypQCgpwcm9jZXNzaW5nFaqggT8aCXByb2NlZHVyZRoJcHJvY2Vzc29yGgpwcm9jZXNzb3JzGghzZXJ2aWNlcxoRcGF5bWVudHByb2Nlc3NpbmcqJwoIZ2F0ZXdheXMVKt_UPhoHZ2F0ZXdheRoNaXY7cDtnYXRld2F5cyoKCgNmb3IVAAAAACoUCgNiMmIVhJ-KQBoIaXY7cDtiMmIysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWVmNfTUFIMlFqbmc1ZnhQX3BxVEhDY3c3NEh3QmRlYWROMFB6ZTZlRjBIQTUwT1c0VEdYQXVwTTlGSXNhTlotWV9jaENFTzgxUzg3V3RwSk1laUVRM2VSQUEweGNoUmtobEJzNTZsWXJJdGp4OEFJODRKck12MGg3bmpPNVktS1lCdHI0YUZpRk4ycWZ0MVcyRjcxMWpNTU9QZ006RjxiPkIyQjwvYj4gRWNvbW1lcmNlIDxiPlBheW1lbnQ8L2I-IE1ldGhvZHM6IDIwMjYgR3VpZGUgZm9yIEJ1c2luZXNzZXNC2gFDb21tb24gQjJCIEVjb21tZXJjZSBQYXltZW50IE1ldGhvZHMgJm1pZGRvdDsgPGI-TG9jYWwgQmFuayBUcmFuc2ZlciBOZXR3b3JrcyAoQUNILCBTRVBBLCBCQUNTPC9iPikgJm1pZGRvdDsgQ2hlY2tzIGFuZCBQYXBlciBQYXltZW50cyAmbWlkZG90OyBXaXJlIFRyYW5zZmVycyAmbWlkZG90OyBDcmVkaXQgJmFtcDsgRGViaXQgQ2FyZHMgJm1pZGRvdDsgVmlydHVhbCZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVlZjX01BSDJRam5nNWZ4UF9wcVRIQ2N3NzRId0JkZWFkTjBQemU2ZUYwSEE1ME9XNFRHWEF1cE05RklzYU5aLVlfY2hDRU84MVM4N1d0cEpNZWlFUTNlUkFBMHhjaFJraGxCczU2bFlySXRqeDhBSTg0SnJNdjBoN25qTzVZLUtZQnRyNGFGaUZOMnFmdDFXMkY3MTFqTU1PUGdNEgQaAggAGq0GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIkGCAAQABgAIAAqUQoDdG9wFQ5MhD0aBGJlc3QaB2JpZ2dlc3QaBWNoZWFwGghjaGVhcGVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoHaGlnaGVzdBoHbGVhZGluZyorCgdwYXltZW50FUG-kkAaCHBheW1lbnRzGhFwYXltZW50cHJvY2Vzc2luZypQCgpwcm9jZXNzaW5nFaqggT8aCXByb2NlZHVyZRoJcHJvY2Vzc29yGgpwcm9jZXNzb3JzGghzZXJ2aWNlcxoRcGF5bWVudHByb2Nlc3NpbmcqJwoIZ2F0ZXdheXMVKt_UPhoHZ2F0ZXdheRoNaXY7cDtnYXRld2F5cyoKCgNmb3IVAAAAACoUCgNiMmIVhJ-KQBoIaXY7cDtiMmIysQEvZ290bz91cmw9Q0FFU2VRSHJPekFWVmNfTUFIMlFqbmc1ZnhQX3BxVEhDY3c3NEh3QmRlYWROMFB6ZTZlRjBIQTUwT1c0VEdYQXVwTTlGSXNhTlotWV9jaENFTzgxUzg3V3RwSk1laUVRM2VSQUEweGNoUmtobEJzNTZsWXJJdGp4OEFJODRKck12MGg3bmpPNVktS1lCdHI0YUZpRk4ycWZ0MVcyRjcxMWpNTU9QZ006RjxiPkIyQjwvYj4gRWNvbW1lcmNlIDxiPlBheW1lbnQ8L2I-IE1ldGhvZHM6IDIwMjYgR3VpZGUgZm9yIEJ1c2luZXNzZXNC2gFDb21tb24gQjJCIEVjb21tZXJjZSBQYXltZW50IE1ldGhvZHMgJm1pZGRvdDsgPGI-TG9jYWwgQmFuayBUcmFuc2ZlciBOZXR3b3JrcyAoQUNILCBTRVBBLCBCQUNTPC9iPikgJm1pZGRvdDsgQ2hlY2tzIGFuZCBQYXBlciBQYXltZW50cyAmbWlkZG90OyBXaXJlIFRyYW5zZmVycyAmbWlkZG90OyBDcmVkaXQgJmFtcDsgRGViaXQgQ2FyZHMgJm1pZGRvdDsgVmlydHVhbCZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "JOOR",
+      "read_more_link": "https://www.joor.com/insights/b2b-ecommerce-payment-methods-guide#:~:text=Common%20B2B%20Ecommerce%20Payment%20Methods&text=Local%20Bank%20Transfer%20Networks%20(ACH%2C,SEPA%2C%20BACS)&text=Checks%20and%20Paper%20Payments&text=Wire%20Transfers&text=Credit%20%26%20Debit%20Cards&text=Virtual%20Cards"
+    },
+    {
+      "position": 5,
+      "title": "Top 6 B2B Payment Methods Every Business Should Know",
+      "link": "https://bsscommerce.com/services/blog/b2b-payment-methods/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVi_h0t4l3JWQsY00XCkHI-F7epawvvcCQBSeiCoCS33cC_GH2L9J0mXyVoTvV1q4yRU5_ylWHXCCg1ddvQvyLAz7oYYMY6T9Ed0eWbsExCcqYT9KmRjz1nmT86lTvDy1z--Nl-btHCto8EOhxJw&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQFnoECDkQAQ&uoh=1",
+      "displayed_link": "https://bsscommerce.com › services › blog › b2b-paym...",
+      "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAABQBgCdASocABwAPtEutFooIagoGAEAGglsAL5wgRoC7AN5DIiXdkjedYKy4GYoOfTv8SfWU3ILevNAAAD-9getjy7dSQfZP4lKzo_V_c0c_5iORjo9S_TIW6yeyjipKiUtuDBzdaE5Vd3O0yBpyvDpiBtPup8PlgaJXzVbCWfBvJBwcVS2v51FQNtfbR8ezZjd_6uoNb0yNXtRBMe5ZiYUF_hFjfvmv946j3hyd7P_a9bmT_h4jd053e6r1rt_BrKBhGw2pYLaqHsrnN-_Fi0_lWufyyzwsCNmFmb__e2KPuzuz9_39KTkbVjkvgu3BoPNLwARFiR383O64v-8ULq6gAA.webp",
+      "date": "Apr 30, 2020",
+      "snippet": "6 Most Common B2B Payment Methods · Paper Check · Credit Card · ACH (Automated Clearing House) Payment · Bank/Wire Transfer · Cash · Payment Gateways.",
+      "snippet_highlighted_words": [
+        "Payment Gateways"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "6 Most Common B2B Payment Methods · Paper Check · Credit Card · ACH (Automated Clearing House) Payment · Bank/Wire Transfer · Cash · Payment Gateways.",
+          "source_info_link": "https://bsscommerce.com/services/blog/b2b-payment-methods/",
+          "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAABQBgCdASocABwAPtEutFooIagoGAEAGglsAL5wgRoC7AN5DIiXdkjedYKy4GYoOfTv8SfWU3ILevNAAAD-9getjy7dSQfZP4lKzo_V_c0c_5iORjo9S_TIW6yeyjipKiUtuDBzdaE5Vd3O0yBpyvDpiBtPup8PlgaJXzVbCWfBvJBwcVS2v51FQNtfbR8ezZjd_6uoNb0yNXtRBMe5ZiYUF_hFjfvmv946j3hyd7P_a9bmT_h4jd053e6r1rt_BrKBhGw2pYLaqHsrnN-_Fi0_lWufyyzwsCNmFmb__e2KPuzuz9_39KTkbVjkvgu3BoPNLwARFiR383O64v-8ULq6gAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVmlfaDB0NGwzSldRc1kwMFhDa0hJLUY3ZXBhd3Z2Y0NRQlNlaUNvQ1MzM2NDX0dIMkw5SjBtWHlWb1R2VjFxNHlSVTVfeWxXSFhDQ2cxZGR2UXZ5TEF6N29ZWU1ZNlQ5RWQwZVdic0V4Q2NxWVQ5S21Sanoxbm1UODZsVHZEeTF6LS1ObC1idEhDdG84RU9oeEp3EgQaAggAGo0GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOkFCAAQABgAIAAqUQoDdG9wFQ1VIUAaBGJlc3QaB2JpZ2dlc3QaBWNoZWFwGghjaGVhcGVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoHaGlnaGVzdBoHbGVhZGluZyorCgdwYXltZW50FSDVmEAaCHBheW1lbnRzGhFwYXltZW50cHJvY2Vzc2luZypQCgpwcm9jZXNzaW5nFYqSSj8aCXByb2NlZHVyZRoJcHJvY2Vzc29yGgpwcm9jZXNzb3JzGghzZXJ2aWNlcxoRcGF5bWVudHByb2Nlc3NpbmcqJwoIZ2F0ZXdheXMVBFaDPxoHZ2F0ZXdheRoNaXY7cDtnYXRld2F5cyoKCgNmb3IVAAAAACoUCgNiMmIVqN6kQBoIaXY7cDtiMmIyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWaV9oMHQ0bDNKV1FzWTAwWENrSEktRjdlcGF3dnZjQ1FCU2VpQ29DUzMzY0NfR0gyTDlKMG1YeVZvVHZWMXE0eVJVNV95bFdIWENDZzFkZHZRdnlMQXo3b1lZTVk2VDlFZDBlV2JzRXhDY3FZVDlLbVJqejFubVQ4NmxUdkR5MXotLU5sLWJ0SEN0bzhFT2h4Snc6QjxiPlRvcDwvYj4gNiA8Yj5CMkIgUGF5bWVudDwvYj4gTWV0aG9kcyBFdmVyeSBCdXNpbmVzcyBTaG91bGQgS25vd0LHATYgTW9zdCBDb21tb24gQjJCIFBheW1lbnQgTWV0aG9kcyAmbWlkZG90OyBQYXBlciBDaGVjayAmbWlkZG90OyBDcmVkaXQgQ2FyZCAmbWlkZG90OyBBQ0ggKEF1dG9tYXRlZCBDbGVhcmluZyBIb3VzZSkgUGF5bWVudCAmbWlkZG90OyBCYW5rL1dpcmUgVHJhbnNmZXIgJm1pZGRvdDsgQ2FzaCAmbWlkZG90OyA8Yj5QYXltZW50IEdhdGV3YXlzPC9iPi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVmlfaDB0NGwzSldRc1kwMFhDa0hJLUY3ZXBhd3Z2Y0NRQlNlaUNvQ1MzM2NDX0dIMkw5SjBtWHlWb1R2VjFxNHlSVTVfeWxXSFhDQ2cxZGR2UXZ5TEF6N29ZWU1ZNlQ5RWQwZVdic0V4Q2NxWVQ5S21Sanoxbm1UODZsVHZEeTF6LS1ObC1idEhDdG84RU9oeEp3EgQaAggAGo0GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOkFCAAQABgAIAAqUQoDdG9wFQ1VIUAaBGJlc3QaB2JpZ2dlc3QaBWNoZWFwGghjaGVhcGVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoHaGlnaGVzdBoHbGVhZGluZyorCgdwYXltZW50FSDVmEAaCHBheW1lbnRzGhFwYXltZW50cHJvY2Vzc2luZypQCgpwcm9jZXNzaW5nFYqSSj8aCXByb2NlZHVyZRoJcHJvY2Vzc29yGgpwcm9jZXNzb3JzGghzZXJ2aWNlcxoRcGF5bWVudHByb2Nlc3NpbmcqJwoIZ2F0ZXdheXMVBFaDPxoHZ2F0ZXdheRoNaXY7cDtnYXRld2F5cyoKCgNmb3IVAAAAACoUCgNiMmIVqN6kQBoIaXY7cDtiMmIyqAEvZ290bz91cmw9Q0FFU2NnSHJPekFWaV9oMHQ0bDNKV1FzWTAwWENrSEktRjdlcGF3dnZjQ1FCU2VpQ29DUzMzY0NfR0gyTDlKMG1YeVZvVHZWMXE0eVJVNV95bFdIWENDZzFkZHZRdnlMQXo3b1lZTVk2VDlFZDBlV2JzRXhDY3FZVDlLbVJqejFubVQ4NmxUdkR5MXotLU5sLWJ0SEN0bzhFT2h4Snc6QjxiPlRvcDwvYj4gNiA8Yj5CMkIgUGF5bWVudDwvYj4gTWV0aG9kcyBFdmVyeSBCdXNpbmVzcyBTaG91bGQgS25vd0LHATYgTW9zdCBDb21tb24gQjJCIFBheW1lbnQgTWV0aG9kcyAmbWlkZG90OyBQYXBlciBDaGVjayAmbWlkZG90OyBDcmVkaXQgQ2FyZCAmbWlkZG90OyBBQ0ggKEF1dG9tYXRlZCBDbGVhcmluZyBIb3VzZSkgUGF5bWVudCAmbWlkZG90OyBCYW5rL1dpcmUgVHJhbnNmZXIgJm1pZGRvdDsgQ2FzaCAmbWlkZG90OyA8Yj5QYXltZW50IEdhdGV3YXlzPC9iPi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "BSS Commerce",
+      "read_more_link": "https://bsscommerce.com/services/blog/b2b-payment-methods/#:~:text=6%20Most%20Common%20B2B%20Payment,Methods&text=Paper%20Check&text=Credit%20Card&text=ACH%20(Automated%20Clearing%20House)%20Payment&text=Bank%2FWire%20Transfer&text=Cash&text=Payment%20Gateways"
+    },
+    {
+      "position": 6,
+      "title": "The Best B2B Payment Solutions: A Guide",
+      "link": "https://resolvepay.com/blog/post/best-b2b-payment-solutions-guide/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAVEDGV0-UyP5e0Nx2YCrFrp06_4DgD8yVOgrVFdTGffkRfLIo6IuTVz9lO3HVTp12XnofQfRjcpnDjmxsNDQJTn3ArDeFmTUpTgMRSUeDUU_jvvRl7IRPDCVXn0SXX_q73sClSRs7k3gp3i7T-gsxkuxj9m9g0&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://resolvepay.com › blog › post › best-b2b-payme...",
+      "favicon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAABwBgCdASocABwAPrkurlcnIacnG_DgFwloALDwldbgLet-6FKRBpQNNT1l-zwxa3wZ8g2iouffyAljQAAA_vfpmm-ImoGpzu6-VtWuYBv6m72L6cQAFso4tvnZ4Q5rHmV1I_Zup01H9vAUOsIqYWCWa6lO03T2Cf0W55O5exhikKF5KLXS2sx3uYsaW4xHDKnxA8fx_d_i5VGq93U3MTkaii_MVm_uhDdZjm5lBtb_zFGHWb_5KJdFNbmR9gwfbaqwFjE5ueVSpoD8bc-7Z6N1oRMwzD-7oqt-4hQJtmGhdcqxwsswRN2BTmh8GpgTECXQ695mSbht0vdhQag2cf11QoAAAA.webp",
+      "date": "Mar 20, 2026",
+      "snippet": "Popular companies in the B2B payment landscape · Apuve · Balance · Behalf · BlueVine · CreditKey · Resolve.",
+      "snippet_highlighted_words": [
+        "Apuve"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Popular companies in the B2B payment landscape · Apuve · Balance · Behalf · BlueVine · CreditKey · Resolve.",
+          "source_info_link": "https://resolvepay.com/blog/post/best-b2b-payment-solutions-guide/",
+          "icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAABwBgCdASocABwAPrkurlcnIacnG_DgFwloALDwldbgLet-6FKRBpQNNT1l-zwxa3wZ8g2iouffyAljQAAA_vfpmm-ImoGpzu6-VtWuYBv6m72L6cQAFso4tvnZ4Q5rHmV1I_Zup01H9vAUOsIqYWCWa6lO03T2Cf0W55O5exhikKF5KLXS2sx3uYsaW4xHDKnxA8fx_d_i5VGq93U3MTkaii_MVm_uhDdZjm5lBtb_zFGHWb_5KJdFNbmR9gwfbaqwFjE5ueVSpoD8bc-7Z6N1oRMwzD-7oqt-4hQJtmGhdcqxwsswRN2BTmh8GpgTECXQ695mSbht0vdhQag2cf11QoAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVkVER1YwLVV5UDVlME54MllDckZycDA2XzREZ0Q4eVZPZ3JWRmRUR2Zma1JmTElvNkl1VFZ6OWxPM0hWVHAxMlhub2ZRZlJqY3BuRGpteHNORFFKVG4zQXJEZUZtVFVwVGdNUlNVZURVVV9qdnZSbDdJUlBEQ1ZYbjBTWFhfcTczc0NsU1JzN2szZ3AzaTdULWdzeGt1eGo5bTlnMBIEGgIIABrmBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDCBQgAEAAYACAAKlEKA3RvcBU2SRs-GgRiZXN0GgdiaWdnZXN0GgVjaGVhcBoIY2hlYXBlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aB2hpZ2hlc3QaB2xlYWRpbmcqKwoHcGF5bWVudBXzzKpAGghwYXltZW50cxoRcGF5bWVudHByb2Nlc3NpbmcqUAoKcHJvY2Vzc2luZxUXaVg_Gglwcm9jZWR1cmUaCXByb2Nlc3NvchoKcHJvY2Vzc29ycxoIc2VydmljZXMaEXBheW1lbnRwcm9jZXNzaW5nKicKCGdhdGV3YXlzFQAAAAAaB2dhdGV3YXkaDWl2O3A7Z2F0ZXdheXMqCgoDZm9yFQAAAAAqFAoDYjJiFSY5qUAaCGl2O3A7YjJiMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVkVER1YwLVV5UDVlME54MllDckZycDA2XzREZ0Q4eVZPZ3JWRmRUR2Zma1JmTElvNkl1VFZ6OWxPM0hWVHAxMlhub2ZRZlJqY3BuRGpteHNORFFKVG4zQXJEZUZtVFVwVGdNUlNVZURVVV9qdnZSbDdJUlBEQ1ZYbjBTWFhfcTczc0NsU1JzN2szZ3AzaTdULWdzeGt1eGo5bTlnMDo8VGhlIDxiPkJlc3QgQjJCIFBheW1lbnQ8L2I-IFNvbHV0aW9uczogQSBHdWlkZSAtIFJlc29sdmUgUGF5QpwBUG9wdWxhciBjb21wYW5pZXMgaW4gdGhlIEIyQiBwYXltZW50IGxhbmRzY2FwZSAmbWlkZG90OyA8Yj5BcHV2ZTwvYj4gJm1pZGRvdDsgQmFsYW5jZSAmbWlkZG90OyBCZWhhbGYgJm1pZGRvdDsgQmx1ZVZpbmUgJm1pZGRvdDsgQ3JlZGl0S2V5ICZtaWRkb3Q7IFJlc29sdmUuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVkVER1YwLVV5UDVlME54MllDckZycDA2XzREZ0Q4eVZPZ3JWRmRUR2Zma1JmTElvNkl1VFZ6OWxPM0hWVHAxMlhub2ZRZlJqY3BuRGpteHNORFFKVG4zQXJEZUZtVFVwVGdNUlNVZURVVV9qdnZSbDdJUlBEQ1ZYbjBTWFhfcTczc0NsU1JzN2szZ3AzaTdULWdzeGt1eGo5bTlnMBIEGgIIABrmBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDCBQgAEAAYACAAKlEKA3RvcBU2SRs-GgRiZXN0GgdiaWdnZXN0GgVjaGVhcBoIY2hlYXBlc3QaB2NvbXBhcmUaCmNvbXBhcmlzb24aB2hpZ2hlc3QaB2xlYWRpbmcqKwoHcGF5bWVudBXzzKpAGghwYXltZW50cxoRcGF5bWVudHByb2Nlc3NpbmcqUAoKcHJvY2Vzc2luZxUXaVg_Gglwcm9jZWR1cmUaCXByb2Nlc3NvchoKcHJvY2Vzc29ycxoIc2VydmljZXMaEXBheW1lbnRwcm9jZXNzaW5nKicKCGdhdGV3YXlzFQAAAAAaB2dhdGV3YXkaDWl2O3A7Z2F0ZXdheXMqCgoDZm9yFQAAAAAqFAoDYjJiFSY5qUAaCGl2O3A7YjJiMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVkVER1YwLVV5UDVlME54MllDckZycDA2XzREZ0Q4eVZPZ3JWRmRUR2Zma1JmTElvNkl1VFZ6OWxPM0hWVHAxMlhub2ZRZlJqY3BuRGpteHNORFFKVG4zQXJEZUZtVFVwVGdNUlNVZURVVV9qdnZSbDdJUlBEQ1ZYbjBTWFhfcTczc0NsU1JzN2szZ3AzaTdULWdzeGt1eGo5bTlnMDo8VGhlIDxiPkJlc3QgQjJCIFBheW1lbnQ8L2I-IFNvbHV0aW9uczogQSBHdWlkZSAtIFJlc29sdmUgUGF5QpwBUG9wdWxhciBjb21wYW5pZXMgaW4gdGhlIEIyQiBwYXltZW50IGxhbmRzY2FwZSAmbWlkZG90OyA8Yj5BcHV2ZTwvYj4gJm1pZGRvdDsgQmFsYW5jZSAmbWlkZG90OyBCZWhhbGYgJm1pZGRvdDsgQmx1ZVZpbmUgJm1pZGRvdDsgQ3JlZGl0S2V5ICZtaWRkb3Q7IFJlc29sdmUuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Resolve Pay",
+      "read_more_link": "https://resolvepay.com/blog/post/best-b2b-payment-solutions-guide/#:~:text=Popular%20companies%20in%20the%20B2B,payment%20landscape&text=Apuve&text=Balance&text=Behalf&text=BlueVine&text=CreditKey&text=Resolve"
+    },
+    {
+      "position": 7,
+      "title": "Some good B2B payment processing methods",
+      "link": "https://www.reddit.com/r/Entrepreneur/comments/9jv67b/some_good_b2b_payment_processing_methods/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlwEB6zswFTQtZony8i75-NWjBEgY9FaaS6MIlL_wJyko9dHtO76pGwYp4vd-l8rXaYcVDI70ULExmz1chwdDn9nCaRpYxvaf-zPWo5YlC2bqUCqQJsnyg4grzWqPs01XdIdmEneRs2QSxqbp7wPy2vR4AJ2MG14fU9EsWiBYV53BSh2fadKbyYncXXXaAZBxY9Jk8LP55Cyo&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQFnoECEEQAQ&uoh=1",
+      "displayed_link": "7 comments · 7 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "There are several good options, including some gateways (like CardPointe and others) that can automate sending the enhanced data,",
+      "snippet_highlighted_words": [
+        "CardPointe"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "There are several good options, including some gateways (like CardPointe and others) that can automate sending the enhanced data,",
+          "source_info_link": "https://www.reddit.com/r/Entrepreneur/comments/9jv67b/some_good_b2b_payment_processing_methods/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZUUXRab255OGk3NS1OV2pCRWdZOUZhYVM2TUlsTF93SnlrbzlkSHRPNzZwR3dZcDR2ZC1sOHJYYVljVkRJNzBVTEV4bXoxY2h3ZERuOW5DYVJwWXh2YWYtelBXbzVZbEMyYnFVQ3FRSnNueWc0Z3J6V3FQczAxWGRJZG1FbmVSczJRU3hxYnA3d1B5MnZSNEFKMk1HMTRmVTlFc1dpQllWNTNCU2gyZmFkS2J5WW5jWFhYYUFaQnhZOUprOExQNTVDeW8SBBoCCAAa_gUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2gUIABAAGAAgACpRCgN0b3AVfFnLPRoEYmVzdBoHYmlnZ2VzdBoFY2hlYXAaCGNoZWFwZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdoaWdoZXN0GgdsZWFkaW5nKisKB3BheW1lbnQVxmpoQBoIcGF5bWVudHMaEXBheW1lbnRwcm9jZXNzaW5nKlAKCnByb2Nlc3NpbmcV_J1_QBoJcHJvY2VkdXJlGglwcm9jZXNzb3IaCnByb2Nlc3NvcnMaCHNlcnZpY2VzGhFwYXltZW50cHJvY2Vzc2luZyonCghnYXRld2F5cxU9Ago-GgdnYXRld2F5Gg1pdjtwO2dhdGV3YXlzKgoKA2ZvchUAAAAAKhQKA2IyYhVwv4hAGghpdjtwO2IyYjLaAS9nb3RvP3VybD1DQUVTbHdFQjZ6c3dGVFF0Wm9ueThpNzUtTldqQkVnWTlGYWFTNk1JbExfd0p5a285ZEh0Tzc2cEd3WXA0dmQtbDhyWGFZY1ZESTcwVUxFeG16MWNod2REbjluQ2FScFl4dmFmLXpQV281WWxDMmJxVUNxUUpzbnlnNGdyeldxUHMwMVhkSWRtRW5lUnMyUVN4cWJwN3dQeTJ2UjRBSjJNRzE0ZlU5RXNXaUJZVjUzQlNoMmZhZEtieVluY1hYWGFBWkJ4WTlKazhMUDU1Q3lvOkBTb21lIGdvb2QgPGI-QjJCIHBheW1lbnQgcHJvY2Vzc2luZzwvYj4gbWV0aG9kcyA6IHIvRW50cmVwcmVuZXVyQogBVGhlcmUgYXJlIHNldmVyYWwgZ29vZCBvcHRpb25zLCBpbmNsdWRpbmcgc29tZSBnYXRld2F5cyAobGlrZSA8Yj5DYXJkUG9pbnRlPC9iPiBhbmQgb3RoZXJzKSB0aGF0IGNhbiBhdXRvbWF0ZSBzZW5kaW5nIHRoZSBlbmhhbmNlZCBkYXRhLEoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZUUXRab255OGk3NS1OV2pCRWdZOUZhYVM2TUlsTF93SnlrbzlkSHRPNzZwR3dZcDR2ZC1sOHJYYVljVkRJNzBVTEV4bXoxY2h3ZERuOW5DYVJwWXh2YWYtelBXbzVZbEMyYnFVQ3FRSnNueWc0Z3J6V3FQczAxWGRJZG1FbmVSczJRU3hxYnA3d1B5MnZSNEFKMk1HMTRmVTlFc1dpQllWNTNCU2gyZmFkS2J5WW5jWFhYYUFaQnhZOUprOExQNTVDeW8SBBoCCAAa_gUSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA2gUIABAAGAAgACpRCgN0b3AVfFnLPRoEYmVzdBoHYmlnZ2VzdBoFY2hlYXAaCGNoZWFwZXN0Ggdjb21wYXJlGgpjb21wYXJpc29uGgdoaWdoZXN0GgdsZWFkaW5nKisKB3BheW1lbnQVxmpoQBoIcGF5bWVudHMaEXBheW1lbnRwcm9jZXNzaW5nKlAKCnByb2Nlc3NpbmcV_J1_QBoJcHJvY2VkdXJlGglwcm9jZXNzb3IaCnByb2Nlc3NvcnMaCHNlcnZpY2VzGhFwYXltZW50cHJvY2Vzc2luZyonCghnYXRld2F5cxU9Ago-GgdnYXRld2F5Gg1pdjtwO2dhdGV3YXlzKgoKA2ZvchUAAAAAKhQKA2IyYhVwv4hAGghpdjtwO2IyYjLaAS9nb3RvP3VybD1DQUVTbHdFQjZ6c3dGVFF0Wm9ueThpNzUtTldqQkVnWTlGYWFTNk1JbExfd0p5a285ZEh0Tzc2cEd3WXA0dmQtbDhyWGFZY1ZESTcwVUxFeG16MWNod2REbjluQ2FScFl4dmFmLXpQV281WWxDMmJxVUNxUUpzbnlnNGdyeldxUHMwMVhkSWRtRW5lUnMyUVN4cWJwN3dQeTJ2UjRBSjJNRzE0ZlU5RXNXaUJZVjUzQlNoMmZhZEtieVluY1hYWGFBWkJ4WTlKazhMUDU1Q3lvOkBTb21lIGdvb2QgPGI-QjJCIHBheW1lbnQgcHJvY2Vzc2luZzwvYj4gbWV0aG9kcyA6IHIvRW50cmVwcmVuZXVyQogBVGhlcmUgYXJlIHNldmVyYWwgZ29vZCBvcHRpb25zLCBpbmNsdWRpbmcgc29tZSBnYXRld2F5cyAobGlrZSA8Yj5DYXJkUG9pbnRlPC9iPiBhbmQgb3RoZXJzKSB0aGF0IGNhbiBhdXRvbWF0ZSBzZW5kaW5nIHRoZSBlbmhhbmNlZCBkYXRhLEoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Reddit · r/Entrepreneur"
+    },
+    {
+      "position": 8,
+      "title": "Payment Orchestration and Unified Platforms for B2B ...",
+      "link": "https://info.praxent.com/blog/b2b-payment-orchestration-unified-platforms",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFTzjs-AAMv2lP5OqmJTigV2P3dzXyMMpX4v34kRYkZM1xK0U5A4WO03O7rg93qJnD-cqrkS58FFB2zq6i7GvC_Ornxbm3MgixUQAUnglpAhzvQ4fqFBjVzLsZkF34RlHbjA-5bFTxo6_X2d03gbS2IO7dTdv6T9rLmNiyYY&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQFnoECDsQAQ&uoh=1",
+      "displayed_link": "https://info.praxent.com › blog › b2b-payment-orchestra...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEwro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8M9S8vAAAAD3RSTlMAIKDp32GwVPY9voaWEHu7ZZjAAAAA9klEQVQokb1TS6LDIAhExW9juP9tKxiMNrVv91gEmDEyigAAGIsJrYHbzDEhL-r2GvQ5I0oTnR-0LDB0W99wRQ52Nss_VnjLYfCF3QHISUNj8054JzjInwi8KjPMAWjAlaogqX38g6-XjgRcJtVvPDNF6rbKiKKKjYMSAm_MOyPtjQXXtKWlLkDY0GFcePRedDTvo-tBhNWGftTg__h86TMmG4NdXx6s3Zyvtxt-3I-W25kD7Y9zcmOllDDlFKWL9OhvHv39_j6Yr6JAsyffEbwOkml-n-FCUN-3vw9sF-Sv-ZjmSwfwXJHnfCpy9NRYR26d74G8AacCIK4q2zHvAAAAAElFTkSuQmCC.png",
+      "snippet": "Discover how payment orchestration, smart routing, and unified platforms help B2B payments teams boost approvals, cut fees, and scale globally.",
+      "snippet_highlighted_words": [
+        "payment orchestration, smart routing, and unified platforms"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Discover how payment orchestration, smart routing, and unified platforms help B2B payments teams boost approvals, cut fees, and scale globally.",
+          "source_info_link": "https://info.praxent.com/blog/b2b-payment-orchestration-unified-platforms",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAMFBMVEVHcEwro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8ro_8M9S8vAAAAD3RSTlMAIKDp32GwVPY9voaWEHu7ZZjAAAAA9klEQVQokb1TS6LDIAhExW9juP9tKxiMNrVv91gEmDEyigAAGIsJrYHbzDEhL-r2GvQ5I0oTnR-0LDB0W99wRQ52Nss_VnjLYfCF3QHISUNj8054JzjInwi8KjPMAWjAlaogqX38g6-XjgRcJtVvPDNF6rbKiKKKjYMSAm_MOyPtjQXXtKWlLkDY0GFcePRedDTvo-tBhNWGftTg__h86TMmG4NdXx6s3Zyvtxt-3I-W25kD7Y9zcmOllDDlFKWL9OhvHv39_j6Yr6JAsyffEbwOkml-n-FCUN-3vw9sF-Sv-ZjmSwfwXJHnfCpy9NRYR26d74G8AacCIK4q2zHvAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZUempzLUFBTXYybFA1T3FtSlRpZ1YyUDNkelh5TU1wWDR2MzRrUllrWk0xeEswVTVBNFdPMDNPN3JnOTNxSm5ELWNxcmtTNThGRkIyenE2aTdHdkNfT3JueGJtM01naXhVUUFVbmdscEFoenZRNGZxRkJqVnpMc1prRjM0UmxIYmpBLTViRlR4bzZfWDJkMDNnYlMySU83ZFRkdjZUOXJMbU5peVlZEgQaAggAGvkFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNUFCAAQABgAIAAqUQoDdG9wFeT_oj0aBGJlc3QaB2JpZ2dlc3QaBWNoZWFwGghjaGVhcGVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoHaGlnaGVzdBoHbGVhZGluZyorCgdwYXltZW50FQOHrUAaCHBheW1lbnRzGhFwYXltZW50cHJvY2Vzc2luZypQCgpwcm9jZXNzaW5nFbIW0D4aCXByb2NlZHVyZRoJcHJvY2Vzc29yGgpwcm9jZXNzb3JzGghzZXJ2aWNlcxoRcGF5bWVudHByb2Nlc3NpbmcqJwoIZ2F0ZXdheXMVCumVPhoHZ2F0ZXdheRoNaXY7cDtnYXRld2F5cyoKCgNmb3IVAAAAACoUCgNiMmIVJC5lQBoIaXY7cDtiMmIyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RlR6anMtQUFNdjJsUDVPcW1KVGlnVjJQM2R6WHlNTXBYNHYzNGtSWWtaTTF4SzBVNUE0V08wM083cmc5M3FKbkQtY3Fya1M1OEZGQjJ6cTZpN0d2Q19Pcm54Ym0zTWdpeFVRQVVuZ2xwQWh6dlE0ZnFGQmpWekxzWmtGMzRSbEhiakEtNWJGVHhvNl9YMmQwM2diUzJJTzdkVGR2NlQ5ckxtTml5WVk6SjxiPlBheW1lbnQ8L2I-IE9yY2hlc3RyYXRpb24gYW5kIFVuaWZpZWQgUGxhdGZvcm1zIGZvciA8Yj5CMkIgUGF5bWVudHM8L2I-QpYBRGlzY292ZXIgaG93IDxiPnBheW1lbnQgb3JjaGVzdHJhdGlvbiwgc21hcnQgcm91dGluZywgYW5kIHVuaWZpZWQgcGxhdGZvcm1zPC9iPiBoZWxwIEIyQiBwYXltZW50cyB0ZWFtcyBib29zdCBhcHByb3ZhbHMsIGN1dCBmZWVzLCBhbmQgc2NhbGUgZ2xvYmFsbHkuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZUempzLUFBTXYybFA1T3FtSlRpZ1YyUDNkelh5TU1wWDR2MzRrUllrWk0xeEswVTVBNFdPMDNPN3JnOTNxSm5ELWNxcmtTNThGRkIyenE2aTdHdkNfT3JueGJtM01naXhVUUFVbmdscEFoenZRNGZxRkJqVnpMc1prRjM0UmxIYmpBLTViRlR4bzZfWDJkMDNnYlMySU83ZFRkdjZUOXJMbU5peVlZEgQaAggAGvkFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNUFCAAQABgAIAAqUQoDdG9wFeT_oj0aBGJlc3QaB2JpZ2dlc3QaBWNoZWFwGghjaGVhcGVzdBoHY29tcGFyZRoKY29tcGFyaXNvbhoHaGlnaGVzdBoHbGVhZGluZyorCgdwYXltZW50FQOHrUAaCHBheW1lbnRzGhFwYXltZW50cHJvY2Vzc2luZypQCgpwcm9jZXNzaW5nFbIW0D4aCXByb2NlZHVyZRoJcHJvY2Vzc29yGgpwcm9jZXNzb3JzGghzZXJ2aWNlcxoRcGF5bWVudHByb2Nlc3NpbmcqJwoIZ2F0ZXdheXMVCumVPhoHZ2F0ZXdheRoNaXY7cDtnYXRld2F5cyoKCgNmb3IVAAAAACoUCgNiMmIVJC5lQBoIaXY7cDtiMmIyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RlR6anMtQUFNdjJsUDVPcW1KVGlnVjJQM2R6WHlNTXBYNHYzNGtSWWtaTTF4SzBVNUE0V08wM083cmc5M3FKbkQtY3Fya1M1OEZGQjJ6cTZpN0d2Q19Pcm54Ym0zTWdpeFVRQVVuZ2xwQWh6dlE0ZnFGQmpWekxzWmtGMzRSbEhiakEtNWJGVHhvNl9YMmQwM2diUzJJTzdkVGR2NlQ5ckxtTml5WVk6SjxiPlBheW1lbnQ8L2I-IE9yY2hlc3RyYXRpb24gYW5kIFVuaWZpZWQgUGxhdGZvcm1zIGZvciA8Yj5CMkIgUGF5bWVudHM8L2I-QpYBRGlzY292ZXIgaG93IDxiPnBheW1lbnQgb3JjaGVzdHJhdGlvbiwgc21hcnQgcm91dGluZywgYW5kIHVuaWZpZWQgcGxhdGZvcm1zPC9iPiBoZWxwIEIyQiBwYXltZW50cyB0ZWFtcyBib29zdCBhcHByb3ZhbHMsIGN1dCBmZWVzLCBhbmQgc2NhbGUgZ2xvYmFsbHkuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Praxent"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Best company to use for credit card / payment processing? B2B",
+      "link": "https://www.reddit.com/r/Entrepreneurs/comments/1vi5e8w/best_company_to_use_for_credit_card_payment/",
+      "date": "1 month ago",
+      "extensions": [
+        "r/Entrepreneurs",
+        "2 comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/Entrepreneurs/comments/1vi5e8w/best_company_to_use_for_credit_card_payment/"
+        }
+      ]
+    },
+    {
+      "title": "Which B2B payment platform has the lowest fees?",
+      "link": "https://www.quora.com/Which-B2B-payment-platform-has-the-lowest-fees",
+      "date": "1 month ago",
+      "extensions": [
+        "30+ answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "link": "https://www.quora.com/Which-B2B-payment-platform-has-the-lowest-fees"
+        }
+      ]
+    },
+    {
+      "title": "What is actually the cheapest B2B cross-border payment platform?",
+      "link": "https://www.quora.com/What-is-actually-the-cheapest-B2B-cross-border-payment-platform",
+      "date": "4 months ago",
+      "extensions": [
+        "30+ answers"
+      ],
+      "source": "Quora",
+      "answers": [
+        {
+          "link": "https://www.quora.com/What-is-actually-the-cheapest-B2B-cross-border-payment-platform"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+payment+processing+gateways+for+b2b&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnufmnJ6NevjhJlI__FzAaIXdoEd9g:1790338982345&ei=pme2atDYFIisqtsPu_vX4A8&start=10&sa=N&sstk=AS6-VmIKhdWpJnwZMDydg0dkga77Z0-0bQIcptf1nIdrKEOAgBDy6yoSitNTRmk4s_0O7ruzbpsyDy-rkhE2xhkGUZDA19fJ09u4LQ&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQ8NMDegQINxAO",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+payment+processing+gateways+for+b2b&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnufmnJ6NevjhJlI__FzAaIXdoEd9g:1790338982345&ei=pme2atDYFIisqtsPu_vX4A8&start=10&sa=N&sstk=AS6-VmIKhdWpJnwZMDydg0dkga77Z0-0bQIcptf1nIdrKEOAgBDy6yoSitNTRmk4s_0O7ruzbpsyDy-rkhE2xhkGUZDA19fJ09u4LQ&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQ8tMDegQINxAE",
+      "3": "https://www.google.com/search?q=top+payment+processing+gateways+for+b2b&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnufmnJ6NevjhJlI__FzAaIXdoEd9g:1790338982345&ei=pme2atDYFIisqtsPu_vX4A8&start=20&sa=N&sstk=AS6-VmIKhdWpJnwZMDydg0dkga77Z0-0bQIcptf1nIdrKEOAgBDy6yoSitNTRmk4s_0O7ruzbpsyDy-rkhE2xhkGUZDA19fJ09u4LQ&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQ8tMDegQINxAG",
+      "4": "https://www.google.com/search?q=top+payment+processing+gateways+for+b2b&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnufmnJ6NevjhJlI__FzAaIXdoEd9g:1790338982345&ei=pme2atDYFIisqtsPu_vX4A8&start=30&sa=N&sstk=AS6-VmIKhdWpJnwZMDydg0dkga77Z0-0bQIcptf1nIdrKEOAgBDy6yoSitNTRmk4s_0O7ruzbpsyDy-rkhE2xhkGUZDA19fJ09u4LQ&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQ8tMDegQINxAI",
+      "5": "https://www.google.com/search?q=top+payment+processing+gateways+for+b2b&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnufmnJ6NevjhJlI__FzAaIXdoEd9g:1790338982345&ei=pme2atDYFIisqtsPu_vX4A8&start=40&sa=N&sstk=AS6-VmIKhdWpJnwZMDydg0dkga77Z0-0bQIcptf1nIdrKEOAgBDy6yoSitNTRmk4s_0O7ruzbpsyDy-rkhE2xhkGUZDA19fJ09u4LQ&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQ8tMDegQINxAK",
+      "6": "https://www.google.com/search?q=top+payment+processing+gateways+for+b2b&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnufmnJ6NevjhJlI__FzAaIXdoEd9g:1790338982345&ei=pme2atDYFIisqtsPu_vX4A8&start=50&sa=N&sstk=AS6-VmIKhdWpJnwZMDydg0dkga77Z0-0bQIcptf1nIdrKEOAgBDy6yoSitNTRmk4s_0O7ruzbpsyDy-rkhE2xhkGUZDA19fJ09u4LQ&ved=2ahUKEwjQw8e43ImXAxUIlmoFHbv9FfwQ8tMDegQINxAM"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+payment+processing+gateways+for+b2b&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+payment+processing+gateways+for+b2b&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+payment+processing+gateways+for+b2b&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+payment+processing+gateways+for+b2b&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+payment+processing+gateways+for+b2b&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+payment+processing+gateways+for+b2b&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+payment+processing+gateways+for+b2b&start=50"
+    }
+  }
+}

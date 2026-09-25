@@ -1,0 +1,605 @@
+{
+  "search_metadata": {
+    "id": "6ab668f31fad367c8d9ef61b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/qlq6AawrRvjjrEhya7A3oGd6M0-E003jIOc_x3fd0q0/6ab668f31fad367c8d9ef61b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/qlq6AawrRvjjrEhya7A3oGd6M0-E003jIOc_x3fd0q0/6ab668f31fad367c8d9ef61b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/qlq6AawrRvjjrEhya7A3oGd6M0-E003jIOc_x3fd0q0/6ab668f31fad367c8d9ef61b.json_with_pixel_position",
+    "created_at": "2026-09-25 12:28:35 UTC",
+    "processed_at": "2026-09-25 12:28:35 UTC",
+    "google_url": "https://www.google.com/search?q=best+contract+lifecycle+management+software&oq=best+contract+lifecycle+management+software&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/qlq6AawrRvjjrEhya7A3oGd6M0-E003jIOc_x3fd0q0/6ab668f31fad367c8d9ef61b.html",
+    "total_time_taken": 22.96
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best contract lifecycle management software",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best contract lifecycle management software",
+    "total_results": 122,
+    "time_taken_displayed": 0.26,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "75% Faster Contracting Time | Vendor & Contract CLM Solution",
+      "link": "https://www.gatekeeperhq.com/contract-lifecycle-management-software",
+      "displayed_link": "https://www.gatekeeperhq.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwitqfbh3YmXAxXyk8IIHZpeGlAYACICCAIQABoCamY&co=1&ase=2&gclid=EAIaIQobChMIran24d2JlwMV8pPCCB2aXhpQEAMYASAAEgJH3PD_BwE&cid=CAASuwHkaO-CtTufyWJ8apTwiVOLJt8PR-IZFJRzKkmbIChsh3P8Ng308HRQoKcqG0l3bsULp9g1VrdzTV_rIMnc3lFn0uecchuGh9VafjWUbDkug84IX9vQXppkItmqGSdjGbppLf8LWxybilHOHT4IujXz_eeI-Dmis8GavgVh0LfWXeeTDYPW9edfyJUV6PrjnwXDJLACgoMs7wuC8bTKdwSGB98l9R6SmBHdRzH8t7jYzbnnBaFD7HHJgea2&cce=2&category=acrcp_v1_32&sig=AOD64_0iHUGWXwv8jrPbIilVZEkV1PHNKA&q&nis=4&adurl",
+      "description": "Gatekeeper is the only unified Vendor and Contract Lifecycle Management solution. Smart...",
+      "extensions": [
+        "10K+ visits in past month"
+      ],
+      "source": "gatekeeperhq.com",
+      "sitelinks": [
+        {
+          "title": "Trusted By Over 300 Companies",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwitqfbh3YmXAxXyk8IIHZpeGlAYACICCAIQBBoCamY&co=1&ase=2&gclid=EAIaIQobChMIran24d2JlwMV8pPCCB2aXhpQEAMYASAEEgIWz_D_BwE&cid=CAASuwHkaO-CtTufyWJ8apTwiVOLJt8PR-IZFJRzKkmbIChsh3P8Ng308HRQoKcqG0l3bsULp9g1VrdzTV_rIMnc3lFn0uecchuGh9VafjWUbDkug84IX9vQXppkItmqGSdjGbppLf8LWxybilHOHT4IujXz_eeI-Dmis8GavgVh0LfWXeeTDYPW9edfyJUV6PrjnwXDJLACgoMs7wuC8bTKdwSGB98l9R6SmBHdRzH8t7jYzbnnBaFD7HHJgea2&cce=2&category=acrcp_v1_32&sig=AOD64_0syab0XgAgEwsEitMu_bDeCpYfnA&adurl=&q="
+        },
+        {
+          "title": "AI-Powered CLM",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwitqfbh3YmXAxXyk8IIHZpeGlAYACICCAIQBRoCamY&co=1&ase=2&gclid=EAIaIQobChMIran24d2JlwMV8pPCCB2aXhpQEAMYASAFEgIfJPD_BwE&cid=CAASuwHkaO-CtTufyWJ8apTwiVOLJt8PR-IZFJRzKkmbIChsh3P8Ng308HRQoKcqG0l3bsULp9g1VrdzTV_rIMnc3lFn0uecchuGh9VafjWUbDkug84IX9vQXppkItmqGSdjGbppLf8LWxybilHOHT4IujXz_eeI-Dmis8GavgVh0LfWXeeTDYPW9edfyJUV6PrjnwXDJLACgoMs7wuC8bTKdwSGB98l9R6SmBHdRzH8t7jYzbnnBaFD7HHJgea2&cce=2&category=acrcp_v1_32&sig=AOD64_3pSW9H613jwBrCFIZbeEgxTX2baw&adurl=&q="
+        },
+        {
+          "title": "AI Agents - LuminIQ",
+          "link": "https://www.gatekeeperhq.com/luminiq"
+        },
+        {
+          "title": "Book A Demo",
+          "link": "https://gatekeeperhq.com/book_demo"
+        },
+        {
+          "title": "Pricing",
+          "link": "https://www.gatekeeperhq.com/pricing"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the top 10 contract lifecycle management software?",
+      "type": "ai_overview",
+      "page_token": "k4mtMnicHdBLbptAGABg9TJZxjwMVSxZkQgYh2pAzOMfYFPhIQbDeJjE1APscoWcoafqaVr1At_i-_wtL2r48-2rmyZ92202xpjHdhxb-fYoxuumvi1KbEQt5akWw87_7tvPZ7GP7iJ4-RBBzrSGEFs0jpaSY1Op1sposqIQZ3Q4LGnf9ZyBPDHvDnHiE3iqGfe2CA4pZq8uFJU-xZ7KFWDetwZbsIKqfMH0P89LhdXo0pbAeolTpo9g5y5xzFRJ-EVosj2FCcsKMBlPb8LFTq2Qh9zWcAU_6MVeEHSmPlRFyeFVuPKI-Xzkw3wWbH6hMDh0TQgtgi29NnEVJSoLWwsxMVFLzzi2oYkgSwFwyTufHCqPyOAedU0IjrWURYLehmYpXFgaBjlS8J4rGdTzeMkZXkUvrxCDTyQmeA0Qc2ZT2ZJTYtmFqzGO0x7ZQZHnD2dx37sP_6_3P8_Xaac_xvYvxgKNLA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=k4mtMnicHdBLbptAGABg9TJZxjwMVSxZkQgYh2pAzOMfYFPhIQbDeJjE1APscoWcoafqaVr1At_i-_wtL2r48-2rmyZ92202xpjHdhxb-fYoxuumvi1KbEQt5akWw87_7tvPZ7GP7iJ4-RBBzrSGEFs0jpaSY1Op1sposqIQZ3Q4LGnf9ZyBPDHvDnHiE3iqGfe2CA4pZq8uFJU-xZ7KFWDetwZbsIKqfMH0P89LhdXo0pbAeolTpo9g5y5xzFRJ-EVosj2FCcsKMBlPb8LFTq2Qh9zWcAU_6MVeEHSmPlRFyeFVuPKI-Xzkw3wWbH6hMDh0TQgtgi29NnEVJSoLWwsxMVFLzzi2oYkgSwFwyTufHCqPyOAedU0IjrWURYLehmYpXFgaBjlS8J4rGdTzeMkZXkUvrxCDTyQmeA0Qc2ZT2ZJTYtmFqzGO0x7ZQZHnD2dx37sP_6_3P8_Xaac_xvYvxgKNLA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFVWXlhM2s0WVVaMVQySlJhbWhVZWtscE5FZERXbTB5YlUxdFYzRm1ka3BFZFVaZmEySnhXWHBPVDJOa2REa3pNREJUTFZreVV6bFZNREIzVTFoR1dESnFSMnhzTFVaclN6VnVkMUJGZWpSYVdUZDZOVlpLYTA1R1p4SVhRMWR0TW1GeVRIcEhjbDkxY25WRlVESjFha0o1UVdzYUlrRkVjM0k1WmxRdGJWY3hVV1p1VVY5VFh6QTVkbUZaU1hsMWNYbEJSbnBUUTFFIiwiZmN2IjoiMyIsImVpIjoiQ1dtMmFyTHpHcl91cnVFUDJ1akJ5QWsiLCJxYyI6IkNpdGlaWE4wSUdOdmJuUnlZV04wSUd4cFptVmplV05zWlNCdFlXNWhaMlZ0Wlc1MElITnZablIzWVhKbEVBQjlCajR4UHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgMTAgY29udHJhY3QgbGlmZWN5Y2xlIG1hbmFnZW1lbnQgc29mdHdhcmU/IiwibGsiOiJHaTEwYjNBZ01UQWdZMjl1ZEhKaFkzUWdiR2xtWldONVkyeGxJRzFoYm1GblpXMWxiblFnYzI5bWRIZGhjbVUiLCJicyI6ImM1V09Pd3NDTVJDRXNVMGhKNEpJcXYwRG9xYTV3dUlLTFFRZmpZVjF6TzA5SU1uS2JZN0RmMjlPd1dzRXNkaGloX2xtUm5peHVWWTZnRzRRUWhXUDdyQmVnU0VmR20wQzJMcEE4ekFXd1dtdlMzVG9BekFWb1l0RXBwWnk4UmNoRGlMOTlERTVoSklvX3dFSElzdVpTdVRZV1BmLW9wR0RPQXYxQ3F2NXRmMkdQRFJCUWMyUU82UmxhaTVuWDAwc1VnRjc2c0MxcG9LY2tHRkhwcjNVcFlmdDhSUjlIT21wbk9SUjVWN3Q1X1JxTW5vQyIsImlkIjoiZmNfQ1dtMmFyTHpHcl91cnVFUDJ1akJ5QWtfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFVWXlhM2s0WVVaMVQySlJhbWhVZWtscE5FZERXbTB5YlUxdFYzRm1ka3BFZFVaZmEySnhXWHBPVDJOa2REa3pNREJUTFZreVV6bFZNREIzVTFoR1dESnFSMnhzTFVaclN6VnVkMUJGZWpSYVdUZDZOVlpLYTA1R1p4SVhRMWR0TW1GeVRIcEhjbDkxY25WRlVESjFha0o1UVdzYUlrRkVjM0k1WmxRdGJWY3hVV1p1VVY5VFh6QTVkbUZaU1hsMWNYbEJSbnBUUTFFIiwiZmN2IjoiMyIsImVpIjoiQ1dtMmFyTHpHcl91cnVFUDJ1akJ5QWsiLCJxYyI6IkNpdGlaWE4wSUdOdmJuUnlZV04wSUd4cFptVmplV05zWlNCdFlXNWhaMlZ0Wlc1MElITnZablIzWVhKbEVBQjlCajR4UHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSB0b3AgMTAgY29udHJhY3QgbGlmZWN5Y2xlIG1hbmFnZW1lbnQgc29mdHdhcmU%2FIiwibGsiOiJHaTEwYjNBZ01UQWdZMjl1ZEhKaFkzUWdiR2xtWldONVkyeGxJRzFoYm1GblpXMWxiblFnYzI5bWRIZGhjbVUiLCJicyI6ImM1V09Pd3NDTVJDRXNVMGhKNEpJcXYwRG9xYTV3dUlLTFFRZmpZVjF6TzA5SU1uS2JZN0RmMjlPd1dzRXNkaGloX2xtUm5peHVWWTZnRzRRUWhXUDdyQmVnU0VmR20wQzJMcEE4ekFXd1dtdlMzVG9BekFWb1l0RXBwWnk4UmNoRGlMOTlERTVoSklvX3dFSElzdVpTdVRZV1BmLW9wR0RPQXYxQ3F2NXRmMkdQRFJCUWMyUU82UmxhaTVuWDAwc1VnRjc2c0MxcG9LY2tHRkhwcjNVcFlmdDhSUjlIT21wbk9SUjVWN3Q1X1JxTW5vQyIsImlkIjoiZmNfQ1dtMmFyTHpHcl91cnVFUDJ1akJ5QWtfNSJ9"
+    },
+    {
+      "question": "What are some good contract lifecycle management tools?",
+      "type": "ai_overview",
+      "page_token": "QbDNX3icHdBdkpowAADg6WX2cQ2g2-qM0ykKpXQTNiEJMS8dSNRIws8qI-Bbr9Az9FQ9TTu9wTffz9_u0to_H36ZYehvm8ViHMfnc9ed3fFZdc2ivM2tWqjSuapUdvPy8cX7fFLb6K7C3VWFmPU93xNA9zBAQjIpjK2C-K7YWsivvM4KXkiqlrxOo1cWI-k5C8GUU_BtRqDHOSV5Ht0e-GEB8vRQUZQc6tSXEd9lRTofHRuqBCVQ6Ejtv4CSHZYYECEFYpzDJU_iRiYkhUx_1_bTdAAQoHh9VRdvrmi6qwpEZUP83IWm9OWV2QlrYCws1m8E6PccxC2uzaqioZB2RREzO-bSnEapzaIp-2fNEDcDac2janoCk76NjN5zH8wHkcKj1bMI-KwZx7Dl77h1YTl1F8zIQ9WuYUKGpOBR0XglAnhFfU8i68WvnI_M8UD4ppfj00ndt8HT_-vtj1MzbPprd_4LPSmMHQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QbDNX3icHdBdkpowAADg6WX2cQ2g2-qM0ykKpXQTNiEJMS8dSNRIws8qI-Bbr9Az9FQ9TTu9wTffz9_u0to_H36ZYehvm8ViHMfnc9ed3fFZdc2ivM2tWqjSuapUdvPy8cX7fFLb6K7C3VWFmPU93xNA9zBAQjIpjK2C-K7YWsivvM4KXkiqlrxOo1cWI-k5C8GUU_BtRqDHOSV5Ht0e-GEB8vRQUZQc6tSXEd9lRTofHRuqBCVQ6Ejtv4CSHZYYECEFYpzDJU_iRiYkhUx_1_bTdAAQoHh9VRdvrmi6qwpEZUP83IWm9OWV2QlrYCws1m8E6PccxC2uzaqioZB2RREzO-bSnEapzaIp-2fNEDcDac2janoCk76NjN5zH8wHkcKj1bMI-KwZx7Dl77h1YTl1F8zIQ9WuYUKGpOBR0XglAnhFfU8i68WvnI_M8UD4ppfj00ndt8HT_-vtj1MzbPprd_4LPSmMHQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFVWXlhM2s0WVVaMVQySlJhbWhVZWtscE5FZERXbTB5YlUxdFYzRm1ka3BFZFVaZmEySnhXWHBPVDJOa2REa3pNREJUTFZreVV6bFZNREIzVTFoR1dESnFSMnhzTFVaclN6VnVkMUJGZWpSYVdUZDZOVlpLYTA1R1p4SVhRMWR0TW1GeVRIcEhjbDkxY25WRlVESjFha0o1UVdzYUlrRkVjM0k1WmxRdGJWY3hVV1p1VVY5VFh6QTVkbUZaU1hsMWNYbEJSbnBUUTFFIiwiZmN2IjoiMyIsImVpIjoiQ1dtMmFyTHpHcl91cnVFUDJ1akJ5QWsiLCJxYyI6IkNpdGlaWE4wSUdOdmJuUnlZV04wSUd4cFptVmplV05zWlNCdFlXNWhaMlZ0Wlc1MElITnZablIzWVhKbEVBQjlCajR4UHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHNvbWUgZ29vZCBjb250cmFjdCBsaWZlY3ljbGUgbWFuYWdlbWVudCB0b29scz8iLCJsayI6IkdnNWpiRzBnZEc5dmJITWdiR2x6ZEEiLCJicyI6ImM1V09Pd3NDTVJDRXNVMGhKNEpJcXYwRG9xYTV3dUlLTFFRZmpZVjF6TzA5SU1uS2JZN0RmMjlPd1dzRXNkaGloX2xtUm5peHVWWTZnRzRRUWhXUDdyQmVnU0VmR20wQzJMcEE4ekFXd1dtdlMzVG9BekFWb1l0RXBwWnk4UmNoRGlMOTlERTVoSklvX3dFSElzdVpTdVRZV1BmLW9wR0RPQXYxQ3F2NXRmMkdQRFJCUWMyUU82UmxhaTVuWDAwc1VnRjc2c0MxcG9LY2tHRkhwcjNVcFlmdDhSUjlIT21wbk9SUjVWN3Q1X1JxTW5vQyIsImlkIjoiZmNfQ1dtMmFyTHpHcl91cnVFUDJ1akJ5QWtfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFVWXlhM2s0WVVaMVQySlJhbWhVZWtscE5FZERXbTB5YlUxdFYzRm1ka3BFZFVaZmEySnhXWHBPVDJOa2REa3pNREJUTFZreVV6bFZNREIzVTFoR1dESnFSMnhzTFVaclN6VnVkMUJGZWpSYVdUZDZOVlpLYTA1R1p4SVhRMWR0TW1GeVRIcEhjbDkxY25WRlVESjFha0o1UVdzYUlrRkVjM0k1WmxRdGJWY3hVV1p1VVY5VFh6QTVkbUZaU1hsMWNYbEJSbnBUUTFFIiwiZmN2IjoiMyIsImVpIjoiQ1dtMmFyTHpHcl91cnVFUDJ1akJ5QWsiLCJxYyI6IkNpdGlaWE4wSUdOdmJuUnlZV04wSUd4cFptVmplV05zWlNCdFlXNWhaMlZ0Wlc1MElITnZablIzWVhKbEVBQjlCajR4UHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHNvbWUgZ29vZCBjb250cmFjdCBsaWZlY3ljbGUgbWFuYWdlbWVudCB0b29scz8iLCJsayI6IkdnNWpiRzBnZEc5dmJITWdiR2x6ZEEiLCJicyI6ImM1V09Pd3NDTVJDRXNVMGhKNEpJcXYwRG9xYTV3dUlLTFFRZmpZVjF6TzA5SU1uS2JZN0RmMjlPd1dzRXNkaGloX2xtUm5peHVWWTZnRzRRUWhXUDdyQmVnU0VmR20wQzJMcEE4ekFXd1dtdlMzVG9BekFWb1l0RXBwWnk4UmNoRGlMOTlERTVoSklvX3dFSElzdVpTdVRZV1BmLW9wR0RPQXYxQ3F2NXRmMkdQRFJCUWMyUU82UmxhaTVuWDAwc1VnRjc2c0MxcG9LY2tHRkhwcjNVcFlmdDhSUjlIT21wbk9SUjVWN3Q1X1JxTW5vQyIsImlkIjoiZmNfQ1dtMmFyTHpHcl91cnVFUDJ1akJ5QWtfNSJ9"
+    },
+    {
+      "question": "What is the best software for contract management?",
+      "type": "ai_overview",
+      "page_token": "ijnCJHicHdDBbpswHIBx7WV6bAzuuixSNIkEl6HZGcb-Q3yZjElCig0ktRrg1lfYM-yp9jStev_0O3xv_-y5a_9_-dt4P7ysFovb7XZ_6vuTPdyb3i30y9SZhdHWVtq0q8dvj8GPo1nHrybaXE2UyWGALUd5qzKKLclRPfNiOUoMgQ4oFuLnJBJ6y0IVMEdHBYRWLQy7hARVOwooGlyHZA8i3VKnZjGrQMkx4pZNORov4JqYk6UHLLHB0YbhOgVQ15yQvXSjp4H9zZAlkkSaJjbZlWSTx8ruCNCqtF9_lUrLOcpKNAYCwSiQv4gneCgSSGXhPxpGGeaEtShkc3MtQF10bObKEZy7LDwUS6SceVCYK1U2YTXzKG7qLYRo2pcpPbT1VGKYagkZ7eCSdTbSY3_OJJ_Ns3XyWYa8ZFw_1WnRNV59uOIctIfYb2T7_UxdimV2dzSva3z3-Xr95-j8arj2p3f8rIvi",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ijnCJHicHdDBbpswHIBx7WV6bAzuuixSNIkEl6HZGcb-Q3yZjElCig0ktRrg1lfYM-yp9jStev_0O3xv_-y5a_9_-dt4P7ysFovb7XZ_6vuTPdyb3i30y9SZhdHWVtq0q8dvj8GPo1nHrybaXE2UyWGALUd5qzKKLclRPfNiOUoMgQ4oFuLnJBJ6y0IVMEdHBYRWLQy7hARVOwooGlyHZA8i3VKnZjGrQMkx4pZNORov4JqYk6UHLLHB0YbhOgVQ15yQvXSjp4H9zZAlkkSaJjbZlWSTx8ruCNCqtF9_lUrLOcpKNAYCwSiQv4gneCgSSGXhPxpGGeaEtShkc3MtQF10bObKEZy7LDwUS6SceVCYK1U2YTXzKG7qLYRo2pcpPbT1VGKYagkZ7eCSdTbSY3_OJJ_Ns3XyWYa8ZFw_1WnRNV59uOIctIfYb2T7_UxdimV2dzSva3z3-Xr95-j8arj2p3f8rIvi",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFVWXlhM2s0WVVaMVQySlJhbWhVZWtscE5FZERXbTB5YlUxdFYzRm1ka3BFZFVaZmEySnhXWHBPVDJOa2REa3pNREJUTFZreVV6bFZNREIzVTFoR1dESnFSMnhzTFVaclN6VnVkMUJGZWpSYVdUZDZOVlpLYTA1R1p4SVhRMWR0TW1GeVRIcEhjbDkxY25WRlVESjFha0o1UVdzYUlrRkVjM0k1WmxRdGJWY3hVV1p1VVY5VFh6QTVkbUZaU1hsMWNYbEJSbnBUUTFFIiwiZmN2IjoiMyIsImVpIjoiQ1dtMmFyTHpHcl91cnVFUDJ1akJ5QWsiLCJxYyI6IkNpdGlaWE4wSUdOdmJuUnlZV04wSUd4cFptVmplV05zWlNCdFlXNWhaMlZ0Wlc1MElITnZablIzWVhKbEVBQjlCajR4UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3Qgc29mdHdhcmUgZm9yIGNvbnRyYWN0IG1hbmFnZW1lbnQ/IiwibGsiOiJHaFp6YjJaMGQyRnlaU0JtYjNJZ1kyOXVkSEpoWTNSeiIsImJzIjoiYzVXT093c0NNUkNFc1UwaEo0SklxdjBEb3FhNXd1SUtMUVFmallWMXpPMDlJTW5LYlk3RGYyOU93V3NFc2RoaWhfbG1Sbml4dVZZNmdHNFFRaFdQN3JCZWdTRWZHbTBDMkxwQTh6QVd3V212UzNUb0F6QVZvWXRFcHBaeThSY2hEaUw5OURFNWhKSW9fd0VISXN1WlN1VFlXUGYtb3BHRE9BdjFDcXY1dGYyR1BEUkJRYzJRTzZSbGFpNW5YMDBzVWdGNzZzQzFwb0tja0dGSHByM1VwWWZ0OFJSOUhPbXBuT1JSNVY3dDVfUnFNbm9DIiwiaWQiOiJmY19DV20yYXJMekdyX3VydUVQMnVqQnlBa181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFVWXlhM2s0WVVaMVQySlJhbWhVZWtscE5FZERXbTB5YlUxdFYzRm1ka3BFZFVaZmEySnhXWHBPVDJOa2REa3pNREJUTFZreVV6bFZNREIzVTFoR1dESnFSMnhzTFVaclN6VnVkMUJGZWpSYVdUZDZOVlpLYTA1R1p4SVhRMWR0TW1GeVRIcEhjbDkxY25WRlVESjFha0o1UVdzYUlrRkVjM0k1WmxRdGJWY3hVV1p1VVY5VFh6QTVkbUZaU1hsMWNYbEJSbnBUUTFFIiwiZmN2IjoiMyIsImVpIjoiQ1dtMmFyTHpHcl91cnVFUDJ1akJ5QWsiLCJxYyI6IkNpdGlaWE4wSUdOdmJuUnlZV04wSUd4cFptVmplV05zWlNCdFlXNWhaMlZ0Wlc1MElITnZablIzWVhKbEVBQjlCajR4UHciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3Qgc29mdHdhcmUgZm9yIGNvbnRyYWN0IG1hbmFnZW1lbnQ%2FIiwibGsiOiJHaFp6YjJaMGQyRnlaU0JtYjNJZ1kyOXVkSEpoWTNSeiIsImJzIjoiYzVXT093c0NNUkNFc1UwaEo0SklxdjBEb3FhNXd1SUtMUVFmallWMXpPMDlJTW5LYlk3RGYyOU93V3NFc2RoaWhfbG1Sbml4dVZZNmdHNFFRaFdQN3JCZWdTRWZHbTBDMkxwQTh6QVd3V212UzNUb0F6QVZvWXRFcHBaeThSY2hEaUw5OURFNWhKSW9fd0VISXN1WlN1VFlXUGYtb3BHRE9BdjFDcXY1dGYyR1BEUkJRYzJRTzZSbGFpNW5YMDBzVWdGNzZzQzFwb0tja0dGSHByM1VwWWZ0OFJSOUhPbXBuT1JSNVY3dDVfUnFNbm9DIiwiaWQiOiJmY19DV20yYXJMekdyX3VydUVQMnVqQnlBa181In0%3D"
+    },
+    {
+      "question": "How much does DocuSign CLM cost?",
+      "type": "ai_overview",
+      "page_token": "CnB603icHdDbboIwGADg7GW8VA7TbSZmGRNUItUWWis3S205KD8FFUW427vsqfY0S_Y9wvf9A0dd_D7d86apr9PRqG3bYVZVGSRDWZUjce20HEkBcBCymE5eJuZ7KmfubeV8nlcOpnXN5sQIuSrVElzUq-dw7tHDwrQj83XMeM2llpa0EA4WQaMWqlK9gxBHJVl6OlhmdmiSiBYNx1HchDvkh71qhXZEolc96dU9hPiiOLmx4qH3tn9HJ2Ik2m0FJ2zDfE-woNnMIUXAooTDVjAm6MnfMjvrEsjT8Ghq6oFBSr-V0Ue7t9A5cU1rswMr5rUmRryOS7_AOy-Wi_E4KnLt5mrOLKPbcz9ICtVxm3WKMhxodsYaHPGojpiSXp6gpBHu8dEEbOcQFB4WpfcIT_EFeW9rsvNh37smxYNU3mf24P9z9pWWzbS-VNkfpmeF3A",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=CnB603icHdDbboIwGADg7GW8VA7TbSZmGRNUItUWWis3S205KD8FFUW427vsqfY0S_Y9wvf9A0dd_D7d86apr9PRqG3bYVZVGSRDWZUjce20HEkBcBCymE5eJuZ7KmfubeV8nlcOpnXN5sQIuSrVElzUq-dw7tHDwrQj83XMeM2llpa0EA4WQaMWqlK9gxBHJVl6OlhmdmiSiBYNx1HchDvkh71qhXZEolc96dU9hPiiOLmx4qH3tn9HJ2Ik2m0FJ2zDfE-woNnMIUXAooTDVjAm6MnfMjvrEsjT8Ghq6oFBSr-V0Ue7t9A5cU1rswMr5rUmRryOS7_AOy-Wi_E4KnLt5mrOLKPbcz9ICtVxm3WKMhxodsYaHPGojpiSXp6gpBHu8dEEbOcQFB4WpfcIT_EFeW9rsvNh37smxYNU3mf24P9z9pWWzbS-VNkfpmeF3A",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFVWXlhM2s0WVVaMVQySlJhbWhVZWtscE5FZERXbTB5YlUxdFYzRm1ka3BFZFVaZmEySnhXWHBPVDJOa2REa3pNREJUTFZreVV6bFZNREIzVTFoR1dESnFSMnhzTFVaclN6VnVkMUJGZWpSYVdUZDZOVlpLYTA1R1p4SVhRMWR0TW1GeVRIcEhjbDkxY25WRlVESjFha0o1UVdzYUlrRkVjM0k1WmxRdGJWY3hVV1p1VVY5VFh6QTVkbUZaU1hsMWNYbEJSbnBUUTFFIiwiZmN2IjoiMyIsImVpIjoiQ1dtMmFyTHpHcl91cnVFUDJ1akJ5QWsiLCJxYyI6IkNpdGlaWE4wSUdOdmJuUnlZV04wSUd4cFptVmplV05zWlNCdFlXNWhaMlZ0Wlc1MElITnZablIzWVhKbEVBQjlCajR4UHciLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgRG9jdVNpZ24gQ0xNIGNvc3Q/IiwibGsiOiJHaEZrYjJOMWMybG5iaUJqYkcwZ1kyOXpkQSIsImJzIjoiYzVXT093c0NNUkNFc1UwaEo0SklxdjBEb3FhNXd1SUtMUVFmallWMXpPMDlJTW5LYlk3RGYyOU93V3NFc2RoaWhfbG1Sbml4dVZZNmdHNFFRaFdQN3JCZWdTRWZHbTBDMkxwQTh6QVd3V212UzNUb0F6QVZvWXRFcHBaeThSY2hEaUw5OURFNWhKSW9fd0VISXN1WlN1VFlXUGYtb3BHRE9BdjFDcXY1dGYyR1BEUkJRYzJRTzZSbGFpNW5YMDBzVWdGNzZzQzFwb0tja0dGSHByM1VwWWZ0OFJSOUhPbXBuT1JSNVY3dDVfUnFNbm9DIiwiaWQiOiJmY19DV20yYXJMekdyX3VydUVQMnVqQnlBa181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGFVWXlhM2s0WVVaMVQySlJhbWhVZWtscE5FZERXbTB5YlUxdFYzRm1ka3BFZFVaZmEySnhXWHBPVDJOa2REa3pNREJUTFZreVV6bFZNREIzVTFoR1dESnFSMnhzTFVaclN6VnVkMUJGZWpSYVdUZDZOVlpLYTA1R1p4SVhRMWR0TW1GeVRIcEhjbDkxY25WRlVESjFha0o1UVdzYUlrRkVjM0k1WmxRdGJWY3hVV1p1VVY5VFh6QTVkbUZaU1hsMWNYbEJSbnBUUTFFIiwiZmN2IjoiMyIsImVpIjoiQ1dtMmFyTHpHcl91cnVFUDJ1akJ5QWsiLCJxYyI6IkNpdGlaWE4wSUdOdmJuUnlZV04wSUd4cFptVmplV05zWlNCdFlXNWhaMlZ0Wlc1MElITnZablIzWVhKbEVBQjlCajR4UHciLCJxdWVzdGlvbiI6IkhvdyBtdWNoIGRvZXMgRG9jdVNpZ24gQ0xNIGNvc3Q%2FIiwibGsiOiJHaEZrYjJOMWMybG5iaUJqYkcwZ1kyOXpkQSIsImJzIjoiYzVXT093c0NNUkNFc1UwaEo0SklxdjBEb3FhNXd1SUtMUVFmallWMXpPMDlJTW5LYlk3RGYyOU93V3NFc2RoaWhfbG1Sbml4dVZZNmdHNFFRaFdQN3JCZWdTRWZHbTBDMkxwQTh6QVd3V212UzNUb0F6QVZvWXRFcHBaeThSY2hEaUw5OURFNWhKSW9fd0VISXN1WlN1VFlXUGYtb3BHRE9BdjFDcXY1dGYyR1BEUkJRYzJRTzZSbGFpNW5YMDBzVWdGNzZzQzFwb0tja0dGSHByM1VwWWZ0OFJSOUhPbXBuT1JSNVY3dDVfUnFNbm9DIiwiaWQiOiJmY19DV20yYXJMekdyX3VydUVQMnVqQnlBa181In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best contract lifecycle management (CLM) software varies by company size and complexity, with top enterprise and mid-market platforms like Ironclad, DocuSign CLM, and Agiloft leading the market.",
+        "snippet_highlighted_words": [
+          "Ironclad, DocuSign CLM, and Agiloft"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Contract Lifecycle Management Software"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Ironclad: Best for enterprise legal teams managing high-volume, complex contract workflows with advanced AI capabilities."
+          },
+          {
+            "snippet": "DocuSign CLM: Best for organizations wanting a seamless transition from electronic signatures to full document generation, negotiation, and tracking."
+          },
+          {
+            "snippet": "Agiloft: Best for organizations that need a highly customizable, no-code platform to adapt to unique, complex contract processes."
+          },
+          {
+            "snippet": "Conga CLM: Best for connecting contract cycles directly with enterprise systems like Salesforce CRM, CPQ, and ERP platforms."
+          },
+          {
+            "snippet": "Malbek CLM: Best for an intuitive, AI-fueled experience that lets sales, finance, and legal collaborate easily across departments."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you'd like, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Your company size (small business, mid-market, or enterprise)"
+          },
+          {
+            "snippet": "Your primary departments using the software (Legal, Sales, Procurement)"
+          },
+          {
+            "snippet": "Any key integrations you need (Salesforce, Slack, Microsoft Dynamics)"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "I can help you narrow down the best platform for your workflow."
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.summize.com/clm-hub/best-clm-software",
+        "source": "summize.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=05ucKbUr6UQ",
+        "source": "youtube.com",
+        "index": 1
+      },
+      {
+        "link": "https://www.gartner.com/reviews/market/contract-life-cycle-management",
+        "source": "gartner.com",
+        "index": 2
+      },
+      {
+        "link": "https://conga.com/resources/blog/contract-management-tools",
+        "source": "conga.com",
+        "index": 3
+      },
+      {
+        "link": "https://www.softwarereviews.com/categories/contract-lifecycle-management",
+        "source": "softwarereviews.com",
+        "index": 4
+      },
+      {
+        "title": "Best Contract Lifecycle Management (CLM) Software for 2026 - Summize",
+        "link": "https://www.summize.com/clm-hub/best-clm-software",
+        "snippet": "What is the best CLM software? 1. Docusign CLM. Best for organizations looking for an · What is the best CLM software? 1. Docusign CLM. Best for organizations look...",
+        "source": "Summize",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQoAPEVIQViT7W5ZBt3rTCZeBMXfoLkoVxWRFW2IlybZ2eCp5_ppE_XplnQY_-Rc8Q0frVO9zAI1Z-Vppj6TLlkNwjgYXvq9YD8qgGh",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.summize.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Top Contract Management Software Comparison 2025",
+        "link": "https://www.youtube.com/watch?v=05ucKbUr6UQ",
+        "snippet": "Top Contract Management Software Comparison 2025 welcome to our comprehensive guide on contract management software in this video ...",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeiEzEPgX1Ik8V_iW5a6w1fH2rtRVioZW06Aba9rJC_p_AkPglw8n625kcJCQUm9eerXppOa-3T4N39_Snjq_yDCsGaJnKlL_matvtCw",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "Best Contract Life Cycle Management Reviews 2026 | Gartner Peer Insights",
+        "link": "https://www.gartner.com/reviews/market/contract-life-cycle-management",
+        "snippet": "Filter by * Malbek CLM By Malbek 4.4 (113 Ratings) OVERVIEW ALTERNATIVES Malbek CLM is a contract lifecycle management software that automates and streamlines the ...",
+        "source": "Gartner",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS61qrTWII_tu18l8HoVRFIqxiH7q_VM8vIY9tMS_XeMv07TMYVX4Y0VExynrJZ4otIFkWuNL1Mz7EvwqOT5RPKWbgu",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gartner.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "21 Top Contract Management Tools: A Buyer's Guide - Conga",
+        "link": "https://conga.com/resources/blog/contract-management-tools",
+        "snippet": "Conga CLM is an enterprise-grade contract lifecycle management tool built to handle high-volume, high-complexity agreements across legal, sales, procurement, finan...",
+        "source": "Conga",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT2KaPSPr4dH_OMvCWUCBCjnffpMdiDnvUb5qnLkM61Ac78C-grtUnqefVmWWXvIC2uaklWvDGXtltvBiC3JfN9mMgyKWqENTirNM8m",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://conga.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "Contract Lifecycle Management (CLM) Software - SoftwareReviews",
+        "link": "https://www.softwarereviews.com/categories/contract-lifecycle-management",
+        "snippet": "Malbek Contrax is today's most intuitive, AI fueled, end-user and admin-user friendly CLM solution. Make contract requests easy, including integrations with Salesf...",
+        "source": "SoftwareReviews",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsIxNsOnc4f6kqWkup6_XTFGn0uCkQYAHxTUbt2-A8h-wa5HU_MNm2cuLrPdapjbd3ARbW7pD_YQH9UxkBAkaOi8E",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.softwarereviews.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best Contract Life Cycle Management Reviews 2026",
+      "link": "https://www.gartner.com/reviews/market/contract-life-cycle-management",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV1O2CLiAkrBBVYd9FCpukaLNHu4fi0ReOhB6bHOHgkw1An-3v5PZGRIXGLqpxD09c_3wdo9fUMGdnXE7-4_M1mTunCC6LVGwZa-VGarnX3PYPkbAv4ls-4J1W6ML7kCWPJhYVI3TM7jctX6WxnCFn7FrQeo-B6Q2-&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQFnoECC4QAQ&uoh=1",
+      "displayed_link": "https://www.gartner.com › All Categories › Legal",
+      "favicon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAACwBQCdASocABwAPtEutFooIagoGAEAGgloAKwBjE7fby1LBL3XKv0cTOPsI-8ymbglxuP2U0AA_vYJ0mPBAKhqlx6rwJOFYUZZZymgh5pLItE7DtbG_tDfZyxO5hU0BF2DsaH0j548LDn-z7a0nQa6AeSy0PiXfR_KvZ_9otIlMn-PK3xuHOWiwjrDD__qlT-Kiy2k5mAYlP2fN-C1f_83sZvfdTmlSd_KmORlla2dtdLLQGPUBPWXsC2Ix4cHJhstIaFyw2-458liMMmBkwYQNnEByaDkGfz1RWOjJJt9HTeY5B_iQOMhss0-cJVqxnfhcoGGPVA3cZYVKMdxdN_dLn7SQ_-hIDKdm5AAAAA.webp",
+      "snippet": "Agiloft CLM Platform is a software designed to automate and manage the lifecycle of contracts from creation through execution and renewal. The software offers ...",
+      "snippet_highlighted_words": [
+        "Agiloft CLM Platform"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Agiloft CLM Platform is a software designed to automate and manage the lifecycle of contracts from creation through execution and renewal. The software offers ...",
+          "source_info_link": "https://www.gartner.com/reviews/market/contract-life-cycle-management",
+          "icon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAACwBQCdASocABwAPtEutFooIagoGAEAGgloAKwBjE7fby1LBL3XKv0cTOPsI-8ymbglxuP2U0AA_vYJ0mPBAKhqlx6rwJOFYUZZZymgh5pLItE7DtbG_tDfZyxO5hU0BF2DsaH0j548LDn-z7a0nQa6AeSy0PiXfR_KvZ_9otIlMn-PK3xuHOWiwjrDD__qlT-Kiy2k5mAYlP2fN-C1f_83sZvfdTmlSd_KmORlla2dtdLLQGPUBPWXsC2Ix4cHJhstIaFyw2-458liMMmBkwYQNnEByaDkGfz1RWOjJJt9HTeY5B_iQOMhss0-cJVqxnfhcoGGPVA3cZYVKMdxdN_dLn7SQ_-hIDKdm5AAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjFPMkNMaUFrckJCVllkOUZDcHVrYUxOSHU0ZmkwUmVPaEI2YkhPSGdrdzFBbi0zdjVQWkdSSVhHTHFweEQwOWNfM3dkbzlmVU1HZG5YRTctNF9NMW1UdW5DQzZMVkd3WmEtVkdhcm5YM1BZUGtiQXY0bHMtNEoxVzZNTDdrQ1dQSmhZVkkzVE03amN0WDZXeG5DRm43RnJRZW8tQjZRMi0SBBoCCAAa1wYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCxBggAEAAYACAAKhkKBGJlc3QVZ2b2PxoHY29tcGFyZRoDdG9wKjwKCGNvbnRyYWN0FWAmpUAaA2NsbRoJY29udHJhY3RzGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQqYwoJbGlmZWN5Y2xlFZq8mkAaA2NsbRoKbGlmZSBjeWNsZRobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50GhNsaWZlY3ljbGVtYW5hZ2VtZW50Gg5pdjtwO2xpZmVjeWNsZSp1CgptYW5hZ2VtZW50FcNk5EAaDmFkbWluaXN0cmF0aW9uGgNjbG0aB21hbmFnZXIaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoSbWFuYWdlbWVudHNvZnR3YXJlKkAKCHNvZnR3YXJlFTIUMkAaCXNvZnR3YXJlcxoJc29sdXRpb25zGgV0b29scxoSbWFuYWdlbWVudHNvZnR3YXJlMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjFPMkNMaUFrckJCVllkOUZDcHVrYUxOSHU0ZmkwUmVPaEI2YkhPSGdrdzFBbi0zdjVQWkdSSVhHTHFweEQwOWNfM3dkbzlmVU1HZG5YRTctNF9NMW1UdW5DQzZMVkd3WmEtVkdhcm5YM1BZUGtiQXY0bHMtNEoxVzZNTDdrQ1dQSmhZVkkzVE03amN0WDZXeG5DRm43RnJRZW8tQjZRMi06QTxiPkJlc3QgQ29udHJhY3QgTGlmZSBDeWNsZSBNYW5hZ2VtZW50PC9iPiBSZXZpZXdzIDIwMjYgLSBHYXJ0bmVyQq4BPGI-QWdpbG9mdCBDTE0gUGxhdGZvcm08L2I-IGlzIGEgc29mdHdhcmUgZGVzaWduZWQgdG8gYXV0b21hdGUgYW5kIG1hbmFnZSB0aGUgbGlmZWN5Y2xlIG9mIGNvbnRyYWN0cyBmcm9tIGNyZWF0aW9uIHRocm91Z2ggZXhlY3V0aW9uIGFuZCByZW5ld2FsLiBUaGUgc29mdHdhcmUgb2ZmZXJzJm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjFPMkNMaUFrckJCVllkOUZDcHVrYUxOSHU0ZmkwUmVPaEI2YkhPSGdrdzFBbi0zdjVQWkdSSVhHTHFweEQwOWNfM3dkbzlmVU1HZG5YRTctNF9NMW1UdW5DQzZMVkd3WmEtVkdhcm5YM1BZUGtiQXY0bHMtNEoxVzZNTDdrQ1dQSmhZVkkzVE03amN0WDZXeG5DRm43RnJRZW8tQjZRMi0SBBoCCAAa1wYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCxBggAEAAYACAAKhkKBGJlc3QVZ2b2PxoHY29tcGFyZRoDdG9wKjwKCGNvbnRyYWN0FWAmpUAaA2NsbRoJY29udHJhY3RzGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQqYwoJbGlmZWN5Y2xlFZq8mkAaA2NsbRoKbGlmZSBjeWNsZRobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50GhNsaWZlY3ljbGVtYW5hZ2VtZW50Gg5pdjtwO2xpZmVjeWNsZSp1CgptYW5hZ2VtZW50FcNk5EAaDmFkbWluaXN0cmF0aW9uGgNjbG0aB21hbmFnZXIaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoSbWFuYWdlbWVudHNvZnR3YXJlKkAKCHNvZnR3YXJlFTIUMkAaCXNvZnR3YXJlcxoJc29sdXRpb25zGgV0b29scxoSbWFuYWdlbWVudHNvZnR3YXJlMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVjFPMkNMaUFrckJCVllkOUZDcHVrYUxOSHU0ZmkwUmVPaEI2YkhPSGdrdzFBbi0zdjVQWkdSSVhHTHFweEQwOWNfM3dkbzlmVU1HZG5YRTctNF9NMW1UdW5DQzZMVkd3WmEtVkdhcm5YM1BZUGtiQXY0bHMtNEoxVzZNTDdrQ1dQSmhZVkkzVE03amN0WDZXeG5DRm43RnJRZW8tQjZRMi06QTxiPkJlc3QgQ29udHJhY3QgTGlmZSBDeWNsZSBNYW5hZ2VtZW50PC9iPiBSZXZpZXdzIDIwMjYgLSBHYXJ0bmVyQq4BPGI-QWdpbG9mdCBDTE0gUGxhdGZvcm08L2I-IGlzIGEgc29mdHdhcmUgZGVzaWduZWQgdG8gYXV0b21hdGUgYW5kIG1hbmFnZSB0aGUgbGlmZWN5Y2xlIG9mIGNvbnRyYWN0cyBmcm9tIGNyZWF0aW9uIHRocm91Z2ggZXhlY3V0aW9uIGFuZCByZW5ld2FsLiBUaGUgc29mdHdhcmUgb2ZmZXJzJm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+      "source": "Gartner",
+      "read_more_link": "https://www.gartner.com/reviews/market/contract-life-cycle-management#:~:text=Agiloft%20CLM%20Platform%20is%20a,approval%20workflows%2C%20and%20document%20management."
+    },
+    {
+      "position": 2,
+      "title": "Best contract lifecycle management (CLM) software",
+      "link": "https://www.summize.com/clm-hub/best-clm-software",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVSsTOu5V5hVBEe905EBhqUuuHozZlDc2_HIVOVKkLMakQhKakQJTpAI4knvmSfrOl0_G3vmKy4wIfDgcBIkSHflAQMauVNyNBONfVshEziXwtNyP-0lTWI6UvDT6Wk9kO8rffYw&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.summize.com › clm-hub › best-clm-software",
+      "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAACwBQCdASocABwAPrUurVanIacnG_DgFolpAA5wW4LIEyqRvPOsic-Y_8fwWKTNdXyDlgeLQAAA_vixnUk7h7P5A_YoihLPTbFl419Irs2zzY_U3Uyv-JVHenJLWOybFjg5SGeuUu1Uz3sze9B21Y2E6juf8LfnbZ6u07DBonPgq7Azxi9BxMxgD1iYJ5d2b_Uo7px7DD83wueehsKpFeZPNHA03agAiphW9rnu6xCWuYvfn5rt1p1wVXmNQNJk1iPL0xemvSbhQHmk2e8YVePWhh7qIX4n_8e9Jucktf0DDnlngFIAAAAA.webp",
+      "snippet": "What is the best CLM software? · 1. Docusign CLM · 2. LinkSquares · 3. Summize · 4. Ironclad · 5. Agiloft · 6. LEAH (ContractPodAI) · 7. Conga CLM · 8.",
+      "snippet_highlighted_words": [
+        "1. Docusign CLM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What is the best CLM software? · 1. Docusign CLM · 2. LinkSquares · 3. Summize · 4. Ironclad · 5. Agiloft · 6. LEAH (ContractPodAI) · 7. Conga CLM · 8.",
+          "source_info_link": "https://www.summize.com/clm-hub/best-clm-software",
+          "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAACwBQCdASocABwAPrUurVanIacnG_DgFolpAA5wW4LIEyqRvPOsic-Y_8fwWKTNdXyDlgeLQAAA_vixnUk7h7P5A_YoihLPTbFl419Irs2zzY_U3Uyv-JVHenJLWOybFjg5SGeuUu1Uz3sze9B21Y2E6juf8LfnbZ6u07DBonPgq7Azxi9BxMxgD1iYJ5d2b_Uo7px7DD83wueehsKpFeZPNHA03agAiphW9rnu6xCWuYvfn5rt1p1wVXmNQNJk1iPL0xemvSbhQHmk2e8YVePWhh7qIX4n_8e9Jucktf0DDnlngFIAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVlNzVE91NVY1aFZCRWU5MDVFQmhxVXV1SG96WmxEYzJfSElWT1ZLa0xNYWtRaEtha1FKVHBBSTRrbnZtU2ZyT2wwX0czdm1LeTR3SWZEZ2NCSWtTSGZsQVFNYXVWTnlOQk9OZlZzaEV6aVh3dE55UC0wbFRXSTZVdkRUNldrOWtPOHJmZll3EgQaAggAGvMGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzQYIABAAGAAgACoZCgRiZXN0FbFv4UAaB2NvbXBhcmUaA3RvcCo8Cghjb250cmFjdBUz--pAGgNjbG0aCWNvbnRyYWN0cxobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50KmMKCWxpZmVjeWNsZRVGjbJAGgNjbG0aCmxpZmUgY3ljbGUaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoOaXY7cDtsaWZlY3ljbGUqdQoKbWFuYWdlbWVudBV_nsNAGg5hZG1pbmlzdHJhdGlvbhoDY2xtGgdtYW5hZ2VyGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQaE2xpZmVjeWNsZW1hbmFnZW1lbnQaEm1hbmFnZW1lbnRzb2Z0d2FyZSpACghzb2Z0d2FyZRWC9PZAGglzb2Z0d2FyZXMaCXNvbHV0aW9ucxoFdG9vbHMaEm1hbmFnZW1lbnRzb2Z0d2FyZTKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZTc1RPdTVWNWhWQkVlOTA1RUJocVV1dUhvelpsRGMyX0hJVk9WS2tMTWFrUWhLYWtRSlRwQUk0a252bVNmck9sMF9HM3ZtS3k0d0lmRGdjQklrU0hmbEFRTWF1Vk55TkJPTmZWc2hFemlYd3ROeVAtMGxUV0k2VXZEVDZXazlrTzhyZmZZdzpPPGI-QmVzdDwvYj4gQ29udHJhY3QgTGlmZWN5Y2xlIE1hbmFnZW1lbnQgKDxiPkNMTTwvYj4pIDxiPlNvZnR3YXJlPC9iPiBmb3IgMjAyNkLWAVdoYXQgaXMgdGhlIGJlc3QgQ0xNIHNvZnR3YXJlPyAmbWlkZG90OyA8Yj4xLiBEb2N1c2lnbiBDTE08L2I-ICZtaWRkb3Q7IDIuIExpbmtTcXVhcmVzICZtaWRkb3Q7IDMuIFN1bW1pemUgJm1pZGRvdDsgNC4gSXJvbmNsYWQgJm1pZGRvdDsgNS4gQWdpbG9mdCAmbWlkZG90OyA2LiBMRUFIIChDb250cmFjdFBvZEFJKSAmbWlkZG90OyA3LiBDb25nYSBDTE0gJm1pZGRvdDsgOC5SA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVlNzVE91NVY1aFZCRWU5MDVFQmhxVXV1SG96WmxEYzJfSElWT1ZLa0xNYWtRaEtha1FKVHBBSTRrbnZtU2ZyT2wwX0czdm1LeTR3SWZEZ2NCSWtTSGZsQVFNYXVWTnlOQk9OZlZzaEV6aVh3dE55UC0wbFRXSTZVdkRUNldrOWtPOHJmZll3EgQaAggAGvMGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAzQYIABAAGAAgACoZCgRiZXN0FbFv4UAaB2NvbXBhcmUaA3RvcCo8Cghjb250cmFjdBUz--pAGgNjbG0aCWNvbnRyYWN0cxobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50KmMKCWxpZmVjeWNsZRVGjbJAGgNjbG0aCmxpZmUgY3ljbGUaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoOaXY7cDtsaWZlY3ljbGUqdQoKbWFuYWdlbWVudBV_nsNAGg5hZG1pbmlzdHJhdGlvbhoDY2xtGgdtYW5hZ2VyGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQaE2xpZmVjeWNsZW1hbmFnZW1lbnQaEm1hbmFnZW1lbnRzb2Z0d2FyZSpACghzb2Z0d2FyZRWC9PZAGglzb2Z0d2FyZXMaCXNvbHV0aW9ucxoFdG9vbHMaEm1hbmFnZW1lbnRzb2Z0d2FyZTKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZTc1RPdTVWNWhWQkVlOTA1RUJocVV1dUhvelpsRGMyX0hJVk9WS2tMTWFrUWhLYWtRSlRwQUk0a252bVNmck9sMF9HM3ZtS3k0d0lmRGdjQklrU0hmbEFRTWF1Vk55TkJPTmZWc2hFemlYd3ROeVAtMGxUV0k2VXZEVDZXazlrTzhyZmZZdzpPPGI-QmVzdDwvYj4gQ29udHJhY3QgTGlmZWN5Y2xlIE1hbmFnZW1lbnQgKDxiPkNMTTwvYj4pIDxiPlNvZnR3YXJlPC9iPiBmb3IgMjAyNkLWAVdoYXQgaXMgdGhlIGJlc3QgQ0xNIHNvZnR3YXJlPyAmbWlkZG90OyA8Yj4xLiBEb2N1c2lnbiBDTE08L2I-ICZtaWRkb3Q7IDIuIExpbmtTcXVhcmVzICZtaWRkb3Q7IDMuIFN1bW1pemUgJm1pZGRvdDsgNC4gSXJvbmNsYWQgJm1pZGRvdDsgNS4gQWdpbG9mdCAmbWlkZG90OyA2LiBMRUFIIChDb250cmFjdFBvZEFJKSAmbWlkZG90OyA3LiBDb25nYSBDTE0gJm1pZGRvdDsgOC5SA3RvcCICEAFIAFgAaAA",
+      "source": "Summize",
+      "read_more_link": "https://www.summize.com/clm-hub/best-clm-software#:~:text=What%20is%20the%20best%20CLM,software%3F&text=1.%20Docusign%20CLM&text=2.%20LinkSquares&text=3.%20Summize&text=4.%20Ironclad&text=5.%20Agiloft&text=6.%20LEAH%20(ContractPodAI)&text=7.%20Conga%20CLM&text=8.%20Luminance"
+    },
+    {
+      "position": 3,
+      "title": "What contract lifecycle management software is everyone ...",
+      "link": "https://www.reddit.com/r/procurement/comments/1puhgbt/what_contract_lifecycle_management_software_is/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFaIdwKPXAtHbttf3MySFsbL-7QA8CWckjhU5q19jJ9yBYw_EvOmR0zrCGVgd2gsxPHFS5YqYQ5v_DqHMs-50mpPP9Cq7Xoagiifpz85ztGNWzqf9SBek9lXMU5Kj2ckqDS3YdCDu239sWT70dh9kpIevMJwwIB51mxxgFO3rS0HszMngqL2z3OvgqWiIgHPnx0d4s9kUxK5X&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQFnoECCgQAQ&uoh=1",
+      "displayed_link": "80+ comments · 9 months ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "been at my company for a while now and we're still tracking everything in excel and shared drives. it's a mess. contracts get lost, renewal dates slip ...",
+      "about_this_result": {
+        "source": {
+          "description": "We checked out 3 CLMs: Juro, Agiloft and SpotDraft. We have narrowed it down to SpotDraft and Juro. unsure which to choose, so the decision has ...",
+          "source_info_link": "https://www.reddit.com/r/procurement/comments/1puhgbt/what_contract_lifecycle_management_software_is/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZhSWR3S1BYQXRIYnR0ZjNNeVNGc2JMLTdRQThDV2NramhVNXExOWpKOXlCWXdfRXZPbVIwenJDR1ZnZDJnc3hQSEZTNVlxWVE1dl9EcUhNcy01MG1wUFA5Q3E3WG9hZ2lpZnB6ODV6dEdOV3pxZjlTQmVrOWxYTVU1S2oyY2txRFMzWWRDRHUyMzlzV1Q3MGRoOWtwSWV2TUp3d0lCNTFteHhnRk8zclMwSHN6TW5ncUwyejNPdmdxV2lJZ0hQbngwZDRzOWtVeEs1WBIEGgIIABr1BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQM8GCAAQABgAIAAqGQoEYmVzdBVjrAU_Ggdjb21wYXJlGgN0b3AqPAoIY29udHJhY3QVxZOXQBoDY2xtGgljb250cmFjdHMaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudCpjCglsaWZlY3ljbGUVOeySQBoDY2xtGgpsaWZlIGN5Y2xlGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQaE2xpZmVjeWNsZW1hbmFnZW1lbnQaDml2O3A7bGlmZWN5Y2xlKnUKCm1hbmFnZW1lbnQVjleUQBoOYWRtaW5pc3RyYXRpb24aA2NsbRoHbWFuYWdlchobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50GhNsaWZlY3ljbGVtYW5hZ2VtZW50GhJtYW5hZ2VtZW50c29mdHdhcmUqQAoIc29mdHdhcmUVglaXQBoJc29mdHdhcmVzGglzb2x1dGlvbnMaBXRvb2xzGhJtYW5hZ2VtZW50c29mdHdhcmUy4gEvZ290bz91cmw9Q0FFU25RRUI2enN3RmFJZHdLUFhBdEhidHRmM015U0ZzYkwtN1FBOENXY2tqaFU1cTE5ako5eUJZd19Fdk9tUjB6ckNHVmdkMmdzeFBIRlM1WXFZUTV2X0RxSE1zLTUwbXBQUDlDcTdYb2FnaWlmcHo4NXp0R05XenFmOVNCZWs5bFhNVTVLajJja3FEUzNZZENEdTIzOXNXVDcwZGg5a3BJZXZNSnd3SUI1MW14eGdGTzNyUzBIc3pNbmdxTDJ6M092Z3FXaUlnSFBueDBkNHM5a1V4SzVYOkJXaGF0IDxiPmNvbnRyYWN0IGxpZmVjeWNsZSBtYW5hZ2VtZW50IHNvZnR3YXJlPC9iPiBpcyBldmVyeW9uZSAuLi5CnwFXZSBjaGVja2VkIG91dCAzIENMTXM6IDxiPkp1cm88L2I-LCBBZ2lsb2Z0IGFuZCBTcG90RHJhZnQuIFdlIGhhdmUgbmFycm93ZWQgaXQgZG93biB0byBTcG90RHJhZnQgYW5kIEp1cm8uIHVuc3VyZSB3aGljaCB0byBjaG9vc2UsIHNvIHRoZSBkZWNpc2lvbiBoYXMmbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZhSWR3S1BYQXRIYnR0ZjNNeVNGc2JMLTdRQThDV2NramhVNXExOWpKOXlCWXdfRXZPbVIwenJDR1ZnZDJnc3hQSEZTNVlxWVE1dl9EcUhNcy01MG1wUFA5Q3E3WG9hZ2lpZnB6ODV6dEdOV3pxZjlTQmVrOWxYTVU1S2oyY2txRFMzWWRDRHUyMzlzV1Q3MGRoOWtwSWV2TUp3d0lCNTFteHhnRk8zclMwSHN6TW5ncUwyejNPdmdxV2lJZ0hQbngwZDRzOWtVeEs1WBIEGgIIABr1BhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQM8GCAAQABgAIAAqGQoEYmVzdBVjrAU_Ggdjb21wYXJlGgN0b3AqPAoIY29udHJhY3QVxZOXQBoDY2xtGgljb250cmFjdHMaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudCpjCglsaWZlY3ljbGUVOeySQBoDY2xtGgpsaWZlIGN5Y2xlGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQaE2xpZmVjeWNsZW1hbmFnZW1lbnQaDml2O3A7bGlmZWN5Y2xlKnUKCm1hbmFnZW1lbnQVjleUQBoOYWRtaW5pc3RyYXRpb24aA2NsbRoHbWFuYWdlchobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50GhNsaWZlY3ljbGVtYW5hZ2VtZW50GhJtYW5hZ2VtZW50c29mdHdhcmUqQAoIc29mdHdhcmUVglaXQBoJc29mdHdhcmVzGglzb2x1dGlvbnMaBXRvb2xzGhJtYW5hZ2VtZW50c29mdHdhcmUy4gEvZ290bz91cmw9Q0FFU25RRUI2enN3RmFJZHdLUFhBdEhidHRmM015U0ZzYkwtN1FBOENXY2tqaFU1cTE5ako5eUJZd19Fdk9tUjB6ckNHVmdkMmdzeFBIRlM1WXFZUTV2X0RxSE1zLTUwbXBQUDlDcTdYb2FnaWlmcHo4NXp0R05XenFmOVNCZWs5bFhNVTVLajJja3FEUzNZZENEdTIzOXNXVDcwZGg5a3BJZXZNSnd3SUI1MW14eGdGTzNyUzBIc3pNbmdxTDJ6M092Z3FXaUlnSFBueDBkNHM5a1V4SzVYOkJXaGF0IDxiPmNvbnRyYWN0IGxpZmVjeWNsZSBtYW5hZ2VtZW50IHNvZnR3YXJlPC9iPiBpcyBldmVyeW9uZSAuLi5CnwFXZSBjaGVja2VkIG91dCAzIENMTXM6IDxiPkp1cm88L2I-LCBBZ2lsb2Z0IGFuZCBTcG90RHJhZnQuIFdlIGhhdmUgbmFycm93ZWQgaXQgZG93biB0byBTcG90RHJhZnQgYW5kIEp1cm8uIHVuc3VyZSB3aGljaCB0byBjaG9vc2UsIHNvIHRoZSBkZWNpc2lvbiBoYXMmbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+      "source": "Reddit · r/procurement"
+    },
+    {
+      "position": 4,
+      "title": "What Is The Best Contract Lifecycle Management Software?",
+      "link": "https://www.lexisnexis.com/community/insights/legal/counsellink/b/counsellink/posts/what-is-the-best-contract-lifecycle-management-software",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxAEB6zswFerwvcbtZ6ADivGPcNBpbSH22CJ1pyH8uTQ4TfwOO9MdPW2i9eZRlhZkedEiOoulWiRclgRf35iJVC1NxAodzgW_FqwYGaJsD0riiKwRAPBLA6vmdsPk4PeGkAVCs5xQzG71GZ-TIv2_ZRvr_q3EvR_SBtD95bd4V5XPPZL8B0zGNt39x30zXz2dUUu1M_qjyPa_mxLxx5CjFVrvPdONTIQ3S3NzQg9EFEC3-7_HozLBm2zDBzdPJTfaXDdYK6Gs&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQFnoECDsQAQ&uoh=1",
+      "displayed_link": "https://www.lexisnexis.com › legal › counsellink › posts",
+      "favicon": "https://serpapi.com/images/i/UklGRtABAABXRUJQVlA4IMQBAABwCQCdASogACAAPtEutFooIagoGAEAGglsAJ0y0HSXtctHnoDrRvQA_UD0xPZH_Zf0dLuJcQQzTEDGLc8Nwn916VRtIM8kH6rnbb9yhaZvLxFXU6AA_vYQzoO2RQMZcWuxsiSdwJaYe_JkiowHIlvORJTXAMFEO97pQQk9ml50QE49qVW225aRxyNEl8Rah7Awn5ImffWs4xowSwqGOvhdHA7gFKsQ0vyKGJgUpsm94gdhIVDocxKt_-JbQj0NiX_5XnLg4-g_e5LW2wCkMUxDXBziUNsEE1HO4i5sY_hzA0ufhCKbd9qn5bh0xqnZW2chxAOTM7nmFImxmh-gU7nVk034TWOM3V8M0n5Dp02e6Vzm_1d9EjwtnVSeLYP-Cd61Nv7pI2TjiS0Nx68QxDYzkS2KUu6Ir97mjWxyHwauDla3qqlzRjENoJDMpmYg4c46lELx0U0b8crVH6FmQIlGyYkIRVXh3HXb8XPaJeJdAHFVAZqEsSif1wUX2EFPoSYsG28n_T01KvtiYB8m1CH5HCYZ2xYLE3ffYY97Dfcrjs8VMlKHYCbbhnFhFHv74kB9OJc3_OTr2Rf2f0Gx7VdnZB4AAA.webp",
+      "date": "Dec 3, 2025",
+      "snippet": "LexisNexis® CounselLink+™ stands apart because it unifies contract lifecycle management with enterprise legal management on a single, integrated ...",
+      "snippet_highlighted_words": [
+        "contract lifecycle management",
+        "management"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "LexisNexis® CounselLink+™ stands apart because it unifies contract lifecycle management with enterprise legal management on a single, integrated ...",
+          "source_info_link": "https://www.lexisnexis.com/community/insights/legal/counsellink/b/counsellink/posts/what-is-the-best-contract-lifecycle-management-software",
+          "icon": "https://serpapi.com/images/i/UklGRtABAABXRUJQVlA4IMQBAABwCQCdASogACAAPtEutFooIagoGAEAGglsAJ0y0HSXtctHnoDrRvQA_UD0xPZH_Zf0dLuJcQQzTEDGLc8Nwn916VRtIM8kH6rnbb9yhaZvLxFXU6AA_vYQzoO2RQMZcWuxsiSdwJaYe_JkiowHIlvORJTXAMFEO97pQQk9ml50QE49qVW225aRxyNEl8Rah7Awn5ImffWs4xowSwqGOvhdHA7gFKsQ0vyKGJgUpsm94gdhIVDocxKt_-JbQj0NiX_5XnLg4-g_e5LW2wCkMUxDXBziUNsEE1HO4i5sY_hzA0ufhCKbd9qn5bh0xqnZW2chxAOTM7nmFImxmh-gU7nVk034TWOM3V8M0n5Dp02e6Vzm_1d9EjwtnVSeLYP-Cd61Nv7pI2TjiS0Nx68QxDYzkS2KUu6Ir97mjWxyHwauDla3qqlzRjENoJDMpmYg4c46lELx0U0b8crVH6FmQIlGyYkIRVXh3HXb8XPaJeJdAHFVAZqEsSif1wUX2EFPoSYsG28n_T01KvtiYB8m1CH5HCYZ2xYLE3ffYY97Dfcrjs8VMlKHYCbbhnFhFHv74kB9OJc3_OTr2Rf2f0Gx7VdnZB4AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYCL2dvdG8_dXJsPUNBRVN4QUVCNnpzd0Zlcnd2Y2J0WjZBRGl2R1BjTkJwYlNIMjJDSjFweUg4dVRRNFRmd09POU1kUFcyaTllWlJsaFprZWRFaU9vdWxXaVJjbGdSZjM1aUpWQzFOeEFvZHpnV19GcXdZR2FKc0QwcmlpS3dSQVBCTEE2dm1kc1BrNFBlR2tBVkNzNXhRekc3MUdaLVRJdjJfWlJ2cl9xM0V2Ul9TQnREOTViZDRWNVhQUFpMOEIwekdOdDM5eDMwelh6MmRVVXUxTV9xanlQYV9teEx4eDVDakZWcnZQZE9OVElRM1MzTnpRZzlFRkVDMy03X0hvekxCbTJ6REJ6ZFBKVGZhWERkWUs2R3MSBBoCCAAaxQcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAoQcIABAAGAAgACoZCgRiZXN0Fe5bwUAaB2NvbXBhcmUaA3RvcCo8Cghjb250cmFjdBWhl_lAGgNjbG0aCWNvbnRyYWN0cxobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50KmMKCWxpZmVjeWNsZRUJRulAGgNjbG0aCmxpZmUgY3ljbGUaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoOaXY7cDtsaWZlY3ljbGUqdQoKbWFuYWdlbWVudBVV3PxAGg5hZG1pbmlzdHJhdGlvbhoDY2xtGgdtYW5hZ2VyGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQaE2xpZmVjeWNsZW1hbmFnZW1lbnQaEm1hbmFnZW1lbnRzb2Z0d2FyZSpACghzb2Z0d2FyZRVCFeNAGglzb2Z0d2FyZXMaCXNvbHV0aW9ucxoFdG9vbHMaEm1hbmFnZW1lbnRzb2Z0d2FyZTKWAi9nb3RvP3VybD1DQUVTeEFFQjZ6c3dGZXJ3dmNidFo2QURpdkdQY05CcGJTSDIyQ0oxcHlIOHVUUTRUZndPTzlNZFBXMmk5ZVpSbGhaa2VkRWlPb3VsV2lSY2xnUmYzNWlKVkMxTnhBb2R6Z1dfRnF3WUdhSnNEMHJpaUt3UkFQQkxBNnZtZHNQazRQZUdrQVZDczV4UXpHNzFHWi1USXYyX1pSdnJfcTNFdlJfU0J0RDk1YmQ0VjVYUFBaTDhCMHpHTnQzOXgzMHpYejJkVVV1MU1fcWp5UGFfbXhMeHg1Q2pGVnJ2UGRPTlRJUTNTM056UWc5RUZFQzMtN19Ib3pMQm0yekRCemRQSlRmYVhEZFlLNkdzOj9XaGF0IElzIFRoZSA8Yj5CZXN0IENvbnRyYWN0IExpZmVjeWNsZSBNYW5hZ2VtZW50IFNvZnR3YXJlPC9iPj9CwAFMZXhpc05leGlzPHN1cD7Crjwvc3VwPiBDb3Vuc2VsTGluays8c3VwPuKEojwvc3VwPiBzdGFuZHMgYXBhcnQgYmVjYXVzZSBpdCB1bmlmaWVzIDxiPmNvbnRyYWN0IGxpZmVjeWNsZSBtYW5hZ2VtZW50PC9iPiB3aXRoIGVudGVycHJpc2UgbGVnYWwgPGI-bWFuYWdlbWVudDwvYj4gb24gYSBzaW5nbGUsIGludGVncmF0ZWQmbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYCL2dvdG8_dXJsPUNBRVN4QUVCNnpzd0Zlcnd2Y2J0WjZBRGl2R1BjTkJwYlNIMjJDSjFweUg4dVRRNFRmd09POU1kUFcyaTllWlJsaFprZWRFaU9vdWxXaVJjbGdSZjM1aUpWQzFOeEFvZHpnV19GcXdZR2FKc0QwcmlpS3dSQVBCTEE2dm1kc1BrNFBlR2tBVkNzNXhRekc3MUdaLVRJdjJfWlJ2cl9xM0V2Ul9TQnREOTViZDRWNVhQUFpMOEIwekdOdDM5eDMwelh6MmRVVXUxTV9xanlQYV9teEx4eDVDakZWcnZQZE9OVElRM1MzTnpRZzlFRkVDMy03X0hvekxCbTJ6REJ6ZFBKVGZhWERkWUs2R3MSBBoCCAAaxQcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAoQcIABAAGAAgACoZCgRiZXN0Fe5bwUAaB2NvbXBhcmUaA3RvcCo8Cghjb250cmFjdBWhl_lAGgNjbG0aCWNvbnRyYWN0cxobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50KmMKCWxpZmVjeWNsZRUJRulAGgNjbG0aCmxpZmUgY3ljbGUaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoOaXY7cDtsaWZlY3ljbGUqdQoKbWFuYWdlbWVudBVV3PxAGg5hZG1pbmlzdHJhdGlvbhoDY2xtGgdtYW5hZ2VyGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQaE2xpZmVjeWNsZW1hbmFnZW1lbnQaEm1hbmFnZW1lbnRzb2Z0d2FyZSpACghzb2Z0d2FyZRVCFeNAGglzb2Z0d2FyZXMaCXNvbHV0aW9ucxoFdG9vbHMaEm1hbmFnZW1lbnRzb2Z0d2FyZTKWAi9nb3RvP3VybD1DQUVTeEFFQjZ6c3dGZXJ3dmNidFo2QURpdkdQY05CcGJTSDIyQ0oxcHlIOHVUUTRUZndPTzlNZFBXMmk5ZVpSbGhaa2VkRWlPb3VsV2lSY2xnUmYzNWlKVkMxTnhBb2R6Z1dfRnF3WUdhSnNEMHJpaUt3UkFQQkxBNnZtZHNQazRQZUdrQVZDczV4UXpHNzFHWi1USXYyX1pSdnJfcTNFdlJfU0J0RDk1YmQ0VjVYUFBaTDhCMHpHTnQzOXgzMHpYejJkVVV1MU1fcWp5UGFfbXhMeHg1Q2pGVnJ2UGRPTlRJUTNTM056UWc5RUZFQzMtN19Ib3pMQm0yekRCemRQSlRmYVhEZFlLNkdzOj9XaGF0IElzIFRoZSA8Yj5CZXN0IENvbnRyYWN0IExpZmVjeWNsZSBNYW5hZ2VtZW50IFNvZnR3YXJlPC9iPj9CwAFMZXhpc05leGlzPHN1cD7Crjwvc3VwPiBDb3Vuc2VsTGluays8c3VwPuKEojwvc3VwPiBzdGFuZHMgYXBhcnQgYmVjYXVzZSBpdCB1bmlmaWVzIDxiPmNvbnRyYWN0IGxpZmVjeWNsZSBtYW5hZ2VtZW50PC9iPiB3aXRoIGVudGVycHJpc2UgbGVnYWwgPGI-bWFuYWdlbWVudDwvYj4gb24gYSBzaW5nbGUsIGludGVncmF0ZWQmbmJzcDsuLi5SA3RvcCICEAFIAFgAaAA",
+      "source": "LexisNexis",
+      "read_more_link": "https://www.lexisnexis.com/community/insights/legal/counsellink/b/counsellink/posts/what-is-the-best-contract-lifecycle-management-software#:~:text=We%20use%20cookies%20that%20are"
+    },
+    {
+      "position": 5,
+      "title": "Top 10: CLM Platforms",
+      "link": "https://procurementmag.com/top10/top-10-clm-platforms-based-on-annual-revenue",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFSkp8ccGezwEKBlWcnz2gGz7CujRZq0BCNqWaejSKtTQJ_hIaE9bJMRKF2rdfdb_UCZ0w1VSDC7htIq-NqvJqWLy-KJC4DC9fgKo1XQwGv5sdtZvKaYDc6U42wTYRTGYJnnT8FTkaaqTlPdG8O2abx80IxkhmAZZYaS1BVGCZcY7&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://procurementmag.com › top10 › top-10-clm-platf...",
+      "favicon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADwBQCdASocABwAPtE-tFooIigoFAEAGglsALsyhHAQbATtawH8bpCv3kgo6CRrxZmQhB6IxPNAAAD-8L38c8Di3tMb1lbrTgBsZUuFV01Ft5_4szRZ_qIgOTLrhOo8VKDH1nyp695xVgV5SrGyIsPf1iFLFB_dZ495Yen9vvzUt6jCVhuUGaEmISHBjDtXDa6wtOLRscyAvhn_HWksRH9j7d7mNhfpPP5LJMY_77ssAsryNVeTsd3joP2SZRJlRrFVaJ2IN57xJNXG74hC0n-hL6HDP6B-JUbTQkCTutPy9zBVpuyiA6Qb5f_d2AAA.webp",
+      "date": "May 15, 2024",
+      "snippet": "Top 10: CLM Platforms · 10. Agiloft · 9. Ironclad Contract Management · 8. Zycus · 7. Conga · 6. DocuSign.",
+      "snippet_highlighted_words": [
+        "10. Agiloft"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Top 10: CLM Platforms · 10. Agiloft · 9. Ironclad Contract Management · 8. Zycus · 7. Conga · 6. DocuSign.",
+          "source_info_link": "https://procurementmag.com/top10/top-10-clm-platforms-based-on-annual-revenue",
+          "icon": "https://serpapi.com/images/i/UklGRvoAAABXRUJQVlA4IO4AAADwBQCdASocABwAPtE-tFooIigoFAEAGglsALsyhHAQbATtawH8bpCv3kgo6CRrxZmQhB6IxPNAAAD-8L38c8Di3tMb1lbrTgBsZUuFV01Ft5_4szRZ_qIgOTLrhOo8VKDH1nyp695xVgV5SrGyIsPf1iFLFB_dZ495Yen9vvzUt6jCVhuUGaEmISHBjDtXDa6wtOLRscyAvhn_HWksRH9j7d7mNhfpPP5LJMY_77ssAsryNVeTsd3joP2SZRJlRrFVaJ2IN57xJNXG74hC0n-hL6HDP6B-JUbTQkCTutPy9zBVpuyiA6Qb5f_d2AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZTa3A4Y2NHZXp3RUtCbFdjbnoyZ0d6N0N1alJacTBCQ05xV2FlalNLdFRRSl9oSWFFOWJKTVJLRjJyZGZkYl9VQ1owdzFWU0RDN2h0SXEtTnF2SnFXTHktS0pDNERDOWZnS28xWFF3R3Y1c2R0WnZLYVlEYzZVNDJ3VFlSVEdZSm5uVDhGVGthYXFUbFBkRzhPMmFieDgwSXhraG1BWlpZYVMxQlZHQ1pjWTcSBBoCCAAawgYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCcBggAEAAYACAAKhkKBGJlc3QVV8bqPhoHY29tcGFyZRoDdG9wKjwKCGNvbnRyYWN0FeVAgEAaA2NsbRoJY29udHJhY3RzGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQqYwoJbGlmZWN5Y2xlFcE8DkAaA2NsbRoKbGlmZSBjeWNsZRobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50GhNsaWZlY3ljbGVtYW5hZ2VtZW50Gg5pdjtwO2xpZmVjeWNsZSp1CgptYW5hZ2VtZW50FQetaEAaDmFkbWluaXN0cmF0aW9uGgNjbG0aB21hbmFnZXIaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoSbWFuYWdlbWVudHNvZnR3YXJlKkAKCHNvZnR3YXJlFZAN2j8aCXNvZnR3YXJlcxoJc29sdXRpb25zGgV0b29scxoSbWFuYWdlbWVudHNvZnR3YXJlMsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZTa3A4Y2NHZXp3RUtCbFdjbnoyZ0d6N0N1alJacTBCQ05xV2FlalNLdFRRSl9oSWFFOWJKTVJLRjJyZGZkYl9VQ1owdzFWU0RDN2h0SXEtTnF2SnFXTHktS0pDNERDOWZnS28xWFF3R3Y1c2R0WnZLYVlEYzZVNDJ3VFlSVEdZSm5uVDhGVGthYXFUbFBkRzhPMmFieDgwSXhraG1BWlpZYVMxQlZHQ1pjWTc6OjxiPlRvcDwvYj4gMTA6IDxiPkNMTTwvYj4gUGxhdGZvcm1zIC0gUHJvY3VyZW1lbnQgTWFnYXppbmVClAFUb3AgMTA6IENMTSBQbGF0Zm9ybXMgJm1pZGRvdDsgPGI-MTAuIEFnaWxvZnQ8L2I-ICZtaWRkb3Q7IDkuIElyb25jbGFkIENvbnRyYWN0IE1hbmFnZW1lbnQgJm1pZGRvdDsgOC4gWnljdXMgJm1pZGRvdDsgNy4gQ29uZ2EgJm1pZGRvdDsgNi4gRG9jdVNpZ24uUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZTa3A4Y2NHZXp3RUtCbFdjbnoyZ0d6N0N1alJacTBCQ05xV2FlalNLdFRRSl9oSWFFOWJKTVJLRjJyZGZkYl9VQ1owdzFWU0RDN2h0SXEtTnF2SnFXTHktS0pDNERDOWZnS28xWFF3R3Y1c2R0WnZLYVlEYzZVNDJ3VFlSVEdZSm5uVDhGVGthYXFUbFBkRzhPMmFieDgwSXhraG1BWlpZYVMxQlZHQ1pjWTcSBBoCCAAawgYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCcBggAEAAYACAAKhkKBGJlc3QVV8bqPhoHY29tcGFyZRoDdG9wKjwKCGNvbnRyYWN0FeVAgEAaA2NsbRoJY29udHJhY3RzGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQqYwoJbGlmZWN5Y2xlFcE8DkAaA2NsbRoKbGlmZSBjeWNsZRobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50GhNsaWZlY3ljbGVtYW5hZ2VtZW50Gg5pdjtwO2xpZmVjeWNsZSp1CgptYW5hZ2VtZW50FQetaEAaDmFkbWluaXN0cmF0aW9uGgNjbG0aB21hbmFnZXIaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoSbWFuYWdlbWVudHNvZnR3YXJlKkAKCHNvZnR3YXJlFZAN2j8aCXNvZnR3YXJlcxoJc29sdXRpb25zGgV0b29scxoSbWFuYWdlbWVudHNvZnR3YXJlMsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZTa3A4Y2NHZXp3RUtCbFdjbnoyZ0d6N0N1alJacTBCQ05xV2FlalNLdFRRSl9oSWFFOWJKTVJLRjJyZGZkYl9VQ1owdzFWU0RDN2h0SXEtTnF2SnFXTHktS0pDNERDOWZnS28xWFF3R3Y1c2R0WnZLYVlEYzZVNDJ3VFlSVEdZSm5uVDhGVGthYXFUbFBkRzhPMmFieDgwSXhraG1BWlpZYVMxQlZHQ1pjWTc6OjxiPlRvcDwvYj4gMTA6IDxiPkNMTTwvYj4gUGxhdGZvcm1zIC0gUHJvY3VyZW1lbnQgTWFnYXppbmVClAFUb3AgMTA6IENMTSBQbGF0Zm9ybXMgJm1pZGRvdDsgPGI-MTAuIEFnaWxvZnQ8L2I-ICZtaWRkb3Q7IDkuIElyb25jbGFkIENvbnRyYWN0IE1hbmFnZW1lbnQgJm1pZGRvdDsgOC4gWnljdXMgJm1pZGRvdDsgNy4gQ29uZ2EgJm1pZGRvdDsgNi4gRG9jdVNpZ24uUgN0b3AiAhABSABYAGgA",
+      "source": "Procurement Magazine",
+      "read_more_link": "https://procurementmag.com/top10/top-10-clm-platforms-based-on-annual-revenue#:~:text=Top%2010%3A%20CLM%20Platforms&text=10.%20Agiloft&text=9.%20Ironclad%20Contract%20Management&text=8.%20Zycus&text=7.%20Conga&text=6.%20DocuSign"
+    },
+    {
+      "position": 6,
+      "title": "21 Top Contract Management Tools: A Buyer's Guide",
+      "link": "https://conga.com/resources/blog/contract-management-tools",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAV6CAznyvI6Nrir73zbrOdjgrkNQ1NDd_zQfEHxCujDqmjexnRt8LYo2zw83VA9Aco-4b4LlTvc7Fq_pAd4WmGs-fHAqSJ4ETDn3AqB18l1RZ-sqouHpPz_QTvm7Nn_A5NGkBCcFONuCLDCOSmng&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://conga.com › resources › blog › contract-managem...",
+      "favicon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAAAQBwCdASogACAAPtFAtFooIqgoFAEAGglsAFSFcBvGtD_3wA_AcQCcb_USizkmqGd17229yES3O-tHj0yhoFWOAAD-_NqW8QOnU3rJew1D_m3ER6DEDQLQ32yjoM6CsysQdIUezspzg_9Wz0pqn_ct72aDz-p_077r-T40d2HYl0Y3jo__FoZDb24BkSU5ZmTfy-wLUzq-02qKeorJu0D4ANK5rX-wjnPOTT_YmmRmUJZ2fzfjuFuM_3_7d4jedog23pMjm599VLZi_Zbahl3_NGGI9aCfUtO4uFb4Bm7Y07mwFmoBfOhdARu2-ApZdBJA2uKK86w5YLDuAWR_7AgAAAA.webp",
+      "date": "Dec 12, 2025",
+      "snippet": "The best contract lifecycle management tool is Conga CLM, especially for organizations managing high contract volume, complex approval flows, ...",
+      "snippet_highlighted_words": [
+        "Conga CLM"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The best contract lifecycle management tool is Conga CLM, especially for organizations managing high contract volume, complex approval flows, ...",
+          "source_info_link": "https://conga.com/resources/blog/contract-management-tools",
+          "icon": "https://serpapi.com/images/i/UklGRg4BAABXRUJQVlA4IAIBAAAQBwCdASogACAAPtFAtFooIqgoFAEAGglsAFSFcBvGtD_3wA_AcQCcb_USizkmqGd17229yES3O-tHj0yhoFWOAAD-_NqW8QOnU3rJew1D_m3ER6DEDQLQ32yjoM6CsysQdIUezspzg_9Wz0pqn_ct72aDz-p_077r-T40d2HYl0Y3jo__FoZDb24BkSU5ZmTfy-wLUzq-02qKeorJu0D4ANK5rX-wjnPOTT_YmmRmUJZ2fzfjuFuM_3_7d4jedog23pMjm599VLZi_Zbahl3_NGGI9aCfUtO4uFb4Bm7Y07mwFmoBfOhdARu2-ApZdBJA2uKK86w5YLDuAWR_7AgAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVjZDQXpueXZJNk5yaXI3M3pick9kamdya05RMU5EZF96UWZFSHhDdWpEcW1qZXhuUnQ4TFlvMnp3ODNWQTlBY28tNGI0TGxUdmM3RnFfcEFkNFdtR3MtZkhBcVNKNEVURG4zQXFCMThsMVJaLXNxb3VIcFB6X1FUdm03Tm5fQTVOR2tCQ2NGT051Q0xEQ09TbW5nEgQaAggAGrsGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlQYIABAAGAAgACoZCgRiZXN0FR_N9T8aB2NvbXBhcmUaA3RvcCo8Cghjb250cmFjdBXat9dAGgNjbG0aCWNvbnRyYWN0cxobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50KmMKCWxpZmVjeWNsZRUSxgxAGgNjbG0aCmxpZmUgY3ljbGUaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoOaXY7cDtsaWZlY3ljbGUqdQoKbWFuYWdlbWVudBXGTtBAGg5hZG1pbmlzdHJhdGlvbhoDY2xtGgdtYW5hZ2VyGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQaE2xpZmVjeWNsZW1hbmFnZW1lbnQaEm1hbmFnZW1lbnRzb2Z0d2FyZSpACghzb2Z0d2FyZRXr9w9AGglzb2Z0d2FyZXMaCXNvbHV0aW9ucxoFdG9vbHMaEm1hbmFnZW1lbnRzb2Z0d2FyZTKoAS9nb3RvP3VybD1DQUVTY2dIck96QVY2Q0F6bnl2STZOcmlyNzN6YnJPZGpncmtOUTFORGRfelFmRUh4Q3VqRHFtamV4blJ0OExZbzJ6dzgzVkE5QWNvLTRiNExsVHZjN0ZxX3BBZDRXbUdzLWZIQXFTSjRFVERuM0FxQjE4bDFSWi1zcW91SHBQel9RVHZtN05uX0E1TkdrQkNjRk9OdUNMRENPU21uZzpEMjEgPGI-VG9wIENvbnRyYWN0IE1hbmFnZW1lbnQgVG9vbHM8L2I-OiBBIEJ1eWVyJiMzOTtzIEd1aWRlIC0gQ29uZ2FCnQFUaGUgYmVzdCBjb250cmFjdCBsaWZlY3ljbGUgbWFuYWdlbWVudCB0b29sIGlzIDxiPkNvbmdhIENMTTwvYj4sIGVzcGVjaWFsbHkgZm9yIG9yZ2FuaXphdGlvbnMgbWFuYWdpbmcgaGlnaCBjb250cmFjdCB2b2x1bWUsIGNvbXBsZXggYXBwcm92YWwgZmxvd3MsJm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVjZDQXpueXZJNk5yaXI3M3pick9kamdya05RMU5EZF96UWZFSHhDdWpEcW1qZXhuUnQ4TFlvMnp3ODNWQTlBY28tNGI0TGxUdmM3RnFfcEFkNFdtR3MtZkhBcVNKNEVURG4zQXFCMThsMVJaLXNxb3VIcFB6X1FUdm03Tm5fQTVOR2tCQ2NGT051Q0xEQ09TbW5nEgQaAggAGrsGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAlQYIABAAGAAgACoZCgRiZXN0FR_N9T8aB2NvbXBhcmUaA3RvcCo8Cghjb250cmFjdBXat9dAGgNjbG0aCWNvbnRyYWN0cxobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50KmMKCWxpZmVjeWNsZRUSxgxAGgNjbG0aCmxpZmUgY3ljbGUaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoOaXY7cDtsaWZlY3ljbGUqdQoKbWFuYWdlbWVudBXGTtBAGg5hZG1pbmlzdHJhdGlvbhoDY2xtGgdtYW5hZ2VyGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQaE2xpZmVjeWNsZW1hbmFnZW1lbnQaEm1hbmFnZW1lbnRzb2Z0d2FyZSpACghzb2Z0d2FyZRXr9w9AGglzb2Z0d2FyZXMaCXNvbHV0aW9ucxoFdG9vbHMaEm1hbmFnZW1lbnRzb2Z0d2FyZTKoAS9nb3RvP3VybD1DQUVTY2dIck96QVY2Q0F6bnl2STZOcmlyNzN6YnJPZGpncmtOUTFORGRfelFmRUh4Q3VqRHFtamV4blJ0OExZbzJ6dzgzVkE5QWNvLTRiNExsVHZjN0ZxX3BBZDRXbUdzLWZIQXFTSjRFVERuM0FxQjE4bDFSWi1zcW91SHBQel9RVHZtN05uX0E1TkdrQkNjRk9OdUNMRENPU21uZzpEMjEgPGI-VG9wIENvbnRyYWN0IE1hbmFnZW1lbnQgVG9vbHM8L2I-OiBBIEJ1eWVyJiMzOTtzIEd1aWRlIC0gQ29uZ2FCnQFUaGUgYmVzdCBjb250cmFjdCBsaWZlY3ljbGUgbWFuYWdlbWVudCB0b29sIGlzIDxiPkNvbmdhIENMTTwvYj4sIGVzcGVjaWFsbHkgZm9yIG9yZ2FuaXphdGlvbnMgbWFuYWdpbmcgaGlnaCBjb250cmFjdCB2b2x1bWUsIGNvbXBsZXggYXBwcm92YWwgZmxvd3MsJm5ic3A7Li4uUgN0b3AiAhABSABYAGgA",
+      "source": "Conga"
+    },
+    {
+      "position": 7,
+      "title": "Contract Management Software: 2026 Buyer's Guide & ...",
+      "link": "https://www.sirion.ai/library/clm-platform/contract-management-software/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFX6RymvlrMmae92JdDyIeVA1FduvIxZ_PvTlSApm9yZ3pQ4BFR_DCVQBO9CuJrf5o-fibv0ykVtVs_MbVBfIJxCOVujbRoHu_QwJ9nD6kQ1JQGuUGdm6P80LOdito24FYn-wD1SSokebwX5SE0srDkEtcLLfkvb0z3V-ag&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQFnoECDYQAQ&uoh=1",
+      "displayed_link": "https://www.sirion.ai › The Legal Library › CLM Platform",
+      "favicon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAADQCQCdASogACAAPrUurVanIacnG_DgFolqAJ0gm0gG3L5_9xguXPgbVn9ArQZYGkCmh-Oj509gb8s-BPK9u92AfgZatU3TgrL7m7kEI56pbf1vW0Kf-YAA_vi1EqwrT1BNExNipBd0_sIzMGlGpFbb85t2CeAW7rHG9UsLjJn6aUxeWtQgKB-zzcNv9K_POwkAKIhNtyU41U6VAgDyraN3Mc2QMDVGeAQfW08zprHVkdxqtZXMzcVgfknSOYOz0M5B1lAHFqr-0EQdX28_qr8FyVv5JCFIpZ-vxWuamj72W60drzPhfIIpdC2Vj3Z7AnH1Q_j_-PUz-wd1-vG_Tyjt5oSSVJhKmrs-P0u1q7HHGjKVCvyQVx49EboewMY_-rFlBo5ovzv6kS39jkF3TfOLBtAO2SFkjyTsJQfYYngsKwoSjXs_OgxFD9Z2h2_sPIfm2BHlbTd7ncDZU8TTRbjF737ztAG5eluUd9WWbLIjAl0nDz267UeYXYnOeEpSP6iFtCVO4bse10CxNLR3pybffGci1Q7hybUrXpzAm5GCgsmEIp_DL7l8Fu3X_Grn9FjCHM19vPz57R4g2_m5z1diq0IQsFF4D2-weQyAx7kUKJYTFKCDYaDobhfJa0bqgAA.webp",
+      "snippet": "Sirion consistently emerged as a top-rated contract management software provider—recognized for execution excellence, AI innovation, and customer satisfaction.",
+      "snippet_highlighted_words": [
+        "Sirion consistently emerged as a top-rated contract management software provider"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Sirion consistently emerged as a top-rated contract management software provider—recognized for execution excellence, AI innovation, and customer satisfaction.",
+          "source_info_link": "https://www.sirion.ai/library/clm-platform/contract-management-software/",
+          "icon": "https://serpapi.com/images/i/UklGRuwBAABXRUJQVlA4IOABAADQCQCdASogACAAPrUurVanIacnG_DgFolqAJ0gm0gG3L5_9xguXPgbVn9ArQZYGkCmh-Oj509gb8s-BPK9u92AfgZatU3TgrL7m7kEI56pbf1vW0Kf-YAA_vi1EqwrT1BNExNipBd0_sIzMGlGpFbb85t2CeAW7rHG9UsLjJn6aUxeWtQgKB-zzcNv9K_POwkAKIhNtyU41U6VAgDyraN3Mc2QMDVGeAQfW08zprHVkdxqtZXMzcVgfknSOYOz0M5B1lAHFqr-0EQdX28_qr8FyVv5JCFIpZ-vxWuamj72W60drzPhfIIpdC2Vj3Z7AnH1Q_j_-PUz-wd1-vG_Tyjt5oSSVJhKmrs-P0u1q7HHGjKVCvyQVx49EboewMY_-rFlBo5ovzv6kS39jkF3TfOLBtAO2SFkjyTsJQfYYngsKwoSjXs_OgxFD9Z2h2_sPIfm2BHlbTd7ncDZU8TTRbjF737ztAG5eluUd9WWbLIjAl0nDz267UeYXYnOeEpSP6iFtCVO4bse10CxNLR3pybffGci1Q7hybUrXpzAm5GCgsmEIp_DL7l8Fu3X_Grn9FjCHM19vPz57R4g2_m5z1diq0IQsFF4D2-weQyAx7kUKJYTFKCDYaDobhfJa0bqgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZYNlJ5bXZsck1tYWU5MkpkRHlJZVZBMUZkdXZJeFpfUHZUbFNBcG05eVozcFE0QkZSX0RDVlFCTzlDdUpyZjVvLWZpYnYweWtWdFZzX01iVkJmSUp4Q09WdWpiUm9IdV9Rd0o5bkQ2a1ExSlFHdVVHZG02UDgwTE9kaXRvMjRGWW4td0QxU1Nva2Vid1g1U0Uwc3JEa0V0Y0xMZmt2YjB6M1YtYWcSBBoCCAAa3gYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC4BggAEAAYACAAKhkKBGJlc3QVn0kYQBoHY29tcGFyZRoDdG9wKjwKCGNvbnRyYWN0FUKe3UAaA2NsbRoJY29udHJhY3RzGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQqYwoJbGlmZWN5Y2xlFVe7GEAaA2NsbRoKbGlmZSBjeWNsZRobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50GhNsaWZlY3ljbGVtYW5hZ2VtZW50Gg5pdjtwO2xpZmVjeWNsZSp1CgptYW5hZ2VtZW50FXSpwEAaDmFkbWluaXN0cmF0aW9uGgNjbG0aB21hbmFnZXIaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoSbWFuYWdlbWVudHNvZnR3YXJlKkAKCHNvZnR3YXJlFbbeq0AaCXNvZnR3YXJlcxoJc29sdXRpb25zGgV0b29scxoSbWFuYWdlbWVudHNvZnR3YXJlMrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZYNlJ5bXZsck1tYWU5MkpkRHlJZVZBMUZkdXZJeFpfUHZUbFNBcG05eVozcFE0QkZSX0RDVlFCTzlDdUpyZjVvLWZpYnYweWtWdFZzX01iVkJmSUp4Q09WdWpiUm9IdV9Rd0o5bkQ2a1ExSlFHdVVHZG02UDgwTE9kaXRvMjRGWW4td0QxU1Nva2Vid1g1U0Uwc3JEa0V0Y0xMZmt2YjB6M1YtYWc6SDxiPkNvbnRyYWN0IE1hbmFnZW1lbnQgU29mdHdhcmU8L2I-OiAyMDI2IEJ1eWVyJiMzOTtzIEd1aWRlIC4uLiAtIFNpcmlvbkKoATxiPlNpcmlvbiBjb25zaXN0ZW50bHkgZW1lcmdlZCBhcyBhIHRvcC1yYXRlZCBjb250cmFjdCBtYW5hZ2VtZW50IHNvZnR3YXJlIHByb3ZpZGVyPC9iPuKAlHJlY29nbml6ZWQgZm9yIGV4ZWN1dGlvbiBleGNlbGxlbmNlLCBBSSBpbm5vdmF0aW9uLCBhbmQgY3VzdG9tZXIgc2F0aXNmYWN0aW9uLlIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZYNlJ5bXZsck1tYWU5MkpkRHlJZVZBMUZkdXZJeFpfUHZUbFNBcG05eVozcFE0QkZSX0RDVlFCTzlDdUpyZjVvLWZpYnYweWtWdFZzX01iVkJmSUp4Q09WdWpiUm9IdV9Rd0o5bkQ2a1ExSlFHdVVHZG02UDgwTE9kaXRvMjRGWW4td0QxU1Nva2Vid1g1U0Uwc3JEa0V0Y0xMZmt2YjB6M1YtYWcSBBoCCAAa3gYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC4BggAEAAYACAAKhkKBGJlc3QVn0kYQBoHY29tcGFyZRoDdG9wKjwKCGNvbnRyYWN0FUKe3UAaA2NsbRoJY29udHJhY3RzGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQqYwoJbGlmZWN5Y2xlFVe7GEAaA2NsbRoKbGlmZSBjeWNsZRobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50GhNsaWZlY3ljbGVtYW5hZ2VtZW50Gg5pdjtwO2xpZmVjeWNsZSp1CgptYW5hZ2VtZW50FXSpwEAaDmFkbWluaXN0cmF0aW9uGgNjbG0aB21hbmFnZXIaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoSbWFuYWdlbWVudHNvZnR3YXJlKkAKCHNvZnR3YXJlFbbeq0AaCXNvZnR3YXJlcxoJc29sdXRpb25zGgV0b29scxoSbWFuYWdlbWVudHNvZnR3YXJlMrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZYNlJ5bXZsck1tYWU5MkpkRHlJZVZBMUZkdXZJeFpfUHZUbFNBcG05eVozcFE0QkZSX0RDVlFCTzlDdUpyZjVvLWZpYnYweWtWdFZzX01iVkJmSUp4Q09WdWpiUm9IdV9Rd0o5bkQ2a1ExSlFHdVVHZG02UDgwTE9kaXRvMjRGWW4td0QxU1Nva2Vid1g1U0Uwc3JEa0V0Y0xMZmt2YjB6M1YtYWc6SDxiPkNvbnRyYWN0IE1hbmFnZW1lbnQgU29mdHdhcmU8L2I-OiAyMDI2IEJ1eWVyJiMzOTtzIEd1aWRlIC4uLiAtIFNpcmlvbkKoATxiPlNpcmlvbiBjb25zaXN0ZW50bHkgZW1lcmdlZCBhcyBhIHRvcC1yYXRlZCBjb250cmFjdCBtYW5hZ2VtZW50IHNvZnR3YXJlIHByb3ZpZGVyPC9iPuKAlHJlY29nbml6ZWQgZm9yIGV4ZWN1dGlvbiBleGNlbGxlbmNlLCBBSSBpbm5vdmF0aW9uLCBhbmQgY3VzdG9tZXIgc2F0aXNmYWN0aW9uLlIDdG9wIgIQAUgAWABoAA",
+      "source": "Sirion",
+      "read_more_link": "https://www.sirion.ai/library/clm-platform/contract-management-software/#:~:text=Sirion%20consistently%20emerged%20as%20a,AI%20innovation%2C%20and%20customer%20satisfaction."
+    },
+    {
+      "position": 8,
+      "title": "Best contract lifecycle management software for 2026",
+      "link": "https://juro.com/learn/clm-contract-lifecycle-management-software",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVYSQRN17BHc7cF4KHehRFfgsSpRt6ewSAKX2ZkmlOJ-jYWWHpL8D_bhFl5XZDofMf8tqdF6Q4etvaSdK126qUTyY1sW9GkRqpOJUiMppptHggl_9xjEBLQBhEVUMKXpFXjLOz_vuavmxuj67_tNRhkPKjJTw&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQFnoECD8QAQ&uoh=1",
+      "displayed_link": "https://juro.com › learn › clm-contract-lifecycle-manage...",
+      "favicon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAADQBQCdASocABwAPtE-tFooIigoFAEAGglpAAcH76N4gCcf_FSs2Q0Vwmdr7Uoj3mY4-IXJ8LYAAP3H7O809ZYf8XEix10PUffdBnu-p3J5vq-GOoXStLjRFN26CUnU-DfXP7fUr0cnN15jQKsXy5RDKEMRtJQiAceGaUukzW56M6qierXqicmY3YuMi4Oz3fmWmuGM4Afajvfm6Q3J79X5y1VT2t2V2DRBYLXGCNB-_9M7iN76-_0ZCBW3z_UIpCAAAA.webp",
+      "snippet": "Juro is the best contract lifecycle management software for legal and commercial teams in scaling businesses with large contract volumes.",
+      "snippet_highlighted_words": [
+        "Juro is the best contract lifecycle management software"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "How Are Businesses...",
+            "link": "https://juro.com/learn/clm-contract-lifecycle-management-software#:~:text=How%20are%20businesses%20benefitting%20from%20contract%20lifecycle%20management%20software%20today%3F,-1.%20A%20simplified%2C"
+          },
+          {
+            "title": "What Is The Best Contract...",
+            "link": "https://juro.com/learn/clm-contract-lifecycle-management-software#:~:text=What%20is%20the%20best%20contract%20lifecycle%20management%20software%20for%202026%3F,-There%20are%20plenty%20of%20contract"
+          },
+          {
+            "title": "1. Juro: Best Clm Overall...",
+            "link": "https://juro.com/learn/clm-contract-lifecycle-management-software#:~:text=1.%20Juro%3A%20best%20CLM%20overall%20for%20legal%20and%20business%20teams"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Juro is the best contract lifecycle management software for legal and commercial teams in scaling businesses with large contract volumes.",
+          "source_info_link": "https://juro.com/learn/clm-contract-lifecycle-management-software",
+          "icon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAADQBQCdASocABwAPtE-tFooIigoFAEAGglpAAcH76N4gCcf_FSs2Q0Vwmdr7Uoj3mY4-IXJ8LYAAP3H7O809ZYf8XEix10PUffdBnu-p3J5vq-GOoXStLjRFN26CUnU-DfXP7fUr0cnN15jQKsXy5RDKEMRtJQiAceGaUukzW56M6qierXqicmY3YuMi4Oz3fmWmuGM4Afajvfm6Q3J79X5y1VT2t2V2DRBYLXGCNB-_9M7iN76-_0ZCBW3z_UIpCAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVllTUVJOMTdCSGM3Y0Y0S0hlaFJGZmdzU3BSdDZld1NBS1gyWmttbE9KLWpZV1dIcEw4RF9iaEZsNVhaRG9mTWY4dHFkRjZRNGV0dmFTZEsxMjZxVVR5WTFzVzlHa1JxcE9KVWlNcHBwdEhnZ2xfOXhqRUJMUUJoRVZVTUtYcEZYakxPel92dWF2bXh1ajY3X3ROUmhrUEtqSlR3EgQaAggAGrcGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkCPBggAEAAYACAAKhkKBGJlc3QVengLQBoHY29tcGFyZRoDdG9wKjwKCGNvbnRyYWN0FQ7-xkAaA2NsbRoJY29udHJhY3RzGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQqYwoJbGlmZWN5Y2xlFXLnuEAaA2NsbRoKbGlmZSBjeWNsZRobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50GhNsaWZlY3ljbGVtYW5hZ2VtZW50Gg5pdjtwO2xpZmVjeWNsZSp1CgptYW5hZ2VtZW50FcsctkAaDmFkbWluaXN0cmF0aW9uGgNjbG0aB21hbmFnZXIaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoSbWFuYWdlbWVudHNvZnR3YXJlKkAKCHNvZnR3YXJlFU7TuEAaCXNvZnR3YXJlcxoJc29sdXRpb25zGgV0b29scxoSbWFuYWdlbWVudHNvZnR3YXJlMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVllTUVJOMTdCSGM3Y0Y0S0hlaFJGZmdzU3BSdDZld1NBS1gyWmttbE9KLWpZV1dIcEw4RF9iaEZsNVhaRG9mTWY4dHFkRjZRNGV0dmFTZEsxMjZxVVR5WTFzVzlHa1JxcE9KVWlNcHBwdEhnZ2xfOXhqRUJMUUJoRVZVTUtYcEZYakxPel92dWF2bXh1ajY3X3ROUmhrUEtqSlR3OkI8Yj5CZXN0IGNvbnRyYWN0IGxpZmVjeWNsZSBtYW5hZ2VtZW50IHNvZnR3YXJlPC9iPiBmb3IgMjAyNiAtIEp1cm9CkAE8Yj5KdXJvIGlzIHRoZSBiZXN0IGNvbnRyYWN0IGxpZmVjeWNsZSBtYW5hZ2VtZW50IHNvZnR3YXJlPC9iPiBmb3IgbGVnYWwgYW5kIGNvbW1lcmNpYWwgdGVhbXMgaW4gc2NhbGluZyBidXNpbmVzc2VzIHdpdGggbGFyZ2UgY29udHJhY3Qgdm9sdW1lcy5SA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVllTUVJOMTdCSGM3Y0Y0S0hlaFJGZmdzU3BSdDZld1NBS1gyWmttbE9KLWpZV1dIcEw4RF9iaEZsNVhaRG9mTWY4dHFkRjZRNGV0dmFTZEsxMjZxVVR5WTFzVzlHa1JxcE9KVWlNcHBwdEhnZ2xfOXhqRUJMUUJoRVZVTUtYcEZYakxPel92dWF2bXh1ajY3X3ROUmhrUEtqSlR3EgQaAggAGrcGEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgIIAXoAgkCPBggAEAAYACAAKhkKBGJlc3QVengLQBoHY29tcGFyZRoDdG9wKjwKCGNvbnRyYWN0FQ7-xkAaA2NsbRoJY29udHJhY3RzGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQqYwoJbGlmZWN5Y2xlFXLnuEAaA2NsbRoKbGlmZSBjeWNsZRobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50GhNsaWZlY3ljbGVtYW5hZ2VtZW50Gg5pdjtwO2xpZmVjeWNsZSp1CgptYW5hZ2VtZW50FcsctkAaDmFkbWluaXN0cmF0aW9uGgNjbG0aB21hbmFnZXIaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudBoTbGlmZWN5Y2xlbWFuYWdlbWVudBoSbWFuYWdlbWVudHNvZnR3YXJlKkAKCHNvZnR3YXJlFU7TuEAaCXNvZnR3YXJlcxoJc29sdXRpb25zGgV0b29scxoSbWFuYWdlbWVudHNvZnR3YXJlMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVllTUVJOMTdCSGM3Y0Y0S0hlaFJGZmdzU3BSdDZld1NBS1gyWmttbE9KLWpZV1dIcEw4RF9iaEZsNVhaRG9mTWY4dHFkRjZRNGV0dmFTZEsxMjZxVVR5WTFzVzlHa1JxcE9KVWlNcHBwdEhnZ2xfOXhqRUJMUUJoRVZVTUtYcEZYakxPel92dWF2bXh1ajY3X3ROUmhrUEtqSlR3OkI8Yj5CZXN0IGNvbnRyYWN0IGxpZmVjeWNsZSBtYW5hZ2VtZW50IHNvZnR3YXJlPC9iPiBmb3IgMjAyNiAtIEp1cm9CkAE8Yj5KdXJvIGlzIHRoZSBiZXN0IGNvbnRyYWN0IGxpZmVjeWNsZSBtYW5hZ2VtZW50IHNvZnR3YXJlPC9iPiBmb3IgbGVnYWwgYW5kIGNvbW1lcmNpYWwgdGVhbXMgaW4gc2NhbGluZyBidXNpbmVzc2VzIHdpdGggbGFyZ2UgY29udHJhY3Qgdm9sdW1lcy5SA3RvcCICEAFIAFgAaAA",
+      "source": "Juro | Intelligent contracting"
+    },
+    {
+      "position": 9,
+      "title": "10 Best Contract Management Software Tools to Close ...",
+      "link": "https://www.proposify.com/blog/best-contract-management-software",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVHEa4uVsrm8LLrmWLqH5gSym2xOJzByGonWyn37fejoM0sYCEWSrxYwUIHv5O0yd1vwA49bNnU8YS_783AL5mfylXRI0_-82QnE0skguYKhrue3af185bGg0ouumqbFW08kWFK64GX4hNav-fNDcvQQW5FA&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQFnoECD4QAQ&uoh=1",
+      "displayed_link": "https://www.proposify.com › blog › best-contract-manag...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAKDoAKDoAKDoAKDoAKDoAKDoAKDoAKDoAKDoAKDoAKDoAKDoAJzwAKDoAKDoAKDr1gpEhAAAAEXRSTlMAP26Snkm7_93u0hmpCoEtyZLZFYAAAAEoSURBVHgBhVPRloUgCExSuFma__-1S4N0a5dzlieVYQYAl6clWnNeKS2hFZbbuPxxp8_l2Cpz3a7T5xdNvt5ot8tOFzo__VWDy0tPaer3qgHHPLY2D4dSup9FOpy9ilrtAHURNj-JrPbiZvhVhBAHNegIU0rEAnZk1gy4m5-nfmND7EZtCWbwwkztsES1IJFzWc5Zx0l0ogZ_LaqwOXZpQ9RGu3k31Rg4QQ39QoeQGeKGgjq4EtQ69LWpCRpd6VFsQiVQAy8qSGjRE5BDACQcEEkgSQdESUL4BgRlolEOqEGjgHUAZmQC2WBzWG_A_h5WU9XTy6RSMO76HTeKZQPEC4OVewIqvVcOy-JVxEsLNU8yXHv1OUP4cRBiOQzmEX49k40-77_f_wddcxBMJOGKLgAAAABJRU5ErkJggg.png",
+      "date": "Mar 23, 2026",
+      "snippet": "Top 10 Contract Management Platforms to Pick From · 1. Proposify · 2. PandaDoc · 3. Sirion · 4. LinkSquares · 5. Contractbook · 6. Ironclad · 7. Juro.",
+      "snippet_highlighted_words": [
+        "1. Proposify"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "1. Proposify",
+            "link": "https://www.proposify.com/blog/best-contract-management-software#:~:text=1.%20Proposify"
+          },
+          {
+            "title": "2. Pandadoc",
+            "link": "https://www.proposify.com/blog/best-contract-management-software#:~:text=2.%20PandaDoc"
+          },
+          {
+            "title": "9. Docusign Clm",
+            "link": "https://www.proposify.com/blog/best-contract-management-software#:~:text=9.%20DocuSign%20CLM"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Top 10 Contract Management Platforms to Pick From · 1. Proposify · 2. PandaDoc · 3. Sirion · 4. LinkSquares · 5. Contractbook · 6. Ironclad · 7. Juro.",
+          "source_info_link": "https://www.proposify.com/blog/best-contract-management-software",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAKDoAKDoAKDoAKDoAKDoAKDoAKDoAKDoAKDoAKDoAKDoAKDoAJzwAKDoAKDoAKDr1gpEhAAAAEXRSTlMAP26Snkm7_93u0hmpCoEtyZLZFYAAAAEoSURBVHgBhVPRloUgCExSuFma__-1S4N0a5dzlieVYQYAl6clWnNeKS2hFZbbuPxxp8_l2Cpz3a7T5xdNvt5ot8tOFzo__VWDy0tPaer3qgHHPLY2D4dSup9FOpy9ilrtAHURNj-JrPbiZvhVhBAHNegIU0rEAnZk1gy4m5-nfmND7EZtCWbwwkztsES1IJFzWc5Zx0l0ogZ_LaqwOXZpQ9RGu3k31Rg4QQ39QoeQGeKGgjq4EtQ69LWpCRpd6VFsQiVQAy8qSGjRE5BDACQcEEkgSQdESUL4BgRlolEOqEGjgHUAZmQC2WBzWG_A_h5WU9XTy6RSMO76HTeKZQPEC4OVewIqvVcOy-JVxEsLNU8yXHv1OUP4cRBiOQzmEX49k40-77_f_wddcxBMJOGKLgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkhFYTR1VnNybThMTHJtV0xxSDVnU3ltMnhPSnpCeUdvbld5bjM3ZmVqb00wc1lDRVdTcnhZd1VJSHY1TzB5ZDF2d0E0OWJOblU4WVNfNzgzQUw1bWZ5bFhSSTBfLTgyUW5FMHNrZ3VZS2hydWUzYWYxODViR2cwb3V1bXFiRlcwOGtXRks2NEdYNGhOYXYtZk5EY3ZRUVc1RkESBBoCCAAa9gYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQM4GCAAQABgAIAAqGQoEYmVzdBWQgZ1AGgdjb21wYXJlGgN0b3AqPAoIY29udHJhY3QV5E2GQBoDY2xtGgljb250cmFjdHMaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudCpjCglsaWZlY3ljbGUVTbl4PxoDY2xtGgpsaWZlIGN5Y2xlGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQaE2xpZmVjeWNsZW1hbmFnZW1lbnQaDml2O3A7bGlmZWN5Y2xlKnUKCm1hbmFnZW1lbnQVIAKOQBoOYWRtaW5pc3RyYXRpb24aA2NsbRoHbWFuYWdlchobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50GhNsaWZlY3ljbGVtYW5hZ2VtZW50GhJtYW5hZ2VtZW50c29mdHdhcmUqQAoIc29mdHdhcmUVNJN_QBoJc29mdHdhcmVzGglzb2x1dGlvbnMaBXRvb2xzGhJtYW5hZ2VtZW50c29mdHdhcmUysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWSEVhNHVWc3JtOExMcm1XTHFINWdTeW0yeE9KekJ5R29uV3luMzdmZWpvTTBzWUNFV1NyeFl3VUlIdjVPMHlkMXZ3QTQ5Yk5uVThZU183ODNBTDVtZnlsWFJJMF8tODJRbkUwc2tndVlLaHJ1ZTNhZjE4NWJHZzBvdXVtcWJGVzA4a1dGSzY0R1g0aE5hdi1mTkRjdlFRVzVGQTpEMTAgPGI-QmVzdCBDb250cmFjdCBNYW5hZ2VtZW50IFNvZnR3YXJlIFRvb2xzPC9iPiB0byBDbG9zZSBEZWFscyAuLi5CzgFUb3AgMTAgQ29udHJhY3QgTWFuYWdlbWVudCBQbGF0Zm9ybXMgdG8gUGljayBGcm9tICZtaWRkb3Q7IDxiPjEuIFByb3Bvc2lmeTwvYj4gJm1pZGRvdDsgMi4gUGFuZGFEb2MgJm1pZGRvdDsgMy4gU2lyaW9uICZtaWRkb3Q7IDQuIExpbmtTcXVhcmVzICZtaWRkb3Q7IDUuIENvbnRyYWN0Ym9vayAmbWlkZG90OyA2LiBJcm9uY2xhZCAmbWlkZG90OyA3LiBKdXJvLlIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVkhFYTR1VnNybThMTHJtV0xxSDVnU3ltMnhPSnpCeUdvbld5bjM3ZmVqb00wc1lDRVdTcnhZd1VJSHY1TzB5ZDF2d0E0OWJOblU4WVNfNzgzQUw1bWZ5bFhSSTBfLTgyUW5FMHNrZ3VZS2hydWUzYWYxODViR2cwb3V1bXFiRlcwOGtXRks2NEdYNGhOYXYtZk5EY3ZRUVc1RkESBBoCCAAa9gYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQM4GCAAQABgAIAAqGQoEYmVzdBWQgZ1AGgdjb21wYXJlGgN0b3AqPAoIY29udHJhY3QV5E2GQBoDY2xtGgljb250cmFjdHMaG2NvbnRyYWN0bGlmZWN5Y2xlbWFuYWdlbWVudCpjCglsaWZlY3ljbGUVTbl4PxoDY2xtGgpsaWZlIGN5Y2xlGhtjb250cmFjdGxpZmVjeWNsZW1hbmFnZW1lbnQaE2xpZmVjeWNsZW1hbmFnZW1lbnQaDml2O3A7bGlmZWN5Y2xlKnUKCm1hbmFnZW1lbnQVIAKOQBoOYWRtaW5pc3RyYXRpb24aA2NsbRoHbWFuYWdlchobY29udHJhY3RsaWZlY3ljbGVtYW5hZ2VtZW50GhNsaWZlY3ljbGVtYW5hZ2VtZW50GhJtYW5hZ2VtZW50c29mdHdhcmUqQAoIc29mdHdhcmUVNJN_QBoJc29mdHdhcmVzGglzb2x1dGlvbnMaBXRvb2xzGhJtYW5hZ2VtZW50c29mdHdhcmUysAEvZ290bz91cmw9Q0FFU2VBSHJPekFWSEVhNHVWc3JtOExMcm1XTHFINWdTeW0yeE9KekJ5R29uV3luMzdmZWpvTTBzWUNFV1NyeFl3VUlIdjVPMHlkMXZ3QTQ5Yk5uVThZU183ODNBTDVtZnlsWFJJMF8tODJRbkUwc2tndVlLaHJ1ZTNhZjE4NWJHZzBvdXVtcWJGVzA4a1dGSzY0R1g0aE5hdi1mTkRjdlFRVzVGQTpEMTAgPGI-QmVzdCBDb250cmFjdCBNYW5hZ2VtZW50IFNvZnR3YXJlIFRvb2xzPC9iPiB0byBDbG9zZSBEZWFscyAuLi5CzgFUb3AgMTAgQ29udHJhY3QgTWFuYWdlbWVudCBQbGF0Zm9ybXMgdG8gUGljayBGcm9tICZtaWRkb3Q7IDxiPjEuIFByb3Bvc2lmeTwvYj4gJm1pZGRvdDsgMi4gUGFuZGFEb2MgJm1pZGRvdDsgMy4gU2lyaW9uICZtaWRkb3Q7IDQuIExpbmtTcXVhcmVzICZtaWRkb3Q7IDUuIENvbnRyYWN0Ym9vayAmbWlkZG90OyA2LiBJcm9uY2xhZCAmbWlkZG90OyA3LiBKdXJvLlIDdG9wIgIQAUgAWABoAA",
+      "source": "Proposify",
+      "read_more_link": "https://www.proposify.com/blog/best-contract-management-software#:~:text=Top%2010%20Contract%20Management%20Platforms,to%20Pick%20From&text=1.%20Proposify&text=2.%20PandaDoc&text=3.%20Sirion&text=4.%20LinkSquares&text=5.%20Contractbook&text=6.%20Ironclad&text=7.%20Juro"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best contract lifecycle management software reddit",
+      "link": "https://www.google.com/search?sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&q=Best+contract+lifecycle+management+software+reddit&sa=X&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ1QJ6BAgxEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+contract+lifecycle+management+software+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best contract lifecycle management software free",
+      "link": "https://www.google.com/search?sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&q=Best+contract+lifecycle+management+software+free&sa=X&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+contract+lifecycle+management+software+free"
+    },
+    {
+      "block_position": 1,
+      "query": "Best contract lifecycle management software 2022",
+      "link": "https://www.google.com/search?sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&q=Best+contract+lifecycle+management+software+2022&sa=X&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+contract+lifecycle+management+software+2022"
+    },
+    {
+      "block_position": 1,
+      "query": "Best contract lifecycle management software for small business",
+      "link": "https://www.google.com/search?sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&q=Best+contract+lifecycle+management+software+for+small+business&sa=X&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+contract+lifecycle+management+software+for+small+business"
+    },
+    {
+      "block_position": 1,
+      "query": "Contract Lifecycle Management Magic Quadrant",
+      "link": "https://www.google.com/search?sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&q=Contract+Lifecycle+Management+Magic+Quadrant&sa=X&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ1QJ6BAg1EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Contract+Lifecycle+Management+Magic+Quadrant"
+    },
+    {
+      "block_position": 1,
+      "query": "Docusign CLM",
+      "link": "https://www.google.com/search?sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&q=Docusign+CLM&sa=X&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ1QJ6BAg0EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Docusign+CLM"
+    },
+    {
+      "block_position": 1,
+      "query": "CLM tools",
+      "link": "https://www.google.com/search?sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&q=CLM+tools&sa=X&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ1QJ6BAgzEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=CLM+tools"
+    },
+    {
+      "block_position": 1,
+      "query": "Conga CLM",
+      "link": "https://www.google.com/search?sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&q=Conga+CLM&sa=X&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ1QJ6BAgyEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Conga+CLM"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+contract+lifecycle+management+software&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&ei=CWm2arLzGr_uruEP2ujByAk&start=10&sa=N&sstk=AS6-VmKFA5Wa3Iq1sr3krx3DVM46OFtd8SpYpoi3LcpkPHrNS0WoPNuFS7nJXrdGJg55VU_5i3QQQpECAwdpLz7ZL11g7dA1NGO9DQ&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ8NMDegQILxAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+contract+lifecycle+management+software&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&ei=CWm2arLzGr_uruEP2ujByAk&start=10&sa=N&sstk=AS6-VmKFA5Wa3Iq1sr3krx3DVM46OFtd8SpYpoi3LcpkPHrNS0WoPNuFS7nJXrdGJg55VU_5i3QQQpECAwdpLz7ZL11g7dA1NGO9DQ&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ8tMDegQILxAE",
+      "3": "https://www.google.com/search?q=best+contract+lifecycle+management+software&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&ei=CWm2arLzGr_uruEP2ujByAk&start=20&sa=N&sstk=AS6-VmKFA5Wa3Iq1sr3krx3DVM46OFtd8SpYpoi3LcpkPHrNS0WoPNuFS7nJXrdGJg55VU_5i3QQQpECAwdpLz7ZL11g7dA1NGO9DQ&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ8tMDegQILxAG",
+      "4": "https://www.google.com/search?q=best+contract+lifecycle+management+software&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&ei=CWm2arLzGr_uruEP2ujByAk&start=30&sa=N&sstk=AS6-VmKFA5Wa3Iq1sr3krx3DVM46OFtd8SpYpoi3LcpkPHrNS0WoPNuFS7nJXrdGJg55VU_5i3QQQpECAwdpLz7ZL11g7dA1NGO9DQ&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ8tMDegQILxAI",
+      "5": "https://www.google.com/search?q=best+contract+lifecycle+management+software&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&ei=CWm2arLzGr_uruEP2ujByAk&start=40&sa=N&sstk=AS6-VmKFA5Wa3Iq1sr3krx3DVM46OFtd8SpYpoi3LcpkPHrNS0WoPNuFS7nJXrdGJg55VU_5i3QQQpECAwdpLz7ZL11g7dA1NGO9DQ&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ8tMDegQILxAK",
+      "6": "https://www.google.com/search?q=best+contract+lifecycle+management+software&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&ei=CWm2arLzGr_uruEP2ujByAk&start=50&sa=N&sstk=AS6-VmKFA5Wa3Iq1sr3krx3DVM46OFtd8SpYpoi3LcpkPHrNS0WoPNuFS7nJXrdGJg55VU_5i3QQQpECAwdpLz7ZL11g7dA1NGO9DQ&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ8tMDegQILxAM",
+      "7": "https://www.google.com/search?q=best+contract+lifecycle+management+software&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&ei=CWm2arLzGr_uruEP2ujByAk&start=60&sa=N&sstk=AS6-VmKFA5Wa3Iq1sr3krx3DVM46OFtd8SpYpoi3LcpkPHrNS0WoPNuFS7nJXrdGJg55VU_5i3QQQpECAwdpLz7ZL11g7dA1NGO9DQ&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ8tMDegQILxAO",
+      "8": "https://www.google.com/search?q=best+contract+lifecycle+management+software&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&ei=CWm2arLzGr_uruEP2ujByAk&start=70&sa=N&sstk=AS6-VmKFA5Wa3Iq1sr3krx3DVM46OFtd8SpYpoi3LcpkPHrNS0WoPNuFS7nJXrdGJg55VU_5i3QQQpECAwdpLz7ZL11g7dA1NGO9DQ&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ8tMDegQILxAQ",
+      "9": "https://www.google.com/search?q=best+contract+lifecycle+management+software&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&ei=CWm2arLzGr_uruEP2ujByAk&start=80&sa=N&sstk=AS6-VmKFA5Wa3Iq1sr3krx3DVM46OFtd8SpYpoi3LcpkPHrNS0WoPNuFS7nJXrdGJg55VU_5i3QQQpECAwdpLz7ZL11g7dA1NGO9DQ&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ8tMDegQILxAS",
+      "10": "https://www.google.com/search?q=best+contract+lifecycle+management+software&sca_esv=6dacb47cd9b525ae&gl=us&hl=en&sxsrf=APpeQnuIgfXw_yOyDjgKuLjJAsHm7n89KA:1790339337447&ei=CWm2arLzGr_uruEP2ujByAk&start=90&sa=N&sstk=AS6-VmKFA5Wa3Iq1sr3krx3DVM46OFtd8SpYpoi3LcpkPHrNS0WoPNuFS7nJXrdGJg55VU_5i3QQQpECAwdpLz7ZL11g7dA1NGO9DQ&ved=2ahUKEwjym_Hh3YmXAxU_tysGHVp0EJkQ8tMDegQILxAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+contract+lifecycle+management+software&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+contract+lifecycle+management+software&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+contract+lifecycle+management+software&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+contract+lifecycle+management+software&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+contract+lifecycle+management+software&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+contract+lifecycle+management+software&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+contract+lifecycle+management+software&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+contract+lifecycle+management+software&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+contract+lifecycle+management+software&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+contract+lifecycle+management+software&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+contract+lifecycle+management+software&start=90"
+    }
+  }
+}

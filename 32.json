@@ -1,0 +1,513 @@
+{
+  "search_metadata": {
+    "id": "6ab6628eb6a867d32cf15844",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/eGi7w5E3Bjm1E2tkxJIhz3zCg8IhOR4AnkO8Xvoeid4/6ab6628eb6a867d32cf15844.json",
+    "markdown_endpoint": "https://serpapi.com/searches/eGi7w5E3Bjm1E2tkxJIhz3zCg8IhOR4AnkO8Xvoeid4/6ab6628eb6a867d32cf15844.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/eGi7w5E3Bjm1E2tkxJIhz3zCg8IhOR4AnkO8Xvoeid4/6ab6628eb6a867d32cf15844.json_with_pixel_position",
+    "created_at": "2026-09-25 12:01:18 UTC",
+    "processed_at": "2026-09-25 12:01:18 UTC",
+    "google_url": "https://www.google.com/search?q=top+applicant+tracking+systems+for+recruiters&oq=top+applicant+tracking+systems+for+recruiters&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/eGi7w5E3Bjm1E2tkxJIhz3zCg8IhOR4AnkO8Xvoeid4/6ab6628eb6a867d32cf15844.html",
+    "total_time_taken": 82.52
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top applicant tracking systems for recruiters",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top applicant tracking systems for recruiters",
+    "total_results": 139000,
+    "time_taken_displayed": 0.34,
+    "organic_results_state": "Showing results for exact spelling despite spelling suggestion",
+    "spelling_fix": "top applicant tracking systems for recruitment"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "The ATS You Don't Maintain",
+      "link": "https://www.hiringthing.com/private-label-hiring/",
+      "displayed_link": "https://www.hiringthing.com › ats_integration › white_label",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwiN0_Xx14mXAxXNcX8AHWoIBiUYACICCAEQARoCb2E&co=1&ase=2&gclid=EAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAAYASAAEgK0WvD_BwE&cid=CAASuwHkaJgHARYs1SOMLuOodajZ0ertNJNVE1EUL0ee4NolSXSmWUp9dJ0GQTTH7YYwxXdeSEnd0cY-hjBAtx16KSrvzI9zmNRN6Cyt5mctBPyv7u_wh0WPLTEeZrn8aA0enVy3TZVa-kg9dlcejG6MJwOmiOk1ylA79mA5vg6A8Y0rEx9N7naxurr_GZ6u6CE4x5BFkqjPR7dPNnZEl7x8fp3RjVozqLNNHyDOBjfoENbfNRG2HSli-t_qMuIw&cce=2&category=acrcp_v1_32&sig=AOD64_2B7iZNIj95v9rmdz4itsPphXNhVw&q&nis=4&adurl=https://www.hiringthing.com/white-label/ats-integration/?utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dintegration%2520ats%2520keywords%26utm_term%3Dbest%2520software%2520for%2520job%2520board%2520and%2520ats%2520integration%26utm_campaign%3DATS%2BIntegration%2BKeywords%26utm_source%3Dgoogle%26utm_medium%3Dppc%26hsa_acc%3D7201719485%26hsa_cam%3D23482487191%26hsa_grp%3D189631360017%26hsa_ad%3D824879166395%26hsa_src%3Dg%26hsa_tgt%3Dkwd-2437771433249%26hsa_kw%3Dbest%2520software%2520for%2520job%2520board%2520and%2520ats%2520integration%26hsa_mt%3De%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D1%26gad_campaignid%3D23482487191%26gbraid%3D0AAAAADxDRueNX37pl9tkGtqdJMj8c7tAQ%26gclid%3DEAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAAYASAAEgK0WvD_BwE",
+      "description": "Buy vs. Build? Here's The Math — A full applicant tracking system under your brand, on your domain, in your pricing. Your clients...",
+      "source": "HiringThing",
+      "sitelinks": [
+        {
+          "title": "White Label, Not White Board",
+          "link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwiN0_Xx14mXAxXNcX8AHWoIBiUYACICCAEQDRoCb2E&co=1&ase=2&gclid=EAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAAYASADEgKo3_D_BwE&cid=CAASuwHkaJgHARYs1SOMLuOodajZ0ertNJNVE1EUL0ee4NolSXSmWUp9dJ0GQTTH7YYwxXdeSEnd0cY-hjBAtx16KSrvzI9zmNRN6Cyt5mctBPyv7u_wh0WPLTEeZrn8aA0enVy3TZVa-kg9dlcejG6MJwOmiOk1ylA79mA5vg6A8Y0rEx9N7naxurr_GZ6u6CE4x5BFkqjPR7dPNnZEl7x8fp3RjVozqLNNHyDOBjfoENbfNRG2HSli-t_qMuIw&cce=2&category=acrcp_v1_32&sig=AOD64_0ngZIjLwGkCAn4xPVGazMhlDtxpQ&adurl=https://www.hiringthing.com/white-label/ats-integration/%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dintegration%2520ats%2520keywords%26utm_term%3Dbest%2520software%2520for%2520job%2520board%2520and%2520ats%2520integration%26utm_campaign%3DATS%2BIntegration%2BKeywords%26utm_source%3Dgoogle%26utm_medium%3Dppc%26hsa_acc%3D7201719485%26hsa_cam%3D23482487191%26hsa_grp%3D189631360017%26hsa_ad%3D824879166395%26hsa_src%3Dg%26hsa_tgt%3Dkwd-2437771433249%26hsa_kw%3Dbest%2520software%2520for%2520job%2520board%2520and%2520ats%2520integration%26hsa_mt%3De%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D1%26gad_campaignid%3D23482487191%26gbraid%3D0AAAAADxDRueNX37pl9tkGtqdJMj8c7tAQ%26gclid%3DEAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAAYASADEgKo3_D_BwE&q="
+        },
+        {
+          "title": "Why Private Label An ATS?",
+          "link": "https://blog.hiringthing.com/five-reasons-all-hr-solutions-need-a-private-label-ats"
+        },
+        {
+          "title": "One API. Full Hiring Suite.",
+          "link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwiN0_Xx14mXAxXNcX8AHWoIBiUYACICCAEQDxoCb2E&co=1&ase=2&gclid=EAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAAYASAEEgIFlPD_BwE&cid=CAASuwHkaJgHARYs1SOMLuOodajZ0ertNJNVE1EUL0ee4NolSXSmWUp9dJ0GQTTH7YYwxXdeSEnd0cY-hjBAtx16KSrvzI9zmNRN6Cyt5mctBPyv7u_wh0WPLTEeZrn8aA0enVy3TZVa-kg9dlcejG6MJwOmiOk1ylA79mA5vg6A8Y0rEx9N7naxurr_GZ6u6CE4x5BFkqjPR7dPNnZEl7x8fp3RjVozqLNNHyDOBjfoENbfNRG2HSli-t_qMuIw&cce=2&category=acrcp_v1_32&sig=AOD64_10n4MIDVfon15CnJRjRaYtNncVLw&adurl=https://www.hiringthing.com/white-label/ats-integration/%3Futm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dintegration%2520ats%2520keywords%26utm_term%3Dbest%2520software%2520for%2520job%2520board%2520and%2520ats%2520integration%26utm_campaign%3DATS%2BIntegration%2BKeywords%26utm_source%3Dgoogle%26utm_medium%3Dppc%26hsa_acc%3D7201719485%26hsa_cam%3D23482487191%26hsa_grp%3D189631360017%26hsa_ad%3D824879166395%26hsa_src%3Dg%26hsa_tgt%3Dkwd-2437771433249%26hsa_kw%3Dbest%2520software%2520for%2520job%2520board%2520and%2520ats%2520integration%26hsa_mt%3De%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D1%26gad_campaignid%3D23482487191%26gbraid%3D0AAAAADxDRueNX37pl9tkGtqdJMj8c7tAQ%26gclid%3DEAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAAYASAEEgIFlPD_BwE&q="
+        },
+        {
+          "title": "Solutions",
+          "link": "https://www.hiringthing.com/private-label/applicant-tracking-system/?utm_source=google&utm_medium=cpc&utm_campaign=pl+ats"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "25 Best Applicant Tracking Systems (ATS) We've Tested in 2026",
+      "link": "https://www.selectsoftwarereviews.com/buyer-guide/applicant-tracking-systems",
+      "displayed_link": "https://www.selectsoftwarereviews.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwiN0_Xx14mXAxXNcX8AHWoIBiUYACICCAEQAxoCb2E&co=1&ase=2&gclid=EAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAAYAiAAEgLUHvD_BwE&cid=CAASuwHkaJgHARYs1SOMLuOodajZ0ertNJNVE1EUL0ee4NolSXSmWUp9dJ0GQTTH7YYwxXdeSEnd0cY-hjBAtx16KSrvzI9zmNRN6Cyt5mctBPyv7u_wh0WPLTEeZrn8aA0enVy3TZVa-kg9dlcejG6MJwOmiOk1ylA79mA5vg6A8Y0rEx9N7naxurr_GZ6u6CE4x5BFkqjPR7dPNnZEl7x8fp3RjVozqLNNHyDOBjfoENbfNRG2HSli-t_qMuIw&cce=2&category=acrcp_v1_32&sig=AOD64_23QDvvDH0PRCwUucJV7HQMSpLu6Q&q&nis=4&adurl=https://www.selectsoftwarereviews.com/buyer-guide/applicant-tracking-systems?h1%3D%26matchtype%3D%26ad%3D739487547511%26network%3Dg%26device%3Dc%26adgroup%3D173847026102%26utm_term%3D%26utm_campaign%3DATS%2BDSA%2BUS%26utm_source%3Dadwords%26utm_medium%3Dpaid%26hsa_acc%3D1556496860%26hsa_cam%3D22351968439%26hsa_grp%3D173847026102%26hsa_ad%3D739487547511%26hsa_src%3Dg%26hsa_tgt%3Ddsa-701998444498%26hsa_kw%3D%26hsa_mt%3D%26hsa_net%3Dadwords%26hsa_ver%3D3%26gad_source%3D1%26gad_campaignid%3D22351968439%26gbraid%3D0AAAAACpTzlSv_ffjJGCHj_K_dLtk_h7nN%26gclid%3DEAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAAYAiAAEgLUHvD_BwE",
+      "description": "Save time & money with the right ATS. Read our expert ATS review to discover top picks. Want to compare the top Applicant Tracking Systems?",
+      "source": "SelectSoftware Reviews",
+      "sitelinks": [
+        {
+          "title": "Compare Top 10 ATS",
+          "link": "https://www.selectsoftwarereviews.com/hr-tech-research/applicant-tracking-systems?sitelink=3"
+        },
+        {
+          "title": "Top ATS of 2025",
+          "link": "https://www.selectsoftwarereviews.com/hr-tech-research/applicant-tracking-systems?sitelink=1"
+        },
+        {
+          "title": "Best Recruiting Software",
+          "link": "https://www.selectsoftwarereviews.com/hr-tech-research/applicant-tracking-systems"
+        },
+        {
+          "title": "Best ATS Reviews",
+          "link": "https://www.selectsoftwarereviews.com/hr-tech-research/applicant-tracking-systems?sitelink=2"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "We Ranked Them All | Best & Worst Platforms",
+      "link": "https://www.forbes.com/advisor/l/applicant-tracking-systems/",
+      "displayed_link": "https://www.forbes.com › recruitment › software",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiN0_Xx14mXAxXNcX8AHWoIBiUYACICCAEQAhoCb2E&co=1&ase=2&gclid=EAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAAYAyAAEgIIbPD_BwE&cid=CAASuwHkaJgHARYs1SOMLuOodajZ0ertNJNVE1EUL0ee4NolSXSmWUp9dJ0GQTTH7YYwxXdeSEnd0cY-hjBAtx16KSrvzI9zmNRN6Cyt5mctBPyv7u_wh0WPLTEeZrn8aA0enVy3TZVa-kg9dlcejG6MJwOmiOk1ylA79mA5vg6A8Y0rEx9N7naxurr_GZ6u6CE4x5BFkqjPR7dPNnZEl7x8fp3RjVozqLNNHyDOBjfoENbfNRG2HSli-t_qMuIw&cce=2&category=acrcp_v1_32&sig=AOD64_36QO7tEoP4EKQhxwsppT_DQIzLYg&q&nis=4&adurl",
+      "description": "See side-by-side comparisons of top recruiting software. Real reviews, transparent pricing. Modern recruiting platforms that scale with you. Powerful features, easy implementation. Resume Scoring.",
+      "source": "Forbes",
+      "sitelinks": [
+        {
+          "title": "Compare Top ATS Services",
+          "link": "https://www.forbes.com/advisor/l/applicant-tracking-systems/"
+        },
+        {
+          "title": "Applicant Tracking System",
+          "link": "https://www.forbes.com/advisor/l/applicant-tracking-systems/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "block_position": "top",
+      "title": "ATS Software For Recruiters | Applicant Tracking System",
+      "link": "https://www.deel.com/plp/ats/",
+      "displayed_link": "https://www.deel.com › applicant › tracking",
+      "thumbnail": "https://serpapi.com/searches/6ab6628eb6a867d32cf15844/images/xa5GvtNxlnj4YingXC7GnA.png",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiN0_Xx14mXAxXNcX8AHWoIBiUYACICCAEQDhoCb2E&co=1&ase=2&gclid=EAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAAYBCAEEgI85PD_BwE&cid=CAASuwHkaJgHARYs1SOMLuOodajZ0ertNJNVE1EUL0ee4NolSXSmWUp9dJ0GQTTH7YYwxXdeSEnd0cY-hjBAtx16KSrvzI9zmNRN6Cyt5mctBPyv7u_wh0WPLTEeZrn8aA0enVy3TZVa-kg9dlcejG6MJwOmiOk1ylA79mA5vg6A8Y0rEx9N7naxurr_GZ6u6CE4x5BFkqjPR7dPNnZEl7x8fp3RjVozqLNNHyDOBjfoENbfNRG2HSli-t_qMuIw&cce=2&category=acrcp_v1_32&sig=AOD64_1NAd0G956zaXGuZQhng1PXVpLG5A&q=&nis=4&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQh78CegQIHxAB&adurl=",
+      "description": "Deel’s ATS connects hiring to onboarding automatically. No duplicate data entry. Global applicant tracking system to manage candidates, interviews, and hiring.",
+      "source": "Deel, Inc.",
+      "sitelinks": [
+        {
+          "title": "Replace Your ATS Today",
+          "link": "https://www.deel.com/plp/ats/"
+        },
+        {
+          "title": "Ditch Your Standalone ATS",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiN0_Xx14mXAxXNcX8AHWoIBiUYACICCAEQERoCb2E&co=1&ase=2&gclid=EAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAAYBCAFEgLPp_D_BwE&cid=CAASuwHkaJgHARYs1SOMLuOodajZ0ertNJNVE1EUL0ee4NolSXSmWUp9dJ0GQTTH7YYwxXdeSEnd0cY-hjBAtx16KSrvzI9zmNRN6Cyt5mctBPyv7u_wh0WPLTEeZrn8aA0enVy3TZVa-kg9dlcejG6MJwOmiOk1ylA79mA5vg6A8Y0rEx9N7naxurr_GZ6u6CE4x5BFkqjPR7dPNnZEl7x8fp3RjVozqLNNHyDOBjfoENbfNRG2HSli-t_qMuIw&cce=2&category=acrcp_v1_32&sig=AOD64_3kcxWM60ELhcL1NzbY-LZjDGLNFw&adurl=&q="
+        },
+        {
+          "title": "Deel HR",
+          "link": "https://www.deel.com/plp/engage-overview/"
+        },
+        {
+          "title": "Deel For Enterprise",
+          "link": "https://www.deel.com/segments/enterprise/"
+        },
+        {
+          "title": "EOR Services",
+          "link": "https://www.deel.com/plp/eor/"
+        }
+      ]
+    },
+    {
+      "position": 5,
+      "block_position": "bottom",
+      "title": "The ATS You Don't Maintain | Your Roadmap Is Already Full",
+      "link": "https://www.hiringthing.com/private-label-hiring/",
+      "displayed_link": "https://www.hiringthing.com › ats_integration › white_label",
+      "thumbnail": "https://tpc.googlesyndication.com/simgad/11223507326523163243?sqp=-oaymwEKCFwQXCABUAFYAQ&rs=AOga4qkUZVxL12NTLmTy-zGU1k1-9O624g",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiN0_Xx14mXAxXNcX8AHWoIBiUYACICCAIQBhoCb2E&co=1&ase=2&gclid=EAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAMYASADEgKBQ_D_BwE&cid=CAASuwHkaJgHARYs1SOMLuOodajZ0ertNJNVE1EUL0ee4NolSXSmWUp9dJ0GQTTH7YYwxXdeSEnd0cY-hjBAtx16KSrvzI9zmNRN6Cyt5mctBPyv7u_wh0WPLTEeZrn8aA0enVy3TZVa-kg9dlcejG6MJwOmiOk1ylA79mA5vg6A8Y0rEx9N7naxurr_GZ6u6CE4x5BFkqjPR7dPNnZEl7x8fp3RjVozqLNNHyDOBjfoENbfNRG2HSli-t_qMuIw&cce=2&category=acrcp_v1_32&sig=AOD64_2jVE1sruHQeeonvynhBW5el0S9Ew&q=&nis=4&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQh78CegQIVxAB&adurl=",
+      "description": "A full applicant tracking system under your brand, on your domain, in your...",
+      "source": "HiringThing",
+      "sitelinks": [
+        {
+          "title": "White Label, Not White Board",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiN0_Xx14mXAxXNcX8AHWoIBiUYACICCAIQCBoCb2E&co=1&ase=2&gclid=EAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAMYASAEEgKHJfD_BwE&cid=CAASuwHkaJgHARYs1SOMLuOodajZ0ertNJNVE1EUL0ee4NolSXSmWUp9dJ0GQTTH7YYwxXdeSEnd0cY-hjBAtx16KSrvzI9zmNRN6Cyt5mctBPyv7u_wh0WPLTEeZrn8aA0enVy3TZVa-kg9dlcejG6MJwOmiOk1ylA79mA5vg6A8Y0rEx9N7naxurr_GZ6u6CE4x5BFkqjPR7dPNnZEl7x8fp3RjVozqLNNHyDOBjfoENbfNRG2HSli-t_qMuIw&cce=2&category=acrcp_v1_32&sig=AOD64_1mowSpDSPcafXFKZVeVc7kdXu4iA&adurl=&q="
+        },
+        {
+          "title": "Why Private Label An ATS?",
+          "link": "https://blog.hiringthing.com/five-reasons-all-hr-solutions-need-a-private-label-ats"
+        },
+        {
+          "title": "One API. Full Hiring Suite.",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiN0_Xx14mXAxXNcX8AHWoIBiUYACICCAIQChoCb2E&co=1&ase=2&gclid=EAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAMYASAFEgJ9SfD_BwE&cid=CAASuwHkaJgHARYs1SOMLuOodajZ0ertNJNVE1EUL0ee4NolSXSmWUp9dJ0GQTTH7YYwxXdeSEnd0cY-hjBAtx16KSrvzI9zmNRN6Cyt5mctBPyv7u_wh0WPLTEeZrn8aA0enVy3TZVa-kg9dlcejG6MJwOmiOk1ylA79mA5vg6A8Y0rEx9N7naxurr_GZ6u6CE4x5BFkqjPR7dPNnZEl7x8fp3RjVozqLNNHyDOBjfoENbfNRG2HSli-t_qMuIw&cce=2&category=acrcp_v1_32&sig=AOD64_2zL1nlSbZqpqhxiWx16jPdBf1U3g&adurl=&q="
+        },
+        {
+          "title": "Solutions",
+          "link": "https://www.hiringthing.com/private-label/applicant-tracking-system/?utm_source=google&utm_medium=cpc&utm_campaign=pl+ats"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "block_position": "bottom",
+      "title": "The Easy-To-Use ATS | An ATS Without The Project",
+      "link": "https://go.sparkhire.com/dedicated-ats",
+      "displayed_link": "https://go.sparkhire.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiN0_Xx14mXAxXNcX8AHWoIBiUYACICCAIQARoCb2E&ae=2&aspm=1&co=1&ase=2&gclid=EAIaIQobChMIjdP18deJlwMVzXF_AB1qCAYlEAMYAiAAEgK3GPD_BwE&cid=CAASuwHkaJgHARYs1SOMLuOodajZ0ertNJNVE1EUL0ee4NolSXSmWUp9dJ0GQTTH7YYwxXdeSEnd0cY-hjBAtx16KSrvzI9zmNRN6Cyt5mctBPyv7u_wh0WPLTEeZrn8aA0enVy3TZVa-kg9dlcejG6MJwOmiOk1ylA79mA5vg6A8Y0rEx9N7naxurr_GZ6u6CE4x5BFkqjPR7dPNnZEl7x8fp3RjVozqLNNHyDOBjfoENbfNRG2HSli-t_qMuIw&cce=2&category=acrcp_v1_35&sig=AOD64_1aOzPYQssnQJyvwTJzTtUhjosJNg&q&nis=4&adurl",
+      "description": "The ATS for teams hiring out of inboxes and spreadsheets. Live in 30 days. From $335/mo. Enterprise-grade hiring without the setup contract or IT. Built for lean HR teams. All-In-One ATS.",
+      "source": "Spark Hire",
+      "sitelinks": [
+        {
+          "title": "Spark Hire Recruit",
+          "link": "https://www.sparkhire.com/applicant-tracking-system/"
+        },
+        {
+          "title": "Spark Hire Meet",
+          "link": "https://www.sparkhire.com/meet/"
+        },
+        {
+          "title": "Spark Hire AI",
+          "link": "https://www.sparkhire.com/ai/"
+        },
+        {
+          "title": "Pricing Plans",
+          "link": "https://www.sparkhire.com/pricing/"
+        },
+        {
+          "title": "Video Interview Software",
+          "link": "https://www.sparkhire.com/video-interviews/software/"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What are the top 5 ATS systems?",
+      "type": "ai_overview",
+      "page_token": "-XETznicHdDdToMwGADQ-DJeula2GZcsJsi6MR1LP-hX6I2Bdr90FDeUwZ3v4lP5NBrf4OR8fdtDVf7cfO6bpr5MBoO2be92zu3s5k670yC_dJUe6NzaItflZPwwpk9bPZ19hP7ze-hzUdcYAIlTK4BYJwjNuAdJlrBV7AGPSe0l0qw2i9UVA2yKjgzBs2MU10oseM_lI0cb-QJdmxIVFyU7YYI8keSKNNrLuW2lBbKSrkcSKeEts8xbbjWJLq-yHOIRRmtm7zM5Oq9noxbnZi6PRhTSKM0ewwhrpq0qdRmplFAhZTgsKKsEqnne0UNcGqWoeVkvlqjQP5sKKBAKs70mQC5dlrJ6M8uGwKBdB8B1sOt47_v51R24gF4f7QkDY_9MH0Y0vbJqYXAfmRRURkIPKuaiUjWqvd3qz6l3-_85fduemkl9drtf4U6CfA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-XETznicHdDdToMwGADQ-DJeula2GZcsJsi6MR1LP-hX6I2Bdr90FDeUwZ3v4lP5NBrf4OR8fdtDVf7cfO6bpr5MBoO2be92zu3s5k670yC_dJUe6NzaItflZPwwpk9bPZ19hP7ze-hzUdcYAIlTK4BYJwjNuAdJlrBV7AGPSe0l0qw2i9UVA2yKjgzBs2MU10oseM_lI0cb-QJdmxIVFyU7YYI8keSKNNrLuW2lBbKSrkcSKeEts8xbbjWJLq-yHOIRRmtm7zM5Oq9noxbnZi6PRhTSKM0ewwhrpq0qdRmplFAhZTgsKKsEqnne0UNcGqWoeVkvlqjQP5sKKBAKs70mQC5dlrJ6M8uGwKBdB8B1sOt47_v51R24gF4f7QkDY_9MH0Y0vbJqYXAfmRRURkIPKuaiUjWqvd3qz6l3-_85fduemkl9drtf4U6CfA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05URk5jRk5JTVdsMGJHcDVTRTVQZDBWbmJuSnFWelZQWTI1SVRrd3dVRGhrY0ZsVlMwTk5hbkowTnpkWWNGQnJkekpGWlZSWGRYRlhUeTAyVVd0YWNuaHRZMkZ0TUdaWU1TMUZiRU5CTlhaSmEyaFZVakpWU0RGeVFSSVhORWRMTW1GeGFYaEdPRVJVY0RnMFVIQTRNa013UVdzYUlrRkVjM0k1WmxSV1JVMVFTbVZ5VURKcmVrRkRSMmRYVTFCV2NFOUJTblI2YUZFIiwiZmN2IjoiMyIsImVpIjoiNEdLMmFxaXhGOERUcDg0UHA4MkMwQWsiLCJxYyI6IkNpMTBiM0FnWVhCd2JHbGpZVzUwSUhSeVlXTnJhVzVuSUhONWMzUmxiWE1nWm05eUlISmxZM0oxYVhSbGNuTVFBSDJSQXg0XyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCA1IEFUUyBzeXN0ZW1zPyIsImxrIjoiR2g1M2FHRjBJR0Z5WlNCMGFHVWdkRzl3SURVZ1lYUnpJSE41YzNSbGJYTSIsImJzIjoiYzQyUHV3b0NNUkJGc1ozS09xS09Ed1E3WGRCMkVTdHRGYlkxRzZLSjdpTWtJNHRfYnhMY2FsRXNwcnJuY09fQUhzYVo0b1RjU2lUbHJ6YTR3ZDM1aE83bFNKWXVUWkNObWk3Q3liVUlIR0NhS1MxVTlMVERYRHJDYTIzUlNtR2Zta3BaVVpyTTJLU0pWRkNfVUhDQmJkemo4OUFWR2JKY1BIUjEtX1JGNTE3bnlJMHB0T0NrNjhyUFhMRDVQeUFjWWRuNWVMMXFSd1RiRkp5OEduNGZzc0dQdk45N0F3IiwiaWQiOiJmY180R0syYXFpeEY4RFRwODRQcDgyQzBBa181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05URk5jRk5JTVdsMGJHcDVTRTVQZDBWbmJuSnFWelZQWTI1SVRrd3dVRGhrY0ZsVlMwTk5hbkowTnpkWWNGQnJkekpGWlZSWGRYRlhUeTAyVVd0YWNuaHRZMkZ0TUdaWU1TMUZiRU5CTlhaSmEyaFZVakpWU0RGeVFSSVhORWRMTW1GeGFYaEdPRVJVY0RnMFVIQTRNa013UVdzYUlrRkVjM0k1WmxSV1JVMVFTbVZ5VURKcmVrRkRSMmRYVTFCV2NFOUJTblI2YUZFIiwiZmN2IjoiMyIsImVpIjoiNEdLMmFxaXhGOERUcDg0UHA4MkMwQWsiLCJxYyI6IkNpMTBiM0FnWVhCd2JHbGpZVzUwSUhSeVlXTnJhVzVuSUhONWMzUmxiWE1nWm05eUlISmxZM0oxYVhSbGNuTVFBSDJSQXg0XyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCA1IEFUUyBzeXN0ZW1zPyIsImxrIjoiR2g1M2FHRjBJR0Z5WlNCMGFHVWdkRzl3SURVZ1lYUnpJSE41YzNSbGJYTSIsImJzIjoiYzQyUHV3b0NNUkJGc1ozS09xS09Ed1E3WGRCMkVTdHRGYlkxRzZLSjdpTWtJNHRfYnhMY2FsRXNwcnJuY09fQUhzYVo0b1RjU2lUbHJ6YTR3ZDM1aE83bFNKWXVUWkNObWk3Q3liVUlIR0NhS1MxVTlMVERYRHJDYTIzUlNtR2Zta3BaVVpyTTJLU0pWRkNfVUhDQmJkemo4OUFWR2JKY1BIUjEtX1JGNTE3bnlJMHB0T0NrNjhyUFhMRDVQeUFjWWRuNWVMMXFSd1RiRkp5OEduNGZzc0dQdk45N0F3IiwiaWQiOiJmY180R0syYXFpeEY4RFRwODRQcDgyQzBBa181In0%3D"
+    },
+    {
+      "question": "Which ATS is best for recruitment?",
+      "type": "ai_overview",
+      "page_token": "-KEF83icHdBdToMwAADgeJk9OsrmNEsWYwU2cBTpaIG-mK4w_sqPG461b97FU3kaE78jfN8_suqa37trOY7DZT2fT9N0X_R9IfN70bdzflGdmAsu5ZGLZr16XIHnk9jYXy58_XRhSIaBWtiIdmgZ2YaOgCS0YQN3oB8ktDnuvACbVAkCJr6DK9-hYaIpYQBTlEiPt64-2BL45tBn9EkLCxFEWRUatNuTUWEL4qwdqiwu44PlBcjMojhhRkoak9eh5gq85_GIGBUK1SGgNWsFcJVw2IprFKTmDea1XPrAs_aJPJPIG7mJDWxm6riDh7h2gZCldWzGJk_cRarAFoMS2qUwsHFRaeIMuZ0usYOnwMKhsAoVagj5ra9CgrWoZUtqKCPy0GVbT9EKjPuYvWX6BdAI3qJFVvsNctk0O4nrZjH7_9x8nNpxPZz74g8KTIOp",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-KEF83icHdBdToMwAADgeJk9OsrmNEsWYwU2cBTpaIG-mK4w_sqPG461b97FU3kaE78jfN8_suqa37trOY7DZT2fT9N0X_R9IfN70bdzflGdmAsu5ZGLZr16XIHnk9jYXy58_XRhSIaBWtiIdmgZ2YaOgCS0YQN3oB8ktDnuvACbVAkCJr6DK9-hYaIpYQBTlEiPt64-2BL45tBn9EkLCxFEWRUatNuTUWEL4qwdqiwu44PlBcjMojhhRkoak9eh5gq85_GIGBUK1SGgNWsFcJVw2IprFKTmDea1XPrAs_aJPJPIG7mJDWxm6riDh7h2gZCldWzGJk_cRarAFoMS2qUwsHFRaeIMuZ0usYOnwMKhsAoVagj5ra9CgrWoZUtqKCPy0GVbT9EKjPuYvWX6BdAI3qJFVvsNctk0O4nrZjH7_9x8nNpxPZz74g8KTIOp",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05URk5jRk5JTVdsMGJHcDVTRTVQZDBWbmJuSnFWelZQWTI1SVRrd3dVRGhrY0ZsVlMwTk5hbkowTnpkWWNGQnJkekpGWlZSWGRYRlhUeTAyVVd0YWNuaHRZMkZ0TUdaWU1TMUZiRU5CTlhaSmEyaFZVakpWU0RGeVFSSVhORWRMTW1GeGFYaEdPRVJVY0RnMFVIQTRNa013UVdzYUlrRkVjM0k1WmxSV1JVMVFTbVZ5VURKcmVrRkRSMmRYVTFCV2NFOUJTblI2YUZFIiwiZmN2IjoiMyIsImVpIjoiNEdLMmFxaXhGOERUcDg0UHA4MkMwQWsiLCJxYyI6IkNpMTBiM0FnWVhCd2JHbGpZVzUwSUhSeVlXTnJhVzVuSUhONWMzUmxiWE1nWm05eUlISmxZM0oxYVhSbGNuTVFBSDJSQXg0XyIsInF1ZXN0aW9uIjoiV2hpY2ggQVRTIGlzIGJlc3QgZm9yIHJlY3J1aXRtZW50PyIsImxrIjoiR2lGM2FHbGphQ0JoZEhNZ2FYTWdZbVZ6ZENCbWIzSWdjbVZqY25WcGRHMWxiblEiLCJicyI6ImM0MlB1d29DTVJCRnNaM0tPcUtPRHdRN1hkQjJFU3R0RmJZMUc2S0o3aU1rSTR0X2J4TGNhbEVzcHJybmNPX0FIc2FaNG9UY1NpVGxyemE0d2QzNWhPN2xTSll1VFpDTm1pN0N5YlVJSEdDYUtTMVU5TFREWERyQ2EyM1JTbUdmbWtwWlVack0yS1NKVkZDX1VIQ0JiZHpqODlBVkdiSmNQSFIxLV9SRjUxN255STBwdE9DazY4clBYTEQ1UHlBY1lkbjVlTDFxUndUYkZKeThHbjRmc3NHUHZOOTdBdyIsImlkIjoiZmNfNEdLMmFxaXhGOERUcDg0UHA4MkMwQWtfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05URk5jRk5JTVdsMGJHcDVTRTVQZDBWbmJuSnFWelZQWTI1SVRrd3dVRGhrY0ZsVlMwTk5hbkowTnpkWWNGQnJkekpGWlZSWGRYRlhUeTAyVVd0YWNuaHRZMkZ0TUdaWU1TMUZiRU5CTlhaSmEyaFZVakpWU0RGeVFSSVhORWRMTW1GeGFYaEdPRVJVY0RnMFVIQTRNa013UVdzYUlrRkVjM0k1WmxSV1JVMVFTbVZ5VURKcmVrRkRSMmRYVTFCV2NFOUJTblI2YUZFIiwiZmN2IjoiMyIsImVpIjoiNEdLMmFxaXhGOERUcDg0UHA4MkMwQWsiLCJxYyI6IkNpMTBiM0FnWVhCd2JHbGpZVzUwSUhSeVlXTnJhVzVuSUhONWMzUmxiWE1nWm05eUlISmxZM0oxYVhSbGNuTVFBSDJSQXg0XyIsInF1ZXN0aW9uIjoiV2hpY2ggQVRTIGlzIGJlc3QgZm9yIHJlY3J1aXRtZW50PyIsImxrIjoiR2lGM2FHbGphQ0JoZEhNZ2FYTWdZbVZ6ZENCbWIzSWdjbVZqY25WcGRHMWxiblEiLCJicyI6ImM0MlB1d29DTVJCRnNaM0tPcUtPRHdRN1hkQjJFU3R0RmJZMUc2S0o3aU1rSTR0X2J4TGNhbEVzcHJybmNPX0FIc2FaNG9UY1NpVGxyemE0d2QzNWhPN2xTSll1VFpDTm1pN0N5YlVJSEdDYUtTMVU5TFREWERyQ2EyM1JTbUdmbWtwWlVack0yS1NKVkZDX1VIQ0JiZHpqODlBVkdiSmNQSFIxLV9SRjUxN255STBwdE9DazY4clBYTEQ1UHlBY1lkbjVlTDFxUndUYkZKeThHbjRmc3NHUHZOOTdBdyIsImlkIjoiZmNfNEdLMmFxaXhGOERUcDg0UHA4MkMwQWtfNSJ9"
+    },
+    {
+      "question": "What is the best tracking system for job applications?",
+      "type": "ai_overview",
+      "page_token": "fzATmnicHdBbjpswFABQdTPzOYEBMm2kqBITm4QGIhz7OvAzAkN42DwEKBD_zRa6hq6qq6nUs4Tz9UfVnfz77Xc1z8O022yWZXkt-75Uxavo2006PTuxEalSWSrkbvu-NX_exR49hPsxCjdiwwAHYlxboUMMZ0AnG1jOE7YYgSztQtqatqShR38rzGSKVGJzDI44VlB48Zqgaiy63CE4uRbc18RSEN4qI2jcJjtCnzVkEtKpKBCLsLwSOPSuyg3hbegvKDf4QT3AVC604HD5_S22wpF6K008s85rw8q68BepjTmnoc1QMnE2f1BvuBWeY2V8iKiUC-jTGiICifQvsfJj0ikN2r3EDakZr8YEE_98yxlI5xS0oYUqYRBjesY3PBQotgkmy-VAInEon5F23XTt64gRLRrVAjJ1pv1zignlFM-BUpjSyOYMI0HLZwA_1nx5uYvH3nr5f73_vLfzbhj78h_vPo4u",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fzATmnicHdBbjpswFABQdTPzOYEBMm2kqBITm4QGIhz7OvAzAkN42DwEKBD_zRa6hq6qq6nUs4Tz9UfVnfz77Xc1z8O022yWZXkt-75Uxavo2006PTuxEalSWSrkbvu-NX_exR49hPsxCjdiwwAHYlxboUMMZ0AnG1jOE7YYgSztQtqatqShR38rzGSKVGJzDI44VlB48Zqgaiy63CE4uRbc18RSEN4qI2jcJjtCnzVkEtKpKBCLsLwSOPSuyg3hbegvKDf4QT3AVC604HD5_S22wpF6K008s85rw8q68BepjTmnoc1QMnE2f1BvuBWeY2V8iKiUC-jTGiICifQvsfJj0ikN2r3EDakZr8YEE_98yxlI5xS0oYUqYRBjesY3PBQotgkmy-VAInEon5F23XTt64gRLRrVAjJ1pv1zignlFM-BUpjSyOYMI0HLZwA_1nx5uYvH3nr5f73_vLfzbhj78h_vPo4u",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05URk5jRk5JTVdsMGJHcDVTRTVQZDBWbmJuSnFWelZQWTI1SVRrd3dVRGhrY0ZsVlMwTk5hbkowTnpkWWNGQnJkekpGWlZSWGRYRlhUeTAyVVd0YWNuaHRZMkZ0TUdaWU1TMUZiRU5CTlhaSmEyaFZVakpWU0RGeVFSSVhORWRMTW1GeGFYaEdPRVJVY0RnMFVIQTRNa013UVdzYUlrRkVjM0k1WmxSV1JVMVFTbVZ5VURKcmVrRkRSMmRYVTFCV2NFOUJTblI2YUZFIiwiZmN2IjoiMyIsImVpIjoiNEdLMmFxaXhGOERUcDg0UHA4MkMwQWsiLCJxYyI6IkNpMTBiM0FnWVhCd2JHbGpZVzUwSUhSeVlXTnJhVzVuSUhONWMzUmxiWE1nWm05eUlISmxZM0oxYVhSbGNuTVFBSDJSQXg0XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCB0cmFja2luZyBzeXN0ZW0gZm9yIGpvYiBhcHBsaWNhdGlvbnM/IiwibGsiOiJHaVIwY21GamEybHVaeUJ6ZVhOMFpXMGdabTl5SUdwdllpQmhjSEJzYVdOaGRHbHZibk0iLCJicyI6ImM0MlB1d29DTVJCRnNaM0tPcUtPRHdRN1hkQjJFU3R0RmJZMUc2S0o3aU1rSTR0X2J4TGNhbEVzcHJybmNPX0FIc2FaNG9UY1NpVGxyemE0d2QzNWhPN2xTSll1VFpDTm1pN0N5YlVJSEdDYUtTMVU5TFREWERyQ2EyM1JTbUdmbWtwWlVack0yS1NKVkZDX1VIQ0JiZHpqODlBVkdiSmNQSFIxLV9SRjUxN255STBwdE9DazY4clBYTEQ1UHlBY1lkbjVlTDFxUndUYkZKeThHbjRmc3NHUHZOOTdBdyIsImlkIjoiZmNfNEdLMmFxaXhGOERUcDg0UHA4MkMwQWtfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05URk5jRk5JTVdsMGJHcDVTRTVQZDBWbmJuSnFWelZQWTI1SVRrd3dVRGhrY0ZsVlMwTk5hbkowTnpkWWNGQnJkekpGWlZSWGRYRlhUeTAyVVd0YWNuaHRZMkZ0TUdaWU1TMUZiRU5CTlhaSmEyaFZVakpWU0RGeVFSSVhORWRMTW1GeGFYaEdPRVJVY0RnMFVIQTRNa013UVdzYUlrRkVjM0k1WmxSV1JVMVFTbVZ5VURKcmVrRkRSMmRYVTFCV2NFOUJTblI2YUZFIiwiZmN2IjoiMyIsImVpIjoiNEdLMmFxaXhGOERUcDg0UHA4MkMwQWsiLCJxYyI6IkNpMTBiM0FnWVhCd2JHbGpZVzUwSUhSeVlXTnJhVzVuSUhONWMzUmxiWE1nWm05eUlISmxZM0oxYVhSbGNuTVFBSDJSQXg0XyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYmVzdCB0cmFja2luZyBzeXN0ZW0gZm9yIGpvYiBhcHBsaWNhdGlvbnM%2FIiwibGsiOiJHaVIwY21GamEybHVaeUJ6ZVhOMFpXMGdabTl5SUdwdllpQmhjSEJzYVdOaGRHbHZibk0iLCJicyI6ImM0MlB1d29DTVJCRnNaM0tPcUtPRHdRN1hkQjJFU3R0RmJZMUc2S0o3aU1rSTR0X2J4TGNhbEVzcHJybmNPX0FIc2FaNG9UY1NpVGxyemE0d2QzNWhPN2xTSll1VFpDTm1pN0N5YlVJSEdDYUtTMVU5TFREWERyQ2EyM1JTbUdmbWtwWlVack0yS1NKVkZDX1VIQ0JiZHpqODlBVkdiSmNQSFIxLV9SRjUxN255STBwdE9DazY4clBYTEQ1UHlBY1lkbjVlTDFxUndUYkZKeThHbjRmc3NHUHZOOTdBdyIsImlkIjoiZmNfNEdLMmFxaXhGOERUcDg0UHA4MkMwQWtfNSJ9"
+    },
+    {
+      "question": "What are the top 10 recruiting platforms?",
+      "type": "ai_overview",
+      "page_token": "NZsFkXicHdDLboJAGEDh9GVcKgNqUxPTFAEvLVMZmAFm0wwDiMzPpWJV2PVd-lR9mpquz-JLzvcPHGv1-3Apzue2W0wm1-t1fGiaA2Rj2VQT0fW1nEgBkAipFvPHOXrO5dL-2pqrz63p0bZlFtF8LY2SCCBTxZuvPc3D9bkLLWaECndSzTYuowO2byhd77Y4wvOkxpXUd3am5C1BkHOHbVmFdmGNe1YWOVWzfWbBK9lwh4aQvzNiuRVYwUCEoFD6AHlCYz2xHUwividlGiRau-ElXsVDrPMgVUEEN3lvwiDIjYo41fHJj5zeXzNb9KiLmQOxQtxnUPl0qnEf1XTgjOopsQupEa3r48hpMzueEodc3y3iSevQe4Npiltz9CgZZAkVhReD663HN0BcVAhht6tw7fVSK8K7axCDmZ43yuVlaYz-fy4_8uq8aE_N4Q_gOoPu",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NZsFkXicHdDLboJAGEDh9GVcKgNqUxPTFAEvLVMZmAFm0wwDiMzPpWJV2PVd-lR9mpquz-JLzvcPHGv1-3Apzue2W0wm1-t1fGiaA2Rj2VQT0fW1nEgBkAipFvPHOXrO5dL-2pqrz63p0bZlFtF8LY2SCCBTxZuvPc3D9bkLLWaECndSzTYuowO2byhd77Y4wvOkxpXUd3am5C1BkHOHbVmFdmGNe1YWOVWzfWbBK9lwh4aQvzNiuRVYwUCEoFD6AHlCYz2xHUwividlGiRau-ElXsVDrPMgVUEEN3lvwiDIjYo41fHJj5zeXzNb9KiLmQOxQtxnUPl0qnEf1XTgjOopsQupEa3r48hpMzueEodc3y3iSevQe4Npiltz9CgZZAkVhReD663HN0BcVAhht6tw7fVSK8K7axCDmZ43yuVlaYz-fy4_8uq8aE_N4Q_gOoPu",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05URk5jRk5JTVdsMGJHcDVTRTVQZDBWbmJuSnFWelZQWTI1SVRrd3dVRGhrY0ZsVlMwTk5hbkowTnpkWWNGQnJkekpGWlZSWGRYRlhUeTAyVVd0YWNuaHRZMkZ0TUdaWU1TMUZiRU5CTlhaSmEyaFZVakpWU0RGeVFSSVhORWRMTW1GeGFYaEdPRVJVY0RnMFVIQTRNa013UVdzYUlrRkVjM0k1WmxSV1JVMVFTbVZ5VURKcmVrRkRSMmRYVTFCV2NFOUJTblI2YUZFIiwiZmN2IjoiMyIsImVpIjoiNEdLMmFxaXhGOERUcDg0UHA4MkMwQWsiLCJxYyI6IkNpMTBiM0FnWVhCd2JHbGpZVzUwSUhSeVlXTnJhVzVuSUhONWMzUmxiWE1nWm05eUlISmxZM0oxYVhSbGNuTVFBSDJSQXg0XyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAxMCByZWNydWl0aW5nIHBsYXRmb3Jtcz8iLCJsayI6IkdodDBiM0FnTVRBZ2NtVmpjblZwZEdsdVp5QndiR0YwWm05eWJYTSIsImJzIjoiYzQyUHV3b0NNUkJGc1ozS09xS09Ed1E3WGRCMkVTdHRGYlkxRzZLSjdpTWtJNHRfYnhMY2FsRXNwcnJuY09fQUhzYVo0b1RjU2lUbHJ6YTR3ZDM1aE83bFNKWXVUWkNObWk3Q3liVUlIR0NhS1MxVTlMVERYRHJDYTIzUlNtR2Zta3BaVVpyTTJLU0pWRkNfVUhDQmJkemo4OUFWR2JKY1BIUjEtX1JGNTE3bnlJMHB0T0NrNjhyUFhMRDVQeUFjWWRuNWVMMXFSd1RiRkp5OEduNGZzc0dQdk45N0F3IiwiaWQiOiJmY180R0syYXFpeEY4RFRwODRQcDgyQzBBa181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS05URk5jRk5JTVdsMGJHcDVTRTVQZDBWbmJuSnFWelZQWTI1SVRrd3dVRGhrY0ZsVlMwTk5hbkowTnpkWWNGQnJkekpGWlZSWGRYRlhUeTAyVVd0YWNuaHRZMkZ0TUdaWU1TMUZiRU5CTlhaSmEyaFZVakpWU0RGeVFSSVhORWRMTW1GeGFYaEdPRVJVY0RnMFVIQTRNa013UVdzYUlrRkVjM0k1WmxSV1JVMVFTbVZ5VURKcmVrRkRSMmRYVTFCV2NFOUJTblI2YUZFIiwiZmN2IjoiMyIsImVpIjoiNEdLMmFxaXhGOERUcDg0UHA4MkMwQWsiLCJxYyI6IkNpMTBiM0FnWVhCd2JHbGpZVzUwSUhSeVlXTnJhVzVuSUhONWMzUmxiWE1nWm05eUlISmxZM0oxYVhSbGNuTVFBSDJSQXg0XyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAxMCByZWNydWl0aW5nIHBsYXRmb3Jtcz8iLCJsayI6IkdodDBiM0FnTVRBZ2NtVmpjblZwZEdsdVp5QndiR0YwWm05eWJYTSIsImJzIjoiYzQyUHV3b0NNUkJGc1ozS09xS09Ed1E3WGRCMkVTdHRGYlkxRzZLSjdpTWtJNHRfYnhMY2FsRXNwcnJuY09fQUhzYVo0b1RjU2lUbHJ6YTR3ZDM1aE83bFNKWXVUWkNObWk3Q3liVUlIR0NhS1MxVTlMVERYRHJDYTIzUlNtR2Zta3BaVVpyTTJLU0pWRkNfVUhDQmJkemo4OUFWR2JKY1BIUjEtX1JGNTE3bnlJMHB0T0NrNjhyUFhMRDVQeUFjWWRuNWVMMXFSd1RiRkp5OEduNGZzc0dQdk45N0F3IiwiaWQiOiJmY180R0syYXFpeEY4RFRwODRQcDgyQzBBa181In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "QeWLDniczZXNdqJIFMcfYJ5j2JgoKLaYczh9iqJQ4keC0Zhk44ECgQhCKBRx1-8yTzXLeZIpEFETTbp7MWdqIfVxq-reW_fn_8dfnrtc_P3HP04ch-SmVkuSpGoHge1ZVRz4NZ2kS1ybBx6JsPPd8URrydieuCIMCVYRtlxTxE4U-BazWnmWmFQgUDUVqtFjXdnqHW_10hitDXeDtBQEDx1l-fJ0uzU77QadG47ggjxOm6HZeVyoypB9fhp5OGHStdhgMBFZxnJFvtOr62_uRhHkcSjw96FQhyxYMLlj4szQifVK_d68ktqsRn8WfzZkOqiSqrWsbsyuE73c1qFDqnW23qje1XSfGoD_rElABRqAANj0gy7bdX7qNISyg6B2NGXDYqmckTMb2hb0atouXisVe5Fm7_bLyVZIGrTPlibJBUfU00OV_EIA5Xwpd1P6qYCKGIozi1A-yxPIAvrYip2Tw8zxG1_2xT4NUKFezACEh0uOL4NAgoeRnS0Odv0UdBMLgDs0Oudc2ZAGugP7Icu3-pkddeQBhXvXOlJEM1IzbVq4bM2I6IerudjBeSciWT3DcZsNFMmRusF27Q5By1BWdW51-8zNUi594OwaNqidF-imZc6cGfs9H3N1rsm2Gy3hKgcJk5IkckxSX9N6rjB46KmDar8qcXuMYBkHPHUf0TE8FyJNIDy3YZdR6TBfPhkCdu_IJijPkWka7aJ0ii2BhrPOYD8r5Fzxx3ftS4tanMXovVGGUe4LrWnpsHS0VQI99-PWrPFnYnyXFAnggwu7_wD5YHjKgYSAq5WzH8i0gaNkuwIAUVdSShf2Gcrwcg9RSvtAENBsqRgdlmFhdISRSnOvZiWvInqmO1Fhnn4NgV066Wpxl4LeEYfOY5FQp4h6FuivW-9rkwybgpd35X-MTTccz7nOpP028rb1VuPeHUrptXnNOoOxfR6TwDd-QXHw_wmkUo-CnTBcAsnKOl-CRKGwP9Oj_OegR7fZZ4LQJZDecpA-6pFQmhyq_jQpqoSOQcr1SL6kR78MEvoUJK0I5AxIk_MghRdByvToFKRTPULn9agE6Xf0SP9NPcq5snafU3FavdoXRQo1xgYWulK4CZcvbHOa2ts5H_nbifyqfSlScz--8XXTu5q55o1Uv41T82pGJ4Iby2TexDgIK3oYei7Wl3EljnS8cJd2haQktnxSmQdRJbJwtHJjKyKM70WByOqt6VrA1ttCflaH7XGbM-LWNb9-Ggx4u5_0Yq6lLB63A6HveyNMPBym3xIie_3unQetLUzIc_8aDvl-t3knyc7KNEZzjT5rrGrOUtoMhq2BzK-HjXnEyb7meC_XndswbHjT-3RB6o2xucS8MUV3uTdE5JHCd2eLWFsKjB9hkb4vb4OhBqY2VQr4DDRaKxOdwgsToHW-0aKRGIL1mUXW4jdTxwbfwmbbaNabusX4dpyGIs8xZBmJ3L9IHWRu",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=QeWLDniczZXNdqJIFMcfYJ5j2JgoKLaYczh9iqJQ4keC0Zhk44ECgQhCKBRx1-8yTzXLeZIpEFETTbp7MWdqIfVxq-reW_fn_8dfnrtc_P3HP04ch-SmVkuSpGoHge1ZVRz4NZ2kS1ybBx6JsPPd8URrydieuCIMCVYRtlxTxE4U-BazWnmWmFQgUDUVqtFjXdnqHW_10hitDXeDtBQEDx1l-fJ0uzU77QadG47ggjxOm6HZeVyoypB9fhp5OGHStdhgMBFZxnJFvtOr62_uRhHkcSjw96FQhyxYMLlj4szQifVK_d68ktqsRn8WfzZkOqiSqrWsbsyuE73c1qFDqnW23qje1XSfGoD_rElABRqAANj0gy7bdX7qNISyg6B2NGXDYqmckTMb2hb0atouXisVe5Fm7_bLyVZIGrTPlibJBUfU00OV_EIA5Xwpd1P6qYCKGIozi1A-yxPIAvrYip2Tw8zxG1_2xT4NUKFezACEh0uOL4NAgoeRnS0Odv0UdBMLgDs0Oudc2ZAGugP7Icu3-pkddeQBhXvXOlJEM1IzbVq4bM2I6IerudjBeSciWT3DcZsNFMmRusF27Q5By1BWdW51-8zNUi594OwaNqidF-imZc6cGfs9H3N1rsm2Gy3hKgcJk5IkckxSX9N6rjB46KmDar8qcXuMYBkHPHUf0TE8FyJNIDy3YZdR6TBfPhkCdu_IJijPkWka7aJ0ii2BhrPOYD8r5Fzxx3ftS4tanMXovVGGUe4LrWnpsHS0VQI99-PWrPFnYnyXFAnggwu7_wD5YHjKgYSAq5WzH8i0gaNkuwIAUVdSShf2Gcrwcg9RSvtAENBsqRgdlmFhdISRSnOvZiWvInqmO1Fhnn4NgV066Wpxl4LeEYfOY5FQp4h6FuivW-9rkwybgpd35X-MTTccz7nOpP028rb1VuPeHUrptXnNOoOxfR6TwDd-QXHw_wmkUo-CnTBcAsnKOl-CRKGwP9Oj_OegR7fZZ4LQJZDecpA-6pFQmhyq_jQpqoSOQcr1SL6kR78MEvoUJK0I5AxIk_MghRdByvToFKRTPULn9agE6Xf0SP9NPcq5snafU3FavdoXRQo1xgYWulK4CZcvbHOa2ts5H_nbifyqfSlScz--8XXTu5q55o1Uv41T82pGJ4Iby2TexDgIK3oYei7Wl3EljnS8cJd2haQktnxSmQdRJbJwtHJjKyKM70WByOqt6VrA1ttCflaH7XGbM-LWNb9-Ggx4u5_0Yq6lLB63A6HveyNMPBym3xIie_3unQetLUzIc_8aDvl-t3knyc7KNEZzjT5rrGrOUtoMhq2BzK-HjXnEyb7meC_XndswbHjT-3RB6o2xucS8MUV3uTdE5JHCd2eLWFsKjB9hkb4vb4OhBqY2VQr4DDRaKxOdwgsToHW-0aKRGIL1mUXW4jdTxwbfwmbbaNabusX4dpyGIs8xZBmJ3L9IHWRu"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 25 Recruitment scheduling software based in ...",
+      "link": "https://revenuebase.ai/companies/recruitment-scheduling-software/united-states",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFWl6rCa5Sejn7IzOXfbcELpxkFvAT0aDR-hmLHqtec2vnLYu15B4rswS1f6XyvKmRkMHf8ggX6Mf4kStz7m6tVgevkh_HEaSpjmI-nAznMOwEFH6FeMQ5wYNpgWfNP4DmBLThL7LOPvppkH19iofJbUAoy5jpV_7GnDe58zQUvK6mA&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQFnoECBgQAQ&uoh=1",
+      "displayed_link": "https://revenuebase.ai › companies › united-states",
+      "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vsSQfnesGMAu0DeLyI5GVyVhUjudP_uX1CdFQFFeyO3CeNMloAAD-9hOYPPSSuQpAj3T5D3awly0mK8r_Z1iiOQNIaZQ4xTrdgBvvyLKzy0XTroxl7oTW7Hi-Zk3CZrAmc5DjnNKsMMSyeozCVcZqXrYWsj4YkSoC8R-t17P5I7PGL6jn-dhQcuhRFNt8ofclvQsntfoTMMvUYpF4sZwOdnjyCSxiYczU8Gu-1R-Zqtgtgj8BNSM03a0GslcRzp-_cfzKsw_uwCXunTkJQsZmh7v1Q6mtXC13uc87ZEsNir38C3e4fmV3h4Pz0jyAAA.webp",
+      "date": "Sep 5, 2026",
+      "snippet": "“HireBeat is a candidate sourcing and applicant tracking system that gets out of your way to make recruiting incredibly fast.” Source ...",
+      "snippet_highlighted_words": [
+        "applicant tracking system"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "“HireBeat is a candidate sourcing and applicant tracking system that gets out of your way to make recruiting incredibly fast.” Source ...",
+          "source_info_link": "https://revenuebase.ai/companies/recruitment-scheduling-software/united-states",
+          "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vsSQfnesGMAu0DeLyI5GVyVhUjudP_uX1CdFQFFeyO3CeNMloAAD-9hOYPPSSuQpAj3T5D3awly0mK8r_Z1iiOQNIaZQ4xTrdgBvvyLKzy0XTroxl7oTW7Hi-Zk3CZrAmc5DjnNKsMMSyeozCVcZqXrYWsj4YkSoC8R-t17P5I7PGL6jn-dhQcuhRFNt8ofclvQsntfoTMMvUYpF4sZwOdnjyCSxiYczU8Gu-1R-Zqtgtgj8BNSM03a0GslcRzp-_cfzKsw_uwCXunTkJQsZmh7v1Q6mtXC13uc87ZEsNir38C3e4fmV3h4Pz0jyAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZXbDZyQ2E1U2VqbjdJek9YZmJjRUxweGtGdkFUMGFEUi1obUxIcXRlYzJ2bkxZdTE1QjRyc3dTMWY2WHl2S21Sa01IZjhnZ1g2TWY0a1N0ejdtNnRWZ2V2a2hfSEVhU3BqbUktbkF6bk1Pd0VGSDZGZU1RNXdZTnBnV2ZOUDREbUJMVGhMN0xPUHZwcGtIMTlpb2ZKYlVBb3k1anBWXzdHbkRlNTh6UVV2SzZtQRIEGgIIABqSBxIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDuBggAEAAYACAAKhkKA3RvcBUUEl5AGgRiZXN0GgdsZWFkaW5nKmoKCWFwcGxpY2FudBVTcow_GgthcHBsaWNhdGlvbhoDYXRzGgljYW5kaWRhdGUaEWFwcGxpY2FudHRyYWNraW5nGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaDml2O3A7YXBwbGljYW50KmoKCHRyYWNraW5nFVNyjD8aA2F0cxoMdHJhY2VhYmlsaXR5Ggh0cmFja2VycxoRYXBwbGljYW50dHJhY2tpbmcaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoPdHJhY2tpbmdzeXN0ZW1zKmYKB3N5c3RlbXMVOuQMPxoGZGV2aWNlGgdkZXZpY2VzGghzb2Z0d2FyZRoGc3lzdGVtGgh0cmFja2VycxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg90cmFja2luZ3N5c3RlbXMqCgoDZm9yFQAAAAAqOgoKcmVjcnVpdGVycxXAI5g9GglyZWNydWl0ZXIaC3JlY3J1aXRtZW50Gg9pdjtwO3JlY3J1aXRlcnMyxAEvZ290bz91cmw9Q0FFU2hnRUI2enN3RldsNnJDYTVTZWpuN0l6T1hmYmNFTHB4a0Z2QVQwYURSLWhtTEhxdGVjMnZuTFl1MTVCNHJzd1MxZjZYeXZLbVJrTUhmOGdnWDZNZjRrU3R6N202dFZnZXZraF9IRWFTcGptSS1uQXpuTU93RUZINkZlTVE1d1lOcGdXZk5QNERtQkxUaEw3TE9QdnBwa0gxOWlvZkpiVUFveTVqcFZfN0duRGU1OHpRVXZLNm1BOlM8Yj5Ub3A8L2I-IDI1IDxiPlJlY3J1aXRtZW50PC9iPiBzY2hlZHVsaW5nIDxiPnNvZnR3YXJlPC9iPiBiYXNlZCBpbiB0aGUgVW5pdGVkIC4uLkKZAeKAnEhpcmVCZWF0IGlzIGEgY2FuZGlkYXRlIHNvdXJjaW5nIGFuZCA8Yj5hcHBsaWNhbnQgdHJhY2tpbmcgc3lzdGVtPC9iPiB0aGF0IGdldHMgb3V0IG9mIHlvdXIgd2F5IHRvIG1ha2UgcmVjcnVpdGluZyBpbmNyZWRpYmx5IGZhc3Qu4oCdIFNvdXJjZSZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZXbDZyQ2E1U2VqbjdJek9YZmJjRUxweGtGdkFUMGFEUi1obUxIcXRlYzJ2bkxZdTE1QjRyc3dTMWY2WHl2S21Sa01IZjhnZ1g2TWY0a1N0ejdtNnRWZ2V2a2hfSEVhU3BqbUktbkF6bk1Pd0VGSDZGZU1RNXdZTnBnV2ZOUDREbUJMVGhMN0xPUHZwcGtIMTlpb2ZKYlVBb3k1anBWXzdHbkRlNTh6UVV2SzZtQRIEGgIIABqSBxIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDuBggAEAAYACAAKhkKA3RvcBUUEl5AGgRiZXN0GgdsZWFkaW5nKmoKCWFwcGxpY2FudBVTcow_GgthcHBsaWNhdGlvbhoDYXRzGgljYW5kaWRhdGUaEWFwcGxpY2FudHRyYWNraW5nGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaDml2O3A7YXBwbGljYW50KmoKCHRyYWNraW5nFVNyjD8aA2F0cxoMdHJhY2VhYmlsaXR5Ggh0cmFja2VycxoRYXBwbGljYW50dHJhY2tpbmcaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoPdHJhY2tpbmdzeXN0ZW1zKmYKB3N5c3RlbXMVOuQMPxoGZGV2aWNlGgdkZXZpY2VzGghzb2Z0d2FyZRoGc3lzdGVtGgh0cmFja2VycxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg90cmFja2luZ3N5c3RlbXMqCgoDZm9yFQAAAAAqOgoKcmVjcnVpdGVycxXAI5g9GglyZWNydWl0ZXIaC3JlY3J1aXRtZW50Gg9pdjtwO3JlY3J1aXRlcnMyxAEvZ290bz91cmw9Q0FFU2hnRUI2enN3RldsNnJDYTVTZWpuN0l6T1hmYmNFTHB4a0Z2QVQwYURSLWhtTEhxdGVjMnZuTFl1MTVCNHJzd1MxZjZYeXZLbVJrTUhmOGdnWDZNZjRrU3R6N202dFZnZXZraF9IRWFTcGptSS1uQXpuTU93RUZINkZlTVE1d1lOcGdXZk5QNERtQkxUaEw3TE9QdnBwa0gxOWlvZkpiVUFveTVqcFZfN0duRGU1OHpRVXZLNm1BOlM8Yj5Ub3A8L2I-IDI1IDxiPlJlY3J1aXRtZW50PC9iPiBzY2hlZHVsaW5nIDxiPnNvZnR3YXJlPC9iPiBiYXNlZCBpbiB0aGUgVW5pdGVkIC4uLkKZAeKAnEhpcmVCZWF0IGlzIGEgY2FuZGlkYXRlIHNvdXJjaW5nIGFuZCA8Yj5hcHBsaWNhbnQgdHJhY2tpbmcgc3lzdGVtPC9iPiB0aGF0IGdldHMgb3V0IG9mIHlvdXIgd2F5IHRvIG1ha2UgcmVjcnVpdGluZyBpbmNyZWRpYmx5IGZhc3Qu4oCdIFNvdXJjZSZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "RevenueBase",
+      "read_more_link": "https://revenuebase.ai/companies/recruitment-scheduling-software/united-states#:~:text=%E2%80%9CHireBeat%20is%20a%20candidate%20sourcing,%C2%B7%20checked%20Sep%205%2C%202026"
+    },
+    {
+      "position": 2,
+      "title": "The 7 best recruiting software | OMR Reviews",
+      "link": "https://omr.com/en/reviews/contenthub/best-recruiting-software",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVL1KTkQ5z2KnqX8Y0Ns_qQ1PGJqnDoWaDi_TEr0f5KCNwXc-PX-qwqZlN3J6_3oAagfp_BYl_g3-2FDGogiUCwP2CKdxfzPo4Uu0qVR5RQujqRKnKbcRlLcRIvrlovSznhsk5-AmVW7RUPZ3BgEAT0s8&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQFnoECBkQAQ&uoh=1",
+      "displayed_link": "https://omr.com › ... › Applicant Tracking Systems (ATS)",
+      "favicon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAADwBACdASocABwAPtEwtFooIigoGAEAGglpAM7t3At5FvteTtjrjFdpwIk_rqMk-4AA_vVlhSH8V-_ju0uoqVBUkUaYkQVXPivKP4-a33J8iDlciTf_KA9vI2-BaTcJy3h8aHqhv7eNhRdKNto-NJULwbQXpNDKqn1f-zXytx839fjHpht4tP5V_hf_yjw_-oTc6h9zL69zLlHgXpU9_i_-X-hskGIkybaRHPJqt8HlEh_Vn5U1nd8uqB0FpVA0A7elVjYCSQA-lSzAY-AAAA.webp",
+      "date": "Aug 4, 2026",
+      "snippet": "5. ZOHO Recruit · Applicant data management · Applicant tracking · Interview scheduling · Procurement and identification of candidates · Tracking of ...",
+      "snippet_highlighted_words": [
+        "ZOHO Recruit"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "5. ZOHO Recruit · Applicant data management · Applicant tracking · Interview scheduling · Procurement and identification of candidates · Tracking of ...",
+          "source_info_link": "https://omr.com/en/reviews/contenthub/best-recruiting-software",
+          "icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAADwBACdASocABwAPtEwtFooIigoGAEAGglpAM7t3At5FvteTtjrjFdpwIk_rqMk-4AA_vVlhSH8V-_ju0uoqVBUkUaYkQVXPivKP4-a33J8iDlciTf_KA9vI2-BaTcJy3h8aHqhv7eNhRdKNto-NJULwbQXpNDKqn1f-zXytx839fjHpht4tP5V_hf_yjw_-oTc6h9zL69zLlHgXpU9_i_-X-hskGIkybaRHPJqt8HlEh_Vn5U1nd8uqB0FpVA0A7elVjYCSQA-lSzAY-AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkwxS1RrUTV6MktucVg4WTBOc19xUTFQR0pxbkRvV2FEaV9URXIwZjVLQ053WGMtUFgtcXdxWmxOM0o2XzNvQWFnZnBfQllsX2czLTJGREdvZ2lVQ3dQMkNLZHhmelBvNFV1MHFWUjVSUXVqcVJLbktiY1JsTGNSSXZybG92U3puaHNrNS1BbVZXN1JVUFozQmdFQVQwczgSBBoCCAAakAcSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA7AYIABAAGAAgACoZCgN0b3AV477rPhoEYmVzdBoHbGVhZGluZypqCglhcHBsaWNhbnQVDwkvQBoLYXBwbGljYXRpb24aA2F0cxoJY2FuZGlkYXRlGhFhcHBsaWNhbnR0cmFja2luZxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg5pdjtwO2FwcGxpY2FudCpqCgh0cmFja2luZxWoASlAGgNhdHMaDHRyYWNlYWJpbGl0eRoIdHJhY2tlcnMaEWFwcGxpY2FudHRyYWNraW5nGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaD3RyYWNraW5nc3lzdGVtcypmCgdzeXN0ZW1zFRlUKkAaBmRldmljZRoHZGV2aWNlcxoIc29mdHdhcmUaBnN5c3RlbRoIdHJhY2tlcnMaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoPdHJhY2tpbmdzeXN0ZW1zKgoKA2ZvchUAAAAAKjoKCnJlY3J1aXRlcnMVAAAAABoJcmVjcnVpdGVyGgtyZWNydWl0bWVudBoPaXY7cDtyZWNydWl0ZXJzMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkwxS1RrUTV6MktucVg4WTBOc19xUTFQR0pxbkRvV2FEaV9URXIwZjVLQ053WGMtUFgtcXdxWmxOM0o2XzNvQWFnZnBfQllsX2czLTJGREdvZ2lVQ3dQMkNLZHhmelBvNFV1MHFWUjVSUXVqcVJLbktiY1JsTGNSSXZybG92U3puaHNrNS1BbVZXN1JVUFozQmdFQVQwczg6OlRoZSA3IDxiPmJlc3Q8L2I-IHJlY3J1aXRpbmcgPGI-c29mdHdhcmU8L2I-IHwgT01SIFJldmlld3NCxwE1LiA8Yj5aT0hPIFJlY3J1aXQ8L2I-ICZtaWRkb3Q7IEFwcGxpY2FudCBkYXRhIG1hbmFnZW1lbnQgJm1pZGRvdDsgQXBwbGljYW50IHRyYWNraW5nICZtaWRkb3Q7IEludGVydmlldyBzY2hlZHVsaW5nICZtaWRkb3Q7IFByb2N1cmVtZW50IGFuZCBpZGVudGlmaWNhdGlvbiBvZiBjYW5kaWRhdGVzICZtaWRkb3Q7IFRyYWNraW5nIG9mJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkwxS1RrUTV6MktucVg4WTBOc19xUTFQR0pxbkRvV2FEaV9URXIwZjVLQ053WGMtUFgtcXdxWmxOM0o2XzNvQWFnZnBfQllsX2czLTJGREdvZ2lVQ3dQMkNLZHhmelBvNFV1MHFWUjVSUXVqcVJLbktiY1JsTGNSSXZybG92U3puaHNrNS1BbVZXN1JVUFozQmdFQVQwczgSBBoCCAAakAcSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJA7AYIABAAGAAgACoZCgN0b3AV477rPhoEYmVzdBoHbGVhZGluZypqCglhcHBsaWNhbnQVDwkvQBoLYXBwbGljYXRpb24aA2F0cxoJY2FuZGlkYXRlGhFhcHBsaWNhbnR0cmFja2luZxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg5pdjtwO2FwcGxpY2FudCpqCgh0cmFja2luZxWoASlAGgNhdHMaDHRyYWNlYWJpbGl0eRoIdHJhY2tlcnMaEWFwcGxpY2FudHRyYWNraW5nGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaD3RyYWNraW5nc3lzdGVtcypmCgdzeXN0ZW1zFRlUKkAaBmRldmljZRoHZGV2aWNlcxoIc29mdHdhcmUaBnN5c3RlbRoIdHJhY2tlcnMaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoPdHJhY2tpbmdzeXN0ZW1zKgoKA2ZvchUAAAAAKjoKCnJlY3J1aXRlcnMVAAAAABoJcmVjcnVpdGVyGgtyZWNydWl0bWVudBoPaXY7cDtyZWNydWl0ZXJzMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVkwxS1RrUTV6MktucVg4WTBOc19xUTFQR0pxbkRvV2FEaV9URXIwZjVLQ053WGMtUFgtcXdxWmxOM0o2XzNvQWFnZnBfQllsX2czLTJGREdvZ2lVQ3dQMkNLZHhmelBvNFV1MHFWUjVSUXVqcVJLbktiY1JsTGNSSXZybG92U3puaHNrNS1BbVZXN1JVUFozQmdFQVQwczg6OlRoZSA3IDxiPmJlc3Q8L2I-IHJlY3J1aXRpbmcgPGI-c29mdHdhcmU8L2I-IHwgT01SIFJldmlld3NCxwE1LiA8Yj5aT0hPIFJlY3J1aXQ8L2I-ICZtaWRkb3Q7IEFwcGxpY2FudCBkYXRhIG1hbmFnZW1lbnQgJm1pZGRvdDsgQXBwbGljYW50IHRyYWNraW5nICZtaWRkb3Q7IEludGVydmlldyBzY2hlZHVsaW5nICZtaWRkb3Q7IFByb2N1cmVtZW50IGFuZCBpZGVudGlmaWNhdGlvbiBvZiBjYW5kaWRhdGVzICZtaWRkb3Q7IFRyYWNraW5nIG9mJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "OMR",
+      "read_more_link": "https://omr.com/en/reviews/contenthub/best-recruiting-software#:~:text=5.%20ZOHO%20Recruit&text=Applicant%20data%20management&text=Applicant%20tracking&text=Interview%20scheduling&text=Procurement%20and%20identification%20of%20candidates&text=Tracking%20of%20the%20application%20process"
+    },
+    {
+      "position": 3,
+      "title": "Best 5 Talent Acquisition Software Tools for HR Teams in ...",
+      "link": "https://www.apps365.com/blog/talent-acquisition-software/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVRrEkKTG1PhxIsxjoC4hbAX5_eDxaD7BBYs536TtS5PoKwH8O3mZd9RobX5wyM4rrMj-add3DgJSdldXkoK1aoETBDNO_klnXw7IQL6ACnlWmDo_QB5Dir8XFkuWJ3_IEAj4k8SbkuZasH-DP&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://www.apps365.com › blog › talent-acquisition-soft...",
+      "favicon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHw4gfLGMttnbtA3jP9o7WQLLqQLBY29UJIzf-uHHqsjoLT5qUlcvL6hJAu-jy_WW506PxwSAAD-9hPF6eeAfR0AZQHJgsWlRzxQPF2SvbgiERw1yyz7NJThkJnLpfBppn2vPTMXrCGY_bXc55DS6Om5SOpz3xgNSYDWpuCPTdyDBsh4ZUJPt-ZV1jyUX68dmOP1-1KLjCSlmqlM15n83Tnjy0ZTs-kPsXiRldGPAwxmEOT_-8C1Zb4pE8pOyZk0p6M8CzYA1KjGwQKzErOa0gNg8Y9VnG-ivQF7Y53z_zJWetqeLu7lRjg8gQxRbyDSqbM63L3g8-FvDHKD-3dxQE8ebHpeNwLx8dHf9blwGMMs0H7oWPDiBzTqj2iTp1NHHOQ3cjK8GyXW4_GPH3SW0TutsQoZhihktb1T3Fmf0sxo_PvvYKuedVKoWe1z6m4B_0hskwkiLqA6UNCyanIU-cZ6Mf33YA958z3ecWR1eJRfwLotvZGY9B9yvtUCEpT5e46C0PtY2vpYC4AA.webp",
+      "snippet": "Platforms like Recruitment Management 365, Workday Recruiting, ADP Recruiting, iCIMS and Bullhorn provide powerful hiring tools that help organizations build ...",
+      "snippet_highlighted_words": [
+        "Recruitment Management 365"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Platforms like Recruitment Management 365, Workday Recruiting, ADP Recruiting, iCIMS and Bullhorn provide powerful hiring tools that help organizations build ...",
+          "source_info_link": "https://www.apps365.com/blog/talent-acquisition-software/",
+          "icon": "https://serpapi.com/images/i/UklGRrQBAABXRUJQVlA4IKgBAABQCQCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHw4gfLGMttnbtA3jP9o7WQLLqQLBY29UJIzf-uHHqsjoLT5qUlcvL6hJAu-jy_WW506PxwSAAD-9hPF6eeAfR0AZQHJgsWlRzxQPF2SvbgiERw1yyz7NJThkJnLpfBppn2vPTMXrCGY_bXc55DS6Om5SOpz3xgNSYDWpuCPTdyDBsh4ZUJPt-ZV1jyUX68dmOP1-1KLjCSlmqlM15n83Tnjy0ZTs-kPsXiRldGPAwxmEOT_-8C1Zb4pE8pOyZk0p6M8CzYA1KjGwQKzErOa0gNg8Y9VnG-ivQF7Y53z_zJWetqeLu7lRjg8gQxRbyDSqbM63L3g8-FvDHKD-3dxQE8ebHpeNwLx8dHf9blwGMMs0H7oWPDiBzTqj2iTp1NHHOQ3cjK8GyXW4_GPH3SW0TutsQoZhihktb1T3Fmf0sxo_PvvYKuedVKoWe1z6m4B_0hskwkiLqA6UNCyanIU-cZ6Mf33YA958z3ecWR1eJRfwLotvZGY9B9yvtUCEpT5e46C0PtY2vpYC4AA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVlJyRWtLVEcxUGh4SXN4am9DNGhiQVg1X2VEeGFEN0JCWXM1MzZUdFM1UG9Ld0g4TzNtWmQ5Um9iWDV3eU00cnJNai1hZGQzRGdKU2RsZFhrb0sxYW9FVEJETk9fa2xuWHc3SVFMNkFDbmxXbURvX1FCNURpcjhYRmt1V0ozX0lFQWo0azhTYmt1WmFzSC1EUBIEGgIIABqCBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNwGCAAQABgAIAAqGQoDdG9wFQAAAAAaBGJlc3QaB2xlYWRpbmcqagoJYXBwbGljYW50FYjupz8aC2FwcGxpY2F0aW9uGgNhdHMaCWNhbmRpZGF0ZRoRYXBwbGljYW50dHJhY2tpbmcaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoOaXY7cDthcHBsaWNhbnQqagoIdHJhY2tpbmcVpT-3PxoDYXRzGgx0cmFjZWFiaWxpdHkaCHRyYWNrZXJzGhFhcHBsaWNhbnR0cmFja2luZxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg90cmFja2luZ3N5c3RlbXMqZgoHc3lzdGVtcxVnG3w_GgZkZXZpY2UaB2RldmljZXMaCHNvZnR3YXJlGgZzeXN0ZW0aCHRyYWNrZXJzGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaD3RyYWNraW5nc3lzdGVtcyoKCgNmb3IVAAAAACo6CgpyZWNydWl0ZXJzFaHasz8aCXJlY3J1aXRlchoLcmVjcnVpdG1lbnQaD2l2O3A7cmVjcnVpdGVyczKmAS9nb3RvP3VybD1DQUVTY1FIck96QVZSckVrS1RHMVBoeElzeGpvQzRoYkFYNV9lRHhhRDdCQllzNTM2VHRTNVBvS3dIOE8zbVpkOVJvYlg1d3lNNHJyTWotYWRkM0RnSlNkbGRYa29LMWFvRVRCRE5PX2tsblh3N0lRTDZBQ25sV21Eb19RQjVEaXI4WEZrdVdKM19JRUFqNGs4U2JrdVphc0gtRFA6SzxiPkJlc3Q8L2I-IDUgVGFsZW50IEFjcXVpc2l0aW9uIDxiPlNvZnR3YXJlPC9iPiBUb29scyBmb3IgSFIgVGVhbXMgaW4gMjAyNkKtAVBsYXRmb3JtcyBsaWtlIDxiPlJlY3J1aXRtZW50IE1hbmFnZW1lbnQgMzY1PC9iPiwgV29ya2RheSBSZWNydWl0aW5nLCBBRFAgUmVjcnVpdGluZywgaUNJTVMgYW5kIEJ1bGxob3JuIHByb3ZpZGUgcG93ZXJmdWwgaGlyaW5nIHRvb2xzIHRoYXQgaGVscCBvcmdhbml6YXRpb25zIGJ1aWxkJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVlJyRWtLVEcxUGh4SXN4am9DNGhiQVg1X2VEeGFEN0JCWXM1MzZUdFM1UG9Ld0g4TzNtWmQ5Um9iWDV3eU00cnJNai1hZGQzRGdKU2RsZFhrb0sxYW9FVEJETk9fa2xuWHc3SVFMNkFDbmxXbURvX1FCNURpcjhYRmt1V0ozX0lFQWo0azhTYmt1WmFzSC1EUBIEGgIIABqCBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNwGCAAQABgAIAAqGQoDdG9wFQAAAAAaBGJlc3QaB2xlYWRpbmcqagoJYXBwbGljYW50FYjupz8aC2FwcGxpY2F0aW9uGgNhdHMaCWNhbmRpZGF0ZRoRYXBwbGljYW50dHJhY2tpbmcaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoOaXY7cDthcHBsaWNhbnQqagoIdHJhY2tpbmcVpT-3PxoDYXRzGgx0cmFjZWFiaWxpdHkaCHRyYWNrZXJzGhFhcHBsaWNhbnR0cmFja2luZxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg90cmFja2luZ3N5c3RlbXMqZgoHc3lzdGVtcxVnG3w_GgZkZXZpY2UaB2RldmljZXMaCHNvZnR3YXJlGgZzeXN0ZW0aCHRyYWNrZXJzGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaD3RyYWNraW5nc3lzdGVtcyoKCgNmb3IVAAAAACo6CgpyZWNydWl0ZXJzFaHasz8aCXJlY3J1aXRlchoLcmVjcnVpdG1lbnQaD2l2O3A7cmVjcnVpdGVyczKmAS9nb3RvP3VybD1DQUVTY1FIck96QVZSckVrS1RHMVBoeElzeGpvQzRoYkFYNV9lRHhhRDdCQllzNTM2VHRTNVBvS3dIOE8zbVpkOVJvYlg1d3lNNHJyTWotYWRkM0RnSlNkbGRYa29LMWFvRVRCRE5PX2tsblh3N0lRTDZBQ25sV21Eb19RQjVEaXI4WEZrdVdKM19JRUFqNGs4U2JrdVphc0gtRFA6SzxiPkJlc3Q8L2I-IDUgVGFsZW50IEFjcXVpc2l0aW9uIDxiPlNvZnR3YXJlPC9iPiBUb29scyBmb3IgSFIgVGVhbXMgaW4gMjAyNkKtAVBsYXRmb3JtcyBsaWtlIDxiPlJlY3J1aXRtZW50IE1hbmFnZW1lbnQgMzY1PC9iPiwgV29ya2RheSBSZWNydWl0aW5nLCBBRFAgUmVjcnVpdGluZywgaUNJTVMgYW5kIEJ1bGxob3JuIHByb3ZpZGUgcG93ZXJmdWwgaGlyaW5nIHRvb2xzIHRoYXQgaGVscCBvcmdhbml6YXRpb25zIGJ1aWxkJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Apps365",
+      "read_more_link": "https://www.apps365.com/blog/talent-acquisition-software/#:~:text=Platforms%20like%20Recruitment%20Management%20365%2C,teams%20and%20improve%20recruitment%20efficiency."
+    },
+    {
+      "position": 4,
+      "title": "Exploring ATS systems: ADP, Workable, JazzHR, and Paylocity",
+      "link": "https://www.linkedin.com/posts/dellyn-lee_atssystems-recruiting-adp-activity-7378880464893288448-6RGM",
+      "displayed_link": "3 reactions · 12 months ago",
+      "thumbnail": "https://serpapi.com/searches/6ab6628eb6a867d32cf15844/images/a1cED2xRPUrdfna4ajVHE5w9KWC-6EHOIGEC3w-Dcm4.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+      "snippet": "ATS Systems: The Recruiter's Guide to ADP, Workable, JazzHR, and more! In our recruiting journey, we explore various ATS systems, ...",
+      "duration": "0:38",
+      "about_this_result": {
+        "source": {
+          "description": "ATS Systems: The Recruiter's Guide to ADP, Workable, JazzHR, and more! In our recruiting journey, we explore various ATS systems, ...",
+          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZRNzFrTEtzaTBPVDhMMHhtNE8wV0ljSldMNUp6bkFuMzNJcTFFb2RjRFIyM2l4a1RkRmc3VzRzbzlkYzZlT2ZkX1o4ZnR1bUVCNlctQnlEMnNSNXl2T3JiQnBrVUdyQzY4emhqR3NiZ1lia2hzZEFKQUowRUcxc0wxdjhNTDBOSzhhRHQxVW5TZDhwX3M4QWJ0ejkzYk1UMjhDajdjaFF6ajJCOWY2LXhFT1kwNkFaSHpRaWNIczUzNDRaRGZiNng0ZUZmUFBobmcxaRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZRNzFrTEtzaTBPVDhMMHhtNE8wV0ljSldMNUp6bkFuMzNJcTFFb2RjRFIyM2l4a1RkRmc3VzRzbzlkYzZlT2ZkX1o4ZnR1bUVCNlctQnlEMnNSNXl2T3JiQnBrVUdyQzY4emhqR3NiZ1lia2hzZEFKQUowRUcxc0wxdjhNTDBOSzhhRHQxVW5TZDhwX3M4QWJ0ejkzYk1UMjhDajdjaFF6ajJCOWY2LXhFT1kwNkFaSHpRaWNIczUzNDRaRGZiNng0ZUZmUFBobmcxaRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "source": "LinkedIn · Dellyn Lee"
+    },
+    {
+      "position": 5,
+      "title": "Top talent acquisition solutions in 2026",
+      "link": "https://testlify.com/top-talent-acquisition-solutions-available-today/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVXggq_D3xEv3Xvo0on4J8XYIlxo8Rt6DXsP2Ax9qdmZMEwJ9_Yt1jpen3UVJtrtM-uHHSacVXIWJdx2jQptc2W3PqaeJSAQwpOGQP1ZWH9YAQN009Fhsmx2N1hlyo-WFPt0ayLNpYGnRCkm8hZKKFUvKQALG3kd0eDQ&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://testlify.com › Blog › Global Recruitment",
+      "favicon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAADwBQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHSXqrjQTSczQBhssei0bpWa08rbfRbXqmw0gAD-CtkmFjnTKI6GKT_RI7Fc3bk265M7as6Hy5Kh_nvj9L6o4u5o_-ruv_X4-pHh39nJio_oO7a9s9X6v6RK8t85iKzpzOOUYOig4KQhXwraSh5FCBCgpM5Q4ntz_PU_N-ZceSixuuUC2B8fYozj6HDvD47Eo_-YD0HqrIVwgwJRl_pORzgHe8bmtGAydSzY2DOKGeedPCAAAAA.webp",
+      "snippet": "Applicant Tracking System (ATS): A centralized platform that stores candidate data and tracks applications across every hiring stage",
+      "snippet_highlighted_words": [
+        "Applicant Tracking System",
+        "ATS",
+        "candidate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Applicant Tracking System (ATS): A centralized platform that stores candidate data and tracks applications across every hiring stage",
+          "source_info_link": "https://testlify.com/top-talent-acquisition-solutions-available-today/",
+          "icon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAADwBQCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHSXqrjQTSczQBhssei0bpWa08rbfRbXqmw0gAD-CtkmFjnTKI6GKT_RI7Fc3bk265M7as6Hy5Kh_nvj9L6o4u5o_-ruv_X4-pHh39nJio_oO7a9s9X6v6RK8t85iKzpzOOUYOig4KQhXwraSh5FCBCgpM5Q4ntz_PU_N-ZceSixuuUC2B8fYozj6HDvD47Eo_-YD0HqrIVwgwJRl_pORzgHe8bmtGAydSzY2DOKGeedPCAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlhnZ3FfRDN4RXYzWHZvMG9uNEo4WFlJbHhvOFJ0NkRYc1AyQXg5cWRtWk1Fd0o5X1l0MWpwZW4zVVZKdHJ0TS11SEhTYWNWWElXSmR4MmpRcHRjMlczUHFhZUpTQVF3cE9HUVAxWldIOVlBUU4wMDlGaHNteDJOMWhseW8tV0ZQdDBheUxOcFlHblJDa204aFpLS0ZVdktRQUxHM2tkMGVEURIEGgIIABrtBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDJBggAEAAYACAAKhkKA3RvcBU-J09AGgRiZXN0GgdsZWFkaW5nKmoKCWFwcGxpY2FudBXFNq4_GgthcHBsaWNhdGlvbhoDYXRzGgljYW5kaWRhdGUaEWFwcGxpY2FudHRyYWNraW5nGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaDml2O3A7YXBwbGljYW50KmoKCHRyYWNraW5nFS9Ulj8aA2F0cxoMdHJhY2VhYmlsaXR5Ggh0cmFja2VycxoRYXBwbGljYW50dHJhY2tpbmcaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoPdHJhY2tpbmdzeXN0ZW1zKmYKB3N5c3RlbXMVDmljPxoGZGV2aWNlGgdkZXZpY2VzGghzb2Z0d2FyZRoGc3lzdGVtGgh0cmFja2VycxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg90cmFja2luZ3N5c3RlbXMqCgoDZm9yFQAAAAAqOgoKcmVjcnVpdGVycxXOFBM_GglyZWNydWl0ZXIaC3JlY3J1aXRtZW50Gg9pdjtwO3JlY3J1aXRlcnMyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWWGdncV9EM3hFdjNYdm8wb240SjhYWUlseG84UnQ2RFhzUDJBeDlxZG1aTUV3SjlfWXQxanBlbjNVVkp0cnRNLXVISFNhY1ZYSVdKZHgyalFwdGMyVzNQcWFlSlNBUXdwT0dRUDFaV0g5WUFRTjAwOUZoc214Mk4xaGx5by1XRlB0MGF5TE5wWUduUkNrbThoWktLRlV2S1FBTEcza2QwZURROjo8Yj5Ub3A8L2I-IHRhbGVudCBhY3F1aXNpdGlvbiBzb2x1dGlvbnMgaW4gMjAyNiAtIFRlc3RsaWZ5QpkBPGI-QXBwbGljYW50IFRyYWNraW5nIFN5c3RlbTwvYj4gKDxiPkFUUzwvYj4pOiBBIGNlbnRyYWxpemVkIHBsYXRmb3JtIHRoYXQgc3RvcmVzIDxiPmNhbmRpZGF0ZTwvYj4gZGF0YSBhbmQgdHJhY2tzIGFwcGxpY2F0aW9ucyBhY3Jvc3MgZXZlcnkgaGlyaW5nIHN0YWdlSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlhnZ3FfRDN4RXYzWHZvMG9uNEo4WFlJbHhvOFJ0NkRYc1AyQXg5cWRtWk1Fd0o5X1l0MWpwZW4zVVZKdHJ0TS11SEhTYWNWWElXSmR4MmpRcHRjMlczUHFhZUpTQVF3cE9HUVAxWldIOVlBUU4wMDlGaHNteDJOMWhseW8tV0ZQdDBheUxOcFlHblJDa204aFpLS0ZVdktRQUxHM2tkMGVEURIEGgIIABrtBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDJBggAEAAYACAAKhkKA3RvcBU-J09AGgRiZXN0GgdsZWFkaW5nKmoKCWFwcGxpY2FudBXFNq4_GgthcHBsaWNhdGlvbhoDYXRzGgljYW5kaWRhdGUaEWFwcGxpY2FudHRyYWNraW5nGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaDml2O3A7YXBwbGljYW50KmoKCHRyYWNraW5nFS9Ulj8aA2F0cxoMdHJhY2VhYmlsaXR5Ggh0cmFja2VycxoRYXBwbGljYW50dHJhY2tpbmcaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoPdHJhY2tpbmdzeXN0ZW1zKmYKB3N5c3RlbXMVDmljPxoGZGV2aWNlGgdkZXZpY2VzGghzb2Z0d2FyZRoGc3lzdGVtGgh0cmFja2VycxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg90cmFja2luZ3N5c3RlbXMqCgoDZm9yFQAAAAAqOgoKcmVjcnVpdGVycxXOFBM_GglyZWNydWl0ZXIaC3JlY3J1aXRtZW50Gg9pdjtwO3JlY3J1aXRlcnMyuAEvZ290bz91cmw9Q0FFU2ZnSHJPekFWWGdncV9EM3hFdjNYdm8wb240SjhYWUlseG84UnQ2RFhzUDJBeDlxZG1aTUV3SjlfWXQxanBlbjNVVkp0cnRNLXVISFNhY1ZYSVdKZHgyalFwdGMyVzNQcWFlSlNBUXdwT0dRUDFaV0g5WUFRTjAwOUZoc214Mk4xaGx5by1XRlB0MGF5TE5wWUduUkNrbThoWktLRlV2S1FBTEcza2QwZURROjo8Yj5Ub3A8L2I-IHRhbGVudCBhY3F1aXNpdGlvbiBzb2x1dGlvbnMgaW4gMjAyNiAtIFRlc3RsaWZ5QpkBPGI-QXBwbGljYW50IFRyYWNraW5nIFN5c3RlbTwvYj4gKDxiPkFUUzwvYj4pOiBBIGNlbnRyYWxpemVkIHBsYXRmb3JtIHRoYXQgc3RvcmVzIDxiPmNhbmRpZGF0ZTwvYj4gZGF0YSBhbmQgdHJhY2tzIGFwcGxpY2F0aW9ucyBhY3Jvc3MgZXZlcnkgaGlyaW5nIHN0YWdlSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Testlify"
+    },
+    {
+      "position": 6,
+      "title": "What's the best ATS for scanning resumes and rating ...",
+      "link": "https://www.reddit.com/r/Recruitment/comments/pkznl0/whats_the_best_ats_for_scanning_resumes_and/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFTjdPBHljuMfCBu_1nG2bt-6Kuo9Nu17VcPqg3k0E-YbynFuG5lSnWkDBmSTMY2gdU6JRzmV-mFE7HLZXbzgUBmgIiFcXoO3IWnG3TY1mDNfGPuIlt6csz7V_BZ-8MgnQFxWotoBPdEyf1NAWN28GfWOg3EdMUuSeYgY8VgJSmyY3jtRWdYOVjUfx-G_bSS9Jim1oTo&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQFnoECBwQAQ&uoh=1",
+      "displayed_link": "6 comments · 5 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "I'm not a recruiter, but an engineer looking to recruit interns and entry level engineers for my company. Right now I'm mainly looking to recruit at ...",
+      "about_this_result": {
+        "source": {
+          "description": "We use SmartRecruiters and it has mobile apps with those features. Check on your app store for the descriptions of their \"Field Recruiting\" and ...",
+          "source_info_link": "https://www.reddit.com/r/Recruitment/comments/pkznl0/whats_the_best_ats_for_scanning_resumes_and/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZUamRQQkhsanVNZkNCdV8xbkcyYnQtNkt1bzlOdTE3VmNQcWczazBFLVlieW5GdUc1bFNuV2tEQm1TVE1ZMmdkVTZKUnptVi1tRkU3SExaWGJ6Z1VCbWdJaUZjWG9PM0lXbkczVFkxbUROZkdQdUlsdDZjc3o3Vl9CWi04TWduUUZ4V290b0JQZEV5ZjFOQVdOMjhHZldPZzNFZE1VdVNlWWdZOFZnSlNteVkzanRSV2RZT1ZqVWZ4LUdfYlNTOUppbTFvVG8SBBoCCAAaswcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjwcIABAAGAAgACoZCgN0b3AVSJhEPhoEYmVzdBoHbGVhZGluZypqCglhcHBsaWNhbnQVbohtPxoLYXBwbGljYXRpb24aA2F0cxoJY2FuZGlkYXRlGhFhcHBsaWNhbnR0cmFja2luZxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg5pdjtwO2FwcGxpY2FudCpqCgh0cmFja2luZxVuiG0_GgNhdHMaDHRyYWNlYWJpbGl0eRoIdHJhY2tlcnMaEWFwcGxpY2FudHRyYWNraW5nGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaD3RyYWNraW5nc3lzdGVtcypmCgdzeXN0ZW1zFbDIBD8aBmRldmljZRoHZGV2aWNlcxoIc29mdHdhcmUaBnN5c3RlbRoIdHJhY2tlcnMaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoPdHJhY2tpbmdzeXN0ZW1zKgoKA2ZvchUAAAAAKjoKCnJlY3J1aXRlcnMVSELgPxoJcmVjcnVpdGVyGgtyZWNydWl0bWVudBoPaXY7cDtyZWNydWl0ZXJzMt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZUamRQQkhsanVNZkNCdV8xbkcyYnQtNkt1bzlOdTE3VmNQcWczazBFLVlieW5GdUc1bFNuV2tEQm1TVE1ZMmdkVTZKUnptVi1tRkU3SExaWGJ6Z1VCbWdJaUZjWG9PM0lXbkczVFkxbUROZkdQdUlsdDZjc3o3Vl9CWi04TWduUUZ4V290b0JQZEV5ZjFOQVdOMjhHZldPZzNFZE1VdVNlWWdZOFZnSlNteVkzanRSV2RZT1ZqVWZ4LUdfYlNTOUppbTFvVG86S1doYXQmIzM5O3MgdGhlIDxiPmJlc3QgQVRTPC9iPiBmb3Igc2Nhbm5pbmcgcmVzdW1lcyBhbmQgcmF0aW5nIC4uLiAtIFJlZGRpdEKpAVdlIHVzZSA8Yj5TbWFydFJlY3J1aXRlcnM8L2I-IGFuZCBpdCBoYXMgbW9iaWxlIGFwcHMgd2l0aCB0aG9zZSBmZWF0dXJlcy4gQ2hlY2sgb24geW91ciBhcHAgc3RvcmUgZm9yIHRoZSBkZXNjcmlwdGlvbnMgb2YgdGhlaXIgJnF1b3Q7RmllbGQgUmVjcnVpdGluZyZxdW90OyBhbmQmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZUamRQQkhsanVNZkNCdV8xbkcyYnQtNkt1bzlOdTE3VmNQcWczazBFLVlieW5GdUc1bFNuV2tEQm1TVE1ZMmdkVTZKUnptVi1tRkU3SExaWGJ6Z1VCbWdJaUZjWG9PM0lXbkczVFkxbUROZkdQdUlsdDZjc3o3Vl9CWi04TWduUUZ4V290b0JQZEV5ZjFOQVdOMjhHZldPZzNFZE1VdVNlWWdZOFZnSlNteVkzanRSV2RZT1ZqVWZ4LUdfYlNTOUppbTFvVG8SBBoCCAAaswcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjwcIABAAGAAgACoZCgN0b3AVSJhEPhoEYmVzdBoHbGVhZGluZypqCglhcHBsaWNhbnQVbohtPxoLYXBwbGljYXRpb24aA2F0cxoJY2FuZGlkYXRlGhFhcHBsaWNhbnR0cmFja2luZxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg5pdjtwO2FwcGxpY2FudCpqCgh0cmFja2luZxVuiG0_GgNhdHMaDHRyYWNlYWJpbGl0eRoIdHJhY2tlcnMaEWFwcGxpY2FudHRyYWNraW5nGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaD3RyYWNraW5nc3lzdGVtcypmCgdzeXN0ZW1zFbDIBD8aBmRldmljZRoHZGV2aWNlcxoIc29mdHdhcmUaBnN5c3RlbRoIdHJhY2tlcnMaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoPdHJhY2tpbmdzeXN0ZW1zKgoKA2ZvchUAAAAAKjoKCnJlY3J1aXRlcnMVSELgPxoJcmVjcnVpdGVyGgtyZWNydWl0bWVudBoPaXY7cDtyZWNydWl0ZXJzMt0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZUamRQQkhsanVNZkNCdV8xbkcyYnQtNkt1bzlOdTE3VmNQcWczazBFLVlieW5GdUc1bFNuV2tEQm1TVE1ZMmdkVTZKUnptVi1tRkU3SExaWGJ6Z1VCbWdJaUZjWG9PM0lXbkczVFkxbUROZkdQdUlsdDZjc3o3Vl9CWi04TWduUUZ4V290b0JQZEV5ZjFOQVdOMjhHZldPZzNFZE1VdVNlWWdZOFZnSlNteVkzanRSV2RZT1ZqVWZ4LUdfYlNTOUppbTFvVG86S1doYXQmIzM5O3MgdGhlIDxiPmJlc3QgQVRTPC9iPiBmb3Igc2Nhbm5pbmcgcmVzdW1lcyBhbmQgcmF0aW5nIC4uLiAtIFJlZGRpdEKpAVdlIHVzZSA8Yj5TbWFydFJlY3J1aXRlcnM8L2I-IGFuZCBpdCBoYXMgbW9iaWxlIGFwcHMgd2l0aCB0aG9zZSBmZWF0dXJlcy4gQ2hlY2sgb24geW91ciBhcHAgc3RvcmUgZm9yIHRoZSBkZXNjcmlwdGlvbnMgb2YgdGhlaXIgJnF1b3Q7RmllbGQgUmVjcnVpdGluZyZxdW90OyBhbmQmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "Reddit · r/Recruitment"
+    },
+    {
+      "position": 7,
+      "title": "AI Recruiting Software & ATS │ SmartRecruiters for ...",
+      "link": "https://www.sap.com/croatia/products/hcm/recruiting-software.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVZpiqphFnbQ3G6rzJIG35T7msBrlHw81EaxnV1_idPvBoKqmg1DRlWI7ODNScote5VadHBFOZtIllqN0aT1Ejg8aogdUS7o4_yz8ABfFGPPZkyIRsB4DWp49Hfk3BfD46hwXvEVEGXGsfVRijb17oTRgaIsM&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQFnoECEcQAQ&uoh=1",
+      "displayed_link": "https://www.sap.com › croatia › products › hcm › recru...",
+      "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAACQBACdASocABwAPtEutFooIagoGAEAGglsAHeh9VAljWAKbqk5l59KWCNLkAAA_v7CHn43_jeu87uf__XQWdPr_-Tf_YNf__n_uHXT38vtTa0kULPj7mb4eVeVGuPUpE11tZMBEgOS6pfpACZeOQ_fTZX1AVQ14h235dsRV2PB_G-cuaGSvF6KZsdHjEq8S1hZS5mAHqSkgAAA.webp",
+      "snippet": "Attract, hire and onboard top talent with an AI-first applicant tracking system and recruiting platform natively connected to SAP SuccessFactors.",
+      "snippet_highlighted_words": [
+        "AI-first applicant tracking system"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Attract, hire and onboard top talent with an AI-first applicant tracking system and recruiting platform natively connected to SAP SuccessFactors.",
+          "source_info_link": "https://www.sap.com/croatia/products/hcm/recruiting-software.html",
+          "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAACQBACdASocABwAPtEutFooIagoGAEAGglsAHeh9VAljWAKbqk5l59KWCNLkAAA_v7CHn43_jeu87uf__XQWdPr_-Tf_YNf__n_uHXT38vtTa0kULPj7mb4eVeVGuPUpE11tZMBEgOS6pfpACZeOQ_fTZX1AVQ14h235dsRV2PB_G-cuaGSvF6KZsdHjEq8S1hZS5mAHqSkgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVlpwaXFwaEZuYlEzRzZyekpJRzM1VDdtc0JybEh3ODFFYXhuVjFfaWRQdkJvS3FtZzFEUmxXSTdPRE5TY290ZTVWYWRIQkZPWnRJbGxxTjBhVDFFamc4YW9nZFVTN280X3l6OEFCZkZHUFBaa3lJUnNCNERXcDQ5SGZrM0JmRDQ2aHdYdkVWRUdYR3NmVlJpamIxN29UUmdhSXNNEgQaAggAGvcGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNMGCAAQABgAIAAqGQoDdG9wFeIvAEAaBGJlc3QaB2xlYWRpbmcqagoJYXBwbGljYW50FXYEG0AaC2FwcGxpY2F0aW9uGgNhdHMaCWNhbmRpZGF0ZRoRYXBwbGljYW50dHJhY2tpbmcaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoOaXY7cDthcHBsaWNhbnQqagoIdHJhY2tpbmcVdgQbQBoDYXRzGgx0cmFjZWFiaWxpdHkaCHRyYWNrZXJzGhFhcHBsaWNhbnR0cmFja2luZxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg90cmFja2luZ3N5c3RlbXMqZgoHc3lzdGVtcxUeUQM_GgZkZXZpY2UaB2RldmljZXMaCHNvZnR3YXJlGgZzeXN0ZW0aCHRyYWNrZXJzGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaD3RyYWNraW5nc3lzdGVtcyoKCgNmb3IVAAAAACo6CgpyZWNydWl0ZXJzFbyloj8aCXJlY3J1aXRlchoLcmVjcnVpdG1lbnQaD2l2O3A7cmVjcnVpdGVyczKxAS9nb3RvP3VybD1DQUVTZVFIck96QVZacGlxcGhGbmJRM0c2cnpKSUczNVQ3bXNCcmxIdzgxRWF4blYxX2lkUHZCb0txbWcxRFJsV0k3T0ROU2NvdGU1VmFkSEJGT1p0SWxscU4wYVQxRWpnOGFvZ2RVUzdvNF95ejhBQmZGR1BQWmt5SVJzQjREV3A0OUhmazNCZkQ0Nmh3WHZFVkVHWEdzZlZSaWpiMTdvVFJnYUlzTTpMQUkgUmVjcnVpdGluZyA8Yj5Tb2Z0d2FyZTwvYj4gJmFtcDsgPGI-QVRTIFNtYXJ0UmVjcnVpdGVyczwvYj4gZm9yIC4uLiAtIFNBUEKYAUF0dHJhY3QsIGhpcmUgYW5kIG9uYm9hcmQgdG9wIHRhbGVudCB3aXRoIGFuIDxiPkFJLWZpcnN0IGFwcGxpY2FudCB0cmFja2luZyBzeXN0ZW08L2I-IGFuZCByZWNydWl0aW5nIHBsYXRmb3JtIG5hdGl2ZWx5IGNvbm5lY3RlZCB0byBTQVAgU3VjY2Vzc0ZhY3RvcnMuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVlpwaXFwaEZuYlEzRzZyekpJRzM1VDdtc0JybEh3ODFFYXhuVjFfaWRQdkJvS3FtZzFEUmxXSTdPRE5TY290ZTVWYWRIQkZPWnRJbGxxTjBhVDFFamc4YW9nZFVTN280X3l6OEFCZkZHUFBaa3lJUnNCNERXcDQ5SGZrM0JmRDQ2aHdYdkVWRUdYR3NmVlJpamIxN29UUmdhSXNNEgQaAggAGvcGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNMGCAAQABgAIAAqGQoDdG9wFeIvAEAaBGJlc3QaB2xlYWRpbmcqagoJYXBwbGljYW50FXYEG0AaC2FwcGxpY2F0aW9uGgNhdHMaCWNhbmRpZGF0ZRoRYXBwbGljYW50dHJhY2tpbmcaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoOaXY7cDthcHBsaWNhbnQqagoIdHJhY2tpbmcVdgQbQBoDYXRzGgx0cmFjZWFiaWxpdHkaCHRyYWNrZXJzGhFhcHBsaWNhbnR0cmFja2luZxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg90cmFja2luZ3N5c3RlbXMqZgoHc3lzdGVtcxUeUQM_GgZkZXZpY2UaB2RldmljZXMaCHNvZnR3YXJlGgZzeXN0ZW0aCHRyYWNrZXJzGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaD3RyYWNraW5nc3lzdGVtcyoKCgNmb3IVAAAAACo6CgpyZWNydWl0ZXJzFbyloj8aCXJlY3J1aXRlchoLcmVjcnVpdG1lbnQaD2l2O3A7cmVjcnVpdGVyczKxAS9nb3RvP3VybD1DQUVTZVFIck96QVZacGlxcGhGbmJRM0c2cnpKSUczNVQ3bXNCcmxIdzgxRWF4blYxX2lkUHZCb0txbWcxRFJsV0k3T0ROU2NvdGU1VmFkSEJGT1p0SWxscU4wYVQxRWpnOGFvZ2RVUzdvNF95ejhBQmZGR1BQWmt5SVJzQjREV3A0OUhmazNCZkQ0Nmh3WHZFVkVHWEdzZlZSaWpiMTdvVFJnYUlzTTpMQUkgUmVjcnVpdGluZyA8Yj5Tb2Z0d2FyZTwvYj4gJmFtcDsgPGI-QVRTIFNtYXJ0UmVjcnVpdGVyczwvYj4gZm9yIC4uLiAtIFNBUEKYAUF0dHJhY3QsIGhpcmUgYW5kIG9uYm9hcmQgdG9wIHRhbGVudCB3aXRoIGFuIDxiPkFJLWZpcnN0IGFwcGxpY2FudCB0cmFja2luZyBzeXN0ZW08L2I-IGFuZCByZWNydWl0aW5nIHBsYXRmb3JtIG5hdGl2ZWx5IGNvbm5lY3RlZCB0byBTQVAgU3VjY2Vzc0ZhY3RvcnMuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "SAP"
+    },
+    {
+      "position": 8,
+      "title": "A Guide for Enterprise Applicant Tracking Systems",
+      "link": "https://www.smartrecruiters.com/resources/nurture/a-guide-for-enterprise-applicant-tracking-systems/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFYOcpV1922H26C2hYladbkFB-HV9N-g7XlEV9vvb99UU_d-PnctiK5DzF1Hu10DLGkp9EpJ5CrqTxmAcXzgPFs8Yf2gSvSntJYLntjqOlhlpa0AF1wHd2sDQy73ZM9cvTgPzQkU3Bo3IQzIftBYqUNkoq31JQja3xDOvjjd0bLQY_Gy3lT1b8qswIbeSR14GZz_RPPYDMLQ&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQFnoECEEQAQ&uoh=1",
+      "displayed_link": "https://www.smartrecruiters.com › ... › Talent Acquisition",
+      "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAABQBgCdASocABwAPtEwtFooIigoGAEAGglsALD6JJI9Y24vaxvttO4XEsL971v3ZbRYDAirNe_g-diyAAD-9gYdQWWvRQR_JRmZKlT_UKj5oxilT5xolKOgov0ojsE1C9Sq60PcXdEzKZHfabE4anv8lenfh4erfpPeNmvWGkXraaEAg9XgeTxpk74MleuzpIabEQjj1vglUDroI4MnbipXIAWd_rcPIoZ7-zF8FIezW7cC902esVnT3h_zTw197B_b-_VUxudyqzejHiQ9BjEgsc_2nhMY2rLdVALH_ysjTCiLbdnfY9NBgKBGVOlkcnsozhOYtDTjMiK7MoxzRu_PrV5nfjUpTfeC3pRxUarnwQn4Q_1PwNdLQ63x5Nr67bJI6S73ck3tHYAA.webp",
+      "date": "Jun 13, 2025",
+      "snippet": "Applicant tracking systems (ATS) increase the efficiency of recruiting and hiring new talent for an enterprise.",
+      "snippet_highlighted_words": [
+        "Applicant tracking systems (ATS"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Applicant tracking systems (ATS) increase the efficiency of recruiting and hiring new talent for an enterprise.",
+          "source_info_link": "https://www.smartrecruiters.com/resources/nurture/a-guide-for-enterprise-applicant-tracking-systems/",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAABQBgCdASocABwAPtEwtFooIigoGAEAGglsALD6JJI9Y24vaxvttO4XEsL971v3ZbRYDAirNe_g-diyAAD-9gYdQWWvRQR_JRmZKlT_UKj5oxilT5xolKOgov0ojsE1C9Sq60PcXdEzKZHfabE4anv8lenfh4erfpPeNmvWGkXraaEAg9XgeTxpk74MleuzpIabEQjj1vglUDroI4MnbipXIAWd_rcPIoZ7-zF8FIezW7cC902esVnT3h_zTw197B_b-_VUxudyqzejHiQ9BjEgsc_2nhMY2rLdVALH_ysjTCiLbdnfY9NBgKBGVOlkcnsozhOYtDTjMiK7MoxzRu_PrV5nfjUpTfeC3pRxUarnwQn4Q_1PwNdLQ63x5Nr67bJI6S73ck3tHYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZZT2NwVjE5MjJIMjZDMmhZbGFkYmtGQi1IVjlOLWc3WGxFVjl2dmI5OVVVX2QtUG5jdGlLNUR6RjFIdTEwRExHa3A5RXBKNUNycVR4bUFjWHpnUEZzOFlmMmdTdlNudEpZTG50anFPbGhscGEwQUYxd0hkMnNEUXk3M1pNOWN2VGdQelFrVTNCbzNJUXpJZnRCWXFVTmtvcTMxSlFqYTN4RE92ampkMGJMUVlfR3kzbFQxYjhxc3dJYmVTUjE0R1p6X1JQUFlETUxREgQaAggAGvAGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMwGCAAQABgAIAAqGQoDdG9wFQAAAAAaBGJlc3QaB2xlYWRpbmcqagoJYXBwbGljYW50FUAprUAaC2FwcGxpY2F0aW9uGgNhdHMaCWNhbmRpZGF0ZRoRYXBwbGljYW50dHJhY2tpbmcaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoOaXY7cDthcHBsaWNhbnQqagoIdHJhY2tpbmcVQCmtQBoDYXRzGgx0cmFjZWFiaWxpdHkaCHRyYWNrZXJzGhFhcHBsaWNhbnR0cmFja2luZxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg90cmFja2luZ3N5c3RlbXMqZgoHc3lzdGVtcxVmJp1AGgZkZXZpY2UaB2RldmljZXMaCHNvZnR3YXJlGgZzeXN0ZW0aCHRyYWNrZXJzGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaD3RyYWNraW5nc3lzdGVtcyoKCgNmb3IVAAAAACo6CgpyZWNydWl0ZXJzFQAAAD8aCXJlY3J1aXRlchoLcmVjcnVpdG1lbnQaD2l2O3A7cmVjcnVpdGVyczLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGWU9jcFYxOTIySDI2QzJoWWxhZGJrRkItSFY5Ti1nN1hsRVY5dnZiOTlVVV9kLVBuY3RpSzVEekYxSHUxMERMR2twOUVwSjVDcnFUeG1BY1h6Z1BGczhZZjJnU3ZTbnRKWUxudGpxT2xobHBhMEFGMXdIZDJzRFF5NzNaTTljdlRnUHpRa1UzQm8zSVF6SWZ0QllxVU5rb3EzMUpRamEzeERPdmpqZDBiTFFZX0d5M2xUMWI4cXN3SWJlU1IxNEdael9SUFBZRE1MUTo4QSBHdWlkZSBmb3IgRW50ZXJwcmlzZSA8Yj5BcHBsaWNhbnQgVHJhY2tpbmcgU3lzdGVtczwvYj5CdjxiPkFwcGxpY2FudCB0cmFja2luZyBzeXN0ZW1zIChBVFM8L2I-KSBpbmNyZWFzZSB0aGUgZWZmaWNpZW5jeSBvZiByZWNydWl0aW5nIGFuZCBoaXJpbmcgbmV3IHRhbGVudCBmb3IgYW4gZW50ZXJwcmlzZS5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZZT2NwVjE5MjJIMjZDMmhZbGFkYmtGQi1IVjlOLWc3WGxFVjl2dmI5OVVVX2QtUG5jdGlLNUR6RjFIdTEwRExHa3A5RXBKNUNycVR4bUFjWHpnUEZzOFlmMmdTdlNudEpZTG50anFPbGhscGEwQUYxd0hkMnNEUXk3M1pNOWN2VGdQelFrVTNCbzNJUXpJZnRCWXFVTmtvcTMxSlFqYTN4RE92ampkMGJMUVlfR3kzbFQxYjhxc3dJYmVTUjE0R1p6X1JQUFlETUxREgQaAggAGvAGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMwGCAAQABgAIAAqGQoDdG9wFQAAAAAaBGJlc3QaB2xlYWRpbmcqagoJYXBwbGljYW50FUAprUAaC2FwcGxpY2F0aW9uGgNhdHMaCWNhbmRpZGF0ZRoRYXBwbGljYW50dHJhY2tpbmcaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoOaXY7cDthcHBsaWNhbnQqagoIdHJhY2tpbmcVQCmtQBoDYXRzGgx0cmFjZWFiaWxpdHkaCHRyYWNrZXJzGhFhcHBsaWNhbnR0cmFja2luZxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg90cmFja2luZ3N5c3RlbXMqZgoHc3lzdGVtcxVmJp1AGgZkZXZpY2UaB2RldmljZXMaCHNvZnR3YXJlGgZzeXN0ZW0aCHRyYWNrZXJzGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaD3RyYWNraW5nc3lzdGVtcyoKCgNmb3IVAAAAACo6CgpyZWNydWl0ZXJzFQAAAD8aCXJlY3J1aXRlchoLcmVjcnVpdG1lbnQaD2l2O3A7cmVjcnVpdGVyczLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGWU9jcFYxOTIySDI2QzJoWWxhZGJrRkItSFY5Ti1nN1hsRVY5dnZiOTlVVV9kLVBuY3RpSzVEekYxSHUxMERMR2twOUVwSjVDcnFUeG1BY1h6Z1BGczhZZjJnU3ZTbnRKWUxudGpxT2xobHBhMEFGMXdIZDJzRFF5NzNaTTljdlRnUHpRa1UzQm8zSVF6SWZ0QllxVU5rb3EzMUpRamEzeERPdmpqZDBiTFFZX0d5M2xUMWI4cXN3SWJlU1IxNEdael9SUFBZRE1MUTo4QSBHdWlkZSBmb3IgRW50ZXJwcmlzZSA8Yj5BcHBsaWNhbnQgVHJhY2tpbmcgU3lzdGVtczwvYj5CdjxiPkFwcGxpY2FudCB0cmFja2luZyBzeXN0ZW1zIChBVFM8L2I-KSBpbmNyZWFzZSB0aGUgZWZmaWNpZW5jeSBvZiByZWNydWl0aW5nIGFuZCBoaXJpbmcgbmV3IHRhbGVudCBmb3IgYW4gZW50ZXJwcmlzZS5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "SmartRecruiters"
+    },
+    {
+      "position": 9,
+      "title": "The Best AI Recruitment Tools for UK HR Teams",
+      "link": "https://www.orielpartners.co.uk/blog/best-ai-tools-recruitment",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVtpPhdHgXBJpRUt6tBXR8qbax3XXJgHNVE19FJ4Rd8fUKO0TLMjYO7V3ggBah215Bgmod0nh-4RNqNYnwP6sct-N-HupIAH9D_qWn5dlnI87zrzJ0my8RDhUNhj2Zg0miLrknDVYOoXMPzPeh8GEesqc&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQFnoECEIQAQ&uoh=1",
+      "displayed_link": "https://www.orielpartners.co.uk › blog › best-ai-tools-re...",
+      "favicon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAACwBQCdASocABwAPtEwtFooIigoGAEAGglAGFQkBU0e7FA2Uz0YjhJP3AbFJ0-7R9wUStjvoQAA_vYRF8gchS6-h3E7WcxtWnx8h_qAbtYjaQyxolFlj_V0jwOJm-zzbGdGZqiQNMji5LOf3lZCS1Dms97o6J5-Vr6a4l_Y7l4VWXafde8b3kI0YgNUcxcupbuydnl_pqPOEdvIv_43N2S0Kk94mP-JlITPHPshS62xlCukszVCL9A6Jwjza_b5gqp2w33eppGEnVAV9CdHuMIdnvd-l-etuCHmoz1lz8c8d7Ofhg-R8XatNM2j8zLRW-Cm7rrlFRE0SlwURpJMa3axdELVi5o-61ned0jo8RqV1yPz53NABw-_aejAAAAA.webp",
+      "date": "Aug 10, 2026",
+      "snippet": "A UK-specific comparison of AI recruitment tools for 2026, evaluated for hiring teams, with pricing, best-fit use cases and honest ...",
+      "snippet_highlighted_words": [
+        "AI recruitment tools for 2026"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "A UK-specific comparison of AI recruitment tools for 2026, evaluated for hiring teams, with pricing, best-fit use cases and honest ...",
+          "source_info_link": "https://www.orielpartners.co.uk/blog/best-ai-tools-recruitment",
+          "icon": "https://serpapi.com/images/i/UklGRioBAABXRUJQVlA4IB4BAACwBQCdASocABwAPtEwtFooIigoGAEAGglAGFQkBU0e7FA2Uz0YjhJP3AbFJ0-7R9wUStjvoQAA_vYRF8gchS6-h3E7WcxtWnx8h_qAbtYjaQyxolFlj_V0jwOJm-zzbGdGZqiQNMji5LOf3lZCS1Dms97o6J5-Vr6a4l_Y7l4VWXafde8b3kI0YgNUcxcupbuydnl_pqPOEdvIv_43N2S0Kk94mP-JlITPHPshS62xlCukszVCL9A6Jwjza_b5gqp2w33eppGEnVAV9CdHuMIdnvd-l-etuCHmoz1lz8c8d7Ofhg-R8XatNM2j8zLRW-Cm7rrlFRE0SlwURpJMa3axdELVi5o-61ned0jo8RqV1yPz53NABw-_aejAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVnRwUGhkSGdYQkpwUlV0NnRCWFI4cWJheDNYWEpnSE5WRTE5Rko0UmQ4ZlVLTzBUTE1qWU83VjNnZ0JhaDIxNUJnbW9kMG5oLTRSTnFOWW53UDZzY3QtTi1IdXBJQUg5RF9xV241ZGxuSTg3enJ6SjBteThSRGhVTmhqMlpnMG1pTHJrbkRWWU9vWE1QelBlaDhHRWVzcWMSBBoCCAAa7QYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAyQYIABAAGAAgACoZCgN0b3AVytb5PhoEYmVzdBoHbGVhZGluZypqCglhcHBsaWNhbnQVzao0PxoLYXBwbGljYXRpb24aA2F0cxoJY2FuZGlkYXRlGhFhcHBsaWNhbnR0cmFja2luZxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg5pdjtwO2FwcGxpY2FudCpqCgh0cmFja2luZxXNqrQ-GgNhdHMaDHRyYWNlYWJpbGl0eRoIdHJhY2tlcnMaEWFwcGxpY2FudHRyYWNraW5nGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaD3RyYWNraW5nc3lzdGVtcypmCgdzeXN0ZW1zFQAAAAAaBmRldmljZRoHZGV2aWNlcxoIc29mdHdhcmUaBnN5c3RlbRoIdHJhY2tlcnMaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoPdHJhY2tpbmdzeXN0ZW1zKgoKA2ZvchUAAAAAKjoKCnJlY3J1aXRlcnMVZD-PPhoJcmVjcnVpdGVyGgtyZWNydWl0bWVudBoPaXY7cDtyZWNydWl0ZXJzMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVnRwUGhkSGdYQkpwUlV0NnRCWFI4cWJheDNYWEpnSE5WRTE5Rko0UmQ4ZlVLTzBUTE1qWU83VjNnZ0JhaDIxNUJnbW9kMG5oLTRSTnFOWW53UDZzY3QtTi1IdXBJQUg5RF9xV241ZGxuSTg3enJ6SjBteThSRGhVTmhqMlpnMG1pTHJrbkRWWU9vWE1QelBlaDhHRWVzcWM6TFRoZSA8Yj5CZXN0PC9iPiBBSSA8Yj5SZWNydWl0bWVudDwvYj4gVG9vbHMgZm9yIFVLIEhSIFRlYW1zIC0gT3JpZWwgUGFydG5lcnNCkgFBIFVLLXNwZWNpZmljIGNvbXBhcmlzb24gb2YgPGI-QUkgcmVjcnVpdG1lbnQgdG9vbHMgZm9yIDIwMjY8L2I-LCBldmFsdWF0ZWQgZm9yIGhpcmluZyB0ZWFtcywgd2l0aCBwcmljaW5nLCBiZXN0LWZpdCB1c2UgY2FzZXMgYW5kIGhvbmVzdCZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVnRwUGhkSGdYQkpwUlV0NnRCWFI4cWJheDNYWEpnSE5WRTE5Rko0UmQ4ZlVLTzBUTE1qWU83VjNnZ0JhaDIxNUJnbW9kMG5oLTRSTnFOWW53UDZzY3QtTi1IdXBJQUg5RF9xV241ZGxuSTg3enJ6SjBteThSRGhVTmhqMlpnMG1pTHJrbkRWWU9vWE1QelBlaDhHRWVzcWMSBBoCCAAa7QYSABoAIgAqADIGCAISAnVzOgBCBAgBEABKAFoAcgB6AIJAyQYIABAAGAAgACoZCgN0b3AVytb5PhoEYmVzdBoHbGVhZGluZypqCglhcHBsaWNhbnQVzao0PxoLYXBwbGljYXRpb24aA2F0cxoJY2FuZGlkYXRlGhFhcHBsaWNhbnR0cmFja2luZxoYYXBwbGljYW50dHJhY2tpbmdzeXN0ZW1zGg5pdjtwO2FwcGxpY2FudCpqCgh0cmFja2luZxXNqrQ-GgNhdHMaDHRyYWNlYWJpbGl0eRoIdHJhY2tlcnMaEWFwcGxpY2FudHRyYWNraW5nGhhhcHBsaWNhbnR0cmFja2luZ3N5c3RlbXMaD3RyYWNraW5nc3lzdGVtcypmCgdzeXN0ZW1zFQAAAAAaBmRldmljZRoHZGV2aWNlcxoIc29mdHdhcmUaBnN5c3RlbRoIdHJhY2tlcnMaGGFwcGxpY2FudHRyYWNraW5nc3lzdGVtcxoPdHJhY2tpbmdzeXN0ZW1zKgoKA2ZvchUAAAAAKjoKCnJlY3J1aXRlcnMVZD-PPhoJcmVjcnVpdGVyGgtyZWNydWl0bWVudBoPaXY7cDtyZWNydWl0ZXJzMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVnRwUGhkSGdYQkpwUlV0NnRCWFI4cWJheDNYWEpnSE5WRTE5Rko0UmQ4ZlVLTzBUTE1qWU83VjNnZ0JhaDIxNUJnbW9kMG5oLTRSTnFOWW53UDZzY3QtTi1IdXBJQUg5RF9xV241ZGxuSTg3enJ6SjBteThSRGhVTmhqMlpnMG1pTHJrbkRWWU9vWE1QelBlaDhHRWVzcWM6TFRoZSA8Yj5CZXN0PC9iPiBBSSA8Yj5SZWNydWl0bWVudDwvYj4gVG9vbHMgZm9yIFVLIEhSIFRlYW1zIC0gT3JpZWwgUGFydG5lcnNCkgFBIFVLLXNwZWNpZmljIGNvbXBhcmlzb24gb2YgPGI-QUkgcmVjcnVpdG1lbnQgdG9vbHMgZm9yIDIwMjY8L2I-LCBldmFsdWF0ZWQgZm9yIGhpcmluZyB0ZWFtcywgd2l0aCBwcmljaW5nLCBiZXN0LWZpdCB1c2UgY2FzZXMgYW5kIGhvbmVzdCZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Oriel Partners"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+applicant+tracking+systems+for+recruiters&sca_esv=6dacb47cd9b525ae&hl=en&gl=us&sxsrf=APpeQnuP3j08JXpXOllZ6d0h27HFIy-hDw:1790337760389&ei=4GK2aqixF8DTp84Pp82C0Ak&start=10&sa=N&sstk=AS6-VmJz5FGH9-oafeFWHEUxb9HpNqi7rjohTir8BhBnqHh-_WEWZtRxUtcSRZdn5Qw2KF0r4i3R61csw2EFuGiChhZbIkTv7_dlfg&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQ8NMDegQIQBAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+applicant+tracking+systems+for+recruiters&sca_esv=6dacb47cd9b525ae&hl=en&gl=us&sxsrf=APpeQnuP3j08JXpXOllZ6d0h27HFIy-hDw:1790337760389&ei=4GK2aqixF8DTp84Pp82C0Ak&start=10&sa=N&sstk=AS6-VmJz5FGH9-oafeFWHEUxb9HpNqi7rjohTir8BhBnqHh-_WEWZtRxUtcSRZdn5Qw2KF0r4i3R61csw2EFuGiChhZbIkTv7_dlfg&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQ8tMDegQIQBAE",
+      "3": "https://www.google.com/search?q=top+applicant+tracking+systems+for+recruiters&sca_esv=6dacb47cd9b525ae&hl=en&gl=us&sxsrf=APpeQnuP3j08JXpXOllZ6d0h27HFIy-hDw:1790337760389&ei=4GK2aqixF8DTp84Pp82C0Ak&start=20&sa=N&sstk=AS6-VmJz5FGH9-oafeFWHEUxb9HpNqi7rjohTir8BhBnqHh-_WEWZtRxUtcSRZdn5Qw2KF0r4i3R61csw2EFuGiChhZbIkTv7_dlfg&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQ8tMDegQIQBAG",
+      "4": "https://www.google.com/search?q=top+applicant+tracking+systems+for+recruiters&sca_esv=6dacb47cd9b525ae&hl=en&gl=us&sxsrf=APpeQnuP3j08JXpXOllZ6d0h27HFIy-hDw:1790337760389&ei=4GK2aqixF8DTp84Pp82C0Ak&start=30&sa=N&sstk=AS6-VmJz5FGH9-oafeFWHEUxb9HpNqi7rjohTir8BhBnqHh-_WEWZtRxUtcSRZdn5Qw2KF0r4i3R61csw2EFuGiChhZbIkTv7_dlfg&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQ8tMDegQIQBAI",
+      "5": "https://www.google.com/search?q=top+applicant+tracking+systems+for+recruiters&sca_esv=6dacb47cd9b525ae&hl=en&gl=us&sxsrf=APpeQnuP3j08JXpXOllZ6d0h27HFIy-hDw:1790337760389&ei=4GK2aqixF8DTp84Pp82C0Ak&start=40&sa=N&sstk=AS6-VmJz5FGH9-oafeFWHEUxb9HpNqi7rjohTir8BhBnqHh-_WEWZtRxUtcSRZdn5Qw2KF0r4i3R61csw2EFuGiChhZbIkTv7_dlfg&ved=2ahUKEwioofHx14mXAxXA6ckDHaemAJoQ8tMDegQIQBAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+applicant+tracking+systems+for+recruiters&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+applicant+tracking+systems+for+recruiters&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+applicant+tracking+systems+for+recruiters&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+applicant+tracking+systems+for+recruiters&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+applicant+tracking+systems+for+recruiters&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+applicant+tracking+systems+for+recruiters&start=40"
+    }
+  }
+}

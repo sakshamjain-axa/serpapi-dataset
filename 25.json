@@ -1,0 +1,382 @@
+{
+  "search_metadata": {
+    "id": "6ab647fb1dcfe22a28ead34c",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/2FMWqHy6G6JbuLDUSQqDcPgYc6WOYTiTFrQ_Puvny_k/6ab647fb1dcfe22a28ead34c.json",
+    "markdown_endpoint": "https://serpapi.com/searches/2FMWqHy6G6JbuLDUSQqDcPgYc6WOYTiTFrQ_Puvny_k/6ab647fb1dcfe22a28ead34c.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/2FMWqHy6G6JbuLDUSQqDcPgYc6WOYTiTFrQ_Puvny_k/6ab647fb1dcfe22a28ead34c.json_with_pixel_position",
+    "created_at": "2026-09-25 10:07:55 UTC",
+    "processed_at": "2026-09-25 10:07:55 UTC",
+    "google_url": "https://www.google.com/search?q=best+cloud+storage+solutions+for+enterprise&oq=best+cloud+storage+solutions+for+enterprise&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/2FMWqHy6G6JbuLDUSQqDcPgYc6WOYTiTFrQ_Puvny_k/6ab647fb1dcfe22a28ead34c.html",
+    "total_time_taken": 41.16
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best cloud storage solutions for enterprise",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best cloud storage solutions for enterprise",
+    "total_results": 16720000000,
+    "time_taken_displayed": 0.18,
+    "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+    "spelling_fix": "best cloud storage solutions for enterprise",
+    "showing_results_for": "best cloud storage solutions for enterprise"
+  },
+  "related_questions": [
+    {
+      "question": "What are the best cloud storage solutions for small businesses?",
+      "type": "ai_overview",
+      "page_token": "j4FoMnicHdBfToMwAIDxeBkfHX8G6pLFBMFNpJ2UtnR9MV3LxtYCnWPiePMunsrTaDzB98v39W32rf65-qj73p5mk8kwDDe7rtuZ6kZ2zUScLq2cSGHMRkg9C29D92Er58n5OXo8Pkc5sZbGyMEL93VVcrz2gjNdqpB69XF9iI5Awxi7u0CQgCrGp1Vzv1eYZ7K1U0w5EI5tqIPCgjxBhOshKxxXLJ4MdBSHPgQZq3tFOSHJyS9b_gg88y4TGq1o3W_aCBYtmv61qSiJj5JAFxfHQeYeQC-AIKFjqflx49dpzlJdxqnImYmKxhnwaEag1SBL91yx_EIPKiy8FAjSM6FtlNTqBZX6smZpVmmq_-wWJ25eMb4kMYoQ6vY5QaM8mIaMEKvFJ6O-XYHGdHABl8xXhLh3rhhlUMUoU8P1Vn7M_ev_n_O3bdPP7Hu3-wXz9IKE",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=j4FoMnicHdBfToMwAIDxeBkfHX8G6pLFBMFNpJ2UtnR9MV3LxtYCnWPiePMunsrTaDzB98v39W32rf65-qj73p5mk8kwDDe7rtuZ6kZ2zUScLq2cSGHMRkg9C29D92Er58n5OXo8Pkc5sZbGyMEL93VVcrz2gjNdqpB69XF9iI5Awxi7u0CQgCrGp1Vzv1eYZ7K1U0w5EI5tqIPCgjxBhOshKxxXLJ4MdBSHPgQZq3tFOSHJyS9b_gg88y4TGq1o3W_aCBYtmv61qSiJj5JAFxfHQeYeQC-AIKFjqflx49dpzlJdxqnImYmKxhnwaEag1SBL91yx_EIPKiy8FAjSM6FtlNTqBZX6smZpVmmq_-wWJ25eMb4kMYoQ6vY5QaM8mIaMEKvFJ6O-XYHGdHABl8xXhLh3rhhlUMUoU8P1Vn7M_ev_n_O3bdPP7Hu3-wXz9IKE",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldXTmhOakpPVWtOd1lWbFFkeTFYUW5wM01HZExRMVJqT0UxTFdFMHphRzlEWjJoRFl6RnFZalZoTjNCeFUzRXdhM2RwVm1kT2IzUmFVVzVoTkdGVWRGVnVWbGs0YzJKS1dXWkVlWEZmU1hGQ1ptRmlNV2t4ZDFod1FSSVhTa1ZwTW1GeVMzcEZaSFYyYVV4TlVIbDJSMUEwUVVVYUlrRkVjM0k1WmxKMFVDMXlNblpLY0hVelZUVllTMUZ5UWxoSFZUUTViblUxYUhjIiwiZmN2IjoiMyIsImVpIjoiSkVpMmFyS3pFZHV2aUxNUHl2R1A0QUUiLCJxYyI6IkNpdGlaWE4wSUdOc2IzVmtJSE4wYjNKaFoyVWdjMjlzZFhScGIyNXpJR1p2Y2lCbGJuUmxjbkJ5YVhObEVBQjlhSHBFUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IGNsb3VkIHN0b3JhZ2Ugc29sdXRpb25zIGZvciBzbWFsbCBidXNpbmVzc2VzPyIsImxrIjoiR2lCamJHOTFaQ0J6ZEc5eVlXZGxJR1p2Y2lCemJXRnNiQ0JpZFhOcGJtVnpjdyIsImJzIjoiYzJYTE1RNkFJQkFFd05oU1dWdHRmSUlmNEJuV2g1NUNnbHpDSHYtMzEzNG1hSWg3Rm9kMGhXZEZVanFPYXVNRTNicmNDbG9kWHF3UmwzWHdrVnFSQmt0VFVobTNkZm1FUDV1bkZ3IiwiaWQiOiJmY19KRWkyYXJLekVkdXZpTE1QeXZHUDRBRV8yIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSldXTmhOakpPVWtOd1lWbFFkeTFYUW5wM01HZExRMVJqT0UxTFdFMHphRzlEWjJoRFl6RnFZalZoTjNCeFUzRXdhM2RwVm1kT2IzUmFVVzVoTkdGVWRGVnVWbGs0YzJKS1dXWkVlWEZmU1hGQ1ptRmlNV2t4ZDFod1FSSVhTa1ZwTW1GeVMzcEZaSFYyYVV4TlVIbDJSMUEwUVVVYUlrRkVjM0k1WmxKMFVDMXlNblpLY0hVelZUVllTMUZ5UWxoSFZUUTViblUxYUhjIiwiZmN2IjoiMyIsImVpIjoiSkVpMmFyS3pFZHV2aUxNUHl2R1A0QUUiLCJxYyI6IkNpdGlaWE4wSUdOc2IzVmtJSE4wYjNKaFoyVWdjMjlzZFhScGIyNXpJR1p2Y2lCbGJuUmxjbkJ5YVhObEVBQjlhSHBFUHciLCJxdWVzdGlvbiI6IldoYXQgYXJlIHRoZSBiZXN0IGNsb3VkIHN0b3JhZ2Ugc29sdXRpb25zIGZvciBzbWFsbCBidXNpbmVzc2VzPyIsImxrIjoiR2lCamJHOTFaQ0J6ZEc5eVlXZGxJR1p2Y2lCemJXRnNiQ0JpZFhOcGJtVnpjdyIsImJzIjoiYzJYTE1RNkFJQkFFd05oU1dWdHRmSUlmNEJuV2g1NUNnbHpDSHYtMzEzNG1hSWg3Rm9kMGhXZEZVanFPYXVNRTNicmNDbG9kWHF3UmwzWHdrVnFSQmt0VFVobTNkZm1FUDV1bkZ3IiwiaWQiOiJmY19KRWkyYXJLekVkdXZpTE1QeXZHUDRBRV8yIn0%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "L8ErN3iczVXZcuI4FP2A-Y7xCwm22QKpcnVJQoDZgs2ShBfKG8LghbEwDrzNv8xXzev8yMjGgEkDne6HqVGVkXx9N0nncP78y7G91d-__bPYbNb0meejKMoT3yeOlTd8l9fozjP4ue_QwFh8I44UUm7hSJbHhaFjSVEOAVmRkRxMCo291nTCaVHd6vYHVnbAHzYb3vStvTebtSKz9VW0opPX8tpsTlZyoy-8v6mOEXG7rVTkDCoJnGVLbWwXtKCzx2a4tbu9wW7bHJQA5pJGpJmuUWvJ-vxYUn7Gs5_V78U6e8nTvOXlda9aeBrtgW7TfEEQa_kXXnOZA_jPBgQyUAACgLAJ3_ZrfikbxnEipGRMBKWfTpZ67MPGipVm42ZZmMZihRzi69G-GhXZWji6XFTKDvkyaYMcMkKSJEJI_tJ2jkNJdwCPZW-73viURnbO_UFwXt-p_H6ZnQA8JxCeg7LBzLy4aFo-XlsZwNIAoBYC_p1iAPmg7ipQVsA9KCSeARpH6boLRLZt3iQMuAKvB2wSedtYGMkioDGe0agm-I1dY10j2nCizkDvozNqraJtWZlMRbIivKEzP8fXTMucLWbCt-RdLIhloVZ8qj4kRDLoiUk0y6Re29WXhWAriH6-m4fikUbodD6frgWz96sYgCh1vXqP8Gw_XR8GpJNx8U956gy25ID0Y4ivGPGid7RUE16VsrWO507AdRp9dopplPSCD_BMP2VCIUD296HxKF3Z4qdDgcA4t3AAEySnRJ8OyQaqfNrwJXATg4IIixqzw-mStCXjolUAz6xIE8kg_sMGJCXwyX5wlEkmAI_ZE0MeIwUBFWGogGHqriQROK3FDiRzL-AGFuKWMXjFdwl6ezS-4MNok_LlE_yztGmNqT0d6tbc3JgLaqKZrrc7Fdrfa7ZynSa-q_-E4hj_JyKd9Mg_CMMtIlnx4odEYqQg9_Qo-TnrUTuexhjfIpKdoPZ7PaoeXTKVLg9FhjhLpESPILmlRz9LJHSbSOgukTrXiCTfIVKsR5dEWl3oEbquRyci_YoeNX5RjxJeWYfpUpzCJbktUq3CaKTCYn8x2wthJ9Df6cT2l9VH0o1-KFJzd_PsaqbzMLPNZ1hob3bmw4wZ_GfL5P6QdItucobjh2aObvxAI1aO-k64sX2P5uZ-kLO8jRWsA5tanOsEviRolTUYKGpYq26nQvWxNHcbM2-K35XwaV0r7u1h8QWLMlH7ZqPprfWJ--4Iok5QvTINvdF6uCwWLKvsvEJHN98Ud73pdhy7HI0_loVB77W7XO17dv0RddVO_wUVyZPQrSzLj8M5Gg_etA-vVfNFs7qYNis9ZwssUxVw0hiVWt5SRSPQKO0ijm2QWpLIuYEhMbyVCOgr4JVAA6AEq-xhbEYReypAwZCjhjaz6Faal2qCVXsqVfS5MS-LBueSzW4tlUSOeoEk_gubnWKa",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=L8ErN3iczVXZcuI4FP2A-Y7xCwm22QKpcnVJQoDZgs2ShBfKG8LghbEwDrzNv8xXzev8yMjGgEkDne6HqVGVkXx9N0nncP78y7G91d-__bPYbNb0meejKMoT3yeOlTd8l9fozjP4ue_QwFh8I44UUm7hSJbHhaFjSVEOAVmRkRxMCo291nTCaVHd6vYHVnbAHzYb3vStvTebtSKz9VW0opPX8tpsTlZyoy-8v6mOEXG7rVTkDCoJnGVLbWwXtKCzx2a4tbu9wW7bHJQA5pJGpJmuUWvJ-vxYUn7Gs5_V78U6e8nTvOXlda9aeBrtgW7TfEEQa_kXXnOZA_jPBgQyUAACgLAJ3_ZrfikbxnEipGRMBKWfTpZ67MPGipVm42ZZmMZihRzi69G-GhXZWji6XFTKDvkyaYMcMkKSJEJI_tJ2jkNJdwCPZW-73viURnbO_UFwXt-p_H6ZnQA8JxCeg7LBzLy4aFo-XlsZwNIAoBYC_p1iAPmg7ipQVsA9KCSeARpH6boLRLZt3iQMuAKvB2wSedtYGMkioDGe0agm-I1dY10j2nCizkDvozNqraJtWZlMRbIivKEzP8fXTMucLWbCt-RdLIhloVZ8qj4kRDLoiUk0y6Re29WXhWAriH6-m4fikUbodD6frgWz96sYgCh1vXqP8Gw_XR8GpJNx8U956gy25ID0Y4ivGPGid7RUE16VsrWO507AdRp9dopplPSCD_BMP2VCIUD296HxKF3Z4qdDgcA4t3AAEySnRJ8OyQaqfNrwJXATg4IIixqzw-mStCXjolUAz6xIE8kg_sMGJCXwyX5wlEkmAI_ZE0MeIwUBFWGogGHqriQROK3FDiRzL-AGFuKWMXjFdwl6ezS-4MNok_LlE_yztGmNqT0d6tbc3JgLaqKZrrc7Fdrfa7ZynSa-q_-E4hj_JyKd9Mg_CMMtIlnx4odEYqQg9_Qo-TnrUTuexhjfIpKdoPZ7PaoeXTKVLg9FhjhLpESPILmlRz9LJHSbSOgukTrXiCTfIVKsR5dEWl3oEbquRyci_YoeNX5RjxJeWYfpUpzCJbktUq3CaKTCYn8x2wthJ9Df6cT2l9VH0o1-KFJzd_PsaqbzMLPNZ1hob3bmw4wZ_GfL5P6QdItucobjh2aObvxAI1aO-k64sX2P5uZ-kLO8jRWsA5tanOsEviRolTUYKGpYq26nQvWxNHcbM2-K35XwaV0r7u1h8QWLMlH7ZqPprfWJ--4Iok5QvTINvdF6uCwWLKvsvEJHN98Ud73pdhy7HI0_loVB77W7XO17dv0RddVO_wUVyZPQrSzLj8M5Gg_etA-vVfNFs7qYNis9ZwssUxVw0hiVWt5SRSPQKO0ijm2QWpLIuYEhMbyVCOgr4JVAA6AEq-xhbEYReypAwZCjhjaz6Faal2qCVXsqVfS5MS-LBueSzW4tlUSOeoEk_gubnWKa"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best Buy | Official Online Store | Shop Now & Save",
+      "link": "https://www.bestbuy.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAV2jb_Z31bKj9ssydGCwAp5A3XbaO8NmmDKzHuvmKf9wdTNDj_1P8Tl-LNW-4FfgdSHS1KpSEP7fdihnfMJ-j9D72EIwJzZCPwUJHi&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQFnoECBcQAQ&uoh=1",
+      "displayed_link": "https://www.bestbuy.com",
+      "favicon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp",
+      "snippet": "Shop Best Buy for electronics, computers, appliances, cell phones, video games & more new tech. Store pickup & free 2-day shipping on thousands of items.",
+      "snippet_highlighted_words": [
+        "Shop Best Buy"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Deals",
+            "link": "https://www.bestbuy.com/top-deals"
+          },
+          {
+            "title": "Support & Services",
+            "link": "https://www.bestbuy.com/support"
+          },
+          {
+            "title": "Brands",
+            "link": "https://www.bestbuy.com/site/brands/apple/pcmcat128500050005.c?id=pcmcat128500050005"
+          },
+          {
+            "title": "Discover",
+            "link": "https://www.bestbuy.com/discover"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Shop Best Buy for electronics, computers, appliances, cell phones, video games & more new tech. Store pickup & free 2-day shipping on thousands of items.",
+          "source_info_link": "https://www.bestbuy.com/",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAABwBQCdASogACAAPtEutFooIagoGAEAGglsAJ0zEGB2adyInF_rXhWh1T_KSo3gU-xQgxTgAP73c6fbcOyTMU0LW5zdxtRcw-RYoq0ZGoncIGYMeYJP9cjWaeHfycYb_S_ixx2NUD6W7PlKzVZEapHRwaKGoGWQz4xUWvSXKArhvyL1BlHI7vV0Rd7fIPK4Jb2p7J4GmPrwaGF0xXnJ-_wUm4SHGo6__Jx3AvqIeKe0pOlg3wWiIDUjyHVnwohaX5s_ngAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWMmpiX1ozMWJLajlzc3lkR0N3QXA1QTNYYmFPOE5tbURLekh1dm1LZjl3ZFRORGpfMVA4VGwtTE5XLTRGZmdkU0hTMUtwU0VQN2ZkaWhuZk1KLWo5RDcyRUl3SnpaQ1B3VUpIaRIEGgIIABrCAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJwDCAAQABgAIAAqIAoEYmVzdBXLvhdBGgdjb21wYXJlGgpjb21wYXJpc29uMnovZ290bz91cmw9Q0FFU1VBSHJPekFWMmpiX1ozMWJLajlzc3lkR0N3QXA1QTNYYmFPOE5tbURLekh1dm1LZjl3ZFRORGpfMVA4VGwtTE5XLTRGZmdkU0hTMUtwU0VQN2ZkaWhuZk1KLWo5RDcyRUl3SnpaQ1B3VUpIaTpEPGI-QmVzdDwvYj4gQnV5IHwgT2ZmaWNpYWwgPGI-T25saW5lPC9iPiBTdG9yZSB8IFNob3AgTm93ICZhbXA7IFNhdmVCqAE8Yj5TaG9wIEJlc3QgQnV5PC9iPiBmb3IgZWxlY3Ryb25pY3MsIGNvbXB1dGVycywgYXBwbGlhbmNlcywgY2VsbCBwaG9uZXMsIHZpZGVvIGdhbWVzICZhbXA7IG1vcmUgbmV3IHRlY2guIFN0b3JlIHBpY2t1cCAmYW1wOyBmcmVlIDItZGF5IHNoaXBwaW5nIG9uIHRob3VzYW5kcyBvZiBpdGVtcy5KA2ZvciICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWMmpiX1ozMWJLajlzc3lkR0N3QXA1QTNYYmFPOE5tbURLekh1dm1LZjl3ZFRORGpfMVA4VGwtTE5XLTRGZmdkU0hTMUtwU0VQN2ZkaWhuZk1KLWo5RDcyRUl3SnpaQ1B3VUpIaRIEGgIIABrCAxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJwDCAAQABgAIAAqIAoEYmVzdBXLvhdBGgdjb21wYXJlGgpjb21wYXJpc29uMnovZ290bz91cmw9Q0FFU1VBSHJPekFWMmpiX1ozMWJLajlzc3lkR0N3QXA1QTNYYmFPOE5tbURLekh1dm1LZjl3ZFRORGpfMVA4VGwtTE5XLTRGZmdkU0hTMUtwU0VQN2ZkaWhuZk1KLWo5RDcyRUl3SnpaQ1B3VUpIaTpEPGI-QmVzdDwvYj4gQnV5IHwgT2ZmaWNpYWwgPGI-T25saW5lPC9iPiBTdG9yZSB8IFNob3AgTm93ICZhbXA7IFNhdmVCqAE8Yj5TaG9wIEJlc3QgQnV5PC9iPiBmb3IgZWxlY3Ryb25pY3MsIGNvbXB1dGVycywgYXBwbGlhbmNlcywgY2VsbCBwaG9uZXMsIHZpZGVvIGdhbWVzICZhbXA7IG1vcmUgbmV3IHRlY2guIFN0b3JlIHBpY2t1cCAmYW1wOyBmcmVlIDItZGF5IHNoaXBwaW5nIG9uIHRob3VzYW5kcyBvZiBpdGVtcy5KA2ZvciICEAFIAFgAaAA",
+      "source": "Best Buy"
+    },
+    {
+      "position": 2,
+      "title": "BEST: Board of European Students of Technology",
+      "link": "https://www.best.eu.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUAHrOzAVzHOY4CzEA7s3mV5YY88Aop6rhQhRcO16nDtJTCk3nnAvDY4fQXTT_VrlEwOKwJUJPblVvnbXQmiMjNwrhvzf3rP1MD-X4hRzB3iV&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQFnoECBUQAQ&uoh=1",
+      "displayed_link": "https://www.best.eu.org",
+      "favicon": "https://serpapi.com/images/i/UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoQABAAAsBMJbACdDBUQZCKr67aqnxAAP76p90jnKgBXQ1gMv2En5kRDtiOl81vTJ4vNkJwv1ZdJ67QhuNX7CFa_XQR7CTUCSigwO7K-IesstDLsjh1WAj9rryvh_z5_JHz_KuW3B-818rwMo2CIvvXnjdI-NShBwAAAA.webp",
+      "snippet": "Board of European Students of Technology (BEST) is a voluntary, politically unaffiliated, non-profit, non-representative international association of European ...",
+      "snippet_highlighted_words": [
+        "Board of European Students of Technology (BEST"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Board of European Students of Technology (BEST) is a voluntary, politically unaffiliated, non-profit, non-representative international association of European ...",
+          "source_info_link": "https://www.best.eu.org/",
+          "icon": "https://serpapi.com/images/i/UklGRowAAABXRUJQVlA4IIAAAABwAgCdASoQABAAAsBMJbACdDBUQZCKr67aqnxAAP76p90jnKgBXQ1gMv2En5kRDtiOl81vTJ4vNkJwv1ZdJ67QhuNX7CFa_XQR7CTUCSigwO7K-IesstDLsjh1WAj9rryvh_z5_JHz_KuW3B-818rwMo2CIvvXnjdI-NShBwAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWekhPWTRDekVBN3MzbVY1WVk4OEFvcDZyaFFoUmNPMTZuRHRKVENrM25uQXZEWTRmUVhUVF9WcmxFd09Ld0pVSlBibFZ2bmJYUW1pTWpOd3JodnpmM3JQMU1ELVg0aFJ6QjNpVhIEGgIIABq5AxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJMDCAAQABgAIAAqIAoEYmVzdBVeSc5AGgdjb21wYXJlGgpjb21wYXJpc29uMnovZ290bz91cmw9Q0FFU1VBSHJPekFWekhPWTRDekVBN3MzbVY1WVk4OEFvcDZyaFFoUmNPMTZuRHRKVENrM25uQXZEWTRmUVhUVF9WcmxFd09Ld0pVSlBibFZ2bmJYUW1pTWpOd3JodnpmM3JQMU1ELVg0aFJ6QjNpVjo1PGI-QkVTVDwvYj46IEJvYXJkIG9mIEV1cm9wZWFuIFN0dWRlbnRzIG9mIFRlY2hub2xvZ3lCrgE8Yj5Cb2FyZCBvZiBFdXJvcGVhbiBTdHVkZW50cyBvZiBUZWNobm9sb2d5IChCRVNUPC9iPikgaXMgYSB2b2x1bnRhcnksIHBvbGl0aWNhbGx5IHVuYWZmaWxpYXRlZCwgbm9uLXByb2ZpdCwgbm9uLXJlcHJlc2VudGF0aXZlIGludGVybmF0aW9uYWwgYXNzb2NpYXRpb24gb2YgRXVyb3BlYW4mbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnovZ290bz91cmw9Q0FFU1VBSHJPekFWekhPWTRDekVBN3MzbVY1WVk4OEFvcDZyaFFoUmNPMTZuRHRKVENrM25uQXZEWTRmUVhUVF9WcmxFd09Ld0pVSlBibFZ2bmJYUW1pTWpOd3JodnpmM3JQMU1ELVg0aFJ6QjNpVhIEGgIIABq5AxICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQJMDCAAQABgAIAAqIAoEYmVzdBVeSc5AGgdjb21wYXJlGgpjb21wYXJpc29uMnovZ290bz91cmw9Q0FFU1VBSHJPekFWekhPWTRDekVBN3MzbVY1WVk4OEFvcDZyaFFoUmNPMTZuRHRKVENrM25uQXZEWTRmUVhUVF9WcmxFd09Ld0pVSlBibFZ2bmJYUW1pTWpOd3JodnpmM3JQMU1ELVg0aFJ6QjNpVjo1PGI-QkVTVDwvYj46IEJvYXJkIG9mIEV1cm9wZWFuIFN0dWRlbnRzIG9mIFRlY2hub2xvZ3lCrgE8Yj5Cb2FyZCBvZiBFdXJvcGVhbiBTdHVkZW50cyBvZiBUZWNobm9sb2d5IChCRVNUPC9iPikgaXMgYSB2b2x1bnRhcnksIHBvbGl0aWNhbGx5IHVuYWZmaWxpYXRlZCwgbm9uLXByb2ZpdCwgbm9uLXJlcHJlc2VudGF0aXZlIGludGVybmF0aW9uYWwgYXNzb2NpYXRpb24gb2YgRXVyb3BlYW4mbmJzcDsuLi5KA2ZvciICEAFIAFgAaAA",
+      "source": "BEST: Board of European Students of Technology",
+      "read_more_link": "https://www.best.eu.org/#:~:text=Board%20of%20European%20Students%20of,of%20European%20students%20of%20technology."
+    },
+    {
+      "position": 3,
+      "title": "CBER Biologics Effectiveness and Safety (BEST) System",
+      "link": "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/cber-biologics-effectiveness-and-safety-best-system",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStgEB6zswFTJhcRN57A5of6CurT9D4lf0b9etBI3vEceJd_b-Ned_7Zqwq7W1cgQDYgQ4I_vsayvZhSFAy-yAE5hIa3SSywv46ZrtxwII_SfyVWQia-BFi5OmDVCf5CuCI3n-wr4rTpAMokkUQkhkugp8WKKfjYtvDWYGDcIJoHBUR3tay6cZTipJ1yas0rUcu7w_7VeE5po9uqxJKx2bVnTcDC5FAauErXPhFFwLgHPO9j0cP6zu0g&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQFnoECB8QAQ&uoh=1",
+      "displayed_link": "https://www.fda.gov › safety-availability-biologics › cber...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAgMAAAAOFJJnAAAACVBMVEWtrKAAUJ_____xT7X9AAAASElEQVR4AZXOsRHAIAwEQTf5BHTw6kcJOYG-ShvA43GGLtrwrlTYHcHU5IiFGCAqWNpC_cH0oBb_QAxow9QnSEwoXngHc2OZbsUmRL1mo6oyAAAAAElFTkSuQmCC.png",
+      "date": "Jun 16, 2026",
+      "snippet": "The system consists of large-scale administrative claims, Electronic Health Records (EHRs), and linked claims-EHR data sources with a short data ...",
+      "snippet_highlighted_words": [
+        "system"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The system consists of large-scale administrative claims, Electronic Health Records (EHRs), and linked claims-EHR data sources with a short data ...",
+          "source_info_link": "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/cber-biologics-effectiveness-and-safety-best-system",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgAgMAAAAOFJJnAAAACVBMVEWtrKAAUJ_____xT7X9AAAASElEQVR4AZXOsRHAIAwEQTf5BHTw6kcJOYG-ShvA43GGLtrwrlTYHcHU5IiFGCAqWNpC_cH0oBb_QAxow9QnSEwoXngHc2OZbsUmRL1mo6oyAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCNnpzd0ZUSmhjUk41N0E1b2Y2Q3VyVDlENGxmMGI5ZXRCSTN2RWNlSmRfYi1OZWRfN1pxd3E3VzFjZ1FEWWdRNElfdnNheXZaaFNGQXkteUFFNWhJYTNTU3l3djQ2WnJ0eHdJSV9TZnlWV1FpYS1CRmk1T21EVkNmNUN1Q0kzbi13cjRyVHBBTW9ra1VRa2hrdWdwOFdLS2ZqWXR2RFdZR0RjSUpvSEJVUjN0YXk2Y1pUaXBKMXlhczByVWN1N3dfN1ZlRTVwbzl1cXhKS3gyYlZuVGNEQzVGQWF1RXJYUGhGRndMZ0hQTzlqMGNQNnp1MGcSBBoCCAAaygQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCkBAgAEAAYACAAKiAKBGJlc3QVxFKqQBoHY29tcGFyZRoKY29tcGFyaXNvbjKEAi9nb3RvP3VybD1DQUVTdGdFQjZ6c3dGVEpoY1JONTdBNW9mNkN1clQ5RDRsZjBiOWV0QkkzdkVjZUpkX2ItTmVkXzdacXdxN1cxY2dRRFlnUTRJX3ZzYXl2WmhTRkF5LXlBRTVoSWEzU1N5d3Y0NlpydHh3SUlfU2Z5VldRaWEtQkZpNU9tRFZDZjVDdUNJM24td3I0clRwQU1va2tVUWtoa3VncDhXS0tmall0dkRXWUdEY0lKb0hCVVIzdGF5NmNaVGlwSjF5YXMwclVjdTd3XzdWZUU1cG85dXF4Skt4MmJWblRjREM1RkFhdUVyWFBoRkZ3TGdIUE85ajBjUDZ6dTBnOklDQkVSIEJpb2xvZ2ljcyBFZmZlY3RpdmVuZXNzIGFuZCBTYWZldHkgKDxiPkJFU1Q8L2I-KSA8Yj5TeXN0ZW08L2I-IC0gRkRBQqABVGhlIDxiPnN5c3RlbTwvYj4gY29uc2lzdHMgb2YgbGFyZ2Utc2NhbGUgYWRtaW5pc3RyYXRpdmUgY2xhaW1zLCBFbGVjdHJvbmljIEhlYWx0aCBSZWNvcmRzIChFSFJzKSwgYW5kIGxpbmtlZCBjbGFpbXMtRUhSIGRhdGEgc291cmNlcyB3aXRoIGEgc2hvcnQgZGF0YSZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoQCL2dvdG8_dXJsPUNBRVN0Z0VCNnpzd0ZUSmhjUk41N0E1b2Y2Q3VyVDlENGxmMGI5ZXRCSTN2RWNlSmRfYi1OZWRfN1pxd3E3VzFjZ1FEWWdRNElfdnNheXZaaFNGQXkteUFFNWhJYTNTU3l3djQ2WnJ0eHdJSV9TZnlWV1FpYS1CRmk1T21EVkNmNUN1Q0kzbi13cjRyVHBBTW9ra1VRa2hrdWdwOFdLS2ZqWXR2RFdZR0RjSUpvSEJVUjN0YXk2Y1pUaXBKMXlhczByVWN1N3dfN1ZlRTVwbzl1cXhKS3gyYlZuVGNEQzVGQWF1RXJYUGhGRndMZ0hQTzlqMGNQNnp1MGcSBBoCCAAaygQSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCkBAgAEAAYACAAKiAKBGJlc3QVxFKqQBoHY29tcGFyZRoKY29tcGFyaXNvbjKEAi9nb3RvP3VybD1DQUVTdGdFQjZ6c3dGVEpoY1JONTdBNW9mNkN1clQ5RDRsZjBiOWV0QkkzdkVjZUpkX2ItTmVkXzdacXdxN1cxY2dRRFlnUTRJX3ZzYXl2WmhTRkF5LXlBRTVoSWEzU1N5d3Y0NlpydHh3SUlfU2Z5VldRaWEtQkZpNU9tRFZDZjVDdUNJM24td3I0clRwQU1va2tVUWtoa3VncDhXS0tmall0dkRXWUdEY0lKb0hCVVIzdGF5NmNaVGlwSjF5YXMwclVjdTd3XzdWZUU1cG85dXF4Skt4MmJWblRjREM1RkFhdUVyWFBoRkZ3TGdIUE85ajBjUDZ6dTBnOklDQkVSIEJpb2xvZ2ljcyBFZmZlY3RpdmVuZXNzIGFuZCBTYWZldHkgKDxiPkJFU1Q8L2I-KSA8Yj5TeXN0ZW08L2I-IC0gRkRBQqABVGhlIDxiPnN5c3RlbTwvYj4gY29uc2lzdHMgb2YgbGFyZ2Utc2NhbGUgYWRtaW5pc3RyYXRpdmUgY2xhaW1zLCBFbGVjdHJvbmljIEhlYWx0aCBSZWNvcmRzIChFSFJzKSwgYW5kIGxpbmtlZCBjbGFpbXMtRUhSIGRhdGEgc291cmNlcyB3aXRoIGEgc2hvcnQgZGF0YSZuYnNwOy4uLkoDZm9yIgIQAUgAWABoAA",
+      "source": "U.S. Food and Drug Administration (.gov)",
+      "read_more_link": "https://www.fda.gov/vaccines-blood-biologics/safety-availability-biologics/cber-biologics-effectiveness-and-safety-best-system#:~:text=The%20system%20consists%20of%20large%2Dscale,with%20a%20short%20data%20lag."
+    },
+    {
+      "position": 4,
+      "title": "Be Best - Trump White House Archives",
+      "link": "https://trumpwhitehouse.archives.gov/bebest/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVvODuyGP6BQzE2-Bv--yilOnushS2-2IzWRDtMpYAzKMptLUe1NOjkEdmafmK_EJylxqvqB_TaflF7CrkdCgUgyhHAt1fYwaph47kj2UzJ_PKNS7XBGK88Cwrez3TZkw&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQFnoECBYQAQ&uoh=1",
+      "displayed_link": "https://trumpwhitehouse.archives.gov › bebest",
+      "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEwtFooIigoGAEAGgliAJ0y44K_jat7swD9gBqrTj8d4qzPuHEi4VoUX9io4iu9WilgAP7SnksvaXgSs9jl6GR82tqSqLNJAV2-DzSAQNOnHqnu66OASdYvfGVPmVtwlqYdrymYWsIrRK0Mcii57fifiK9m8tTp5au2wudLrHXMXN6agBrzbwZ7JTvf68g1RoWNP2J_dCYyaBl9P_sJ_8Su--iKdDpiB5K4GCnBCyYE5qaiO0XSRvu8R_AlFh4QBv7KyP-Yh9HgnyYLKOt-vUSC93KIG2-8doDYcb0hThxAPuRFVB1-5RxgblaHZGDd9caRaE8tneq3p7msh7vaJXEPN3wOKo6rUAVLPAfdsnDgAA.webp",
+      "snippet": "BE BEST will concentrate on three main pillars: well-being, online safety, and opioid abuse. BE BEST will champion the many successful well-being programs",
+      "snippet_highlighted_words": [
+        "BE BEST"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "BE BEST will concentrate on three main pillars: well-being, online safety, and opioid abuse. BE BEST will champion the many successful well-being programs",
+          "source_info_link": "https://trumpwhitehouse.archives.gov/bebest/",
+          "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACQBgCdASocABwAPtEwtFooIigoGAEAGgliAJ0y44K_jat7swD9gBqrTj8d4qzPuHEi4VoUX9io4iu9WilgAP7SnksvaXgSs9jl6GR82tqSqLNJAV2-DzSAQNOnHqnu66OASdYvfGVPmVtwlqYdrymYWsIrRK0Mcii57fifiK9m8tTp5au2wudLrHXMXN6agBrzbwZ7JTvf68g1RoWNP2J_dCYyaBl9P_sJ_8Su--iKdDpiB5K4GCnBCyYE5qaiO0XSRvu8R_AlFh4QBv7KyP-Yh9HgnyYLKOt-vUSC93KIG2-8doDYcb0hThxAPuRFVB1-5RxgblaHZGDd9caRaE8tneq3p7msh7vaJXEPN3wOKo6rUAVLPAfdsnDgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVnZPRHV5R1A2QlF6RTItQnYtLXlpbE9udXNoUzItMkl6V1JEdE1wWUF6S01wdExVZTFOT2prRWRtYWZtS19FSnlseHF2cUJfVGFmbEY3Q3JrZENnVWd5aEhBdDFmWXdhcGg0N2tqMlV6Sl9QS05TN1hCR0s4OEN3cmV6M1Raa3cSBBoCCAAavgMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCYAwgAEAAYACAAKiAKBGJlc3QVRYuDQBoHY29tcGFyZRoKY29tcGFyaXNvbjKVAS9nb3RvP3VybD1DQUVTWkFIck96QVZ2T0R1eUdQNkJRekUyLUJ2LS15aWxPbnVzaFMyLTJJeldSRHRNcFlBektNcHRMVWUxTk9qa0VkbWFmbUtfRUp5bHhxdnFCX1RhZmxGN0Nya2RDZ1VneWhIQXQxZll3YXBoNDdrajJVekpfUEtOUzdYQkdLODhDd3JlejNUWmt3OitCZSA8Yj5CZXN0PC9iPiAtIFRydW1wIFdoaXRlIEhvdXNlIEFyY2hpdmVzQqEBPGI-QkUgQkVTVDwvYj4gd2lsbCBjb25jZW50cmF0ZSBvbiB0aHJlZSBtYWluIHBpbGxhcnM6IHdlbGwtYmVpbmcsIG9ubGluZSBzYWZldHksIGFuZCBvcGlvaWQgYWJ1c2UuIEJFIEJFU1Qgd2lsbCBjaGFtcGlvbiB0aGUgbWFueSBzdWNjZXNzZnVsIHdlbGwtYmVpbmcgcHJvZ3JhbXNKA2ZvciICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVnZPRHV5R1A2QlF6RTItQnYtLXlpbE9udXNoUzItMkl6V1JEdE1wWUF6S01wdExVZTFOT2prRWRtYWZtS19FSnlseHF2cUJfVGFmbEY3Q3JrZENnVWd5aEhBdDFmWXdhcGg0N2tqMlV6Sl9QS05TN1hCR0s4OEN3cmV6M1Raa3cSBBoCCAAavgMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCYAwgAEAAYACAAKiAKBGJlc3QVRYuDQBoHY29tcGFyZRoKY29tcGFyaXNvbjKVAS9nb3RvP3VybD1DQUVTWkFIck96QVZ2T0R1eUdQNkJRekUyLUJ2LS15aWxPbnVzaFMyLTJJeldSRHRNcFlBektNcHRMVWUxTk9qa0VkbWFmbUtfRUp5bHhxdnFCX1RhZmxGN0Nya2RDZ1VneWhIQXQxZll3YXBoNDdrajJVekpfUEtOUzdYQkdLODhDd3JlejNUWmt3OitCZSA8Yj5CZXN0PC9iPiAtIFRydW1wIFdoaXRlIEhvdXNlIEFyY2hpdmVzQqEBPGI-QkUgQkVTVDwvYj4gd2lsbCBjb25jZW50cmF0ZSBvbiB0aHJlZSBtYWluIHBpbGxhcnM6IHdlbGwtYmVpbmcsIG9ubGluZSBzYWZldHksIGFuZCBvcGlvaWQgYWJ1c2UuIEJFIEJFU1Qgd2lsbCBjaGFtcGlvbiB0aGUgbWFueSBzdWNjZXNzZnVsIHdlbGwtYmVpbmcgcHJvZ3JhbXNKA2ZvciICEAFIAFgAaAA",
+      "source": "National Archives (.gov)"
+    },
+    {
+      "position": 5,
+      "title": "Tina Turner - The Best (Official Music Video) [HD Upgrade]",
+      "link": "https://www.youtube.com/watch?v=GC5E8ie2pdM",
+      "displayed_link": "385.9M+ views · 17 years ago",
+      "thumbnail": "https://serpapi.com/searches/6ab647fb1dcfe22a28ead34c/images/CWYt_UL9V9eXiOVn3RvM4ZpsguQW-A5iYyhyP0PiNS4.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+      "snippet": "The official music video for Tina Turner – The Best. Taken from Tina Turner's album Foreign Affair from 1989, featuring the singles The Best,",
+      "duration": "4:10",
+      "about_this_result": {
+        "source": {
+          "description": "The official music video for Tina Turner – The Best. Taken from Tina Turner's album Foreign Affair from 1989, featuring the singles The Best,",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmtqSTAwdGhOa21VWU1xT004SVRFdEt6Tk5KUTN3aHFNWVdzWG5uRE1fUU5wOFRfQnlxcFJhbVBoUEVES0pEV25oSXhVY0FycHp1RnJXbnNjVWFSWkxHNk9lNGRULWdnVUJ5UU5RU29rUk9OYlVPRk43WGgwX2FvTUlHbGpwZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmtqSTAwdGhOa21VWU1xT004SVRFdEt6Tk5KUTN3aHFNWVdzWG5uRE1fUU5wOFRfQnlxcFJhbVBoUEVES0pEV25oSXhVY0FycHp1RnJXbnNjVWFSWkxHNk9lNGRULWdnVUJ5UU5RU29rUk9OYlVPRk43WGgwX2FvTUlHbGpwZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTmX7R0tTb5Wi9ASl-SNcvoyrVImDODzZs69A",
+      "source": "YouTube · Tina Turner"
+    },
+    {
+      "position": 6,
+      "title": "Company and Rating Search - Best's Credit Rating Center",
+      "link": "https://ratings.ambest.com/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAVMWFoSDg_IG_RMttV_Wj0UVvicyfEJWs40PtFXvGg6ANQUJK8cWggQchSY5PwtEehDlJ-tS13lcfEUXtB7eQIuny_K2zKiRDJ6kGkLlbK&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://ratings.ambest.com",
+      "favicon": "https://serpapi.com/images/i/UklGRpIBAABXRUJQVlA4IIYBAABQCACdASocABwAPtEutFooIagoGAEAGglqAJ0yhH4mgM6XkAT0auatQUwXxrfOvsD_qZvnI6tfLFr7wMcX3AmOl_DVr2U94FMi3TAA_q0_hC0UjmRKVQ2x1FPhmHMG5WbdHe2A-H54HkxNFvLy_9sE1AnS3mkYf-e_EUnDqzzexKC6o_MvHqQpyPb8sxmo0exXnrRDEaQBkxvroRRq8LawiUVcOhCQ-bqH-Lo5INypSyd8asleodxSzxX_r7gdCvGC83tP05mjA1fH_Nt-HOHf_ywxnhp8lbw-Glvm_tHhOYJujIm7gQmHpCSCSGnpCsN42E60UMd2T7kX_MrB30ZhqFdfXV-BcPn-UZgw2fWGRnJ_6TBxCjPCrwIkHfR6CeW7tRQfSk9nhpH5LiRpSoRUtZPbp3UmRBhbwP7Z3t_tKUl-Dff1_wxf-nK-vvOjmcv4hE40ADQf91_fXbids6CnjA81uPZQHeiG35wLMxXWe_j2QxFuPtXMFEcDs4xvkyiu9GEAAAA.webp",
+      "snippet": "Search for a Rating. Search AM Best's extensive database of life/health, property/casualty insurance companies worldwide and access Best's Credit Ratings, ...",
+      "snippet_highlighted_words": [
+        "Search AM Best's extensive database of life/health, property/casualty insurance companies"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Search for a Rating. Search AM Best's extensive database of life/health, property/casualty insurance companies worldwide and access Best's Credit Ratings, ...",
+          "source_info_link": "https://ratings.ambest.com/",
+          "icon": "https://serpapi.com/images/i/UklGRpIBAABXRUJQVlA4IIYBAABQCACdASocABwAPtEutFooIagoGAEAGglqAJ0yhH4mgM6XkAT0auatQUwXxrfOvsD_qZvnI6tfLFr7wMcX3AmOl_DVr2U94FMi3TAA_q0_hC0UjmRKVQ2x1FPhmHMG5WbdHe2A-H54HkxNFvLy_9sE1AnS3mkYf-e_EUnDqzzexKC6o_MvHqQpyPb8sxmo0exXnrRDEaQBkxvroRRq8LawiUVcOhCQ-bqH-Lo5INypSyd8asleodxSzxX_r7gdCvGC83tP05mjA1fH_Nt-HOHf_ywxnhp8lbw-Glvm_tHhOYJujIm7gQmHpCSCSGnpCsN42E60UMd2T7kX_MrB30ZhqFdfXV-BcPn-UZgw2fWGRnJ_6TBxCjPCrwIkHfR6CeW7tRQfSk9nhpH5LiRpSoRUtZPbp3UmRBhbwP7Z3t_tKUl-Dff1_wxf-nK-vvOjmcv4hE40ADQf91_fXbids6CnjA81uPZQHeiG35wLMxXWe_j2QxFuPtXMFEcDs4xvkyiu9GEAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cn4vZ290bz91cmw9Q0FFU1V3SHJPekFWTVdGb1NEZ19JR19STXR0Vl9XajBVVnZpY3lmRUpXczQwUHRGWHZHZzZBTlFVSks4Y1dnZ1FjaFNZNVB3dEVlaERsSi10UzEzbGNmRVVYdEI3ZVFJdW55X0syektpUkRKNmtHa0xsYksSBBoCCAAazgMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCoAwgAEAAYACAAKiAKBGJlc3QV-su9QBoHY29tcGFyZRoKY29tcGFyaXNvbjJ-L2dvdG8_dXJsPUNBRVNVd0hyT3pBVk1XRm9TRGdfSUdfUk10dFZfV2owVVZ2aWN5ZkVKV3M0MFB0Rlh2R2c2QU5RVUpLOGNXZ2dRY2hTWTVQd3RFZWhEbEotdFMxM2xjZkVVWHRCN2VRSXVueV9LMnpLaVJESjZrR2tMbGJLOkJDb21wYW55IGFuZCBSYXRpbmcgU2VhcmNoIC0gPGI-QmVzdCYjMzk7czwvYj4gQ3JlZGl0IFJhdGluZyBDZW50ZXJCsgFTZWFyY2ggZm9yIGEgUmF0aW5nLiA8Yj5TZWFyY2ggQU0gQmVzdCYjMzk7cyBleHRlbnNpdmUgZGF0YWJhc2Ugb2YgbGlmZS9oZWFsdGgsIHByb3BlcnR5L2Nhc3VhbHR5IGluc3VyYW5jZSBjb21wYW5pZXM8L2I-IHdvcmxkd2lkZSBhbmQgYWNjZXNzIEJlc3QmIzM5O3MgQ3JlZGl0IFJhdGluZ3MsJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cn4vZ290bz91cmw9Q0FFU1V3SHJPekFWTVdGb1NEZ19JR19STXR0Vl9XajBVVnZpY3lmRUpXczQwUHRGWHZHZzZBTlFVSks4Y1dnZ1FjaFNZNVB3dEVlaERsSi10UzEzbGNmRVVYdEI3ZVFJdW55X0syektpUkRKNmtHa0xsYksSBBoCCAAazgMSAggBGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCoAwgAEAAYACAAKiAKBGJlc3QV-su9QBoHY29tcGFyZRoKY29tcGFyaXNvbjJ-L2dvdG8_dXJsPUNBRVNVd0hyT3pBVk1XRm9TRGdfSUdfUk10dFZfV2owVVZ2aWN5ZkVKV3M0MFB0Rlh2R2c2QU5RVUpLOGNXZ2dRY2hTWTVQd3RFZWhEbEotdFMxM2xjZkVVWHRCN2VRSXVueV9LMnpLaVJESjZrR2tMbGJLOkJDb21wYW55IGFuZCBSYXRpbmcgU2VhcmNoIC0gPGI-QmVzdCYjMzk7czwvYj4gQ3JlZGl0IFJhdGluZyBDZW50ZXJCsgFTZWFyY2ggZm9yIGEgUmF0aW5nLiA8Yj5TZWFyY2ggQU0gQmVzdCYjMzk7cyBleHRlbnNpdmUgZGF0YWJhc2Ugb2YgbGlmZS9oZWFsdGgsIHByb3BlcnR5L2Nhc3VhbHR5IGluc3VyYW5jZSBjb21wYW5pZXM8L2I-IHdvcmxkd2lkZSBhbmQgYWNjZXNzIEJlc3QmIzM5O3MgQ3JlZGl0IFJhdGluZ3MsJm5ic3A7Li4uSgNmb3IiAhABSABYAGgA",
+      "source": "AM Best",
+      "read_more_link": "https://ratings.ambest.com/#:~:text=Search%20for%20a%20Rating,Reports%20and%20other%20key%20information."
+    },
+    {
+      "position": 7,
+      "title": "International Best Track Archive for Climate Stewardship ...",
+      "link": "https://www.ncei.noaa.gov/products/international-best-track-archive",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAV8hYTTaI0nR72h_SQIYSTE8PAGSjKuXLViihuKyqRl8ThTrxC14tq4Uq25eb_47_Jqi1Lf9G1jw2Ym52KRi1TJmSNEFT94V3Ips_TAnowzetpDXQl5AP_hB2iBRZCdGYOyn9yz7Ed2hZz1o4KmHHNNVSXxqcwug&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQFnoECB4QAQ&uoh=1",
+      "displayed_link": "https://www.ncei.noaa.gov › products › international-bes...",
+      "favicon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAACQAwCdASoQABAAAsBMJbACdFQAuwDeMCIiMuZ8tAfW7i6xTJqAAP7wtvR8D8uMluSzYGk6ktHgQ92kCtF282QaDRFmRvqZpDwZcXIN4kYnqk4fpBH7HEE6H4IUKqszpM-uX8HZmQTCOK8jjTaJtvY33pZ_sk2Gud9qVNXjSxajI0p4xji37_abR1iCtp_6kVbDvJ_r_AlPy1Afa7L-3Vbjk9pTx58P_-Ehc9rTA9CyKuNOlCJQAA.webp",
+      "snippet": "The International Best Track Archive for Climate Stewardship (IBTrACS) project is the most complete global collection of tropical cyclones available.",
+      "snippet_highlighted_words": [
+        "Best"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The International Best Track Archive for Climate Stewardship (IBTrACS) project is the most complete global collection of tropical cyclones available.",
+          "source_info_link": "https://www.ncei.noaa.gov/products/international-best-track-archive",
+          "icon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAACQAwCdASoQABAAAsBMJbACdFQAuwDeMCIiMuZ8tAfW7i6xTJqAAP7wtvR8D8uMluSzYGk6ktHgQ92kCtF282QaDRFmRvqZpDwZcXIN4kYnqk4fpBH7HEE6H4IUKqszpM-uX8HZmQTCOK8jjTaJtvY33pZ_sk2Gud9qVNXjSxajI0p4xji37_abR1iCtp_6kVbDvJ_r_AlPy1Afa7L-3Vbjk9pTx58P_-Ehc9rTA9CyKuNOlCJQAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVjhoWVRUYUkwblI3MmhfU1FJWVNURThQQUdTakt1WExWaWlodUt5cVJsOFRoVHJ4QzE0dHE0VXEyNWViXzQ3X0pxaTFMZjlHMWp3MlltNTJLUmkxVEptU05FRlQ5NFYzSXBzX1RBbm93emV0cERYUWw1QVBfaEIyaUJSWkNkR1lPeW45eXo3RWQyaFp6MW80S21ISE5OVlNYeHFjd3VnEgQaAggAGvADEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAygMIABAAGAAgACogCgRiZXN0FaLEkkAaB2NvbXBhcmUaCmNvbXBhcmlzb24ytAEvZ290bz91cmw9Q0FFU2V3SHJPekFWOGhZVFRhSTBuUjcyaF9TUUlZU1RFOFBBR1NqS3VYTFZpaWh1S3lxUmw4VGhUcnhDMTR0cTRVcTI1ZWJfNDdfSnFpMUxmOUcxancyWW01MktSaTFUSm1TTkVGVDk0VjNJcHNfVEFub3d6ZXRwRFhRbDVBUF9oQjJpQlJaQ2RHWU95bjl5ejdFZDJoWnoxbzRLbUhITk5WU1h4cWN3dWc6Q0ludGVybmF0aW9uYWwgPGI-QmVzdDwvYj4gVHJhY2sgQXJjaGl2ZSBmb3IgQ2xpbWF0ZSBTdGV3YXJkc2hpcCAuLi5CnAFUaGUgSW50ZXJuYXRpb25hbCA8Yj5CZXN0PC9iPiBUcmFjayBBcmNoaXZlIGZvciBDbGltYXRlIFN0ZXdhcmRzaGlwIChJQlRyQUNTKSBwcm9qZWN0IGlzIHRoZSBtb3N0IGNvbXBsZXRlIGdsb2JhbCBjb2xsZWN0aW9uIG9mIHRyb3BpY2FsIGN5Y2xvbmVzIGF2YWlsYWJsZS5KA2ZvciICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVjhoWVRUYUkwblI3MmhfU1FJWVNURThQQUdTakt1WExWaWlodUt5cVJsOFRoVHJ4QzE0dHE0VXEyNWViXzQ3X0pxaTFMZjlHMWp3MlltNTJLUmkxVEptU05FRlQ5NFYzSXBzX1RBbm93emV0cERYUWw1QVBfaEIyaUJSWkNkR1lPeW45eXo3RWQyaFp6MW80S21ISE5OVlNYeHFjd3VnEgQaAggAGvADEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAygMIABAAGAAgACogCgRiZXN0FaLEkkAaB2NvbXBhcmUaCmNvbXBhcmlzb24ytAEvZ290bz91cmw9Q0FFU2V3SHJPekFWOGhZVFRhSTBuUjcyaF9TUUlZU1RFOFBBR1NqS3VYTFZpaWh1S3lxUmw4VGhUcnhDMTR0cTRVcTI1ZWJfNDdfSnFpMUxmOUcxancyWW01MktSaTFUSm1TTkVGVDk0VjNJcHNfVEFub3d6ZXRwRFhRbDVBUF9oQjJpQlJaQ2RHWU95bjl5ejdFZDJoWnoxbzRLbUhITk5WU1h4cWN3dWc6Q0ludGVybmF0aW9uYWwgPGI-QmVzdDwvYj4gVHJhY2sgQXJjaGl2ZSBmb3IgQ2xpbWF0ZSBTdGV3YXJkc2hpcCAuLi5CnAFUaGUgSW50ZXJuYXRpb25hbCA8Yj5CZXN0PC9iPiBUcmFjayBBcmNoaXZlIGZvciBDbGltYXRlIFN0ZXdhcmRzaGlwIChJQlRyQUNTKSBwcm9qZWN0IGlzIHRoZSBtb3N0IGNvbXBsZXRlIGdsb2JhbCBjb2xsZWN0aW9uIG9mIHRyb3BpY2FsIGN5Y2xvbmVzIGF2YWlsYWJsZS5KA2ZvciICEAFIAFgAaAA",
+      "source": "NOAA National Centers for Environmental Information (NCEI) (.gov)",
+      "read_more_link": "https://www.ncei.noaa.gov/products/international-best-track-archive#:~:text=The%20International%20Best%20Track%20Archive,collection%20of%20tropical%20cyclones%20available."
+    },
+    {
+      "position": 8,
+      "title": "Best Aquaculture Practices",
+      "link": "https://www.bapcertification.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVF4xg3l3fRxbdZTnXgzD4IlYc5FnRlYJSjLZ9nmU6vdNI0SRRi8tRd6bniLE1nhnWBklSZ688OKq2b8BGQLeyo7R2OBcnZUrJpXqGWL8v-R4QLyWv&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQFnoECEMQAQ&uoh=1",
+      "displayed_link": "https://www.bapcertification.org",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEwAVKQAVKQAVaQAVaQAVKQAVKQAVKQAVaQAVKQAVKQAVKMAVaQAVKR62xmEAAAADXRSTlMAcaU-486P9VAKKBe5Je9cgQAAAPlJREFUKJGNUkuCxSAIE1DED_e_7uDftm8xrCgJgWCd-1ckwOB9YPpCBXVFhBcGVvQsIlAtC-XG2ApLLhkx5gd2S5WgunvliVlzUL_yqGwF4dq2RWiSuOhgtIxxb6vBAJoreAVuyyIIkXAwmpcpmi1Xrcd7AfvGy-KAqO-YXGrWkuuztabpqO2SfTUDUUMr1SWRx_6k0bg59nLVOZ0G2VHvH-C2ZJ1p32XKwpJNUedJz0I2Y9Jx0PJlxanSGqrwOoI5CDs75-N5kfMovA7PWxe28ArsXkfYryFP7Gbb0-Omkv9yFSWXQmDE-Joi_jz2EdlB6IeP8oF-xh-SPwrr3HjtzgAAAABJRU5ErkJggg.png",
+      "snippet": "BAP is the only aquaculture certification program in the world that certifies every step of the production chain.",
+      "about_this_result": {
+        "source": {
+          "description": "BAP is the only aquaculture certification program in the world that certifies every step of the production chain.",
+          "source_info_link": "https://www.bapcertification.org/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAKlBMVEVHcEwAVKQAVKQAVaQAVaQAVKQAVKQAVKQAVaQAVKQAVKQAVKMAVaQAVKR62xmEAAAADXRSTlMAcaU-486P9VAKKBe5Je9cgQAAAPlJREFUKJGNUkuCxSAIE1DED_e_7uDftm8xrCgJgWCd-1ckwOB9YPpCBXVFhBcGVvQsIlAtC-XG2ApLLhkx5gd2S5WgunvliVlzUL_yqGwF4dq2RWiSuOhgtIxxb6vBAJoreAVuyyIIkXAwmpcpmi1Xrcd7AfvGy-KAqO-YXGrWkuuztabpqO2SfTUDUUMr1SWRx_6k0bg59nLVOZ0G2VHvH-C2ZJ1p32XKwpJNUedJz0I2Y9Jx0PJlxanSGqrwOoI5CDs75-N5kfMovA7PWxe28ArsXkfYryFP7Gbb0-Omkv9yFSWXQmDE-Joi_jz2EdlB6IeP8oF-xh-SPwrr3HjtzgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVkY0eGczbDNmUnhiZFpUblhnekQ0SWxZYzVGblJsWUpTakxaOW5tVTZ2ZE5JMFNSUmk4dFJkNmJuaUxFMW5obldCa2xTWjY4OE9LcTJiOEJHUUxleW83UjJPQmNuWlVySnBYcUdXTDh2LVI0UUx5V3YSBBoCCAAa9AISAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDOAggAEAAYACAAKiAKBGJlc3QVupx8QBoHY29tcGFyZRoKY29tcGFyaXNvbjKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZGNHhnM2wzZlJ4YmRaVG5YZ3pENElsWWM1Rm5SbFlKU2pMWjlubVU2dmROSTBTUlJpOHRSZDZibmlMRTFuaG5XQmtsU1o2ODhPS3EyYjhCR1FMZXlvN1IyT0JjblpVckpwWHFHV0w4di1SNFFMeVd2OiE8Yj5CZXN0PC9iPiBBcXVhY3VsdHVyZSBQcmFjdGljZXNCcUJBUCBpcyB0aGUgb25seSBhcXVhY3VsdHVyZSBjZXJ0aWZpY2F0aW9uIHByb2dyYW0gaW4gdGhlIHdvcmxkIHRoYXQgY2VydGlmaWVzIGV2ZXJ5IHN0ZXAgb2YgdGhlIHByb2R1Y3Rpb24gY2hhaW4uSgNmb3IiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVkY0eGczbDNmUnhiZFpUblhnekQ0SWxZYzVGblJsWUpTakxaOW5tVTZ2ZE5JMFNSUmk4dFJkNmJuaUxFMW5obldCa2xTWjY4OE9LcTJiOEJHUUxleW83UjJPQmNuWlVySnBYcUdXTDh2LVI0UUx5V3YSBBoCCAAa9AISAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDOAggAEAAYACAAKiAKBGJlc3QVupx8QBoHY29tcGFyZRoKY29tcGFyaXNvbjKGAS9nb3RvP3VybD1DQUVTV1FIck96QVZGNHhnM2wzZlJ4YmRaVG5YZ3pENElsWWM1Rm5SbFlKU2pMWjlubVU2dmROSTBTUlJpOHRSZDZibmlMRTFuaG5XQmtsU1o2ODhPS3EyYjhCR1FMZXlvN1IyT0JjblpVckpwWHFHV0w4di1SNFFMeVd2OiE8Yj5CZXN0PC9iPiBBcXVhY3VsdHVyZSBQcmFjdGljZXNCcUJBUCBpcyB0aGUgb25seSBhcXVhY3VsdHVyZSBjZXJ0aWZpY2F0aW9uIHByb2dyYW0gaW4gdGhlIHdvcmxkIHRoYXQgY2VydGlmaWVzIGV2ZXJ5IHN0ZXAgb2YgdGhlIHByb2R1Y3Rpb24gY2hhaW4uSgNmb3IiAhABSABYAGgA",
+      "source": "Best Aquaculture Practices"
+    },
+    {
+      "position": 9,
+      "title": "Best Places to Work in the Federal Government",
+      "link": "https://bestplacestowork.org/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVQHrOzAVU1alKGv3ErmEAWLlrXLGJcGD9A8SF4DAF79XgWHD_fgufMQfzb1oPCCLfULvxb-QbGE3idAHZSQRU2f5hp_xDW8otvdg__Yv460UX6xPj4Q&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQFnoECEYQAQ&uoh=1",
+      "displayed_link": "https://bestplacestowork.org",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAARVBMVEVHcEwAgMUAgMYAgMUAgMUAgMUAgMUAgMXZQ0UAgMXuOzHuOzHuOzHuOzHuOzEAgMXuOzEAgMXvOjDuOzHvOjDwOS7uOzFEv-jqAAAAF3RSTlMAe2Ol_-rLwgNBvf_xXYaMPBBIfHIXiSREse4AAACsSURBVHgB3c5HEsAgDANA0SG9__-pwQzxpOeeHW4StvEzQuKV0lp-5Ma-59p5BBRltVfWnEchWBkbB80uN_S4wYWctzFOJLo9n3Pp-5YbbLffoNcklTGMUzbOEJpYY-MOJ3paJeeSLZDpuiyAFikcjhROcEG6WHAYCjaACL3jwFjaITn3O0jojoBepXwq9yZsOyzCLt8fmRtW213ORnAjcvDzCZig_I2XCv-1AjSqDVhzMmq1AAAAAElFTkSuQmCC.png",
+      "snippet": "The Partnership for Public Service is a nonprofit, nonpartisan organization that strives for a more effective government for the American people.",
+      "about_this_result": {
+        "source": {
+          "description": "The Partnership for Public Service is a nonprofit, nonpartisan organization that strives for a more effective government for the American people.",
+          "source_info_link": "https://bestplacestowork.org/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAARVBMVEVHcEwAgMUAgMYAgMUAgMUAgMUAgMUAgMXZQ0UAgMXuOzHuOzHuOzHuOzHuOzEAgMXuOzEAgMXvOjDuOzHvOjDwOS7uOzFEv-jqAAAAF3RSTlMAe2Ol_-rLwgNBvf_xXYaMPBBIfHIXiSREse4AAACsSURBVHgB3c5HEsAgDANA0SG9__-pwQzxpOeeHW4StvEzQuKV0lp-5Ma-59p5BBRltVfWnEchWBkbB80uN_S4wYWctzFOJLo9n3Pp-5YbbLffoNcklTGMUzbOEJpYY-MOJ3paJeeSLZDpuiyAFikcjhROcEG6WHAYCjaACL3jwFjaITn3O0jojoBepXwq9yZsOyzCLt8fmRtW213ORnAjcvDzCZig_I2XCv-1AjSqDVhzMmq1AAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVlUxYWxLR3YzRXJtRUFXTGxyWExHSmNHRDlBOFNGNERBRjc5WGdXSERfZmd1Zk1RZnpiMW9QQ0NMZlVMdnhiLVFiR0UzaWRBSFpTUVJVMmY1aHBfeERXOG90dmRnX19ZdjQ2MFVYNnhQajRREgQaAggAGqMDEgIIARoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA_QIIABAAGAAgACogCgRiZXN0FQ_wGkAaB2NvbXBhcmUaCmNvbXBhcmlzb24ygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWVTFhbEtHdjNFcm1FQVdMbHJYTEdKY0dEOUE4U0Y0REFGNzlYZ1dIRF9mZ3VmTVFmemIxb1BDQ0xmVUx2eGItUWJHRTNpZEFIWlNRUlUyZjVocF94RFc4b3R2ZGdfX1l2NDYwVVg2eFBqNFE6NDxiPkJlc3Q8L2I-IFBsYWNlcyB0byBXb3JrIGluIHRoZSBGZWRlcmFsIEdvdmVybm1lbnRCkQFUaGUgUGFydG5lcnNoaXAgZm9yIFB1YmxpYyBTZXJ2aWNlIGlzIGEgbm9ucHJvZml0LCBub25wYXJ0aXNhbiBvcmdhbml6YXRpb24gdGhhdCBzdHJpdmVzIGZvciBhIG1vcmUgZWZmZWN0aXZlIGdvdmVybm1lbnQgZm9yIHRoZSBBbWVyaWNhbiBwZW9wbGUuSgNmb3IiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoEBL2dvdG8_dXJsPUNBRVNWUUhyT3pBVlUxYWxLR3YzRXJtRUFXTGxyWExHSmNHRDlBOFNGNERBRjc5WGdXSERfZmd1Zk1RZnpiMW9QQ0NMZlVMdnhiLVFiR0UzaWRBSFpTUVJVMmY1aHBfeERXOG90dmRnX19ZdjQ2MFVYNnhQajRREgQaAggAGqMDEgIIARoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA_QIIABAAGAAgACogCgRiZXN0FQ_wGkAaB2NvbXBhcmUaCmNvbXBhcmlzb24ygQEvZ290bz91cmw9Q0FFU1ZRSHJPekFWVTFhbEtHdjNFcm1FQVdMbHJYTEdKY0dEOUE4U0Y0REFGNzlYZ1dIRF9mZ3VmTVFmemIxb1BDQ0xmVUx2eGItUWJHRTNpZEFIWlNRUlUyZjVocF94RFc4b3R2ZGdfX1l2NDYwVVg2eFBqNFE6NDxiPkJlc3Q8L2I-IFBsYWNlcyB0byBXb3JrIGluIHRoZSBGZWRlcmFsIEdvdmVybm1lbnRCkQFUaGUgUGFydG5lcnNoaXAgZm9yIFB1YmxpYyBTZXJ2aWNlIGlzIGEgbm9ucHJvZml0LCBub25wYXJ0aXNhbiBvcmdhbml6YXRpb24gdGhhdCBzdHJpdmVzIGZvciBhIG1vcmUgZWZmZWN0aXZlIGdvdmVybm1lbnQgZm9yIHRoZSBBbWVyaWNhbiBwZW9wbGUuSgNmb3IiAhABSABYAGgA",
+      "source": "Best Places to Work in the Federal Government"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best Buy n",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&q=Best+Buy+n&sa=X&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ1QJ6BAg8EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+Buy+n"
+    },
+    {
+      "block_position": 1,
+      "query": "Best Buy USA",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&q=Best+Buy+USA&sa=X&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+Buy+USA"
+    },
+    {
+      "block_position": 1,
+      "query": "What has Be Best accomplished",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&q=What+has+Be+Best+accomplished&sa=X&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=What+has+Be+Best+accomplished"
+    },
+    {
+      "block_position": 1,
+      "query": "Is Be Best still active",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&q=Is+Be+Best+still+active&sa=X&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ1QJ6BAg_EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Is+Be+Best+still+active"
+    },
+    {
+      "block_position": 1,
+      "query": "Be Best initiative",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&q=Be+Best+initiative&sa=X&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Be+Best+initiative"
+    },
+    {
+      "block_position": 1,
+      "query": "Best Buy store Near me",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&q=Best+Buy+store+Near+me&sa=X&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ1QJ6BAg-EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+Buy+store+Near+me"
+    },
+    {
+      "block_position": 1,
+      "query": "Be Best 2026",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&q=Be+Best+2026&sa=X&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ1QJ6BAg7EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Be+Best+2026"
+    },
+    {
+      "block_position": 1,
+      "query": "Best Buy website down",
+      "link": "https://www.google.com/search?sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&q=Best+Buy+website+down&sa=X&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ1QJ6BAg9EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+Buy+website+down"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+cloud+storage+solutions+for+enterprise&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&ei=JEi2arKzEduviLMPyvGP4AE&start=10&sa=N&sstk=AS6-VmKO5u8lnahRSSL-rnTIxprekgt6KHPyEvbUC_W3_HrlHvUhujLsAXyDXkaVkufSM_DcIFh0pufsJpZ0LkcmxO4yFgX2DvdrzQ&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ8NMDegQIORAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+cloud+storage+solutions+for+enterprise&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&ei=JEi2arKzEduviLMPyvGP4AE&start=10&sa=N&sstk=AS6-VmKO5u8lnahRSSL-rnTIxprekgt6KHPyEvbUC_W3_HrlHvUhujLsAXyDXkaVkufSM_DcIFh0pufsJpZ0LkcmxO4yFgX2DvdrzQ&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ8tMDegQIORAE",
+      "3": "https://www.google.com/search?q=best+cloud+storage+solutions+for+enterprise&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&ei=JEi2arKzEduviLMPyvGP4AE&start=20&sa=N&sstk=AS6-VmKO5u8lnahRSSL-rnTIxprekgt6KHPyEvbUC_W3_HrlHvUhujLsAXyDXkaVkufSM_DcIFh0pufsJpZ0LkcmxO4yFgX2DvdrzQ&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ8tMDegQIORAG",
+      "4": "https://www.google.com/search?q=best+cloud+storage+solutions+for+enterprise&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&ei=JEi2arKzEduviLMPyvGP4AE&start=30&sa=N&sstk=AS6-VmKO5u8lnahRSSL-rnTIxprekgt6KHPyEvbUC_W3_HrlHvUhujLsAXyDXkaVkufSM_DcIFh0pufsJpZ0LkcmxO4yFgX2DvdrzQ&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ8tMDegQIORAI",
+      "5": "https://www.google.com/search?q=best+cloud+storage+solutions+for+enterprise&sca_esv=f490e9746bfcf51c&gl=us&hl=en&sxsrf=APpeQnsZtX62LWHLH-REZc0_TmOTAOoEcg:1790330916292&ei=JEi2arKzEduviLMPyvGP4AE&start=40&sa=N&sstk=AS6-VmKO5u8lnahRSSL-rnTIxprekgt6KHPyEvbUC_W3_HrlHvUhujLsAXyDXkaVkufSM_DcIFh0pufsJpZ0LkcmxO4yFgX2DvdrzQ&ved=2ahUKEwiy1a6yvomXAxXbF2IAHcr4AxwQ8tMDegQIORAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+cloud+storage+solutions+for+enterprise&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+cloud+storage+solutions+for+enterprise&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+cloud+storage+solutions+for+enterprise&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+cloud+storage+solutions+for+enterprise&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+cloud+storage+solutions+for+enterprise&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+cloud+storage+solutions+for+enterprise&start=40"
+    }
+  }
+}
