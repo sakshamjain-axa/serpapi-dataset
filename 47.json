@@ -1,0 +1,930 @@
+{
+  "search_metadata": {
+    "id": "6ab7ef8750849cc50b3a5a2e",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/BqolhgcXhOvpu2WrVbu69-Wi8-K1ShamJ6UELZdOMis/6ab7ef8750849cc50b3a5a2e.json",
+    "markdown_endpoint": "https://serpapi.com/searches/BqolhgcXhOvpu2WrVbu69-Wi8-K1ShamJ6UELZdOMis/6ab7ef8750849cc50b3a5a2e.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/BqolhgcXhOvpu2WrVbu69-Wi8-K1ShamJ6UELZdOMis/6ab7ef8750849cc50b3a5a2e.json_with_pixel_position",
+    "created_at": "2026-09-26 16:15:03 UTC",
+    "processed_at": "2026-09-26 16:15:03 UTC",
+    "google_url": "https://www.google.com/search?q=best+natural+deodorants+that+actually+work&oq=best+natural+deodorants+that+actually+work&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/BqolhgcXhOvpu2WrVbu69-Wi8-K1ShamJ6UELZdOMis/6ab7ef8750849cc50b3a5a2e.html",
+    "total_time_taken": 1.23
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best natural deodorants that actually work",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best natural deodorants that actually work",
+    "total_results": 152000,
+    "time_taken_displayed": 0.43,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Free Shipping On Orders $55+ | Non Aluminum Deodorant",
+      "link": "https://www.drsquatch.com/products/natural-deodorant-2-pack-offer",
+      "displayed_link": "https://www.drsquatch.com",
+      "thumbnail": "https://serpapi.com/searches/6ab7ef8750849cc50b3a5a2e/images/VdsyjW4ygAwt2uL6unWcuw.png",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjh_MqV0oyXAxUTm1AGHQylLssYACICCAEQBxoCZGc&co=1&ase=2&gclid=EAIaIQobChMI4fzKldKMlwMVE5tQBh0MpS7LEAAYASADEgJl4vD_BwE&cid=CAASugHkaAQKKvwi-hwxBNTtw8cDo9olPgjzUheZyRhNVTtt23XYQsozg0MsokP8MSpuF0ZKS2A6Y-rkqxM-mc10nhP5uypFkYaeCzM1Q9ES-RaIwx_1nSHyf6ngZ_ykTSmvCX5eJKvXwEbDbMiPGfB6Zrw6vYBw424lT83hTBzmolqOfNniMmLTEQzgFxv-sajosEFlin5O41jCkB7GM-2Owu9RTa-GTKYRtQWH7Kphbo9IIa8gYf6SQPV7NME&cce=2&category=acrcp_v1_32&sig=AOD64_0mqv1-M3t9ydbBO4IDj5L_Yw95WQ&q=&nis=4&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQh78CegQIEBAB&adurl=https://www.drsquatch.com/products/natural-deodorant-2-pack-offer%3Fnbt%3Dnb%253Aadwords%253Ag%253A21195428095%253A164124667347%253A696796700837%26nb_adtype%3D%26nb_kwd%3Dnon%2520aluminum%2520deodorant%26nb_ti%3Dkwd-4238612852%26nb_mi%3D%26nb_pc%3D%26nb_pi%3D%26nb_ppi%3D%26nb_placement%3D%26nb_li_ms%3D%26nb_lp_ms%3D%26nb_fii%3D%26nb_ap%3D%26nb_mt%3Dp%26campaignid%3D21195428095%26adgroupid%3D164124667347%26adid%3D696796700837%26gad_source%3D1%26gad_campaignid%3D21195428095%26gbraid%3D0AAAAADy1OLi0fCpRNOUKYPcxPDfANYaBR%26gclid%3DEAIaIQobChMI4fzKldKMlwMVE5tQBh0MpS7LEAAYASADEgJl4vD_BwE",
+      "description": "Dr. Squatch natural, aluminum free deodorant formulated specifically for men.",
+      "source": "Dr. Squatch",
+      "sitelinks": [
+        {
+          "title": "Natural Deodorant For Men",
+          "link": "https://www.drsquatch.com/products/natural-deodorant-2-pack-offer%7Bignore%7D?nbt=nb%3Aadwords%3A%7Bnetwork%7D%3A%7Bcampaignid%7D%3A%7Badgroupid%7D%3A%7Bcreative%7D&nb_adtype=%7Badtype%7D&nb_kwd=%7Bkeyword%7D&nb_ti=%7Btargetid%7D&nb_mi=%7Bmerchant_id%7D&nb_pc=%7Bproduct_channel%7D&nb_pi=%7Bproduct_id%7D&nb_ppi=%7Bproduct_partition_id%7D&nb_placement=%7Bplacement%7D&nb_li_ms=%7Bloc_interest_ms%7D&nb_lp_ms=%7Bloc_interest_ms%7D&nb_fii=%7Bfeeditemid%7D&nb_ap=%7Badposition%7D&nb_mt=%7Bmatchtype%7D"
+        },
+        {
+          "title": "Men's Natural Cologne",
+          "link": "https://www.drsquatch.com/collections/colognes"
+        },
+        {
+          "title": "Men's Aluminum Free Deodorant",
+          "link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjh_MqV0oyXAxUTm1AGHQylLssYACICCAEQCRoCZGc&co=1&ase=2&gclid=EAIaIQobChMI4fzKldKMlwMVE5tQBh0MpS7LEAAYASAEEgIGZ_D_BwE&cid=CAASugHkaAQKKvwi-hwxBNTtw8cDo9olPgjzUheZyRhNVTtt23XYQsozg0MsokP8MSpuF0ZKS2A6Y-rkqxM-mc10nhP5uypFkYaeCzM1Q9ES-RaIwx_1nSHyf6ngZ_ykTSmvCX5eJKvXwEbDbMiPGfB6Zrw6vYBw424lT83hTBzmolqOfNniMmLTEQzgFxv-sajosEFlin5O41jCkB7GM-2Owu9RTa-GTKYRtQWH7Kphbo9IIa8gYf6SQPV7NME&cce=2&category=acrcp_v1_32&sig=AOD64_2OenGRQXHcJserAt4EG79iHO9Msw&adurl=https://www.drsquatch.com/products/natural-deodorant-2-pack-offer%3Fnbt%3Dnb%253Aadwords%253Ag%253A21195428095%253A164124667347%253A696796700837%26nb_adtype%3D%26nb_kwd%3Dnon%2520aluminum%2520deodorant%26nb_ti%3Dkwd-4238612852%26nb_mi%3D%26nb_pc%3D%26nb_pi%3D%26nb_ppi%3D%26nb_placement%3D%26nb_li_ms%3D%26nb_lp_ms%3D%26nb_fii%3D%26nb_ap%3D%26nb_mt%3Dp%26campaignid%3D21195428095%26adgroupid%3D164124667347%26adid%3D696796700837%26gad_source%3D1%26gad_campaignid%3D21195428095%26gbraid%3D0AAAAADy1OLi0fCpRNOUKYPcxPDfANYaBR%26gclid%3DEAIaIQobChMI4fzKldKMlwMVE5tQBh0MpS7LEAAYASAEEgIGZ_D_BwE&q="
+        },
+        {
+          "title": "Best Sellers",
+          "link": "https://www.drsquatch.com/collections/best-sellers"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Walmart Bath Bombs & More | New Deodorant Sticks & More",
+      "link": "https://www.walmart.com/browse/premium-beauty/premium-bath-body/7924299_5830650",
+      "displayed_link": "https://www.walmart.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjh_MqV0oyXAxUTm1AGHQylLssYACICCAEQARoCZGc&co=1&ase=2&gclid=EAIaIQobChMI4fzKldKMlwMVE5tQBh0MpS7LEAAYAiAAEgIHQ_D_BwE&cid=CAASugHkaAQKKvwi-hwxBNTtw8cDo9olPgjzUheZyRhNVTtt23XYQsozg0MsokP8MSpuF0ZKS2A6Y-rkqxM-mc10nhP5uypFkYaeCzM1Q9ES-RaIwx_1nSHyf6ngZ_ykTSmvCX5eJKvXwEbDbMiPGfB6Zrw6vYBw424lT83hTBzmolqOfNniMmLTEQzgFxv-sajosEFlin5O41jCkB7GM-2Owu9RTa-GTKYRtQWH7Kphbo9IIa8gYf6SQPV7NME&cce=2&category=acrcp_v1_32&sig=AOD64_3yN0G9STxrmbj4Yv572pFpAE4oAA&q&nis=4&adurl=https://www.walmart.com/browse/premium-beauty/premium-bath-body/7924299_5830650?gclsrc%3Daw.ds%26adid%3D2222222222036583264%26wmlspartner%3Dwmtlabs%26wl0%3Db%26wl1%3Dg%26wl2%3Dc%26wl3%3D802178533805%26wl4%3Dkwd-11112549153%26wl5%3D1018611%26wl6%3D%26wl7%3D%26wl8%3D%26veh%3Dsem%26gad_source%3D1%26gad_campaignid%3D23685649149%26gbraid%3D0AAAAADmfBIqZOaohLT4XpyvTDIAW6APds%26gclid%3DEAIaIQobChMI4fzKldKMlwMVE5tQBh0MpS7LEAAYAiAAEgIHQ_D_BwE",
+      "reviews": 6043
+    },
+    {
+      "position": 3,
+      "block_position": "bottom",
+      "title": "Switch To Dr. Squatch | Men's Aluminum Free Deodorant",
+      "link": "https://www.drsquatch.com/products/natural-deodorant-2-pack-offer",
+      "displayed_link": "https://www.drsquatch.com",
+      "thumbnail": "https://tpc.googlesyndication.com/simgad/1384373774925774315?sqp=-oaymwEKCFwQXCABUAFYAQ&rs=AOga4ql6B5ymLHdrCNOGzwa6CRcfhw6f7Q",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjh_MqV0oyXAxUTm1AGHQylLssYACICCAIQBBoCZGc&co=1&ase=2&gclid=EAIaIQobChMI4fzKldKMlwMVE5tQBh0MpS7LEAMYASADEgKG6fD_BwE&cid=CAASugHkaAQKKvwi-hwxBNTtw8cDo9olPgjzUheZyRhNVTtt23XYQsozg0MsokP8MSpuF0ZKS2A6Y-rkqxM-mc10nhP5uypFkYaeCzM1Q9ES-RaIwx_1nSHyf6ngZ_ykTSmvCX5eJKvXwEbDbMiPGfB6Zrw6vYBw424lT83hTBzmolqOfNniMmLTEQzgFxv-sajosEFlin5O41jCkB7GM-2Owu9RTa-GTKYRtQWH7Kphbo9IIa8gYf6SQPV7NME&cce=2&category=acrcp_v1_32&sig=AOD64_1ActWmoPDbXXgDzMN6i0RULWMi9A&q=&nis=4&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQh78CegQIeBAB&adurl=",
+      "description": "Say goodbye to harsh, chemical-filled deodorants and try something that...",
+      "source": "Dr. Squatch",
+      "sitelinks": [
+        {
+          "title": "Natural Deodorant For Men",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjh_MqV0oyXAxUTm1AGHQylLssYACICCAIQBRoCZGc&co=1&ase=2&gclid=EAIaIQobChMI4fzKldKMlwMVE5tQBh0MpS7LEAMYASAEEgJrwPD_BwE&cid=CAASugHkaAQKKvwi-hwxBNTtw8cDo9olPgjzUheZyRhNVTtt23XYQsozg0MsokP8MSpuF0ZKS2A6Y-rkqxM-mc10nhP5uypFkYaeCzM1Q9ES-RaIwx_1nSHyf6ngZ_ykTSmvCX5eJKvXwEbDbMiPGfB6Zrw6vYBw424lT83hTBzmolqOfNniMmLTEQzgFxv-sajosEFlin5O41jCkB7GM-2Owu9RTa-GTKYRtQWH7Kphbo9IIa8gYf6SQPV7NME&cce=2&category=acrcp_v1_32&sig=AOD64_2ZDy2JfdrSzAjBGmtYO6FHM3w1EQ&adurl=&q="
+        },
+        {
+          "title": "Men's Natural Cologne",
+          "link": "https://www.drsquatch.com/collections/colognes"
+        },
+        {
+          "title": "Free Shipping On Orders $55+",
+          "link": "https://www.drsquatch.com/products/natural-deodorant-2-pack-offer%7Bignore%7D?nbt=nb%3Aadwords%3A%7Bnetwork%7D%3A%7Bcampaignid%7D%3A%7Badgroupid%7D%3A%7Bcreative%7D&nb_adtype=%7Badtype%7D&nb_kwd=%7Bkeyword%7D&nb_ti=%7Btargetid%7D&nb_mi=%7Bmerchant_id%7D&nb_pc=%7Bproduct_channel%7D&nb_pi=%7Bproduct_id%7D&nb_ppi=%7Bproduct_partition_id%7D&nb_placement=%7Bplacement%7D&nb_li_ms=%7Bloc_interest_ms%7D&nb_lp_ms=%7Bloc_interest_ms%7D&nb_fii=%7Bfeeditemid%7D&nb_ap=%7Badposition%7D&nb_mt=%7Bmatchtype%7D"
+        },
+        {
+          "title": "Shop Bundles",
+          "link": "https://www.drsquatch.com/pages/bundles"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "block_position": "bottom",
+      "title": "Secret Women's Deodorant | Deodorant Without Aluminium",
+      "link": "https://www.walmart.com/ip/Secret-Aluminum-Free-Deodorant-for-Women-Cherry-Blossom-2-4-oz/605575742",
+      "displayed_link": "https://www.walmart.com › secret › aluminum_free",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjh_MqV0oyXAxUTm1AGHQylLssYACICCAIQARoCZGc&co=1&ase=2&gclid=EAIaIQobChMI4fzKldKMlwMVE5tQBh0MpS7LEAMYAiAAEgKjivD_BwE&cid=CAASugHkaAQKKvwi-hwxBNTtw8cDo9olPgjzUheZyRhNVTtt23XYQsozg0MsokP8MSpuF0ZKS2A6Y-rkqxM-mc10nhP5uypFkYaeCzM1Q9ES-RaIwx_1nSHyf6ngZ_ykTSmvCX5eJKvXwEbDbMiPGfB6Zrw6vYBw424lT83hTBzmolqOfNniMmLTEQzgFxv-sajosEFlin5O41jCkB7GM-2Owu9RTa-GTKYRtQWH7Kphbo9IIa8gYf6SQPV7NME&cce=2&category=acrcp_v1_32&sig=AOD64_3lMLIu8rBmX3NcGfoKW9_lmdFGKg&q&nis=4&adurl",
+      "description": "This Award-Winning Deodorant Is Designed To Provide Lasting 48-Hour Odor Protection. This...",
+      "source": "walmart.com"
+    }
+  ],
+  "immersive_products": [
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/6ab7ef8750849cc50b3a5a2e/images/ox5Q-C4v3VeV-o0NMLkbeGIGp24kCZc-fZ0DL-GBb7s.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA0klEQVRYhe2UsRmCMBBG3_k5gI7gCBbpHYU5oIEC1nAUe7BgBDfQWovYWPmJ5MjxUZDXJpf_Ee4CicTaEYAG50M253QytBZ6BoBHqoK2BNiGFv1DE_79EZslw6MFYsOjBCzCYUIP1LiLwMkiHJRToGUsHAyaMCZ8NoHQ8NkEatx5UQGBrMHdFxP4sAu5CZXAk9des18gMxUo6R8ejpqasRFX_4KCrvf4ykpiUg8UXEuQm4XE5CbMaQ_aml8SUVOgeXCGJKLHMFbC5B2wuIlEYr28AbktP-XiWIf_AAAAAElFTkSuQmCC.png",
+      "source": "Kohl's",
+      "title": "Salt & Stone Deodorant",
+      "rating": 4.7,
+      "reviews": 25000,
+      "price": "$20.00",
+      "extracted_price": 20.0,
+      "original_price": "$7.69/oz",
+      "extracted_original_price": 7.69,
+      "location": "Nearby, 4 mi",
+      "immersive_product_page_token": "y6W1NHicbZJBrqNGEIalnCGniPUkuqHBzM4GGptnwDTQ2GxGbTc24DYwGAy2cofcwW8m0mQ5GSlneTlNPFlPbUqqT6r__0v1xyMr_slfXmTWR6vV0hb5brn-5BRGPdt-bdqa9_uu4N8gUiFQp0gDmvJsUJK_7lnHRH0s-HcANBVMlSmUFSjrCEFNV7_lGeOiqDL_cMhas94X_O_pFMlTBWhTVZUVGUky0v4qzuyY_Y-_Aw0psqrqCoJQBVBWn_yt5Zd3uDY-qjLQJFV6lq7oaKrLkvL7mvjmx5-zL5_6rL29_7bLLt2kYl3fMjHhWc3rllXdZdLlrJuwfdczIW6ToW5PX47ND48_2fV2fh4AaaqiQkXRoKxNAYAKemuu3SM_fu57kb2bw8SYLYOlsWwpxHdmiz6VyXVXjFZwm9Whjat049y5rcvPmUeM04UmqOE2PS2xJ203ROyHx1E8-ssjF4-s-rNmzfWw__eXX616MI3LYARx01CTSJFFmv19fvZNh25DCXpifiannASQVG4U3LOTh4jk2MGmWa0ScSZwOQbRvE5CSdnf8wOjJHTFctxhsXFFTtISjxx6bmh15xAKvC09i5t0lUZOE9wdfyeoHZVexeKpzCRMt2KvJGV-jRNd9Q3gUZsOLCYgjrsiKT1CQPO6S2hD7W7OziKPN4REJS-jZHzqcLiPuzCsKGZWcPexg6l0hIlwVknkDq5FHYb5OjHnQwjHwEsAIlWeB6W3JklnR0l3dWPxGka4DqSuj3EseyIfSEVGGvNDesLrtIyVbSxW6QmlIc1r38yxn-AmxKlHrXF0K6eipqWQyjO5AVw_zn030SW-4Osgolvv7nn8Pr-xjXDihNIwllAExMAlfmFVIycnWmcL2iblU6-aSVQ426ffeVrxcndGr-75GdBWhvSOHb5YwmhxDDE8dqvIyzklbmSJxc7Oi5DOx_AszJ2EU7tw5mTh3fwkjWjEWZzwqyv0OQOiiczU5FSQLQSvIfAYj5H8eby0h3dphlEX-qjNb86LvmpSI7CYaVSL42rNlcqu0OwD0HRJkX-8saKB_wCwuU8n",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=y6W1NHicbZJBrqNGEIalnCGniPUkuqHBzM4GGptnwDTQ2GxGbTc24DYwGAy2cofcwW8m0mQ5GSlneTlNPFlPbUqqT6r__0v1xyMr_slfXmTWR6vV0hb5brn-5BRGPdt-bdqa9_uu4N8gUiFQp0gDmvJsUJK_7lnHRH0s-HcANBVMlSmUFSjrCEFNV7_lGeOiqDL_cMhas94X_O_pFMlTBWhTVZUVGUky0v4qzuyY_Y-_Aw0psqrqCoJQBVBWn_yt5Zd3uDY-qjLQJFV6lq7oaKrLkvL7mvjmx5-zL5_6rL29_7bLLt2kYl3fMjHhWc3rllXdZdLlrJuwfdczIW6ToW5PX47ND48_2fV2fh4AaaqiQkXRoKxNAYAKemuu3SM_fu57kb2bw8SYLYOlsWwpxHdmiz6VyXVXjFZwm9Whjat049y5rcvPmUeM04UmqOE2PS2xJ203ROyHx1E8-ssjF4-s-rNmzfWw__eXX616MI3LYARx01CTSJFFmv19fvZNh25DCXpifiannASQVG4U3LOTh4jk2MGmWa0ScSZwOQbRvE5CSdnf8wOjJHTFctxhsXFFTtISjxx6bmh15xAKvC09i5t0lUZOE9wdfyeoHZVexeKpzCRMt2KvJGV-jRNd9Q3gUZsOLCYgjrsiKT1CQPO6S2hD7W7OziKPN4REJS-jZHzqcLiPuzCsKGZWcPexg6l0hIlwVknkDq5FHYb5OjHnQwjHwEsAIlWeB6W3JklnR0l3dWPxGka4DqSuj3EseyIfSEVGGvNDesLrtIyVbSxW6QmlIc1r38yxn-AmxKlHrXF0K6eipqWQyjO5AVw_zn030SW-4Osgolvv7nn8Pr-xjXDihNIwllAExMAlfmFVIycnWmcL2iblU6-aSVQ426ffeVrxcndGr-75GdBWhvSOHb5YwmhxDDE8dqvIyzklbmSJxc7Oi5DOx_AszJ2EU7tw5mTh3fwkjWjEWZzwqyv0OQOiiczU5FSQLQSvIfAYj5H8eby0h3dphlEX-qjNb86LvmpSI7CYaVSL42rNlcqu0OwD0HRJkX-8saKB_wCwuU8n"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/6ab7ef8750849cc50b3a5a2e/images/ox5Q-C4v3VeV-o0NMLkbePQ80WRLiMCIJZfpZDhbGNg.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEVHcEzyaxzyaxz____yaxzyaxzyaxzyaxzyaxzyaxzyZAHyaBDxXgD4t531jmH839X0f0f2nnr3rI7-8Ov5wav6zLy-_yPcAAAACnRSTlMA6v__T8rsE5SlBDbs2AAAARRJREFUOI2Nk9m2gyAMRSVxwDBUUP__Vy8BKkKlvecJVjZJyDAMRaOcZoB5kuPwoGWFm9altUtoJOvnorUDiJuTBRQF3azhrmC52Z3xxhRCWWNcIQTQiYi7vgDyiCeBuPKjowaUQzwoZ7pABl41ECNyEP4_mQawiJ6BNQDwDYBQ3-_AmEr4AWyIjlJBpycAGFB8mIa56yEC8wA9wEYAfgPdEDaHeEyyAFP_mwmQ_UJtKhUqldo37Q7NyjmmZvELxDIw-sz4mtsNmoHj7YK2NA6p3THNGAONJqUUafYHKcU8ctEpp3E4a_0rnCw7ENfQMhF9ZO1bCXARpN25R-tptars78UJ0ZOiWdTb92P1_rG8rMf1_wNTPxGHR0NMYgAAAABJRU5ErkJggg.png",
+      "source": "Ulta Beauty",
+      "title": "OUAI Deodorant",
+      "rating": 4.5,
+      "reviews": 2900,
+      "price": "$22.00",
+      "extracted_price": 22.0,
+      "original_price": "$8.80/oz",
+      "extracted_original_price": 8.8,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "R3mh_XicbZJLrqtGEIalrCGriHUkaGgemdnmYXPstmnoBvfkCmhsMM3DNrY5VvaQPfjcG-lmeBMpazlZTUgyTIZVf9Wvrx4_P_Pyj-LlRUmu4Wq1dEWRLrcnr5y3093X7tzya9aX_DcVmDKQNANCTQeaAVRT_ZolfSLaQ8l_l6EuA00Bsm5ASZMMzVCUb0WecFE2-Wa_z89Wm_3too-ViqlDqJiSJmuKof1a1skh_1fWgKGPvVAzoQEVTTYk9f3MLx9gO_-kjQEY3Q3FNEwNaAAaP23xxvr0_9qX0zU_v338kOaXftIk_fWciAnPW96ek6a_TPoi6SdJ1l8TId4m9_ZcfTl0_zD81-u9Lvk3qGvqyKdAABRT0XRZe-9u_bM4fL5eRf5h3Sfz6dJfzpdnCpxH4oorU_AtLQfbf5u2ges0LPYe3DWVMYfwvLrQCHbcpdXSQdIuxiK7Pw_ieb08C_HMm1_apLvtsz-_-95u79b8cp_7pOuohaWgFoRWAwwe_IHjnZzGeI-V2TIg_ILEQcosr1tLbMOEd6NRX69lvlwTOGcCF9RCQVghwAiy0iNV1iE7UWd2D0Wn8Hp35wCpQYNuLJL3fsXbXY3KLHI6VMFXWlVD0vjDLuSrVeScs5rf04hvGehWOT3IqUVv-IjqnIoTkgVltRkHdCSu0SuJYJxaqOMLAkeuLqxZHLg7GTdoxekSkkVxZHQqRcSZ4we1fQlJmTu8YtFpJJz5tJKbVFrDrFrKIejstPKHyIbjPE6BH4hkC_bIauOe26aHG_HYRDAJ7MFiVsG4O7hYeDIi494dD-Wxt2NO2zOHqzikJ__hIKwUSQwYDCVcIVvggMA1a2wYCNLT-NAHlSRF0RoQWyYIDOtsgVAYE5BHZrUhHtlEQxuATF7b8OoDZxu6hZZIUMFhgfmxChxw6FchKjjF69AWi9QtyoDOhvGWVio5zC29GV6gt03EiK8gnxK4CKjwNvEMrWmnJoB7rBYuIyM7GJrPw-W8_5CmDuyDjX7SMZGA0aXgxaHYN2ahrWdH-_hYTX-UdVNSx4-VVFUHfwE9P00K",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=R3mh_XicbZJLrqtGEIalrCGriHUkaGgemdnmYXPstmnoBvfkCmhsMM3DNrY5VvaQPfjcG-lmeBMpazlZTUgyTIZVf9Wvrx4_P_Pyj-LlRUmu4Wq1dEWRLrcnr5y3093X7tzya9aX_DcVmDKQNANCTQeaAVRT_ZolfSLaQ8l_l6EuA00Bsm5ASZMMzVCUb0WecFE2-Wa_z89Wm_3too-ViqlDqJiSJmuKof1a1skh_1fWgKGPvVAzoQEVTTYk9f3MLx9gO_-kjQEY3Q3FNEwNaAAaP23xxvr0_9qX0zU_v338kOaXftIk_fWciAnPW96ek6a_TPoi6SdJ1l8TId4m9_ZcfTl0_zD81-u9Lvk3qGvqyKdAABRT0XRZe-9u_bM4fL5eRf5h3Sfz6dJfzpdnCpxH4oorU_AtLQfbf5u2ges0LPYe3DWVMYfwvLrQCHbcpdXSQdIuxiK7Pw_ieb08C_HMm1_apLvtsz-_-95u79b8cp_7pOuohaWgFoRWAwwe_IHjnZzGeI-V2TIg_ILEQcosr1tLbMOEd6NRX69lvlwTOGcCF9RCQVghwAiy0iNV1iE7UWd2D0Wn8Hp35wCpQYNuLJL3fsXbXY3KLHI6VMFXWlVD0vjDLuSrVeScs5rf04hvGehWOT3IqUVv-IjqnIoTkgVltRkHdCSu0SuJYJxaqOMLAkeuLqxZHLg7GTdoxekSkkVxZHQqRcSZ4we1fQlJmTu8YtFpJJz5tJKbVFrDrFrKIejstPKHyIbjPE6BH4hkC_bIauOe26aHG_HYRDAJ7MFiVsG4O7hYeDIi494dD-Wxt2NO2zOHqzikJ__hIKwUSQwYDCVcIVvggMA1a2wYCNLT-NAHlSRF0RoQWyYIDOtsgVAYE5BHZrUhHtlEQxuATF7b8OoDZxu6hZZIUMFhgfmxChxw6FchKjjF69AWi9QtyoDOhvGWVio5zC29GV6gt03EiK8gnxK4CKjwNvEMrWmnJoB7rBYuIyM7GJrPw-W8_5CmDuyDjX7SMZGA0aXgxaHYN2ahrWdH-_hYTX-UdVNSx4-VVFUHfwE9P00K"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/6ab7ef8750849cc50b3a5a2e/images/ox5Q-C4v3VeV-o0NMLkbePAYl0ZpqCtuH-PJwD1x8K0.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7ef8750849cc50b3a5a2e/images/ox5Q-C4v3VeV-o0NMLkbeFa0t3TOeZSvjtkMFpQvo-c5eokxHOeLvglfiAc2pRl7.png",
+      "source": "Walmart",
+      "title": "Deodorant Dr Squatch",
+      "rating": 4.4,
+      "reviews": 8400,
+      "price": "$12.98",
+      "extracted_price": 12.98,
+      "original_price": "$4.90/oz",
+      "extracted_original_price": 4.9,
+      "location": "Nearby, 3 mi",
+      "delivery": "1 hour delivery $20",
+      "immersive_product_page_token": "wcCneXicdZLbjqNGEIalPEOeItZI3XRz2jsfgDFjYGigwX2zwjQ2mOYwNtgY5R3yDp7dSJvLVaQ8y-Rp4kS5TKouSqpP-v8qVf1yz8s_iqcnlA7hZrO2RLFbv77Z5bKdb791p5YPWV_y74qq6DJWNAyBjDWoA-VblvapaA8PqGIVKH8HVhUJyZIGvhd5ykXZ5N5-n59WbVby3yHWdaipAAEVqCrACobSb2WdHvJ_uawhFWFJQbr-qNojwfuJnz_w6_IzVDQJ6ggi_WGjqrqmQeXnV-KtPv8P_Po25Kfbx0-7_NzPmrQfTqmY8bzl7Slt-vOsL9J-lmb9kApxm13bU_X10P0zxn-IvdePLWVVwYqEdU3WIEaSqoP37tLfi8OXYRD5x-o6W87X_nq5PlHJnFJLDAyRy64cDf82bwPLbFhiT9zS0aPnkmV1prHccYtWa9MF24SI7Ho_iPtwvhfinje_tml32Wd__vCj0V5Xy_N16UddR1cEBACmGeoGvxJkZ-lJXHVJUAvPifVVeFwMrDIf3hRtks5hVifllm65z9HNW_HJe3aPHi3kKGItrTJEjO0tPrpr97g4shjWLhBbN7YTBz70GlqnJsd55C45IIhW7iWvYBmBAwrrbc8T--hLsGCmc_Or80gat2UGkXljvvHJkaLEdHdoPXFKLwTaI6uLC60MnALbDuORsCPr6MRwFJkrB5HFNuGBYxYjrYqeGL0b0a4KjcIJoVvHRkeoyDAX7uRE_cAbHviNgb1QSCSsJl8QL63tG0O2lJl2GZoadsUcUsphSvXWP_I6qITCavHiGeY1i6FPYw26E022UKcJpCdfEkFQE0BqY9pRYRNgEha5IafMzipRktiBcczjCLYjl7q9W5twkywEo4uXOGFG_NyNAZBffFEBMq3HIB6bbczOUVUFpnToN6FbcEqc0BDPO6soA7oYH3db7YDJrNJekGf35sUsdKZFy6gGAoM7fgRLGjogjJkZoYXnTBV0QIe-jOfT_gPMTbkPPPVNJRGQtG4nPZmU-NoiNNTsaBynzfwTfHwqRjoCGKvSXwgtToE",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=wcCneXicdZLbjqNGEIalPEOeItZI3XRz2jsfgDFjYGigwX2zwjQ2mOYwNtgY5R3yDp7dSJvLVaQ8y-Rp4kS5TKouSqpP-v8qVf1yz8s_iqcnlA7hZrO2RLFbv77Z5bKdb791p5YPWV_y74qq6DJWNAyBjDWoA-VblvapaA8PqGIVKH8HVhUJyZIGvhd5ykXZ5N5-n59WbVby3yHWdaipAAEVqCrACobSb2WdHvJ_uawhFWFJQbr-qNojwfuJnz_w6_IzVDQJ6ggi_WGjqrqmQeXnV-KtPv8P_Po25Kfbx0-7_NzPmrQfTqmY8bzl7Slt-vOsL9J-lmb9kApxm13bU_X10P0zxn-IvdePLWVVwYqEdU3WIEaSqoP37tLfi8OXYRD5x-o6W87X_nq5PlHJnFJLDAyRy64cDf82bwPLbFhiT9zS0aPnkmV1prHccYtWa9MF24SI7Ho_iPtwvhfinje_tml32Wd__vCj0V5Xy_N16UddR1cEBACmGeoGvxJkZ-lJXHVJUAvPifVVeFwMrDIf3hRtks5hVifllm65z9HNW_HJe3aPHi3kKGItrTJEjO0tPrpr97g4shjWLhBbN7YTBz70GlqnJsd55C45IIhW7iWvYBmBAwrrbc8T--hLsGCmc_Or80gat2UGkXljvvHJkaLEdHdoPXFKLwTaI6uLC60MnALbDuORsCPr6MRwFJkrB5HFNuGBYxYjrYqeGL0b0a4KjcIJoVvHRkeoyDAX7uRE_cAbHviNgb1QSCSsJl8QL63tG0O2lJl2GZoadsUcUsphSvXWP_I6qITCavHiGeY1i6FPYw26E022UKcJpCdfEkFQE0BqY9pRYRNgEha5IafMzipRktiBcczjCLYjl7q9W5twkywEo4uXOGFG_NyNAZBffFEBMq3HIB6bbczOUVUFpnToN6FbcEqc0BDPO6soA7oYH3db7YDJrNJekGf35sUsdKZFy6gGAoM7fgRLGjogjJkZoYXnTBV0QIe-jOfT_gPMTbkPPPVNJRGQtG4nPZmU-NoiNNTsaBynzfwTfHwqRjoCGKvSXwgtToE"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/6ab7ef8750849cc50b3a5a2e/images/ox5Q-C4v3VeV-o0NMLkbeAFJhJ2LXixaMK55e2Utb9w.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACBElEQVRYhc2X4W3CMBCFP6IOkBFggyB5AJigdAJgg24AbJANKBPQDegAkeoNYISM0B--QJTcJYYi4EkISM7vns_n83nAlSggBTL5pPK4BDzgXfgdjUGk0yGwAN7FcRc8sAO-HZz-JUBmuwI-I3RqyIFNV1RMAQVMgD2XMN-KEvhw8KO9TAznC-BwB-cIx0E4W2hFQAy3keRevvvyosLSwZcpQMJ-6CA4cUkwX39RBBEzYE5IWgvT-nKcBUjCHbHDvnGw7iCui1kTkldDCYyqxKznwMpwXorqKOcAYjtFz_5qZwESAdnnR4NvamVwH3qWdOTgVEVgZhhtLOcFZAUs5KMmoYzdGNwzuETglzbJycFIc0zYJU17T8hyr4w50k5M72Cc1Gp7EzvD-cGwzwj7PYqLEME0McgAvpVnW7qLU4peQzQugMwUYOzzmIKTNaOgLUtdgDYjbUBstbNsNc5UPQseiQS9WMTOwEJsBMvEIjbWMUaEN_JHtTUFoBenJd0tVyk2MVxBgLv0c03Mmw9kZlPD3hPKdhQX0j--yZ8d7TANC1g3DyFxMG5sy1bYK8jJOFRe7eBVDiPpXnPDcC9EtzjfG6_zqmO-qiGRgb19_zUNyeu0ZDWiBc9qSm8UEYuWc1OAiJjwrIsJnNupEfbuiEFOSDjVOVx3Oa0S7HGXU0PMXa_nf7VPriUMEUfkAAAAAElFTkSuQmCC.png",
+      "source": "Target",
+      "title": "Deodorant Native",
+      "rating": 4.4,
+      "reviews": 56000,
+      "price": "$13.99",
+      "extracted_price": 13.99,
+      "original_price": "$5.28/oz",
+      "extracted_original_price": 5.28,
+      "location": "Nearby, 4 mi",
+      "immersive_product_page_token": "M2I1EnicdVNbrqNGEJWyhqwi1pW6m8a458_mZXMNvjTQYH5GQGM3pjHYxtcPZQ_Zg-9MpMnnzEizlpvVhMx3olL91CmdOqdK9cejrH6IpyclO4fL5cKWIl-8HJxKb6frL92x5eeir_g3CBAiE6ggDBEBBE2Q8qXI-ky224p_h1hDWFUQhFglBMKxhuFXUWZcVvtytdmUR6Mt_u0bD0EmWCMTAIiGEYHkr6rJtuVP_NuEAIWMVQ2CMYZwgpFC3o789I5f9I9QVTSIwVgbozFWkaJhTf39ha6Mj_8Dfj6cy-Pt_be8PPWjfdafj5kc8bLl7THb96dRL7J-lBX9OZPyNrq0x_rztvup8j_I3pqKf1W1MR4PmpGCEVBUgNFb99o_xPbT-SzLd-My0qcLf6EvjgxZ98yW51Shr3l1Nf3btA1sa58mzp3bRBlqHtXrE4vVjtusXlgeWCdUFpfHVj7Op4eQj3L_Z5t1r5vi719-NduLoZ8uuh91HTMoCM0uDmMqsx1zAuaEKx3GDBAQJ6kRNFAyw9tFd8uhiVj6DT94e3GjIFVXsYn8RlUz4PYUwXplq5Qx3rD97OCHch6aNSqbfk0NMc5hVw258mB3ScECRpDZkeklhbSwf3c23LKEO7daN96iIIBV3pCAWREOYmINjHIN6yuHLuCSJBQIGsaeS3fech2yprDhPap7z73TPd2n8wDJiEpqs8RUo517CU0n9mpV0GFOOqddwbYXFjoyrwdmy0FeLZrgLp6ziO6D2PLz4R5pA8113a99JvUi4uc8FHoAHX8ZOa9evL2nMtWpInS3Zm5gzQ5BIo3M7PTc4NQFPUzN67LYidpTWEMtvuJxR3M2e3GhZYaRc43CaNibec2R10ZxGoWJ85wpaeLd-abYOdIFbB4oCyU3aEglZ1kyAyuDQspS7CrbwELbfhl6gjPqhqac57aoAja7Bo00cmClduXM6Ny7reI0dJPBs5zFPlwrBYCCGyJxbVXPLPLsxzRwo3T26Xo6bt7B1FL7YKUdNBoBNOly9GQx6k9moakVO3N3X04_QI0ArBAF4OFP_wHpcEtC",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=M2I1EnicdVNbrqNGEJWyhqwi1pW6m8a458_mZXMNvjTQYH5GQGM3pjHYxtcPZQ_Zg-9MpMnnzEizlpvVhMx3olL91CmdOqdK9cejrH6IpyclO4fL5cKWIl-8HJxKb6frL92x5eeir_g3CBAiE6ggDBEBBE2Q8qXI-ky224p_h1hDWFUQhFglBMKxhuFXUWZcVvtytdmUR6Mt_u0bD0EmWCMTAIiGEYHkr6rJtuVP_NuEAIWMVQ2CMYZwgpFC3o789I5f9I9QVTSIwVgbozFWkaJhTf39ha6Mj_8Dfj6cy-Pt_be8PPWjfdafj5kc8bLl7THb96dRL7J-lBX9OZPyNrq0x_rztvup8j_I3pqKf1W1MR4PmpGCEVBUgNFb99o_xPbT-SzLd-My0qcLf6EvjgxZ98yW51Shr3l1Nf3btA1sa58mzp3bRBlqHtXrE4vVjtusXlgeWCdUFpfHVj7Op4eQj3L_Z5t1r5vi719-NduLoZ8uuh91HTMoCM0uDmMqsx1zAuaEKx3GDBAQJ6kRNFAyw9tFd8uhiVj6DT94e3GjIFVXsYn8RlUz4PYUwXplq5Qx3rD97OCHch6aNSqbfk0NMc5hVw258mB3ScECRpDZkeklhbSwf3c23LKEO7daN96iIIBV3pCAWREOYmINjHIN6yuHLuCSJBQIGsaeS3fech2yprDhPap7z73TPd2n8wDJiEpqs8RUo517CU0n9mpV0GFOOqddwbYXFjoyrwdmy0FeLZrgLp6ziO6D2PLz4R5pA8113a99JvUi4uc8FHoAHX8ZOa9evL2nMtWpInS3Zm5gzQ5BIo3M7PTc4NQFPUzN67LYidpTWEMtvuJxR3M2e3GhZYaRc43CaNibec2R10ZxGoWJ85wpaeLd-abYOdIFbB4oCyU3aEglZ1kyAyuDQspS7CrbwELbfhl6gjPqhqac57aoAja7Bo00cmClduXM6Ny7reI0dJPBs5zFPlwrBYCCGyJxbVXPLPLsxzRwo3T26Xo6bt7B1FL7YKUdNBoBNOly9GQx6k9moakVO3N3X04_QI0ArBAF4OFP_wHpcEtC"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://serpapi.com/searches/6ab7ef8750849cc50b3a5a2e/images/ox5Q-C4v3VeV-o0NMLkbeMFjHONJdrKmD6gQUrX7FaM.webp",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJHrNgyRzeb-B4Z-pcodOshYNyiSQ1zZqMQC0NhzCG83OTSF-RPr3BhdGtNjvqNKYugfzw3Pk9wYH97DOae-OtA9yPKKbP5rg",
+      "source": "ReVersa Rose",
+      "title": "Nala Strength Deodorant",
+      "rating": 4.8,
+      "reviews": 41,
+      "price": "$26.00",
+      "extracted_price": 26.0,
+      "location": "Nearby, 15 mi",
+      "immersive_product_page_token": "tabBonicbZNNrqNGFIWlrCGriPWkoooCqmfG_NiWwc-FKX4mrTLFM5iywRgbG2UP2YNfd6TOsHvQa3lZTYgyzfSce67O_aT7xzMvfxYvL4hft6vVwpXFbvF6Xpazepp8a9paXLOuFD8QwUTBRMU6hJgQA6nkW8Y7Luv96BrQUHRDRQoGkCDdQBh_L3IuZHnK129veWvV2TgGNR0BDSBkKBBrxNAN46_yyPf5fzYihgF0DFQEsIoxQlh7b8XlA77OPmuKrilEQ4YGtTGJNaj__krX1uf_976er3n7-Phtl1-6yYl315bLichrUbf81F0mXcG7Cc-6K5fyMenrtvq6b_7toGGIMNENHSuKNtYEhLwfS_Ed65qqQVXRCNF0FY0s3ptb9yz2X65XmX9Y_WQ2XWwWs0XLoDNwV15TRG-78m5vHtM6cJ1TGi8H4RI0aj6dVRcW4Ua4rFo4PkhiKrP-uZfP6-VZyGd--rPmze0t-_uXX-26t2aXfrYJm4ZZFGztpZXALshdZU0H5vOoc5Pj8sYr4yFYASLXUNOD3QdxoXI46lF6jgex8YfpkJ-SPmBLmts-y0MxYw6xdoBa29MCZgBfooo0wcG8-fOm54rAnsUSf-7Q0KVOYPmxF6Wtf5qCVbQfkmiBtuPOGAqXIoYzS3J2NDCL_GDNirlw72-RLRV69L1dRI7e1kzy2PTEYJYxWLapldbUdoIgFK_b6g4SRAfBpBoxinnsgCBQouw0EgINWsdyxat07Q-OuoHyxqLOzu0EpltKQ4hLcViofpXAkLF7cnTUMJbn3GKcI-l5IVC525kBIA8B_Bs7UJTFRbeDap_EIYos2vsn094hM97N6esGOqUH_CI9iJ4f_BWtlkv_SOnmWKGRM6VucfOqruWB4nlgj7xDBYJIVGnISg9JlDDRJ8B4jLcPCQQPfz4NHLjvVlu_EIx6W1vOd25RBsy8B0c58ndSt1yadO4_1lEabsK7FIq5TsBSSSEt6KEa1qGhCNCcPSnsMLyjL_dL-_YBpg7ugrV-1mkIoNHs4IvD6MYwt7aeHezDsJp-UnQy_hNBQFV1-A8Uvku1",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=tabBonicbZNNrqNGFIWlrCGriPWkoooCqmfG_NiWwc-FKX4mrTLFM5iywRgbG2UP2YNfd6TOsHvQa3lZTYgyzfSce67O_aT7xzMvfxYvL4hft6vVwpXFbvF6Xpazepp8a9paXLOuFD8QwUTBRMU6hJgQA6nkW8Y7Luv96BrQUHRDRQoGkCDdQBh_L3IuZHnK129veWvV2TgGNR0BDSBkKBBrxNAN46_yyPf5fzYihgF0DFQEsIoxQlh7b8XlA77OPmuKrilEQ4YGtTGJNaj__krX1uf_976er3n7-Phtl1-6yYl315bLichrUbf81F0mXcG7Cc-6K5fyMenrtvq6b_7toGGIMNENHSuKNtYEhLwfS_Ed65qqQVXRCNF0FY0s3ptb9yz2X65XmX9Y_WQ2XWwWs0XLoDNwV15TRG-78m5vHtM6cJ1TGi8H4RI0aj6dVRcW4Ua4rFo4PkhiKrP-uZfP6-VZyGd--rPmze0t-_uXX-26t2aXfrYJm4ZZFGztpZXALshdZU0H5vOoc5Pj8sYr4yFYASLXUNOD3QdxoXI46lF6jgex8YfpkJ-SPmBLmts-y0MxYw6xdoBa29MCZgBfooo0wcG8-fOm54rAnsUSf-7Q0KVOYPmxF6Wtf5qCVbQfkmiBtuPOGAqXIoYzS3J2NDCL_GDNirlw72-RLRV69L1dRI7e1kzy2PTEYJYxWLapldbUdoIgFK_b6g4SRAfBpBoxinnsgCBQouw0EgINWsdyxat07Q-OuoHyxqLOzu0EpltKQ4hLcViofpXAkLF7cnTUMJbn3GKcI-l5IVC525kBIA8B_Bs7UJTFRbeDap_EIYos2vsn094hM97N6esGOqUH_CI9iJ4f_BWtlkv_SOnmWKGRM6VucfOqruWB4nlgj7xDBYJIVGnISg9JlDDRJ8B4jLcPCQQPfz4NHLjvVlu_EIx6W1vOd25RBsy8B0c58ndSt1yadO4_1lEabsK7FIq5TsBSSSEt6KEa1qGhCNCcPSnsMLyjL_dL-_YBpg7ugrV-1mkIoNHs4IvD6MYwt7aeHezDsJp-UnQy_hNBQFV1-A8Uvku1"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR_fSMmaTAQPaX4GJ2JelNyF0Jvsc-3paWT4Ed1cFagGwl3FcwPalcJvR1nP2oV2omAh7giQXN9lGt-3Rt2_P2ismpKHMpvJLf66S4fIzYeh9wp_YI5n8ZW",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Native Deodorant Sensitive",
+      "rating": 4.2,
+      "reviews": 2900,
+      "price": "$13.97",
+      "extracted_price": 13.97,
+      "original_price": "$5.27/oz",
+      "extracted_original_price": 5.27,
+      "location": "Nearby, 3 mi",
+      "delivery": "1 hour delivery $20",
+      "immersive_product_page_token": "Bu1xp3icdZPbjqNGEIalPEOeItZK3TTHvbM52dYA4wYa3Dej5mDANAdjGB-Ud8g7eHYjbS43kfIsk6cJs9fJVZXql_76fqnqt0de_V1--oTYFDw9bWxeJpvn07bSu-X-Wz902ZSOVfYXhDIQBU1AQFShCmWoSMq3lI2Md0WV_alCKCiKMutIUkUZyZr6vcxZxqs29w6HfDC69MMFACBqmgolRUASEGUJgT-qhhX5D_27JAuyqiJVEZGoKDJS4duQnd_FZ_0FyhJQZGXWEALSjCJD8Osz9oyX_xG_nqZ8uL3_kuTncdGycRoYX2R5l3UDa8fzYizZuGDpODHOb4tLN9Rfi_4H5H-YvTUfdIosyoKqyQiKQAWqIrz1r-OjLL5ME8_fjctCX252G30zEMG6M5tPFOHXpLqau9uy822rpfH2ntkammcu1usziaQ-s0m9sVywjzFPL4-CP6bzo-SPvP29Y_3rIf3np5_N7mLo54u-C_ueGBgE5rhJIsvH3NKpsTXz2pL2oSbmcXh7IvVtF6ViwjMvgfzktG5AiRv6tmTjhho7UtYYlK9-TE4O4pUrcDtEfCDtEtJ1ChODikFYToEgXnxjJTtx7-DIZSzqJR-ULDBCFBq8CQM695bvNvzixZ3ILPccwAImUabntWankWRijtf7IATEpq5vc52als3a1Sngc94jHt0j9fNjIezu5RQRjQVmKdJIOiT1ts5i8sTiVY_j1UddYcJvDiquSVCeM67CxMrYPq4lMu_EFjkHAbbZnJGCbZwiR3JDKUg49jHYj3vBWnu2hHFQIgw39x2ntiPgW3rkgNTjwbkXQorolURZhRtrR5us2zXQpG2mk2N4C9fLK2s74AQZc-IUeKQQZq5XLyqlrIE1syiMYX11iLbz237IiOb7iEA30mpqS8G-3vuWUIxPgVtmBDuBydeJXVY-WV39hhsJsKhdbVd47d68iGL3vhFjgVxZmILUJLOHRUgcoj3gXm5SkAS0_XI9D4d3sLSk0fekU_Vy88Kl9dKsU8PtoqP1oiTqCbBx-RkqGhCRNr_ufMD_AlvTTVo",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Bu1xp3icdZPbjqNGEIalPEOeItZK3TTHvbM52dYA4wYa3Dej5mDANAdjGB-Ud8g7eHYjbS43kfIsk6cJs9fJVZXql_76fqnqt0de_V1--oTYFDw9bWxeJpvn07bSu-X-Wz902ZSOVfYXhDIQBU1AQFShCmWoSMq3lI2Md0WV_alCKCiKMutIUkUZyZr6vcxZxqs29w6HfDC69MMFACBqmgolRUASEGUJgT-qhhX5D_27JAuyqiJVEZGoKDJS4duQnd_FZ_0FyhJQZGXWEALSjCJD8Osz9oyX_xG_nqZ8uL3_kuTncdGycRoYX2R5l3UDa8fzYizZuGDpODHOb4tLN9Rfi_4H5H-YvTUfdIosyoKqyQiKQAWqIrz1r-OjLL5ME8_fjctCX252G30zEMG6M5tPFOHXpLqau9uy822rpfH2ntkammcu1usziaQ-s0m9sVywjzFPL4-CP6bzo-SPvP29Y_3rIf3np5_N7mLo54u-C_ueGBgE5rhJIsvH3NKpsTXz2pL2oSbmcXh7IvVtF6ViwjMvgfzktG5AiRv6tmTjhho7UtYYlK9-TE4O4pUrcDtEfCDtEtJ1ChODikFYToEgXnxjJTtx7-DIZSzqJR-ULDBCFBq8CQM695bvNvzixZ3ILPccwAImUabntWankWRijtf7IATEpq5vc52als3a1Sngc94jHt0j9fNjIezu5RQRjQVmKdJIOiT1ts5i8sTiVY_j1UddYcJvDiquSVCeM67CxMrYPq4lMu_EFjkHAbbZnJGCbZwiR3JDKUg49jHYj3vBWnu2hHFQIgw39x2ntiPgW3rkgNTjwbkXQorolURZhRtrR5us2zXQpG2mk2N4C9fLK2s74AQZc-IUeKQQZq5XLyqlrIE1syiMYX11iLbz237IiOb7iEA30mpqS8G-3vuWUIxPgVtmBDuBydeJXVY-WV39hhsJsKhdbVd47d68iGL3vhFjgVxZmILUJLOHRUgcoj3gXm5SkAS0_XI9D4d3sLSk0fekU_Vy88Kl9dKsU8PtoqP1oiTqCbBx-RkqGhCRNr_ufMD_AlvTTVo"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcStFIk87cWOCuuBgpqS1f0jqsrhfjL-gVvdypsBYZBX2iUbbZP6L5XrfPcbQShI1ujPdNepZPHQJdg2bSHzs15tB79cvJlXScKaqTpxmeqdvJaDAKBcP9D0YA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Native Deodorant Spray",
+      "rating": 4.5,
+      "reviews": 18000,
+      "price": "$14.97",
+      "extracted_price": 14.97,
+      "original_price": "$4.28/oz",
+      "extracted_original_price": 4.28,
+      "location": "Nearby, 3 mi",
+      "immersive_product_page_token": "fWKDDnicbZLLruJGEIalPEOeImikvrhtnB1gGuyDm-Nbt_EG2W6DjduYAzY35R3yDpyZSJPlTKQ8y8nThGQ9i5Kq_k-q-hb1-6Oo_i4_fcJpHy4W9kyVmf365lSTdrT6eji2ss-7Sn43DN0YQoC0ZwMNCHRd-5qnXara7ZNCSDSDEKQRgCEhQ4y0b2WRSlXti-VmUxytNq_kX5AYpo50DQBkaiYmEBv6n1WTbov_-XdTh7qhaxhDAxmaATWE3o_y9IFeJ-vnZMChZg6RCQA0wRDD3179pbX-Mfvy1hfH28cvWXHqBvu064-pGsiile0x3XenQVem3SDNuz5V6ja4tMf6y_bwn8MPdr03lfxGnmI6MiHCmCBdJ9rw_XDuHuX2c9-r4sO6DCYj27Mn9pEjek9nqk-wf86q69S7jdpgRvdJ7NzlzMTPjPmT-sQFOcgZr23KwCr2VX55bNWjPz1K9Sj2f7Tp4bzJ__np52l7sSany8SLDgdu-SCILjdXDEnID5Rh_sZgfWeAbnhddjGgelDDMwflJqB0kjRwnokrFhE9p7VqAmsFs7l9TTgXEjs7UUviqbJ06YgEVL4EfKvxOet9kfBQ0WWyYz2_Owmvp3e-98tclIEbsyifQSxriiRi9wCXUYCIn_Jx4kaHZBmObTdiRwlsUDTuPULsGgKAOSxZfIN7d2pWXqhuXnTlGSI7EZevHJri6TeO74wwAWPBD0Ioucg5RdFducziNBO8EXwFC1q-JNNumSqHxUDd3Sk5JnO2YKGnPatbhEnF6-uBYdrkwiFC2USiqycaZx9SeQ3qlZbF224Ruzch6CabKjuyHCecMyZBJxaRL1ack2XoIElt4EfQ9aGsfaS0aMc8ZjEt3_EkBCXwALFTTj25K2chVFoewdiL1ETM_AnbM5Rwk_nIDSh63gtZKbnvhlM1z2ZlFfDxNWiUlQGazCpn7M_ZbSmSKJv751QNkcQeCWqCQ8txozkFQZw0fuy8SOCMP19Px80HGFHSBUvyVq1vy2hE1808t1grdnRtZMM3kHajX6FhAg2bGGjPB_4XbHVKQA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=fWKDDnicbZLLruJGEIalPEOeImikvrhtnB1gGuyDm-Nbt_EG2W6DjduYAzY35R3yDpyZSJPlTKQ8y8nThGQ9i5Kq_k-q-hb1-6Oo_i4_fcJpHy4W9kyVmf365lSTdrT6eji2ss-7Sn43DN0YQoC0ZwMNCHRd-5qnXara7ZNCSDSDEKQRgCEhQ4y0b2WRSlXti-VmUxytNq_kX5AYpo50DQBkaiYmEBv6n1WTbov_-XdTh7qhaxhDAxmaATWE3o_y9IFeJ-vnZMChZg6RCQA0wRDD3179pbX-Mfvy1hfH28cvWXHqBvu064-pGsiile0x3XenQVem3SDNuz5V6ja4tMf6y_bwn8MPdr03lfxGnmI6MiHCmCBdJ9rw_XDuHuX2c9-r4sO6DCYj27Mn9pEjek9nqk-wf86q69S7jdpgRvdJ7NzlzMTPjPmT-sQFOcgZr23KwCr2VX55bNWjPz1K9Sj2f7Tp4bzJ__np52l7sSany8SLDgdu-SCILjdXDEnID5Rh_sZgfWeAbnhddjGgelDDMwflJqB0kjRwnokrFhE9p7VqAmsFs7l9TTgXEjs7UUviqbJ06YgEVL4EfKvxOet9kfBQ0WWyYz2_Owmvp3e-98tclIEbsyifQSxriiRi9wCXUYCIn_Jx4kaHZBmObTdiRwlsUDTuPULsGgKAOSxZfIN7d2pWXqhuXnTlGSI7EZevHJri6TeO74wwAWPBD0Ioucg5RdFducziNBO8EXwFC1q-JNNumSqHxUDd3Sk5JnO2YKGnPatbhEnF6-uBYdrkwiFC2USiqycaZx9SeQ3qlZbF224Ruzch6CabKjuyHCecMyZBJxaRL1ack2XoIElt4EfQ9aGsfaS0aMc8ZjEt3_EkBCXwALFTTj25K2chVFoewdiL1ETM_AnbM5Rwk_nIDSh63gtZKbnvhlM1z2ZlFfDxNWiUlQGazCpn7M_ZbSmSKJv751QNkcQeCWqCQ8txozkFQZw0fuy8SOCMP19Px80HGFHSBUvyVq1vy2hE1808t1grdnRtZMM3kHajX6FhAg2bGGjPB_4XbHVKQA"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcO3AQl910-ISAcXiiXobyLY3ek9rNoiLjW-5pqDcaqmyTO0Z6ngwQewZgnThe5lzit-IwnB4zZj-EALKfjWrEUwYkK1rAf2XjsdWE4IC_GFmTrjWYfvTj2Q",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJHrNgyRzeb-B4Z-pcodOshYNyiSQ1zZqMQC0NhzCG83OTSF-RPr3BhdGtNjvqNKYugfzw3Pk9wYH97DOae-OtA9yPKKbP5rg",
+      "source": "ReVersa Rose",
+      "title": "Nala Natural Deodorant",
+      "rating": 4.6,
+      "reviews": 451,
+      "price": "$26.00",
+      "extracted_price": 26.0,
+      "location": "Nearby, 15 mi",
+      "immersive_product_page_token": "kd3HznicdZNdjqtGEIWlrCGriHWlbhqwyZttzJ9Me2ig2_AyamjGYNoG2zBmUPaQPXjujXTzeBMpa5msJiR5jPJY9R0dVR1V_fwoqj_KT58Q76Pt1rVlmblPF69aN8vka3ttRJ93lfgdagtkGEAFC4iUuaIZqq5_zXnHZXOoxG-Grmi6YhgLBDRVRXNgzL-VBReyOhe7l5fiajb5JIM6ms81NGkNXTXgAmjGr9WJH4p_MTIWCzDXgPq3i6YhpOnvV3H7UJ_Wz3AqJ7iY3JGqAgQRVH96Ijvz-X_gl0tfXN8-fsiKWzc7866_cjkTRSOaKz93t1lX8m7G867nUr7N7s21_nJo839W_a_Z-6kS37S5rurKQgUQ6fMpDcV4b1-7R3n43Pey-DDvs_XSDdy1e6WKNXJb9ikir1k1bIK3ZRPa1jnde6OwDTT1MFnXN8q0Vti0di0Mkj2R-f1xkI_-9ijlozj_0vD29SX_87vvN83dXN_u6yBuW2oSENlQC50AkNjyCGxbZouX8FQ64VGGoobH1EzjDFp9svdSek71RBp1SL0q33hKxrorpmKTHi1FoNKPNt5rcCJmck7jgGGU1aRm-7LHlgtD6A8pLVfRMd1smdxmkbeLGQkiE6eZYgwxsyyBGiQASTjaAOK0XCBp-gDqxWbQKGw7RokXQYz50eO5GSAalTeBhBpIy_ZHYYZgYAlaqiGQo6gtLUfiCQMvIEdrpFQ4EXK71CkbtlFHDCXPoediW2MFbUEW4UsuS11IsU9oeiaKvMXn8pWwXOMRrtKa6NlxpTDHW8WjlSajYJRBGVrEjeMy2FF34KdyCI-r1o-wSwG2hdP6BIABn6xAgBr6cLUPKR2nmS_pWdLsNHhxDAc8pveYDdsoxtwPIQgVkezsrtuZK5-PbudTcee2hmLFhwmrQ0s5dNsIl4KSKXPpZHZZhXQ1hCdpZsBK7cpbEQe_7VgaC8ezKAu6OL5rPsM9kWmZxzD062EVKf4Q1Mbq83C7vnyApaV14U67VM9vu3hpPZ-c3MQNO1rP82xxAbxb_gjn0-MiAwF1OuC_ADM5TTw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=kd3HznicdZNdjqtGEIWlrCGriHWlbhqwyZttzJ9Me2ig2_AyamjGYNoG2zBmUPaQPXjujXTzeBMpa5msJiR5jPJY9R0dVR1V_fwoqj_KT58Q76Pt1rVlmblPF69aN8vka3ttRJ93lfgdagtkGEAFC4iUuaIZqq5_zXnHZXOoxG-Grmi6YhgLBDRVRXNgzL-VBReyOhe7l5fiajb5JIM6ms81NGkNXTXgAmjGr9WJH4p_MTIWCzDXgPq3i6YhpOnvV3H7UJ_Wz3AqJ7iY3JGqAgQRVH96Ijvz-X_gl0tfXN8-fsiKWzc7866_cjkTRSOaKz93t1lX8m7G867nUr7N7s21_nJo839W_a_Z-6kS37S5rurKQgUQ6fMpDcV4b1-7R3n43Pey-DDvs_XSDdy1e6WKNXJb9ikir1k1bIK3ZRPa1jnde6OwDTT1MFnXN8q0Vti0di0Mkj2R-f1xkI_-9ijlozj_0vD29SX_87vvN83dXN_u6yBuW2oSENlQC50AkNjyCGxbZouX8FQ64VGGoobH1EzjDFp9svdSek71RBp1SL0q33hKxrorpmKTHi1FoNKPNt5rcCJmck7jgGGU1aRm-7LHlgtD6A8pLVfRMd1smdxmkbeLGQkiE6eZYgwxsyyBGiQASTjaAOK0XCBp-gDqxWbQKGw7RokXQYz50eO5GSAalTeBhBpIy_ZHYYZgYAlaqiGQo6gtLUfiCQMvIEdrpFQ4EXK71CkbtlFHDCXPoediW2MFbUEW4UsuS11IsU9oeiaKvMXn8pWwXOMRrtKa6NlxpTDHW8WjlSajYJRBGVrEjeMy2FF34KdyCI-r1o-wSwG2hdP6BIABn6xAgBr6cLUPKR2nmS_pWdLsNHhxDAc8pveYDdsoxtwPIQgVkezsrtuZK5-PbudTcee2hmLFhwmrQ0s5dNsIl4KSKXPpZHZZhXQ1hCdpZsBK7cpbEQe_7VgaC8ezKAu6OL5rPsM9kWmZxzD062EVKf4Q1Mbq83C7vnyApaV14U67VM9vu3hpPZ-c3MQNO1rP82xxAbxb_gjn0-MiAwF1OuC_ADM5TTw"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQRfg8XW-N9eC6mph0ZSqHrpeIW1PP32MEO-T2JGBSoqCN-tdLn9C5x0neG-ezFdPHLY2MoEK_3D7sjANK0rx9o8NtDME8LcK8q0Au5O-z5VaP5aR4-1Y9ABQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Megababe The Santal Deo Skincare Deodorant 75g",
+      "rating": 4.5,
+      "reviews": 265,
+      "price": "$15.64",
+      "extracted_price": 15.64,
+      "original_price": "$6.02/oz",
+      "extracted_original_price": 6.02,
+      "location": "Nearby, 12 mi",
+      "immersive_product_page_token": "zdgquXicdZJbjqNGGIWlrCGriDVSFcU1b7a5mbGhKaDK8NIqKGxoiott3NhW9pA9uGcizTzORMpaOquJR3lNnn7pP9InfUfn93tZ_1V9-IDYOV6vV46o8tXTwauX_Tz9Mhx7fi7Gmv8JdYCQIgFJUSQdAkkFsvKlYCMT_b7m3yRdUjVJhpqm6bKGDA19q0rGRd2VwW5XHs2-qPl3WZYlQ9U0WZKBrukK0OHXumX78t8YAlkHumLoMtIMWYMygm9HfnqXn5bPD7IMHmyoSlBRoCbpqv7bEw7M5_8JPx_O5fH6_ktensZZx8bzkYkZL3veH1k3nmZjxcYZK8YzE-I6m_pj83k_FD9M_wP21j4cFU2V1Ye88tBQ1ceV3obX8V7tP53Ponw3p9lyvgpXy9WRSPaNOeKcIfya1xcrvM77yLG7bOvduGOgx8_Hy-ZEqDJwhzQr2wfpFotiuu_F_Xy6V-Jedn_0bHjdFX__9LPVT-byNC3DZBiIiUGEVii3mlsBYLemPQpsYfvWaPqUdGtib_PWPm26xS5COCrakZVicdzQrGLCDkhHDtjlUt4OXgaLW2EBSLdDGjZiHcYLuAHJ6ENOY5N_zBJsBUQHIRpcDDDLWhuGTTER6CsYGodEEmMYc7WIK8ypUMOYnDZAGahzcRM6TNQKR5_qcpCkcB37VQiytJDgjbpeF9n6GNNLVDpwWSbVqkiwHDjiI3dJG8fcSZsGJe5CkLZRuFUNEeJPDFUA37whpZCUrudkLVT8rdduYNZTk1S8yWwqjDQGxol1eNgCPubSsMwlTyluXriBCxzEqwtz0ok1oxtYlxqjDNEEk01yiX1TuMyCuxDiIJd4E2z7a9qGj76FmrkNSl8aVDj7S0TwoaCemwufkRdrwg258i69-S92siGryU8UnLnDS9wMr8xNZJ_0kS3txx8dcII3sSXc3KnqiCwuUSvMHNiZU3sL7PrXgGaYbEWfWdOVtv6Jub4bS4bJgNHFNzEyalTBY0OfLqfj7h3MbWWMAuVQP1-DZG4_t25h-j19sZ-1XD8ANs5_hZoBZGQgID8G_A-WL04f",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=zdgquXicdZJbjqNGGIWlrCGriDVSFcU1b7a5mbGhKaDK8NIqKGxoiott3NhW9pA9uGcizTzORMpaOquJR3lNnn7pP9InfUfn93tZ_1V9-IDYOV6vV46o8tXTwauX_Tz9Mhx7fi7Gmv8JdYCQIgFJUSQdAkkFsvKlYCMT_b7m3yRdUjVJhpqm6bKGDA19q0rGRd2VwW5XHs2-qPl3WZYlQ9U0WZKBrukK0OHXumX78t8YAlkHumLoMtIMWYMygm9HfnqXn5bPD7IMHmyoSlBRoCbpqv7bEw7M5_8JPx_O5fH6_ktensZZx8bzkYkZL3veH1k3nmZjxcYZK8YzE-I6m_pj83k_FD9M_wP21j4cFU2V1Ye88tBQ1ceV3obX8V7tP53Ponw3p9lyvgpXy9WRSPaNOeKcIfya1xcrvM77yLG7bOvduGOgx8_Hy-ZEqDJwhzQr2wfpFotiuu_F_Xy6V-Jedn_0bHjdFX__9LPVT-byNC3DZBiIiUGEVii3mlsBYLemPQpsYfvWaPqUdGtib_PWPm26xS5COCrakZVicdzQrGLCDkhHDtjlUt4OXgaLW2EBSLdDGjZiHcYLuAHJ6ENOY5N_zBJsBUQHIRpcDDDLWhuGTTER6CsYGodEEmMYc7WIK8ypUMOYnDZAGahzcRM6TNQKR5_qcpCkcB37VQiytJDgjbpeF9n6GNNLVDpwWSbVqkiwHDjiI3dJG8fcSZsGJe5CkLZRuFUNEeJPDFUA37whpZCUrudkLVT8rdduYNZTk1S8yWwqjDQGxol1eNgCPubSsMwlTyluXriBCxzEqwtz0ok1oxtYlxqjDNEEk01yiX1TuMyCuxDiIJd4E2z7a9qGj76FmrkNSl8aVDj7S0TwoaCemwufkRdrwg258i69-S92siGryU8UnLnDS9wMr8xNZJ_0kS3txx8dcII3sSXc3KnqiCwuUSvMHNiZU3sL7PrXgGaYbEWfWdOVtv6Jub4bS4bJgNHFNzEyalTBY0OfLqfj7h3MbWWMAuVQP1-DZG4_t25h-j19sZ-1XD8ANs5_hZoBZGQgID8G_A-WL04f"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRj92XR6rPusB0jYjAZmsl2iJKF7ztt_vvlnXD7pSf9FcyA1hdCuEIZhhLGDAG9qSlWoUNnK3m0pKwbzOsjU7siB-18A1T03BfLElTGj5TiIRG0P74uYyQNgQbS",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTQTqr69CnbKxgO0wUdFttLhHXZaWDpFDtTx7TkaO4_h8c3tWlG8aDqe2IOZtsYTULFYPaEgYfizxePYlM_o7fGH_sEivy_O-U",
+      "source": "Credo Beauty",
+      "title": "Corpus Natural Deodorant",
+      "rating": 4.5,
+      "reviews": 1700,
+      "price": "$26.00",
+      "extracted_price": 26.0,
+      "original_price": "$9.83/oz",
+      "extracted_original_price": 9.83,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "kACTW3icbZPNjptIFIWleYZ5irFagoLiJ7u2-bEdUzYFFLg2URkwhSl-GmM3tuYd5h3cyUiZZRIpz9LzNMNillnczfmu7jnS0f3rkZc_-dOTwi7hZrNyBT-sdi_rctE-7792fZtd0qHMvpu6YarA0CUgQwlAXQfwa8oGJtpiooqmmrqiAEWTDUVSNU0D33jOMlE2-fZ4zHurTcvshywDaOqaoUMD6FAzoCop_5Q1K_L_uQaBqavmZCGp0ISaCfS3Pju_g93ik64aEOgGhKoGoKYZhiz9ucNb69Ov2ZeXS97f3v845Odh1rDh0jMxy_I2a3vWDOfZwNkwY-lwYULcZq9tX30puinE91_ceqvL7BvUtUkxoA6MKTY0dP2tuw4PXny-XET-br3OFs8rf7VY9QQ4d-aKC1Xw9VCOtn97bgPXaWiyvmeuqUwawovqTGLYZS6pVg6S9gkW6eujEI_L-cHFI2_-bll3Pab__va73b5ai_Prwo-6jlhYCohpM5tjLEgVOHQdVN2S1Ov9oUKM1MgNIyL7grK4me-wy29BZY4HmaNNgrYHqZt2MjVVSB-e6EfsFAqLMKUWVbZLcUU26nHigbTOksM904jATb6k9iGx1TARbWBDL5TpzQN89BKu4ntxQyFeMRdXXrhekpB3tJJXvhSBfdUdPUmOCMAtqc0dsivVj_kVV6tbHON5LOgYNFiJJIpDCbueNKpTG3B_ImtqzTvmcgff55N_AfyQn7ak67eOGNI7GbJGLFMXXnMbzWmCpENEFj7BEjuhIHQ4j1zspEl2JBFxAgXFIUHhNJugNq8-ECS0xCUltNku0RbZ8CWoHD8EHQ3BOPpgxF5cgCBKRxSSJrL5jilzymoU0bC6xxGXiIzLqG6VFIwRJs4ukbs7ix0Wn_gYxWvNq2XJO0UjXeKP0WmqCRTDJkQ8I9gLbbE8uLwMyHwMamEdJIe65XqOl-i2jWmQN8jxa0-ibnaJLKfPEsciIfKyOr3vY9PPQ9F8Hs_98V16duAQbGHPb-snc9PRhW8za9Esi80uUxu3gc8fZN2UVMWc3lLV5f8A3fxPsg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=kACTW3icbZPNjptIFIWleYZ5irFagoLiJ7u2-bEdUzYFFLg2URkwhSl-GmM3tuYd5h3cyUiZZRIpz9LzNMNillnczfmu7jnS0f3rkZc_-dOTwi7hZrNyBT-sdi_rctE-7792fZtd0qHMvpu6YarA0CUgQwlAXQfwa8oGJtpiooqmmrqiAEWTDUVSNU0D33jOMlE2-fZ4zHurTcvshywDaOqaoUMD6FAzoCop_5Q1K_L_uQaBqavmZCGp0ISaCfS3Pju_g93ik64aEOgGhKoGoKYZhiz9ucNb69Ov2ZeXS97f3v845Odh1rDh0jMxy_I2a3vWDOfZwNkwY-lwYULcZq9tX30puinE91_ceqvL7BvUtUkxoA6MKTY0dP2tuw4PXny-XET-br3OFs8rf7VY9QQ4d-aKC1Xw9VCOtn97bgPXaWiyvmeuqUwawovqTGLYZS6pVg6S9gkW6eujEI_L-cHFI2_-bll3Pab__va73b5ai_Prwo-6jlhYCohpM5tjLEgVOHQdVN2S1Ov9oUKM1MgNIyL7grK4me-wy29BZY4HmaNNgrYHqZt2MjVVSB-e6EfsFAqLMKUWVbZLcUU26nHigbTOksM904jATb6k9iGx1TARbWBDL5TpzQN89BKu4ntxQyFeMRdXXrhekpB3tJJXvhSBfdUdPUmOCMAtqc0dsivVj_kVV6tbHON5LOgYNFiJJIpDCbueNKpTG3B_ImtqzTvmcgff55N_AfyQn7ak67eOGNI7GbJGLFMXXnMbzWmCpENEFj7BEjuhIHQ4j1zspEl2JBFxAgXFIUHhNJugNq8-ECS0xCUltNku0RbZ8CWoHD8EHQ3BOPpgxF5cgCBKRxSSJrL5jilzymoU0bC6xxGXiIzLqG6VFIwRJs4ukbs7ix0Wn_gYxWvNq2XJO0UjXeKP0WmqCRTDJkQ8I9gLbbE8uLwMyHwMamEdJIe65XqOl-i2jWmQN8jxa0-ibnaJLKfPEsciIfKyOr3vY9PPQ9F8Hs_98V16duAQbGHPb-snc9PRhW8za9Esi80uUxu3gc8fZN2UVMWc3lLV5f8A3fxPsg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQawIyCcbD8mMEjOP_0UbRAmJfwdM-KHbkkemiCRjzEsC1p4PXHA8o-2AVJ3Ot61xlKl-wxAujqsu3PCMGB2qrYevgqDMQ74jvIGNhDEgVNVYl8h_t4lmgfQw",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart - The Doers",
+      "title": "Native Deodorant Sensitive",
+      "rating": 4.2,
+      "reviews": 2900,
+      "price": "$13.69",
+      "extracted_price": 13.69,
+      "original_price": "$5.17/oz",
+      "extracted_original_price": 5.17,
+      "location": "Also nearby",
+      "immersive_product_page_token": "wFiBwnicdZPLjqNGFIalPEOeIlZLVRTX7IyhMMTgpoDC1GbEzYamDBhD20Z5h7yDeybSzHJmpDxL52nizDrZnu-cT_-_OH_cy_qv6ukJpVO42dgWrzL7-eTUq26ZfO6HrpjysS6-QygDUdAEBEQVqlCGiqR8ztMx5d2hLr6pEAqKojw4klRRRrKmfq3KtOB1W273-3IwuvyxJiNRUJAKVEVFsiRqmip9qY_pofyBv0NRfUCEBFV8iGQNAEV5G4rzu_i8-gBlCSjy41pBCEiPLDIEvz-TrfHhf-Cn01QOt_dfsvI8Ltp0nIaUL4qyK7ohbcfzYqzScZHm45RyfltcuqH5dOh_xPgP2duxLr5KiizKgqrJCIrg3xbCW_863qvDx2ni5btxWayWtm-v7IEKeE4tPjFEXrP6avq3ZRdYuGU7Zy4sDT1mHlk1ZxpLfWHRxsYeSHaE55f7gd-n873i97L9s0v7133-908_m93FWJ0vKz_qe2oQEAh0HYSVnvDe93f6iUYdjGZiBrCfN5GPvJkmbsz7pCVbevSOW4pl0kaXfO3VPkxmv_Wk0BynmPZVfqQpaWhVRvjFj6GcH3tW8KW4CdnGbfjotzgsA0hSix3LnWOTECee1fcEOLskHvHDIzOEzwnocdoUQ2o6N3dHr55Q-KWVSAXyAtJ6e9ccUYocMeBsYFC_ecLVds0Dio6e4JnanpngkggYxZFUFcIBRlDfB4ZTpTNvXdiABIyT3xaXHfJhZlUVNdiQASKksJLonCPvRWeu5V6iXY9dq5uZ6XVZ1M1ufAC0JSw_Sthvig3D2nkHPaPk-m-ZGUkMOH5Mq2sC9VMIKphHzqbEtC7DJcraRCIWNQtM7Khhq8hwbll8dX1UGTQaWW51qKQ4ySmHmSAZDFU2NfsqjpjDatizNa8j6zAWtAuwcBg3oVcVlLihydePDnVA9Wtw5EYGMLNqRydr77aNWcQaDccxZWXLX7fUsTPUpzHW6yRkuj9XTdQQ9PF6HvbvYImlMdgqJ4VEQFD7THjClPiqHppK_mK-zJvlr1DRgIi0x--KivAPa8lN-A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=wFiBwnicdZPLjqNGFIalPEOeIlZLVRTX7IyhMMTgpoDC1GbEzYamDBhD20Z5h7yDeybSzHJmpDxL52nizDrZnu-cT_-_OH_cy_qv6ukJpVO42dgWrzL7-eTUq26ZfO6HrpjysS6-QygDUdAEBEQVqlCGiqR8ztMx5d2hLr6pEAqKojw4klRRRrKmfq3KtOB1W273-3IwuvyxJiNRUJAKVEVFsiRqmip9qY_pofyBv0NRfUCEBFV8iGQNAEV5G4rzu_i8-gBlCSjy41pBCEiPLDIEvz-TrfHhf-Cn01QOt_dfsvI8Ltp0nIaUL4qyK7ohbcfzYqzScZHm45RyfltcuqH5dOh_xPgP2duxLr5KiizKgqrJCIrg3xbCW_863qvDx2ni5btxWayWtm-v7IEKeE4tPjFEXrP6avq3ZRdYuGU7Zy4sDT1mHlk1ZxpLfWHRxsYeSHaE55f7gd-n873i97L9s0v7133-908_m93FWJ0vKz_qe2oQEAh0HYSVnvDe93f6iUYdjGZiBrCfN5GPvJkmbsz7pCVbevSOW4pl0kaXfO3VPkxmv_Wk0BynmPZVfqQpaWhVRvjFj6GcH3tW8KW4CdnGbfjotzgsA0hSix3LnWOTECee1fcEOLskHvHDIzOEzwnocdoUQ2o6N3dHr55Q-KWVSAXyAtJ6e9ccUYocMeBsYFC_ecLVds0Dio6e4JnanpngkggYxZFUFcIBRlDfB4ZTpTNvXdiABIyT3xaXHfJhZlUVNdiQASKksJLonCPvRWeu5V6iXY9dq5uZ6XVZ1M1ufAC0JSw_Sthvig3D2nkHPaPk-m-ZGUkMOH5Mq2sC9VMIKphHzqbEtC7DJcraRCIWNQtM7Khhq8hwbll8dX1UGTQaWW51qKQ4ySmHmSAZDFU2NfsqjpjDatizNa8j6zAWtAuwcBg3oVcVlLihydePDnVA9Wtw5EYGMLNqRydr77aNWcQaDccxZWXLX7fUsTPUpzHW6yRkuj9XTdQQ9PF6HvbvYImlMdgqJ4VEQFD7THjClPiqHppK_mK-zJvlr1DRgIi0x--KivAPa8lN-A"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQr7UGp3AOd994esMqyLLeNEdz1pRQzg7V4rHCQxASZyPGXfVSx8CKVWu_BsL1ws9Quh9rkFY21J87i1vO_mzEGZrfIxGVKYVTuHfbyikdCUnXztpBcQ_F9",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQK2sVFDaXhiMPtUoSG8-f03WCoC92uzlHj7DCR-gQWP0ak9FZmYjcUEO5mW-MHrDwYq33NBS9HlCdtzYIlkJ881A",
+      "source": "goop",
+      "title": "Megababe The Green Deo Daily Deodorant",
+      "rating": 4.2,
+      "reviews": 302,
+      "price": "$7.00",
+      "extracted_price": 7.0,
+      "original_price": "$14",
+      "extracted_original_price": 14,
+      "delivery": "Free delivery on $75+",
+      "extensions": [
+        "50% OFF"
+      ],
+      "immersive_product_page_token": "yNBcN3icdZNbrqNGEIalrCGriHWk7uaeN18A28dg09AN7pcR0NhgN4bDxdhW9pA9-MxEmjxOImUtJ6sJo7wmr_X99Zf-UtWvz6z4K395keI-2GxWtsiT1e5tXcyr6f5r3VS8T7uC_wk1w9AMqClIBrqmSrqB5K9p3MWiOhb8DxUiXVZlCcqyihQADEn7lmcxF8Ul2x4OWbOo0lGmjEDWoQKBZqiaIhma_HtRxsfsX6yqhiIjoCMDIFlGmoz094a3H_Ju_gmqimFAY-yWNARHgaGhX3Z4u_j0P_DLW58194-fkqztJpe465tYTHhW8aqJL1076fK4m8Rp18dC3CdD1Zy_HOv0e9T_MHsvC_5N0dTv6TRd0mUNKiN9r6_dMz9-7nuRfSyGyXy68lbzVUOR9Yht0TMJX5PiZnr3aeXb1oVF6we3DWmsuXh-bmmo1Nym55Xlgn2ERTo8j-LZt89cPLPLb1VcXw_p3z_8aFbDYt4Oc4_UNV1g4EN82wRrL7DbO1kwwqgo_Yi7MdHve4Hd_dkKQrq6k0s-aqnklvt7ata7jNReAvWBBO7GiTj1Qih5wljEoIahyHehhS8ZXVNO3MgNxSm12DUC3SsXdZyevYFD0bKliRgyHmQOr1SkXVoaeXiZSUTCZ_rIGyoxb0N44VN34Et3xoKZGZu0J8upEjzyW4LYkkR57Z3w4JfuHAP35gAlwrbYE1pvCXJbKlyTgpvDygq6UY3Z-VbGom74YiZ7iO-yU945yxRtl_wQmvkWk1xi0fQeS6wmdr0eM0fehTbc9h4erAGOXCdA65hKAowXq2ztjmbmOJ9g6CAc-KcUuGY-4JP7Goei5fZa3T_WjC7NwTHzQ2LeVD-aogTOVIyE7AJ68xfWMqWsx2PGCBqvzGZFKtV5EqZ3Rs4yA3CZhe5qL5wueDi-hY7dJnBzTrETmGKZ2Pm4o9nNL8UiARazi_Vs9LpvQ0Zo6A1hiW1u8z4j-TkJrJaZ3cWhfOdYBvZLLn2-tc3hA0wtpfO32puGCUB6naAXi2JPnwWmlp7M02Mz_Xn8XSBLhgRkWUP_ANeUTxs",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yNBcN3icdZNbrqNGEIalrCGriHWk7uaeN18A28dg09AN7pcR0NhgN4bDxdhW9pA9-MxEmjxOImUtJ6sJo7wmr_X99Zf-UtWvz6z4K395keI-2GxWtsiT1e5tXcyr6f5r3VS8T7uC_wk1w9AMqClIBrqmSrqB5K9p3MWiOhb8DxUiXVZlCcqyihQADEn7lmcxF8Ul2x4OWbOo0lGmjEDWoQKBZqiaIhma_HtRxsfsX6yqhiIjoCMDIFlGmoz094a3H_Ju_gmqimFAY-yWNARHgaGhX3Z4u_j0P_DLW58194-fkqztJpe465tYTHhW8aqJL1076fK4m8Rp18dC3CdD1Zy_HOv0e9T_MHsvC_5N0dTv6TRd0mUNKiN9r6_dMz9-7nuRfSyGyXy68lbzVUOR9Yht0TMJX5PiZnr3aeXb1oVF6we3DWmsuXh-bmmo1Nym55Xlgn2ERTo8j-LZt89cPLPLb1VcXw_p3z_8aFbDYt4Oc4_UNV1g4EN82wRrL7DbO1kwwqgo_Yi7MdHve4Hd_dkKQrq6k0s-aqnklvt7ata7jNReAvWBBO7GiTj1Qih5wljEoIahyHehhS8ZXVNO3MgNxSm12DUC3SsXdZyevYFD0bKliRgyHmQOr1SkXVoaeXiZSUTCZ_rIGyoxb0N44VN34Et3xoKZGZu0J8upEjzyW4LYkkR57Z3w4JfuHAP35gAlwrbYE1pvCXJbKlyTgpvDygq6UY3Z-VbGom74YiZ7iO-yU945yxRtl_wQmvkWk1xi0fQeS6wmdr0eM0fehTbc9h4erAGOXCdA65hKAowXq2ztjmbmOJ9g6CAc-KcUuGY-4JP7Goei5fZa3T_WjC7NwTHzQ2LeVD-aogTOVIyE7AJ68xfWMqWsx2PGCBqvzGZFKtV5EqZ3Rs4yA3CZhe5qL5wueDi-hY7dJnBzTrETmGKZ2Pm4o9nNL8UiARazi_Vs9LpvQ0Zo6A1hiW1u8z4j-TkJrJaZ3cWhfOdYBvZLLn2-tc3hA0wtpfO32puGCUB6naAXi2JPnwWmlp7M02Mz_Xn8XSBLhgRkWUP_ANeUTxs"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSNwfTrzKy873VzVRi8nSrxqI1UAwOL2KxXSwDkU1K_NnOiFrpJ8dMaeaRQC-_FpgJHI7IKUEyG_oyDPLnq_oOCklnaZsCQmLLJN89mRgxeESdhSgD7XUuyXA",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSRgutbnLHxZSJgJeXB3h9xJRB7wLT0X11VzBAH53QP37oho1zygYUXnsJODrp_KzwRlM-Zn0CuMERMS8m__2UXmCh1srRcT3Q",
+      "source": "Sephora",
+      "title": "Nécessaire The Deodorant",
+      "rating": 4.4,
+      "reviews": 1800,
+      "price": "$24.00",
+      "extracted_price": 24.0,
+      "original_price": "$9.60/oz",
+      "extracted_original_price": 9.6,
+      "delivery": "Free delivery on $50+",
+      "immersive_product_page_token": "lVYhWXicbZJdjptIFIWlWcOsYqxI9QMG5635NXSDTQHFz0sELtqAy0BjsDGaPcwe3MlImcckUtbSs5pxz3Pu09E5up-urs5ft6L6WX74gLMxeHqyTF7m1vbFrtT2Ifna9S0bd0PFvkOAEAYIQiRBICNBQOjrLhsy3u4r9gOKsrySZAmi5V0gCQho-a0sMsarptg8Pxe91u7uFCxLkgCxIAAZilCCcLn8pzpm--L_-AcUhBVcCQgAjLEEpHfma89Ob2irfkLCUlyhFYYyFu97sghXf27JRvv06-zLy1j017c_8uI0LJpsGPuML1jRsrbPmuG0GMpsWGS7Ycw4vy4ubX_4su_eb_wF6_VYsW-itBSWSMbvI0pQRui1Ow-3cv95HHnxpl0W6oPlWarVU2TMmcnHFJNzXk26d31ofdNo0tiembnCd88l6uFEI7FjJj1YhguSmPDd5bbnt_F0K_mtaP5us-78vPv3t9_19qKpp4vqhV1HNQL8JpmoCqZcd8_uUZ9iYM2RQfSoNjTaMM9pHBDOyswads4OQ7LROyOGySWhtE0jUaBoiKL1XeNuS6Al0IYnfu0MDiXPwYEkT5S7mdnFZObA1crJn5Ump6WQro0XFziQcMXKYOokIEEZVx6Lpix9WKo5tkQaTaLHZZHdq5LUNIoae4wBd2jU1U5EDBd3G79Oz9HBDVzsCRttPyQ1sQudPTqBM8cItk5NgohbF68xTEa7IUBsG8bWkAd2VGi2uomNJIxYE1CyTA92ueOs2TX0mvAV9GNqhjo9OdpBjDHhDqC84K7LwsNU1OQxNy-zd0zdBPOJYiX2ERfzNVPTdddn998W1L0QrF8c01aSqBW9wB79ONXT2U0CSAOXluLuSIYApArRW5Bq6VNkDpGjKXEYlpZzTD0fGCSJqFdo9w7ENkjCxDfQfngK3JJR4gQ6X-dmWflUmfwj13JgpGZlK2TtXjdRShw9VdymtCh1URo56O5tCLLVGE3GDtt9aBLl83Tqn9_AgyEO_mbpAD10BNyYVVsPdd1c9Xo2kuw45A8fobQCAl5hIAgS_g-KNU5f",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=lVYhWXicbZJdjptIFIWlWcOsYqxI9QMG5635NXSDTQHFz0sELtqAy0BjsDGaPcwe3MlImcckUtbSs5pxz3Pu09E5up-urs5ft6L6WX74gLMxeHqyTF7m1vbFrtT2Ifna9S0bd0PFvkOAEAYIQiRBICNBQOjrLhsy3u4r9gOKsrySZAmi5V0gCQho-a0sMsarptg8Pxe91u7uFCxLkgCxIAAZilCCcLn8pzpm--L_-AcUhBVcCQgAjLEEpHfma89Ob2irfkLCUlyhFYYyFu97sghXf27JRvv06-zLy1j017c_8uI0LJpsGPuML1jRsrbPmuG0GMpsWGS7Ycw4vy4ubX_4su_eb_wF6_VYsW-itBSWSMbvI0pQRui1Ow-3cv95HHnxpl0W6oPlWarVU2TMmcnHFJNzXk26d31ofdNo0tiembnCd88l6uFEI7FjJj1YhguSmPDd5bbnt_F0K_mtaP5us-78vPv3t9_19qKpp4vqhV1HNQL8JpmoCqZcd8_uUZ9iYM2RQfSoNjTaMM9pHBDOyswads4OQ7LROyOGySWhtE0jUaBoiKL1XeNuS6Al0IYnfu0MDiXPwYEkT5S7mdnFZObA1crJn5Ump6WQro0XFziQcMXKYOokIEEZVx6Lpix9WKo5tkQaTaLHZZHdq5LUNIoae4wBd2jU1U5EDBd3G79Oz9HBDVzsCRttPyQ1sQudPTqBM8cItk5NgohbF68xTEa7IUBsG8bWkAd2VGi2uomNJIxYE1CyTA92ueOs2TX0mvAV9GNqhjo9OdpBjDHhDqC84K7LwsNU1OQxNy-zd0zdBPOJYiX2ERfzNVPTdddn998W1L0QrF8c01aSqBW9wB79ONXT2U0CSAOXluLuSIYApArRW5Bq6VNkDpGjKXEYlpZzTD0fGCSJqFdo9w7ENkjCxDfQfngK3JJR4gQ6X-dmWflUmfwj13JgpGZlK2TtXjdRShw9VdymtCh1URo56O5tCLLVGE3GDtt9aBLl83Tqn9_AgyEO_mbpAD10BNyYVVsPdd1c9Xo2kuw45A8fobQCAl5hIAgS_g-KNU5f"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTZxYmsY5F9anZeHR5aHCo6uYRzGRX5kGhyP0zD5gYqosHRd8SggCPsaaXeRcSriXDdyQqnC9ZD4LeU9Xc9_S-LpGVWp39OpFDBpQwo-pEUyDRwLlTw4dRTVg",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcS3T7tponGufVKIW7lVeg3ytZa3kBTjZr3-wA03QpvDGlAid4mfxeSviat-M6kk4Pm8x3PrCTt4v20BpEZqq7sx4OTTwJlMJEYvcGokyQ",
+      "source": "Hume Supernatural",
+      "title": "Deodorant Hume Supernatural",
+      "rating": 4.6,
+      "reviews": 281,
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "delivery": "Free delivery on $25+",
+      "immersive_product_page_token": "A0-iUHicbZBNjqNGAIWlnCGniDUSVQXGlZ1tKDBtsF1Qxc9mVFC0YSgbGuO2jXKH3ME9E2mynBkpZ-mcJlbWs33f06en9-e9rP-pPnxA4hyt1ytHVflq--LVy3aefu36Vp6LoZY_AABYg_oUzXRzZsIpmBn610IMQrX7Wn43oD4zDM3AYKYDzTAB1r9VpZCqPpab5-eyt9qilt9MU384NKhBMAWmiYH5d30Q-_J_-gNocGoC81FAmqkjCLUZfOvl6R1ulx_xzJgihGYmnhomxlMdan9s6cb6-HP25eVc9rf33_LyNEyOYjj3Qk1k2cq2F8fhNBkqMUxEMZyFUrfJpe2bL_vuMeL7T1xvh8d0w5zqU2gYU4hmGsAYg7fudbhX-8_nsyrfrctkOV_tVstVzyEZhaPOGaKveX21d7d5GzrkmCXeKB2MHllAl82Jx0YnHd6sSKClCVXF5b5X9_PpXql7efyrFd3rc_HvL7_a7cVani7LHes6blEtjCrCG_siIx75DD8V8HoqoFRhIl-EhiN5GFTW4FPheGeO5FXYXRyOykpV9sKQxzlZxH4zIGYDO_8UuKFjowClYJd4fBelMIeUB1HwRIGkUkkQu2SXARnnDtVjxt11QqoCYMQTEgVuV3PkLZit-kIzxoCkgB49FjUZZVB5j3fj3KK9D3ET2d025FUlYuKwI1XcDs6-9TBHe13A4loSbxmxLMyiTOOAJBEifUhUTw-Fno3-mCXzgY3S4mBRBxaFGwaeJQw63011326uaQxQ5EpfuvSWMbKKnQaUDj1xaOihZrA8eZgONAmVZ8Ws-pSjVA_R_la4VcPt3YUR8rSD2YIymrCRb0Jn0ASaI-ZWgwC0K5rqdTcSP9EkTaE_hAATDuSQALnwx0KPD9mWWeQmxvkQQuOJgQUXdiY2bBcSuB_WUVBJTv3IVm7uVHXIF9fwoKxcI5lTewvqBrdNnIU59F4KW3nBgY8xw6KMPT1wVBrGuPUZf6XKo5-vp_75XZsTYwg3Rl_dvA943WXLnS2s5dHdr7dSPzpHY_47MLGmI4w0XTfBfzphSts",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=A0-iUHicbZBNjqNGAIWlnCGniDUSVQXGlZ1tKDBtsF1Qxc9mVFC0YSgbGuO2jXKH3ME9E2mynBkpZ-mcJlbWs33f06en9-e9rP-pPnxA4hyt1ytHVflq--LVy3aefu36Vp6LoZY_AABYg_oUzXRzZsIpmBn610IMQrX7Wn43oD4zDM3AYKYDzTAB1r9VpZCqPpab5-eyt9qilt9MU384NKhBMAWmiYH5d30Q-_J_-gNocGoC81FAmqkjCLUZfOvl6R1ulx_xzJgihGYmnhomxlMdan9s6cb6-HP25eVc9rf33_LyNEyOYjj3Qk1k2cq2F8fhNBkqMUxEMZyFUrfJpe2bL_vuMeL7T1xvh8d0w5zqU2gYU4hmGsAYg7fudbhX-8_nsyrfrctkOV_tVstVzyEZhaPOGaKveX21d7d5GzrkmCXeKB2MHllAl82Jx0YnHd6sSKClCVXF5b5X9_PpXql7efyrFd3rc_HvL7_a7cVani7LHes6blEtjCrCG_siIx75DD8V8HoqoFRhIl-EhiN5GFTW4FPheGeO5FXYXRyOykpV9sKQxzlZxH4zIGYDO_8UuKFjowClYJd4fBelMIeUB1HwRIGkUkkQu2SXARnnDtVjxt11QqoCYMQTEgVuV3PkLZit-kIzxoCkgB49FjUZZVB5j3fj3KK9D3ET2d025FUlYuKwI1XcDs6-9TBHe13A4loSbxmxLMyiTOOAJBEifUhUTw-Fno3-mCXzgY3S4mBRBxaFGwaeJQw63011326uaQxQ5EpfuvSWMbKKnQaUDj1xaOihZrA8eZgONAmVZ8Ws-pSjVA_R_la4VcPt3YUR8rSD2YIymrCRb0Jn0ASaI-ZWgwC0K5rqdTcSP9EkTaE_hAATDuSQALnwx0KPD9mWWeQmxvkQQuOJgQUXdiY2bBcSuB_WUVBJTv3IVm7uVHXIF9fwoKxcI5lTewvqBrdNnIU59F4KW3nBgY8xw6KMPT1wVBrGuPUZf6XKo5-vp_75XZsTYwg3Rl_dvA943WXLnS2s5dHdr7dSPzpHY_47MLGmI4w0XTfBfzphSts"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQjabT24p0Y3EfRtnMmFwvHsa7oHMpJBkKTesSoz9t0YqqONK1tfkeRh4lXWYkWlNfJYrkxx-0Mo5NsmZ3XCJfPPM3saf9lNUlaQonVAaOsPPz8yzH48xs6",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTFOJmFQBrP2qEVhk4efNuZt88qdkWL2rWKFr9mqHSYlRkL8XffiYEOEECIJhJMtqYBphz1lsokAFaS49BuG06YYPUxNBQisniK",
+      "source": "Specimen",
+      "title": "Specimen Natural Deodorant",
+      "rating": 4.9,
+      "reviews": 73,
+      "price": "$15.00",
+      "extracted_price": 15.0,
+      "immersive_product_page_token": "Y70cPHicbZNdjqNGFIWlrCGriDVSUfyZvLWNC5u2sSmoAuplVFC0oSl-2kBjW9lD9uCeiTR5nDxkLZ3VxJ08Jm9H91wdfVdH99dbXv5ZfPqk8jHcbjeOLNLN4cUtl-1D8q07tWLMhlL8YWg61FTLUMB8Pte1-dzSv2V84LI93l2oWBbUTcMyLADnmqrC-fci50KWTb5_espPdpvd13QTzhXVNAxDUaHxodXfy5of839tRYGqphkfCR_CUk3l7ST6d3hYflZUXdP0OVSgphuWaWgm-OWA9_bn__e-voz56fL-U5r3w6zhw3jicibyVrQn3gz9bCj4MOPZMHIpL7OpPVVfj90_DP_NeqtL8f1-nGZAXb0zmiYwLcN4616HW3H8Mo4yf7en2fJh42-WmxOF6ModOTIVv6bleeVfHtrAQQ2L3atwLPU-8_Cy6mmkd8Kh1QZ5IImxzKbbUd7G_lbIW9781vLu9Sn764cfV-1kL_tp6ZOuozYGgXQDDCkPoHgkaLHLAKpZw2RW9RpDi33UsGofeQGuh0UKumkXdyCt6VNOWBQ45IpXYkptfCFhBZPaSzJVdIQoQ04J2EWiw6XSJ6G7ydR2iqSlhWGls7WAaYhQZDMnI8U-qY_KfiWGsG6ntEatd_Veic10n2bXFLp6Atg2hm6fOV5CQmmHdOHn4W5KQrxnwApIXLi7iE3MoWOiCCeoC0RX-BDFrRJFK02EC4KBnmCHLamkg18Ntk8XJ1ydFYrkC5OYk9B7DFYuyhAeo-q84fGi8JrukVcuitY-pBQFaXTmoY391Mm0yNFlKj3gEWFnNUV-7O5zRy985c6iesoOnEdeDQde6es0UIKUdtccIbgNiR5UXhdSC-zWXhLE3cGnArKo8H1Ce6EclVQpPL8qnIyy5ySmEV6jSNS4TSk29nEVIHgctqFXCIp34UquU6coA7o4B7W0U4CYU7oLvPYu-4iRECJOwPnsQ3fLKkwYkmcO9Dongtx7Hwiymi_n_vT0Dh6QPgR7YwdWZKepjVO2z8Pzc3NZPV9RwushffhZMS1w_1sVaJqp_g2PC05Z",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Y70cPHicbZNdjqNGFIWlrCGriDVSUfyZvLWNC5u2sSmoAuplVFC0oSl-2kBjW9lD9uCeiTR5nDxkLZ3VxJ08Jm9H91wdfVdH99dbXv5ZfPqk8jHcbjeOLNLN4cUtl-1D8q07tWLMhlL8YWg61FTLUMB8Pte1-dzSv2V84LI93l2oWBbUTcMyLADnmqrC-fci50KWTb5_espPdpvd13QTzhXVNAxDUaHxodXfy5of839tRYGqphkfCR_CUk3l7ST6d3hYflZUXdP0OVSgphuWaWgm-OWA9_bn__e-voz56fL-U5r3w6zhw3jicibyVrQn3gz9bCj4MOPZMHIpL7OpPVVfj90_DP_NeqtL8f1-nGZAXb0zmiYwLcN4616HW3H8Mo4yf7en2fJh42-WmxOF6ModOTIVv6bleeVfHtrAQQ2L3atwLPU-8_Cy6mmkd8Kh1QZ5IImxzKbbUd7G_lbIW9781vLu9Sn764cfV-1kL_tp6ZOuozYGgXQDDCkPoHgkaLHLAKpZw2RW9RpDi33UsGofeQGuh0UKumkXdyCt6VNOWBQ45IpXYkptfCFhBZPaSzJVdIQoQ04J2EWiw6XSJ6G7ydR2iqSlhWGls7WAaYhQZDMnI8U-qY_KfiWGsG6ntEatd_Veic10n2bXFLp6Atg2hm6fOV5CQmmHdOHn4W5KQrxnwApIXLi7iE3MoWOiCCeoC0RX-BDFrRJFK02EC4KBnmCHLamkg18Ntk8XJ1ydFYrkC5OYk9B7DFYuyhAeo-q84fGi8JrukVcuitY-pBQFaXTmoY391Mm0yNFlKj3gEWFnNUV-7O5zRy985c6iesoOnEdeDQde6es0UIKUdtccIbgNiR5UXhdSC-zWXhLE3cGnArKo8H1Ce6EclVQpPL8qnIyy5ySmEV6jSNS4TSk29nEVIHgctqFXCIp34UquU6coA7o4B7W0U4CYU7oLvPYu-4iRECJOwPnsQ3fLKkwYkmcO9Dongtx7Hwiymi_n_vT0Dh6QPgR7YwdWZKepjVO2z8Pzc3NZPV9RwushffhZMS1w_1sVaJqp_g2PC05Z"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT3K2wIwl_98P-GtI8qRyvCXwPLLAsJt5538tSEpslsNosQdyzHkX1k4fc0QNmcNGSfE5N1nPuntQUAMH-GRFbSRALcTBF7xqqoH_COcM9jScA1wvL077ff",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTabpFbK88sOFbTeP_uTiefjQLAV3y0PmHSQXI-xU2aJ2LOvUNtOndcQPxuGy-NRC73miUp9C8q8PUKXUItspfHhCW12tnvMOgTgZXj",
+      "source": "Just Ingredients",
+      "title": "Just Ingredients Deodorant",
+      "rating": 4.6,
+      "reviews": 5700,
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "original_price": "$5.00/oz",
+      "extracted_original_price": 5.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "xuIx1HicbZLdrptGFIWlPkOfolak-WHA5O4cG7A5GB8PMOC5iYYfG8zwY8CxsfoOfQcnqZReJpX6LKdPUyL1Mrfr29p7ra31xyMr_snfvcPi4jvO2pJ5vH4928Wiedp_bbsmvSRDkX6faxhDBICqzLGmaXNIwNdEDEI2xyL9G2qYaIgAooC5BpCuq_r8W56JVBZ1tj0csm7ZJD_mINEJRFjRVKQgomN9rv5VVOKY_c8njBV9TlQMCSZzBCD81KX9G3pdfIAYAxUqypzoiqLBHzd-f6Xb5Yefsy_nS9aNb7_FWT_MajFcOiFnadakTSfqoZ8NuRhmIhkuQspxdm268suxnUx8_8muT1WRfiOaqqhoiq5DrE4vmOT24_DIj58vF5m9La-zxdN6t16sO4bMu7DkhWP6MS5uxm58ajzLrHlk31NLx5Pm0kXZs5C0qcXKtemCfURlcn0c5ePSP3L5yOo_G9F-PCT__vKr0VyXi_662AVty5YUeMjsWcnPSSkHWtmOX7Wdd7JxVlPHA9APA35xQtnQOz9nsr3xahjEku8S0CAvYExg1xQWRJvJUxLqMqube1C2iII18VaumtSyY2V72DAzin264hUZA-PmRyB9Cc0cbaDrBCvabwr4shvhKqvTKceV8HtaOlFw5R4gPNqNiWGibGWfQ2kTGsl2a-iHGOzHPaZnjnLmMMZTpE-G5wqN-J5bpNl50OVR7jLmGoFpHwTIew_kNDZ0O1mm3C3txQbyymFuzaR72kbUjcs1iEPzNQCkpScumEX6MHJ7VucyjnLHvZvcBS3fVEPOzdyLI5ttGc0Fk33MOIvAdRRgjxJMVY5YJ0zb3kUUxyVXI-C2rnz20pOthOUVMJi-REi5-6tk5HcZpFN74iWliemaG0uKfb0bfRSAwNKlX9neJmirgBmeiY6D47t5yujGN-QqtvLCY883r5LLGJjcKuxnunLHbch9v-Iv1HB9EaS3oH4mnkFMJpu7WCYDN9p9WED8-dZ3hzfwZJLB26obYAQbBddW0ZyG06kejdPd3ItqiJ_eQ00HCtYxmNqM_wP6UlBK",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=xuIx1HicbZLdrptGFIWlPkOfolak-WHA5O4cG7A5GB8PMOC5iYYfG8zwY8CxsfoOfQcnqZReJpX6LKdPUyL1Mrfr29p7ra31xyMr_snfvcPi4jvO2pJ5vH4928Wiedp_bbsmvSRDkX6faxhDBICqzLGmaXNIwNdEDEI2xyL9G2qYaIgAooC5BpCuq_r8W56JVBZ1tj0csm7ZJD_mINEJRFjRVKQgomN9rv5VVOKY_c8njBV9TlQMCSZzBCD81KX9G3pdfIAYAxUqypzoiqLBHzd-f6Xb5Yefsy_nS9aNb7_FWT_MajFcOiFnadakTSfqoZ8NuRhmIhkuQspxdm268suxnUx8_8muT1WRfiOaqqhoiq5DrE4vmOT24_DIj58vF5m9La-zxdN6t16sO4bMu7DkhWP6MS5uxm58ajzLrHlk31NLx5Pm0kXZs5C0qcXKtemCfURlcn0c5ePSP3L5yOo_G9F-PCT__vKr0VyXi_662AVty5YUeMjsWcnPSSkHWtmOX7Wdd7JxVlPHA9APA35xQtnQOz9nsr3xahjEku8S0CAvYExg1xQWRJvJUxLqMqube1C2iII18VaumtSyY2V72DAzin264hUZA-PmRyB9Cc0cbaDrBCvabwr4shvhKqvTKceV8HtaOlFw5R4gPNqNiWGibGWfQ2kTGsl2a-iHGOzHPaZnjnLmMMZTpE-G5wqN-J5bpNl50OVR7jLmGoFpHwTIew_kNDZ0O1mm3C3txQbyymFuzaR72kbUjcs1iEPzNQCkpScumEX6MHJ7VucyjnLHvZvcBS3fVEPOzdyLI5ttGc0Fk33MOIvAdRRgjxJMVY5YJ0zb3kUUxyVXI-C2rnz20pOthOUVMJi-REi5-6tk5HcZpFN74iWliemaG0uKfb0bfRSAwNKlX9neJmirgBmeiY6D47t5yujGN-QqtvLCY883r5LLGJjcKuxnunLHbch9v-Iv1HB9EaS3oH4mnkFMJpu7WCYDN9p9WED8-dZ3hzfwZJLB26obYAQbBddW0ZyG06kejdPd3ItqiJ_eQ00HCtYxmNqM_wP6UlBK"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTcO3AQl910-ISAcXiiXobyLY3ek9rNoiLjW-5pqDcaqmyTO0Z6ngwQewZgnThe5lzit-IwnB4zZj-EALKfjWrEUwYkK1rAf2XjsdWE4IC_GFmTrjWYfvTj2Q",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSJHrNgyRzeb-B4Z-pcodOshYNyiSQ1zZqMQC0NhzCG83OTSF-RPr3BhdGtNjvqNKYugfzw3Pk9wYH97DOae-OtA9yPKKbP5rg",
+      "source": "ReVersa Rose",
+      "title": "Nala Natural Deodorant",
+      "rating": 4.6,
+      "reviews": 451,
+      "price": "$26.00",
+      "extracted_price": 26.0,
+      "location": "Nearby, 15 mi",
+      "immersive_product_page_token": "BgSCf3icdZNfjqNGEMalnCGniDVSN02D2bcZm2ZMDB4aaKBfVkBjw9D8WRuMbeUOuYNnN9LmcRMpZ5mcJiR5jPJY9fv0qeor1c_3ovqjfHhA6RhstxtLltnm5ZNdrbrH5Gt_7MSYD5X4HeIlMgyggiVEiq5gQ9W0r3k6pLI7VOI3Q1OwphjGEgGsqkgHhv6tLFIhq7bY7ffFcd3lswxqSNcxmrWGphpwCbDxa9Wkh-JfjIzlEugYqH-7YIwQ1t6O4vSuvqw-wrmc4XJ2R6oKEERQ_emF7tYf_wd--TQWx-v7D1lxGhZtOozHVC5E0YnumLbDaTGU6bBI82FMpbwupu5Yfzn0-T-r_tfsranEN6xrqqYsVQCRps9pKMZbfx7u5eHzOMrifT0tVo8bb7PaHJlCbqklR47oOasupnd97HyLtDy2b8Iy0Nxz6ao-sQj3wmL1hrggianMp_tB3sfTvZT3ov2lS_vzPv_zu-_NblqvTtPKC_uerSkI1uIUBrQv6nLybkTLmb1NGngpmiEOIxdnkSFpLc9Z6CjbgLtFCNk2YE9MuVicUDWNucxeycgh2_iEmJ6kex4yIqJh5UH7ObNE7ZCnkTL7mBH7xwBcoA_drfNK14U0zm7DtLwxjn5M66LtbtQa7KAGUxoZJGX8tYhCLEJychsTi-enxAPzAEzsnGf7SmE3OK1LkkYgUddKTnopQttzTDFmre35UmzC2GVpJF4T6QIPEY9DijPLDTggL2njXBh6xL7iVr5ioMiEMbcELeoOJ7W8-aGDPFlOya3cs6Z0s4hfvdh-DQDrnDWr85iVgrirrJWT1_a3giUXJ9gAGtcXETIuVjApWDf5N3lmJmRBKJoMJJgjZ8prpom4vCUKxJmp4p0PS94YisfcmMlk4Dd6dZ_FNiXEpqaj5NKus1BwoXg-UQ7DNnBLwagTmHLOuKx89nTxG7nOAOFWZT_RZ_e6iziloFd3scuFRToOeJDX1MrM_lMIbC7kfJOAtJ8vp-P-HTwSPPg73amiREu7vHTiSSdOv2Gm-nC1T8Fu-gD1-XGRgYCq6upf1h9P-A",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BgSCf3icdZNfjqNGEMalnCGniDVSN02D2bcZm2ZMDB4aaKBfVkBjw9D8WRuMbeUOuYNnN9LmcRMpZ5mcJiR5jPJY9fv0qeor1c_3ovqjfHhA6RhstxtLltnm5ZNdrbrH5Gt_7MSYD5X4HeIlMgyggiVEiq5gQ9W0r3k6pLI7VOI3Q1OwphjGEgGsqkgHhv6tLFIhq7bY7ffFcd3lswxqSNcxmrWGphpwCbDxa9Wkh-JfjIzlEugYqH-7YIwQ1t6O4vSuvqw-wrmc4XJ2R6oKEERQ_emF7tYf_wd--TQWx-v7D1lxGhZtOozHVC5E0YnumLbDaTGU6bBI82FMpbwupu5Yfzn0-T-r_tfsranEN6xrqqYsVQCRps9pKMZbfx7u5eHzOMrifT0tVo8bb7PaHJlCbqklR47oOasupnd97HyLtDy2b8Iy0Nxz6ao-sQj3wmL1hrggianMp_tB3sfTvZT3ov2lS_vzPv_zu-_NblqvTtPKC_uerSkI1uIUBrQv6nLybkTLmb1NGngpmiEOIxdnkSFpLc9Z6CjbgLtFCNk2YE9MuVicUDWNucxeycgh2_iEmJ6kex4yIqJh5UH7ObNE7ZCnkTL7mBH7xwBcoA_drfNK14U0zm7DtLwxjn5M66LtbtQa7KAGUxoZJGX8tYhCLEJychsTi-enxAPzAEzsnGf7SmE3OK1LkkYgUddKTnopQttzTDFmre35UmzC2GVpJF4T6QIPEY9DijPLDTggL2njXBh6xL7iVr5ioMiEMbcELeoOJ7W8-aGDPFlOya3cs6Z0s4hfvdh-DQDrnDWr85iVgrirrJWT1_a3giUXJ9gAGtcXETIuVjApWDf5N3lmJmRBKJoMJJgjZ8prpom4vCUKxJmp4p0PS94YisfcmMlk4Dd6dZ_FNiXEpqaj5NKus1BwoXg-UQ7DNnBLwagTmHLOuKx89nTxG7nOAOFWZT_RZ_e6iziloFd3scuFRToOeJDX1MrM_lMIbC7kfJOAtJ8vp-P-HTwSPPg73amiREu7vHTiSSdOv2Gm-nC1T8Fu-gD1-XGRgYCq6upf1h9P-A"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the healthiest and most effective natural deodorant?",
+      "type": "ai_overview",
+      "page_token": "xcMX7HicHdDBkpowAADQ6c_scYWwbkdnnE5RIlKJk4QkGy4dCGqEQFKWCnLrL_Qb-lX9mu709s7v1x9z65q_n37rYXDv68ViHMfnq7VXc35Wtl0U749OLVRhTFmoZv36-dX_clGb6K7Cba9CzJzjO-JRUwHB0L7cwZh2hyWC2ss-fObRWEF0RI2TqSA-EWSJOx3IFnU0rh5ZkNO0nX5Izsaqhi-08a0Qy58C2qGMnSYRm0TrbiIL0wLw4ylL_DTjQ7n3eVmbbQHz8MyRPEWIp56rpamgiA-DYCuQz19fEIT34i1PMsB7XsuA1lVAvVVSCHdCe9hgo6XaH6bc879VwJsLhr2SISvrpJMzfmQ742GgHel0z5ixKYN9pCt7pN4s3zjLoikhYLKyMVh9XGCwCgWxN8zIrGrT8pizs-Ct6rCPwZJywfxSwIx2GmBAamrMNh-fLuq-CZ7-X2--X9ph7Xp7_Qf774zf",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xcMX7HicHdDBkpowAADQ6c_scYWwbkdnnE5RIlKJk4QkGy4dCGqEQFKWCnLrL_Qb-lX9mu709s7v1x9z65q_n37rYXDv68ViHMfnq7VXc35Wtl0U749OLVRhTFmoZv36-dX_clGb6K7Cba9CzJzjO-JRUwHB0L7cwZh2hyWC2ss-fObRWEF0RI2TqSA-EWSJOx3IFnU0rh5ZkNO0nX5Izsaqhi-08a0Qy58C2qGMnSYRm0TrbiIL0wLw4ylL_DTjQ7n3eVmbbQHz8MyRPEWIp56rpamgiA-DYCuQz19fEIT34i1PMsB7XsuA1lVAvVVSCHdCe9hgo6XaH6bc879VwJsLhr2SISvrpJMzfmQ742GgHel0z5ixKYN9pCt7pN4s3zjLoikhYLKyMVh9XGCwCgWxN8zIrGrT8pizs-Ct6rCPwZJywfxSwIx2GmBAamrMNh-fLuq-CZ7-X2--X9ph7Xp7_Qf774zf",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVllWa0pHT1dkWVRtbFZRVkJGVGpWR09XeGhORjlsZGpaUGQyOUdjV1ZWYTJWbmNERnhhMDQ1T0c1NmVYbHdiREZzTUhKdVZqaERRMjB5T1VGaFN6ZHNURVpYYnpod00yUmZXVGc0TXpWbE5sYzJiMHBDTjBWc2R4SVhhQzB0TTJGMVZFeE1TVWRzYUdKSlVIRkthVU52UVZrYUlrRkVjM0k1WmxOcVpsODJUSEJqVDNWYWJFZERSamRVU2xselQwVkpPVkpaTFhjIiwiZmN2IjoiMyIsImVpIjoiaC0tM2F1VExMSUdsaGJJUHFKaUNvQVkiLCJxYyI6IkNpcGlaWE4wSUc1aGRIVnlZV3dnWkdWdlpHOXlZVzUwY3lCMGFHRjBJR0ZqZEhWaGJHeDVJSGR2Y21zUUFIMmR3QUFfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBoZWFsdGhpZXN0IGFuZCBtb3N0IGVmZmVjdGl2ZSBuYXR1cmFsIGRlb2RvcmFudD8iLCJsayI6IkdpZG9aV0ZzZEdocFpYTjBJR0Z1WkNCdGIzTjBJR1ZtWm1WamRHbDJaU0JrWlc5a2IzSmhiblEiLCJicyI6ImMzMlBzUXJDTUJDR2NiM0p1WXRYSGNUVlRSQ2NIT29MZEQ3TnhVVFNSSnBMeGJjM0Zpb2RiSmZqNEw3Xy16bXdjS3dOQ2RxSVloZ05reE5qT1FxU1Y5aUV2TERXZkJQYk1YcVMxSkpEeFVHRmxyeWM5cnRpTzVfNXNhRGhVSnMzcW9BVlJySE9ZV3c0VC03WTVfS1E3aVpmVXB6cXNmOXZlRTB5OXNFWnNIOHBGMUZqby1sak9yUmpYVm1zWHZNTVZMQWVOQmQ2a3VkTWZDbUtZOUdtS0FmUlk0cGFMajQiLCJpZCI6ImZjX2gtLTNhdVRMTElHbGhiSVBxSmlDb0FZXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVllWa0pHT1dkWVRtbFZRVkJGVGpWR09XeGhORjlsZGpaUGQyOUdjV1ZWYTJWbmNERnhhMDQ1T0c1NmVYbHdiREZzTUhKdVZqaERRMjB5T1VGaFN6ZHNURVpYYnpod00yUmZXVGc0TXpWbE5sYzJiMHBDTjBWc2R4SVhhQzB0TTJGMVZFeE1TVWRzYUdKSlVIRkthVU52UVZrYUlrRkVjM0k1WmxOcVpsODJUSEJqVDNWYWJFZERSamRVU2xselQwVkpPVkpaTFhjIiwiZmN2IjoiMyIsImVpIjoiaC0tM2F1VExMSUdsaGJJUHFKaUNvQVkiLCJxYyI6IkNpcGlaWE4wSUc1aGRIVnlZV3dnWkdWdlpHOXlZVzUwY3lCMGFHRjBJR0ZqZEhWaGJHeDVJSGR2Y21zUUFIMmR3QUFfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBoZWFsdGhpZXN0IGFuZCBtb3N0IGVmZmVjdGl2ZSBuYXR1cmFsIGRlb2RvcmFudD8iLCJsayI6IkdpZG9aV0ZzZEdocFpYTjBJR0Z1WkNCdGIzTjBJR1ZtWm1WamRHbDJaU0JrWlc5a2IzSmhiblEiLCJicyI6ImMzMlBzUXJDTUJDR2NiM0p1WXRYSGNUVlRSQ2NIT29MZEQ3TnhVVFNSSnBMeGJjM0Zpb2RiSmZqNEw3Xy16bXdjS3dOQ2RxSVloZ05reE5qT1FxU1Y5aUV2TERXZkJQYk1YcVMxSkpEeFVHRmxyeWM5cnRpTzVfNXNhRGhVSnMzcW9BVlJySE9ZV3c0VC03WTVfS1E3aVpmVXB6cXNmOXZlRTB5OXNFWnNIOHBGMUZqby1sak9yUmpYVm1zWHZNTVZMQWVOQmQ2a3VkTWZDbUtZOUdtS0FmUlk0cGFMajQiLCJpZCI6ImZjX2gtLTNhdVRMTElHbGhiSVBxSmlDb0FZXzUifQ%3D%3D"
+    },
+    {
+      "question": "Why do I still smell even though I use natural deodorant?",
+      "type": "ai_overview",
+      "page_token": "XIlz5XicHdBRbpswAABQ9TL9bDCEbI0UTSLBEBrMbLAB_0xgRhxsME1ZSfjbFXaGnWqnWdV3hPf7r74M6t_DHzlN49t2tZrn-elszFn_fBKmX1Vv90GsRKV1XQm13XzZgG-t2PnvwttfhYfpOLIDsVJNuMjlPQ3PDlIapoF2BZU6tp_XWT_beJFj6ZRurcgvPDCPgcijNGrJgAyBkJ7yeEk7aqFQrRkdI86oSwOoGqe5IODp2Cf7pEATU_x7yppjzEgYB9FBLHItOv6SsOOc5BPOWMTFIQZp73b1QSblMF6FQoRDeGMWTKpC3AmAJlvIVAK4SSBZVzm6JwHy-B7Mha1b3COrDiY3645T7Vtu5fO2dOS1ZOy1gQ3yZWNOqbWUBaOZf4uIfTOl0lh8XGD72cuJuWBKFtHpng7aL4BwCfg6p6E8xSF6QXZkVwEYSeYdScAzih9b8b5zHj-vdz_aftqOV3P-D9u0i5w",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=XIlz5XicHdBRbpswAABQ9TL9bDCEbI0UTSLBEBrMbLAB_0xgRhxsME1ZSfjbFXaGnWqnWdV3hPf7r74M6t_DHzlN49t2tZrn-elszFn_fBKmX1Vv90GsRKV1XQm13XzZgG-t2PnvwttfhYfpOLIDsVJNuMjlPQ3PDlIapoF2BZU6tp_XWT_beJFj6ZRurcgvPDCPgcijNGrJgAyBkJ7yeEk7aqFQrRkdI86oSwOoGqe5IODp2Cf7pEATU_x7yppjzEgYB9FBLHItOv6SsOOc5BPOWMTFIQZp73b1QSblMF6FQoRDeGMWTKpC3AmAJlvIVAK4SSBZVzm6JwHy-B7Mha1b3COrDiY3645T7Vtu5fO2dOS1ZOy1gQ3yZWNOqbWUBaOZf4uIfTOl0lh8XGD72cuJuWBKFtHpng7aL4BwCfg6p6E8xSF6QXZkVwEYSeYdScAzih9b8b5zHj-vdz_aftqOV3P-D9u0i5w",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVllWa0pHT1dkWVRtbFZRVkJGVGpWR09XeGhORjlsZGpaUGQyOUdjV1ZWYTJWbmNERnhhMDQ1T0c1NmVYbHdiREZzTUhKdVZqaERRMjB5T1VGaFN6ZHNURVpYYnpod00yUmZXVGc0TXpWbE5sYzJiMHBDTjBWc2R4SVhhQzB0TTJGMVZFeE1TVWRzYUdKSlVIRkthVU52UVZrYUlrRkVjM0k1WmxOcVpsODJUSEJqVDNWYWJFZERSamRVU2xselQwVkpPVkpaTFhjIiwiZmN2IjoiMyIsImVpIjoiaC0tM2F1VExMSUdsaGJJUHFKaUNvQVkiLCJxYyI6IkNpcGlaWE4wSUc1aGRIVnlZV3dnWkdWdlpHOXlZVzUwY3lCMGFHRjBJR0ZqZEhWaGJHeDVJSGR2Y21zUUFIMmR3QUFfIiwicXVlc3Rpb24iOiJXaHkgZG8gSSBzdGlsbCBzbWVsbCBldmVuIHRob3VnaCBJIHVzZSBuYXR1cmFsIGRlb2RvcmFudD8iLCJsayI6IkdpZHBJSFZ6WlNCdVlYUjFjbUZzSUdSbGIyUnZjbUZ1ZENCaWRYUWdjM1JwYkd3Z2MyMWxiR3ciLCJicyI6ImMzMlBzUXJDTUJDR2NiM0p1WXRYSGNUVlRSQ2NIT29MZEQ3TnhVVFNSSnBMeGJjM0Zpb2RiSmZqNEw3Xy16bXdjS3dOQ2RxSVloZ05reE5qT1FxU1Y5aUV2TERXZkJQYk1YcVMxSkpEeFVHRmxyeWM5cnRpTzVfNXNhRGhVSnMzcW9BVlJySE9ZV3c0VC03WTVfS1E3aVpmVXB6cXNmOXZlRTB5OXNFWnNIOHBGMUZqby1sak9yUmpYVm1zWHZNTVZMQWVOQmQ2a3VkTWZDbUtZOUdtS0FmUlk0cGFMajQiLCJpZCI6ImZjX2gtLTNhdVRMTElHbGhiSVBxSmlDb0FZXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVllWa0pHT1dkWVRtbFZRVkJGVGpWR09XeGhORjlsZGpaUGQyOUdjV1ZWYTJWbmNERnhhMDQ1T0c1NmVYbHdiREZzTUhKdVZqaERRMjB5T1VGaFN6ZHNURVpYYnpod00yUmZXVGc0TXpWbE5sYzJiMHBDTjBWc2R4SVhhQzB0TTJGMVZFeE1TVWRzYUdKSlVIRkthVU52UVZrYUlrRkVjM0k1WmxOcVpsODJUSEJqVDNWYWJFZERSamRVU2xselQwVkpPVkpaTFhjIiwiZmN2IjoiMyIsImVpIjoiaC0tM2F1VExMSUdsaGJJUHFKaUNvQVkiLCJxYyI6IkNpcGlaWE4wSUc1aGRIVnlZV3dnWkdWdlpHOXlZVzUwY3lCMGFHRjBJR0ZqZEhWaGJHeDVJSGR2Y21zUUFIMmR3QUFfIiwicXVlc3Rpb24iOiJXaHkgZG8gSSBzdGlsbCBzbWVsbCBldmVuIHRob3VnaCBJIHVzZSBuYXR1cmFsIGRlb2RvcmFudD8iLCJsayI6IkdpZHBJSFZ6WlNCdVlYUjFjbUZzSUdSbGIyUnZjbUZ1ZENCaWRYUWdjM1JwYkd3Z2MyMWxiR3ciLCJicyI6ImMzMlBzUXJDTUJDR2NiM0p1WXRYSGNUVlRSQ2NIT29MZEQ3TnhVVFNSSnBMeGJjM0Zpb2RiSmZqNEw3Xy16bXdjS3dOQ2RxSVloZ05reE5qT1FxU1Y5aUV2TERXZkJQYk1YcVMxSkpEeFVHRmxyeWM5cnRpTzVfNXNhRGhVSnMzcW9BVlJySE9ZV3c0VC03WTVfS1E3aVpmVXB6cXNmOXZlRTB5OXNFWnNIOHBGMUZqby1sak9yUmpYVm1zWHZNTVZMQWVOQmQ2a3VkTWZDbUtZOUdtS0FmUlk0cGFMajQiLCJpZCI6ImZjX2gtLTNhdVRMTElHbGhiSVBxSmlDb0FZXzUifQ%3D%3D"
+    },
+    {
+      "question": "What do amish use for deodorant?",
+      "type": "ai_overview",
+      "page_token": "4b1a0HicHdBdbqMwFEBhzWb62BgQqRIpGhUCAzQwso0vSV5GYIeQ2AZPQvnJW_fSVXU1U80Oznc-PtWllV8_hqbvzX29WIzj-HzuurM6PfNOL8r73PIFL5WqSi7Xy5el9bPmm-A99vy_sYeZMbAliDICDK0uWIVAJQlFQDRrBRbaSLr3fp-kZUR-XJJtU7AoRNyJx0o2PmfkkeWekz2ks7fDWth9QrTRKVoNQrpsx-5TwdyiiojMc--IkUECVJT9muZMq7i0Y5SrwDm1iX8smjHX4UgBahGJWbBpTuWU8r1pAcGwK_qaRIAPV29O7eRW-datghUVkClmN1Qo5kLY9cRJvKAR3Y6ix2EPLA-mhNhTd5AK828vtldeQboL_m7nV6UZvLpZ4Q5YqQBU8kYjSEvrdaRbUpNr8g6-FYvxqebDxnn6_3Pzp9b92ty68z_oY4Rg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=4b1a0HicHdBdbqMwFEBhzWb62BgQqRIpGhUCAzQwso0vSV5GYIeQ2AZPQvnJW_fSVXU1U80Oznc-PtWllV8_hqbvzX29WIzj-HzuurM6PfNOL8r73PIFL5WqSi7Xy5el9bPmm-A99vy_sYeZMbAliDICDK0uWIVAJQlFQDRrBRbaSLr3fp-kZUR-XJJtU7AoRNyJx0o2PmfkkeWekz2ks7fDWth9QrTRKVoNQrpsx-5TwdyiiojMc--IkUECVJT9muZMq7i0Y5SrwDm1iX8smjHX4UgBahGJWbBpTuWU8r1pAcGwK_qaRIAPV29O7eRW-datghUVkClmN1Qo5kLY9cRJvKAR3Y6ix2EPLA-mhNhTd5AK828vtldeQboL_m7nV6UZvLpZ4Q5YqQBU8kYjSEvrdaRbUpNr8g6-FYvxqebDxnn6_3Pzp9b92ty68z_oY4Rg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVllWa0pHT1dkWVRtbFZRVkJGVGpWR09XeGhORjlsZGpaUGQyOUdjV1ZWYTJWbmNERnhhMDQ1T0c1NmVYbHdiREZzTUhKdVZqaERRMjB5T1VGaFN6ZHNURVpYYnpod00yUmZXVGc0TXpWbE5sYzJiMHBDTjBWc2R4SVhhQzB0TTJGMVZFeE1TVWRzYUdKSlVIRkthVU52UVZrYUlrRkVjM0k1WmxOcVpsODJUSEJqVDNWYWJFZERSamRVU2xselQwVkpPVkpaTFhjIiwiZmN2IjoiMyIsImVpIjoiaC0tM2F1VExMSUdsaGJJUHFKaUNvQVkiLCJxYyI6IkNpcGlaWE4wSUc1aGRIVnlZV3dnWkdWdlpHOXlZVzUwY3lCMGFHRjBJR0ZqZEhWaGJHeDVJSGR2Y21zUUFIMmR3QUFfIiwicXVlc3Rpb24iOiJXaGF0IGRvIGFtaXNoIHVzZSBmb3IgZGVvZG9yYW50PyIsImxrIjoiR2g5M2FHRjBJR1J2SUdGdGFYTm9JSFZ6WlNCbWIzSWdaR1Z2Wkc5eVlXNTAiLCJicyI6ImMzMlBzUXJDTUJDR2NiM0p1WXRYSGNUVlRSQ2NIT29MZEQ3TnhVVFNSSnBMeGJjM0Zpb2RiSmZqNEw3Xy16bXdjS3dOQ2RxSVloZ05reE5qT1FxU1Y5aUV2TERXZkJQYk1YcVMxSkpEeFVHRmxyeWM5cnRpTzVfNXNhRGhVSnMzcW9BVlJySE9ZV3c0VC03WTVfS1E3aVpmVXB6cXNmOXZlRTB5OXNFWnNIOHBGMUZqby1sak9yUmpYVm1zWHZNTVZMQWVOQmQ2a3VkTWZDbUtZOUdtS0FmUlk0cGFMajQiLCJpZCI6ImZjX2gtLTNhdVRMTElHbGhiSVBxSmlDb0FZXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVllWa0pHT1dkWVRtbFZRVkJGVGpWR09XeGhORjlsZGpaUGQyOUdjV1ZWYTJWbmNERnhhMDQ1T0c1NmVYbHdiREZzTUhKdVZqaERRMjB5T1VGaFN6ZHNURVpYYnpod00yUmZXVGc0TXpWbE5sYzJiMHBDTjBWc2R4SVhhQzB0TTJGMVZFeE1TVWRzYUdKSlVIRkthVU52UVZrYUlrRkVjM0k1WmxOcVpsODJUSEJqVDNWYWJFZERSamRVU2xselQwVkpPVkpaTFhjIiwiZmN2IjoiMyIsImVpIjoiaC0tM2F1VExMSUdsaGJJUHFKaUNvQVkiLCJxYyI6IkNpcGlaWE4wSUc1aGRIVnlZV3dnWkdWdlpHOXlZVzUwY3lCMGFHRjBJR0ZqZEhWaGJHeDVJSGR2Y21zUUFIMmR3QUFfIiwicXVlc3Rpb24iOiJXaGF0IGRvIGFtaXNoIHVzZSBmb3IgZGVvZG9yYW50PyIsImxrIjoiR2g5M2FHRjBJR1J2SUdGdGFYTm9JSFZ6WlNCbWIzSWdaR1Z2Wkc5eVlXNTAiLCJicyI6ImMzMlBzUXJDTUJDR2NiM0p1WXRYSGNUVlRSQ2NIT29MZEQ3TnhVVFNSSnBMeGJjM0Zpb2RiSmZqNEw3Xy16bXdjS3dOQ2RxSVloZ05reE5qT1FxU1Y5aUV2TERXZkJQYk1YcVMxSkpEeFVHRmxyeWM5cnRpTzVfNXNhRGhVSnMzcW9BVlJySE9ZV3c0VC03WTVfS1E3aVpmVXB6cXNmOXZlRTB5OXNFWnNIOHBGMUZqby1sak9yUmpYVm1zWHZNTVZMQWVOQmQ2a3VkTWZDbUtZOUdtS0FmUlk0cGFMajQiLCJpZCI6ImZjX2gtLTNhdVRMTElHbGhiSVBxSmlDb0FZXzUifQ%3D%3D"
+    },
+    {
+      "question": "What do Japanese use as deodorant?",
+      "type": "ai_overview",
+      "page_token": "GXdSOHicHdDBTsIwHIDx-DIeZawOlYSYTLqBykhL--_aixmdY9KOVpls4-a7-FQ-jcbbd_19X9_27WB-Lk512_rjdDTquu5q59zOvl5p14yK43DQI11Yuy20mU5uJuP7Ss_w5zJ-eF_GhHsPcxpsAoOU8Fib0meMoCKpe4kyki3iv14ORXBnBSQxC8aOIOgAy06Y62Gb3PZ5EME6rQ86fRQwz07Ao3NmlCoXq3Al6ieagpdB5NZgBwVZJ_IErxcgYZ9gAt5npusVj4CHFDF-2-mFQhrriPGoVSJxGyhj1YBbpb5WY47IXlXlWV5LHh3Lhg55YKtt7imzSaTS_oGZFuG6dM-b4Cxz4Az3jzTsnTSW6D8vCe9iQd0b4fSs97bhB0V0SN83rNxzARM9V5iNlwNhdS5tnPOGHgm5rPRphi7_f85eqqad-g-3-wWIjoNV",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GXdSOHicHdDBTsIwHIDx-DIeZawOlYSYTLqBykhL--_aixmdY9KOVpls4-a7-FQ-jcbbd_19X9_27WB-Lk512_rjdDTquu5q59zOvl5p14yK43DQI11Yuy20mU5uJuP7Ss_w5zJ-eF_GhHsPcxpsAoOU8Fib0meMoCKpe4kyki3iv14ORXBnBSQxC8aOIOgAy06Y62Gb3PZ5EME6rQ86fRQwz07Ao3NmlCoXq3Al6ieagpdB5NZgBwVZJ_IErxcgYZ9gAt5npusVj4CHFDF-2-mFQhrriPGoVSJxGyhj1YBbpb5WY47IXlXlWV5LHh3Lhg55YKtt7imzSaTS_oGZFuG6dM-b4Cxz4Az3jzTsnTSW6D8vCe9iQd0b4fSs97bhB0V0SN83rNxzARM9V5iNlwNhdS5tnPOGHgm5rPRphi7_f85eqqad-g-3-wWIjoNV",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVllWa0pHT1dkWVRtbFZRVkJGVGpWR09XeGhORjlsZGpaUGQyOUdjV1ZWYTJWbmNERnhhMDQ1T0c1NmVYbHdiREZzTUhKdVZqaERRMjB5T1VGaFN6ZHNURVpYYnpod00yUmZXVGc0TXpWbE5sYzJiMHBDTjBWc2R4SVhhQzB0TTJGMVZFeE1TVWRzYUdKSlVIRkthVU52UVZrYUlrRkVjM0k1WmxOcVpsODJUSEJqVDNWYWJFZERSamRVU2xselQwVkpPVkpaTFhjIiwiZmN2IjoiMyIsImVpIjoiaC0tM2F1VExMSUdsaGJJUHFKaUNvQVkiLCJxYyI6IkNpcGlaWE4wSUc1aGRIVnlZV3dnWkdWdlpHOXlZVzUwY3lCMGFHRjBJR0ZqZEhWaGJHeDVJSGR2Y21zUUFIMmR3QUFfIiwicXVlc3Rpb24iOiJXaGF0IGRvIEphcGFuZXNlIHVzZSBhcyBkZW9kb3JhbnQ/IiwibGsiOiJHaUYzYUdGMElHUnZJR3BoY0dGdVpYTmxJSFZ6WlNCaGN5QmtaVzlrYjNKaGJuUSIsImJzIjoiYzMyUHNRckNNQkNHY2IzSnVZdFhIY1RWVFJDY0hPb0xkRDdOeFVUU1JKcEx4YmMzRmlvZGJKZmo0TDdfLXptd2NLd05DZHFJWWhnTmt4TmpPUXFTVjlpRXZMRFdmQlBiTVhxUzFKSkR4VUdGbHJ5YzlydGlPNV81c2FEaFVKczNxb0FWUnJIT1lXdzRULTdZNV9LUTdpWmZVcHpxc2Y5dmVFMHk5c0Vac0g4cEYxRmpvLWxqT3JSalhWbXNYdk1NVkxBZU5CZDZrdWRNZkNtS1k5R21LQWZSWTRwYUxqNCIsImlkIjoiZmNfaC0tM2F1VExMSUdsaGJJUHFKaUNvQVlfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlkzVllWa0pHT1dkWVRtbFZRVkJGVGpWR09XeGhORjlsZGpaUGQyOUdjV1ZWYTJWbmNERnhhMDQ1T0c1NmVYbHdiREZzTUhKdVZqaERRMjB5T1VGaFN6ZHNURVpYYnpod00yUmZXVGc0TXpWbE5sYzJiMHBDTjBWc2R4SVhhQzB0TTJGMVZFeE1TVWRzYUdKSlVIRkthVU52UVZrYUlrRkVjM0k1WmxOcVpsODJUSEJqVDNWYWJFZERSamRVU2xselQwVkpPVkpaTFhjIiwiZmN2IjoiMyIsImVpIjoiaC0tM2F1VExMSUdsaGJJUHFKaUNvQVkiLCJxYyI6IkNpcGlaWE4wSUc1aGRIVnlZV3dnWkdWdlpHOXlZVzUwY3lCMGFHRjBJR0ZqZEhWaGJHeDVJSGR2Y21zUUFIMmR3QUFfIiwicXVlc3Rpb24iOiJXaGF0IGRvIEphcGFuZXNlIHVzZSBhcyBkZW9kb3JhbnQ%2FIiwibGsiOiJHaUYzYUdGMElHUnZJR3BoY0dGdVpYTmxJSFZ6WlNCaGN5QmtaVzlrYjNKaGJuUSIsImJzIjoiYzMyUHNRckNNQkNHY2IzSnVZdFhIY1RWVFJDY0hPb0xkRDdOeFVUU1JKcEx4YmMzRmlvZGJKZmo0TDdfLXptd2NLd05DZHFJWWhnTmt4TmpPUXFTVjlpRXZMRFdmQlBiTVhxUzFKSkR4VUdGbHJ5YzlydGlPNV81c2FEaFVKczNxb0FWUnJIT1lXdzRULTdZNV9LUTdpWmZVcHpxc2Y5dmVFMHk5c0Vac0g4cEYxRmpvLWxqT3JSalhWbXNYdk1NVkxBZU5CZDZrdWRNZkNtS1k5R21LQWZSWTRwYUxqNCIsImlkIjoiZmNfaC0tM2F1VExMSUdsaGJJUHFKaUNvQVlfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "Primally Pure Charcoal DeodorantGo to product viewer dialog for this item. is widely rated as the most effective overall natural deodorant due to its high-performing, baking soda-free formula that uses activated charcoal to neutralize odor without causing irritation.",
+        "snippet_links": [
+          {
+            "text": "Primally Pure Charcoal DeodorantGo to product viewer dialog for this item.",
+            "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462896430753337,imageDocid:10657651632820499605,gpcid:2854199849032413564,headlineOfferDocid:392131103175313945,catalogid:11691000629364727838,productDocid:11578262901722013702,rds:PC_2296875556102406255%7CPROD_PC_2296875556102406255&q=product&sa=X&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQxa4PegoIAggACAAIChAF"
+          }
+        ],
+        "snippet_highlighted_words": [
+          "Primally Pure Charcoal DeodorantGo to product viewer dialog for this item."
+        ],
+        "reference_indexes": [
+          4
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top-Performing Natural Deodorants"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Best Overall: Primally Pure Charcoal DeodorantGo to product viewer dialog for this item. (around $16) relies on kaolin clay, arrowroot powder, and activated charcoal to absorb moisture and eliminate odor.",
+            "snippet_links": [
+              {
+                "text": "Primally Pure Charcoal DeodorantGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462896430753337,imageDocid:10657651632820499605,gpcid:2854199849032413564,headlineOfferDocid:392131103175313945,catalogid:11691000629364727838,productDocid:11578262901722013702,rds:PC_2296875556102406255%7CPROD_PC_2296875556102406255&q=product&sa=X&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQxa4PegoIAggACAAIChAN"
+              }
+            ]
+          },
+          {
+            "snippet": "Best Long-Lasting / Whole Body: Lume Deodorant StickGo to product viewer dialog for this item. (around $15) uses mandelic acid to block odor-causing bacteria for up to 72 hours without baking soda or aluminum.",
+            "snippet_links": [
+              {
+                "text": "Lume Deodorant StickGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462914511684192,imageDocid:3530481644835570478,gpcid:14547952903989683813,headlineOfferDocid:9919970323863562500,catalogid:6178660008510154090,productDocid:8580975587007354101,rds:PC_15276562433900124547%7CPROD_PC_15276562433900124547&q=product&sa=X&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQxa4PegoIAggACAAIChAT"
+              }
+            ]
+          },
+          {
+            "snippet": "Best Classic Stick & Scent Variety: Native DeodorantGo to product viewer dialog for this item. (around $14) is a mainstream favorite known for smooth gliding and reliable daily defense, featuring options for sensitive skin.",
+            "snippet_links": [
+              {
+                "text": "Native DeodorantGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462914678087722,imageDocid:515196165102520404,gpcid:9447852892312791286,headlineOfferDocid:7049626954414495548,catalogid:4690832820075940877,productDocid:3063723460890307515,rds:PC_9447852892312791286%7CPROD_PC_9447852892312791286&q=product&sa=X&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQxa4PegoIAggACAAIChAZ"
+              }
+            ]
+          },
+          {
+            "snippet": "Best Cream Formula: Little Seed Farm Activated Charcoal Deodorant CreamGo to product viewer dialog for this item. (around $15) is handmade and highly effective for sensitive skin types.",
+            "snippet_links": [
+              {
+                "text": "Little Seed Farm Activated Charcoal Deodorant CreamGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462896392460021,imageDocid:8278002072931366603,gpcid:13120938711235055491,headlineOfferDocid:6344522937418370609,catalogid:2962918670163764762,productDocid:17741575082185943286,rds:PC_13120938711235055491%7CPROD_PC_13120938711235055491&q=product&sa=X&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQxa4PegoIAggACAAIEhAD"
+              }
+            ]
+          }
+        ],
+        "reference_indexes": [
+          5
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "What Makes Them Effective"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Odor Neutralizers: Ingredients like magnesium hydroxide, zinc, and baking soda stop bacteria from creating odor.",
+            "reference_indexes": [
+              4
+            ]
+          },
+          {
+            "snippet": "Moisture Absorbers: Arrowroot powder and tapioca starch keep you dry without clogging your sweat glands."
+          },
+          {
+            "snippet": "Transition Period: Expect a 2-to-4 week adjustment phase when switching from a traditional antiperspirant as your body adjusts to natural sweating."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "To help narrow down the best option for you, let me know:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Do you have sensitive skin or past irritation from baking soda?"
+          },
+          {
+            "snippet": "Do you prefer a stick, cream, or spray application?"
+          },
+          {
+            "snippet": "What kind of scent or activity level are you shopping for?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.byrdie.com/best-natural-deodorants-8722607",
+        "source": "byrdie.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.google.com/",
+        "source": "Google",
+        "index": 1
+      },
+      {
+        "link": "https://www.greenbootlife.com/blog/best-natural-non-toxic-deodorants",
+        "source": "greenbootlife.com",
+        "index": 2
+      },
+      {
+        "title": "The 9 Best Natural Deodorants of 2026, Approved by Testers",
+        "link": "https://www.byrdie.com/best-natural-deodorants-8722607",
+        "snippet": "In This Article. ... Best Overall: The Primally Pure Charcoal Deodorant is our top natural deodorant. This baking soda-free formula is gentle, soothing, and detoxi...",
+        "source": "Byrdie",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAlSLD9qP-EmNNXES1Y2FvUfwgiJS6LUA_UvXRTVG31eThUEjPbJuuYoBUr4hdZDgsSg3u9pBB61E5cNOhbaDtHKpA-F5lDHDSPElY",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.byrdie.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 3
+      },
+      {
+        "title": "Lume Whole Body Smooth Solid Deodorant",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:5389881938266801722,catalogid:6998248217860611493,gpcid:1087701192918221547,mid:576462807117989741&ibp=oshop",
+        "snippet": "Strong enough for underarms. Gentle enough for everywhere.Powered by Mandelic Acid —a gentle AHA —this bestselling aluminum free Whole Body deodorant lowers pH to block odor before it starts, delivering clinically proven, all day odor protection for anywhere on your body. This skin loving formula also helps even skin tone and fade hyperpigmentation.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTRunEbIQRlFCHa7AUaOG_Wk_2eWe_WiarBXG3MzZDPQPH8KRxib5BLS8TlvNg105Jm78q8P2o8EcDzFjE",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 4
+      },
+      {
+        "title": "Little Seed Farm Deodorant Cream",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:17741575082185943286,catalogid:2962918670163764762,gpcid:13120938711235055491,mid:576462896392460021&ibp=oshop",
+        "snippet": "Change the way you deal with your body odor by using this Activated Charcoal Deodorant Cream from Little Seed Farm. This all-natural deodorant is aluminum- and baking soda-free, and is made with gentle organic ingredients that help moisturize your underarm skin while keeping odors at bay. Made in small batches on a solar-powered farm for freshness you can feel good about, this charcoal cream deodorant is the perfect way to treat your underarms to a gentle, natural and organic clean experience. Size: 2.4oz. Color: WHITE. Gender: unisex.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdfAjh_9uV7piR9-8U9tQpO8xGcsynb2aWpECy6lYadRHyR3DZlyPiUbw_CgXZVAMAHrLU24P9rwOonX0",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Best Natural and Non-Toxic Deodorants That Actually Work ...",
+        "link": "https://www.greenbootlife.com/blog/best-natural-non-toxic-deodorants",
+        "snippet": "What I Look for in a Non-Toxic Deodorant Ingredients I look for: Baking soda (sodium bicarbonate) — the classic odor neutralizer in most natural deos. Effective, b...",
+        "source": "www.greenbootlife.com",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSyPipuDRZxs6rASUFyNDDilZ0jm4O8TtJ970OvSxqUvvgafq0h4hNKEmwJAfscKipMV_nNZ0UUF346L7B_hHptQB0TJOTeVnFB1Hy5",
+        "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.greenbootlife.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Natural deodorants",
+      "link": "https://www.allure.com/gallery/best-natural-deodorants?intcid=inline_amp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFeLbVo8kqM-P_BcGdVZHK75AvVS3kAJwFmoMKDE_iZxShXi1ylSRXNl39x_4QlFrD2iB2vFqmMdWKdNNGhdVBcD3B5ahQMhBQgMknyJt1dsIOGUeZMjVH15we3CPElGsCiTyeyLxiCB0rH-mnY28wwKAMwZcud6AlvkoFyPojg&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://www.allure.com › gallery › best-natural-deodorants",
+      "favicon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAACQCACdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhIK-gzkUZbMcv1myx30AOlHX4GkCZ_GxJm3DP3NeHZs0LmqaXh1kKDy45wcLLLcRQAD-9_FvVpnpHiDJ76gNlVBesaTjHOBEcao0LYOKyHGyOVx7WaCB0gcU71XGwniPKeiUZVbkLPfWEHfFyW3Sq3yh8jsMpPzLivJRJg2v2mPhFJ0NvdLEha29j_itqE4SfO55C7gHYUjsKqUoHXlu5Gm2XZH1io_N9Xq21LtFyjvM73MfD3xYFu3sK-iYjGMFyQm_JFxxLXge_QwYuw9p5j8_8ujT1hmwvr_g2rkkLE37AKFXJuS1cV4J-BXqW50R4uLKvzY7Y6WvIwpc6MAs5yWQ1FWhxNKT5ZhYFqMTTtEqVqcHkbc1jEl_D3ktIO55N78oSQ9wtw0xCRc8l4r3eiiiWnJSOxuf8cg2ymIeDx29nTf-QgGLWuA7PjjYhAAn0PT9VKYkcxaI7nQ2A3KzDvI3Jiezei1--XdeLxCIU8ub1hdGSAA.webp",
+      "snippet": "No information is available for this page.",
+      "about_this_result": {
+        "source": {
+          "source_info_link": "https://www.allure.com/gallery/best-natural-deodorants?intcid=inline_amp",
+          "icon": "https://serpapi.com/images/i/UklGRp4BAABXRUJQVlA4IJIBAACQCACdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhIK-gzkUZbMcv1myx30AOlHX4GkCZ_GxJm3DP3NeHZs0LmqaXh1kKDy45wcLLLcRQAD-9_FvVpnpHiDJ76gNlVBesaTjHOBEcao0LYOKyHGyOVx7WaCB0gcU71XGwniPKeiUZVbkLPfWEHfFyW3Sq3yh8jsMpPzLivJRJg2v2mPhFJ0NvdLEha29j_itqE4SfO55C7gHYUjsKqUoHXlu5Gm2XZH1io_N9Xq21LtFyjvM73MfD3xYFu3sK-iYjGMFyQm_JFxxLXge_QwYuw9p5j8_8ujT1hmwvr_g2rkkLE37AKFXJuS1cV4J-BXqW50R4uLKvzY7Y6WvIwpc6MAs5yWQ1FWhxNKT5ZhYFqMTTtEqVqcHkbc1jEl_D3ktIO55N78oSQ9wtw0xCRc8l4r3eiiiWnJSOxuf8cg2ymIeDx29nTf-QgGLWuA7PjjYhAAn0PT9VKYkcxaI7nQ2A3KzDvI3Jiezei1--XdeLxCIU8ub1hdGSAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZlTGJWbzhrcU0tUF9CY0dkVlpISzc1QXZWUzNrQUp3Rm1vTUtERV9pWnhTaFhpMXlsU1JYTmwzOXhfNFFsRnJEMmlCMnZGcW1NZFdLZE5OR2hkVkJjRDNCNWFoUU1oQlFnTWtueUp0MWRzSU9HVWVaTWpWSDE1d2UzQ1BFbEdzQ2lUeWV5THhpQ0IwckgtbW5ZMjh3d0tBTXdaY3VkNkFsdmtvRnlQb2pnEgQaAggAGrUEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjwQIABAAGAAgACoWCgRiZXN0FQAAAD8aBGdvb2QaA3RvcCoqCgduYXR1cmFsFQAAAD8aB29yZ2FuaWMaEW5hdHVyYWxkZW9kb3JhbnRzKmEKCmRlb2RvcmFudHMVAAAAPxoOYW50aXBlcnNwaXJhbnQaD2FudGlwZXJzcGlyYW50cxoJZGVvZG9yYW50GhFuYXR1cmFsZGVvZG9yYW50cxoPaXY7cDtkZW9kb3JhbnRzKgsKBHRoYXQVAAAAACosCghhY3R1YWxseRUAAAAAGgZyZWFsbHkaDHJlYWxseSB3b3JrcxoFdHJ1bHkqMQoEd29yaxUAAAAAGgxyZWFsbHkgd29ya3MaBndvcmtlZBoHd29ya2luZxoFd29ya3MywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmVMYlZvOGtxTS1QX0JjR2RWWkhLNzVBdlZTM2tBSndGbW9NS0RFX2laeFNoWGkxeWxTUlhObDM5eF80UWxGckQyaUIydkZxbU1kV0tkTk5HaGRWQmNEM0I1YWhRTWhCUWdNa255SnQxZHNJT0dVZVpNalZIMTV3ZTNDUEVsR3NDaVR5ZXlMeGlDQjBySC1tblkyOHd3S0FNd1pjdWQ2QWx2a29GeVBvamc6IjxiPk5hdHVyYWwgZGVvZG9yYW50czwvYj4gLSBBbGx1cmVKBHRoYXRSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZlTGJWbzhrcU0tUF9CY0dkVlpISzc1QXZWUzNrQUp3Rm1vTUtERV9pWnhTaFhpMXlsU1JYTmwzOXhfNFFsRnJEMmlCMnZGcW1NZFdLZE5OR2hkVkJjRDNCNWFoUU1oQlFnTWtueUp0MWRzSU9HVWVaTWpWSDE1d2UzQ1BFbEdzQ2lUeWV5THhpQ0IwckgtbW5ZMjh3d0tBTXdaY3VkNkFsdmtvRnlQb2pnEgQaAggAGrUEEgIIARoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAjwQIABAAGAAgACoWCgRiZXN0FQAAAD8aBGdvb2QaA3RvcCoqCgduYXR1cmFsFQAAAD8aB29yZ2FuaWMaEW5hdHVyYWxkZW9kb3JhbnRzKmEKCmRlb2RvcmFudHMVAAAAPxoOYW50aXBlcnNwaXJhbnQaD2FudGlwZXJzcGlyYW50cxoJZGVvZG9yYW50GhFuYXR1cmFsZGVvZG9yYW50cxoPaXY7cDtkZW9kb3JhbnRzKgsKBHRoYXQVAAAAACosCghhY3R1YWxseRUAAAAAGgZyZWFsbHkaDHJlYWxseSB3b3JrcxoFdHJ1bHkqMQoEd29yaxUAAAAAGgxyZWFsbHkgd29ya3MaBndvcmtlZBoHd29ya2luZxoFd29ya3MywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmVMYlZvOGtxTS1QX0JjR2RWWkhLNzVBdlZTM2tBSndGbW9NS0RFX2laeFNoWGkxeWxTUlhObDM5eF80UWxGckQyaUIydkZxbU1kV0tkTk5HaGRWQmNEM0I1YWhRTWhCUWdNa255SnQxZHNJT0dVZVpNalZIMTV3ZTNDUEVsR3NDaVR5ZXlMeGlDQjBySC1tblkyOHd3S0FNd1pjdWQ2QWx2a29GeVBvamc6IjxiPk5hdHVyYWwgZGVvZG9yYW50czwvYj4gLSBBbGx1cmVKBHRoYXRSA3RvcCICEAFIAFgAaAA",
+      "source": "Allure"
+    },
+    {
+      "position": 2,
+      "title": "The Best Natural Deodorants You Need To Try",
+      "link": "https://stackedskincare.com/blogs/blog/the-best-natural-deodorants-you-need-to-try?srsltid=AU7gw4WTVNxp8Lv1ew32cJ03UkmgY1XtB33Ky0c0MTZv8ZG3A3LJFV3L",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzwEB6zswFbWL8VGBpSH7MxaYmAW4b2OoKPH8Rfy3N0x2aC25UlvlbN9q009ji7agLS0T0reC-yDev0vyjWpRqN-NPvo6nHJmCXVAkpMKB_mbPAa-GIk9d4uLr6HMMWEBrYe39i6HcE7lfDE7llBSUgtf3x4YGgPoMBzmPxOPfNFclXxzCBlsFUp3eU15cRPY_n4D0L-y8QshVID2EhJWeqhMubG0iqXPYUR5tuN2bzUxNcEVpLZdw7NtX4LAx-yDbgOWqTUkLObnJG5uHdJwCDw&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQFnoECDgQAQ&uoh=1",
+      "displayed_link": "https://stackedskincare.com › blogs › blog › the-best-na...",
+      "favicon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASocABwAPtE-tFooIigoFAEAGgllAM8MiPUA0gTP4X-hqMyXV9tMeUT0xZjRmb9n2QWRgAD-9gYRUYEol0FKk_1QU1qFWHMcn_WDPmwC9vlR1cbMrwq1esgLPNvRHsTpChhA8Z35X8ma41FUOBIqi7JZzfek1IbRokW9zZUUrEtiOvh4Rsd4HN05JRWJDTFWjX_SoB6NFPg38wO45_01vr9wjYssJbMLbdlwp6vfPB1OFpu_3M1rKlNIdOKeXqIJeJ5lVCko04bO2MAyfRpuV7MPBDLm3MVG0oIBT9MAAAA.webp",
+      "snippet": "This vegan, aluminum-free option contains natural plant powders like arrowroot to absorb moisture, plus ylang ylang and calendula to keep odor at bay. Unlike ...",
+      "snippet_highlighted_words": [
+        "natural"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "This vegan, aluminum-free option contains natural plant powders like arrowroot to absorb moisture, plus ylang ylang and calendula to keep odor at bay. Unlike ...",
+          "source_info_link": "https://stackedskincare.com/blogs/blog/the-best-natural-deodorants-you-need-to-try?srsltid=AU7gw4WTVNxp8Lv1ew32cJ03UkmgY1XtB33Ky0c0MTZv8ZG3A3LJFV3L",
+          "icon": "https://serpapi.com/images/i/UklGRvAAAABXRUJQVlA4IOQAAADwBQCdASocABwAPtE-tFooIigoFAEAGgllAM8MiPUA0gTP4X-hqMyXV9tMeUT0xZjRmb9n2QWRgAD-9gYRUYEol0FKk_1QU1qFWHMcn_WDPmwC9vlR1cbMrwq1esgLPNvRHsTpChhA8Z35X8ma41FUOBIqi7JZzfek1IbRokW9zZUUrEtiOvh4Rsd4HN05JRWJDTFWjX_SoB6NFPg38wO45_01vr9wjYssJbMLbdlwp6vfPB1OFpu_3M1rKlNIdOKeXqIJeJ5lVCko04bO2MAyfRpuV7MPBDLm3MVG0oIBT9MAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUCL2dvdG8_dXJsPUNBRVN6d0VCNnpzd0ZiV0w4VkdCcFNIN014YVltQVc0YjJPb0tQSDhSZnkzTjB4MmFDMjVVbHZsYk45cTAwOWppN2FnTFMwVDByZUMteURldjB2eWpXcFJxTi1OUHZvNm5ISm1DWFZBa3BNS0JfbWJQQWEtR0lrOWQ0dUxyNkhNTVdFQnJZZTM5aTZIY0U3bGZERTdsbEJTVWd0ZjN4NFlHZ1BvTUJ6bVB4T1BmTkZjbFh4ekNCbHNGVXAzZVUxNWNSUFlfbjREMEwteThRc2hWSUQyRWhKV2VxaE11YkcwaXFYUFlVUjV0dU4yYnpVeE5jRVZwTFpkdzdOdFg0TEF4LXlEYmdPV3FUVWtMT2JuSkc1dUhkSndDRHcSBBoCCAAagAYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA3AUIABAAGAAgACoWCgRiZXN0Ff7plEAaBGdvb2QaA3RvcCoqCgduYXR1cmFsFbitnUAaB29yZ2FuaWMaEW5hdHVyYWxkZW9kb3JhbnRzKmEKCmRlb2RvcmFudHMVck2cQBoOYW50aXBlcnNwaXJhbnQaD2FudGlwZXJzcGlyYW50cxoJZGVvZG9yYW50GhFuYXR1cmFsZGVvZG9yYW50cxoPaXY7cDtkZW9kb3JhbnRzKgsKBHRoYXQVAAAAACosCghhY3R1YWxseRUAAAAAGgZyZWFsbHkaDHJlYWxseSB3b3JrcxoFdHJ1bHkqMQoEd29yaxUAAAAAGgxyZWFsbHkgd29ya3MaBndvcmtlZBoHd29ya2luZxoFd29ya3MyzQEvZ290bz91cmw9Q0FFU2pRRUI2enN3RmZHRmkwWC1fcGVDY3lrb0lsakEtNS1zRFZ0a3BXb2xwVjQwTVdpbEFZRTVDSVNfdmZUVnc2elRGcjBLcjNidmh2TDFWZmRxbG9LUndvaEl1NnZZUERxazhtZHlvSkFXdVBqN25CajY2cnkwWW5QdUhHU3NiQUJSSU52RDFjNEFtZnpHRDRPQzV2N2VnZU1GZTJxenVxc3FlRmV1WTI2Y1E5WkJ2Q3RxVWtyRWZQRV9Gd3RuM2tjOjJUaGUgPGI-QmVzdCBOYXR1cmFsIERlb2RvcmFudHM8L2I-IFlvdSBOZWVkIFRvIFRyeUKtAVRoaXMgdmVnYW4sIGFsdW1pbnVtLWZyZWUgb3B0aW9uIGNvbnRhaW5zIDxiPm5hdHVyYWw8L2I-IHBsYW50IHBvd2RlcnMgbGlrZSBhcnJvd3Jvb3QgdG8gYWJzb3JiIG1vaXN0dXJlLCBwbHVzIHlsYW5nIHlsYW5nIGFuZCBjYWxlbmR1bGEgdG8ga2VlcCBvZG9yIGF0IGJheS4gVW5saWtlJm5ic3A7Li4uSgR0aGF0UgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUCL2dvdG8_dXJsPUNBRVN6d0VCNnpzd0ZiV0w4VkdCcFNIN014YVltQVc0YjJPb0tQSDhSZnkzTjB4MmFDMjVVbHZsYk45cTAwOWppN2FnTFMwVDByZUMteURldjB2eWpXcFJxTi1OUHZvNm5ISm1DWFZBa3BNS0JfbWJQQWEtR0lrOWQ0dUxyNkhNTVdFQnJZZTM5aTZIY0U3bGZERTdsbEJTVWd0ZjN4NFlHZ1BvTUJ6bVB4T1BmTkZjbFh4ekNCbHNGVXAzZVUxNWNSUFlfbjREMEwteThRc2hWSUQyRWhKV2VxaE11YkcwaXFYUFlVUjV0dU4yYnpVeE5jRVZwTFpkdzdOdFg0TEF4LXlEYmdPV3FUVWtMT2JuSkc1dUhkSndDRHcSBBoCCAAagAYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA3AUIABAAGAAgACoWCgRiZXN0Ff7plEAaBGdvb2QaA3RvcCoqCgduYXR1cmFsFbitnUAaB29yZ2FuaWMaEW5hdHVyYWxkZW9kb3JhbnRzKmEKCmRlb2RvcmFudHMVck2cQBoOYW50aXBlcnNwaXJhbnQaD2FudGlwZXJzcGlyYW50cxoJZGVvZG9yYW50GhFuYXR1cmFsZGVvZG9yYW50cxoPaXY7cDtkZW9kb3JhbnRzKgsKBHRoYXQVAAAAACosCghhY3R1YWxseRUAAAAAGgZyZWFsbHkaDHJlYWxseSB3b3JrcxoFdHJ1bHkqMQoEd29yaxUAAAAAGgxyZWFsbHkgd29ya3MaBndvcmtlZBoHd29ya2luZxoFd29ya3MyzQEvZ290bz91cmw9Q0FFU2pRRUI2enN3RmZHRmkwWC1fcGVDY3lrb0lsakEtNS1zRFZ0a3BXb2xwVjQwTVdpbEFZRTVDSVNfdmZUVnc2elRGcjBLcjNidmh2TDFWZmRxbG9LUndvaEl1NnZZUERxazhtZHlvSkFXdVBqN25CajY2cnkwWW5QdUhHU3NiQUJSSU52RDFjNEFtZnpHRDRPQzV2N2VnZU1GZTJxenVxc3FlRmV1WTI2Y1E5WkJ2Q3RxVWtyRWZQRV9Gd3RuM2tjOjJUaGUgPGI-QmVzdCBOYXR1cmFsIERlb2RvcmFudHM8L2I-IFlvdSBOZWVkIFRvIFRyeUKtAVRoaXMgdmVnYW4sIGFsdW1pbnVtLWZyZWUgb3B0aW9uIGNvbnRhaW5zIDxiPm5hdHVyYWw8L2I-IHBsYW50IHBvd2RlcnMgbGlrZSBhcnJvd3Jvb3QgdG8gYWJzb3JiIG1vaXN0dXJlLCBwbHVzIHlsYW5nIHlsYW5nIGFuZCBjYWxlbmR1bGEgdG8ga2VlcCBvZG9yIGF0IGJheS4gVW5saWtlJm5ic3A7Li4uSgR0aGF0UgN0b3AiAhABSABYAGgA",
+      "source": "StackedSkincare",
+      "read_more_link": "https://stackedskincare.com/blogs/blog/the-best-natural-deodorants-you-need-to-try?srsltid=AU7gw4WTVNxp8Lv1ew32cJ03UkmgY1XtB33Ky0c0MTZv8ZG3A3LJFV3L#:~:text=This%20vegan%2C%20aluminum%2Dfree%20option%20contains,you%20smelling%20fresh%20for%20hours."
+    },
+    {
+      "position": 3,
+      "title": "Natural Deodorants for Sensitive Skin",
+      "link": "https://www.lemon8-app.com/experience/sensitive-skin-natural-deodorant?region=us",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFZSJA44fzXMi43IBLK_TWw_1YaB1Mf4kPOPLB7bruP0_P9TB6Mh5TumbOC34o9AelY6-Rnc_HO3h17qJYokEkfrzyf4F0jwhwEDxsXTJLzcLhWqPgY1wg3hom2iy_2br15ZbvlOhT3dYc8eMCOEZCs1BlfhB2rPWVqHjAk8Ewiy_ptREBJ_5&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://www.lemon8-app.com › experience › sensitive-sk...",
+      "thumbnail": "https://serpapi.com/searches/6ab7ef8750849cc50b3a5a2e/images/icfJ66c8xKjobHpR2O8cQ2XYXV6ZkTHaBh8xvWb15JM.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRr4BAABXRUJQVlA4ILIBAAAQCgCdASogACAAPtEutFooIagoGAEAGglsAJ05QX4Bx21z-qp4A3hXyZne7Yrv_AfjN8AGbv6S_3HuC_qR_uuAg_W5dP_WgGeunN7aBhmiXV3txR6A_240gAD-7S-X-1R__1Jhq5C_K4DvDS2GofDFPMSyYxj_8MVHbiXVnn679uJ_hmf8FtNP1igf_ezXrnIhSpyZAT9GKMtvYRQrWECf7qiGrCA5Ba3xnHxqWBH_Ndv4Pl_KCyl_Wf8xje7_4mYL_OuxotlD325KNV8ZfrHxLpiudv669wzR2-RZVdgeb5eYc86TyQdaDbjVEgZsd0vqm_vtW-ySuv5cCzDa15HpFbCBBbZmC3GPXh52swlVuPYAgMc92tDTnM1KAO5xbeszr8_9fmYcICFlRkLgJ7qL2v2I_kpop7c1-dDD6bscOT0g_wnTirAlnNl1__lBcBXN_4_vjwOJ8EQxluOtU_mi1gZSQfM2p8QORLscvapXW4M7JMrlCTnLRcCrKWI8G-jALIzexvccmb4So-tAY52TRUIPpTCQV3rn4DG8sokfC1cYBrmRs5FzygiigqRUOAAAAA.webp",
+      "date": "May 10, 2026",
+      "snippet": "I tested a handful of natural deodorants that fight odor without irritating sensitive underarms. Here are my top picks (Pretty Frank, ...",
+      "snippet_highlighted_words": [
+        "Here are my top picks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I tested a handful of natural deodorants that fight odor without irritating sensitive underarms. Here are my top picks (Pretty Frank, ...",
+          "source_info_link": "https://www.lemon8-app.com/experience/sensitive-skin-natural-deodorant?region=us",
+          "icon": "https://serpapi.com/images/i/UklGRr4BAABXRUJQVlA4ILIBAAAQCgCdASogACAAPtEutFooIagoGAEAGglsAJ05QX4Bx21z-qp4A3hXyZne7Yrv_AfjN8AGbv6S_3HuC_qR_uuAg_W5dP_WgGeunN7aBhmiXV3txR6A_240gAD-7S-X-1R__1Jhq5C_K4DvDS2GofDFPMSyYxj_8MVHbiXVnn679uJ_hmf8FtNP1igf_ezXrnIhSpyZAT9GKMtvYRQrWECf7qiGrCA5Ba3xnHxqWBH_Ndv4Pl_KCyl_Wf8xje7_4mYL_OuxotlD325KNV8ZfrHxLpiudv669wzR2-RZVdgeb5eYc86TyQdaDbjVEgZsd0vqm_vtW-ySuv5cCzDa15HpFbCBBbZmC3GPXh52swlVuPYAgMc92tDTnM1KAO5xbeszr8_9fmYcICFlRkLgJ7qL2v2I_kpop7c1-dDD6bscOT0g_wnTirAlnNl1__lBcBXN_4_vjwOJ8EQxluOtU_mi1gZSQfM2p8QORLscvapXW4M7JMrlCTnLRcCrKWI8G-jALIzexvccmb4So-tAY52TRUIPpTCQV3rn4DG8sokfC1cYBrmRs5FzygiigqRUOAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZaU0pBNDRmelhNaTQzSUJMS19UV3dfMVlhQjFNZjRrUE9QTEI3YnJ1UDBfUDlUQjZNaDVUdW1iT0MzNG85QWVsWTYtUm5jX0hPM2gxN3FKWW9rRWtmcnp5ZjRGMGp3aHdFRHhzWFRKTHpjTGhXcVBnWTF3ZzNob20yaXlfMmJyMTVaYnZsT2hUM2RZYzhlTUNPRVpDczFCbGZoQjJyUFdWcUhqQWs4RXdpeV9wdFJFQkpfNRIEGgIIABrqBRIAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQMQFCAAQABgAIAAqFgoEYmVzdBU8zJ1AGgRnb29kGgN0b3AqKgoHbmF0dXJhbBVaTOtAGgdvcmdhbmljGhFuYXR1cmFsZGVvZG9yYW50cyphCgpkZW9kb3JhbnRzFY1W1EAaDmFudGlwZXJzcGlyYW50Gg9hbnRpcGVyc3BpcmFudHMaCWRlb2RvcmFudBoRbmF0dXJhbGRlb2RvcmFudHMaD2l2O3A7ZGVvZG9yYW50cyoLCgR0aGF0FQAAAAAqLAoIYWN0dWFsbHkVfJaQQBoGcmVhbGx5GgxyZWFsbHkgd29ya3MaBXRydWx5KjEKBHdvcmsVthObQBoMcmVhbGx5IHdvcmtzGgZ3b3JrZWQaB3dvcmtpbmcaBXdvcmtzMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZaU0pBNDRmelhNaTQzSUJMS19UV3dfMVlhQjFNZjRrUE9QTEI3YnJ1UDBfUDlUQjZNaDVUdW1iT0MzNG85QWVsWTYtUm5jX0hPM2gxN3FKWW9rRWtmcnp5ZjRGMGp3aHdFRHhzWFRKTHpjTGhXcVBnWTF3ZzNob20yaXlfMmJyMTVaYnZsT2hUM2RZYzhlTUNPRVpDczFCbGZoQjJyUFdWcUhqQWs4RXdpeV9wdFJFQkpfNTo1PGI-TmF0dXJhbCBEZW9kb3JhbnRzPC9iPiBmb3IgU2Vuc2l0aXZlIFNraW4gLSBMZW1vbjhClQFJIHRlc3RlZCBhIGhhbmRmdWwgb2YgbmF0dXJhbCBkZW9kb3JhbnRzIHRoYXQgZmlnaHQgb2RvciB3aXRob3V0IGlycml0YXRpbmcgc2Vuc2l0aXZlIHVuZGVyYXJtcy4gPGI-SGVyZSBhcmUgbXkgdG9wIHBpY2tzPC9iPiAoUHJldHR5IEZyYW5rLCZuYnNwOy4uLkoEdGhhdFIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZaU0pBNDRmelhNaTQzSUJMS19UV3dfMVlhQjFNZjRrUE9QTEI3YnJ1UDBfUDlUQjZNaDVUdW1iT0MzNG85QWVsWTYtUm5jX0hPM2gxN3FKWW9rRWtmcnp5ZjRGMGp3aHdFRHhzWFRKTHpjTGhXcVBnWTF3ZzNob20yaXlfMmJyMTVaYnZsT2hUM2RZYzhlTUNPRVpDczFCbGZoQjJyUFdWcUhqQWs4RXdpeV9wdFJFQkpfNRIEGgIIABrqBRIAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQMQFCAAQABgAIAAqFgoEYmVzdBU8zJ1AGgRnb29kGgN0b3AqKgoHbmF0dXJhbBVaTOtAGgdvcmdhbmljGhFuYXR1cmFsZGVvZG9yYW50cyphCgpkZW9kb3JhbnRzFY1W1EAaDmFudGlwZXJzcGlyYW50Gg9hbnRpcGVyc3BpcmFudHMaCWRlb2RvcmFudBoRbmF0dXJhbGRlb2RvcmFudHMaD2l2O3A7ZGVvZG9yYW50cyoLCgR0aGF0FQAAAAAqLAoIYWN0dWFsbHkVfJaQQBoGcmVhbGx5GgxyZWFsbHkgd29ya3MaBXRydWx5KjEKBHdvcmsVthObQBoMcmVhbGx5IHdvcmtzGgZ3b3JrZWQaB3dvcmtpbmcaBXdvcmtzMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZaU0pBNDRmelhNaTQzSUJMS19UV3dfMVlhQjFNZjRrUE9QTEI3YnJ1UDBfUDlUQjZNaDVUdW1iT0MzNG85QWVsWTYtUm5jX0hPM2gxN3FKWW9rRWtmcnp5ZjRGMGp3aHdFRHhzWFRKTHpjTGhXcVBnWTF3ZzNob20yaXlfMmJyMTVaYnZsT2hUM2RZYzhlTUNPRVpDczFCbGZoQjJyUFdWcUhqQWs4RXdpeV9wdFJFQkpfNTo1PGI-TmF0dXJhbCBEZW9kb3JhbnRzPC9iPiBmb3IgU2Vuc2l0aXZlIFNraW4gLSBMZW1vbjhClQFJIHRlc3RlZCBhIGhhbmRmdWwgb2YgbmF0dXJhbCBkZW9kb3JhbnRzIHRoYXQgZmlnaHQgb2RvciB3aXRob3V0IGlycml0YXRpbmcgc2Vuc2l0aXZlIHVuZGVyYXJtcy4gPGI-SGVyZSBhcmUgbXkgdG9wIHBpY2tzPC9iPiAoUHJldHR5IEZyYW5rLCZuYnNwOy4uLkoEdGhhdFIDdG9wIgIQAUgAWABoAA",
+      "source": "Lemon8"
+    },
+    {
+      "position": 4,
+      "title": "Best Natural Roll On Deodorant: Clean Picks That Work",
+      "link": "https://www.realskincare.com/blogs/news/best-natural-roll-on-deodorant-clean-picks-that-work?srsltid=AU7gw4Xrd4ikvGD2XBuCn4rS6hb0ga3S1z_6QPPBfoHxDzR90x8a0Sv_",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES2QEB6zswFVkGnpvTrlpWZIONvKMo9XeSs0OCSjaYBTSqE3of-TfxIzfhQmq4wCXEU59wtT_pIupTwpmW8HVdHavMHkgKGVipT7SAoYFndcai1tc-_c_KyBgbfr5F_LpUuR4kWgXPxGtHIiZQQJdEZ2wTIqNQImtXEGC1adKChZiv_LB1_htV9N67X5TUeMiqJX0sQnasqMNJ2XEyuM73-XBEzapSFwIanNV3w4Zct_RxWgznhP6_JnrDI-wb_-7-9ZKbBUkf4BkMNSQZiU2fAigZ9B9mn6F6-7YF&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQFnoECEsQAQ&uoh=1",
+      "displayed_link": "https://www.realskincare.com › blogs › news › best-natur...",
+      "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAACwBQCdASogACAAPrUurVanIacnG_DgFolpABOSTn8dBOVE5j_Esij4H4HrM3XOd8Idt_udAkAA_vdBL5Mn5yPPE4bnySKE4NUe9nqrkBrg6QHe1AWd7XxdCb4zPiLH10kiLaYKtkjzO9-jQzvu__92uLQxnaM6_v9XZr9L6UFn4PHdPmuJ4HoJVg-PPslRW4hU_k_XDW-y1WnSaa_FRKqdPr2FD5dYZkOXhFXTx0i4HljLtTN-zcDJ5q-sXkQSpBr1fX0L0kGyAGRckq2rpp3KpjwkK2Q_flisY9FKMIVauVAA.webp",
+      "date": "Mar 11, 2026",
+      "snippet": "Our top overall pick is the Real Skin Care Coconut Oil Deodorant. We're recommending it first because of what's actually in it — not just ...",
+      "snippet_highlighted_words": [
+        "Real Skin Care Coconut Oil Deodorant"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our top overall pick is the Real Skin Care Coconut Oil Deodorant. We're recommending it first because of what's actually in it — not just ...",
+          "source_info_link": "https://www.realskincare.com/blogs/news/best-natural-roll-on-deodorant-clean-picks-that-work?srsltid=AU7gw4Xrd4ikvGD2XBuCn4rS6hb0ga3S1z_6QPPBfoHxDzR90x8a0Sv_",
+          "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAACwBQCdASogACAAPrUurVanIacnG_DgFolpABOSTn8dBOVE5j_Esij4H4HrM3XOd8Idt_udAkAA_vdBL5Mn5yPPE4bnySKE4NUe9nqrkBrg6QHe1AWd7XxdCb4zPiLH10kiLaYKtkjzO9-jQzvu__92uLQxnaM6_v9XZr9L6UFn4PHdPmuJ4HoJVg-PPslRW4hU_k_XDW-y1WnSaa_FRKqdPr2FD5dYZkOXhFXTx0i4HljLtTN-zcDJ5q-sXkQSpBr1fX0L0kGyAGRckq2rpp3KpjwkK2Q_flisY9FKMIVauVAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrICL2dvdG8_dXJsPUNBRVMyUUVCNnpzd0ZWa0ducHZUcmxwV1pJT052S01vOVhlU3MwT0NTamFZQlRTcUUzb2YtVGZ4SXpmaFFtcTR3Q1hFVTU5d3RUX3BJdXBUd3BtVzhIVmRIYXZNSGtnS0dWaXBUN1NBb1lGbmRjYWkxdGMtX2NfS3lCZ2JmcjVGX0xwVXVSNGtXZ1hQeEd0SElpWlFRSmRFWjJ3VElxTlFJbXRYRUdDMWFkS0NoWml2X0xCMV9odFY5TjY3WDVUVWVNaXFKWDBzUW5hc3FNTkoyWEV5dU03My1YQkV6YXBTRndJYW5OVjN3NFpjdF9SeFdnem5oUDZfSm5yREktd2JfLTctOVpLYkJVa2Y0QmtNTlNRWmlVMmZBaWdaOUI5bW42RjYtN1lGEgQaAggAGpsGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPcFCAAQABgAIAAqFgoEYmVzdBVMhbNAGgRnb29kGgN0b3AqKgoHbmF0dXJhbBW7o85AGgdvcmdhbmljGhFuYXR1cmFsZGVvZG9yYW50cyphCgpkZW9kb3JhbnRzFQMy_D8aDmFudGlwZXJzcGlyYW50Gg9hbnRpcGVyc3BpcmFudHMaCWRlb2RvcmFudBoRbmF0dXJhbGRlb2RvcmFudHMaD2l2O3A7ZGVvZG9yYW50cyoLCgR0aGF0FQAAAAAqLAoIYWN0dWFsbHkV_aQOQBoGcmVhbGx5GgxyZWFsbHkgd29ya3MaBXRydWx5KjEKBHdvcmsVpCRKQBoMcmVhbGx5IHdvcmtzGgZ3b3JrZWQaB3dvcmtpbmcaBXdvcmtzMtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZRdHlTZ1BjMV85c1BuTXpiMlNvcHg3VG9aeThUaUo2azNwVUxWOXMxWV94bEhyb0VjX20zcWJLckF2aC1DY01RTjI4NjFhRmpEOXU2TlJtSGFMREdUbDB0UDJvNmN1d1dZeWpqU1VuOFdrOXA5ejYwT1VJY2d4OFFDZDJZOHRIdXBsTFhEQ3NqbVRjY0c4cjVGVG9CdDVEMVlZTlV0SkpTb2tobDlwSGpsUkZ2RUQ3bEkyLU1aNlZNUWRaTUlPeXVPSmQ6SjxiPkJlc3QgTmF0dXJhbDwvYj4gUm9sbCBPbiA8Yj5EZW9kb3JhbnQ8L2I-OiBDbGVhbiBQaWNrcyBUaGF0IDxiPldvcms8L2I-QqMBT3VyIHRvcCBvdmVyYWxsIHBpY2sgaXMgdGhlIDxiPlJlYWwgU2tpbiBDYXJlIENvY29udXQgT2lsIERlb2RvcmFudDwvYj4uIFdlJiMzOTtyZSByZWNvbW1lbmRpbmcgaXQgZmlyc3QgYmVjYXVzZSBvZiB3aGF0JiMzOTtzIGFjdHVhbGx5IGluIGl0IOKAlCBub3QganVzdCZuYnNwOy4uLkoEdGhhdFIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrICL2dvdG8_dXJsPUNBRVMyUUVCNnpzd0ZWa0ducHZUcmxwV1pJT052S01vOVhlU3MwT0NTamFZQlRTcUUzb2YtVGZ4SXpmaFFtcTR3Q1hFVTU5d3RUX3BJdXBUd3BtVzhIVmRIYXZNSGtnS0dWaXBUN1NBb1lGbmRjYWkxdGMtX2NfS3lCZ2JmcjVGX0xwVXVSNGtXZ1hQeEd0SElpWlFRSmRFWjJ3VElxTlFJbXRYRUdDMWFkS0NoWml2X0xCMV9odFY5TjY3WDVUVWVNaXFKWDBzUW5hc3FNTkoyWEV5dU03My1YQkV6YXBTRndJYW5OVjN3NFpjdF9SeFdnem5oUDZfSm5yREktd2JfLTctOVpLYkJVa2Y0QmtNTlNRWmlVMmZBaWdaOUI5bW42RjYtN1lGEgQaAggAGpsGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPcFCAAQABgAIAAqFgoEYmVzdBVMhbNAGgRnb29kGgN0b3AqKgoHbmF0dXJhbBW7o85AGgdvcmdhbmljGhFuYXR1cmFsZGVvZG9yYW50cyphCgpkZW9kb3JhbnRzFQMy_D8aDmFudGlwZXJzcGlyYW50Gg9hbnRpcGVyc3BpcmFudHMaCWRlb2RvcmFudBoRbmF0dXJhbGRlb2RvcmFudHMaD2l2O3A7ZGVvZG9yYW50cyoLCgR0aGF0FQAAAAAqLAoIYWN0dWFsbHkV_aQOQBoGcmVhbGx5GgxyZWFsbHkgd29ya3MaBXRydWx5KjEKBHdvcmsVpCRKQBoMcmVhbGx5IHdvcmtzGgZ3b3JrZWQaB3dvcmtpbmcaBXdvcmtzMtoBL2dvdG8_dXJsPUNBRVNsd0VCNnpzd0ZRdHlTZ1BjMV85c1BuTXpiMlNvcHg3VG9aeThUaUo2azNwVUxWOXMxWV94bEhyb0VjX20zcWJLckF2aC1DY01RTjI4NjFhRmpEOXU2TlJtSGFMREdUbDB0UDJvNmN1d1dZeWpqU1VuOFdrOXA5ejYwT1VJY2d4OFFDZDJZOHRIdXBsTFhEQ3NqbVRjY0c4cjVGVG9CdDVEMVlZTlV0SkpTb2tobDlwSGpsUkZ2RUQ3bEkyLU1aNlZNUWRaTUlPeXVPSmQ6SjxiPkJlc3QgTmF0dXJhbDwvYj4gUm9sbCBPbiA8Yj5EZW9kb3JhbnQ8L2I-OiBDbGVhbiBQaWNrcyBUaGF0IDxiPldvcms8L2I-QqMBT3VyIHRvcCBvdmVyYWxsIHBpY2sgaXMgdGhlIDxiPlJlYWwgU2tpbiBDYXJlIENvY29udXQgT2lsIERlb2RvcmFudDwvYj4uIFdlJiMzOTtyZSByZWNvbW1lbmRpbmcgaXQgZmlyc3QgYmVjYXVzZSBvZiB3aGF0JiMzOTtzIGFjdHVhbGx5IGluIGl0IOKAlCBub3QganVzdCZuYnNwOy4uLkoEdGhhdFIDdG9wIgIQAUgAWABoAA",
+      "source": "realskincare.com",
+      "read_more_link": "https://www.realskincare.com/blogs/news/best-natural-roll-on-deodorant-clean-picks-that-work?srsltid=AU7gw4Xrd4ikvGD2XBuCn4rS6hb0ga3S1z_6QPPBfoHxDzR90x8a0Sv_#:~:text=Our%20top%20overall%20pick%20is,just%20because%20we%20make%20it."
+    },
+    {
+      "position": 5,
+      "title": "[Product Request] What's the best natural or aluminum-free ...",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/1m2a3gd/product_request_whats_the_best_natural_or/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEB6zswFQHRWnQZJquEE7kwB0PjfMVcCjGu8cWwOoZNSqnzVuxp2oFwq7EyhueehXOWfsLAGIlCyUJbXCg_cYMuY8cEiUtHzI5L4tYSP7Xkty8xDjXjvw7FtwuMFgYOE9pOYG-wa1krHLjpY9wFqpmoq4dFGqoIwKffto42nHeT_SFfHhIs5I39tJKrZtlpIdmtqKFmSOAdQQBDdTm_JFcOwA&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQFnoECEYQAQ&uoh=1",
+      "displayed_link": "6 comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "I use Crystal Magnesium Solid Stick Natural Deodorant. This combo seems to work. I like Humble as they have a sensitive line, and Wild is also ...",
+      "snippet_highlighted_words": [
+        "Crystal Magnesium Solid Stick Natural Deodorant"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I use Crystal Magnesium Solid Stick Natural Deodorant. This combo seems to work. I like Humble as they have a sensitive line, and Wild is also ...",
+          "source_info_link": "https://www.reddit.com/r/SkincareAddiction/comments/1m2a3gd/product_request_whats_the_best_natural_or/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZRSFJXblFaSnF1RUU3a3dCMFBqZk1WY0NqR3U4Y1d3T29aTlNxbnpWdXhwMm9Gd3E3RXlodWVlaFhPV2ZzTEFHSWxDeVVKYlhDZ19jWU11WThjRWlVdEh6STVMNHRZU1A3WGt0eTh4RGpYanZ3N0Z0d3VNRmdZT0U5cE9ZRy13YTFrckhManBZOXdGcXBtb3E0ZEZHcW9Jd0tmZnRvNDJuSGVUX1NGZkhoSXM1STM5dEpLclp0bHBJZG10cUtGbVNPQWRRUUJEZFRtX0pGY093QRIEGgIIABqjBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD_BQgAEAAYACAAKhYKBGJlc3QVf8W9QBoEZ29vZBoDdG9wKioKB25hdHVyYWwV7x7JQBoHb3JnYW5pYxoRbmF0dXJhbGRlb2RvcmFudHMqYQoKZGVvZG9yYW50cxVtBTlAGg5hbnRpcGVyc3BpcmFudBoPYW50aXBlcnNwaXJhbnRzGglkZW9kb3JhbnQaEW5hdHVyYWxkZW9kb3JhbnRzGg9pdjtwO2Rlb2RvcmFudHMqCwoEdGhhdBUAAAAAKiwKCGFjdHVhbGx5Fe76qkAaBnJlYWxseRoMcmVhbGx5IHdvcmtzGgV0cnVseSoxCgR3b3JrFSKm0T8aDHJlYWxseSB3b3JrcxoGd29ya2VkGgd3b3JraW5nGgV3b3JrczLoAS9nb3RvP3VybD1DQUVTb1FFQjZ6c3dGUUhSV25RWkpxdUVFN2t3QjBQamZNVmNDakd1OGNXd09vWk5TcW56VnV4cDJvRndxN0V5aHVlZWhYT1dmc0xBR0lsQ3lVSmJYQ2dfY1lNdVk4Y0VpVXRIekk1TDR0WVNQN1hrdHk4eERqWGp2dzdGdHd1TUZnWU9FOXBPWUctd2Exa3JITGpwWTl3RnFwbW9xNGRGR3FvSXdLZmZ0bzQybkhlVF9TRmZIaElzNUkzOXRKS3JadGxwSWRtdHFLRm1TT0FkUVFCRGRUbV9KRmNPd0E6SVtQcm9kdWN0IFJlcXVlc3RdIFdoYXQmIzM5O3MgdGhlIDxiPmJlc3QgbmF0dXJhbDwvYj4gb3IgYWx1bWludW0tZnJlZSAuLi5CngFJIHVzZSA8Yj5DcnlzdGFsIE1hZ25lc2l1bSBTb2xpZCBTdGljayBOYXR1cmFsIERlb2RvcmFudDwvYj4uIFRoaXMgY29tYm8gc2VlbXMgdG8gd29yay4gSSBsaWtlIEh1bWJsZSBhcyB0aGV5IGhhdmUgYSBzZW5zaXRpdmUgbGluZSwgYW5kIFdpbGQgaXMgYWxzbyZuYnNwOy4uLkoEdGhhdFIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZRSFJXblFaSnF1RUU3a3dCMFBqZk1WY0NqR3U4Y1d3T29aTlNxbnpWdXhwMm9Gd3E3RXlodWVlaFhPV2ZzTEFHSWxDeVVKYlhDZ19jWU11WThjRWlVdEh6STVMNHRZU1A3WGt0eTh4RGpYanZ3N0Z0d3VNRmdZT0U5cE9ZRy13YTFrckhManBZOXdGcXBtb3E0ZEZHcW9Jd0tmZnRvNDJuSGVUX1NGZkhoSXM1STM5dEpLclp0bHBJZG10cUtGbVNPQWRRUUJEZFRtX0pGY093QRIEGgIIABqjBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD_BQgAEAAYACAAKhYKBGJlc3QVf8W9QBoEZ29vZBoDdG9wKioKB25hdHVyYWwV7x7JQBoHb3JnYW5pYxoRbmF0dXJhbGRlb2RvcmFudHMqYQoKZGVvZG9yYW50cxVtBTlAGg5hbnRpcGVyc3BpcmFudBoPYW50aXBlcnNwaXJhbnRzGglkZW9kb3JhbnQaEW5hdHVyYWxkZW9kb3JhbnRzGg9pdjtwO2Rlb2RvcmFudHMqCwoEdGhhdBUAAAAAKiwKCGFjdHVhbGx5Fe76qkAaBnJlYWxseRoMcmVhbGx5IHdvcmtzGgV0cnVseSoxCgR3b3JrFSKm0T8aDHJlYWxseSB3b3JrcxoGd29ya2VkGgd3b3JraW5nGgV3b3JrczLoAS9nb3RvP3VybD1DQUVTb1FFQjZ6c3dGUUhSV25RWkpxdUVFN2t3QjBQamZNVmNDakd1OGNXd09vWk5TcW56VnV4cDJvRndxN0V5aHVlZWhYT1dmc0xBR0lsQ3lVSmJYQ2dfY1lNdVk4Y0VpVXRIekk1TDR0WVNQN1hrdHk4eERqWGp2dzdGdHd1TUZnWU9FOXBPWUctd2Exa3JITGpwWTl3RnFwbW9xNGRGR3FvSXdLZmZ0bzQybkhlVF9TRmZIaElzNUkzOXRKS3JadGxwSWRtdHFLRm1TT0FkUVFCRGRUbV9KRmNPd0E6SVtQcm9kdWN0IFJlcXVlc3RdIFdoYXQmIzM5O3MgdGhlIDxiPmJlc3QgbmF0dXJhbDwvYj4gb3IgYWx1bWludW0tZnJlZSAuLi5CngFJIHVzZSA8Yj5DcnlzdGFsIE1hZ25lc2l1bSBTb2xpZCBTdGljayBOYXR1cmFsIERlb2RvcmFudDwvYj4uIFRoaXMgY29tYm8gc2VlbXMgdG8gd29yay4gSSBsaWtlIEh1bWJsZSBhcyB0aGV5IGhhdmUgYSBzZW5zaXRpdmUgbGluZSwgYW5kIFdpbGQgaXMgYWxzbyZuYnNwOy4uLkoEdGhhdFIDdG9wIgIQAUgAWABoAA",
+      "source": "Reddit · r/SkincareAddiction"
+    },
+    {
+      "position": 6,
+      "title": "5 Natural Deodorants That Actually Work",
+      "link": "https://www.domino.com/content/natural-deodorants-new-high-design-packaging/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFWyrzmDXgjyBwFk_MfyHV93mg6NnyQnA-QWpIjKLkiGDSSiBQ2cwn6Gfvxc3IJ65bFtT7u2siGgusNr1SAOni5bdSovReDJJ5Jb1ByAe74JsuIKMU4KyGn_J_GuATzy_H0tlhwTTX8uve3mytdamRlizrR3aQWvj0NvlHncmKaGA2Hw&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQFnoECEQQAQ&uoh=1",
+      "displayed_link": "https://www.domino.com › Lifestyle › Wellness › Beauty",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNWLKbmj2T9XtE-NbY0elc1u3Vv_WWl9mx8BXP64iMQlXSwhnT3p2Y&usqp=CAE&s",
+      "favicon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAABwBQCdASocABwAPtE-tFooIigoFAEAGglAE6Zb5egmbgv9Z1oOu5d4dHykGliknVjWptfAAP6Lgx3jYQ5tbbabVdneyz1VwWl4v5U00S2pbVtwR36c7SGyeKHsGB6tLyrG9aSScoQDVbnrq_9jwCa3uMHYyb3UtsveOLzdRkymcZv6EcRsOO5oNYB_9NkOMeqM-K4rjVMOsKplwmfinOkH86ImoO1dIbPYXcC-eiv5hY4roArNcRQ3U9ni_F2GY43cWWmZQAA.webp",
+      "date": "Jul 29, 2019",
+      "snippet": "Coconut oil, beeswax and baking soda come together to combat odor, while essential oils both soothe and keep you smelling good.",
+      "snippet_highlighted_words": [
+        "Coconut oil, beeswax and baking soda"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Coconut oil, beeswax and baking soda come together to combat odor, while essential oils both soothe and keep you smelling good.",
+          "source_info_link": "https://www.domino.com/content/natural-deodorants-new-high-design-packaging/",
+          "icon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAABwBQCdASocABwAPtE-tFooIigoFAEAGglAE6Zb5egmbgv9Z1oOu5d4dHykGliknVjWptfAAP6Lgx3jYQ5tbbabVdneyz1VwWl4v5U00S2pbVtwR36c7SGyeKHsGB6tLyrG9aSScoQDVbnrq_9jwCa3uMHYyb3UtsveOLzdRkymcZv6EcRsOO5oNYB_9NkOMeqM-K4rjVMOsKplwmfinOkH86ImoO1dIbPYXcC-eiv5hY4roArNcRQ3U9ni_F2GY43cWWmZQAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZXeXJ6bURYZ2p5QndGa19NZnlIVjkzbWc2Tm55UW5BLVFXcElqS0xraUdEU1NpQlEyY3duNkdmdnhjM0lKNjViRnRUN3Uyc2lHZ3VzTnIxU0FPbmk1YmRTb3ZSZURKSjVKYjFCeUFlNzRKc3VJS01VNEt5R25fSl9HdUFUenlfSDB0bGh3VFRYOHV2ZTNteXRkYW1SbGl6clIzYVFXdmowTnZsSG5jbUthR0EySHcSBBoCCAAazwUSABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCpBQgAEAAYACAAKhYKBGJlc3QVB60-PxoEZ29vZBoDdG9wKioKB25hdHVyYWwV-l2ZQBoHb3JnYW5pYxoRbmF0dXJhbGRlb2RvcmFudHMqYQoKZGVvZG9yYW50cxV66pVAGg5hbnRpcGVyc3BpcmFudBoPYW50aXBlcnNwaXJhbnRzGglkZW9kb3JhbnQaEW5hdHVyYWxkZW9kb3JhbnRzGg9pdjtwO2Rlb2RvcmFudHMqCwoEdGhhdBUAAAAAKiwKCGFjdHVhbGx5FXDrBkAaBnJlYWxseRoMcmVhbGx5IHdvcmtzGgV0cnVseSoxCgR3b3JrFfBd_D8aDHJlYWxseSB3b3JrcxoGd29ya2VkGgd3b3JraW5nGgV3b3JrczLFAS9nb3RvP3VybD1DQUVTaHdFQjZ6c3dGV3lyem1EWGdqeUJ3RmtfTWZ5SFY5M21nNk5ueVFuQS1RV3BJaktMa2lHRFNTaUJRMmN3bjZHZnZ4YzNJSjY1YkZ0VDd1MnNpR2d1c05yMVNBT25pNWJkU292UmVESko1SmIxQnlBZTc0SnN1SUtNVTRLeUduX0pfR3VBVHp5X0gwdGxod1RUWDh1dmUzbXl0ZGFtUmxpenJSM2FRV3ZqME52bEhuY21LYUdBMkh3Oi41IDxiPk5hdHVyYWwgRGVvZG9yYW50cyBUaGF0IEFjdHVhbGx5IFdvcms8L2I-QoYBPGI-Q29jb251dCBvaWwsIGJlZXN3YXggYW5kIGJha2luZyBzb2RhPC9iPiBjb21lIHRvZ2V0aGVyIHRvIGNvbWJhdCBvZG9yLCB3aGlsZSBlc3NlbnRpYWwgb2lscyBib3RoIHNvb3RoZSBhbmQga2VlcCB5b3Ugc21lbGxpbmcgZ29vZC5KBHRoYXRSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZXeXJ6bURYZ2p5QndGa19NZnlIVjkzbWc2Tm55UW5BLVFXcElqS0xraUdEU1NpQlEyY3duNkdmdnhjM0lKNjViRnRUN3Uyc2lHZ3VzTnIxU0FPbmk1YmRTb3ZSZURKSjVKYjFCeUFlNzRKc3VJS01VNEt5R25fSl9HdUFUenlfSDB0bGh3VFRYOHV2ZTNteXRkYW1SbGl6clIzYVFXdmowTnZsSG5jbUthR0EySHcSBBoCCAAazwUSABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCpBQgAEAAYACAAKhYKBGJlc3QVB60-PxoEZ29vZBoDdG9wKioKB25hdHVyYWwV-l2ZQBoHb3JnYW5pYxoRbmF0dXJhbGRlb2RvcmFudHMqYQoKZGVvZG9yYW50cxV66pVAGg5hbnRpcGVyc3BpcmFudBoPYW50aXBlcnNwaXJhbnRzGglkZW9kb3JhbnQaEW5hdHVyYWxkZW9kb3JhbnRzGg9pdjtwO2Rlb2RvcmFudHMqCwoEdGhhdBUAAAAAKiwKCGFjdHVhbGx5FXDrBkAaBnJlYWxseRoMcmVhbGx5IHdvcmtzGgV0cnVseSoxCgR3b3JrFfBd_D8aDHJlYWxseSB3b3JrcxoGd29ya2VkGgd3b3JraW5nGgV3b3JrczLFAS9nb3RvP3VybD1DQUVTaHdFQjZ6c3dGV3lyem1EWGdqeUJ3RmtfTWZ5SFY5M21nNk5ueVFuQS1RV3BJaktMa2lHRFNTaUJRMmN3bjZHZnZ4YzNJSjY1YkZ0VDd1MnNpR2d1c05yMVNBT25pNWJkU292UmVESko1SmIxQnlBZTc0SnN1SUtNVTRLeUduX0pfR3VBVHp5X0gwdGxod1RUWDh1dmUzbXl0ZGFtUmxpenJSM2FRV3ZqME52bEhuY21LYUdBMkh3Oi41IDxiPk5hdHVyYWwgRGVvZG9yYW50cyBUaGF0IEFjdHVhbGx5IFdvcms8L2I-QoYBPGI-Q29jb251dCBvaWwsIGJlZXN3YXggYW5kIGJha2luZyBzb2RhPC9iPiBjb21lIHRvZ2V0aGVyIHRvIGNvbWJhdCBvZG9yLCB3aGlsZSBlc3NlbnRpYWwgb2lscyBib3RoIHNvb3RoZSBhbmQga2VlcCB5b3Ugc21lbGxpbmcgZ29vZC5KBHRoYXRSA3RvcCICEAFIAFgAaAA",
+      "source": "domino.com"
+    },
+    {
+      "position": 7,
+      "title": "Top 3 Best Natural Deodorants - All Hip Team Tested!",
+      "link": "https://hip2save.com/product-reviews/best-natural-deodorants/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVKDou709cRasY8184BEqoRJ3q02wiDMmNIlzWvn59IZbTqo9fepC_lgnAW9_aVJCLCpFSTlMAwh8qPbPcQpmvbttveRsq27TwvkDCh4n7o9Bx5huVvsR02aYpMeSomCmugv5fKkGkiDJ1EWUB1oeoNlDFIw&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQFnoECE8QAQ&uoh=1",
+      "displayed_link": "https://hip2save.com › ... › Health and Wellness",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN4DAzISnZoOatpwbmt3DuBWWdH4aWTcLbjjvtr25UbYamuD_PrI-yfUfhcEiWBhDuvmGJp3Q&s",
+      "favicon": "https://serpapi.com/images/i/UklGRv4BAABXRUJQVlA4IPIBAABQCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0g8DoDcAbxLvGXlAPHZ3Z2oLGh5ymap6J9gfoq_sz7NYW1I1Yvj5Nk9k3MluXh_jneioj5JukkwAD-9hPgWvxOdfbrz1kog7Jp7cFw_pKcvqmK0U9MhoZsk-iGr7ObtIS3h-kb4m_cz6xr-TAweOwnlvnQ1i2jWbAfI7PpIj83Ubatk-4bZs9iNMf6WtqLu9UVzNPvSoGPLkhJngIcOksbV9vC4qsgWNoZcUq1C8_-9AWDhBJj_4qeW3tLgufjvepNIcIKI3c0U_aKY58IjPGQbNAd4Y12d82uDVhkMa16Rruq31sh79cD4aEYOtegxef6Qjl_19drKzVDjd7H_dRloi_3eJ0Syp8AXtK7Y88q1uU04NsdfmxTHfZV1JEm8TdsKhaqdFrajbjN1QkeuZCB1f0U3cxc_Lgig_7SvxCeI_yAou4dFn3lDW1m3GIMGGb_dyHSpKpMvpjP1ALpyf72Nvg0NXAj1MWFd3FCIv7Tt1iCnPDqa6ypzpPD6Ee71q41-maCExaOOxtPLbXj9pjdvpou5O8gdE-A_XCpoVnj0yUGIOSR-5ZaQcx1vxM_EVS7o1DhxQo9PhNhEFZrshtM4nX-G1d1icDyEvNFls4XogiHSygAAAA.webp",
+      "date": "Apr 8, 2026",
+      "snippet": "1. Best Stick Deodorant: Primally Pure Charcoal Deodorant · 2. Best Spray Deodorant: Thai Crystal Deodorant Mist · 3. Best Stick Deodorant: ...",
+      "snippet_highlighted_words": [
+        "Primally Pure Charcoal Deodorant"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Best Stick Deodorant: Primally Pure Charcoal Deodorant · 2. Best Spray Deodorant: Thai Crystal Deodorant Mist · 3. Best Stick Deodorant: ...",
+          "source_info_link": "https://hip2save.com/product-reviews/best-natural-deodorants/",
+          "icon": "https://serpapi.com/images/i/UklGRv4BAABXRUJQVlA4IPIBAABQCQCdASocABwAPtE-tFooIigoFAEAGglsAJ0g8DoDcAbxLvGXlAPHZ3Z2oLGh5ymap6J9gfoq_sz7NYW1I1Yvj5Nk9k3MluXh_jneioj5JukkwAD-9hPgWvxOdfbrz1kog7Jp7cFw_pKcvqmK0U9MhoZsk-iGr7ObtIS3h-kb4m_cz6xr-TAweOwnlvnQ1i2jWbAfI7PpIj83Ubatk-4bZs9iNMf6WtqLu9UVzNPvSoGPLkhJngIcOksbV9vC4qsgWNoZcUq1C8_-9AWDhBJj_4qeW3tLgufjvepNIcIKI3c0U_aKY58IjPGQbNAd4Y12d82uDVhkMa16Rruq31sh79cD4aEYOtegxef6Qjl_19drKzVDjd7H_dRloi_3eJ0Syp8AXtK7Y88q1uU04NsdfmxTHfZV1JEm8TdsKhaqdFrajbjN1QkeuZCB1f0U3cxc_Lgig_7SvxCeI_yAou4dFn3lDW1m3GIMGGb_dyHSpKpMvpjP1ALpyf72Nvg0NXAj1MWFd3FCIv7Tt1iCnPDqa6ypzpPD6Ee71q41-maCExaOOxtPLbXj9pjdvpou5O8gdE-A_XCpoVnj0yUGIOSR-5ZaQcx1vxM_EVS7o1DhxQo9PhNhEFZrshtM4nX-G1d1icDyEvNFls4XogiHSygAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVktEb3U3MDljUmFzWTgxODRCRXFvUkozcTAyd2lETW1OSWx6V3ZuNTlJWmJUcW85ZmVwQ19sZ25BVzlfYVZKQ0xDcEZTVGxNQXdoOHFQYlBjUXBtdmJ0dHZlUnNxMjdUd3ZrRENoNG43bzlCeDVodVZ2c1IwMmFZcE1lU29tQ211Z3Y1ZktrR2tpREoxRVdVQjFvZW9ObERGSXcSBBoCCAAa9wUSABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDRBQgAEAAYACAAKhYKBGJlc3QVaPyMQBoEZ29vZBoDdG9wKioKB25hdHVyYWwV5n-NQBoHb3JnYW5pYxoRbmF0dXJhbGRlb2RvcmFudHMqYQoKZGVvZG9yYW50cxUGk5JAGg5hbnRpcGVyc3BpcmFudBoPYW50aXBlcnNwaXJhbnRzGglkZW9kb3JhbnQaEW5hdHVyYWxkZW9kb3JhbnRzGg9pdjtwO2Rlb2RvcmFudHMqCwoEdGhhdBUAAAAAKiwKCGFjdHVhbGx5FfJZ-z4aBnJlYWxseRoMcmVhbGx5IHdvcmtzGgV0cnVseSoxCgR3b3JrFSyPPD8aDHJlYWxseSB3b3JrcxoGd29ya2VkGgd3b3JraW5nGgV3b3JrczKwAS9nb3RvP3VybD1DQUVTZUFIck96QVZLRG91NzA5Y1Jhc1k4MTg0QkVxb1JKM3EwMndpRE1tTklseld2bjU5SVpiVHFvOWZlcENfbGduQVc5X2FWSkNMQ3BGU1RsTUF3aDhxUGJQY1FwbXZidHR2ZVJzcTI3VHd2a0RDaDRuN285Qng1aHVWdnNSMDJhWXBNZVNvbUNtdWd2NWZLa0draURKMUVXVUIxb2VvTmxERkl3Okg8Yj5Ub3A8L2I-IDMgPGI-QmVzdCBOYXR1cmFsIERlb2RvcmFudHM8L2I-IChTdGljaywgU3ByYXkgLi4uIC0gSGlwMlNhdmVCqQExLiBCZXN0IFN0aWNrIERlb2RvcmFudDogPGI-UHJpbWFsbHkgUHVyZSBDaGFyY29hbCBEZW9kb3JhbnQ8L2I-ICZtaWRkb3Q7IDIuIEJlc3QgU3ByYXkgRGVvZG9yYW50OiBUaGFpIENyeXN0YWwgRGVvZG9yYW50IE1pc3QgJm1pZGRvdDsgMy4gQmVzdCBTdGljayBEZW9kb3JhbnQ6Jm5ic3A7Li4uSgR0aGF0UgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVktEb3U3MDljUmFzWTgxODRCRXFvUkozcTAyd2lETW1OSWx6V3ZuNTlJWmJUcW85ZmVwQ19sZ25BVzlfYVZKQ0xDcEZTVGxNQXdoOHFQYlBjUXBtdmJ0dHZlUnNxMjdUd3ZrRENoNG43bzlCeDVodVZ2c1IwMmFZcE1lU29tQ211Z3Y1ZktrR2tpREoxRVdVQjFvZW9ObERGSXcSBBoCCAAa9wUSABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDRBQgAEAAYACAAKhYKBGJlc3QVaPyMQBoEZ29vZBoDdG9wKioKB25hdHVyYWwV5n-NQBoHb3JnYW5pYxoRbmF0dXJhbGRlb2RvcmFudHMqYQoKZGVvZG9yYW50cxUGk5JAGg5hbnRpcGVyc3BpcmFudBoPYW50aXBlcnNwaXJhbnRzGglkZW9kb3JhbnQaEW5hdHVyYWxkZW9kb3JhbnRzGg9pdjtwO2Rlb2RvcmFudHMqCwoEdGhhdBUAAAAAKiwKCGFjdHVhbGx5FfJZ-z4aBnJlYWxseRoMcmVhbGx5IHdvcmtzGgV0cnVseSoxCgR3b3JrFSyPPD8aDHJlYWxseSB3b3JrcxoGd29ya2VkGgd3b3JraW5nGgV3b3JrczKwAS9nb3RvP3VybD1DQUVTZUFIck96QVZLRG91NzA5Y1Jhc1k4MTg0QkVxb1JKM3EwMndpRE1tTklseld2bjU5SVpiVHFvOWZlcENfbGduQVc5X2FWSkNMQ3BGU1RsTUF3aDhxUGJQY1FwbXZidHR2ZVJzcTI3VHd2a0RDaDRuN285Qng1aHVWdnNSMDJhWXBNZVNvbUNtdWd2NWZLa0draURKMUVXVUIxb2VvTmxERkl3Okg8Yj5Ub3A8L2I-IDMgPGI-QmVzdCBOYXR1cmFsIERlb2RvcmFudHM8L2I-IChTdGljaywgU3ByYXkgLi4uIC0gSGlwMlNhdmVCqQExLiBCZXN0IFN0aWNrIERlb2RvcmFudDogPGI-UHJpbWFsbHkgUHVyZSBDaGFyY29hbCBEZW9kb3JhbnQ8L2I-ICZtaWRkb3Q7IDIuIEJlc3QgU3ByYXkgRGVvZG9yYW50OiBUaGFpIENyeXN0YWwgRGVvZG9yYW50IE1pc3QgJm1pZGRvdDsgMy4gQmVzdCBTdGljayBEZW9kb3JhbnQ6Jm5ic3A7Li4uSgR0aGF0UgN0b3AiAhABSABYAGgA",
+      "source": "Hip2Save",
+      "read_more_link": "https://hip2save.com/product-reviews/best-natural-deodorants/#:~:text=1.%20Best%20Stick%20Deodorant%3A%20Primally,Pure%20Charcoal%20Deodorant&text=2.%20Best%20Spray%20Deodorant%3A%20Thai,Crystal%20Deodorant%20Mist&text=3.%20Best%20Stick%20Deodorant%3A%20EnergyBalance,Biork%20Deodorant"
+    },
+    {
+      "position": 8,
+      "title": "Which natural deodorants actually work?",
+      "link": "https://www.quora.com/Which-natural-deodorants-actually-work",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVBatNJakwd-jv-WkPtsevKo9NItMFyOFI_IaI8dxhtipLorNbrSYkSMXPOHrynhFVfI5g74FneHA_8QqJev6Fm3NqXuPiMNURADtZKWAlZ88TIhcJwYTXE3wC5it6FPHkJSl5SC50Ml-FcIcL1UB-lyy_&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQFnoECEoQAQ&uoh=1",
+      "displayed_link": "40+ answers · 7 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+      "snippet": "Which natural deodorants actually work?",
+      "about_this_result": {
+        "source": {
+          "description": "The best deodorant that I have had so far was the solid potassium alum from crystal brand. It keeps me smelling fresh all day. I also shower ...",
+          "source_info_link": "https://www.quora.com/Which-natural-deodorants-actually-work",
+          "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVkJhdE5KYWt3ZC1qdi1Xa1B0c2V2S285Tkl0TUZ5T0ZJX0lhSThkeGh0aXBMb3JOYnJTWWtTTVhQT0hyeW5oRlZmSTVnNzRGbmVIQV84UXFKZXY2Rm0zTnFYdVBpTU5VUkFEdFpLV0FsWjg4VEloY0p3WVRYRTN3QzVpdDZGUEhrSlNsNVNDNTBNbC1GY0ljTDFVQi1seXlfEgQaAggAGtQFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLAFCAAQABgAIAAqFgoEYmVzdBX5iv0_GgRnb29kGgN0b3AqKgoHbmF0dXJhbBUW2-lAGgdvcmdhbmljGhFuYXR1cmFsZGVvZG9yYW50cyphCgpkZW9kb3JhbnRzFVXzyUAaDmFudGlwZXJzcGlyYW50Gg9hbnRpcGVyc3BpcmFudHMaCWRlb2RvcmFudBoRbmF0dXJhbGRlb2RvcmFudHMaD2l2O3A7ZGVvZG9yYW50cyoLCgR0aGF0FQAAAAAqLAoIYWN0dWFsbHkV2rzFQBoGcmVhbGx5GgxyZWFsbHkgd29ya3MaBXRydWx5KjEKBHdvcmsVYQvVQBoMcmVhbGx5IHdvcmtzGgZ3b3JrZWQaB3dvcmtpbmcaBXdvcmtzMq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVkJhdE5KYWt3ZC1qdi1Xa1B0c2V2S285Tkl0TUZ5T0ZJX0lhSThkeGh0aXBMb3JOYnJTWWtTTVhQT0hyeW5oRlZmSTVnNzRGbmVIQV84UXFKZXY2Rm0zTnFYdVBpTU5VUkFEdFpLV0FsWjg4VEloY0p3WVRYRTN3QzVpdDZGUEhrSlNsNVNDNTBNbC1GY0ljTDFVQi1seXlfOjZXaGljaCA8Yj5uYXR1cmFsIGRlb2RvcmFudHMgYWN0dWFsbHkgd29yazwvYj4_IC0gUXVvcmFCnAFUaGUgYmVzdCBkZW9kb3JhbnQgdGhhdCBJIGhhdmUgaGFkIHNvIGZhciB3YXMgdGhlIDxiPnNvbGlkIHBvdGFzc2l1bSBhbHVtIGZyb20gY3J5c3RhbCBicmFuZDwvYj4uIEl0IGtlZXBzIG1lIHNtZWxsaW5nIGZyZXNoIGFsbCBkYXkuIEkgYWxzbyBzaG93ZXImbmJzcDsuLi5KBHRoYXRSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVkJhdE5KYWt3ZC1qdi1Xa1B0c2V2S285Tkl0TUZ5T0ZJX0lhSThkeGh0aXBMb3JOYnJTWWtTTVhQT0hyeW5oRlZmSTVnNzRGbmVIQV84UXFKZXY2Rm0zTnFYdVBpTU5VUkFEdFpLV0FsWjg4VEloY0p3WVRYRTN3QzVpdDZGUEhrSlNsNVNDNTBNbC1GY0ljTDFVQi1seXlfEgQaAggAGtQFEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQLAFCAAQABgAIAAqFgoEYmVzdBX5iv0_GgRnb29kGgN0b3AqKgoHbmF0dXJhbBUW2-lAGgdvcmdhbmljGhFuYXR1cmFsZGVvZG9yYW50cyphCgpkZW9kb3JhbnRzFVXzyUAaDmFudGlwZXJzcGlyYW50Gg9hbnRpcGVyc3BpcmFudHMaCWRlb2RvcmFudBoRbmF0dXJhbGRlb2RvcmFudHMaD2l2O3A7ZGVvZG9yYW50cyoLCgR0aGF0FQAAAAAqLAoIYWN0dWFsbHkV2rzFQBoGcmVhbGx5GgxyZWFsbHkgd29ya3MaBXRydWx5KjEKBHdvcmsVYQvVQBoMcmVhbGx5IHdvcmtzGgZ3b3JrZWQaB3dvcmtpbmcaBXdvcmtzMq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVkJhdE5KYWt3ZC1qdi1Xa1B0c2V2S285Tkl0TUZ5T0ZJX0lhSThkeGh0aXBMb3JOYnJTWWtTTVhQT0hyeW5oRlZmSTVnNzRGbmVIQV84UXFKZXY2Rm0zTnFYdVBpTU5VUkFEdFpLV0FsWjg4VEloY0p3WVRYRTN3QzVpdDZGUEhrSlNsNVNDNTBNbC1GY0ljTDFVQi1seXlfOjZXaGljaCA8Yj5uYXR1cmFsIGRlb2RvcmFudHMgYWN0dWFsbHkgd29yazwvYj4_IC0gUXVvcmFCnAFUaGUgYmVzdCBkZW9kb3JhbnQgdGhhdCBJIGhhdmUgaGFkIHNvIGZhciB3YXMgdGhlIDxiPnNvbGlkIHBvdGFzc2l1bSBhbHVtIGZyb20gY3J5c3RhbCBicmFuZDwvYj4uIEl0IGtlZXBzIG1lIHNtZWxsaW5nIGZyZXNoIGFsbCBkYXkuIEkgYWxzbyBzaG93ZXImbmJzcDsuLi5KBHRoYXRSA3RvcCICEAFIAFgAaAA",
+      "source": "Quora"
+    },
+    {
+      "position": 9,
+      "title": "Here Are 4 Of The Best Natural Deodorants On The Market",
+      "link": "https://girlfriend.aarp.org/health/wellness/your-search-stops-now-natural-deodorants-that-can-actually-work/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpwEB6zswFc3Gs0m1G0jyWdwIznmgM8cJbGbjW1Hsi18fkyB4Uwp6OVO3BF4M3GrILVadNu8feQXd6T3DG4sjf4VmsOiY2XsyiyXiXgg7YNEEQDku__ZE2m4KO1JF91CT0VHIVEP6iKXZjueme5r26lmIMj636-UeIg3nZcfyfxvah_Ob40REdbubsw8WCP79PXC28BYLXxvGG7mTWqXRG2U5jxLYyp_sEw&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQFnoECEUQAQ&uoh=1",
+      "displayed_link": "https://girlfriend.aarp.org › health › wellness › your-sea...",
+      "favicon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAABQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3tf4k8sTacEQwF_r9N_yz3Lm8N5Fc3YbTvFaQAAD-7UgvckRxaVgNWMldCaLiALDrNud7r_0nrTuhBJ3RhieZZmCZLX88X5a_n_0VlXgg1_K0mEJCkH-tlZ-slpkYCAx0ppycyQN9FDthzjwLnu6m5iaFqTYEITaYT_qeOvsz-f3k67r0jPf-1dn_Jv6dU8x9Z-2Hmnt2cJYaP_yVtLXPUY1Er9ZXGCj9b22DgjmbRijmkvExTR_Xkoztnp8pccIW7wX-3J5f9UDCeuUNtrsyhqbpjez-I6McS8S7R0LtUAg9kpl2yAZbXb_0pOn7vj6tdzVHU7ZvaVqAAAA.webp",
+      "date": "May 31, 2022",
+      "snippet": "“Natural deodorants work by using antibacterial ingredients like tea tree oil or lavender oil to kill bacteria and neutralize bad smells,” says ...",
+      "snippet_highlighted_words": [
+        "using antibacterial ingredients like tea tree oil or lavender oil"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "“Natural deodorants work by using antibacterial ingredients like tea tree oil or lavender oil to kill bacteria and neutralize bad smells,” says ...",
+          "source_info_link": "https://girlfriend.aarp.org/health/wellness/your-search-stops-now-natural-deodorants-that-can-actually-work/",
+          "icon": "https://serpapi.com/images/i/UklGRiYBAABXRUJQVlA4IBoBAABQBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3tf4k8sTacEQwF_r9N_yz3Lm8N5Fc3YbTvFaQAAD-7UgvckRxaVgNWMldCaLiALDrNud7r_0nrTuhBJ3RhieZZmCZLX88X5a_n_0VlXgg1_K0mEJCkH-tlZ-slpkYCAx0ppycyQN9FDthzjwLnu6m5iaFqTYEITaYT_qeOvsz-f3k67r0jPf-1dn_Jv6dU8x9Z-2Hmnt2cJYaP_yVtLXPUY1Er9ZXGCj9b22DgjmbRijmkvExTR_Xkoztnp8pccIW7wX-3J5f9UDCeuUNtrsyhqbpjez-I6McS8S7R0LtUAg9kpl2yAZbXb_0pOn7vj6tdzVHU7ZvaVqAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZjM0dzMG0xRzBqeVdkd0l6bm1nTThjSmJHYmpXMUhzaTE4Zmt5QjRVd3A2T1ZPM0JGNE0zR3JJTFZhZE51OGZlUVhkNlQzREc0c2pmNFZtc09pWTJYc3lpeVhpWGdnN1lORUVRRGt1X19aRTJtNEtPMUpGOTFDVDBWSElWRVA2aUtYWmp1ZW1lNXIyNmxtSU1qNjM2LVVlSWczblpjZnlmeHZhaF9PYjQwUkVkYnVic3c4V0NQNzlQWEMyOEJZTFh4dkdHN21UV3FYUkcyVTVqeExZeXBfc0V3EgQaAggAGqUGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQIEGCAAQABgAIAAqFgoEYmVzdBWyT41AGgRnb29kGgN0b3AqKgoHbmF0dXJhbBXPhoVAGgdvcmdhbmljGhFuYXR1cmFsZGVvZG9yYW50cyphCgpkZW9kb3JhbnRzFQhwd0AaDmFudGlwZXJzcGlyYW50Gg9hbnRpcGVyc3BpcmFudHMaCWRlb2RvcmFudBoRbmF0dXJhbGRlb2RvcmFudHMaD2l2O3A7ZGVvZG9yYW50cyoLCgR0aGF0FQAAAAAqLAoIYWN0dWFsbHkVytjLPxoGcmVhbGx5GgxyZWFsbHkgd29ya3MaBXRydWx5KjEKBHdvcmsVB4gQQBoMcmVhbGx5IHdvcmtzGgZ3b3JrZWQaB3dvcmtpbmcaBXdvcmtzMvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZjM0dzMG0xRzBqeVdkd0l6bm1nTThjSmJHYmpXMUhzaTE4Zmt5QjRVd3A2T1ZPM0JGNE0zR3JJTFZhZE51OGZlUVhkNlQzREc0c2pmNFZtc09pWTJYc3lpeVhpWGdnN1lORUVRRGt1X19aRTJtNEtPMUpGOTFDVDBWSElWRVA2aUtYWmp1ZW1lNXIyNmxtSU1qNjM2LVVlSWczblpjZnlmeHZhaF9PYjQwUkVkYnVic3c4V0NQNzlQWEMyOEJZTFh4dkdHN21UV3FYUkcyVTVqeExZeXBfc0V3Oj5IZXJlIEFyZSA0IE9mIFRoZSA8Yj5CZXN0IE5hdHVyYWwgRGVvZG9yYW50czwvYj4gT24gVGhlIE1hcmtldEKjAeKAnE5hdHVyYWwgZGVvZG9yYW50cyB3b3JrIGJ5IDxiPnVzaW5nIGFudGliYWN0ZXJpYWwgaW5ncmVkaWVudHMgbGlrZSB0ZWEgdHJlZSBvaWwgb3IgbGF2ZW5kZXIgb2lsPC9iPiB0byBraWxsIGJhY3RlcmlhIGFuZCBuZXV0cmFsaXplIGJhZCBzbWVsbHMs4oCdIHNheXMmbmJzcDsuLi5KBHRoYXRSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZjM0dzMG0xRzBqeVdkd0l6bm1nTThjSmJHYmpXMUhzaTE4Zmt5QjRVd3A2T1ZPM0JGNE0zR3JJTFZhZE51OGZlUVhkNlQzREc0c2pmNFZtc09pWTJYc3lpeVhpWGdnN1lORUVRRGt1X19aRTJtNEtPMUpGOTFDVDBWSElWRVA2aUtYWmp1ZW1lNXIyNmxtSU1qNjM2LVVlSWczblpjZnlmeHZhaF9PYjQwUkVkYnVic3c4V0NQNzlQWEMyOEJZTFh4dkdHN21UV3FYUkcyVTVqeExZeXBfc0V3EgQaAggAGqUGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQIEGCAAQABgAIAAqFgoEYmVzdBWyT41AGgRnb29kGgN0b3AqKgoHbmF0dXJhbBXPhoVAGgdvcmdhbmljGhFuYXR1cmFsZGVvZG9yYW50cyphCgpkZW9kb3JhbnRzFQhwd0AaDmFudGlwZXJzcGlyYW50Gg9hbnRpcGVyc3BpcmFudHMaCWRlb2RvcmFudBoRbmF0dXJhbGRlb2RvcmFudHMaD2l2O3A7ZGVvZG9yYW50cyoLCgR0aGF0FQAAAAAqLAoIYWN0dWFsbHkVytjLPxoGcmVhbGx5GgxyZWFsbHkgd29ya3MaBXRydWx5KjEKBHdvcmsVB4gQQBoMcmVhbGx5IHdvcmtzGgZ3b3JrZWQaB3dvcmtpbmcaBXdvcmtzMvABL2dvdG8_dXJsPUNBRVNwd0VCNnpzd0ZjM0dzMG0xRzBqeVdkd0l6bm1nTThjSmJHYmpXMUhzaTE4Zmt5QjRVd3A2T1ZPM0JGNE0zR3JJTFZhZE51OGZlUVhkNlQzREc0c2pmNFZtc09pWTJYc3lpeVhpWGdnN1lORUVRRGt1X19aRTJtNEtPMUpGOTFDVDBWSElWRVA2aUtYWmp1ZW1lNXIyNmxtSU1qNjM2LVVlSWczblpjZnlmeHZhaF9PYjQwUkVkYnVic3c4V0NQNzlQWEMyOEJZTFh4dkdHN21UV3FYUkcyVTVqeExZeXBfc0V3Oj5IZXJlIEFyZSA0IE9mIFRoZSA8Yj5CZXN0IE5hdHVyYWwgRGVvZG9yYW50czwvYj4gT24gVGhlIE1hcmtldEKjAeKAnE5hdHVyYWwgZGVvZG9yYW50cyB3b3JrIGJ5IDxiPnVzaW5nIGFudGliYWN0ZXJpYWwgaW5ncmVkaWVudHMgbGlrZSB0ZWEgdHJlZSBvaWwgb3IgbGF2ZW5kZXIgb2lsPC9iPiB0byBraWxsIGJhY3RlcmlhIGFuZCBuZXV0cmFsaXplIGJhZCBzbWVsbHMs4oCdIHNheXMmbmJzcDsuLi5KBHRoYXRSA3RvcCICEAFIAFgAaAA",
+      "source": "AARP",
+      "read_more_link": "https://girlfriend.aarp.org/health/wellness/your-search-stops-now-natural-deodorants-that-can-actually-work/#:~:text=%E2%80%9CNatural%20deodorants%20work%20by%20using,and%20neutralize%20bad%20smells%2C%E2%80%9D%20says"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best natural deodorants that actually work reddit",
+      "link": "https://www.google.com/search?sca_esv=700c7e79aa3b521d&gl=us&hl=en&sxsrf=APpeQnsyZJdwsV8NFLayIhoOUZ0fcatymw:1790439303739&q=Best+natural+deodorants+that+actually+work+reddit&sa=X&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+natural+deodorants+that+actually+work+reddit"
+    },
+    {
+      "block_position": 1,
+      "query": "Best natural deodorants that actually work for men",
+      "link": "https://www.google.com/search?sca_esv=700c7e79aa3b521d&gl=us&hl=en&sxsrf=APpeQnsyZJdwsV8NFLayIhoOUZ0fcatymw:1790439303739&q=Best+natural+deodorants+that+actually+work+for+men&sa=X&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+natural+deodorants+that+actually+work+for+men"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "I analyzed Reddit to find the most recommended natural deodorants",
+      "link": "https://www.reddit.com/r/RedRecs/comments/1pbk47c/i_analyzed_reddit_to_find_the_most_recommended/",
+      "date": "9 months ago",
+      "extensions": [
+        "r/RedRecs",
+        "30+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/RedRecs/comments/1pbk47c/i_analyzed_reddit_to_find_the_most_recommended/"
+        }
+      ]
+    },
+    {
+      "title": "Natural deodorant recommendations",
+      "link": "https://www.reddit.com/r/hygiene/comments/1vrrymq/natural_deodorant_recommendations/",
+      "date": "1 month ago",
+      "extensions": [
+        "r/hygiene",
+        "40+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/hygiene/comments/1vrrymq/natural_deodorant_recommendations/"
+        }
+      ]
+    },
+    {
+      "title": "What natural deodorants actually work?",
+      "link": "https://www.facebook.com/groups/1427914044720790/posts/1505144666997727/",
+      "date": "2 years ago",
+      "extensions": [
+        "Self Care Tips 🧴🧼💓",
+        "10+ comments"
+      ],
+      "source": "Facebook",
+      "answers": [
+        {
+          "link": "https://www.facebook.com/groups/1427914044720790/posts/1505144666997727/",
+          "extensions": [
+            "Top answer",
+            "2 years ago"
+          ]
+        },
+        {
+          "link": "https://www.facebook.com/groups/1427914044720790/posts/1505144666997727/",
+          "extensions": [
+            "2 years ago"
+          ]
+        },
+        {
+          "link": "https://www.facebook.com/groups/1427914044720790/posts/1505144666997727/",
+          "extensions": [
+            "2 years ago"
+          ]
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+natural+deodorants+that+actually+work&sca_esv=700c7e79aa3b521d&gl=us&hl=en&sxsrf=APpeQnsyZJdwsV8NFLayIhoOUZ0fcatymw:1790439303739&ei=h--3auTLLIGlhbIPqJiCoAY&start=10&sa=N&sstk=AS6-VmINzvsMmbRztMuAQj2TB6AwerQyxeTT2a9oVM026MVvFC0aINawObGaEchTSeM6NzPY3_oheM-xdn4xpogbLEIvw03PE-ICcQ&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQ8NMDegQISRAO",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+natural+deodorants+that+actually+work&sca_esv=700c7e79aa3b521d&gl=us&hl=en&sxsrf=APpeQnsyZJdwsV8NFLayIhoOUZ0fcatymw:1790439303739&ei=h--3auTLLIGlhbIPqJiCoAY&start=10&sa=N&sstk=AS6-VmINzvsMmbRztMuAQj2TB6AwerQyxeTT2a9oVM026MVvFC0aINawObGaEchTSeM6NzPY3_oheM-xdn4xpogbLEIvw03PE-ICcQ&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQ8tMDegQISRAE",
+      "3": "https://www.google.com/search?q=best+natural+deodorants+that+actually+work&sca_esv=700c7e79aa3b521d&gl=us&hl=en&sxsrf=APpeQnsyZJdwsV8NFLayIhoOUZ0fcatymw:1790439303739&ei=h--3auTLLIGlhbIPqJiCoAY&start=20&sa=N&sstk=AS6-VmINzvsMmbRztMuAQj2TB6AwerQyxeTT2a9oVM026MVvFC0aINawObGaEchTSeM6NzPY3_oheM-xdn4xpogbLEIvw03PE-ICcQ&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQ8tMDegQISRAG",
+      "4": "https://www.google.com/search?q=best+natural+deodorants+that+actually+work&sca_esv=700c7e79aa3b521d&gl=us&hl=en&sxsrf=APpeQnsyZJdwsV8NFLayIhoOUZ0fcatymw:1790439303739&ei=h--3auTLLIGlhbIPqJiCoAY&start=30&sa=N&sstk=AS6-VmINzvsMmbRztMuAQj2TB6AwerQyxeTT2a9oVM026MVvFC0aINawObGaEchTSeM6NzPY3_oheM-xdn4xpogbLEIvw03PE-ICcQ&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQ8tMDegQISRAI",
+      "5": "https://www.google.com/search?q=best+natural+deodorants+that+actually+work&sca_esv=700c7e79aa3b521d&gl=us&hl=en&sxsrf=APpeQnsyZJdwsV8NFLayIhoOUZ0fcatymw:1790439303739&ei=h--3auTLLIGlhbIPqJiCoAY&start=40&sa=N&sstk=AS6-VmINzvsMmbRztMuAQj2TB6AwerQyxeTT2a9oVM026MVvFC0aINawObGaEchTSeM6NzPY3_oheM-xdn4xpogbLEIvw03PE-ICcQ&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQ8tMDegQISRAK",
+      "6": "https://www.google.com/search?q=best+natural+deodorants+that+actually+work&sca_esv=700c7e79aa3b521d&gl=us&hl=en&sxsrf=APpeQnsyZJdwsV8NFLayIhoOUZ0fcatymw:1790439303739&ei=h--3auTLLIGlhbIPqJiCoAY&start=50&sa=N&sstk=AS6-VmINzvsMmbRztMuAQj2TB6AwerQyxeTT2a9oVM026MVvFC0aINawObGaEchTSeM6NzPY3_oheM-xdn4xpogbLEIvw03PE-ICcQ&ved=2ahUKEwikq8OV0oyXAxWBUkEAHSiMAGQQ8tMDegQISRAM"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+natural+deodorants+that+actually+work&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+natural+deodorants+that+actually+work&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+natural+deodorants+that+actually+work&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+natural+deodorants+that+actually+work&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+natural+deodorants+that+actually+work&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+natural+deodorants+that+actually+work&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=best+natural+deodorants+that+actually+work&start=50"
+    }
+  }
+}

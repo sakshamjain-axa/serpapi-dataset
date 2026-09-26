@@ -1,0 +1,704 @@
+{
+  "search_metadata": {
+    "id": "6ab7db0941ffc82af8349ff4",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/zUp5WPbpVXDNVT2_G_6dR7O08F-HTLpbmNHaP6YBhSQ/6ab7db0941ffc82af8349ff4.json",
+    "markdown_endpoint": "https://serpapi.com/searches/zUp5WPbpVXDNVT2_G_6dR7O08F-HTLpbmNHaP6YBhSQ/6ab7db0941ffc82af8349ff4.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/zUp5WPbpVXDNVT2_G_6dR7O08F-HTLpbmNHaP6YBhSQ/6ab7db0941ffc82af8349ff4.json_with_pixel_position",
+    "created_at": "2026-09-26 14:47:37 UTC",
+    "processed_at": "2026-09-26 14:47:37 UTC",
+    "google_url": "https://www.google.com/search?q=best+protein+powder+brands+for+muscle+gain&oq=best+protein+powder+brands+for+muscle+gain&uule=w+CAIQICIdQXVzdGluLFRYLFRleGFzLFVuaXRlZCBTdGF0ZXM&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/zUp5WPbpVXDNVT2_G_6dR7O08F-HTLpbmNHaP6YBhSQ/6ab7db0941ffc82af8349ff4.html",
+    "total_time_taken": 4.95
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "best protein powder brands for muscle gain",
+    "location_requested": "Austin, TX, Texas, United States",
+    "location_used": "Austin,TX,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "best protein powder brands for muscle gain",
+    "total_results": 169,
+    "time_taken_displayed": 0.3,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "bottom",
+      "title": "Best Isolate Protein Powders | GNC | Best Isolate Protein of 2026",
+      "link": "https://www.gnc.com/buy/best-isolate-protein-powders",
+      "displayed_link": "https://www.gnc.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiO6urRvoyXAxUOz-MHHSX9MZwYACICCAIQARoCeW0&co=1&ase=2&gclid=EAIaIQobChMIjurq0b6MlwMVDs_jBx0l_TGcEAMYASAAEgJ3dfD_BwE&cid=CAASugHkaGSrY9MlgluPDC2hC-bZNGh39CUNUX3y-7ZLo3wo1HNt01dtcfKxxZUT9rogaNafcRGVWUvNF8cem6asBcLxvyiJff25iYE8JAdePMkAW2qOlSUAEC175DRsR62NQcAW0XbUHzljfq_x6O03FtBSNrFFEv3x0rT8lT-NcM5mOHQr8IUWuOaVlCoX6dpasqKOJTuRghgMk5M1gBgAx0Cn8oXUB0yqdu-vp9oEfbmdcR1PRqz9m9qakLc&cce=2&category=acrcp_v1_32&sig=AOD64_04XXxqNjpV4iIVVdcwkaXM3FRrjw&q&nis=4&adurl",
+      "description": "Explore the best isolate protein powders at GNC, which may support your fitness goals and help you get the most out of every workout. Shop the best isolate protein powders at GNC to support your...",
+      "extensions": [
+        "1M+ visits in past month"
+      ],
+      "source": "GNC"
+    },
+    {
+      "position": 2,
+      "block_position": "bottom",
+      "title": "The Best & Worst Protein Powder Products - Clean Label Project",
+      "link": "https://cleanlabelproject.org/the-best-worst-protein-powder-products/",
+      "displayed_link": "https://www.cleanlabelproject.org",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwiO6urRvoyXAxUOz-MHHSX9MZwYACICCAIQABoCeW0&co=1&ase=2&gclid=EAIaIQobChMIjurq0b6MlwMVDs_jBx0l_TGcEAMYAiAAEgLhxfD_BwE&cid=CAASugHkaGSrY9MlgluPDC2hC-bZNGh39CUNUX3y-7ZLo3wo1HNt01dtcfKxxZUT9rogaNafcRGVWUvNF8cem6asBcLxvyiJff25iYE8JAdePMkAW2qOlSUAEC175DRsR62NQcAW0XbUHzljfq_x6O03FtBSNrFFEv3x0rT8lT-NcM5mOHQr8IUWuOaVlCoX6dpasqKOJTuRghgMk5M1gBgAx0Cn8oXUB0yqdu-vp9oEfbmdcR1PRqz9m9qakLc&cce=2&category=acrcp_v1_32&sig=AOD64_3XysB5CcQeTjAjoahT8LvOe-DHBw&q&nis=4&adurl",
+      "description": "Protein Study 2.0: Uncovering hidden contaminants in your protein powder. Find the best. We analyzed protein powders for toxins. Protein Study 2.0 reveals the cleanest options. Product Ratings.",
+      "source": "cleanlabelproject.org",
+      "sitelinks": [
+        {
+          "title": "Heavy Metals Raw Data",
+          "link": "https://cleanlabelproject.org/heavy-metal-infographic/"
+        },
+        {
+          "title": "Raw Data",
+          "link": "https://www.cleanlabelproject.org/protein-powder-raw-data/"
+        },
+        {
+          "title": "Awards & Certifications",
+          "link": "https://cleanlabelproject.org/our-awards-certifications/"
+        },
+        {
+          "title": "Protein Powder",
+          "link": "https://www.cleanlabelproject.org/protein-powder/"
+        },
+        {
+          "title": "Sunscreen",
+          "link": "https://www.cleanlabelproject.org/sunscreen/"
+        }
+      ]
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "6 Best Protein Powder 2026",
+      "link": "https://www.youtube.com/watch?v=N6_SsVCeSDs&xstg=CAMSBhUD-7L2Hw%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab7db0941ffc82af8349ff4/images/Y6UE5XCiYJD59llhfqzkEdKKxT6jBuNFkwqqntfdhZ4.jpeg",
+      "channel": "Fox Picks",
+      "duration": "11:44",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "snippet": "Momentous Whey Protein Isolate recorded the lowest lead result of any regular protein powder in Consumer Reports' testing.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR7UnbyFbS-TdcoG6WOm1mopnBe17J3m_Qklw"
+    },
+    {
+      "position": 2,
+      "title": "6 Best Protein Powder 2026",
+      "link": "https://www.youtube.com/watch?v=4_OHHxf7IPY&xstg=CAMSBhUD-7L2Hw%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab7db0941ffc82af8349ff4/images/9bqEh2LJHP_1ZQNwkIulaAFjRCZNqeUeDGmJGJEmAII.jpeg",
+      "channel": "Tire Rider",
+      "duration": "9:33",
+      "platform": "YouTube",
+      "date": "1 month ago"
+    },
+    {
+      "position": 3,
+      "title": "Nutrition Coach Ranks the Best Protein Powders of 2026",
+      "link": "https://www.youtube.com/watch?v=t0yWhvgBghQ&xstg=CAMSBhUD-7L2Hw%3D%3D",
+      "thumbnail": "https://serpapi.com/searches/6ab7db0941ffc82af8349ff4/images/SNA0dK0KJdVHtCDZIZs19MF2qZXoHHnbRIoQlC5-d6o.jpeg",
+      "channel": "Men's Journal",
+      "duration": "5:20",
+      "platform": "YouTube",
+      "date": "May 13, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQEXcRtHvLzpe7wimdwupO7K0n3_0Jw2jRVEw"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Which brand of protein is best for muscle gain?",
+      "type": "ai_overview",
+      "page_token": "cq_N9nicHdBdbpswAABg7TJ9bGzSZmqkaJKLgSJ-gsE29stk7AQ6TLESFAhvu8EOsVPtNKt6gk_6fv-17x_9v29_umly1_1mM8_zYzuOrT096nHYqOv9Q2-0srZRut_vvu_gj7M-4JtArxeNCuoc8wkohwkLaM-KvSQEInkaXo4JC0RB2dj08llbc0npE6BR_JzjADH_bdbbeKe9dttgDFWNXg2md4PHtRrclazEZiEGGTBARUGpfeNOfsDrVd6aLfOSykyKxVFSZ_c0nMKqjqOTFV4KgyNd46RZsyPl1qdc0qx3cYmtLGhwqUDwq6lYKXrnUUhKBu2NUpfm_G1Oo9jjjCzSi8Ns6AC3DjTQLnogofGmKqVdTqwkuJNYRnQVNXECmFxVaDFRVpjKLpxCFL7HiETZPf-0S86QpE5x2z0pb8nFwCwfWiCqrCggqQVg6OGsb4ftw9f04ed5mPbuMrb_Ae-IirY",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=cq_N9nicHdBdbpswAABg7TJ9bGzSZmqkaJKLgSJ-gsE29stk7AQ6TLESFAhvu8EOsVPtNKt6gk_6fv-17x_9v29_umly1_1mM8_zYzuOrT096nHYqOv9Q2-0srZRut_vvu_gj7M-4JtArxeNCuoc8wkohwkLaM-KvSQEInkaXo4JC0RB2dj08llbc0npE6BR_JzjADH_bdbbeKe9dttgDFWNXg2md4PHtRrclazEZiEGGTBARUGpfeNOfsDrVd6aLfOSykyKxVFSZ_c0nMKqjqOTFV4KgyNd46RZsyPl1qdc0qx3cYmtLGhwqUDwq6lYKXrnUUhKBu2NUpfm_G1Oo9jjjCzSi8Ns6AC3DjTQLnogofGmKqVdTqwkuJNYRnQVNXECmFxVaDFRVpjKLpxCFL7HiETZPf-0S86QpE5x2z0pb8nFwCwfWiCqrCggqQVg6OGsb4ftw9f04ed5mPbuMrb_Ae-IirY",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTU16TldZVTFWWld0NGQzVnBiM0JLVGpGSlRVRkpRa0Y2TURScFNsZE5jWE5oYzJGSU5IWm1aVEJXUlc1WlFuTmtRMmRYV1c5eVIzTnZVRWhRTFVNMk1IQjRUR2cxU0UwdFN6bFpkMUp6Y21SV1RuaFNNbFJtY2xKcFp4SVdSR1IxTTJGMGFXTkhUbWt3Y1hSelVIVTVjVmxOUVJvaVFVUnpjamxtVTBwd01XVmFaVlpqZERONVNqWjNWRlpGYnpabGJXZzRTM2szUVEiLCJmY3YiOiIzIiwiZWkiOiJEZHUzYXRpY0dOaTBxdHNQdTlxWU1BIiwicWMiOiJDaXBpWlhOMElIQnliM1JsYVc0Z2NHOTNaR1Z5SUdKeVlXNWtjeUJtYjNJZ2JYVnpZMnhsSUdkaGFXNFFBSDAxaUJBXyIsInF1ZXN0aW9uIjoiV2hpY2ggYnJhbmQgb2YgcHJvdGVpbiBpcyBiZXN0IGZvciBtdXNjbGUgZ2Fpbj8iLCJsayI6IkdpdDNhR2xqYUNCaWNtRnVaQ0J3Y205MFpXbHVJR2x6SUdKbGMzUWdabTl5SUcxMWMyTnNaU0JuWVdsdSIsImJzIjoiYzQzUVBRdkNNQkNBWVZ4dmNzNTBnMS1saUJCd3prOXdrbTVpMnFZbVVKTndPY25mRjVXQ2FLR2Q3M252NE9BS2g4cTZ4bUpOMnJjWU9vd1UyRGlQTG1GdEVtTVhDTy1QMVBRR2I5cDVKZmVpekZfSmhJZkxjR0dBTWVUVzBLaW5rTmtxV1lxQ3JmbU1mNm9fRFdmWVZWWXphakw0cWpoRVBJNjFTY2xDYlBNOEN5ZFl2OWRPdm1NalZua0dYQzZlIiwiaWQiOiJmY19EZHUzYXRpY0dOaTBxdHNQdTlxWU1BXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTU16TldZVTFWWld0NGQzVnBiM0JLVGpGSlRVRkpRa0Y2TURScFNsZE5jWE5oYzJGSU5IWm1aVEJXUlc1WlFuTmtRMmRYV1c5eVIzTnZVRWhRTFVNMk1IQjRUR2cxU0UwdFN6bFpkMUp6Y21SV1RuaFNNbFJtY2xKcFp4SVdSR1IxTTJGMGFXTkhUbWt3Y1hSelVIVTVjVmxOUVJvaVFVUnpjamxtVTBwd01XVmFaVlpqZERONVNqWjNWRlpGYnpabGJXZzRTM2szUVEiLCJmY3YiOiIzIiwiZWkiOiJEZHUzYXRpY0dOaTBxdHNQdTlxWU1BIiwicWMiOiJDaXBpWlhOMElIQnliM1JsYVc0Z2NHOTNaR1Z5SUdKeVlXNWtjeUJtYjNJZ2JYVnpZMnhsSUdkaGFXNFFBSDAxaUJBXyIsInF1ZXN0aW9uIjoiV2hpY2ggYnJhbmQgb2YgcHJvdGVpbiBpcyBiZXN0IGZvciBtdXNjbGUgZ2Fpbj8iLCJsayI6IkdpdDNhR2xqYUNCaWNtRnVaQ0J3Y205MFpXbHVJR2x6SUdKbGMzUWdabTl5SUcxMWMyTnNaU0JuWVdsdSIsImJzIjoiYzQzUVBRdkNNQkNBWVZ4dmNzNTBnMS1saUJCd3prOXdrbTVpMnFZbVVKTndPY25mRjVXQ2FLR2Q3M252NE9BS2g4cTZ4bUpOMnJjWU9vd1UyRGlQTG1GdEVtTVhDTy1QMVBRR2I5cDVKZmVpekZfSmhJZkxjR0dBTWVUVzBLaW5rTmtxV1lxQ3JmbU1mNm9fRFdmWVZWWXphakw0cWpoRVBJNjFTY2xDYlBNOEN5ZFl2OWRPdm1NalZua0dYQzZlIiwiaWQiOiJmY19EZHUzYXRpY0dOaTBxdHNQdTlxWU1BXzUifQ%3D%3D"
+    },
+    {
+      "question": "Which protein powder is best for muscle growth?",
+      "type": "ai_overview",
+      "page_token": "02i4N3icHdBhzpowGADg7DLfz0-K4hYTs6wTaHCWUHhb6J-FtiqOig2oIP92gx1ip9pptuwET_L8_G0vXfvnw6_mfnfDZrEYx_H9fLud7fFd366Lenh1eqFra1Wt28364xp9Pult-Kzw117jDJzjO-blwuwPJEkMBI9i187lzPkRbJZzPZe-cWpJ93mE_WqOvklAMvdNBzBRHkdUEN7V_Mso4uChwmmGFyJgLVFx9OQ-E0wEF351swJKGWFYCDuamKFjiNhByJb7TZ8VxklvmHVX3TPfPmovaA2XnYLVKi0aVwnem87s05gVtEjWAqjPIapYibG4ykwJ11YQMGX_Cf6AZIvyGn1aqSjqYdcGmWeEKA9TAckybGQoCcxVyVzlmbQu8GQIzUxhJwEIx5cEM0JfqZCQEgMH20TmR7NnHltmpbyojq9ziwfdJZ4pMXs76ed2-fZ_evv9dL1vXH87_wVaJIui",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=02i4N3icHdBhzpowGADg7DLfz0-K4hYTs6wTaHCWUHhb6J-FtiqOig2oIP92gx1ip9pptuwET_L8_G0vXfvnw6_mfnfDZrEYx_H9fLud7fFd366Lenh1eqFra1Wt28364xp9Pult-Kzw117jDJzjO-blwuwPJEkMBI9i187lzPkRbJZzPZe-cWpJ93mE_WqOvklAMvdNBzBRHkdUEN7V_Mso4uChwmmGFyJgLVFx9OQ-E0wEF351swJKGWFYCDuamKFjiNhByJb7TZ8VxklvmHVX3TPfPmovaA2XnYLVKi0aVwnem87s05gVtEjWAqjPIapYibG4ykwJ11YQMGX_Cf6AZIvyGn1aqSjqYdcGmWeEKA9TAckybGQoCcxVyVzlmbQu8GQIzUxhJwEIx5cEM0JfqZCQEgMH20TmR7NnHltmpbyojq9ziwfdJZ4pMXs76ed2-fZ_evv9dL1vXH87_wVaJIui",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTU16TldZVTFWWld0NGQzVnBiM0JLVGpGSlRVRkpRa0Y2TURScFNsZE5jWE5oYzJGSU5IWm1aVEJXUlc1WlFuTmtRMmRYV1c5eVIzTnZVRWhRTFVNMk1IQjRUR2cxU0UwdFN6bFpkMUp6Y21SV1RuaFNNbFJtY2xKcFp4SVdSR1IxTTJGMGFXTkhUbWt3Y1hSelVIVTVjVmxOUVJvaVFVUnpjamxtVTBwd01XVmFaVlpqZERONVNqWjNWRlpGYnpabGJXZzRTM2szUVEiLCJmY3YiOiIzIiwiZWkiOiJEZHUzYXRpY0dOaTBxdHNQdTlxWU1BIiwicWMiOiJDaXBpWlhOMElIQnliM1JsYVc0Z2NHOTNaR1Z5SUdKeVlXNWtjeUJtYjNJZ2JYVnpZMnhsSUdkaGFXNFFBSDAxaUJBXyIsInF1ZXN0aW9uIjoiV2hpY2ggcHJvdGVpbiBwb3dkZXIgaXMgYmVzdCBmb3IgbXVzY2xlIGdyb3d0aD8iLCJsayI6IkdpbDBhR1VnWW1WemRDQndjbTkwWldsdUlIQnZkMlJsY2lCbWIzSWdiWFZ6WTJ4bElHZHliM2QwYUEiLCJicyI6ImM0M1FQUXZDTUJDQVlWeHZjczUwZzEtbGlCQnd6azl3a201aTJxWW1VSk53T2NuZkY1V0NhS0dkNzNudjRPQUtoOHE2eG1KTjJyY1lPb3dVMkRpUExtRnRFbU1YQ08tUDFQUUdiOXA1SmZlaXpGX0poSWZMY0dHQU1lVFcwS2lua05rcVdZcUNyZm1NZjZvX0RXZllWVll6YWpMNHFqaEVQSTYxU2NsQ2JQTThDeWRZdjlkT3ZtTWpWbmtHWEM2ZSIsImlkIjoiZmNfRGR1M2F0aWNHTmkwcXRzUHU5cVlNQV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTU16TldZVTFWWld0NGQzVnBiM0JLVGpGSlRVRkpRa0Y2TURScFNsZE5jWE5oYzJGSU5IWm1aVEJXUlc1WlFuTmtRMmRYV1c5eVIzTnZVRWhRTFVNMk1IQjRUR2cxU0UwdFN6bFpkMUp6Y21SV1RuaFNNbFJtY2xKcFp4SVdSR1IxTTJGMGFXTkhUbWt3Y1hSelVIVTVjVmxOUVJvaVFVUnpjamxtVTBwd01XVmFaVlpqZERONVNqWjNWRlpGYnpabGJXZzRTM2szUVEiLCJmY3YiOiIzIiwiZWkiOiJEZHUzYXRpY0dOaTBxdHNQdTlxWU1BIiwicWMiOiJDaXBpWlhOMElIQnliM1JsYVc0Z2NHOTNaR1Z5SUdKeVlXNWtjeUJtYjNJZ2JYVnpZMnhsSUdkaGFXNFFBSDAxaUJBXyIsInF1ZXN0aW9uIjoiV2hpY2ggcHJvdGVpbiBwb3dkZXIgaXMgYmVzdCBmb3IgbXVzY2xlIGdyb3d0aD8iLCJsayI6IkdpbDBhR1VnWW1WemRDQndjbTkwWldsdUlIQnZkMlJsY2lCbWIzSWdiWFZ6WTJ4bElHZHliM2QwYUEiLCJicyI6ImM0M1FQUXZDTUJDQVlWeHZjczUwZzEtbGlCQnd6azl3a201aTJxWW1VSk53T2NuZkY1V0NhS0dkNzNudjRPQUtoOHE2eG1KTjJyY1lPb3dVMkRpUExtRnRFbU1YQ08tUDFQUUdiOXA1SmZlaXpGX0poSWZMY0dHQU1lVFcwS2lua05rcVdZcUNyZm1NZjZvX0RXZllWVll6YWpMNHFqaEVQSTYxU2NsQ2JQTThDeWRZdjlkT3ZtTWpWbmtHWEM2ZSIsImlkIjoiZmNfRGR1M2F0aWNHTmkwcXRzUHU5cVlNQV81In0%3D"
+    },
+    {
+      "question": "What are the top 5 best protein powders?",
+      "type": "ai_overview",
+      "page_token": "xSh0GnicHdBRbpswGABg7TJ9bDCknRopmuph4kaDNMa_Ab9MxoY44CRey4LTt91lp9ppKu07wvfnrzuex39fJjtN_n21WMzzfH-4XA6uu9eX00K93856oZVzrdLj6vHrI_rW6zX5TfD3Xy94D96LlEU8e6IdyFfhXF9U4dQO7Kqy7XXP5WzolvPRHn_w5wQQJODYYGo_Na5ZtpV52KUZkvBU1dHEAIwoYxJXDr-2NA9QIgrU2nzDXDMarKm4tZDFitpCbCzrhCdl4jYy1aiJA8lH4SW1mAn8IWvxUMdLpFKW1_E-NOAbEemEg5jzyDAYcOiGrc9Jtuso6wG9TILbN8XlmVhJJIWPpma-icxOcRwMLfaGu1ABwpvjFjNa3HaVLBUqynwMtR6KJZzGuKQma6lIq9ET7nwALthdr6_r5O7_5vpnf5pW_u1y-ATCqIH7",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=xSh0GnicHdBRbpswGABg7TJ9bDCknRopmuph4kaDNMa_Ab9MxoY44CRey4LTt91lp9ppKu07wvfnrzuex39fJjtN_n21WMzzfH-4XA6uu9eX00K93856oZVzrdLj6vHrI_rW6zX5TfD3Xy94D96LlEU8e6IdyFfhXF9U4dQO7Kqy7XXP5WzolvPRHn_w5wQQJODYYGo_Na5ZtpV52KUZkvBU1dHEAIwoYxJXDr-2NA9QIgrU2nzDXDMarKm4tZDFitpCbCzrhCdl4jYy1aiJA8lH4SW1mAn8IWvxUMdLpFKW1_E-NOAbEemEg5jzyDAYcOiGrc9Jtuso6wG9TILbN8XlmVhJJIWPpma-icxOcRwMLfaGu1ABwpvjFjNa3HaVLBUqynwMtR6KJZzGuKQma6lIq9ET7nwALthdr6_r5O7_5vpnf5pW_u1y-ATCqIH7",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTU16TldZVTFWWld0NGQzVnBiM0JLVGpGSlRVRkpRa0Y2TURScFNsZE5jWE5oYzJGSU5IWm1aVEJXUlc1WlFuTmtRMmRYV1c5eVIzTnZVRWhRTFVNMk1IQjRUR2cxU0UwdFN6bFpkMUp6Y21SV1RuaFNNbFJtY2xKcFp4SVdSR1IxTTJGMGFXTkhUbWt3Y1hSelVIVTVjVmxOUVJvaVFVUnpjamxtVTBwd01XVmFaVlpqZERONVNqWjNWRlpGYnpabGJXZzRTM2szUVEiLCJmY3YiOiIzIiwiZWkiOiJEZHUzYXRpY0dOaTBxdHNQdTlxWU1BIiwicWMiOiJDaXBpWlhOMElIQnliM1JsYVc0Z2NHOTNaR1Z5SUdKeVlXNWtjeUJtYjNJZ2JYVnpZMnhsSUdkaGFXNFFBSDAxaUJBXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCA1IGJlc3QgcHJvdGVpbiBwb3dkZXJzPyIsImxrIjoiR2lkM2FHRjBJR0Z5WlNCMGFHVWdkRzl3SURVZ1ltVnpkQ0J3Y205MFpXbHVJSEJ2ZDJSbGNuTSIsImJzIjoiYzQzUVBRdkNNQkNBWVZ4dmNzNTBnMS1saUJCd3prOXdrbTVpMnFZbVVKTndPY25mRjVXQ2FLR2Q3M252NE9BS2g4cTZ4bUpOMnJjWU9vd1UyRGlQTG1GdEVtTVhDTy1QMVBRR2I5cDVKZmVpekZfSmhJZkxjR0dBTWVUVzBLaW5rTmtxV1lxQ3JmbU1mNm9fRFdmWVZWWXphakw0cWpoRVBJNjFTY2xDYlBNOEN5ZFl2OWRPdm1NalZua0dYQzZlIiwiaWQiOiJmY19EZHUzYXRpY0dOaTBxdHNQdTlxWU1BXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTU16TldZVTFWWld0NGQzVnBiM0JLVGpGSlRVRkpRa0Y2TURScFNsZE5jWE5oYzJGSU5IWm1aVEJXUlc1WlFuTmtRMmRYV1c5eVIzTnZVRWhRTFVNMk1IQjRUR2cxU0UwdFN6bFpkMUp6Y21SV1RuaFNNbFJtY2xKcFp4SVdSR1IxTTJGMGFXTkhUbWt3Y1hSelVIVTVjVmxOUVJvaVFVUnpjamxtVTBwd01XVmFaVlpqZERONVNqWjNWRlpGYnpabGJXZzRTM2szUVEiLCJmY3YiOiIzIiwiZWkiOiJEZHUzYXRpY0dOaTBxdHNQdTlxWU1BIiwicWMiOiJDaXBpWlhOMElIQnliM1JsYVc0Z2NHOTNaR1Z5SUdKeVlXNWtjeUJtYjNJZ2JYVnpZMnhsSUdkaGFXNFFBSDAxaUJBXyIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCA1IGJlc3QgcHJvdGVpbiBwb3dkZXJzPyIsImxrIjoiR2lkM2FHRjBJR0Z5WlNCMGFHVWdkRzl3SURVZ1ltVnpkQ0J3Y205MFpXbHVJSEJ2ZDJSbGNuTSIsImJzIjoiYzQzUVBRdkNNQkNBWVZ4dmNzNTBnMS1saUJCd3prOXdrbTVpMnFZbVVKTndPY25mRjVXQ2FLR2Q3M252NE9BS2g4cTZ4bUpOMnJjWU9vd1UyRGlQTG1GdEVtTVhDTy1QMVBRR2I5cDVKZmVpekZfSmhJZkxjR0dBTWVUVzBLaW5rTmtxV1lxQ3JmbU1mNm9fRFdmWVZWWXphakw0cWpoRVBJNjFTY2xDYlBNOEN5ZFl2OWRPdm1NalZua0dYQzZlIiwiaWQiOiJmY19EZHUzYXRpY0dOaTBxdHNQdTlxWU1BXzUifQ%3D%3D"
+    },
+    {
+      "question": "What protein is best for muscle gain?",
+      "type": "ai_overview",
+      "page_token": "-5ipUHicHdBdboIwAADg7DI-Kj_OJSZmSQVEN2roP31ZaquiVMDJRPq2u-xUO82SfUf4vn_sqa5-n7qy69rbfDLp-358bJqj3Y91c5mo21DriVbW7pSu5rOXmf960Iv4KwbL6xrktG1ZhDwc6C7z5JnZ9rxLLS4YOxPCApommanWDl-aEKWtwAy8QbcOZND0hQdP2QpGuZM5dkbtapBlrHRG2EZV0wBzc5VCSiXaDY8t5txwWFloVklFLXynS58ZvsG4Kg86aB4FiwdCpeNR4pigA3aAmwiFiLATozKXaewrH0JcbxRk-cBq88zPaEuF7ZFDnQzsnYhEZIEP4lLGMqWuEKgtPLNVBDxMCnND7INTH6xOG4BSOGy5pMYvppQnK-rQjETyvidlTJOS6DDxFF-HlMlwdND3RTj631x8HC7dvP1sjn8z-ILl",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=-5ipUHicHdBdboIwAADg7DI-Kj_OJSZmSQVEN2roP31ZaquiVMDJRPq2u-xUO82SfUf4vn_sqa5-n7qy69rbfDLp-358bJqj3Y91c5mo21DriVbW7pSu5rOXmf960Iv4KwbL6xrktG1ZhDwc6C7z5JnZ9rxLLS4YOxPCApommanWDl-aEKWtwAy8QbcOZND0hQdP2QpGuZM5dkbtapBlrHRG2EZV0wBzc5VCSiXaDY8t5txwWFloVklFLXynS58ZvsG4Kg86aB4FiwdCpeNR4pigA3aAmwiFiLATozKXaewrH0JcbxRk-cBq88zPaEuF7ZFDnQzsnYhEZIEP4lLGMqWuEKgtPLNVBDxMCnND7INTH6xOG4BSOGy5pMYvppQnK-rQjETyvidlTJOS6DDxFF-HlMlwdND3RTj631x8HC7dvP1sjn8z-ILl",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTU16TldZVTFWWld0NGQzVnBiM0JLVGpGSlRVRkpRa0Y2TURScFNsZE5jWE5oYzJGSU5IWm1aVEJXUlc1WlFuTmtRMmRYV1c5eVIzTnZVRWhRTFVNMk1IQjRUR2cxU0UwdFN6bFpkMUp6Y21SV1RuaFNNbFJtY2xKcFp4SVdSR1IxTTJGMGFXTkhUbWt3Y1hSelVIVTVjVmxOUVJvaVFVUnpjamxtVTBwd01XVmFaVlpqZERONVNqWjNWRlpGYnpabGJXZzRTM2szUVEiLCJmY3YiOiIzIiwiZWkiOiJEZHUzYXRpY0dOaTBxdHNQdTlxWU1BIiwicWMiOiJDaXBpWlhOMElIQnliM1JsYVc0Z2NHOTNaR1Z5SUdKeVlXNWtjeUJtYjNJZ2JYVnpZMnhsSUdkaGFXNFFBSDAxaUJBXyIsInF1ZXN0aW9uIjoiV2hhdCBwcm90ZWluIGlzIGJlc3QgZm9yIG11c2NsZSBnYWluPyIsImxrIjoiR2lSM2FHRjBJSEJ5YjNSbGFXNGdhWE1nWW1WemRDQm1iM0lnYlhWelkyeGxJR2RoYVc0IiwiYnMiOiJjNDNRUFF2Q01CQ0FZVnh2Y3M1MGcxLWxpQkJ3ems5d2ttNWkycVltVUpOd09jbmZGNVdDYUtHZDczbnY0T0FLaDhxNnhtSk4ycmNZT293VTJEaVBMbUZ0RW1NWENPLVAxUFFHYjlwNUpmZWl6Rl9KaElmTGNHR0FNZVRXMEtpbmtOa3FXWXFDcmZtTWY2b19EV2ZZVlZZemFqTDRxamhFUEk2MVNjbENiUE04Q3lkWXY5ZE92bU1qVm5rR1hDNmUiLCJpZCI6ImZjX0RkdTNhdGljR05pMHF0c1B1OXFZTUFfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTU16TldZVTFWWld0NGQzVnBiM0JLVGpGSlRVRkpRa0Y2TURScFNsZE5jWE5oYzJGSU5IWm1aVEJXUlc1WlFuTmtRMmRYV1c5eVIzTnZVRWhRTFVNMk1IQjRUR2cxU0UwdFN6bFpkMUp6Y21SV1RuaFNNbFJtY2xKcFp4SVdSR1IxTTJGMGFXTkhUbWt3Y1hSelVIVTVjVmxOUVJvaVFVUnpjamxtVTBwd01XVmFaVlpqZERONVNqWjNWRlpGYnpabGJXZzRTM2szUVEiLCJmY3YiOiIzIiwiZWkiOiJEZHUzYXRpY0dOaTBxdHNQdTlxWU1BIiwicWMiOiJDaXBpWlhOMElIQnliM1JsYVc0Z2NHOTNaR1Z5SUdKeVlXNWtjeUJtYjNJZ2JYVnpZMnhsSUdkaGFXNFFBSDAxaUJBXyIsInF1ZXN0aW9uIjoiV2hhdCBwcm90ZWluIGlzIGJlc3QgZm9yIG11c2NsZSBnYWluPyIsImxrIjoiR2lSM2FHRjBJSEJ5YjNSbGFXNGdhWE1nWW1WemRDQm1iM0lnYlhWelkyeGxJR2RoYVc0IiwiYnMiOiJjNDNRUFF2Q01CQ0FZVnh2Y3M1MGcxLWxpQkJ3ems5d2ttNWkycVltVUpOd09jbmZGNVdDYUtHZDczbnY0T0FLaDhxNnhtSk4ycmNZT293VTJEaVBMbUZ0RW1NWENPLVAxUFFHYjlwNUpmZWl6Rl9KaElmTGNHR0FNZVRXMEtpbmtOa3FXWXFDcmZtTWY2b19EV2ZZVlZZemFqTDRxamhFUEk2MVNjbENiUE04Q3lkWXY5ZE92bU1qVm5rR1hDNmUiLCJpZCI6ImZjX0RkdTNhdGljR05pMHF0c1B1OXFZTUFfNSJ9"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best protein powder for muscle gain is Momentous Whey Protein Isolate or Dymatize ISO100 Hydrolyzed Protein Powder, both offering high purity and fast absorption to support muscle recovery.",
+        "snippet_highlighted_words": [
+          "Momentous Whey Protein Isolate or Dymatize ISO100 Hydrolyzed Protein Powder"
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Protein Powders for Muscle Gain"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Best Overall / Purity: Momentous Whey Protein Isolate provides clean, third-party tested protein with minimal calories and fast digestion."
+          },
+          {
+            "snippet": "Best Hydrolyzed: Dymatize ISO100 delivers 25g of hydrolyzed whey isolate and 5.5g of branched-chain amino acids (BCAAs) per scoop with almost zero fat or sugar."
+          },
+          {
+            "snippet": "Best Classic / Daily: Optimum Nutrition Gold Standard 100% Whey offers 24g of protein and 5.5g of BCAAs, making it a reliable, lab-tested staple for daily use."
+          },
+          {
+            "snippet": "Best Plant-Based: Swolverine Plant Protein or Orgain Organic Protein use pea and pumpkin or brown rice blends to deliver a complete amino acid profile for vegan muscle building."
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Why Whey Works Best"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Complete Amino Acids: Whey contains all nine essential amino acids."
+          },
+          {
+            "snippet": "High Leucine Content: Leucine triggers muscle protein synthesis."
+          },
+          {
+            "snippet": "Fast Absorption: Rapid digestion delivers nutrients to muscles quickly post-workout."
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you want to narrow down your choice, tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Do you prefer animal-based (whey/casein) or plant-based protein?"
+          },
+          {
+            "snippet": "Do you have any lactose or stomach sensitivities?"
+          },
+          {
+            "snippet": "What is your preferred flavor or budget?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.youtube.com/watch?v=8hnP6sVCeF4",
+        "source": "youtube.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=t0yWhvgBghQ",
+        "source": "youtube.com",
+        "index": 1
+      },
+      {
+        "link": "https://www.youtube.com/watch?v=N6_SsVCeSDs",
+        "source": "youtube.com",
+        "index": 2
+      },
+      {
+        "link": "https://www.alpinefitness.com/best-protein-powder-for-muscle-gain/",
+        "source": "alpinefitness.com",
+        "index": 3
+      },
+      {
+        "link": "https://www.youtube.com/shorts/8pKVyIiTBKE",
+        "source": "youtube.com",
+        "index": 4
+      },
+      {
+        "title": "Best Protein Powders 2025 – (Which One Builds Muscle)",
+        "link": "https://www.youtube.com/watch?v=8hnP6sVCeF4&t=33",
+        "snippet": "Best Protein Powders 2025 – (Which One Builds Muscle) in links to all products mentioned in this video are in the description. bel...",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTkl_6gn6GYcnAn2iln9gAce5Irx6airKZJzfCPLmZ5MzFXoir1pcbdTYc9R14epkmLiMIq5STBXfUtf6Fjt5SA7hd-rYXsUPXrZULN1Q",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Nutrition Coach Ranks the Best Protein Powders of 2026",
+        "link": "https://www.youtube.com/watch?v=t0yWhvgBghQ&t=11",
+        "snippet": "Nutrition Coach Ranks the Best Protein Powders of 2026 and flashy labels Hi my name is Petazi I'm a certified sports nutrition coa...",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6ltjLex6wCsK8nDZAjgCLYg3Fj1G2K3DBf1JwMmaqHRH5TyufRBRib3i9689S2yGYE0tfhU3-QYNHssrkHozeqKJdxCHrlVe6sgoF_Q",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "6 Best Protein Powder 2026",
+        "link": "https://www.youtube.com/watch?v=N6_SsVCeSDs",
+        "snippet": "6 Best Protein Powder 2026 in October 2025 Consumer Reports tested 23 protein powders for heavy. metals. more than twothirds had m...",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmbCqORPCPj1YiTePfm819D5HkDGIGC_ttbbHsuIp0tdM1UQ4Jo0SP0NLCwwFTwRcMXIbObTOqDqxXM0PRh2T-fzxG9ZmTc-eFDudfZw",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      },
+      {
+        "title": "Best Protein Powder for Muscle Gain",
+        "link": "https://www.alpinefitness.com/best-protein-powder-for-muscle-gain/",
+        "snippet": "Both can fit into a muscle-building diet. * Ready to Put Your Nutrition and Training Into Action? * What protein powder is best for building muscle strength? For b...",
+        "source": "Alpine Fitness",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjlm_gMQ8ZEmosgcQRZGLSuIyrJb4zDyOch-MtFWGwa1b8GhJj1sdo2vb7NKXS7QkpkJgdzuYa_dQk378kBh5-azw",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.alpinefitness.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 8
+      },
+      {
+        "title": "Best Protein Powder for Muscle Growth",
+        "link": "https://www.youtube.com/shorts/8pKVyIiTBKE",
+        "snippet": "Both can fit into a muscle-building diet. * Ready to Put Your Nutrition and Training Into Action? * What protein powder is best for building muscle strength? For b...",
+        "source": "YouTube",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVYa2L476QRC_qVIHE1m8NW4EoTzdwKkzcibWsk159FmhaXU3kE0w6qgzLUXqDV-mPJ2Xe_jAXAqlTl1oOp8tpUZ3OJXFvRY077Cc_2A",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.youtube.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 9
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Best quality protein powder for building muscle? : r/workout",
+      "link": "https://www.reddit.com/r/workout/comments/1kf3tow/best_quality_protein_powder_for_building_muscle/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnQEB6zswFduw6NYU8GVV4MUTq50gToVNTS9eiPi6-74Zj4zytR7oijpRJh6Fr-U4dTxWQrhVKzGIvQxRfmIDAvQRrykCoejejP_Ffd0qCdCmj6jMoFWi6HFsLYjOauMtTocFRkd3rhJtxOMoKpnh1R_v8RaiV7Sed1CnW-N_u1TCmWjzJp17z6l6axeTTrWNe-tRFvUpx4feEQPsePdN&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQFnoECCkQAQ&uoh=1",
+      "displayed_link": "110+ comments · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "Edit: Somebody shared this post and I ended up going with Wellah.. so far I love it.. first protein powder i've tried that doesnt have the bad aftertaste ...",
+      "about_this_result": {
+        "source": {
+          "description": "Nutricost grass fed unflavored whey protein isolate is the top pick in consumer labs.com. Optimum Nutrition gold standard. Nutricost was ...",
+          "source_info_link": "https://www.reddit.com/r/workout/comments/1kf3tow/best_quality_protein_powder_for_building_muscle/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZkdXc2TllVOEdWVjRNVVRxNTBnVG9WTlRTOWVpUGk2LTc0Wmo0enl0UjdvaWpwUkpoNkZyLVU0ZFR4V1FyaFZLekdJdlF4UmZtSURBdlFScnlrQ29lamVqUF9GZmQwcUNkQ21qNmpNb0ZXaTZIRnNMWWpPYXVNdFRvY0ZSa2QzcmhKdHhPTW9LcG5oMVJfdjhSYWlWN1NlZDFDblctTl91MVRDbVdqekpwMTd6Nmw2YXhlVFRyV05lLXRSRnZVcHg0ZmVFUVBzZVBkThIEGgIIABqnBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIEHCAAQABgAIAAqPwoEYmVzdBX8LqdAGgRnb29kGgdoaWdoZXN0GgN0b3AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlcipLCgdwcm90ZWluFX5R10AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoMaXY7cDtwcm90ZWluKmUKBnBvd2RlchVgLrtAGgVkcmluaxoHcG93ZGVycxoKc3VwcGxlbWVudBoLc3VwcGxlbWVudHMaEWJlc3Rwcm90ZWlucG93ZGVyGg1wcm90ZWlucG93ZGVyGgtpdjtwO3Bvd2RlciofCgZicmFuZHMV6k_UPhoFYnJhbmQaCXRvcCByYXRlZCoKCgNmb3IVAAAAACovCgZtdXNjbGUVouOZQBoHbXVzY2xlcxoKbXVzY2xlZ2FpbhoLaXY7cDttdXNjbGUqSgoEZ2FpbhVXGgE_GgVidWlsZBoIYnVpbGRpbmcaB2dhaW5pbmcaBWdhaW5zGgppbmNyZWFzaW5nGgRtYXNzGgptdXNjbGVnYWluMuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZkdXc2TllVOEdWVjRNVVRxNTBnVG9WTlRTOWVpUGk2LTc0Wmo0enl0UjdvaWpwUkpoNkZyLVU0ZFR4V1FyaFZLekdJdlF4UmZtSURBdlFScnlrQ29lamVqUF9GZmQwcUNkQ21qNmpNb0ZXaTZIRnNMWWpPYXVNdFRvY0ZSa2QzcmhKdHhPTW9LcG5oMVJfdjhSYWlWN1NlZDFDblctTl91MVRDbVdqekpwMTd6Nmw2YXhlVFRyV05lLXRSRnZVcHg0ZmVFUVBzZVBkTjpOPGI-QmVzdDwvYj4gcXVhbGl0eSA8Yj5wcm90ZWluIHBvd2RlcjwvYj4gZm9yIDxiPmJ1aWxkaW5nIG11c2NsZTwvYj4_IC0gUmVkZGl0QpgBPGI-TnV0cmljb3N0IGdyYXNzIGZlZCB1bmZsYXZvcmVkIHdoZXkgcHJvdGVpbiBpc29sYXRlPC9iPiBpcyB0aGUgdG9wIHBpY2sgaW4gY29uc3VtZXIgbGFicy5jb20uIE9wdGltdW0gTnV0cml0aW9uIGdvbGQgc3RhbmRhcmQuIE51dHJpY29zdCB3YXMmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZkdXc2TllVOEdWVjRNVVRxNTBnVG9WTlRTOWVpUGk2LTc0Wmo0enl0UjdvaWpwUkpoNkZyLVU0ZFR4V1FyaFZLekdJdlF4UmZtSURBdlFScnlrQ29lamVqUF9GZmQwcUNkQ21qNmpNb0ZXaTZIRnNMWWpPYXVNdFRvY0ZSa2QzcmhKdHhPTW9LcG5oMVJfdjhSYWlWN1NlZDFDblctTl91MVRDbVdqekpwMTd6Nmw2YXhlVFRyV05lLXRSRnZVcHg0ZmVFUVBzZVBkThIEGgIIABqnBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIEHCAAQABgAIAAqPwoEYmVzdBX8LqdAGgRnb29kGgdoaWdoZXN0GgN0b3AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlcipLCgdwcm90ZWluFX5R10AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoMaXY7cDtwcm90ZWluKmUKBnBvd2RlchVgLrtAGgVkcmluaxoHcG93ZGVycxoKc3VwcGxlbWVudBoLc3VwcGxlbWVudHMaEWJlc3Rwcm90ZWlucG93ZGVyGg1wcm90ZWlucG93ZGVyGgtpdjtwO3Bvd2RlciofCgZicmFuZHMV6k_UPhoFYnJhbmQaCXRvcCByYXRlZCoKCgNmb3IVAAAAACovCgZtdXNjbGUVouOZQBoHbXVzY2xlcxoKbXVzY2xlZ2FpbhoLaXY7cDttdXNjbGUqSgoEZ2FpbhVXGgE_GgVidWlsZBoIYnVpbGRpbmcaB2dhaW5pbmcaBWdhaW5zGgppbmNyZWFzaW5nGgRtYXNzGgptdXNjbGVnYWluMuIBL2dvdG8_dXJsPUNBRVNuUUVCNnpzd0ZkdXc2TllVOEdWVjRNVVRxNTBnVG9WTlRTOWVpUGk2LTc0Wmo0enl0UjdvaWpwUkpoNkZyLVU0ZFR4V1FyaFZLekdJdlF4UmZtSURBdlFScnlrQ29lamVqUF9GZmQwcUNkQ21qNmpNb0ZXaTZIRnNMWWpPYXVNdFRvY0ZSa2QzcmhKdHhPTW9LcG5oMVJfdjhSYWlWN1NlZDFDblctTl91MVRDbVdqekpwMTd6Nmw2YXhlVFRyV05lLXRSRnZVcHg0ZmVFUVBzZVBkTjpOPGI-QmVzdDwvYj4gcXVhbGl0eSA8Yj5wcm90ZWluIHBvd2RlcjwvYj4gZm9yIDxiPmJ1aWxkaW5nIG11c2NsZTwvYj4_IC0gUmVkZGl0QpgBPGI-TnV0cmljb3N0IGdyYXNzIGZlZCB1bmZsYXZvcmVkIHdoZXkgcHJvdGVpbiBpc29sYXRlPC9iPiBpcyB0aGUgdG9wIHBpY2sgaW4gY29uc3VtZXIgbGFicy5jb20uIE9wdGltdW0gTnV0cml0aW9uIGdvbGQgc3RhbmRhcmQuIE51dHJpY29zdCB3YXMmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Reddit · r/workout"
+    },
+    {
+      "position": 2,
+      "title": "Best Protein Powders 2026",
+      "link": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-protein-powder/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFY3L0xCkPrtTWkf9L1U9bk3WjMdW6xnZO7PTnyH37nYbIZX2XMKczvm2rXGsSMInA9lCpRvD00IySUaj13ysY0cGpumsfozmXERqVV-oHDxnrFcjVL4HMVWL-0yCnNJelUpI5OdDNFKAhEs46adQBebqz29rZU6ZyPXNUJT-zUMOxpNfeZcBrg&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.forbes.com › ... › Training & Recovery",
+      "favicon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACwBACdASocABwAPtEutFooIagoGAEAGglpAAPjYg4AwhrY24dby7OyzlpT-AAAAP70In9oskZJrD8rNJ0nis30esbg_wIej2xZZ1JfvId7SjVlui4gIYAelDOF6jM1gxNKFZjW-cVqZ8MC-cUXTKkEJKFXeuO4jDAGQQwwkeUg_Hclb676os9P1A6QpWnv9zPo_fp83JPzn_TGqR1DXtfz8V1_7RVerT-BYfM0KbEDppEW-YFYnVUAAAA.webp",
+      "date": "3 days ago",
+      "snippet": "Best Protein Powder For Muscle Gain: Dymatize ISO100 Hydrolyzed Protein Powder. Transparent Labs Organic Plant-Based Protein Isolate. Ghost ...",
+      "snippet_highlighted_words": [
+        "Dymatize ISO100 Hydrolyzed Protein Powder"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Best Protein Powder For Muscle Gain: Dymatize ISO100 Hydrolyzed Protein Powder. Transparent Labs Organic Plant-Based Protein Isolate. Ghost ...",
+          "source_info_link": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-protein-powder/",
+          "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACwBACdASocABwAPtEutFooIagoGAEAGglpAAPjYg4AwhrY24dby7OyzlpT-AAAAP70In9oskZJrD8rNJ0nis30esbg_wIej2xZZ1JfvId7SjVlui4gIYAelDOF6jM1gxNKFZjW-cVqZ8MC-cUXTKkEJKFXeuO4jDAGQQwwkeUg_Hclb676os9P1A6QpWnv9zPo_fp83JPzn_TGqR1DXtfz8V1_7RVerT-BYfM0KbEDppEW-YFYnVUAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZZM0wweENrUHJ0VFdrZjlMMVU5YmszV2pNZFc2eG5aTzdQVG55SDM3blliSVpYMlhNS2N6dm0yclhHc1NNSW5BOWxDcFJ2RDAwSXlTVWFqMTN5c1kwY0dwdW1zZm96bVhFUnFWVi1vSER4bnJGY2pWTDRITVZXTC0weUNuTkplbFVwSTVPZERORktBaEVzNDZhZFFCZWJxejI5clpVNlp5UFhOVUpULXpVTU94cE5mZVpjQnJnEgQaAggAGvgGEgIIARoAIgIIASoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDQBggAEAAYACAAKj8KBGJlc3QVwC-rQBoEZ29vZBoHaGlnaGVzdBoDdG9wGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIqSwoHcHJvdGVpbhUsValAGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIaDXByb3RlaW5wb3dkZXIaDGl2O3A7cHJvdGVpbiplCgZwb3dkZXIVGL1SQBoFZHJpbmsaB3Bvd2RlcnMaCnN1cHBsZW1lbnQaC3N1cHBsZW1lbnRzGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoLaXY7cDtwb3dkZXIqHwoGYnJhbmRzFT332z0aBWJyYW5kGgl0b3AgcmF0ZWQqCgoDZm9yFQAAAAAqLwoGbXVzY2xlFW2cqj8aB211c2NsZXMaCm11c2NsZWdhaW4aC2l2O3A7bXVzY2xlKkoKBGdhaW4VV0abPxoFYnVpbGQaCGJ1aWxkaW5nGgdnYWluaW5nGgVnYWlucxoKaW5jcmVhc2luZxoEbWFzcxoKbXVzY2xlZ2FpbjLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGWTNMMHhDa1BydFRXa2Y5TDFVOWJrM1dqTWRXNnhuWk83UFRueUgzN25ZYklaWDJYTUtjenZtMnJYR3NTTUluQTlsQ3BSdkQwMEl5U1VhajEzeXNZMGNHcHVtc2Zvem1YRVJxVlYtb0hEeG5yRmNqVkw0SE1WV0wtMHlDbk5KZWxVcEk1T2RETkZLQWhFczQ2YWRRQmVicXoyOXJaVTZaeVBYTlVKVC16VU1PeHBOZmVaY0JyZzowPGI-QmVzdCBQcm90ZWluIFBvd2RlcnM8L2I-IDIwMjYgLSBGb3JiZXMgVmV0dGVkQpsBQmVzdCBQcm90ZWluIFBvd2RlciBGb3IgTXVzY2xlIEdhaW46IDxiPkR5bWF0aXplIElTTzEwMCBIeWRyb2x5emVkIFByb3RlaW4gUG93ZGVyPC9iPi4gVHJhbnNwYXJlbnQgTGFicyBPcmdhbmljIFBsYW50LUJhc2VkIFByb3RlaW4gSXNvbGF0ZS4gR2hvc3QmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZZM0wweENrUHJ0VFdrZjlMMVU5YmszV2pNZFc2eG5aTzdQVG55SDM3blliSVpYMlhNS2N6dm0yclhHc1NNSW5BOWxDcFJ2RDAwSXlTVWFqMTN5c1kwY0dwdW1zZm96bVhFUnFWVi1vSER4bnJGY2pWTDRITVZXTC0weUNuTkplbFVwSTVPZERORktBaEVzNDZhZFFCZWJxejI5clpVNlp5UFhOVUpULXpVTU94cE5mZVpjQnJnEgQaAggAGvgGEgIIARoAIgIIASoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDQBggAEAAYACAAKj8KBGJlc3QVwC-rQBoEZ29vZBoHaGlnaGVzdBoDdG9wGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIqSwoHcHJvdGVpbhUsValAGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIaDXByb3RlaW5wb3dkZXIaDGl2O3A7cHJvdGVpbiplCgZwb3dkZXIVGL1SQBoFZHJpbmsaB3Bvd2RlcnMaCnN1cHBsZW1lbnQaC3N1cHBsZW1lbnRzGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoLaXY7cDtwb3dkZXIqHwoGYnJhbmRzFT332z0aBWJyYW5kGgl0b3AgcmF0ZWQqCgoDZm9yFQAAAAAqLwoGbXVzY2xlFW2cqj8aB211c2NsZXMaCm11c2NsZWdhaW4aC2l2O3A7bXVzY2xlKkoKBGdhaW4VV0abPxoFYnVpbGQaCGJ1aWxkaW5nGgdnYWluaW5nGgVnYWlucxoKaW5jcmVhc2luZxoEbWFzcxoKbXVzY2xlZ2FpbjLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGWTNMMHhDa1BydFRXa2Y5TDFVOWJrM1dqTWRXNnhuWk83UFRueUgzN25ZYklaWDJYTUtjenZtMnJYR3NTTUluQTlsQ3BSdkQwMEl5U1VhajEzeXNZMGNHcHVtc2Zvem1YRVJxVlYtb0hEeG5yRmNqVkw0SE1WV0wtMHlDbk5KZWxVcEk1T2RETkZLQWhFczQ2YWRRQmVicXoyOXJaVTZaeVBYTlVKVC16VU1PeHBOZmVaY0JyZzowPGI-QmVzdCBQcm90ZWluIFBvd2RlcnM8L2I-IDIwMjYgLSBGb3JiZXMgVmV0dGVkQpsBQmVzdCBQcm90ZWluIFBvd2RlciBGb3IgTXVzY2xlIEdhaW46IDxiPkR5bWF0aXplIElTTzEwMCBIeWRyb2x5emVkIFByb3RlaW4gUG93ZGVyPC9iPi4gVHJhbnNwYXJlbnQgTGFicyBPcmdhbmljIFBsYW50LUJhc2VkIFByb3RlaW4gSXNvbGF0ZS4gR2hvc3QmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Forbes"
+    },
+    {
+      "position": 3,
+      "title": "Best Sports Nutrition Whey Protein Powders",
+      "link": "https://www.amazon.com/Best-Sellers-Sports-Nutrition-Whey-Protein-Powders/zgbs/hpc/6973717011",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFSRLSGtjgC1G04wa5GVJ6RTqQQfyjSUsMYJw-_hNoPk7bFH4KgYF5wT9C09HfHK2DAtqQ4kVAlmpW6c-9cNr99KMQjqZADB9DGC-hoQa6K3XzGInUIgcysNQT0AUQ76yklZNO_M3TKCdfuT4F8QciJ8rVrWC-xC7MLlZ4UkgPFm0dY3Hl2WztJEpDqehx3PO045PaQ&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQFnoECC8QAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › zgbs › hpc",
+      "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+      "snippet": "Best Sellers #1 Optimum Nutrition Gold Standard Whey Protein Powder, Muscle Support & Recovery #2 Dymatize ISO100 Protein Powder, Legion Whey+ Protein. Muscle ...",
+      "snippet_highlighted_words": [
+        "Optimum Nutrition Gold Standard Whey Protein Powder"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Best Sellers #1 Optimum Nutrition Gold Standard Whey Protein Powder, Muscle Support & Recovery #2 Dymatize ISO100 Protein Powder, Legion Whey+ Protein. Muscle ...",
+          "source_info_link": "https://www.amazon.com/Best-Sellers-Sports-Nutrition-Whey-Protein-Powders/zgbs/hpc/6973717011",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZTUkxTR3RqZ0MxRzA0d2E1R1ZKNlJUcVFRZnlqU1VzTVlKdy1faE5vUGs3YkZINEtnWUY1d1Q5QzA5SGZISzJEQXRxUTRrVkFsbXBXNmMtOWNOcjk5S01RanFaQURCOURHQy1ob1FhNkszWHpHSW5VSWdjeXNOUVQwQVVRNzZ5a2xaTk9fTTNUS0NkZnVUNEY4UWNpSjhyVnJXQy14QzdNTGxaNFVrZ1BGbTBkWTNIbDJXenRKRXBEcWVoeDNQTzA0NVBhURIEGgIIABqyBxICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQIwHCAAQABgAIAAqPwoEYmVzdBX3tXpAGgRnb29kGgdoaWdoZXN0GgN0b3AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlcipLCgdwcm90ZWluFXrj_0AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoMaXY7cDtwcm90ZWluKmUKBnBvd2RlchV9ZKFAGgVkcmluaxoHcG93ZGVycxoKc3VwcGxlbWVudBoLc3VwcGxlbWVudHMaEWJlc3Rwcm90ZWlucG93ZGVyGg1wcm90ZWlucG93ZGVyGgtpdjtwO3Bvd2RlciofCgZicmFuZHMV-X3KOBoFYnJhbmQaCXRvcCByYXRlZCoKCgNmb3IVAAAAACovCgZtdXNjbGUV2LAtQBoHbXVzY2xlcxoKbXVzY2xlZ2FpbhoLaXY7cDttdXNjbGUqSgoEZ2FpbhUAAAAAGgVidWlsZBoIYnVpbGRpbmcaB2dhaW5pbmcaBWdhaW5zGgppbmNyZWFzaW5nGgRtYXNzGgptdXNjbGVnYWluMtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZTUkxTR3RqZ0MxRzA0d2E1R1ZKNlJUcVFRZnlqU1VzTVlKdy1faE5vUGs3YkZINEtnWUY1d1Q5QzA5SGZISzJEQXRxUTRrVkFsbXBXNmMtOWNOcjk5S01RanFaQURCOURHQy1ob1FhNkszWHpHSW5VSWdjeXNOUVQwQVVRNzZ5a2xaTk9fTTNUS0NkZnVUNEY4UWNpSjhyVnJXQy14QzdNTGxaNFVrZ1BGbTBkWTNIbDJXenRKRXBEcWVoeDNQTzA0NVBhUTpFPGI-QmVzdDwvYj4gU3BvcnRzIE51dHJpdGlvbiBXaGV5IDxiPlByb3RlaW4gUG93ZGVyczwvYj4gLSBBbWF6b24uY29tQrIBQmVzdCBTZWxsZXJzICMxIDxiPk9wdGltdW0gTnV0cml0aW9uIEdvbGQgU3RhbmRhcmQgV2hleSBQcm90ZWluIFBvd2RlcjwvYj4sIE11c2NsZSBTdXBwb3J0ICZhbXA7IFJlY292ZXJ5ICMyIER5bWF0aXplIElTTzEwMCBQcm90ZWluIFBvd2RlciwgTGVnaW9uIFdoZXkrIFByb3RlaW4uIE11c2NsZSZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZTUkxTR3RqZ0MxRzA0d2E1R1ZKNlJUcVFRZnlqU1VzTVlKdy1faE5vUGs3YkZINEtnWUY1d1Q5QzA5SGZISzJEQXRxUTRrVkFsbXBXNmMtOWNOcjk5S01RanFaQURCOURHQy1ob1FhNkszWHpHSW5VSWdjeXNOUVQwQVVRNzZ5a2xaTk9fTTNUS0NkZnVUNEY4UWNpSjhyVnJXQy14QzdNTGxaNFVrZ1BGbTBkWTNIbDJXenRKRXBEcWVoeDNQTzA0NVBhURIEGgIIABqyBxICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQIwHCAAQABgAIAAqPwoEYmVzdBX3tXpAGgRnb29kGgdoaWdoZXN0GgN0b3AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlcipLCgdwcm90ZWluFXrj_0AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoMaXY7cDtwcm90ZWluKmUKBnBvd2RlchV9ZKFAGgVkcmluaxoHcG93ZGVycxoKc3VwcGxlbWVudBoLc3VwcGxlbWVudHMaEWJlc3Rwcm90ZWlucG93ZGVyGg1wcm90ZWlucG93ZGVyGgtpdjtwO3Bvd2RlciofCgZicmFuZHMV-X3KOBoFYnJhbmQaCXRvcCByYXRlZCoKCgNmb3IVAAAAACovCgZtdXNjbGUV2LAtQBoHbXVzY2xlcxoKbXVzY2xlZ2FpbhoLaXY7cDttdXNjbGUqSgoEZ2FpbhUAAAAAGgVidWlsZBoIYnVpbGRpbmcaB2dhaW5pbmcaBWdhaW5zGgppbmNyZWFzaW5nGgRtYXNzGgptdXNjbGVnYWluMtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZTUkxTR3RqZ0MxRzA0d2E1R1ZKNlJUcVFRZnlqU1VzTVlKdy1faE5vUGs3YkZINEtnWUY1d1Q5QzA5SGZISzJEQXRxUTRrVkFsbXBXNmMtOWNOcjk5S01RanFaQURCOURHQy1ob1FhNkszWHpHSW5VSWdjeXNOUVQwQVVRNzZ5a2xaTk9fTTNUS0NkZnVUNEY4UWNpSjhyVnJXQy14QzdNTGxaNFVrZ1BGbTBkWTNIbDJXenRKRXBEcWVoeDNQTzA0NVBhUTpFPGI-QmVzdDwvYj4gU3BvcnRzIE51dHJpdGlvbiBXaGV5IDxiPlByb3RlaW4gUG93ZGVyczwvYj4gLSBBbWF6b24uY29tQrIBQmVzdCBTZWxsZXJzICMxIDxiPk9wdGltdW0gTnV0cml0aW9uIEdvbGQgU3RhbmRhcmQgV2hleSBQcm90ZWluIFBvd2RlcjwvYj4sIE11c2NsZSBTdXBwb3J0ICZhbXA7IFJlY292ZXJ5ICMyIER5bWF0aXplIElTTzEwMCBQcm90ZWluIFBvd2RlciwgTGVnaW9uIFdoZXkrIFByb3RlaW4uIE11c2NsZSZuYnNwOy4uLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 4,
+      "title": "Weighing protein powders",
+      "link": "https://www.health.harvard.edu/diet-and-nutrition/weighing-protein-powders",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFRw5guwR51pzl-sZcm1JFNIxCrKpmRRLxI4iEffuu65uBCWa4GGsEXZa9-xVCjcf-_lu3182EWnKgW_87-37vq47ftCCW73jd9M1m90l82CxY5PRGr_pdlkTxvzu3_PKq2PGvukwb1rjfPuSXJHjz0H6wSE0Vumymj7LZBXtZ33u&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQFnoECDEQAQ&uoh=1",
+      "displayed_link": "https://www.health.harvard.edu › diet-and-nutrition › w...",
+      "favicon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0OIA3jqYAUS3xrfSQV6dYLQKTAfT80VGGzm8b8r0JLCrL4AAD-9gro9EA96g10t2XC_wDoJYBo2WV1tRhHKfZ_E4i_rnjZ-9Eyy9ZsI_nkRHFVm2YWv-M-9m7LGvjpm4M00I8Ooy0goq4x37PN1xkcDs-_OZ_7Vn8g_NptaD6_lNyt-Vg74heOEdx5Kzv-QtPuecngWCfbx__8gBzbDk_TvkO5gvAZjFG6caw5RMe4AZpLsAPPRNHBbkVjS3-g2fj_h-7BQ8aifZ1Zyy609k3x3lLbvub9nlMmNc7WpK0_spYX2z6gc5Y11LHGqyWfq2rTuNhdCgFc-35EDX-vaWWG8AqSPXlbEUVqzzSPGnUiDe2BA3vj0MwGZ49nTpse-e_QQTeb9kgAAAA.webp",
+      "date": "Feb 1, 2025",
+      "snippet": "Oliveira recommends whey, pea, soy, or hempseed protein powders, as they contain the nine essential amino acids (those that the body cannot make ...",
+      "snippet_highlighted_words": [
+        "whey, pea, soy, or hempseed protein powders"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Oliveira recommends whey, pea, soy, or hempseed protein powders, as they contain the nine essential amino acids (those that the body cannot make ...",
+          "source_info_link": "https://www.health.harvard.edu/diet-and-nutrition/weighing-protein-powders",
+          "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0OIA3jqYAUS3xrfSQV6dYLQKTAfT80VGGzm8b8r0JLCrL4AAD-9gro9EA96g10t2XC_wDoJYBo2WV1tRhHKfZ_E4i_rnjZ-9Eyy9ZsI_nkRHFVm2YWv-M-9m7LGvjpm4M00I8Ooy0goq4x37PN1xkcDs-_OZ_7Vn8g_NptaD6_lNyt-Vg74heOEdx5Kzv-QtPuecngWCfbx__8gBzbDk_TvkO5gvAZjFG6caw5RMe4AZpLsAPPRNHBbkVjS3-g2fj_h-7BQ8aifZ1Zyy609k3x3lLbvub9nlMmNc7WpK0_spYX2z6gc5Y11LHGqyWfq2rTuNhdCgFc-35EDX-vaWWG8AqSPXlbEUVqzzSPGnUiDe2BA3vj0MwGZ49nTpse-e_QQTeb9kgAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZSdzVndXdSNTFwemwtc1pjbTFKRk5JeENyS3BtUlJMeEk0aUVmZnV1NjV1QkNXYTRHR3NFWFphOS14VkNqY2YtX2x1MzE4MkVXbktnV184Ny0zN3ZxNDdmdENDVzczamQ5TTFtOTBsODJDeFk1UFJHcl9wZGxrVHh2enUzX1BLcTJQR3Z1a3diMXJqZlB1U1hKSGp6MEg2d1NFMFZ1bXltajdMWkJYdFozM3USBBoCCAAa8QYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDLBggAEAAYACAAKj8KBGJlc3QVXySRPhoEZ29vZBoHaGlnaGVzdBoDdG9wGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIqSwoHcHJvdGVpbhXtHLhAGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIaDXByb3RlaW5wb3dkZXIaDGl2O3A7cHJvdGVpbiplCgZwb3dkZXIVD_jqPxoFZHJpbmsaB3Bvd2RlcnMaCnN1cHBsZW1lbnQaC3N1cHBsZW1lbnRzGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoLaXY7cDtwb3dkZXIqHwoGYnJhbmRzFQ2YxD0aBWJyYW5kGgl0b3AgcmF0ZWQqCgoDZm9yFQAAAAAqLwoGbXVzY2xlFWXYpT8aB211c2NsZXMaCm11c2NsZWdhaW4aC2l2O3A7bXVzY2xlKkoKBGdhaW4VAAAAABoFYnVpbGQaCGJ1aWxkaW5nGgdnYWluaW5nGgVnYWlucxoKaW5jcmVhc2luZxoEbWFzcxoKbXVzY2xlZ2FpbjLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGUnc1Z3V3UjUxcHpsLXNaY20xSkZOSXhDcktwbVJSTHhJNGlFZmZ1dTY1dUJDV2E0R0dzRVhaYTkteFZDamNmLV9sdTMxODJFV25LZ1dfODctMzd2cTQ3ZnRDQ1c3M2pkOU0xbTkwbDgyQ3hZNVBSR3JfcGRsa1R4dnp1M19QS3EyUEd2dWt3YjFyamZQdVNYSkhqejBINndTRTBWdW15bWo3TFpCWHRaMzN1OjBXZWlnaGluZyA8Yj5wcm90ZWluIHBvd2RlcnM8L2I-IC0gSGFydmFyZCBIZWFsdGhCoAFPbGl2ZWlyYSByZWNvbW1lbmRzIDxiPndoZXksIHBlYSwgc295LCBvciBoZW1wc2VlZCBwcm90ZWluIHBvd2RlcnM8L2I-LCBhcyB0aGV5IGNvbnRhaW4gdGhlIG5pbmUgZXNzZW50aWFsIGFtaW5vIGFjaWRzICh0aG9zZSB0aGF0IHRoZSBib2R5IGNhbm5vdCBtYWtlJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZSdzVndXdSNTFwemwtc1pjbTFKRk5JeENyS3BtUlJMeEk0aUVmZnV1NjV1QkNXYTRHR3NFWFphOS14VkNqY2YtX2x1MzE4MkVXbktnV184Ny0zN3ZxNDdmdENDVzczamQ5TTFtOTBsODJDeFk1UFJHcl9wZGxrVHh2enUzX1BLcTJQR3Z1a3diMXJqZlB1U1hKSGp6MEg2d1NFMFZ1bXltajdMWkJYdFozM3USBBoCCAAa8QYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDLBggAEAAYACAAKj8KBGJlc3QVXySRPhoEZ29vZBoHaGlnaGVzdBoDdG9wGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIqSwoHcHJvdGVpbhXtHLhAGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIaDXByb3RlaW5wb3dkZXIaDGl2O3A7cHJvdGVpbiplCgZwb3dkZXIVD_jqPxoFZHJpbmsaB3Bvd2RlcnMaCnN1cHBsZW1lbnQaC3N1cHBsZW1lbnRzGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoLaXY7cDtwb3dkZXIqHwoGYnJhbmRzFQ2YxD0aBWJyYW5kGgl0b3AgcmF0ZWQqCgoDZm9yFQAAAAAqLwoGbXVzY2xlFWXYpT8aB211c2NsZXMaCm11c2NsZWdhaW4aC2l2O3A7bXVzY2xlKkoKBGdhaW4VAAAAABoFYnVpbGQaCGJ1aWxkaW5nGgdnYWluaW5nGgVnYWlucxoKaW5jcmVhc2luZxoEbWFzcxoKbXVzY2xlZ2FpbjLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGUnc1Z3V3UjUxcHpsLXNaY20xSkZOSXhDcktwbVJSTHhJNGlFZmZ1dTY1dUJDV2E0R0dzRVhaYTkteFZDamNmLV9sdTMxODJFV25LZ1dfODctMzd2cTQ3ZnRDQ1c3M2pkOU0xbTkwbDgyQ3hZNVBSR3JfcGRsa1R4dnp1M19QS3EyUEd2dWt3YjFyamZQdVNYSkhqejBINndTRTBWdW15bWo3TFpCWHRaMzN1OjBXZWlnaGluZyA8Yj5wcm90ZWluIHBvd2RlcnM8L2I-IC0gSGFydmFyZCBIZWFsdGhCoAFPbGl2ZWlyYSByZWNvbW1lbmRzIDxiPndoZXksIHBlYSwgc295LCBvciBoZW1wc2VlZCBwcm90ZWluIHBvd2RlcnM8L2I-LCBhcyB0aGV5IGNvbnRhaW4gdGhlIG5pbmUgZXNzZW50aWFsIGFtaW5vIGFjaWRzICh0aG9zZSB0aGF0IHRoZSBib2R5IGNhbm5vdCBtYWtlJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "Harvard Health",
+      "read_more_link": "https://www.health.harvard.edu/diet-and-nutrition/weighing-protein-powders#:~:text=Oliveira%20recommends%20whey%2C%20pea%2C%20soy%2C,thus%20must%20get%20from%20food)."
+    },
+    {
+      "position": 5,
+      "title": "Dietitians Name the 10 Best Protein Powders to Build Muscle",
+      "link": "https://www.healthline.com/nutrition/best-protein-powder-to-build-muscle",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFbp6pDMNJnbHOaF9GR1t55z10bcigwhKHfFfz0ImZ7kdC6tf2RV1IINchIxmOzPdhE36RtUV5BWe2jxyPn_0Av-lZNYZo6vkpxrC4Z4H7VdRzfOApvam7FMgrEl3MfJicrPZUy_Zifehzrm8LkODLlfl04H6Wmj1p88CfD4Blg&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQFnoECDgQAQ&uoh=1",
+      "displayed_link": "https://www.healthline.com › nutrition › best-protein-p...",
+      "thumbnail": "https://serpapi.com/searches/6ab7db0941ffc82af8349ff4/images/XxmY85fTq8UHP5XFW12jAlnDcXl4gCSjStZBYlQmVoU.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBgCdASocABwAPtE-tFooIigoFAEAGglpABORjn98_T0Rvxv1gDZkZhcK_Eu-WCtPi8LhNYTbolSjHMCdkAAA_vYS3SHFftRqVOLMrOdh-T7RK_JNAnjv18mpQnQbykHYp-0MBd3tS9fH_UFKZiq0TLy17PPezeB0wmn_7Rb8NjOXMHnOGzWZPOYLa5EOZ9M7Rcls-9qcqQZOFkqBZhjVkmQveFjxdhYYbVF2QJ2WVeqNinE3maCmxP7nwcf_TXICXIgd2rLRiFAqJpvzVf_weeJEELC4mw7vyebLDNbtq56RBRxyOewGaxKR9Wl7-rmR1um6a3OugWnaU9sdQUgvudRxj0eKPIuFuymifcrr3u37nrTvvHKHtZK1yNMfY0oQ3tbVVeiCWAAA.webp",
+      "snippet": "Momentous is our dietitian's pick for the best protein powder to build muscle. Naked Whey, Orgain, and Momentous Protein Powders. Best overall: Momentous Whey ...",
+      "snippet_highlighted_words": [
+        "Momentous is our dietitian's pick for the best protein powder to build muscle"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "At a glance",
+            "link": "https://www.healthline.com/nutrition/best-protein-powder-to-build-muscle#at-a-glance"
+          },
+          {
+            "title": "Our picks",
+            "link": "https://www.healthline.com/nutrition/best-protein-powder-to-build-muscle#our-picks"
+          },
+          {
+            "title": "Criteria",
+            "link": "https://www.healthline.com/nutrition/best-protein-powder-to-build-muscle#criteria"
+          },
+          {
+            "title": "How to choose",
+            "link": "https://www.healthline.com/nutrition/best-protein-powder-to-build-muscle#how-to-choose"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Momentous is our dietitian's pick for the best protein powder to build muscle. Naked Whey, Orgain, and Momentous Protein Powders. Best overall: Momentous Whey  ...",
+          "source_info_link": "https://www.healthline.com/nutrition/best-protein-powder-to-build-muscle",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBgCdASocABwAPtE-tFooIigoFAEAGglpABORjn98_T0Rvxv1gDZkZhcK_Eu-WCtPi8LhNYTbolSjHMCdkAAA_vYS3SHFftRqVOLMrOdh-T7RK_JNAnjv18mpQnQbykHYp-0MBd3tS9fH_UFKZiq0TLy17PPezeB0wmn_7Rb8NjOXMHnOGzWZPOYLa5EOZ9M7Rcls-9qcqQZOFkqBZhjVkmQveFjxdhYYbVF2QJ2WVeqNinE3maCmxP7nwcf_TXICXIgd2rLRiFAqJpvzVf_weeJEELC4mw7vyebLDNbtq56RBRxyOewGaxKR9Wl7-rmR1um6a3OugWnaU9sdQUgvudRxj0eKPIuFuymifcrr3u37nrTvvHKHtZK1yNMfY0oQ3tbVVeiCWAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZicDZwRE1OSm5iSE9hRjlHUjF0NTV6MTBiY2lnd2hLSGZGZnowSW1aN2tkQzZ0ZjJSVjFJSU5jaEl4bU96UGRoRTM2UnRVVjVCV2Uyanh5UG5fMEF2LWxaTllabzZ2a3B4ckM0WjRIN1ZkUnpmT0FwdmFtN0ZNZ3JFbDNNZkppY3JQWlV5X1ppZmVoenJtOExrT0RMbGZsMDRINldtajFwODhDZkQ0QmxnEgQaAggAGpoHEgIIARoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDyBggAEAAYACAAKj8KBGJlc3QVgpKpQBoEZ29vZBoHaGlnaGVzdBoDdG9wGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIqSwoHcHJvdGVpbhXYKsVAGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIaDXByb3RlaW5wb3dkZXIaDGl2O3A7cHJvdGVpbiplCgZwb3dkZXIVo3gbQBoFZHJpbmsaB3Bvd2RlcnMaCnN1cHBsZW1lbnQaC3N1cHBsZW1lbnRzGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoLaXY7cDtwb3dkZXIqHwoGYnJhbmRzFWKG4jkaBWJyYW5kGgl0b3AgcmF0ZWQqCgoDZm9yFQAAAAAqLwoGbXVzY2xlFdrurUAaB211c2NsZXMaCm11c2NsZWdhaW4aC2l2O3A7bXVzY2xlKkoKBGdhaW4VbT-oPxoFYnVpbGQaCGJ1aWxkaW5nGgdnYWluaW5nGgVnYWlucxoKaW5jcmVhc2luZxoEbWFzcxoKbXVzY2xlZ2FpbjLAAS9nb3RvP3VybD1DQUVTZ3dFQjZ6c3dGYnA2cERNTkpuYkhPYUY5R1IxdDU1ejEwYmNpZ3doS0hmRmZ6MEltWjdrZEM2dGYyUlYxSUlOY2hJeG1PelBkaEUzNlJ0VVY1QldlMmp4eVBuXzBBdi1sWk5ZWm82dmtweHJDNFo0SDdWZFJ6Zk9BcHZhbTdGTWdyRWwzTWZKaWNyUFpVeV9aaWZlaHpybThMa09ETGxmbDA0SDZXbWoxcDg4Q2ZENEJsZzpGVGhlIDEwIDxiPkJlc3QgUHJvdGVpbiBQb3dkZXJzPC9iPiB0byA8Yj5CdWlsZCBNdXNjbGU8L2I-IC0gSGVhbHRobGluZUKzATxiPk1vbWVudG91cyBpcyBvdXIgZGlldGl0aWFuJiMzOTtzIHBpY2sgZm9yIHRoZSBiZXN0IHByb3RlaW4gcG93ZGVyIHRvIGJ1aWxkIG11c2NsZTwvYj4uIE5ha2VkIFdoZXksIE9yZ2FpbiwgYW5kIE1vbWVudG91cyBQcm90ZWluIFBvd2RlcnMuIEJlc3Qgb3ZlcmFsbDogTW9tZW50b3VzIFdoZXkgJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZicDZwRE1OSm5iSE9hRjlHUjF0NTV6MTBiY2lnd2hLSGZGZnowSW1aN2tkQzZ0ZjJSVjFJSU5jaEl4bU96UGRoRTM2UnRVVjVCV2Uyanh5UG5fMEF2LWxaTllabzZ2a3B4ckM0WjRIN1ZkUnpmT0FwdmFtN0ZNZ3JFbDNNZkppY3JQWlV5X1ppZmVoenJtOExrT0RMbGZsMDRINldtajFwODhDZkQ0QmxnEgQaAggAGpoHEgIIARoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDyBggAEAAYACAAKj8KBGJlc3QVgpKpQBoEZ29vZBoHaGlnaGVzdBoDdG9wGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIqSwoHcHJvdGVpbhXYKsVAGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIaDXByb3RlaW5wb3dkZXIaDGl2O3A7cHJvdGVpbiplCgZwb3dkZXIVo3gbQBoFZHJpbmsaB3Bvd2RlcnMaCnN1cHBsZW1lbnQaC3N1cHBsZW1lbnRzGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoLaXY7cDtwb3dkZXIqHwoGYnJhbmRzFWKG4jkaBWJyYW5kGgl0b3AgcmF0ZWQqCgoDZm9yFQAAAAAqLwoGbXVzY2xlFdrurUAaB211c2NsZXMaCm11c2NsZWdhaW4aC2l2O3A7bXVzY2xlKkoKBGdhaW4VbT-oPxoFYnVpbGQaCGJ1aWxkaW5nGgdnYWluaW5nGgVnYWlucxoKaW5jcmVhc2luZxoEbWFzcxoKbXVzY2xlZ2FpbjLAAS9nb3RvP3VybD1DQUVTZ3dFQjZ6c3dGYnA2cERNTkpuYkhPYUY5R1IxdDU1ejEwYmNpZ3doS0hmRmZ6MEltWjdrZEM2dGYyUlYxSUlOY2hJeG1PelBkaEUzNlJ0VVY1QldlMmp4eVBuXzBBdi1sWk5ZWm82dmtweHJDNFo0SDdWZFJ6Zk9BcHZhbTdGTWdyRWwzTWZKaWNyUFpVeV9aaWZlaHpybThMa09ETGxmbDA0SDZXbWoxcDg4Q2ZENEJsZzpGVGhlIDEwIDxiPkJlc3QgUHJvdGVpbiBQb3dkZXJzPC9iPiB0byA8Yj5CdWlsZCBNdXNjbGU8L2I-IC0gSGVhbHRobGluZUKzATxiPk1vbWVudG91cyBpcyBvdXIgZGlldGl0aWFuJiMzOTtzIHBpY2sgZm9yIHRoZSBiZXN0IHByb3RlaW4gcG93ZGVyIHRvIGJ1aWxkIG11c2NsZTwvYj4uIE5ha2VkIFdoZXksIE9yZ2FpbiwgYW5kIE1vbWVudG91cyBQcm90ZWluIFBvd2RlcnMuIEJlc3Qgb3ZlcmFsbDogTW9tZW50b3VzIFdoZXkgJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "Healthline"
+    },
+    {
+      "position": 6,
+      "title": "How To Pick The Best Protein Supplement For Muscle Growth",
+      "link": "https://www.youtube.com/watch?v=Rmy8fccw8Yo&xstg=CAMSBhUD-7L2Hw%3D%3D",
+      "displayed_link": "663.2K+ views · 1 year ago",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoPYvsBW4phGwQ3uTPt1aOY5Rw3ifYM8zy7_M4yutCRCoZWVYeyR-sbA&s",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "12 Protein Powder Brands. Quinn Stillson MD Best Protein Powders for Muscle & Longevity (+ Exact Dose & Timing Guide)",
+      "duration": "53:38",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Picking the Right Protein",
+          "link": "https://www.youtube.com/watch?v=Rmy8fccw8Yo&t=0"
+        },
+        {
+          "time": "01:45",
+          "title": "Protein Quality",
+          "link": "https://www.youtube.com/watch?v=Rmy8fccw8Yo&t=105"
+        },
+        {
+          "time": "06:27",
+          "title": "Macros",
+          "link": "https://www.youtube.com/watch?v=Rmy8fccw8Yo&t=387"
+        },
+        {
+          "time": "13:58",
+          "title": "Taste",
+          "link": "https://www.youtube.com/watch?v=Rmy8fccw8Yo&t=838"
+        },
+        {
+          "time": "16:46",
+          "title": "Digestion and Fullness",
+          "link": "https://www.youtube.com/watch?v=Rmy8fccw8Yo&t=1006"
+        },
+        {
+          "time": "24:35",
+          "title": "Artificial Ingredients",
+          "link": "https://www.youtube.com/watch?v=Rmy8fccw8Yo&t=1475"
+        },
+        {
+          "time": "26:03",
+          "title": "Price",
+          "link": "https://www.youtube.com/watch?v=Rmy8fccw8Yo&t=1563"
+        },
+        {
+          "time": "30:42",
+          "title": "Form Factor/Convenience",
+          "link": "https://www.youtube.com/watch?v=Rmy8fccw8Yo&t=1842"
+        },
+        {
+          "time": "45:03",
+          "title": "All-Stars",
+          "link": "https://www.youtube.com/watch?v=Rmy8fccw8Yo&t=2703"
+        },
+        {
+          "time": "52:57",
+          "title": "Last Advice",
+          "link": "https://www.youtube.com/watch?v=Rmy8fccw8Yo&t=3177"
+        }
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "12 Protein Powder Brands. Quinn Stillson MD Best Protein Powders for Muscle & Longevity (+ Exact Dose & Timing Guide)",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        }
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlljaGV1dXk0LVc1MVVuV1dYektrWXRsUXA5NExaXzk5aXd1TkpsY1R1X3N6SHdtWGNfWUtjYzVMeU9sTXZCdWNKejNRTElKa0tWRF9WcVFmQzZsU18td0k2X0p0ajIwZjlEcnpVbnpZU3hWT1l6Ukx0UHAxN1hfM3lGZEl0R0NLb1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVlljaGV1dXk0LVc1MVVuV1dYektrWXRsUXA5NExaXzk5aXd1TkpsY1R1X3N6SHdtWGNfWUtjYzVMeU9sTXZCdWNKejNRTElKa0tWRF9WcVFmQzZsU18td0k2X0p0ajIwZjlEcnpVbnpZU3hWT1l6Ukx0UHAxN1hfM3lGZEl0R0NLb1ESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRbpPrInX5LrK8IJhHibDlb5liHxJ7Dwc3Vng",
+      "source": "YouTube · Renaissance Periodization"
+    },
+    {
+      "position": 7,
+      "title": "Protein Powders For Muscle Growth Support",
+      "link": "https://www.gnc.com/buy/protein-powders-for-muscle-growth?srsltid=AU7gw4XbpbomokZB-ldQsfaMATbhpGBVWnIV0bwNXg0wBC_rh-J5DyW9",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStQEB6zswFQDX4-eIeOnNvsJNxErhBITqhtQov7JGBGDKUT0BjxXhRuimmB6N9iPg2AsFk5eiZRgfkYn8WZ9ZiJh2A2WwR_cGjfCbLsLDvmLtho4RheN8iyULG5UlUYE2_wYhowcEEIFnCvxpD8edrrcIGFePxwCoc0MY4K3ljNSLQE_X7DCOx3FGqT3wxorL-vsaFwcazcaXsWNo7fBdQh0w_kFfuaxg-5JRRHnUsnb6aMZ6755m&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQFnoECDAQAQ&uoh=1",
+      "displayed_link": "https://www.gnc.com › buy › protein-powders-for-mus...",
+      "favicon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAABQBACdASocABwAPtE-tFooIigoFAEAGglsAL9EEXAZCCtheIpcEMjUMh6AAP72AUdfgCJPwGyqcQyL_5cjf0dC0-GcZ9QAjHO3GAD8tFyFZXKaGe-hVuHgT8KXsO4uTK4f_pL1_LnLx9986BHFc58vjqBf1Q6r5x7HSMdQRdH_KDpOWPHGZkX54gRP0zuwvvfZVWP3P3gQdyOyJKADk6bCKlp4um7Emf6mJ_QFBnFb_4or9xRgnWmgAAA.webp",
+      "snippet": "Boost your gains with top-quality protein powders from GNC. Shop now for muscle growth and recovery support essentials!",
+      "snippet_highlighted_words": [
+        "Boost your gains with top-quality protein powders from GNC"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.4,
+            "price_from": 35,
+            "price_to": 120,
+            "currency": "$"
+          },
+          "extensions": [
+            "4.4",
+            "store rating (1.3K)",
+            "$35 to $120",
+            "Store nearby",
+            "Free delivery",
+            "Free in-store returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Boost your gains with top-quality protein powders from GNC. Shop now for muscle growth and recovery support essentials!",
+          "source_info_link": "https://www.gnc.com/buy/protein-powders-for-muscle-growth?srsltid=AU7gw4XbpbomokZB-ldQsfaMATbhpGBVWnIV0bwNXg0wBC_rh-J5DyW9",
+          "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAABQBACdASocABwAPtE-tFooIigoFAEAGglsAL9EEXAZCCtheIpcEMjUMh6AAP72AUdfgCJPwGyqcQyL_5cjf0dC0-GcZ9QAjHO3GAD8tFyFZXKaGe-hVuHgT8KXsO4uTK4f_pL1_LnLx9986BHFc58vjqBf1Q6r5x7HSMdQRdH_KDpOWPHGZkX54gRP0zuwvvfZVWP3P3gQdyOyJKADk6bCKlp4um7Emf6mJ_QFBnFb_4or9xRgnWmgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZRRFg0LWVJZU9uTnZzSk54RXJoQklUcWh0UW92N0pHQkdES1VUMEJqeFhoUnVpbW1CNk45aVBnMkFzRms1ZWlaUmdma1luOFdaOVppSmgyQTJXd1JfY0dqZkNiTHNMRHZtTHRobzRSaGVOOGl5VUxHNVVsVVlFMl93WWhvd2NFRUlGbkN2eHBEOGVkcnJjSUdGZVB4d0NvYzBNWTRLM2xqTlNMUUVfWDdEQ094M0ZHcVQzd3hvckwtdnNhRndjYXpjYVhzV05vN2ZCZFFoMHdfa0ZmdWF4Zy01SlJSSG5Vc25iNmFNWjY3NTVtEgQaAggAGsEGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQJ0GCAAQABgAIAAqPwoEYmVzdBW5ms4_GgRnb29kGgdoaWdoZXN0GgN0b3AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlcipLCgdwcm90ZWluFfSqyEAaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoMaXY7cDtwcm90ZWluKmUKBnBvd2RlchWKjNA_GgVkcmluaxoHcG93ZGVycxoKc3VwcGxlbWVudBoLc3VwcGxlbWVudHMaEWJlc3Rwcm90ZWlucG93ZGVyGg1wcm90ZWlucG93ZGVyGgtpdjtwO3Bvd2RlciofCgZicmFuZHMV0GarPhoFYnJhbmQaCXRvcCByYXRlZCoKCgNmb3IVAAAAACovCgZtdXNjbGUVdkaTQBoHbXVzY2xlcxoKbXVzY2xlZ2FpbhoLaXY7cDttdXNjbGUqSgoEZ2FpbhWpy3o_GgVidWlsZBoIYnVpbGRpbmcaB2dhaW5pbmcaBWdhaW5zGgppbmNyZWFzaW5nGgRtYXNzGgptdXNjbGVnYWluMqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVkZUT2JTbFlIam9xWGkySzBraFc2Sk5BSEtxZDRZOWpfclNmWFAwamFTVG1OclJ4UWMxVmdxX1NrMUFiMnNFemZReUpVbHFpQ0REWmZvcFNjNk43dHpEVGx6VnczWTlfdDAzd0dfWnQ0RDhGZlpQWDdoNlJoZXAxbV9BRWhYTkg4MkhxNDRxNzZkWnhGWk5aYUFieUs6PTxiPlByb3RlaW4gUG93ZGVyczwvYj4gRm9yIDxiPk11c2NsZTwvYj4gR3Jvd3RoIFN1cHBvcnQgLSBHTkNCfjxiPkJvb3N0IHlvdXIgZ2FpbnMgd2l0aCB0b3AtcXVhbGl0eSBwcm90ZWluIHBvd2RlcnMgZnJvbSBHTkM8L2I-LiBTaG9wIG5vdyBmb3IgbXVzY2xlIGdyb3d0aCBhbmQgcmVjb3Zlcnkgc3VwcG9ydCBlc3NlbnRpYWxzIUoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0ZRRFg0LWVJZU9uTnZzSk54RXJoQklUcWh0UW92N0pHQkdES1VUMEJqeFhoUnVpbW1CNk45aVBnMkFzRms1ZWlaUmdma1luOFdaOVppSmgyQTJXd1JfY0dqZkNiTHNMRHZtTHRobzRSaGVOOGl5VUxHNVVsVVlFMl93WWhvd2NFRUlGbkN2eHBEOGVkcnJjSUdGZVB4d0NvYzBNWTRLM2xqTlNMUUVfWDdEQ094M0ZHcVQzd3hvckwtdnNhRndjYXpjYVhzV05vN2ZCZFFoMHdfa0ZmdWF4Zy01SlJSSG5Vc25iNmFNWjY3NTVtEgQaAggAGsEGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQJ0GCAAQABgAIAAqPwoEYmVzdBW5ms4_GgRnb29kGgdoaWdoZXN0GgN0b3AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlcipLCgdwcm90ZWluFfSqyEAaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoMaXY7cDtwcm90ZWluKmUKBnBvd2RlchWKjNA_GgVkcmluaxoHcG93ZGVycxoKc3VwcGxlbWVudBoLc3VwcGxlbWVudHMaEWJlc3Rwcm90ZWlucG93ZGVyGg1wcm90ZWlucG93ZGVyGgtpdjtwO3Bvd2RlciofCgZicmFuZHMV0GarPhoFYnJhbmQaCXRvcCByYXRlZCoKCgNmb3IVAAAAACovCgZtdXNjbGUVdkaTQBoHbXVzY2xlcxoKbXVzY2xlZ2FpbhoLaXY7cDttdXNjbGUqSgoEZ2FpbhWpy3o_GgVidWlsZBoIYnVpbGRpbmcaB2dhaW5pbmcaBWdhaW5zGgppbmNyZWFzaW5nGgRtYXNzGgptdXNjbGVnYWluMqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVkZUT2JTbFlIam9xWGkySzBraFc2Sk5BSEtxZDRZOWpfclNmWFAwamFTVG1OclJ4UWMxVmdxX1NrMUFiMnNFemZReUpVbHFpQ0REWmZvcFNjNk43dHpEVGx6VnczWTlfdDAzd0dfWnQ0RDhGZlpQWDdoNlJoZXAxbV9BRWhYTkg4MkhxNDRxNzZkWnhGWk5aYUFieUs6PTxiPlByb3RlaW4gUG93ZGVyczwvYj4gRm9yIDxiPk11c2NsZTwvYj4gR3Jvd3RoIFN1cHBvcnQgLSBHTkNCfjxiPkJvb3N0IHlvdXIgZ2FpbnMgd2l0aCB0b3AtcXVhbGl0eSBwcm90ZWluIHBvd2RlcnMgZnJvbSBHTkM8L2I-LiBTaG9wIG5vdyBmb3IgbXVzY2xlIGdyb3d0aCBhbmQgcmVjb3Zlcnkgc3VwcG9ydCBlc3NlbnRpYWxzIUoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "GNC"
+    },
+    {
+      "position": 8,
+      "title": "Best Protein Powder & High-Quality Protein Supplements",
+      "link": "https://shop.bodybuilding.com/collections/protein?srsltid=AU7gw4VEQpog77zPMg45qkAIoEqKXsTvA4El5YZ1yeRCJLeZbl3aLsLQ",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrQEB6zswFVQYOkCTMR-PzEQVO2VEcAOFKTsei4GWGgM88Bx2LeyTvdadvD4hWKTeATCbIe2Q_AtDjTcFnBj__Wwh8UJ6eFdCyepi0klQoTkctktZyRGQMUAWf1SNhgdM3teBENt2KkJcUKzfP6dDrzIQAU8DVTyIFhQcLOfiL98_RiqbSonnQsz4-PeLm8L3fLfANNPxBz0jLMm8xrP-YBGCOlbIDtVslBDnbprqJw&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQFnoECDcQAQ&uoh=1",
+      "displayed_link": "https://shop.bodybuilding.com › collections › protein",
+      "favicon": "https://serpapi.com/images/i/UklGRkwBAABXRUJQVlA4IEABAACwBgCdASocABIAPtE-tFooIigoFAEAGglsAJ0vNCQYTPbHtXKzbCIqC84mg5b-mpQabBZxLumFIOuidVW0AAD-9hEXqBzfBOiL4s7ET2QB77-Hahrr7svbdoP1gsGK9pNBjjeNDVmp0-0Y-G7g-VMj-IuWbdUnGrMAWf8vOD3NpNi2I9uvGCC8R8Y8ws-88P2fq3T6dycy2N2bdIJFm8UkEXx1UvMJHF0q_L093PVHZM_CuPwyaT9oNzOr4v8_rdjwqEBepYisjGjCL6Ce0A7YpzZ0HU7X2MwnqoaoqvcP2_aoVz5Kw7QlnIrrnrZSiD6uTe37JXr60R1LVECUH7NTsyz6tzQmr8p49xV161kt5fS1m3LntH4CIuTJ4_PTR_f8W111daA7WKr-_IU5vojF_wPlUa4mbUX1YmawB3nAAA.webp",
+      "snippet": "At Bodybuilding.com, you'll find a wide range of protein powders, protein bars, and protein shakes designed to match any goal—muscle gain, weight loss, ...",
+      "snippet_highlighted_words": [
+        "protein powders, protein bars, and protein shakes"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.1,
+            "price_from": 25,
+            "price_to": 112,
+            "currency": "$",
+            "free_day_returns": 30
+          },
+          "extensions": [
+            "4.1",
+            "store rating (4.3K)",
+            "$25 to $112",
+            "$10.99 delivery",
+            "Free 30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "At Bodybuilding.com, you'll find a wide range of protein powders, protein bars, and protein shakes designed to match any goal—muscle gain, weight loss, ...",
+          "source_info_link": "https://shop.bodybuilding.com/collections/protein?srsltid=AU7gw4VEQpog77zPMg45qkAIoEqKXsTvA4El5YZ1yeRCJLeZbl3aLsLQ",
+          "icon": "https://serpapi.com/images/i/UklGRkwBAABXRUJQVlA4IEABAACwBgCdASocABIAPtE-tFooIigoFAEAGglsAJ0vNCQYTPbHtXKzbCIqC84mg5b-mpQabBZxLumFIOuidVW0AAD-9hEXqBzfBOiL4s7ET2QB77-Hahrr7svbdoP1gsGK9pNBjjeNDVmp0-0Y-G7g-VMj-IuWbdUnGrMAWf8vOD3NpNi2I9uvGCC8R8Y8ws-88P2fq3T6dycy2N2bdIJFm8UkEXx1UvMJHF0q_L093PVHZM_CuPwyaT9oNzOr4v8_rdjwqEBepYisjGjCL6Ce0A7YpzZ0HU7X2MwnqoaoqvcP2_aoVz5Kw7QlnIrrnrZSiD6uTe37JXr60R1LVECUH7NTsyz6tzQmr8p49xV161kt5fS1m3LntH4CIuTJ4_PTR_f8W111daA7WKr-_IU5vojF_wPlUa4mbUX1YmawB3nAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZWUVlPa0NUTVItUHpFUVZPMlZFY0FPRktUc2VpNEdXR2dNODhCeDJMZXlUdmRhZHZENGhXS1RlQVRDYkllMlFfQXREalRjRm5Cal9fV3doOFVKNmVGZEN5ZXBpMGtsUW9Ua2N0a3RaeVJHUU1VQVdmMVNOaGdkTTN0ZUJFTnQyS2tKY1VLemZQNmREcnpJUUFVOERWVHlJRmhRY0xPZmlMOThfUmlxYlNvbm5Rc3o0LVBlTG04TDNmTGZBTk5QeEJ6MGpMTW04eHJQLVlCR0NPbGJJRHRWc2xCRG5icHJxSncSBBoCCAAa9AYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDOBggAEAAYACAAKj8KBGJlc3QVHYwPQBoEZ29vZBoHaGlnaGVzdBoDdG9wGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIqSwoHcHJvdGVpbhVAVKBAGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIaDXByb3RlaW5wb3dkZXIaDGl2O3A7cHJvdGVpbiplCgZwb3dkZXIV1AguQBoFZHJpbmsaB3Bvd2RlcnMaCnN1cHBsZW1lbnQaC3N1cHBsZW1lbnRzGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoLaXY7cDtwb3dkZXIqHwoGYnJhbmRzFaIOxD0aBWJyYW5kGgl0b3AgcmF0ZWQqCgoDZm9yFQAAAAAqLwoGbXVzY2xlFQ6Clj8aB211c2NsZXMaCm11c2NsZWdhaW4aC2l2O3A7bXVzY2xlKkoKBGdhaW4VNdNLPxoFYnVpbGQaCGJ1aWxkaW5nGgdnYWluaW5nGgVnYWlucxoKaW5jcmVhc2luZxoEbWFzcxoKbXVzY2xlZ2FpbjKgAS9nb3RvP3VybD1DQUVTYkFIck96QVZ5TTVic3F3U19zSkFxN2kxN3lMbVlKenVmZmdnUTFtUGdOOTB6NnBqaGR3VmkwUWd2TWhBTzZJOHhQY2ZITGtBUFFWeU5hdFhnNGMxWlZfcVZNd194TUJ6UW10NE5lT1B1WmR4YzRSMGVsZDNRSmdiSm1vTElEWDc0MDJ6UlY3ODlHWDk1Nl9DY2c6SDxiPkJlc3QgUHJvdGVpbiBQb3dkZXI8L2I-ICZhbXA7IEhpZ2gtUXVhbGl0eSA8Yj5Qcm90ZWluIFN1cHBsZW1lbnRzPC9iPkKtAUF0IEJvZHlidWlsZGluZy5jb20sIHlvdSYjMzk7bGwgZmluZCBhIHdpZGUgcmFuZ2Ugb2YgPGI-cHJvdGVpbiBwb3dkZXJzLCBwcm90ZWluIGJhcnMsIGFuZCBwcm90ZWluIHNoYWtlczwvYj4gZGVzaWduZWQgdG8gbWF0Y2ggYW55IGdvYWzigJRtdXNjbGUgZ2Fpbiwgd2VpZ2h0IGxvc3MsJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvgBL2dvdG8_dXJsPUNBRVNyUUVCNnpzd0ZWUVlPa0NUTVItUHpFUVZPMlZFY0FPRktUc2VpNEdXR2dNODhCeDJMZXlUdmRhZHZENGhXS1RlQVRDYkllMlFfQXREalRjRm5Cal9fV3doOFVKNmVGZEN5ZXBpMGtsUW9Ua2N0a3RaeVJHUU1VQVdmMVNOaGdkTTN0ZUJFTnQyS2tKY1VLemZQNmREcnpJUUFVOERWVHlJRmhRY0xPZmlMOThfUmlxYlNvbm5Rc3o0LVBlTG04TDNmTGZBTk5QeEJ6MGpMTW04eHJQLVlCR0NPbGJJRHRWc2xCRG5icHJxSncSBBoCCAAa9AYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDOBggAEAAYACAAKj8KBGJlc3QVHYwPQBoEZ29vZBoHaGlnaGVzdBoDdG9wGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIqSwoHcHJvdGVpbhVAVKBAGgtiZXN0cHJvdGVpbhoRYmVzdHByb3RlaW5wb3dkZXIaDXByb3RlaW5wb3dkZXIaDGl2O3A7cHJvdGVpbiplCgZwb3dkZXIV1AguQBoFZHJpbmsaB3Bvd2RlcnMaCnN1cHBsZW1lbnQaC3N1cHBsZW1lbnRzGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoLaXY7cDtwb3dkZXIqHwoGYnJhbmRzFaIOxD0aBWJyYW5kGgl0b3AgcmF0ZWQqCgoDZm9yFQAAAAAqLwoGbXVzY2xlFQ6Clj8aB211c2NsZXMaCm11c2NsZWdhaW4aC2l2O3A7bXVzY2xlKkoKBGdhaW4VNdNLPxoFYnVpbGQaCGJ1aWxkaW5nGgdnYWluaW5nGgVnYWlucxoKaW5jcmVhc2luZxoEbWFzcxoKbXVzY2xlZ2FpbjKgAS9nb3RvP3VybD1DQUVTYkFIck96QVZ5TTVic3F3U19zSkFxN2kxN3lMbVlKenVmZmdnUTFtUGdOOTB6NnBqaGR3VmkwUWd2TWhBTzZJOHhQY2ZITGtBUFFWeU5hdFhnNGMxWlZfcVZNd194TUJ6UW10NE5lT1B1WmR4YzRSMGVsZDNRSmdiSm1vTElEWDc0MDJ6UlY3ODlHWDk1Nl9DY2c6SDxiPkJlc3QgUHJvdGVpbiBQb3dkZXI8L2I-ICZhbXA7IEhpZ2gtUXVhbGl0eSA8Yj5Qcm90ZWluIFN1cHBsZW1lbnRzPC9iPkKtAUF0IEJvZHlidWlsZGluZy5jb20sIHlvdSYjMzk7bGwgZmluZCBhIHdpZGUgcmFuZ2Ugb2YgPGI-cHJvdGVpbiBwb3dkZXJzLCBwcm90ZWluIGJhcnMsIGFuZCBwcm90ZWluIHNoYWtlczwvYj4gZGVzaWduZWQgdG8gbWF0Y2ggYW55IGdvYWzigJRtdXNjbGUgZ2Fpbiwgd2VpZ2h0IGxvc3MsJm5ic3A7Li4uSgNmb3JSA3RvcCICEAFIAFgAaAA",
+      "source": "Bodybuilding.com",
+      "read_more_link": "https://shop.bodybuilding.com/collections/protein?srsltid=AU7gw4VEQpog77zPMg45qkAIoEqKXsTvA4El5YZ1yeRCJLeZbl3aLsLQ#:~:text=At%20Bodybuilding.com%2C%20you'll%20find%20a,loss%2C%20convenience%2C%20or%20digestive%20ease."
+    },
+    {
+      "position": 9,
+      "title": "Best Protein Powder for Muscle Gain",
+      "link": "https://www.generatorathletelab.com/blog/2025/3/2/best-protein-powder-for-muscle-gain",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFa6g6vHr-bPZK8O_twD0clN9GSTwhcl9fw0nwdf-mU10juYM2cyyjJVPEcVsU3tOUfZSLyMaS7FKy_lysFoIbzkAZ6SczdZA66pYceOy6PEwv9Y--7fS1TqeA6RP-cB72cEzupvO0MbutE6NvKVUi_PUXL9HsuIZhLqnk28N3xkw4zCpSPtvF_76pxM&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQFnoECC4QAQ&uoh=1",
+      "displayed_link": "https://www.generatorathletelab.com › blog › best-prote...",
+      "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASodAB8APtE-tFooIigoFAEAGglkACv_x0gt4gaZYlXUt-_6i3dGetzdXYUN30tdw3MgAP79LFNCDBUE9JkevsgnRMCyEgCcOEeBTnvBuqRGRTXKe7IXXZ-0548iXsZDQwCkvhW4ZUYeyO-MgqkjlSC63RgxqOreYrpRF4aMqWdV-q0DQAK9StLQGS_lxOda0cbfS4CJ1d3c0g_Vz0fkmSrTJhly_dKuVkR_-2l5UfXo3uM0CbM_ndD_cNBltbP1503SJEnLYgrcLvNPLPSy0CMBCcoOyiidYAQj5VEzSDc09UD5hEp5R4Hc53OHe465AOiWVi7SmNlDtayrGcOzHcUk2xycTr_6JtZvOFkS_qf7Nu7SxcbAAA.webp",
+      "date": "Mar 2, 2025",
+      "snippet": "1. Optimum Nutrition Gold Standard Whey · 2. Dymatize ISO100 Hydrolyzed Protein Powder · 3. Transparent Labs 100% Grass-Fed Whey Protein · 4. Naked ...",
+      "snippet_highlighted_words": [
+        "Optimum Nutrition Gold Standard Whey"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Optimum Nutrition Gold Standard Whey · 2. Dymatize ISO100 Hydrolyzed Protein Powder · 3. Transparent Labs 100% Grass-Fed Whey Protein · 4. Naked ...",
+          "source_info_link": "https://www.generatorathletelab.com/blog/2025/3/2/best-protein-powder-for-muscle-gain",
+          "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAADQBQCdASodAB8APtE-tFooIigoFAEAGglkACv_x0gt4gaZYlXUt-_6i3dGetzdXYUN30tdw3MgAP79LFNCDBUE9JkevsgnRMCyEgCcOEeBTnvBuqRGRTXKe7IXXZ-0548iXsZDQwCkvhW4ZUYeyO-MgqkjlSC63RgxqOreYrpRF4aMqWdV-q0DQAK9StLQGS_lxOda0cbfS4CJ1d3c0g_Vz0fkmSrTJhly_dKuVkR_-2l5UfXo3uM0CbM_ndD_cNBltbP1503SJEnLYgrcLvNPLPSy0CMBCcoOyiidYAQj5VEzSDc09UD5hEp5R4Hc53OHe465AOiWVi7SmNlDtayrGcOzHcUk2xycTr_6JtZvOFkS_qf7Nu7SxcbAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZhNmc2dkhyLWJQWks4T190d0QwY2xOOUdTVHdoY2w5ZncwbndkZi1tVTEwanVZTTJjeXlqSlZQRWNWc1UzdE9VZlpTTHlNYVM3Rkt5X2x5c0ZvSWJ6a0FaNlNjemRaQTY2cFljZU95NlBFd3Y5WS0tN2ZTMVRxZUE2UlAtY0I3MmNFenVwdk8wTWJ1dEU2TnZLVlVpX1BVWEw5SHN1SVpoTHFuazI4TjN4a3c0ekNwU1B0dkZfNzZweE0SBBoCCAAarwcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwcIABAAGAAgACo_CgRiZXN0FSTMhUAaBGdvb2QaB2hpZ2hlc3QaA3RvcBoLYmVzdHByb3RlaW4aEWJlc3Rwcm90ZWlucG93ZGVyKksKB3Byb3RlaW4VmsMMQRoLYmVzdHByb3RlaW4aEWJlc3Rwcm90ZWlucG93ZGVyGg1wcm90ZWlucG93ZGVyGgxpdjtwO3Byb3RlaW4qZQoGcG93ZGVyFSGAbkAaBWRyaW5rGgdwb3dkZXJzGgpzdXBwbGVtZW50GgtzdXBwbGVtZW50cxoRYmVzdHByb3RlaW5wb3dkZXIaDXByb3RlaW5wb3dkZXIaC2l2O3A7cG93ZGVyKh8KBmJyYW5kcxUAAAAAGgVicmFuZBoJdG9wIHJhdGVkKgoKA2ZvchUAAAAAKi8KBm11c2NsZRUodgBBGgdtdXNjbGVzGgptdXNjbGVnYWluGgtpdjtwO211c2NsZSpKCgRnYWluFW5i3UAaBWJ1aWxkGghidWlsZGluZxoHZ2FpbmluZxoFZ2FpbnMaCmluY3JlYXNpbmcaBG1hc3MaCm11c2NsZWdhaW4y0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RmE2ZzZ2SHItYlBaSzhPX3R3RDBjbE45R1NUd2hjbDlmdzBud2RmLW1VMTBqdVlNMmN5eWpKVlBFY1ZzVTN0T1VmWlNMeU1hUzdGS3lfbHlzRm9JYnprQVo2U2N6ZFpBNjZwWWNlT3k2UEV3djlZLS03ZlMxVHFlQTZSUC1jQjcyY0V6dXB2TzBNYnV0RTZOdktWVWlfUFVYTDlIc3VJWmhMcW5rMjhOM3hrdzR6Q3BTUHR2Rl83NnB4TTpJPGI-QmVzdCBQcm90ZWluIFBvd2RlcjwvYj4gZm9yIDxiPk11c2NsZSBHYWluPC9iPiAtIEdlbmVyYXRvciBBdGhsZXRlIExhYkK4ATEuIDxiPk9wdGltdW0gTnV0cml0aW9uIEdvbGQgU3RhbmRhcmQgV2hleTwvYj4gJm1pZGRvdDsgMi4gRHltYXRpemUgSVNPMTAwIEh5ZHJvbHl6ZWQgUHJvdGVpbiBQb3dkZXIgJm1pZGRvdDsgMy4gVHJhbnNwYXJlbnQgTGFicyAxMDAlIEdyYXNzLUZlZCBXaGV5IFByb3RlaW4gJm1pZGRvdDsgNC4gTmFrZWQmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZhNmc2dkhyLWJQWks4T190d0QwY2xOOUdTVHdoY2w5ZncwbndkZi1tVTEwanVZTTJjeXlqSlZQRWNWc1UzdE9VZlpTTHlNYVM3Rkt5X2x5c0ZvSWJ6a0FaNlNjemRaQTY2cFljZU95NlBFd3Y5WS0tN2ZTMVRxZUE2UlAtY0I3MmNFenVwdk8wTWJ1dEU2TnZLVlVpX1BVWEw5SHN1SVpoTHFuazI4TjN4a3c0ekNwU1B0dkZfNzZweE0SBBoCCAAarwcSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwcIABAAGAAgACo_CgRiZXN0FSTMhUAaBGdvb2QaB2hpZ2hlc3QaA3RvcBoLYmVzdHByb3RlaW4aEWJlc3Rwcm90ZWlucG93ZGVyKksKB3Byb3RlaW4VmsMMQRoLYmVzdHByb3RlaW4aEWJlc3Rwcm90ZWlucG93ZGVyGg1wcm90ZWlucG93ZGVyGgxpdjtwO3Byb3RlaW4qZQoGcG93ZGVyFSGAbkAaBWRyaW5rGgdwb3dkZXJzGgpzdXBwbGVtZW50GgtzdXBwbGVtZW50cxoRYmVzdHByb3RlaW5wb3dkZXIaDXByb3RlaW5wb3dkZXIaC2l2O3A7cG93ZGVyKh8KBmJyYW5kcxUAAAAAGgVicmFuZBoJdG9wIHJhdGVkKgoKA2ZvchUAAAAAKi8KBm11c2NsZRUodgBBGgdtdXNjbGVzGgptdXNjbGVnYWluGgtpdjtwO211c2NsZSpKCgRnYWluFW5i3UAaBWJ1aWxkGghidWlsZGluZxoHZ2FpbmluZxoFZ2FpbnMaCmluY3JlYXNpbmcaBG1hc3MaCm11c2NsZWdhaW4y0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RmE2ZzZ2SHItYlBaSzhPX3R3RDBjbE45R1NUd2hjbDlmdzBud2RmLW1VMTBqdVlNMmN5eWpKVlBFY1ZzVTN0T1VmWlNMeU1hUzdGS3lfbHlzRm9JYnprQVo2U2N6ZFpBNjZwWWNlT3k2UEV3djlZLS03ZlMxVHFlQTZSUC1jQjcyY0V6dXB2TzBNYnV0RTZOdktWVWlfUFVYTDlIc3VJWmhMcW5rMjhOM3hrdzR6Q3BTUHR2Rl83NnB4TTpJPGI-QmVzdCBQcm90ZWluIFBvd2RlcjwvYj4gZm9yIDxiPk11c2NsZSBHYWluPC9iPiAtIEdlbmVyYXRvciBBdGhsZXRlIExhYkK4ATEuIDxiPk9wdGltdW0gTnV0cml0aW9uIEdvbGQgU3RhbmRhcmQgV2hleTwvYj4gJm1pZGRvdDsgMi4gRHltYXRpemUgSVNPMTAwIEh5ZHJvbHl6ZWQgUHJvdGVpbiBQb3dkZXIgJm1pZGRvdDsgMy4gVHJhbnNwYXJlbnQgTGFicyAxMDAlIEdyYXNzLUZlZCBXaGV5IFByb3RlaW4gJm1pZGRvdDsgNC4gTmFrZWQmbmJzcDsuLi5KA2ZvclIDdG9wIgIQAUgAWABoAA",
+      "source": "Generator Athlete Lab",
+      "read_more_link": "https://www.generatorathletelab.com/blog/2025/3/2/best-protein-powder-for-muscle-gain#:~:text=1.%20Optimum%20Nutrition%20Gold%20Standard,Whey&text=2.%20Dymatize%20ISO100%20Hydrolyzed%20Protein,Powder&text=3.%20Transparent%20Labs%20100%25%20Grass%2DFed,Whey%20Protein&text=4.%20Naked%20Nutrition%20Pea%20Protein,(Vegan)"
+    },
+    {
+      "position": 10,
+      "title": "Best Whey Protein Powders Pharmacist Ranked",
+      "link": "https://health.usnews.com/otc/rankings/protein-powders",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVsecVkdkK2d6OBL3s1-kY-u8uLWAWZvQO_l7EElUGPLuM2riLAabyZH4iBZkw2ms7xfWPJejeUV90ZQCrwwM03hz8YcHT86YvrBAmxmpyVBV38X38Z2oC5YHPDMVao2KVtIXKhwEafhBuTw-p&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQFnoECCwQAQ&uoh=1",
+      "displayed_link": "https://health.usnews.com › otc › rankings › protein-po...",
+      "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+      "snippet": "Rankings: Whey Protein Powders ; 1 · 100. Muscle Milk ; 2 · 90. Pure Protein ; 3 · 47. Orgain ; 4 · 40. Optimum Nutrition ; 5 · 31. Isopure.",
+      "snippet_highlighted_words": [
+        "Muscle Milk"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Rankings: Whey Protein Powders ; 1 · 100. Muscle Milk ; 2 · 90. Pure Protein ; 3 · 47. Orgain ; 4 · 40. Optimum Nutrition ; 5 · 31. Isopure.",
+          "source_info_link": "https://health.usnews.com/otc/rankings/protein-powders",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVnNlY1ZrZGtLMmQ2T0JMM3MxLWtZLXU4dUxXQVdadlFPX2w3RUVsVUdQTHVNMnJpTEFhYnlaSDRpQlprdzJtczd4ZldQSmVqZVVWOTBaUUNyd3dNMDNoejhZY0hUODZZdnJCQW14bXB5VkJWMzhYMzhaMm9DNVlIUERNVmFvMktWdElYS2h3RWFmaEJ1VHctcBIEGgIIABr_BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNkGCAAQABgAIAAqPwoEYmVzdBUKAM9AGgRnb29kGgdoaWdoZXN0GgN0b3AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlcipLCgdwcm90ZWluFSbGu0AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoMaXY7cDtwcm90ZWluKmUKBnBvd2RlchXfSvk_GgVkcmluaxoHcG93ZGVycxoKc3VwcGxlbWVudBoLc3VwcGxlbWVudHMaEWJlc3Rwcm90ZWlucG93ZGVyGg1wcm90ZWlucG93ZGVyGgtpdjtwO3Bvd2RlciofCgZicmFuZHMVgiapPhoFYnJhbmQaCXRvcCByYXRlZCoKCgNmb3IVAAAAACovCgZtdXNjbGUVBs7kPxoHbXVzY2xlcxoKbXVzY2xlZ2FpbhoLaXY7cDttdXNjbGUqSgoEZ2FpbhUAAAAAGgVidWlsZBoIYnVpbGRpbmcaB2dhaW5pbmcaBWdhaW5zGgppbmNyZWFzaW5nGgRtYXNzGgptdXNjbGVnYWluMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVnNlY1ZrZGtLMmQ2T0JMM3MxLWtZLXU4dUxXQVdadlFPX2w3RUVsVUdQTHVNMnJpTEFhYnlaSDRpQlprdzJtczd4ZldQSmVqZVVWOTBaUUNyd3dNMDNoejhZY0hUODZZdnJCQW14bXB5VkJWMzhYMzhaMm9DNVlIUERNVmFvMktWdElYS2h3RWFmaEJ1VHctcDpEPGI-QmVzdDwvYj4gV2hleSA8Yj5Qcm90ZWluIFBvd2RlcnM8L2I-IFBoYXJtYWNpc3QgUmFua2VkfCBVLlMuIE5ld3NCtgFSYW5raW5nczogV2hleSBQcm90ZWluIFBvd2RlcnMgOyAxICZtaWRkb3Q7IDEwMC4gPGI-TXVzY2xlIE1pbGs8L2I-IDsgMiAmbWlkZG90OyA5MC4gUHVyZSBQcm90ZWluIDsgMyAmbWlkZG90OyA0Ny4gT3JnYWluIDsgNCAmbWlkZG90OyA0MC4gT3B0aW11bSBOdXRyaXRpb24gOyA1ICZtaWRkb3Q7IDMxLiBJc29wdXJlLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVnNlY1ZrZGtLMmQ2T0JMM3MxLWtZLXU4dUxXQVdadlFPX2w3RUVsVUdQTHVNMnJpTEFhYnlaSDRpQlprdzJtczd4ZldQSmVqZVVWOTBaUUNyd3dNMDNoejhZY0hUODZZdnJCQW14bXB5VkJWMzhYMzhaMm9DNVlIUERNVmFvMktWdElYS2h3RWFmaEJ1VHctcBIEGgIIABr_BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNkGCAAQABgAIAAqPwoEYmVzdBUKAM9AGgRnb29kGgdoaWdoZXN0GgN0b3AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlcipLCgdwcm90ZWluFSbGu0AaC2Jlc3Rwcm90ZWluGhFiZXN0cHJvdGVpbnBvd2RlchoNcHJvdGVpbnBvd2RlchoMaXY7cDtwcm90ZWluKmUKBnBvd2RlchXfSvk_GgVkcmluaxoHcG93ZGVycxoKc3VwcGxlbWVudBoLc3VwcGxlbWVudHMaEWJlc3Rwcm90ZWlucG93ZGVyGg1wcm90ZWlucG93ZGVyGgtpdjtwO3Bvd2RlciofCgZicmFuZHMVgiapPhoFYnJhbmQaCXRvcCByYXRlZCoKCgNmb3IVAAAAACovCgZtdXNjbGUVBs7kPxoHbXVzY2xlcxoKbXVzY2xlZ2FpbhoLaXY7cDttdXNjbGUqSgoEZ2FpbhUAAAAAGgVidWlsZBoIYnVpbGRpbmcaB2dhaW5pbmcaBWdhaW5zGgppbmNyZWFzaW5nGgRtYXNzGgptdXNjbGVnYWluMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVnNlY1ZrZGtLMmQ2T0JMM3MxLWtZLXU4dUxXQVdadlFPX2w3RUVsVUdQTHVNMnJpTEFhYnlaSDRpQlprdzJtczd4ZldQSmVqZVVWOTBaUUNyd3dNMDNoejhZY0hUODZZdnJCQW14bXB5VkJWMzhYMzhaMm9DNVlIUERNVmFvMktWdElYS2h3RWFmaEJ1VHctcDpEPGI-QmVzdDwvYj4gV2hleSA8Yj5Qcm90ZWluIFBvd2RlcnM8L2I-IFBoYXJtYWNpc3QgUmFua2VkfCBVLlMuIE5ld3NCtgFSYW5raW5nczogV2hleSBQcm90ZWluIFBvd2RlcnMgOyAxICZtaWRkb3Q7IDEwMC4gPGI-TXVzY2xlIE1pbGs8L2I-IDsgMiAmbWlkZG90OyA5MC4gUHVyZSBQcm90ZWluIDsgMyAmbWlkZG90OyA0Ny4gT3JnYWluIDsgNCAmbWlkZG90OyA0MC4gT3B0aW11bSBOdXRyaXRpb24gOyA1ICZtaWRkb3Q7IDMxLiBJc29wdXJlLkoDZm9yUgN0b3AiAhABSABYAGgA",
+      "source": "US News Health",
+      "read_more_link": "https://health.usnews.com/otc/rankings/protein-powders#:~:text=Rankings%3A%20Whey%20Protein%20Powders&text=%231&text=Score%3A%20100,Muscle%20Milk&text=%232&text=Score%3A%2090,Pure%20Protein&text=%233&text=Score%3A%2047,Orgain&text=%234&text=Score%3A%2040,Optimum%20Nutrition&text=%235&text=Score%3A%2031,Isopure"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+protein+powder+brands+for+muscle+gain&sca_esv=d1fb2d6d0c9e48d5&hl=en&gl=us&sxsrf=APpeQnut6MvTRwUZ5udU2ay1HZ3JEI2s7A:1790434061403&ei=Ddu3aticGNi0qtsPu9qYMA&start=10&sa=N&sstk=AS6-VmKjz097sWFMyeCdDCv9oONeXQ2tbw0djcZNFoulVyf-RkrCf5cFJfMr0pvGHk2xn8y7AOxqg_xKgM4cxBpTS5g2QyCaSfNZcQ&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQ8NMDegQISRAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+protein+powder+brands+for+muscle+gain&sca_esv=d1fb2d6d0c9e48d5&hl=en&gl=us&sxsrf=APpeQnut6MvTRwUZ5udU2ay1HZ3JEI2s7A:1790434061403&ei=Ddu3aticGNi0qtsPu9qYMA&start=10&sa=N&sstk=AS6-VmKjz097sWFMyeCdDCv9oONeXQ2tbw0djcZNFoulVyf-RkrCf5cFJfMr0pvGHk2xn8y7AOxqg_xKgM4cxBpTS5g2QyCaSfNZcQ&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQ8tMDegQISRAE",
+      "3": "https://www.google.com/search?q=best+protein+powder+brands+for+muscle+gain&sca_esv=d1fb2d6d0c9e48d5&hl=en&gl=us&sxsrf=APpeQnut6MvTRwUZ5udU2ay1HZ3JEI2s7A:1790434061403&ei=Ddu3aticGNi0qtsPu9qYMA&start=20&sa=N&sstk=AS6-VmKjz097sWFMyeCdDCv9oONeXQ2tbw0djcZNFoulVyf-RkrCf5cFJfMr0pvGHk2xn8y7AOxqg_xKgM4cxBpTS5g2QyCaSfNZcQ&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQ8tMDegQISRAG",
+      "4": "https://www.google.com/search?q=best+protein+powder+brands+for+muscle+gain&sca_esv=d1fb2d6d0c9e48d5&hl=en&gl=us&sxsrf=APpeQnut6MvTRwUZ5udU2ay1HZ3JEI2s7A:1790434061403&ei=Ddu3aticGNi0qtsPu9qYMA&start=30&sa=N&sstk=AS6-VmKjz097sWFMyeCdDCv9oONeXQ2tbw0djcZNFoulVyf-RkrCf5cFJfMr0pvGHk2xn8y7AOxqg_xKgM4cxBpTS5g2QyCaSfNZcQ&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQ8tMDegQISRAI",
+      "5": "https://www.google.com/search?q=best+protein+powder+brands+for+muscle+gain&sca_esv=d1fb2d6d0c9e48d5&hl=en&gl=us&sxsrf=APpeQnut6MvTRwUZ5udU2ay1HZ3JEI2s7A:1790434061403&ei=Ddu3aticGNi0qtsPu9qYMA&start=40&sa=N&sstk=AS6-VmKjz097sWFMyeCdDCv9oONeXQ2tbw0djcZNFoulVyf-RkrCf5cFJfMr0pvGHk2xn8y7AOxqg_xKgM4cxBpTS5g2QyCaSfNZcQ&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQ8tMDegQISRAK",
+      "6": "https://www.google.com/search?q=best+protein+powder+brands+for+muscle+gain&sca_esv=d1fb2d6d0c9e48d5&hl=en&gl=us&sxsrf=APpeQnut6MvTRwUZ5udU2ay1HZ3JEI2s7A:1790434061403&ei=Ddu3aticGNi0qtsPu9qYMA&start=50&sa=N&sstk=AS6-VmKjz097sWFMyeCdDCv9oONeXQ2tbw0djcZNFoulVyf-RkrCf5cFJfMr0pvGHk2xn8y7AOxqg_xKgM4cxBpTS5g2QyCaSfNZcQ&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQ8tMDegQISRAM",
+      "7": "https://www.google.com/search?q=best+protein+powder+brands+for+muscle+gain&sca_esv=d1fb2d6d0c9e48d5&hl=en&gl=us&sxsrf=APpeQnut6MvTRwUZ5udU2ay1HZ3JEI2s7A:1790434061403&ei=Ddu3aticGNi0qtsPu9qYMA&start=60&sa=N&sstk=AS6-VmKjz097sWFMyeCdDCv9oONeXQ2tbw0djcZNFoulVyf-RkrCf5cFJfMr0pvGHk2xn8y7AOxqg_xKgM4cxBpTS5g2QyCaSfNZcQ&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQ8tMDegQISRAO",
+      "8": "https://www.google.com/search?q=best+protein+powder+brands+for+muscle+gain&sca_esv=d1fb2d6d0c9e48d5&hl=en&gl=us&sxsrf=APpeQnut6MvTRwUZ5udU2ay1HZ3JEI2s7A:1790434061403&ei=Ddu3aticGNi0qtsPu9qYMA&start=70&sa=N&sstk=AS6-VmKjz097sWFMyeCdDCv9oONeXQ2tbw0djcZNFoulVyf-RkrCf5cFJfMr0pvGHk2xn8y7AOxqg_xKgM4cxBpTS5g2QyCaSfNZcQ&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQ8tMDegQISRAQ",
+      "9": "https://www.google.com/search?q=best+protein+powder+brands+for+muscle+gain&sca_esv=d1fb2d6d0c9e48d5&hl=en&gl=us&sxsrf=APpeQnut6MvTRwUZ5udU2ay1HZ3JEI2s7A:1790434061403&ei=Ddu3aticGNi0qtsPu9qYMA&start=80&sa=N&sstk=AS6-VmKjz097sWFMyeCdDCv9oONeXQ2tbw0djcZNFoulVyf-RkrCf5cFJfMr0pvGHk2xn8y7AOxqg_xKgM4cxBpTS5g2QyCaSfNZcQ&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQ8tMDegQISRAS",
+      "10": "https://www.google.com/search?q=best+protein+powder+brands+for+muscle+gain&sca_esv=d1fb2d6d0c9e48d5&hl=en&gl=us&sxsrf=APpeQnut6MvTRwUZ5udU2ay1HZ3JEI2s7A:1790434061403&ei=Ddu3aticGNi0qtsPu9qYMA&start=90&sa=N&sstk=AS6-VmKjz097sWFMyeCdDCv9oONeXQ2tbw0djcZNFoulVyf-RkrCf5cFJfMr0pvGHk2xn8y7AOxqg_xKgM4cxBpTS5g2QyCaSfNZcQ&ved=2ahUKEwiY1-TRvoyXAxVYmmoFHTstBgYQ8tMDegQISRAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=best+protein+powder+brands+for+muscle+gain&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=best+protein+powder+brands+for+muscle+gain&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=best+protein+powder+brands+for+muscle+gain&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=best+protein+powder+brands+for+muscle+gain&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=best+protein+powder+brands+for+muscle+gain&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=best+protein+powder+brands+for+muscle+gain&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=best+protein+powder+brands+for+muscle+gain&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=best+protein+powder+brands+for+muscle+gain&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=best+protein+powder+brands+for+muscle+gain&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=best+protein+powder+brands+for+muscle+gain&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+TX%2C+Texas%2C+United+States&q=best+protein+powder+brands+for+muscle+gain&start=90"
+    }
+  }
+}

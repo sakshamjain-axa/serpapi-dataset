@@ -1,0 +1,835 @@
+{
+  "search_metadata": {
+    "id": "6ab7e7b513258343581d1c5b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/TxGELQDEw-8DSMnHuvAxTGyrMhLuNaqMydIIx3ONexw/6ab7e7b513258343581d1c5b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/TxGELQDEw-8DSMnHuvAxTGyrMhLuNaqMydIIx3ONexw/6ab7e7b513258343581d1c5b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/TxGELQDEw-8DSMnHuvAxTGyrMhLuNaqMydIIx3ONexw/6ab7e7b513258343581d1c5b.json_with_pixel_position",
+    "created_at": "2026-09-26 15:41:41 UTC",
+    "processed_at": "2026-09-26 15:41:41 UTC",
+    "google_url": "https://www.google.com/search?q=top+brands+for+grain+free+dry+dog+foods&oq=top+brands+for+grain+free+dry+dog+foods&uule=w+CAIQICIeSG91c3RvbixUWCxUZXhhcyxVbml0ZWQgU3RhdGVz&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/TxGELQDEw-8DSMnHuvAxTGyrMhLuNaqMydIIx3ONexw/6ab7e7b513258343581d1c5b.html",
+    "total_time_taken": 3.89
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top brands for grain free dry dog foods",
+    "location_requested": "Houston, TX, Texas, United States",
+    "location_used": "Houston,TX,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top brands for grain free dry dog foods",
+    "total_results": 118000,
+    "time_taken_displayed": 0.47,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cLXFHImz4Zv1NiZEuj7iClY.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cL30nvnC5Kk76x81AbOL_Yxc8tHNCa7gR2MPJalGwkJH.png",
+      "source": "Chewy.com",
+      "title": "Blue Buffalo Life Protection Formula and Potatoes Grain Free Adult Dry Dog Food",
+      "rating": 4.5,
+      "reviews": 52,
+      "price": "$24.87",
+      "extracted_price": 24.87,
+      "original_price": "Usually $32",
+      "extracted_original_price": 32,
+      "delivery": "Free delivery on $49+",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "FfTUF3icbZBLrptIFIalXkPvoQdWpHrwMJldP8CXGDAFFFCTqHgYsMvAxdjGqPfQe_BNWkoPk0hZy81qmu5xpuc7Ouf_v78eefWjf5djfo6KbeoXMJ_vSvV0aFz3S9s12SXtq-w7VJGKgKapMlQlTZJlgNUvKe-5aIoq-6b-xwGWkIyhomqKgvDXMueZqOrc2e_zbtWkVfZVg4qmqBhrUMNo2kTgn-rEi_x_-h0qc6zO55okQVWBCpxDjF677PyGdsuPWEVo-ouArM0xQqqMlT93xFl9_DX7_HLJu_vbH33TzpKO19l5tm-6WdHxqp7tuzyfZd19ljXFNG6y8-einRJ8-8Wh19OUW1YVSUGqOtWEkwNNk1_ba_8oi0-Xi8jf0G22fHp2n5fPuWdoMMXkmlRDEC6HgEVlmd4HmpwEYKFbBJiUmUHHRyEel_OjFI-8_rvh7XWf_vzt93VzWy3Pt6UbtC1dEeDBsnI2ruys9FsK2YqigeU-s-PQrrJj69qG3FtrUbKVO8ZUOK6gZyeiUXx4Gly4eIkQMUKdRta4kLaBiaKR8FSQnQfNLUVsZxuC0NEUFiwHb0Ohr897Xze5d8yG-KibLoIvWZj2dMxMey2YBWnlC41ToYeZSEECSWwdKU6MQclCessiUyKGvOVhX7tHF_sntnRrZvLDuk8qAGJakjgIpCSk9tZfLP0Kbicbe4_SPTOa3glN4p3mgBym9icquUF8s0W5DdfswENa5ZHOrLG4M8OOGSj9BNLeBfSc0vbq1_qNH6wbr80jpcLjggALtzo5tpzRxY7rZExRI5EjkZ1o8cEWx37ri9gFshxS3aOg1INIr6yjeaeGuJNgiIIVuwZ32FGogThoB3dkHRetCDet6W9MTA3aB2H7wUIldU8BTNdnT8duz3y7TGFZ-4YdsFEXjr5o7MllAnViVOaCbOy7EzKSItZwg-p-WJ6SkzXGNVO8kO14GGNrra3sFa0_Dedu_waedLn3HHUPkvpdA8tDcmeo3XH80gt_Q5Mnq3gPVQ1IWMVAQkj-F1CAR7k",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=FfTUF3icbZBLrptIFIalXkPvoQdWpHrwMJldP8CXGDAFFFCTqHgYsMvAxdjGqPfQe_BNWkoPk0hZy81qmu5xpuc7Ouf_v78eefWjf5djfo6KbeoXMJ_vSvV0aFz3S9s12SXtq-w7VJGKgKapMlQlTZJlgNUvKe-5aIoq-6b-xwGWkIyhomqKgvDXMueZqOrc2e_zbtWkVfZVg4qmqBhrUMNo2kTgn-rEi_x_-h0qc6zO55okQVWBCpxDjF677PyGdsuPWEVo-ouArM0xQqqMlT93xFl9_DX7_HLJu_vbH33TzpKO19l5tm-6WdHxqp7tuzyfZd19ljXFNG6y8-einRJ8-8Wh19OUW1YVSUGqOtWEkwNNk1_ba_8oi0-Xi8jf0G22fHp2n5fPuWdoMMXkmlRDEC6HgEVlmd4HmpwEYKFbBJiUmUHHRyEel_OjFI-8_rvh7XWf_vzt93VzWy3Pt6UbtC1dEeDBsnI2ruys9FsK2YqigeU-s-PQrrJj69qG3FtrUbKVO8ZUOK6gZyeiUXx4Gly4eIkQMUKdRta4kLaBiaKR8FSQnQfNLUVsZxuC0NEUFiwHb0Ohr897Xze5d8yG-KibLoIvWZj2dMxMey2YBWnlC41ToYeZSEECSWwdKU6MQclCessiUyKGvOVhX7tHF_sntnRrZvLDuk8qAGJakjgIpCSk9tZfLP0Kbicbe4_SPTOa3glN4p3mgBym9icquUF8s0W5DdfswENa5ZHOrLG4M8OOGSj9BNLeBfSc0vbq1_qNH6wbr80jpcLjggALtzo5tpzRxY7rZExRI5EjkZ1o8cEWx37ri9gFshxS3aOg1INIr6yjeaeGuJNgiIIVuwZ32FGogThoB3dkHRetCDet6W9MTA3aB2H7wUIldU8BTNdnT8duz3y7TGFZ-4YdsFEXjr5o7MllAnViVOaCbOy7EzKSItZwg-p-WJ6SkzXGNVO8kO14GGNrra3sFa0_Dedu_waedLn3HHUPkvpdA8tDcmeo3XH80gt_Q5Mnq3gPVQ1IWMVAQkj-F1CAR7k"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cA1VxdMNC9jA_fTEbGo4n8A.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cJ3_Ymfw2160JQpBZ-VU4Grg1GL81XOelLJ0GhSE8MC5.png",
+      "source": "Chewy.com",
+      "title": "Taste of the Wild High Prairie Adult High Protein Grain-Free Recipe with Roasted Bison & Roasted Venison Dry Dog Food, 56-lb bundle",
+      "rating": 5.0,
+      "reviews": 92,
+      "price": "$117.98",
+      "extracted_price": 117.98,
+      "original_price": "$2.11/lb",
+      "extracted_original_price": 2.11,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "r6K6B3icdZJLrqNGFIaV1WRgtVRV2MZkdm0MGF3jy6MKU5NWQRUUpngY4xfKHrKFlrs7UmcYRcpabpTFxIkyTCb_4PvO0dGR_p8eovx9-CA0dtoXr1lUQLF4k3p9aH3_W9e3_JwNJf8N6tPpbIHADKD5HOjaFCz0bxkbmGqLkn_6VQrGVdmIXZ6L3myz_1n5paxZIf71CBhoDg3NWCwMCIFuzGefe356B2-rj5oO__FooeuGsUAI_fgW7MyP_6m-Hs-iv79_P7TdJO1Zw0-TvO0nRc_KZpL3Qkx4f5_wtnjilp--Ft3z_qfP9d_RXYaHLL6cz0q8o-tk9bLxN6uNCG0DZlpwScsbjlc3TPdSZvcbSWsFaOwXWAskt8n4KNTjfHpI9RDNzy3rLnn2x3d_rs-b1eq4Wfm464gZgGh9833owT0ajlHsI0JextihEO-teTqqS4j4HcfFENpdzmLY7mI45Y2P4oPXEJPWr5gDFpEVtY2OPNkWY-TXizFEsNtCxaiyZBJbrzFZX7eE53FN7fQ5K2pjwAcaJYQTgWXl1zONouSaVEGDG1lSMCBm-ghbZM60DicHngeK2N6609hhmQtSgYhU0xAMl9C02sDyKh-o0qvdICSqCh3XxpWqE82tQ5ucI4tj0Sxl6ri3BFtHRsgtRdZ6a3PfJxhEjoy3EV0HmmVnqttktXWKa7XbWQkItG6LR-pRZ5mnTQGxKaNsdKM0KkCCtwiX0BeHDUob7xrBgAo7cPDBGzHqMFHSeY27S7ZWIbXdqzDdGRvdhlbr0NL8gUaezKBsItvDdLTUzlq2HoLHFFqBXbrLwPHuu5gGz388Xsl7qgU9cZbs2YANMeWIsevhPYVZCZsvt1Ofv4MXazaEOz0HafOhhfKQ3inq3ph2HFTkkPRlW_wAdQNMNV0DU4RmfwGolila",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=r6K6B3icdZJLrqNGFIaV1WRgtVRV2MZkdm0MGF3jy6MKU5NWQRUUpngY4xfKHrKFlrs7UmcYRcpabpTFxIkyTCb_4PvO0dGR_p8eovx9-CA0dtoXr1lUQLF4k3p9aH3_W9e3_JwNJf8N6tPpbIHADKD5HOjaFCz0bxkbmGqLkn_6VQrGVdmIXZ6L3myz_1n5paxZIf71CBhoDg3NWCwMCIFuzGefe356B2-rj5oO__FooeuGsUAI_fgW7MyP_6m-Hs-iv79_P7TdJO1Zw0-TvO0nRc_KZpL3Qkx4f5_wtnjilp--Ft3z_qfP9d_RXYaHLL6cz0q8o-tk9bLxN6uNCG0DZlpwScsbjlc3TPdSZvcbSWsFaOwXWAskt8n4KNTjfHpI9RDNzy3rLnn2x3d_rs-b1eq4Wfm464gZgGh9833owT0ajlHsI0JextihEO-teTqqS4j4HcfFENpdzmLY7mI45Y2P4oPXEJPWr5gDFpEVtY2OPNkWY-TXizFEsNtCxaiyZBJbrzFZX7eE53FN7fQ5K2pjwAcaJYQTgWXl1zONouSaVEGDG1lSMCBm-ghbZM60DicHngeK2N6609hhmQtSgYhU0xAMl9C02sDyKh-o0qvdICSqCh3XxpWqE82tQ5ucI4tj0Sxl6ri3BFtHRsgtRdZ6a3PfJxhEjoy3EV0HmmVnqttktXWKa7XbWQkItG6LR-pRZ5mnTQGxKaNsdKM0KkCCtwiX0BeHDUob7xrBgAo7cPDBGzHqMFHSeY27S7ZWIbXdqzDdGRvdhlbr0NL8gUaezKBsItvDdLTUzlq2HoLHFFqBXbrLwPHuu5gGz388Xsl7qgU9cZbs2YANMeWIsevhPYVZCZsvt1Ofv4MXazaEOz0HafOhhfKQ3inq3ph2HFTkkPRlW_wAdQNMNV0DU4RmfwGolila"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cNU-RFz7b7-TM1vpFtGrw7o.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cDL_hvrVFjsUn0AFDgMWTMri1V_HQ-_BS3IxfjriA2Q7.png",
+      "source": "Only Natural Pet",
+      "title": "Earthborn Holistic Coastal Catch Grain Free Dog Food",
+      "rating": 4.6,
+      "reviews": 950,
+      "price": "$66.31",
+      "extracted_price": 66.31,
+      "original_price": "$2.65/lb",
+      "extracted_original_price": 2.65,
+      "delivery": "Free delivery by Thu",
+      "immersive_product_page_token": "ZOPvenicdZBLrqNGAEWlrCF7yMBqqar4OjNjXPihBh5FVWEzaWEKU9j8jLGNUfaQPfh1R-oMuyNlLS-ridXjZHqPdO_R_f2Rl38PH3IlPW-KjxktYG6-SqM-tGH4tetbccmGUnxXNKQhwzDmuq5rimEqiv41S4e0aosnVQ0dqbpiAnVumoap6jr6JvNUVGWTB_t93tttVoq_oKEZ-lxVFaibpjqHwFC1P8s6LfIf_DtEhmY-N1SoQ03TIDCNt16c39XX5SeoPrdVCIAKoTZHCkQm-O2VBPan_4FfTpe8v7__MrTdbNenjTjP9m0_K_q0bGb7Ps9nor_PRFs841acvxTdD8X_aHqrS_Htaa7qyNSeXEO6okHtrbsOD1l8vlyq_B3dZsvFS_iyfMkjZw4zhVx35cji5ciSjZTZfeS7ugJJHBZMIVI4fHoU1eNyfsjqkTd_tGl33Wf__PTzqr3Zy_NtGbKu4zYBdCUHD8h7hn2HYeJlyN0nx7nlx26cUXcpuPgYHjlImHvOHfhKN9j1V65NmlDhx9XkbXialLCMN_6NTfIljuVTq4NJPLdiGt6zyYoCTiJWAyWh0s9il-wmzv2ayC0TiK-qwEfJxMBokXqM00M4xZuqpmg8pWDYpPHY5BiHwUo4EeTnjPnUA0MaxUMqarJlTqfvaoxyvJgynJwIJy2FL1rIK-Qjd0hZOPGKOD7AVoQgFWileOvumqxkK47iFGD_yrFlewfMxHE85ja-E1xdMoDrZC1bdlhNYc2GvN4OQSybbF1tA2febwHZhEcXBEy68coc6UE-vxvduO601PY5QYOkNr5FVKg-L5DfuGoC-TKmC2WjtHfBfEJrWXv1GOWVq4nKUsOGnyKHR7vJGgIGJ8LNiaKKeYpPUybKsB56hr0IK-GQUF9mUDbU8Vky4SrAVusjeNpBTJzStcjavwdxQrM6OdFDEng2P2aOdIK1CymDh8xeDIySKcW-9Xk89_t3sMDaEAXGHuyaDy2Uh909Qd1rqpyGiq75buEVv0JjDlTFUICKkPYvnpdImA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZOPvenicdZBLrqNGAEWlrCF7yMBqqar4OjNjXPihBh5FVWEzaWEKU9j8jLGNUfaQPfh1R-oMuyNlLS-ridXjZHqPdO_R_f2Rl38PH3IlPW-KjxktYG6-SqM-tGH4tetbccmGUnxXNKQhwzDmuq5rimEqiv41S4e0aosnVQ0dqbpiAnVumoap6jr6JvNUVGWTB_t93tttVoq_oKEZ-lxVFaibpjqHwFC1P8s6LfIf_DtEhmY-N1SoQ03TIDCNt16c39XX5SeoPrdVCIAKoTZHCkQm-O2VBPan_4FfTpe8v7__MrTdbNenjTjP9m0_K_q0bGb7Ps9nor_PRFs841acvxTdD8X_aHqrS_Htaa7qyNSeXEO6okHtrbsOD1l8vlyq_B3dZsvFS_iyfMkjZw4zhVx35cji5ciSjZTZfeS7ugJJHBZMIVI4fHoU1eNyfsjqkTd_tGl33Wf__PTzqr3Zy_NtGbKu4zYBdCUHD8h7hn2HYeJlyN0nx7nlx26cUXcpuPgYHjlImHvOHfhKN9j1V65NmlDhx9XkbXialLCMN_6NTfIljuVTq4NJPLdiGt6zyYoCTiJWAyWh0s9il-wmzv2ayC0TiK-qwEfJxMBokXqM00M4xZuqpmg8pWDYpPHY5BiHwUo4EeTnjPnUA0MaxUMqarJlTqfvaoxyvJgynJwIJy2FL1rIK-Qjd0hZOPGKOD7AVoQgFWileOvumqxkK47iFGD_yrFlewfMxHE85ja-E1xdMoDrZC1bdlhNYc2GvN4OQSybbF1tA2febwHZhEcXBEy68coc6UE-vxvduO601PY5QYOkNr5FVKg-L5DfuGoC-TKmC2WjtHfBfEJrWXv1GOWVq4nKUsOGnyKHR7vJGgIGJ8LNiaKKeYpPUybKsB56hr0IK-GQUF9mUDbU8Vky4SrAVusjeNpBTJzStcjavwdxQrM6OdFDEng2P2aOdIK1CymDh8xeDIySKcW-9Xk89_t3sMDaEAXGHuyaDy2Uh909Qd1rqpyGiq75buEVv0JjDlTFUICKkPYvnpdImA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cNq2JwDGVSmgCTd4YX9kysA.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cOAYiVuk6AK5nFxLo6mApO42RMkWD1wkpKrfivOuc_t6.png",
+      "source": "Chewy.com",
+      "title": "Wholesomes Grain Free Lamb Meal & Potatoes Dry Dog Food",
+      "rating": 4.3,
+      "reviews": 60,
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "original_price": "$1.43/lb",
+      "extracted_original_price": 1.43,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "dR_yanicbZDPrptGGMWlPkPfoQsr0vxhwHQXjAH7mvEFM4M9mwgzmMEeA8H42kZ9h76Db1IpWSaR-iy3T1Mr23Z39B2dn875_rwX1d_9uwJnp3W5yJMSFuNnZR33TRR9abtGnvO-kt8wGY8RBIQQG1pobJj4S571mW7KSv6AGGOCIbahaZiGTcbEAt9UkUld1cVytys6t8kr-R0hYI_NB8AyEcGmCQH-Wh2zsvhp_4DAsCCCYwIgeAgLmBZ-7eTpDT1PPiCCLGg88rb1yAFMAPrjOV66H_7f-_zxXHS3t9_6ph1tu6yWp9Gu6UZll1X1aNcVxUh2t5Fsyse5kafPZfuz4H9Br8fHemI9hqExtm1i2KaFbPDavvR3VX46n3Xxhi6jyftZNJvMipVvwxzHL9vqytLJlYm1UvntyrdHDUQalQzHSvp8uJf6fj7dlb4X9V9N1r7s8n9--XXaXNzJ6TKJWNtyNwarVFwjNseUe5oz0hUerWiib2EyVxG3_YhPEa9bf-XGSaqdYYMoixkVadoHsacnyV6swwdUBE62qR2eY1HnqMES2E8Ciz0fxBNj82CV9ofctzuZ2i1DACdTeE0YXciUzHOtaALIrNhzlR4BSvaOlnuargHNigO9rAfqrmBkpCzCDKo2TBSUB9is1i1LXfESuvwiAJ-voVKbvbzE_lXlg7OX03aXp9dVftB6A-N2A9VG8LYLk5BsgTozpjY08NzY5UTAA-EJDbbaC7aMPLFBJ-LIb6Ke9hKoTejZc8p6zQdHU0-7bNofxMAvMfIWuS9J5uuOHxXJjvY-BrKjdcuStXjaPD6RAXrJoOOwQT6HtayyfWnkWKtwOiPsAGnu57d4Kry8AkZ4aHcZ2JDVkc7iQ-vKYO4suXcqAh5mfB6IFVh5OOpFQlUOVZ34lInB00vPaSiCH7fQi_1q7sQBvS1TkWwxjZauNlmijCydXpKp3C0DHVE4X6wRdRZpXH-6nrrdG3jvkX61NJasNCdBYanTEOqFP3_nTjewu4RhGf0OLRsY2MLAQMj8FySkRRw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dR_yanicbZDPrptGGMWlPkPfoQsr0vxhwHQXjAH7mvEFM4M9mwgzmMEeA8H42kZ9h76Db1IpWSaR-iy3T1Mr23Z39B2dn875_rwX1d_9uwJnp3W5yJMSFuNnZR33TRR9abtGnvO-kt8wGY8RBIQQG1pobJj4S571mW7KSv6AGGOCIbahaZiGTcbEAt9UkUld1cVytys6t8kr-R0hYI_NB8AyEcGmCQH-Wh2zsvhp_4DAsCCCYwIgeAgLmBZ-7eTpDT1PPiCCLGg88rb1yAFMAPrjOV66H_7f-_zxXHS3t9_6ph1tu6yWp9Gu6UZll1X1aNcVxUh2t5Fsyse5kafPZfuz4H9Br8fHemI9hqExtm1i2KaFbPDavvR3VX46n3Xxhi6jyftZNJvMipVvwxzHL9vqytLJlYm1UvntyrdHDUQalQzHSvp8uJf6fj7dlb4X9V9N1r7s8n9--XXaXNzJ6TKJWNtyNwarVFwjNseUe5oz0hUerWiib2EyVxG3_YhPEa9bf-XGSaqdYYMoixkVadoHsacnyV6swwdUBE62qR2eY1HnqMES2E8Ciz0fxBNj82CV9ofctzuZ2i1DACdTeE0YXciUzHOtaALIrNhzlR4BSvaOlnuargHNigO9rAfqrmBkpCzCDKo2TBSUB9is1i1LXfESuvwiAJ-voVKbvbzE_lXlg7OX03aXp9dVftB6A-N2A9VG8LYLk5BsgTozpjY08NzY5UTAA-EJDbbaC7aMPLFBJ-LIb6Ke9hKoTejZc8p6zQdHU0-7bNofxMAvMfIWuS9J5uuOHxXJjvY-BrKjdcuStXjaPD6RAXrJoOOwQT6HtayyfWnkWKtwOiPsAGnu57d4Kry8AkZ4aHcZ2JDVkc7iQ-vKYO4suXcqAh5mfB6IFVh5OOpFQlUOVZ34lInB00vPaSiCH7fQi_1q7sQBvS1TkWwxjZauNlmijCydXpKp3C0DHVE4X6wRdRZpXH-6nrrdG3jvkX61NJasNCdBYanTEOqFP3_nTjewu4RhGf0OLRsY2MLAQMj8FySkRRw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cHP6hMibKbeLGo8oOq10u4g.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAn1BMVEX___8jHyAAAAD5-fn19fUbFhcdGRogHB00MTJBPj-sq6sfGhuamJkLAAPj4-MTDA5XVFXHxsYmISM8OTp_fX0qJifn5-fv7--mpKW7ubrQ0NBwbm52dHWUkpOOjI1OTEza2dlnZWaEg4NGQ0ReW1z_5uX_3dv-7e3xVEzwPjT9x8Xz6Of0amTxYVrwTUX1fXfzcWz1mJTuJhj6ycf8p6PFVw3QAAABf0lEQVQ4jb2S13bCMAyGPWI7y3GGkzgTAwHKLBTe_9nqBA6FMu5aXfno_zQsCYB_MWy9132PjdQ7RtuccEe_IYKxIMLBr2QrCHI3JCh6obsJ52mlXHvyChjHIk6Qr0VbPu80L6QMYZzSlCR-9qiPp3ZMKYR01E4Jt9vA-PAtRyiDxjxhVzaDTKRSt5108ysAB6PdxEPCMy8muEAK-MU94DkliCYJEsxjjIR4Ni_94BaAlDY5sCKZOgkUk8XHcmW5Ef4BCGPcUTnQYZZrvd5s57sV0G5wAZgtbS7MH5pM-cb3udut9nvzm6K4ZKBdUdQpQojLToLZ3jp8bed9_kwCE8n6EjLDpaoSxFGN8XGzOwwNFMr0PvIMw0TiGlde-iGv1ofl_rgwetQM6yxVGAtCeTcsFOu6y06nIb653kDghsgMqDrPWNe6j1fN3VKCJjFNtucZ-yZZqx73WkE0tGII1Ra_9SGN6nhX9q-mfKb3FqVIPjmL20q1IPotcX8wf2_fkWAbNG4Rh6kAAAAASUVORK5CYII.png",
+      "source": "PetCareRx",
+      "title": "Merrick Grain Free Dry Dog Food Real Salmon & Sweet Potato Recipe",
+      "rating": 4.5,
+      "reviews": 5800,
+      "price": "$53.99",
+      "extracted_price": 53.99,
+      "original_price": "$5.40/lb",
+      "extracted_original_price": 5.4,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "6GxgBXicdZBNrptIAISlOcPcYRZWpP6h-ckuNj-2Y-DR0A1mE2EaA-b3YfyMrbnD3MEvGSmzzESas7w5zZDsZ1tfqapUfzyy8p_xXYaTc5Tv0iCHmfpUKM2p87yv_dCJSzqW4jvESMYKRESSoAKgRlQNf02TMam7vBR_I0xkDSNNU1QIFaRACL8VWSLqss3c4zEb9C6dbZJCACQ_Uma7glWsqX-VTZJnP_F3CBRNJTOfgzCAUFVl8jqI85v0tPoEkSRLMoYaQGQe82OH8vsTdfVP_wO_PF-y4fb229j1i8OQtOK8OHbDIh-Ssl0chyxbiOG2EF0-y504f8n7nxsIkTAhAKuKDCSgECjj16YU34gyNyBtboKyKmuAwNf-ZXwU-efLpc7e0HWx-rDxNqtN5lsaTDF9OZQTC1cTi6OiSG8TPzQ1iEMvZ5gWwuL3R14_LudHUT-y9s8u6V-O6b-__Gp0V311vq481vdcp8APr1LMeZ-iWhaBjUUlyh2bZDs090Hr3dKWv8RBfhUGu9Fqf7OrrUlBYTuA6w4udinkQ2r21yRYGjvONwLFhTjVlN63NGlzdAD2zT-ZToBM-2A6st2oIGko9a2UsIpeQuaNvC1O-9AxIyDiNFiuaaNFYcCQjeOdj7l0QJPusGJ5iGyJmXXnhISEUU-dUBoPYHQ54BNjtcmMSnJ0et2D6UTvyxOzNClhxt0O9yir4inmjhwjPoVWUfnVRsqM7UhD774PGMha7rorGNOIO_6JGzSssIN63T5tu8AiHxNu-oGx3SS1tt23scVaTl0GiIM59sLpmLbFM4fO2mX2GCFihhGntDFApm8ZXVMra22QVil29GIXr5dNxlQQoxgwTufvY4khiAOrwN7JSTiCk1d5RHAT8BJuvEaEfuQQ3mjLoE19E3tjHDhFCos2sBwW383aNZedg-DzAZrUKrdLunZubhjT5C7uPqg_2tH8x3q58pvt2TboS4JNI8H0ad8W7efpPBzfwAeTjL4ruSyXV-tMKc53u95Z23e6sYfD1bZz7z1UNCBhBQMJIfk_dItDQQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=6GxgBXicdZBNrptIAISlOcPcYRZWpP6h-ckuNj-2Y-DR0A1mE2EaA-b3YfyMrbnD3MEvGSmzzESas7w5zZDsZ1tfqapUfzyy8p_xXYaTc5Tv0iCHmfpUKM2p87yv_dCJSzqW4jvESMYKRESSoAKgRlQNf02TMam7vBR_I0xkDSNNU1QIFaRACL8VWSLqss3c4zEb9C6dbZJCACQ_Uma7glWsqX-VTZJnP_F3CBRNJTOfgzCAUFVl8jqI85v0tPoEkSRLMoYaQGQe82OH8vsTdfVP_wO_PF-y4fb229j1i8OQtOK8OHbDIh-Ssl0chyxbiOG2EF0-y504f8n7nxsIkTAhAKuKDCSgECjj16YU34gyNyBtboKyKmuAwNf-ZXwU-efLpc7e0HWx-rDxNqtN5lsaTDF9OZQTC1cTi6OiSG8TPzQ1iEMvZ5gWwuL3R14_LudHUT-y9s8u6V-O6b-__Gp0V311vq481vdcp8APr1LMeZ-iWhaBjUUlyh2bZDs090Hr3dKWv8RBfhUGu9Fqf7OrrUlBYTuA6w4udinkQ2r21yRYGjvONwLFhTjVlN63NGlzdAD2zT-ZToBM-2A6st2oIGko9a2UsIpeQuaNvC1O-9AxIyDiNFiuaaNFYcCQjeOdj7l0QJPusGJ5iGyJmXXnhISEUU-dUBoPYHQ54BNjtcmMSnJ0et2D6UTvyxOzNClhxt0O9yir4inmjhwjPoVWUfnVRsqM7UhD774PGMha7rorGNOIO_6JGzSssIN63T5tu8AiHxNu-oGx3SS1tt23scVaTl0GiIM59sLpmLbFM4fO2mX2GCFihhGntDFApm8ZXVMra22QVil29GIXr5dNxlQQoxgwTufvY4khiAOrwN7JSTiCk1d5RHAT8BJuvEaEfuQQ3mjLoE19E3tjHDhFCos2sBwW383aNZedg-DzAZrUKrdLunZubhjT5C7uPqg_2tH8x3q58pvt2TboS4JNI8H0ad8W7efpPBzfwAeTjL4ruSyXV-tMKc53u95Z23e6sYfD1bZz7z1UNCBhBQMJIfk_dItDQQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cJWHRKl8NZgyLnxxEr3QMIM.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cAiPZpMQkq0owkimFVugjqUfbz4CgZFFboeQRhhyNlVj.png",
+      "source": "Mud Bay",
+      "title": "Orijen Original Dry Dog Food",
+      "rating": 4.6,
+      "reviews": 3700,
+      "price": "$35.99",
+      "extracted_price": 35.99,
+      "original_price": "$8.00/lb",
+      "extracted_original_price": 8.0,
+      "immersive_product_page_token": "TUDOq3icdZJLjttGEIaBnCF3yEIw0OxW8-HdUBQpyWZLbDbZUm8MiqTYkpqPkajhA7lD7qCxAzhL20DOMjlNhCDLpBa1-D_Uj8Jf9ds9P_7ZvstRct0WH1NWaLm5kUZ5qoPga3Ops1vaHrPv2hQjbOpTDUGEAXyU9jVN2kTVxYMaAEEMLWjo2LJM09As7ZvMk0wdq3x9OOQXp06P2Q9Nn2LLMJGpw0cDDz_D-ONYJkX-L8cWQsgwTdMyADSAZSDj9ZJd36ab2ScNmZaJLIT1KTKwhbGJp79u6Nr59D_wy_Mtvwxvv7R1M9lfkiq7Tg71ZVJckmM1OVzyfJJdhklWFw-5zq5fiuafHf7D6bU8Zt-woU91iHUEHwrWoYZem5f2LovPt5vK32A3mT0tg-VsmYeepaWIvuyPfcRnfSS2UqZDH-9LBQQPighRmXnxeC_U_Xa9S3XPq9_rpHk5pH_99PO87pzZtZsFUdPEDgWhEluyEOMO0H43qo5xgX2HqFgJGnK_yxzX5meXsW0BBFjRoFqCoHSfBWzQrmzHcEE7UUk7jcUHwf0-4eaYVYLtHfe8g5SSrZskZ0nEXC0iJ-6C08pZz602UvbGL89DpFlNhKSiMBi5WrZhRdp4a4cinsOUSy5Odux7vZ5Ubh2PdO1H6TQZpRt5uM5P8ioGrU68ehDbFIWqISkjG1HZPZu7U1H5kIxKxDPt5G9lly1s3Yeu8NEc7YD04kXTcWfFwiheMK59YOMTCJn7wiP50S-tS87s5wAsYbjNeHTKbgKQMPesA53366g69_mCjlTVreBxS4AKSSl1opRNkQxZvGJBSY7-oon252CkntaHnGK_dHfMKR65y46UeJV6q03OZcVGOfCoZdRTJJ1pOKriGQNkFSh7CMqWBLwljMWDP-5CFwWtYESm2mPOI5EYXbV27ZpA7XmvudQ7rmy6IMOai4jzTM-qtNtVquZujCM2h7uy9_YAb5KSXmNEqs_99XJ4A08ubsO1cQD76l2tydN-eBx5k6DnVrFFvH_yi_eaYYHH4yIwhRD_DWAfSmc",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=TUDOq3icdZJLjttGEIaBnCF3yEIw0OxW8-HdUBQpyWZLbDbZUm8MiqTYkpqPkajhA7lD7qCxAzhL20DOMjlNhCDLpBa1-D_Uj8Jf9ds9P_7ZvstRct0WH1NWaLm5kUZ5qoPga3Ops1vaHrPv2hQjbOpTDUGEAXyU9jVN2kTVxYMaAEEMLWjo2LJM09As7ZvMk0wdq3x9OOQXp06P2Q9Nn2LLMJGpw0cDDz_D-ONYJkX-L8cWQsgwTdMyADSAZSDj9ZJd36ab2ScNmZaJLIT1KTKwhbGJp79u6Nr59D_wy_Mtvwxvv7R1M9lfkiq7Tg71ZVJckmM1OVzyfJJdhklWFw-5zq5fiuafHf7D6bU8Zt-woU91iHUEHwrWoYZem5f2LovPt5vK32A3mT0tg-VsmYeepaWIvuyPfcRnfSS2UqZDH-9LBQQPighRmXnxeC_U_Xa9S3XPq9_rpHk5pH_99PO87pzZtZsFUdPEDgWhEluyEOMO0H43qo5xgX2HqFgJGnK_yxzX5meXsW0BBFjRoFqCoHSfBWzQrmzHcEE7UUk7jcUHwf0-4eaYVYLtHfe8g5SSrZskZ0nEXC0iJ-6C08pZz602UvbGL89DpFlNhKSiMBi5WrZhRdp4a4cinsOUSy5Odux7vZ5Ubh2PdO1H6TQZpRt5uM5P8ioGrU68ehDbFIWqISkjG1HZPZu7U1H5kIxKxDPt5G9lly1s3Yeu8NEc7YD04kXTcWfFwiheMK59YOMTCJn7wiP50S-tS87s5wAsYbjNeHTKbgKQMPesA53366g69_mCjlTVreBxS4AKSSl1opRNkQxZvGJBSY7-oon252CkntaHnGK_dHfMKR65y46UeJV6q03OZcVGOfCoZdRTJJ1pOKriGQNkFSh7CMqWBLwljMWDP-5CFwWtYESm2mPOI5EYXbV27ZpA7XmvudQ7rmy6IMOai4jzTM-qtNtVquZujCM2h7uy9_YAb5KSXmNEqs_99XJ4A08ubsO1cQD76l2tydN-eBx5k6DnVrFFvH_yi_eaYYHH4yIwhRD_DWAfSmc"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cFNElISufqpWkyPJA3P5HdI.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cHGoPjPJ6rI4PzfrVKgzZgd2uwobBGBK9vn6833Ha4Xs.png",
+      "source": "Chewy.com",
+      "title": "Natural Balance Limited Ingredient Salmon & Sweet Potato Dry Dog Food",
+      "rating": 4.3,
+      "reviews": 1900,
+      "price": "$24.98",
+      "extracted_price": 24.98,
+      "original_price": "$6.25/lb",
+      "extracted_original_price": 6.25,
+      "delivery": "Free delivery on $49+",
+      "immersive_product_page_token": "-oUGmXicdY5Ljts2AIaBnqF36MIIQIoiJWU3th5jx5JGFCnJ3ASSKIue0WtkefxA79A7eJIC6TIJkLNMT1M363b7f__rj2u1-zG9q1C-z-p1yWpYmQ_KaB_7KPoyjL08lNNOfoe6hXQLYhOZAJqI6IZJvpT5lDd9vZPfsGFYGJrEIIahIUI0TL6qKpfNrqvC7bYa7b78twVaxi1tGARhQgiGmqX9tWvzuvrJv2nQNJABiIUNQqCl6wi_jnL_pj8sPkKNGDqCpk4MRAA2rRv8_YGG9sf_gZ-fD9V4fvtt6odZMead3M-2_Tirx3zXzbZjVc3keJ7Jvr7Jvdx_roefF_-j6bXdya-3SzrRTAwxNjWEEdJfh5fpqupPh0NTvWnH2eJuGS0Xyyr2LFgi-lLsTjxdnLjIlCrPp6RoGyDSqOaIKukll2vdXA_7q2quVfdnnw8v2_LvX351-qO92B8XER-GxKYgBmrwU2tVgOTDBkx5nImH3FmtRSYuzHMVf1qFqdcEJXMX_EkOVSqf09bacDgsQ1vspOdrrEtUDIYxQSu00ZJzkA7ppusv5c0XsRIzlrhCa_bSifSCn5aZlqyprWx2Uas1U1vWCifiLg1TeqCu2932VfpEt_RpuOdNQyUKbA5wH3M4L7PNsQRwEz02POLUZ85wSVp3Hjg43DSrJfNESoEFElYeU0e0Pmj28UUcK89q_XuZ5oC-rDP5zC4BStvTPs2oChqBIijmoXcivmd9CO2gZVoA2f0KSST3HESg8qDY8PIs-Ymz1kU8UwffdinLBrewKfbtoJPuHc5RQsqOEp6qVchk66PBiRMBN7y5MIBPeSOdWINsnVDiA9eNW_-SwAFLR9mFN00USjdizSmDwZSn04G2UxwyR8vtVVg6SvhJGbsomgQLVAlVx7yAi4vbhO68DzT4XECXervVnN4H5zAV1H-iIujcl01i4sIbcMiEnrtUMJtGPgpU6CTzT6f9uH0Ddy6-bRlbUHTveqgei7PQhoccPU8Nu0-KO79-Dw0L6MhAQNc0_A955UUk",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-oUGmXicdY5Ljts2AIaBnqF36MIIQIoiJWU3th5jx5JGFCnJ3ASSKIue0WtkefxA79A7eJIC6TIJkLNMT1M363b7f__rj2u1-zG9q1C-z-p1yWpYmQ_KaB_7KPoyjL08lNNOfoe6hXQLYhOZAJqI6IZJvpT5lDd9vZPfsGFYGJrEIIahIUI0TL6qKpfNrqvC7bYa7b78twVaxi1tGARhQgiGmqX9tWvzuvrJv2nQNJABiIUNQqCl6wi_jnL_pj8sPkKNGDqCpk4MRAA2rRv8_YGG9sf_gZ-fD9V4fvtt6odZMead3M-2_Tirx3zXzbZjVc3keJ7Jvr7Jvdx_roefF_-j6bXdya-3SzrRTAwxNjWEEdJfh5fpqupPh0NTvWnH2eJuGS0Xyyr2LFgi-lLsTjxdnLjIlCrPp6RoGyDSqOaIKukll2vdXA_7q2quVfdnnw8v2_LvX351-qO92B8XER-GxKYgBmrwU2tVgOTDBkx5nImH3FmtRSYuzHMVf1qFqdcEJXMX_EkOVSqf09bacDgsQ1vspOdrrEtUDIYxQSu00ZJzkA7ppusv5c0XsRIzlrhCa_bSifSCn5aZlqyprWx2Uas1U1vWCifiLg1TeqCu2932VfpEt_RpuOdNQyUKbA5wH3M4L7PNsQRwEz02POLUZ85wSVp3Hjg43DSrJfNESoEFElYeU0e0Pmj28UUcK89q_XuZ5oC-rDP5zC4BStvTPs2oChqBIijmoXcivmd9CO2gZVoA2f0KSST3HESg8qDY8PIs-Ymz1kU8UwffdinLBrewKfbtoJPuHc5RQsqOEp6qVchk66PBiRMBN7y5MIBPeSOdWINsnVDiA9eNW_-SwAFLR9mFN00USjdizSmDwZSn04G2UxwyR8vtVVg6SvhJGbsomgQLVAlVx7yAi4vbhO68DzT4XECXervVnN4H5zAV1H-iIujcl01i4sIbcMiEnrtUMJtGPgpU6CTzT6f9uH0Ddy6-bRlbUHTveqgei7PQhoccPU8Nu0-KO79-Dw0L6MhAQNc0_A955UUk"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cNs-iSEv5dbN1MtqwPc5cuo.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cA_cGcZcMIiVNL8Gqe_r_7U_nAXQvq1Es9h0OIaAvIGj.png",
+      "source": "Walmart - Seller",
+      "title": "WholeHearted Grain Free All Life Stages Chicken & Pea Recipe Dry Dog Food",
+      "rating": 4.7,
+      "reviews": 1200,
+      "price": "$52.99",
+      "extracted_price": 52.99,
+      "original_price": "$2.12/lb",
+      "extracted_original_price": 2.12,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "J4CzbXicbY5NjqNGGIalnCF3yMIaqaqowia79g9gpg0G6seuzQgoDNhloDF2Yyt3yB3cM5Emy5lIOUvnNHGkLGf7PJ--9_n9nld_9x9yIzltiueMFjCfrMvxcd-E4de2a9Q56yv13cQEY2QQhAEwIERjYnzNkj7RTVGpvyCcIOvBDQIxmUCEAMTfyjxRuqrzYLfLu3mT_XcHTGRAYEFoAGQCQohF_qyOSZH_7ycGMLGFEcTmGABr8ph669TpHa1nnyZjNIGQTAAkBrAIhgj_to6C-acfuy8v57y7vv_SN-0o7ZJanUa7phsVXVLVo12X5yPVXUeqKR64UacvRfso-P6DR2_HSn0jYxObyIIGNgEYI9Mgb-2lv5fF5_NZ5-_odTR7WobL2TKPHQtmRnRJq4GJ2cDkpiyz68DTowZShAUzolI5_HYv9P18upf6ntd_NEl72WX__PTzonmdz06vs5C1LZ9HIAblTjrDhSHOlbMCbM4RP5BZziK-gtuBUT5NnXJJFxaX--3gU9U_b7KBa276B4K3VHmSkSC8ede0Dm8J8DeBszA4autowcv45oktnVKxkRsm9Jq5-pILJf1NVIbH0mYOxtQo3a22vGzDPyaOPgc82q0enh7aJgVly2sbcleHdG9vQ0AuycJzcz0V6YE4j2ZE2VAFAmN24LdkzyMK7UQ4p15p7iZiGAJnoMwNr8r2aKLlkNcrkhxsLxba4VC-qLkE3NEis9tECYBTll19oV6ivbwy-AQDEXFme4QKH6-EmjFuu4xnUDi8oo7XyvkS5Kws86N-DlxtUtE_hwdySvnUZ9CfBzGk8ghukiqYHvTMN5QZHvhKuu1WopapY79Zue2UHeXH-Eg8-tiXglDqkDJx2n12U10mrFVKvZtwXmPbCHtJ_TKDZU0dn8mbrQN72vgIvqTQjpzKm0aufw2EjLe8wXRh9-Iw1JRnDwYvMQCIsWiq5qvh0VR_Hk7d7h082aSPg_EOpPWHBpb79PqIWyfGS6-py9OnVfErHFsAG2MDYITIv7XtRxU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=J4CzbXicbY5NjqNGGIalnCF3yMIaqaqowia79g9gpg0G6seuzQgoDNhloDF2Yyt3yB3cM5Emy5lIOUvnNHGkLGf7PJ--9_n9nld_9x9yIzltiueMFjCfrMvxcd-E4de2a9Q56yv13cQEY2QQhAEwIERjYnzNkj7RTVGpvyCcIOvBDQIxmUCEAMTfyjxRuqrzYLfLu3mT_XcHTGRAYEFoAGQCQohF_qyOSZH_7ycGMLGFEcTmGABr8ph669TpHa1nnyZjNIGQTAAkBrAIhgj_to6C-acfuy8v57y7vv_SN-0o7ZJanUa7phsVXVLVo12X5yPVXUeqKR64UacvRfso-P6DR2_HSn0jYxObyIIGNgEYI9Mgb-2lv5fF5_NZ5-_odTR7WobL2TKPHQtmRnRJq4GJ2cDkpiyz68DTowZShAUzolI5_HYv9P18upf6ntd_NEl72WX__PTzonmdz06vs5C1LZ9HIAblTjrDhSHOlbMCbM4RP5BZziK-gtuBUT5NnXJJFxaX--3gU9U_b7KBa276B4K3VHmSkSC8ede0Dm8J8DeBszA4autowcv45oktnVKxkRsm9Jq5-pILJf1NVIbH0mYOxtQo3a22vGzDPyaOPgc82q0enh7aJgVly2sbcleHdG9vQ0AuycJzcz0V6YE4j2ZE2VAFAmN24LdkzyMK7UQ4p15p7iZiGAJnoMwNr8r2aKLlkNcrkhxsLxba4VC-qLkE3NEis9tECYBTll19oV6ivbwy-AQDEXFme4QKH6-EmjFuu4xnUDi8oo7XyvkS5Kws86N-DlxtUtE_hwdySvnUZ9CfBzGk8ghukiqYHvTMN5QZHvhKuu1WopapY79Zue2UHeXH-Eg8-tiXglDqkDJx2n12U10mrFVKvZtwXmPbCHtJ_TKDZU0dn8mbrQN72vgIvqTQjpzKm0aufw2EjLe8wXRh9-Iw1JRnDwYvMQCIsWiq5qvh0VR_Hk7d7h082aSPg_EOpPWHBpb79PqIWyfGS6-py9OnVfErHFsAG2MDYITIv7XtRxU"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cB30SSkP0bb5O-5iQ0_v2Ws.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cFZK50DFmRxSP_pA1xKXs9DB2Cd6G9oSAOm1xhJT2ALk.png",
+      "source": "Tractor Supply Company",
+      "title": "Diamond Naturals Grain Free Sweet Potato Dry Dog Food",
+      "rating": 4.6,
+      "reviews": 813,
+      "price": "$31.99",
+      "extracted_price": 31.99,
+      "original_price": "$2.28/lb",
+      "extracted_original_price": 2.28,
+      "delivery": "Free delivery on $49+",
+      "immersive_product_page_token": "4nldk3icbVNJjttGFAVyhtwhC8FADSwO3qlFkRLdpMSpSNXGIFkUp-LQFNVNCblD7qC2AzhL24DP0jlNZCBLb9-E_x_w_rrl1Y_pXY6TU1w8ZkEBc3VfKm3du-6XYez5OZsq_k1WJAwkmRBNIRATSCD8kiVTIvqi4t8hhESVIZJliJFGFKip5GuZJ1xUXb47HvNR77OfOqRArBGAASToZ5imwH-qNiny_3kVKLICoCRhGUiYKJIEX0d-ekP71UeMgSyrqkQ0VUaSihHS_tx7O_3jr7nPT-d8vLz9MfXDIh2Tjp8Wx35cFGNSdYvjmOcLPl4WvC_ucM9Pn4vhfsG3XwS9thX_ShRZkpEiYw2riiQrCL8Oz9OtLD6dzyJ_Qy-L1XLrblfb3Dc1mGHvOa3mMFrNIYvLMrvMNG0FYJFbhNgruUmvt0LczqdbKW5593efDM_H7N_ffl_3L_rq9LJyw2Ggugf8Fta-LoYYC5RGPE6upewFS0ADLoeCIRczEgZlG3QWiZppk0FG3M7YJCGY7j7bp-XW6agZNBJ0G97wzgEu9UBgHuasbSYPL2e3cdahsOoDtmcfOaGLeMxj4dO4IOxqyHlkbZPN4SVv4aNP2WWnizZrDZ8jcQ2Eod89cRS6EusGdMAM-RurtjvH4q0RJ-YwBmKQ_GbQY0hB2NBrij2421gea629W1trjtfzgRpmYk5bDzstByeSGLRLsKNzYTgMc5mubey27IMNtYg29syNBrCurD340LqRJKWUP_M2BAdUTIfaqvPGC3gDcSaGQwIHyw2FsONs9oU2pUCCu9gI3eD-H3aOnPIrR86HrPYqr9Gog8IpiqBOhZj88N5HKKLAtE5cDNCJy4h3w8wwJenGWbvAcgKqknA9G3bDaWZkvoHdiQVOmcGyC0wnvHcodsZD7yD4lELDMyvrwds4l13EPLaeR9soH1nczCwyTnnwINuArHxqRYFOEweKh0_zaTy-gaVBJn-nHEHavethWacXhoZ9gp8mEWxourSL91DR7rNR7ktFiPwHZj5Flg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4nldk3icbVNJjttGFAVyhtwhC8FADSwO3qlFkRLdpMSpSNXGIFkUp-LQFNVNCblD7qC2AzhL24DP0jlNZCBLb9-E_x_w_rrl1Y_pXY6TU1w8ZkEBc3VfKm3du-6XYez5OZsq_k1WJAwkmRBNIRATSCD8kiVTIvqi4t8hhESVIZJliJFGFKip5GuZJ1xUXb47HvNR77OfOqRArBGAASToZ5imwH-qNiny_3kVKLICoCRhGUiYKJIEX0d-ekP71UeMgSyrqkQ0VUaSihHS_tx7O_3jr7nPT-d8vLz9MfXDIh2Tjp8Wx35cFGNSdYvjmOcLPl4WvC_ucM9Pn4vhfsG3XwS9thX_ShRZkpEiYw2riiQrCL8Oz9OtLD6dzyJ_Qy-L1XLrblfb3Dc1mGHvOa3mMFrNIYvLMrvMNG0FYJFbhNgruUmvt0LczqdbKW5593efDM_H7N_ffl_3L_rq9LJyw2Ggugf8Fta-LoYYC5RGPE6upewFS0ADLoeCIRczEgZlG3QWiZppk0FG3M7YJCGY7j7bp-XW6agZNBJ0G97wzgEu9UBgHuasbSYPL2e3cdahsOoDtmcfOaGLeMxj4dO4IOxqyHlkbZPN4SVv4aNP2WWnizZrDZ8jcQ2Eod89cRS6EusGdMAM-RurtjvH4q0RJ-YwBmKQ_GbQY0hB2NBrij2421gea629W1trjtfzgRpmYk5bDzstByeSGLRLsKNzYTgMc5mubey27IMNtYg29syNBrCurD340LqRJKWUP_M2BAdUTIfaqvPGC3gDcSaGQwIHyw2FsONs9oU2pUCCu9gI3eD-H3aOnPIrR86HrPYqr9Gog8IpiqBOhZj88N5HKKLAtE5cDNCJy4h3w8wwJenGWbvAcgKqknA9G3bDaWZkvoHdiQVOmcGyC0wnvHcodsZD7yD4lELDMyvrwds4l13EPLaeR9soH1nczCwyTnnwINuArHxqRYFOEweKh0_zaTy-gaVBJn-nHEHavethWacXhoZ9gp8mEWxourSL91DR7rNR7ktFiPwHZj5Flg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cL2OV2gvgvP13YadR70xNj4.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/QjdzKKMQXrCoidHIGfj0cA1F6uslzHC-y3sbzYvBWpFtosHbAN0879Sz7Ggsfz9i.png",
+      "source": "Chewy.com",
+      "title": "Rachael Ray Nutrish Zero Grain Chicken & Sweet Potato Recipe Dry Dog Food",
+      "rating": 4.3,
+      "reviews": 741,
+      "price": "$46.48",
+      "extracted_price": 46.48,
+      "original_price": "$1.79/lb",
+      "extracted_original_price": 1.79,
+      "delivery": "Free delivery on $49+",
+      "immersive_product_page_token": "SRghd3icdZJNrqNGFIWlrCF7yMBqqX7AQM-ejcF27LIpqCrMpAUUBtvFz8PYxlb2kD34dUfqDDstZS0vqwnqcXKH51x9uufo_v7MDn93HzIcn8N8lQY5zMxtYZTH2vO-Nm0tL2l3kH9pponBGMCxiSxk6GOkwa9p3MWqzg_y-yBjE-iGNcxY1y0LI_ityGKpDlW22e-z1q7TgaIbwDB0rBka1sfD2liDfx7KOM9-2N8hMk0dGLpl6Do0NQ0jDb-18vyubaefoAkMMHAxwJqFxxgBDf22pRv70_-YX14vWXt__6Wrm1HSxpU8j_Z1O8rb-FCN9m2WjWR7H8k6H-Ranr_kzY8b_oP0Vh7kN90Ya2NkoiHnUIFpYPDWXLtnkX--XFT2jm6j6cvCW0wXme9aMMX0mhx6JqY9i8KiSO89T0oFIuHlDNNCuvzxzNXzcn4W6plVf9Rxc92n__z086y-2dPzbeqxpuE2BYF96mkQhbtSwtRthDyd4Y4zlCl6iGx1SpHUPKRCiuCWH5fh2pb7XcUj35ZxJvobL084mdHVJnwBhPVzqqyZFM1Wsm6_CtI7m_M4vgOUiK6m9kynbv-QgWp9xq8h6r2oKhoRnHpfNJzjhpD5BApXrZmrR3Qm56RSNONkG4jla-awzkNETwKn4zY5-ULFMSARc0iRlt0rO2mYHidUwoYkeEnWQGrxScXBwKXzRiMzsicPR0QwajZujVMsew86TepMjpGr3Xzg2KmAC3okVWCTFQ2KZld5gDmTiY9VGWC1FNUMJrDgTHDsKzmXgmhJELnJrNiyWWcHvHnEj2geH2kR88U9KuVJOJMdU8WvnvJw-JDFSkR0Ey5LCeB2I_QlYXLNT-zGKulkpXWNQYfXzNrQ0tp5sL6lgl-oG-3WIDqLkvkO9rooGDLDogpcwqKHozbOpCYIvibQoe5hOaFzct-IyF8HEjPUgwCp1bosap-rSepInITkLFxrKcMJ_tyf2_07eHH0zt8Ye5BUH2pYHJN7hJptjF87Fcx58rLOP0LDAhoenlNDSP8X9PtHow",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=SRghd3icdZJNrqNGFIWlrCF7yMBqqX7AQM-ejcF27LIpqCrMpAUUBtvFz8PYxlb2kD34dUfqDDstZS0vqwnqcXKH51x9uufo_v7MDn93HzIcn8N8lQY5zMxtYZTH2vO-Nm0tL2l3kH9pponBGMCxiSxk6GOkwa9p3MWqzg_y-yBjE-iGNcxY1y0LI_ityGKpDlW22e-z1q7TgaIbwDB0rBka1sfD2liDfx7KOM9-2N8hMk0dGLpl6Do0NQ0jDb-18vyubaefoAkMMHAxwJqFxxgBDf22pRv70_-YX14vWXt__6Wrm1HSxpU8j_Z1O8rb-FCN9m2WjWR7H8k6H-Ranr_kzY8b_oP0Vh7kN90Ya2NkoiHnUIFpYPDWXLtnkX--XFT2jm6j6cvCW0wXme9aMMX0mhx6JqY9i8KiSO89T0oFIuHlDNNCuvzxzNXzcn4W6plVf9Rxc92n__z086y-2dPzbeqxpuE2BYF96mkQhbtSwtRthDyd4Y4zlCl6iGx1SpHUPKRCiuCWH5fh2pb7XcUj35ZxJvobL084mdHVJnwBhPVzqqyZFM1Wsm6_CtI7m_M4vgOUiK6m9kynbv-QgWp9xq8h6r2oKhoRnHpfNJzjhpD5BApXrZmrR3Qm56RSNONkG4jla-awzkNETwKn4zY5-ULFMSARc0iRlt0rO2mYHidUwoYkeEnWQGrxScXBwKXzRiMzsicPR0QwajZujVMsew86TepMjpGr3Xzg2KmAC3okVWCTFQ2KZld5gDmTiY9VGWC1FNUMJrDgTHDsKzmXgmhJELnJrNiyWWcHvHnEj2geH2kR88U9KuVJOJMdU8WvnvJw-JDFSkR0Ey5LCeB2I_QlYXLNT-zGKulkpXWNQYfXzNrQ0tp5sL6lgl-oG-3WIDqLkvkO9rooGDLDogpcwqKHozbOpCYIvibQoe5hOaFzct-IyF8HEjPUgwCp1bosap-rSepInITkLFxrKcMJ_tyf2_07eHH0zt8Ye5BUH2pYHJN7hJptjF87Fcx58rLOP0LDAhoenlNDSP8X9PtHow"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTfR1Jj5_ukacSAvWzMbg20LkEZ1UixzhoPSCWtlKWKB9nOsAKlVqppmEM6Oz6Rgm7xZ2-QT3MP3EAX4LCbpRxvb5YBdXQmjXJAk-voaR_WNRq48xmwAfll",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTpD92kHPUdZJ2hsZPwO0tXx469V5ItOpMcHg79R9okvpCkVaq9T1uvDI4FwSAX5ZDiBFmkuccNf8tNBAHSLb8cl3wDVCC16C3eIVQ",
+      "source": "Only Natural Pet",
+      "title": "Orijen Grain Free Dry Dog Food",
+      "price": "$35.99",
+      "extracted_price": 35.99,
+      "delivery": "Free delivery on $49+",
+      "immersive_product_page_token": "sTSNOnicdY9LbtswAETR03RhBBD1ia3u_JEUu7EcUqYoc1PQpCxKoj6RZVvWJXqFwEkKpMuiQM-SnqYu0G03s5jBm8F8vcTpr_YmNtg-Su75OgHx6EEOi6yC8K1uKnHgbSp-AnCrGWBoAU2zR8YtMIFlvXHWMlUlqXj6IWMmVFrGq90ubmYV_w_yPS1YEv_Lb00TjAxtNLRsfaSNjOHQfm7E_un18RA35_ePbVUPtg0rxX6wq5pB0rC0HOyaOB6I5jwQVXK1K7F_Tepr3dNz8VfqY3uRycvhoOJ3_TSYjudwPp3HgWcDbqDjNu0wmXaYRlLycxduC6VRAhNsICm8sL8k6nLYX6S6xOW3itXHHf_9IXOq03S6P00grutwhrS1M--Q5y6DnDJ2N-6XvTuFva-tvbpchY6xznm_BYuIkfDM3EXhZ4lFcbgRXr1HOdeXalJf10yo_JZq3XlZ8jPTnJ4Teb_UZRaWfr11ugASy6BYmqFjl1BT7op0GOlowok_Yf0C-o5rUqfSUeTe4zWKNrloAnfeYqUoJzYKSngOI9fzixCRjGLkhStKlBKZC6gSld-PuyXZdNQRk4AAuXJqGIBFwSNubdfq8wZ3OlJ-LjzwuPWQR2c0h0SmsA8BjWrgSKHdE9xvIn9z_ZGFHu_oWkI2Ey0rbIRRlUKMep6pApPFEt35cpPJ2nc6SD165PliBUsUhLOkxbmpY_jS7ZvduzZ2rTZYWfzBATe4Sw75HWm-jJOjOpk3TgSSKfwEhrZmGkNDM3Vr9Af6Wvjt",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=sTSNOnicdY9LbtswAETR03RhBBD1ia3u_JEUu7EcUqYoc1PQpCxKoj6RZVvWJXqFwEkKpMuiQM-SnqYu0G03s5jBm8F8vcTpr_YmNtg-Su75OgHx6EEOi6yC8K1uKnHgbSp-AnCrGWBoAU2zR8YtMIFlvXHWMlUlqXj6IWMmVFrGq90ubmYV_w_yPS1YEv_Lb00TjAxtNLRsfaSNjOHQfm7E_un18RA35_ePbVUPtg0rxX6wq5pB0rC0HOyaOB6I5jwQVXK1K7F_Tepr3dNz8VfqY3uRycvhoOJ3_TSYjudwPp3HgWcDbqDjNu0wmXaYRlLycxduC6VRAhNsICm8sL8k6nLYX6S6xOW3itXHHf_9IXOq03S6P00grutwhrS1M--Q5y6DnDJ2N-6XvTuFva-tvbpchY6xznm_BYuIkfDM3EXhZ4lFcbgRXr1HOdeXalJf10yo_JZq3XlZ8jPTnJ4Teb_UZRaWfr11ugASy6BYmqFjl1BT7op0GOlowok_Yf0C-o5rUqfSUeTe4zWKNrloAnfeYqUoJzYKSngOI9fzixCRjGLkhStKlBKZC6gSld-PuyXZdNQRk4AAuXJqGIBFwSNubdfq8wZ3OlJ-LjzwuPWQR2c0h0SmsA8BjWrgSKHdE9xvIn9z_ZGFHu_oWkI2Ey0rbIRRlUKMep6pApPFEt35cpPJ2nc6SD165PliBUsUhLOkxbmpY_jS7ZvduzZ2rTZYWfzBATe4Sw75HWm-jJOjOpk3TgSSKfwEhrZmGkNDM3Vr9Af6Wvjt"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT16T-9X0Tq3_VJ3vfffUasUpCQytD2zfLjISchCmaZEz6MT5gt8aNCXs5ThWcUnafgTcdLY-6dYtVeQP9gLSFUubr4e6N-UtlF9dlsAA5VIWKVXaMbneba",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSEGJRrqpPN0DV4slVeQMVn_uBQU47qpWQzfBU8aI6PE376-sFSAXbZzYGlnEcaqIOMiMxYEYFSqqJVVP6EgtZWngBBa_trPSryCovQHlwH4t0",
+      "source": "Brookside Barkery & Bath",
+      "title": "Orijen Regional Red Dry Dog Food",
+      "rating": 4.6,
+      "reviews": 1900,
+      "price": "$36.99",
+      "extracted_price": 36.99,
+      "original_price": "$8.22/lb",
+      "extracted_original_price": 8.22,
+      "immersive_product_page_token": "GQvlunicbZNNjqNGAIWlnCF3yMJqqaqgwJVd2xhs0uCmcFWZ2rQwhQGbv8a4jVHukDu4ZyJNlpORcpbOaeKZdbbvPb33bd4ft7T4p39Itfi0zZ6STQbT6XNuVocmCL60XaPOSV-obxBAoplQMzWMdGCa-pTAL0ncx2WTFepvnRgmmmIdGMggxCBQN77maazKok7X-33aWU1yj0EDE2QifYqngJj4nod_FVWcpT_sb9AwDUAw0vT7DpgiZEL83qnTB3qevxgGwMAw7xO6bnxn0Mnvz3Rtvfy_9_n1nHbXj1_6pp3surhWp8m-6SZZFxf1ZN-l6UR114lqsrvcqNPnrP0OeAdD2p0AGogghAkk-L0q1FdsGvdi08QmIARAhNF7-9bf8uzT-VymH-gymT-ugtV8lYYOgYlG33bFwMR8YHKb58l14LuqBFIEGdNorhw-3rLydj7d8vKW1n82cfu2T_796edFc7Hmp8s8YG3LLQpC2M6kYEguZ51COEyYW9GKeztApXfkjeeUkW_RVtjtPBHywGt3Lxw5i50BhoLboeW-iSUP6eiH3sEeWIWP_kir2NFBsmyfZU11vuiflPCG6JjjBCxGZSVaKHrqMf4aHOxYVQ1cM3eIC2gntR0kiAS-Jn_bLdUpttioRDDuDjNXLCLEq-YaV-36iWHdE7hmPNBZFQ2-yOuw4isP2U-qInvm5BdhuW48sqviK-DbuR9VcB0L-ylA2N0AaFBAIuUMLdPyKOFuE3Fq7TZeT1GJQysf2VHm6UZ2a3HSKJd9unFLWfWVqOV1C1yDg2iMj67YCTAwy62Z1gwhk4vkQF8pm6KAU0_w2SC4myu7QXRZHhVcQOrwMig5FLUaqW23Eg2FLEnji77fbP0xYCcYaSWPt-1S2QQpQWmycTmt4MqDUWhrQS83fp7AvN44PpOjXa7tWeMj-LqDNnUKd0aX_nUtZBgjHPm1cuJlctks5HoH-pCJFsa1f0qg1KMjrT8Np27_AR5t3IdrnDwv4AMbsvNxKbqXx-ytvOgPiy3M5sGv0CTgx3V0hKf_AeHARxY",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=GQvlunicbZNNjqNGAIWlnCF3yMJqqaqgwJVd2xhs0uCmcFWZ2rQwhQGbv8a4jVHukDu4ZyJNlpORcpbOaeKZdbbvPb33bd4ft7T4p39Itfi0zZ6STQbT6XNuVocmCL60XaPOSV-obxBAoplQMzWMdGCa-pTAL0ncx2WTFepvnRgmmmIdGMggxCBQN77maazKok7X-33aWU1yj0EDE2QifYqngJj4nod_FVWcpT_sb9AwDUAw0vT7DpgiZEL83qnTB3qevxgGwMAw7xO6bnxn0Mnvz3Rtvfy_9_n1nHbXj1_6pp3surhWp8m-6SZZFxf1ZN-l6UR114lqsrvcqNPnrP0OeAdD2p0AGogghAkk-L0q1FdsGvdi08QmIARAhNF7-9bf8uzT-VymH-gymT-ugtV8lYYOgYlG33bFwMR8YHKb58l14LuqBFIEGdNorhw-3rLydj7d8vKW1n82cfu2T_796edFc7Hmp8s8YG3LLQpC2M6kYEguZ51COEyYW9GKeztApXfkjeeUkW_RVtjtPBHywGt3Lxw5i50BhoLboeW-iSUP6eiH3sEeWIWP_kir2NFBsmyfZU11vuiflPCG6JjjBCxGZSVaKHrqMf4aHOxYVQ1cM3eIC2gntR0kiAS-Jn_bLdUpttioRDDuDjNXLCLEq-YaV-36iWHdE7hmPNBZFQ2-yOuw4isP2U-qInvm5BdhuW48sqviK-DbuR9VcB0L-ylA2N0AaFBAIuUMLdPyKOFuE3Fq7TZeT1GJQysf2VHm6UZ2a3HSKJd9unFLWfWVqOV1C1yDg2iMj67YCTAwy62Z1gwhk4vkQF8pm6KAU0_w2SC4myu7QXRZHhVcQOrwMig5FLUaqW23Eg2FLEnji77fbP0xYCcYaSWPt-1S2QQpQWmycTmt4MqDUWhrQS83fp7AvN44PpOjXa7tWeMj-LqDNnUKd0aX_nUtZBgjHPm1cuJlctks5HoH-pCJFsa1f0qg1KMjrT8Np27_AR5t3IdrnDwv4AMbsvNxKbqXx-ytvOgPiy3M5sGv0CTgx3V0hKf_AeHARxY"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRWL-8EvR1w3yxmbB_ZLm3DhWwtj_zgEN572P996dWno_bQnxU7xPnGQuyJHjDvIl_n9uF-C2crxyIsSn_In9d_IzCVu71IiMDGj5rydb0HdV-r1vkZiOSwhw",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRZtqkeUWI7v59gPOLsa8bFt7r42OFFs8prbrgujppCyXBERnQ5T0rBk0o21Rytjp3i9i9Igp5pNvvfO9cGD-5dPjRNs8BI",
+      "source": "Chewy.com",
+      "title": "True Acre Foods Grain-Free Vegetable Dry Dog Food",
+      "rating": 4.1,
+      "reviews": 2500,
+      "price": "$57.99",
+      "extracted_price": 57.99,
+      "original_price": "$1.45/lb",
+      "extracted_original_price": 1.45,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "-doKjnicbVJLkqNGFIzwGXwHLxSOqA9f71qC0scGREEVdG0mECBAFJ9GqIUUvoPvoJ5xxHg5ngifpX0aM97a28wXme-9zN8eefXX-GOOk3Nc_JKGBcyNfak3p873P_dDl13Sscr-VE0FK4pqYAgVQ4XYUNDnNBkT2RVV9hXqmmqqho40CICGATYM7UuZJ5ms2tw7HvPB6tIq-6LpUAEmxiaGCjKBgdAfVZMU-b_s1xnTdU03dYywioACDQ29Ddn5HexXH1QDmlA1EVIMQ5nNEP51Tz3rw_9Sn14u-XB7_2Hs-sVhSNrsvDh2w6IYkqpdHIc8X2TDbZF1xQx32flT0X_b7r86b803WNcUDSkAIB0oGGk6eutfx0dZfLxcZP6OrovV09bfrrZ5sDZhiunroZpYtJqYiMsyvU380EggIr9gmJbZmt8fhXxczo9SPvL29y7pX4_p3999b3dXa3W-rnzW99yiINwsj4m1s3xQbny5HZltxgI_QQZGGTTdRJsrdE_Z6PByG5ycMYrK1j25dgZ2VbQmddCoIKzHXWATn1tlwpE8sza78w09B7ZwxZ07fujypOYTW_e3lOyU3BaYsgwLxCdaz-rQbQPOTxF7vjoV9BMru_mSnp1YBDEgjl9ncRASO6nLlcfJ3bOL-wGXyIvFjQMV-XcSBs3UZlCusmZ7P9gmDWOKKTKxYPLoQnNK1-U-hAT7EYxde1TSlsc52yUpmE-SfUzX_RTVMniGtH7GMnnmxPUrWObt092zlntfLsNgrf7scdoEEdEO0RUdcG8LbgZiIxsv9K8B7yMHCY_JMj7MHqyZQFTzOKmNKyMudVt6FfO_oo1klLk3UZsvUejfDiGnLiHbKBp9cdqFIYCSxiKk3B6ddanyO0NRPVqOFMJtWDBfMYrQLVNYtuHaZeJOpEeWnYvgywESuq52S7pxb140T0FxZBtezXkzgcZrKOWSsnFuiIvmlE4xJvjjdB6O7-CJqGPgqZRscw2BusDwYjvjZayIpyy3wfznn6Buzu3UMVCQav4DcpZFnw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=-doKjnicbVJLkqNGFIzwGXwHLxSOqA9f71qC0scGREEVdG0mECBAFJ9GqIUUvoPvoJ5xxHg5ngifpX0aM97a28wXme-9zN8eefXX-GOOk3Nc_JKGBcyNfak3p873P_dDl13Sscr-VE0FK4pqYAgVQ4XYUNDnNBkT2RVV9hXqmmqqho40CICGATYM7UuZJ5ms2tw7HvPB6tIq-6LpUAEmxiaGCjKBgdAfVZMU-b_s1xnTdU03dYywioACDQ29Ddn5HexXH1QDmlA1EVIMQ5nNEP51Tz3rw_9Sn14u-XB7_2Hs-sVhSNrsvDh2w6IYkqpdHIc8X2TDbZF1xQx32flT0X_b7r86b803WNcUDSkAIB0oGGk6eutfx0dZfLxcZP6OrovV09bfrrZ5sDZhiunroZpYtJqYiMsyvU380EggIr9gmJbZmt8fhXxczo9SPvL29y7pX4_p3999b3dXa3W-rnzW99yiINwsj4m1s3xQbny5HZltxgI_QQZGGTTdRJsrdE_Z6PByG5ycMYrK1j25dgZ2VbQmddCoIKzHXWATn1tlwpE8sza78w09B7ZwxZ07fujypOYTW_e3lOyU3BaYsgwLxCdaz-rQbQPOTxF7vjoV9BMru_mSnp1YBDEgjl9ncRASO6nLlcfJ3bOL-wGXyIvFjQMV-XcSBs3UZlCusmZ7P9gmDWOKKTKxYPLoQnNK1-U-hAT7EYxde1TSlsc52yUpmE-SfUzX_RTVMniGtH7GMnnmxPUrWObt092zlntfLsNgrf7scdoEEdEO0RUdcG8LbgZiIxsv9K8B7yMHCY_JMj7MHqyZQFTzOKmNKyMudVt6FfO_oo1klLk3UZsvUejfDiGnLiHbKBp9cdqFIYCSxiKk3B6ddanyO0NRPVqOFMJtWDBfMYrQLVNYtuHaZeJOpEeWnYvgywESuq52S7pxb140T0FxZBtezXkzgcZrKOWSsnFuiIvmlE4xJvjjdB6O7-CJqGPgqZRscw2BusDwYjvjZayIpyy3wfznn6Buzu3UMVCQav4DcpZFnw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQpdqv0F53hboCVIKY-EcGmWd_j3mWuhPxCLnYmjsVcmh-5K2ast2bNgwbVMajeYGVOtBBB61PhlKCuCd2ihVln2yNrgMVxqe4ZoU0Wi8PUjgGXiQwlOM_lNQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSEf2oi4217HMKhbhgKu78OKaZcgxYNSoq9gqkLdTHz7He2dw99zTfs0euL_jWBX9amuXmpRnrjXeLkGn7j6k-8UFhRmANusPSOocvY6wFltzg",
+      "source": "The Honest Kitchen",
+      "title": "The Honest Kitchen Dog Food Grain Free Whole Food Clusters",
+      "rating": 4.6,
+      "reviews": 5000,
+      "price": "$94.99",
+      "extracted_price": 94.99,
+      "original_price": "$4.75/lb",
+      "extracted_original_price": 4.75,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "eOnSynicbVPLjqNWEJXyDfmHLKxI9wHGZNc2LxNzaS5wwWxGwMWAuQYa47ax8g_5B_dMpMlyEinf0vma0FlPlVSLc6pO1VnU74-i_mf8ucDpOS53eVDCYvVcKadj53lf-6Hjl3ys-d8QyIoMZFlZKisVIBlDrHzN0zEVXflBw6Uqq2CGFRkjCeGVJH2ripSLui3cw6EYtC7_6MOSslwBSV1hiJYIgTn-rE9pWfzP_wUVaQnRCisKlKAEJASkt4Gf39Hz5tNKmQeWSMXyXJcKUMHqt2fqap--z315uRTD9P7T2PWLbEhbfl4cumFRDmndLg5DUSz4MC14V85wx89fyv7jgO8IvZ1q_m02Li3RSlVUVVUURVbgW_86Pqry8-Uiind0XWyett52sy18U4U5pq9ZfQujzS1M4qrKpxvLTgIkkVeGmFbcZPdHKR6X86MSj6L9o0v710P-7w8_6t1V25yvGy_se6ZR4GOj9yP9xlo2OfFeynRqZYDsI7GaGCO2c3cQC8iNBY0cHZM6i7kVmWBkrS7lWnl3LH3yINmnJquzI8MMG_X-WP3qhnyKDNtz7rzhR4ootG1P8Gth6ohbySVo9ohGiRODHKdhec1M-eQLfgjMW0iMtcx0puWnHifGenCQunFD6odtD4mV-D7qrxzRJoroMYZiSk9nkAPe0KZyA6vDaSyEA2x_F9sOOyY7ElRhZvZV1m4nv7Fnn8QMYjuhmtByuD7MOw40sqXEIi9-zGliUFY03j1rG5S3Yk0xOWSWUfs69CJW7YjJd_yYozwWUhKepbx9utJIPuU6x5lgiMzJUA9y1E28Ce-5ybTgKJoMsZpEBnM1MTiihG6QQz8kmKBk3IU0SU_lnZ-kK9W4tkceiGJju2MqzvTu7kacRG1ihVbpG9gbk4BUOazawCRhcjeEa6w7guBLBg1q1vaaWmRyo8TfMX4jyJY8H-4KjcUsUl8ZE66riygw7JqIqv18Ow-Hd_BkyKPvytTYFksEmhLDi-6Ml7E2XGm99WXk_QIVFUhYwfPjyOp_liJFig",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=eOnSynicbVPLjqNWEJXyDfmHLKxI9wHGZNc2LxNzaS5wwWxGwMWAuQYa47ax8g_5B_dMpMlyEinf0vma0FlPlVSLc6pO1VnU74-i_mf8ucDpOS53eVDCYvVcKadj53lf-6Hjl3ys-d8QyIoMZFlZKisVIBlDrHzN0zEVXflBw6Uqq2CGFRkjCeGVJH2ripSLui3cw6EYtC7_6MOSslwBSV1hiJYIgTn-rE9pWfzP_wUVaQnRCisKlKAEJASkt4Gf39Hz5tNKmQeWSMXyXJcKUMHqt2fqap--z315uRTD9P7T2PWLbEhbfl4cumFRDmndLg5DUSz4MC14V85wx89fyv7jgO8IvZ1q_m02Li3RSlVUVVUURVbgW_86Pqry8-Uiind0XWyett52sy18U4U5pq9ZfQujzS1M4qrKpxvLTgIkkVeGmFbcZPdHKR6X86MSj6L9o0v710P-7w8_6t1V25yvGy_se6ZR4GOj9yP9xlo2OfFeynRqZYDsI7GaGCO2c3cQC8iNBY0cHZM6i7kVmWBkrS7lWnl3LH3yINmnJquzI8MMG_X-WP3qhnyKDNtz7rzhR4ootG1P8Gth6ohbySVo9ohGiRODHKdhec1M-eQLfgjMW0iMtcx0puWnHifGenCQunFD6odtD4mV-D7qrxzRJoroMYZiSk9nkAPe0KZyA6vDaSyEA2x_F9sOOyY7ElRhZvZV1m4nv7Fnn8QMYjuhmtByuD7MOw40sqXEIi9-zGliUFY03j1rG5S3Yk0xOWSWUfs69CJW7YjJd_yYozwWUhKepbx9utJIPuU6x5lgiMzJUA9y1E28Ce-5ybTgKJoMsZpEBnM1MTiihG6QQz8kmKBk3IU0SU_lnZ-kK9W4tkceiGJju2MqzvTu7kacRG1ihVbpG9gbk4BUOazawCRhcjeEa6w7guBLBg1q1vaaWmRyo8TfMX4jyJY8H-4KjcUsUl8ZE66riygw7JqIqv18Ow-Hd_BkyKPvytTYFksEmhLDi-6Ml7E2XGm99WXk_QIVFUhYwfPjyOp_liJFig"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTEbv2glf62lauTK-jBXFyLrEuzS_SDDgsFV0asDugTHShx91T5s7Gvikm9fZT2h8ZHrGsf82fV1x3EjCXO1sthSEmX1X5mNSTmiPL3jIyMpC4usjYeumCtZA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSXYj6vWB24FOi2KF91iCaP9bj7Y2OV2BFUWZwutLQNJq0MTRIGrCVC__yO49oRRCmHK3IqFCWxi0odU6B71POU2rFdMgT0",
+      "source": "Petco.com",
+      "title": "WholeHearted Grain Free All Life Stages Chicken & Pea Recipe Dry Dog Food, 40 lbs",
+      "rating": 4.7,
+      "reviews": 1200,
+      "price": "$67.99",
+      "extracted_price": 67.99,
+      "original_price": "$1.70/lb",
+      "extracted_original_price": 1.7,
+      "delivery": "Free delivery by Wed",
+      "immersive_product_page_token": "34d9DHicbZJLrqNGGIWV1WRgRaoHD5PZtaGwnQs2jwJckxZUYcA8jcHGVvaQLUTu7kjdw-5IWcuNspj4ZpzJPzjf0dE3-H97pMVfw08pjs9R9sr9DKbzXa7Wx9ZxvnR9K0Y-FOL7HEkIKhDKkiYBRZWRPP_C4yGu2uxJ8TPVVFmRng2gABlA8C1PY1EVTbo9HNJeb3kh_oRgLqlwrkoyVmQkYaBI-GtRx1n6H_8uYwihokiapiCA5nOElY-9OL-h3fLDcx2oGL-va08ZTVaVX3fuVv_w_-zzaUz729uPQ9vNkj5uxHl2aPtZ1sdFMzv0aToT_W0m2uwZt-L8OeueAr9_rN9PdxkeefZpHKv0DV1ny5e1s16uU8_UIMfuJSkmGi4nyqI857cpSOoKsNDJKHZzYQb3R1Y9xvMjrx5p80cbd5cD__uHf4xxvVye1kuHdl2gu8BfUcnB1jVBV2RB1_frTec1Cy8AUInu2c07BqZXsRMzbGTpC4M2m8O-1hbp0RlEsAdpk8vMLCe3ys09ta7sWDnh0UAccJnr-U007onifOMbYAiAfUqJIGmZAeYzwO5M9hq35-UQOWCIRXm-0XeHgBgJEAUF-ykCeemG56vw2RTom5OF2SU0YBk3lU-BcDwqYYe6rdMsJCtY9D6tLBFyzEIRJnd3FZfSNaZDuS-r0ibVxjLcVRiw89bPvYRsLG4Q0wkJ9KLqEiPhJFVwSaL9tIeE2Xd35GXepI0je_d8R-HLldFO5-F04X7li2YPk5Wot7pNfTM3gsb1LVSZ3orD14hPNHK3HG3kuLSNJLAkoWcDJ2KMoXZ0au4R7AzMt3MO88Y3bcrupNqSRWsjeEogcc1is3BX9m0bMi8kIvBJEAdBt6N1Rb0o0FlNfqGUvCYrDmwA3U_TuT-8gRciD95Wdsk6ff5vmWE4GtYwDgXZSou1JyPnZ6hqQMIqBhKStX8BfAYtMA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=34d9DHicbZJLrqNGGIWV1WRgRaoHD5PZtaGwnQs2jwJckxZUYcA8jcHGVvaQLUTu7kjdw-5IWcuNspj4ZpzJPzjf0dE3-H97pMVfw08pjs9R9sr9DKbzXa7Wx9ZxvnR9K0Y-FOL7HEkIKhDKkiYBRZWRPP_C4yGu2uxJ8TPVVFmRng2gABlA8C1PY1EVTbo9HNJeb3kh_oRgLqlwrkoyVmQkYaBI-GtRx1n6H_8uYwihokiapiCA5nOElY-9OL-h3fLDcx2oGL-va08ZTVaVX3fuVv_w_-zzaUz729uPQ9vNkj5uxHl2aPtZ1sdFMzv0aToT_W0m2uwZt-L8OeueAr9_rN9PdxkeefZpHKv0DV1ny5e1s16uU8_UIMfuJSkmGi4nyqI857cpSOoKsNDJKHZzYQb3R1Y9xvMjrx5p80cbd5cD__uHf4xxvVye1kuHdl2gu8BfUcnB1jVBV2RB1_frTec1Cy8AUInu2c07BqZXsRMzbGTpC4M2m8O-1hbp0RlEsAdpk8vMLCe3ys09ta7sWDnh0UAccJnr-U007onifOMbYAiAfUqJIGmZAeYzwO5M9hq35-UQOWCIRXm-0XeHgBgJEAUF-ykCeemG56vw2RTom5OF2SU0YBk3lU-BcDwqYYe6rdMsJCtY9D6tLBFyzEIRJnd3FZfSNaZDuS-r0ibVxjLcVRiw89bPvYRsLG4Q0wkJ9KLqEiPhJFVwSaL9tIeE2Xd35GXepI0je_d8R-HLldFO5-F04X7li2YPk5Wot7pNfTM3gsb1LVSZ3orD14hPNHK3HG3kuLSNJLAkoWcDJ2KMoXZ0au4R7AzMt3MO88Y3bcrupNqSRWsjeEogcc1is3BX9m0bMi8kIvBJEAdBt6N1Rb0o0FlNfqGUvCYrDmwA3U_TuT-8gRciD95Wdsk6ff5vmWE4GtYwDgXZSou1JyPnZ6hqQMIqBhKStX8BfAYtMA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcStsdqKnxzbA79QsmajOKiMUbxI4IfFAgcyWQWdNYXJXsvdiKrtjV8SlHLb92A3jY_qM3e6b2--BA6eLE_cy3BTJ9DShNHyRYNUsmtc3VTbRlgOmKiZ2X9W4A",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRZtqkeUWI7v59gPOLsa8bFt7r42OFFs8prbrgujppCyXBERnQ5T0rBk0o21Rytjp3i9i9Igp5pNvvfO9cGD-5dPjRNs8BI",
+      "source": "Chewy.com",
+      "title": "Natural Balance Limited Ingredient Sweet Potato Dry Dog Food",
+      "rating": 4.5,
+      "reviews": 2800,
+      "price": "$79.98",
+      "extracted_price": 79.98,
+      "original_price": "$3.64/lb",
+      "extracted_original_price": 3.64,
+      "delivery": "Free delivery by Mon",
+      "immersive_product_page_token": "w1OCVHicbZNNrqNGFIWlrCF7yMCKVD-AoWf-obAtu2wKqsBMWpgqAwYbHuBnbGUP2YNfd6TOsLulrOVlNaGlzJLp_XTvPedI5_enyv_qflU4bsN0nfgpVOYuG59Plet-qZtKXpMul99MjEwTIDSGxhgBy9KR9SWJu7is0oFizRxjOMaGDoCGNKBZ5tdMxbLML2p7PKpmXiW5_A6xPjaADhAEmmZZpg4g-jM_x6n6lw8EGXiMTQ0CqKHhC3hrZPuOdrOPeAAIQc20hjMWMqGJftux7fzj_7PPL1fV3N9_6ap6dGjii2xHx6oZpU2cX0bHRqmRbO4jWaXDuJLt57ROfhj576G3cy6_Dro1A5kIjse6MeiytLf6tXtm6afrtVTv6DaaTZbucrZUnmPBBLPXQ97zYNbzKMyy5N6Lw7kEUeCmHLNMOuLxTMvntX1m5VNd_qji-vWY_P3Tz3Z1m8_a28zldS3mDPh2t1F2v9ujFRCLpS4w48M28Ek2PXCGlGNDilfT5CwbL5zWcbg6SmLtg9IFEuk3b-52CZJXGUi-L5m99uDMQ3QdkSiWwDJcuEE03Nw2RKyiEzky27wJSF4jf6IFXBbsREASTttgUS4E75gv6F0WYuGVWRxCs5eCYuasukgI5vLMYGGtewuxlECsaMBidSHQPYtg70s3AmLtk3qdCMJjp-hdvtpKlBFms4fnFJDyVtsU9l3YQHdLuoq5pQWL2gk4vx8eU6YIf_zIQjjiKBai4TaHEab7hFe6j_qW4siNuSRJQF_UWRAqKBMFzYe_cSTki3xk5d53b6pkTWKn-ECm6yEbg8G6iEDPAifzvNIGPJxgelpqG2iRGNAuKSd6YEtIbXZKgn7Jwxrti25Ly_RGi2jwwLzoVMYuqDF7JB7Bbhf5NEtgdvEdyqMHKbdkWlEEXw6QMCdfTdmC3rdBxBiiD59HVVAwGhRWTlGrM1Hvwsce80XND5xePvVtc3wHE6J33lZnZKkMBIoUw6u96a5dTrbadOnpyP0AxxbQhvoMHdStfwB2akMU",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=w1OCVHicbZNNrqNGFIWlrCF7yMCKVD-AoWf-obAtu2wKqsBMWpgqAwYbHuBnbGUP2YNfd6TOsLulrOVlNaGlzJLp_XTvPedI5_enyv_qflU4bsN0nfgpVOYuG59Plet-qZtKXpMul99MjEwTIDSGxhgBy9KR9SWJu7is0oFizRxjOMaGDoCGNKBZ5tdMxbLML2p7PKpmXiW5_A6xPjaADhAEmmZZpg4g-jM_x6n6lw8EGXiMTQ0CqKHhC3hrZPuOdrOPeAAIQc20hjMWMqGJftux7fzj_7PPL1fV3N9_6ap6dGjii2xHx6oZpU2cX0bHRqmRbO4jWaXDuJLt57ROfhj576G3cy6_Dro1A5kIjse6MeiytLf6tXtm6afrtVTv6DaaTZbucrZUnmPBBLPXQ97zYNbzKMyy5N6Lw7kEUeCmHLNMOuLxTMvntX1m5VNd_qji-vWY_P3Tz3Z1m8_a28zldS3mDPh2t1F2v9ujFRCLpS4w48M28Ek2PXCGlGNDilfT5CwbL5zWcbg6SmLtg9IFEuk3b-52CZJXGUi-L5m99uDMQ3QdkSiWwDJcuEE03Nw2RKyiEzky27wJSF4jf6IFXBbsREASTttgUS4E75gv6F0WYuGVWRxCs5eCYuasukgI5vLMYGGtewuxlECsaMBidSHQPYtg70s3AmLtk3qdCMJjp-hdvtpKlBFms4fnFJDyVtsU9l3YQHdLuoq5pQWL2gk4vx8eU6YIf_zIQjjiKBai4TaHEab7hFe6j_qW4siNuSRJQF_UWRAqKBMFzYe_cSTki3xk5d53b6pkTWKn-ECm6yEbg8G6iEDPAifzvNIGPJxgelpqG2iRGNAuKSd6YEtIbXZKgn7Jwxrti25Ly_RGi2jwwLzoVMYuqDF7JB7Bbhf5NEtgdvEdyqMHKbdkWlEEXw6QMCdfTdmC3rdBxBiiD59HVVAwGhRWTlGrM1Hvwsce80XND5xePvVtc3wHE6J33lZnZKkMBIoUw6u96a5dTrbadOnpyP0AxxbQhvoMHdStfwB2akMU"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS4w55trF1clvOzpm7FyxPA1SNkvH1_9y0CtxiQOdRTUTB--LsU3Oq8ttuQVh2cOogj7yFSU0NCO4U27c-yNuvGj5dm4wq3amXEOZynjgo6hrtEtBXuwcmH",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRcCLXfRDHdKNVnmiar7hpo66O9goS98q8_w4zSfUoiI2dQybhHauaeMCOOm2ypVpBrlrABKokt6_6Q9LsJOoz7ocT1eN78FxkRdQ",
+      "source": "Chalet Home + Garden",
+      "title": "ORIJEN Grain Free High Protein Dry Dog Food Original Recipe",
+      "rating": 4.5,
+      "reviews": 3200,
+      "price": "$34.99",
+      "extracted_price": 34.99,
+      "original_price": "$7.78/lb",
+      "extracted_original_price": 7.78,
+      "immersive_product_page_token": "aAHfA3icdZJNrqNGFIWlrCF7yMCKVH_89eyBXdhug01BAWbSwhQGTBl4GNvYyh6yB7_uSJ1hd0tZy8tqYinTRDqj8x0dnSvd3x959dfwa47TU1yssqCAub4pteOh9byvXd-KczZU4juEABOgEA3qugo0rBHla5YOqWyLJyUAIk2Hmo4IwkgBqoa-lXkqZNXk6_0-76dt9owZUAOaoqsqMRQN6wBD5c_qmBb5vxgRAggxENGBoilPYeOtF6d3srE-QUV7SlER1qGONWxoSPttw9bTT_8Dv7ye8_72_svQdpNdnzbiNNm3_aTo06qZ7Ps8n4j-NhFt8bRbcfpSdM8JP_6r6e1YiW-KphIVKSrG8HmCquvKW3cZHmXx-XyW-Tu6TqyXhbewFrlvGzDD7LKrRh5ZI0_issxuY7g7SpBEXsExK4Ud3h-FfJxPj1I-8uaPNu0u--zvn36etdepdbpaHu-6cMqAz7tme2zBTtaEUYpcO0liNKwF75gzLcawhl16hGFCl9QNXOlFywuLTcBo2Ee8nPHAtJ3GGdOwvObS9NNGNuFsUDjtpF-PaQB0yLgb5UdGOGKJGxqemJW9OxMhg261tjs7mAs_pcYsm1J_F5hWFkmWzBnjR5czC67dQEw55HAVJOecM4_hGdoeWL2NE9OVlPo2bXy7O0Q1vWW2jr1gOc_u1GIHtneCUInmImDQZGs-ftxhuRGRsUlQGDlxdl35MA5kp3C73Dp82GzjZcrQOPJ4SVKkQx95SoZqzKlp84PYiJgPUS0ODuxe13NzmtF62GJpMtAtwjoB3l1Qly-rdNZBP5RlAOR1ixlhgXjdHscxsN2DE3ZYxMsqjBPGqOFs7_WwA6G9vWdXxgeQ2MtDEok5i8OTX9NzKpnqS-kzuiApzXyKvSEJ3DKDZfPs48mdyjU1WxfB1x2kzK6WJpu7t3WU8FVUugl0QFCPdkZfEAtnmEPR7GZjw6PSD9CAP4-nfv8OXqgy-Gv1qmrKOHiX11W6zOqPtdU6pGuKupHXD1AzAHm-LSBIBf8AEidF4g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=aAHfA3icdZJNrqNGFIWlrCF7yMCKVH_89eyBXdhug01BAWbSwhQGTBl4GNvYyh6yB7_uSJ1hd0tZy8tqYinTRDqj8x0dnSvd3x959dfwa47TU1yssqCAub4pteOh9byvXd-KczZU4juEABOgEA3qugo0rBHla5YOqWyLJyUAIk2Hmo4IwkgBqoa-lXkqZNXk6_0-76dt9owZUAOaoqsqMRQN6wBD5c_qmBb5vxgRAggxENGBoilPYeOtF6d3srE-QUV7SlER1qGONWxoSPttw9bTT_8Dv7ye8_72_svQdpNdnzbiNNm3_aTo06qZ7Ps8n4j-NhFt8bRbcfpSdM8JP_6r6e1YiW-KphIVKSrG8HmCquvKW3cZHmXx-XyW-Tu6TqyXhbewFrlvGzDD7LKrRh5ZI0_issxuY7g7SpBEXsExK4Ud3h-FfJxPj1I-8uaPNu0u--zvn36etdepdbpaHu-6cMqAz7tme2zBTtaEUYpcO0liNKwF75gzLcawhl16hGFCl9QNXOlFywuLTcBo2Ee8nPHAtJ3GGdOwvObS9NNGNuFsUDjtpF-PaQB0yLgb5UdGOGKJGxqemJW9OxMhg261tjs7mAs_pcYsm1J_F5hWFkmWzBnjR5czC67dQEw55HAVJOecM4_hGdoeWL2NE9OVlPo2bXy7O0Q1vWW2jr1gOc_u1GIHtneCUInmImDQZGs-ftxhuRGRsUlQGDlxdl35MA5kp3C73Dp82GzjZcrQOPJ4SVKkQx95SoZqzKlp84PYiJgPUS0ODuxe13NzmtF62GJpMtAtwjoB3l1Qly-rdNZBP5RlAOR1ixlhgXjdHscxsN2DE3ZYxMsqjBPGqOFs7_WwA6G9vWdXxgeQ2MtDEok5i8OTX9NzKpnqS-kzuiApzXyKvSEJ3DKDZfPs48mdyjU1WxfB1x2kzK6WJpu7t3WU8FVUugl0QFCPdkZfEAtnmEPR7GZjw6PSD9CAP4-nfv8OXqgy-Gv1qmrKOHiX11W6zOqPtdU6pGuKupHXD1AzAHm-LSBIBf8AEidF4g"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRwMtgkYyHZnR2bSMj2pp7CDCicoMTH7HeM8WRxQKVWEuG5uA8_cWzfdSyiM1QZap0ju33x4WIUI8PqdTjAxgL8AN1EumDD0vFzu8H8YuGhLqamhOTPQd8_",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSXYj6vWB24FOi2KF91iCaP9bj7Y2OV2BFUWZwutLQNJq0MTRIGrCVC__yO49oRRCmHK3IqFCWxi0odU6B71POU2rFdMgT0",
+      "source": "Petco.com",
+      "title": "Nulo MedalSeries Grain-Free Salmon & Sweet Potato Adult Dry Dog Food",
+      "rating": 4.8,
+      "reviews": 110,
+      "price": "$78.99",
+      "extracted_price": 78.99,
+      "original_price": "$3.29/lb",
+      "extracted_original_price": 3.29,
+      "delivery": "Free delivery by Wed",
+      "immersive_product_page_token": "Oa44LXicbVPLrqNGFJTyDfmHLKxI3TTNI7vxo7E9F3xpN23cmxHQGDDNw4BfKP-Qf_CdiTRZTiLlW26-Jo6ynd1RlarOKR3Vb4-0-Hv4OUVRH2YvCctgar3mZnVsfP9r2zXynAyF_NOGFrSwCYEJTQPqmq1rX5NoiFSTFfKvJ4Aw1DDGpgU1G1nP4VueRlIVdbo5HNJu3iRPF6xbGJqWrRumYeomNoD-R1FFWfo_rVsGtpGGgPHchE0dYvTWyf5de519ss2nyoaGhQ0MdNMwAPj1lW7mn77PfTmd0-7-_tPQtJO4i2rZTw5NN8m6qKgnhy5NJ7K7T2STPeFG9l-y9r8DvmP0VhXyGzYN3dAsG-s6MDUb2NZbexkeefb5fFbpu3adzD6s_NVslW4dGyaIXuLiFuxmt0CEeZ7cbzyuFBA7PwsQzaXDx0emHuf-katHWv_eRO3lkPzzw4-L5jqf9deZH7Qtn1PA5qTYkmxkI5nyal1wkOlxwGd7piK_JoWAnPshOQQhX_vQR1LLHb9SOVsoGGo4395hsy9L5C1ox0pJ-ZJe-Q7qbJSn3dG9JlzhGLVuCGgfIG9wl-XVZaQXALcM4Itk6wOdi0gyOUbHKU2d9cdkmeexpkis5GpfJxoL1CWpKZXVagwCTuOjRC7w9kLzXBpOHerYF1GBgZWQe6HaBrV4iaCtcyJ9v1QLvtyjfSi8pJ7uI4d6jExP2yoBQiOhD565xrX3slOvLKA5W06XMeR36eSrDfPapPaqgAnqqRWK6z1iS3GKStK4o9dvAk48zS64A0_s6PluKbp0156ikRpROJ1tUQY4IUNa8j4O8hsP1UmMYuB1jl6YIvtSia2itT-KNdVugyyfGQAuOVelLG3mAnrdEfvscnl1HfXxWQW0qxdbgvxBMC9PYF4zxwvESNSGTBtPg6cYEuoU6yldevfNTjDO8ldvgYlHiJYc5fn5hyqANuEquAWM-3Ep6Odb3x3ewQeCh-3GuBomvg3-5fQSrZPyYzlrXL2ts7JW11-gaQMdmQjomgH-BS-5SLA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Oa44LXicbVPLrqNGFJTyDfmHLKxI3TTNI7vxo7E9F3xpN23cmxHQGDDNw4BfKP-Qf_CdiTRZTiLlW26-Jo6ynd1RlarOKR3Vb4-0-Hv4OUVRH2YvCctgar3mZnVsfP9r2zXynAyF_NOGFrSwCYEJTQPqmq1rX5NoiFSTFfKvJ4Aw1DDGpgU1G1nP4VueRlIVdbo5HNJu3iRPF6xbGJqWrRumYeomNoD-R1FFWfo_rVsGtpGGgPHchE0dYvTWyf5de519ss2nyoaGhQ0MdNMwAPj1lW7mn77PfTmd0-7-_tPQtJO4i2rZTw5NN8m6qKgnhy5NJ7K7T2STPeFG9l-y9r8DvmP0VhXyGzYN3dAsG-s6MDUb2NZbexkeefb5fFbpu3adzD6s_NVslW4dGyaIXuLiFuxmt0CEeZ7cbzyuFBA7PwsQzaXDx0emHuf-katHWv_eRO3lkPzzw4-L5jqf9deZH7Qtn1PA5qTYkmxkI5nyal1wkOlxwGd7piK_JoWAnPshOQQhX_vQR1LLHb9SOVsoGGo4395hsy9L5C1ox0pJ-ZJe-Q7qbJSn3dG9JlzhGLVuCGgfIG9wl-XVZaQXALcM4Itk6wOdi0gyOUbHKU2d9cdkmeexpkis5GpfJxoL1CWpKZXVagwCTuOjRC7w9kLzXBpOHerYF1GBgZWQe6HaBrV4iaCtcyJ9v1QLvtyjfSi8pJ7uI4d6jExP2yoBQiOhD565xrX3slOvLKA5W06XMeR36eSrDfPapPaqgAnqqRWK6z1iS3GKStK4o9dvAk48zS64A0_s6PluKbp0156ikRpROJ1tUQY4IUNa8j4O8hsP1UmMYuB1jl6YIvtSia2itT-KNdVugyyfGQAuOVelLG3mAnrdEfvscnl1HfXxWQW0qxdbgvxBMC9PYF4zxwvESNSGTBtPg6cYEuoU6yldevfNTjDO8ldvgYlHiJYc5fn5hyqANuEquAWM-3Ep6Odb3x3ewQeCh-3GuBomvg3-5fQSrZPyYzlrXL2ts7JW11-gaQMdmQjomgH-BS-5SLA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcThkGYMEHibDI0Ae8GY3p-0SHu4qclNywr4NLrrhzAuuVdt9XsAgpXXaBwzhYJbrD3HhRnkt8Y5O_i9K85pF2Aqlvr7eCH9HwXfrBkq35jdBvov0F9Kg0FY_Q",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTpD92kHPUdZJ2hsZPwO0tXx469V5ItOpMcHg79R9okvpCkVaq9T1uvDI4FwSAX5ZDiBFmkuccNf8tNBAHSLb8cl3wDVCC16C3eIVQ",
+      "source": "Only Natural Pet",
+      "title": "Taste of the Wild Grain Free Dry Dog Food",
+      "rating": 4.6,
+      "reviews": 9300,
+      "price": "$19.99",
+      "extracted_price": 19.99,
+      "delivery": "Free delivery on $49+",
+      "immersive_product_page_token": "hJPsCHicdZBBrptIGIQ1p8nCGommaWzP7mEbjGPDo6Fp3JsI6IbGYMPDYGMrd5grRE4yUrLMjDRneaM5TEj22ZT016f6Vao_H6L4t_tdwPgc5ds0yIGYPcvp8VB73pemrXmfdgX_B0AVTJU5nEE4VaYa1KY6-pLGXVzVecE_fJMi5lVxEm6WiXZZp7-IfC2OcS5-8r-BDoGmAaSrEI5wpoPpx5afX7XnxTuAFIjU-ZhQZ7qujk-Q8v4Zu8t3v4CfX3rR3l7fdHUzSdr4xM-TrG4neRsXp0nWCjHh7W3C63y0a37-nDdjhQ8fjz-kuXQPmX_q-0q8qtfJ4sn27IUtfGsOUogvSTEQuhgIi6RMb0OYHCuFUS8nEEtuhfdHXj3680NWD3H6q46bS5b-99v_q95eLF7shUeaJlxixaeVSamzYydD3yt8ux9vQlgbWPktKc0gKcBlV3Z-smJv_TvOUmienbVhuNamwRDX-M6uKeUbv-zqHTEDPwolrrgqygaxkHWUpFq8HDsBuSPWaqCWhM6SX8Rq7jDIkU_3SrysLvHBBHjEKfHgXplBahJ1B5-0wAyRQzeMV028D3ATgJDSMERszfq4aiKHgj6wmrO7GvrgvtF5gPfkCApagm4bNYobGSUH84hV3PNVVsYWz5xAqrhE16REGxJiJYmYH_vgjg-Giq3BT6ONtyXzMjzWUJQrLbA4DU-49MEK7ZRu6RB0ZapE8cFpsQLWjO67QJFbEVaQUWn7d6fh9NyRsJKxig6EbBZMtVG43owTeYgcq2tyTH0Teh0LHJkCeQosh7C7WbmmUTsqeEmAia1iY-C1c3Mpww6s3uLAhl6JMkGdyI3qQRC59UA50LLWgpU0Pg3nNntVnkzU-S7Cpi10VSlzCPrVruu7wnQ1w_aR6v0BpnNFg1OoaCqafwctsicI",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=hJPsCHicdZBBrptIGIQ1p8nCGommaWzP7mEbjGPDo6Fp3JsI6IbGYMPDYGMrd5grRE4yUrLMjDRneaM5TEj22ZT016f6Vao_H6L4t_tdwPgc5ds0yIGYPcvp8VB73pemrXmfdgX_B0AVTJU5nEE4VaYa1KY6-pLGXVzVecE_fJMi5lVxEm6WiXZZp7-IfC2OcS5-8r-BDoGmAaSrEI5wpoPpx5afX7XnxTuAFIjU-ZhQZ7qujk-Q8v4Zu8t3v4CfX3rR3l7fdHUzSdr4xM-TrG4neRsXp0nWCjHh7W3C63y0a37-nDdjhQ8fjz-kuXQPmX_q-0q8qtfJ4sn27IUtfGsOUogvSTEQuhgIi6RMb0OYHCuFUS8nEEtuhfdHXj3680NWD3H6q46bS5b-99v_q95eLF7shUeaJlxixaeVSamzYydD3yt8ux9vQlgbWPktKc0gKcBlV3Z-smJv_TvOUmienbVhuNamwRDX-M6uKeUbv-zqHTEDPwolrrgqygaxkHWUpFq8HDsBuSPWaqCWhM6SX8Rq7jDIkU_3SrysLvHBBHjEKfHgXplBahJ1B5-0wAyRQzeMV028D3ATgJDSMERszfq4aiKHgj6wmrO7GvrgvtF5gPfkCApagm4bNYobGSUH84hV3PNVVsYWz5xAqrhE16REGxJiJYmYH_vgjg-Giq3BT6ONtyXzMjzWUJQrLbA4DU-49MEK7ZRu6RB0ZapE8cFpsQLWjO67QJFbEVaQUWn7d6fh9NyRsJKxig6EbBZMtVG43owTeYgcq2tyTH0Teh0LHJkCeQosh7C7WbmmUTsqeEmAia1iY-C1c3Mpww6s3uLAhl6JMkGdyI3qQRC59UA50LLWgpU0Pg3nNntVnkzU-S7Cpi10VSlzCPrVruu7wnQ1w_aR6v0BpnNFg1OoaCqafwctsicI"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSdtWUgLtoYNCg-Pg_6nbvO53gc2SuIvSC9Hm2-OVj2wIWssuscxFeqrVvO25gHYQN7vixlsoeQyETxxGEgkPb1rwpCmOlny08ZYq_xXjfUbdl527CqC3EB",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRZtqkeUWI7v59gPOLsa8bFt7r42OFFs8prbrgujppCyXBERnQ5T0rBk0o21Rytjp3i9i9Igp5pNvvfO9cGD-5dPjRNs8BI",
+      "source": "Chewy.com",
+      "title": "Nature's Recipe Grain Free Dry Dog Food",
+      "rating": 4.4,
+      "reviews": 7400,
+      "price": "$27.26",
+      "extracted_price": 27.26,
+      "original_price": "$2.27/lb",
+      "extracted_original_price": 2.27,
+      "delivery": "Free delivery on $49+",
+      "immersive_product_page_token": "Be3ITHicbZPLjqNGFIalPEPeIQsrEnUBQ3bjC9ikXTRVUODajLiUAVNcGuM2tvIOeQf3TKTJciZSnqXzNHGkLGd7_qNPn47O__tdVn-PP0uUnOLiKQsKIM3nct4cO9__0g9dfs7GKv8GkAExsLCJELKQZZo6_pIlY6K6osr_AgbSEcYagiY2MLLmc936WsokV1UrvcNBDqsu-28PYzQ3LR3rxgNnGXium39WTVLI_3MNQNPSgIl1ZD6Ipj5Hb0N-eofPy48IAYhNy4KGZj1sDKgZvz1Tb_Xx-9nnl7Mcru8_jV0_S4ekzU-zQzfMiiGp2tlhkHKWD9dZ3hWPcZefPhf9w-Dbd0BvTZV_1ecGNuDcxFjXIUTmHL_1r-O9LD6dz0q-w8ts-WHrb5dbyRwLZIi-ptUURsspFHFZZteJp43SROQXIaJl7vDbvVD38-leqrts_-iS_vWQ_fPDj-vuslqeLks_7Hu-ohqrSyJi97CvLyDh_Tna2H0eWkzUpeGtFtcYgj13gPJVh3cR99JmhwLHPvONcve3_BZu-kVqbyHVlEGP9i60xU6ueRW1pZEdF7Efrydiu7csLK5-JDZP3EZ-rBa7VizEZndNIuU9XDBzFJNRb6QqvAUaWRKHbPNYrOhKTLIpQ1HbNo3cOIU-JiF99pVweUucHORXFk5bti6DtC4ZbV2HOmLk2h7IOB84HKkX2kjWfb2LFMtv-ZmE48gaWmVxbqTaCaQb1fmqb58YoIFTXMJjhnhAGhq4L6xxaVbrbsCJyoCV-E3_YJaXkPuY1X0fcLFjUe-JaD2SDY1ZM20YBDRr6msKSZlytQo4PwXOhMJVhmWoH2ljbVPg-rLWf814KdLjIgmg7rM16IgzGZQTnsb8QBiIskiVIXQD6ViXILKORKvZ44KjCEiZgbINHBKKm608e9ERCF5SYFOnchd0Q65eJIJU2S8MCT_j1mEfTSJt7R2B-i1FyidQbH1OF5-m03B41z7Y-sg8ndpb-XjLukDgvN6N57GyPbzYMh36v4C5pT0ahjQMdetfM1lG-Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Be3ITHicbZPLjqNGFIalPEPeIQsrEnUBQ3bjC9ikXTRVUODajLiUAVNcGuM2tvIOeQf3TKTJciZSnqXzNHGkLGd7_qNPn47O__tdVn-PP0uUnOLiKQsKIM3nct4cO9__0g9dfs7GKv8GkAExsLCJELKQZZo6_pIlY6K6osr_AgbSEcYagiY2MLLmc936WsokV1UrvcNBDqsu-28PYzQ3LR3rxgNnGXium39WTVLI_3MNQNPSgIl1ZD6Ipj5Hb0N-eofPy48IAYhNy4KGZj1sDKgZvz1Tb_Xx-9nnl7Mcru8_jV0_S4ekzU-zQzfMiiGp2tlhkHKWD9dZ3hWPcZefPhf9w-Dbd0BvTZV_1ecGNuDcxFjXIUTmHL_1r-O9LD6dz0q-w8ts-WHrb5dbyRwLZIi-ptUURsspFHFZZteJp43SROQXIaJl7vDbvVD38-leqrts_-iS_vWQ_fPDj-vuslqeLks_7Hu-ohqrSyJi97CvLyDh_Tna2H0eWkzUpeGtFtcYgj13gPJVh3cR99JmhwLHPvONcve3_BZu-kVqbyHVlEGP9i60xU6ueRW1pZEdF7Efrydiu7csLK5-JDZP3EZ-rBa7VizEZndNIuU9XDBzFJNRb6QqvAUaWRKHbPNYrOhKTLIpQ1HbNo3cOIU-JiF99pVweUucHORXFk5bti6DtC4ZbV2HOmLk2h7IOB84HKkX2kjWfb2LFMtv-ZmE48gaWmVxbqTaCaQb1fmqb58YoIFTXMJjhnhAGhq4L6xxaVbrbsCJyoCV-E3_YJaXkPuY1X0fcLFjUe-JaD2SDY1ZM20YBDRr6msKSZlytQo4PwXOhMJVhmWoH2ljbVPg-rLWf814KdLjIgmg7rM16IgzGZQTnsb8QBiIskiVIXQD6ViXILKORKvZ44KjCEiZgbINHBKKm608e9ERCF5SYFOnchd0Q65eJIJU2S8MCT_j1mEfTSJt7R2B-i1FyidQbH1OF5-m03B41z7Y-sg8ndpb-XjLukDgvN6N57GyPbzYMh36v4C5pT0ahjQMdetfM1lG-Q"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the healthiest grain-free dry dog food?",
+      "type": "ai_overview",
+      "page_token": "uDc35nicHdBfjqIwAIDx7GXmcQQc3NXEbAK0oCMl1P6RvmywICAtEG0EfZsrzBnmVHOaMfvwHeD3fXyppmu_f33WxgzX1Ww2juNr1feVKl9lr2f59d7JmcyVOuayXS1-L-y_J7kGN-n5F-mldBhYgK298kah22nPtrBwDOF84jGvu2NjewhYBtM_bgzAnZLMygOvwba64o5d4gBvKHBVSjHfs9ZwivvdQZEELqMSVC7hxUhCy0UB2uBgS7CuxnieGjFHG36Ah5x4iIauzyN4LrTpeYBD3CGOQ_YuHOPHii2oFkkOa-_42IbFI34rI5Hw1jJojs7HDoc5QTtpMZ9SHCVs-VZ2w6YEcMo6jGJaXBNYN0gXt2cpdRQDdWHtOH1kB5QJazqzUE6C1GkeFCbXS_wkNE_PQ56Vpl3q7O3BpxHcUme8Cz1pCbD9fJbFgVrIEL6L8eUkb-v5y__X638nbVbDpa9-AM7TjJo",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uDc35nicHdBfjqIwAIDx7GXmcQQc3NXEbAK0oCMl1P6RvmywICAtEG0EfZsrzBnmVHOaMfvwHeD3fXyppmu_f33WxgzX1Ww2juNr1feVKl9lr2f59d7JmcyVOuayXS1-L-y_J7kGN-n5F-mldBhYgK298kah22nPtrBwDOF84jGvu2NjewhYBtM_bgzAnZLMygOvwba64o5d4gBvKHBVSjHfs9ZwivvdQZEELqMSVC7hxUhCy0UB2uBgS7CuxnieGjFHG36Ah5x4iIauzyN4LrTpeYBD3CGOQ_YuHOPHii2oFkkOa-_42IbFI34rI5Hw1jJojs7HDoc5QTtpMZ9SHCVs-VZ2w6YEcMo6jGJaXBNYN0gXt2cpdRQDdWHtOH1kB5QJazqzUE6C1GkeFCbXS_wkNE_PQ56Vpl3q7O3BpxHcUme8Cz1pCbD9fJbFgVrIEL6L8eUkb-v5y__X638nbVbDpa9-AM7TjJo",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5TMWZjMVpXVERCUk5GcE9MVVpDWVRkTFRGa3hXVU5pVkhWMFJESjVkemh6U0RKUFJXVlZXVFp1T1hGZk1FOXRZbmxHU3pjNFZWUTVObWswVkc1V1RERlZOR1JEU201NlNXNDJhMlZqWHpKR1MxQkhSVmxrU2pka2R4SVhkQzFsTTJGeldHZE1ZMVJuTVdVNFVHZzNiV3B2VVZFYUlrRkVjM0k1WmxGSVNqVlpTVFZzUzFCelVrbEtPRXBsWm1oaGNuRlZYekJRUkdjIiwiZmN2IjoiMyIsImVpIjoidC1lM2FzWGdMY1RnMWU4UGg3bWpvUVEiLCJxYyI6IkNpZDBiM0FnWW5KaGJtUnpJR1p2Y2lCbmNtRnBiaUJtY21WbElHUnllU0JrYjJjZ1ptOXZaSE1RQUgzVjVBTV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGhlYWx0aGllc3QgZ3JhaW4tZnJlZSBkcnkgZG9nIGZvb2Q/IiwibGsiOiJHaTUzYUdGMElHbHpJSFJvWlNCb1pXRnNkR2hwWlhOMElHZHlZV2x1SUdaeVpXVWdaSEo1SUdSdlp5Qm1iMjlrIiwiYnMiOiJjMzNRdlE2Q01CUUY0TGpleWJuVFdSVEItQk5lZ01VWGNDS09oVjRvaWJSSjIwaDhlMFVUSXdMdTN6bjM1bEJKaDF6TGdNWWphSVptZVEyNllSOVFPOW1ZWGVXWW9kd2R5dGFvckZWWmVoVDc3azhFb3doZEtKazU4czFRT0dtZV9Wc1J6X1NQTmVVVTk5WFIyeFlfajc5Z1pWMmY4bG1haUUwM2hUSEdkS2IxeWVMR3djTnhhZHVXalJwczh0a2pFaXMxTFRHUXk4VUQiLCJpZCI6ImZjX3QtZTNhc1hnTGNUZzFlOFBoN21qb1FRXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5TMWZjMVpXVERCUk5GcE9MVVpDWVRkTFRGa3hXVU5pVkhWMFJESjVkemh6U0RKUFJXVlZXVFp1T1hGZk1FOXRZbmxHU3pjNFZWUTVObWswVkc1V1RERlZOR1JEU201NlNXNDJhMlZqWHpKR1MxQkhSVmxrU2pka2R4SVhkQzFsTTJGeldHZE1ZMVJuTVdVNFVHZzNiV3B2VVZFYUlrRkVjM0k1WmxGSVNqVlpTVFZzUzFCelVrbEtPRXBsWm1oaGNuRlZYekJRUkdjIiwiZmN2IjoiMyIsImVpIjoidC1lM2FzWGdMY1RnMWU4UGg3bWpvUVEiLCJxYyI6IkNpZDBiM0FnWW5KaGJtUnpJR1p2Y2lCbmNtRnBiaUJtY21WbElHUnllU0JrYjJjZ1ptOXZaSE1RQUgzVjVBTV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGhlYWx0aGllc3QgZ3JhaW4tZnJlZSBkcnkgZG9nIGZvb2Q%2FIiwibGsiOiJHaTUzYUdGMElHbHpJSFJvWlNCb1pXRnNkR2hwWlhOMElHZHlZV2x1SUdaeVpXVWdaSEo1SUdSdlp5Qm1iMjlrIiwiYnMiOiJjMzNRdlE2Q01CUUY0TGpleWJuVFdSVEItQk5lZ01VWGNDS09oVjRvaWJSSjIwaDhlMFVUSXdMdTN6bjM1bEJKaDF6TGdNWWphSVptZVEyNllSOVFPOW1ZWGVXWW9kd2R5dGFvckZWWmVoVDc3azhFb3doZEtKazU4czFRT0dtZV9Wc1J6X1NQTmVVVTk5WFIyeFlfajc5Z1pWMmY4bG1haUUwM2hUSEdkS2IxeWVMR3djTnhhZHVXalJwczh0a2pFaXMxTFRHUXk4VUQiLCJpZCI6ImZjX3QtZTNhc1hnTGNUZzFlOFBoN21qb1FRXzUifQ%3D%3D"
+    },
+    {
+      "question": "What is the healthiest dry dog food brand?",
+      "type": "ai_overview",
+      "page_token": "EKRCKnicHdBdboIwAADg7DI-zhacmyZmCQKKQmdLW35eFigK2vIz1ynwtrvsVDvNkn1H-L5_1LmRvw-3Suvuczmd3u_3x7JtS3V8FG09zT6HRkxFplSeCbmcP8_h60msnC_PWn94FmZdx20CwtEbmdxxEaOAyX4v3HJAnA8h2O2iurcxexlTAx3eotQPwRMhnMHcQfvATjVx5JAbCw-b3CeK-G82qem27THl81xCXNDqEMkCkosFOehwHvOEDMAMDE0R0IdEuUYq3YZuuyu7pBvRoJlw4CyM1dqnATzWcCaasg9hcUWsj4TR0YS5h2hrycJ0ER89zSTXoVwQYhR7WleNUxXAj9iYxChJQX_hG9GntMKZXeisXhBG2jNmZBQXVbOxMKjN18cIWUGkDb6ZDRT0m2RUMZEpCkzrhPHkJG4rc_L_uXo_1XrZXdvyD6taguI",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=EKRCKnicHdBdboIwAADg7DI-zhacmyZmCQKKQmdLW35eFigK2vIz1ynwtrvsVDvNkn1H-L5_1LmRvw-3Suvuczmd3u_3x7JtS3V8FG09zT6HRkxFplSeCbmcP8_h60msnC_PWn94FmZdx20CwtEbmdxxEaOAyX4v3HJAnA8h2O2iurcxexlTAx3eotQPwRMhnMHcQfvATjVx5JAbCw-b3CeK-G82qem27THl81xCXNDqEMkCkosFOehwHvOEDMAMDE0R0IdEuUYq3YZuuyu7pBvRoJlw4CyM1dqnATzWcCaasg9hcUWsj4TR0YS5h2hrycJ0ER89zSTXoVwQYhR7WleNUxXAj9iYxChJQX_hG9GntMKZXeisXhBG2jNmZBQXVbOxMKjN18cIWUGkDb6ZDRT0m2RUMZEpCkzrhPHkJG4rc_L_uXo_1XrZXdvyD6taguI",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5TMWZjMVpXVERCUk5GcE9MVVpDWVRkTFRGa3hXVU5pVkhWMFJESjVkemh6U0RKUFJXVlZXVFp1T1hGZk1FOXRZbmxHU3pjNFZWUTVObWswVkc1V1RERlZOR1JEU201NlNXNDJhMlZqWHpKR1MxQkhSVmxrU2pka2R4SVhkQzFsTTJGeldHZE1ZMVJuTVdVNFVHZzNiV3B2VVZFYUlrRkVjM0k1WmxGSVNqVlpTVFZzUzFCelVrbEtPRXBsWm1oaGNuRlZYekJRUkdjIiwiZmN2IjoiMyIsImVpIjoidC1lM2FzWGdMY1RnMWU4UGg3bWpvUVEiLCJxYyI6IkNpZDBiM0FnWW5KaGJtUnpJR1p2Y2lCbmNtRnBiaUJtY21WbElHUnllU0JrYjJjZ1ptOXZaSE1RQUgzVjVBTV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGhlYWx0aGllc3QgZHJ5IGRvZyBmb29kIGJyYW5kPyIsImxrIjoiR2lsM2FHRjBJR2x6SUhSb1pTQm9aV0ZzZEdocFpYTjBJR1J5ZVNCa2IyY2dabTl2WkNCaWNtRnVaQSIsImJzIjoiYzMzUXZRNkNNQlFGNExqZXliblRXUlRCLUJOZWdNVVhjQ0tPaFY0b2liUkoyMGg4ZTBVVEl3THUzem4zNWxCSmgxekxnTVlqYUlabWVRMjZZUjlRTzltWVhlV1lvZHdkeXRhb3JGVlplaFQ3N2s4RW93aGRLSms1OHMxUU9HbWVfVnNSel9TUE5lVVU5OVhSMnhZX2o3OWdaVjJmOGxtYWlFMDNoVEhHZEtiMXllTEd3Y054YWR1V2pScHM4dGtqRWlzMUxUR1F5OFVEIiwiaWQiOiJmY190LWUzYXNYZ0xjVGcxZThQaDdtam9RUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5TMWZjMVpXVERCUk5GcE9MVVpDWVRkTFRGa3hXVU5pVkhWMFJESjVkemh6U0RKUFJXVlZXVFp1T1hGZk1FOXRZbmxHU3pjNFZWUTVObWswVkc1V1RERlZOR1JEU201NlNXNDJhMlZqWHpKR1MxQkhSVmxrU2pka2R4SVhkQzFsTTJGeldHZE1ZMVJuTVdVNFVHZzNiV3B2VVZFYUlrRkVjM0k1WmxGSVNqVlpTVFZzUzFCelVrbEtPRXBsWm1oaGNuRlZYekJRUkdjIiwiZmN2IjoiMyIsImVpIjoidC1lM2FzWGdMY1RnMWU4UGg3bWpvUVEiLCJxYyI6IkNpZDBiM0FnWW5KaGJtUnpJR1p2Y2lCbmNtRnBiaUJtY21WbElHUnllU0JrYjJjZ1ptOXZaSE1RQUgzVjVBTV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGhlYWx0aGllc3QgZHJ5IGRvZyBmb29kIGJyYW5kPyIsImxrIjoiR2lsM2FHRjBJR2x6SUhSb1pTQm9aV0ZzZEdocFpYTjBJR1J5ZVNCa2IyY2dabTl2WkNCaWNtRnVaQSIsImJzIjoiYzMzUXZRNkNNQlFGNExqZXliblRXUlRCLUJOZWdNVVhjQ0tPaFY0b2liUkoyMGg4ZTBVVEl3THUzem4zNWxCSmgxekxnTVlqYUlabWVRMjZZUjlRTzltWVhlV1lvZHdkeXRhb3JGVlplaFQ3N2s4RW93aGRLSms1OHMxUU9HbWVfVnNSel9TUE5lVVU5OVhSMnhZX2o3OWdaVjJmOGxtYWlFMDNoVEhHZEtiMXllTEd3Y054YWR1V2pScHM4dGtqRWlzMUxUR1F5OFVEIiwiaWQiOiJmY190LWUzYXNYZ0xjVGcxZThQaDdtam9RUV81In0%3D"
+    },
+    {
+      "question": "What's the best grain-free food for dogs?",
+      "type": "ai_overview",
+      "page_token": "M53StnicHdBRboIwAADQ7DJ-jlKciyZmCUIRjVVaWqA_C7QChlJwEkH_dpedaqdZsneE9_2jL6b5fUnrYehvK8sax_G16rpKn19l11r57WGkJXOti1w2q8X7wv4o5dq_je6mG92I9T33CKApYQTsRg6EL0DfHKACOew3xNQgNrVQgb5SiLNzi0OcTFSYak6e6o63JGQpmrjeJUVLoPSnU5ZMJ-YgQrWqSbNsY4_k5wTvZMLm-fbgFE8c4WYOVKwyDt8y4dVDDpcTQ4rLVpuoEV7UcpAYt5VQXSPNKaHAUQzFWdI9KJcTDXyKnGgQMa6lXZs4wEw8kT4it8PQvhY2IsFl55ItfhwTQbG_vFBq7w_QTpUJbRqjPTMhyGJUch_dC39wZ6W8r53Z_9j6s2yHVf_VVX9Zh3fe",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=M53StnicHdBRboIwAADQ7DJ-jlKciyZmCUIRjVVaWqA_C7QChlJwEkH_dpedaqdZsneE9_2jL6b5fUnrYehvK8sax_G16rpKn19l11r57WGkJXOti1w2q8X7wv4o5dq_je6mG92I9T33CKApYQTsRg6EL0DfHKACOew3xNQgNrVQgb5SiLNzi0OcTFSYak6e6o63JGQpmrjeJUVLoPSnU5ZMJ-YgQrWqSbNsY4_k5wTvZMLm-fbgFE8c4WYOVKwyDt8y4dVDDpcTQ4rLVpuoEV7UcpAYt5VQXSPNKaHAUQzFWdI9KJcTDXyKnGgQMa6lXZs4wEw8kT4it8PQvhY2IsFl55ItfhwTQbG_vFBq7w_QTpUJbRqjPTMhyGJUch_dC39wZ6W8r53Z_9j6s2yHVf_VVX9Zh3fe",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5TMWZjMVpXVERCUk5GcE9MVVpDWVRkTFRGa3hXVU5pVkhWMFJESjVkemh6U0RKUFJXVlZXVFp1T1hGZk1FOXRZbmxHU3pjNFZWUTVObWswVkc1V1RERlZOR1JEU201NlNXNDJhMlZqWHpKR1MxQkhSVmxrU2pka2R4SVhkQzFsTTJGeldHZE1ZMVJuTVdVNFVHZzNiV3B2VVZFYUlrRkVjM0k1WmxGSVNqVlpTVFZzUzFCelVrbEtPRXBsWm1oaGNuRlZYekJRUkdjIiwiZmN2IjoiMyIsImVpIjoidC1lM2FzWGdMY1RnMWU4UGg3bWpvUVEiLCJxYyI6IkNpZDBiM0FnWW5KaGJtUnpJR1p2Y2lCbmNtRnBiaUJtY21WbElHUnllU0JrYjJjZ1ptOXZaSE1RQUgzVjVBTV8iLCJxdWVzdGlvbiI6IldoYXQncyB0aGUgYmVzdCBncmFpbi1mcmVlIGZvb2QgZm9yIGRvZ3M/IiwibGsiOiJHaWgzYUdGMEozTWdkR2hsSUdKbGMzUWdaM0poYVc0Z1puSmxaU0JtYjI5a0lHWnZjaUJrYjJkeiIsImJzIjoiYzMzUXZRNkNNQlFGNExqZXliblRXUlRCLUJOZWdNVVhjQ0tPaFY0b2liUkoyMGg4ZTBVVEl3THUzem4zNWxCSmgxekxnTVlqYUlabWVRMjZZUjlRTzltWVhlV1lvZHdkeXRhb3JGVlplaFQ3N2s4RW93aGRLSms1OHMxUU9HbWVfVnNSel9TUE5lVVU5OVhSMnhZX2o3OWdaVjJmOGxtYWlFMDNoVEhHZEtiMXllTEd3Y054YWR1V2pScHM4dGtqRWlzMUxUR1F5OFVEIiwiaWQiOiJmY190LWUzYXNYZ0xjVGcxZThQaDdtam9RUV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5TMWZjMVpXVERCUk5GcE9MVVpDWVRkTFRGa3hXVU5pVkhWMFJESjVkemh6U0RKUFJXVlZXVFp1T1hGZk1FOXRZbmxHU3pjNFZWUTVObWswVkc1V1RERlZOR1JEU201NlNXNDJhMlZqWHpKR1MxQkhSVmxrU2pka2R4SVhkQzFsTTJGeldHZE1ZMVJuTVdVNFVHZzNiV3B2VVZFYUlrRkVjM0k1WmxGSVNqVlpTVFZzUzFCelVrbEtPRXBsWm1oaGNuRlZYekJRUkdjIiwiZmN2IjoiMyIsImVpIjoidC1lM2FzWGdMY1RnMWU4UGg3bWpvUVEiLCJxYyI6IkNpZDBiM0FnWW5KaGJtUnpJR1p2Y2lCbmNtRnBiaUJtY21WbElHUnllU0JrYjJjZ1ptOXZaSE1RQUgzVjVBTV8iLCJxdWVzdGlvbiI6IldoYXQncyB0aGUgYmVzdCBncmFpbi1mcmVlIGZvb2QgZm9yIGRvZ3M%2FIiwibGsiOiJHaWgzYUdGMEozTWdkR2hsSUdKbGMzUWdaM0poYVc0Z1puSmxaU0JtYjI5a0lHWnZjaUJrYjJkeiIsImJzIjoiYzMzUXZRNkNNQlFGNExqZXliblRXUlRCLUJOZWdNVVhjQ0tPaFY0b2liUkoyMGg4ZTBVVEl3THUzem4zNWxCSmgxekxnTVlqYUlabWVRMjZZUjlRTzltWVhlV1lvZHdkeXRhb3JGVlplaFQ3N2s4RW93aGRLSms1OHMxUU9HbWVfVnNSel9TUE5lVVU5OVhSMnhZX2o3OWdaVjJmOGxtYWlFMDNoVEhHZEtiMXllTEd3Y054YWR1V2pScHM4dGtqRWlzMUxUR1F5OFVEIiwiaWQiOiJmY190LWUzYXNYZ0xjVGcxZThQaDdtam9RUV81In0%3D"
+    },
+    {
+      "question": "Do vets recommend grain-free dog food?",
+      "type": "ai_overview",
+      "page_token": "eFiJE3icHdBRboIwGADg7DJ7nCDTRROzTKHTbJZR_H_avizQqjgpoFRB3naXnWqnWbLvCN_3T3Eoj79319zaupkOBm3bPuyral9sH1RlBmlzK9VApUWRpeo4HT-N3eedmgWX1XxxWs0jqGv0mbNZykY64gZJHmbBBBKfhJpM-BbJG7ySSxjYsxh2pQzsHF2K2tCxTGqBw_YWlyxFw2zG65NGJNKVjeAvrj7qXczZ27rUbYS6y5A4dOHYkK-dtYk8MLjWPbjAlbcB0UZGH8EhV1Hm4yyZbLKEdLHpPqjHeNZTlqGsY_PoJb5eAMmbaKi7eFkjljoPl_QAQ3pBni9icFmQa-c9gV5wKqTTfeGr6uQmj1Jf29RMGLDqEAHr1VdhACmqYNWhr0Zh4DYMA4u9GAFnt9SXfszpFaL7nbrOvPv_z9nnzthpfa72fwPBhKc",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=eFiJE3icHdBRboIwGADg7DJ7nCDTRROzTKHTbJZR_H_avizQqjgpoFRB3naXnWqnWbLvCN_3T3Eoj79319zaupkOBm3bPuyral9sH1RlBmlzK9VApUWRpeo4HT-N3eedmgWX1XxxWs0jqGv0mbNZykY64gZJHmbBBBKfhJpM-BbJG7ySSxjYsxh2pQzsHF2K2tCxTGqBw_YWlyxFw2zG65NGJNKVjeAvrj7qXczZ27rUbYS6y5A4dOHYkK-dtYk8MLjWPbjAlbcB0UZGH8EhV1Hm4yyZbLKEdLHpPqjHeNZTlqGsY_PoJb5eAMmbaKi7eFkjljoPl_QAQ3pBni9icFmQa-c9gV5wKqTTfeGr6uQmj1Jf29RMGLDqEAHr1VdhACmqYNWhr0Zh4DYMA4u9GAFnt9SXfszpFaL7nbrOvPv_z9nnzthpfa72fwPBhKc",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5TMWZjMVpXVERCUk5GcE9MVVpDWVRkTFRGa3hXVU5pVkhWMFJESjVkemh6U0RKUFJXVlZXVFp1T1hGZk1FOXRZbmxHU3pjNFZWUTVObWswVkc1V1RERlZOR1JEU201NlNXNDJhMlZqWHpKR1MxQkhSVmxrU2pka2R4SVhkQzFsTTJGeldHZE1ZMVJuTVdVNFVHZzNiV3B2VVZFYUlrRkVjM0k1WmxGSVNqVlpTVFZzUzFCelVrbEtPRXBsWm1oaGNuRlZYekJRUkdjIiwiZmN2IjoiMyIsImVpIjoidC1lM2FzWGdMY1RnMWU4UGg3bWpvUVEiLCJxYyI6IkNpZDBiM0FnWW5KaGJtUnpJR1p2Y2lCbmNtRnBiaUJtY21WbElHUnllU0JrYjJjZ1ptOXZaSE1RQUgzVjVBTV8iLCJxdWVzdGlvbiI6IkRvIHZldHMgcmVjb21tZW5kIGdyYWluLWZyZWUgZG9nIGZvb2Q/IiwibGsiOiJHaVZrYnlCMlpYUnpJSEpsWTI5dGJXVnVaQ0JuY21GcGJpQm1jbVZsSUdSdlp5Qm1iMjlrIiwiYnMiOiJjMzNRdlE2Q01CUUY0TGpleWJuVFdSVEItQk5lZ01VWGNDS09oVjRvaWJSSjIwaDhlMFVUSXdMdTN6bjM1bEJKaDF6TGdNWWphSVptZVEyNllSOVFPOW1ZWGVXWW9kd2R5dGFvckZWWmVoVDc3azhFb3doZEtKazU4czFRT0dtZV9Wc1J6X1NQTmVVVTk5WFIyeFlfajc5Z1pWMmY4bG1haUUwM2hUSEdkS2IxeWVMR3djTnhhZHVXalJwczh0a2pFaXMxTFRHUXk4VUQiLCJpZCI6ImZjX3QtZTNhc1hnTGNUZzFlOFBoN21qb1FRXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTE5TMWZjMVpXVERCUk5GcE9MVVpDWVRkTFRGa3hXVU5pVkhWMFJESjVkemh6U0RKUFJXVlZXVFp1T1hGZk1FOXRZbmxHU3pjNFZWUTVObWswVkc1V1RERlZOR1JEU201NlNXNDJhMlZqWHpKR1MxQkhSVmxrU2pka2R4SVhkQzFsTTJGeldHZE1ZMVJuTVdVNFVHZzNiV3B2VVZFYUlrRkVjM0k1WmxGSVNqVlpTVFZzUzFCelVrbEtPRXBsWm1oaGNuRlZYekJRUkdjIiwiZmN2IjoiMyIsImVpIjoidC1lM2FzWGdMY1RnMWU4UGg3bWpvUVEiLCJxYyI6IkNpZDBiM0FnWW5KaGJtUnpJR1p2Y2lCbmNtRnBiaUJtY21WbElHUnllU0JrYjJjZ1ptOXZaSE1RQUgzVjVBTV8iLCJxdWVzdGlvbiI6IkRvIHZldHMgcmVjb21tZW5kIGdyYWluLWZyZWUgZG9nIGZvb2Q%2FIiwibGsiOiJHaVZrYnlCMlpYUnpJSEpsWTI5dGJXVnVaQ0JuY21GcGJpQm1jbVZsSUdSdlp5Qm1iMjlrIiwiYnMiOiJjMzNRdlE2Q01CUUY0TGpleWJuVFdSVEItQk5lZ01VWGNDS09oVjRvaWJSSjIwaDhlMFVUSXdMdTN6bjM1bEJKaDF6TGdNWWphSVptZVEyNllSOVFPOW1ZWGVXWW9kd2R5dGFvckZWWmVoVDc3azhFb3doZEtKazU4czFRT0dtZV9Wc1J6X1NQTmVVVTk5WFIyeFlfajc5Z1pWMmY4bG1haUUwM2hUSEdkS2IxeWVMR3djTnhhZHVXalJwczh0a2pFaXMxTFRHUXk4VUQiLCJpZCI6ImZjX3QtZTNhc1hnTGNUZzFlOFBoN21qb1FRXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "P3qE53iczVZZkqpIFF1Ar6P5sVRwKLUiiBdJSvEop0LF6YeABBOUwQIsoP56L72qXkMvohMQp6dV_d5HR98ISfJ6p8x7j8c__rQtd_vXb3-bYbgLnqrVKIoq2POwbVSQ51TVIHFRde3ZgY_Mb6bNGi4VeHsfGZbOItP3HIPCNrsPqP3eNtioBIEoiVA0JkKHQfXxu2bF8hzG8mphmiiJZ5pj06u5hOX62NSF2QeVvLN1CgUsTRkWG5aNuhoscB9NMWO0X82Ws_EkicrKYBVNDYwNqTLeBFWlSh7b3-tdsqkEFcOt9AX-IxQHw_q4XanRTKcyqqoOMQD_oUg8EAFH1ny5JxAA_utgqYkEYBqrEAxPX-XSzeOlOXGm6N1NCXAWaJzFkAB4ha8DvZ16HEolqe5XzF1sUss0WpRF5rh_cZwzkQ6HKGLCT2zF22o-d8OH7XmX70bjiDl_sQfLLugmZGYPGnxhn97H6UrELHKUJfgO4CtXBpIkfXJw4tATQXNLpuL-xRalLMxeYTTEKqmkqmMyvHRV88nCVC1kouzFD9KZhtMO7T13hzNDXjpv-nA7g6FW5rzltLVeoNVUqiKN2Nmeqhu6Yir0t2zP1Jgm3am32g8ZmFBwRFNwjqaJCBvSVtYWL6DSr3BMASV4bMfVHfNkD291ioMH0x-aIuXTXNzfmbMFz_sgF_YY0CIQL-YB8-JrugqFYgQ4MgnofBqKBBjksDz6whtGh0GHOK8oXcWT-9EEp409-p41d3AD9S8_aKTvxZsoHuyjQ2RwHcAEY_GYfHkdaQkkiPn0kjjYx1auRKepFTCWgFTUmocRs7wkcNETPtcXibunyyBhnqXsTswUO1iWUwDx-e9I5ke6gg_OV1jAV2AqZE4-ffgp5O8L9yWQ0lIKzFxB4AI6cUPYQ3rfEUQuVIQG3d8PXAfH1sjFt6HiOdpPMA_6f4Gp4CX5wEv3wcR_DSbywJ_xUvY48dIkB1PvPpjeTrzEn_HS6AYvXYMJgvEJTD0u56XoHi_9LJjgJ2Dy8pzgBphgmimXczDBe2DKeOkSTMspf8lL52A68dIJTL_AS9wv8lKGLSNfLklqv8H3yUqOWtas2duvp4obonq4epxxwmgc7yH4kqzWTvjkqLr9oFj6E1d7CRP9QSEK78nQqTc29HYlzVddPSitPb-EfdVyS2vfMEq6n5R0DxO1pweUY_seS6uP0tJ4lLtcJy4LH2W6hSb01oph2Zkx7eFce4yUoe5Eq6TWsO0eDX1tNemOdf-F3qp1tJ3zaDlpqVEwKr9wm6kA8DQ2lSCot1bJ4uM9SbAZ7Z6bzFhx4arT2LSbzzsrWcmy_SLg-jPtDlotgF1lx-yYbTh5j3FWV8Buknct5MS4P-ApcrbAYBnK8RFLutvAYCiBOSbjCLMxBbLqkTUCkvBI0M3VyChRAVIVIyB_qGudukY3O6raQS2toVIODpMdW-tQgeuzzD9Oe2W7",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=P3qE53iczVZZkqpIFF1Ar6P5sVRwKLUiiBdJSvEop0LF6YeABBOUwQIsoP56L72qXkMvohMQp6dV_d5HR98ISfJ6p8x7j8c__rQtd_vXb3-bYbgLnqrVKIoq2POwbVSQ51TVIHFRde3ZgY_Mb6bNGi4VeHsfGZbOItP3HIPCNrsPqP3eNtioBIEoiVA0JkKHQfXxu2bF8hzG8mphmiiJZ5pj06u5hOX62NSF2QeVvLN1CgUsTRkWG5aNuhoscB9NMWO0X82Ws_EkicrKYBVNDYwNqTLeBFWlSh7b3-tdsqkEFcOt9AX-IxQHw_q4XanRTKcyqqoOMQD_oUg8EAFH1ny5JxAA_utgqYkEYBqrEAxPX-XSzeOlOXGm6N1NCXAWaJzFkAB4ha8DvZ16HEolqe5XzF1sUss0WpRF5rh_cZwzkQ6HKGLCT2zF22o-d8OH7XmX70bjiDl_sQfLLugmZGYPGnxhn97H6UrELHKUJfgO4CtXBpIkfXJw4tATQXNLpuL-xRalLMxeYTTEKqmkqmMyvHRV88nCVC1kouzFD9KZhtMO7T13hzNDXjpv-nA7g6FW5rzltLVeoNVUqiKN2Nmeqhu6Yir0t2zP1Jgm3am32g8ZmFBwRFNwjqaJCBvSVtYWL6DSr3BMASV4bMfVHfNkD291ioMH0x-aIuXTXNzfmbMFz_sgF_YY0CIQL-YB8-JrugqFYgQ4MgnofBqKBBjksDz6whtGh0GHOK8oXcWT-9EEp409-p41d3AD9S8_aKTvxZsoHuyjQ2RwHcAEY_GYfHkdaQkkiPn0kjjYx1auRKepFTCWgFTUmocRs7wkcNETPtcXibunyyBhnqXsTswUO1iWUwDx-e9I5ke6gg_OV1jAV2AqZE4-ffgp5O8L9yWQ0lIKzFxB4AI6cUPYQ3rfEUQuVIQG3d8PXAfH1sjFt6HiOdpPMA_6f4Gp4CX5wEv3wcR_DSbywJ_xUvY48dIkB1PvPpjeTrzEn_HS6AYvXYMJgvEJTD0u56XoHi_9LJjgJ2Dy8pzgBphgmimXczDBe2DKeOkSTMspf8lL52A68dIJTL_AS9wv8lKGLSNfLklqv8H3yUqOWtas2duvp4obonq4epxxwmgc7yH4kqzWTvjkqLr9oFj6E1d7CRP9QSEK78nQqTc29HYlzVddPSitPb-EfdVyS2vfMEq6n5R0DxO1pweUY_seS6uP0tJ4lLtcJy4LH2W6hSb01oph2Zkx7eFce4yUoe5Eq6TWsO0eDX1tNemOdf-F3qp1tJ3zaDlpqVEwKr9wm6kA8DQ2lSCot1bJ4uM9SbAZ7Z6bzFhx4arT2LSbzzsrWcmy_SLg-jPtDlotgF1lx-yYbTh5j3FWV8Buknct5MS4P-ApcrbAYBnK8RFLutvAYCiBOSbjCLMxBbLqkTUCkvBI0M3VyChRAVIVIyB_qGudukY3O6raQS2toVIODpMdW-tQgeuzzD9Oe2W7"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Grain Free Soft Dog Food",
+      "link": "https://www.amazon.com/grain-free-soft-dog-food/s?k=grain+free+soft+dog+food",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFXQvgmoO1ApJGZ8H3jg1bQhj91VLXMf9kDKvqoAFCfd269cIC8jUonwavl45rEyKMZ_wthB1ZoRQgCjOZ3GBnvLhgj5OVIX4vo1XxnBumJY63pgmq0vBvJhMlNEYUZpE0Vu3z2aJkp63YRFU4A53msR0QuTUsHAtOohwTiZiAP8rd3c&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › grain-free-soft-dog-food › k...",
+      "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+      "snippet": "Nature's Recipe Grain Free Wet Dog Food, Made with No Added Grain. Blue Buffalo Blue's Stew Variety Pack. Optimeal Wet Dog Food Small Breed Variety Pack - ...",
+      "snippet_highlighted_words": [
+        "Nature's Recipe Grain Free Wet Dog Food"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.5",
+            "store rating (9.1K)",
+            "Free delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Nature's Recipe Grain Free Wet Dog Food, Made with No Added Grain. Blue Buffalo Blue's Stew Variety Pack. Optimeal Wet Dog Food Small Breed Variety Pack -  ...",
+          "source_info_link": "https://www.amazon.com/grain-free-soft-dog-food/s?k=grain+free+soft+dog+food",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZYUXZnbW9PMUFwSkdaOEgzamcxYlFoajkxVkxYTWY5a0RLdnFvQUZDZmQyNjljSUM4alVvbndhdmw0NXJFeUtNWl93dGhCMVpvUlFnQ2pPWjNHQm52TGhnajVPVklYNHZvMVh4bkJ1bUpZNjNwZ21xMHZCdkpoTWxORVlVWnBFMFZ1M3oyYUprcDYzWVJGVTRBNTNtc1IwUXVUVXNIQXRPb2h3VGlaaUFQOHJkM2MSBBoCCAAa4QYSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAvQYIABAAGAAgACpMCgN0b3AVeQe9PhoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgVncmVhdBoHbGVhZGluZxoFbWFqb3IaB3BvcHVsYXIaCXRvcGJyYW5kcyoqCgZicmFuZHMVbiLCPhoFYnJhbmQaCWNvbXBhbmllcxoJdG9wYnJhbmRzKgoKA2ZvchUAAAAAKiMKBWdyYWluFeXsy0AaCWdyYWluZnJlZRoKaXY7cDtncmFpbiofCgRmcmVlFZrp7EAaCWdyYWluZnJlZRoHZnJlZWRyeSomCgNkcnkV5EiEPxoFZHJpZWQaAm9mGgdmcmVlZHJ5GgZkcnlkb2cqOwoDZG9nFa0s3UAaBmNhbmluZRoEZG9ncxoIcGV0IGZvb2QaBXB1cHB5GgZkcnlkb2caCGRvZ2Zvb2RzKkAKBWZvb2RzFTajjD8aBGRpZXQaBmVhdGluZxoEZmVlZBoEZm9vZBoEbWVhbBoIcGV0IGZvb2QaCGRvZ2Zvb2RzMsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZYUXZnbW9PMUFwSkdaOEgzamcxYlFoajkxVkxYTWY5a0RLdnFvQUZDZmQyNjljSUM4alVvbndhdmw0NXJFeUtNWl93dGhCMVpvUlFnQ2pPWjNHQm52TGhnajVPVklYNHZvMVh4bkJ1bUpZNjNwZ21xMHZCdkpoTWxORVlVWnBFMFZ1M3oyYUprcDYzWVJGVTRBNTNtc1IwUXVUVXNIQXRPb2h3VGlaaUFQOHJkM2M6MzxiPkdyYWluIEZyZWU8L2I-IFNvZnQgPGI-RG9nIEZvb2Q8L2I-IC0gQW1hem9uLmNvbUKzATxiPk5hdHVyZSYjMzk7cyBSZWNpcGUgR3JhaW4gRnJlZSBXZXQgRG9nIEZvb2Q8L2I-LCBNYWRlIHdpdGggTm8gQWRkZWQgR3JhaW4uIEJsdWUgQnVmZmFsbyBCbHVlJiMzOTtzIFN0ZXcgVmFyaWV0eSBQYWNrLiBPcHRpbWVhbCBXZXQgRG9nIEZvb2QgU21hbGwgQnJlZWQgVmFyaWV0eSBQYWNrIC0gJm5ic3A7Li4uSgNmb3JSBGJlc3RSAm9mIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZYUXZnbW9PMUFwSkdaOEgzamcxYlFoajkxVkxYTWY5a0RLdnFvQUZDZmQyNjljSUM4alVvbndhdmw0NXJFeUtNWl93dGhCMVpvUlFnQ2pPWjNHQm52TGhnajVPVklYNHZvMVh4bkJ1bUpZNjNwZ21xMHZCdkpoTWxORVlVWnBFMFZ1M3oyYUprcDYzWVJGVTRBNTNtc1IwUXVUVXNIQXRPb2h3VGlaaUFQOHJkM2MSBBoCCAAa4QYSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAvQYIABAAGAAgACpMCgN0b3AVeQe9PhoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgVncmVhdBoHbGVhZGluZxoFbWFqb3IaB3BvcHVsYXIaCXRvcGJyYW5kcyoqCgZicmFuZHMVbiLCPhoFYnJhbmQaCWNvbXBhbmllcxoJdG9wYnJhbmRzKgoKA2ZvchUAAAAAKiMKBWdyYWluFeXsy0AaCWdyYWluZnJlZRoKaXY7cDtncmFpbiofCgRmcmVlFZrp7EAaCWdyYWluZnJlZRoHZnJlZWRyeSomCgNkcnkV5EiEPxoFZHJpZWQaAm9mGgdmcmVlZHJ5GgZkcnlkb2cqOwoDZG9nFa0s3UAaBmNhbmluZRoEZG9ncxoIcGV0IGZvb2QaBXB1cHB5GgZkcnlkb2caCGRvZ2Zvb2RzKkAKBWZvb2RzFTajjD8aBGRpZXQaBmVhdGluZxoEZmVlZBoEZm9vZBoEbWVhbBoIcGV0IGZvb2QaCGRvZ2Zvb2RzMsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZYUXZnbW9PMUFwSkdaOEgzamcxYlFoajkxVkxYTWY5a0RLdnFvQUZDZmQyNjljSUM4alVvbndhdmw0NXJFeUtNWl93dGhCMVpvUlFnQ2pPWjNHQm52TGhnajVPVklYNHZvMVh4bkJ1bUpZNjNwZ21xMHZCdkpoTWxORVlVWnBFMFZ1M3oyYUprcDYzWVJGVTRBNTNtc1IwUXVUVXNIQXRPb2h3VGlaaUFQOHJkM2M6MzxiPkdyYWluIEZyZWU8L2I-IFNvZnQgPGI-RG9nIEZvb2Q8L2I-IC0gQW1hem9uLmNvbUKzATxiPk5hdHVyZSYjMzk7cyBSZWNpcGUgR3JhaW4gRnJlZSBXZXQgRG9nIEZvb2Q8L2I-LCBNYWRlIHdpdGggTm8gQWRkZWQgR3JhaW4uIEJsdWUgQnVmZmFsbyBCbHVlJiMzOTtzIFN0ZXcgVmFyaWV0eSBQYWNrLiBPcHRpbWVhbCBXZXQgRG9nIEZvb2QgU21hbGwgQnJlZWQgVmFyaWV0eSBQYWNrIC0gJm5ic3A7Li4uSgNmb3JSBGJlc3RSAm9mIgIQAUgAWABoAA",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 2,
+      "title": "Best Hypoallergenic Dog Food Brands Reviewed",
+      "link": "https://www.joyfullpet.com/blogs/news/best-hypoallergenic-dog-food-brands?srsltid=AU7gw4Wy_FDP5FQnJ86smjxi7mODfWjb35dhXhUKFXIxHy_cLvR9Iek5",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxgEB6zswFUTmlqSI04XPedXYW70ri-VwYLY5o8Tb2WnBwGHFMPE-KfUm7NY7eG3j6ASDGzLhQQZmh2rMx5GC-FCwze6rs3u_jdbnl02IzEXVXV9aDnwm38y11AzrC8KvtasKKQ6GA4ZJMcviP4jYqxu_NoSUtGaTpB9o7PiNX6HrfafSEdh8o86qzw0mUw0SZPuAlMXmmTUDMLjp1_mxmh51FJA3eSaF4gV6QdUX8uJ-PqHFDSOz1kknlxVRoTRzetjIw_LREG0&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.joyfullpet.com › blogs › news › best-hypoal...",
+      "thumbnail": "https://serpapi.com/searches/6ab7e7b513258343581d1c5b/images/ErNecbF28mhNNa49SdaxIZYBEC01V5fVoA8N-kNjYao.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAABwCgCdASogAB0APrUurVanIacnG_DgFolsAJ0yhHA3oHyAXodsC0B-kHuA_He8A8wHkQepPeQPQA8tr2RfIzTwKCj3Rdmnwq0AsFyrR52gG7kMzFC8cAnDwHFAAAD-_sLJ1Lo_5jt1bbX29aZ8sQjh17_dn77sbGJgRh_a3LM2n37ZjW_y-UfkHRVFJWb9cPknF_GZz8WMB_suhmwuqApkpVBEDrP3nXT3oebrGInExAcIcvat_835Hc2Egct42XL7Wpa-pWeJf3CJP9eQf-TVeB4FbIeGxpUPfG0rvVGFH2ThP1Zrok5Np5eWfRDNEpriiTSFd6SmvlIkw0vlszi9YG33h9UMuDYvLZ2BLXDMgld9mNoD0jP_GFFygBPswHY0UiHLlSBL2d0ff518sHmk-221om2oSivMq7y9GzKGwnRbTtyQYuBmo1vcqvXDA_LF1dh7PJBTKPGqk7YJRdFUpE6FfC_BlgTHc1-RBvf-2vi9l-NuqApI7ZMDtX_nVYXUgAAA.webp",
+      "date": "Nov 12, 2025",
+      "snippet": "best hypoallergenic dog food brands like Royal Canin, Hill's Prescription Diet, leaders like Nestlé Purina, Hill's, and Royal Canin make up ...",
+      "snippet_highlighted_words": [
+        "Royal Canin, Hill's Prescription Diet"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "best hypoallergenic dog food brands like Royal Canin, Hill's Prescription Diet, leaders like Nestlé Purina, Hill's, and Royal Canin make up ...",
+          "source_info_link": "https://www.joyfullpet.com/blogs/news/best-hypoallergenic-dog-food-brands?srsltid=AU7gw4Wy_FDP5FQnJ86smjxi7mODfWjb35dhXhUKFXIxHy_cLvR9Iek5",
+          "icon": "https://serpapi.com/images/i/UklGRpABAABXRUJQVlA4IIQBAABwCgCdASogAB0APrUurVanIacnG_DgFolsAJ0yhHA3oHyAXodsC0B-kHuA_He8A8wHkQepPeQPQA8tr2RfIzTwKCj3Rdmnwq0AsFyrR52gG7kMzFC8cAnDwHFAAAD-_sLJ1Lo_5jt1bbX29aZ8sQjh17_dn77sbGJgRh_a3LM2n37ZjW_y-UfkHRVFJWb9cPknF_GZz8WMB_suhmwuqApkpVBEDrP3nXT3oebrGInExAcIcvat_835Hc2Egct42XL7Wpa-pWeJf3CJP9eQf-TVeB4FbIeGxpUPfG0rvVGFH2ThP1Zrok5Np5eWfRDNEpriiTSFd6SmvlIkw0vlszi9YG33h9UMuDYvLZ2BLXDMgld9mNoD0jP_GFFygBPswHY0UiHLlSBL2d0ff518sHmk-221om2oSivMq7y9GzKGwnRbTtyQYuBmo1vcqvXDA_LF1dh7PJBTKPGqk7YJRdFUpE6FfC_BlgTHc1-RBvf-2vi9l-NuqApI7ZMDtX_nVYXUgAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZVVG1scVNJMDRYUGVkWFlXNzByaS1Wd1lMWTVvOFRiMlduQndHSEZNUEUtS2ZVbTdOWTdlRzNqNkFTREd6TGhRUVptaDJyTXg1R0MtRkN3emU2cnMzdV9qZGJubDAySXpFWFZYVjlhRG53bTM4eTExQXpyQzhLdnRhc0tLUTZHQTRaSk1jdmlQNGpZcXh1X05vU1V0R2FUcEI5bzdQaU5YNkhyZmFmU0VkaDhvODZxencwbVV3MFNaUHVBbE1YbW1UVURNTGpwMV9teG1oNTFGSkEzZVNhRjRnVjZRZFVYOHVKLVBxSEZEU096MWtrbmx4VlJvVFJ6ZXRqSXdfTFJFRzASBBoCCAAa5wYSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL8GCAAQABgAIAAqTAoDdG9wFYt-sj8aBGJlc3QaB2JpZ2dlc3QaBmZhbW91cxoFZ3JlYXQaB2xlYWRpbmcaBW1ham9yGgdwb3B1bGFyGgl0b3BicmFuZHMqKgoGYnJhbmRzFSxTsEAaBWJyYW5kGgljb21wYW5pZXMaCXRvcGJyYW5kcyoKCgNmb3IVAAAAACojCgVncmFpbhWvfVE_GglncmFpbmZyZWUaCml2O3A7Z3JhaW4qHwoEZnJlZRWWjZg_GglncmFpbmZyZWUaB2ZyZWVkcnkqJgoDZHJ5FQAAAAAaBWRyaWVkGgJvZhoHZnJlZWRyeRoGZHJ5ZG9nKjsKA2RvZxVY7NxAGgZjYW5pbmUaBGRvZ3MaCHBldCBmb29kGgVwdXBweRoGZHJ5ZG9nGghkb2dmb29kcypACgVmb29kcxWt2Ok_GgRkaWV0GgZlYXRpbmcaBGZlZWQaBGZvb2QaBG1lYWwaCHBldCBmb29kGghkb2dmb29kczLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGVTZuYWVkQm1nZVJPQlBzZ3ZLeWFrV0JrLTVhQzFyUU9BLVFhUzZfSzlCQWFxWGtvM3RIcG9vejF1TTF4VU1nQ2tnTG15dnJTbUFHMEl0OF9vTTRlYjI3cDlyemlYZjdsanlHbU1VSUtBcFRSeUxlRkVrNjgtdkYweUEwVHNjSEFxN3dFLW9YejdTZFhqd1lvOVlySkxCXy05M2pDRm5NQzVuNzZUd19iaWM6SDxiPkJlc3Q8L2I-IEh5cG9hbGxlcmdlbmljIDxiPkRvZyBGb29kIEJyYW5kczwvYj4gUmV2aWV3ZWQgLSBKb3lGdWxsIFBldEKkAWJlc3QgaHlwb2FsbGVyZ2VuaWMgZG9nIGZvb2QgYnJhbmRzIGxpa2UgPGI-Um95YWwgQ2FuaW4sIEhpbGwmIzM5O3MgUHJlc2NyaXB0aW9uIERpZXQ8L2I-LCBsZWFkZXJzIGxpa2UgTmVzdGzDqSBQdXJpbmEsIEhpbGwmIzM5O3MsIGFuZCBSb3lhbCBDYW5pbiBtYWtlIHVwJm5ic3A7Li4uSgNmb3JSBGJlc3RSAm9mIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZVVG1scVNJMDRYUGVkWFlXNzByaS1Wd1lMWTVvOFRiMlduQndHSEZNUEUtS2ZVbTdOWTdlRzNqNkFTREd6TGhRUVptaDJyTXg1R0MtRkN3emU2cnMzdV9qZGJubDAySXpFWFZYVjlhRG53bTM4eTExQXpyQzhLdnRhc0tLUTZHQTRaSk1jdmlQNGpZcXh1X05vU1V0R2FUcEI5bzdQaU5YNkhyZmFmU0VkaDhvODZxencwbVV3MFNaUHVBbE1YbW1UVURNTGpwMV9teG1oNTFGSkEzZVNhRjRnVjZRZFVYOHVKLVBxSEZEU096MWtrbmx4VlJvVFJ6ZXRqSXdfTFJFRzASBBoCCAAa5wYSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQL8GCAAQABgAIAAqTAoDdG9wFYt-sj8aBGJlc3QaB2JpZ2dlc3QaBmZhbW91cxoFZ3JlYXQaB2xlYWRpbmcaBW1ham9yGgdwb3B1bGFyGgl0b3BicmFuZHMqKgoGYnJhbmRzFSxTsEAaBWJyYW5kGgljb21wYW5pZXMaCXRvcGJyYW5kcyoKCgNmb3IVAAAAACojCgVncmFpbhWvfVE_GglncmFpbmZyZWUaCml2O3A7Z3JhaW4qHwoEZnJlZRWWjZg_GglncmFpbmZyZWUaB2ZyZWVkcnkqJgoDZHJ5FQAAAAAaBWRyaWVkGgJvZhoHZnJlZWRyeRoGZHJ5ZG9nKjsKA2RvZxVY7NxAGgZjYW5pbmUaBGRvZ3MaCHBldCBmb29kGgVwdXBweRoGZHJ5ZG9nGghkb2dmb29kcypACgVmb29kcxWt2Ok_GgRkaWV0GgZlYXRpbmcaBGZlZWQaBGZvb2QaBG1lYWwaCHBldCBmb29kGghkb2dmb29kczLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGVTZuYWVkQm1nZVJPQlBzZ3ZLeWFrV0JrLTVhQzFyUU9BLVFhUzZfSzlCQWFxWGtvM3RIcG9vejF1TTF4VU1nQ2tnTG15dnJTbUFHMEl0OF9vTTRlYjI3cDlyemlYZjdsanlHbU1VSUtBcFRSeUxlRkVrNjgtdkYweUEwVHNjSEFxN3dFLW9YejdTZFhqd1lvOVlySkxCXy05M2pDRm5NQzVuNzZUd19iaWM6SDxiPkJlc3Q8L2I-IEh5cG9hbGxlcmdlbmljIDxiPkRvZyBGb29kIEJyYW5kczwvYj4gUmV2aWV3ZWQgLSBKb3lGdWxsIFBldEKkAWJlc3QgaHlwb2FsbGVyZ2VuaWMgZG9nIGZvb2QgYnJhbmRzIGxpa2UgPGI-Um95YWwgQ2FuaW4sIEhpbGwmIzM5O3MgUHJlc2NyaXB0aW9uIERpZXQ8L2I-LCBsZWFkZXJzIGxpa2UgTmVzdGzDqSBQdXJpbmEsIEhpbGwmIzM5O3MsIGFuZCBSb3lhbCBDYW5pbiBtYWtlIHVwJm5ic3A7Li4uSgNmb3JSBGJlc3RSAm9mIgIQAUgAWABoAA",
+      "source": "JoyFull Pet"
+    },
+    {
+      "position": 3,
+      "title": "[Discussion] What do you think is the best dog food?",
+      "link": "https://www.reddit.com/r/dogs/comments/e825zj/discussion_what_do_you_think_is_the_best_dog_food/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFazPn0QicRRoae2GNstNuAcxzYAAZbV7pYD-YY5_d1t9_GL1ha_mMGNRcNMjFts5ZZsvtiAzO_pr-MI0ms_LqQlIe8kkZi019m9JoFF98MnII2siMtqfW3_Xd2GFRrXWNRQkWrYAxwlZbdjjKePa7_-uW7HFqT_Vf0IFiNwYmmamBovdXk28RcGpfIbpuJHNpoLQwHzt7Q&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQFnoECFIQAQ&uoh=1",
+      "displayed_link": "20+ comments · 6 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "I just got a new Rottweiler puppy. He’s about 10 weeks old and I’ve been feeding him blue buffalo puppy chow. What do you recommend feeding him while ...",
+      "about_this_result": {
+        "source": {
+          "description": "The brands that meet WSAVA guidelines: Purina, Hills, Royal Canin, Eukanuba, and Iams. there are only five brands that do so: Purina, Royal ...",
+          "source_info_link": "https://www.reddit.com/r/dogs/comments/e825zj/discussion_what_do_you_think_is_the_best_dog_food/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZhelBuMFFpY1JSb2FlMkdOc3ROdUFjeHpZQUFaYlY3cFlELVlZNV9kMXQ5X0dMMWhhX21NR05SY05NakZ0czVaWnN2dGlBek9fcHItTUkwbXNfTHFRbEllOGtrWmkwMTltOUpvRkY5OE1uSUkyc2lNdHFmVzNfWGQyR0ZSclhXTlJRa1dyWUF4d2xaYmRqaktlUGE3Xy11VzdIRnFUX1ZmMElGaU53WW1tYW1Cb3ZkWGsyOFJjR3BmSWJwdUpITnBvTFF3SHp0N1ESBBoCCAAa9QYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0QYIABAAGAAgACpMCgN0b3AV1WE9PhoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgVncmVhdBoHbGVhZGluZxoFbWFqb3IaB3BvcHVsYXIaCXRvcGJyYW5kcyoqCgZicmFuZHMVfj3nPxoFYnJhbmQaCWNvbXBhbmllcxoJdG9wYnJhbmRzKgoKA2ZvchUAAAAAKiMKBWdyYWluFb-upT8aCWdyYWluZnJlZRoKaXY7cDtncmFpbiofCgRmcmVlFb-upT8aCWdyYWluZnJlZRoHZnJlZWRyeSomCgNkcnkVFhi6PxoFZHJpZWQaAm9mGgdmcmVlZHJ5GgZkcnlkb2cqOwoDZG9nFSYRwUAaBmNhbmluZRoEZG9ncxoIcGV0IGZvb2QaBXB1cHB5GgZkcnlkb2caCGRvZ2Zvb2RzKkAKBWZvb2RzFfyDwT8aBGRpZXQaBmVhdGluZxoEZmVlZBoEZm9vZBoEbWVhbBoIcGV0IGZvb2QaCGRvZ2Zvb2RzMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZhelBuMFFpY1JSb2FlMkdOc3ROdUFjeHpZQUFaYlY3cFlELVlZNV9kMXQ5X0dMMWhhX21NR05SY05NakZ0czVaWnN2dGlBek9fcHItTUkwbXNfTHFRbEllOGtrWmkwMTltOUpvRkY5OE1uSUkyc2lNdHFmVzNfWGQyR0ZSclhXTlJRa1dyWUF4d2xaYmRqaktlUGE3Xy11VzdIRnFUX1ZmMElGaU53WW1tYW1Cb3ZkWGsyOFJjR3BmSWJwdUpITnBvTFF3SHp0N1E6RFtEaXNjdXNzaW9uXSBXaGF0IGRvIHlvdSB0aGluayBpcyB0aGUgPGI-YmVzdCBkb2cgZm9vZDwvYj4_IC0gUmVkZGl0QpsBVGhlIGJyYW5kcyB0aGF0IG1lZXQgV1NBVkEgZ3VpZGVsaW5lczogPGI-UHVyaW5hLCBIaWxscywgUm95YWwgQ2FuaW4sIEV1a2FudWJhLCBhbmQgSWFtczwvYj4uIHRoZXJlIGFyZSBvbmx5IGZpdmUgYnJhbmRzIHRoYXQgZG8gc286IFB1cmluYSwgUm95YWwmbmJzcDsuLi5KA2ZvclIEYmVzdFICb2YiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZhelBuMFFpY1JSb2FlMkdOc3ROdUFjeHpZQUFaYlY3cFlELVlZNV9kMXQ5X0dMMWhhX21NR05SY05NakZ0czVaWnN2dGlBek9fcHItTUkwbXNfTHFRbEllOGtrWmkwMTltOUpvRkY5OE1uSUkyc2lNdHFmVzNfWGQyR0ZSclhXTlJRa1dyWUF4d2xaYmRqaktlUGE3Xy11VzdIRnFUX1ZmMElGaU53WW1tYW1Cb3ZkWGsyOFJjR3BmSWJwdUpITnBvTFF3SHp0N1ESBBoCCAAa9QYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0QYIABAAGAAgACpMCgN0b3AV1WE9PhoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgVncmVhdBoHbGVhZGluZxoFbWFqb3IaB3BvcHVsYXIaCXRvcGJyYW5kcyoqCgZicmFuZHMVfj3nPxoFYnJhbmQaCWNvbXBhbmllcxoJdG9wYnJhbmRzKgoKA2ZvchUAAAAAKiMKBWdyYWluFb-upT8aCWdyYWluZnJlZRoKaXY7cDtncmFpbiofCgRmcmVlFb-upT8aCWdyYWluZnJlZRoHZnJlZWRyeSomCgNkcnkVFhi6PxoFZHJpZWQaAm9mGgdmcmVlZHJ5GgZkcnlkb2cqOwoDZG9nFSYRwUAaBmNhbmluZRoEZG9ncxoIcGV0IGZvb2QaBXB1cHB5GgZkcnlkb2caCGRvZ2Zvb2RzKkAKBWZvb2RzFfyDwT8aBGRpZXQaBmVhdGluZxoEZmVlZBoEZm9vZBoEbWVhbBoIcGV0IGZvb2QaCGRvZ2Zvb2RzMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZhelBuMFFpY1JSb2FlMkdOc3ROdUFjeHpZQUFaYlY3cFlELVlZNV9kMXQ5X0dMMWhhX21NR05SY05NakZ0czVaWnN2dGlBek9fcHItTUkwbXNfTHFRbEllOGtrWmkwMTltOUpvRkY5OE1uSUkyc2lNdHFmVzNfWGQyR0ZSclhXTlJRa1dyWUF4d2xaYmRqaktlUGE3Xy11VzdIRnFUX1ZmMElGaU53WW1tYW1Cb3ZkWGsyOFJjR3BmSWJwdUpITnBvTFF3SHp0N1E6RFtEaXNjdXNzaW9uXSBXaGF0IGRvIHlvdSB0aGluayBpcyB0aGUgPGI-YmVzdCBkb2cgZm9vZDwvYj4_IC0gUmVkZGl0QpsBVGhlIGJyYW5kcyB0aGF0IG1lZXQgV1NBVkEgZ3VpZGVsaW5lczogPGI-UHVyaW5hLCBIaWxscywgUm95YWwgQ2FuaW4sIEV1a2FudWJhLCBhbmQgSWFtczwvYj4uIHRoZXJlIGFyZSBvbmx5IGZpdmUgYnJhbmRzIHRoYXQgZG8gc286IFB1cmluYSwgUm95YWwmbmJzcDsuLi5KA2ZvclIEYmVzdFICb2YiAhABSABYAGgA",
+      "source": "Reddit · r/dogs"
+    },
+    {
+      "position": 4,
+      "title": "Best grain free dog food 2025 for a free-from cereals diet",
+      "link": "https://takeabreak.co.uk/pets/dogs/best-grain-free-dog-food/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdwHrOzAVk1vwBJ-MCJRDDOrVlvd-9KqeTg_8dfAPFXXPvaTRDXTnNmdKQQS5KwiqDPEzddJW5X2A78NHNt7yWFGt685ZA85tWHuVfyFticY01TBfg4nBv02LJl4J9STKCHsPwJN89w2TNHGpWdTL1THyW-6d9mEp&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQFnoECE0QAQ&uoh=1",
+      "displayed_link": "https://takeabreak.co.uk › pets › dogs › best-grain-free-d...",
+      "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAACwBgCdASogACAAPtEutFooIagoGAEAGglsAJ0y7QEI37Q72HUAdLkBm47EUZlmBfIBDcuS0_VHWFkYU_JRAAD2aW9SphLfeWynBHMiwKKZCwJekL-DNwrN_4LtGT1kJEf_BFf1BwBbs7uePJ8nIa05G7xBchyUKS7P4WQyU-ryFePtZ0-fyeAYcf7W7BwuPkMk0ozz7f2OQeoPrNv1_BI2audzOyWytuVu7VuFsqhslPDadp4c6Evqef5XOTP9e6lHYo1GAqRJrcsgIPI5XNrT44Vbv3GJjaylLkh9WjSjbB_uCFjfX1m6GHHy_5_5lH8kt3ofe39ygAAA.webp",
+      "date": "Jan 2, 2025",
+      "snippet": "Read about the best grain free dog food on Take A Break Pets. This expert guide includes Lily's Kitchen, James Wellbeloved and Pooch + Mutt.",
+      "snippet_highlighted_words": [
+        "Lily's Kitchen, James Wellbeloved and Pooch + Mutt"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Read about the best grain free dog food on Take A Break Pets. This expert guide includes Lily's Kitchen, James Wellbeloved and Pooch + Mutt.",
+          "source_info_link": "https://takeabreak.co.uk/pets/dogs/best-grain-free-dog-food/",
+          "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAACwBgCdASogACAAPtEutFooIagoGAEAGglsAJ0y7QEI37Q72HUAdLkBm47EUZlmBfIBDcuS0_VHWFkYU_JRAAD2aW9SphLfeWynBHMiwKKZCwJekL-DNwrN_4LtGT1kJEf_BFf1BwBbs7uePJ8nIa05G7xBchyUKS7P4WQyU-ryFePtZ0-fyeAYcf7W7BwuPkMk0ozz7f2OQeoPrNv1_BI2audzOyWytuVu7VuFsqhslPDadp4c6Evqef5XOTP9e6lHYo1GAqRJrcsgIPI5XNrT44Vbv3GJjaylLkh9WjSjbB_uCFjfX1m6GHHy_5_5lH8kt3ofe39ygAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmsxdndCSi1NQ0pSRERPclZsdmQtOUtxZVRnXzhkZkFQRlhYUHZhVFJEWFRuTm1kS1FRUzVLd2lxRFBFemRkSlc1WDJBNzhOSE50N3lXRkd0Njg1WkE4NXRXSHVWZnlGdGljWTAxVEJmZzRuQnYwMkxKbDRKOVNUS0NIc1B3Sk44OXcyVE5IR3BXZFRMMVRIeVctNmQ5bUVwEgQaAggAGrwGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJgGCAAQABgAIAAqTAoDdG9wFTWIAT8aBGJlc3QaB2JpZ2dlc3QaBmZhbW91cxoFZ3JlYXQaB2xlYWRpbmcaBW1ham9yGgdwb3B1bGFyGgl0b3BicmFuZHMqKgoGYnJhbmRzFQAAAAAaBWJyYW5kGgljb21wYW5pZXMaCXRvcGJyYW5kcyoKCgNmb3IVAAAAACojCgVncmFpbhWufRtBGglncmFpbmZyZWUaCml2O3A7Z3JhaW4qHwoEZnJlZRXp-hlBGglncmFpbmZyZWUaB2ZyZWVkcnkqJgoDZHJ5Fa7wnUAaBWRyaWVkGgJvZhoHZnJlZWRyeRoGZHJ5ZG9nKjsKA2RvZxW5sxtBGgZjYW5pbmUaBGRvZ3MaCHBldCBmb29kGgVwdXBweRoGZHJ5ZG9nGghkb2dmb29kcypACgVmb29kcxW8L68_GgRkaWV0GgZlYXRpbmcaBGZlZWQaBGZvb2QaBG1lYWwaCHBldCBmb29kGghkb2dmb29kczKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZrMXZ3QkotTUNKUkRET3JWbHZkLTlLcWVUZ184ZGZBUEZYWFB2YVRSRFhUbk5tZEtRUVM1S3dpcURQRXpkZEpXNVgyQTc4TkhOdDd5V0ZHdDY4NVpBODV0V0h1VmZ5RnRpY1kwMVRCZmc0bkJ2MDJMSmw0SjlTVEtDSHNQd0pOODl3MlROSEdwV2RUTDFUSHlXLTZkOW1FcDpBPGI-QmVzdCBncmFpbiBmcmVlIGRvZyBmb29kPC9iPiAyMDI1IGZvciBhIGZyZWUtZnJvbSBjZXJlYWxzIGRpZXRClwFSZWFkIGFib3V0IHRoZSBiZXN0IGdyYWluIGZyZWUgZG9nIGZvb2Qgb24gVGFrZSBBIEJyZWFrIFBldHMuIFRoaXMgZXhwZXJ0IGd1aWRlIGluY2x1ZGVzIDxiPkxpbHkmIzM5O3MgS2l0Y2hlbiwgSmFtZXMgV2VsbGJlbG92ZWQgYW5kIFBvb2NoICsgTXV0dDwvYj4uSgNmb3JSBGJlc3RSAm9mIgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq4BL2dvdG8_dXJsPUNBRVNkd0hyT3pBVmsxdndCSi1NQ0pSRERPclZsdmQtOUtxZVRnXzhkZkFQRlhYUHZhVFJEWFRuTm1kS1FRUzVLd2lxRFBFemRkSlc1WDJBNzhOSE50N3lXRkd0Njg1WkE4NXRXSHVWZnlGdGljWTAxVEJmZzRuQnYwMkxKbDRKOVNUS0NIc1B3Sk44OXcyVE5IR3BXZFRMMVRIeVctNmQ5bUVwEgQaAggAGrwGEgAaACIAKgAyBggCEgJ1czoAQgQIARAASgBaAHIAegCCQJgGCAAQABgAIAAqTAoDdG9wFTWIAT8aBGJlc3QaB2JpZ2dlc3QaBmZhbW91cxoFZ3JlYXQaB2xlYWRpbmcaBW1ham9yGgdwb3B1bGFyGgl0b3BicmFuZHMqKgoGYnJhbmRzFQAAAAAaBWJyYW5kGgljb21wYW5pZXMaCXRvcGJyYW5kcyoKCgNmb3IVAAAAACojCgVncmFpbhWufRtBGglncmFpbmZyZWUaCml2O3A7Z3JhaW4qHwoEZnJlZRXp-hlBGglncmFpbmZyZWUaB2ZyZWVkcnkqJgoDZHJ5Fa7wnUAaBWRyaWVkGgJvZhoHZnJlZWRyeRoGZHJ5ZG9nKjsKA2RvZxW5sxtBGgZjYW5pbmUaBGRvZ3MaCHBldCBmb29kGgVwdXBweRoGZHJ5ZG9nGghkb2dmb29kcypACgVmb29kcxW8L68_GgRkaWV0GgZlYXRpbmcaBGZlZWQaBGZvb2QaBG1lYWwaCHBldCBmb29kGghkb2dmb29kczKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZrMXZ3QkotTUNKUkRET3JWbHZkLTlLcWVUZ184ZGZBUEZYWFB2YVRSRFhUbk5tZEtRUVM1S3dpcURQRXpkZEpXNVgyQTc4TkhOdDd5V0ZHdDY4NVpBODV0V0h1VmZ5RnRpY1kwMVRCZmc0bkJ2MDJMSmw0SjlTVEtDSHNQd0pOODl3MlROSEdwV2RUTDFUSHlXLTZkOW1FcDpBPGI-QmVzdCBncmFpbiBmcmVlIGRvZyBmb29kPC9iPiAyMDI1IGZvciBhIGZyZWUtZnJvbSBjZXJlYWxzIGRpZXRClwFSZWFkIGFib3V0IHRoZSBiZXN0IGdyYWluIGZyZWUgZG9nIGZvb2Qgb24gVGFrZSBBIEJyZWFrIFBldHMuIFRoaXMgZXhwZXJ0IGd1aWRlIGluY2x1ZGVzIDxiPkxpbHkmIzM5O3MgS2l0Y2hlbiwgSmFtZXMgV2VsbGJlbG92ZWQgYW5kIFBvb2NoICsgTXV0dDwvYj4uSgNmb3JSBGJlc3RSAm9mIgIQAUgAWABoAA",
+      "source": "Take a Break"
+    },
+    {
+      "position": 5,
+      "title": "Best Dry Dog Foods 2025 – Top 5 Vet-Approved Picks!",
+      "link": "https://www.youtube.com/watch?v=2W5-SePbFO0",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVvsXC8hOnfdF-nBjIRDUZ2wGKTgqwtWEquNkrV4xK58dq5DjnhLm0KaDW1ZTwGz3MoCxVrdc9amnzsG-ld85UbEmdhLKOqiIlsUoyx3_rAKdK5_crmsbsQ5CmnrvbyK0UPA&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQFnoECFEQAQ&uoh=1",
+      "displayed_link": "610+ views · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+      "snippet": "1. Blue Buffalo - Best Dry Dog Food Overall ・ 2. ORIJEN Original - Best Value Dry Dog Food 3. Purina ONE - Best Midrange Dry Dog Food ・ 4. ...",
+      "snippet_highlighted_words": [
+        "Blue Buffalo - Best Dry Dog Food Overall"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1. Blue Buffalo - Best Dry Dog Food Overall ・ 2. ORIJEN Original - Best Value Dry Dog Food 3. Purina ONE - Best Midrange Dry Dog Food ・ 4. ...",
+          "source_info_link": "https://www.youtube.com/watch?v=2W5-SePbFO0",
+          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnZzWEM4aE9uZmRGLW5CaklSRFVaMndHS1RncXd0V0VxdU5rclY0eEs1OGRxNURqbmhMbTBLYURXMVpUd0d6M01vQ3hWcmRjOWFtbnpzRy1sZDg1VWJFbWRoTEtPcWlJbHNVb3l4M19yQUtkSzVfY3Jtc2JzUTVDbW5ydmJ5SzBVUEESBBoCCAAarwYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwYIABAAGAAgACpMCgN0b3AVoE5ZQBoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgVncmVhdBoHbGVhZGluZxoFbWFqb3IaB3BvcHVsYXIaCXRvcGJyYW5kcyoqCgZicmFuZHMVghp8PhoFYnJhbmQaCWNvbXBhbmllcxoJdG9wYnJhbmRzKgoKA2ZvchUAAAAAKiMKBWdyYWluFQ8nbz8aCWdyYWluZnJlZRoKaXY7cDtncmFpbiofCgRmcmVlFbHZRz8aCWdyYWluZnJlZRoHZnJlZWRyeSomCgNkcnkVgzuqQBoFZHJpZWQaAm9mGgdmcmVlZHJ5GgZkcnlkb2cqOwoDZG9nFcwQ20AaBmNhbmluZRoEZG9ncxoIcGV0IGZvb2QaBXB1cHB5GgZkcnlkb2caCGRvZ2Zvb2RzKkAKBWZvb2RzFXhBhUAaBGRpZXQaBmVhdGluZxoEZmVlZBoEZm9vZBoEbWVhbBoIcGV0IGZvb2QaCGRvZ2Zvb2RzMpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnZzWEM4aE9uZmRGLW5CaklSRFVaMndHS1RncXd0V0VxdU5rclY0eEs1OGRxNURqbmhMbTBLYURXMVpUd0d6M01vQ3hWcmRjOWFtbnpzRy1sZDg1VWJFbWRoTEtPcWlJbHNVb3l4M19yQUtkSzVfY3Jtc2JzUTVDbW5ydmJ5SzBVUEE6QzxiPkJlc3QgRHJ5IERvZyBGb29kczwvYj4gMjAyNSDigJMgPGI-VG9wPC9iPiA1IFZldC1BcHByb3ZlZCBQaWNrcyFCngExLiA8Yj5CbHVlIEJ1ZmZhbG8gLSBCZXN0IERyeSBEb2cgRm9vZCBPdmVyYWxsPC9iPiDjg7sgMi4gT1JJSkVOIE9yaWdpbmFsIC0gQmVzdCBWYWx1ZSBEcnkgRG9nIEZvb2QgMy4gUHVyaW5hIE9ORSAtIEJlc3QgTWlkcmFuZ2UgRHJ5IERvZyBGb29kIOODuyA0LiZuYnNwOy4uLkoDZm9yUgJvZlIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnZzWEM4aE9uZmRGLW5CaklSRFVaMndHS1RncXd0V0VxdU5rclY0eEs1OGRxNURqbmhMbTBLYURXMVpUd0d6M01vQ3hWcmRjOWFtbnpzRy1sZDg1VWJFbWRoTEtPcWlJbHNVb3l4M19yQUtkSzVfY3Jtc2JzUTVDbW5ydmJ5SzBVUEESBBoCCAAarwYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAiwYIABAAGAAgACpMCgN0b3AVoE5ZQBoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgVncmVhdBoHbGVhZGluZxoFbWFqb3IaB3BvcHVsYXIaCXRvcGJyYW5kcyoqCgZicmFuZHMVghp8PhoFYnJhbmQaCWNvbXBhbmllcxoJdG9wYnJhbmRzKgoKA2ZvchUAAAAAKiMKBWdyYWluFQ8nbz8aCWdyYWluZnJlZRoKaXY7cDtncmFpbiofCgRmcmVlFbHZRz8aCWdyYWluZnJlZRoHZnJlZWRyeSomCgNkcnkVgzuqQBoFZHJpZWQaAm9mGgdmcmVlZHJ5GgZkcnlkb2cqOwoDZG9nFcwQ20AaBmNhbmluZRoEZG9ncxoIcGV0IGZvb2QaBXB1cHB5GgZkcnlkb2caCGRvZ2Zvb2RzKkAKBWZvb2RzFXhBhUAaBGRpZXQaBmVhdGluZxoEZmVlZBoEZm9vZBoEbWVhbBoIcGV0IGZvb2QaCGRvZ2Zvb2RzMpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnZzWEM4aE9uZmRGLW5CaklSRFVaMndHS1RncXd0V0VxdU5rclY0eEs1OGRxNURqbmhMbTBLYURXMVpUd0d6M01vQ3hWcmRjOWFtbnpzRy1sZDg1VWJFbWRoTEtPcWlJbHNVb3l4M19yQUtkSzVfY3Jtc2JzUTVDbW5ydmJ5SzBVUEE6QzxiPkJlc3QgRHJ5IERvZyBGb29kczwvYj4gMjAyNSDigJMgPGI-VG9wPC9iPiA1IFZldC1BcHByb3ZlZCBQaWNrcyFCngExLiA8Yj5CbHVlIEJ1ZmZhbG8gLSBCZXN0IERyeSBEb2cgRm9vZCBPdmVyYWxsPC9iPiDjg7sgMi4gT1JJSkVOIE9yaWdpbmFsIC0gQmVzdCBWYWx1ZSBEcnkgRG9nIEZvb2QgMy4gUHVyaW5hIE9ORSAtIEJlc3QgTWlkcmFuZ2UgRHJ5IERvZyBGb29kIOODuyA0LiZuYnNwOy4uLkoDZm9yUgJvZlIEYmVzdCICEAFIAFgAaAA",
+      "source": "YouTube · Trendy Pick"
+    },
+    {
+      "position": 6,
+      "title": "Can you recommend a good brand of dry grain-free food ...",
+      "link": "https://www.quora.com/Can-you-recommend-a-good-brand-of-dry-grain-free-food-for-cats-and-or-dogs",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFdKon6uTiZVp6F50EkdWsJP3iRPfzdNM3ClTvDcyggLrrAQWplxGwRz8UAtzCPYTi4JsQULy3ycg4RMazA8WGD7IA6fS2vVqtzicYbxTClLIAi9tvJCy_pZwbHrMww5incULCYBey5otkkwh7zQVuLFdNk_mqS1vtMYVKmn223ad9NO3o2rq9i6eEsMyqmjPVMc20NnUrg&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQFnoECE8QAQ&uoh=1",
+      "displayed_link": "30+ answers · 1 year ago",
+      "favicon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp",
+      "snippet": "Only 5 dog food brands so far comply with these. They are (in no particular order) Purina, Eukanuba, Hills, Royal Canin, Iams. Continue Reading.",
+      "snippet_highlighted_words": [
+        "Purina, Eukanuba, Hills, Royal Canin, Iams"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Only 5 dog food brands so far comply with these. They are (in no particular order) Purina, Eukanuba, Hills, Royal Canin, Iams. Continue Reading.",
+          "source_info_link": "https://www.quora.com/Can-you-recommend-a-good-brand-of-dry-grain-free-food-for-cats-and-or-dogs",
+          "icon": "https://serpapi.com/images/i/UklGRhIBAABXRUJQVlA4IAYBAABQBgCdASocABwAPtFAtFooIqgoFAEAGglsAKwvbT-f9FJVdngA428vxQCq0R4c9f62YZeYiGEtoRRDAAD-9gm4RWs70tP3biIu3O7VV8QI7DMqIqprw_f2Aoh6P3X8JbZDl7t0lZ2r6sObHH1Z7IUn40739orMTtT8A6LquGEbxI0kN0_5vH8j2m4-9vzIZ7iPm8NCoINzGw-u1pvZrAWdy6w2UivRxEpBBRxPG1gI6mTZO_XhJ5jNP3dnQY2e8_2lJT8rFkj6fqGXPywcyH8ho_i77YxvVXtwoQ8aPdayuatAHFSeE-0i7UxCTuYeJzk11WsfnFWKYNSX_T-HQ3TWKwo4rAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZkS29uNnVUaVpWcDZGNTBFa2RXc0pQM2lSUGZ6ZE5NM0NsVHZEY3lnZ0xyckFRV3BseEd3Uno4VUF0ekNQWVRpNEpzUVVMeTN5Y2c0Uk1hekE4V0dEN0lBNmZTMnZWcXR6aWNZYnhUQ2xMSUFpOXR2SkN5X3Bad2JIck13dzVpbmNVTENZQmV5NW90a2t3aDd6UVZ1TEZkTmtfbXFTMXZ0TVlWS21uMjIzYWQ5Tk8zbzJycTlpNmVFc015cW1qUFZNYzIwTm5VcmcSBBoCCAAa-AYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1AYIABAAGAAgACpMCgN0b3AVmFROPhoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgVncmVhdBoHbGVhZGluZxoFbWFqb3IaB3BvcHVsYXIaCXRvcGJyYW5kcyoqCgZicmFuZHMVDGCTPxoFYnJhbmQaCWNvbXBhbmllcxoJdG9wYnJhbmRzKgoKA2ZvchUAAAAAKiMKBWdyYWluFR4JtUAaCWdyYWluZnJlZRoKaXY7cDtncmFpbiofCgRmcmVlFYu2r0AaCWdyYWluZnJlZRoHZnJlZWRyeSomCgNkcnkV6g2iQBoFZHJpZWQaAm9mGgdmcmVlZHJ5GgZkcnlkb2cqOwoDZG9nFTr-Z0AaBmNhbmluZRoEZG9ncxoIcGV0IGZvb2QaBXB1cHB5GgZkcnlkb2caCGRvZ2Zvb2RzKkAKBWZvb2RzFa9lBEAaBGRpZXQaBmVhdGluZxoEZmVlZBoEZm9vZBoEbWVhbBoIcGV0IGZvb2QaCGRvZ2Zvb2RzMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZkS29uNnVUaVpWcDZGNTBFa2RXc0pQM2lSUGZ6ZE5NM0NsVHZEY3lnZ0xyckFRV3BseEd3Uno4VUF0ekNQWVRpNEpzUVVMeTN5Y2c0Uk1hekE4V0dEN0lBNmZTMnZWcXR6aWNZYnhUQ2xMSUFpOXR2SkN5X3Bad2JIck13dzVpbmNVTENZQmV5NW90a2t3aDd6UVZ1TEZkTmtfbXFTMXZ0TVlWS21uMjIzYWQ5Tk8zbzJycTlpNmVFc015cW1qUFZNYzIwTm5Vcmc6S0NhbiB5b3UgcmVjb21tZW5kIGEgZ29vZCA8Yj5icmFuZCBvZiBkcnkgZ3JhaW48L2I-LTxiPmZyZWUgZm9vZDwvYj4gZm9yIC4uLkKXAU9ubHkgNSBkb2cgZm9vZCBicmFuZHMgc28gZmFyIGNvbXBseSB3aXRoIHRoZXNlLiBUaGV5IGFyZSAoaW4gbm8gcGFydGljdWxhciBvcmRlcikgPGI-UHVyaW5hLCBFdWthbnViYSwgSGlsbHMsIFJveWFsIENhbmluLCBJYW1zPC9iPi4gQ29udGludWUgUmVhZGluZy5KA2ZvclICb2ZSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZkS29uNnVUaVpWcDZGNTBFa2RXc0pQM2lSUGZ6ZE5NM0NsVHZEY3lnZ0xyckFRV3BseEd3Uno4VUF0ekNQWVRpNEpzUVVMeTN5Y2c0Uk1hekE4V0dEN0lBNmZTMnZWcXR6aWNZYnhUQ2xMSUFpOXR2SkN5X3Bad2JIck13dzVpbmNVTENZQmV5NW90a2t3aDd6UVZ1TEZkTmtfbXFTMXZ0TVlWS21uMjIzYWQ5Tk8zbzJycTlpNmVFc015cW1qUFZNYzIwTm5VcmcSBBoCCAAa-AYSABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA1AYIABAAGAAgACpMCgN0b3AVmFROPhoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgVncmVhdBoHbGVhZGluZxoFbWFqb3IaB3BvcHVsYXIaCXRvcGJyYW5kcyoqCgZicmFuZHMVDGCTPxoFYnJhbmQaCWNvbXBhbmllcxoJdG9wYnJhbmRzKgoKA2ZvchUAAAAAKiMKBWdyYWluFR4JtUAaCWdyYWluZnJlZRoKaXY7cDtncmFpbiofCgRmcmVlFYu2r0AaCWdyYWluZnJlZRoHZnJlZWRyeSomCgNkcnkV6g2iQBoFZHJpZWQaAm9mGgdmcmVlZHJ5GgZkcnlkb2cqOwoDZG9nFTr-Z0AaBmNhbmluZRoEZG9ncxoIcGV0IGZvb2QaBXB1cHB5GgZkcnlkb2caCGRvZ2Zvb2RzKkAKBWZvb2RzFa9lBEAaBGRpZXQaBmVhdGluZxoEZmVlZBoEZm9vZBoEbWVhbBoIcGV0IGZvb2QaCGRvZ2Zvb2RzMuABL2dvdG8_dXJsPUNBRVNtd0VCNnpzd0ZkS29uNnVUaVpWcDZGNTBFa2RXc0pQM2lSUGZ6ZE5NM0NsVHZEY3lnZ0xyckFRV3BseEd3Uno4VUF0ekNQWVRpNEpzUVVMeTN5Y2c0Uk1hekE4V0dEN0lBNmZTMnZWcXR6aWNZYnhUQ2xMSUFpOXR2SkN5X3Bad2JIck13dzVpbmNVTENZQmV5NW90a2t3aDd6UVZ1TEZkTmtfbXFTMXZ0TVlWS21uMjIzYWQ5Tk8zbzJycTlpNmVFc015cW1qUFZNYzIwTm5Vcmc6S0NhbiB5b3UgcmVjb21tZW5kIGEgZ29vZCA8Yj5icmFuZCBvZiBkcnkgZ3JhaW48L2I-LTxiPmZyZWUgZm9vZDwvYj4gZm9yIC4uLkKXAU9ubHkgNSBkb2cgZm9vZCBicmFuZHMgc28gZmFyIGNvbXBseSB3aXRoIHRoZXNlLiBUaGV5IGFyZSAoaW4gbm8gcGFydGljdWxhciBvcmRlcikgPGI-UHVyaW5hLCBFdWthbnViYSwgSGlsbHMsIFJveWFsIENhbmluLCBJYW1zPC9iPi4gQ29udGludWUgUmVhZGluZy5KA2ZvclICb2ZSBGJlc3QiAhABSABYAGgA",
+      "source": "Quora",
+      "read_more_link": "https://www.quora.com/Can-you-recommend-a-good-brand-of-dry-grain-free-food-for-cats-and-or-dogs#:~:text=Only%205%20dog%20food%20brands,Continue%20Reading"
+    },
+    {
+      "position": 7,
+      "title": "Best All-Natural Dog Food: Dry, Wet, Fresh, Dehydrated, ...",
+      "link": "https://www.caninejournal.com/all-natural-dog-food/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVLQouKD95yN_KRkQK-J4II-XXaQPAsGG6vknQ8OGM8MCgME1D1fRv3YEsDwS-V9LCSk9ngXldeotYdU4H4Rg0FhRE5mG9NbjKpSLKMTlD4GBTpLGpJG_P6xqFrHNRTCou7dV5cKSq4Jdm&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQFnoECFsQAQ&uoh=1",
+      "displayed_link": "https://www.caninejournal.com › Health › Food",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQJYEEDrmSD4qpiIkbUg0H3_SItkEtBFcYYEMlHCFeyR1Q0budmpAtdqUoPeQRM1KdCG57Kw&s",
+      "favicon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAABwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0voiY_kv0Ab2wsDQLXbWR4HuiQb_IQaVUzyS7zFrqhBfST3iFs-4egAAD-9gL_seOUBvmqsMhYZ9-R6OEUSMI-wnUbu4TWy7OfbfAK5eE0hrWLJCXiHWGfAO0KwQiv6MWyOfHEYIqLNWR6YwXv63-GZrv_J0S6-o05dxNvYPEmXaejfKK1Clcx--Dx3N6Ge4U4G1-mmMz-FrurqprEKWqhFQrDl9sPM24TnpACk5EYL7vJ5T8_gvAOFNr_w_rXXOmSPjmuEhu2cjDLZoJUkgAzf6xWRwUc1WnrJdWDV9NCc17SoAAA.webp",
+      "snippet": "Spot & Tango offers a high-quality dehydrated dog food called Unkibble, which is made from all-natural, whole-food ingredients, including real meats, vegetables ...",
+      "snippet_highlighted_words": [
+        "Spot & Tango"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Spot & Tango offers a high-quality dehydrated dog food called Unkibble, which is made from all-natural, whole-food ingredients, including real meats, vegetables ...",
+          "source_info_link": "https://www.caninejournal.com/all-natural-dog-food/",
+          "icon": "https://serpapi.com/images/i/UklGRgwBAABXRUJQVlA4IAABAABwBwCdASocABwAPtEutFooIagoGAEAGglsAJ0voiY_kv0Ab2wsDQLXbWR4HuiQb_IQaVUzyS7zFrqhBfST3iFs-4egAAD-9gL_seOUBvmqsMhYZ9-R6OEUSMI-wnUbu4TWy7OfbfAK5eE0hrWLJCXiHWGfAO0KwQiv6MWyOfHEYIqLNWR6YwXv63-GZrv_J0S6-o05dxNvYPEmXaejfKK1Clcx--Dx3N6Ge4U4G1-mmMz-FrurqprEKWqhFQrDl9sPM24TnpACk5EYL7vJ5T8_gvAOFNr_w_rXXOmSPjmuEhu2cjDLZoJUkgAzf6xWRwUc1WnrJdWDV9NCc17SoAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkxRb3VLRDk1eU5fS1JrUUstSjRJSS1YWGFRUEFzR0c2dmtuUThPR004TUNnTUUxRDFmUnYzWUVzRHdTLVY5TENTazluZ1hsZGVvdFlkVTRINFJnMEZoUkU1bUc5TmJqS3BTTEtNVGxENEdCVHBMR3BKR19QNnhxRnJITlJUQ291N2RWNWNLU3E0SmRtEgQaAggAGt8GEgIIABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC3BggAEAAYACAAKkwKA3RvcBVHhpY_GgRiZXN0GgdiaWdnZXN0GgZmYW1vdXMaBWdyZWF0GgdsZWFkaW5nGgVtYWpvchoHcG9wdWxhchoJdG9wYnJhbmRzKioKBmJyYW5kcxU0ENE_GgVicmFuZBoJY29tcGFuaWVzGgl0b3BicmFuZHMqCgoDZm9yFQAAAAAqIwoFZ3JhaW4V4T8FQBoJZ3JhaW5mcmVlGgppdjtwO2dyYWluKh8KBGZyZWUVc5USQBoJZ3JhaW5mcmVlGgdmcmVlZHJ5KiYKA2RyeRV6pppAGgVkcmllZBoCb2YaB2ZyZWVkcnkaBmRyeWRvZyo7CgNkb2cVfwcHQRoGY2FuaW5lGgRkb2dzGghwZXQgZm9vZBoFcHVwcHkaBmRyeWRvZxoIZG9nZm9vZHMqQAoFZm9vZHMVYL3HPxoEZGlldBoGZWF0aW5nGgRmZWVkGgRmb29kGgRtZWFsGghwZXQgZm9vZBoIZG9nZm9vZHMyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWTFFvdUtEOTV5Tl9LUmtRSy1KNElJLVhYYVFQQXNHRzZ2a25ROE9HTThNQ2dNRTFEMWZSdjNZRXNEd1MtVjlMQ1NrOW5nWGxkZW90WWRVNEg0UmcwRmhSRTVtRzlOYmpLcFNMS01UbEQ0R0JUcExHcEpHX1A2eHFGckhOUlRDb3U3ZFY1Y0tTcTRKZG06TzxiPkJlc3Q8L2I-IEFsbC1OYXR1cmFsIDxiPkRvZyBGb29kPC9iPjogPGI-RHJ5PC9iPiwgV2V0LCBGcmVzaCwgRGVoeWRyYXRlZCAuLi5CtAE8Yj5TcG90ICZhbXA7IFRhbmdvPC9iPiBvZmZlcnMgYSBoaWdoLXF1YWxpdHkgZGVoeWRyYXRlZCBkb2cgZm9vZCBjYWxsZWQgVW5raWJibGUsIHdoaWNoIGlzIG1hZGUgZnJvbSBhbGwtbmF0dXJhbCwgd2hvbGUtZm9vZCBpbmdyZWRpZW50cywgaW5jbHVkaW5nIHJlYWwgbWVhdHMsIHZlZ2V0YWJsZXMmbmJzcDsuLi5KA2ZvclICb2ZSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVkxRb3VLRDk1eU5fS1JrUUstSjRJSS1YWGFRUEFzR0c2dmtuUThPR004TUNnTUUxRDFmUnYzWUVzRHdTLVY5TENTazluZ1hsZGVvdFlkVTRINFJnMEZoUkU1bUc5TmJqS3BTTEtNVGxENEdCVHBMR3BKR19QNnhxRnJITlJUQ291N2RWNWNLU3E0SmRtEgQaAggAGt8GEgIIABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC3BggAEAAYACAAKkwKA3RvcBVHhpY_GgRiZXN0GgdiaWdnZXN0GgZmYW1vdXMaBWdyZWF0GgdsZWFkaW5nGgVtYWpvchoHcG9wdWxhchoJdG9wYnJhbmRzKioKBmJyYW5kcxU0ENE_GgVicmFuZBoJY29tcGFuaWVzGgl0b3BicmFuZHMqCgoDZm9yFQAAAAAqIwoFZ3JhaW4V4T8FQBoJZ3JhaW5mcmVlGgppdjtwO2dyYWluKh8KBGZyZWUVc5USQBoJZ3JhaW5mcmVlGgdmcmVlZHJ5KiYKA2RyeRV6pppAGgVkcmllZBoCb2YaB2ZyZWVkcnkaBmRyeWRvZyo7CgNkb2cVfwcHQRoGY2FuaW5lGgRkb2dzGghwZXQgZm9vZBoFcHVwcHkaBmRyeWRvZxoIZG9nZm9vZHMqQAoFZm9vZHMVYL3HPxoEZGlldBoGZWF0aW5nGgRmZWVkGgRmb29kGgRtZWFsGghwZXQgZm9vZBoIZG9nZm9vZHMyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWTFFvdUtEOTV5Tl9LUmtRSy1KNElJLVhYYVFQQXNHRzZ2a25ROE9HTThNQ2dNRTFEMWZSdjNZRXNEd1MtVjlMQ1NrOW5nWGxkZW90WWRVNEg0UmcwRmhSRTVtRzlOYmpLcFNMS01UbEQ0R0JUcExHcEpHX1A2eHFGckhOUlRDb3U3ZFY1Y0tTcTRKZG06TzxiPkJlc3Q8L2I-IEFsbC1OYXR1cmFsIDxiPkRvZyBGb29kPC9iPjogPGI-RHJ5PC9iPiwgV2V0LCBGcmVzaCwgRGVoeWRyYXRlZCAuLi5CtAE8Yj5TcG90ICZhbXA7IFRhbmdvPC9iPiBvZmZlcnMgYSBoaWdoLXF1YWxpdHkgZGVoeWRyYXRlZCBkb2cgZm9vZCBjYWxsZWQgVW5raWJibGUsIHdoaWNoIGlzIG1hZGUgZnJvbSBhbGwtbmF0dXJhbCwgd2hvbGUtZm9vZCBpbmdyZWRpZW50cywgaW5jbHVkaW5nIHJlYWwgbWVhdHMsIHZlZ2V0YWJsZXMmbmJzcDsuLi5KA2ZvclICb2ZSBGJlc3QiAhABSABYAGgA",
+      "source": "Canine Journal",
+      "read_more_link": "https://www.caninejournal.com/all-natural-dog-food/#:~:text=Spot%20%26%20Tango%20offers%20a,ingredients%2C%20including%20real%20meats%2C%20vegetables"
+    },
+    {
+      "position": 8,
+      "title": "Brands Pros and Cons/Food on a Budget",
+      "link": "https://www.dogfoodadvisor.com/forums/topic/brands-pros-and-consfood-on-a-budget/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFXjrXNhZIfgT07U1MYJJ-K0tCG7CsK_9qEU2or_kVilD9ZTiqDdahi6xk9XmjEMntwjcEAc6u8O7H9fuQQVwZOJPg6df2uEBo6tI-4r__5fH111vCinENb1DOTtrujiSDNYjd5DJ4-QPk0D1xiQuVgrtQQvP91duq04QBvO1_j4wYpm7y3KcWw&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQFnoECFYQAQ&uoh=1",
+      "displayed_link": "https://www.dogfoodadvisor.com › ... › Canine Nutrition",
+      "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACwBQCdASocABwAPrkurlcnIacnG_DgFwlkALbJi5FFkF1vtP8QvtuJpRFLQmin9jGMWqUklOAA_vKj5K5uI8J3wG5rxXi3qyxzrLceACQ3_diN8TRKqMRDrWXtPrTZgt2oebBG8VGsQOm2Wcdz6Av1fdFkC7fDYfzdS8rSsidVp-_Lzhdg5QBiVX9IhnzPbD36ZAPSwlr7I9QknUy_Fc33QnF5fFeJc5swZ9DzXqwoFaKIrMgji9n8CoqhXnn7923f_6oNkioP-ekBnwVNZILUUYAI2S7BvoqQy6-lJvu1I012sG8FU5r-1HYkKOE3bW8MiS6j6h0svOlzEb2uxNNXpQETXlHX9h13S9RwqzJwrf1IN3XJFZ1B0oAAAA.webp",
+      "date": "Sep 14, 2014",
+      "snippet": "Also, some of the more affordable overall brands are: Earthborn Holistic, Victor Select and Victor Grain Free, in some places NutriSource (not ...",
+      "snippet_highlighted_words": [
+        "of",
+        "brands",
+        "Grain Free"
+      ],
+      "sitelinks": {
+        "list": [
+          {
+            "title": "Looking for a dog food recommendation",
+            "link": "https://www.dogfoodadvisor.com/forums/topic/looking-for-a-dog-food-recommendation/",
+            "date": "Jan 24, 2014"
+          },
+          {
+            "title": "Nominate a Brand for Editor's Choice | Dog Food Advisor",
+            "link": "https://www.dogfoodadvisor.com/forums/topic/nominate-a-dog-food-brand-for-editors-choice/page/20/",
+            "date": "Mar 25, 2015"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Also, some of the more affordable overall brands are: Earthborn Holistic, Victor Select and Victor Grain Free, in some places NutriSource (not ...",
+          "source_info_link": "https://www.dogfoodadvisor.com/forums/topic/brands-pros-and-consfood-on-a-budget/",
+          "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAACwBQCdASocABwAPrkurlcnIacnG_DgFwlkALbJi5FFkF1vtP8QvtuJpRFLQmin9jGMWqUklOAA_vKj5K5uI8J3wG5rxXi3qyxzrLceACQ3_diN8TRKqMRDrWXtPrTZgt2oebBG8VGsQOm2Wcdz6Av1fdFkC7fDYfzdS8rSsidVp-_Lzhdg5QBiVX9IhnzPbD36ZAPSwlr7I9QknUy_Fc33QnF5fFeJc5swZ9DzXqwoFaKIrMgji9n8CoqhXnn7923f_6oNkioP-ekBnwVNZILUUYAI2S7BvoqQy6-lJvu1I012sG8FU5r-1HYkKOE3bW8MiS6j6h0svOlzEb2uxNNXpQETXlHX9h13S9RwqzJwrf1IN3XJFZ1B0oAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZYanJYTmhaSWZnVDA3VTFNWUpKLUswdENHN0NzS185cUVVMm9yX2tWaWxEOVpUaXFEZGFoaTZ4azlYbWpFTW50d2pjRUFjNnU4TzdIOWZ1UVFWd1pPSlBnNmRmMnVFQm82dEktNHJfXzVmSDExMXZDaW5FTmIxRE9UdHJ1amlTRE5ZamQ1REo0LVFQazBEMXhpUXVWZ3J0UVF2UDkxZHVxMDRRQnZPMV9qNHdZcG03eTNLY1d3EgQaAggAGvQGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNAGCAAQABgAIAAqTAoDdG9wFXgUFT8aBGJlc3QaB2JpZ2dlc3QaBmZhbW91cxoFZ3JlYXQaB2xlYWRpbmcaBW1ham9yGgdwb3B1bGFyGgl0b3BicmFuZHMqKgoGYnJhbmRzFQr1jUAaBWJyYW5kGgljb21wYW5pZXMaCXRvcGJyYW5kcyoKCgNmb3IVAAAAACojCgVncmFpbhURORBAGglncmFpbmZyZWUaCml2O3A7Z3JhaW4qHwoEZnJlZRWhIBNAGglncmFpbmZyZWUaB2ZyZWVkcnkqJgoDZHJ5FQDvK0AaBWRyaWVkGgJvZhoHZnJlZWRyeRoGZHJ5ZG9nKjsKA2RvZxXy_CdBGgZjYW5pbmUaBGRvZ3MaCHBldCBmb29kGgVwdXBweRoGZHJ5ZG9nGghkb2dmb29kcypACgVmb29kcxX821NAGgRkaWV0GgZlYXRpbmcaBGZlZWQaBGZvb2QaBG1lYWwaCHBldCBmb29kGghkb2dmb29kczLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGWGpyWE5oWklmZ1QwN1UxTVlKSi1LMHRDRzdDc0tfOXFFVTJvcl9rVmlsRDlaVGlxRGRhaGk2eGs5WG1qRU1udHdqY0VBYzZ1OE83SDlmdVFRVndaT0pQZzZkZjJ1RUJvNnRJLTRyX181ZkgxMTF2Q2luRU5iMURPVHRydWppU0ROWWpkNURKNC1RUGswRDF4aVF1VmdydFFRdlA5MWR1cTA0UUJ2TzFfajR3WXBtN3kzS2NXdzpGPGI-QnJhbmRzPC9iPiBQcm9zIGFuZCBDb25zL0Zvb2Qgb24gYSBCdWRnZXQgfCA8Yj5Eb2cgRm9vZDwvYj4gQWR2aXNvckKsAUFsc28sIHNvbWUgPGI-b2Y8L2I-IHRoZSBtb3JlIGFmZm9yZGFibGUgb3ZlcmFsbCA8Yj5icmFuZHM8L2I-IGFyZTogRWFydGhib3JuIEhvbGlzdGljLCBWaWN0b3IgU2VsZWN0IGFuZCBWaWN0b3IgPGI-R3JhaW4gRnJlZTwvYj4sIGluIHNvbWUgcGxhY2VzIE51dHJpU291cmNlIChub3QmbmJzcDsuLi5KA2ZvclIEYmVzdFICb2YiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZYanJYTmhaSWZnVDA3VTFNWUpKLUswdENHN0NzS185cUVVMm9yX2tWaWxEOVpUaXFEZGFoaTZ4azlYbWpFTW50d2pjRUFjNnU4TzdIOWZ1UVFWd1pPSlBnNmRmMnVFQm82dEktNHJfXzVmSDExMXZDaW5FTmIxRE9UdHJ1amlTRE5ZamQ1REo0LVFQazBEMXhpUXVWZ3J0UVF2UDkxZHVxMDRRQnZPMV9qNHdZcG03eTNLY1d3EgQaAggAGvQGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNAGCAAQABgAIAAqTAoDdG9wFXgUFT8aBGJlc3QaB2JpZ2dlc3QaBmZhbW91cxoFZ3JlYXQaB2xlYWRpbmcaBW1ham9yGgdwb3B1bGFyGgl0b3BicmFuZHMqKgoGYnJhbmRzFQr1jUAaBWJyYW5kGgljb21wYW5pZXMaCXRvcGJyYW5kcyoKCgNmb3IVAAAAACojCgVncmFpbhURORBAGglncmFpbmZyZWUaCml2O3A7Z3JhaW4qHwoEZnJlZRWhIBNAGglncmFpbmZyZWUaB2ZyZWVkcnkqJgoDZHJ5FQDvK0AaBWRyaWVkGgJvZhoHZnJlZWRyeRoGZHJ5ZG9nKjsKA2RvZxXy_CdBGgZjYW5pbmUaBGRvZ3MaCHBldCBmb29kGgVwdXBweRoGZHJ5ZG9nGghkb2dmb29kcypACgVmb29kcxX821NAGgRkaWV0GgZlYXRpbmcaBGZlZWQaBGZvb2QaBG1lYWwaCHBldCBmb29kGghkb2dmb29kczLMAS9nb3RvP3VybD1DQUVTakFFQjZ6c3dGWGpyWE5oWklmZ1QwN1UxTVlKSi1LMHRDRzdDc0tfOXFFVTJvcl9rVmlsRDlaVGlxRGRhaGk2eGs5WG1qRU1udHdqY0VBYzZ1OE83SDlmdVFRVndaT0pQZzZkZjJ1RUJvNnRJLTRyX181ZkgxMTF2Q2luRU5iMURPVHRydWppU0ROWWpkNURKNC1RUGswRDF4aVF1VmdydFFRdlA5MWR1cTA0UUJ2TzFfajR3WXBtN3kzS2NXdzpGPGI-QnJhbmRzPC9iPiBQcm9zIGFuZCBDb25zL0Zvb2Qgb24gYSBCdWRnZXQgfCA8Yj5Eb2cgRm9vZDwvYj4gQWR2aXNvckKsAUFsc28sIHNvbWUgPGI-b2Y8L2I-IHRoZSBtb3JlIGFmZm9yZGFibGUgb3ZlcmFsbCA8Yj5icmFuZHM8L2I-IGFyZTogRWFydGhib3JuIEhvbGlzdGljLCBWaWN0b3IgU2VsZWN0IGFuZCBWaWN0b3IgPGI-R3JhaW4gRnJlZTwvYj4sIGluIHNvbWUgcGxhY2VzIE51dHJpU291cmNlIChub3QmbmJzcDsuLi5KA2ZvclIEYmVzdFICb2YiAhABSABYAGgA",
+      "source": "Dog Food Advisor",
+      "read_more_link": "https://www.dogfoodadvisor.com/forums/topic/brands-pros-and-consfood-on-a-budget/#:~:text=Also%2C%20some%20of%20the%20more,in%20some%20places%20NutriSource%20(not"
+    },
+    {
+      "position": 9,
+      "title": "Grain Free Organic Dog Food Brands ...",
+      "link": "https://www.energijosklase.lt/shop/manufacturer-site?&transition=top1485159021260",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjAEB6zswFQVS8ichRzAUGKT3rQYSrhTvbdjCpmwGgPkqlMIieaHU1t-ajFZ0N1-l4OZmxEK02VNt2YTJ8RIU6kjFUz6IcLxQwKBdceU6WO_2o2u6Dpe81oFpTpfKIzpQFRicJWfOVbjiIaDcjuxNrczy_XQvDoZUr8oHalhvGaMtQ4uh59bMxsfanTIhMg&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQFnoECFMQAQ&uoh=1",
+      "displayed_link": "https://www.energijosklase.lt › shop › manufacturer-site",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmpAA2TaXKoVCM15OQD62DMrJwRz7SorSC9E2y303dJil8XAOmeokX&usqp=CAE&s",
+      "favicon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp",
+      "snippet": "Grain Free Organic Dog Food Brands Grain Free Best Dry Dog Food Grain Free 16 Dog Food Brands Grain Free Best Dry.",
+      "snippet_highlighted_words": [
+        "Grain Free",
+        "Dog Food Brands Grain Free Best Dry Dog Food Grain Free",
+        "Dog Food Brands Grain Free Best Dry"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.0,
+            "reviews": 191,
+            "price": 17.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "4.0(191)",
+            "$17.00",
+            "In stock"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Grain Free Organic Dog Food Brands Grain Free Best Dry Dog Food Grain Free 16 Dog Food Brands Grain Free Best Dry.",
+          "source_info_link": "https://www.energijosklase.lt/shop/manufacturer-site?&transition=top1485159021260",
+          "icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAACwBwCdASogACAAPtE-tFooIigoFAEAGglsAMixoCWAHx79Zx7mi1mW-OanMksT_3Ymjrd2MZpafJliaJZ_4ff-pkSA1-2AAP79LGC1RGW_XcPaBrQcvPZhTLJhc3NrmR850lnI0BS4Hg_q6OQ-ey8-CrM_yvTgvtnc2Cf2sxwr8JEAoH4xxlbBokqbWNv02W7VV4TwPOIS6Om_wFa_Gy3MZHF2pEvb5GQOKPeADn7T-_olbONkdUuhWir8sNWpXN-KOLo9ej6gpZbAgcbS4JQ_tfBy7eXWD_XBMCgX-Qp5jlVPlI6SeAi0DfKy2_uRQHXNGr02g4oDexDPjLBU-D2wXZtLdSJi6jiiu9x6snU3knC0XajtawFznqa2FoGULWx-d1xSkXgZrkt2W7YW7luNnMS2bcl6tLPNXE7ZqzJfRQMNxbTFzGHsOnpgk41uqdQ0znsCJ5_Tpo8YbUIHd47MdJEKoSXVvVz7ZOPOHLEo2a2EKaNPl5vhV1Pf8TZ88omUdnwFNddLDKOMgAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZRVlM4aWNoUnpBVUdLVDNyUVlTcmhUdmJkakNwbXdHZ1BrcWxNSWllYUhVMXQtYWpGWjBOMS1sNE9abXhFSzAyVk50MllUSjhSSVU2a2pGVXo2SWNMeFF3S0JkY2VVNldPXzJvMnU2RHBlODFvRnBUcGZLSXpwUUZSaWNKV2ZPVmJqaUlhRGNqdXhOcmN6eV9YUXZEb1pVcjhvSGFsaHZHYU10UTR1aDU5Yk14c2ZhblRJaE1nEgQaAggAGtMGEgAaAggBIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArQYIABAAGAAgACpMCgN0b3AVGakWPhoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgVncmVhdBoHbGVhZGluZxoFbWFqb3IaB3BvcHVsYXIaCXRvcGJyYW5kcyoqCgZicmFuZHMVQNG7QBoFYnJhbmQaCWNvbXBhbmllcxoJdG9wYnJhbmRzKgoKA2ZvchUAAAAAKiMKBWdyYWluFTIW8kAaCWdyYWluZnJlZRoKaXY7cDtncmFpbiofCgRmcmVlFSA590AaCWdyYWluZnJlZRoHZnJlZWRyeSomCgNkcnkV6ci8QBoFZHJpZWQaAm9mGgdmcmVlZHJ5GgZkcnlkb2cqOwoDZG9nFYeX4kAaBmNhbmluZRoEZG9ncxoIcGV0IGZvb2QaBXB1cHB5GgZkcnlkb2caCGRvZ2Zvb2RzKkAKBWZvb2RzFQAAAAAaBGRpZXQaBmVhdGluZxoEZmVlZBoEZm9vZBoEbWVhbBoIcGV0IGZvb2QaCGRvZ2Zvb2RzMswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZRVlM4aWNoUnpBVUdLVDNyUVlTcmhUdmJkakNwbXdHZ1BrcWxNSWllYUhVMXQtYWpGWjBOMS1sNE9abXhFSzAyVk50MllUSjhSSVU2a2pGVXo2SWNMeFF3S0JkY2VVNldPXzJvMnU2RHBlODFvRnBUcGZLSXpwUUZSaWNKV2ZPVmJqaUlhRGNqdXhOcmN6eV9YUXZEb1pVcjhvSGFsaHZHYU10UTR1aDU5Yk14c2ZhblRJaE1nOkg8Yj5HcmFpbiBGcmVlPC9iPiBPcmdhbmljIDxiPkRvZyBGb29kIEJyYW5kcyBHcmFpbiBGcmVlIEJlc3QgRHJ5PC9iPiAuLi5ChwE8Yj5HcmFpbiBGcmVlPC9iPiBPcmdhbmljIDxiPkRvZyBGb29kIEJyYW5kcyBHcmFpbiBGcmVlIEJlc3QgRHJ5IERvZyBGb29kIEdyYWluIEZyZWU8L2I-IDE2IDxiPkRvZyBGb29kIEJyYW5kcyBHcmFpbiBGcmVlIEJlc3QgRHJ5PC9iPi5KA2ZvclIEYmVzdFICb2YiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZRVlM4aWNoUnpBVUdLVDNyUVlTcmhUdmJkakNwbXdHZ1BrcWxNSWllYUhVMXQtYWpGWjBOMS1sNE9abXhFSzAyVk50MllUSjhSSVU2a2pGVXo2SWNMeFF3S0JkY2VVNldPXzJvMnU2RHBlODFvRnBUcGZLSXpwUUZSaWNKV2ZPVmJqaUlhRGNqdXhOcmN6eV9YUXZEb1pVcjhvSGFsaHZHYU10UTR1aDU5Yk14c2ZhblRJaE1nEgQaAggAGtMGEgAaAggBIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJArQYIABAAGAAgACpMCgN0b3AVGakWPhoEYmVzdBoHYmlnZ2VzdBoGZmFtb3VzGgVncmVhdBoHbGVhZGluZxoFbWFqb3IaB3BvcHVsYXIaCXRvcGJyYW5kcyoqCgZicmFuZHMVQNG7QBoFYnJhbmQaCWNvbXBhbmllcxoJdG9wYnJhbmRzKgoKA2ZvchUAAAAAKiMKBWdyYWluFTIW8kAaCWdyYWluZnJlZRoKaXY7cDtncmFpbiofCgRmcmVlFSA590AaCWdyYWluZnJlZRoHZnJlZWRyeSomCgNkcnkV6ci8QBoFZHJpZWQaAm9mGgdmcmVlZHJ5GgZkcnlkb2cqOwoDZG9nFYeX4kAaBmNhbmluZRoEZG9ncxoIcGV0IGZvb2QaBXB1cHB5GgZkcnlkb2caCGRvZ2Zvb2RzKkAKBWZvb2RzFQAAAAAaBGRpZXQaBmVhdGluZxoEZmVlZBoEZm9vZBoEbWVhbBoIcGV0IGZvb2QaCGRvZ2Zvb2RzMswBL2dvdG8_dXJsPUNBRVNqQUVCNnpzd0ZRVlM4aWNoUnpBVUdLVDNyUVlTcmhUdmJkakNwbXdHZ1BrcWxNSWllYUhVMXQtYWpGWjBOMS1sNE9abXhFSzAyVk50MllUSjhSSVU2a2pGVXo2SWNMeFF3S0JkY2VVNldPXzJvMnU2RHBlODFvRnBUcGZLSXpwUUZSaWNKV2ZPVmJqaUlhRGNqdXhOcmN6eV9YUXZEb1pVcjhvSGFsaHZHYU10UTR1aDU5Yk14c2ZhblRJaE1nOkg8Yj5HcmFpbiBGcmVlPC9iPiBPcmdhbmljIDxiPkRvZyBGb29kIEJyYW5kcyBHcmFpbiBGcmVlIEJlc3QgRHJ5PC9iPiAuLi5ChwE8Yj5HcmFpbiBGcmVlPC9iPiBPcmdhbmljIDxiPkRvZyBGb29kIEJyYW5kcyBHcmFpbiBGcmVlIEJlc3QgRHJ5IERvZyBGb29kIEdyYWluIEZyZWU8L2I-IDE2IDxiPkRvZyBGb29kIEJyYW5kcyBHcmFpbiBGcmVlIEJlc3QgRHJ5PC9iPi5KA2ZvclIEYmVzdFICb2YiAhABSABYAGgA",
+      "source": "energijosklase.lt"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "Adult",
+      "link": "https://www.google.com/search?hl=en&q=adult+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhUIARIFQWR1bHQ6Cgi2ry0Qt68tMABYnrAgYAE&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKAF6BAgrEGE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=adult+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Small",
+      "link": "https://www.google.com/search?hl=en&q=small+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhcIARIFU21hbGw6DAjbw68CEN3DrwIwAliesCBgAQ&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKAJ6BAgrEGI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=small+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "All Ages",
+      "link": "https://www.google.com/search?hl=en&q=all+ages+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhgIARIIQWxsIEFnZXM6Cgi2ry0Qo7ItMABYnrAgYAE&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKAN6BAgrEGM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=all+ages+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Large",
+      "link": "https://www.google.com/search?hl=en&q=large+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhcIARIFTGFyZ2U6DAjbw68CEN_DrwIwAliesCBgAQ&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKAR6BAgrEGQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=large+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?hl=en&q=reviews+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYEiondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKAV6BAgrEGU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=reviews+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "20 – 28 lb",
+      "link": "https://www.google.com/search?hl=en&q=20+lb+to+28+lb+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAESGioYCMesaRISCQAAAIDst8FAEQAAAABLzshAGAEqJ3RvcCBicmFuZHMgZm9yIGdyYWluIGZyZWUgZHJ5IGRvZyBmb29kczJKCAESDDIwIOKAkyAyOCBsYiIaKhgIx6xpEhIJAAAAgOy3wUARAAAAAEvOyEAqEgoOMjAgbGIgdG8gMjggbGIYAToICMesaRAAMAZYnrAgYAE&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKAZ6BAgrEGY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=20+lb+to+28+lb+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Under $25",
+      "link": "https://www.google.com/search?hl=en&q=top+brands+for+grain+free+dry+dog+foods+under+$25&gl=us&shoprs=CAESDRILEQAAAACE13dBGAEYBSondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMiIIBRIJVW5kZXIgJDI1GAIiDRILEQAAAACE13dBGAEqAhgBWJ6wIGAB&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKAd6BAgrEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+brands+for+grain+free+dry+dog+foods+under+%2425"
+    },
+    {
+      "query": "Under 5 lb",
+      "link": "https://www.google.com/search?hl=en&q=under+5+lb+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAESESoPCMesaRIJEQAAAIDst6FAGAEqJ3RvcCBicmFuZHMgZm9yIGdyYWluIGZyZWUgZHJ5IGRvZyBmb29kczIvCAESClVuZGVyIDUgbGIiESoPCMesaRIJEQAAAIDst6FAKgIYAToICMesaRAAMAZYnrAgYAE&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKAh6BAgrEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=under+5+lb+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?hl=en&q=top+brands+for+grain+free+dry+dog+foods+sale&gl=us&shoprs=CAESBEoCGAEYBiondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhMIBhIHT24gc2FsZRgCIgRKAhgBWJ6wIGAB&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKAl6BAgrEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+brands+for+grain+free+dry+dog+foods+sale"
+    },
+    {
+      "query": "11 – 20 lb",
+      "link": "https://www.google.com/search?hl=en&q=11+lb+to+20+lb+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAESGioYCMesaRISCQAAACCEfbNAEQAAAIDst8FAGAEqJ3RvcCBicmFuZHMgZm9yIGdyYWluIGZyZWUgZHJ5IGRvZyBmb29kczJKCAESDDExIOKAkyAyMCBsYiIaKhgIx6xpEhIJAAAAIIR9s0ARAAAAgOy3wUAqEgoOMTEgbGIgdG8gMjAgbGIYAToICMesaRAAMAZYnrAgYAE&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKAp6BAgrEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=11+lb+to+20+lb+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Over 28 lb",
+      "link": "https://www.google.com/search?hl=en&q=over+28+lb+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAESESoPCMesaRIJCQAAAABLzshAGAEqJ3RvcCBicmFuZHMgZm9yIGdyYWluIGZyZWUgZHJ5IGRvZyBmb29kczIvCAESCk92ZXIgMjggbGIiESoPCMesaRIJCQAAAABLzshAKgIYAToICMesaRAAMAZYnrAgYAE&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKAt6BAgrEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=over+28+lb+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Nearby",
+      "link": "https://www.google.com/search?hl=en&q=top+brands+for+grain+free+dry+dog+foods+nearby&gl=us&shoprs=CAEYAyondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMgwIAxIGTmVhcmJ5GAJYnrAgYAE&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKAx6BAgrEGw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+brands+for+grain+free+dry+dog+foods+nearby"
+    },
+    {
+      "query": "5 – 11 lb",
+      "link": "https://www.google.com/search?hl=en&q=5+lb+to+11+lb+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAESGioYCMesaRISCQAAAIDst6FAEQAAACCEfbNAGAEqJ3RvcCBicmFuZHMgZm9yIGdyYWluIGZyZWUgZHJ5IGRvZyBmb29kczJICAESCzUg4oCTIDExIGxiIhoqGAjHrGkSEgkAAACA7LehQBEAAAAghH2zQCoRCg01IGxiIHRvIDExIGxiGAE6CAjHrGkQADAGWJ6wIGAB&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKA16BAgrEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=5+lb+to+11+lb+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Senior",
+      "link": "https://www.google.com/search?hl=en&q=senior+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhYIARIGU2VuaW9yOgoItq8tELivLTAAWJ6wIGAB&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKA56BAgrEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=senior+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Chicken",
+      "link": "https://www.google.com/search?hl=en&q=chicken+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhcIARIHQ2hpY2tlbjoKCLCuLRCxri0wAFiesCBgAQ&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKA96BAgrEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=chicken+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Get it by Mon",
+      "link": "https://www.google.com/search?hl=en&q=top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAESDZoBCgoIEAI4AUABSAEYFCondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMiYIFBINR2V0IGl0IGJ5IE1vbiINmgEKCggQAjgBQAFIASoEEAEYAWAB&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKBB6BAgrEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Allergy Care",
+      "link": "https://www.google.com/search?hl=en&q=allergy+care+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhwIARIMQWxsZXJneSBDYXJlOgoIpLEtEP2xLTAAWJ6wIGAB&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKBF6BAgrEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=allergy+care+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Puppy",
+      "link": "https://www.google.com/search?hl=en&q=puppy+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhUIARIFUHVwcHk6Cgi2ry0Qrq4tMABYnrAgYAE&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKBJ6BAgrEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=puppy+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Medium",
+      "link": "https://www.google.com/search?hl=en&q=medium+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhgIARIGTWVkaXVtOgwI28OvAhDew68CMAJYnrAgYAE&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKBN6BAgrEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=medium+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Joint Health",
+      "link": "https://www.google.com/search?hl=en&q=joint+health+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhwIARIMSm9pbnQgSGVhbHRoOgoIpLEtEKqxLTAAWJ6wIGAB&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKBR6BAgrEHQ",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=joint+health+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Beef",
+      "link": "https://www.google.com/search?hl=en&q=beef+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhQIARIEQmVlZjoKCLCuLRDAry0wAFiesCBgAQ&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKBV6BAgrEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=beef+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Digestive Health",
+      "link": "https://www.google.com/search?hl=en&q=digestive+health+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMiAIARIQRGlnZXN0aXZlIEhlYWx0aDoKCKSxLRCnsS0wAFiesCBgAQ&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKBZ6BAgrEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=digestive+health+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Brown",
+      "link": "https://www.google.com/search?hl=en&q=brown+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhcIARIFQnJvd246DAjYjPUBEOuK9QEwC1iesCBgAQ&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKBd6BAgrEHc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=brown+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Price",
+      "link": "https://www.google.com/search?hl=en&q=price+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYEiondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMgkIEhIFUHJpY2VgAQ&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKBh6BAgrEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=price+top+brands+for+grain+free+dry+dog+foods"
+    },
+    {
+      "query": "Fish",
+      "link": "https://www.google.com/search?hl=en&q=fish+top+brands+for+grain+free+dry+dog+foods&gl=us&shoprs=CAEYASondG9wIGJyYW5kcyBmb3IgZ3JhaW4gZnJlZSBkcnkgZG9nIGZvb2RzMhQIARIERmlzaDoKCLCuLRDCry0wAFiesCBgAQ&sa=X&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQip4GKBl6BAgrEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=fish+top+brands+for+grain+free+dry+dog+foods"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+brands+for+grain+free+dry+dog+foods&sca_esv=3293b059aa9c7b4a&hl=en&gl=us&sxsrf=APpeQntkZ-PjoR_vad7DdGhdOskz529FFA:1790437303757&ei=t-e3asXgLcTg1e8Ph7mjoQQ&start=10&sa=N&sstk=AS6-VmJPxTeJ6VIG1u1C4e0wVzQsSCqgqTgKFmH1P8Vq6xsz5wc7BTk6RKDhtTqJLekD5VWsRYhTBe-1FlGmi9gnAGcsiPjTg6xYPw&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQ8NMDegQITBAI",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+brands+for+grain+free+dry+dog+foods&sca_esv=3293b059aa9c7b4a&hl=en&gl=us&sxsrf=APpeQntkZ-PjoR_vad7DdGhdOskz529FFA:1790437303757&ei=t-e3asXgLcTg1e8Ph7mjoQQ&start=10&sa=N&sstk=AS6-VmJPxTeJ6VIG1u1C4e0wVzQsSCqgqTgKFmH1P8Vq6xsz5wc7BTk6RKDhtTqJLekD5VWsRYhTBe-1FlGmi9gnAGcsiPjTg6xYPw&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQ8tMDegQITBAE",
+      "3": "https://www.google.com/search?q=top+brands+for+grain+free+dry+dog+foods&sca_esv=3293b059aa9c7b4a&hl=en&gl=us&sxsrf=APpeQntkZ-PjoR_vad7DdGhdOskz529FFA:1790437303757&ei=t-e3asXgLcTg1e8Ph7mjoQQ&start=20&sa=N&sstk=AS6-VmJPxTeJ6VIG1u1C4e0wVzQsSCqgqTgKFmH1P8Vq6xsz5wc7BTk6RKDhtTqJLekD5VWsRYhTBe-1FlGmi9gnAGcsiPjTg6xYPw&ved=2ahUKEwiFmO7byoyXAxVEcPUHHYfcKEQQ8tMDegQITBAG"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+brands+for+grain+free+dry+dog+foods&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+brands+for+grain+free+dry+dog+foods&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+brands+for+grain+free+dry+dog+foods&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Houston%2C+TX%2C+Texas%2C+United+States&q=top+brands+for+grain+free+dry+dog+foods&start=20"
+    }
+  }
+}

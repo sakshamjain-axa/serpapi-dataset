@@ -1,0 +1,874 @@
+{
+  "search_metadata": {
+    "id": "6ab7f8dcab28c6a8deb602be",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/bcNjA1j3bvTNn6CrSR3FGBhMfWVkfM3nc0g6h043NL0/6ab7f8dcab28c6a8deb602be.json",
+    "markdown_endpoint": "https://serpapi.com/searches/bcNjA1j3bvTNn6CrSR3FGBhMfWVkfM3nc0g6h043NL0/6ab7f8dcab28c6a8deb602be.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/bcNjA1j3bvTNn6CrSR3FGBhMfWVkfM3nc0g6h043NL0/6ab7f8dcab28c6a8deb602be.json_with_pixel_position",
+    "created_at": "2026-09-26 16:54:52 UTC",
+    "processed_at": "2026-09-26 16:54:52 UTC",
+    "google_url": "https://www.google.com/search?q=top+sulfate+free+shampoos+for+color+treated+hair&oq=top+sulfate+free+shampoos+for+color+treated+hair&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/bcNjA1j3bvTNn6CrSR3FGBhMfWVkfM3nc0g6h043NL0/6ab7f8dcab28c6a8deb602be.html",
+    "total_time_taken": 1.2
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top sulfate free shampoos for color treated hair",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top sulfate free shampoos for color treated hair",
+    "total_results": 131000,
+    "time_taken_displayed": 0.38,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "immersive_products": [
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFgyygZW8uFSwZ6x0ppkzFgw.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFr5A2slfc62nB08xzj_y47sn1NjHvW6WfgWbsPO_pTNY.png",
+      "source": "Arvazallia",
+      "title": "Sulfate Free Shampoo for Color Treated Hair with Argan Oil and Macadamia Oil By Arvazallia",
+      "price": "$15.99",
+      "extracted_price": 15.99,
+      "original_price": "$36",
+      "extracted_original_price": 36,
+      "delivery": "Free delivery by Wed",
+      "extensions": [
+        "55% OFF"
+      ],
+      "immersive_product_page_token": "R6fdMnicLVPdrqM2EFafJ6pkYwy4dyfh54ACORBsEu4cG0KCE1ggCclL7CtUObuVdi93K_VZTp-mtOpczMX3fTOfRjPz-Vkc_kJvB8T7T3M3PLddKd6GlX2-vzjf2q6RFzEc5J8QGBCYOsSmjnRomYDo1jfBB66a_b-0rhFoIWQSHVgGMAgh6EdVcKkO52JVlkVnN-I_HTQtoBNN0wygT0Ew-n448X3xP48tgjU0wZMGaYRADbx3sv_966dL0d0_wNC0s_6iSj4Us7Irillf8VPbNP2sbLqZaNSUh66YaDmr-KH7um-nvj8JMiY_E2JE8GRvGhZ4Px3kD2wauqGZAANMiAU0zXxvr8Oz2n-5XFTxYd9mixc_9hd-xzT3wT11yVFy3R1GJ76_NGvPPeeb4CE9giYsShZ1zzLcSo_VvhuB7SZR4vbcq-elf1bqWZz_aHh7LcXfv7w7nVgsrmIe07ZldgLWD5Xm2RBKWm14TW4yDW5ZxsZtTfQ1Hc8c5l6ugge1gyB8de_Ug_cdi04xdPD2ZOlrR0DuKrB2oi1FQZ2CSu1S1hSsWq4yjKhyj7k9PzIHzimkKIWVLWl0ptr2xjftPWXBMk7zRwLqsTiyRCo3TG3GUtt9RPVoJBr0uSPXqSaj6Jj3awc2iSPu9Dhfrux5uczII1J5tKT5Jn1In9eR2rm1vkGMxRkucwC3Kwe2YYZ9UQ9pYVeeRM2Du64mYH6h2siESnqJIi6pGxaOeo2AQDsvSDPHuk9zgd1rmyenSFunU61KdObkm5BJLz1Wdpz4mxDO23Dak6CBl2b4Jk75kb4mb4mHcUwp92vXEcjHuYp6fswDxlq6c4WWQqUJW4yZLfV4-oAY7XFOnS9j35Uf4MXFw3qFfw1fQuSQcZ5d49WN4LvdyNth9BZB_Bs0yXTN0CAIAOMfUEIdoQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=R6fdMnicLVPdrqM2EFafJ6pkYwy4dyfh54ACORBsEu4cG0KCE1ggCclL7CtUObuVdi93K_VZTp-mtOpczMX3fTOfRjPz-Vkc_kJvB8T7T3M3PLddKd6GlX2-vzjf2q6RFzEc5J8QGBCYOsSmjnRomYDo1jfBB66a_b-0rhFoIWQSHVgGMAgh6EdVcKkO52JVlkVnN-I_HTQtoBNN0wygT0Ew-n448X3xP48tgjU0wZMGaYRADbx3sv_966dL0d0_wNC0s_6iSj4Us7Irillf8VPbNP2sbLqZaNSUh66YaDmr-KH7um-nvj8JMiY_E2JE8GRvGhZ4Px3kD2wauqGZAANMiAU0zXxvr8Oz2n-5XFTxYd9mixc_9hd-xzT3wT11yVFy3R1GJ76_NGvPPeeb4CE9giYsShZ1zzLcSo_VvhuB7SZR4vbcq-elf1bqWZz_aHh7LcXfv7w7nVgsrmIe07ZldgLWD5Xm2RBKWm14TW4yDW5ZxsZtTfQ1Hc8c5l6ugge1gyB8de_Ug_cdi04xdPD2ZOlrR0DuKrB2oi1FQZ2CSu1S1hSsWq4yjKhyj7k9PzIHzimkKIWVLWl0ptr2xjftPWXBMk7zRwLqsTiyRCo3TG3GUtt9RPVoJBr0uSPXqSaj6Jj3awc2iSPu9Dhfrux5uczII1J5tKT5Jn1In9eR2rm1vkGMxRkucwC3Kwe2YYZ9UQ9pYVeeRM2Du64mYH6h2siESnqJIi6pGxaOeo2AQDsvSDPHuk9zgd1rmyenSFunU61KdObkm5BJLz1Wdpz4mxDO23Dak6CBl2b4Jk75kb4mb4mHcUwp92vXEcjHuYp6fswDxlq6c4WWQqUJW4yZLfV4-oAY7XFOnS9j35Uf4MXFw3qFfw1fQuSQcZ5d49WN4LvdyNth9BZB_Bs0yXTN0CAIAOMfUEIdoQ"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFnn3eiMi4MJ5wIh_XIMr3uw.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFrTEjSJxNh942rE_NiZ9T1d7P7fuhM6OpqAb0o7DtedX.png",
+      "source": "Walmart - Seller",
+      "title": "Nexxus Color Assure Shampoo for Color Treated Hair ProteinFusion Sulfate Free",
+      "rating": 4.0,
+      "reviews": 4300,
+      "price": "$22.99",
+      "extracted_price": 22.99,
+      "original_price": "$1.70/fl oz",
+      "extracted_original_price": 1.7,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "XL-fU3icdZPLrqNGEIalPEPewpu-cDHZGeMGc2xs2tBgNiMMbcBuLgfDAay8Q97BZybSZDkTKc9y8jTxzD4qqRb1SVX__0v1x4MX_-B9gePbq062VdOek323M6ppsfratHXaJ12R_g0BUiWoqhhLaK4AOJ9L8tck7mJRZ0X6XYESnEOIoSpDPFeBrKBvOY9TUVR8dz7z1qiTH1sUoKoK1qRnyZoqI0XS_irKOOM_-fe5grCKEVSB8uMMRCp8b9Pbh7RffoKyrCFZmyuqBGQkQQXOtd_3dGd8-h_45bXn7fQBurqZ3Xpxjjs-O7ecz255XDZ1fZud63aW1OLZu5Y_cTrL46L9kjU_tUJFwljGWHs6kzDCWJHeyyL9JquKpCANYjTXFEUGc_TevHWPPPvc94J_GMNsuVi76-W6ZYjcY1P0EaZvp2JcudOiPpikikL7npoafs4curzeWCA3qcmua-KAY0hFMjwy8ehvj1w8ePVnHTdv5-TfX35d1YOxvA1L128aZlBwuA53v8rRKYxWLtN7hjMcIhEFlWP7rGHJRd_TMtUdwzE5W4w7ssUnGLU-zLqAbcfAHM3EokXqJ4MHa-hdcitmzcV7xuND_cWzEuiGdMd8OeBlNPIrdRyYWs4BbnxRT1GgEW6kL7HISVBCPTbyaltCEQK6Dkxm-ZYItqXTspC9bLxo6YR04sQZwgkefCsbYsxgipnNLnZNg5E9tW0YkkC0IkuP6EsWdOYJrfABwD0lwnDv9np7Sf2nZy8qwRShQXLMLqfw2p1ALg6AWsy83l2meR7O0SbQNicvHT2RdTRotm4A8xj6kx-ALq3EdevfxhCQghItimBzjVCGU9NBEaDHhNlDglIjMseWX_R1XI77rW8rCYlKlzl3ZpE8YMT3S3H2gNZFYJR2oXijpT84BrWOCPYOaWR-HW-xyWDis82xlA7k7rix5-QJJkt6hX1i2eUR6sADtOc-IWZh69Rypl0Q-WmY97TMywNmIrIEjaA2nYRT7Uz7uMV5z1eN_nm8tecPsCByd9iplWmeDJu4h1362nSaxe8SzSZpPa3c36CqAen5GhoGQP0PSlpRhg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XL-fU3icdZPLrqNGEIalPEPewpu-cDHZGeMGc2xs2tBgNiMMbcBuLgfDAay8Q97BZybSZDkTKc9y8jTxzD4qqRb1SVX__0v1x4MX_-B9gePbq062VdOek323M6ppsfratHXaJ12R_g0BUiWoqhhLaK4AOJ9L8tck7mJRZ0X6XYESnEOIoSpDPFeBrKBvOY9TUVR8dz7z1qiTH1sUoKoK1qRnyZoqI0XS_irKOOM_-fe5grCKEVSB8uMMRCp8b9Pbh7RffoKyrCFZmyuqBGQkQQXOtd_3dGd8-h_45bXn7fQBurqZ3Xpxjjs-O7ecz255XDZ1fZud63aW1OLZu5Y_cTrL46L9kjU_tUJFwljGWHs6kzDCWJHeyyL9JquKpCANYjTXFEUGc_TevHWPPPvc94J_GMNsuVi76-W6ZYjcY1P0EaZvp2JcudOiPpikikL7npoafs4curzeWCA3qcmua-KAY0hFMjwy8ehvj1w8ePVnHTdv5-TfX35d1YOxvA1L128aZlBwuA53v8rRKYxWLtN7hjMcIhEFlWP7rGHJRd_TMtUdwzE5W4w7ssUnGLU-zLqAbcfAHM3EokXqJ4MHa-hdcitmzcV7xuND_cWzEuiGdMd8OeBlNPIrdRyYWs4BbnxRT1GgEW6kL7HISVBCPTbyaltCEQK6Dkxm-ZYItqXTspC9bLxo6YR04sQZwgkefCsbYsxgipnNLnZNg5E9tW0YkkC0IkuP6EsWdOYJrfABwD0lwnDv9np7Sf2nZy8qwRShQXLMLqfw2p1ALg6AWsy83l2meR7O0SbQNicvHT2RdTRotm4A8xj6kx-ALq3EdevfxhCQghItimBzjVCGU9NBEaDHhNlDglIjMseWX_R1XI77rW8rCYlKlzl3ZpE8YMT3S3H2gNZFYJR2oXijpT84BrWOCPYOaWR-HW-xyWDis82xlA7k7rix5-QJJkt6hX1i2eUR6sADtOc-IWZh69Rypl0Q-WmY97TMywNmIrIEjaA2nYRT7Uz7uMV5z1eN_nm8tecPsCByd9iplWmeDJu4h1362nSaxe8SzSZpPa3c36CqAen5GhoGQP0PSlpRhg"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFiIfs-cJhdAsnYWV52C8_GI.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACBElEQVRYhc2X4W3CMBCFP6IOkBFggyB5AJigdAJgg24AbJANKBPQDegAkeoNYISM0B--QJTcJYYi4EkISM7vns_n83nAlSggBTL5pPK4BDzgXfgdjUGk0yGwAN7FcRc8sAO-HZz-JUBmuwI-I3RqyIFNV1RMAQVMgD2XMN-KEvhw8KO9TAznC-BwB-cIx0E4W2hFQAy3keRevvvyosLSwZcpQMJ-6CA4cUkwX39RBBEzYE5IWgvT-nKcBUjCHbHDvnGw7iCui1kTkldDCYyqxKznwMpwXorqKOcAYjtFz_5qZwESAdnnR4NvamVwH3qWdOTgVEVgZhhtLOcFZAUs5KMmoYzdGNwzuETglzbJycFIc0zYJU17T8hyr4w50k5M72Cc1Gp7EzvD-cGwzwj7PYqLEME0McgAvpVnW7qLU4peQzQugMwUYOzzmIKTNaOgLUtdgDYjbUBstbNsNc5UPQseiQS9WMTOwEJsBMvEIjbWMUaEN_JHtTUFoBenJd0tVyk2MVxBgLv0c03Mmw9kZlPD3hPKdhQX0j--yZ8d7TANC1g3DyFxMG5sy1bYK8jJOFRe7eBVDiPpXnPDcC9EtzjfG6_zqmO-qiGRgb19_zUNyeu0ZDWiBc9qSm8UEYuWc1OAiJjwrIsJnNupEfbuiEFOSDjVOVx3Oa0S7HGXU0PMXa_nf7VPriUMEUfkAAAAAElFTkSuQmCC.png",
+      "source": "Target",
+      "title": "Kristin Ess The One Signature Shampoo",
+      "rating": 4.2,
+      "reviews": 7100,
+      "price": "$11.99",
+      "extracted_price": 11.99,
+      "original_price": "$1.20/fl oz",
+      "extracted_original_price": 1.2,
+      "location": "Nearby, 4 mi",
+      "delivery": "Free delivery on $35+",
+      "immersive_product_page_token": "avYw6nicbZJLrqNGFIalrCG78KSo4mEyuzYPQ1_AhqoC16SFARub4mEeNqDsIXvw7Y7UGXZHylpuVhPfjHvyD87369PR0fnjkZ3_QdszirvrynCqpj0m297TqulF_9a0dTok_Tn9WwBAAiJEKlIQApIoSkv0LYn7mNenc_oDLSWoQEEWEIRAkkVBlb_nWZzyc5V5x2PWanXyYREkKAmKgJAiAyQryjP-OpfxKfuf_xCRKAC4BFCUnz4ZIii9tWn3Drfrz4ogIyQuVUGWkbpECC7l37e-p33-Oft6HbJ2egd93Sy6gR_jPlsc2yxbdHlcNnXdLY51u0hq_sy-zZ44XeTxuf16aj42-YnxrTyn3yVFFmW4VKGsIAAUQZXemlv_yE9fhoFn79p9sX6xdtbaaik05tjkA0P-7XAe9d30UgemUbHInlNTRc-Z66-LjoZSk5q0sAwX7COfJ_fHiT-G7pHzR1b9WcfN7Zj8-8uven3X1t19vSNNQzUfYLO3Ekw3bE41queeU7CbE9ldUNFtgOn4SqwxKMZuB-zBwXQOTOGYFSk5mClLIr4hmh-ReSUllDqEuvsDHK-O4Isx5BYz8mpf5iwM7ZiV7vFARg-H6n1HV25iqnk85zfM2bTnLklmZiaYjwTWMCZqmJXNPbzQ-EBU4Og9e8UrL7y4obuxAMP-JrgYecBdiZas9HAxMUTlILK1A2Q6xfyKy3zwI44JX1GfJNIrGX1H349M5xIBo7aPVp9i04BhaM2-yVxP80UaunpWqHpG6OxunmbTKEK96_cFLVjFLl5IpzBMbbdgpWOmV-d5w2BmU1LSMLzY0gH2Iwaj-GwLhPLxYI5bl_imC10nQjQKLgS5Vbo7QAuFPDexoQqhkTa04J2j59CN0v2-UF8xMmK6OUFWFiDd0E8Y5GVKesExaI2jU2DM7i7Gbp4gY-0XwpBs7HIvrAAG_pARwzDP9srfuJMXMpKCJcqwfcOY537YNLG2wk5oTH7Fbn45Sq_Ryv8ydu3xHbwYUh94SmWaB802doGXXpte3WSz6J8m0Zr03W-CogJRFGT142v_A9LyU2I",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=avYw6nicbZJLrqNGFIalrCG78KSo4mEyuzYPQ1_AhqoC16SFARub4mEeNqDsIXvw7Y7UGXZHylpuVhPfjHvyD87369PR0fnjkZ3_QdszirvrynCqpj0m297TqulF_9a0dTok_Tn9WwBAAiJEKlIQApIoSkv0LYn7mNenc_oDLSWoQEEWEIRAkkVBlb_nWZzyc5V5x2PWanXyYREkKAmKgJAiAyQryjP-OpfxKfuf_xCRKAC4BFCUnz4ZIii9tWn3Drfrz4ogIyQuVUGWkbpECC7l37e-p33-Oft6HbJ2egd93Sy6gR_jPlsc2yxbdHlcNnXdLY51u0hq_sy-zZ44XeTxuf16aj42-YnxrTyn3yVFFmW4VKGsIAAUQZXemlv_yE9fhoFn79p9sX6xdtbaaik05tjkA0P-7XAe9d30UgemUbHInlNTRc-Z66-LjoZSk5q0sAwX7COfJ_fHiT-G7pHzR1b9WcfN7Zj8-8uven3X1t19vSNNQzUfYLO3Ekw3bE41queeU7CbE9ldUNFtgOn4SqwxKMZuB-zBwXQOTOGYFSk5mClLIr4hmh-ReSUllDqEuvsDHK-O4Isx5BYz8mpf5iwM7ZiV7vFARg-H6n1HV25iqnk85zfM2bTnLklmZiaYjwTWMCZqmJXNPbzQ-EBU4Og9e8UrL7y4obuxAMP-JrgYecBdiZas9HAxMUTlILK1A2Q6xfyKy3zwI44JX1GfJNIrGX1H349M5xIBo7aPVp9i04BhaM2-yVxP80UaunpWqHpG6OxunmbTKEK96_cFLVjFLl5IpzBMbbdgpWOmV-d5w2BmU1LSMLzY0gH2Iwaj-GwLhPLxYI5bl_imC10nQjQKLgS5Vbo7QAuFPDexoQqhkTa04J2j59CN0v2-UF8xMmK6OUFWFiDd0E8Y5GVKesExaI2jU2DM7i7Gbp4gY-0XwpBs7HIvrAAG_pARwzDP9srfuJMXMpKCJcqwfcOY537YNLG2wk5oTH7Fbn45Sq_Ryv8ydu3xHbwYUh94SmWaB802doGXXpte3WSz6J8m0Zr03W-CogJRFGT142v_A9LyU2I"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFlMmyYT3C-xnQG_bIFCiyZA.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFrFnwtRQeTssAwqmGZpTxpvob1fonvHw4v__3SWNzSB4.png",
+      "source": "Smooth&Charming",
+      "title": "Hydrate Shampoo Pureology",
+      "rating": 4.5,
+      "reviews": 14000,
+      "price": "$30.00",
+      "extracted_price": 30.0,
+      "original_price": "$3.33/fl oz",
+      "extracted_original_price": 3.33,
+      "delivery": "Free delivery on $60+",
+      "immersive_product_page_token": "XSRy7HicbZBLjqRGAEQln8G3KI2USfL1rotfQzdJk0BCsWkBSTU03-ZTUCXfwXeonrE0Xs6M5LO0T-Oy5OVsYhEvFArFH9ei-hs9VSid3vaG0w3jMX-aXa073-lfh7FnSz5X7LskKIoMZZ6XOFkQEadA_muezmnTv_xHAZAEgICgQCTxPAAK-FYWKWuqrnCPx2LU-rxiPyCAioBkoHAIAUmEPAfAX1WbvhT_cygoIpIFCEXEK0CUgCi_j2z64J7UZ1mGkEcQCBLHC7IgQw79_kRc7fnn7MvbUoznDzD3w25ammM6F7vjWBS7qUzboe-n3bEfd3nf3HQeixtmuzKtxi8vw23K9580vrcV-yZIIi9ygihDCSABiIr0Ppzma_nyeVma4kNbd-qd5VmqNVLOuKRmsySInLJq073zXe-bRpfE9oWZCrp5mKj1RCNhYCatLQODQ0yafL2-NNdlupbNtej-7NPhdMz_-eVXvV81dVpVLxwGqhEQqNB141ItQiHChpISgIcoVE4-tB8YZ3denZzc-7KJ4aAXtcCxFnYuVbwcsnt8wQ6D5VDEuMsD50IR5rOGnTMdzh5VLAKTU84RktTKgeolCgGpbxk90reHHDS-EzQnL0jiQ5Q4VMOOxwl1Flgbo8lIgIJToxH9Vyb40RaFkL7lsSHSekUOUNSoPsCgNZagZnzRkQmHRp2ZpHFaG4X3Q5Ca69lrjNdDS44M0XPQOCs1axCC-ZLF2PI72qYc24JQXtOW9h7CS-JDjVzKqugGP691mNU9cOLm6TEq1xTZc3ZhU26y2YFJg2n5FrzuKyemJ586fBhu50eKO4_b1KIhEYs2ztWJnYCy82jCU8T8_FLOWVcCyiUlrWfH16xb_76__bdm5uYnJnkM4hIFkSUUun2hkYG9VxweQA392MZea6CIyr5xwV4a4DJHhkpquOT3dnuAexAAshShYZiVvSf3-OxGif8Y2wiHFp9Bu0s1fQtDluZmorkRO0WaA_LIIJ-3aTx-gDtDmH1XnLTh_GgB9eB9OvaNoaYPlD27kOFx_Q1KCuB5KCoIAPlfigtQeA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=XSRy7HicbZBLjqRGAEQln8G3KI2USfL1rotfQzdJk0BCsWkBSTU03-ZTUCXfwXeonrE0Xs6M5LO0T-Oy5OVsYhEvFArFH9ei-hs9VSid3vaG0w3jMX-aXa073-lfh7FnSz5X7LskKIoMZZ6XOFkQEadA_muezmnTv_xHAZAEgICgQCTxPAAK-FYWKWuqrnCPx2LU-rxiPyCAioBkoHAIAUmEPAfAX1WbvhT_cygoIpIFCEXEK0CUgCi_j2z64J7UZ1mGkEcQCBLHC7IgQw79_kRc7fnn7MvbUoznDzD3w25ammM6F7vjWBS7qUzboe-n3bEfd3nf3HQeixtmuzKtxi8vw23K9580vrcV-yZIIi9ygihDCSABiIr0Ppzma_nyeVma4kNbd-qd5VmqNVLOuKRmsySInLJq073zXe-bRpfE9oWZCrp5mKj1RCNhYCatLQODQ0yafL2-NNdlupbNtej-7NPhdMz_-eVXvV81dVpVLxwGqhEQqNB141ItQiHChpISgIcoVE4-tB8YZ3denZzc-7KJ4aAXtcCxFnYuVbwcsnt8wQ6D5VDEuMsD50IR5rOGnTMdzh5VLAKTU84RktTKgeolCgGpbxk90reHHDS-EzQnL0jiQ5Q4VMOOxwl1Flgbo8lIgIJToxH9Vyb40RaFkL7lsSHSekUOUNSoPsCgNZagZnzRkQmHRp2ZpHFaG4X3Q5Ca69lrjNdDS44M0XPQOCs1axCC-ZLF2PI72qYc24JQXtOW9h7CS-JDjVzKqugGP691mNU9cOLm6TEq1xTZc3ZhU26y2YFJg2n5FrzuKyemJ586fBhu50eKO4_b1KIhEYs2ztWJnYCy82jCU8T8_FLOWVcCyiUlrWfH16xb_76__bdm5uYnJnkM4hIFkSUUun2hkYG9VxweQA392MZea6CIyr5xwV4a4DJHhkpquOT3dnuAexAAshShYZiVvSf3-OxGif8Y2wiHFp9Bu0s1fQtDluZmorkRO0WaA_LIIJ-3aTx-gDtDmH1XnLTh_GgB9eB9OvaNoaYPlD27kOFx_Q1KCuB5KCoIAPlfigtQeA"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFiq8s2AeVW7wN1PNNlUuxJA.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEVHcEzyaxzyaxz____yaxzyaxzyaxzyaxzyaxzyaxzyZAHyaBDxXgD4t531jmH839X0f0f2nnr3rI7-8Ov5wav6zLy-_yPcAAAACnRSTlMA6v__T8rsE5SlBDbs2AAAARRJREFUOI2Nk9m2gyAMRSVxwDBUUP__Vy8BKkKlvecJVjZJyDAMRaOcZoB5kuPwoGWFm9altUtoJOvnorUDiJuTBRQF3azhrmC52Z3xxhRCWWNcIQTQiYi7vgDyiCeBuPKjowaUQzwoZ7pABl41ECNyEP4_mQawiJ6BNQDwDYBQ3-_AmEr4AWyIjlJBpycAGFB8mIa56yEC8wA9wEYAfgPdEDaHeEyyAFP_mwmQ_UJtKhUqldo37Q7NyjmmZvELxDIw-sz4mtsNmoHj7YK2NA6p3THNGAONJqUUafYHKcU8ctEpp3E4a_0rnCw7ENfQMhF9ZO1bCXARpN25R-tptars78UJ0ZOiWdTb92P1_rG8rMf1_wNTPxGHR0NMYgAAAABJRU5ErkJggg.png",
+      "source": "Ulta Beauty",
+      "title": "Biolage ColorLast Shampoo Matrix",
+      "rating": 4.6,
+      "reviews": 7400,
+      "price": "$27.00",
+      "extracted_price": 27.0,
+      "original_price": "$2.00/oz",
+      "extracted_original_price": 2.0,
+      "location": "Nearby, 3 mi",
+      "delivery": "Free delivery on $35+",
+      "immersive_product_page_token": "2-FU7nicbZPNjqNGFIWlPEPewopURYGB7JqfApNubAqq-Nm0MFUYbDAMP-3GmnfIO7hnIk2WM5HyLJ2niWfWszmL-x3de3Sl8-dN1P-iXY3y8YOBn879UBa7aWudlwf7Sz90fC6mmn-TkLRWdFkDMlQ0pKqaJH0p8ilvukPN_4FI1iUNIqBrAABNQRCgr5XIeVOfxbYsxWB1xQ8fkqAEdVVFOlJlAGRN_7tu84P4wb9pQNehBCQVyEgF389obwMf36Wd-byG6lqT10gCaxlp6j2K-nFHttbzz9nnD7MYlncwdf1qnJsyn8SqHIRYjVXe9l03rspuWBVdc9dpEHfMV1VeD58P_fckP9n41tb8q6Ku5bWkrVVFkYGu6BC99S_TrTp8mudGvFuXlfmwCTbmZmASvuZOM2eIvOzrVztYHrrQwecs8a7c0dF95hPzNLJY6bnDThvsgzQhTXG5HZrbPN6q5ibOf3V5_1IW__3yq91dLHO8mAHte2YRENmekoBU9hN2ZIlRPbmY7V1ixFazEzangrKtcLwkp33oA9w-RtkudqtLvoALdTcoxPgYHwmMTnoj4vQ1PjYBPWWzaLNLStnRpx7YU1kp7L4MTzgpajgRqMuFTYGoocmlYAoQZrHbp36cTqzBUeYont8Y1lOjP4WO55Om9xnmZeF2IKSvj2HrlZzqMW20iTMcZu1UBq3yso9fryHyPoRXb4iPrIlghgKJ5CLyl8Kejox6m_tvrNCBmY894F-JkZ_7pwjyM4EBzPBpofaU7E_NzKXKY7E-ZlKg5A7bFSdZESf_xK_e7EMeh_SwMJRZLJYX3-alj6orjbi3pyR8TBgsADEJtpd9yzdUImnKmEejJiSATnvX2O7dPtxT1lGLS7mjKByxHcF8pEdmJBDPnCoyiQw_Px8W0fIlu_p5lFQ5cx9CfPWDPPKrAmGTnOBcuF6bQgNEgMyCYuzUnkFcf9nGGYmc7BgcDRifjbA4BxcODUZbHGzj6hJGJI1wY3x6HYfyHTxgZQq369Hql8cNMNPgt7JrsJn_wfjzFnJ_uPwOVR3IMlzr6N7P_wGk7FBp",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=2-FU7nicbZPNjqNGFIWlPEPewopURYGB7JqfApNubAqq-Nm0MFUYbDAMP-3GmnfIO7hnIk2WM5HyLJ2niWfWszmL-x3de3Sl8-dN1P-iXY3y8YOBn879UBa7aWudlwf7Sz90fC6mmn-TkLRWdFkDMlQ0pKqaJH0p8ilvukPN_4FI1iUNIqBrAABNQRCgr5XIeVOfxbYsxWB1xQ8fkqAEdVVFOlJlAGRN_7tu84P4wb9pQNehBCQVyEgF389obwMf36Wd-byG6lqT10gCaxlp6j2K-nFHttbzz9nnD7MYlncwdf1qnJsyn8SqHIRYjVXe9l03rspuWBVdc9dpEHfMV1VeD58P_fckP9n41tb8q6Ku5bWkrVVFkYGu6BC99S_TrTp8mudGvFuXlfmwCTbmZmASvuZOM2eIvOzrVztYHrrQwecs8a7c0dF95hPzNLJY6bnDThvsgzQhTXG5HZrbPN6q5ibOf3V5_1IW__3yq91dLHO8mAHte2YRENmekoBU9hN2ZIlRPbmY7V1ixFazEzangrKtcLwkp33oA9w-RtkudqtLvoALdTcoxPgYHwmMTnoj4vQ1PjYBPWWzaLNLStnRpx7YU1kp7L4MTzgpajgRqMuFTYGoocmlYAoQZrHbp36cTqzBUeYont8Y1lOjP4WO55Om9xnmZeF2IKSvj2HrlZzqMW20iTMcZu1UBq3yso9fryHyPoRXb4iPrIlghgKJ5CLyl8Kejox6m_tvrNCBmY894F-JkZ_7pwjyM4EBzPBpofaU7E_NzKXKY7E-ZlKg5A7bFSdZESf_xK_e7EMeh_SwMJRZLJYX3-alj6orjbi3pyR8TBgsADEJtpd9yzdUImnKmEejJiSATnvX2O7dPtxT1lGLS7mjKByxHcF8pEdmJBDPnCoyiQw_Px8W0fIlu_p5lFQ5cx9CfPWDPPKrAmGTnOBcuF6bQgNEgMyCYuzUnkFcf9nGGYmc7BgcDRifjbA4BxcODUZbHGzj6hJGJI1wY3x6HYfyHTxgZQq369Hql8cNMNPgt7JrsJn_wfjzFnJ_uPwOVR3IMlzr6N7P_wGk7FBp"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFlVdaj1uVssGiTmCdfxtKN8.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEVHcEzyaxzyaxz____yaxzyaxzyaxzyaxzyaxzyaxzyZAHyaBDxXgD4t531jmH839X0f0f2nnr3rI7-8Ov5wav6zLy-_yPcAAAACnRSTlMA6v__T8rsE5SlBDbs2AAAARRJREFUOI2Nk9m2gyAMRSVxwDBUUP__Vy8BKkKlvecJVjZJyDAMRaOcZoB5kuPwoGWFm9altUtoJOvnorUDiJuTBRQF3azhrmC52Z3xxhRCWWNcIQTQiYi7vgDyiCeBuPKjowaUQzwoZ7pABl41ECNyEP4_mQawiJ6BNQDwDYBQ3-_AmEr4AWyIjlJBpycAGFB8mIa56yEC8wA9wEYAfgPdEDaHeEyyAFP_mwmQ_UJtKhUqldo37Q7NyjmmZvELxDIw-sz4mtsNmoHj7YK2NA6p3THNGAONJqUUafYHKcU8ctEpp3E4a_0rnCw7ENfQMhF9ZO1bCXARpN25R-tptars78UJ0ZOiWdTb92P1_rG8rMf1_wNTPxGHR0NMYgAAAABJRU5ErkJggg.png",
+      "source": "Ulta Beauty",
+      "title": "Redken Frizz Dismiss Sodium Chloride-Free Shampoo 300ml",
+      "rating": 4.1,
+      "reviews": 897,
+      "price": "$31.00",
+      "extracted_price": 31.0,
+      "original_price": "$3.07/oz",
+      "extracted_original_price": 3.07,
+      "location": "Nearby, 3 mi",
+      "delivery": "Free delivery on $35+",
+      "immersive_product_page_token": "irzWsXicbY_LjqNGFIaV57EiVVHcKrs2pmyYBpuiKDCbFuZibBdQxviClXfIK0TumUiTZSZSnqXzJFnGk3U2v47-T_rOOb88yt1faLVD2ek4JV4r-ypfDctZO77YX2XfFed82BV_QgQwwLqBoYEAMpGuGvrXPBsy0W13xTcdYhMDUzMVDauGgrGh_lGXWSF2bbmsqrKfdfl3i2ICiBDCOgY6QpqpYfD7rsm25X_8G1ZVgJEJnhoDKIauK8Z7X5w-lJX1pqhANyFQsG4aCJo6BPjnFV3O3v6ffTmey378AEMnJ6ezqLKhnFR9WU5OddbIrjtNqq6f5J145tCXT1xM6mzXf9nK75cYKlQUE0GsqSZAqm6aynuzK359l5fhUW8_n8-i_JhdJ9aLEziW03OF3LO5OKeIXja7mx2ML104J22auPdijtGz86l1OPFYk8WcHxzig3VCRX59bMXjfHrU4lG2v3WZvFT53z_8Y19yy-pzK4ik5DMKQubKXLmNrJU0aG24aQ9qLoQSRofnHAwM1mMOccdEp3gK1mIiIj-ZQi9JX0NbRhtRoIjLfUpcyLl9L2fbK20O2rqVbmlTryT1lCdEhgf_5DHSLDmeUnurhiNQeFyADOLjc4df3Au5UVyyjumMcWfMk2JFmbj4d9fNlcFZMzdjMblktkYYJIg2zj2I6NGDfAyZyLy2HjjBGrd9WB7ISAW-FNA9vnKfsNYf_UjIALmBF7n9a1yvQ-jec2FDD3baktR7uq-JB3Ec8zXiyI18xM_-3v3EZ9MmBPhYJETzIcl4TOrCvu3zBRehIMfXREZ5S1bpgip8TxIfcJ1yPi4XvAoSB6VcwjLmZMOowxbuOmjkgjb0EtrXu49oQhfikjKRxKKwA0gdGt0cFkUhuftBxvw6R8SiB3jOF26zhlPAAD2XESHznTulC39cxmnoHcQ0hY7GGB-iyO2WMebPv-dpbKqbtm7oIUWfb6e--gAvRBvCpX6ayfHVAdY6-LHqBLGyT7x4W8LC768_QQMDVYU6RgCY_wIy1EMD",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=irzWsXicbY_LjqNGFIaV57EiVVHcKrs2pmyYBpuiKDCbFuZibBdQxviClXfIK0TumUiTZSZSnqXzJFnGk3U2v47-T_rOOb88yt1faLVD2ek4JV4r-ypfDctZO77YX2XfFed82BV_QgQwwLqBoYEAMpGuGvrXPBsy0W13xTcdYhMDUzMVDauGgrGh_lGXWSF2bbmsqrKfdfl3i2ICiBDCOgY6QpqpYfD7rsm25X_8G1ZVgJEJnhoDKIauK8Z7X5w-lJX1pqhANyFQsG4aCJo6BPjnFV3O3v6ffTmey378AEMnJ6ezqLKhnFR9WU5OddbIrjtNqq6f5J145tCXT1xM6mzXf9nK75cYKlQUE0GsqSZAqm6aynuzK359l5fhUW8_n8-i_JhdJ9aLEziW03OF3LO5OKeIXja7mx2ML104J22auPdijtGz86l1OPFYk8WcHxzig3VCRX59bMXjfHrU4lG2v3WZvFT53z_8Y19yy-pzK4ik5DMKQubKXLmNrJU0aG24aQ9qLoQSRofnHAwM1mMOccdEp3gK1mIiIj-ZQi9JX0NbRhtRoIjLfUpcyLl9L2fbK20O2rqVbmlTryT1lCdEhgf_5DHSLDmeUnurhiNQeFyADOLjc4df3Au5UVyyjumMcWfMk2JFmbj4d9fNlcFZMzdjMblktkYYJIg2zj2I6NGDfAyZyLy2HjjBGrd9WB7ISAW-FNA9vnKfsNYf_UjIALmBF7n9a1yvQ-jec2FDD3baktR7uq-JB3Ec8zXiyI18xM_-3v3EZ9MmBPhYJETzIcl4TOrCvu3zBRehIMfXREZ5S1bpgip8TxIfcJ1yPi4XvAoSB6VcwjLmZMOowxbuOmjkgjb0EtrXu49oQhfikjKRxKKwA0gdGt0cFkUhuftBxvw6R8SiB3jOF26zhlPAAD2XESHznTulC39cxmnoHcQ0hY7GGB-iyO2WMebPv-dpbKqbtm7oIUWfb6e--gAvRBvCpX6ayfHVAdY6-LHqBLGyT7x4W8LC768_QQMDVYU6RgCY_wIy1EMD"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFotSCQiU9rnkHwp-DLtXow8.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFhhUaHJkYnCQlQStI2CVi86nxW-aKYsOs09soJaKxYcM.png",
+      "source": "Walmart - Seller",
+      "title": "Nexxus Color Assure ProteinFusion Shampoo Silicone Free and Sulfate Free Shampoo For Color Treated Hair",
+      "rating": 4.2,
+      "reviews": 388,
+      "price": "$33.99",
+      "extracted_price": 33.99,
+      "original_price": "$17/ct",
+      "extracted_original_price": 17,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "SEDaHnicbZBLrqNGFIalrCG7sCJVFRSGzC6GwqZtMAUUj8kVT4N5XsAv1HvIHny7I3WGnUhZy81qQqIMMzmD8_0659P_yzMr_-SOJReNbzI5tP2QJ8fJVNrHi_qtH7r0kkxl-jsCnAQRDwSAgISAKIjwWxJNUd2dFspxWMCcCDiE8YJ5SUTfiyxK67LNzDzPBqVLyvQPiNaiAPi1wCMMAEBY4rjfyiY6Zf_xNS9iDiERS6KE4JLE-H1Ixw9w3LyKQICYX0twecOvRSgJn4_UVF7_F319u2TD4wNMXb8aL3UeTdkqH7JsNRZR03fduMq7YZV09TKnIVtwuiqicvh66v8VwQK3hgivFw8ecQKAa_TelOl3vLgLSIIc5iEAawS59_46PYvTl8ulzj6U22rzsrN2m93AEJkjrb6EHL3G5V21Hi-drZE29PU51SRu2Rl0U43Mw32qsWpHDBD4tE5uz1P9vIzPon5m7a9d1F_z5K8fflS7m7IZbxvL7XumUGCj-85HPfGRblNAAgftYAASjiqFl0JWBxVWMo1HcStvDy0dbLfQQpefvWaENoAdbVI_Je7DVHQ7qwzLdsXZanvBVIr73k8V558rTlFRll5N7-7Ebtpkbr0LISltFHohPHFZbVgUTRHzptuBkbcIHW6BV5zdrWFGSz5u9JEhPUyqtHFc8WFUBxC27Jic9Y5B6U5hdWNMcsO5aJLFgfmG73iFapxpRf3-SlXxRhFGDjjxh6rD6baXE-0-RoR4_kxyzw-toOoftod1GxWfjKaGe5bw1qwXhobzFEDdBrjN1LtvzPK49DQwUoQH1J_3Ttge3EkNZplLqpCyeYd80PexY_QHlY6BF_AxIY5zDveZCgXPq2V7preYyFrsqihU5CDahmPs08Jqijbzi9lAtW_PuhxvwzMjuk9bdzKZzmcVuXrNySazYUWOUSQc2dAKXpKt3gRQBg6gl8wlRCt1mW6Nh-mFNHb0Im7qR-YwFmlhFbgjHyFyDOdUCFypD9VC_nIfh_wDvBA82aYwKv1jvwObwPop72qyiT6x9NWEqTHcfoZrCfA8FCQOAPFvdXFRfw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=SEDaHnicbZBLrqNGFIalrCG7sCJVFRSGzC6GwqZtMAUUj8kVT4N5XsAv1HvIHny7I3WGnUhZy81qQqIMMzmD8_0659P_yzMr_-SOJReNbzI5tP2QJ8fJVNrHi_qtH7r0kkxl-jsCnAQRDwSAgISAKIjwWxJNUd2dFspxWMCcCDiE8YJ5SUTfiyxK67LNzDzPBqVLyvQPiNaiAPi1wCMMAEBY4rjfyiY6Zf_xNS9iDiERS6KE4JLE-H1Ixw9w3LyKQICYX0twecOvRSgJn4_UVF7_F319u2TD4wNMXb8aL3UeTdkqH7JsNRZR03fduMq7YZV09TKnIVtwuiqicvh66v8VwQK3hgivFw8ecQKAa_TelOl3vLgLSIIc5iEAawS59_46PYvTl8ulzj6U22rzsrN2m93AEJkjrb6EHL3G5V21Hi-drZE29PU51SRu2Rl0U43Mw32qsWpHDBD4tE5uz1P9vIzPon5m7a9d1F_z5K8fflS7m7IZbxvL7XumUGCj-85HPfGRblNAAgftYAASjiqFl0JWBxVWMo1HcStvDy0dbLfQQpefvWaENoAdbVI_Je7DVHQ7qwzLdsXZanvBVIr73k8V558rTlFRll5N7-7Ebtpkbr0LISltFHohPHFZbVgUTRHzptuBkbcIHW6BV5zdrWFGSz5u9JEhPUyqtHFc8WFUBxC27Jic9Y5B6U5hdWNMcsO5aJLFgfmG73iFapxpRf3-SlXxRhFGDjjxh6rD6baXE-0-RoR4_kxyzw-toOoftod1GxWfjKaGe5bw1qwXhobzFEDdBrjN1LtvzPK49DQwUoQH1J_3Ttge3EkNZplLqpCyeYd80PexY_QHlY6BF_AxIY5zDveZCgXPq2V7preYyFrsqihU5CDahmPs08Jqijbzi9lAtW_PuhxvwzMjuk9bdzKZzmcVuXrNySazYUWOUSQc2dAKXpKt3gRQBg6gl8wlRCt1mW6Nh-mFNHb0Im7qR-YwFmlhFbgjHyFyDOdUCFypD9VC_nIfh_wDvBA82aYwKv1jvwObwPop72qyiT6x9NWEqTHcfoZrCfA8FCQOAPFvdXFRfw"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFmn6nqo_GPqxqrtS6jyrN_g.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA8UlEQVRYhe2XMYrDMBBFn8y2ewKDG59k-yi-jC9gcJ_DpE8OsAu6y9r9TxEbUsi7ExMhAvowjS3mP-HxjIQklvCSLpImpdO0eBxW39V8TGi6pVESTtIBOJNHRyfpAnxlArg6Sb_AZyaAyUlSJnMAPiyLnHO7klv2Vu3K_EIVgPcFCCGsXXQzkgK8SqY-EPsN-76nruvo-rZt8d7bCCxTA3gquq4zT6Tsn6AAmGZBTMMw0DRN9N3W86j2FmEIwVxopQgLQAH4S6Y-oITn1gqYkmX_X3MF_GQE-K6AU0aAU_bL6eMZ7qj71XlOaDovHn71vQHQwPYeC_wkzwAAAABJRU5ErkJggg.png",
+      "source": "FWRD",
+      "title": "REVERIE Shampoo",
+      "rating": 4.3,
+      "reviews": 88,
+      "price": "$38.00",
+      "extracted_price": 38.0,
+      "delivery": "Free delivery by Wed",
+      "immersive_product_page_token": "FaU7unicbZNdjqNGEMelnCG3sCL1Bx8mb2Ogsdlx2zTQYF5GmMaGMYZewMZGuUPu4NmNtHncRMpZJqcJk-dVSaVS_Uqlqr-qfn_k5T94W-K0-7wg61q2h2zbb6z6_mR_k20jLllfir_hHBnIAAaGio6wAbGK9G9Z2qdVc_zAUNNVRdEgQnMwR1jBOv5e5KmoyjrfHA55azXZR52uGxDiOVAB0BSsAjzX_izP6TH_n_9lqJNB3VCQZqhorsy1-Vsrune0NV-gNld0DeqKilRVx2AKftuyjfXyY_b18yVv7--gb-Ssu1SHtM9nhzbPZ12RnmXTdLND086yppp83-YTFrMiLduvR_kxyQ86vp1L8V3VNUVDCkBAM6Y9sKq9yWv_KI5fLpcqf7eGmfm08lbmquWIjKlTXRLMrvvyZnv3p8Z3SJ3E7igcA085ysxTxyNVCoefVoSCXcyqbHgcq8elexTVI6__aFJ5PWT__vSz3QyW2Q2mF0rJLQb88wrtIqjlDsUxlkhwJoOwWrCwD7nDaza6XETSCk7ZQB3mBdGgeOBWZiM5-ybADNJ6hww1ReISVMRNIVN8LhsRuI5vVa8iKqJkueuD2N3tsaQxYAuO-iQDA8hqfufoRhjfqXl469OAOmtAPqXOSvVPYMhj4bJQlT4hq30ka3Gm2HdgvHFC4CGD8JEoe6tyYkBVHi-eg-AJezExA0QD7pB4jxsc2mvIwxP0bWYmIw_SmvdJRK9JdQS7M219i11ptZj62EoUy2iPqsPeKZaZXTUbLosMqTipFya1DfLMXRhYyTYJ-bA-SeK9FiXlkiXnfgidvvcD7u9h4qzDBkXcDf0I2qlVWKnlEhF2fQo4ShHcxmOyptFwn5S7h9VxWHNRiyUtxaQ_s2gXxYsNe13E-bIqqM0Kv6bbfUXb50jegrPnk5F6k1ZFhonJTvCSLd3zDi5AANglDwlxSnfBlvS-iRI_ClnkjwIxlLz6uNAifrx7qGABKfjG3o2Zw-ovt649vIMnovb-RusseX9eAXPn_XJoKmKmn7h42UBB2-HX6amAosDpaAGY_werjk8p",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=FaU7unicbZNdjqNGEMelnCG3sCL1Bx8mb2Ogsdlx2zTQYF5GmMaGMYZewMZGuUPu4NmNtHncRMpZJqcJk-dVSaVS_Uqlqr-qfn_k5T94W-K0-7wg61q2h2zbb6z6_mR_k20jLllfir_hHBnIAAaGio6wAbGK9G9Z2qdVc_zAUNNVRdEgQnMwR1jBOv5e5KmoyjrfHA55azXZR52uGxDiOVAB0BSsAjzX_izP6TH_n_9lqJNB3VCQZqhorsy1-Vsrune0NV-gNld0DeqKilRVx2AKftuyjfXyY_b18yVv7--gb-Ssu1SHtM9nhzbPZ12RnmXTdLND086yppp83-YTFrMiLduvR_kxyQ86vp1L8V3VNUVDCkBAM6Y9sKq9yWv_KI5fLpcqf7eGmfm08lbmquWIjKlTXRLMrvvyZnv3p8Z3SJ3E7igcA085ysxTxyNVCoefVoSCXcyqbHgcq8elexTVI6__aFJ5PWT__vSz3QyW2Q2mF0rJLQb88wrtIqjlDsUxlkhwJoOwWrCwD7nDaza6XETSCk7ZQB3mBdGgeOBWZiM5-ybADNJ6hww1ReISVMRNIVN8LhsRuI5vVa8iKqJkueuD2N3tsaQxYAuO-iQDA8hqfufoRhjfqXl469OAOmtAPqXOSvVPYMhj4bJQlT4hq30ka3Gm2HdgvHFC4CGD8JEoe6tyYkBVHi-eg-AJezExA0QD7pB4jxsc2mvIwxP0bWYmIw_SmvdJRK9JdQS7M219i11ptZj62EoUy2iPqsPeKZaZXTUbLosMqTipFya1DfLMXRhYyTYJ-bA-SeK9FiXlkiXnfgidvvcD7u9h4qzDBkXcDf0I2qlVWKnlEhF2fQo4ShHcxmOyptFwn5S7h9VxWHNRiyUtxaQ_s2gXxYsNe13E-bIqqM0Kv6bbfUXb50jegrPnk5F6k1ZFhonJTvCSLd3zDi5AANglDwlxSnfBlvS-iRI_ClnkjwIxlLz6uNAifrx7qGABKfjG3o2Zw-ovt649vIMnovb-RusseX9eAXPn_XJoKmKmn7h42UBB2-HX6amAosDpaAGY_werjk8p"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFpZxjn2NylscoC9KAqUxt8o.webp",
+      "source_logo": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFttEQ7TJJu_E5Nx-bKhqEwBw6Jje1pxVOXThYv2K_cE6.png",
+      "source": "Sephora",
+      "title": "Kérastase Discipline Sulfate-Free Smoothing Shampoo for Frizzy Hair 8.5 oz/ 250 mL",
+      "rating": 4.5,
+      "reviews": 933,
+      "price": "$48.00",
+      "extracted_price": 48.0,
+      "original_price": "$0.19/ml",
+      "extracted_original_price": 0.19,
+      "delivery": "Free delivery on $50+",
+      "immersive_product_page_token": "hJGAP3icbZLLjqNGFIaV5_GmiosN2dnGYOimaC5VQG1GZQobQxloLm1szTvkFUaemUgzy0mkPEtHeZiQrGfzLc53js6_-H975Oe_5JezzPrXjenWbXfMXgbPqG_r3be2a_iYDWf-x3K1UqTVEgJ9NVOSFU3_lrGBieZ05p9-FDnj4lzn3vGYd0aT_fzi-_nCTvn_-k-oruBSh4oiycslkOdlBX7ueP8uvWw_aDrQoaRpqgRXS0VZaUD7-BJ4xoefu6-vY97d3sHQtIt-FEc25Itjl-eLvmCXtmn6xbHpFlkjZg5dPmu-KNi5-3pq5yifPl_-Q_s2PIrTl3EU-btxXWzXtm9v7Y5I5p1ZYqRy8HY4Tzv_tm5Cy6xp4ty5pcvzDAXbqiex2nKLVLaJQJoEIrs-TuIx9o9CPPL694a1b8fs71_-2Y32dvtqb33ctsQIQJiQPTZMm8imc4iDJww32IeChVV_9_ZIyROCqOQ0Ph6kg3BKb8-fKcYqwqcJCX4Pga8yqF0zw59CaTewqhA-Lm7MRAqtHSu9Ozu_pE4G9PQ5JmkmdBcB_x7KjuUSsucRGuLSCRhogF9x4Zau4iZE4IpOadWaBIt7ZE2dC4oyJWRJJD4crGkISFBhS-3RxelZSWtWDU8MinT-ZZILqlO4mRDRa7Kbnp6xGqOdDdNkbpixgbgsTGLQAEmtH-6Jm2IoQpLJrqVGB5MrUYQqKiHLj1UYJZuBXXjjWXAIKt1jUTYcEqEgSwOHBA0UFi2Xmqt7IZMrBUYEVOJXTpWbTugCOmaWej0kdElLRIghLi4ASiaClMVZaN6RzyJUZLK5DSo4ZnvnMucGEQjGHJumdXY2wR7dvJgGIVYB3bcxrh2F34XNZUpiUYDQoKMfT7co5vKXqe-O72BtqkPoKXu5cMqW9uFruQlS23NOYYtHR9OS9a9wpYO58EtdBkD_F7KAMT4",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=hJGAP3icbZLLjqNGFIaV5_GmiosN2dnGYOimaC5VQG1GZQobQxloLm1szTvkFUaemUgzy0mkPEtHeZiQrGfzLc53js6_-H975Oe_5JezzPrXjenWbXfMXgbPqG_r3be2a_iYDWf-x3K1UqTVEgJ9NVOSFU3_lrGBieZ05p9-FDnj4lzn3vGYd0aT_fzi-_nCTvn_-k-oruBSh4oiycslkOdlBX7ueP8uvWw_aDrQoaRpqgRXS0VZaUD7-BJ4xoefu6-vY97d3sHQtIt-FEc25Itjl-eLvmCXtmn6xbHpFlkjZg5dPmu-KNi5-3pq5yifPl_-Q_s2PIrTl3EU-btxXWzXtm9v7Y5I5p1ZYqRy8HY4Tzv_tm5Cy6xp4ty5pcvzDAXbqiex2nKLVLaJQJoEIrs-TuIx9o9CPPL694a1b8fs71_-2Y32dvtqb33ctsQIQJiQPTZMm8imc4iDJww32IeChVV_9_ZIyROCqOQ0Ph6kg3BKb8-fKcYqwqcJCX4Pga8yqF0zw59CaTewqhA-Lm7MRAqtHSu9Ozu_pE4G9PQ5JmkmdBcB_x7KjuUSsucRGuLSCRhogF9x4Zau4iZE4IpOadWaBIt7ZE2dC4oyJWRJJD4crGkISFBhS-3RxelZSWtWDU8MinT-ZZILqlO4mRDRa7Kbnp6xGqOdDdNkbpixgbgsTGLQAEmtH-6Jm2IoQpLJrqVGB5MrUYQqKiHLj1UYJZuBXXjjWXAIKt1jUTYcEqEgSwOHBA0UFi2Xmqt7IZMrBUYEVOJXTpWbTugCOmaWej0kdElLRIghLi4ASiaClMVZaN6RzyJUZLK5DSo4ZnvnMucGEQjGHJumdXY2wR7dvJgGIVYB3bcxrh2F34XNZUpiUYDQoKMfT7co5vKXqe-O72BtqkPoKXu5cMqW9uFruQlS23NOYYtHR9OS9a9wpYO58EtdBkD_F7KAMT4"
+    },
+    {
+      "category": "Popular products",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/S1xrYmeSjulFjQ-AiLVwFixP0EAMaSHY9hSUxmuQY9A.webp",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSjC_tSN39zMvgUQ0v2KGN1F8p3R_nBcgpml9lm9XlvGR_QZhODiiMW8szy_G258gV-52pQAY0zblAZuYz-O48Vbr7A3-Azvx_vC4Hw-qQF0UE",
+      "source": "Bowie Salon and Spa",
+      "title": "Kérastase Chroma Absolu Bain Chroma Respect Shampoo",
+      "rating": 4.6,
+      "reviews": 5800,
+      "price": "$46.00",
+      "extracted_price": 46.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "jqdm-XicdZJLjqRGEIYln8G3qE0mj4L0rot3qYCuBJJqNiPITAqK5NFATT00d_AdqmcsjZczlnyW9mmMem1Lv2IRn-KPP6T4_cHrv-XnWs6n143td8NY0uc5NLvbk_V9GHt2pnPN_oJAg1CTJIiQLmk6VHVd_U7zORf9sWY_FVmWEVxDaa3puowQhOBHxXMm6o6HZclHs6cfLkBWdagpCkCqvkhS0Z91mx_5B_-pL1STdF1CClCgDmRdfRvZ9K48G5-WlTIEax3pCtJUICMNqF-ecWh--h_47fXMx9s7mPthNZ1Fmc98VY6cr6Yqb4e-n1ZlP65oL5Y6j3zBbFXl9fjtOHxk_Q_Lt7ZmP1RtrawlXVlywkVQBm_D5_lRHb-ez4K_m5eV8eTtPcMbiWTfc0ecMxl_Luqrtb899ZFjd9lhe2cOkpdegI1mIqk6MIc0nh2AlwMW9PI4isd5elTiwbs_-nz4XNJ_fvnV6i-mMV2MfTIMxMQgSq8TTynMLJLz9GUOYwswB7_4UFfCNFGydGiyxJoPgLQsYcYe4m0s2IBNJkfJINNmcNPGkyOBxS7BTtHaGRXWPQMNoE3Q5t3GDVNWhmQ70LiKCkmBaSvKzIDBHlxdanpSDtGVgf2cHTYVb-GpsNFcWKpHCbb8E-44GfI82V58iyhBvBGFvCE49mCeVpf9HfsUeGqcskvQ4L6QvKvvQJKl1hzDAedxcsMmhnuCJdbaVuQwM0jVHYXDndtVHxJSEUsti0Tti1TcqBts_RO57A6etExsccf8_B6Evpl1vBG7yGS-n8xiuUXEbXBhpm35Mdst77DjFjzlZnKP4wyQBs2EMEjdQTB3MxVxAKO7HYZOhbnFqlwgPwbqNYFIjeXNhXbCCA34GoMsfUlQTVIxho49pQKFPMZLjiyhTjVjSYnse7DP46Cism3gBp6pu21f4AbEAJ95YttOvd1gN7iFaRazRnWxRfzQtWt8qkI_vaYhYQcGAOQnew7abff1Oo3lO3iy1TkKtc5xCnNr76OQvQ4zcvldwceb4t2s_W9QQ0BR4BrJAGj_AiwgUQM",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=jqdm-XicdZJLjqRGEIYln8G3qE0mj4L0rot3qYCuBJJqNiPITAqK5NFATT00d_AdqmcsjZczlnyW9mmMem1Lv2IRn-KPP6T4_cHrv-XnWs6n143td8NY0uc5NLvbk_V9GHt2pnPN_oJAg1CTJIiQLmk6VHVd_U7zORf9sWY_FVmWEVxDaa3puowQhOBHxXMm6o6HZclHs6cfLkBWdagpCkCqvkhS0Z91mx_5B_-pL1STdF1CClCgDmRdfRvZ9K48G5-WlTIEax3pCtJUICMNqF-ecWh--h_47fXMx9s7mPthNZ1Fmc98VY6cr6Yqb4e-n1ZlP65oL5Y6j3zBbFXl9fjtOHxk_Q_Lt7ZmP1RtrawlXVlywkVQBm_D5_lRHb-ez4K_m5eV8eTtPcMbiWTfc0ecMxl_Luqrtb899ZFjd9lhe2cOkpdegI1mIqk6MIc0nh2AlwMW9PI4isd5elTiwbs_-nz4XNJ_fvnV6i-mMV2MfTIMxMQgSq8TTynMLJLz9GUOYwswB7_4UFfCNFGydGiyxJoPgLQsYcYe4m0s2IBNJkfJINNmcNPGkyOBxS7BTtHaGRXWPQMNoE3Q5t3GDVNWhmQ70LiKCkmBaSvKzIDBHlxdanpSDtGVgf2cHTYVb-GpsNFcWKpHCbb8E-44GfI82V58iyhBvBGFvCE49mCeVpf9HfsUeGqcskvQ4L6QvKvvQJKl1hzDAedxcsMmhnuCJdbaVuQwM0jVHYXDndtVHxJSEUsti0Tti1TcqBts_RO57A6etExsccf8_B6Evpl1vBG7yGS-n8xiuUXEbXBhpm35Mdst77DjFjzlZnKP4wyQBs2EMEjdQTB3MxVxAKO7HYZOhbnFqlwgPwbqNYFIjeXNhXbCCA34GoMsfUlQTVIxho49pQKFPMZLjiyhTjVjSYnse7DP46Cism3gBp6pu21f4AbEAJ95YttOvd1gN7iFaRazRnWxRfzQtWt8qkI_vaYhYQcGAOQnew7abff1Oo3lO3iy1TkKtc5xCnNr76OQvQ4zcvldwceb4t2s_W9QQ0BR4BrJAGj_AiwgUQM"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTAcLKoDJqc4tJtmH7PClA6-Lf8mGfMz_28ZMncnlwiValacczj2y9J2pq5sTFsEAXpw4NUEeoaRo1tTGD3KPpLEw9R-m82U_5wywzd8ssQWHFTDdyFOiem",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "L'Oreal Paris EverPure Sulfate Free Moisture Shampoo",
+      "rating": 4.4,
+      "reviews": 7900,
+      "price": "$9.97",
+      "extracted_price": 9.97,
+      "original_price": "$1.17/fl oz",
+      "extracted_original_price": 1.17,
+      "location": "Nearby, 3 mi",
+      "delivery": "1 hour delivery $20",
+      "immersive_product_page_token": "YuER93icbZJLjqNWGIWlrCG7sCLdy-XyyMw2L9NlKOA-gEmL4mFowFAYDEa9h-zB1R2pM-wMspbKauIkw2RyBuc7Ovp_6fxyz6s_0HOFksvrzjie-6FIn0dXO9-2-rd-6LIpHavsdxGrECmKDDGUFVUAoip8S5MxabrT31QCUEAiUGRBBViUgSJ9L_Mka6pz7hZFPmhd-ojJGMsCxgISVKSIsoQU9FvVJqf8X4wVEUKsAhmKqoIECcn4bcgu78Lz_iPGEhIUBSJVkrGAAQLS52ff1T7-P_v6OuXD7R2MXb-5TE2RjPmmGPJ8cymTtu-6y6bohk3aNQ8dh_yBs02ZVMPXU__PJf9tfGur7DuWJVF6fCBhGYgQiTJ866_jvTx9maYmf9fmzX578A77w8AEY03MZoqRf32pFt27bbvANM5xaK-ZqaKH5_j7-sI47jOT1QfDAVHoN-l8PzX36XIvm3t-_rVL-muR_vnDj3o3a_vLvPdo3zPNB8TEltcyjRj1GsKeu5QBSoxXpzZWQgwpAvFA6RG6hioR1q-shleHxH1SizCveyuvKUhqtqOmfch02LshnR3EbqmOy1gvOTWNMIKseuJZFNV4OFqGEISNyHWWOJzFMVSbTHPKJ7Idcx7NzIpGovklD9lrQtjyYhoia-eFUpWnREeO5j9FoBtZfRJ5AKcXzX5yYCxGjY6jFlcxZVqKdi1njh2sxqfAyswMGvtjBUEk1AutG80792Vw7jWqL1HSQpewGKaGPTHGisDaBUQ74BBRMRTYzFnjeWGN8jDDL_ViUj3-ENFSIGHvOp-aKjDj69FcLMLLkddHnEKVM9StTLA_OJrtkfawZjwunHMD_JWKGfeQDzIpoI3DyfbGTfbKanXPPh1FUsFLQFWUCeXkkWx1WZ8cdW-OtVgkZqO9mNDz6SEwVsdLiFOmyNj7NZxSy24juAME-FNODcOs7J1vOTeXx0F2dszAiEs3tAva-lZsLn0qqE_ZY0OcNBazdujLchmKd7A18Bi4-Kfj9oh0ddnxq-fOKr5pXTZXi7m3vZ-hrAJRhJKKAJD-AtkMTaQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=YuER93icbZJLjqNWGIWlrCG7sCLdy-XyyMw2L9NlKOA-gEmL4mFowFAYDEa9h-zB1R2pM-wMspbKauIkw2RyBuc7Ovp_6fxyz6s_0HOFksvrzjie-6FIn0dXO9-2-rd-6LIpHavsdxGrECmKDDGUFVUAoip8S5MxabrT31QCUEAiUGRBBViUgSJ9L_Mka6pz7hZFPmhd-ojJGMsCxgISVKSIsoQU9FvVJqf8X4wVEUKsAhmKqoIECcn4bcgu78Lz_iPGEhIUBSJVkrGAAQLS52ff1T7-P_v6OuXD7R2MXb-5TE2RjPmmGPJ8cymTtu-6y6bohk3aNQ8dh_yBs02ZVMPXU__PJf9tfGur7DuWJVF6fCBhGYgQiTJ866_jvTx9maYmf9fmzX578A77w8AEY03MZoqRf32pFt27bbvANM5xaK-ZqaKH5_j7-sI47jOT1QfDAVHoN-l8PzX36XIvm3t-_rVL-muR_vnDj3o3a_vLvPdo3zPNB8TEltcyjRj1GsKeu5QBSoxXpzZWQgwpAvFA6RG6hioR1q-shleHxH1SizCveyuvKUhqtqOmfch02LshnR3EbqmOy1gvOTWNMIKseuJZFNV4OFqGEISNyHWWOJzFMVSbTHPKJ7Idcx7NzIpGovklD9lrQtjyYhoia-eFUpWnREeO5j9FoBtZfRJ5AKcXzX5yYCxGjY6jFlcxZVqKdi1njh2sxqfAyswMGvtjBUEk1AutG80792Vw7jWqL1HSQpewGKaGPTHGisDaBUQ74BBRMRTYzFnjeWGN8jDDL_ViUj3-ENFSIGHvOp-aKjDj69FcLMLLkddHnEKVM9StTLA_OJrtkfawZjwunHMD_JWKGfeQDzIpoI3DyfbGTfbKanXPPh1FUsFLQFWUCeXkkWx1WZ8cdW-OtVgkZqO9mNDz6SEwVsdLiFOmyNj7NZxSy24juAME-FNODcOs7J1vOTeXx0F2dszAiEs3tAva-lZsLn0qqE_ZY0OcNBazdujLchmKd7A18Bi4-Kfj9oh0ddnxq-fOKr5pXTZXi7m3vZ-hrAJRhJKKAJD-AtkMTaQ"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQTsSGFRWWhdTeWbtLk_eX9svl1Q9ZubEOK2QoPnKgfqKemqjaMnUv_Y_bTeYEcJN3fkgvE1J33o6S7JAdGHnnqTl0WVyfRKNxb8pdiKxqKnJxkCT3VHH7gjQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTw_IOMaqLrGyGT48e4jpAfSaRiMZtn4PEv4LfXWt9w7lmxj4iJbDRMSJi28fvoGbQJ1NSBMNcp45ZnWE3CNAUIzm7UNLw",
+      "source": "Ulta Beauty",
+      "title": "Color Extend Magnetics Redken Shampoo",
+      "rating": 4.5,
+      "reviews": 8600,
+      "price": "$31.00",
+      "extracted_price": 31.0,
+      "original_price": "$3.07/oz",
+      "extracted_original_price": 3.07,
+      "location": "Nearby, 3 mi",
+      "delivery": "Free delivery on $35+",
+      "immersive_product_page_token": "VcbEzHicdZJLkqNGEIYjfAbfQpt68BDeqSUKxLSgKaB4bCYQBULNq4TQA8J38B3UM44YL8eO8FnapzHTa3uTi_z-yD__jPztkR__xi9HnJ5PT2TXir7IXgZn044r_ZvoO37JhiP_U9ZkqMlLiCVNkZdoKWPpW5YOad0dZqpCjKAGFVmFACFZUxD6XuYpr49t7hRF3m-6bJZBBUCMsSzJigQgklVV_uPYpIf8A_8FleXsIkNV_pCoUMPwrefnd-ll_RmqEGmapkJVURRJWy5lFf36Qp3N5_-BX0-XvB_fwdCJxflSF-mQL4o-zxfnMm1E150XRdcvsq6e69DnM-aLMj32Xw_iY5n_GPnWHPl3WVWkOZ-01H4kXmJp-Sauw6M8fLlc6vx9c1usV1t3u972DJEpNepLgul1f7zr7rjqPIO0SWRN3NDw3LPpujqzUBbcYNWW2CCOaJ3dHof6cTk_yvqRt793qbgW2T8__ax3t836fFu7gRBsQ4HX0sInXHKYKHK_PPNoi8OmwjZ-et77TOyYGOKGGhTIpwRSEuo68nx3ijF19lFCvIhcA7OSdo0V0MkC_sSPXnCPPUhOebS7eWb5klZ3xWXcSZp7SasyTHz7xgMmQr-8JnoZ7E0x7EOecp0zt90OiZ6k7HWFaDVsPKA9JaFshoxG7sSqMOoAe6UXnxCWMxFxJkQSBWOu022ADtCreRzPX8YiMvEKysE879lf3Rnirgf5JxfEcm6yKgndISCChK_1GAHi08imHq7TPbNTr4FmbrCrC61TGlVD6FuFh8TJjazOBXeXBnbCoQUcn0x2I8ZdVdMU112GtN0uSEKH8dAN72M6sZIFtKV6-RyESfAc0JoHtHEBvPlIQu6PRAb_tCe08eot8DZ2RE1mZ0jEKUvipLWr1CxFYLAhwKzwgN3v0NmbXd3Ut8sMkzWt4CUzrSaGT8AH9JIHhBhH64ma9ujMl94Z985G1tpH2uDWwd1udeTX9TWPDpJnxlM2Qvzlfu6Ld7Ai8uA5amsY-41FXM_hJzFoZj5J9DBK21F3f4GqBiQJKhoGQP0XNp9TOA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=VcbEzHicdZJLkqNGEIYjfAbfQpt68BDeqSUKxLSgKaB4bCYQBULNq4TQA8J38B3UM44YL8eO8FnapzHTa3uTi_z-yD__jPztkR__xi9HnJ5PT2TXir7IXgZn044r_ZvoO37JhiP_U9ZkqMlLiCVNkZdoKWPpW5YOad0dZqpCjKAGFVmFACFZUxD6XuYpr49t7hRF3m-6bJZBBUCMsSzJigQgklVV_uPYpIf8A_8FleXsIkNV_pCoUMPwrefnd-ll_RmqEGmapkJVURRJWy5lFf36Qp3N5_-BX0-XvB_fwdCJxflSF-mQL4o-zxfnMm1E150XRdcvsq6e69DnM-aLMj32Xw_iY5n_GPnWHPl3WVWkOZ-01H4kXmJp-Sauw6M8fLlc6vx9c1usV1t3u972DJEpNepLgul1f7zr7rjqPIO0SWRN3NDw3LPpujqzUBbcYNWW2CCOaJ3dHof6cTk_yvqRt793qbgW2T8__ax3t836fFu7gRBsQ4HX0sInXHKYKHK_PPNoi8OmwjZ-et77TOyYGOKGGhTIpwRSEuo68nx3ijF19lFCvIhcA7OSdo0V0MkC_sSPXnCPPUhOebS7eWb5klZ3xWXcSZp7SasyTHz7xgMmQr-8JnoZ7E0x7EOecp0zt90OiZ6k7HWFaDVsPKA9JaFshoxG7sSqMOoAe6UXnxCWMxFxJkQSBWOu022ADtCreRzPX8YiMvEKysE879lf3Rnirgf5JxfEcm6yKgndISCChK_1GAHi08imHq7TPbNTr4FmbrCrC61TGlVD6FuFh8TJjazOBXeXBnbCoQUcn0x2I8ZdVdMU112GtN0uSEKH8dAN72M6sZIFtKV6-RyESfAc0JoHtHEBvPlIQu6PRAb_tCe08eot8DZ2RE1mZ0jEKUvipLWr1CxFYLAhwKzwgN3v0NmbXd3Ut8sMkzWt4CUzrSaGT8AH9JIHhBhH64ma9ujMl94Z985G1tpH2uDWwd1udeTX9TWPDpJnxlM2Qvzlfu6Ld7Ai8uA5amsY-41FXM_hJzFoZj5J9DBK21F3f4GqBiQJKhoGQP0XNp9TOA"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRcQPapfHJl2OdcO0c1wC47R2qO4O6JlU6pvSG_qwsL25qJz_V3LhojrWBC5kQdO2NFDdd9S__secAmEplXCV0bNCuoyb194Jvup4vkhFtom9V9j2cYNEl6BA",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "Kristin Ess The One Signature Shampoo",
+      "rating": 4.2,
+      "reviews": 7100,
+      "price": "$11.99",
+      "extracted_price": 11.99,
+      "original_price": "$1.20/fl oz",
+      "extracted_original_price": 1.2,
+      "location": "Nearby, 4 mi",
+      "delivery": "Free delivery on $35+",
+      "immersive_product_page_token": "j7yl7HicbZJLkqNGFEUjvAbvQpP88BGelRAgYZEqJZCJmHSk-AhE8ikEpU_0HrwHVbcj2sNuR3gt5dWY8rgnd_BuxIl733t_PLLyH_xcYnF-Wdhe0_V58jxsl83tyfrW9W06JkOZ_g0BUIGCsIF1jIGqKOocf0vEIGR7LNMfeK4iHUENYoSAqinQ0L4XmUhl2WTbPM_6ZZt8UKCKVKhDjHUNYE3XJ_mrrMUx-9__oWAFAjQHSNEmnoYwUt_69PyOns1POtQwVuYG1DRszDFGc-3zM90uP_3c-_oyZv3tHQxtNzuPMhdDNsv7LJudC1F3bXue5W0_S1o56dBnk53OClH2X4_dR5KfEN_qMv2u6pqiobmBNB0DoENDfeteh0dx_DKOMntfXmbm03q3Ntc9Q_ZdOHKMMX09lFdrd3tqfcdu4si9p46BpxmhZnVmXO1Sh1Vrm4B9RGVyeRzlYzw_CvnImj9b0b3myb-__Gq1l6V5vpi7sOvYkoLAMhYCpTDkKolhug2c1EsaqXBberFcIx6FmFSQBNVV8bm9oRYxuQMH3zaCjBW3fVQ4NDxe4uoKEp4oIpA7UsNRRO4tda5cNHbEQ4oDOzb9il3ShnJm2esDIHV6Wg8eLIoDL0yvoRvBUjNmqbar5c2vOpii6n7g8YZbqQisa5TJdghXsZMui1ME5MlzdipxhpLxAlBAhHDss49JHsOuE8Fi9K2UhHUsNryrQ75GDKjPe2RYmSVfd1DirCGvxLYwxcVtG9rXhKUXvwTXxJL5hq1VBtggAlb4XBVe7X7coA8YYQxLyRsGaTVUSUQd6sg2uLvV7sRi4ngXEXWENt3dZ4WyPxXOATKPrqqB1Z25D68djeS0BJYzDu7eqQhFaEFuF1NHl1IkQYjI71N31ZsSi6h42d3tYI9d6DGDscbz7TvZiYAUCbZNWsExWbn1Hi5AAOiYhbbtlO6Crshty2NKVp4S19chCecg5EPHOPUPUxZqd9G-WdgRoosv13Ofv4MnWx38rbLChXvq4rP_clrQ_XrrHv0uHN35PHr6DeoGUBSoGdPXGv8B2MhRPQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=j7yl7HicbZJLkqNGFEUjvAbvQpP88BGelRAgYZEqJZCJmHSk-AhE8ikEpU_0HrwHVbcj2sNuR3gt5dWY8rgnd_BuxIl733t_PLLyH_xcYnF-Wdhe0_V58jxsl83tyfrW9W06JkOZ_g0BUIGCsIF1jIGqKOocf0vEIGR7LNMfeK4iHUENYoSAqinQ0L4XmUhl2WTbPM_6ZZt8UKCKVKhDjHUNYE3XJ_mrrMUx-9__oWAFAjQHSNEmnoYwUt_69PyOns1POtQwVuYG1DRszDFGc-3zM90uP_3c-_oyZv3tHQxtNzuPMhdDNsv7LJudC1F3bXue5W0_S1o56dBnk53OClH2X4_dR5KfEN_qMv2u6pqiobmBNB0DoENDfeteh0dx_DKOMntfXmbm03q3Ntc9Q_ZdOHKMMX09lFdrd3tqfcdu4si9p46BpxmhZnVmXO1Sh1Vrm4B9RGVyeRzlYzw_CvnImj9b0b3myb-__Gq1l6V5vpi7sOvYkoLAMhYCpTDkKolhug2c1EsaqXBberFcIx6FmFSQBNVV8bm9oRYxuQMH3zaCjBW3fVQ4NDxe4uoKEp4oIpA7UsNRRO4tda5cNHbEQ4oDOzb9il3ShnJm2esDIHV6Wg8eLIoDL0yvoRvBUjNmqbar5c2vOpii6n7g8YZbqQisa5TJdghXsZMui1ME5MlzdipxhpLxAlBAhHDss49JHsOuE8Fi9K2UhHUsNryrQ75GDKjPe2RYmSVfd1DirCGvxLYwxcVtG9rXhKUXvwTXxJL5hq1VBtggAlb4XBVe7X7coA8YYQxLyRsGaTVUSUQd6sg2uLvV7sRi4ngXEXWENt3dZ4WyPxXOATKPrqqB1Z25D68djeS0BJYzDu7eqQhFaEFuF1NHl1IkQYjI71N31ZsSi6h42d3tYI9d6DGDscbz7TvZiYAUCbZNWsExWbn1Hi5AAOiYhbbtlO6Crshty2NKVp4S19chCecg5EPHOPUPUxZqd9G-WdgRoosv13Ofv4MnWx38rbLChXvq4rP_clrQ_XrrHv0uHN35PHr6DeoGUBSoGdPXGv8B2MhRPQ"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTEfiTHHMdzl-0XHhflKioR5jDAAeRo3Li_JLOG7s5H7Earrft5LOuWPM1MGE5SDGJOWN7aJ41JlJ8ZTMCwWaWRiQg8yIDZfjUCwMSPGj54qfimwIzCJtnz",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTLgW6CAKO9PHZSwCe0MK0gvlXovRj5NeEDexsT6OGJKYoT8u96M-KC8c7I141daHJWPO_Q9bpbM0iGj53bFI8EUfrOlGWpFoCDPvc2",
+      "source": "Sally Beauty",
+      "title": "Ion Color Defense Sulfate Free Shampoo",
+      "rating": 4.0,
+      "reviews": 695,
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "original_price": "$1.05/oz",
+      "extracted_original_price": 1.05,
+      "location": "Nearby, 20 mi",
+      "delivery": "Free delivery on $40+",
+      "extensions": [
+        "25% OFF"
+      ],
+      "immersive_product_page_token": "Zhb6WnicbZJLjqNWFIalrCG7sCLdBw-TmW24GHcBxQUuj0kJ8zC0L-Y24AJb2UP24OqO1Bl2WspaKqsJybgH5wzOd_Tr09H5_VE2f-PnBmfDpy2xL6Kv8ufR1S-3jfFV9F1xzcem-A4VGSGoabICJAhlIK2R9jXPxox3p6b4S8UYIUlFQIZrrAJNxuq3uswK3lxKt6rKXu_yZW2tyGtVXrgkKRhiSUPKn02bncr_8XeoIglKYK2pMkCytlYVBbz1xfCOnncvylpCSJOAAoCqLhYYyb89U1d_-TH78ula9rd3MHZiNVx5lY3lqurLcjXUWSu6blhVXb_KO770sS8XXKzqrOm_nMR_pj9IfGub4pusKpKCZAVjoCqqoqnKm3gdH_Xp8_XKy3d9Wu02lmftrJ4hcs9Mfk0xfT02s-HdNp1vkksaH-6FqeFl5tDdeWCRLAqTnS3igCSmPJ8eJ_64Do-aP8rLH10mXqv8n59-NrpJ3w3TzguFYDoFgVEzakI3Q05MjQF7QT5797oNzuxDCrRbGXPKdtD1gSYodqQQku7YwNSLxXOCDyNrC9-OaJCdASwMC7AomYK2fvWZtqeLYaGz-Snk3A74B8dIt_6ehunH1DgyAd1wWorhwDwQtnf2CdemtCV7l6SpYzAR38me8fTgY8fMUQr9trglwbY_IhsEpjPb0EZZqDn22YPRuRuP3JKTaG788OBGgXWnLBW-vp39qG7dWExHnetJUNd-e7q57NDGYIbZPURJaM3eZTOWvK6SWFwKlF7LiDrUnCRHLyS_nblrCuJGdR-gJSsCoGy7KcXpGJJatjk7-DptXIMzGjLLPmuK87Eei4uICsxAghxp-ZbAj0hE-Qb7EUMBEFHGiRcj-SkNaRgY2t1D9WBfrImZy01bfnuKN1IekmtkCDcHdJ_AQxWgtU_ujpcFTp1jsqNneM33hzaBWxAAei1DQszmsKV75-ZGqc84tY8RuVPMLnk79wVkXrGvdS8EckBYkjNn-3ke-uodbIg8-q4y6OL2ZIFd4v1SdZzssg-seHFh4fTTr1DVgCRBRcMArP8FJPZP4w",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Zhb6WnicbZJLjqNWFIalrCG7sCLdBw-TmW24GHcBxQUuj0kJ8zC0L-Y24AJb2UP24OqO1Bl2WspaKqsJybgH5wzOd_Tr09H5_VE2f-PnBmfDpy2xL6Kv8ufR1S-3jfFV9F1xzcem-A4VGSGoabICJAhlIK2R9jXPxox3p6b4S8UYIUlFQIZrrAJNxuq3uswK3lxKt6rKXu_yZW2tyGtVXrgkKRhiSUPKn02bncr_8XeoIglKYK2pMkCytlYVBbz1xfCOnncvylpCSJOAAoCqLhYYyb89U1d_-TH78ula9rd3MHZiNVx5lY3lqurLcjXUWSu6blhVXb_KO770sS8XXKzqrOm_nMR_pj9IfGub4pusKpKCZAVjoCqqoqnKm3gdH_Xp8_XKy3d9Wu02lmftrJ4hcs9Mfk0xfT02s-HdNp1vkksaH-6FqeFl5tDdeWCRLAqTnS3igCSmPJ8eJ_64Do-aP8rLH10mXqv8n59-NrpJ3w3TzguFYDoFgVEzakI3Q05MjQF7QT5797oNzuxDCrRbGXPKdtD1gSYodqQQku7YwNSLxXOCDyNrC9-OaJCdASwMC7AomYK2fvWZtqeLYaGz-Snk3A74B8dIt_6ehunH1DgyAd1wWorhwDwQtnf2CdemtCV7l6SpYzAR38me8fTgY8fMUQr9trglwbY_IhsEpjPb0EZZqDn22YPRuRuP3JKTaG788OBGgXWnLBW-vp39qG7dWExHnetJUNd-e7q57NDGYIbZPURJaM3eZTOWvK6SWFwKlF7LiDrUnCRHLyS_nblrCuJGdR-gJSsCoGy7KcXpGJJatjk7-DptXIMzGjLLPmuK87Eei4uICsxAghxp-ZbAj0hE-Qb7EUMBEFHGiRcj-SkNaRgY2t1D9WBfrImZy01bfnuKN1IekmtkCDcHdJ_AQxWgtU_ujpcFTp1jsqNneM33hzaBWxAAei1DQszmsKV75-ZGqc84tY8RuVPMLnk79wVkXrGvdS8EckBYkjNn-3ke-uodbIg8-q4y6OL2ZIFd4v1SdZzssg-seHFh4fTTr1DVgCRBRcMArP8FJPZP4w"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTx9uniKgGsmlQAR6dSTkUTGRt6X6_doohtPjEq59n5QY4pooqTDspoWC_2jP_-uS4ZQsljtQpQ9Yj5IHal7Ub_T5JNDMlJLXttXtFN0qZGH8u82L_YlAI6NQ",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Revlon ColorSilk After Color Shampoo",
+      "rating": 4.6,
+      "reviews": 466,
+      "price": "$8.47",
+      "extracted_price": 8.47,
+      "original_price": "$1.19/fl oz",
+      "extracted_original_price": 1.19,
+      "location": "Nearby, 3 mi",
+      "delivery": "1 hour delivery $20",
+      "immersive_product_page_token": "ocgDdXicdZNLjqNIEEClOcPcwptMko-ZXWE-NtNgOw0JZtNKMrGhSD4F-APqO8wdXN0jdS-7W5qz1JxmmFrPbEKheNKLCIXij0dW_IV2BaL9i2F7ddud2G7YmvX4ZH1tu4Zf2FDwH9oSqBqQdKTICEGwhAh8ZXSgojnPVAdA14Es60BfajKCOoTf84xyUdTZ9nTKOrNhBf8J4VJWVU1VdF0GqgoVVVa_FRU9Z-_8x3KJFE1TZQ2-O4Cuaa8d79_k3eojlIACAEIyBFDSdE1Bsvpph7fmx_-BX14uWTe-gaFpF_1FnOiQLU5dli36nFZt0_SLU9MtWCPmOHTZjPkip0X35dy-z_ofyteq4N-VeUBVWsq6Ou8wIwm9ttfhkZ8_Xy4iezNvi9XTZr9ZbToi2RN1xCVB-JoWd2s_PjUHx66T2J24o6O55uNV2ZNIablDyo3tg2OMBbs9zuJx6R-5eGT1nw1tryf29y-_Ws3NXPW31T5sW2JicCB7kDn8mQCiUGBHqYTdFPo0izE6VKLBlTsE1pAHZV7TiPQH8oTYJGgwERqayS4ljUQcUrGqBF4sNqkFxxDkRWRiy5uMKyN54T8fR6-CoRcpNQ5EyywX-tXQRM98FUXc8Ex8iNaJEwV2l1V4FVZ3PwiVOJX0ioG8TCrrRmx_YCUeyBrjzHYRL28jM_3GE2Tth_LAIsXHsQijILnGgN1mV4nX7uVY6jFx3ENg65QQQ94HON5aroqt--8BEJg7wy61ZOTVxpaVNopRuzuCHhyga4STkH0JKzzeDB7gbRjkwjfJjgJu8iD_MOfFhyjfp4G443ViHkNokvA2BSTJ2doCWCT3IFLKKHA3iQNbXhtGDPGRhX7slbrHIFfos2FhB859yYaK-dZ1IpGQ9KkdTlHM3TT2XVoK07PuiNhnGIS3gz35exr4OUP2CpfwwtZudYQGCAC-ZKFtO4Vr4LU_bqMER7Y1EriXMqLX4do9kbocj7MvnTAmoX8NBa8_3_vu9AaebGU4bLXacVLTtfeHLX9pB32dTTI-j_JmtPa_Qe3fD4WqjgDQ_gE3ylEB",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ocgDdXicdZNLjqNIEEClOcPcwptMko-ZXWE-NtNgOw0JZtNKMrGhSD4F-APqO8wdXN0jdS-7W5qz1JxmmFrPbEKheNKLCIXij0dW_IV2BaL9i2F7ddud2G7YmvX4ZH1tu4Zf2FDwH9oSqBqQdKTICEGwhAh8ZXSgojnPVAdA14Es60BfajKCOoTf84xyUdTZ9nTKOrNhBf8J4VJWVU1VdF0GqgoVVVa_FRU9Z-_8x3KJFE1TZQ2-O4Cuaa8d79_k3eojlIACAEIyBFDSdE1Bsvpph7fmx_-BX14uWTe-gaFpF_1FnOiQLU5dli36nFZt0_SLU9MtWCPmOHTZjPkip0X35dy-z_ofyteq4N-VeUBVWsq6Ou8wIwm9ttfhkZ8_Xy4iezNvi9XTZr9ZbToi2RN1xCVB-JoWd2s_PjUHx66T2J24o6O55uNV2ZNIablDyo3tg2OMBbs9zuJx6R-5eGT1nw1tryf29y-_Ws3NXPW31T5sW2JicCB7kDn8mQCiUGBHqYTdFPo0izE6VKLBlTsE1pAHZV7TiPQH8oTYJGgwERqayS4ljUQcUrGqBF4sNqkFxxDkRWRiy5uMKyN54T8fR6-CoRcpNQ5EyywX-tXQRM98FUXc8Ex8iNaJEwV2l1V4FVZ3PwiVOJX0ioG8TCrrRmx_YCUeyBrjzHYRL28jM_3GE2Tth_LAIsXHsQijILnGgN1mV4nX7uVY6jFx3ENg65QQQ94HON5aroqt--8BEJg7wy61ZOTVxpaVNopRuzuCHhyga4STkH0JKzzeDB7gbRjkwjfJjgJu8iD_MOfFhyjfp4G443ViHkNokvA2BSTJ2doCWCT3IFLKKHA3iQNbXhtGDPGRhX7slbrHIFfos2FhB859yYaK-dZ1IpGQ9KkdTlHM3TT2XVoK07PuiNhnGIS3gz35exr4OUP2CpfwwtZudYQGCAC-ZKFtO4Vr4LU_bqMER7Y1EriXMqLX4do9kbocj7MvnTAmoX8NBa8_3_vu9AaebGU4bLXacVLTtfeHLX9pB32dTTI-j_JmtPa_Qe3fD4WqjgDQ_gE3ylEB"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRdHcIfgUxtzgBpfKmOM7clUEhJSNTcN5_S3STIFSGAL371zgbfaUoJhd4l053A8MnMB-KN_VqSj-VbDjhgryLxK26jPYBDtyWafX31YRGApvkU4zmpUwDnQg",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTw_IOMaqLrGyGT48e4jpAfSaRiMZtn4PEv4LfXWt9w7lmxj4iJbDRMSJi28fvoGbQJ1NSBMNcp45ZnWE3CNAUIzm7UNLw",
+      "source": "Ulta Beauty",
+      "title": "Biolage ColorLast Shampoo Matrix",
+      "rating": 4.6,
+      "reviews": 7400,
+      "price": "$27.00",
+      "extracted_price": 27.0,
+      "original_price": "$2.00/oz",
+      "extracted_original_price": 2.0,
+      "location": "Nearby, 3 mi",
+      "delivery": "Free delivery on $35+",
+      "immersive_product_page_token": "yjSnxHicbZJLjttGEIaBnCG3EAz0g8_sRhJbFDFsis2nuDEodlOk-BySGj3gO-QOGjuAs7QD5CyT04T22pta1Pej_kL99edDlP_iXYnT8WVJ7LYf8mw3Oev29mR87YeOn7Op5N8RRoqsSxqQoKxhVdUQ-pqlU1p3x5L_A7GkIw1ioGsAAE3GEOBvhUh5XbbCyXMxrLvspw4jiKCuqljHqgSApOl_l016FD_5dw3oOkQAqUDCKvhho70NfHxHu9VHBaqKJikYAUXCmjqvon7aMWf98dfsy8tZDLd3MHX9YjzXeTqJRT4IsRiLtOm7blzk3bDIunqu0yBmzBdFWg5fjv2PTX4x8a0p-TdZVSQFaYoqyxLQZR3it_51ehTHz-dzLd7Xl8XqaetuV9shROSebupzgtnrobwa7u2p8zakTWLrzjc6nnuUraoxjOSeb8JqSyjYx6zOLo9j_TiPj6J-iPavLu1f8-y_3343ust6NV5WbtD34ZoBL7Bvtr9HGd7KzChoMkdzqKBnNzAWJ-vETHfKAuIHje560ICsknFSk70fwZKa9RBFVhsA_Zo0tIni7E4juqfQCljNWzuyiCih4kSdlFWF522YaVcWePZDnyFeJHGNREUhbQrJNmuFxpYfwF46NHrnmbzkNWkP98TxzKILm7rj1dS6Vd26LdnN2l2Ml4YNJPk56OXItK6eQXwb9SxFkuw22eXQzH5mcXZ9SxJxaIUt3yUtD4PI2kdkOdGQjBRdnw-Ri5lJkL3Ri6ixnkOSLHkQoNS38oMRBuxuTfuqLsNgvASAvBzCJ8iMfs5BfqXx9soC2aSg6J7jomWkbnjYzzcM6wxb68OaVSkipWOG1G2pGxF-oiCZ8zIu_mnpJM1kexs6sDjZUZicEkNPZ3QXp6Sg66IVGwiyhgSeMXVpRNKgkjxyp27q0yLDZMUqeM5Mq9nDJfABO4uAkE1pLZlJb06UMFH3qwAUN4a5ZTf85mNaC0IN77RsvQaufHPJPl_HIX8HT0SePEfdvPRO9yH_YJTlB-c-wpPncXoRhp4f_4CqDiQJKjqeH_t_1sJPqQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=yjSnxHicbZJLjttGEIaBnCG3EAz0g8_sRhJbFDFsis2nuDEodlOk-BySGj3gO-QOGjuAs7QD5CyT04T22pta1Pej_kL99edDlP_iXYnT8WVJ7LYf8mw3Oev29mR87YeOn7Op5N8RRoqsSxqQoKxhVdUQ-pqlU1p3x5L_A7GkIw1ioGsAAE3GEOBvhUh5XbbCyXMxrLvspw4jiKCuqljHqgSApOl_l016FD_5dw3oOkQAqUDCKvhho70NfHxHu9VHBaqKJikYAUXCmjqvon7aMWf98dfsy8tZDLd3MHX9YjzXeTqJRT4IsRiLtOm7blzk3bDIunqu0yBmzBdFWg5fjv2PTX4x8a0p-TdZVSQFaYoqyxLQZR3it_51ehTHz-dzLd7Xl8XqaetuV9shROSebupzgtnrobwa7u2p8zakTWLrzjc6nnuUraoxjOSeb8JqSyjYx6zOLo9j_TiPj6J-iPavLu1f8-y_3343ust6NV5WbtD34ZoBL7Bvtr9HGd7KzChoMkdzqKBnNzAWJ-vETHfKAuIHje560ICsknFSk70fwZKa9RBFVhsA_Zo0tIni7E4juqfQCljNWzuyiCih4kSdlFWF522YaVcWePZDnyFeJHGNREUhbQrJNmuFxpYfwF46NHrnmbzkNWkP98TxzKILm7rj1dS6Vd26LdnN2l2Ml4YNJPk56OXItK6eQXwb9SxFkuw22eXQzH5mcXZ9SxJxaIUt3yUtD4PI2kdkOdGQjBRdnw-Ri5lJkL3Ri6ixnkOSLHkQoNS38oMRBuxuTfuqLsNgvASAvBzCJ8iMfs5BfqXx9soC2aSg6J7jomWkbnjYzzcM6wxb68OaVSkipWOG1G2pGxF-oiCZ8zIu_mnpJM1kexs6sDjZUZicEkNPZ3QXp6Sg66IVGwiyhgSeMXVpRNKgkjxyp27q0yLDZMUqeM5Mq9nDJfABO4uAkE1pLZlJb06UMFH3qwAUN4a5ZTf85mNaC0IN77RsvQaufHPJPl_HIX8HT0SePEfdvPRO9yH_YJTlB-c-wpPncXoRhp4f_4CqDiQJKjqeH_t_1sJPqQ"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTI7wmHUk_lXG5mrp0rFvxFWetSlOJREBCZndRjyMUMM5-bGyE9fuuW-idE2aEAsdXSc7fMx7ya4xmgN-FyiR7ilK0E-nxEQfxxsLcA5108FuHSHOZa6uw6_g",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTw_IOMaqLrGyGT48e4jpAfSaRiMZtn4PEv4LfXWt9w7lmxj4iJbDRMSJi28fvoGbQJ1NSBMNcp45ZnWE3CNAUIzm7UNLw",
+      "source": "Ulta Beauty",
+      "title": "Redken Frizz Dismiss Sodium Chloride-Free Shampoo 300ml",
+      "rating": 4.1,
+      "reviews": 897,
+      "price": "$31.00",
+      "extracted_price": 31.0,
+      "original_price": "$3.07/oz",
+      "extracted_original_price": 3.07,
+      "location": "Nearby, 3 mi",
+      "delivery": "Free delivery on $35+",
+      "immersive_product_page_token": "kQ2sxHicbZDNjqNGFEaV57FaqqL4q-ya37ZlCgMFGDYjTIGhKQwG3G2jeYe8g3sm0sxyJlK2eY3Ok2QZOuts7uI70tHR_e1e1H-iXY2y8axZzqkfynw3ucbp9mh-64eOXfKpZn9ABDDAsoKhggBSkSwq8rc8mzLeHWv2U4ZYxUCVVEHCoiJgrIg_qiJjvD4VblkWg9HlHxZBBRAhhGUMZIQkVcLge91mx-I__hOLIsBIBYtGAYIiy4LyNrDxXdjpnwQRyCoEApZVBUFVhgB_3vmu8en_2dfzpRhu72Dq-tV44WU2FatyKIrVWGVt33XjquyGVd7x5U5DsWC2qrJ6-HrsP0oUEQqCiiCWRBUgUVZV4a2t2V9v_ct0r45fLhdevBuvK_1x7a319RAJ1pzZ_JIi_-VQX03v9tgFtnVK95uZ2RgtG_H1ZoxiqWd21KwtApK9z_PX-5HfL-O94vfi9HuX9S9l_vcv_5gvua4Pue6FfR8ZPqB2L2YNS7YxmMJwumXUhCye9MLmYRoTGu3ZyW-g7c3HuXhyYDqTodDhK4EaTTgHmcnOwZzOB27NHrXSBEQvEec9eSa7pEl5TjWJWGkTRnxOoXaOYkYITF-XRjE0UvlgwqsHfT1uN2uX-qPf-EPW-teU-3sSw5DuNS979qYkSqZQIDcPVAabK41wFjLESEqjKGkWtyml_lJaUG1LEOm3lK-dhjt0H_HMhtViO-dtPx6ifu80k-k0VecamkutqD2YVz23J9uZG1Bwa7t4gqBV0cHCc2ZUbbK3xJhaWsaJE8z-kyNY3jYkZ4f6iUe9a24SN2lhy3gzRzQtD1TbBPs0YJYWOJTvvNY3U9uHrJ3EbbghgbGpkxM3MpvUH3th4i5oJ2kbWxdiRK1jeIE1Ey-jpMqRpS__v-RPmzaBGqDAvxShZdn1RvOfyM2NU9-Ne-HQsJgiq2PP2jluNiGLuJS00Zzx6OyaTPtyHYfyHTxa0hS4in3u3e6hfDDr-sGdR_gcBIy8Lh3l8VeoYCCKUMYIKvK_29FHmg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=kQ2sxHicbZDNjqNGFEaV57FaqqL4q-ya37ZlCgMFGDYjTIGhKQwG3G2jeYe8g3sm0sxyJlK2eY3Ok2QZOuts7uI70tHR_e1e1H-iXY2y8axZzqkfynw3ucbp9mh-64eOXfKpZn9ABDDAsoKhggBSkSwq8rc8mzLeHWv2U4ZYxUCVVEHCoiJgrIg_qiJjvD4VblkWg9HlHxZBBRAhhGUMZIQkVcLge91mx-I__hOLIsBIBYtGAYIiy4LyNrDxXdjpnwQRyCoEApZVBUFVhgB_3vmu8en_2dfzpRhu72Dq-tV44WU2FatyKIrVWGVt33XjquyGVd7x5U5DsWC2qrJ6-HrsP0oUEQqCiiCWRBUgUVZV4a2t2V9v_ct0r45fLhdevBuvK_1x7a319RAJ1pzZ_JIi_-VQX03v9tgFtnVK95uZ2RgtG_H1ZoxiqWd21KwtApK9z_PX-5HfL-O94vfi9HuX9S9l_vcv_5gvua4Pue6FfR8ZPqB2L2YNS7YxmMJwumXUhCye9MLmYRoTGu3ZyW-g7c3HuXhyYDqTodDhK4EaTTgHmcnOwZzOB27NHrXSBEQvEec9eSa7pEl5TjWJWGkTRnxOoXaOYkYITF-XRjE0UvlgwqsHfT1uN2uX-qPf-EPW-teU-3sSw5DuNS979qYkSqZQIDcPVAabK41wFjLESEqjKGkWtyml_lJaUG1LEOm3lK-dhjt0H_HMhtViO-dtPx6ifu80k-k0VecamkutqD2YVz23J9uZG1Bwa7t4gqBV0cHCc2ZUbbK3xJhaWsaJE8z-kyNY3jYkZ4f6iUe9a24SN2lhy3gzRzQtD1TbBPs0YJYWOJTvvNY3U9uHrJ3EbbghgbGpkxM3MpvUH3th4i5oJ2kbWxdiRK1jeIE1Ey-jpMqRpS__v-RPmzaBGqDAvxShZdn1RvOfyM2NU9-Ne-HQsJgiq2PP2jluNiGLuJS00Zzx6OyaTPtyHYfyHTxa0hS4in3u3e6hfDDr-sGdR_gcBIy8Lh3l8VeoYCCKUMYIKvK_29FHmg"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR3AbKXlo1E1k1MWcrV_-Z6_a0hpY8OuKLZsCGB_mmlX2lrPohbytfbplh8qWjP0dLtS-CMzvZhLnCicqKhZOiP8gf72A4cvQq7K_iw2eujKjIxUgto3dlYnA",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTw_IOMaqLrGyGT48e4jpAfSaRiMZtn4PEv4LfXWt9w7lmxj4iJbDRMSJi28fvoGbQJ1NSBMNcp45ZnWE3CNAUIzm7UNLw",
+      "source": "Ulta Beauty",
+      "title": "PATTERN Hydration Shampoo",
+      "rating": 4.5,
+      "reviews": 4100,
+      "price": "$22.00",
+      "extracted_price": 22.0,
+      "original_price": "$2.24/fl oz",
+      "extracted_original_price": 2.24,
+      "location": "Nearby, 3 mi",
+      "delivery": "Free delivery on $35+",
+      "immersive_product_page_token": "Cgw_fHicbZNLjqNWFIalrCG7sEq6Dx4mszJwsakCzMX38pi0eBpsXoVxmULZQ_bg6o7UGXZHyloqqwktZdiTM_g_nf8_-qXzxz2v_sH7CseXlw2x2n4o0v3oaO3bo_61H7rsmo5V9l2RkCRBeY0FgCUgSLKCvqbxGNfd8QeFkoygpECsILyGUFjjb2UeZ3XV5k5R5IPWpVX2N8QiVkSI17KMoYDX0hriv6omPub_c4QWFwxE-CMJCgBI8H3ILh9or36CooxFKCpgLS7pa7iWlN_31NE-_Zx9ebnmw9sHGLt-dbnWRTzmq2LI89WljJu-6y6rohtWaVcvcxzyBWerMq6GL8d-OeX7Txzfmyr7JsqSICFBkRdJFiVRkd771_FeHj9fr3X-od1W6uPO3am7gSMyx0Z9jTB9TapJd98eO88gbRSYc2YoeNFsqp4v3Bf7zODnHbFBGNA6vd2P9f16uZf1PW__7OL-tUj__eVXvbtp6uWmuqzvuUbBQTMdj2deFvDC8V2Rclo-M2Kl2HZcXqOU9CZjEeC6jhytVH1ivmSn8uQGEWI6VB2DurSBagj6g6dPjaef35Kgbq22tJKmV6luN9HBlmxsgR_7LDBrn_Rneha9GME9RRnMgvpqoVFNEX0K2wyETUn81gwjSCk7ncVEt_ccmE8RmzxKNprrr0e7UXhK7GrpJXL0qXpmfBOesp5yMlHA95wccbTltmMcxRAqc3Iigg2JS1F5Yk3PGKfnqDadWI9u_FC3SUBACDrIlg7ybRazOZriOYXc4EZk9G6EdJA0R4EiS4x98cnhpRo3Y8C25lNCqBufj1Mym77nmxu2tb3DTPZMe5yf2TjZaBoTXdy7DRcSraYJMivHh02ITN8KohsjvF56ae1tuaFgN9KAnhiydT5b0_Oh1nzDrkJ2m_OaCRbeeWS23fhglykmKj3Da7o1mxBuwAHQa84IMSpzQ7f2m-NHNGomxz4TydL5k8V3YwCmHeXKNTyUVjyXEwe8_TxdhuIDPBJx9BzZeOmd7qF40KvqwZkv8OR5mX3LdaU4_gZlBQjC8qIYytJ_wHlOow",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Cgw_fHicbZNLjqNWFIalrCG7sEq6Dx4mszJwsakCzMX38pi0eBpsXoVxmULZQ_bg6o7UGXZHyloqqwktZdiTM_g_nf8_-qXzxz2v_sH7CseXlw2x2n4o0v3oaO3bo_61H7rsmo5V9l2RkCRBeY0FgCUgSLKCvqbxGNfd8QeFkoygpECsILyGUFjjb2UeZ3XV5k5R5IPWpVX2N8QiVkSI17KMoYDX0hriv6omPub_c4QWFwxE-CMJCgBI8H3ILh9or36CooxFKCpgLS7pa7iWlN_31NE-_Zx9ebnmw9sHGLt-dbnWRTzmq2LI89WljJu-6y6rohtWaVcvcxzyBWerMq6GL8d-OeX7Txzfmyr7JsqSICFBkRdJFiVRkd771_FeHj9fr3X-od1W6uPO3am7gSMyx0Z9jTB9TapJd98eO88gbRSYc2YoeNFsqp4v3Bf7zODnHbFBGNA6vd2P9f16uZf1PW__7OL-tUj__eVXvbtp6uWmuqzvuUbBQTMdj2deFvDC8V2Rclo-M2Kl2HZcXqOU9CZjEeC6jhytVH1ivmSn8uQGEWI6VB2DurSBagj6g6dPjaef35Kgbq22tJKmV6luN9HBlmxsgR_7LDBrn_Rneha9GME9RRnMgvpqoVFNEX0K2wyETUn81gwjSCk7ncVEt_ccmE8RmzxKNprrr0e7UXhK7GrpJXL0qXpmfBOesp5yMlHA95wccbTltmMcxRAqc3Iigg2JS1F5Yk3PGKfnqDadWI9u_FC3SUBACDrIlg7ybRazOZriOYXc4EZk9G6EdJA0R4EiS4x98cnhpRo3Y8C25lNCqBufj1Mym77nmxu2tb3DTPZMe5yf2TjZaBoTXdy7DRcSraYJMivHh02ITN8KohsjvF56ae1tuaFgN9KAnhiydT5b0_Oh1nzDrkJ2m_OaCRbeeWS23fhglykmKj3Da7o1mxBuwAHQa84IMSpzQ7f2m-NHNGomxz4TydL5k8V3YwCmHeXKNTyUVjyXEwe8_TxdhuIDPBJx9BzZeOmd7qF40KvqwZkv8OR5mX3LdaU4_gZlBQjC8qIYytJ_wHlOow"
+    },
+    {
+      "category": "In stores nearby",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQbWTgRtqEzfWG0z4UeG_ZSZJIe5b_OfE4vC1wwMHqHRh8kwc1kQJCZKH9wTSHE_Wsx79o6uFvwXqqpQMVMSqwacGMF_muzIXJP3JeEvHrGloItAPJHO24W-Q",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTEcvKCC4vYSJ0lcojmG1G8H5SxvMYMWwuZ0hBVYInrlmIpQc8-QknEydjdLUOCUc4t5gk8LzLYNskt9jyjXHnjIq2sfztY",
+      "source": "Target",
+      "title": "L'Oreal EverPure Bond Repair Shampoo",
+      "rating": 2.7,
+      "reviews": 18,
+      "price": "$4.99",
+      "extracted_price": 4.99,
+      "original_price": "$2.00/fl oz",
+      "extracted_original_price": 2.0,
+      "location": "Nearby, 22 mi",
+      "delivery": "Free delivery on $100+",
+      "immersive_product_page_token": "9qw7_3icbZPNjptIFIWleYZ5C6ulKv49u8b82HRctAsoDJuomgKDKX4asMFo3mHewZ2MlFkmkfIsPU8zRJpl7uIu7jn67tmcv-5p8UN8LkTav-rWvm67LHkeXKO-PZpf2q5hl2Qo2HeoaJooAFkRBKAIUIXaGnxJ6EB5cyrYN0GV1qqmSrIoyoqqCZKifs1TynhRp26WpZ3RJD8pgiKsF4omQ1n86QYA_lNU9JT-r0OoSJoE1bUsLC9ERVWkt47178Lz5qOmyoosAUFbRlQVZfH9-Yxd4-Ovtc-vl7S7vYOhaVf9hWd0SFdZl6arPqdV2zT9Kmu6VdLwZQ9dushsldOi-3xqlyjffkF8qwr2VV4iKYKmaKIMJHEJCt_a63DPT58uF56-G-Nq87g77Da7jgjWTG1-iUV8fSkm83B7bDzbquOjMzN7LS43hDdlT0K5ZTYpdxYC0RHzZLyf-P3S33N-T-u_G9pes-Tf3343m9HY9OPmELQtMTDwiCl6NnQCAG8JgNjj7QVBsjsc83N6jrfMQjqpSURDPLiElOQYDXjO9USQP5BZP2OzpdhulSSUr66J9PBIHGRa477URFafxpRrsh9AGZ8d8eCjm1fjXeBzJygtTkA77U0m-Nu4oia7kbMzUwEPGOAwODrAN9h1f2yfEkOfmAePe47nqIAWM_QtE6bRMwc3sJyOhqSIodMmBpcRYDTmeCQE4b2JD3ti7VjJM5fElFgMH6DuBn5eExBXoR3fwhpzasticsYiuUHEZsf5cORKbOJXVK5NUptDFO6nJEjm1LQ8Zsd9xJ1rBLgec_QU2lNFz_EcWu2cQD76In9KAnSjJuKuKW8YWLeYPIovgEgvFlIOZ_0pOrYbtt2NFJCW-flTYKFLaMtTVE0LOxJwqUkvFcsROEzxbHFW6zEL4JaWKI6I5lkzOlAf5YlobXAJL8nWqSKoAx_gSxpYll04Ot6imxvGgV9JQ3gmZczzDgXtMwYTjGfm42qUfcIaZmD8aeq77B08WvLguar92rrNQ_ZgFsWDO_fw7HkMjam5zk5_LJ0CkgSVtQhV5T9M8FKG",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=9qw7_3icbZPNjptIFIWleYZ5C6ulKv49u8b82HRctAsoDJuomgKDKX4asMFo3mHewZ2MlFkmkfIsPU8zRJpl7uIu7jn67tmcv-5p8UN8LkTav-rWvm67LHkeXKO-PZpf2q5hl2Qo2HeoaJooAFkRBKAIUIXaGnxJ6EB5cyrYN0GV1qqmSrIoyoqqCZKifs1TynhRp26WpZ3RJD8pgiKsF4omQ1n86QYA_lNU9JT-r0OoSJoE1bUsLC9ERVWkt47178Lz5qOmyoosAUFbRlQVZfH9-Yxd4-Ovtc-vl7S7vYOhaVf9hWd0SFdZl6arPqdV2zT9Kmu6VdLwZQ9dushsldOi-3xqlyjffkF8qwr2VV4iKYKmaKIMJHEJCt_a63DPT58uF56-G-Nq87g77Da7jgjWTG1-iUV8fSkm83B7bDzbquOjMzN7LS43hDdlT0K5ZTYpdxYC0RHzZLyf-P3S33N-T-u_G9pes-Tf3343m9HY9OPmELQtMTDwiCl6NnQCAG8JgNjj7QVBsjsc83N6jrfMQjqpSURDPLiElOQYDXjO9USQP5BZP2OzpdhulSSUr66J9PBIHGRa477URFafxpRrsh9AGZ8d8eCjm1fjXeBzJygtTkA77U0m-Nu4oia7kbMzUwEPGOAwODrAN9h1f2yfEkOfmAePe47nqIAWM_QtE6bRMwc3sJyOhqSIodMmBpcRYDTmeCQE4b2JD3ti7VjJM5fElFgMH6DuBn5eExBXoR3fwhpzasticsYiuUHEZsf5cORKbOJXVK5NUptDFO6nJEjm1LQ8Zsd9xJ1rBLgec_QU2lNFz_EcWu2cQD76In9KAnSjJuKuKW8YWLeYPIovgEgvFlIOZ_0pOrYbtt2NFJCW-flTYKFLaMtTVE0LOxJwqUkvFcsROEzxbHFW6zEL4JaWKI6I5lkzOlAf5YlobXAJL8nWqSKoAx_gSxpYll04Ot6imxvGgV9JQ3gmZczzDgXtMwYTjGfm42qUfcIaZmD8aeq77B08WvLguar92rrNQ_ZgFsWDO_fw7HkMjam5zk5_LJ0CkgSVtQhV5T9M8FKG"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best sulfate-free shampoo for color protection?",
+      "type": "ai_overview",
+      "page_token": "kpYpiXicHdBdbpswAABg9TJ9bIAkXRMpmkQwJJ7sCBsb8MsEJoHE5kfEDdRvvULP0FPtNJv2HeH7_NbXTv15-mqMGe7bxWKappe672t9fpF9uyjuH51cyELrspBq-_rj1f15kTvwkP5-lH7MhoEHxKEpp3jvrko1v1MX9yUw78Lhx0q9zTKAkNoG5U7YVaBa5yrc88jovN0QnlYApZqeMuyf2AadEwxRSEZ-QA4Dbkq18pjF3onNDrnxjNlwZAFEaeKbKlontJVLAsSRqNogL6SSubA46APm0C8Dcc2TsKmsHmmIZsrQLDXvMktuMRePwiOKZWyNUpMXrMFiCVuim6HU4p655EEcsTof5FS2w7G4ESii2pTp3QGNtCxSNs_wHCuBy87_EC2OK7ABZad9QvprzIiVN90yq3nC4cyilWUqnxjo1_8uIA2AK7X-lXibMI6fL_KxWz7_v979vrRmO4x9_RfHYY6X",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=kpYpiXicHdBdbpswAABg9TJ9bIAkXRMpmkQwJJ7sCBsb8MsEJoHE5kfEDdRvvULP0FPtNJv2HeH7_NbXTv15-mqMGe7bxWKappe672t9fpF9uyjuH51cyELrspBq-_rj1f15kTvwkP5-lH7MhoEHxKEpp3jvrko1v1MX9yUw78Lhx0q9zTKAkNoG5U7YVaBa5yrc88jovN0QnlYApZqeMuyf2AadEwxRSEZ-QA4Dbkq18pjF3onNDrnxjNlwZAFEaeKbKlontJVLAsSRqNogL6SSubA46APm0C8Dcc2TsKmsHmmIZsrQLDXvMktuMRePwiOKZWyNUpMXrMFiCVuim6HU4p655EEcsTof5FS2w7G4ESii2pTp3QGNtCxSNs_wHCuBy87_EC2OK7ABZad9QvprzIiVN90yq3nC4cyilWUqnxjo1_8uIA2AK7X-lXibMI6fL_KxWz7_v979vrRmO4x9_RfHYY6X",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJsOVVWVWRQYTB0MlIxUkhZMFpsTWxwUE1UVkZRVVV0UW14cWNEbENWRWxSTVdKV1MyUlBZVTl1TlhsUVZtWkRRV1JFYlY4eU1VTlJWbmMzZG5CM1JscGZjR3QyWkhCcWJtbEdjbWRWYm1sWFkwbFRWa1pNTWtaa1FSSVhNMUJwTTJGemNVSkdUVzV3Y21aalVIUlBSRzU1UVVVYUlrRkVjM0k1WmxOMWFVMTRjbmhWYTJoT05XaFdhMGw1WmxGM1NuQlZXRXQzVkVFIiwiZmN2IjoiMyIsImVpIjoiM1BpM2FzcUJGTW5wcmZjUHRPRG55QUUiLCJxYyI6ImMtTXlLTWt2VUNndXpVbExMRWxWU0N0S1RWVW96a2pNTGNqUEwxWkl5eTlTU003UEFaSWxSYWxBNlJTRmpNVE1JZ0dHMm0wc1gtd0EiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3Qgc3VsZmF0ZS1mcmVlIHNoYW1wb28gZm9yIGNvbG9yIHByb3RlY3Rpb24/IiwibGsiOiJHaXR6ZFd4d2FHRjBaU0JtY21WbElITm9ZVzF3YjI4Z1ptOXlJR052Ykc5MWNpQndjbTkwWldOMGFXOXUiLCJicyI6ImM0MlFNUTdDTUF4RnhlcUpPWk9GRUFLaERnUTJob29qTUhVbHRBNkpWT29xY2U5UEVLV0Eyb0hGaTVfOTlEX1VjQ3ljRWZRUnhSRmVLUXJHcnJaR0tMT0JDS016OTVZWkxRY3N1VTZ6RFN4VWl1Y20xNW5hSnJwTkh3Z244ZTZiaHdzYzNqYUROLVlLRzI2eTNqZFdVWVhPLUpEcnRWb2xFQWZWMk5LajRFR2ZBazFHaUNtZENJV0pfM3UxTTU4cl9Pc0t6ckFwbkNfZGRGOHA0cXV1YUN6bGVxa1d2MFgxNVR5M2cyby1ld0EiLCJpZCI6ImZjXzNQaTNhc3FCRk1ucHJmY1B0T0RueUFFXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJsOVVWVWRQYTB0MlIxUkhZMFpsTWxwUE1UVkZRVVV0UW14cWNEbENWRWxSTVdKV1MyUlBZVTl1TlhsUVZtWkRRV1JFYlY4eU1VTlJWbmMzZG5CM1JscGZjR3QyWkhCcWJtbEdjbWRWYm1sWFkwbFRWa1pNTWtaa1FSSVhNMUJwTTJGemNVSkdUVzV3Y21aalVIUlBSRzU1UVVVYUlrRkVjM0k1WmxOMWFVMTRjbmhWYTJoT05XaFdhMGw1WmxGM1NuQlZXRXQzVkVFIiwiZmN2IjoiMyIsImVpIjoiM1BpM2FzcUJGTW5wcmZjUHRPRG55QUUiLCJxYyI6ImMtTXlLTWt2VUNndXpVbExMRWxWU0N0S1RWVW96a2pNTGNqUEwxWkl5eTlTU003UEFaSWxSYWxBNlJTRmpNVE1JZ0dHMm0wc1gtd0EiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3Qgc3VsZmF0ZS1mcmVlIHNoYW1wb28gZm9yIGNvbG9yIHByb3RlY3Rpb24%2FIiwibGsiOiJHaXR6ZFd4d2FHRjBaU0JtY21WbElITm9ZVzF3YjI4Z1ptOXlJR052Ykc5MWNpQndjbTkwWldOMGFXOXUiLCJicyI6ImM0MlFNUTdDTUF4RnhlcUpPWk9GRUFLaERnUTJob29qTUhVbHRBNkpWT29xY2U5UEVLV0Eyb0hGaTVfOTlEX1VjQ3ljRWZRUnhSRmVLUXJHcnJaR0tMT0JDS016OTVZWkxRY3N1VTZ6RFN4VWl1Y20xNW5hSnJwTkh3Z244ZTZiaHdzYzNqYUROLVlLRzI2eTNqZFdVWVhPLUpEcnRWb2xFQWZWMk5LajRFR2ZBazFHaUNtZENJV0pfM3UxTTU4cl9Pc0t6ckFwbkNfZGRGOHA0cXV1YUN6bGVxa1d2MFgxNVR5M2cyby1ld0EiLCJpZCI6ImZjXzNQaTNhc3FCRk1ucHJmY1B0T0RueUFFXzUifQ%3D%3D"
+    },
+    {
+      "question": "What is a good non-sulfate shampoo for colored hair?",
+      "type": "ai_overview",
+      "page_token": "sYxinXicHdBfToMwHADgeBkfHUwzsyWLCVtBUKqU_mG_F8NatjJKi47Jxpt38VSeRuMNvnxf36a2zc_Vp-777riYTIZhuNk7tzfVjXTtpDxerJzI0phtKZvF7H7mP-zkEp3iYPUeBxnrOr4mXs76GAv-yj0TK58bFRlaGTVTkRtyMbdqrfuMZiPwYJXXfr4RUIPPBuaFfslDknLSlsggFUFJfHz3TAMHI06rkFvK5m67NgUz-x4aXOdRWMPUiA0lJzqqF2B8BAQv6QG75yJEXJyLssGieoRICjAV87yqJVza4M-VxGp6fmcmKdSoqWA8yYSmnIKGVs_AJkdKtUVajixqxk2Bz1kDeGuDC7Q4U2iOttYEhLg6Y2SUB9MyLzmkRdjg9vwkUFgKpFLa6DXYdFAWOuKpGIbrnfxc3l7_fy7fdm2_6D7c_hef_YZf",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=sYxinXicHdBfToMwHADgeBkfHUwzsyWLCVtBUKqU_mG_F8NatjJKi47Jxpt38VSeRuMNvnxf36a2zc_Vp-777riYTIZhuNk7tzfVjXTtpDxerJzI0phtKZvF7H7mP-zkEp3iYPUeBxnrOr4mXs76GAv-yj0TK58bFRlaGTVTkRtyMbdqrfuMZiPwYJXXfr4RUIPPBuaFfslDknLSlsggFUFJfHz3TAMHI06rkFvK5m67NgUz-x4aXOdRWMPUiA0lJzqqF2B8BAQv6QG75yJEXJyLssGieoRICjAV87yqJVza4M-VxGp6fmcmKdSoqWA8yYSmnIKGVs_AJkdKtUVajixqxk2Bz1kDeGuDC7Q4U2iOttYEhLg6Y2SUB9MyLzmkRdjg9vwkUFgKpFLa6DXYdFAWOuKpGIbrnfxc3l7_fy7fdm2_6D7c_hef_YZf",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJsOVVWVWRQYTB0MlIxUkhZMFpsTWxwUE1UVkZRVVV0UW14cWNEbENWRWxSTVdKV1MyUlBZVTl1TlhsUVZtWkRRV1JFYlY4eU1VTlJWbmMzZG5CM1JscGZjR3QyWkhCcWJtbEdjbWRWYm1sWFkwbFRWa1pNTWtaa1FSSVhNMUJwTTJGemNVSkdUVzV3Y21aalVIUlBSRzU1UVVVYUlrRkVjM0k1WmxOMWFVMTRjbmhWYTJoT05XaFdhMGw1WmxGM1NuQlZXRXQzVkVFIiwiZmN2IjoiMyIsImVpIjoiM1BpM2FzcUJGTW5wcmZjUHRPRG55QUUiLCJxYyI6ImMtTXlLTWt2VUNndXpVbExMRWxWU0N0S1RWVW96a2pNTGNqUEwxWkl5eTlTU003UEFaSWxSYWxBNlJTRmpNVE1JZ0dHMm0wc1gtd0EiLCJxdWVzdGlvbiI6IldoYXQgaXMgYSBnb29kIG5vbi1zdWxmYXRlIHNoYW1wb28gZm9yIGNvbG9yZWQgaGFpcj8iLCJsayI6IkdpWnViMjRnYzNWc2NHaGhkR1VnYzJoaGJYQnZieUJtYjNJZ1kyOXNiM1Z5WldRZ2FHRnBjZyIsImJzIjoiYzQyUU1RN0NNQXhGeGVxSk9aT0ZFQUtoRGdRMmhvb2pNSFVsdEE2SlZPb3FjZTlQRUtXQTJvSEZpNV85OURfVWNDeWNFZlFSeFJGZUtRckdyclpHS0xPQkNLTXo5NVlaTFFjc3VVNnpEU3hVaXVjbTE1bmFKcnBOSHdnbjhlNmJod3NjM2phRE4tWUtHMjZ5M2pkV1VZWE8tSkRydFZvbEVBZlYyTktqNEVHZkFrMUdpQ21kQ0lXSl8zdTFNNThyX09zS3pyQXBuQ19kZEY4cDRxdXVhQ3psZXFrV3YwWDE1VHkzZzJvLWV3QSIsImlkIjoiZmNfM1BpM2FzcUJGTW5wcmZjUHRPRG55QUVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJsOVVWVWRQYTB0MlIxUkhZMFpsTWxwUE1UVkZRVVV0UW14cWNEbENWRWxSTVdKV1MyUlBZVTl1TlhsUVZtWkRRV1JFYlY4eU1VTlJWbmMzZG5CM1JscGZjR3QyWkhCcWJtbEdjbWRWYm1sWFkwbFRWa1pNTWtaa1FSSVhNMUJwTTJGemNVSkdUVzV3Y21aalVIUlBSRzU1UVVVYUlrRkVjM0k1WmxOMWFVMTRjbmhWYTJoT05XaFdhMGw1WmxGM1NuQlZXRXQzVkVFIiwiZmN2IjoiMyIsImVpIjoiM1BpM2FzcUJGTW5wcmZjUHRPRG55QUUiLCJxYyI6ImMtTXlLTWt2VUNndXpVbExMRWxWU0N0S1RWVW96a2pNTGNqUEwxWkl5eTlTU003UEFaSWxSYWxBNlJTRmpNVE1JZ0dHMm0wc1gtd0EiLCJxdWVzdGlvbiI6IldoYXQgaXMgYSBnb29kIG5vbi1zdWxmYXRlIHNoYW1wb28gZm9yIGNvbG9yZWQgaGFpcj8iLCJsayI6IkdpWnViMjRnYzNWc2NHaGhkR1VnYzJoaGJYQnZieUJtYjNJZ1kyOXNiM1Z5WldRZ2FHRnBjZyIsImJzIjoiYzQyUU1RN0NNQXhGeGVxSk9aT0ZFQUtoRGdRMmhvb2pNSFVsdEE2SlZPb3FjZTlQRUtXQTJvSEZpNV85OURfVWNDeWNFZlFSeFJGZUtRckdyclpHS0xPQkNLTXo5NVlaTFFjc3VVNnpEU3hVaXVjbTE1bmFKcnBOSHdnbjhlNmJod3NjM2phRE4tWUtHMjZ5M2pkV1VZWE8tSkRydFZvbEVBZlYyTktqNEVHZkFrMUdpQ21kQ0lXSl8zdTFNNThyX09zS3pyQXBuQ19kZEY4cDRxdXVhQ3psZXFrV3YwWDE1VHkzZzJvLWV3QSIsImlkIjoiZmNfM1BpM2FzcUJGTW5wcmZjUHRPRG55QUVfNSJ9"
+    },
+    {
+      "question": "Are sulfate-free shampoos better for colored hair?",
+      "type": "ai_overview",
+      "page_token": "qjgrCnicHdBLjpswAABQ9TKznMRkoEqkqJKDAXWKkcF2wZvK2CEk_kATGkh2c4WeoafqaSr1HeF9_LFnb_5--t1P03jbrVbzPL-ehuFkj69qcCt5e3i1UtLaViqziz5H4Eun9uiu4OGqIGHjyONyTbOvPylabtxgyDc2onXCaMB7YnAkM3stWPmuEMg1NY96U05Hg0ke93Mb2EUE4Z1numouSSkyGIlkHLQbH7llC03HXH6f3tpAAB4LVqRgJjWZaYZ9ZfXtiELHNxiwNOQsEPTorS_SsK_ShXBn5tL334gJf2Ffdi1HgD75ofLNugXinfN-aEwCiIekobAu2HJVHE4SYSSzHnOj3vCa4xZspa4xl-m21i4RqFdPlppnU-OFGIFbDx_CYaLRFrXewrIczoSVT3WxjjlNK5bkGOELCbZdyzSsYi35ARTS4UafQczIS6fu-83L_-v9j85Nu_E6nP4B7PSNmw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qjgrCnicHdBLjpswAABQ9TKznMRkoEqkqJKDAXWKkcF2wZvK2CEk_kATGkh2c4WeoafqaSr1HeF9_LFnb_5--t1P03jbrVbzPL-ehuFkj69qcCt5e3i1UtLaViqziz5H4Eun9uiu4OGqIGHjyONyTbOvPylabtxgyDc2onXCaMB7YnAkM3stWPmuEMg1NY96U05Hg0ke93Mb2EUE4Z1numouSSkyGIlkHLQbH7llC03HXH6f3tpAAB4LVqRgJjWZaYZ9ZfXtiELHNxiwNOQsEPTorS_SsK_ShXBn5tL334gJf2Ffdi1HgD75ofLNugXinfN-aEwCiIekobAu2HJVHE4SYSSzHnOj3vCa4xZspa4xl-m21i4RqFdPlppnU-OFGIFbDx_CYaLRFrXewrIczoSVT3WxjjlNK5bkGOELCbZdyzSsYi35ARTS4UafQczIS6fu-83L_-v9j85Nu_E6nP4B7PSNmw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJsOVVWVWRQYTB0MlIxUkhZMFpsTWxwUE1UVkZRVVV0UW14cWNEbENWRWxSTVdKV1MyUlBZVTl1TlhsUVZtWkRRV1JFYlY4eU1VTlJWbmMzZG5CM1JscGZjR3QyWkhCcWJtbEdjbWRWYm1sWFkwbFRWa1pNTWtaa1FSSVhNMUJwTTJGemNVSkdUVzV3Y21aalVIUlBSRzU1UVVVYUlrRkVjM0k1WmxOMWFVMTRjbmhWYTJoT05XaFdhMGw1WmxGM1NuQlZXRXQzVkVFIiwiZmN2IjoiMyIsImVpIjoiM1BpM2FzcUJGTW5wcmZjUHRPRG55QUUiLCJxYyI6ImMtTXlLTWt2VUNndXpVbExMRWxWU0N0S1RWVW96a2pNTGNqUEwxWkl5eTlTU003UEFaSWxSYWxBNlJTRmpNVE1JZ0dHMm0wc1gtd0EiLCJxdWVzdGlvbiI6IkFyZSBzdWxmYXRlLWZyZWUgc2hhbXBvb3MgYmV0dGVyIGZvciBjb2xvcmVkIGhhaXI/IiwibGsiOiJHakZoY21VZ2MzVnNabUYwWlNCbWNtVmxJSE5vWVcxd2IyOXpJR0psZEhSbGNpQm1iM0lnWTI5c2IzSmxaQ0JvWVdseSIsImJzIjoiYzQyUU1RN0NNQXhGeGVxSk9aT0ZFQUtoRGdRMmhvb2pNSFVsdEE2SlZPb3FjZTlQRUtXQTJvSEZpNV85OURfVWNDeWNFZlFSeFJGZUtRckdyclpHS0xPQkNLTXo5NVlaTFFjc3VVNnpEU3hVaXVjbTE1bmFKcnBOSHdnbjhlNmJod3NjM2phRE4tWUtHMjZ5M2pkV1VZWE8tSkRydFZvbEVBZlYyTktqNEVHZkFrMUdpQ21kQ0lXSl8zdTFNNThyX09zS3pyQXBuQ19kZEY4cDRxdXVhQ3psZXFrV3YwWDE1VHkzZzJvLWV3QSIsImlkIjoiZmNfM1BpM2FzcUJGTW5wcmZjUHRPRG55QUVfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJsOVVWVWRQYTB0MlIxUkhZMFpsTWxwUE1UVkZRVVV0UW14cWNEbENWRWxSTVdKV1MyUlBZVTl1TlhsUVZtWkRRV1JFYlY4eU1VTlJWbmMzZG5CM1JscGZjR3QyWkhCcWJtbEdjbWRWYm1sWFkwbFRWa1pNTWtaa1FSSVhNMUJwTTJGemNVSkdUVzV3Y21aalVIUlBSRzU1UVVVYUlrRkVjM0k1WmxOMWFVMTRjbmhWYTJoT05XaFdhMGw1WmxGM1NuQlZXRXQzVkVFIiwiZmN2IjoiMyIsImVpIjoiM1BpM2FzcUJGTW5wcmZjUHRPRG55QUUiLCJxYyI6ImMtTXlLTWt2VUNndXpVbExMRWxWU0N0S1RWVW96a2pNTGNqUEwxWkl5eTlTU003UEFaSWxSYWxBNlJTRmpNVE1JZ0dHMm0wc1gtd0EiLCJxdWVzdGlvbiI6IkFyZSBzdWxmYXRlLWZyZWUgc2hhbXBvb3MgYmV0dGVyIGZvciBjb2xvcmVkIGhhaXI%2FIiwibGsiOiJHakZoY21VZ2MzVnNabUYwWlNCbWNtVmxJSE5vWVcxd2IyOXpJR0psZEhSbGNpQm1iM0lnWTI5c2IzSmxaQ0JvWVdseSIsImJzIjoiYzQyUU1RN0NNQXhGeGVxSk9aT0ZFQUtoRGdRMmhvb2pNSFVsdEE2SlZPb3FjZTlQRUtXQTJvSEZpNV85OURfVWNDeWNFZlFSeFJGZUtRckdyclpHS0xPQkNLTXo5NVlaTFFjc3VVNnpEU3hVaXVjbTE1bmFKcnBOSHdnbjhlNmJod3NjM2phRE4tWUtHMjZ5M2pkV1VZWE8tSkRydFZvbEVBZlYyTktqNEVHZkFrMUdpQ21kQ0lXSl8zdTFNNThyX09zS3pyQXBuQ19kZEY4cDRxdXVhQ3psZXFrV3YwWDE1VHkzZzJvLWV3QSIsImlkIjoiZmNfM1BpM2FzcUJGTW5wcmZjUHRPRG55QUVfNSJ9"
+    },
+    {
+      "question": "Which sulfate-free shampoo is color safe?",
+      "type": "ai_overview",
+      "page_token": "Fw4ugHicHdBBbqMwGEBh9TJdNjYoHU2kqBKtDalkZmzyG_CmApOE1Aac4CaEXe_SU_U0U832rT69zy977M333aX13o2rxeJ6vT4chuFgdw966BbVeOv1QlfW1pU2q8dfj_hpr9fkYxM9nzYRB-fki0AZUmMa-2lLXj-2cxnsAAU__a-Qyggrkz8ge5aoDRjsGRFLIBOpbgjvbDvynA6yaHje0SElYmRoMmXgTYbTcxG0xwZ5v4t9KEJxVGBJRl0i5waXob2wQCTCpqDABTmRCYcWZ0BPLKEAOb1lCL-UuOlq46L6_dU0HcI6FpzF7VZZR1O0XIpguqahPWfWFuzHmlEVklbPEJu5LNKJG5XWfXRTXcob8pvUvY2EGI4cxKzfbQcAU2UEYeAQs9GcF9FJJmIWRTRnmMwyoDnw-72-rMP7_z_Xb_vOr9x5OPwDEXyDgA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Fw4ugHicHdBBbqMwGEBh9TJdNjYoHU2kqBKtDalkZmzyG_CmApOE1Aac4CaEXe_SU_U0U832rT69zy977M333aX13o2rxeJ6vT4chuFgdw966BbVeOv1QlfW1pU2q8dfj_hpr9fkYxM9nzYRB-fki0AZUmMa-2lLXj-2cxnsAAU__a-Qyggrkz8ge5aoDRjsGRFLIBOpbgjvbDvynA6yaHje0SElYmRoMmXgTYbTcxG0xwZ5v4t9KEJxVGBJRl0i5waXob2wQCTCpqDABTmRCYcWZ0BPLKEAOb1lCL-UuOlq46L6_dU0HcI6FpzF7VZZR1O0XIpguqahPWfWFuzHmlEVklbPEJu5LNKJG5XWfXRTXcob8pvUvY2EGI4cxKzfbQcAU2UEYeAQs9GcF9FJJmIWRTRnmMwyoDnw-72-rMP7_z_Xb_vOr9x5OPwDEXyDgA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJsOVVWVWRQYTB0MlIxUkhZMFpsTWxwUE1UVkZRVVV0UW14cWNEbENWRWxSTVdKV1MyUlBZVTl1TlhsUVZtWkRRV1JFYlY4eU1VTlJWbmMzZG5CM1JscGZjR3QyWkhCcWJtbEdjbWRWYm1sWFkwbFRWa1pNTWtaa1FSSVhNMUJwTTJGemNVSkdUVzV3Y21aalVIUlBSRzU1UVVVYUlrRkVjM0k1WmxOMWFVMTRjbmhWYTJoT05XaFdhMGw1WmxGM1NuQlZXRXQzVkVFIiwiZmN2IjoiMyIsImVpIjoiM1BpM2FzcUJGTW5wcmZjUHRPRG55QUUiLCJxYyI6ImMtTXlLTWt2VUNndXpVbExMRWxWU0N0S1RWVW96a2pNTGNqUEwxWkl5eTlTU003UEFaSWxSYWxBNlJTRmpNVE1JZ0dHMm0wc1gtd0EiLCJxdWVzdGlvbiI6IldoaWNoIHN1bGZhdGUtZnJlZSBzaGFtcG9vIGlzIGNvbG9yIHNhZmU/IiwibGsiOiJHaUp6ZFd4d2FHRjBaU0JtY21WbElHTnZiRzkxY2lCellXWmxJSE5vWVcxd2IyOXoiLCJicyI6ImM0MlFNUTdDTUF4RnhlcUpPWk9GRUFLaERnUTJob29qTUhVbHRBNkpWT29xY2U5UEVLV0Eyb0hGaTVfOTlEX1VjQ3ljRWZRUnhSRmVLUXJHcnJaR0tMT0JDS016OTVZWkxRY3N1VTZ6RFN4VWl1Y20xNW5hSnJwTkh3Z244ZTZiaHdzYzNqYUROLVlLRzI2eTNqZFdVWVhPLUpEcnRWb2xFQWZWMk5LajRFR2ZBazFHaUNtZENJV0pfM3UxTTU4cl9Pc0t6ckFwbkNfZGRGOHA0cXV1YUN6bGVxa1d2MFgxNVR5M2cyby1ld0EiLCJpZCI6ImZjXzNQaTNhc3FCRk1ucHJmY1B0T0RueUFFXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFJsOVVWVWRQYTB0MlIxUkhZMFpsTWxwUE1UVkZRVVV0UW14cWNEbENWRWxSTVdKV1MyUlBZVTl1TlhsUVZtWkRRV1JFYlY4eU1VTlJWbmMzZG5CM1JscGZjR3QyWkhCcWJtbEdjbWRWYm1sWFkwbFRWa1pNTWtaa1FSSVhNMUJwTTJGemNVSkdUVzV3Y21aalVIUlBSRzU1UVVVYUlrRkVjM0k1WmxOMWFVMTRjbmhWYTJoT05XaFdhMGw1WmxGM1NuQlZXRXQzVkVFIiwiZmN2IjoiMyIsImVpIjoiM1BpM2FzcUJGTW5wcmZjUHRPRG55QUUiLCJxYyI6ImMtTXlLTWt2VUNndXpVbExMRWxWU0N0S1RWVW96a2pNTGNqUEwxWkl5eTlTU003UEFaSWxSYWxBNlJTRmpNVE1JZ0dHMm0wc1gtd0EiLCJxdWVzdGlvbiI6IldoaWNoIHN1bGZhdGUtZnJlZSBzaGFtcG9vIGlzIGNvbG9yIHNhZmU%2FIiwibGsiOiJHaUp6ZFd4d2FHRjBaU0JtY21WbElHTnZiRzkxY2lCellXWmxJSE5vWVcxd2IyOXoiLCJicyI6ImM0MlFNUTdDTUF4RnhlcUpPWk9GRUFLaERnUTJob29qTUhVbHRBNkpWT29xY2U5UEVLV0Eyb0hGaTVfOTlEX1VjQ3ljRWZRUnhSRmVLUXJHcnJaR0tMT0JDS016OTVZWkxRY3N1VTZ6RFN4VWl1Y20xNW5hSnJwTkh3Z244ZTZiaHdzYzNqYUROLVlLRzI2eTNqZFdVWVhPLUpEcnRWb2xFQWZWMk5LajRFR2ZBazFHaUNtZENJV0pfM3UxTTU4cl9Pc0t6ckFwbkNfZGRGOHA0cXV1YUN6bGVxa1d2MFgxNVR5M2cyby1ld0EiLCJpZCI6ImZjXzNQaTNhc3FCRk1ucHJmY1B0T0RueUFFXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "L64YuXiczVXbkqo4FH2cl_mN4cU-injvKupUiKiorSJe-4VCLoEWBAk26tv5l_mq-ZoJIIqO2nPOw9TsKhOz2VnZSfbK-vGnbW3Wf_3-mxkEHn4tFMIwzCPXRbaeV12noODDRi0Yro191fy-29k6G-YgEEQBCv6MaR2Vtr17L40_V9aeFw_Aldqtzfuie9TajRLxDcZwjWfziqe1Z2uhNaCXi7GthpRps_qGQja7wxR2d76qWxqrmr7r6NThky1RKmZpSrfY0sgqKXjLtd42nm-oo2DY3BwAT8WJsfJKwfoHyXv_gQtygTTrP0pNMsjjvL7Jc28eP97hzkKg8wzNlPLDguKQAPAfmsgDAXCkT7pHBgHgvwaLQkQAI6zUELx8SqyZ4EVrotjRe7gkQDHQOMYQARjB0ZtWj2acUuXCJxlzVwMyPU4rjJE57l9sJ2PiaRMpJnwSK9x388k0dBpmb_khGkfC-asxWDZB80Aq_ORBV_Hk6IF4Hgkxchgv0AFwxH0Doig-2TiZ0BNAZU2qQnwcdUplYfbSoAFSSCYFDZHipQsrn3TFgqWaavzHx1FNw0mDdjtTfdWpTT6mql9pdgEvNt7qQPrWP1S7YUFdkTjbVTRdk02Z_h6Pi0yxQjdKtfpLTCYVn9mEs2ySBFgW19PVogvy_TxXTKkEz9dxc8Y8GcN7N8XBU-jdS8nwIDPZgtl7mJ56Ut60AISrekC8MIr6duoYAo5UgmpmU0tjQULL81x4JygpdARRklHUC5fp5xAUXezZMpf7dof13X94xE76TxBO8eEJGdwCmGAsnBdf3iItgQgRHx0SB_vISpzqKSWCJEU-Mc01gRHidQkwuH5M0oWbl8MgMC0xPhMz4g6aTiMC8ck7krxPKEGN3p9rLqAbMqU2J78-fEr5x8Z9SaQolZQzNxTIUqfdoo9OS5pJqsbVxanBdd-bxb3yIRgI3KeK66x-QnnU_xeZUl2annTpMZn4r8lEGvRMl-LmrEtISsjUe0ym7X1dGt7RpVsyQTC-kKnHJboUPtKlnyUTfEImN1kT3CETjFZKLEsm-IhMqS5lyLSc8Ne6lCXTRZcuZPoFXeJ-UZdibulJdy1Suw_0UKxaVmO9UpjjuuI4Sq_mBhO3r-7N1o4U2JdiZTjBq6No9otsaa8c0w0O2otMHO6rrlFbNnC9HN7ZhhLoOcPX9Rw2FcdzXZwzXD-nujZpA18nn7WcqVg-5di-y9JKpV6bC5O205bqeL5dG-OhWB1w42J3EEgBsoOjB_3RcFLu1uXeqL0dQrQZTqvGp-iWK0O-LHONllTtSXvRbLS5bnHGWIeJD5oB3DCzhdGvl2byZtBBHn9cVkal9608b5eR0pCWjLf4lAOlqq_3nhcMJFOoOgcQxnlh1jVlD2sV3RjyFNkk1tki5fgqS665jMBABHNE6hLG9Qqmikv6EIjtKqE5x5BKorCqyDr-ZGs0rdb0WkNRSqsKU9QoBwUHj2UaFN74bPFvluht6g",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=L64YuXiczVXbkqo4FH2cl_mN4cU-injvKupUiKiorSJe-4VCLoEWBAk26tv5l_mq-ZoJIIqO2nPOw9TsKhOz2VnZSfbK-vGnbW3Wf_3-mxkEHn4tFMIwzCPXRbaeV12noODDRi0Yro191fy-29k6G-YgEEQBCv6MaR2Vtr17L40_V9aeFw_Aldqtzfuie9TajRLxDcZwjWfziqe1Z2uhNaCXi7GthpRps_qGQja7wxR2d76qWxqrmr7r6NThky1RKmZpSrfY0sgqKXjLtd42nm-oo2DY3BwAT8WJsfJKwfoHyXv_gQtygTTrP0pNMsjjvL7Jc28eP97hzkKg8wzNlPLDguKQAPAfmsgDAXCkT7pHBgHgvwaLQkQAI6zUELx8SqyZ4EVrotjRe7gkQDHQOMYQARjB0ZtWj2acUuXCJxlzVwMyPU4rjJE57l9sJ2PiaRMpJnwSK9x388k0dBpmb_khGkfC-asxWDZB80Aq_ORBV_Hk6IF4Hgkxchgv0AFwxH0Doig-2TiZ0BNAZU2qQnwcdUplYfbSoAFSSCYFDZHipQsrn3TFgqWaavzHx1FNw0mDdjtTfdWpTT6mql9pdgEvNt7qQPrWP1S7YUFdkTjbVTRdk02Z_h6Pi0yxQjdKtfpLTCYVn9mEs2ySBFgW19PVogvy_TxXTKkEz9dxc8Y8GcN7N8XBU-jdS8nwIDPZgtl7mJ56Ut60AISrekC8MIr6duoYAo5UgmpmU0tjQULL81x4JygpdARRklHUC5fp5xAUXezZMpf7dof13X94xE76TxBO8eEJGdwCmGAsnBdf3iItgQgRHx0SB_vISpzqKSWCJEU-Mc01gRHidQkwuH5M0oWbl8MgMC0xPhMz4g6aTiMC8ck7krxPKEGN3p9rLqAbMqU2J78-fEr5x8Z9SaQolZQzNxTIUqfdoo9OS5pJqsbVxanBdd-bxb3yIRgI3KeK66x-QnnU_xeZUl2annTpMZn4r8lEGvRMl-LmrEtISsjUe0ym7X1dGt7RpVsyQTC-kKnHJboUPtKlnyUTfEImN1kT3CETjFZKLEsm-IhMqS5lyLSc8Ne6lCXTRZcuZPoFXeJ-UZdibulJdy1Suw_0UKxaVmO9UpjjuuI4Sq_mBhO3r-7N1o4U2JdiZTjBq6No9otsaa8c0w0O2otMHO6rrlFbNnC9HN7ZhhLoOcPX9Rw2FcdzXZwzXD-nujZpA18nn7WcqVg-5di-y9JKpV6bC5O205bqeL5dG-OhWB1w42J3EEgBsoOjB_3RcFLu1uXeqL0dQrQZTqvGp-iWK0O-LHONllTtSXvRbLS5bnHGWIeJD5oB3DCzhdGvl2byZtBBHn9cVkal9608b5eR0pCWjLf4lAOlqq_3nhcMJFOoOgcQxnlh1jVlD2sV3RjyFNkk1tki5fgqS665jMBABHNE6hLG9Qqmikv6EIjtKqE5x5BKorCqyDr-ZGs0rdb0WkNRSqsKU9QoBwUHj2UaFN74bPFvluht6g"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "5 Best Sulfate-Free Shampoos for Soft, Healthy Hair",
+      "link": "https://www.naplessoap.com/blogs/blog/best-sulfate-free-shampoo?srsltid=AU7gw4UGwLl1zRXtx9qbh941kO6t59cuUzGRRWwKj4EVcCJxg0iIhGfv",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvAEB6zswFUrP24ngqPrE57h_WDwxeKikQwf6lyAfeQ87d--saDiW7E3QkQBReFlz5CN_831P8F8JKRe4sVbv5GWijyeHyA_BtYoU6qzUqn7CnZliI2J4VzQW-cdXrFoVWANGns677dKDxC5YNKJkFBKXXWgA3CmAQMmMRcZV6p-6UPR4TPIEtvc1i6_3A8pUjGwqXRdPpo9sII8G_JQTf0-U9lUH6YDk-GnAlvJEKHYs7MUp-rlCIbyokMCiPQ&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://www.naplessoap.com › blogs › blog › best-sulfate...",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/apnYEREcs1tENXwFih1kOZAnNejIKTlzGte4fTKvD1E.jpeg",
+      "date": "Apr 13, 2026",
+      "snippet": "Pureology built this shampoo for color-treated, weak hair. The brand focuses on sulfate-free formulas that protect dye jobs. It uses a ...",
+      "snippet_highlighted_words": [
+        "Pureology built this shampoo for color-treated, weak hair"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Pureology built this shampoo for color-treated, weak hair. The brand focuses on sulfate-free formulas that protect dye jobs. It uses a ...",
+          "source_info_link": "https://www.naplessoap.com/blogs/blog/best-sulfate-free-shampoo?srsltid=AU7gw4UGwLl1zRXtx9qbh941kO6t59cuUzGRRWwKj4EVcCJxg0iIhGfv"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowCL2dvdG8_dXJsPUNBRVN2QUVCNnpzd0ZVclAyNG5ncVByRTU3aF9XRHd4ZUtpa1F3ZjZseUFmZVE4N2QtLXNhRGlXN0UzUWtRQlJlRmx6NUNOXzgzMVA4RjhKS1JlNHNWYnY1R1dpanllSHlBX0J0WW9VNnF6VXFuN0NuWmxpSTJKNFZ6UVctY2RYckZvVldBTkduczY3N2RLRHhDNVlOS0prRkJLWFhXZ0EzQ21BUU1tTVJjWlY2cC02VVBSNFRQSUV0dmMxaTZfM0E4cFVqR3dxWFJkUHBvOXNJSThHX0pRVGYwLVU5bFVINllEay1HbkFsdkpFS0hZczdNVXAtcmxDSWJ5b2tNQ2lQURIEGgIIABrSBhIAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQKwGCAAQABgAIAAqFgoDdG9wFUpsMT8aBGJlc3QaBHRvcHMqPQoHc3VsZmF0ZRUEEaNAGghzdWxmYXRlcxoIc3VscGhhdGUaC3N1bGZhdGVmcmVlGgxpdjtwO3N1bGZhdGUqGAoEZnJlZRWZecdAGgtzdWxmYXRlZnJlZSo0CghzaGFtcG9vcxW5boVAGgtjb25kaXRpb25lchoHc2hhbXBvbxoNaXY7cDtzaGFtcG9vcyoKCgNmb3IVAAAAACo_CgVjb2xvchVXqvw-Ggdjb2xvcmVkGgZjb2xvdXIaCGNvbG91cmVkGgRkeWVkGhBjb2xvcnRyZWF0ZWRoYWlyKk0KB3RyZWF0ZWQVMyCzPhoHY29sb3JlZBoIY29sb3VyZWQaBGR5ZWQaBXRyZWF0GhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcio8CgRoYWlyFSQ9wkAaBWhhaXJzGgloYWlyc3R5bGUaEGNvbG9ydHJlYXRlZGhhaXIaC3RyZWF0ZWRoYWlyMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjVWR0xteFZEc0R5b2NXRDdEekRHSUZSODZLY241MHNScmhWaGJVQTFsZk1wRzZoYWpSRnZ3NDVKRHYzbE9QVURadzAwRXJDWEtuVWNhVEl4RHh4dGNxd2NJRkxZRF9OZHBwZG1OSFhQZWIyVVVsRElkaW82ZVZpQjJkNWFoZ2k0QloxLUhQTG14a0hJYlY2VmtRNXFmWXozMlRURzpINSA8Yj5CZXN0IFN1bGZhdGU8L2I-LTxiPkZyZWUgU2hhbXBvb3M8L2I-IGZvciBTb2Z0LCBIZWFsdGh5IDxiPkhhaXI8L2I-QpYBPGI-UHVyZW9sb2d5IGJ1aWx0IHRoaXMgc2hhbXBvbyBmb3IgY29sb3ItdHJlYXRlZCwgd2VhayBoYWlyPC9iPi4gVGhlIGJyYW5kIGZvY3VzZXMgb24gc3VsZmF0ZS1mcmVlIGZvcm11bGFzIHRoYXQgcHJvdGVjdCBkeWUgam9icy4gSXQgdXNlcyBhJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowCL2dvdG8_dXJsPUNBRVN2QUVCNnpzd0ZVclAyNG5ncVByRTU3aF9XRHd4ZUtpa1F3ZjZseUFmZVE4N2QtLXNhRGlXN0UzUWtRQlJlRmx6NUNOXzgzMVA4RjhKS1JlNHNWYnY1R1dpanllSHlBX0J0WW9VNnF6VXFuN0NuWmxpSTJKNFZ6UVctY2RYckZvVldBTkduczY3N2RLRHhDNVlOS0prRkJLWFhXZ0EzQ21BUU1tTVJjWlY2cC02VVBSNFRQSUV0dmMxaTZfM0E4cFVqR3dxWFJkUHBvOXNJSThHX0pRVGYwLVU5bFVINllEay1HbkFsdkpFS0hZczdNVXAtcmxDSWJ5b2tNQ2lQURIEGgIIABrSBhIAGgIIASIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQKwGCAAQABgAIAAqFgoDdG9wFUpsMT8aBGJlc3QaBHRvcHMqPQoHc3VsZmF0ZRUEEaNAGghzdWxmYXRlcxoIc3VscGhhdGUaC3N1bGZhdGVmcmVlGgxpdjtwO3N1bGZhdGUqGAoEZnJlZRWZecdAGgtzdWxmYXRlZnJlZSo0CghzaGFtcG9vcxW5boVAGgtjb25kaXRpb25lchoHc2hhbXBvbxoNaXY7cDtzaGFtcG9vcyoKCgNmb3IVAAAAACo_CgVjb2xvchVXqvw-Ggdjb2xvcmVkGgZjb2xvdXIaCGNvbG91cmVkGgRkeWVkGhBjb2xvcnRyZWF0ZWRoYWlyKk0KB3RyZWF0ZWQVMyCzPhoHY29sb3JlZBoIY29sb3VyZWQaBGR5ZWQaBXRyZWF0GhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcio8CgRoYWlyFSQ9wkAaBWhhaXJzGgloYWlyc3R5bGUaEGNvbG9ydHJlYXRlZGhhaXIaC3RyZWF0ZWRoYWlyMrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjVWR0xteFZEc0R5b2NXRDdEekRHSUZSODZLY241MHNScmhWaGJVQTFsZk1wRzZoYWpSRnZ3NDVKRHYzbE9QVURadzAwRXJDWEtuVWNhVEl4RHh4dGNxd2NJRkxZRF9OZHBwZG1OSFhQZWIyVVVsRElkaW82ZVZpQjJkNWFoZ2k0QloxLUhQTG14a0hJYlY2VmtRNXFmWXozMlRURzpINSA8Yj5CZXN0IFN1bGZhdGU8L2I-LTxiPkZyZWUgU2hhbXBvb3M8L2I-IGZvciBTb2Z0LCBIZWFsdGh5IDxiPkhhaXI8L2I-QpYBPGI-UHVyZW9sb2d5IGJ1aWx0IHRoaXMgc2hhbXBvbyBmb3IgY29sb3ItdHJlYXRlZCwgd2VhayBoYWlyPC9iPi4gVGhlIGJyYW5kIGZvY3VzZXMgb24gc3VsZmF0ZS1mcmVlIGZvcm11bGFzIHRoYXQgcHJvdGVjdCBkeWUgam9icy4gSXQgdXNlcyBhJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Naples Soap Company",
+      "read_more_link": "https://www.naplessoap.com/blogs/blog/best-sulfate-free-shampoo?srsltid=AU7gw4UGwLl1zRXtx9qbh941kO6t59cuUzGRRWwKj4EVcCJxg0iIhGfv#:~:text=Share"
+    },
+    {
+      "position": 2,
+      "title": "5 Best Sulfate-Free Shampoos - Sept. 2026",
+      "link": "https://bestreviews.com/beauty-and-personal-care/shampoos-conditioners/best-sulfate-free-shampoos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnAEB6zswFduZV_WifVKvVgvFp25oO4qng5CFTo_DymOttZSz4t0euxHc8ZGtQB37vXzTy2j3q7_bcjn5XAG9KMME0quxyyeF7whkQ1tiwNte755MYbXqdRrSNye4V8odhIUlTDV-F0ZLkOzE4mu3xHUXgidz3aEXdQNE8U5Ewm604EfHH--_OzfAPmCpg4bu7K-aetUR3KhE6_NDiPQ&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQFnoECCcQAQ&uoh=1",
+      "displayed_link": "https://bestreviews.com › shampoos-conditioners › best-...",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/apnYEREcs1tENXwFih1kOSmVv6MBWTcbBG8KeKbw8x0.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAACwBACdASocABwAPtEwtFooIigoGAEAGglkAMb0Id_mCngCw7P0yU_AgjtmVeMAAP72AltpNWEmEtjIAexVbAiDmXkXf1Gj_yTj0-hU8TvCGZNk411uOoWFXB6DS1cjon-dlddVPlVm8v3R__c1-cAbHnA84fKl09vwaxDnQqJAmfi3eBFAAA.webp",
+      "snippet": "Its gentle formula nurtures hair that's been damaged from dyes, relaxers, or perms. It's safe for color-treated hair, too. While Carol's Daughter is marketed to ...",
+      "snippet_highlighted_words": [
+        "Carol's Daughter"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Its gentle formula nurtures hair that's been damaged from dyes, relaxers, or perms. It's safe for color-treated hair, too. While Carol's Daughter is marketed to ...",
+          "source_info_link": "https://bestreviews.com/beauty-and-personal-care/shampoos-conditioners/best-sulfate-free-shampoos",
+          "icon": "https://serpapi.com/images/i/UklGRpIAAABXRUJQVlA4IIYAAACwBACdASocABwAPtEwtFooIigoGAEAGglkAMb0Id_mCngCw7P0yU_AgjtmVeMAAP72AltpNWEmEtjIAexVbAiDmXkXf1Gj_yTj0-hU8TvCGZNk411uOoWFXB6DS1cjon-dlddVPlVm8v3R__c1-cAbHnA84fKl09vwaxDnQqJAmfi3eBFAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZkdVpWX1dpZlZLdlZndkZwMjVvTzRxbmc1Q0ZUb19EeW1PdHRaU3o0dDBldXhIYzhaR3RRQjM3dlh6VHkyajNxN19iY2puNVhBRzlLTU1FMHF1eHl5ZUY3d2hrUTF0aXdOdGU3NTVNWWJYcWRSclNOeWU0VjhvZGhJVWxURFYtRjBaTGtPekU0bXUzeEhVWGdpZHozYUVYZFFORThVNUV3bTYwNEVmSEgtLV9PemZBUG1DcGc0YnU3Sy1hZXRVUjNLaEU2X05EaVBREgQaAggAGqYHEgIIABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD-BggAEAAYACAAKhYKA3RvcBV1W0A_GgRiZXN0GgR0b3BzKj0KB3N1bGZhdGUVGnXVQBoIc3VsZmF0ZXMaCHN1bHBoYXRlGgtzdWxmYXRlZnJlZRoMaXY7cDtzdWxmYXRlKhgKBGZyZWUVI_vSQBoLc3VsZmF0ZWZyZWUqNAoIc2hhbXBvb3MVksuzQBoLY29uZGl0aW9uZXIaB3NoYW1wb28aDWl2O3A7c2hhbXBvb3MqCgoDZm9yFQAAAAAqPwoFY29sb3IVDhLWPxoHY29sb3JlZBoGY29sb3VyGghjb2xvdXJlZBoEZHllZBoQY29sb3J0cmVhdGVkaGFpcipNCgd0cmVhdGVkFUhMoj8aB2NvbG9yZWQaCGNvbG91cmVkGgRkeWVkGgV0cmVhdBoQY29sb3J0cmVhdGVkaGFpchoLdHJlYXRlZGhhaXIqPAoEaGFpchWVpI9AGgVoYWlycxoJaGFpcnN0eWxlGhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcjLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGZHVaVl9XaWZWS3ZWZ3ZGcDI1b080cW5nNUNGVG9fRHltT3R0WlN6NHQwZXV4SGM4Wkd0UUIzN3ZYelR5MmozcTdfYmNqbjVYQUc5S01NRTBxdXh5eWVGN3doa1ExdGl3TnRlNzU1TVliWHFkUnJTTnllNFY4b2RoSVVsVERWLUYwWkxrT3pFNG11M3hIVVhnaWR6M2FFWGRRTkU4VTVFd202MDRFZkhILS1fT3pmQVBtQ3BnNGJ1N0stYWV0VVIzS2hFNl9ORGlQUTpFNSA8Yj5CZXN0IFN1bGZhdGU8L2I-LTxiPkZyZWUgU2hhbXBvb3M8L2I-IC0gU2VwdC4gMjAyNiAtIEJlc3RSZXZpZXdzQrwBSXRzIGdlbnRsZSBmb3JtdWxhIG51cnR1cmVzIGhhaXIgdGhhdCYjMzk7cyBiZWVuIGRhbWFnZWQgZnJvbSBkeWVzLCByZWxheGVycywgb3IgcGVybXMuIEl0JiMzOTtzIHNhZmUgZm9yIGNvbG9yLXRyZWF0ZWQgaGFpciwgdG9vLiBXaGlsZSA8Yj5DYXJvbCYjMzk7cyBEYXVnaHRlcjwvYj4gaXMgbWFya2V0ZWQgdG8mbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuEBL2dvdG8_dXJsPUNBRVNuQUVCNnpzd0ZkdVpWX1dpZlZLdlZndkZwMjVvTzRxbmc1Q0ZUb19EeW1PdHRaU3o0dDBldXhIYzhaR3RRQjM3dlh6VHkyajNxN19iY2puNVhBRzlLTU1FMHF1eHl5ZUY3d2hrUTF0aXdOdGU3NTVNWWJYcWRSclNOeWU0VjhvZGhJVWxURFYtRjBaTGtPekU0bXUzeEhVWGdpZHozYUVYZFFORThVNUV3bTYwNEVmSEgtLV9PemZBUG1DcGc0YnU3Sy1hZXRVUjNLaEU2X05EaVBREgQaAggAGqYHEgIIABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD-BggAEAAYACAAKhYKA3RvcBV1W0A_GgRiZXN0GgR0b3BzKj0KB3N1bGZhdGUVGnXVQBoIc3VsZmF0ZXMaCHN1bHBoYXRlGgtzdWxmYXRlZnJlZRoMaXY7cDtzdWxmYXRlKhgKBGZyZWUVI_vSQBoLc3VsZmF0ZWZyZWUqNAoIc2hhbXBvb3MVksuzQBoLY29uZGl0aW9uZXIaB3NoYW1wb28aDWl2O3A7c2hhbXBvb3MqCgoDZm9yFQAAAAAqPwoFY29sb3IVDhLWPxoHY29sb3JlZBoGY29sb3VyGghjb2xvdXJlZBoEZHllZBoQY29sb3J0cmVhdGVkaGFpcipNCgd0cmVhdGVkFUhMoj8aB2NvbG9yZWQaCGNvbG91cmVkGgRkeWVkGgV0cmVhdBoQY29sb3J0cmVhdGVkaGFpchoLdHJlYXRlZGhhaXIqPAoEaGFpchWVpI9AGgVoYWlycxoJaGFpcnN0eWxlGhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcjLhAS9nb3RvP3VybD1DQUVTbkFFQjZ6c3dGZHVaVl9XaWZWS3ZWZ3ZGcDI1b080cW5nNUNGVG9fRHltT3R0WlN6NHQwZXV4SGM4Wkd0UUIzN3ZYelR5MmozcTdfYmNqbjVYQUc5S01NRTBxdXh5eWVGN3doa1ExdGl3TnRlNzU1TVliWHFkUnJTTnllNFY4b2RoSVVsVERWLUYwWkxrT3pFNG11M3hIVVhnaWR6M2FFWGRRTkU4VTVFd202MDRFZkhILS1fT3pmQVBtQ3BnNGJ1N0stYWV0VVIzS2hFNl9ORGlQUTpFNSA8Yj5CZXN0IFN1bGZhdGU8L2I-LTxiPkZyZWUgU2hhbXBvb3M8L2I-IC0gU2VwdC4gMjAyNiAtIEJlc3RSZXZpZXdzQrwBSXRzIGdlbnRsZSBmb3JtdWxhIG51cnR1cmVzIGhhaXIgdGhhdCYjMzk7cyBiZWVuIGRhbWFnZWQgZnJvbSBkeWVzLCByZWxheGVycywgb3IgcGVybXMuIEl0JiMzOTtzIHNhZmUgZm9yIGNvbG9yLXRyZWF0ZWQgaGFpciwgdG9vLiBXaGlsZSA8Yj5DYXJvbCYjMzk7cyBEYXVnaHRlcjwvYj4gaXMgbWFya2V0ZWQgdG8mbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "BestReviews",
+      "read_more_link": "https://bestreviews.com/beauty-and-personal-care/shampoos-conditioners/best-sulfate-free-shampoos#:~:text=Its%20gentle%20formula%20nurtures%20hair,all%20kinds%20of%20hair%20textures."
+    },
+    {
+      "position": 3,
+      "title": "People with dyed hair, do you find that products specifically ...",
+      "link": "https://www.reddit.com/r/Haircare/comments/1uwo2xa/people_with_dyed_hair_do_you_find_that_products/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESngEB6zswFb3YuQjIyp_p-rDlb_H5LiQQprUb_1s0bhEuaxaQQVXM_vj2TTIY0WO35_HmpN8EyG7Otvc2DVjaRd0p8H9v4d7y24pG6qvG6U2WJjolSOLy5HMrVJKALoKyYGQP8J9GjTVSta0VgGln4FaC43Ehl7CcZWxz_h4IX6vI6X4cN-gu2_0onZCexRZc_7DNBZVVGVaJ1ZKl1I4sAA&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQFnoECCwQAQ&uoh=1",
+      "displayed_link": "10+ comments · 2 months ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "I mean mostly in terms of shampoo & conditioner. Whether you get it dyed in a salon or DIY, and what brands and products do you use? I've used shampoos ...",
+      "about_this_result": {
+        "source": {
+          "description": "I use Loreal ever pure the whole line is sulfate free and it works really well for my copper hair. With shampoo and conditioner. However I think ...",
+          "source_info_link": "https://www.reddit.com/r/Haircare/comments/1uwo2xa/people_with_dyed_hair_do_you_find_that_products/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZiM1l1UWpJeXBfcC1yRGxiX0g1TGlRUXByVWJfMXMwYmhFdWF4YVFRVlhNX3ZqMlRUSVkwV08zNV9IbXBOOEV5RzdPdHZjMkRWamFSZDBwOEg5djRkN3kyNHBHNnF2RzZVMldKam9sU09MeTVITXJWSktBTG9LeVlHUVA4SjlHalRWU3RhMFZnR2xuNEZhQzQzRWhsN0NjWld4el9oNElYNnZJNlg0Y04tZ3UyXzBvblpDZXhSWmNfN0ROQlpWVkdWYUoxWktsMUk0c0FBEgQaAggAGpAHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOwGCAAQABgAIAAqFgoDdG9wFQAAAAAaBGJlc3QaBHRvcHMqPQoHc3VsZmF0ZRUehhBAGghzdWxmYXRlcxoIc3VscGhhdGUaC3N1bGZhdGVmcmVlGgxpdjtwO3N1bGZhdGUqGAoEZnJlZRV_MgJAGgtzdWxmYXRlZnJlZSo0CghzaGFtcG9vcxWS3whAGgtjb25kaXRpb25lchoHc2hhbXBvbxoNaXY7cDtzaGFtcG9vcyoKCgNmb3IVAAAAACo_CgVjb2xvchUYXHhAGgdjb2xvcmVkGgZjb2xvdXIaCGNvbG91cmVkGgRkeWVkGhBjb2xvcnRyZWF0ZWRoYWlyKk0KB3RyZWF0ZWQVW8HkPxoHY29sb3JlZBoIY29sb3VyZWQaBGR5ZWQaBXRyZWF0GhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcio8CgRoYWlyFWpd8EAaBWhhaXJzGgloYWlyc3R5bGUaEGNvbG9ydHJlYXRlZGhhaXIaC3RyZWF0ZWRoYWlyMuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZiM1l1UWpJeXBfcC1yRGxiX0g1TGlRUXByVWJfMXMwYmhFdWF4YVFRVlhNX3ZqMlRUSVkwV08zNV9IbXBOOEV5RzdPdHZjMkRWamFSZDBwOEg5djRkN3kyNHBHNnF2RzZVMldKam9sU09MeTVITXJWSktBTG9LeVlHUVA4SjlHalRWU3RhMFZnR2xuNEZhQzQzRWhsN0NjWld4el9oNElYNnZJNlg0Y04tZ3UyXzBvblpDZXhSWmNfN0ROQlpWVkdWYUoxWktsMUk0c0FBOkxQZW9wbGUgd2l0aCA8Yj5keWVkIGhhaXI8L2I-LCBkbyB5b3UgZmluZCB0aGF0IHByb2R1Y3RzIHNwZWNpZmljYWxseSBmb3IgLi4uQqABSSB1c2UgPGI-TG9yZWFsIGV2ZXIgcHVyZSB0aGUgd2hvbGUgbGluZSBpcyBzdWxmYXRlIGZyZWU8L2I-IGFuZCBpdCB3b3JrcyByZWFsbHkgd2VsbCBmb3IgbXkgY29wcGVyIGhhaXIuIFdpdGggc2hhbXBvbyBhbmQgY29uZGl0aW9uZXIuIEhvd2V2ZXIgSSB0aGluayZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZiM1l1UWpJeXBfcC1yRGxiX0g1TGlRUXByVWJfMXMwYmhFdWF4YVFRVlhNX3ZqMlRUSVkwV08zNV9IbXBOOEV5RzdPdHZjMkRWamFSZDBwOEg5djRkN3kyNHBHNnF2RzZVMldKam9sU09MeTVITXJWSktBTG9LeVlHUVA4SjlHalRWU3RhMFZnR2xuNEZhQzQzRWhsN0NjWld4el9oNElYNnZJNlg0Y04tZ3UyXzBvblpDZXhSWmNfN0ROQlpWVkdWYUoxWktsMUk0c0FBEgQaAggAGpAHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOwGCAAQABgAIAAqFgoDdG9wFQAAAAAaBGJlc3QaBHRvcHMqPQoHc3VsZmF0ZRUehhBAGghzdWxmYXRlcxoIc3VscGhhdGUaC3N1bGZhdGVmcmVlGgxpdjtwO3N1bGZhdGUqGAoEZnJlZRV_MgJAGgtzdWxmYXRlZnJlZSo0CghzaGFtcG9vcxWS3whAGgtjb25kaXRpb25lchoHc2hhbXBvbxoNaXY7cDtzaGFtcG9vcyoKCgNmb3IVAAAAACo_CgVjb2xvchUYXHhAGgdjb2xvcmVkGgZjb2xvdXIaCGNvbG91cmVkGgRkeWVkGhBjb2xvcnRyZWF0ZWRoYWlyKk0KB3RyZWF0ZWQVW8HkPxoHY29sb3JlZBoIY29sb3VyZWQaBGR5ZWQaBXRyZWF0GhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcio8CgRoYWlyFWpd8EAaBWhhaXJzGgloYWlyc3R5bGUaEGNvbG9ydHJlYXRlZGhhaXIaC3RyZWF0ZWRoYWlyMuQBL2dvdG8_dXJsPUNBRVNuZ0VCNnpzd0ZiM1l1UWpJeXBfcC1yRGxiX0g1TGlRUXByVWJfMXMwYmhFdWF4YVFRVlhNX3ZqMlRUSVkwV08zNV9IbXBOOEV5RzdPdHZjMkRWamFSZDBwOEg5djRkN3kyNHBHNnF2RzZVMldKam9sU09MeTVITXJWSktBTG9LeVlHUVA4SjlHalRWU3RhMFZnR2xuNEZhQzQzRWhsN0NjWld4el9oNElYNnZJNlg0Y04tZ3UyXzBvblpDZXhSWmNfN0ROQlpWVkdWYUoxWktsMUk0c0FBOkxQZW9wbGUgd2l0aCA8Yj5keWVkIGhhaXI8L2I-LCBkbyB5b3UgZmluZCB0aGF0IHByb2R1Y3RzIHNwZWNpZmljYWxseSBmb3IgLi4uQqABSSB1c2UgPGI-TG9yZWFsIGV2ZXIgcHVyZSB0aGUgd2hvbGUgbGluZSBpcyBzdWxmYXRlIGZyZWU8L2I-IGFuZCBpdCB3b3JrcyByZWFsbHkgd2VsbCBmb3IgbXkgY29wcGVyIGhhaXIuIFdpdGggc2hhbXBvbyBhbmQgY29uZGl0aW9uZXIuIEhvd2V2ZXIgSSB0aGluayZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Reddit · r/Haircare"
+    },
+    {
+      "position": 4,
+      "title": "Best Shampoos for Colour-Treated Hair: 2026 Top Picks",
+      "link": "https://www.joybuy.fr/blog/best-shampoos-colour-treated-hair/mRUxMgPM",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFV4IjQz6b_sJB7gJvths_xxrviPniPB4G_xqXe8vzaROHGtvMrYZ-3kjpzAlQCw2DnzvVC3Vs_p0SV8fiWEDqiY-IVckkpg89g9Fs2roKzqPEu6WiGPSgBJlmoMoNdfbHTzUKAwc8VCMP9RjahJrBmammt2vn29uRjwxEQ&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQFnoECFEQAQ&uoh=1",
+      "displayed_link": "https://www.joybuy.fr › blog › mRUxMgPM",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/apnYEREcs1tENXwFih1kOfpeKSPxOV8r7TqLX4y6YDM.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAAAwBgCdASogACAAPtEutFooIagoGAEAGglsAKwzND43qqeAN5OIhtHbP6IdmnU41h8xEBB2xSgaGiHgAPw_YnU3aKk-J8HxdStE0-_8URLkpv_u2aljyVvf3YL97Bf7MNL9V9d9P8dz8LZxg-obkkvZPncAbqi3-ixf9SwLL8e9CupMfX-DRRzojglz6sP4wmKN2L8uw8T6V_49Zd-AfjHUbP4hjOo-iErRVozBYGdbjbP8nBjVo9JolWBr0g3D6gmm6XbslQSLYprYWtIltDcoKE3JzzOha3pvsbskXKRwGeLx3w9Z5si19iky-wu9vEn9Qb2dlfm4mDID_XDOuKoFKLzHWvr8Vl3r2O7LkA41SqatAAA.webp",
+      "snippet": "Looking for the best shampoo for colour-treated hair? Our 2026 guide reviews top picks, including sulfate-free options to keep your colour vibrant.",
+      "snippet_highlighted_words": [
+        "best shampoo for colour-treated hair"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Looking for the best shampoo for colour-treated hair? Our 2026 guide reviews top picks, including sulfate-free options to keep your colour vibrant.",
+          "source_info_link": "https://www.joybuy.fr/blog/best-shampoos-colour-treated-hair/mRUxMgPM",
+          "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAAAwBgCdASogACAAPtEutFooIagoGAEAGglsAKwzND43qqeAN5OIhtHbP6IdmnU41h8xEBB2xSgaGiHgAPw_YnU3aKk-J8HxdStE0-_8URLkpv_u2aljyVvf3YL97Bf7MNL9V9d9P8dz8LZxg-obkkvZPncAbqi3-ixf9SwLL8e9CupMfX-DRRzojglz6sP4wmKN2L8uw8T6V_49Zd-AfjHUbP4hjOo-iErRVozBYGdbjbP8nBjVo9JolWBr0g3D6gmm6XbslQSLYprYWtIltDcoKE3JzzOha3pvsbskXKRwGeLx3w9Z5si19iky-wu9vEn9Qb2dlfm4mDID_XDOuKoFKLzHWvr8Vl3r2O7LkA41SqatAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZWNElqUXo2Yl9zSkI3Z0p2dGhzX3h4cnZpUG5pUEI0R194cVhlOHZ6YVJPSEd0dk1yWVotM2tqcHpBbFFDdzJEbnp2VkMzVnNfcDBTVjhmaVdFRHFpWS1JVmNra3BnODlnOUZzMnJvS3pxUEV1NldpR1BTZ0JKbG1vTW9OZGZiSFR6VUtBd2M4VkNNUDlSamFoSnJCbWFtbXQydm4yOXVSand4RVESBBoCCAAa4gYSABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC8BggAEAAYACAAKhYKA3RvcBU_mWVAGgRiZXN0GgR0b3BzKj0KB3N1bGZhdGUV8swLQBoIc3VsZmF0ZXMaCHN1bHBoYXRlGgtzdWxmYXRlZnJlZRoMaXY7cDtzdWxmYXRlKhgKBGZyZWUVA0EdQBoLc3VsZmF0ZWZyZWUqNAoIc2hhbXBvb3MVtJnIQBoLY29uZGl0aW9uZXIaB3NoYW1wb28aDWl2O3A7c2hhbXBvb3MqCgoDZm9yFQAAAAAqPwoFY29sb3IV91nIQBoHY29sb3JlZBoGY29sb3VyGghjb2xvdXJlZBoEZHllZBoQY29sb3J0cmVhdGVkaGFpcipNCgd0cmVhdGVkFd1B4EAaB2NvbG9yZWQaCGNvbG91cmVkGgRkeWVkGgV0cmVhdBoQY29sb3J0cmVhdGVkaGFpchoLdHJlYXRlZGhhaXIqPAoEaGFpchXIyAVBGgVoYWlycxoJaGFpcnN0eWxlGhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcjK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGVjRJalF6NmJfc0pCN2dKdnRoc194eHJ2aVBuaVBCNEdfeHFYZTh2emFST0hHdHZNcllaLTNranB6QWxRQ3cyRG56dlZDM1ZzX3AwU1Y4ZmlXRURxaVktSVZja2twZzg5ZzlGczJyb0t6cVBFdTZXaUdQU2dCSmxtb01vTmRmYkhUelVLQXdjOFZDTVA5UmphaEpyQm1hbW10MnZuMjl1Ump3eEVROko8Yj5CZXN0IFNoYW1wb29zIGZvciBDb2xvdXI8L2I-LTxiPlRyZWF0ZWQgSGFpcjwvYj46IDIwMjYgPGI-VG9wPC9iPiBQaWNrc0KaAUxvb2tpbmcgZm9yIHRoZSA8Yj5iZXN0IHNoYW1wb28gZm9yIGNvbG91ci10cmVhdGVkIGhhaXI8L2I-PyBPdXIgMjAyNiBndWlkZSByZXZpZXdzIHRvcCBwaWNrcywgaW5jbHVkaW5nIHN1bGZhdGUtZnJlZSBvcHRpb25zIHRvIGtlZXAgeW91ciBjb2xvdXIgdmlicmFudC5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0ZWNElqUXo2Yl9zSkI3Z0p2dGhzX3h4cnZpUG5pUEI0R194cVhlOHZ6YVJPSEd0dk1yWVotM2tqcHpBbFFDdzJEbnp2VkMzVnNfcDBTVjhmaVdFRHFpWS1JVmNra3BnODlnOUZzMnJvS3pxUEV1NldpR1BTZ0JKbG1vTW9OZGZiSFR6VUtBd2M4VkNNUDlSamFoSnJCbWFtbXQydm4yOXVSand4RVESBBoCCAAa4gYSABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC8BggAEAAYACAAKhYKA3RvcBU_mWVAGgRiZXN0GgR0b3BzKj0KB3N1bGZhdGUV8swLQBoIc3VsZmF0ZXMaCHN1bHBoYXRlGgtzdWxmYXRlZnJlZRoMaXY7cDtzdWxmYXRlKhgKBGZyZWUVA0EdQBoLc3VsZmF0ZWZyZWUqNAoIc2hhbXBvb3MVtJnIQBoLY29uZGl0aW9uZXIaB3NoYW1wb28aDWl2O3A7c2hhbXBvb3MqCgoDZm9yFQAAAAAqPwoFY29sb3IV91nIQBoHY29sb3JlZBoGY29sb3VyGghjb2xvdXJlZBoEZHllZBoQY29sb3J0cmVhdGVkaGFpcipNCgd0cmVhdGVkFd1B4EAaB2NvbG9yZWQaCGNvbG91cmVkGgRkeWVkGgV0cmVhdBoQY29sb3J0cmVhdGVkaGFpchoLdHJlYXRlZGhhaXIqPAoEaGFpchXIyAVBGgVoYWlycxoJaGFpcnN0eWxlGhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcjK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGVjRJalF6NmJfc0pCN2dKdnRoc194eHJ2aVBuaVBCNEdfeHFYZTh2emFST0hHdHZNcllaLTNranB6QWxRQ3cyRG56dlZDM1ZzX3AwU1Y4ZmlXRURxaVktSVZja2twZzg5ZzlGczJyb0t6cVBFdTZXaUdQU2dCSmxtb01vTmRmYkhUelVLQXdjOFZDTVA5UmphaEpyQm1hbW10MnZuMjl1Ump3eEVROko8Yj5CZXN0IFNoYW1wb29zIGZvciBDb2xvdXI8L2I-LTxiPlRyZWF0ZWQgSGFpcjwvYj46IDIwMjYgPGI-VG9wPC9iPiBQaWNrc0KaAUxvb2tpbmcgZm9yIHRoZSA8Yj5iZXN0IHNoYW1wb28gZm9yIGNvbG91ci10cmVhdGVkIGhhaXI8L2I-PyBPdXIgMjAyNiBndWlkZSByZXZpZXdzIHRvcCBwaWNrcywgaW5jbHVkaW5nIHN1bGZhdGUtZnJlZSBvcHRpb25zIHRvIGtlZXAgeW91ciBjb2xvdXIgdmlicmFudC5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "Joybuy"
+    },
+    {
+      "position": 5,
+      "title": "Top 5 Sulfate Free Shampoos For Healthier, Shinier Hair",
+      "link": "https://www.laladaisy.com/top-5-sulfate-free-shampoos-for-healthier-hair/?srsltid=AU7gw4VPLRMr6voodsnSTfUh-ozksb8rBuO8YYPkz0rFV3pSL1BlYz-G",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxgEB6zswFTdoVMHf4c94ArfLCzy3WaYTkBBpx_5NXocPZx3bCUoM-qJ9LS9N9Sou_4Ln2TQVpatGHhW04_trImZYPQxR4RNivPnNZdCgr2Xz01e2kftb_o8Mrm4mmCKcFp7L1l6RmbZKdGUGdqQ14yZJZzESMvCOo7UEamcTdBRPsC20p14bCEEDEjz5BUEWE5ENF6Hl2lYlkZuW76n5YldShD-Ohzbsf7EhSU0fe7-ocg3nyF1lYgtcrTtboWpsGFWNQFk2xgQ&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQFnoECFIQAQ&uoh=1",
+      "displayed_link": "https://www.laladaisy.com › Blog › Beauty Blog",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/apnYEREcs1tENXwFih1kOTXlME1QBs8Th4p96kqt1-c.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRrYAAABXRUJQVlA4IKoAAABwBQCdASocABwAPtE-tFooIigoFAEAGglsAJ0voAShQlkV6qCwbw53YPDfIrP2PSMrDA4AAP79LNfQZ6EhlW5xt6Kj0m8o0IPA_Hf2VKndpmvmH_bvbVC2hOFDw1rkD_g0UHJKSTi0CKXwa7-TLUCCXvzirxw4gAGMycJ_GSQx39umhwzDlKypRV3RzbTjbKWeuzVEUyjtoZo58x2euC1tDCm6Es3mx61AAA.webp",
+      "date": "Dec 17, 2024",
+      "snippet": "Treat your locks to the Pureology Nanoworks Gold Shampoo. The powerful formula renews the strand's softness and manageability from the inside ...",
+      "snippet_highlighted_words": [
+        "Pureology Nanoworks Gold Shampoo"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Treat your locks to the Pureology Nanoworks Gold Shampoo. The powerful formula renews the strand's softness and manageability from the inside ...",
+          "source_info_link": "https://www.laladaisy.com/top-5-sulfate-free-shampoos-for-healthier-hair/?srsltid=AU7gw4VPLRMr6voodsnSTfUh-ozksb8rBuO8YYPkz0rFV3pSL1BlYz-G",
+          "icon": "https://serpapi.com/images/i/UklGRrYAAABXRUJQVlA4IKoAAABwBQCdASocABwAPtE-tFooIigoFAEAGglsAJ0voAShQlkV6qCwbw53YPDfIrP2PSMrDA4AAP79LNfQZ6EhlW5xt6Kj0m8o0IPA_Hf2VKndpmvmH_bvbVC2hOFDw1rkD_g0UHJKSTi0CKXwa7-TLUCCXvzirxw4gAGMycJ_GSQx39umhwzDlKypRV3RzbTjbKWeuzVEUyjtoZo58x2euC1tDCm6Es3mx61AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZUZG9WTUhmNGM5NEFyZkxDenkzV2FZVGtCQnB4XzVOWG9jUFp4M2JDVW9NLXFKOUxTOU45U291XzRMbjJUUVZwYXRHSGhXMDRfdHJJbVpZUFF4UjRSTml2UG5OWmRDZ3IyWHowMWUya2Z0Yl9vOE1ybTRtbUNLY0ZwN0wxbDZSbWJaS2RHVUdkcVExNHlaSlp6RVNNdkNPbzdVRWFtY1RkQlJQc0MyMHAxNGJDRUVERWp6NUJVRVdFNUVORjZIbDJsWWxrWnVXNzZuNVlsZFNoRC1PaHpic2Y3RWhTVTBmZTctb2NnM255RjFsWWd0Y3JUdGJvV3BzR0ZXTlFGazJ4Z1ESBBoCCAAa8AYSABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDKBggAEAAYACAAKhYKA3RvcBU7UmVAGgRiZXN0GgR0b3BzKj0KB3N1bGZhdGUVB8asQBoIc3VsZmF0ZXMaCHN1bHBoYXRlGgtzdWxmYXRlZnJlZRoMaXY7cDtzdWxmYXRlKhgKBGZyZWUVLt26QBoLc3VsZmF0ZWZyZWUqNAoIc2hhbXBvb3MVZO2aQBoLY29uZGl0aW9uZXIaB3NoYW1wb28aDWl2O3A7c2hhbXBvb3MqCgoDZm9yFQAAAAAqPwoFY29sb3IVNDHPPxoHY29sb3JlZBoGY29sb3VyGghjb2xvdXJlZBoEZHllZBoQY29sb3J0cmVhdGVkaGFpcipNCgd0cmVhdGVkFflKkj8aB2NvbG9yZWQaCGNvbG91cmVkGgRkeWVkGgV0cmVhdBoQY29sb3J0cmVhdGVkaGFpchoLdHJlYXRlZGhhaXIqPAoEaGFpchUXjuBAGgVoYWlycxoJaGFpcnN0eWxlGhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcjLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGWXJ4MnR5OEhsX1h4QXJld2lwUThFa3RQRWlrTTBRbTlLcWZ3UXJ1c2hSVkszWTgzY2FtRk5sUXgwQzZFcWhTcnk1XzNtNVdMUnFWc1lTNXMySWh0dnhkVDFiTTZWeGRHV0g0ejdnOVRDTXVHM0ZMdk1DbHdFOU9sNDVKWEU0U2ktWkRfTnBxUzFxaDd0dzhMT3NhUkJIYWRvQ0kyUGNiTWV0RFFzN3IwZUE6TDxiPlRvcDwvYj4gNSA8Yj5TdWxmYXRlIEZyZWUgU2hhbXBvb3M8L2I-IEZvciBIZWFsdGhpZXIsIFNoaW5pZXIgPGI-SGFpcjwvYj5CoQFUcmVhdCB5b3VyIGxvY2tzIHRvIHRoZSA8Yj5QdXJlb2xvZ3kgTmFub3dvcmtzIEdvbGQgU2hhbXBvbzwvYj4uIFRoZSBwb3dlcmZ1bCBmb3JtdWxhIHJlbmV3cyB0aGUgc3RyYW5kJiMzOTtzIHNvZnRuZXNzIGFuZCBtYW5hZ2VhYmlsaXR5IGZyb20gdGhlIGluc2lkZSZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkCL2dvdG8_dXJsPUNBRVN4Z0VCNnpzd0ZUZG9WTUhmNGM5NEFyZkxDenkzV2FZVGtCQnB4XzVOWG9jUFp4M2JDVW9NLXFKOUxTOU45U291XzRMbjJUUVZwYXRHSGhXMDRfdHJJbVpZUFF4UjRSTml2UG5OWmRDZ3IyWHowMWUya2Z0Yl9vOE1ybTRtbUNLY0ZwN0wxbDZSbWJaS2RHVUdkcVExNHlaSlp6RVNNdkNPbzdVRWFtY1RkQlJQc0MyMHAxNGJDRUVERWp6NUJVRVdFNUVORjZIbDJsWWxrWnVXNzZuNVlsZFNoRC1PaHpic2Y3RWhTVTBmZTctb2NnM255RjFsWWd0Y3JUdGJvV3BzR0ZXTlFGazJ4Z1ESBBoCCAAa8AYSABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDKBggAEAAYACAAKhYKA3RvcBU7UmVAGgRiZXN0GgR0b3BzKj0KB3N1bGZhdGUVB8asQBoIc3VsZmF0ZXMaCHN1bHBoYXRlGgtzdWxmYXRlZnJlZRoMaXY7cDtzdWxmYXRlKhgKBGZyZWUVLt26QBoLc3VsZmF0ZWZyZWUqNAoIc2hhbXBvb3MVZO2aQBoLY29uZGl0aW9uZXIaB3NoYW1wb28aDWl2O3A7c2hhbXBvb3MqCgoDZm9yFQAAAAAqPwoFY29sb3IVNDHPPxoHY29sb3JlZBoGY29sb3VyGghjb2xvdXJlZBoEZHllZBoQY29sb3J0cmVhdGVkaGFpcipNCgd0cmVhdGVkFflKkj8aB2NvbG9yZWQaCGNvbG91cmVkGgRkeWVkGgV0cmVhdBoQY29sb3J0cmVhdGVkaGFpchoLdHJlYXRlZGhhaXIqPAoEaGFpchUXjuBAGgVoYWlycxoJaGFpcnN0eWxlGhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcjLBAS9nb3RvP3VybD1DQUVTaEFFQjZ6c3dGWXJ4MnR5OEhsX1h4QXJld2lwUThFa3RQRWlrTTBRbTlLcWZ3UXJ1c2hSVkszWTgzY2FtRk5sUXgwQzZFcWhTcnk1XzNtNVdMUnFWc1lTNXMySWh0dnhkVDFiTTZWeGRHV0g0ejdnOVRDTXVHM0ZMdk1DbHdFOU9sNDVKWEU0U2ktWkRfTnBxUzFxaDd0dzhMT3NhUkJIYWRvQ0kyUGNiTWV0RFFzN3IwZUE6TDxiPlRvcDwvYj4gNSA8Yj5TdWxmYXRlIEZyZWUgU2hhbXBvb3M8L2I-IEZvciBIZWFsdGhpZXIsIFNoaW5pZXIgPGI-SGFpcjwvYj5CoQFUcmVhdCB5b3VyIGxvY2tzIHRvIHRoZSA8Yj5QdXJlb2xvZ3kgTmFub3dvcmtzIEdvbGQgU2hhbXBvbzwvYj4uIFRoZSBwb3dlcmZ1bCBmb3JtdWxhIHJlbmV3cyB0aGUgc3RyYW5kJiMzOTtzIHNvZnRuZXNzIGFuZCBtYW5hZ2VhYmlsaXR5IGZyb20gdGhlIGluc2lkZSZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Lala Daisy",
+      "read_more_link": "https://www.laladaisy.com/top-5-sulfate-free-shampoos-for-healthier-hair/?srsltid=AU7gw4VPLRMr6voodsnSTfUh-ozksb8rBuO8YYPkz0rFV3pSL1BlYz-G#:~:text=Treat%20your%20locks%20to%20the,manageability%20from%20the%20inside%20out."
+    },
+    {
+      "position": 6,
+      "title": "22 of the Best Sulfate-Free Shampoos to Moisturize ...",
+      "link": "https://www.yahoo.com/lifestyle/22-best-sulfate-free-shampoos-013000282.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFYkmxf7GTWu1yd2vrZoflcD5eihubamaZcCl6jIDDeQNNXLgR1YN80KWgyuGrPW5JXVrbsB8AYo_Q50EJpL0G0ft8etaq0qN-CzvMNo48D-F_nLPPMgfh7VxlN8xDYelP1LCOp88cr9r1gxyn4SluykKMt5V_t9cUAT-TSreIT2Z4a4&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQFnoECFoQAQ&uoh=1",
+      "displayed_link": "https://www.yahoo.com › lifestyle › 22-best-sulfate-free...",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/apnYEREcs1tENXwFih1kOcohW0kbZfSAQ3aFPAvtVOU.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y1Tw_rqeMyPAHiJa72CusnhawJMmBUuzLIMAAAP5EilGHfSrv1c3raO7TMHCGEE0tanMuC4V63zPenGYvtPz_5miYFkvaNxoWFtqMmi-ZsnEGEWLyTen-1PcFiwqmOBEDdA2Bm4NzFKD-TDXjhuG3e7uKnQ0zqZhi8wQIDft34vQCWtH1diJyyQZvVUQhczt9vEuHYtoxJ3Gi7pHK8HONj47luWPosGLQpyPC5T2PfP3NbGwe_c16iS8OYJQdl3kAK7Xu9_Hgx1RwHhh6AAA.webp",
+      "date": "Jun 8, 2022",
+      "snippet": "22 of the Best Sulfate-Free Shampoos to Moisturize the Hell Out of Your Locks ; 1. Authentic Beauty Concept Hydrate Cleanser ; 2. Pureology ...",
+      "snippet_highlighted_words": [
+        "1. Authentic Beauty Concept Hydrate Cleanser"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "22 of the Best Sulfate-Free Shampoos to Moisturize the Hell Out of Your Locks ; 1. Authentic Beauty Concept Hydrate Cleanser ; 2. Pureology ...",
+          "source_info_link": "https://www.yahoo.com/lifestyle/22-best-sulfate-free-shampoos-013000282.html",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0y1Tw_rqeMyPAHiJa72CusnhawJMmBUuzLIMAAAP5EilGHfSrv1c3raO7TMHCGEE0tanMuC4V63zPenGYvtPz_5miYFkvaNxoWFtqMmi-ZsnEGEWLyTen-1PcFiwqmOBEDdA2Bm4NzFKD-TDXjhuG3e7uKnQ0zqZhi8wQIDft34vQCWtH1diJyyQZvVUQhczt9vEuHYtoxJ3Gi7pHK8HONj47luWPosGLQpyPC5T2PfP3NbGwe_c16iS8OYJQdl3kAK7Xu9_Hgx1RwHhh6AAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZZa214ZjdHVFd1MXlkMnZyWm9mbGNENWVpaHViYW1hWmNDbDZqSUREZVFOTlhMZ1IxWU44MEtXZ3l1R3JQVzVKWFZyYnNCOEFZb19RNTBFSnBMMEcwZnQ4ZXRhcTBxTi1DenZNTm80OEQtRl9uTFBQTWdmaDdWeGxOOHhEWWVsUDFMQ09wODhjcjlyMWd4eW40U2x1eWtLTXQ1Vl90OWNVQVQtVFNyZUlUMlo0YTQSBBoCCAAa7wYSABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDJBggAEAAYACAAKhYKA3RvcBU7A449GgRiZXN0GgR0b3BzKj0KB3N1bGZhdGUV9jDJQBoIc3VsZmF0ZXMaCHN1bHBoYXRlGgtzdWxmYXRlZnJlZRoMaXY7cDtzdWxmYXRlKhgKBGZyZWUVQCfJQBoLc3VsZmF0ZWZyZWUqNAoIc2hhbXBvb3MV2FHBQBoLY29uZGl0aW9uZXIaB3NoYW1wb28aDWl2O3A7c2hhbXBvb3MqCgoDZm9yFQAAAAAqPwoFY29sb3IVngXSPxoHY29sb3JlZBoGY29sb3VyGghjb2xvdXJlZBoEZHllZBoQY29sb3J0cmVhdGVkaGFpcipNCgd0cmVhdGVkFTwClj8aB2NvbG9yZWQaCGNvbG91cmVkGgRkeWVkGgV0cmVhdBoQY29sb3J0cmVhdGVkaGFpchoLdHJlYXRlZGhhaXIqPAoEaGFpchXmKz5AGgVoYWlycxoJaGFpcnN0eWxlGhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcjLFAS9nb3RvP3VybD1DQUVTaHdFQjZ6c3dGWWtteGY3R1RXdTF5ZDJ2clpvZmxjRDVlaWh1YmFtYVpjQ2w2aklERGVRTk5YTGdSMVlOODBLV2d5dUdyUFc1SlhWcmJzQjhBWW9fUTUwRUpwTDBHMGZ0OGV0YXEwcU4tQ3p2TU5vNDhELUZfbkxQUE1nZmg3VnhsTjh4RFllbFAxTENPcDg4Y3I5cjFneHluNFNsdXlrS010NVZfdDljVUFULVRTcmVJVDJaNGE0Ok0yMiBvZiB0aGUgPGI-QmVzdCBTdWxmYXRlPC9iPi08Yj5GcmVlIFNoYW1wb29zPC9iPiB0byBNb2lzdHVyaXplIHRoZSBIZWxsIC4uLkKbATIyIG9mIHRoZSBCZXN0IFN1bGZhdGUtRnJlZSBTaGFtcG9vcyB0byBNb2lzdHVyaXplIHRoZSBIZWxsIE91dCBvZiBZb3VyIExvY2tzIDsgPGI-MS4gQXV0aGVudGljIEJlYXV0eSBDb25jZXB0IEh5ZHJhdGUgQ2xlYW5zZXI8L2I-IDsgMi4gUHVyZW9sb2d5Jm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZZa214ZjdHVFd1MXlkMnZyWm9mbGNENWVpaHViYW1hWmNDbDZqSUREZVFOTlhMZ1IxWU44MEtXZ3l1R3JQVzVKWFZyYnNCOEFZb19RNTBFSnBMMEcwZnQ4ZXRhcTBxTi1DenZNTm80OEQtRl9uTFBQTWdmaDdWeGxOOHhEWWVsUDFMQ09wODhjcjlyMWd4eW40U2x1eWtLTXQ1Vl90OWNVQVQtVFNyZUlUMlo0YTQSBBoCCAAa7wYSABoCCAEiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkDJBggAEAAYACAAKhYKA3RvcBU7A449GgRiZXN0GgR0b3BzKj0KB3N1bGZhdGUV9jDJQBoIc3VsZmF0ZXMaCHN1bHBoYXRlGgtzdWxmYXRlZnJlZRoMaXY7cDtzdWxmYXRlKhgKBGZyZWUVQCfJQBoLc3VsZmF0ZWZyZWUqNAoIc2hhbXBvb3MV2FHBQBoLY29uZGl0aW9uZXIaB3NoYW1wb28aDWl2O3A7c2hhbXBvb3MqCgoDZm9yFQAAAAAqPwoFY29sb3IVngXSPxoHY29sb3JlZBoGY29sb3VyGghjb2xvdXJlZBoEZHllZBoQY29sb3J0cmVhdGVkaGFpcipNCgd0cmVhdGVkFTwClj8aB2NvbG9yZWQaCGNvbG91cmVkGgRkeWVkGgV0cmVhdBoQY29sb3J0cmVhdGVkaGFpchoLdHJlYXRlZGhhaXIqPAoEaGFpchXmKz5AGgVoYWlycxoJaGFpcnN0eWxlGhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcjLFAS9nb3RvP3VybD1DQUVTaHdFQjZ6c3dGWWtteGY3R1RXdTF5ZDJ2clpvZmxjRDVlaWh1YmFtYVpjQ2w2aklERGVRTk5YTGdSMVlOODBLV2d5dUdyUFc1SlhWcmJzQjhBWW9fUTUwRUpwTDBHMGZ0OGV0YXEwcU4tQ3p2TU5vNDhELUZfbkxQUE1nZmg3VnhsTjh4RFllbFAxTENPcDg4Y3I5cjFneHluNFNsdXlrS010NVZfdDljVUFULVRTcmVJVDJaNGE0Ok0yMiBvZiB0aGUgPGI-QmVzdCBTdWxmYXRlPC9iPi08Yj5GcmVlIFNoYW1wb29zPC9iPiB0byBNb2lzdHVyaXplIHRoZSBIZWxsIC4uLkKbATIyIG9mIHRoZSBCZXN0IFN1bGZhdGUtRnJlZSBTaGFtcG9vcyB0byBNb2lzdHVyaXplIHRoZSBIZWxsIE91dCBvZiBZb3VyIExvY2tzIDsgPGI-MS4gQXV0aGVudGljIEJlYXV0eSBDb25jZXB0IEh5ZHJhdGUgQ2xlYW5zZXI8L2I-IDsgMi4gUHVyZW9sb2d5Jm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Yahoo",
+      "read_more_link": "https://www.yahoo.com/lifestyle/22-best-sulfate-free-shampoos-013000282.html#:~:text=22%20of%20the%20Best%20Sulfate%2DFree,Hell%20Out%20of%20Your%20Locks&text=1.%20Authentic%20Beauty%20Concept%20Hydrate,Cleanser&text=2.%20Pureology%20Hydrate%20Shampoo"
+    },
+    {
+      "position": 7,
+      "title": "What sulfate-free shampoo to use with good lather for color ...",
+      "link": "https://www.reddit.com/r/curlyhair/comments/jk4rp0/what_sulfatefree_shampoo_to_use_with_good_lather/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESnwEB6zswFf7xEkx3wInYktq4z1WH9vLfe0JZi-Id99pVJNf5Y562ifOFtXFv19JUyTeYkfP9iNP2AXw2ZIQuc-2DmKgB4QQHnjOZw1gCvisiTD1AtQ90Mf10oELsz_fIsBiARCY2GmMGTwHlptmau3o77kWIVQcOHe3H2v9-k-HO1gNN00IPFXhCIAdVMZpCTPYa43DTle6bRe8Zy3T9rVw&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQFnoECEsQAQ&uoh=1",
+      "displayed_link": "1 comment · 5 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "What sulfate-free shampoo to use with good lather for color treated hair? ... I've used Emerge shampoo as well as Love Beauty and Planet shampoos ...",
+      "snippet_highlighted_words": [
+        "Emerge shampoo"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "What sulfate-free shampoo to use with good lather for color treated hair? ... I've used Emerge shampoo as well as Love Beauty and Planet shampoos ...",
+          "source_info_link": "https://www.reddit.com/r/curlyhair/comments/jk4rp0/what_sulfatefree_shampoo_to_use_with_good_lather/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZmN3hFa3gzd0luWWt0cTR6MVdIOXZMZmUwSlppLUlkOTlwVkpOZjVZNTYyaWZPRnRYRnYxOUpVeVRlWWtmUDlpTlAyQVh3MlpJUXVjLTJEbUtnQjRRUUhuak9adzFnQ3Zpc2lURDFBdFE5ME1mMTBvRUxzel9mSXNCaUFSQ1kyR21NR1R3SGxwdG1hdTNvNzdrV0lWUWNPSGUzSDJ2OS1rLUhPMWdOTjAwSVBGWGhDSUFkVk1acENUUFlhNDNEVGxlNmJSZThaeTNUOXJWdxIEGgIIABqeBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD6BggAEAAYACAAKhYKA3RvcBX-thI-GgRiZXN0GgR0b3BzKj0KB3N1bGZhdGUV4U-nQBoIc3VsZmF0ZXMaCHN1bHBoYXRlGgtzdWxmYXRlZnJlZRoMaXY7cDtzdWxmYXRlKhgKBGZyZWUV_kWrQBoLc3VsZmF0ZWZyZWUqNAoIc2hhbXBvb3MVRSYgQBoLY29uZGl0aW9uZXIaB3NoYW1wb28aDWl2O3A7c2hhbXBvb3MqCgoDZm9yFQAAAAAqPwoFY29sb3IV2oS9QBoHY29sb3JlZBoGY29sb3VyGghjb2xvdXJlZBoEZHllZBoQY29sb3J0cmVhdGVkaGFpcipNCgd0cmVhdGVkFVAwo0AaB2NvbG9yZWQaCGNvbG91cmVkGgRkeWVkGgV0cmVhdBoQY29sb3J0cmVhdGVkaGFpchoLdHJlYXRlZGhhaXIqPAoEaGFpchWPOclAGgVoYWlycxoJaGFpcnN0eWxlGhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcjLlAS9nb3RvP3VybD1DQUVTbndFQjZ6c3dGZjd4RWt4M3dJbllrdHE0ejFXSDl2TGZlMEpaaS1JZDk5cFZKTmY1WTU2MmlmT0Z0WEZ2MTlKVXlUZVlrZlA5aU5QMkFYdzJaSVF1Yy0yRG1LZ0I0UVFIbmpPWncxZ0N2aXNpVEQxQXRROTBNZjEwb0VMc3pfZklzQmlBUkNZMkdtTUdUd0hscHRtYXUzbzc3a1dJVlFjT0hlM0gydjktay1ITzFnTk4wMElQRlhoQ0lBZFZNWnBDVFBZYTQzRFRsZTZiUmU4WnkzVDlyVnc6VFdoYXQgPGI-c3VsZmF0ZTwvYj4tPGI-ZnJlZSBzaGFtcG9vPC9iPiB0byB1c2Ugd2l0aCBnb29kIGxhdGhlciBmb3IgPGI-Y29sb3I8L2I-IC4uLkKlAVdoYXQgc3VsZmF0ZS1mcmVlIHNoYW1wb28gdG8gdXNlIHdpdGggZ29vZCBsYXRoZXIgZm9yIGNvbG9yIHRyZWF0ZWQgaGFpcj8gLi4uIEkmIzM5O3ZlIHVzZWQgPGI-RW1lcmdlIHNoYW1wb288L2I-IGFzIHdlbGwgYXMgTG92ZSBCZWF1dHkgYW5kIFBsYW5ldCBzaGFtcG9vcyZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CuUBL2dvdG8_dXJsPUNBRVNud0VCNnpzd0ZmN3hFa3gzd0luWWt0cTR6MVdIOXZMZmUwSlppLUlkOTlwVkpOZjVZNTYyaWZPRnRYRnYxOUpVeVRlWWtmUDlpTlAyQVh3MlpJUXVjLTJEbUtnQjRRUUhuak9adzFnQ3Zpc2lURDFBdFE5ME1mMTBvRUxzel9mSXNCaUFSQ1kyR21NR1R3SGxwdG1hdTNvNzdrV0lWUWNPSGUzSDJ2OS1rLUhPMWdOTjAwSVBGWGhDSUFkVk1acENUUFlhNDNEVGxlNmJSZThaeTNUOXJWdxIEGgIIABqeBxIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD6BggAEAAYACAAKhYKA3RvcBX-thI-GgRiZXN0GgR0b3BzKj0KB3N1bGZhdGUV4U-nQBoIc3VsZmF0ZXMaCHN1bHBoYXRlGgtzdWxmYXRlZnJlZRoMaXY7cDtzdWxmYXRlKhgKBGZyZWUV_kWrQBoLc3VsZmF0ZWZyZWUqNAoIc2hhbXBvb3MVRSYgQBoLY29uZGl0aW9uZXIaB3NoYW1wb28aDWl2O3A7c2hhbXBvb3MqCgoDZm9yFQAAAAAqPwoFY29sb3IV2oS9QBoHY29sb3JlZBoGY29sb3VyGghjb2xvdXJlZBoEZHllZBoQY29sb3J0cmVhdGVkaGFpcipNCgd0cmVhdGVkFVAwo0AaB2NvbG9yZWQaCGNvbG91cmVkGgRkeWVkGgV0cmVhdBoQY29sb3J0cmVhdGVkaGFpchoLdHJlYXRlZGhhaXIqPAoEaGFpchWPOclAGgVoYWlycxoJaGFpcnN0eWxlGhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcjLlAS9nb3RvP3VybD1DQUVTbndFQjZ6c3dGZjd4RWt4M3dJbllrdHE0ejFXSDl2TGZlMEpaaS1JZDk5cFZKTmY1WTU2MmlmT0Z0WEZ2MTlKVXlUZVlrZlA5aU5QMkFYdzJaSVF1Yy0yRG1LZ0I0UVFIbmpPWncxZ0N2aXNpVEQxQXRROTBNZjEwb0VMc3pfZklzQmlBUkNZMkdtTUdUd0hscHRtYXUzbzc3a1dJVlFjT0hlM0gydjktay1ITzFnTk4wMElQRlhoQ0lBZFZNWnBDVFBZYTQzRFRsZTZiUmU4WnkzVDlyVnc6VFdoYXQgPGI-c3VsZmF0ZTwvYj4tPGI-ZnJlZSBzaGFtcG9vPC9iPiB0byB1c2Ugd2l0aCBnb29kIGxhdGhlciBmb3IgPGI-Y29sb3I8L2I-IC4uLkKlAVdoYXQgc3VsZmF0ZS1mcmVlIHNoYW1wb28gdG8gdXNlIHdpdGggZ29vZCBsYXRoZXIgZm9yIGNvbG9yIHRyZWF0ZWQgaGFpcj8gLi4uIEkmIzM5O3ZlIHVzZWQgPGI-RW1lcmdlIHNoYW1wb288L2I-IGFzIHdlbGwgYXMgTG92ZSBCZWF1dHkgYW5kIFBsYW5ldCBzaGFtcG9vcyZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Reddit · r/curlyhair",
+      "read_more_link": "https://www.reddit.com/r/curlyhair/comments/jk4rp0/what_sulfatefree_shampoo_to_use_with_good_lather/#:~:text=What%20sulfate%2Dfree%20shampoo%20to%20use,lather%20for%20color%20treated%20hair%3F&text=I've%20used%20Emerge%20shampoo%20as,hair%20is%20getting%20washed%20thoroughly."
+    },
+    {
+      "position": 8,
+      "title": "Best Shampoo & Conditioner For Colored Hair",
+      "link": "https://www.allthingshair.com/en-us/hair-care/best-shampoos-for-colored-hair/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFVTiWzAj7Td0BAnHEX-iBuaAJcXbllDxYmBzr_KA9YPBPFb_pG3fZ3CTxPMNoSMwFGDlOU918HFeu_hN5vx5uLW4Hd-TF_hIimRRKKz2PT_h7t5Mlt1ZDqAFwgDZYaLTrH7P9IfczUphpyWsaCvmU35t9Ax99GwIf0uIXDqXXag5GYWx&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQFnoECEoQAQ&uoh=1",
+      "displayed_link": "https://www.allthingshair.com › en-us › hair-care › best-s...",
+      "favicon": "https://serpapi.com/images/i/UklGRrQAAABXRUJQVlA4IKgAAADQAgCdASoQABAAAsBMJbACdFQAFOLuszlpkEYMIM8AAP73bWcjFfRb15OdsXj2NL2OmXxtKe-zaXqW2C_y4ahSGLE5DNb_yR_NprtCk1Afz5lF_W-xP4ImghiSZnoeQ9AhyevZ50rgwVIMmR-RXLBkOV29fK_cCjtCNCGDaKyOrw8VY4PtGCTwZZ0KLWwjR9flVNZUrovlrVlyYzdRE3o65JiZ8XQAAAA.webp",
+      "date": "Jan 14, 2021",
+      "snippet": "Restore your hair's balance · Nexxus Color Assure Shampoo · Love Beauty and Planet Murumuru Butter & Rose 2X Concentrated Sulfate-Free Shampoo.",
+      "snippet_highlighted_words": [
+        "Nexxus Color Assure Shampoo"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Restore your hair's balance · Nexxus Color Assure Shampoo · Love Beauty and Planet Murumuru Butter & Rose 2X Concentrated Sulfate-Free Shampoo.",
+          "source_info_link": "https://www.allthingshair.com/en-us/hair-care/best-shampoos-for-colored-hair/",
+          "icon": "https://serpapi.com/images/i/UklGRrQAAABXRUJQVlA4IKgAAADQAgCdASoQABAAAsBMJbACdFQAFOLuszlpkEYMIM8AAP73bWcjFfRb15OdsXj2NL2OmXxtKe-zaXqW2C_y4ahSGLE5DNb_yR_NprtCk1Afz5lF_W-xP4ImghiSZnoeQ9AhyevZ50rgwVIMmR-RXLBkOV29fK_cCjtCNCGDaKyOrw8VY4PtGCTwZZ0KLWwjR9flVNZUrovlrVlyYzdRE3o65JiZ8XQAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZWVGlXekFqN1RkMEJBbkhFWC1pQnVhQUpjWGJsbER4WW1CenJfS0E5WVBCUEZiX3BHM2ZaM0NUeFBNTm9TTXdGR0RsT1U5MThIRmV1X2hONXZ4NXVMVzRIZC1URl9oSWltUlJLS3oyUFRfaDd0NU1sdDFaRHFBRndnRFpZYUxUckg3UDlJZmN6VXBocHlXc2FDdm1VMzV0OUF4OTlHd0lmMHVJWERxWFhhZzVHWVd4EgQaAggAGu8GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMsGCAAQABgAIAAqFgoDdG9wFQznTT4aBGJlc3QaBHRvcHMqPQoHc3VsZmF0ZRXhnbs_GghzdWxmYXRlcxoIc3VscGhhdGUaC3N1bGZhdGVmcmVlGgxpdjtwO3N1bGZhdGUqGAoEZnJlZRW86A1AGgtzdWxmYXRlZnJlZSo0CghzaGFtcG9vcxXMohdAGgtjb25kaXRpb25lchoHc2hhbXBvbxoNaXY7cDtzaGFtcG9vcyoKCgNmb3IVAAAAACo_CgVjb2xvchWDHnNAGgdjb2xvcmVkGgZjb2xvdXIaCGNvbG91cmVkGgRkeWVkGhBjb2xvcnRyZWF0ZWRoYWlyKk0KB3RyZWF0ZWQVFQfZPxoHY29sb3JlZBoIY29sb3VyZWQaBGR5ZWQaBXRyZWF0GhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcio8CgRoYWlyFZqUB0EaBWhhaXJzGgloYWlyc3R5bGUaEGNvbG9ydHJlYXRlZGhhaXIaC3RyZWF0ZWRoYWlyMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZWVGlXekFqN1RkMEJBbkhFWC1pQnVhQUpjWGJsbER4WW1CenJfS0E5WVBCUEZiX3BHM2ZaM0NUeFBNTm9TTXdGR0RsT1U5MThIRmV1X2hONXZ4NXVMVzRIZC1URl9oSWltUlJLS3oyUFRfaDd0NU1sdDFaRHFBRndnRFpZYUxUckg3UDlJZmN6VXBocHlXc2FDdm1VMzV0OUF4OTlHd0lmMHVJWERxWFhhZzVHWVd4Oj08Yj5CZXN0IFNoYW1wb288L2I-ICZhbXA7IDxiPkNvbmRpdGlvbmVyIEZvciBDb2xvcmVkIEhhaXI8L2I-QqwBUmVzdG9yZSB5b3VyIGhhaXImIzM5O3MgYmFsYW5jZSAmbWlkZG90OyA8Yj5OZXh4dXMgQ29sb3IgQXNzdXJlIFNoYW1wb288L2I-ICZtaWRkb3Q7IExvdmUgQmVhdXR5IGFuZCBQbGFuZXQgTXVydW11cnUgQnV0dGVyICZhbXA7IFJvc2UgMlggQ29uY2VudHJhdGVkIFN1bGZhdGUtRnJlZSBTaGFtcG9vLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZWVGlXekFqN1RkMEJBbkhFWC1pQnVhQUpjWGJsbER4WW1CenJfS0E5WVBCUEZiX3BHM2ZaM0NUeFBNTm9TTXdGR0RsT1U5MThIRmV1X2hONXZ4NXVMVzRIZC1URl9oSWltUlJLS3oyUFRfaDd0NU1sdDFaRHFBRndnRFpZYUxUckg3UDlJZmN6VXBocHlXc2FDdm1VMzV0OUF4OTlHd0lmMHVJWERxWFhhZzVHWVd4EgQaAggAGu8GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQMsGCAAQABgAIAAqFgoDdG9wFQznTT4aBGJlc3QaBHRvcHMqPQoHc3VsZmF0ZRXhnbs_GghzdWxmYXRlcxoIc3VscGhhdGUaC3N1bGZhdGVmcmVlGgxpdjtwO3N1bGZhdGUqGAoEZnJlZRW86A1AGgtzdWxmYXRlZnJlZSo0CghzaGFtcG9vcxXMohdAGgtjb25kaXRpb25lchoHc2hhbXBvbxoNaXY7cDtzaGFtcG9vcyoKCgNmb3IVAAAAACo_CgVjb2xvchWDHnNAGgdjb2xvcmVkGgZjb2xvdXIaCGNvbG91cmVkGgRkeWVkGhBjb2xvcnRyZWF0ZWRoYWlyKk0KB3RyZWF0ZWQVFQfZPxoHY29sb3JlZBoIY29sb3VyZWQaBGR5ZWQaBXRyZWF0GhBjb2xvcnRyZWF0ZWRoYWlyGgt0cmVhdGVkaGFpcio8CgRoYWlyFZqUB0EaBWhhaXJzGgloYWlyc3R5bGUaEGNvbG9ydHJlYXRlZGhhaXIaC3RyZWF0ZWRoYWlyMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZWVGlXekFqN1RkMEJBbkhFWC1pQnVhQUpjWGJsbER4WW1CenJfS0E5WVBCUEZiX3BHM2ZaM0NUeFBNTm9TTXdGR0RsT1U5MThIRmV1X2hONXZ4NXVMVzRIZC1URl9oSWltUlJLS3oyUFRfaDd0NU1sdDFaRHFBRndnRFpZYUxUckg3UDlJZmN6VXBocHlXc2FDdm1VMzV0OUF4OTlHd0lmMHVJWERxWFhhZzVHWVd4Oj08Yj5CZXN0IFNoYW1wb288L2I-ICZhbXA7IDxiPkNvbmRpdGlvbmVyIEZvciBDb2xvcmVkIEhhaXI8L2I-QqwBUmVzdG9yZSB5b3VyIGhhaXImIzM5O3MgYmFsYW5jZSAmbWlkZG90OyA8Yj5OZXh4dXMgQ29sb3IgQXNzdXJlIFNoYW1wb288L2I-ICZtaWRkb3Q7IExvdmUgQmVhdXR5IGFuZCBQbGFuZXQgTXVydW11cnUgQnV0dGVyICZhbXA7IFJvc2UgMlggQ29uY2VudHJhdGVkIFN1bGZhdGUtRnJlZSBTaGFtcG9vLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "allthingshair.com",
+      "read_more_link": "https://www.allthingshair.com/en-us/hair-care/best-shampoos-for-colored-hair/#:~:text=Restore%20your%20hair's%20balance&text=Nexxus%20Color%20Assure%20Shampoo&text=Love%20Beauty%20and%20Planet%20Murumuru,Rose%202X%20Concentrated%20Sulfate%2DFree%20Shampoo"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "Deanna Pai, Catharine Malzahn",
+      "source": "Allure",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaDf4Ezo1hVc2b1m-fuP9qpG9oIBkIG52XNZm3rAJpdC7a84Z5AWTwHErnIw&usqp=CAI&s"
+      ],
+      "title": "Want Longer-Lasting Color? It Starts With Wash Day",
+      "link": "https://www.allure.com/gallery/best-shampoo-conditioner-for-color-treated-hair",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Molly Calhoun",
+      "source": "Forbes",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZPxxCV-h78dKhwyST--tLl6CVXLcvU239cOJExo_wkOgEWGWL2kkBH7vhdQ&usqp=CAI&s"
+      ],
+      "title": "The 10 Best Shampoos For Color-Treated Hair, According To Experts",
+      "link": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-shampoos-for-color-treated-hair/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Madeleine Evans, Florence Reeves-White",
+      "source": "Good Housekeeping",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYsrRdZ-xqRb-fQedrnBLP49kHbFCkZqUbW5mU9_OIGRXbu8p0H0AdFhHviQ&usqp=CAI&s"
+      ],
+      "title": "14 best sulphate-free shampoos for a gentler clean, tested by 580 women",
+      "link": "https://www.goodhousekeeping.com/uk/product-reviews/fashion-and-beauty/g31804308/best-sulphate-free-shampoos-conditioners/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "BHAWNAlicious",
+      "source": "YouTube",
+      "duration": "8:03",
+      "extensions": [
+        "1.1K+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/uEzl4dI2eqg/hqdefault.jpg"
+      ],
+      "title": "Best Shampoo for Colored Hair? Kérastase Chroma Absolu Honest Review",
+      "link": "https://www.youtube.com/watch?v=uEzl4dI2eqg",
+      "date": "1 month ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQcRJXQLxehaj43UbIqPVZ_2P9UYsdbHBH8iA"
+    }
+  ],
+  "refine_this_search": [
+    {
+      "query": "For Men",
+      "link": "https://www.google.com/search?q=top+sulfate+free+shampoos+for+color+treated+hair+men&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhkIARIHRm9yIE1lbhgCOgoIyagtEM6oLTADWO-_IGAB&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKAF6BAgzEGc",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+sulfate+free+shampoos+for+color+treated+hair+men"
+    },
+    {
+      "query": "Moisturizing",
+      "link": "https://www.google.com/search?q=moisturizing+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhwIARIMTW9pc3R1cml6aW5nOgoIpZ8tEKmfLTAAWO-_IGAB&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKAJ6BAgzEGg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=moisturizing+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Cruelty-free",
+      "link": "https://www.google.com/search?q=cruelty-free+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMh4IARIMQ3J1ZWx0eS1mcmVlOgwI3aK0ARDX-MIBMABY778gYAE&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKAN6BAgzEGk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=cruelty-free+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Smoothing",
+      "link": "https://www.google.com/search?q=smoothing+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhkIARIJU21vb3RoaW5nOgoIpZ8tENTLLTAAWO-_IGAB&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKAR6BAgzEGo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=smoothing+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Walmart",
+      "link": "https://www.google.com/search?q=walmart+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYAiowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMgsIAhIHV2FsbWFydFjvvyBgAQ&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKAV6BAgzEGs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=walmart+top+sulfate+free+shampoos+for+color+treated+hair",
+      "thumbnail": "https://serpapi.com/searches/6ab7f8dcab28c6a8deb602be/images/zj_7sHF6XLopjCV48gkNVtxt9881PZr57nBtVCBWvBE.png"
+    },
+    {
+      "query": "Get it today",
+      "link": "https://www.google.com/search?q=top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAESDZoBCgoIEAA4AUAGSAEYFCowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMiUIFBIMR2V0IGl0IHRvZGF5Ig2aAQoKCBAAOAFABkgBKgQQARgBYAE&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKAZ6BAgzEG0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Under $15",
+      "link": "https://www.google.com/search?q=top+sulfate+free+shampoos+for+color+treated+hair+under+$15&hl=en&gl=us&shoprs=CAESDRILEQAAAAA4nGxBGAEYBSowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMiIIBRIJVW5kZXIgJDE1GAIiDRILEQAAAAA4nGxBGAEqAhgBWO-_IGAB&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKAd6BAgzEG4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+sulfate+free+shampoos+for+color+treated+hair+under+%2415"
+    },
+    {
+      "query": "Volumizing",
+      "link": "https://www.google.com/search?q=volumizing+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhoIARIKVm9sdW1pemluZzoKCKWfLRCony0wAFjvvyBgAQ&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKAh6BAgzEG8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=volumizing+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Keratin",
+      "link": "https://www.google.com/search?q=keratin+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhgIARIHS2VyYXRpbjoLCIGUOxDXpoMBMABY778gYAE&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKAl6BAgzEHA",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=keratin+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "On sale",
+      "link": "https://www.google.com/search?q=top+sulfate+free+shampoos+for+color+treated+hair+sale&hl=en&gl=us&shoprs=CAESBEoCGAEYBiowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhMIBhIHT24gc2FsZRgCIgRKAhgBWO-_IGAB&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKAp6BAgzEHE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+sulfate+free+shampoos+for+color+treated+hair+sale"
+    },
+    {
+      "query": "Organic",
+      "link": "https://www.google.com/search?q=organic+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhkIARIHT3JnYW5pYzoMCN2itAEQ3qK0ATAAWO-_IGAB&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKAt6BAgzEHI",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=organic+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Target",
+      "link": "https://www.google.com/search?q=target+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYAiowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMgoIAhIGVGFyZ2V0WO-_IGAB&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKAx6BAgzEHM",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=target+top+sulfate+free+shampoos+for+color+treated+hair",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACBElEQVRYhc2X4W3CMBCFP6IOkBFggyB5AJigdAJgg24AbJANKBPQDegAkeoNYISM0B--QJTcJYYi4EkISM7vns_n83nAlSggBTL5pPK4BDzgXfgdjUGk0yGwAN7FcRc8sAO-HZz-JUBmuwI-I3RqyIFNV1RMAQVMgD2XMN-KEvhw8KO9TAznC-BwB-cIx0E4W2hFQAy3keRevvvyosLSwZcpQMJ-6CA4cUkwX39RBBEzYE5IWgvT-nKcBUjCHbHDvnGw7iCui1kTkldDCYyqxKznwMpwXorqKOcAYjtFz_5qZwESAdnnR4NvamVwH3qWdOTgVEVgZhhtLOcFZAUs5KMmoYzdGNwzuETglzbJycFIc0zYJU17T8hyr4w50k5M72Cc1Gp7EzvD-cGwzwj7PYqLEME0McgAvpVnW7qLU4peQzQugMwUYOzzmIKTNaOgLUtdgDYjbUBstbNsNc5UPQseiQS9WMTOwEJsBMvEIjbWMUaEN_JHtTUFoBenJd0tVyk2MVxBgLv0c03Mmw9kZlPD3hPKdhQX0j--yZ8d7TANC1g3DyFxMG5sy1bYK8jJOFRe7eBVDiPpXnPDcC9EtzjfG6_zqmO-qiGRgb19_zUNyeu0ZDWiBc9qSm8UEYuWc1OAiJjwrIsJnNupEfbuiEFOSDjVOVx3Oa0S7HGXU0PMXa_nf7VPriUMEUfkAAAAAElFTkSuQmCC.png"
+    },
+    {
+      "query": "Pink",
+      "link": "https://www.google.com/search?q=pink+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhYIARIEUGluazoMCNiM9QEQ6Yr1ATALWO-_IGAB&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKA16BAgzEHU",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=pink+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Ulta Beauty",
+      "link": "https://www.google.com/search?q=ulta+beauty+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYAiowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMg8IAhILVWx0YSBCZWF1dHlY778gYAE&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKA56BAgzEHY",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=ulta+beauty+top+sulfate+free+shampoos+for+color+treated+hair",
+      "thumbnail": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAQlBMVEVHcEzyaxzyaxz____yaxzyaxzyaxzyaxzyaxzyaxzyZAHyaBDxXgD4t531jmH839X0f0f2nnr3rI7-8Ov5wav6zLy-_yPcAAAACnRSTlMA6v__T8rsE5SlBDbs2AAAARRJREFUOI2Nk9m2gyAMRSVxwDBUUP__Vy8BKkKlvecJVjZJyDAMRaOcZoB5kuPwoGWFm9altUtoJOvnorUDiJuTBRQF3azhrmC52Z3xxhRCWWNcIQTQiYi7vgDyiCeBuPKjowaUQzwoZ7pABl41ECNyEP4_mQawiJ6BNQDwDYBQ3-_AmEr4AWyIjlJBpycAGFB8mIa56yEC8wA9wEYAfgPdEDaHeEyyAFP_mwmQ_UJtKhUqldo37Q7NyjmmZvELxDIw-sz4mtsNmoHj7YK2NA6p3THNGAONJqUUafYHKcU8ctEpp3E4a_0rnCw7ENfQMhF9ZO1bCXARpN25R-tptars78UJ0ZOiWdTb92P1_rG8rMf1_wNTPxGHR0NMYgAAAABJRU5ErkJggg.png"
+    },
+    {
+      "query": "Reconstructing",
+      "link": "https://www.google.com/search?q=reconstructing+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMh4IARIOUmVjb25zdHJ1Y3Rpbmc6Cgilny0Qq58tMABY778gYAE&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKA96BAgzEHg",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=reconstructing+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Gray",
+      "link": "https://www.google.com/search?q=gray+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhYIARIER3JheToMCNiM9QEQ6or1ATALWO-_IGAB&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKBB6BAgzEHk",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=gray+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Reviews",
+      "link": "https://www.google.com/search?q=reviews+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYEiowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMgsIEhIHUmV2aWV3c2AB&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKBF6BAgzEHo",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=reviews+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Blonde Enhancing",
+      "link": "https://www.google.com/search?q=blonde+enhancing+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMiAIARIQQmxvbmRlIEVuaGFuY2luZzoKCImUOxCOlDswAFjvvyBgAQ&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKBJ6BAgzEHs",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=blonde+enhancing+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "White",
+      "link": "https://www.google.com/search?q=white+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhcIARIFV2hpdGU6DAjYjPUBEKGL9QEwC1jvvyBgAQ&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKBN6BAgzEHw",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=white+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Scalp Care",
+      "link": "https://www.google.com/search?q=scalp+care+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhoIARIKU2NhbHAgQ2FyZToKCImUOxCKlDswAFjvvyBgAQ&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKBR6BAgzEH0",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=scalp+care+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Coconut",
+      "link": "https://www.google.com/search?q=coconut+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhcIARIHQ29jb251dDoKCIGUOxCDlDswAFjvvyBgAQ&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKBV6BAgzEH4",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=coconut+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Set",
+      "link": "https://www.google.com/search?q=set+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhMIARIDU2V0OgoIq5d_EKyXfzADWO-_IGAB&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKBZ6BAgzEH8",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=set+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Detangling",
+      "link": "https://www.google.com/search?q=detangling+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhoIARIKRGV0YW5nbGluZzoKCKWfLRCvny0wAFjvvyBgAQ&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKBd6BQgzEIAB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=detangling+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Buy",
+      "link": "https://www.google.com/search?q=buy+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYEiowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMgcIEhIDQnV5YAE&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKBh6BQgzEIEB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=buy+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Green",
+      "link": "https://www.google.com/search?q=green+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhcIARIFR3JlZW46DAjYjPUBEOiK9QEwC1jvvyBgAQ&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKBl6BQgzEIIB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=green+top+sulfate+free+shampoos+for+color+treated+hair"
+    },
+    {
+      "query": "Yellow",
+      "link": "https://www.google.com/search?q=yellow+top+sulfate+free+shampoos+for+color+treated+hair&hl=en&gl=us&shoprs=CAEYASowdG9wIHN1bGZhdGUgZnJlZSBzaGFtcG9vcyBmb3IgY29sb3IgdHJlYXRlZCBoYWlyMhgIARIGWWVsbG93OgwI2Iz1ARDtivUBMAtY778gYAE&sa=X&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQip4GKBp6BQgzEIMB",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=yellow+top+sulfate+free+shampoos+for+color+treated+hair"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Color safe shampoo",
+      "link": "https://www.reddit.com/r/dailywash/comments/1urd7qb/color_safe_shampoo/",
+      "date": "2 months ago",
+      "extensions": [
+        "r/dailywash",
+        "6 comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/dailywash/comments/1urd7qb/color_safe_shampoo/"
+        }
+      ]
+    },
+    {
+      "title": "What shampoo and conditioner are best for color treated hair?",
+      "link": "https://www.facebook.com/groups/461956087332125/posts/2435452029982511/",
+      "date": "2 years ago",
+      "extensions": [
+        "DMV Stylist Connects",
+        "9 comments"
+      ],
+      "source": "Facebook",
+      "answers": [
+        {
+          "link": "https://www.facebook.com/groups/461956087332125/posts/2435452029982511/",
+          "extensions": [
+            "Top answer",
+            "2 years ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Re: Best Sulfate-Free Shampoos?",
+      "link": "https://community.sephora.com/t5/Best-Hair-Ever/Best-Sulfate-Free-Shampoos/m-p/2959458",
+      "date": "9 years ago",
+      "source": "Sephora Beauty Insider Community",
+      "answers": [
+        {
+          "link": "https://community.sephora.com/t5/Best-Hair-Ever/Best-Sulfate-Free-Shampoos/m-p/2959458"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+sulfate+free+shampoos+for+color+treated+hair&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnuSqXV1mFNNTQJpaArqXU8ReLEjHw:1790441692336&ei=3Pi3asqBFMnprfcPtODnyAE&start=10&sa=N&sstk=AS6-VmK0_WizKY66E6Kxa9t8zDy6dPxl1vSkjltlnUDZv81GQk1ZoyGv8hZN7Cze8Dm06B3WT4E3JBob0mICf3-PNqONylqGV0P9Qw&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQ8NMDegQISRAO",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+sulfate+free+shampoos+for+color+treated+hair&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnuSqXV1mFNNTQJpaArqXU8ReLEjHw:1790441692336&ei=3Pi3asqBFMnprfcPtODnyAE&start=10&sa=N&sstk=AS6-VmK0_WizKY66E6Kxa9t8zDy6dPxl1vSkjltlnUDZv81GQk1ZoyGv8hZN7Cze8Dm06B3WT4E3JBob0mICf3-PNqONylqGV0P9Qw&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQ8tMDegQISRAE",
+      "3": "https://www.google.com/search?q=top+sulfate+free+shampoos+for+color+treated+hair&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnuSqXV1mFNNTQJpaArqXU8ReLEjHw:1790441692336&ei=3Pi3asqBFMnprfcPtODnyAE&start=20&sa=N&sstk=AS6-VmK0_WizKY66E6Kxa9t8zDy6dPxl1vSkjltlnUDZv81GQk1ZoyGv8hZN7Cze8Dm06B3WT4E3JBob0mICf3-PNqONylqGV0P9Qw&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQ8tMDegQISRAG",
+      "4": "https://www.google.com/search?q=top+sulfate+free+shampoos+for+color+treated+hair&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnuSqXV1mFNNTQJpaArqXU8ReLEjHw:1790441692336&ei=3Pi3asqBFMnprfcPtODnyAE&start=30&sa=N&sstk=AS6-VmK0_WizKY66E6Kxa9t8zDy6dPxl1vSkjltlnUDZv81GQk1ZoyGv8hZN7Cze8Dm06B3WT4E3JBob0mICf3-PNqONylqGV0P9Qw&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQ8tMDegQISRAI",
+      "5": "https://www.google.com/search?q=top+sulfate+free+shampoos+for+color+treated+hair&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnuSqXV1mFNNTQJpaArqXU8ReLEjHw:1790441692336&ei=3Pi3asqBFMnprfcPtODnyAE&start=40&sa=N&sstk=AS6-VmK0_WizKY66E6Kxa9t8zDy6dPxl1vSkjltlnUDZv81GQk1ZoyGv8hZN7Cze8Dm06B3WT4E3JBob0mICf3-PNqONylqGV0P9Qw&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQ8tMDegQISRAK",
+      "6": "https://www.google.com/search?q=top+sulfate+free+shampoos+for+color+treated+hair&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnuSqXV1mFNNTQJpaArqXU8ReLEjHw:1790441692336&ei=3Pi3asqBFMnprfcPtODnyAE&start=50&sa=N&sstk=AS6-VmK0_WizKY66E6Kxa9t8zDy6dPxl1vSkjltlnUDZv81GQk1ZoyGv8hZN7Cze8Dm06B3WT4E3JBob0mICf3-PNqONylqGV0P9Qw&ved=2ahUKEwjK37-I24yXAxXJdOsIHTTwGRkQ8tMDegQISRAM"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+sulfate+free+shampoos+for+color+treated+hair&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+sulfate+free+shampoos+for+color+treated+hair&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+sulfate+free+shampoos+for+color+treated+hair&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+sulfate+free+shampoos+for+color+treated+hair&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+sulfate+free+shampoos+for+color+treated+hair&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+sulfate+free+shampoos+for+color+treated+hair&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+sulfate+free+shampoos+for+color+treated+hair&start=50"
+    }
+  }
+}

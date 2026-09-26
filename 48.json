@@ -1,0 +1,637 @@
+{
+  "search_metadata": {
+    "id": "6ab7f2dbbadf0b7d34c6a0aa",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/-uFmt0vIIrlgDwEKGWLoDGp3gtqILd2RK0hqtTwLvlo/6ab7f2dbbadf0b7d34c6a0aa.json",
+    "markdown_endpoint": "https://serpapi.com/searches/-uFmt0vIIrlgDwEKGWLoDGp3gtqILd2RK0hqtTwLvlo/6ab7f2dbbadf0b7d34c6a0aa.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/-uFmt0vIIrlgDwEKGWLoDGp3gtqILd2RK0hqtTwLvlo/6ab7f2dbbadf0b7d34c6a0aa.json_with_pixel_position",
+    "created_at": "2026-09-26 16:29:15 UTC",
+    "processed_at": "2026-09-26 16:29:15 UTC",
+    "google_url": "https://www.google.com/search?q=top+daily+multivitamins+for+men+over+50&oq=top+daily+multivitamins+for+men+over+50&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/-uFmt0vIIrlgDwEKGWLoDGp3gtqILd2RK0hqtTwLvlo/6ab7f2dbbadf0b7d34c6a0aa.html",
+    "total_time_taken": 120.95
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top daily multivitamins for men over 50",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top daily multivitamins for men over 50",
+    "total_results": 183,
+    "time_taken_displayed": 0.63,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "ads": [
+    {
+      "position": 1,
+      "block_position": "top",
+      "title": "Best multivitamin for men over 50 | Best Mens Multivitamin",
+      "link": "https://multivitaminreview.com/",
+      "displayed_link": "https://www.multivitaminreview.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjZ0-3k1YyXAxW8NIMDHbsxOGQYACICCAEQAhoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAAYASAAEgKAB_D_BwE&cid=CAASugHkaByxBRO1LTaKxKKifDR-hIL0SE-F8lhQgPC7RcqzxPRL9hXIq54XMbDprblHfdlV6vWK1ylG1un-jbVsBUYLxkmA7SyO0eeuUCK-OpI-TvQ_PDDlt6XOVHrKwwWXO9lANmDW8pB_rNQWIW32zQvGtXfqD7JilYm-2pCuI3xDjEsL8XRc5kTnj5LLMxRTYvMWDYxfShLt1WWWK0VPcmT6D2pUsQODsxfpukxGlXqOuQT2IcP714iPE_0&cce=2&category=acrcp_v1_32&sig=AOD64_2emnm7eKtBzFhMj1uADvU4lMLB-A&q&nis=4&adurl=https://multivitaminreview.com/?gad_source%3D1%26gad_campaignid%3D23200977346%26gbraid%3D0AAAAAq3ntjh12bmS4-LmNYB3y6nV14KB5%26gclid%3DEAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAAYASAAEgKAB_D_BwE",
+      "description": "We analyzed ingredients, quality, and price - see which multivitamin wins. See which multivitamin is worth your money. Full breakdowns and ratings. Multivitamins for Energy. Teen Multivitamins.",
+      "source": "Multivitamin Review",
+      "sitelinks": [
+        {
+          "title": "Dont waste your money",
+          "link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjZ0-3k1YyXAxW8NIMDHbsxOGQYACICCAEQCRoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAAYASADEgLDDPD_BwE&cid=CAASugHkaByxBRO1LTaKxKKifDR-hIL0SE-F8lhQgPC7RcqzxPRL9hXIq54XMbDprblHfdlV6vWK1ylG1un-jbVsBUYLxkmA7SyO0eeuUCK-OpI-TvQ_PDDlt6XOVHrKwwWXO9lANmDW8pB_rNQWIW32zQvGtXfqD7JilYm-2pCuI3xDjEsL8XRc5kTnj5LLMxRTYvMWDYxfShLt1WWWK0VPcmT6D2pUsQODsxfpukxGlXqOuQT2IcP714iPE_0&cce=2&category=acrcp_v1_32&sig=AOD64_0h3I7QGxn8OtC4ff9pCXjSCrly2A&adurl=https://multivitaminreview.com/%3Fgad_source%3D1%26gad_campaignid%3D23200977346%26gbraid%3D0AAAAAq3ntjh12bmS4-LmNYB3y6nV14KB5%26gclid%3DEAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAAYASADEgLDDPD_BwE&q="
+        },
+        {
+          "title": "Top 5 Multivitamin Review",
+          "link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjZ0-3k1YyXAxW8NIMDHbsxOGQYACICCAEQChoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAAYASAEEgJaIPD_BwE&cid=CAASugHkaByxBRO1LTaKxKKifDR-hIL0SE-F8lhQgPC7RcqzxPRL9hXIq54XMbDprblHfdlV6vWK1ylG1un-jbVsBUYLxkmA7SyO0eeuUCK-OpI-TvQ_PDDlt6XOVHrKwwWXO9lANmDW8pB_rNQWIW32zQvGtXfqD7JilYm-2pCuI3xDjEsL8XRc5kTnj5LLMxRTYvMWDYxfShLt1WWWK0VPcmT6D2pUsQODsxfpukxGlXqOuQT2IcP714iPE_0&cce=2&category=acrcp_v1_32&sig=AOD64_14XLyUfOx1msw13ACTcrtCjeFIoA&adurl=https://multivitaminreview.com/%3Fgad_source%3D1%26gad_campaignid%3D23200977346%26gbraid%3D0AAAAAq3ntjh12bmS4-LmNYB3y6nV14KB5%26gclid%3DEAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAAYASAEEgJaIPD_BwE&q="
+        },
+        {
+          "title": "About Us",
+          "link": "https://multivitaminreview.com/about"
+        },
+        {
+          "title": "Get In Touch",
+          "link": "https://multivitaminreview.com/contact"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "block_position": "top",
+      "title": "Thorne® Multi Vitamins - Trusted Multivitamins",
+      "link": "https://www.thorne.com/products",
+      "displayed_link": "https://www.thorne.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&pf=1&ai=DChsSEwjZ0-3k1YyXAxW8NIMDHbsxOGQYACICCAEQABoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAAYAiAAEgKRO_D_BwE&cid=CAASugHkaByxBRO1LTaKxKKifDR-hIL0SE-F8lhQgPC7RcqzxPRL9hXIq54XMbDprblHfdlV6vWK1ylG1un-jbVsBUYLxkmA7SyO0eeuUCK-OpI-TvQ_PDDlt6XOVHrKwwWXO9lANmDW8pB_rNQWIW32zQvGtXfqD7JilYm-2pCuI3xDjEsL8XRc5kTnj5LLMxRTYvMWDYxfShLt1WWWK0VPcmT6D2pUsQODsxfpukxGlXqOuQT2IcP714iPE_0&cce=2&category=acrcp_v1_32&sig=AOD64_0x-0EggTK73Hs4DIXEfyd1iPc5Kg&q&nis=4&adurl=https://www.thorne.com/products?f%255B0%255D%3DHealth%2520Needs_Multivitamins%26sortp%3Dname.keyword%26ascp%3DASC%26gad_source%3D1%26gad_campaignid%3D19610990380%26gbraid%3D0AAAAADLUbJWEW5pfc8lt4m6OzDYxc_FuT%26gclid%3DEAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAAYAiAAEgKRO_D_BwE",
+      "description": "Purest Possible Ingredients. Most Absorbable Nutrients. No Unnecessary Fillers. Shop Now.",
+      "source": "Thorne",
+      "sitelinks": [
+        {
+          "title": "Thorne Bestsellers",
+          "link": "https://www.thorne.com/products?f%5B0%5D=Feature_Bestsellers&sortp=name.keyword&ascp=ASC&sa=X&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQwgUoAXoECB0QEA"
+        },
+        {
+          "title": "Thorne Sport Performance",
+          "link": "https://www.thorne.com/products/by-health-need/sports-performance?sa=X&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQwgUoA3oECB0QEg"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "block_position": "top",
+      "title": "Centrum Silver Men | Centrum Silver: Win as You Age",
+      "link": "https://www.centrum.com/products/multivitamins/centrum-silver-men-50-plus/",
+      "displayed_link": "https://www.centrum.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjZ0-3k1YyXAxW8NIMDHbsxOGQYACICCAEQAxoCc2Y&ae=2&co=1&ase=2&gclid=EAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAAYAyAAEgLlIvD_BwE&cid=CAASugHkaByxBRO1LTaKxKKifDR-hIL0SE-F8lhQgPC7RcqzxPRL9hXIq54XMbDprblHfdlV6vWK1ylG1un-jbVsBUYLxkmA7SyO0eeuUCK-OpI-TvQ_PDDlt6XOVHrKwwWXO9lANmDW8pB_rNQWIW32zQvGtXfqD7JilYm-2pCuI3xDjEsL8XRc5kTnj5LLMxRTYvMWDYxfShLt1WWWK0VPcmT6D2pUsQODsxfpukxGlXqOuQT2IcP714iPE_0&cce=2&category=acrcp_v1_71&sig=AOD64_184fXcC4vs6FQP5of6nOT5vq6oFA&q&nis=4&adurl",
+      "description": "Centrum Silver is a Complete Multivitamin for Aging Adults. Learn More Now! Centrum Silver Helps...",
+      "source": "Centrum",
+      "sitelinks": [
+        {
+          "title": "Centrum Silver Men 50+",
+          "link": "https://www.centrum.com/products/multivitamins/centrum-silver-men-50-plus/"
+        },
+        {
+          "title": "Age Defy for Men 35+",
+          "link": "https://www.centrum.com/products/multivitamins/age-defy-men-35/"
+        },
+        {
+          "title": "Amazon-Centrum for GLP-1^",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjZ0-3k1YyXAxW8NIMDHbsxOGQYACICCAEQDBoCc2Y&ae=2&co=1&ase=2&gclid=EAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAAYAyADEgL15PD_BwE&cid=CAASugHkaByxBRO1LTaKxKKifDR-hIL0SE-F8lhQgPC7RcqzxPRL9hXIq54XMbDprblHfdlV6vWK1ylG1un-jbVsBUYLxkmA7SyO0eeuUCK-OpI-TvQ_PDDlt6XOVHrKwwWXO9lANmDW8pB_rNQWIW32zQvGtXfqD7JilYm-2pCuI3xDjEsL8XRc5kTnj5LLMxRTYvMWDYxfShLt1WWWK0VPcmT6D2pUsQODsxfpukxGlXqOuQT2IcP714iPE_0&cce=2&category=acrcp_v1_71&sig=AOD64_3vgsCdtIbY4_pl9dRc1kQ-xVGwJg&adurl=&q="
+        },
+        {
+          "title": "Find Your Centrum",
+          "link": "https://www.centrum.com/products/"
+        }
+      ]
+    },
+    {
+      "position": 4,
+      "block_position": "top",
+      "title": "10 Best Multivitamins for Men, Tested by Nutrition Editors and...",
+      "link": "https://www.menshealth.com/health/a19545998/best-multivitamins-for-men/",
+      "displayed_link": "https://www.menshealth.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjZ0-3k1YyXAxW8NIMDHbsxOGQYACICCAEQARoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAAYBCAAEgIbvfD_BwE&cid=CAASugHkaByxBRO1LTaKxKKifDR-hIL0SE-F8lhQgPC7RcqzxPRL9hXIq54XMbDprblHfdlV6vWK1ylG1un-jbVsBUYLxkmA7SyO0eeuUCK-OpI-TvQ_PDDlt6XOVHrKwwWXO9lANmDW8pB_rNQWIW32zQvGtXfqD7JilYm-2pCuI3xDjEsL8XRc5kTnj5LLMxRTYvMWDYxfShLt1WWWK0VPcmT6D2pUsQODsxfpukxGlXqOuQT2IcP714iPE_0&cce=2&category=acrcp_v1_32&sig=AOD64_3V3XpRsTymKPJtnlOCTBYMcWnaDA&q&nis=4&adurl",
+      "description": "Discover expert-backed health products for sleep, recovery, and wellness.",
+      "source": "Men's Health"
+    },
+    {
+      "position": 5,
+      "block_position": "bottom",
+      "title": "Best multivitamin for men over 50 | Teen Multivitamins",
+      "link": "https://multivitaminreview.com/",
+      "displayed_link": "https://www.multivitaminreview.com",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjZ0-3k1YyXAxW8NIMDHbsxOGQYACICCAIQABoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAMYASAAEgL5ofD_BwE&cid=CAASugHkaByxBRO1LTaKxKKifDR-hIL0SE-F8lhQgPC7RcqzxPRL9hXIq54XMbDprblHfdlV6vWK1ylG1un-jbVsBUYLxkmA7SyO0eeuUCK-OpI-TvQ_PDDlt6XOVHrKwwWXO9lANmDW8pB_rNQWIW32zQvGtXfqD7JilYm-2pCuI3xDjEsL8XRc5kTnj5LLMxRTYvMWDYxfShLt1WWWK0VPcmT6D2pUsQODsxfpukxGlXqOuQT2IcP714iPE_0&cce=2&category=acrcp_v1_32&sig=AOD64_1p9AS2GVNu2DQRf5qZ5uK03Po5Gw&q&nis=4&adurl",
+      "description": "We analyzed ingredients, quality, and price - see which multivitamin wins. See which multivitamin is worth your money. Full breakdowns and ratings. Best Mens Multivitamin. Multivitamins for Energy. Top Womens Multivitamin. Highlights: A Range Of Categories Available, Chat Support Available.",
+      "source": "Multivitamin Review",
+      "sitelinks": [
+        {
+          "title": "About Us",
+          "link": "https://multivitaminreview.com/about"
+        },
+        {
+          "title": "Get In Touch",
+          "link": "https://multivitaminreview.com/contact"
+        }
+      ]
+    },
+    {
+      "position": 6,
+      "block_position": "bottom",
+      "title": "Thorne® Daily Multivitamins | Trusted Multivitamins",
+      "link": "https://www.thorne.com/products",
+      "displayed_link": "https://www.thorne.com",
+      "thumbnail": "https://tpc.googlesyndication.com/simgad/17350564125242886020?sqp=-oaymwEKCFwQXCABUAFYAQ&rs=AOga4qmAJvKyIGRm4_pPj8LzJqlPkPWT0A",
+      "tracking_link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjZ0-3k1YyXAxW8NIMDHbsxOGQYACICCAIQBxoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAMYAiAEEgJfkfD_BwE&cid=CAASugHkaByxBRO1LTaKxKKifDR-hIL0SE-F8lhQgPC7RcqzxPRL9hXIq54XMbDprblHfdlV6vWK1ylG1un-jbVsBUYLxkmA7SyO0eeuUCK-OpI-TvQ_PDDlt6XOVHrKwwWXO9lANmDW8pB_rNQWIW32zQvGtXfqD7JilYm-2pCuI3xDjEsL8XRc5kTnj5LLMxRTYvMWDYxfShLt1WWWK0VPcmT6D2pUsQODsxfpukxGlXqOuQT2IcP714iPE_0&cce=2&category=acrcp_v1_32&sig=AOD64_3Oj2wnLmX6wnvi6O9VmLoOHjZZTg&q=&nis=4&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQh78CegQIZxAB&adurl=",
+      "description": "Purest Possible Ingredients. Most Absorbable Nutrients. No Unnecessary Fillers. Shop Now. Trusted by 45k+ health professionals, 100+ pro teams, and US...",
+      "source": "Thorne",
+      "sitelinks": [
+        {
+          "title": "Thorne® Multivitamins",
+          "link": "https://www.google.com/aclk?sa=L&ai=DChsSEwjZ0-3k1YyXAxW8NIMDHbsxOGQYACICCAIQCBoCc2Y&co=1&ase=2&gclid=EAIaIQobChMI2dPt5NWMlwMVvDSDAx27MThkEAMYAiAFEgKbNPD_BwE&cid=CAASugHkaByxBRO1LTaKxKKifDR-hIL0SE-F8lhQgPC7RcqzxPRL9hXIq54XMbDprblHfdlV6vWK1ylG1un-jbVsBUYLxkmA7SyO0eeuUCK-OpI-TvQ_PDDlt6XOVHrKwwWXO9lANmDW8pB_rNQWIW32zQvGtXfqD7JilYm-2pCuI3xDjEsL8XRc5kTnj5LLMxRTYvMWDYxfShLt1WWWK0VPcmT6D2pUsQODsxfpukxGlXqOuQT2IcP714iPE_0&cce=2&category=acrcp_v1_32&sig=AOD64_3g51o2GjEWw6NtFW_zY9YXu9Z2bw&adurl=&q="
+        },
+        {
+          "title": "Thorne Bestsellers",
+          "link": "https://www.thorne.com/products?f%5B0%5D=Feature_Bestsellers&sortp=name.keyword&ascp=ASC"
+        },
+        {
+          "title": "Thorne Sport Performance",
+          "link": "https://www.thorne.com/products/by-health-need/sports-performance"
+        },
+        {
+          "title": "Shop Thorne® Online",
+          "link": "https://www.thorne.com/products"
+        }
+      ]
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Best Multivitamins for Men Over 50 in 2025",
+      "link": "https://www.youtube.com/watch?v=4YQPmu7juTI&vl=en-US",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrNRG61TK22iqj4DS9ikFsbKVv3fdX51CmF_LY9iPyWCDPdQluuc8KRw&s",
+      "channel": "He-InFo",
+      "duration": "26:18",
+      "platform": "YouTube",
+      "date": "Jul 13, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSxPrd54mhxxwNwrZocMu_1nDYZYOWN9DfteA"
+    },
+    {
+      "position": 2,
+      "title": "7 Best Multivitamins for Men in 2026 | Best Daily Vitamins for Men",
+      "link": "https://www.youtube.com/watch?v=wZJqWQckNXk",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUTZHHziFf_chG3Jb5fD9BUAKsDDdFrb956iHmK-q7LOOg5_cvQQC3Fg&s",
+      "channel": "Top Tech Verdict",
+      "duration": "9:08",
+      "platform": "YouTube",
+      "date": "1 month ago",
+      "snippet": "Discover the 7 best multivitamins for men, including Life Extension 2-per-day for high potency & Optimum Nutrition Opti-Men for active lifestyles.",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTW2enPemeD2vRHKF7DwpJDYlrkNuqKQNBt-Q"
+    },
+    {
+      "position": 3,
+      "title": "Best Multivitamin Supplements 2026 | For Health & Wellness",
+      "link": "https://www.youtube.com/watch?v=8pPf6maQxYM",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgpYQAh0xY5BQ1aCZYxH9bbECdjgtvNyOrSL5o4vXlmx_gCuNTksK0TQ&s",
+      "channel": "Generation Iron Fitness & Bodybuilding Network",
+      "duration": "5:02",
+      "platform": "YouTube",
+      "date": "Feb 2, 2026",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTw-TJseF61z4QxAulVojksUEBRNEp_E0eXLQ"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What vitamins should I take daily for a man in his 50s?",
+      "type": "ai_overview",
+      "page_token": "rKVofnicHZBdboIwHMCzy-xx8jHcMDHLmFZloQZo_xVellJEXFuKSkR52xV2hp1qp5nZCX4fXz9q38jfu--669rTZDTq-_5hZ8xObR-E0SN-ujZiJLhSBRdyMn4a2y-VmM7PIng7iiCmbQuzxEpJicQywEDyWXy1N4KilUCy47TsBVOzaJMPxQJiIkOdbkK7QPWhpNGVSi8ii5WHG9VGVh2DBetsUDp2c5ICvBcOBuombAuI46Y9ULs1hXMJsAryTJU8moc3toq4dVFr5n0SkmtMLweh_TMZwIUFHIgddUJ7stSwpLaSYNV7MiRnRnsnY48e0cbFs9c-YXhNHJQJhmRJ_TF3o57fTMjexthBZrtcPQJqj_O6hFI-D9kmrLjlDzd3N3NxvAa_YtoPaGL2MU0G8ak01fjESIiAeumtp9nq_ESVcdLFzsLgp0kjLnl_X4nz1L3_fz39qHQ3aY9m9wfug42b",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=rKVofnicHZBdboIwHMCzy-xx8jHcMDHLmFZloQZo_xVellJEXFuKSkR52xV2hp1qp5nZCX4fXz9q38jfu--669rTZDTq-_5hZ8xObR-E0SN-ujZiJLhSBRdyMn4a2y-VmM7PIng7iiCmbQuzxEpJicQywEDyWXy1N4KilUCy47TsBVOzaJMPxQJiIkOdbkK7QPWhpNGVSi8ii5WHG9VGVh2DBetsUDp2c5ICvBcOBuombAuI46Y9ULs1hXMJsAryTJU8moc3toq4dVFr5n0SkmtMLweh_TMZwIUFHIgddUJ7stSwpLaSYNV7MiRnRnsnY48e0cbFs9c-YXhNHJQJhmRJ_TF3o57fTMjexthBZrtcPQJqj_O6hFI-D9kmrLjlDzd3N3NxvAa_YtoPaGL2MU0G8ak01fjESIiAeumtp9nq_ESVcdLFzsLgp0kjLnl_X4nz1L3_fz39qHQ3aY9m9wfug42b",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIyVk1RbGROVFRacWEwcDVUV3B0V2xST1lsWjVjWGxtYlVvMlpraEtjVEZPY0RadGFHdDJOVTV2YWs5MU1XbGxlakpUVWpOcVkzbHVUVmRmYWs1WU5ubHRUMTlzYjNsbmMyVjFNSE51ZVZKMFdYSjFSWEJ0TVhjMlVSSVhWWFpQTTJGeVgydFBjelo1ZDJOelVEbGZYMXB2UVZFYUlrRkVjM0k1WmxOUGEyZGxhRFJJWDFGUVlVMUNZWFUwVG1sellqQmFhR0U0UTFFIiwiZmN2IjoiMyIsImVpIjoiVXZPM2FyX2tPczZ5d2NzUDlfX1pvQVEiLCJxYyI6IkNpZDBiM0FnWkdGcGJIa2diWFZzZEdsMmFYUmhiV2x1Y3lCbWIzSWdiV1Z1SUc5MlpYSWdOVEFRQUgwSG5TY18iLCJxdWVzdGlvbiI6IldoYXQgdml0YW1pbnMgc2hvdWxkIEkgdGFrZSBkYWlseSBmb3IgYSBtYW4gaW4gaGlzIDUwcz8iLCJsayI6IkdqWjNhR0YwSUhacGRHRnRhVzV6SUhOb2IzVnNaQ0JwSUhSaGEyVWdaR0ZwYkhrZ1ptOXlJR0VnYldGdUlHbHVJR2hwY3lBMU1ITSIsImJzIjoiYzVXUHZ3dkNNQkNGY2IzSk9kTWhvazYxQktwdW1aMExPcDhtSmNIOGdDWnQ4Yi0zdEE0S1NuVTgtTDczN2tHRV9WbFR3dFlrY3NaSGpEbzBWdUlSRTkwVVNqTDJqbFdva2RDUlItTlJtNGhGSGdVX3NGMzNTVFZUS3B3Z0cwcjdNMm1GRnhVVHVzWW04NHdhTEtjOGhsYlZ2U0g0a2kyLVUxU2xBWU1yYktkeml4ekpTd3hXcWxyd25HWGRYd3FVc0M3SG9TOGZqcFBwVFJWOHcxYnhKM1EtZXdBIiwiaWQiOiJmY19Vdk8zYXJfa09zNnl3Y3NQOV9fWm9BUV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIyVk1RbGROVFRacWEwcDVUV3B0V2xST1lsWjVjWGxtYlVvMlpraEtjVEZPY0RadGFHdDJOVTV2YWs5MU1XbGxlakpUVWpOcVkzbHVUVmRmYWs1WU5ubHRUMTlzYjNsbmMyVjFNSE51ZVZKMFdYSjFSWEJ0TVhjMlVSSVhWWFpQTTJGeVgydFBjelo1ZDJOelVEbGZYMXB2UVZFYUlrRkVjM0k1WmxOUGEyZGxhRFJJWDFGUVlVMUNZWFUwVG1sellqQmFhR0U0UTFFIiwiZmN2IjoiMyIsImVpIjoiVXZPM2FyX2tPczZ5d2NzUDlfX1pvQVEiLCJxYyI6IkNpZDBiM0FnWkdGcGJIa2diWFZzZEdsMmFYUmhiV2x1Y3lCbWIzSWdiV1Z1SUc5MlpYSWdOVEFRQUgwSG5TY18iLCJxdWVzdGlvbiI6IldoYXQgdml0YW1pbnMgc2hvdWxkIEkgdGFrZSBkYWlseSBmb3IgYSBtYW4gaW4gaGlzIDUwcz8iLCJsayI6IkdqWjNhR0YwSUhacGRHRnRhVzV6SUhOb2IzVnNaQ0JwSUhSaGEyVWdaR0ZwYkhrZ1ptOXlJR0VnYldGdUlHbHVJR2hwY3lBMU1ITSIsImJzIjoiYzVXUHZ3dkNNQkNGY2IzSk9kTWhvazYxQktwdW1aMExPcDhtSmNIOGdDWnQ4Yi0zdEE0S1NuVTgtTDczN2tHRV9WbFR3dFlrY3NaSGpEbzBWdUlSRTkwVVNqTDJqbFdva2RDUlItTlJtNGhGSGdVX3NGMzNTVFZUS3B3Z0cwcjdNMm1GRnhVVHVzWW04NHdhTEtjOGhsYlZ2U0g0a2kyLVUxU2xBWU1yYktkeml4ekpTd3hXcWxyd25HWGRYd3FVc0M3SG9TOGZqcFBwVFJWOHcxYnhKM1EtZXdBIiwiaWQiOiJmY19Vdk8zYXJfa09zNnl3Y3NQOV9fWm9BUV8zIn0%3D"
+    },
+    {
+      "question": "What is the best multivitamin for men over 50?",
+      "type": "ai_overview",
+      "page_token": "Pqui6nicHdBNjpswGABQ9TKznNgQpU2kqFICJiLBFAMGf5sKbAiJzY8SFBh2vULP0FPNaUbqO8L788_cOv357W8zjsNzt1pN0_R-7furqd5l366K50cnV7Iwpiyk3m2-b_DPWu7dlzwcH_IQpcPAHYZiyxeJA0FGAgs6eIIdYGEFtvKuc5rND6HnkWrfUDLAhXNgjkRMs7O4q7BcAIvFhJWrauZRN-4o4bqByoNzYnMLEPmVmOGeZT6qHL9PFwjDdM4DQo9VFiHmqo3K8My1WsctuDTl4yVpnmC2Z4HFXCI4xS2_la1_uOQ8ZBhMamEMJ3OPXRCRxmtF-BjkwzFdGo8i7ketWjM0FIVFboHLneJElsIeLNEZ7jaKK_1jEblfF2i70M7YwqZRyLd11m4PKetvUcoWeTctJ0DLvB-FTV5wgk5kEhXuNCWOqnPM1uBRR01vtXzt7bf_1_vfdTvuhkd__QLbEIxH",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Pqui6nicHdBNjpswGABQ9TKznNgQpU2kqFICJiLBFAMGf5sKbAiJzY8SFBh2vULP0FPNaUbqO8L788_cOv357W8zjsNzt1pN0_R-7furqd5l366K50cnV7Iwpiyk3m2-b_DPWu7dlzwcH_IQpcPAHYZiyxeJA0FGAgs6eIIdYGEFtvKuc5rND6HnkWrfUDLAhXNgjkRMs7O4q7BcAIvFhJWrauZRN-4o4bqByoNzYnMLEPmVmOGeZT6qHL9PFwjDdM4DQo9VFiHmqo3K8My1WsctuDTl4yVpnmC2Z4HFXCI4xS2_la1_uOQ8ZBhMamEMJ3OPXRCRxmtF-BjkwzFdGo8i7ketWjM0FIVFboHLneJElsIeLNEZ7jaKK_1jEblfF2i70M7YwqZRyLd11m4PKetvUcoWeTctJ0DLvB-FTV5wgk5kEhXuNCWOqnPM1uBRR01vtXzt7bf_1_vfdTvuhkd__QLbEIxH",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIyVk1RbGROVFRacWEwcDVUV3B0V2xST1lsWjVjWGxtYlVvMlpraEtjVEZPY0RadGFHdDJOVTV2YWs5MU1XbGxlakpUVWpOcVkzbHVUVmRmYWs1WU5ubHRUMTlzYjNsbmMyVjFNSE51ZVZKMFdYSjFSWEJ0TVhjMlVSSVhWWFpQTTJGeVgydFBjelo1ZDJOelVEbGZYMXB2UVZFYUlrRkVjM0k1WmxOUGEyZGxhRFJJWDFGUVlVMUNZWFUwVG1sellqQmFhR0U0UTFFIiwiZmN2IjoiMyIsImVpIjoiVXZPM2FyX2tPczZ5d2NzUDlfX1pvQVEiLCJxYyI6IkNpZDBiM0FnWkdGcGJIa2diWFZzZEdsMmFYUmhiV2x1Y3lCbWIzSWdiV1Z1SUc5MlpYSWdOVEFRQUgwSG5TY18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgbXVsdGl2aXRhbWluIGZvciBtZW4gb3ZlciA1MD8iLCJsayI6IkdpSmlaWE4wSUcxMWJIUnBkbWwwWVcxcGJpQm1iM0lnYldWdUlHRm1kR1Z5SURVdyIsImJzIjoiYzVXUHZ3dkNNQkNGY2IzSk9kTWhvazYxQktwdW1aMExPcDhtSmNIOGdDWnQ4Yi0zdEE0S1NuVTgtTDczN2tHRV9WbFR3dFlrY3NaSGpEbzBWdUlSRTkwVVNqTDJqbFdva2RDUlItTlJtNGhGSGdVX3NGMzNTVFZUS3B3Z0cwcjdNMm1GRnhVVHVzWW04NHdhTEtjOGhsYlZ2U0g0a2kyLVUxU2xBWU1yYktkeml4ekpTd3hXcWxyd25HWGRYd3FVc0M3SG9TOGZqcFBwVFJWOHcxYnhKM1EtZXdBIiwiaWQiOiJmY19Vdk8zYXJfa09zNnl3Y3NQOV9fWm9BUV8zIn0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIyVk1RbGROVFRacWEwcDVUV3B0V2xST1lsWjVjWGxtYlVvMlpraEtjVEZPY0RadGFHdDJOVTV2YWs5MU1XbGxlakpUVWpOcVkzbHVUVmRmYWs1WU5ubHRUMTlzYjNsbmMyVjFNSE51ZVZKMFdYSjFSWEJ0TVhjMlVSSVhWWFpQTTJGeVgydFBjelo1ZDJOelVEbGZYMXB2UVZFYUlrRkVjM0k1WmxOUGEyZGxhRFJJWDFGUVlVMUNZWFUwVG1sellqQmFhR0U0UTFFIiwiZmN2IjoiMyIsImVpIjoiVXZPM2FyX2tPczZ5d2NzUDlfX1pvQVEiLCJxYyI6IkNpZDBiM0FnWkdGcGJIa2diWFZzZEdsMmFYUmhiV2x1Y3lCbWIzSWdiV1Z1SUc5MlpYSWdOVEFRQUgwSG5TY18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgbXVsdGl2aXRhbWluIGZvciBtZW4gb3ZlciA1MD8iLCJsayI6IkdpSmlaWE4wSUcxMWJIUnBkbWwwWVcxcGJpQm1iM0lnYldWdUlHRm1kR1Z5SURVdyIsImJzIjoiYzVXUHZ3dkNNQkNGY2IzSk9kTWhvazYxQktwdW1aMExPcDhtSmNIOGdDWnQ4Yi0zdEE0S1NuVTgtTDczN2tHRV9WbFR3dFlrY3NaSGpEbzBWdUlSRTkwVVNqTDJqbFdva2RDUlItTlJtNGhGSGdVX3NGMzNTVFZUS3B3Z0cwcjdNMm1GRnhVVHVzWW04NHdhTEtjOGhsYlZ2U0g0a2kyLVUxU2xBWU1yYktkeml4ekpTd3hXcWxyd25HWGRYd3FVc0M3SG9TOGZqcFBwVFJWOHcxYnhKM1EtZXdBIiwiaWQiOiJmY19Vdk8zYXJfa09zNnl3Y3NQOV9fWm9BUV8zIn0%3D"
+    },
+    {
+      "question": "What is the best multivitamin for 50 and older?",
+      "type": "ai_overview",
+      "page_token": "qdqaLnicHdBBbqMwAEBR9TJdNhiSTIkUjUJt0qTClQGb4M3I2CUEjEGJVYh3vcKcYU41p5lqFn_3Vv_rj76Y7u_D78ba8bZZLKZpejoPw1l_PMmhX4jb3ciFFFpXQnab9Y81-FnLLfqU0ctVRoSOI4Opl7nSpezZUqQA7w8zbbuJvbJrhQabe8dl5uk5A7FTbBzKlhORgaHUIWG51sq7rShVU7oHIykaI9wukFAtC6hOan8GBKgVpquWukOAA5WncXOpzM7HgBdFjGfhq1joZuBmd8-pXjMY8W-1zKAeuX-cK2_FvnvlHc6LNrEJCoWAzS3NY__ksyPRqk8CZROYHgrIqUIgr3wAKzR7H0a_VW2ylIwRiexJBLpFjWKqe3bl6VgLL3TY6KAMMHlnYV30YUTT4UJo6mSre2r4S6KVFWg0lYv3DGHGUBMlFyCyPnzHbWkJeazl5zZ4_P96-6vu7Wa8Dud_gmOMzg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=qdqaLnicHdBBbqMwAEBR9TJdNhiSTIkUjUJt0qTClQGb4M3I2CUEjEGJVYh3vcKcYU41p5lqFn_3Vv_rj76Y7u_D78ba8bZZLKZpejoPw1l_PMmhX4jb3ciFFFpXQnab9Y81-FnLLfqU0ctVRoSOI4Opl7nSpezZUqQA7w8zbbuJvbJrhQabe8dl5uk5A7FTbBzKlhORgaHUIWG51sq7rShVU7oHIykaI9wukFAtC6hOan8GBKgVpquWukOAA5WncXOpzM7HgBdFjGfhq1joZuBmd8-pXjMY8W-1zKAeuX-cK2_FvnvlHc6LNrEJCoWAzS3NY__ksyPRqk8CZROYHgrIqUIgr3wAKzR7H0a_VW2ylIwRiexJBLpFjWKqe3bl6VgLL3TY6KAMMHlnYV30YUTT4UJo6mSre2r4S6KVFWg0lYv3DGHGUBMlFyCyPnzHbWkJeazl5zZ4_P96-6vu7Wa8Dud_gmOMzg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIyVk1RbGROVFRacWEwcDVUV3B0V2xST1lsWjVjWGxtYlVvMlpraEtjVEZPY0RadGFHdDJOVTV2YWs5MU1XbGxlakpUVWpOcVkzbHVUVmRmYWs1WU5ubHRUMTlzYjNsbmMyVjFNSE51ZVZKMFdYSjFSWEJ0TVhjMlVSSVhWWFpQTTJGeVgydFBjelo1ZDJOelVEbGZYMXB2UVZFYUlrRkVjM0k1WmxOUGEyZGxhRFJJWDFGUVlVMUNZWFUwVG1sellqQmFhR0U0UTFFIiwiZmN2IjoiMyIsImVpIjoiVXZPM2FyX2tPczZ5d2NzUDlfX1pvQVEiLCJxYyI6IkNpZDBiM0FnWkdGcGJIa2diWFZzZEdsMmFYUmhiV2x1Y3lCbWIzSWdiV1Z1SUc5MlpYSWdOVEFRQUgwSG5TY18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgbXVsdGl2aXRhbWluIGZvciA1MCBhbmQgb2xkZXI/IiwibGsiOiJHaTUzYUdGMElHbHpJSFJvWlNCaVpYTjBJRzExYkhScGRtbDBZVzFwYmlCbWIzSWdOVEFnWVc1a0lHOXNaR1Z5IiwiYnMiOiJjNVdQdnd2Q01CQ0ZjYjNKT2RNaG9rNjFCS3B1bVowTE9wOG1KY0g4Z0NadDhiLTN0QTRLU25VOC1MNzM3a0dFX1ZsVHd0WWtjc1pIakRvMFZ1SVJFOTBVU2pMMmpsV29rZENSUi1OUm00aEZIZ1Vfc0YzM1NUVlRLcHdnRzByN00ybUZGeFVUdXNZbTg0d2FMS2M4aGxiVnZTSDRraTItVTFTbEFZTXJiS2R6aXh6SlN3eFdxbHJ3bkdYZFh3cVVzQzdIb1M4ZmpwUHBUUlY4dzFieEozUS1ld0EiLCJpZCI6ImZjX1V2TzNhcl9rT3M2eXdjc1A5X19ab0FRXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIyVk1RbGROVFRacWEwcDVUV3B0V2xST1lsWjVjWGxtYlVvMlpraEtjVEZPY0RadGFHdDJOVTV2YWs5MU1XbGxlakpUVWpOcVkzbHVUVmRmYWs1WU5ubHRUMTlzYjNsbmMyVjFNSE51ZVZKMFdYSjFSWEJ0TVhjMlVSSVhWWFpQTTJGeVgydFBjelo1ZDJOelVEbGZYMXB2UVZFYUlrRkVjM0k1WmxOUGEyZGxhRFJJWDFGUVlVMUNZWFUwVG1sellqQmFhR0U0UTFFIiwiZmN2IjoiMyIsImVpIjoiVXZPM2FyX2tPczZ5d2NzUDlfX1pvQVEiLCJxYyI6IkNpZDBiM0FnWkdGcGJIa2diWFZzZEdsMmFYUmhiV2x1Y3lCbWIzSWdiV1Z1SUc5MlpYSWdOVEFRQUgwSG5TY18iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgbXVsdGl2aXRhbWluIGZvciA1MCBhbmQgb2xkZXI%2FIiwibGsiOiJHaTUzYUdGMElHbHpJSFJvWlNCaVpYTjBJRzExYkhScGRtbDBZVzFwYmlCbWIzSWdOVEFnWVc1a0lHOXNaR1Z5IiwiYnMiOiJjNVdQdnd2Q01CQ0ZjYjNKT2RNaG9rNjFCS3B1bVowTE9wOG1KY0g4Z0NadDhiLTN0QTRLU25VOC1MNzM3a0dFX1ZsVHd0WWtjc1pIakRvMFZ1SVJFOTBVU2pMMmpsV29rZENSUi1OUm00aEZIZ1Vfc0YzM1NUVlRLcHdnRzByN00ybUZGeFVUdXNZbTg0d2FMS2M4aGxiVnZTSDRraTItVTFTbEFZTXJiS2R6aXh6SlN3eFdxbHJ3bkdYZFh3cVVzQzdIb1M4ZmpwUHBUUlY4dzFieEozUS1ld0EiLCJpZCI6ImZjX1V2TzNhcl9rT3M2eXdjc1A5X19ab0FRXzMifQ%3D%3D"
+    },
+    {
+      "question": "Should men over 50 take a multivitamin?",
+      "type": "ai_overview",
+      "page_token": "F6AYGHicHdBRbpswAABQ9TL9bOwyuiVSNC2NWYNqtzHYjv0zgQ0hgMEJJKb89S491U4zae8I7_OrPXXN37tbNY5uWC0W3vuHY98f2-JB93aRDR-dXuisbfNMN6un70_wZ6nX6LrbPJ93mz1zjm8pSJF5TyJu-fboNXMysX3IBYHE8gQ_DlMatAmx4UQOzqm6wkUaxYJFF4x4IwU_qJniBIWPKlApBuQ5b5woRDWQlEIW7L8xNp2TuhoklKGGBEgwslS4rRFTZiJ6MXa5kyy8JY0SFBleINOxrvdkpj4FdMDMRRSEEM_RmTD1kcP4-pr-8gaEElv1qmrjczC-FL_bk-xchyrDTfNjloe4zMByJl0byIDs3_iyFHa5YbQ_7Rmddd1aBmOOD0rkTDFsEaSBu6Si9frFcFzTK0NTbPx9qW_r4P7_5_pPaceVu_THf_TQhNQ",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=F6AYGHicHdBRbpswAABQ9TL9bOwyuiVSNC2NWYNqtzHYjv0zgQ0hgMEJJKb89S491U4zae8I7_OrPXXN37tbNY5uWC0W3vuHY98f2-JB93aRDR-dXuisbfNMN6un70_wZ6nX6LrbPJ93mz1zjm8pSJF5TyJu-fboNXMysX3IBYHE8gQ_DlMatAmx4UQOzqm6wkUaxYJFF4x4IwU_qJniBIWPKlApBuQ5b5woRDWQlEIW7L8xNp2TuhoklKGGBEgwslS4rRFTZiJ6MXa5kyy8JY0SFBleINOxrvdkpj4FdMDMRRSEEM_RmTD1kcP4-pr-8gaEElv1qmrjczC-FL_bk-xchyrDTfNjloe4zMByJl0byIDs3_iyFHa5YbQ_7Rmddd1aBmOOD0rkTDFsEaSBu6Si9frFcFzTK0NTbPx9qW_r4P7_5_pPaceVu_THf_TQhNQ",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIyVk1RbGROVFRacWEwcDVUV3B0V2xST1lsWjVjWGxtYlVvMlpraEtjVEZPY0RadGFHdDJOVTV2YWs5MU1XbGxlakpUVWpOcVkzbHVUVmRmYWs1WU5ubHRUMTlzYjNsbmMyVjFNSE51ZVZKMFdYSjFSWEJ0TVhjMlVSSVhWWFpQTTJGeVgydFBjelo1ZDJOelVEbGZYMXB2UVZFYUlrRkVjM0k1WmxOUGEyZGxhRFJJWDFGUVlVMUNZWFUwVG1sellqQmFhR0U0UTFFIiwiZmN2IjoiMyIsImVpIjoiVXZPM2FyX2tPczZ5d2NzUDlfX1pvQVEiLCJxYyI6IkNpZDBiM0FnWkdGcGJIa2diWFZzZEdsMmFYUmhiV2x1Y3lCbWIzSWdiV1Z1SUc5MlpYSWdOVEFRQUgwSG5TY18iLCJxdWVzdGlvbiI6IlNob3VsZCBtZW4gb3ZlciA1MCB0YWtlIGEgbXVsdGl2aXRhbWluPyIsImxrIjoiR2laemFHOTFiR1FnYldWdUlHOTJaWElnTlRBZ2RHRnJaU0JoSUcxMWJIUnBkbWwwWVcxcGJnIiwiYnMiOiJjNVdQdnd2Q01CQ0ZjYjNKT2RNaG9rNjFCS3B1bVowTE9wOG1KY0g4Z0NadDhiLTN0QTRLU25VOC1MNzM3a0dFX1ZsVHd0WWtjc1pIakRvMFZ1SVJFOTBVU2pMMmpsV29rZENSUi1OUm00aEZIZ1Vfc0YzM1NUVlRLcHdnRzByN00ybUZGeFVUdXNZbTg0d2FMS2M4aGxiVnZTSDRraTItVTFTbEFZTXJiS2R6aXh6SlN3eFdxbHJ3bkdYZFh3cVVzQzdIb1M4ZmpwUHBUUlY4dzFieEozUS1ld0EiLCJpZCI6ImZjX1V2TzNhcl9rT3M2eXdjc1A5X19ab0FRXzMifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWIyVk1RbGROVFRacWEwcDVUV3B0V2xST1lsWjVjWGxtYlVvMlpraEtjVEZPY0RadGFHdDJOVTV2YWs5MU1XbGxlakpUVWpOcVkzbHVUVmRmYWs1WU5ubHRUMTlzYjNsbmMyVjFNSE51ZVZKMFdYSjFSWEJ0TVhjMlVSSVhWWFpQTTJGeVgydFBjelo1ZDJOelVEbGZYMXB2UVZFYUlrRkVjM0k1WmxOUGEyZGxhRFJJWDFGUVlVMUNZWFUwVG1sellqQmFhR0U0UTFFIiwiZmN2IjoiMyIsImVpIjoiVXZPM2FyX2tPczZ5d2NzUDlfX1pvQVEiLCJxYyI6IkNpZDBiM0FnWkdGcGJIa2diWFZzZEdsMmFYUmhiV2x1Y3lCbWIzSWdiV1Z1SUc5MlpYSWdOVEFRQUgwSG5TY18iLCJxdWVzdGlvbiI6IlNob3VsZCBtZW4gb3ZlciA1MCB0YWtlIGEgbXVsdGl2aXRhbWluPyIsImxrIjoiR2laemFHOTFiR1FnYldWdUlHOTJaWElnTlRBZ2RHRnJaU0JoSUcxMWJIUnBkbWwwWVcxcGJnIiwiYnMiOiJjNVdQdnd2Q01CQ0ZjYjNKT2RNaG9rNjFCS3B1bVowTE9wOG1KY0g4Z0NadDhiLTN0QTRLU25VOC1MNzM3a0dFX1ZsVHd0WWtjc1pIakRvMFZ1SVJFOTBVU2pMMmpsV29rZENSUi1OUm00aEZIZ1Vfc0YzM1NUVlRLcHdnRzByN00ybUZGeFVUdXNZbTg0d2FMS2M4aGxiVnZTSDRraTItVTFTbEFZTXJiS2R6aXh6SlN3eFdxbHJ3bkdYZFh3cVVzQzdIb1M4ZmpwUHBUUlY4dzFieEozUS1ld0EiLCJpZCI6ImZjX1V2TzNhcl9rT3M2eXdjc1A5X19ab0FRXzMifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "mUkFzHiczZbbcqpIFIYfYJ5juDFbwUOUVFG7mg4SNB7aRI3eUJxsiCBKo0ju5l3mqeZ2XmQaEMVsNbP3xdR0FbTdrv7Xont9LP7403VWy79--9sOwzV5qFSiKCpj38euVTZ8r6KReGVUFr5LAsP-bruCtWKwK2wJs926lhCVIFCQApVgUm1_aLK7nddGO93ZSygG_ovcXs3fOh-mzNfoXH8El2QybaxNebJU2n129jZyjYiJd0KNMYjAMpYjjHeDmhaoywG5jyODDHlVnfsAMWkggqprxHqnce7fSUWt0Nvy99ojHZRJ2VqVn2XpI1R6_dqoVa6yHF8eVDSPGoD_sCEJKECkfdZdaxAA6WuxxAQBmGjlDcPTX1l7zPQSnzid6F51CXAqNEo1EABDOOyZrWTFIVQxuhGxeDagy9OwolRZFP_F4xQaOjxErglv2CqXp6VsGT4Mi6d8VU2k5tLZGMwewWNMs_gwg8_s6dYDdBwpqXKUOngCcCh-AwihGw9OF3QV0FjSrEDXrQ6hvNnd3KiPNRpJxcQ0edmKHtCOqziGbaQ_ApLkNHzlWV-ehqQRmjiquuoqdvfmWG6FzbkSNhe4YujUzvU10zJVW2W_p2OuyjVYvtZs3aUwGeRIEynS9KLAOlqO9bcOKD-XRS5HCR6P49MeS3QML52UCA-mlw4FFzgoLHZg8RzGh56mN6sA5SwfsKQMk17OJwZApJlg2MXQcluQYVl0_oNRlugY4iyipFdOy48mODnYo1bhcHsXqO_8MIOe8l-KcrCPDsrgs4ANRsrR-eyz0gwgiKVkk0T4jJ1s0jiFJGOMAMoDzWSU1C8VBucvk9zx42kzqEwbpXtiJ-zg8TgBSMreI9n7CWeqyfvnnAVc2LLiVk_p9QxvIn-9iV-ClISSM_MJgSI6T9Fmbmz5hiu-yFu46SriS3-iDuR7O0KXUfE9_Scqj_H_gimvS-NDXboOk_Q1TPSGb9Wl9HasS_glg6l7HaZNCtMPdWlwoS59hgmC0QmmrpjVpehaXfpZmOANmPzMJ7gAE0w8Za0IE7wGU16XCjDNXqXzulSE6VSXTjD9Ql0Sf7EupWxZWXdepLbv-Gqxaj9pktmbt3btUaxNBi1uEosofGt8G9lfF6uFFz54muneqY75IFY7YWzeqXTCf7BMZiOE_rpkao4bl7ytGzo7J9Q8Z0VKCz8oedaq5O-soNRgGc8NfIHV6ju-jl6b9X1QXaO1_toUO9NuF_h-tzGW9t6EYH9IFiKZ73lL68iiGwX10DM_lhzczRofi_HSWHGKU7W2aEV6jj7qxZwN3muLBW7OdXMT8_wTZ7RGHopkrTOOWq-cviF9nWttnIWuSGJ1_D5dAFinn8rLNCgixHFAVZub-H7GeIEh0COtY9BHYIppDsI0N-lFv4ZhRK97irRYpVnDEENTLbITmixrNK0mr2k1vVHlTMbDYbwWqjxDVoHA_QMBGWPX",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=mUkFzHiczZbbcqpIFIYfYJ5juDFbwUOUVFG7mg4SNB7aRI3eUJxsiCBKo0ju5l3mqeZ2XmQaEMVsNbP3xdR0FbTdrv7Xont9LP7403VWy79--9sOwzV5qFSiKCpj38euVTZ8r6KReGVUFr5LAsP-bruCtWKwK2wJs926lhCVIFCQApVgUm1_aLK7nddGO93ZSygG_ovcXs3fOh-mzNfoXH8El2QybaxNebJU2n129jZyjYiJd0KNMYjAMpYjjHeDmhaoywG5jyODDHlVnfsAMWkggqprxHqnce7fSUWt0Nvy99ojHZRJ2VqVn2XpI1R6_dqoVa6yHF8eVDSPGoD_sCEJKECkfdZdaxAA6WuxxAQBmGjlDcPTX1l7zPQSnzid6F51CXAqNEo1EABDOOyZrWTFIVQxuhGxeDagy9OwolRZFP_F4xQaOjxErglv2CqXp6VsGT4Mi6d8VU2k5tLZGMwewWNMs_gwg8_s6dYDdBwpqXKUOngCcCh-AwihGw9OF3QV0FjSrEDXrQ6hvNnd3KiPNRpJxcQ0edmKHtCOqziGbaQ_ApLkNHzlWV-ehqQRmjiquuoqdvfmWG6FzbkSNhe4YujUzvU10zJVW2W_p2OuyjVYvtZs3aUwGeRIEynS9KLAOlqO9bcOKD-XRS5HCR6P49MeS3QML52UCA-mlw4FFzgoLHZg8RzGh56mN6sA5SwfsKQMk17OJwZApJlg2MXQcluQYVl0_oNRlugY4iyipFdOy48mODnYo1bhcHsXqO_8MIOe8l-KcrCPDsrgs4ANRsrR-eyz0gwgiKVkk0T4jJ1s0jiFJGOMAMoDzWSU1C8VBucvk9zx42kzqEwbpXtiJ-zg8TgBSMreI9n7CWeqyfvnnAVc2LLiVk_p9QxvIn-9iV-ClISSM_MJgSI6T9Fmbmz5hiu-yFu46SriS3-iDuR7O0KXUfE9_Scqj_H_gimvS-NDXboOk_Q1TPSGb9Wl9HasS_glg6l7HaZNCtMPdWlwoS59hgmC0QmmrpjVpehaXfpZmOANmPzMJ7gAE0w8Za0IE7wGU16XCjDNXqXzulSE6VSXTjD9Ql0Sf7EupWxZWXdepLbv-Gqxaj9pktmbt3btUaxNBi1uEosofGt8G9lfF6uFFz54muneqY75IFY7YWzeqXTCf7BMZiOE_rpkao4bl7ytGzo7J9Q8Z0VKCz8oedaq5O-soNRgGc8NfIHV6ju-jl6b9X1QXaO1_toUO9NuF_h-tzGW9t6EYH9IFiKZ73lL68iiGwX10DM_lhzczRofi_HSWHGKU7W2aEV6jj7qxZwN3muLBW7OdXMT8_wTZ7RGHopkrTOOWq-cviF9nWttnIWuSGJ1_D5dAFinn8rLNCgixHFAVZub-H7GeIEh0COtY9BHYIppDsI0N-lFv4ZhRK97irRYpVnDEENTLbITmixrNK0mr2k1vVHlTMbDYbwWqjxDVoHA_QMBGWPX"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "10 Best Multivitamins for Men in 2026, Tested by Experts",
+      "link": "https://www.menshealth.com/health/a19545998/best-multivitamins-for-men/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESggEB6zswFSfpcz-3xRyTvVO436f7Hcz07JZnI1v3OtjGO6QLw5QYDaCqVYCBWVdp_7inKDQFmhhP1wCU-CDmhobxqeV5Kz1DUkWx5Cvle30931ZCit-6hEQY4op4jXBVykwsitgiR0OqRQngVn6X8PmRc7nYDEIPpwz76xrZg1D95I0R&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQFnoECCgQAQ&uoh=1",
+      "displayed_link": "https://www.menshealth.com › ... › Supplements A to Z",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEzqQRTpQRTpQRTpQRTpQRTpQRTpOwToMQDtbFX74Nv61tHwhXPsWTv4ysP2vbT____ynI31sqf98O3oKADnEgAaznWSAAAAB3RSTlMAPafe9f-9fPfwfwAAANZJREFUeAF901UCxCAMBNBaNoGwMNj9j7pat2nR94U1n7RdP9AmQ9-1zS8POs3j0kZt6TJt011j1_TX2DcDEYsIj43MFdHQEJGxqo7pqarGe68mfKuPfpEDEIQjYMUAiQnwTH-UBOQiHtDyBKIUIMgKQSVPyAd0hAu0QHKwI0pdYwgZNvkRQ3RbVCDH_EcNYYM-AniOGEvdogFQJ-SyxQrYa7RIM8oaOagkOM7_7YvMy_axseqM5fTbeFX7rz46HhmzkByO7Pawb6_J7QW7u5r3l_r2ObwByQIZvBVHQsUAAAAASUVORK5CYII.png",
+      "date": "Aug 14, 2026",
+      "snippet": "Best Overall: Ritual Essential for Men​ · Best for Athletes: Thorne Research Basic Nutrients 2/Day​ · Best Whole Food: MegaFood Men's Advanced ...",
+      "snippet_highlighted_words": [
+        "Best Overall: Ritual Essential for Men"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Best Overall: Ritual Essential for Men​ · Best for Athletes: Thorne Research Basic Nutrients 2/Day​ · Best Whole Food: MegaFood Men's Advanced ...",
+          "source_info_link": "https://www.menshealth.com/health/a19545998/best-multivitamins-for-men/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEVHcEzqQRTpQRTpQRTpQRTpQRTpQRTpOwToMQDtbFX74Nv61tHwhXPsWTv4ysP2vbT____ynI31sqf98O3oKADnEgAaznWSAAAAB3RSTlMAPafe9f-9fPfwfwAAANZJREFUeAF901UCxCAMBNBaNoGwMNj9j7pat2nR94U1n7RdP9AmQ9-1zS8POs3j0kZt6TJt011j1_TX2DcDEYsIj43MFdHQEJGxqo7pqarGe68mfKuPfpEDEIQjYMUAiQnwTH-UBOQiHtDyBKIUIMgKQSVPyAd0hAu0QHKwI0pdYwgZNvkRQ3RbVCDH_EcNYYM-AniOGEvdogFQJ-SyxQrYa7RIM8oaOagkOM7_7YvMy_axseqM5fTbeFX7rz46HhmzkByO7Pawb6_J7QW7u5r3l_r2ObwByQIZvBVHQsUAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZTZnBjei0zeFJ5VHZWTzQzNmY3SGN6MDdKWm5JMXYzT3RqR082UUx3NVFZRGFDcVZZQ0JXVmRwXzdpbktEUUZtaGhQMXdDVS1DRG1ob2J4cWVWNUt6MURVa1d4NUN2bGUzMDkzMVpDaXQtNmhFUVk0b3A0alhCVnlrd3NpdGdpUjBPcVJRbmdWbjZYOFBtUmM3bllERUlQcHd6NzZ4clpnMUQ5NUkwUhIEGgIIABrRBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKsGCAAQABgAIAAqKAoDdG9wFRwigT4aBGJlc3QaB2JpZ2dlc3QaB2hpZ2hlc3QaBHRvcHMqFwoFZGFpbHkVhG2qPxoJZXZlcnkgZGF5KlsKDW11bHRpdml0YW1pbnMVcrpZQBoObXVsdGkgdml0YW1pbnMaDG11bHRpdml0YW1pbhoKc3VwcGxlbWVudBoHdml0YW1pbhoSaXY7cDttdWx0aXZpdGFtaW5zKgoKA2ZvchUAAAAAKjwKA21lbhX7Ib1AGgRndXlzGgNoaW0aBG1hbGUaBW1hbGVzGgRtZW5zGgdtZW5vdmVyGgltZW5vdmVyNTAqOgoEb3ZlchVIaWc_GgVhZnRlchoKb2xkZXIgdGhhbhoHbWVub3ZlchoJbWVub3ZlcjUwGgZvdmVyNTAqNwoCNTAVUI-0PxoENTAncxoDNTBzGgVmaWZ0eRoJbWVub3ZlcjUwGgZvdmVyNTAaB2l2O247NTAyvgEvZ290bz91cmw9Q0FFU2dnRUI2enN3RlNmcGN6LTN4UnlUdlZPNDM2ZjdIY3owN0pabkkxdjNPdGpHTzZRTHc1UVlEYUNxVllDQldWZHBfN2luS0RRRm1oaFAxd0NVLUNEbWhvYnhxZVY1S3oxRFVrV3g1Q3ZsZTMwOTMxWkNpdC02aEVRWTRvcDRqWEJWeWt3c2l0Z2lSME9xUlFuZ1ZuNlg4UG1SYzduWURFSVBwd3o3NnhyWmcxRDk1STBSOj8xMCA8Yj5CZXN0IE11bHRpdml0YW1pbnMgZm9yIE1lbjwvYj4gaW4gMjAyNiwgVGVzdGVkIGJ5IEV4cGVydHNCtAE8Yj5CZXN0IE92ZXJhbGw6IFJpdHVhbCBFc3NlbnRpYWwgZm9yIE1lbjwvYj7igIsgJm1pZGRvdDsgQmVzdCBmb3IgQXRobGV0ZXM6IFRob3JuZSBSZXNlYXJjaCBCYXNpYyBOdXRyaWVudHMgMi9EYXnigIsgJm1pZGRvdDsgQmVzdCBXaG9sZSBGb29kOiBNZWdhRm9vZCBNZW4mIzM5O3MgQWR2YW5jZWQmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr4BL2dvdG8_dXJsPUNBRVNnZ0VCNnpzd0ZTZnBjei0zeFJ5VHZWTzQzNmY3SGN6MDdKWm5JMXYzT3RqR082UUx3NVFZRGFDcVZZQ0JXVmRwXzdpbktEUUZtaGhQMXdDVS1DRG1ob2J4cWVWNUt6MURVa1d4NUN2bGUzMDkzMVpDaXQtNmhFUVk0b3A0alhCVnlrd3NpdGdpUjBPcVJRbmdWbjZYOFBtUmM3bllERUlQcHd6NzZ4clpnMUQ5NUkwUhIEGgIIABrRBhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQKsGCAAQABgAIAAqKAoDdG9wFRwigT4aBGJlc3QaB2JpZ2dlc3QaB2hpZ2hlc3QaBHRvcHMqFwoFZGFpbHkVhG2qPxoJZXZlcnkgZGF5KlsKDW11bHRpdml0YW1pbnMVcrpZQBoObXVsdGkgdml0YW1pbnMaDG11bHRpdml0YW1pbhoKc3VwcGxlbWVudBoHdml0YW1pbhoSaXY7cDttdWx0aXZpdGFtaW5zKgoKA2ZvchUAAAAAKjwKA21lbhX7Ib1AGgRndXlzGgNoaW0aBG1hbGUaBW1hbGVzGgRtZW5zGgdtZW5vdmVyGgltZW5vdmVyNTAqOgoEb3ZlchVIaWc_GgVhZnRlchoKb2xkZXIgdGhhbhoHbWVub3ZlchoJbWVub3ZlcjUwGgZvdmVyNTAqNwoCNTAVUI-0PxoENTAncxoDNTBzGgVmaWZ0eRoJbWVub3ZlcjUwGgZvdmVyNTAaB2l2O247NTAyvgEvZ290bz91cmw9Q0FFU2dnRUI2enN3RlNmcGN6LTN4UnlUdlZPNDM2ZjdIY3owN0pabkkxdjNPdGpHTzZRTHc1UVlEYUNxVllDQldWZHBfN2luS0RRRm1oaFAxd0NVLUNEbWhvYnhxZVY1S3oxRFVrV3g1Q3ZsZTMwOTMxWkNpdC02aEVRWTRvcDRqWEJWeWt3c2l0Z2lSME9xUlFuZ1ZuNlg4UG1SYzduWURFSVBwd3o3NnhyWmcxRDk1STBSOj8xMCA8Yj5CZXN0IE11bHRpdml0YW1pbnMgZm9yIE1lbjwvYj4gaW4gMjAyNiwgVGVzdGVkIGJ5IEV4cGVydHNCtAE8Yj5CZXN0IE92ZXJhbGw6IFJpdHVhbCBFc3NlbnRpYWwgZm9yIE1lbjwvYj7igIsgJm1pZGRvdDsgQmVzdCBmb3IgQXRobGV0ZXM6IFRob3JuZSBSZXNlYXJjaCBCYXNpYyBOdXRyaWVudHMgMi9EYXnigIsgJm1pZGRvdDsgQmVzdCBXaG9sZSBGb29kOiBNZWdhRm9vZCBNZW4mIzM5O3MgQWR2YW5jZWQmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "Men's Health",
+      "read_more_link": "https://www.menshealth.com/health/a19545998/best-multivitamins-for-men/#:~:text=Best%20Overall%3A%20Ritual%20Essential%20for,Men%E2%80%8B&text=Best%20for%20Athletes%3A%20Thorne%20Research,Basic%20Nutrients%202%2FDay%E2%80%8B&text=Best%20Whole%20Food%3A%20MegaFood%20Men's,Advanced%20Multivitamin%E2%80%8B"
+    },
+    {
+      "position": 2,
+      "title": "9 Best Multivitamins For Men Over 50 In 2026",
+      "link": "https://www.forbes.com/health/healthy-aging/best-multivitamins-men-over-50/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFTn5-5w5SvqprR75CulQWN63IXt2uhF6C8n8QCIqTlX-YtyV1lks3RTSIMRv6o4RWym2dGvA1TmfyzKxkiOmM4OxhIgjOzjf5sazEPMUrdFd_U7VnCg6FWm-MS54wqsz-xDpKryte_1bIigmFWxD--1Rbjv1hIkEuIP3C5RzSmKcMA&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://www.forbes.com › health › healthy-aging › best-...",
+      "favicon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACwBACdASocABwAPtEutFooIagoGAEAGglpAAPjYg4AwhrY24dby7OyzlpT-AAAAP70In9oskZJrD8rNJ0nis30esbg_wIej2xZZ1JfvId7SjVlui4gIYAelDOF6jM1gxNKFZjW-cVqZ8MC-cUXTKkEJKFXeuO4jDAGQQwwkeUg_Hclb676os9P1A6QpWnv9zPo_fp83JPzn_TGqR1DXtfz8V1_7RVerT-BYfM0KbEDppEW-YFYnVUAAAA.webp",
+      "date": "Apr 8, 2026",
+      "snippet": "9 Best Multivitamins for Men Over 50 · Nature Made Multi for Him · Centrum Silver Men 50+ Multivitamins · Thorne Men's Multi 50+ Capsules.",
+      "snippet_highlighted_words": [
+        "Nature Made Multi for Him"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "9 Best Multivitamins for Men Over 50 · Nature Made Multi for Him · Centrum Silver Men 50+ Multivitamins · Thorne Men's Multi 50+ Capsules.",
+          "source_info_link": "https://www.forbes.com/health/healthy-aging/best-multivitamins-men-over-50/",
+          "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACwBACdASocABwAPtEutFooIagoGAEAGglpAAPjYg4AwhrY24dby7OyzlpT-AAAAP70In9oskZJrD8rNJ0nis30esbg_wIej2xZZ1JfvId7SjVlui4gIYAelDOF6jM1gxNKFZjW-cVqZ8MC-cUXTKkEJKFXeuO4jDAGQQwwkeUg_Hclb676os9P1A6QpWnv9zPo_fp83JPzn_TGqR1DXtfz8V1_7RVerT-BYfM0KbEDppEW-YFYnVUAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZUbjUtNXc1U3ZxcHJSNzVDdWxRV042M0lYdDJ1aEY2QzhuOFFDSXFUbFgtWXR5VjFsa3MzUlRTSU1SdjZvNFJXeW0yZEd2QTFUbWZ5ekt4a2lPbU00T3hoSWdqT3pqZjVzYXpFUE1VcmRGZF9VN1ZuQ2c2RldtLU1TNTR3cXN6LXhEcEtyeXRlXzFiSWlnbUZXeEQtLTFSYmp2MWhJa0V1SVAzQzVSelNtS2NNQRIEGgIIABrTBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQK0GCAAQABgAIAAqKAoDdG9wFQrWQD8aBGJlc3QaB2JpZ2dlc3QaB2hpZ2hlc3QaBHRvcHMqFwoFZGFpbHkVM7-bPxoJZXZlcnkgZGF5KlsKDW11bHRpdml0YW1pbnMVCOaFQBoObXVsdGkgdml0YW1pbnMaDG11bHRpdml0YW1pbhoKc3VwcGxlbWVudBoHdml0YW1pbhoSaXY7cDttdWx0aXZpdGFtaW5zKgoKA2ZvchUAAAAAKjwKA21lbhVO04tAGgRndXlzGgNoaW0aBG1hbGUaBW1hbGVzGgRtZW5zGgdtZW5vdmVyGgltZW5vdmVyNTAqOgoEb3ZlchUVaZtAGgVhZnRlchoKb2xkZXIgdGhhbhoHbWVub3ZlchoJbWVub3ZlcjUwGgZvdmVyNTAqNwoCNTAVngidQBoENTAncxoDNTBzGgVmaWZ0eRoJbWVub3ZlcjUwGgZvdmVyNTAaB2l2O247NTAyxAEvZ290bz91cmw9Q0FFU2hnRUI2enN3RlRuNS01dzVTdnFwclI3NUN1bFFXTjYzSVh0MnVoRjZDOG44UUNJcVRsWC1ZdHlWMWxrczNSVFNJTVJ2Nm80Uld5bTJkR3ZBMVRtZnl6S3hraU9tTTRPeGhJZ2pPempmNXNhekVQTVVyZEZkX1U3Vm5DZzZGV20tTVM1NHdxc3oteERwS3J5dGVfMWJJaWdtRld4RC0tMVJianYxaElrRXVJUDNDNVJ6U21LY01BOkU5IDxiPkJlc3QgTXVsdGl2aXRhbWlucyBGb3IgTWVuIE92ZXIgNTA8L2I-IEluIDIwMjYg4oCTIEZvcmJlcyBIZWFsdGhCqgE5IEJlc3QgTXVsdGl2aXRhbWlucyBmb3IgTWVuIE92ZXIgNTAgJm1pZGRvdDsgPGI-TmF0dXJlIE1hZGUgTXVsdGkgZm9yIEhpbTwvYj4gJm1pZGRvdDsgQ2VudHJ1bSBTaWx2ZXIgTWVuIDUwKyBNdWx0aXZpdGFtaW5zICZtaWRkb3Q7IFRob3JuZSBNZW4mIzM5O3MgTXVsdGkgNTArIENhcHN1bGVzLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZUbjUtNXc1U3ZxcHJSNzVDdWxRV042M0lYdDJ1aEY2QzhuOFFDSXFUbFgtWXR5VjFsa3MzUlRTSU1SdjZvNFJXeW0yZEd2QTFUbWZ5ekt4a2lPbU00T3hoSWdqT3pqZjVzYXpFUE1VcmRGZF9VN1ZuQ2c2RldtLU1TNTR3cXN6LXhEcEtyeXRlXzFiSWlnbUZXeEQtLTFSYmp2MWhJa0V1SVAzQzVSelNtS2NNQRIEGgIIABrTBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQK0GCAAQABgAIAAqKAoDdG9wFQrWQD8aBGJlc3QaB2JpZ2dlc3QaB2hpZ2hlc3QaBHRvcHMqFwoFZGFpbHkVM7-bPxoJZXZlcnkgZGF5KlsKDW11bHRpdml0YW1pbnMVCOaFQBoObXVsdGkgdml0YW1pbnMaDG11bHRpdml0YW1pbhoKc3VwcGxlbWVudBoHdml0YW1pbhoSaXY7cDttdWx0aXZpdGFtaW5zKgoKA2ZvchUAAAAAKjwKA21lbhVO04tAGgRndXlzGgNoaW0aBG1hbGUaBW1hbGVzGgRtZW5zGgdtZW5vdmVyGgltZW5vdmVyNTAqOgoEb3ZlchUVaZtAGgVhZnRlchoKb2xkZXIgdGhhbhoHbWVub3ZlchoJbWVub3ZlcjUwGgZvdmVyNTAqNwoCNTAVngidQBoENTAncxoDNTBzGgVmaWZ0eRoJbWVub3ZlcjUwGgZvdmVyNTAaB2l2O247NTAyxAEvZ290bz91cmw9Q0FFU2hnRUI2enN3RlRuNS01dzVTdnFwclI3NUN1bFFXTjYzSVh0MnVoRjZDOG44UUNJcVRsWC1ZdHlWMWxrczNSVFNJTVJ2Nm80Uld5bTJkR3ZBMVRtZnl6S3hraU9tTTRPeGhJZ2pPempmNXNhekVQTVVyZEZkX1U3Vm5DZzZGV20tTVM1NHdxc3oteERwS3J5dGVfMWJJaWdtRld4RC0tMVJianYxaElrRXVJUDNDNVJ6U21LY01BOkU5IDxiPkJlc3QgTXVsdGl2aXRhbWlucyBGb3IgTWVuIE92ZXIgNTA8L2I-IEluIDIwMjYg4oCTIEZvcmJlcyBIZWFsdGhCqgE5IEJlc3QgTXVsdGl2aXRhbWlucyBmb3IgTWVuIE92ZXIgNTAgJm1pZGRvdDsgPGI-TmF0dXJlIE1hZGUgTXVsdGkgZm9yIEhpbTwvYj4gJm1pZGRvdDsgQ2VudHJ1bSBTaWx2ZXIgTWVuIDUwKyBNdWx0aXZpdGFtaW5zICZtaWRkb3Q7IFRob3JuZSBNZW4mIzM5O3MgTXVsdGkgNTArIENhcHN1bGVzLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Forbes",
+      "read_more_link": "https://www.forbes.com/health/healthy-aging/best-multivitamins-men-over-50/#:~:text=9%20Best%20Multivitamins%20for%20Men,Over%2050&text=Nature%20Made%20Multi%20for%20Him&text=Centrum%20Silver%20Men%2050%2B%20Multivitamins&text=Thorne%20Men's%20Multi%2050%2B%20Capsules"
+    },
+    {
+      "position": 3,
+      "title": "Best Sellers In Men's Multivitamin Over 50",
+      "link": "https://www.walmart.com/c/best-sellers/men-s-multivitamin-over-50",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVwHQ5qz5fOdjru2rZkQRZuGh7ZGGjA7x5cBBdg3ipGCnaR8G0MxlitkXJ6vNHUtSZgpAhrbCfLI78u19u-KMVXUj7OAuKbY_tQn_QzHx5phxDv0QJL5hCoTWyerT6EIb92y_7WoKPC-ulHoGmwj6Sq9egJ3ToZlQ&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQFnoECD0QAQ&uoh=1",
+      "displayed_link": "https://www.walmart.com › best-sellers › men-s-multivit...",
+      "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp",
+      "snippet": "NATURELO Mens Multivitamins for Men 50+ - One Daily Multivitamin for Men with Vitamins, Minerals & Organic Whole Foods, Boost Energy & Health, Non-GMO, 120 ...",
+      "snippet_highlighted_words": [
+        "NATURELO Mens Multivitamins for Men 50"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.3,
+            "price_from": 5,
+            "price_to": 80,
+            "currency": "$",
+            "store_nearby_mi": 3.0,
+            "free_day_returns": 90
+          },
+          "extensions": [
+            "4.3",
+            "store rating (3.5K)",
+            "$5 to $80",
+            "Store nearby (3.0 mi)",
+            "Free 90-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "NATURELO Mens Multivitamins for Men 50+ - One Daily Multivitamin for Men with Vitamins, Minerals & Organic Whole Foods, Boost Energy & Health, Non-GMO, 120 ...",
+          "source_info_link": "https://www.walmart.com/c/best-sellers/men-s-multivitamin-over-50",
+          "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAKwgcggG2d0IDqAN5X8oABtHskFUFa5dvbgkOxFm9O0JG-M4AAD-9gec84xAv-9qBOurvIAVjlQt-9P8ln6FcX1OSukdJmhnM-ydITFAjfEQPfJ1nQrjgYm7ogsWmdEKRgYlkKk8RkljqCShwf0_8ehWG1JYPFaofPZKf0S9qwnJMsohykq-Qz248rAXsPMQiiv6Wuc3Y_inXG4Exwr9D9_9zgMrBCA9kTHSd5e0PpMnUMKJZF4lcy_cGj_Igl_Ukm0SXQUSjR2jAgv_VCJyC_T5brWFAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVndIUTVxejVmT2RqcnUyclprUVJadUdoN1pHR2pBN3g1Y0JCZGczaXBHQ25hUjhHME14bGl0a1hKNnZOSFV0U1pncEFocmJDZkxJNzh1MTl1LUtNVlhVajdPQXVLYllfdFFuX1F6SHg1cGh4RHYwUUpMNWhDb1RXeWVyVDZFSWI5MnlfN1dvS1BDLXVsSG9HbXdqNlNxOWVnSjNUb1psURIEGgIIABrMBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCoBggAEAAYACAAKigKA3RvcBUAAAAAGgRiZXN0GgdiaWdnZXN0GgdoaWdoZXN0GgR0b3BzKhcKBWRhaWx5Fc9AyT8aCWV2ZXJ5IGRheSpbCg1tdWx0aXZpdGFtaW5zFUQt-D8aDm11bHRpIHZpdGFtaW5zGgxtdWx0aXZpdGFtaW4aCnN1cHBsZW1lbnQaB3ZpdGFtaW4aEml2O3A7bXVsdGl2aXRhbWlucyoKCgNmb3IVAAAAACo8CgNtZW4VslnGQBoEZ3V5cxoDaGltGgRtYWxlGgVtYWxlcxoEbWVucxoHbWVub3ZlchoJbWVub3ZlcjUwKjoKBG92ZXIVKd-KQBoFYWZ0ZXIaCm9sZGVyIHRoYW4aB21lbm92ZXIaCW1lbm92ZXI1MBoGb3ZlcjUwKjcKAjUwFcR9uUAaBDUwJ3MaAzUwcxoFZmlmdHkaCW1lbm92ZXI1MBoGb3ZlcjUwGgdpdjtuOzUwMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVndIUTVxejVmT2RqcnUyclprUVJadUdoN1pHR2pBN3g1Y0JCZGczaXBHQ25hUjhHME14bGl0a1hKNnZOSFV0U1pncEFocmJDZkxJNzh1MTl1LUtNVlhVajdPQXVLYllfdFFuX1F6SHg1cGh4RHYwUUpMNWhDb1RXeWVyVDZFSWI5MnlfN1dvS1BDLXVsSG9HbXdqNlNxOWVnSjNUb1psUTpGPGI-QmVzdDwvYj4gU2VsbGVycyBJbiA8Yj5NZW4mIzM5O3MgTXVsdGl2aXRhbWluIE92ZXIgNTA8L2I-IC0gV2FsbWFydEKzATxiPk5BVFVSRUxPIE1lbnMgTXVsdGl2aXRhbWlucyBmb3IgTWVuIDUwPC9iPisgLSBPbmUgRGFpbHkgTXVsdGl2aXRhbWluIGZvciBNZW4gd2l0aCBWaXRhbWlucywgTWluZXJhbHMgJmFtcDsgT3JnYW5pYyBXaG9sZSBGb29kcywgQm9vc3QgRW5lcmd5ICZhbXA7IEhlYWx0aCwgTm9uLUdNTywgMTIwJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVndIUTVxejVmT2RqcnUyclprUVJadUdoN1pHR2pBN3g1Y0JCZGczaXBHQ25hUjhHME14bGl0a1hKNnZOSFV0U1pncEFocmJDZkxJNzh1MTl1LUtNVlhVajdPQXVLYllfdFFuX1F6SHg1cGh4RHYwUUpMNWhDb1RXeWVyVDZFSWI5MnlfN1dvS1BDLXVsSG9HbXdqNlNxOWVnSjNUb1psURIEGgIIABrMBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCoBggAEAAYACAAKigKA3RvcBUAAAAAGgRiZXN0GgdiaWdnZXN0GgdoaWdoZXN0GgR0b3BzKhcKBWRhaWx5Fc9AyT8aCWV2ZXJ5IGRheSpbCg1tdWx0aXZpdGFtaW5zFUQt-D8aDm11bHRpIHZpdGFtaW5zGgxtdWx0aXZpdGFtaW4aCnN1cHBsZW1lbnQaB3ZpdGFtaW4aEml2O3A7bXVsdGl2aXRhbWlucyoKCgNmb3IVAAAAACo8CgNtZW4VslnGQBoEZ3V5cxoDaGltGgRtYWxlGgVtYWxlcxoEbWVucxoHbWVub3ZlchoJbWVub3ZlcjUwKjoKBG92ZXIVKd-KQBoFYWZ0ZXIaCm9sZGVyIHRoYW4aB21lbm92ZXIaCW1lbm92ZXI1MBoGb3ZlcjUwKjcKAjUwFcR9uUAaBDUwJ3MaAzUwcxoFZmlmdHkaCW1lbm92ZXI1MBoGb3ZlcjUwGgdpdjtuOzUwMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVndIUTVxejVmT2RqcnUyclprUVJadUdoN1pHR2pBN3g1Y0JCZGczaXBHQ25hUjhHME14bGl0a1hKNnZOSFV0U1pncEFocmJDZkxJNzh1MTl1LUtNVlhVajdPQXVLYllfdFFuX1F6SHg1cGh4RHYwUUpMNWhDb1RXeWVyVDZFSWI5MnlfN1dvS1BDLXVsSG9HbXdqNlNxOWVnSjNUb1psUTpGPGI-QmVzdDwvYj4gU2VsbGVycyBJbiA8Yj5NZW4mIzM5O3MgTXVsdGl2aXRhbWluIE92ZXIgNTA8L2I-IC0gV2FsbWFydEKzATxiPk5BVFVSRUxPIE1lbnMgTXVsdGl2aXRhbWlucyBmb3IgTWVuIDUwPC9iPisgLSBPbmUgRGFpbHkgTXVsdGl2aXRhbWluIGZvciBNZW4gd2l0aCBWaXRhbWlucywgTWluZXJhbHMgJmFtcDsgT3JnYW5pYyBXaG9sZSBGb29kcywgQm9vc3QgRW5lcmd5ICZhbXA7IEhlYWx0aCwgTm9uLUdNTywgMTIwJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Walmart",
+      "read_more_link": "https://www.walmart.com/c/best-sellers/men-s-multivitamin-over-50#:~:text=NATURELO%20Mens%20Multivitamins%20for%20Men,Health%2C%20Non%2DGMO%2C%20120%20Vegetarian%20Capsules"
+    },
+    {
+      "position": 4,
+      "title": "Multi Vitamins for Him 50+ Tablets | 22 Key Nutrients",
+      "link": "https://www.naturemade.com/products/nature-made-mens-multi-50-tablets?srsltid=AU7gw4VA2HLDWfdA7d6aKEjDeqXClre7izD2I5yf4GSEFwPkfTFSYDOT",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwgEB6zswFcmGbLkWGSoZNRX1Bwh7DWP4KEHWNU3I1XQST_jB6Qw7D8AmYJwvf5qGn569I-sZDpIwXfrHGBcNXsw1PImIDTNtxBUkHczL_xKDb9plmqhP7geYrN0s95fsC9cCLyM8Pfef59STSWyepqOQanN06YOvk5Diqkn56Mry4LrTpYcLHNSs2W52JjLLDr7hKKq6o42rEbsQDWYUQDod2nN1KNAqPPP5Z9wGLqUaTawLYh0iDynGvVvC7Ju7e0KSWA&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQFnoECDsQAQ&uoh=1",
+      "displayed_link": "https://www.naturemade.com › Multivitamins",
+      "favicon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAACwBACdASocABwAPtEutFooIagoGAEAGglqAMDdi4bfa6pHBPKqKxiE8DQr_vMAAP72AScjpeNNI7EQAsp6qv1n0UclIa4v1xJphi0aYFy3mLAdF6FeAOFyh1UhMiI_Kx-HbwFZwoP-Jfx57voZTNJVe0Q22iaK4r4hz4HgPc4cx5YKSbxJD2fMDUzaJEG4OGCW0N0aknxgGdxofKOWQY9fUIX6XcZD57XUoSzqQoq2la4U8QIcXgKMUR0eaHBZdHxMEUAA.webp",
+      "snippet": "Nature Made® Multi For Him 50+ is specially formulated with 22 key nutrients to help support a healthy immune system, muscle health and cellular energy ...",
+      "snippet_highlighted_words": [
+        "Nature Made® Multi For Him 50"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.7,
+            "reviews": 133,
+            "price": 13.59,
+            "currency": "$",
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.7(133)",
+            "$13.59",
+            "In stock",
+            "$8 delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Nature Made® Multi For Him 50+ is specially formulated with 22 key nutrients to help support a healthy immune system, muscle health and cellular energy ...",
+          "source_info_link": "https://www.naturemade.com/products/nature-made-mens-multi-50-tablets?srsltid=AU7gw4VA2HLDWfdA7d6aKEjDeqXClre7izD2I5yf4GSEFwPkfTFSYDOT",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAACwBACdASocABwAPtEutFooIagoGAEAGglqAMDdi4bfa6pHBPKqKxiE8DQr_vMAAP72AScjpeNNI7EQAsp6qv1n0UclIa4v1xJphi0aYFy3mLAdF6FeAOFyh1UhMiI_Kx-HbwFZwoP-Jfx57voZTNJVe0Q22iaK4r4hz4HgPc4cx5YKSbxJD2fMDUzaJEG4OGCW0N0aknxgGdxofKOWQY9fUIX6XcZD57XUoSzqQoq2la4U8QIcXgKMUR0eaHBZdHxMEUAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZjbUdiTGtXR1NvWk5SWDFCd2g3RFdQNEtFSFdOVTNJMVhRU1RfakI2UXc3RDhBbVlKd3ZmNXFHbjU2OUktc1pEcEl3WGZySEdCY05Yc3cxUEltSURUTnR4QlVrSGN6TF94S0RiOXBsbXFoUDdnZVlyTjBzOTVmc0M5Y0NMeU04UGZlZjU5U1RTV3llcHFPUWFuTjA2WU92azVEaXFrbjU2TXJ5NExyVHBZY0xITlNzMlc1MkpqTExEcjdoS0txNm80MnJFYnNRRFdZVVFEb2Qybk4xS05BcVBQUDVaOXdHTHFVYVRhd0xZaDBpRHluR3ZWdkM3SnU3ZTBLU1dBEgQaAggAGsAGEgIIARoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAmgYIABAAGAAgACooCgN0b3AVvvxBPhoEYmVzdBoHYmlnZ2VzdBoHaGlnaGVzdBoEdG9wcyoXCgVkYWlseRVwJII_GglldmVyeSBkYXkqWwoNbXVsdGl2aXRhbWlucxVTik5AGg5tdWx0aSB2aXRhbWlucxoMbXVsdGl2aXRhbWluGgpzdXBwbGVtZW50Ggd2aXRhbWluGhJpdjtwO211bHRpdml0YW1pbnMqCgoDZm9yFQAAAAAqPAoDbWVuFb4Fuj8aBGd1eXMaA2hpbRoEbWFsZRoFbWFsZXMaBG1lbnMaB21lbm92ZXIaCW1lbm92ZXI1MCo6CgRvdmVyFUX7sD4aBWFmdGVyGgpvbGRlciB0aGFuGgdtZW5vdmVyGgltZW5vdmVyNTAaBm92ZXI1MCo3CgI1MBXa_F5AGgQ1MCdzGgM1MHMaBWZpZnR5GgltZW5vdmVyNTAaBm92ZXI1MBoHaXY7bjs1MDK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGU0NtMmJyeXVmNTlUQXYtdW9iMHlSN2N4MTRtMG1ma0VZT3RFTTA5U0tCcElQNUlnanNiZHFTTl9Bdlo3SG8wcXlsbHZUS2RwSmRHRU16d3d2QXFKckE4b0lyVDJXcnhZZDZ5NDJtbDNPcGl4SmN1eC1YZ0xmeHF0LVVsVlJQVUhaWXZqbmFOZnE3ZzZMMGd0YnJfRnBGTDdkVDVadTVkcWg3TG5BOjw8Yj5NdWx0aSBWaXRhbWlucyBmb3IgSGltIDUwPC9iPisgVGFibGV0cyB8IDIyIEtleSBOdXRyaWVudHNCqAE8Yj5OYXR1cmUgTWFkZcKuIE11bHRpIEZvciBIaW0gNTA8L2I-KyBpcyBzcGVjaWFsbHkgZm9ybXVsYXRlZCB3aXRoIDIyIGtleSBudXRyaWVudHMgdG8gaGVscCBzdXBwb3J0IGEgaGVhbHRoeSBpbW11bmUgc3lzdGVtLCBtdXNjbGUgaGVhbHRoIGFuZCBjZWxsdWxhciBlbmVyZ3kmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQCL2dvdG8_dXJsPUNBRVN3Z0VCNnpzd0ZjbUdiTGtXR1NvWk5SWDFCd2g3RFdQNEtFSFdOVTNJMVhRU1RfakI2UXc3RDhBbVlKd3ZmNXFHbjU2OUktc1pEcEl3WGZySEdCY05Yc3cxUEltSURUTnR4QlVrSGN6TF94S0RiOXBsbXFoUDdnZVlyTjBzOTVmc0M5Y0NMeU04UGZlZjU5U1RTV3llcHFPUWFuTjA2WU92azVEaXFrbjU2TXJ5NExyVHBZY0xITlNzMlc1MkpqTExEcjdoS0txNm80MnJFYnNRRFdZVVFEb2Qybk4xS05BcVBQUDVaOXdHTHFVYVRhd0xZaDBpRHluR3ZWdkM3SnU3ZTBLU1dBEgQaAggAGsAGEgIIARoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAmgYIABAAGAAgACooCgN0b3AVvvxBPhoEYmVzdBoHYmlnZ2VzdBoHaGlnaGVzdBoEdG9wcyoXCgVkYWlseRVwJII_GglldmVyeSBkYXkqWwoNbXVsdGl2aXRhbWlucxVTik5AGg5tdWx0aSB2aXRhbWlucxoMbXVsdGl2aXRhbWluGgpzdXBwbGVtZW50Ggd2aXRhbWluGhJpdjtwO211bHRpdml0YW1pbnMqCgoDZm9yFQAAAAAqPAoDbWVuFb4Fuj8aBGd1eXMaA2hpbRoEbWFsZRoFbWFsZXMaBG1lbnMaB21lbm92ZXIaCW1lbm92ZXI1MCo6CgRvdmVyFUX7sD4aBWFmdGVyGgpvbGRlciB0aGFuGgdtZW5vdmVyGgltZW5vdmVyNTAaBm92ZXI1MCo3CgI1MBXa_F5AGgQ1MCdzGgM1MHMaBWZpZnR5GgltZW5vdmVyNTAaBm92ZXI1MBoHaXY7bjs1MDK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGU0NtMmJyeXVmNTlUQXYtdW9iMHlSN2N4MTRtMG1ma0VZT3RFTTA5U0tCcElQNUlnanNiZHFTTl9Bdlo3SG8wcXlsbHZUS2RwSmRHRU16d3d2QXFKckE4b0lyVDJXcnhZZDZ5NDJtbDNPcGl4SmN1eC1YZ0xmeHF0LVVsVlJQVUhaWXZqbmFOZnE3ZzZMMGd0YnJfRnBGTDdkVDVadTVkcWg3TG5BOjw8Yj5NdWx0aSBWaXRhbWlucyBmb3IgSGltIDUwPC9iPisgVGFibGV0cyB8IDIyIEtleSBOdXRyaWVudHNCqAE8Yj5OYXR1cmUgTWFkZcKuIE11bHRpIEZvciBIaW0gNTA8L2I-KyBpcyBzcGVjaWFsbHkgZm9ybXVsYXRlZCB3aXRoIDIyIGtleSBudXRyaWVudHMgdG8gaGVscCBzdXBwb3J0IGEgaGVhbHRoeSBpbW11bmUgc3lzdGVtLCBtdXNjbGUgaGVhbHRoIGFuZCBjZWxsdWxhciBlbmVyZ3kmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "Nature Made"
+    },
+    {
+      "position": 5,
+      "title": "THORNE Men's Multi 50+, Comprehensive Daily ...",
+      "link": "https://www.amazon.com/clp/B08779P9P1",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVcFk2Nd6TAZglNEv34ySnKBl7ykbO_Ud58WXMt87WaSm7d5VFWt7IkedZPsZhW-Ko51Wwo4t9eWj7O8Tp-Q6ozaMWKbCnrIdKaPcte4zPdH5hYa6xF4r6-z7U3w&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQFnoECDwQAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › clp",
+      "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+      "snippet": "Buy THORNE Men's Multi 50+, Comprehensive Daily Multi-Vitamin, 180 Capsules | Formulated with 23 Key Nutrients, Supports Prostate, Heart, Brain, ...",
+      "snippet_highlighted_words": [
+        "THORNE Men's Multi 50"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Free delivery",
+            "30-day returns"
+          ],
+          "detected_extensions": {
+            "day_returns": 30
+          }
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Buy THORNE Men's Multi 50+, Comprehensive Daily Multi-Vitamin, 180 Capsules | Formulated with 23 Key Nutrients, Supports Prostate, Heart, Brain, ...",
+          "source_info_link": "https://www.amazon.com/clp/B08779P9P1",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmNGazJOZDZUQVpnbE5FdjM0eVNuS0JsN3lrYk9fVWQ1OFdYTXQ4N1dhU203ZDVWRld0N0lrZWRaUHNaaFctS281MVd3bzR0OWVXajdPOFRwLVE2b3phTVdLYkNucklkS2FQY3RlNHpQZEg1aFlhNnhGNHI2LXo3VTN3EgQaAggAGrEGEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAiwYIABAAGAAgACooCgN0b3AVLJLoOxoEYmVzdBoHYmlnZ2VzdBoHaGlnaGVzdBoEdG9wcyoXCgVkYWlseRXYYrtAGglldmVyeSBkYXkqWwoNbXVsdGl2aXRhbWlucxXPa0FAGg5tdWx0aSB2aXRhbWlucxoMbXVsdGl2aXRhbWluGgpzdXBwbGVtZW50Ggd2aXRhbWluGhJpdjtwO211bHRpdml0YW1pbnMqCgoDZm9yFQAAAAAqPAoDbWVuFb9w9UAaBGd1eXMaA2hpbRoEbWFsZRoFbWFsZXMaBG1lbnMaB21lbm92ZXIaCW1lbm92ZXI1MCo6CgRvdmVyFV6PQUAaBWFmdGVyGgpvbGRlciB0aGFuGgdtZW5vdmVyGgltZW5vdmVyNTAaBm92ZXI1MCo3CgI1MBVlDuJAGgQ1MCdzGgM1MHMaBWZpZnR5GgltZW5vdmVyNTAaBm92ZXI1MBoHaXY7bjs1MDKQAS9nb3RvP3VybD1DQUVTWUFIck96QVZjRmsyTmQ2VEFaZ2xORXYzNHlTbktCbDd5a2JPX1VkNThXWE10ODdXYVNtN2Q1VkZXdDdJa2VkWlBzWmhXLUtvNTFXd280dDllV2o3TzhUcC1RNm96YU1XS2JDbnJJZEthUGN0ZTR6UGRINWhZYTZ4RjRyNi16N1UzdzpdVEhPUk5FIDxiPk1lbiYjMzk7czwvYj4gTXVsdGkgPGI-NTA8L2I-KywgQ29tcHJlaGVuc2l2ZSA8Yj5EYWlseTwvYj4gTXVsdGktPGI-Vml0YW1pbjwvYj4gLi4uQqQBQnV5IDxiPlRIT1JORSBNZW4mIzM5O3MgTXVsdGkgNTA8L2I-KywgQ29tcHJlaGVuc2l2ZSBEYWlseSBNdWx0aS1WaXRhbWluLCAxODAgQ2Fwc3VsZXMgfCBGb3JtdWxhdGVkIHdpdGggMjMgS2V5IE51dHJpZW50cywgU3VwcG9ydHMgUHJvc3RhdGUsIEhlYXJ0LCBCcmFpbiwmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmNGazJOZDZUQVpnbE5FdjM0eVNuS0JsN3lrYk9fVWQ1OFdYTXQ4N1dhU203ZDVWRld0N0lrZWRaUHNaaFctS281MVd3bzR0OWVXajdPOFRwLVE2b3phTVdLYkNucklkS2FQY3RlNHpQZEg1aFlhNnhGNHI2LXo3VTN3EgQaAggAGrEGEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAiwYIABAAGAAgACooCgN0b3AVLJLoOxoEYmVzdBoHYmlnZ2VzdBoHaGlnaGVzdBoEdG9wcyoXCgVkYWlseRXYYrtAGglldmVyeSBkYXkqWwoNbXVsdGl2aXRhbWlucxXPa0FAGg5tdWx0aSB2aXRhbWlucxoMbXVsdGl2aXRhbWluGgpzdXBwbGVtZW50Ggd2aXRhbWluGhJpdjtwO211bHRpdml0YW1pbnMqCgoDZm9yFQAAAAAqPAoDbWVuFb9w9UAaBGd1eXMaA2hpbRoEbWFsZRoFbWFsZXMaBG1lbnMaB21lbm92ZXIaCW1lbm92ZXI1MCo6CgRvdmVyFV6PQUAaBWFmdGVyGgpvbGRlciB0aGFuGgdtZW5vdmVyGgltZW5vdmVyNTAaBm92ZXI1MCo3CgI1MBVlDuJAGgQ1MCdzGgM1MHMaBWZpZnR5GgltZW5vdmVyNTAaBm92ZXI1MBoHaXY7bjs1MDKQAS9nb3RvP3VybD1DQUVTWUFIck96QVZjRmsyTmQ2VEFaZ2xORXYzNHlTbktCbDd5a2JPX1VkNThXWE10ODdXYVNtN2Q1VkZXdDdJa2VkWlBzWmhXLUtvNTFXd280dDllV2o3TzhUcC1RNm96YU1XS2JDbnJJZEthUGN0ZTR6UGRINWhZYTZ4RjRyNi16N1UzdzpdVEhPUk5FIDxiPk1lbiYjMzk7czwvYj4gTXVsdGkgPGI-NTA8L2I-KywgQ29tcHJlaGVuc2l2ZSA8Yj5EYWlseTwvYj4gTXVsdGktPGI-Vml0YW1pbjwvYj4gLi4uQqQBQnV5IDxiPlRIT1JORSBNZW4mIzM5O3MgTXVsdGkgNTA8L2I-KywgQ29tcHJlaGVuc2l2ZSBEYWlseSBNdWx0aS1WaXRhbWluLCAxODAgQ2Fwc3VsZXMgfCBGb3JtdWxhdGVkIHdpdGggMjMgS2V5IE51dHJpZW50cywgU3VwcG9ydHMgUHJvc3RhdGUsIEhlYXJ0LCBCcmFpbiwmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 6,
+      "title": "8 Best Multivitamins for Men Over 50, According to Dietitians",
+      "link": "https://www.healthline.com/nutrition/best-multivitamin-for-men-over-50",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFZapWcN2BYOk8pLQ_d0OALgbtqczkeTKWlrDLNSdk8C9jOn2_NH5BycNjX2c_uve1_b5TIgLmFg5LCTrc8G7zVSYF2WEdUCYh9XU4b4Tcn3iTXjKmFRmHf6Nwra4gSRqnn9yEfjHmrW_P0rFgH7M0EhDB12f0UXcg6XYcmk&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQFnoECEUQAQ&uoh=1",
+      "displayed_link": "https://www.healthline.com › nutrition › best-multivita...",
+      "favicon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBgCdASocABwAPtE-tFooIigoFAEAGglpABORjn98_T0Rvxv1gDZkZhcK_Eu-WCtPi8LhNYTbolSjHMCdkAAA_vYS3SHFftRqVOLMrOdh-T7RK_JNAnjv18mpQnQbykHYp-0MBd3tS9fH_UFKZiq0TLy17PPezeB0wmn_7Rb8NjOXMHnOGzWZPOYLa5EOZ9M7Rcls-9qcqQZOFkqBZhjVkmQveFjxdhYYbVF2QJ2WVeqNinE3maCmxP7nwcf_TXICXIgd2rLRiFAqJpvzVf_weeJEELC4mw7vyebLDNbtq56RBRxyOewGaxKR9Wl7-rmR1um6a3OugWnaU9sdQUgvudRxj0eKPIuFuymifcrr3u37nrTvvHKHtZK1yNMfY0oQ3tbVVeiCWAAA.webp",
+      "snippet": "What is the best multivitamin for men over 50? MegaFood Men's 55+ One Daily Multivitamin is one of the highest rated men's multivitamins on the market.",
+      "snippet_highlighted_words": [
+        "MegaFood Men's 55+ One Daily Multivitamin"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Our picks",
+            "link": "https://www.healthline.com/nutrition/best-multivitamin-for-men-over-50#our-picks"
+          },
+          {
+            "title": "Comparison",
+            "link": "https://www.healthline.com/nutrition/best-multivitamin-for-men-over-50#comparison"
+          },
+          {
+            "title": "How we chose",
+            "link": "https://www.healthline.com/nutrition/best-multivitamin-for-men-over-50#how-we-chose"
+          },
+          {
+            "title": "Important nutrients",
+            "link": "https://www.healthline.com/nutrition/best-multivitamin-for-men-over-50#important-nutrients"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "What is the best multivitamin for men over 50? MegaFood Men's 55+ One Daily Multivitamin is one of the highest rated men's multivitamins on the market.",
+          "source_info_link": "https://www.healthline.com/nutrition/best-multivitamin-for-men-over-50",
+          "icon": "https://serpapi.com/images/i/UklGRjYBAABXRUJQVlA4ICoBAADQBgCdASocABwAPtE-tFooIigoFAEAGglpABORjn98_T0Rvxv1gDZkZhcK_Eu-WCtPi8LhNYTbolSjHMCdkAAA_vYS3SHFftRqVOLMrOdh-T7RK_JNAnjv18mpQnQbykHYp-0MBd3tS9fH_UFKZiq0TLy17PPezeB0wmn_7Rb8NjOXMHnOGzWZPOYLa5EOZ9M7Rcls-9qcqQZOFkqBZhjVkmQveFjxdhYYbVF2QJ2WVeqNinE3maCmxP7nwcf_TXICXIgd2rLRiFAqJpvzVf_weeJEELC4mw7vyebLDNbtq56RBRxyOewGaxKR9Wl7-rmR1um6a3OugWnaU9sdQUgvudRxj0eKPIuFuymifcrr3u37nrTvvHKHtZK1yNMfY0oQ3tbVVeiCWAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZaYXBXY04yQllPazhwTFFfZDBPQUxnYnRxY3prZVRLV2xyRExOU2RrOEM5ak9uMl9OSDVCeWNOalgyY191dmUxX2I1VElnTG1GZzVMQ1RyYzhHN3pWU1lGMldFZFVDWWg5WFU0YjRUY24zaVRYakttRlJtSGY2TndyYTRnU1Jxbm45eUVmakhtcldfUDByRmdIN00wRWhEQjEyZjBVWGNnNlhZY21rEgQaAggAGscGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAoQYIABAAGAAgACooCgN0b3AVDZadPhoEYmVzdBoHYmlnZ2VzdBoHaGlnaGVzdBoEdG9wcyoXCgVkYWlseRXQk-g_GglldmVyeSBkYXkqWwoNbXVsdGl2aXRhbWlucxXDQpRAGg5tdWx0aSB2aXRhbWlucxoMbXVsdGl2aXRhbWluGgpzdXBwbGVtZW50Ggd2aXRhbWluGhJpdjtwO211bHRpdml0YW1pbnMqCgoDZm9yFQAAAAAqPAoDbWVuFQRaqEAaBGd1eXMaA2hpbRoEbWFsZRoFbWFsZXMaBG1lbnMaB21lbm92ZXIaCW1lbm92ZXI1MCo6CgRvdmVyFZQrn0AaBWFmdGVyGgpvbGRlciB0aGFuGgdtZW5vdmVyGgltZW5vdmVyNTAaBm92ZXI1MCo3CgI1MBWmQqRAGgQ1MCdzGgM1MHMaBWZpZnR5GgltZW5vdmVyNTAaBm92ZXI1MBoHaXY7bjs1MDK9AS9nb3RvP3VybD1DQUVTZ1FFQjZ6c3dGWmFwV2NOMkJZT2s4cExRX2QwT0FMZ2J0cWN6a2VUS1dsckRMTlNkazhDOWpPbjJfTkg1QnljTmpYMmNfdXZlMV9iNVRJZ0xtRmc1TENUcmM4Rzd6VlNZRjJXRWRVQ1loOVhVNGI0VGNuM2lUWGpLbUZSbUhmNk53cmE0Z1NScW5uOXlFZmpIbXJXX1AwckZnSDdNMEVoREIxMmYwVVhjZzZYWWNtazpEOCA8Yj5CZXN0IE11bHRpdml0YW1pbnMgZm9yIE1lbiBPdmVyIDUwPC9iPiwgQWNjb3JkaW5nIHRvIERpZXRpdGlhbnNCpgFXaGF0IGlzIHRoZSBiZXN0IG11bHRpdml0YW1pbiBmb3IgbWVuIG92ZXIgNTA_IDxiPk1lZ2FGb29kIE1lbiYjMzk7cyA1NSsgT25lIERhaWx5IE11bHRpdml0YW1pbjwvYj4gaXMgb25lIG9mIHRoZSBoaWdoZXN0IHJhdGVkIG1lbiYjMzk7cyBtdWx0aXZpdGFtaW5zIG9uIHRoZSBtYXJrZXQuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZaYXBXY04yQllPazhwTFFfZDBPQUxnYnRxY3prZVRLV2xyRExOU2RrOEM5ak9uMl9OSDVCeWNOalgyY191dmUxX2I1VElnTG1GZzVMQ1RyYzhHN3pWU1lGMldFZFVDWWg5WFU0YjRUY24zaVRYakttRlJtSGY2TndyYTRnU1Jxbm45eUVmakhtcldfUDByRmdIN00wRWhEQjEyZjBVWGNnNlhZY21rEgQaAggAGscGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAoQYIABAAGAAgACooCgN0b3AVDZadPhoEYmVzdBoHYmlnZ2VzdBoHaGlnaGVzdBoEdG9wcyoXCgVkYWlseRXQk-g_GglldmVyeSBkYXkqWwoNbXVsdGl2aXRhbWlucxXDQpRAGg5tdWx0aSB2aXRhbWlucxoMbXVsdGl2aXRhbWluGgpzdXBwbGVtZW50Ggd2aXRhbWluGhJpdjtwO211bHRpdml0YW1pbnMqCgoDZm9yFQAAAAAqPAoDbWVuFQRaqEAaBGd1eXMaA2hpbRoEbWFsZRoFbWFsZXMaBG1lbnMaB21lbm92ZXIaCW1lbm92ZXI1MCo6CgRvdmVyFZQrn0AaBWFmdGVyGgpvbGRlciB0aGFuGgdtZW5vdmVyGgltZW5vdmVyNTAaBm92ZXI1MCo3CgI1MBWmQqRAGgQ1MCdzGgM1MHMaBWZpZnR5GgltZW5vdmVyNTAaBm92ZXI1MBoHaXY7bjs1MDK9AS9nb3RvP3VybD1DQUVTZ1FFQjZ6c3dGWmFwV2NOMkJZT2s4cExRX2QwT0FMZ2J0cWN6a2VUS1dsckRMTlNkazhDOWpPbjJfTkg1QnljTmpYMmNfdXZlMV9iNVRJZ0xtRmc1TENUcmM4Rzd6VlNZRjJXRWRVQ1loOVhVNGI0VGNuM2lUWGpLbUZSbUhmNk53cmE0Z1NScW5uOXlFZmpIbXJXX1AwckZnSDdNMEVoREIxMmYwVVhjZzZYWWNtazpEOCA8Yj5CZXN0IE11bHRpdml0YW1pbnMgZm9yIE1lbiBPdmVyIDUwPC9iPiwgQWNjb3JkaW5nIHRvIERpZXRpdGlhbnNCpgFXaGF0IGlzIHRoZSBiZXN0IG11bHRpdml0YW1pbiBmb3IgbWVuIG92ZXIgNTA_IDxiPk1lZ2FGb29kIE1lbiYjMzk7cyA1NSsgT25lIERhaWx5IE11bHRpdml0YW1pbjwvYj4gaXMgb25lIG9mIHRoZSBoaWdoZXN0IHJhdGVkIG1lbiYjMzk7cyBtdWx0aXZpdGFtaW5zIG9uIHRoZSBtYXJrZXQuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Healthline",
+      "read_more_link": "https://www.healthline.com/nutrition/best-multivitamin-for-men-over-50#:~:text=What%20is%20the%20best%20multivitamin,for%20men%20over%2050%3F"
+    },
+    {
+      "position": 7,
+      "title": "Men's and Women's Vitamins for Age 50 and Over",
+      "link": "https://www.oneaday.com/vitamins/age-50-and-over",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVrjQ_GGhWFKb_z8hTg1sDIDNbWUhkzrAfvDkWOi24xaSo8v9hr-DDPBhCNpFD_vyL3ga5F5jb4yZ3Hc5dg8kejTaHsjGs7Y67FF-9speP_PS3gUoLmhc15JhM-StqMZGlvEH2dAnO&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQFnoECD8QAQ&uoh=1",
+      "displayed_link": "https://www.oneaday.com › vitamins › age-50-and-over",
+      "favicon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAADQBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0zHHmFoDbAbhTeAN5TOZh2zPmTpcWOitmO18YUc6eE46w9760hZhPeUQ8QAAD-_NdPbc6FShE_m87EL5zbsUL2mEF79dl8g-NQI2Ybbb4_H4xFLZeZs1W5atQR7hPeZpPQ9T33Wwm9vHLd3tEJzhgK16kqNX0wewafTLI_N-_r-x_oy-jDgZG1W7HgfwelacjihQnTebwg5k5_X7P0_0QnjLH1qEcprl4dhX3lX8twk157bjmZqrQYzcFHK7Le-qlP3PvWfBIB8UFVrbDPHn6L3KKfuXTUKYw_TG5z-E-s34ion95fJZZ4UGUe_g9HeXFu_Vh08bqLpQfVWZk_kj0h-7z6miAeBSprUzAIvexmTviw4mqh9-vheaqs7-TkA9VXlW06RJSpTrtWYowcSmoQrxLAeR6E4KOQxQuvcZFZr-AiuAAA.webp",
+      "snippet": "These multivitamins are specially formulated to provide nutritional support for Men and Women over 50 and address six key concerns of aging.*",
+      "snippet_highlighted_words": [
+        "multivitamins",
+        "Men",
+        "over 50"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "These multivitamins are specially formulated to provide nutritional support for Men and Women over 50 and address six key concerns of aging.*",
+          "source_info_link": "https://www.oneaday.com/vitamins/age-50-and-over",
+          "icon": "https://serpapi.com/images/i/UklGRmwBAABXRUJQVlA4IGABAADQBwCdASocABwAPtFAtFooIqgoFAEAGglsAJ0zHHmFoDbAbhTeAN5TOZh2zPmTpcWOitmO18YUc6eE46w9760hZhPeUQ8QAAD-_NdPbc6FShE_m87EL5zbsUL2mEF79dl8g-NQI2Ybbb4_H4xFLZeZs1W5atQR7hPeZpPQ9T33Wwm9vHLd3tEJzhgK16kqNX0wewafTLI_N-_r-x_oy-jDgZG1W7HgfwelacjihQnTebwg5k5_X7P0_0QnjLH1qEcprl4dhX3lX8twk157bjmZqrQYzcFHK7Le-qlP3PvWfBIB8UFVrbDPHn6L3KKfuXTUKYw_TG5z-E-s34ion95fJZZ4UGUe_g9HeXFu_Vh08bqLpQfVWZk_kj0h-7z6miAeBSprUzAIvexmTviw4mqh9-vheaqs7-TkA9VXlW06RJSpTrtWYowcSmoQrxLAeR6E4KOQxQuvcZFZr-AiuAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnJqUV9HR2hXRktiX3o4aFRnMXNESUROYldVaGt6ckFmdkRrV09pMjR4YVNvOHY5aHItRERQQmhDTnBGRF92eUwzZ2E1RjVqYjR5WjNIYzVkZzhrZWpUYUhzakdzN1k2N0ZGLTlzcGVQX1BTM2dVb0xtaGMxNUpoTS1TdHFNWkdsdkVIMmRBbk8SBBoCCAAauQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCTBggAEAAYACAAKigKA3RvcBUAAAAAGgRiZXN0GgdiaWdnZXN0GgdoaWdoZXN0GgR0b3BzKhcKBWRhaWx5FQAAAAAaCWV2ZXJ5IGRheSpbCg1tdWx0aXZpdGFtaW5zFcqs7z8aDm11bHRpIHZpdGFtaW5zGgxtdWx0aXZpdGFtaW4aCnN1cHBsZW1lbnQaB3ZpdGFtaW4aEml2O3A7bXVsdGl2aXRhbWlucyoKCgNmb3IVAAAAACo8CgNtZW4VIgW2QBoEZ3V5cxoDaGltGgRtYWxlGgVtYWxlcxoEbWVucxoHbWVub3ZlchoJbWVub3ZlcjUwKjoKBG92ZXIVe8SDQBoFYWZ0ZXIaCm9sZGVyIHRoYW4aB21lbm92ZXIaCW1lbm92ZXI1MBoGb3ZlcjUwKjcKAjUwFRCb4kAaBDUwJ3MaAzUwcxoFZmlmdHkaCW1lbm92ZXI1MBoGb3ZlcjUwGgdpdjtuOzUwMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnJqUV9HR2hXRktiX3o4aFRnMXNESUROYldVaGt6ckFmdkRrV09pMjR4YVNvOHY5aHItRERQQmhDTnBGRF92eUwzZ2E1RjVqYjR5WjNIYzVkZzhrZWpUYUhzakdzN1k2N0ZGLTlzcGVQX1BTM2dVb0xtaGMxNUpoTS1TdHFNWkdsdkVIMmRBbk86WTxiPk1lbiYjMzk7czwvYj4gYW5kIFdvbWVuJiMzOTtzIFZpdGFtaW5zIGZvciBBZ2UgPGI-NTA8L2I-IGFuZCA8Yj5PdmVyPC9iPiB8IE9uZSBBIERhecKuQqIBVGhlc2UgPGI-bXVsdGl2aXRhbWluczwvYj4gYXJlIHNwZWNpYWxseSBmb3JtdWxhdGVkIHRvIHByb3ZpZGUgbnV0cml0aW9uYWwgc3VwcG9ydCBmb3IgPGI-TWVuPC9iPiBhbmQgV29tZW4gPGI-b3ZlciA1MDwvYj4gYW5kIGFkZHJlc3Mgc2l4IGtleSBjb25jZXJucyBvZiBhZ2luZy4qSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnJqUV9HR2hXRktiX3o4aFRnMXNESUROYldVaGt6ckFmdkRrV09pMjR4YVNvOHY5aHItRERQQmhDTnBGRF92eUwzZ2E1RjVqYjR5WjNIYzVkZzhrZWpUYUhzakdzN1k2N0ZGLTlzcGVQX1BTM2dVb0xtaGMxNUpoTS1TdHFNWkdsdkVIMmRBbk8SBBoCCAAauQYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCTBggAEAAYACAAKigKA3RvcBUAAAAAGgRiZXN0GgdiaWdnZXN0GgdoaWdoZXN0GgR0b3BzKhcKBWRhaWx5FQAAAAAaCWV2ZXJ5IGRheSpbCg1tdWx0aXZpdGFtaW5zFcqs7z8aDm11bHRpIHZpdGFtaW5zGgxtdWx0aXZpdGFtaW4aCnN1cHBsZW1lbnQaB3ZpdGFtaW4aEml2O3A7bXVsdGl2aXRhbWlucyoKCgNmb3IVAAAAACo8CgNtZW4VIgW2QBoEZ3V5cxoDaGltGgRtYWxlGgVtYWxlcxoEbWVucxoHbWVub3ZlchoJbWVub3ZlcjUwKjoKBG92ZXIVe8SDQBoFYWZ0ZXIaCm9sZGVyIHRoYW4aB21lbm92ZXIaCW1lbm92ZXI1MBoGb3ZlcjUwKjcKAjUwFRCb4kAaBDUwJ3MaAzUwcxoFZmlmdHkaCW1lbm92ZXI1MBoGb3ZlcjUwGgdpdjtuOzUwMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVnJqUV9HR2hXRktiX3o4aFRnMXNESUROYldVaGt6ckFmdkRrV09pMjR4YVNvOHY5aHItRERQQmhDTnBGRF92eUwzZ2E1RjVqYjR5WjNIYzVkZzhrZWpUYUhzakdzN1k2N0ZGLTlzcGVQX1BTM2dVb0xtaGMxNUpoTS1TdHFNWkdsdkVIMmRBbk86WTxiPk1lbiYjMzk7czwvYj4gYW5kIFdvbWVuJiMzOTtzIFZpdGFtaW5zIGZvciBBZ2UgPGI-NTA8L2I-IGFuZCA8Yj5PdmVyPC9iPiB8IE9uZSBBIERhecKuQqIBVGhlc2UgPGI-bXVsdGl2aXRhbWluczwvYj4gYXJlIHNwZWNpYWxseSBmb3JtdWxhdGVkIHRvIHByb3ZpZGUgbnV0cml0aW9uYWwgc3VwcG9ydCBmb3IgPGI-TWVuPC9iPiBhbmQgV29tZW4gPGI-b3ZlciA1MDwvYj4gYW5kIGFkZHJlc3Mgc2l4IGtleSBjb25jZXJucyBvZiBhZ2luZy4qSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "One A Day"
+    },
+    {
+      "position": 8,
+      "title": "Best Multivitamins for Older Adults Pharmacist Ranked",
+      "link": "https://health.usnews.com/otc/rankings/multivitamins",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVUA_51SGCfHaBJ2rlia_yccgvtn8Wq9ZewYdyXbNauVXEtEIlKv5-HxlXButKMbkLCo21tdWVDMDuqTYe3B1qGaoJ4M_ncIuYnw8fsEk_98I_y6qeXqvCiS7YZibQ0XStQfCXC5MEuymkJg&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQFnoECEkQAQ&uoh=1",
+      "displayed_link": "https://health.usnews.com › otc › rankings › multivitam...",
+      "favicon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp",
+      "snippet": "We surveyed 357 pharmacists to rank the Best multivitamins for older adults for meeting the unique nutritional needs of aging adults.",
+      "snippet_highlighted_words": [
+        "Best multivitamins for older adults"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Key Benefits Of...",
+            "link": "https://health.usnews.com/otc/rankings/multivitamins#:~:text=Key%20Benefits%20of%20Multivitamins,-Think%20of%20a%20multivitamin%20for"
+          },
+          {
+            "title": "What To Look For: Active And...",
+            "link": "https://health.usnews.com/otc/rankings/multivitamins#:~:text=What%20to%20Look%20For%3A%20Active%20and%20Key%20Ingredients,-When%20choosing%20a%20multivitamin%20tailored"
+          },
+          {
+            "title": "Must-Haves",
+            "link": "https://health.usnews.com/otc/rankings/multivitamins#:~:text=Must%2DHaves%3A"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "We surveyed 357 pharmacists to rank the Best multivitamins for older adults for meeting the unique nutritional needs of aging adults.",
+          "source_info_link": "https://health.usnews.com/otc/rankings/multivitamins",
+          "icon": "https://serpapi.com/images/i/UklGRvYAAABXRUJQVlA4IOoAAADQBQCdASogACAAPrkurlcnIacnG_DgFwlsAJ0zHIF_qrK_xnneRBQgE9YdAleErex7TPEIG5ugAP7YhY39Sl13mCSdxfDOatXBqexa9uhGXik51wvoBdL6zMPf_hsow_bAt_1o9ulz0JYxG_yN0w3dhnhEF8adP8ykP59eF4YTGu3xsVcLN962G9reC6MmhapczzVl04_za4jt85dPVOZbcm_--vDVbII2-XODPTR1yO4aCCDUeodnbwCEfB--_1SJtwdf_lIm8rjw_lxgkODodllEAfz1jxGxSmGdj72G_ypS7BErnLdAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVlVBXzUxU0dDZkhhQkoycmxpYV95Y2NndnRuOFdxOVpld1lkeVhiTmF1VlhFdEVJbEt2NS1IeGxYQnV0S01ia0xDbzIxdGRXVkRNRHVxVFllM0IxcUdhb0o0TV9uY0l1WW53OGZzRWtfOThJX3k2cWVYcXZDaVM3WVppYlEwWFN0UWZDWEM1TUV1eW1rSmcSBBoCCAAajgYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQOYFCAAQABgAIAAqKAoDdG9wFZPCvT4aBGJlc3QaB2JpZ2dlc3QaB2hpZ2hlc3QaBHRvcHMqFwoFZGFpbHkVh_-DPxoJZXZlcnkgZGF5KlsKDW11bHRpdml0YW1pbnMV3gqFQBoObXVsdGkgdml0YW1pbnMaDG11bHRpdml0YW1pbhoKc3VwcGxlbWVudBoHdml0YW1pbhoSaXY7cDttdWx0aXZpdGFtaW5zKgoKA2ZvchUAAAAAKjwKA21lbhWT3Bw_GgRndXlzGgNoaW0aBG1hbGUaBW1hbGVzGgRtZW5zGgdtZW5vdmVyGgltZW5vdmVyNTAqOgoEb3ZlchXGH1Q_GgVhZnRlchoKb2xkZXIgdGhhbhoHbWVub3ZlchoJbWVub3ZlcjUwGgZvdmVyNTAqNwoCNTAVacGfPxoENTAncxoDNTBzGgVmaWZ0eRoJbWVub3ZlcjUwGgZvdmVyNTAaB2l2O247NTAypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWVUFfNTFTR0NmSGFCSjJybGlhX3ljY2d2dG44V3E5WmV3WWR5WGJOYXVWWEV0RUlsS3Y1LUh4bFhCdXRLTWJrTENvMjF0ZFdWRE1EdXFUWWUzQjFxR2FvSjRNX25jSXVZbnc4ZnNFa185OElfeTZxZVhxdkNpUzdZWmliUTBYU3RRZkNYQzVNRXV5bWtKZzo8PGI-QmVzdCBNdWx0aXZpdGFtaW5zPC9iPiBmb3IgT2xkZXIgQWR1bHRzIFBoYXJtYWNpc3QgUmFua2VkQowBV2Ugc3VydmV5ZWQgMzU3IHBoYXJtYWNpc3RzIHRvIHJhbmsgdGhlIDxiPkJlc3QgbXVsdGl2aXRhbWlucyBmb3Igb2xkZXIgYWR1bHRzPC9iPiBmb3IgbWVldGluZyB0aGUgdW5pcXVlIG51dHJpdGlvbmFsIG5lZWRzIG9mIGFnaW5nIGFkdWx0cy5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVlVBXzUxU0dDZkhhQkoycmxpYV95Y2NndnRuOFdxOVpld1lkeVhiTmF1VlhFdEVJbEt2NS1IeGxYQnV0S01ia0xDbzIxdGRXVkRNRHVxVFllM0IxcUdhb0o0TV9uY0l1WW53OGZzRWtfOThJX3k2cWVYcXZDaVM3WVppYlEwWFN0UWZDWEM1TUV1eW1rSmcSBBoCCAAajgYSAggBGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAggBegCCQOYFCAAQABgAIAAqKAoDdG9wFZPCvT4aBGJlc3QaB2JpZ2dlc3QaB2hpZ2hlc3QaBHRvcHMqFwoFZGFpbHkVh_-DPxoJZXZlcnkgZGF5KlsKDW11bHRpdml0YW1pbnMV3gqFQBoObXVsdGkgdml0YW1pbnMaDG11bHRpdml0YW1pbhoKc3VwcGxlbWVudBoHdml0YW1pbhoSaXY7cDttdWx0aXZpdGFtaW5zKgoKA2ZvchUAAAAAKjwKA21lbhWT3Bw_GgRndXlzGgNoaW0aBG1hbGUaBW1hbGVzGgRtZW5zGgdtZW5vdmVyGgltZW5vdmVyNTAqOgoEb3ZlchXGH1Q_GgVhZnRlchoKb2xkZXIgdGhhbhoHbWVub3ZlchoJbWVub3ZlcjUwGgZvdmVyNTAqNwoCNTAVacGfPxoENTAncxoDNTBzGgVmaWZ0eRoJbWVub3ZlcjUwGgZvdmVyNTAaB2l2O247NTAypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWVUFfNTFTR0NmSGFCSjJybGlhX3ljY2d2dG44V3E5WmV3WWR5WGJOYXVWWEV0RUlsS3Y1LUh4bFhCdXRLTWJrTENvMjF0ZFdWRE1EdXFUWWUzQjFxR2FvSjRNX25jSXVZbnc4ZnNFa185OElfeTZxZVhxdkNpUzdZWmliUTBYU3RRZkNYQzVNRXV5bWtKZzo8PGI-QmVzdCBNdWx0aXZpdGFtaW5zPC9iPiBmb3IgT2xkZXIgQWR1bHRzIFBoYXJtYWNpc3QgUmFua2VkQowBV2Ugc3VydmV5ZWQgMzU3IHBoYXJtYWNpc3RzIHRvIHJhbmsgdGhlIDxiPkJlc3QgbXVsdGl2aXRhbWlucyBmb3Igb2xkZXIgYWR1bHRzPC9iPiBmb3IgbWVldGluZyB0aGUgdW5pcXVlIG51dHJpdGlvbmFsIG5lZWRzIG9mIGFnaW5nIGFkdWx0cy5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "US News Health",
+      "read_more_link": "https://health.usnews.com/otc/rankings/multivitamins#:~:text=We%20surveyed%20357%20pharmacists%20to,nutritional%20needs%20of%20aging%20adults."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Best multivitamin for men over 60",
+      "link": "https://www.google.com/search?sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&q=Best+multivitamin+for+men+over+60&sa=X&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ1QJ6BAg2EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+multivitamin+for+men+over+60"
+    },
+    {
+      "block_position": 1,
+      "query": "Best multivitamin for men over 50 for energy",
+      "link": "https://www.google.com/search?sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&q=Best+multivitamin+for+men+over+50+for+energy&sa=X&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+multivitamin+for+men+over+50+for+energy"
+    },
+    {
+      "block_position": 1,
+      "query": "Best multivitamin for men over 50 with testosterone",
+      "link": "https://www.google.com/search?sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&q=Best+multivitamin+for+men+over+50+with+testosterone&sa=X&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+multivitamin+for+men+over+50+with+testosterone"
+    },
+    {
+      "block_position": 1,
+      "query": "Best multivitamin for men over 70",
+      "link": "https://www.google.com/search?sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&q=Best+multivitamin+for+men+over+70&sa=X&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+multivitamin+for+men+over+70"
+    },
+    {
+      "block_position": 1,
+      "query": "Best multivitamin for men over 40",
+      "link": "https://www.google.com/search?sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&q=Best+multivitamin+for+men+over+40&sa=X&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ1QJ6BAg6EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+multivitamin+for+men+over+40"
+    },
+    {
+      "block_position": 1,
+      "query": "Best multivitamin for men over 65",
+      "link": "https://www.google.com/search?sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&q=Best+multivitamin+for+men+over+65&sa=X&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+multivitamin+for+men+over+65"
+    },
+    {
+      "block_position": 1,
+      "query": "Best Multivitamin for men over 50 gummies",
+      "link": "https://www.google.com/search?sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&q=Best+Multivitamin+for+men+over+50+gummies&sa=X&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+Multivitamin+for+men+over+50+gummies"
+    },
+    {
+      "block_position": 1,
+      "query": "Nature Made Multivitamin for Men over 50",
+      "link": "https://www.google.com/search?sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&q=Nature+Made+Multivitamin+for+Men+over+50&sa=X&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ1QJ6BAg3EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Nature+Made+Multivitamin+for+Men+over+50"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+daily+multivitamins+for+men+over+50&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&ei=UvO3ar_kOs6ywcsP9__ZoAQ&start=10&sa=N&sstk=AS6-VmLOGWiBW88A7LhDgBKnDY_a7SB6j4jA11G58uNgirmnNSYHb0W-jkiMDW1JemsPOhZXpj4vzgQE1h-0c06zwyeebpTKiDzbhQ&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ8NMDegQINBAS",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+daily+multivitamins+for+men+over+50&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&ei=UvO3ar_kOs6ywcsP9__ZoAQ&start=10&sa=N&sstk=AS6-VmLOGWiBW88A7LhDgBKnDY_a7SB6j4jA11G58uNgirmnNSYHb0W-jkiMDW1JemsPOhZXpj4vzgQE1h-0c06zwyeebpTKiDzbhQ&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ8tMDegQINBAE",
+      "3": "https://www.google.com/search?q=top+daily+multivitamins+for+men+over+50&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&ei=UvO3ar_kOs6ywcsP9__ZoAQ&start=20&sa=N&sstk=AS6-VmLOGWiBW88A7LhDgBKnDY_a7SB6j4jA11G58uNgirmnNSYHb0W-jkiMDW1JemsPOhZXpj4vzgQE1h-0c06zwyeebpTKiDzbhQ&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ8tMDegQINBAG",
+      "4": "https://www.google.com/search?q=top+daily+multivitamins+for+men+over+50&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&ei=UvO3ar_kOs6ywcsP9__ZoAQ&start=30&sa=N&sstk=AS6-VmLOGWiBW88A7LhDgBKnDY_a7SB6j4jA11G58uNgirmnNSYHb0W-jkiMDW1JemsPOhZXpj4vzgQE1h-0c06zwyeebpTKiDzbhQ&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ8tMDegQINBAI",
+      "5": "https://www.google.com/search?q=top+daily+multivitamins+for+men+over+50&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&ei=UvO3ar_kOs6ywcsP9__ZoAQ&start=40&sa=N&sstk=AS6-VmLOGWiBW88A7LhDgBKnDY_a7SB6j4jA11G58uNgirmnNSYHb0W-jkiMDW1JemsPOhZXpj4vzgQE1h-0c06zwyeebpTKiDzbhQ&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ8tMDegQINBAK",
+      "6": "https://www.google.com/search?q=top+daily+multivitamins+for+men+over+50&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&ei=UvO3ar_kOs6ywcsP9__ZoAQ&start=50&sa=N&sstk=AS6-VmLOGWiBW88A7LhDgBKnDY_a7SB6j4jA11G58uNgirmnNSYHb0W-jkiMDW1JemsPOhZXpj4vzgQE1h-0c06zwyeebpTKiDzbhQ&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ8tMDegQINBAM",
+      "7": "https://www.google.com/search?q=top+daily+multivitamins+for+men+over+50&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&ei=UvO3ar_kOs6ywcsP9__ZoAQ&start=60&sa=N&sstk=AS6-VmLOGWiBW88A7LhDgBKnDY_a7SB6j4jA11G58uNgirmnNSYHb0W-jkiMDW1JemsPOhZXpj4vzgQE1h-0c06zwyeebpTKiDzbhQ&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ8tMDegQINBAO",
+      "8": "https://www.google.com/search?q=top+daily+multivitamins+for+men+over+50&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnvXzJAPPAefC2cJXeYUeDfaJcsHig:1790440274970&ei=UvO3ar_kOs6ywcsP9__ZoAQ&start=70&sa=N&sstk=AS6-VmLOGWiBW88A7LhDgBKnDY_a7SB6j4jA11G58uNgirmnNSYHb0W-jkiMDW1JemsPOhZXpj4vzgQE1h-0c06zwyeebpTKiDzbhQ&ved=2ahUKEwi_1dLk1YyXAxVOWXADHfd_FkQQ8tMDegQINBAQ"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+daily+multivitamins+for+men+over+50&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+daily+multivitamins+for+men+over+50&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+daily+multivitamins+for+men+over+50&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+daily+multivitamins+for+men+over+50&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+daily+multivitamins+for+men+over+50&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+daily+multivitamins+for+men+over+50&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+daily+multivitamins+for+men+over+50&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+daily+multivitamins+for+men+over+50&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+daily+multivitamins+for+men+over+50&start=70"
+    }
+  }
+}

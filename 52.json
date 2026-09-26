@@ -1,0 +1,571 @@
+{
+  "search_metadata": {
+    "id": "6ab800b1be918a198e4508a7",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/aYzFI6ia7S3pstBLAO19qlAS4P8yuSrk245bY069cno/6ab800b1be918a198e4508a7.json",
+    "markdown_endpoint": "https://serpapi.com/searches/aYzFI6ia7S3pstBLAO19qlAS4P8yuSrk245bY069cno/6ab800b1be918a198e4508a7.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/aYzFI6ia7S3pstBLAO19qlAS4P8yuSrk245bY069cno/6ab800b1be918a198e4508a7.json_with_pixel_position",
+    "created_at": "2026-09-26 17:28:17 UTC",
+    "processed_at": "2026-09-26 17:28:17 UTC",
+    "google_url": "https://www.google.com/search?q=top+probiotic+supplement+brands+for+gut+health&oq=top+probiotic+supplement+brands+for+gut+health&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/aYzFI6ia7S3pstBLAO19qlAS4P8yuSrk245bY069cno/6ab800b1be918a198e4508a7.html",
+    "total_time_taken": 0.87
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top probiotic supplement brands for gut health",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top probiotic supplement brands for gut health",
+    "total_results": 181,
+    "time_taken_displayed": 0.37,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Probiotics That Actually Work: Benefits, Best Strains, Dose, & ...",
+      "link": "https://www.youtube.com/watch?v=8a68yp6XHXY",
+      "thumbnail": "https://serpapi.com/searches/6ab800b1be918a198e4508a7/images/PdH6KISyl7CLxFgVj0JjvGTH42K_oUzFWtmQC-YkQDg.jpeg",
+      "channel": "Quinn Stillson MD",
+      "duration": "7:36",
+      "platform": "YouTube",
+      "date": "Jun 1, 2025",
+      "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTlY3cfMMKy1XV6B55Wz0R0ofMJvBuqAwQQIw",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Do Probiotics Actually Work? Benefits for Gut, Immunity & Metabolism",
+          "link": "https://www.youtube.com/watch?v=8a68yp6XHXY&t=0"
+        },
+        {
+          "time": "01:58",
+          "title": "Best Probiotic Strains for Bloating, IBS, Metabolism & More",
+          "link": "https://www.youtube.com/watch?v=8a68yp6XHXY&t=118"
+        },
+        {
+          "time": "04:08",
+          "title": "How Much Probiotic to Take Daily – Science-Backed Dosage",
+          "link": "https://www.youtube.com/watch?v=8a68yp6XHXY&t=248"
+        },
+        {
+          "time": "05:22",
+          "title": "Best Time to Take Probiotics",
+          "link": "https://www.youtube.com/watch?v=8a68yp6XHXY&t=322"
+        },
+        {
+          "time": "05:44",
+          "title": "My Top 3 Probiotic Brands",
+          "link": "https://www.youtube.com/watch?v=8a68yp6XHXY&t=344"
+        }
+      ]
+    },
+    {
+      "position": 2,
+      "title": "Top 3 Types of Probiotics That Heal SIBO, Candida & IBS",
+      "link": "https://www.youtube.com/watch?v=MkHALTLtkeA&vl=en",
+      "thumbnail": "https://serpapi.com/searches/6ab800b1be918a198e4508a7/images/DfhZkG3gUHO8CkdkC8yW642_Jm38jKfcjyGk5iXIij8.jpeg",
+      "channel": "Dr. Michael Ruscio, DC, DNM",
+      "duration": "17:34",
+      "platform": "YouTube",
+      "date": "Feb 9, 2026",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=MkHALTLtkeA&vl=en&t=0"
+        },
+        {
+          "time": "00:22",
+          "title": "Benefits",
+          "link": "https://www.youtube.com/watch?v=MkHALTLtkeA&vl=en&t=22"
+        },
+        {
+          "time": "02:03",
+          "title": "Sacc. B",
+          "link": "https://www.youtube.com/watch?v=MkHALTLtkeA&vl=en&t=123"
+        },
+        {
+          "time": "04:02",
+          "title": "Lacto-Bifido",
+          "link": "https://www.youtube.com/watch?v=MkHALTLtkeA&vl=en&t=242"
+        },
+        {
+          "time": "08:33",
+          "title": "Soil-based",
+          "link": "https://www.youtube.com/watch?v=MkHALTLtkeA&vl=en&t=513"
+        },
+        {
+          "time": "10:24",
+          "title": "Meta Protocol",
+          "link": "https://www.youtube.com/watch?v=MkHALTLtkeA&vl=en&t=624"
+        },
+        {
+          "time": "11:08",
+          "title": "What type should you take?",
+          "link": "https://www.youtube.com/watch?v=MkHALTLtkeA&vl=en&t=668"
+        },
+        {
+          "time": "14:01",
+          "title": "Triple Therapy Probiotic",
+          "link": "https://www.youtube.com/watch?v=MkHALTLtkeA&vl=en&t=841"
+        },
+        {
+          "time": "16:10",
+          "title": "Food sources",
+          "link": "https://www.youtube.com/watch?v=MkHALTLtkeA&vl=en&t=970"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Doctor Reviews Top Probiotic Brands (Best & Worst Revealed)",
+      "link": "https://www.youtube.com/watch?v=_rKYS-GFgiY&vl=en-US",
+      "thumbnail": "https://serpapi.com/searches/6ab800b1be918a198e4508a7/images/_LRXXPvPp3z5et9-Y0aW4SxfSECNFzk1hG1f_wmpDtM.jpeg",
+      "channel": "Dr. G Reviews Products",
+      "duration": "13:01",
+      "platform": "YouTube",
+      "date": "Dec 11, 2025",
+      "key_moments": [
+        {
+          "time": "00:00",
+          "title": "Intro",
+          "link": "https://www.youtube.com/watch?v=_rKYS-GFgiY&vl=en-US&t=0"
+        },
+        {
+          "time": "01:15",
+          "title": "Why Most Probiotics Don't Actually Work",
+          "link": "https://www.youtube.com/watch?v=_rKYS-GFgiY&vl=en-US&t=75"
+        },
+        {
+          "time": "02:42",
+          "title": "CFU Numbers: The Marketing Trick Companies Use",
+          "link": "https://www.youtube.com/watch?v=_rKYS-GFgiY&vl=en-US&t=162"
+        },
+        {
+          "time": "03:33",
+          "title": "What Happened When I Contacted 56 Brands",
+          "link": "https://www.youtube.com/watch?v=_rKYS-GFgiY&vl=en-US&t=213"
+        },
+        {
+          "time": "05:16",
+          "title": "The Testing Standards Every Probiotic Should Meet",
+          "link": "https://www.youtube.com/watch?v=_rKYS-GFgiY&vl=en-US&t=316"
+        },
+        {
+          "time": "06:55",
+          "title": "Companies That Didn't Make the Cut",
+          "link": "https://www.youtube.com/watch?v=_rKYS-GFgiY&vl=en-US&t=415"
+        },
+        {
+          "time": "08:55",
+          "title": "The Strain Specificity Problem Explained",
+          "link": "https://www.youtube.com/watch?v=_rKYS-GFgiY&vl=en-US&t=535"
+        },
+        {
+          "time": "10:28",
+          "title": "Hidden Contamination Risks in Probiotics",
+          "link": "https://www.youtube.com/watch?v=_rKYS-GFgiY&vl=en-US&t=628"
+        },
+        {
+          "time": "12:24",
+          "title": "Final Results & Download the Master List",
+          "link": "https://www.youtube.com/watch?v=_rKYS-GFgiY&vl=en-US&t=744"
+        }
+      ]
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Should I take probiotics with minocycline?",
+      "type": "ai_overview",
+      "page_token": "uSSGGHicHdBRbpswAABQ9TL9bMAunRIpmkqC8SxMi8EG_DMZk0CDISTxBuSvd-mpeppJe0d4n1_mY-i-H2xr7XjbrFbTND0153NjDk_63K_UbRn0SitjKqW7zcuPF_fnUW-DP4G_u_zyEz6OYs-cNPdwvZcgO5lLPPhWBWipCgPLU3yhrkCV8d2K86XqOcxEG_H9q8M4uWpuLmk3O_HArQqbSXfzUBq0k707FAB5B4yiDOopytnEu_WUdDVQmJzKjM5xlkBRmJJzG4l-DVLEdtJImAgE38IZ0UBiZchNn1hwyD1Ph2wX3xsrcAP43V9kXs809_IC2JEWbVu47bsKEljfGQtaeZcOdcpC5qIgVKYu4GJN1L7GKSdD-EF8huPlLZep7uw1DednhViUAKKoq10KyLPExqYhgRWO_cej_ruFj_83t7-Pvd2M13PzDyjlgSw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=uSSGGHicHdBRbpswAABQ9TL9bMAunRIpmkqC8SxMi8EG_DMZk0CDISTxBuSvd-mpeppJe0d4n1_mY-i-H2xr7XjbrFbTND0153NjDk_63K_UbRn0SitjKqW7zcuPF_fnUW-DP4G_u_zyEz6OYs-cNPdwvZcgO5lLPPhWBWipCgPLU3yhrkCV8d2K86XqOcxEG_H9q8M4uWpuLmk3O_HArQqbSXfzUBq0k707FAB5B4yiDOopytnEu_WUdDVQmJzKjM5xlkBRmJJzG4l-DVLEdtJImAgE38IZ0UBiZchNn1hwyD1Ph2wX3xsrcAP43V9kXs809_IC2JEWbVu47bsKEljfGQtaeZcOdcpC5qIgVKYu4GJN1L7GKSdD-EF8huPlLZep7uw1DednhViUAKKoq10KyLPExqYhgRWO_cej_ruFj_83t7-Pvd2M13PzDyjlgSw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlkwRkxYMDB0Wm5CZmVITjVibGwwTUVsM2VVWkdNVUZqWW5nMVFXRjJWR3RXZWs1alozUk9NMDVhUkVveWVuRkpjRGRDZDNwNVF6TXhaRk55Umt4UmEzcHpVVTkxUlZWak5VSlJlRlpoWVhGbFNIQk1UVXRNUVhWVFVSSVdjMmRETkdGMlZsVnlUR1V0ZGxGZlNXZzNSMGxDWnhvaVFVUnpjamxtVVhaUFRWOWxNWEp6U1RSbVpqUkhaREY0TmtoNGVYaExXRTAxVVEiLCJmY3YiOiIzIiwiZWkiOiJzZ0M0YXZWVXJMZS12UV9JaDdHSUJnIiwicWMiOiJDaTUwYjNBZ2NISnZZbWx2ZEdsaklITjFjSEJzWlcxbGJuUWdZbkpoYm1SeklHWnZjaUJuZFhRZ2FHVmhiSFJvRUFBWUFYMEhuU2NfIiwicXVlc3Rpb24iOiJTaG91bGQgSSB0YWtlIHByb2Jpb3RpY3Mgd2l0aCBtaW5vY3ljbGluZT8iLCJsayI6IkdpbHphRzkxYkdRZ2FTQjBZV3RsSUhCeWIySnBiM1JwWTNNZ2QybDBhQ0J0YVc1dlkzbGpiR2x1WlEiLCJicyI6ImM0MlBQUXZDUUF5R2NiM0pTYVJUcEpOV0VUc0xuY1hSb1RnNHRIZVJDN2FYY25lbC1PX3RoOWdPZ202QlBPLVROLUlxTmhmTmRhSGdCRDU3SUZTV2MySlAwa0ZEWGtOSmh1VlRGbVF3aWFOZzdRYWFmdEpDaW1PcVNXckliV1lVOEgya3dkVlZWV0NKeGpzZ0I1S05JNFVXRlhpTmtLUHpTUndHcTI2WTNwakdlcXU0aVcycU05OUp1bVI0QU1YU3N3V0xrc3VXVkszelkwamlYUkExX19QaUxQYkREMlAxX3E2RHpPTDMyc3RnTVduOHBydlZmUFlDIiwiaWQiOiJmY19zZ0M0YXZWVXJMZS12UV9JaDdHSUJnXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlkwRkxYMDB0Wm5CZmVITjVibGwwTUVsM2VVWkdNVUZqWW5nMVFXRjJWR3RXZWs1alozUk9NMDVhUkVveWVuRkpjRGRDZDNwNVF6TXhaRk55Umt4UmEzcHpVVTkxUlZWak5VSlJlRlpoWVhGbFNIQk1UVXRNUVhWVFVSSVdjMmRETkdGMlZsVnlUR1V0ZGxGZlNXZzNSMGxDWnhvaVFVUnpjamxtVVhaUFRWOWxNWEp6U1RSbVpqUkhaREY0TmtoNGVYaExXRTAxVVEiLCJmY3YiOiIzIiwiZWkiOiJzZ0M0YXZWVXJMZS12UV9JaDdHSUJnIiwicWMiOiJDaTUwYjNBZ2NISnZZbWx2ZEdsaklITjFjSEJzWlcxbGJuUWdZbkpoYm1SeklHWnZjaUJuZFhRZ2FHVmhiSFJvRUFBWUFYMEhuU2NfIiwicXVlc3Rpb24iOiJTaG91bGQgSSB0YWtlIHByb2Jpb3RpY3Mgd2l0aCBtaW5vY3ljbGluZT8iLCJsayI6IkdpbHphRzkxYkdRZ2FTQjBZV3RsSUhCeWIySnBiM1JwWTNNZ2QybDBhQ0J0YVc1dlkzbGpiR2x1WlEiLCJicyI6ImM0MlBQUXZDUUF5R2NiM0pTYVJUcEpOV0VUc0xuY1hSb1RnNHRIZVJDN2FYY25lbC1PX3RoOWdPZ202QlBPLVROLUlxTmhmTmRhSGdCRDU3SUZTV2MySlAwa0ZEWGtOSmh1VlRGbVF3aWFOZzdRYWFmdEpDaW1PcVNXckliV1lVOEgya3dkVlZWV0NKeGpzZ0I1S05JNFVXRlhpTmtLUHpTUndHcTI2WTNwakdlcXU0aVcycU05OUp1bVI0QU1YU3N3V0xrc3VXVkszelkwamlYUkExX19QaUxQYkREMlAxX3E2RHpPTDMyc3RnTVduOHBydlZmUFlDIiwiaWQiOiJmY19zZ0M0YXZWVXJMZS12UV9JaDdHSUJnXzUifQ%3D%3D"
+    },
+    {
+      "question": "Which brand of probiotic supplements is considered the best?",
+      "type": "ai_overview",
+      "page_token": "m1rjWXicHdBdTsIwAADgeBkfpWMDMxJiUtcOG9aFbm1HX0zZD4OWrcJ04Jt38VSeRuMBvpfv69seOvNzN7TD4C6LyWQcx4d93-9t_VD2p4m-3LpyUmprd7o0i_nj3HtqyiV6R_D57QVuuHMiYiDrNp7MN14qXLAxCuhpGDGPIGpVII8MliuVyJjK6kjS2lZoJ_C5tu21RvuArhxS3Ca5cRcae0GO8bTGKtWybVhBoDJVr3zYV9KZLaczDkS6FRjIiMa1nMW1FTwTONuB0OqYnEowm2opzrSDnwqwhhbmti7wnHeuUJFS68yzWxnaHRfrHNBRxqFhPvLTCDZ57HxtHUSt-rMJ2BZKioIkKvOmXIRER9Uq46SLDwSyFb2lUjHeUZsb1nJsVSpnV4pGsBY4SPLKJDkZxCeE9035sfTv_zeXr81pWLhzv_8FLNF_fw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=m1rjWXicHdBdTsIwAADgeBkfpWMDMxJiUtcOG9aFbm1HX0zZD4OWrcJ04Jt38VSeRuMBvpfv69seOvNzN7TD4C6LyWQcx4d93-9t_VD2p4m-3LpyUmprd7o0i_nj3HtqyiV6R_D57QVuuHMiYiDrNp7MN14qXLAxCuhpGDGPIGpVII8MliuVyJjK6kjS2lZoJ_C5tu21RvuArhxS3Ca5cRcae0GO8bTGKtWybVhBoDJVr3zYV9KZLaczDkS6FRjIiMa1nMW1FTwTONuB0OqYnEowm2opzrSDnwqwhhbmti7wnHeuUJFS68yzWxnaHRfrHNBRxqFhPvLTCDZ57HxtHUSt-rMJ2BZKioIkKvOmXIRER9Uq46SLDwSyFb2lUjHeUZsb1nJsVSpnV4pGsBY4SPLKJDkZxCeE9035sfTv_zeXr81pWLhzv_8FLNF_fw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlkwRkxYMDB0Wm5CZmVITjVibGwwTUVsM2VVWkdNVUZqWW5nMVFXRjJWR3RXZWs1alozUk9NMDVhUkVveWVuRkpjRGRDZDNwNVF6TXhaRk55Umt4UmEzcHpVVTkxUlZWak5VSlJlRlpoWVhGbFNIQk1UVXRNUVhWVFVSSVdjMmRETkdGMlZsVnlUR1V0ZGxGZlNXZzNSMGxDWnhvaVFVUnpjamxtVVhaUFRWOWxNWEp6U1RSbVpqUkhaREY0TmtoNGVYaExXRTAxVVEiLCJmY3YiOiIzIiwiZWkiOiJzZ0M0YXZWVXJMZS12UV9JaDdHSUJnIiwicWMiOiJDaTUwYjNBZ2NISnZZbWx2ZEdsaklITjFjSEJzWlcxbGJuUWdZbkpoYm1SeklHWnZjaUJuZFhRZ2FHVmhiSFJvRUFBWUFYMEhuU2NfIiwicXVlc3Rpb24iOiJXaGljaCBicmFuZCBvZiBwcm9iaW90aWMgc3VwcGxlbWVudHMgaXMgY29uc2lkZXJlZCB0aGUgYmVzdD8iLCJsayI6IkdpRmlaWE4wSUhCeWIySnBiM1JwWTNNZ2MzVndjR3hsYldWdWRITWdZbkpoYm1RIiwiYnMiOiJjNDJQUFF2Q1FBeUdjYjNKU2FSVHBKTldFVHNMbmNYUm9UZzR0SGVSQzdhWGNuZWwtT190aDlnT2dtNkJQTy1UTi1JcU5oZk5kYUhnQkQ1N0lGU1djMkpQMGtGRFhrTkpodVZURm1Rd2lhTmc3UWFhZnRKQ2ltT3FTV3JJYldZVThIMmt3ZFZWVldDSnhqc2dCNUtOSTRVV0ZYaU5rS1B6U1J3R3EyNlkzcGpHZXF1NGlXMnFNOTlKdW1SNEFNWFNzd1dMa3N1V1ZLM3pZMGppWFJBMV9fUGlMUGJERDJQMV9xNkR6T0wzMnN0Z01XbjhwcnZWZlBZQyIsImlkIjoiZmNfc2dDNGF2VlVyTGUtdlFfSWg3R0lCZ181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlkwRkxYMDB0Wm5CZmVITjVibGwwTUVsM2VVWkdNVUZqWW5nMVFXRjJWR3RXZWs1alozUk9NMDVhUkVveWVuRkpjRGRDZDNwNVF6TXhaRk55Umt4UmEzcHpVVTkxUlZWak5VSlJlRlpoWVhGbFNIQk1UVXRNUVhWVFVSSVdjMmRETkdGMlZsVnlUR1V0ZGxGZlNXZzNSMGxDWnhvaVFVUnpjamxtVVhaUFRWOWxNWEp6U1RSbVpqUkhaREY0TmtoNGVYaExXRTAxVVEiLCJmY3YiOiIzIiwiZWkiOiJzZ0M0YXZWVXJMZS12UV9JaDdHSUJnIiwicWMiOiJDaTUwYjNBZ2NISnZZbWx2ZEdsaklITjFjSEJzWlcxbGJuUWdZbkpoYm1SeklHWnZjaUJuZFhRZ2FHVmhiSFJvRUFBWUFYMEhuU2NfIiwicXVlc3Rpb24iOiJXaGljaCBicmFuZCBvZiBwcm9iaW90aWMgc3VwcGxlbWVudHMgaXMgY29uc2lkZXJlZCB0aGUgYmVzdD8iLCJsayI6IkdpRmlaWE4wSUhCeWIySnBiM1JwWTNNZ2MzVndjR3hsYldWdWRITWdZbkpoYm1RIiwiYnMiOiJjNDJQUFF2Q1FBeUdjYjNKU2FSVHBKTldFVHNMbmNYUm9UZzR0SGVSQzdhWGNuZWwtT190aDlnT2dtNkJQTy1UTi1JcU5oZk5kYUhnQkQ1N0lGU1djMkpQMGtGRFhrTkpodVZURm1Rd2lhTmc3UWFhZnRKQ2ltT3FTV3JJYldZVThIMmt3ZFZWVldDSnhqc2dCNUtOSTRVV0ZYaU5rS1B6U1J3R3EyNlkzcGpHZXF1NGlXMnFNOTlKdW1SNEFNWFNzd1dMa3N1V1ZLM3pZMGppWFJBMV9fUGlMUGJERDJQMV9xNkR6T0wzMnN0Z01XbjhwcnZWZlBZQyIsImlkIjoiZmNfc2dDNGF2VlVyTGUtdlFfSWg3R0lCZ181In0%3D"
+    },
+    {
+      "question": "What is the #1 doctor recommended probiotic?",
+      "type": "ai_overview",
+      "page_token": "gYLhi3icHdBdTsIwAADgeBkfZRuCQkJMJuug2CJdf0ZfzGgHc-1GlWlhb97FU3kajRf4Hr6vb_vamp-rruo6d5oOBt77m8PxeLDljTo2g-J0adVAFdbuCmWm47tx-LBXs-QjiR_flvGGOcfnJMii-ygLzkOWVgD1sM0W7ok1OJCR5CyarMukWhZAE5rLk6oPI83jtbbL0ZZbkEXcUOBGKIF7ahzFQoPSAEub0KM-3igB1xIwjwDudzW8lGzicW0piVyj0q0vFxJlic1RDy5CQPFEYfpnPCo2qXGCt6rWXrXLWyk6Sph-3gwx4nwTMNOtBIVhKc6rndUnQmWmOVlJ64ZJJXsZoGCbS8FziGQWRoxPYDHXi4zBNn2FMVngy1pIIhoT0gB_sNz0JDIBbTrPWtfjpkpJTvKdOJPrvfqcDa__N2cv-6abuvfj4Re7tIKf",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=gYLhi3icHdBdTsIwAADgeBkfZRuCQkJMJuug2CJdf0ZfzGgHc-1GlWlhb97FU3kajRf4Hr6vb_vamp-rruo6d5oOBt77m8PxeLDljTo2g-J0adVAFdbuCmWm47tx-LBXs-QjiR_flvGGOcfnJMii-ygLzkOWVgD1sM0W7ok1OJCR5CyarMukWhZAE5rLk6oPI83jtbbL0ZZbkEXcUOBGKIF7ahzFQoPSAEub0KM-3igB1xIwjwDudzW8lGzicW0piVyj0q0vFxJlic1RDy5CQPFEYfpnPCo2qXGCt6rWXrXLWyk6Sph-3gwx4nwTMNOtBIVhKc6rndUnQmWmOVlJ64ZJJXsZoGCbS8FziGQWRoxPYDHXi4zBNn2FMVngy1pIIhoT0gB_sNz0JDIBbTrPWtfjpkpJTvKdOJPrvfqcDa__N2cv-6abuvfj4Re7tIKf",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlkwRkxYMDB0Wm5CZmVITjVibGwwTUVsM2VVWkdNVUZqWW5nMVFXRjJWR3RXZWs1alozUk9NMDVhUkVveWVuRkpjRGRDZDNwNVF6TXhaRk55Umt4UmEzcHpVVTkxUlZWak5VSlJlRlpoWVhGbFNIQk1UVXRNUVhWVFVSSVdjMmRETkdGMlZsVnlUR1V0ZGxGZlNXZzNSMGxDWnhvaVFVUnpjamxtVVhaUFRWOWxNWEp6U1RSbVpqUkhaREY0TmtoNGVYaExXRTAxVVEiLCJmY3YiOiIzIiwiZWkiOiJzZ0M0YXZWVXJMZS12UV9JaDdHSUJnIiwicWMiOiJDaTUwYjNBZ2NISnZZbWx2ZEdsaklITjFjSEJzWlcxbGJuUWdZbkpoYm1SeklHWnZjaUJuZFhRZ2FHVmhiSFJvRUFBWUFYMEhuU2NfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBkb2N0b3IgcmVjb21tZW5kZWQgcHJvYmlvdGljPyIsImxrIjoiR2l0M2FHRjBJR2x6SUhSb1pTQWpNU0JrYjJOMGIzSWdjbVZqYjIxdFpXNWtaV1FnY0hKdlltbHZkR2xqIiwiYnMiOiJjNDJQUFF2Q1FBeUdjYjNKU2FSVHBKTldFVHNMbmNYUm9UZzR0SGVSQzdhWGNuZWwtT190aDlnT2dtNkJQTy1UTi1JcU5oZk5kYUhnQkQ1N0lGU1djMkpQMGtGRFhrTkpodVZURm1Rd2lhTmc3UWFhZnRKQ2ltT3FTV3JJYldZVThIMmt3ZFZWVldDSnhqc2dCNUtOSTRVV0ZYaU5rS1B6U1J3R3EyNlkzcGpHZXF1NGlXMnFNOTlKdW1SNEFNWFNzd1dMa3N1V1ZLM3pZMGppWFJBMV9fUGlMUGJERDJQMV9xNkR6T0wzMnN0Z01XbjhwcnZWZlBZQyIsImlkIjoiZmNfc2dDNGF2VlVyTGUtdlFfSWg3R0lCZ181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlkwRkxYMDB0Wm5CZmVITjVibGwwTUVsM2VVWkdNVUZqWW5nMVFXRjJWR3RXZWs1alozUk9NMDVhUkVveWVuRkpjRGRDZDNwNVF6TXhaRk55Umt4UmEzcHpVVTkxUlZWak5VSlJlRlpoWVhGbFNIQk1UVXRNUVhWVFVSSVdjMmRETkdGMlZsVnlUR1V0ZGxGZlNXZzNSMGxDWnhvaVFVUnpjamxtVVhaUFRWOWxNWEp6U1RSbVpqUkhaREY0TmtoNGVYaExXRTAxVVEiLCJmY3YiOiIzIiwiZWkiOiJzZ0M0YXZWVXJMZS12UV9JaDdHSUJnIiwicWMiOiJDaTUwYjNBZ2NISnZZbWx2ZEdsaklITjFjSEJzWlcxbGJuUWdZbkpoYm1SeklHWnZjaUJuZFhRZ2FHVmhiSFJvRUFBWUFYMEhuU2NfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAjMSBkb2N0b3IgcmVjb21tZW5kZWQgcHJvYmlvdGljPyIsImxrIjoiR2l0M2FHRjBJR2x6SUhSb1pTQWpNU0JrYjJOMGIzSWdjbVZqYjIxdFpXNWtaV1FnY0hKdlltbHZkR2xqIiwiYnMiOiJjNDJQUFF2Q1FBeUdjYjNKU2FSVHBKTldFVHNMbmNYUm9UZzR0SGVSQzdhWGNuZWwtT190aDlnT2dtNkJQTy1UTi1JcU5oZk5kYUhnQkQ1N0lGU1djMkpQMGtGRFhrTkpodVZURm1Rd2lhTmc3UWFhZnRKQ2ltT3FTV3JJYldZVThIMmt3ZFZWVldDSnhqc2dCNUtOSTRVV0ZYaU5rS1B6U1J3R3EyNlkzcGpHZXF1NGlXMnFNOTlKdW1SNEFNWFNzd1dMa3N1V1ZLM3pZMGppWFJBMV9fUGlMUGJERDJQMV9xNkR6T0wzMnN0Z01XbjhwcnZWZlBZQyIsImlkIjoiZmNfc2dDNGF2VlVyTGUtdlFfSWg3R0lCZ181In0%3D"
+    },
+    {
+      "question": "Which probiotic brands are considered the best?",
+      "type": "ai_overview",
+      "page_token": "Fjvw9XicHdBdbpswAABg9TJ9bCAJmYgUVWL8zSrJbLANfpkAJ3Fig51CC_itN9ghdqqdZtK-I3xff9Stl3-ffotxNMN-tZqm6eWq9VWdX1rdreph6dtVWyvV1K3c777t3NdLe4g-q-D7extAbAwJkVOEIiZUT5SAiksD8VrsmAXzWxFsIY7mms5xa-O8kOZn4_i7MwWXLNEes0hzLB6NCx3UjQBSdcM9ODYxgtVdDbkEqHE8cEr8MCvwiIjImSSPow1SfmeYuWjJsTCwY6KRvmhipigxllAg4IbN3FYTJP4H68A2i4Di0iO8ZMMb5pbESNXSTxpnLuv7dTpRNJwV_0HTYEtC7KFUT1BCj2zYFi5uX6hoxJGHIsEsczKnKhklJchY7q4x8UEd8jTHoE9uIEDpcTlRlmdEBEUy6xpnc9WzDC3uo7TEYVJ1Va_XcG3Q86X9PGye_08ffl26cW_e9fUf45ON2A",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Fjvw9XicHdBdbpswAABg9TJ9bCAJmYgUVWL8zSrJbLANfpkAJ3Fig51CC_itN9ghdqqdZtK-I3xff9Stl3-ffotxNMN-tZqm6eWq9VWdX1rdreph6dtVWyvV1K3c777t3NdLe4g-q-D7extAbAwJkVOEIiZUT5SAiksD8VrsmAXzWxFsIY7mms5xa-O8kOZn4_i7MwWXLNEes0hzLB6NCx3UjQBSdcM9ODYxgtVdDbkEqHE8cEr8MCvwiIjImSSPow1SfmeYuWjJsTCwY6KRvmhipigxllAg4IbN3FYTJP4H68A2i4Di0iO8ZMMb5pbESNXSTxpnLuv7dTpRNJwV_0HTYEtC7KFUT1BCj2zYFi5uX6hoxJGHIsEsczKnKhklJchY7q4x8UEd8jTHoE9uIEDpcTlRlmdEBEUy6xpnc9WzDC3uo7TEYVJ1Va_XcG3Q86X9PGye_08ffl26cW_e9fUf45ON2A",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlkwRkxYMDB0Wm5CZmVITjVibGwwTUVsM2VVWkdNVUZqWW5nMVFXRjJWR3RXZWs1alozUk9NMDVhUkVveWVuRkpjRGRDZDNwNVF6TXhaRk55Umt4UmEzcHpVVTkxUlZWak5VSlJlRlpoWVhGbFNIQk1UVXRNUVhWVFVSSVdjMmRETkdGMlZsVnlUR1V0ZGxGZlNXZzNSMGxDWnhvaVFVUnpjamxtVVhaUFRWOWxNWEp6U1RSbVpqUkhaREY0TmtoNGVYaExXRTAxVVEiLCJmY3YiOiIzIiwiZWkiOiJzZ0M0YXZWVXJMZS12UV9JaDdHSUJnIiwicWMiOiJDaTUwYjNBZ2NISnZZbWx2ZEdsaklITjFjSEJzWlcxbGJuUWdZbkpoYm1SeklHWnZjaUJuZFhRZ2FHVmhiSFJvRUFBWUFYMEhuU2NfIiwicXVlc3Rpb24iOiJXaGljaCBwcm9iaW90aWMgYnJhbmRzIGFyZSBjb25zaWRlcmVkIHRoZSBiZXN0PyIsImxrIjoiR2had2NtOWlhVzkwYVdOeklHSnlZVzVrY3lCaVpYTjAiLCJicyI6ImM0MlBQUXZDUUF5R2NiM0pTYVJUcEpOV0VUc0xuY1hSb1RnNHRIZVJDN2FYY25lbC1PX3RoOWdPZ202QlBPLVROLUlxTmhmTmRhSGdCRDU3SUZTV2MySlAwa0ZEWGtOSmh1VlRGbVF3aWFOZzdRYWFmdEpDaW1PcVNXckliV1lVOEgya3dkVlZWV0NKeGpzZ0I1S05JNFVXRlhpTmtLUHpTUndHcTI2WTNwakdlcXU0aVcycU05OUp1bVI0QU1YU3N3V0xrc3VXVkszelkwamlYUkExX19QaUxQYkREMlAxX3E2RHpPTDMyc3RnTVduOHBydlZmUFlDIiwiaWQiOiJmY19zZ0M0YXZWVXJMZS12UV9JaDdHSUJnXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSSlkwRkxYMDB0Wm5CZmVITjVibGwwTUVsM2VVWkdNVUZqWW5nMVFXRjJWR3RXZWs1alozUk9NMDVhUkVveWVuRkpjRGRDZDNwNVF6TXhaRk55Umt4UmEzcHpVVTkxUlZWak5VSlJlRlpoWVhGbFNIQk1UVXRNUVhWVFVSSVdjMmRETkdGMlZsVnlUR1V0ZGxGZlNXZzNSMGxDWnhvaVFVUnpjamxtVVhaUFRWOWxNWEp6U1RSbVpqUkhaREY0TmtoNGVYaExXRTAxVVEiLCJmY3YiOiIzIiwiZWkiOiJzZ0M0YXZWVXJMZS12UV9JaDdHSUJnIiwicWMiOiJDaTUwYjNBZ2NISnZZbWx2ZEdsaklITjFjSEJzWlcxbGJuUWdZbkpoYm1SeklHWnZjaUJuZFhRZ2FHVmhiSFJvRUFBWUFYMEhuU2NfIiwicXVlc3Rpb24iOiJXaGljaCBwcm9iaW90aWMgYnJhbmRzIGFyZSBjb25zaWRlcmVkIHRoZSBiZXN0PyIsImxrIjoiR2had2NtOWlhVzkwYVdOeklHSnlZVzVrY3lCaVpYTjAiLCJicyI6ImM0MlBQUXZDUUF5R2NiM0pTYVJUcEpOV0VUc0xuY1hSb1RnNHRIZVJDN2FYY25lbC1PX3RoOWdPZ202QlBPLVROLUlxTmhmTmRhSGdCRDU3SUZTV2MySlAwa0ZEWGtOSmh1VlRGbVF3aWFOZzdRYWFmdEpDaW1PcVNXckliV1lVOEgya3dkVlZWV0NKeGpzZ0I1S05JNFVXRlhpTmtLUHpTUndHcTI2WTNwakdlcXU0aVcycU05OUp1bVI0QU1YU3N3V0xrc3VXVkszelkwamlYUkExX19QaUxQYkREMlAxX3E2RHpPTDMyc3RnTVduOHBydlZmUFlDIiwiaWQiOiJmY19zZ0M0YXZWVXJMZS12UV9JaDdHSUJnXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "HhgB7niczZXNkqo4FMc3s5zXGDbeVsDvrqJuhTQqamtDix-9oRAwoCA2AVF38y7zVPM0E0AUvWrPvYupSRXExJP_OUnOj_PnX469Xv39-29WEGzwc6kURVEReR5yzKLuuSUN79d6aeE52Net79gLfd20DU63fM81KcvhzDWFHC7EVBg6JhcVIBAlEYr-mG0dtLYTfpTl7dzeCdIeeO_t1vpj2j0Y7WaZzA1kuMLjSXVjtMcrsTWgZ1PZ0SNqv-XKlI45mjJtDiNY0bZjxe-bT1tJFa16W-QRlcTFqXMNm0sS9m6JS2qJvFZ_lF_IoIiL5rrYbwuHQHwdlOVGkaWZZnFY0lxiAP7DJglABDzp0-5egwAIX4vFJhKAsVbWEDz_lbaXVC_2iZKJ3l2XACVCcqIhAfAG316NRrziGCofPYiYvxiQ5UlYUaLM8_9iO7kmHTeRacIHtuLtaSFdho7D_C3fVeOJuXAxBrMX8LInSXycQRf25OiBdBqJiXKUOOgA-MY_AUmSHmycLOiJoLoiWSHdtzqGMrV6mdEAaSSSkoFI8tKluU86pmTrlp788HGc03DUpL32JMDVwEAR66jrvbMzlHYjqH-IQX2BSvqc2DmeZpiGaqn092TMsEyVbpbrjW8JTDo-0YTzNL2LsCKtlPm0C4r9Is9kKMHTdVydsUDG8NZN8fBoevNSchzkFtswfw_KsSfpTYtAvMgHJIhvcd_OJoaAJ5mg59HLHMSSt1C6MEoTHUGURhT34nn5yQQlm820cpf7eoP67g8zUif7JYpH--ioDK4FLCCLJ-eza6UZkCAS4kPiYR_Z6aR-DkmIc1jKAk1lxMQvEQaXH5PM8cv5MIhMS0rOxIrZQYoSAySk35H0-4RS1fj7c8kCuoIpaxPy9OFD5O83_kuQ4lAyZq4QyKMjsC67VSszi9_tAucgdZYjTW-GVTkIwG1UPHf-E5VH_3_BlNUl5ViX7sMkfA0TeaFHdSl5neoSek9h6t2HyU5g-qEuDW_UpWuYIJDPMPX4tC5F9-rSz8IEH8DkpT7BDZhg7ClteZjgPZiyupSDaTYSLutSHqZzXTrD9At1if_FupSwZabdZZEKl-huser0msaCwRZtV8JVQ1-1hsZw3TNbnXf362K1cINnVzOcb6ptPPNsN9gb31Qy4T2bBvXJBd6msPG9ue0Ftl7A4WbjmK65DgpzX1sbuLDw_AIKg4Jlak5gUa7jexytVfb1qQBDeznYAnVYBUogfgqvwfSpVy2zk9pgZTdG4sKtHPxOTxuPR0w96ATr5p6x6ov1djtptWrarLJpy4s-rhuaoxBwQ7mi-O_NV41X2cXLaKooEjvbRdWKAzSn430ymisZtjCTWkuzexghWrM6y_1-UKvAKIkLc7LXfTJo9kn-XFFki9jkGMr1dY5ccgWBgQQmiGQlTLKVPB55IvLUCOQ8S_KIwrqmmnjL1VltXp7ThlZjNLNWb1AuCvYbjm1SeO1zzD_hWmyv",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=HhgB7niczZXNkqo4FMc3s5zXGDbeVsDvrqJuhTQqamtDix-9oRAwoCA2AVF38y7zVPM0E0AUvWrPvYupSRXExJP_OUnOj_PnX469Xv39-29WEGzwc6kURVEReR5yzKLuuSUN79d6aeE52Net79gLfd20DU63fM81KcvhzDWFHC7EVBg6JhcVIBAlEYr-mG0dtLYTfpTl7dzeCdIeeO_t1vpj2j0Y7WaZzA1kuMLjSXVjtMcrsTWgZ1PZ0SNqv-XKlI45mjJtDiNY0bZjxe-bT1tJFa16W-QRlcTFqXMNm0sS9m6JS2qJvFZ_lF_IoIiL5rrYbwuHQHwdlOVGkaWZZnFY0lxiAP7DJglABDzp0-5egwAIX4vFJhKAsVbWEDz_lbaXVC_2iZKJ3l2XACVCcqIhAfAG316NRrziGCofPYiYvxiQ5UlYUaLM8_9iO7kmHTeRacIHtuLtaSFdho7D_C3fVeOJuXAxBrMX8LInSXycQRf25OiBdBqJiXKUOOgA-MY_AUmSHmycLOiJoLoiWSHdtzqGMrV6mdEAaSSSkoFI8tKluU86pmTrlp788HGc03DUpL32JMDVwEAR66jrvbMzlHYjqH-IQX2BSvqc2DmeZpiGaqn092TMsEyVbpbrjW8JTDo-0YTzNL2LsCKtlPm0C4r9Is9kKMHTdVydsUDG8NZN8fBoevNSchzkFtswfw_KsSfpTYtAvMgHJIhvcd_OJoaAJ5mg59HLHMSSt1C6MEoTHUGURhT34nn5yQQlm820cpf7eoP67g8zUif7JYpH--ioDK4FLCCLJ-eza6UZkCAS4kPiYR_Z6aR-DkmIc1jKAk1lxMQvEQaXH5PM8cv5MIhMS0rOxIrZQYoSAySk35H0-4RS1fj7c8kCuoIpaxPy9OFD5O83_kuQ4lAyZq4QyKMjsC67VSszi9_tAucgdZYjTW-GVTkIwG1UPHf-E5VH_3_BlNUl5ViX7sMkfA0TeaFHdSl5neoSek9h6t2HyU5g-qEuDW_UpWuYIJDPMPX4tC5F9-rSz8IEH8DkpT7BDZhg7ClteZjgPZiyupSDaTYSLutSHqZzXTrD9At1if_FupSwZabdZZEKl-huser0msaCwRZtV8JVQ1-1hsZw3TNbnXf362K1cINnVzOcb6ptPPNsN9gb31Qy4T2bBvXJBd6msPG9ue0Ftl7A4WbjmK65DgpzX1sbuLDw_AIKg4Jlak5gUa7jexytVfb1qQBDeznYAnVYBUogfgqvwfSpVy2zk9pgZTdG4sKtHPxOTxuPR0w96ATr5p6x6ov1djtptWrarLJpy4s-rhuaoxBwQ7mi-O_NV41X2cXLaKooEjvbRdWKAzSn430ymisZtjCTWkuzexghWrM6y_1-UKvAKIkLc7LXfTJo9kn-XFFki9jkGMr1dY5ccgWBgQQmiGQlTLKVPB55IvLUCOQ8S_KIwrqmmnjL1VltXp7ThlZjNLNWb1AuCvYbjm1SeO1zzD_hWmyv"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "A Gastroenterologist's Guide to Probiotics - PMC - NIH",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3424311/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVPOAHsmWX1S0m2RtQ7Fx9-6BF7I7gVTLvIXF26iDpYuwZfy8yGnSUZQcfsK1ONaFFp9zoo3pCZNs-FAX8Cuotl__jy0zjOytv65G9bGJhPYwQQRtvoUWRmQUAYMPhxUhr7haRlrZgJQ&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://pmc.ncbi.nlm.nih.gov › articles › PMC3424311",
+      "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp",
+      "author": "by MA Ciorba",
+      "snippet": "LGG is the most effective probiotic reported on to date, reducing both severity and duration of diarrhea by ~1 day. The American Academy of Pediatrics supports ...",
+      "snippet_highlighted_words": [
+        "LGG is the most effective probiotic reported on to date"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "LGG is the most effective probiotic reported on to date, reducing both severity and duration of diarrhea by ~1 day. The American Academy of Pediatrics supports ...",
+          "source_info_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3424311/",
+          "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglAGGaxfZY6CtuBJGgyeeqV1G9D_yUtsol8oAD-_sOTEDgs8NL15VX_wv4F_6dBNd4_gi1U_kXUxqPcXsFtGjMlHL_iwWI8vAiLZ2nms29BCF5wNcn09T7UNEVTopOdvfb6mH_-a5ZDrRWvXo-9H2GTsj5x3b_VzXmclGgeq4YJB_JffNIrdNH2uGUzJ2PgPtuu-F8C185JL_0VELY6ah1IOx3-tE_Lg7whjT9VJtLQ_hW7fvNm7vEEGvHOJUWo6xVUyKM_eZfcqIAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlBPQUhzbVdYMVMwbTJSdFE3Rng5LTZCRjdJN2dWVEx2SVhGMjZpRHBZdXdaZnk4eUduU1VaUWNmc0sxT05hRkZwOXpvbzNwQ1pOcy1GQVg4Q3VvdGxfX2p5MHpqT3l0djY1RzliR0poUFl3UVFSdHZvVVdSbVFVQVlNUGh4VWhyN2hhUmxyWmdKURIEGgIIABr6BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNQGCAAQABgAIAAqPgoDdG9wFUPEkTwaBGJlc3QaB2hpZ2hlc3QaB3BvcHVsYXIaBXJhdGVkGgtyZWNvbW1lbmRlZBoGcmV2aWV3KkEKCXByb2Jpb3RpYxUncbg_Ggpwcm9iaW90aWNzGhNwcm9iaW90aWNzdXBwbGVtZW50Gg5pdjtwO3Byb2Jpb3RpYypeCgpzdXBwbGVtZW50FcJpsT4aCGNhcHN1bGVzGgVwaWxscxoLc3VwcGxlbWVudHMaB3RhYmxldHMaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaD2l2O3A7c3VwcGxlbWVudCowCgZicmFuZHMV0yAHPRoFYnJhbmQaCWNvbXBhbmllcxoFbmFtZXMaCHByb2R1Y3RzKgoKA2ZvchUAAAAAKlcKA2d1dBVG1m8_GglkaWdlc3RpdmUaEGdhc3Ryb2ludGVzdGluYWwaEGludGVzdGluYWwgdHJhY3QaB3N0b21hY2gaCWd1dGhlYWx0aBoIaXY7cDtndXQqLQoGaGVhbHRoFWvljD8aCmhlYWx0aGNhcmUaB2hlYWx0aHkaCWd1dGhlYWx0aDKgAS9nb3RvP3VybD1DQUVTYkFIck96QVZQT0FIc21XWDFTMG0yUnRRN0Z4OS02QkY3STdnVlRMdklYRjI2aURwWXV3WmZ5OHlHblNVWlFjZnNLMU9OYUZGcDl6b28zcENaTnMtRkFYOEN1b3RsX19qeTB6ak95dHY2NUc5YkdKaFBZd1FRUnR2b1VXUm1RVUFZTVBoeFVocjdoYVJsclpnSlE6QUEgR2FzdHJvZW50ZXJvbG9naXN0JiMzOTtzIEd1aWRlIHRvIDxiPlByb2Jpb3RpY3M8L2I-IC0gUE1DIC0gTklIQq8BPGI-TEdHIGlzIHRoZSBtb3N0IGVmZmVjdGl2ZSBwcm9iaW90aWMgcmVwb3J0ZWQgb24gdG8gZGF0ZTwvYj4sIHJlZHVjaW5nIGJvdGggc2V2ZXJpdHkgYW5kIGR1cmF0aW9uIG9mIGRpYXJyaGVhIGJ5IH4xIGRheS4gVGhlIEFtZXJpY2FuIEFjYWRlbXkgb2YgUGVkaWF0cmljcyBzdXBwb3J0cyZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVlBPQUhzbVdYMVMwbTJSdFE3Rng5LTZCRjdJN2dWVEx2SVhGMjZpRHBZdXdaZnk4eUduU1VaUWNmc0sxT05hRkZwOXpvbzNwQ1pOcy1GQVg4Q3VvdGxfX2p5MHpqT3l0djY1RzliR0poUFl3UVFSdHZvVVdSbVFVQVlNUGh4VWhyN2hhUmxyWmdKURIEGgIIABr6BhICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNQGCAAQABgAIAAqPgoDdG9wFUPEkTwaBGJlc3QaB2hpZ2hlc3QaB3BvcHVsYXIaBXJhdGVkGgtyZWNvbW1lbmRlZBoGcmV2aWV3KkEKCXByb2Jpb3RpYxUncbg_Ggpwcm9iaW90aWNzGhNwcm9iaW90aWNzdXBwbGVtZW50Gg5pdjtwO3Byb2Jpb3RpYypeCgpzdXBwbGVtZW50FcJpsT4aCGNhcHN1bGVzGgVwaWxscxoLc3VwcGxlbWVudHMaB3RhYmxldHMaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaD2l2O3A7c3VwcGxlbWVudCowCgZicmFuZHMV0yAHPRoFYnJhbmQaCWNvbXBhbmllcxoFbmFtZXMaCHByb2R1Y3RzKgoKA2ZvchUAAAAAKlcKA2d1dBVG1m8_GglkaWdlc3RpdmUaEGdhc3Ryb2ludGVzdGluYWwaEGludGVzdGluYWwgdHJhY3QaB3N0b21hY2gaCWd1dGhlYWx0aBoIaXY7cDtndXQqLQoGaGVhbHRoFWvljD8aCmhlYWx0aGNhcmUaB2hlYWx0aHkaCWd1dGhlYWx0aDKgAS9nb3RvP3VybD1DQUVTYkFIck96QVZQT0FIc21XWDFTMG0yUnRRN0Z4OS02QkY3STdnVlRMdklYRjI2aURwWXV3WmZ5OHlHblNVWlFjZnNLMU9OYUZGcDl6b28zcENaTnMtRkFYOEN1b3RsX19qeTB6ak95dHY2NUc5YkdKaFBZd1FRUnR2b1VXUm1RVUFZTVBoeFVocjdoYVJsclpnSlE6QUEgR2FzdHJvZW50ZXJvbG9naXN0JiMzOTtzIEd1aWRlIHRvIDxiPlByb2Jpb3RpY3M8L2I-IC0gUE1DIC0gTklIQq8BPGI-TEdHIGlzIHRoZSBtb3N0IGVmZmVjdGl2ZSBwcm9iaW90aWMgcmVwb3J0ZWQgb24gdG8gZGF0ZTwvYj4sIHJlZHVjaW5nIGJvdGggc2V2ZXJpdHkgYW5kIGR1cmF0aW9uIG9mIGRpYXJyaGVhIGJ5IH4xIGRheS4gVGhlIEFtZXJpY2FuIEFjYWRlbXkgb2YgUGVkaWF0cmljcyBzdXBwb3J0cyZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "National Institutes of Health (NIH) | (.gov)",
+      "read_more_link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3424311/#:~:text=LGG%20is%20the%20most%20effective,diarrhea%20to%20reduce%20symptom%20duration."
+    },
+    {
+      "position": 2,
+      "title": "Best Probiotics 2026 - Forbes Vetted",
+      "link": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-probiotics/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiAEB6zswFfygh9Vl5nHg2Jqy2tkkCt4KXtwRjYc0p-9hG4bkXK_6WvVQ3uNNLrbN4mhT7DUetFNZ9pmhLSS99RN20Kd4zBiURuZbpAte-ShoNFO-IF2Ehq_ubjzSQEz8ICKqL9zYUVwe0rth38y9SHFFI0IwO0I7x-2ULdVuba7LxUVRLzawNuCw&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQFnoECCUQAQ&uoh=1",
+      "displayed_link": "https://www.forbes.com › ... › Gear › Wellness",
+      "favicon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACwBACdASocABwAPtEutFooIagoGAEAGglpAAPjYg4AwhrY24dby7OyzlpT-AAAAP70In9oskZJrD8rNJ0nis30esbg_wIej2xZZ1JfvId7SjVlui4gIYAelDOF6jM1gxNKFZjW-cVqZ8MC-cUXTKkEJKFXeuO4jDAGQQwwkeUg_Hclb676os9P1A6QpWnv9zPo_fp83JPzn_TGqR1DXtfz8V1_7RVerT-BYfM0KbEDppEW-YFYnVUAAAA.webp",
+      "date": "Apr 10, 2026",
+      "snippet": "Best Probiotics For Most People: Ritual Synbiotic+ ; Best Value Probiotics: Culturelle Daily Digestive Probiotics ; Best Probiotics For Men: ...",
+      "snippet_highlighted_words": [
+        "Ritual Synbiotic"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Best Probiotics For Most People: Ritual Synbiotic+ ; Best Value Probiotics: Culturelle Daily Digestive Probiotics ; Best Probiotics For Men: ...",
+          "source_info_link": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-probiotics/",
+          "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAACwBACdASocABwAPtEutFooIagoGAEAGglpAAPjYg4AwhrY24dby7OyzlpT-AAAAP70In9oskZJrD8rNJ0nis30esbg_wIej2xZZ1JfvId7SjVlui4gIYAelDOF6jM1gxNKFZjW-cVqZ8MC-cUXTKkEJKFXeuO4jDAGQQwwkeUg_Hclb676os9P1A6QpWnv9zPo_fp83JPzn_TGqR1DXtfz8V1_7RVerT-BYfM0KbEDppEW-YFYnVUAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZmeWdoOVZsNW5IZzJKcXkydGtrQ3Q0S1h0d1JqWWMwcC05aEc0YmtYS182V3ZWUTN1Tk5McmJONG1oVDdEVWV0Rk5aOXBtaExTUzk5Uk4yMEtkNHpCaVVSdVpicEF0ZS1TaG9ORk8tSUYyRWhxX3VianpTUUV6OElDS3FMOXpZVVZ3ZTBydGgzOHk5U0hGRkkwSXdPMEk3eC0yVUxkVnViYTdMeFVWUkx6YXdOdUN3EgQaAggAGvcGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0QYIABAAGAAgACo-CgN0b3AVK1M0PxoEYmVzdBoHaGlnaGVzdBoHcG9wdWxhchoFcmF0ZWQaC3JlY29tbWVuZGVkGgZyZXZpZXcqQQoJcHJvYmlvdGljFfOQqT8aCnByb2Jpb3RpY3MaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaDml2O3A7cHJvYmlvdGljKl4KCnN1cHBsZW1lbnQVnd9mPxoIY2Fwc3VsZXMaBXBpbGxzGgtzdXBwbGVtZW50cxoHdGFibGV0cxoTcHJvYmlvdGljc3VwcGxlbWVudBoPaXY7cDtzdXBwbGVtZW50KjAKBmJyYW5kcxUUSuI9GgVicmFuZBoJY29tcGFuaWVzGgVuYW1lcxoIcHJvZHVjdHMqCgoDZm9yFQAAAAAqVwoDZ3V0FVDjjD8aCWRpZ2VzdGl2ZRoQZ2FzdHJvaW50ZXN0aW5hbBoQaW50ZXN0aW5hbCB0cmFjdBoHc3RvbWFjaBoJZ3V0aGVhbHRoGghpdjtwO2d1dCotCgZoZWFsdGgVrqumPxoKaGVhbHRoY2FyZRoHaGVhbHRoeRoJZ3V0aGVhbHRoMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZmeWdoOVZsNW5IZzJKcXkydGtrQ3Q0S1h0d1JqWWMwcC05aEc0YmtYS182V3ZWUTN1Tk5McmJONG1oVDdEVWV0Rk5aOXBtaExTUzk5Uk4yMEtkNHpCaVVSdVpicEF0ZS1TaG9ORk8tSUYyRWhxX3VianpTUUV6OElDS3FMOXpZVVZ3ZTBydGgzOHk5U0hGRkkwSXdPMEk3eC0yVUxkVnViYTdMeFVWUkx6YXdOdUN3Ois8Yj5CZXN0IFByb2Jpb3RpY3M8L2I-IDIwMjYgLSBGb3JiZXMgVmV0dGVkQpwBQmVzdCBQcm9iaW90aWNzIEZvciBNb3N0IFBlb3BsZTogPGI-Uml0dWFsIFN5bmJpb3RpYzwvYj4rIDsgQmVzdCBWYWx1ZSBQcm9iaW90aWNzOiBDdWx0dXJlbGxlIERhaWx5IERpZ2VzdGl2ZSBQcm9iaW90aWNzIDsgQmVzdCBQcm9iaW90aWNzIEZvciBNZW46Jm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZmeWdoOVZsNW5IZzJKcXkydGtrQ3Q0S1h0d1JqWWMwcC05aEc0YmtYS182V3ZWUTN1Tk5McmJONG1oVDdEVWV0Rk5aOXBtaExTUzk5Uk4yMEtkNHpCaVVSdVpicEF0ZS1TaG9ORk8tSUYyRWhxX3VianpTUUV6OElDS3FMOXpZVVZ3ZTBydGgzOHk5U0hGRkkwSXdPMEk3eC0yVUxkVnViYTdMeFVWUkx6YXdOdUN3EgQaAggAGvcGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0QYIABAAGAAgACo-CgN0b3AVK1M0PxoEYmVzdBoHaGlnaGVzdBoHcG9wdWxhchoFcmF0ZWQaC3JlY29tbWVuZGVkGgZyZXZpZXcqQQoJcHJvYmlvdGljFfOQqT8aCnByb2Jpb3RpY3MaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaDml2O3A7cHJvYmlvdGljKl4KCnN1cHBsZW1lbnQVnd9mPxoIY2Fwc3VsZXMaBXBpbGxzGgtzdXBwbGVtZW50cxoHdGFibGV0cxoTcHJvYmlvdGljc3VwcGxlbWVudBoPaXY7cDtzdXBwbGVtZW50KjAKBmJyYW5kcxUUSuI9GgVicmFuZBoJY29tcGFuaWVzGgVuYW1lcxoIcHJvZHVjdHMqCgoDZm9yFQAAAAAqVwoDZ3V0FVDjjD8aCWRpZ2VzdGl2ZRoQZ2FzdHJvaW50ZXN0aW5hbBoQaW50ZXN0aW5hbCB0cmFjdBoHc3RvbWFjaBoJZ3V0aGVhbHRoGghpdjtwO2d1dCotCgZoZWFsdGgVrqumPxoKaGVhbHRoY2FyZRoHaGVhbHRoeRoJZ3V0aGVhbHRoMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZmeWdoOVZsNW5IZzJKcXkydGtrQ3Q0S1h0d1JqWWMwcC05aEc0YmtYS182V3ZWUTN1Tk5McmJONG1oVDdEVWV0Rk5aOXBtaExTUzk5Uk4yMEtkNHpCaVVSdVpicEF0ZS1TaG9ORk8tSUYyRWhxX3VianpTUUV6OElDS3FMOXpZVVZ3ZTBydGgzOHk5U0hGRkkwSXdPMEk3eC0yVUxkVnViYTdMeFVWUkx6YXdOdUN3Ois8Yj5CZXN0IFByb2Jpb3RpY3M8L2I-IDIwMjYgLSBGb3JiZXMgVmV0dGVkQpwBQmVzdCBQcm9iaW90aWNzIEZvciBNb3N0IFBlb3BsZTogPGI-Uml0dWFsIFN5bmJpb3RpYzwvYj4rIDsgQmVzdCBWYWx1ZSBQcm9iaW90aWNzOiBDdWx0dXJlbGxlIERhaWx5IERpZ2VzdGl2ZSBQcm9iaW90aWNzIDsgQmVzdCBQcm9iaW90aWNzIEZvciBNZW46Jm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Forbes",
+      "read_more_link": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-probiotics/#:~:text=Best%20Probiotics%20For%20Most%20People%3A,Ritual%20Synbiotic%2B&text=Best%20Value%20Probiotics%3A%20Culturelle%20Daily,Digestive%20Probiotics&text=Best%20Probiotics%20For%20Men%3A%20Culturelle,Men's%20Daily%20Health%20Probiotics"
+    },
+    {
+      "position": 3,
+      "title": "6 Best Probiotics for Women That Are Nutritionist-Approved",
+      "link": "https://www.goodrx.com/well-being/gut-health/best-probiotic-women?srsltid=AU7gw4XKen9QKDzZGdE4ghqD3Yhh7gWWeVhr9EXkdUzYLQe8-ydfdfqm",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESvgEB6zswFXckVUGvxhFP1bzXjadHyqw8_NaDlfrmVHYWXBLRsyee1CTQ6_n4xt761ROlgVBAyKA9vwRaLh3986VcvmbHKFRyQRfUvxcwqOhDTTaD6Oaw7Gn-s0tn8XdC-d89wc1Gngl0J7gw8mbbl64ruFp4j5K7URoGDO2LwQuKG84Ni-elgQ5Mx8iN1r-uwjAs7-JNhJdqLl13EP0e8UwxkR8h8NDkE6UG3oXgHzJmrWbps3BE1MC13-TZgsLg&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.goodrx.com › best-probiotic-women",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABNUlEQVR4Ae2XIWgDQRBFv6iujC8UKlLv6lVEVb33VBbqZe2JepfW15sSqrqZa110PNnZyX1YQmBJSI7sDYEMfJGIfU_czf1FnzHBtbZ4VUHoErXFMgmmFvCA2mO_uEmCVgVWBqnLcz34F65UMCNsT1IUTFBjYsBTCSyTBN-oMSpoCDgk1mKEU08UfBwhcI9TTxpC4CLAh8cEYx6wldseAo_bZ-QzR_sesAlfnx0H_pQC_UJGsSe4vfIWs8oC5cbk_i7g9QWYtOrYPHTKPxwEjGzwS-YlQDZUEL0EyKZAcBQIYLHwEiAbbDcsGEMLkEn2puWwaAwoMCOzaDu5cDQExTk-GUb_8JYX1gt_90mWb8ggC2c5KnjXORaHxP5xd-kD7gK-pVQwdq_lrhcT96vZ2VxO3a_na60_9oUHCv6SAAAAAElFTkSuQmCC.png",
+      "snippet": "Women may take probiotics to aid in weight loss, help alleviate anxiety, or manage gut health. Learn about the best probiotics for women, and how to choose.",
+      "snippet_highlighted_words": [
+        "Learn about the best probiotics for women"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best probiotics",
+            "link": "https://www.goodrx.com/well-being/gut-health/best-probiotic-women#best-probiotics"
+          },
+          {
+            "title": "Health benefits",
+            "link": "https://www.goodrx.com/well-being/gut-health/best-probiotic-women#health-benefits"
+          },
+          {
+            "title": "How to choose",
+            "link": "https://www.goodrx.com/well-being/gut-health/best-probiotic-women#how-to-choose"
+          },
+          {
+            "title": "How long it takes to work",
+            "link": "https://www.goodrx.com/well-being/gut-health/best-probiotic-women#how-long-it-takes-to-work"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Women may take probiotics to aid in weight loss, help alleviate anxiety, or manage gut health. Learn about the best probiotics for women, and how to choose.",
+          "source_info_link": "https://www.goodrx.com/well-being/gut-health/best-probiotic-women?srsltid=AU7gw4XKen9QKDzZGdE4ghqD3Yhh7gWWeVhr9EXkdUzYLQe8-ydfdfqm",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABNUlEQVR4Ae2XIWgDQRBFv6iujC8UKlLv6lVEVb33VBbqZe2JepfW15sSqrqZa110PNnZyX1YQmBJSI7sDYEMfJGIfU_czf1FnzHBtbZ4VUHoErXFMgmmFvCA2mO_uEmCVgVWBqnLcz34F65UMCNsT1IUTFBjYsBTCSyTBN-oMSpoCDgk1mKEU08UfBwhcI9TTxpC4CLAh8cEYx6wldseAo_bZ-QzR_sesAlfnx0H_pQC_UJGsSe4vfIWs8oC5cbk_i7g9QWYtOrYPHTKPxwEjGzwS-YlQDZUEL0EyKZAcBQIYLHwEiAbbDcsGEMLkEn2puWwaAwoMCOzaDu5cDQExTk-GUb_8JYX1gt_90mWb8ggC2c5KnjXORaHxP5xd-kD7gK-pVQwdq_lrhcT96vZ2VxO3a_na60_9oUHCv6SAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4CL2dvdG8_dXJsPUNBRVN2Z0VCNnpzd0ZYY2tWVUd2eGhGUDFielhqYWRIeXF3OF9OYURsZnJtVkhZV1hCTFJzeWVlMUNUUTZfbjR4dDc2MVJPbGdWQkF5S0E5dndSYUxoMzk4NlZjdm1iSEtGUnlRUmZVdnhjd3FPaERUVGFENk9hdzdHbi1zMHRuOFhkQy1kODl3YzFHbmdsMEo3Z3c4bWJibDY0cnVGcDRqNUs3VVJvR0RPMkx3UXVLRzg0TmktZWxnUTVNeDhpTjFyLXV3akFzNy1KTmhKZHFMbDEzRVAwZThVd3hrUjhoOE5Ea0U2VUczb1hnSHpKbXJXYnBzM0JFMU1DMTMtVFpnc0xnEgQaAggAGoMHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA3QYIABAAGAAgACo-CgN0b3AVAAAAABoEYmVzdBoHaGlnaGVzdBoHcG9wdWxhchoFcmF0ZWQaC3JlY29tbWVuZGVkGgZyZXZpZXcqQQoJcHJvYmlvdGljFYLMBkAaCnByb2Jpb3RpY3MaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaDml2O3A7cHJvYmlvdGljKl4KCnN1cHBsZW1lbnQV5e9dPxoIY2Fwc3VsZXMaBXBpbGxzGgtzdXBwbGVtZW50cxoHdGFibGV0cxoTcHJvYmlvdGljc3VwcGxlbWVudBoPaXY7cDtzdXBwbGVtZW50KjAKBmJyYW5kcxWvlkg-GgVicmFuZBoJY29tcGFuaWVzGgVuYW1lcxoIcHJvZHVjdHMqCgoDZm9yFQAAAAAqVwoDZ3V0FbAUHkAaCWRpZ2VzdGl2ZRoQZ2FzdHJvaW50ZXN0aW5hbBoQaW50ZXN0aW5hbCB0cmFjdBoHc3RvbWFjaBoJZ3V0aGVhbHRoGghpdjtwO2d1dCotCgZoZWFsdGgVlZtvQBoKaGVhbHRoY2FyZRoHaGVhbHRoeRoJZ3V0aGVhbHRoMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjlTLUI4UG1LVUxUX3RWOEpzd3VrakVSMXZzOUl3QUlscWdIcjFoUHhsTzA1SlR0ZmNWcEthbUZUSW1zclZ2c2o2WnoyNGY0SF8tRjZGRVVKdVdTdmdVclhyT29sdUhZaW51bjhZd1QtamxkQ3Y3aUFWRjJCd1VwZE1RbUxoZG94NU5USG9nRmhETFZJZURvZWhZRUlOdHU3UkNHUEJrQTpBNiA8Yj5CZXN0IFByb2Jpb3RpY3M8L2I-IGZvciBXb21lbiBUaGF0IEFyZSBOdXRyaXRpb25pc3QtQXBwcm92ZWRCowFXb21lbiBtYXkgdGFrZSBwcm9iaW90aWNzIHRvIGFpZCBpbiB3ZWlnaHQgbG9zcywgaGVscCBhbGxldmlhdGUgYW54aWV0eSwgb3IgbWFuYWdlIGd1dCBoZWFsdGguIDxiPkxlYXJuIGFib3V0IHRoZSBiZXN0IHByb2Jpb3RpY3MgZm9yIHdvbWVuPC9iPiwgYW5kIGhvdyB0byBjaG9vc2UuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4CL2dvdG8_dXJsPUNBRVN2Z0VCNnpzd0ZYY2tWVUd2eGhGUDFielhqYWRIeXF3OF9OYURsZnJtVkhZV1hCTFJzeWVlMUNUUTZfbjR4dDc2MVJPbGdWQkF5S0E5dndSYUxoMzk4NlZjdm1iSEtGUnlRUmZVdnhjd3FPaERUVGFENk9hdzdHbi1zMHRuOFhkQy1kODl3YzFHbmdsMEo3Z3c4bWJibDY0cnVGcDRqNUs3VVJvR0RPMkx3UXVLRzg0TmktZWxnUTVNeDhpTjFyLXV3akFzNy1KTmhKZHFMbDEzRVAwZThVd3hrUjhoOE5Ea0U2VUczb1hnSHpKbXJXYnBzM0JFMU1DMTMtVFpnc0xnEgQaAggAGoMHEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA3QYIABAAGAAgACo-CgN0b3AVAAAAABoEYmVzdBoHaGlnaGVzdBoHcG9wdWxhchoFcmF0ZWQaC3JlY29tbWVuZGVkGgZyZXZpZXcqQQoJcHJvYmlvdGljFYLMBkAaCnByb2Jpb3RpY3MaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaDml2O3A7cHJvYmlvdGljKl4KCnN1cHBsZW1lbnQV5e9dPxoIY2Fwc3VsZXMaBXBpbGxzGgtzdXBwbGVtZW50cxoHdGFibGV0cxoTcHJvYmlvdGljc3VwcGxlbWVudBoPaXY7cDtzdXBwbGVtZW50KjAKBmJyYW5kcxWvlkg-GgVicmFuZBoJY29tcGFuaWVzGgVuYW1lcxoIcHJvZHVjdHMqCgoDZm9yFQAAAAAqVwoDZ3V0FbAUHkAaCWRpZ2VzdGl2ZRoQZ2FzdHJvaW50ZXN0aW5hbBoQaW50ZXN0aW5hbCB0cmFjdBoHc3RvbWFjaBoJZ3V0aGVhbHRoGghpdjtwO2d1dCotCgZoZWFsdGgVlZtvQBoKaGVhbHRoY2FyZRoHaGVhbHRoeRoJZ3V0aGVhbHRoMrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVjlTLUI4UG1LVUxUX3RWOEpzd3VrakVSMXZzOUl3QUlscWdIcjFoUHhsTzA1SlR0ZmNWcEthbUZUSW1zclZ2c2o2WnoyNGY0SF8tRjZGRVVKdVdTdmdVclhyT29sdUhZaW51bjhZd1QtamxkQ3Y3aUFWRjJCd1VwZE1RbUxoZG94NU5USG9nRmhETFZJZURvZWhZRUlOdHU3UkNHUEJrQTpBNiA8Yj5CZXN0IFByb2Jpb3RpY3M8L2I-IGZvciBXb21lbiBUaGF0IEFyZSBOdXRyaXRpb25pc3QtQXBwcm92ZWRCowFXb21lbiBtYXkgdGFrZSBwcm9iaW90aWNzIHRvIGFpZCBpbiB3ZWlnaHQgbG9zcywgaGVscCBhbGxldmlhdGUgYW54aWV0eSwgb3IgbWFuYWdlIGd1dCBoZWFsdGguIDxiPkxlYXJuIGFib3V0IHRoZSBiZXN0IHByb2Jpb3RpY3MgZm9yIHdvbWVuPC9iPiwgYW5kIGhvdyB0byBjaG9vc2UuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "GoodRx"
+    },
+    {
+      "position": 4,
+      "title": "Best Probiotic Nutritional Supplements",
+      "link": "https://www.amazon.com/Best-Sellers-Probiotic-Nutritional-Supplements/zgbs/hpc/3774071",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFQNKlwm14u7C2GJwKc6XNxLbIIZfEScDuhMtmm-AG4sb3OPNEyhwFn5tfdYYiXeaDlCdsdF-PSf7k5GJ1-UQGYZixeoHYmltIhCTUwbK_WAyMTkR1-RbIwy8k6XZtOYGSMRGNUhScu--rN-EGZB26-sXJTudQ-gUeAKq7JMfMDruakQJSjUsHHRwP-KJ&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › zgbs › hpc",
+      "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+      "snippet": "#1 Physician's CHOICE Probiotics. Digestive & Gut Health #2 Garden of Life Dr. Formulated Once Daily Women's Probiotics, ZBiotics Pre-Alcohol Probiotic. ...",
+      "snippet_highlighted_words": [
+        "Physician's CHOICE Probiotics"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "#1 Physician's CHOICE Probiotics. Digestive & Gut Health #2 Garden of Life Dr. Formulated Once Daily Women's Probiotics, ZBiotics Pre-Alcohol Probiotic. ...",
+          "source_info_link": "https://www.amazon.com/Best-Sellers-Probiotic-Nutritional-Supplements/zgbs/hpc/3774071",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZRTktsd20xNHU3QzJHSndLYzZYTnhMYklJWmZFU2NEdWhNdG1tLUFHNHNiM09QTkV5aHdGbjV0ZmRZWWlYZWFEbENkc2RGLVBTZjdrNUdKMS1VUUdZWml4ZW9IWW1sdEloQ1RVd2JLX1dBeU1Ua1IxLVJiSXd5OGs2WFp0T1lHU01SR05VaFNjdS0tck4tRUdaQjI2LXNYSlR1ZFEtZ1VlQUtxN0pNZk1EcnVha1FKU2pVc0hIUndQLUtKEgQaAggAGrkHEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAkwcIABAAGAAgACo-CgN0b3AV3x4VPRoEYmVzdBoHaGlnaGVzdBoHcG9wdWxhchoFcmF0ZWQaC3JlY29tbWVuZGVkGgZyZXZpZXcqQQoJcHJvYmlvdGljFTfW70AaCnByb2Jpb3RpY3MaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaDml2O3A7cHJvYmlvdGljKl4KCnN1cHBsZW1lbnQV1O64PxoIY2Fwc3VsZXMaBXBpbGxzGgtzdXBwbGVtZW50cxoHdGFibGV0cxoTcHJvYmlvdGljc3VwcGxlbWVudBoPaXY7cDtzdXBwbGVtZW50KjAKBmJyYW5kcxVK0qE6GgVicmFuZBoJY29tcGFuaWVzGgVuYW1lcxoIcHJvZHVjdHMqCgoDZm9yFQAAAAAqVwoDZ3V0FasSTUAaCWRpZ2VzdGl2ZRoQZ2FzdHJvaW50ZXN0aW5hbBoQaW50ZXN0aW5hbCB0cmFjdBoHc3RvbWFjaBoJZ3V0aGVhbHRoGghpdjtwO2d1dCotCgZoZWFsdGgVnsufQBoKaGVhbHRoY2FyZRoHaGVhbHRoeRoJZ3V0aGVhbHRoMtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZRTktsd20xNHU3QzJHSndLYzZYTnhMYklJWmZFU2NEdWhNdG1tLUFHNHNiM09QTkV5aHdGbjV0ZmRZWWlYZWFEbENkc2RGLVBTZjdrNUdKMS1VUUdZWml4ZW9IWW1sdEloQ1RVd2JLX1dBeU1Ua1IxLVJiSXd5OGs2WFp0T1lHU01SR05VaFNjdS0tck4tRUdaQjI2LXNYSlR1ZFEtZ1VlQUtxN0pNZk1EcnVha1FKU2pVc0hIUndQLUtKOklBbWF6b24gQmVzdCBTZWxsZXJzOiA8Yj5CZXN0IFByb2Jpb3RpYzwvYj4gTnV0cml0aW9uYWwgPGI-U3VwcGxlbWVudHM8L2I-QrQBIzEgPGI-UGh5c2ljaWFuJiMzOTtzIENIT0lDRSBQcm9iaW90aWNzPC9iPi4gRGlnZXN0aXZlICZhbXA7IEd1dCBIZWFsdGggIzIgR2FyZGVuIG9mIExpZmUgRHIuIEZvcm11bGF0ZWQgT25jZSBEYWlseSBXb21lbiYjMzk7cyBQcm9iaW90aWNzLCBaQmlvdGljcyBQcmUtQWxjb2hvbCBQcm9iaW90aWMuJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZRTktsd20xNHU3QzJHSndLYzZYTnhMYklJWmZFU2NEdWhNdG1tLUFHNHNiM09QTkV5aHdGbjV0ZmRZWWlYZWFEbENkc2RGLVBTZjdrNUdKMS1VUUdZWml4ZW9IWW1sdEloQ1RVd2JLX1dBeU1Ua1IxLVJiSXd5OGs2WFp0T1lHU01SR05VaFNjdS0tck4tRUdaQjI2LXNYSlR1ZFEtZ1VlQUtxN0pNZk1EcnVha1FKU2pVc0hIUndQLUtKEgQaAggAGrkHEgIIABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJAkwcIABAAGAAgACo-CgN0b3AV3x4VPRoEYmVzdBoHaGlnaGVzdBoHcG9wdWxhchoFcmF0ZWQaC3JlY29tbWVuZGVkGgZyZXZpZXcqQQoJcHJvYmlvdGljFTfW70AaCnByb2Jpb3RpY3MaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaDml2O3A7cHJvYmlvdGljKl4KCnN1cHBsZW1lbnQV1O64PxoIY2Fwc3VsZXMaBXBpbGxzGgtzdXBwbGVtZW50cxoHdGFibGV0cxoTcHJvYmlvdGljc3VwcGxlbWVudBoPaXY7cDtzdXBwbGVtZW50KjAKBmJyYW5kcxVK0qE6GgVicmFuZBoJY29tcGFuaWVzGgVuYW1lcxoIcHJvZHVjdHMqCgoDZm9yFQAAAAAqVwoDZ3V0FasSTUAaCWRpZ2VzdGl2ZRoQZ2FzdHJvaW50ZXN0aW5hbBoQaW50ZXN0aW5hbCB0cmFjdBoHc3RvbWFjaBoJZ3V0aGVhbHRoGghpdjtwO2d1dCotCgZoZWFsdGgVnsufQBoKaGVhbHRoY2FyZRoHaGVhbHRoeRoJZ3V0aGVhbHRoMtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZRTktsd20xNHU3QzJHSndLYzZYTnhMYklJWmZFU2NEdWhNdG1tLUFHNHNiM09QTkV5aHdGbjV0ZmRZWWlYZWFEbENkc2RGLVBTZjdrNUdKMS1VUUdZWml4ZW9IWW1sdEloQ1RVd2JLX1dBeU1Ua1IxLVJiSXd5OGs2WFp0T1lHU01SR05VaFNjdS0tck4tRUdaQjI2LXNYSlR1ZFEtZ1VlQUtxN0pNZk1EcnVha1FKU2pVc0hIUndQLUtKOklBbWF6b24gQmVzdCBTZWxsZXJzOiA8Yj5CZXN0IFByb2Jpb3RpYzwvYj4gTnV0cml0aW9uYWwgPGI-U3VwcGxlbWVudHM8L2I-QrQBIzEgPGI-UGh5c2ljaWFuJiMzOTtzIENIT0lDRSBQcm9iaW90aWNzPC9iPi4gRGlnZXN0aXZlICZhbXA7IEd1dCBIZWFsdGggIzIgR2FyZGVuIG9mIExpZmUgRHIuIEZvcm11bGF0ZWQgT25jZSBEYWlseSBXb21lbiYjMzk7cyBQcm9iaW90aWNzLCBaQmlvdGljcyBQcmUtQWxjb2hvbCBQcm9iaW90aWMuJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Amazon.com"
+    },
+    {
+      "position": 5,
+      "title": "Top Rated Probiotics",
+      "link": "https://www.cvs.com/shop/health-medicine/digestive-health/probiotics/q/Top_Rated/tp",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFZo1QFRp5On6JasttUW1oBySwWbdG6rzfEMHWckuPb8Bwvilio2pW8Oa-DneQoRVJYsgq16IyvW66zi0DJpSWG6Y_N8hxY9VajLY0TtQ0U0hdONCbOV2cPMMY3hWdL6uzVFnB9g3ciwypR6Uy77ROY3rzB5FjhFY5dYdCVUeTxfW3T2A7RTzwGx_&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQFnoECCMQAQ&uoh=1",
+      "displayed_link": "https://www.cvs.com › ... › Best Probiotics",
+      "favicon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAABQCACdASogACAAPtFAtFooIqgoFAEAGglsAJ0zPbbHxHCGaw7gHiAdIC7AN4z-zNtaG4C3jRt3zwlmX7k3Sh3CoYYqKM1G2NXSUAAA_vzZxGSsJhj3aR7EyPUTUF9sEE3PVHMipdDU7Ht8QTcQA7MSG8euU4vUVdZ3tmaIhORlPJNOfL0_AWvVk0GdKV-s_pPvB_9DiJV9Fb9gPOG7VpWWX2v2AQesR4teT9W6dNV9IMa7fnXxDxNX_2HYaY8hUQJnFpaAz06t1h_065udz2IY6LLcmcq9MkMKxLGr7Hs-5df2-4gg-tTiDn71XZdL8P89rdvAzqj8FZJhlbpLFSM7IWvoEaYG1jI3nPQja4ccsoFWBLNz-jhoV-YuYCLQ4Ke5LaIfpYtqD6UoRV85NdxOBrMOBbys2qUBso2fPGWeb4AA.webp",
+      "snippet": "CVS is the #1 store for the best Probiotics at the most affordable prices online! Browse our best selling Probiotics & top rated products and see what the buzz",
+      "snippet_highlighted_words": [
+        "CVS is the #1 store for the best Probiotics"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "CVS is the #1 store for the best Probiotics at the most affordable prices online! Browse our best selling Probiotics & top rated products and see what the buzz",
+          "source_info_link": "https://www.cvs.com/shop/health-medicine/digestive-health/probiotics/q/Top_Rated/tp",
+          "icon": "https://serpapi.com/images/i/UklGRk4BAABXRUJQVlA4IEIBAABQCACdASogACAAPtFAtFooIqgoFAEAGglsAJ0zPbbHxHCGaw7gHiAdIC7AN4z-zNtaG4C3jRt3zwlmX7k3Sh3CoYYqKM1G2NXSUAAA_vzZxGSsJhj3aR7EyPUTUF9sEE3PVHMipdDU7Ht8QTcQA7MSG8euU4vUVdZ3tmaIhORlPJNOfL0_AWvVk0GdKV-s_pPvB_9DiJV9Fb9gPOG7VpWWX2v2AQesR4teT9W6dNV9IMa7fnXxDxNX_2HYaY8hUQJnFpaAz06t1h_065udz2IY6LLcmcq9MkMKxLGr7Hs-5df2-4gg-tTiDn71XZdL8P89rdvAzqj8FZJhlbpLFSM7IWvoEaYG1jI3nPQja4ccsoFWBLNz-jhoV-YuYCLQ4Ke5LaIfpYtqD6UoRV85NdxOBrMOBbys2qUBso2fPGWeb4AA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZabzFRRlJwNU9uNkphc3R0VVcxb0J5U3dXYmRHNnJ6ZkVNSFdja3VQYjhCd3ZpbGlvMnBXOE9hLURuZVFvUlZKWXNncTE2SXl2VzY2emkwREpwU1dHNllfTjhoeFk5VmFqTFkwVHRRMFUwaGRPTkNiT1YyY1BNTVkzaFdkTDZ1elZGbkI5ZzNjaXd5cFI2VXk3N1JPWTNyekI1RmpoRlk1ZFlkQ1ZVZVR4ZlczVDJBN1JUendHeF8SBBoCCAAaiwcSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA5wYIABAAGAAgACo-CgN0b3AVH245QBoEYmVzdBoHaGlnaGVzdBoHcG9wdWxhchoFcmF0ZWQaC3JlY29tbWVuZGVkGgZyZXZpZXcqQQoJcHJvYmlvdGljFST-Q0AaCnByb2Jpb3RpY3MaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaDml2O3A7cHJvYmlvdGljKl4KCnN1cHBsZW1lbnQViTWyPxoIY2Fwc3VsZXMaBXBpbGxzGgtzdXBwbGVtZW50cxoHdGFibGV0cxoTcHJvYmlvdGljc3VwcGxlbWVudBoPaXY7cDtzdXBwbGVtZW50KjAKBmJyYW5kcxWtaR49GgVicmFuZBoJY29tcGFuaWVzGgVuYW1lcxoIcHJvZHVjdHMqCgoDZm9yFQAAAAAqVwoDZ3V0FQymbT8aCWRpZ2VzdGl2ZRoQZ2FzdHJvaW50ZXN0aW5hbBoQaW50ZXN0aW5hbCB0cmFjdBoHc3RvbWFjaBoJZ3V0aGVhbHRoGghpdjtwO2d1dCotCgZoZWFsdGgVUNA5QBoKaGVhbHRoY2FyZRoHaGVhbHRoeRoJZ3V0aGVhbHRoMs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZabzFRRlJwNU9uNkphc3R0VVcxb0J5U3dXYmRHNnJ6ZkVNSFdja3VQYjhCd3ZpbGlvMnBXOE9hLURuZVFvUlZKWXNncTE2SXl2VzY2emkwREpwU1dHNllfTjhoeFk5VmFqTFkwVHRRMFUwaGRPTkNiT1YyY1BNTVkzaFdkTDZ1elZGbkI5ZzNjaXd5cFI2VXk3N1JPWTNyekI1RmpoRlk1ZFlkQ1ZVZVR4ZlczVDJBN1JUendHeF86K1RvcCA8Yj5SYXRlZCBQcm9iaW90aWNzPC9iPiBhdCBDVlMgUGhhcm1hY3lCqgE8Yj5DVlMgaXMgdGhlICMxIHN0b3JlIGZvciB0aGUgYmVzdCBQcm9iaW90aWNzPC9iPiBhdCB0aGUgbW9zdCBhZmZvcmRhYmxlIHByaWNlcyBvbmxpbmUhIEJyb3dzZSBvdXIgYmVzdCBzZWxsaW5nIFByb2Jpb3RpY3MgJmFtcDsgdG9wIHJhdGVkIHByb2R1Y3RzIGFuZCBzZWUgd2hhdCB0aGUgYnV6ekoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZabzFRRlJwNU9uNkphc3R0VVcxb0J5U3dXYmRHNnJ6ZkVNSFdja3VQYjhCd3ZpbGlvMnBXOE9hLURuZVFvUlZKWXNncTE2SXl2VzY2emkwREpwU1dHNllfTjhoeFk5VmFqTFkwVHRRMFUwaGRPTkNiT1YyY1BNTVkzaFdkTDZ1elZGbkI5ZzNjaXd5cFI2VXk3N1JPWTNyekI1RmpoRlk1ZFlkQ1ZVZVR4ZlczVDJBN1JUendHeF8SBBoCCAAaiwcSABoAIgAqADIGCAESAnVzOgBCBAgBEABKAFoAcgB6AIJA5wYIABAAGAAgACo-CgN0b3AVH245QBoEYmVzdBoHaGlnaGVzdBoHcG9wdWxhchoFcmF0ZWQaC3JlY29tbWVuZGVkGgZyZXZpZXcqQQoJcHJvYmlvdGljFST-Q0AaCnByb2Jpb3RpY3MaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaDml2O3A7cHJvYmlvdGljKl4KCnN1cHBsZW1lbnQViTWyPxoIY2Fwc3VsZXMaBXBpbGxzGgtzdXBwbGVtZW50cxoHdGFibGV0cxoTcHJvYmlvdGljc3VwcGxlbWVudBoPaXY7cDtzdXBwbGVtZW50KjAKBmJyYW5kcxWtaR49GgVicmFuZBoJY29tcGFuaWVzGgVuYW1lcxoIcHJvZHVjdHMqCgoDZm9yFQAAAAAqVwoDZ3V0FQymbT8aCWRpZ2VzdGl2ZRoQZ2FzdHJvaW50ZXN0aW5hbBoQaW50ZXN0aW5hbCB0cmFjdBoHc3RvbWFjaBoJZ3V0aGVhbHRoGghpdjtwO2d1dCotCgZoZWFsdGgVUNA5QBoKaGVhbHRoY2FyZRoHaGVhbHRoeRoJZ3V0aGVhbHRoMs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZabzFRRlJwNU9uNkphc3R0VVcxb0J5U3dXYmRHNnJ6ZkVNSFdja3VQYjhCd3ZpbGlvMnBXOE9hLURuZVFvUlZKWXNncTE2SXl2VzY2emkwREpwU1dHNllfTjhoeFk5VmFqTFkwVHRRMFUwaGRPTkNiT1YyY1BNTVkzaFdkTDZ1elZGbkI5ZzNjaXd5cFI2VXk3N1JPWTNyekI1RmpoRlk1ZFlkQ1ZVZVR4ZlczVDJBN1JUendHeF86K1RvcCA8Yj5SYXRlZCBQcm9iaW90aWNzPC9iPiBhdCBDVlMgUGhhcm1hY3lCqgE8Yj5DVlMgaXMgdGhlICMxIHN0b3JlIGZvciB0aGUgYmVzdCBQcm9iaW90aWNzPC9iPiBhdCB0aGUgbW9zdCBhZmZvcmRhYmxlIHByaWNlcyBvbmxpbmUhIEJyb3dzZSBvdXIgYmVzdCBzZWxsaW5nIFByb2Jpb3RpY3MgJmFtcDsgdG9wIHJhdGVkIHByb2R1Y3RzIGFuZCBzZWUgd2hhdCB0aGUgYnV6ekoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "CVS"
+    },
+    {
+      "position": 6,
+      "title": "Best Probiotics for Gut Health: Advice From a Nutritionist",
+      "link": "https://signaturehealthcare.org/blog/best-probiotics-for-gut-health",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVZwbsygbGczt95rdW9abXlm4uqRsprXdBpElx1fMK3mMFivRQEEGdOvDvsTkYsH0IhewemhUnATQoodxVwvOliVpMvE9xSCu2s2kBzg26bEt518_pwSofYMj6uxMdGcUG3BCuc-QfiWZmHA_YMnP_4TXD04tnjaMBBw&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://signaturehealthcare.org › blog › best-probiotics-fo...",
+      "date": "Mar 24, 2026",
+      "snippet": "Brands like Nordic Naturals, Florastor, Align, and Culturelle are well-formulated and backed by solid research.",
+      "snippet_highlighted_words": [
+        "Nordic Naturals, Florastor, Align, and Culturelle"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Brands like Nordic Naturals, Florastor, Align, and Culturelle are well-formulated and backed by solid research.",
+          "source_info_link": "https://signaturehealthcare.org/blog/best-probiotics-for-gut-health"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlp3YnN5Z2JHY3p0OTVyZFc5YWJYbG00dXFSc3ByWGRCcEVseDFmTUszbU1GaXZSUUVFR2RPdkR2c1RrWXNIMEloZXdlbWhVbkFUUW9vZHhWd3ZPbGlWcE12RTl4U0N1MnMya0J6ZzI2YkV0NTE4X3B3U29mWU1qNnV4TWRHY1VHM0JDdWMtUWZpV1ptSEFfWU1uUF80VFhEMDR0bmphTUJCdxIEGgIIABrfBhICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQLkGCAAQABgAIAAqPgoDdG9wFQAAAAAaBGJlc3QaB2hpZ2hlc3QaB3BvcHVsYXIaBXJhdGVkGgtyZWNvbW1lbmRlZBoGcmV2aWV3KkEKCXByb2Jpb3RpYxXr7zFAGgpwcm9iaW90aWNzGhNwcm9iaW90aWNzdXBwbGVtZW50Gg5pdjtwO3Byb2Jpb3RpYypeCgpzdXBwbGVtZW50FU3hxD8aCGNhcHN1bGVzGgVwaWxscxoLc3VwcGxlbWVudHMaB3RhYmxldHMaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaD2l2O3A7c3VwcGxlbWVudCowCgZicmFuZHMVfHDAPhoFYnJhbmQaCWNvbXBhbmllcxoFbmFtZXMaCHByb2R1Y3RzKgoKA2ZvchUAAAAAKlcKA2d1dBVMRwRBGglkaWdlc3RpdmUaEGdhc3Ryb2ludGVzdGluYWwaEGludGVzdGluYWwgdHJhY3QaB3N0b21hY2gaCWd1dGhlYWx0aBoIaXY7cDtndXQqLQoGaGVhbHRoFb096kAaCmhlYWx0aGNhcmUaB2hlYWx0aHkaCWd1dGhlYWx0aDK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZad2JzeWdiR2N6dDk1cmRXOWFiWGxtNHVxUnNwclhkQnBFbHgxZk1LM21NRml2UlFFRUdkT3ZEdnNUa1lzSDBJaGV3ZW1oVW5BVFFvb2R4Vnd2T2xpVnBNdkU5eFNDdTJzMmtCemcyNmJFdDUxOF9wd1NvZllNajZ1eE1kR2NVRzNCQ3VjLVFmaVdabUhBX1lNblBfNFRYRDA0dG5qYU1CQnc6SDxiPkJlc3QgUHJvYmlvdGljczwvYj4gZm9yIDxiPkd1dCBIZWFsdGg8L2I-OiBBZHZpY2UgRnJvbSBhIE51dHJpdGlvbmlzdEJ2QnJhbmRzIGxpa2UgPGI-Tm9yZGljIE5hdHVyYWxzLCBGbG9yYXN0b3IsIEFsaWduLCBhbmQgQ3VsdHVyZWxsZTwvYj4gYXJlIHdlbGwtZm9ybXVsYXRlZCBhbmQgYmFja2VkIGJ5IHNvbGlkIHJlc2VhcmNoLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrgBL2dvdG8_dXJsPUNBRVNmZ0hyT3pBVlp3YnN5Z2JHY3p0OTVyZFc5YWJYbG00dXFSc3ByWGRCcEVseDFmTUszbU1GaXZSUUVFR2RPdkR2c1RrWXNIMEloZXdlbWhVbkFUUW9vZHhWd3ZPbGlWcE12RTl4U0N1MnMya0J6ZzI2YkV0NTE4X3B3U29mWU1qNnV4TWRHY1VHM0JDdWMtUWZpV1ptSEFfWU1uUF80VFhEMDR0bmphTUJCdxIEGgIIABrfBhICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQLkGCAAQABgAIAAqPgoDdG9wFQAAAAAaBGJlc3QaB2hpZ2hlc3QaB3BvcHVsYXIaBXJhdGVkGgtyZWNvbW1lbmRlZBoGcmV2aWV3KkEKCXByb2Jpb3RpYxXr7zFAGgpwcm9iaW90aWNzGhNwcm9iaW90aWNzdXBwbGVtZW50Gg5pdjtwO3Byb2Jpb3RpYypeCgpzdXBwbGVtZW50FU3hxD8aCGNhcHN1bGVzGgVwaWxscxoLc3VwcGxlbWVudHMaB3RhYmxldHMaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaD2l2O3A7c3VwcGxlbWVudCowCgZicmFuZHMVfHDAPhoFYnJhbmQaCWNvbXBhbmllcxoFbmFtZXMaCHByb2R1Y3RzKgoKA2ZvchUAAAAAKlcKA2d1dBVMRwRBGglkaWdlc3RpdmUaEGdhc3Ryb2ludGVzdGluYWwaEGludGVzdGluYWwgdHJhY3QaB3N0b21hY2gaCWd1dGhlYWx0aBoIaXY7cDtndXQqLQoGaGVhbHRoFb096kAaCmhlYWx0aGNhcmUaB2hlYWx0aHkaCWd1dGhlYWx0aDK4AS9nb3RvP3VybD1DQUVTZmdIck96QVZad2JzeWdiR2N6dDk1cmRXOWFiWGxtNHVxUnNwclhkQnBFbHgxZk1LM21NRml2UlFFRUdkT3ZEdnNUa1lzSDBJaGV3ZW1oVW5BVFFvb2R4Vnd2T2xpVnBNdkU5eFNDdTJzMmtCemcyNmJFdDUxOF9wd1NvZllNajZ1eE1kR2NVRzNCQ3VjLVFmaVdabUhBX1lNblBfNFRYRDA0dG5qYU1CQnc6SDxiPkJlc3QgUHJvYmlvdGljczwvYj4gZm9yIDxiPkd1dCBIZWFsdGg8L2I-OiBBZHZpY2UgRnJvbSBhIE51dHJpdGlvbmlzdEJ2QnJhbmRzIGxpa2UgPGI-Tm9yZGljIE5hdHVyYWxzLCBGbG9yYXN0b3IsIEFsaWduLCBhbmQgQ3VsdHVyZWxsZTwvYj4gYXJlIHdlbGwtZm9ybXVsYXRlZCBhbmQgYmFja2VkIGJ5IHNvbGlkIHJlc2VhcmNoLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "signaturehealthcare.org"
+    },
+    {
+      "position": 7,
+      "title": "12 Probiotics Brands Nutritionists Trust the Most",
+      "link": "https://www.nsf.org/news/12-probiotics-brands-nutritionists-trust-most",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFZjsfxRoZso_VDinc3WgfWAp3QHJ7vwrauRIzspp9qWbS1-4GYXIR6CPpuBUawIAMzkLyGTpWuP26lLuY4dVoaxQvtTdbkGIqFDXjvnD870010MrJNJwhYVmRUvv2-giG6VUP0vbcO278kWRremWRzO0bebhuX94ixzkqdI&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQFnoECE0QAQ&uoh=1",
+      "displayed_link": "https://www.nsf.org › News",
+      "favicon": "https://serpapi.com/images/i/UklGRuIBAABXRUJQVlA4INYBAACwCQCdASocABwAPrUurVanIacnG_DgFolsAJ0y43p4uLQDbX88V0f_UV8-t7JFYzYqrOEf1z832a51YyGcj-2ugFap5l5uwKeh8EsIr2mp3hIB1oMAAAD--LnAsyaChUgkLPA7Rs0KZi-t_N1CgLyt66cUnUObFThvLT3-hBfc1gDbnW0F0kRACH_Lo0YU4Yiu62iVUVJ0EA4_qJljgGLTNqF_v0XLe9c4O71CcmruGmAeJpLkpTp8TLtMDJF7N5G-BwutpXgftPR2LVdpE-pBJpQO9BrHJqR-RsqLvE426sTWfvcNKy9zEwUX_vg4PEGq4PwW6CaOIsC0vxll_9K85zf_3HGEbHYP_xfNVzkvx98b99JyxO8oue1-f_ykBlh6J0ADMaSwrUXZDKGSoJCYOawG1k74uGtiAC5E34xv6PWljxurIWEZuq8nZLWY9of-aZ6EYFIwUo7l01sS9gNi9pja3slEWuiN5yRaw-Crr_FCvfVtK-dHeF0C-Dxwg7QE__jWxb1Qu0SDHwtx1pHm2Hcs_9vQq8Wv6tQDyLEkECWCXYVB0cWQ365DOitsgNOoUr0w07f7n_lCPPT0D0T7KQa6aoQRlF5sPx9Z-9DNdnWBLMAAAA.webp",
+      "date": "Dec 2, 2025",
+      "snippet": "Registered dietitians shared how they evaluate probiotic products—and which brands they rely on most. The Healthy, A Readers Digest Brand.",
+      "snippet_highlighted_words": [
+        "probiotic products",
+        "brands",
+        "Healthy",
+        "Brand"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Registered dietitians shared how they evaluate probiotic products—and which brands they rely on most. The Healthy, A Readers Digest Brand.",
+          "source_info_link": "https://www.nsf.org/news/12-probiotics-brands-nutritionists-trust-most",
+          "icon": "https://serpapi.com/images/i/UklGRuIBAABXRUJQVlA4INYBAACwCQCdASocABwAPrUurVanIacnG_DgFolsAJ0y43p4uLQDbX88V0f_UV8-t7JFYzYqrOEf1z832a51YyGcj-2ugFap5l5uwKeh8EsIr2mp3hIB1oMAAAD--LnAsyaChUgkLPA7Rs0KZi-t_N1CgLyt66cUnUObFThvLT3-hBfc1gDbnW0F0kRACH_Lo0YU4Yiu62iVUVJ0EA4_qJljgGLTNqF_v0XLe9c4O71CcmruGmAeJpLkpTp8TLtMDJF7N5G-BwutpXgftPR2LVdpE-pBJpQO9BrHJqR-RsqLvE426sTWfvcNKy9zEwUX_vg4PEGq4PwW6CaOIsC0vxll_9K85zf_3HGEbHYP_xfNVzkvx98b99JyxO8oue1-f_ykBlh6J0ADMaSwrUXZDKGSoJCYOawG1k74uGtiAC5E34xv6PWljxurIWEZuq8nZLWY9of-aZ6EYFIwUo7l01sS9gNi9pja3slEWuiN5yRaw-Crr_FCvfVtK-dHeF0C-Dxwg7QE__jWxb1Qu0SDHwtx1pHm2Hcs_9vQq8Wv6tQDyLEkECWCXYVB0cWQ365DOitsgNOoUr0w07f7n_lCPPT0D0T7KQa6aoQRlF5sPx9Z-9DNdnWBLMAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZaanNmeFJvWnNvX1ZEaW5jM1dnZldBcDNRSEo3dndyYXVSSXpzcHA5cVdiUzEtNEdZWElSNkNQcHVCVWF3SUFNemtMeUdUcFd1UDI2bEx1WTRkVm9heFF2dFRkYmtHSXFGRFhqdm5EODcwMDEwTXJKTkp3aFlWbVJVdnYyLWdpRzZWVVAwdmJjTzI3OGtXUnJlbVdSek8wYmViaHVYOTRpeHprcWRJEgQaAggAGo0HEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA5wYIABAAGAAgACo-CgN0b3AVAAAAABoEYmVzdBoHaGlnaGVzdBoHcG9wdWxhchoFcmF0ZWQaC3JlY29tbWVuZGVkGgZyZXZpZXcqQQoJcHJvYmlvdGljFVmD6T4aCnByb2Jpb3RpY3MaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaDml2O3A7cHJvYmlvdGljKl4KCnN1cHBsZW1lbnQVAAAAABoIY2Fwc3VsZXMaBXBpbGxzGgtzdXBwbGVtZW50cxoHdGFibGV0cxoTcHJvYmlvdGljc3VwcGxlbWVudBoPaXY7cDtzdXBwbGVtZW50KjAKBmJyYW5kcxUwb2BAGgVicmFuZBoJY29tcGFuaWVzGgVuYW1lcxoIcHJvZHVjdHMqCgoDZm9yFQAAAAAqVwoDZ3V0FQAAAAAaCWRpZ2VzdGl2ZRoQZ2FzdHJvaW50ZXN0aW5hbBoQaW50ZXN0aW5hbCB0cmFjdBoHc3RvbWFjaBoJZ3V0aGVhbHRoGghpdjtwO2d1dCotCgZoZWFsdGgVAAAAABoKaGVhbHRoY2FyZRoHaGVhbHRoeRoJZ3V0aGVhbHRoMr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZaanNmeFJvWnNvX1ZEaW5jM1dnZldBcDNRSEo3dndyYXVSSXpzcHA5cVdiUzEtNEdZWElSNkNQcHVCVWF3SUFNemtMeUdUcFd1UDI2bEx1WTRkVm9heFF2dFRkYmtHSXFGRFhqdm5EODcwMDEwTXJKTkp3aFlWbVJVdnYyLWdpRzZWVVAwdmJjTzI3OGtXUnJlbVdSek8wYmViaHVYOTRpeHprcWRJOj4xMiA8Yj5Qcm9iaW90aWNzIEJyYW5kczwvYj4gTnV0cml0aW9uaXN0cyBUcnVzdCB0aGUgTW9zdCAtIE5TRkKoAVJlZ2lzdGVyZWQgZGlldGl0aWFucyBzaGFyZWQgaG93IHRoZXkgZXZhbHVhdGUgPGI-cHJvYmlvdGljIHByb2R1Y3RzPC9iPuKAlGFuZCB3aGljaCA8Yj5icmFuZHM8L2I-IHRoZXkgcmVseSBvbiBtb3N0LiBUaGUgPGI-SGVhbHRoeTwvYj4sIEEgUmVhZGVycyBEaWdlc3QgPGI-QnJhbmQ8L2I-LkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZaanNmeFJvWnNvX1ZEaW5jM1dnZldBcDNRSEo3dndyYXVSSXpzcHA5cVdiUzEtNEdZWElSNkNQcHVCVWF3SUFNemtMeUdUcFd1UDI2bEx1WTRkVm9heFF2dFRkYmtHSXFGRFhqdm5EODcwMDEwTXJKTkp3aFlWbVJVdnYyLWdpRzZWVVAwdmJjTzI3OGtXUnJlbVdSek8wYmViaHVYOTRpeHprcWRJEgQaAggAGo0HEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA5wYIABAAGAAgACo-CgN0b3AVAAAAABoEYmVzdBoHaGlnaGVzdBoHcG9wdWxhchoFcmF0ZWQaC3JlY29tbWVuZGVkGgZyZXZpZXcqQQoJcHJvYmlvdGljFVmD6T4aCnByb2Jpb3RpY3MaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaDml2O3A7cHJvYmlvdGljKl4KCnN1cHBsZW1lbnQVAAAAABoIY2Fwc3VsZXMaBXBpbGxzGgtzdXBwbGVtZW50cxoHdGFibGV0cxoTcHJvYmlvdGljc3VwcGxlbWVudBoPaXY7cDtzdXBwbGVtZW50KjAKBmJyYW5kcxUwb2BAGgVicmFuZBoJY29tcGFuaWVzGgVuYW1lcxoIcHJvZHVjdHMqCgoDZm9yFQAAAAAqVwoDZ3V0FQAAAAAaCWRpZ2VzdGl2ZRoQZ2FzdHJvaW50ZXN0aW5hbBoQaW50ZXN0aW5hbCB0cmFjdBoHc3RvbWFjaBoJZ3V0aGVhbHRoGghpdjtwO2d1dCotCgZoZWFsdGgVAAAAABoKaGVhbHRoY2FyZRoHaGVhbHRoeRoJZ3V0aGVhbHRoMr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZaanNmeFJvWnNvX1ZEaW5jM1dnZldBcDNRSEo3dndyYXVSSXpzcHA5cVdiUzEtNEdZWElSNkNQcHVCVWF3SUFNemtMeUdUcFd1UDI2bEx1WTRkVm9heFF2dFRkYmtHSXFGRFhqdm5EODcwMDEwTXJKTkp3aFlWbVJVdnYyLWdpRzZWVVAwdmJjTzI3OGtXUnJlbVdSek8wYmViaHVYOTRpeHprcWRJOj4xMiA8Yj5Qcm9iaW90aWNzIEJyYW5kczwvYj4gTnV0cml0aW9uaXN0cyBUcnVzdCB0aGUgTW9zdCAtIE5TRkKoAVJlZ2lzdGVyZWQgZGlldGl0aWFucyBzaGFyZWQgaG93IHRoZXkgZXZhbHVhdGUgPGI-cHJvYmlvdGljIHByb2R1Y3RzPC9iPuKAlGFuZCB3aGljaCA8Yj5icmFuZHM8L2I-IHRoZXkgcmVseSBvbiBtb3N0LiBUaGUgPGI-SGVhbHRoeTwvYj4sIEEgUmVhZGVycyBEaWdlc3QgPGI-QnJhbmQ8L2I-LkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "NSF.org"
+    },
+    {
+      "position": 8,
+      "title": "Probiotics for Gut Health: Men's and Women's",
+      "link": "https://www.naturemade.com/collections/probiotic-supplements?srsltid=AU7gw4XvBOAn5xB2p-FS5o8Uy6qTMQsX8sPRivM41604VlJ8OJE5wTap",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESuAEB6zswFTqmFjRSwvvZai6K_Ozk5hBgvdJsSXhmjtOV6wfUn6P3rCW7Kg9Y8bGWlaJLYoARQjBPzwgX5y_-DNH1Z0zF7yHxbh7J1PqSn1_5MhGOlUwZDn8pOvcMhNMtSSYot5p7T0QBNtYJKu02rHxSnDhz8xNLsD0S0K1c-HjLvx7VbrnqYELjRJlYaB6-0nJ1ySunEYeDxT1KbJsxhdw6Ccyu9Sp9QiDzUh4kK6YvPKintCxC3o05&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQFnoECFAQAQ&uoh=1",
+      "displayed_link": "https://www.naturemade.com › probiotic-supplements",
+      "favicon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAACwBACdASocABwAPtEutFooIagoGAEAGglqAMDdi4bfa6pHBPKqKxiE8DQr_vMAAP72AScjpeNNI7EQAsp6qv1n0UclIa4v1xJphi0aYFy3mLAdF6FeAOFyh1UhMiI_Kx-HbwFZwoP-Jfx57voZTNJVe0Q22iaK4r4hz4HgPc4cx5YKSbxJD2fMDUzaJEG4OGCW0N0aknxgGdxofKOWQY9fUIX6XcZD57XUoSzqQoq2la4U8QIcXgKMUR0eaHBZdHxMEUAA.webp",
+      "snippet": "Shop our probiotic supplements to increase your intake of good bacteria and help support your digestive balance and healthy gut flora.†",
+      "snippet_highlighted_words": [
+        "Shop our probiotic supplements"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.2,
+            "store_rating": 611,
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.2",
+            "store rating (611)",
+            "$10 delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Shop our probiotic supplements to increase your intake of good bacteria and help support your digestive balance and healthy gut flora.†",
+          "source_info_link": "https://www.naturemade.com/collections/probiotic-supplements?srsltid=AU7gw4XvBOAn5xB2p-FS5o8Uy6qTMQsX8sPRivM41604VlJ8OJE5wTap",
+          "icon": "https://serpapi.com/images/i/UklGRtAAAABXRUJQVlA4IMQAAACwBACdASocABwAPtEutFooIagoGAEAGglqAMDdi4bfa6pHBPKqKxiE8DQr_vMAAP72AScjpeNNI7EQAsp6qv1n0UclIa4v1xJphi0aYFy3mLAdF6FeAOFyh1UhMiI_Kx-HbwFZwoP-Jfx57voZTNJVe0Q22iaK4r4hz4HgPc4cx5YKSbxJD2fMDUzaJEG4OGCW0N0aknxgGdxofKOWQY9fUIX6XcZD57XUoSzqQoq2la4U8QIcXgKMUR0eaHBZdHxMEUAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYCL2dvdG8_dXJsPUNBRVN1QUVCNnpzd0ZUcW1GalJTd3Z2WmFpNktfT3prNWhCZ3ZkSnNTWGhtanRPVjZ3ZlVuNlAzckNXN0tnOVk4YkdXbGFKTFlvQVJRakJQendnWDV5Xy1ETkgxWjB6Rjd5SHhiaDdKMVBxU24xXzVNaEdPbFV3WkRuOHBPdmNNaE5NdFNTWW90NXA3VDBRQk50WUpLdTAyckh4U25EaHo4eE5Mc0QwUzBLMWMtSGpMdng3VmJybnFZRUxqUkpsWWFCNi0wbkoxeVN1bkVZZUR4VDFLYkpzeGhkdzZDY3l1OVNwOVFpRHpVaDRrSzZZdlBLaW50Q3hDM28wNRIEGgIIABr4BhICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQNIGCAAQABgAIAAqPgoDdG9wFc_d2j4aBGJlc3QaB2hpZ2hlc3QaB3BvcHVsYXIaBXJhdGVkGgtyZWNvbW1lbmRlZBoGcmV2aWV3KkEKCXByb2Jpb3RpYxV6kRFAGgpwcm9iaW90aWNzGhNwcm9iaW90aWNzdXBwbGVtZW50Gg5pdjtwO3Byb2Jpb3RpYypeCgpzdXBwbGVtZW50Fc7lYz8aCGNhcHN1bGVzGgVwaWxscxoLc3VwcGxlbWVudHMaB3RhYmxldHMaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaD2l2O3A7c3VwcGxlbWVudCowCgZicmFuZHMV_z3yPhoFYnJhbmQaCWNvbXBhbmllcxoFbmFtZXMaCHByb2R1Y3RzKgoKA2ZvchUAAAAAKlcKA2d1dBVJEYNAGglkaWdlc3RpdmUaEGdhc3Ryb2ludGVzdGluYWwaEGludGVzdGluYWwgdHJhY3QaB3N0b21hY2gaCWd1dGhlYWx0aBoIaXY7cDtndXQqLQoGaGVhbHRoFXL4i0AaCmhlYWx0aGNhcmUaB2hlYWx0aHkaCWd1dGhlYWx0aDKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZjLTFMdlVINHRBakdiU0Y4T3p0eF82czdWZHB0TEU4M0lOVVh2WnZ0QlJEcHZ4Um5SUldKUkZsRUMtcEUxLUFoTDU3WDFDV1Rad050azZsMGs5NGNRektidmpkMURoTnFVSDJZcjZsUnlJYzJmV3ZKVEhsdVJzcUVZN3BVc2dGbm9UN2xfWlpHNjV1NE95VlZKRVc3R1otNzpQPGI-UHJvYmlvdGljczwvYj4gZm9yIDxiPkd1dCBIZWFsdGg8L2I-OiBNZW4mIzM5O3MgYW5kIFdvbWVuJiMzOTtzIC0gTmF0dXJlIE1hZGVCkAE8Yj5TaG9wIG91ciBwcm9iaW90aWMgc3VwcGxlbWVudHM8L2I-IHRvIGluY3JlYXNlIHlvdXIgaW50YWtlIG9mIGdvb2QgYmFjdGVyaWEgYW5kIGhlbHAgc3VwcG9ydCB5b3VyIGRpZ2VzdGl2ZSBiYWxhbmNlIGFuZCBoZWFsdGh5IGd1dCBmbG9yYS7igKBKA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYCL2dvdG8_dXJsPUNBRVN1QUVCNnpzd0ZUcW1GalJTd3Z2WmFpNktfT3prNWhCZ3ZkSnNTWGhtanRPVjZ3ZlVuNlAzckNXN0tnOVk4YkdXbGFKTFlvQVJRakJQendnWDV5Xy1ETkgxWjB6Rjd5SHhiaDdKMVBxU24xXzVNaEdPbFV3WkRuOHBPdmNNaE5NdFNTWW90NXA3VDBRQk50WUpLdTAyckh4U25EaHo4eE5Mc0QwUzBLMWMtSGpMdng3VmJybnFZRUxqUkpsWWFCNi0wbkoxeVN1bkVZZUR4VDFLYkpzeGhkdzZDY3l1OVNwOVFpRHpVaDRrSzZZdlBLaW50Q3hDM28wNRIEGgIIABr4BhICCAAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQNIGCAAQABgAIAAqPgoDdG9wFc_d2j4aBGJlc3QaB2hpZ2hlc3QaB3BvcHVsYXIaBXJhdGVkGgtyZWNvbW1lbmRlZBoGcmV2aWV3KkEKCXByb2Jpb3RpYxV6kRFAGgpwcm9iaW90aWNzGhNwcm9iaW90aWNzdXBwbGVtZW50Gg5pdjtwO3Byb2Jpb3RpYypeCgpzdXBwbGVtZW50Fc7lYz8aCGNhcHN1bGVzGgVwaWxscxoLc3VwcGxlbWVudHMaB3RhYmxldHMaE3Byb2Jpb3RpY3N1cHBsZW1lbnQaD2l2O3A7c3VwcGxlbWVudCowCgZicmFuZHMV_z3yPhoFYnJhbmQaCWNvbXBhbmllcxoFbmFtZXMaCHByb2R1Y3RzKgoKA2ZvchUAAAAAKlcKA2d1dBVJEYNAGglkaWdlc3RpdmUaEGdhc3Ryb2ludGVzdGluYWwaEGludGVzdGluYWwgdHJhY3QaB3N0b21hY2gaCWd1dGhlYWx0aBoIaXY7cDtndXQqLQoGaGVhbHRoFXL4i0AaCmhlYWx0aGNhcmUaB2hlYWx0aHkaCWd1dGhlYWx0aDKuAS9nb3RvP3VybD1DQUVTZHdIck96QVZjLTFMdlVINHRBakdiU0Y4T3p0eF82czdWZHB0TEU4M0lOVVh2WnZ0QlJEcHZ4Um5SUldKUkZsRUMtcEUxLUFoTDU3WDFDV1Rad050azZsMGs5NGNRektidmpkMURoTnFVSDJZcjZsUnlJYzJmV3ZKVEhsdVJzcUVZN3BVc2dGbm9UN2xfWlpHNjV1NE95VlZKRVc3R1otNzpQPGI-UHJvYmlvdGljczwvYj4gZm9yIDxiPkd1dCBIZWFsdGg8L2I-OiBNZW4mIzM5O3MgYW5kIFdvbWVuJiMzOTtzIC0gTmF0dXJlIE1hZGVCkAE8Yj5TaG9wIG91ciBwcm9iaW90aWMgc3VwcGxlbWVudHM8L2I-IHRvIGluY3JlYXNlIHlvdXIgaW50YWtlIG9mIGdvb2QgYmFjdGVyaWEgYW5kIGhlbHAgc3VwcG9ydCB5b3VyIGRpZ2VzdGl2ZSBiYWxhbmNlIGFuZCBoZWFsdGh5IGd1dCBmbG9yYS7igKBKA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "Nature Made"
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Top 10 probiotics for gut health",
+      "link": "https://www.google.com/search?sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&q=Top+10+probiotics+for+gut+health&sa=X&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ1QJ6BAhCEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Top+10+probiotics+for+gut+health"
+    },
+    {
+      "block_position": 1,
+      "query": "Best probiotics for gut health",
+      "link": "https://www.google.com/search?sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&q=Best+probiotics+for+gut+health&sa=X&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ1QJ6BAhIEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+probiotics+for+gut+health"
+    },
+    {
+      "block_position": 1,
+      "query": "Best probiotic supplement brand",
+      "link": "https://www.google.com/search?sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&q=Best+probiotic+supplement+brand&sa=X&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+probiotic+supplement+brand"
+    },
+    {
+      "block_position": 1,
+      "query": "Best probiotic for gut health and bloating",
+      "link": "https://www.google.com/search?sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&q=Best+probiotic+for+gut+health+and+bloating&sa=X&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ1QJ6BAhHEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+probiotic+for+gut+health+and+bloating"
+    },
+    {
+      "block_position": 1,
+      "query": "Gut health supplements recommended by doctors",
+      "link": "https://www.google.com/search?sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&q=Gut+health+supplements+recommended+by+doctors&sa=X&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ1QJ6BAhFEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Gut+health+supplements+recommended+by+doctors"
+    },
+    {
+      "block_position": 1,
+      "query": "Probiotic brands to avoid",
+      "link": "https://www.google.com/search?sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&q=Probiotic+brands+to+avoid&sa=X&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ1QJ6BAhEEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Probiotic+brands+to+avoid"
+    },
+    {
+      "block_position": 1,
+      "query": "Best probiotics for vaginal health",
+      "link": "https://www.google.com/search?sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&q=Best+probiotics+for+vaginal+health&sa=X&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+probiotics+for+vaginal+health"
+    },
+    {
+      "block_position": 1,
+      "query": "Best probiotics food for gut health",
+      "link": "https://www.google.com/search?sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&q=Best+probiotics+food+for+gut+health&sa=X&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ1QJ6BAhBEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=Best+probiotics+food+for+gut+health"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+probiotic+supplement+brands+for+gut+health&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&ei=sgC4avVUrLe-vQ_Ih7GIBg&start=10&sa=N&sstk=AS6-VmJJYo1dESbr31pydSITzceWLIK7KvQGGX0o-QJGWBxoWactfPvFY7XNIep4PHFIeAtxStBlUfC9sMxLdRYJsLtt3rHx0_RE4g&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ8NMDegQIPhAW",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+probiotic+supplement+brands+for+gut+health&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&ei=sgC4avVUrLe-vQ_Ih7GIBg&start=10&sa=N&sstk=AS6-VmJJYo1dESbr31pydSITzceWLIK7KvQGGX0o-QJGWBxoWactfPvFY7XNIep4PHFIeAtxStBlUfC9sMxLdRYJsLtt3rHx0_RE4g&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ8tMDegQIPhAE",
+      "3": "https://www.google.com/search?q=top+probiotic+supplement+brands+for+gut+health&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&ei=sgC4avVUrLe-vQ_Ih7GIBg&start=20&sa=N&sstk=AS6-VmJJYo1dESbr31pydSITzceWLIK7KvQGGX0o-QJGWBxoWactfPvFY7XNIep4PHFIeAtxStBlUfC9sMxLdRYJsLtt3rHx0_RE4g&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ8tMDegQIPhAG",
+      "4": "https://www.google.com/search?q=top+probiotic+supplement+brands+for+gut+health&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&ei=sgC4avVUrLe-vQ_Ih7GIBg&start=30&sa=N&sstk=AS6-VmJJYo1dESbr31pydSITzceWLIK7KvQGGX0o-QJGWBxoWactfPvFY7XNIep4PHFIeAtxStBlUfC9sMxLdRYJsLtt3rHx0_RE4g&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ8tMDegQIPhAI",
+      "5": "https://www.google.com/search?q=top+probiotic+supplement+brands+for+gut+health&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&ei=sgC4avVUrLe-vQ_Ih7GIBg&start=40&sa=N&sstk=AS6-VmJJYo1dESbr31pydSITzceWLIK7KvQGGX0o-QJGWBxoWactfPvFY7XNIep4PHFIeAtxStBlUfC9sMxLdRYJsLtt3rHx0_RE4g&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ8tMDegQIPhAK",
+      "6": "https://www.google.com/search?q=top+probiotic+supplement+brands+for+gut+health&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&ei=sgC4avVUrLe-vQ_Ih7GIBg&start=50&sa=N&sstk=AS6-VmJJYo1dESbr31pydSITzceWLIK7KvQGGX0o-QJGWBxoWactfPvFY7XNIep4PHFIeAtxStBlUfC9sMxLdRYJsLtt3rHx0_RE4g&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ8tMDegQIPhAM",
+      "7": "https://www.google.com/search?q=top+probiotic+supplement+brands+for+gut+health&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&ei=sgC4avVUrLe-vQ_Ih7GIBg&start=60&sa=N&sstk=AS6-VmJJYo1dESbr31pydSITzceWLIK7KvQGGX0o-QJGWBxoWactfPvFY7XNIep4PHFIeAtxStBlUfC9sMxLdRYJsLtt3rHx0_RE4g&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ8tMDegQIPhAO",
+      "8": "https://www.google.com/search?q=top+probiotic+supplement+brands+for+gut+health&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&ei=sgC4avVUrLe-vQ_Ih7GIBg&start=70&sa=N&sstk=AS6-VmJJYo1dESbr31pydSITzceWLIK7KvQGGX0o-QJGWBxoWactfPvFY7XNIep4PHFIeAtxStBlUfC9sMxLdRYJsLtt3rHx0_RE4g&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ8tMDegQIPhAQ",
+      "9": "https://www.google.com/search?q=top+probiotic+supplement+brands+for+gut+health&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&ei=sgC4avVUrLe-vQ_Ih7GIBg&start=80&sa=N&sstk=AS6-VmJJYo1dESbr31pydSITzceWLIK7KvQGGX0o-QJGWBxoWactfPvFY7XNIep4PHFIeAtxStBlUfC9sMxLdRYJsLtt3rHx0_RE4g&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ8tMDegQIPhAS",
+      "10": "https://www.google.com/search?q=top+probiotic+supplement+brands+for+gut+health&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQnsGNiikNC9Rj2KWBymhowpq2EU9Jw:1790443698018&ei=sgC4avVUrLe-vQ_Ih7GIBg&start=90&sa=N&sstk=AS6-VmJJYo1dESbr31pydSITzceWLIK7KvQGGX0o-QJGWBxoWactfPvFY7XNIep4PHFIeAtxStBlUfC9sMxLdRYJsLtt3rHx0_RE4g&ved=2ahUKEwj19fDE4oyXAxWsm68BHchDDGEQ8tMDegQIPhAU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+probiotic+supplement+brands+for+gut+health&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+probiotic+supplement+brands+for+gut+health&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+probiotic+supplement+brands+for+gut+health&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+probiotic+supplement+brands+for+gut+health&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+probiotic+supplement+brands+for+gut+health&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+probiotic+supplement+brands+for+gut+health&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+probiotic+supplement+brands+for+gut+health&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+probiotic+supplement+brands+for+gut+health&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+probiotic+supplement+brands+for+gut+health&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+probiotic+supplement+brands+for+gut+health&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+probiotic+supplement+brands+for+gut+health&start=90"
+    }
+  }
+}

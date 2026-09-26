@@ -1,0 +1,584 @@
+{
+  "search_metadata": {
+    "id": "6ab7ed95a68855b268585ec5",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/JqRQ5ADBy0St--bJprC3OX86gFP-Xz7_V2uim1i-tns/6ab7ed95a68855b268585ec5.json",
+    "markdown_endpoint": "https://serpapi.com/searches/JqRQ5ADBy0St--bJprC3OX86gFP-Xz7_V2uim1i-tns/6ab7ed95a68855b268585ec5.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/JqRQ5ADBy0St--bJprC3OX86gFP-Xz7_V2uim1i-tns/6ab7ed95a68855b268585ec5.json_with_pixel_position",
+    "created_at": "2026-09-26 16:06:45 UTC",
+    "processed_at": "2026-09-26 16:06:45 UTC",
+    "google_url": "https://www.google.com/search?q=top+meal+kit+delivery+services+for+families&oq=top+meal+kit+delivery+services+for+families&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/JqRQ5ADBy0St--bJprC3OX86gFP-Xz7_V2uim1i-tns/6ab7ed95a68855b268585ec5.html",
+    "total_time_taken": 1.64
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top meal kit delivery services for families",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top meal kit delivery services for families",
+    "total_results": 192000,
+    "time_taken_displayed": 0.67,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "local_map": {
+    "link": "https://www.google.com/search?q=top+meal+kit+delivery+services+for+families&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnt0LAFTjqhE1Wi8C6NIENJ7WeGoog:1790438805717&udm=local&lsack=le23aviiK8ns1e8P4J_9uAE&sa=X&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQtgN6BAhxEAM",
+    "image": "https://serpapi.com/searches/6ab7ed95a68855b268585ec5/images/QaGVip7z5UmFHb3yVPnyEg.png",
+    "gps_coordinates": {
+      "latitude": 39.0831721934762,
+      "longitude": -77.1185302734375
+    }
+  },
+  "local_results": {
+    "places": [
+      {
+        "position": 1,
+        "title": "MightyMeals",
+        "type": "Delivery Restaurant",
+        "rating": 4.7,
+        "reviews": 872,
+        "description": "\"Their delivery service is reliable, and they pack the meals with great care.\"",
+        "thumbnail": "https://serpapi.com/searches/6ab7ed95a68855b268585ec5/images/ky0uHoWuaXIH29fm4xDJZNf5rBEwR3czgIZlxVO-nEuulk493fvxwZjvKhNg35w3.jpeg",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnqs7Zu-OQZohb0cdBhegMoY48O6n-SX_mQEddajXC8ck-CIipYlNcpo_vigx5upObbpVN8dCLOV9mmiBP8FkeeloJdbTYZMQX7tFSgaVyHd9xuvkumaQ5OcO5M4-bbtiv-z4U=w1000-h1000-c-n",
+        "links": {
+          "phone": "tel:(833) 406-3257",
+          "website": "http://www.mightymeals.com/"
+        },
+        "place_id": "2275175849904214114",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&ludocid=2275175849904214114&q=top+meal+kit+delivery+services+for+families",
+        "provider_id": "/g/11bw4ssk_0",
+        "gps_coordinates": {
+          "latitude": 38.78993,
+          "longitude": -77.598216
+        },
+        "address": "7669 Limestone Dr Unit 130, Gainesville, VA 20155",
+        "hours": "Open · Closes 5 PM",
+        "phone": "(833) 406-3257"
+      },
+      {
+        "position": 2,
+        "title": "Family Meals 4 Busy Moms",
+        "type": "Delivery Restaurant",
+        "rating": 5,
+        "reviews": 8,
+        "description": "No-contact delivery",
+        "thumbnail": "https://serpapi.com/searches/6ab7ed95a68855b268585ec5/images/ky0uHoWuaXIH29fm4xDJZEDx9cI7ESmsUnJvJ-vOwMv_zEI9RY00IKUJ8F8IM2O8.jpeg",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl000ALgeSW8SfIfRRvZg85t4poRjTCfuwJsJbymR8TwJpA1haZphDZSOmNQMS0y9Dsl9n4DpvwDr-Zbd7WA2ek-VnAeeV7K4KOV9Ukcb2Br4pJsZvaKGMTCPL-tQ8Aw6APgGnS=w1000-h1000-c-n",
+        "links": {
+          "phone": "tel:(301) 728-2352"
+        },
+        "place_id": "8458640273659215215",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&ludocid=8458640273659215215&q=top+meal+kit+delivery+services+for+families",
+        "provider_id": "/g/11shk6dj8r",
+        "gps_coordinates": {
+          "latitude": 38.855366,
+          "longitude": -77.358306
+        },
+        "hours": "Open · Closes 10 PM",
+        "phone": "(301) 728-2352"
+      },
+      {
+        "position": 3,
+        "title": "Nutri Muscle Meals - Meal Delivery Service",
+        "type": "Delivery Restaurant",
+        "rating": 5,
+        "reviews": 52,
+        "description": "Takeout·No-contact delivery·No dine-in",
+        "thumbnail": "https://serpapi.com/searches/6ab7ed95a68855b268585ec5/images/ky0uHoWuaXIH29fm4xDJZJIVVlLKaiP2gtlrb0ByH7sue7I9oZ1Id6pws4iiZIXF.jpeg",
+        "thumbnail_large": "https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnTHxT7QRbkMqfhhcMmyiTKN57yr4Ck9KZd9VYwLQYz1SWS99XJ-jRlkbTY7Wyd4TtUCr1emuo4j6w6PNqevkFjw5Vz3I3E5jTd8E4AU4J-FMOHvbQuI96abETNnkCPY_WbTUXY=w1000-h1000-c-n",
+        "links": {
+          "phone": "tel:(571) 245-2473",
+          "website": "http://nutrimusclemeals.com/"
+        },
+        "place_id": "10715925654147788721",
+        "place_id_search": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&ludocid=10715925654147788721&q=top+meal+kit+delivery+services+for+families",
+        "provider_id": "/g/11j0trqr19",
+        "gps_coordinates": {
+          "latitude": 39.090505,
+          "longitude": -77.525531
+        },
+        "address": "1602 Village Market Blvd SE #120, Leesburg, VA 20175",
+        "hours": "Open 24 hours",
+        "phone": "(571) 245-2473"
+      }
+    ],
+    "more_locations_link": "https://www.google.com/search?q=top+meal+kit+delivery+services+for+families&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnt0LAFTjqhE1Wi8C6NIENJ7WeGoog:1790438805717&udm=local&lsack=le23aviiK8ns1e8P4J_9uAE&sa=X&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQjGp6BAhtEAE"
+  },
+  "knowledge_graph": {
+    "place_id": "ChIJQ7iaDY62t4kRYpAWj2EMkx8"
+  },
+  "related_questions": [
+    {
+      "question": "Which meal delivery service is best for families?",
+      "type": "ai_overview",
+      "page_token": "Q1NW43icHZBPbuIwHEbVy3RZEv6NQEKVAnZLaNzajm3wZmQ7hQA_OykESLObK8wZ5lRzmkGz_Fbvve_XH9iH49-H32XT1Odpr3e73Z52VbWDzydX-Z45fwfXcwbAGnecjn-M4-etm6GrS-Ynl1BR13LBIu7TFV-kxKiy5THhFNjKignlGOcZug0dpGN6SCuqJoEFqFjAcyOihgfyJjxm-rWM8lxK7YffDBJDjylINUE2aGPX8uKwzgRgWfTbS4HJiqvWkwXsrZcvtGNfBqWnIoKFjfHG9VtlvY6lX3ZWjfoSQaURoYXcjexAvtw3yhD-4K_pnsYQOQ-Du_tBDuDKD-kyU4VwAeJNnog8Qg0Rkm668nLv6d5UI1FZnHW-7DZrXRtxHtqQtTovKUH19n0tE8aqPRWscwfwIpJa5zAix3L9iWElonLo1J3rW8wQdBrruaCPW3edDR7_fz37ufXNtD5Vu38CAY5L",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Q1NW43icHZBPbuIwHEbVy3RZEv6NQEKVAnZLaNzajm3wZmQ7hQA_OykESLObK8wZ5lRzmkGz_Fbvve_XH9iH49-H32XT1Odpr3e73Z52VbWDzydX-Z45fwfXcwbAGnecjn-M4-etm6GrS-Ynl1BR13LBIu7TFV-kxKiy5THhFNjKignlGOcZug0dpGN6SCuqJoEFqFjAcyOihgfyJjxm-rWM8lxK7YffDBJDjylINUE2aGPX8uKwzgRgWfTbS4HJiqvWkwXsrZcvtGNfBqWnIoKFjfHG9VtlvY6lX3ZWjfoSQaURoYXcjexAvtw3yhD-4K_pnsYQOQ-Du_tBDuDKD-kyU4VwAeJNnog8Qg0Rkm668nLv6d5UI1FZnHW-7DZrXRtxHtqQtTovKUH19n0tE8aqPRWscwfwIpJa5zAix3L9iWElonLo1J3rW8wQdBrruaCPW3edDR7_fz37ufXNtD5Vu38CAY5L",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFHWlJNR1pUUjJkaFIycERaMlY2ZUY5aFIyUXhiM05GTFhkbVMzSkNZMDlWZEVGWk5FSm5XbGd5VEcxa1NVaGhWMVphZW5kUmRXMHlUMjF4TFcwNVgwaFlSR056VlhBNWFESm1aMDB5Y2twSmVVOTVkRzVQTVVwdFVSSVhiR1V5TTJGMmFXbExPRzV6TVdVNFVEUktYemwxUVVVYUlrRkVjM0k1WmxKdWRVdE5VbFpETFd4RmVURTRlamxZTmxkQk0xRklNa0puTjFFIiwiZmN2IjoiMyIsImVpIjoibGUyM2F2aWlLOG5zMWU4UDRKXzl1QUUiLCJxYyI6IkNpdDBiM0FnYldWaGJDQnJhWFFnWkdWc2FYWmxjbmtnYzJWeWRtbGpaWE1nWm05eUlHWmhiV2xzYVdWekVBQjlkRENGUGciLCJxdWVzdGlvbiI6IldoaWNoIG1lYWwgZGVsaXZlcnkgc2VydmljZSBpcyBiZXN0IGZvciBmYW1pbGllcz8iLCJsayI6IkdqQjNhR2xqYUNCdFpXRnNJR1JsYkdsMlpYSjVJSE5sY25acFkyVWdhWE1nWW1WemRDQm1iM0lnWm1GdGFXeHBaWE0iLCJicyI6ImM1V1BzUTZDTUJDRzQzcVRjNDNKVFNhQ2dfWUZPdm9JeERnVk9HeGphMGxiUWQ1ZXFJdUpERGpmZDFfLUQyNXdLcFN1RkZxU0Jtc3l1aU1fWUNEZjZZcFFCeXdwUkd5Y3gwWmFiVFFGd1RrNzluOC13UVd5UXNrNEhhTWl0RzRFV3RjLWpmUWZ6VjFIckp4dDVXTVFQR2Y3ZmlrTlo5ak5OWXhJUU9rcEdhWkJnbV9aWm9aSkhrODFYQ0hfM3BnaUVsLTYxMC1tNEFlVzlZdng5ZW9OIiwiaWQiOiJmY19sZTIzYXZpaUs4bnMxZThQNEpfOXVBRV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFHWlJNR1pUUjJkaFIycERaMlY2ZUY5aFIyUXhiM05GTFhkbVMzSkNZMDlWZEVGWk5FSm5XbGd5VEcxa1NVaGhWMVphZW5kUmRXMHlUMjF4TFcwNVgwaFlSR056VlhBNWFESm1aMDB5Y2twSmVVOTVkRzVQTVVwdFVSSVhiR1V5TTJGMmFXbExPRzV6TVdVNFVEUktYemwxUVVVYUlrRkVjM0k1WmxKdWRVdE5VbFpETFd4RmVURTRlamxZTmxkQk0xRklNa0puTjFFIiwiZmN2IjoiMyIsImVpIjoibGUyM2F2aWlLOG5zMWU4UDRKXzl1QUUiLCJxYyI6IkNpdDBiM0FnYldWaGJDQnJhWFFnWkdWc2FYWmxjbmtnYzJWeWRtbGpaWE1nWm05eUlHWmhiV2xzYVdWekVBQjlkRENGUGciLCJxdWVzdGlvbiI6IldoaWNoIG1lYWwgZGVsaXZlcnkgc2VydmljZSBpcyBiZXN0IGZvciBmYW1pbGllcz8iLCJsayI6IkdqQjNhR2xqYUNCdFpXRnNJR1JsYkdsMlpYSjVJSE5sY25acFkyVWdhWE1nWW1WemRDQm1iM0lnWm1GdGFXeHBaWE0iLCJicyI6ImM1V1BzUTZDTUJDRzQzcVRjNDNKVFNhQ2dfWUZPdm9JeERnVk9HeGphMGxiUWQ1ZXFJdUpERGpmZDFfLUQyNXdLcFN1RkZxU0Jtc3l1aU1fWUNEZjZZcFFCeXdwUkd5Y3gwWmFiVFFGd1RrNzluOC13UVd5UXNrNEhhTWl0RzRFV3RjLWpmUWZ6VjFIckp4dDVXTVFQR2Y3ZmlrTlo5ak5OWXhJUU9rcEdhWkJnbV9aWm9aSkhrODFYQ0hfM3BnaUVsLTYxMC1tNEFlVzlZdng5ZW9OIiwiaWQiOiJmY19sZTIzYXZpaUs4bnMxZThQNEpfOXVBRV80In0%3D"
+    },
+    {
+      "question": "What is the most popular meal kit company?",
+      "type": "ai_overview",
+      "page_token": "WwgBw3icHdBdboIwAADg7DI-ihR00cQsYSI_GSUU2kJfltqqKC10E0V52112qp1my07wJd_Xtzq1zc_Tre57c1lZ1jAM02PXHdV-Kjpt8cujFZbgSu24aFaL54X9chBr_xp5rx-Rl2FjyAbNcpyAlM5dSe83QiXOtTmjQCEYED_fyKBSy5rbHqQKjww0c956LgzRmVAIZZEMGe45buJW0AwwDV1ITJIEjJZAOsQmqCjVPcXyrWqlzcAASkAWKEQcUXXN6V1TjEaMY5CEkbtvTFOdZuNuhIyADkAtTbqVcQKEndL4SlUdFEC4aSHpnsIZDuxIhNsrVEtWAJuQWY38Wl5YEY1VyQzHF3fXJndW1Bn0zSEtiYdQd8r-THFWGuumpxRlxRYS6BBTad_lOH6g7dJJQpSJEHlsmBzEbe1M_j_X7wfdr8xnd_wFsTKCog",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WwgBw3icHdBdboIwAADg7DI-ihR00cQsYSI_GSUU2kJfltqqKC10E0V52112qp1my07wJd_Xtzq1zc_Tre57c1lZ1jAM02PXHdV-Kjpt8cujFZbgSu24aFaL54X9chBr_xp5rx-Rl2FjyAbNcpyAlM5dSe83QiXOtTmjQCEYED_fyKBSy5rbHqQKjww0c956LgzRmVAIZZEMGe45buJW0AwwDV1ITJIEjJZAOsQmqCjVPcXyrWqlzcAASkAWKEQcUXXN6V1TjEaMY5CEkbtvTFOdZuNuhIyADkAtTbqVcQKEndL4SlUdFEC4aSHpnsIZDuxIhNsrVEtWAJuQWY38Wl5YEY1VyQzHF3fXJndW1Bn0zSEtiYdQd8r-THFWGuumpxRlxRYS6BBTad_lOH6g7dJJQpSJEHlsmBzEbe1M_j_X7wfdr8xnd_wFsTKCog",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFHWlJNR1pUUjJkaFIycERaMlY2ZUY5aFIyUXhiM05GTFhkbVMzSkNZMDlWZEVGWk5FSm5XbGd5VEcxa1NVaGhWMVphZW5kUmRXMHlUMjF4TFcwNVgwaFlSR056VlhBNWFESm1aMDB5Y2twSmVVOTVkRzVQTVVwdFVSSVhiR1V5TTJGMmFXbExPRzV6TVdVNFVEUktYemwxUVVVYUlrRkVjM0k1WmxKdWRVdE5VbFpETFd4RmVURTRlamxZTmxkQk0xRklNa0puTjFFIiwiZmN2IjoiMyIsImVpIjoibGUyM2F2aWlLOG5zMWU4UDRKXzl1QUUiLCJxYyI6IkNpdDBiM0FnYldWaGJDQnJhWFFnWkdWc2FYWmxjbmtnYzJWeWRtbGpaWE1nWm05eUlHWmhiV2xzYVdWekVBQjlkRENGUGciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgcG9wdWxhciBtZWFsIGtpdCBjb21wYW55PyIsImxrIjoiR2lsM2FHRjBJR2x6SUhSb1pTQnRiM04wSUhCdmNIVnNZWElnYldWaGJDQnJhWFFnWTI5dGNHRnVlUSIsImJzIjoiYzVXUHNRNkNNQkNHNDNxVGM0M0pUU2FDZ19ZRk92b0l4RGdWT0d4amEwbGJRZDVlcUl1SkREamZkMV8tRDI1d0twU3VGRnFTQm1zeXVpTV9ZQ0RmNllwUUJ5d3BSR3ljeDBaYWJUUUZ3VGs3OW44LXdRV3lRc2s0SGFNaXRHNEVXdGMtamZRZnpWMUhySnh0NVdNUVBHZjdmaWtOWjlqTk5ZeElRT2twR2FaQmdtX1pab1pKSGs4MVhDSF8zcGdpRWwtNjEwLW00QWVXOVl2eDllb04iLCJpZCI6ImZjX2xlMjNhdmlpSzhuczFlOFA0Sl85dUFFXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFHWlJNR1pUUjJkaFIycERaMlY2ZUY5aFIyUXhiM05GTFhkbVMzSkNZMDlWZEVGWk5FSm5XbGd5VEcxa1NVaGhWMVphZW5kUmRXMHlUMjF4TFcwNVgwaFlSR056VlhBNWFESm1aMDB5Y2twSmVVOTVkRzVQTVVwdFVSSVhiR1V5TTJGMmFXbExPRzV6TVdVNFVEUktYemwxUVVVYUlrRkVjM0k1WmxKdWRVdE5VbFpETFd4RmVURTRlamxZTmxkQk0xRklNa0puTjFFIiwiZmN2IjoiMyIsImVpIjoibGUyM2F2aWlLOG5zMWU4UDRKXzl1QUUiLCJxYyI6IkNpdDBiM0FnYldWaGJDQnJhWFFnWkdWc2FYWmxjbmtnYzJWeWRtbGpaWE1nWm05eUlHWmhiV2xzYVdWekVBQjlkRENGUGciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIG1vc3QgcG9wdWxhciBtZWFsIGtpdCBjb21wYW55PyIsImxrIjoiR2lsM2FHRjBJR2x6SUhSb1pTQnRiM04wSUhCdmNIVnNZWElnYldWaGJDQnJhWFFnWTI5dGNHRnVlUSIsImJzIjoiYzVXUHNRNkNNQkNHNDNxVGM0M0pUU2FDZ19ZRk92b0l4RGdWT0d4amEwbGJRZDVlcUl1SkREamZkMV8tRDI1d0twU3VGRnFTQm1zeXVpTV9ZQ0RmNllwUUJ5d3BSR3ljeDBaYWJUUUZ3VGs3OW44LXdRV3lRc2s0SGFNaXRHNEVXdGMtamZRZnpWMUhySnh0NVdNUVBHZjdmaWtOWjlqTk5ZeElRT2twR2FaQmdtX1pab1pKSGs4MVhDSF8zcGdpRWwtNjEwLW00QWVXOVl2eDllb04iLCJpZCI6ImZjX2xlMjNhdmlpSzhuczFlOFA0Sl85dUFFXzQifQ%3D%3D"
+    },
+    {
+      "question": "Which meal delivery kits are the best?",
+      "type": "ai_overview",
+      "page_token": "nQJ5NHicHdBdTsIwAADgeBkepdsAIwkxbtD9BAqtbYd9MV0HFNatVQYbvnkXT-VpNJ7gS76vb3Nsqp-7q25bd54Oh13X3R-sPZjdvbL1UJ5vjRoqaUwhVTWdPEy8p72aLS5pGL2nIWbO8TkBdAGbPCEXCbVlJ9EhHi4pRRcRwwRz6NPauxQGbkrwSFDdNrTKYgJwn5syQkGYypgvld-PC690tIEbkZR6l2RXBtES12ST52r04iMgcusLrjHz0basHucr1k_WMBvRCmrlZSdek4hwsy7AeCzps59TdStzd-Tg0JJYB4UP0z9f4gBuRazdKhAZMeKFsnHHQB9Jyucq0WShy7Og6efrVjjJzqOiWfWCaowWbr_e8pAQe8SMfKqTqXnchwKiCtVeTCmJONBWMHtb5xisfNiqmPUMD_bqOgsG_5-zt33dTt2HPfwCQpWCWw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nQJ5NHicHdBdTsIwAADgeBkepdsAIwkxbtD9BAqtbYd9MV0HFNatVQYbvnkXT-VpNJ7gS76vb3Nsqp-7q25bd54Oh13X3R-sPZjdvbL1UJ5vjRoqaUwhVTWdPEy8p72aLS5pGL2nIWbO8TkBdAGbPCEXCbVlJ9EhHi4pRRcRwwRz6NPauxQGbkrwSFDdNrTKYgJwn5syQkGYypgvld-PC690tIEbkZR6l2RXBtES12ST52r04iMgcusLrjHz0basHucr1k_WMBvRCmrlZSdek4hwsy7AeCzps59TdStzd-Tg0JJYB4UP0z9f4gBuRazdKhAZMeKFsnHHQB9Jyucq0WShy7Og6efrVjjJzqOiWfWCaowWbr_e8pAQe8SMfKqTqXnchwKiCtVeTCmJONBWMHtb5xisfNiqmPUMD_bqOgsG_5-zt33dTt2HPfwCQpWCWw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFHWlJNR1pUUjJkaFIycERaMlY2ZUY5aFIyUXhiM05GTFhkbVMzSkNZMDlWZEVGWk5FSm5XbGd5VEcxa1NVaGhWMVphZW5kUmRXMHlUMjF4TFcwNVgwaFlSR056VlhBNWFESm1aMDB5Y2twSmVVOTVkRzVQTVVwdFVSSVhiR1V5TTJGMmFXbExPRzV6TVdVNFVEUktYemwxUVVVYUlrRkVjM0k1WmxKdWRVdE5VbFpETFd4RmVURTRlamxZTmxkQk0xRklNa0puTjFFIiwiZmN2IjoiMyIsImVpIjoibGUyM2F2aWlLOG5zMWU4UDRKXzl1QUUiLCJxYyI6IkNpdDBiM0FnYldWaGJDQnJhWFFnWkdWc2FYWmxjbmtnYzJWeWRtbGpaWE1nWm05eUlHWmhiV2xzYVdWekVBQjlkRENGUGciLCJxdWVzdGlvbiI6IldoaWNoIG1lYWwgZGVsaXZlcnkga2l0cyBhcmUgdGhlIGJlc3Q/IiwibGsiOiJHaHR0WldGc0lHUmxiR2wyWlhKNUlHdHBkSE1nWTI5dGNHRnlaV1EiLCJicyI6ImM1V1BzUTZDTUJDRzQzcVRjNDNKVFNhQ2dfWUZPdm9JeERnVk9HeGphMGxiUWQ1ZXFJdUpERGpmZDFfLUQyNXdLcFN1RkZxU0Jtc3l1aU1fWUNEZjZZcFFCeXdwUkd5Y3gwWmFiVFFGd1RrNzluOC13UVd5UXNrNEhhTWl0RzRFV3RjLWpmUWZ6VjFIckp4dDVXTVFQR2Y3ZmlrTlo5ak5OWXhJUU9rcEdhWkJnbV9aWm9aSkhrODFYQ0hfM3BnaUVsLTYxMC1tNEFlVzlZdng5ZW9OIiwiaWQiOiJmY19sZTIzYXZpaUs4bnMxZThQNEpfOXVBRV80In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFHWlJNR1pUUjJkaFIycERaMlY2ZUY5aFIyUXhiM05GTFhkbVMzSkNZMDlWZEVGWk5FSm5XbGd5VEcxa1NVaGhWMVphZW5kUmRXMHlUMjF4TFcwNVgwaFlSR056VlhBNWFESm1aMDB5Y2twSmVVOTVkRzVQTVVwdFVSSVhiR1V5TTJGMmFXbExPRzV6TVdVNFVEUktYemwxUVVVYUlrRkVjM0k1WmxKdWRVdE5VbFpETFd4RmVURTRlamxZTmxkQk0xRklNa0puTjFFIiwiZmN2IjoiMyIsImVpIjoibGUyM2F2aWlLOG5zMWU4UDRKXzl1QUUiLCJxYyI6IkNpdDBiM0FnYldWaGJDQnJhWFFnWkdWc2FYWmxjbmtnYzJWeWRtbGpaWE1nWm05eUlHWmhiV2xzYVdWekVBQjlkRENGUGciLCJxdWVzdGlvbiI6IldoaWNoIG1lYWwgZGVsaXZlcnkga2l0cyBhcmUgdGhlIGJlc3Q%2FIiwibGsiOiJHaHR0WldGc0lHUmxiR2wyWlhKNUlHdHBkSE1nWTI5dGNHRnlaV1EiLCJicyI6ImM1V1BzUTZDTUJDRzQzcVRjNDNKVFNhQ2dfWUZPdm9JeERnVk9HeGphMGxiUWQ1ZXFJdUpERGpmZDFfLUQyNXdLcFN1RkZxU0Jtc3l1aU1fWUNEZjZZcFFCeXdwUkd5Y3gwWmFiVFFGd1RrNzluOC13UVd5UXNrNEhhTWl0RzRFV3RjLWpmUWZ6VjFIckp4dDVXTVFQR2Y3ZmlrTlo5ak5OWXhJUU9rcEdhWkJnbV9aWm9aSkhrODFYQ0hfM3BnaUVsLTYxMC1tNEFlVzlZdng5ZW9OIiwiaWQiOiJmY19sZTIzYXZpaUs4bnMxZThQNEpfOXVBRV80In0%3D"
+    },
+    {
+      "question": "What is the best meal box delivery service?",
+      "type": "ai_overview",
+      "page_token": "IXwj73icHdBdbtowAABg7TJ9LHYCTCChSoDNgojbOP6hfpkSO2CIk3gjf83b7rJT9TSddoNP35-_7laXn99627b-sZ7NhmF4vjbN1RXPuqlm2eOj1jOdOZdnulwvvy_hy0VvUBdtd7-ibcK9F3sK0orPdQnPQqK2OOCgYGYykwpycXQnHoUxx0sxHXtyV3XBXKbFMZUVHUXtMcGW5Hh1j7l7MwwPmRQPxUSTovEU3y1OpH2jaOxeU9gRaOQ7h8gwc8gC0Yk92TG06HJwbAkQvQmaoDjTQQGYMBe3qfOSADiXJQRp4IQO-IdgUZjLEihEK7MDgHKLUr7qCSAsO9gFr8YQWfPPEE3vZ-Uz_pjndTwqZhOC_OX1LLaUNreE00nfXcXFlnGpmvyHvVHgMQN2z0JXKSxiAn1_EquFGZ4uut-ET_8_Nz8vVbv2v5vrF1mDgyI",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=IXwj73icHdBdbtowAABg7TJ9LHYCTCChSoDNgojbOP6hfpkSO2CIk3gjf83b7rJT9TSddoNP35-_7laXn99627b-sZ7NhmF4vjbN1RXPuqlm2eOj1jOdOZdnulwvvy_hy0VvUBdtd7-ibcK9F3sK0orPdQnPQqK2OOCgYGYykwpycXQnHoUxx0sxHXtyV3XBXKbFMZUVHUXtMcGW5Hh1j7l7MwwPmRQPxUSTovEU3y1OpH2jaOxeU9gRaOQ7h8gwc8gC0Yk92TG06HJwbAkQvQmaoDjTQQGYMBe3qfOSADiXJQRp4IQO-IdgUZjLEihEK7MDgHKLUr7qCSAsO9gFr8YQWfPPEE3vZ-Uz_pjndTwqZhOC_OX1LLaUNreE00nfXcXFlnGpmvyHvVHgMQN2z0JXKSxiAn1_EquFGZ4uut-ET_8_Nz8vVbv2v5vrF1mDgyI",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFHWlJNR1pUUjJkaFIycERaMlY2ZUY5aFIyUXhiM05GTFhkbVMzSkNZMDlWZEVGWk5FSm5XbGd5VEcxa1NVaGhWMVphZW5kUmRXMHlUMjF4TFcwNVgwaFlSR056VlhBNWFESm1aMDB5Y2twSmVVOTVkRzVQTVVwdFVSSVhiR1V5TTJGMmFXbExPRzV6TVdVNFVEUktYemwxUVVVYUlrRkVjM0k1WmxKdWRVdE5VbFpETFd4RmVURTRlamxZTmxkQk0xRklNa0puTjFFIiwiZmN2IjoiMyIsImVpIjoibGUyM2F2aWlLOG5zMWU4UDRKXzl1QUUiLCJxYyI6IkNpdDBiM0FnYldWaGJDQnJhWFFnWkdWc2FYWmxjbmtnYzJWeWRtbGpaWE1nWm05eUlHWmhiV2xzYVdWekVBQjlkRENGUGciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgbWVhbCBib3ggZGVsaXZlcnkgc2VydmljZT8iLCJsayI6IkdpcDNhR0YwSUdseklIUm9aU0JpWlhOMElHMWxZV3dnWW05NElHUmxiR2wyWlhKNUlITmxjblpwWTJVIiwiYnMiOiJjNVdQc1E2Q01CQ0c0M3FUYzQzSlRTYUNnX1lGT3ZvSXhEZ1ZPR3hqYTBsYlFkNWVxSXVKRERqZmQxXy1EMjV3S3BTdUZGcVNCbXN5dWlNX1lDRGY2WXBRQnl3cFJHeWN4MFphYlRRRndUazc5bjgtd1FXeVFzazRIYU1pdEc0RVd0Yy1qZlFmelYxSHJKeHQ1V01RUEdmN2Zpa05aOWpOTll4SVFPa3BHYVpCZ21fWlpvWkpIazgxWENIXzNwZ2lFbC02MTAtbTRBZVc5WXZ4OWVvTiIsImlkIjoiZmNfbGUyM2F2aWlLOG5zMWU4UDRKXzl1QUVfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmFHWlJNR1pUUjJkaFIycERaMlY2ZUY5aFIyUXhiM05GTFhkbVMzSkNZMDlWZEVGWk5FSm5XbGd5VEcxa1NVaGhWMVphZW5kUmRXMHlUMjF4TFcwNVgwaFlSR056VlhBNWFESm1aMDB5Y2twSmVVOTVkRzVQTVVwdFVSSVhiR1V5TTJGMmFXbExPRzV6TVdVNFVEUktYemwxUVVVYUlrRkVjM0k1WmxKdWRVdE5VbFpETFd4RmVURTRlamxZTmxkQk0xRklNa0puTjFFIiwiZmN2IjoiMyIsImVpIjoibGUyM2F2aWlLOG5zMWU4UDRKXzl1QUUiLCJxYyI6IkNpdDBiM0FnYldWaGJDQnJhWFFnWkdWc2FYWmxjbmtnYzJWeWRtbGpaWE1nWm05eUlHWmhiV2xzYVdWekVBQjlkRENGUGciLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIGJlc3QgbWVhbCBib3ggZGVsaXZlcnkgc2VydmljZT8iLCJsayI6IkdpcDNhR0YwSUdseklIUm9aU0JpWlhOMElHMWxZV3dnWW05NElHUmxiR2wyWlhKNUlITmxjblpwWTJVIiwiYnMiOiJjNVdQc1E2Q01CQ0c0M3FUYzQzSlRTYUNnX1lGT3ZvSXhEZ1ZPR3hqYTBsYlFkNWVxSXVKRERqZmQxXy1EMjV3S3BTdUZGcVNCbXN5dWlNX1lDRGY2WXBRQnl3cFJHeWN4MFphYlRRRndUazc5bjgtd1FXeVFzazRIYU1pdEc0RVd0Yy1qZlFmelYxSHJKeHQ1V01RUEdmN2Zpa05aOWpOTll4SVFPa3BHYVpCZ21fWlpvWkpIazgxWENIXzNwZ2lFbC02MTAtbTRBZVc5WXZ4OWVvTiIsImlkIjoiZmNfbGUyM2F2aWlLOG5zMWU4UDRKXzl1QUVfNCJ9"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "T7EtRXiczVXbkqo4FK2a5_mN4cVuBW2P2lXUqRBR8Y5Ke3mhEGKg5WITFPVt_mW-ar5mAohiH7XnnIepSVWIO-5bsvfK-vMv23LXf__-mxkEG_JaKIRhmMeeh22U1z2noJGDqxdWnk183fxu2jxyGeJtfR1ZBq-bvucgBtv8ljDbrY34MAeBJEtQ8t-KjaPWtLeL0mi3tPaifADeuNlwF7P20WjWSnSvP4Jr8jYtb4zm21pq9Nn5bGTrIXPY8SVGJzzLIIu3UbGk7SyrU3UJh6rDl7Za2wKRiRPj1aVG0DvNe_9OCmqBftZ_lOpUyJM8cvPdpngMpF6_NKrmiyxXyw8KmkMVwH84ZBFIQKBrstwbEADxa2eRigxg5CsdGF7-SkY98RfFxPFG525IgGNHo9iHDMAQDntGNbI4pSqEDzIWrgRqHqcVxp4F4V8cJzPk0yFSn_CBrnR7W0zM8EnMVvmuN4Gqi1cymNdB_UC7-LSDr_Tp1QP5LEmx5zAO0AJwKDwDWZYfHJwadCRQXtOukO9rnVKZmZ1UqY81mknBwLR52cLSpwtXsHRTj3_4JOppOKmxXnMakHJg4LBoq-7B3htKsxpUFlJQWeGCvqR6tqcZyFBNlf0ey1yRK7O1UqX6FINJJ2c0kSyaxhJ8kdfKctYG-W5e4FIowXM5Pt2xSGV4q1ICPKn-UBQ56mb5XI-MsQWzdVBSfQxYCUhX_YBFaRitzXRjAATaCbqZTS3VBQksz7bwhlLS6BjiJKNolS7mZxV8ddhMcXs3UN_-YUdupb8k6aQfnjyDzw5MMJLOweefPc2BDLEYXZIAu9hKNvWrlKiQ5pq4keK41DG4fkzSwPXLZVA3DTm-EzPCDlaUCEBi8o4k7xNOvEbvT4yFszHOXFn2qqd0duFDyN8fwpdAilJJMfMJAlnoNCS7flB3043M1vYVqakM26tK-cUu60dwGyqes_wJ5tH_X2BKeUk58dJ9MIlfg4l-8CNeij9nXsLjBEyd-2CybvPS4AYvfQYTBKMLmDpCwkvhPV76WTDBB2DykpjgBphgFCkZWTDBe2BKeSkDpvlEpLzUu_BSFkwXXrqA6Rd4SfhFXoqxhZLlmqS27_g-WbX27KEjEr_aUPWp7YzJ_qVUbbuImOGXZLVygldHM-wn1TJehWI7OBhPKt3wXpHBfPCBt8k5SLNzayvIGci2dsg_5Ajyd5aOSG7l-bmV5li2hQjj2L7Hs1q5tYVuT9XhxpAXot61feO5gbp2DbQcUlw12uNy_WOghIuDNlodHJU9zhAnj1tv8_EALzSzW3O11WxJOpzigmqDeLoZop5a7rRnxW9sUzHUjt8aHSeT5XxVXS1MufLhaePSO1GD2mQAxXV3PO9PnuWirzSXPUeO8yL8cnl8U_zNvEKqDD0fQTzHOL7O0wq_YNCXwRTTloRxq9Lp0RnS-Y0iXCjSJmKIrqmI7PgKy-oVVKlpWmlZLnIG4-DgsOFfOIa4Ps_9A96PbMU",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=T7EtRXiczVXbkqo4FK2a5_mN4cVuBW2P2lXUqRBR8Y5Ke3mhEGKg5WITFPVt_mW-ar5mAohiH7XnnIepSVWIO-5bsvfK-vMv23LXf__-mxkEG_JaKIRhmMeeh22U1z2noJGDqxdWnk183fxu2jxyGeJtfR1ZBq-bvucgBtv8ljDbrY34MAeBJEtQ8t-KjaPWtLeL0mi3tPaifADeuNlwF7P20WjWSnSvP4Jr8jYtb4zm21pq9Nn5bGTrIXPY8SVGJzzLIIu3UbGk7SyrU3UJh6rDl7Za2wKRiRPj1aVG0DvNe_9OCmqBftZ_lOpUyJM8cvPdpngMpF6_NKrmiyxXyw8KmkMVwH84ZBFIQKBrstwbEADxa2eRigxg5CsdGF7-SkY98RfFxPFG525IgGNHo9iHDMAQDntGNbI4pSqEDzIWrgRqHqcVxp4F4V8cJzPk0yFSn_CBrnR7W0zM8EnMVvmuN4Gqi1cymNdB_UC7-LSDr_Tp1QP5LEmx5zAO0AJwKDwDWZYfHJwadCRQXtOukO9rnVKZmZ1UqY81mknBwLR52cLSpwtXsHRTj3_4JOppOKmxXnMakHJg4LBoq-7B3htKsxpUFlJQWeGCvqR6tqcZyFBNlf0ey1yRK7O1UqX6FINJJ2c0kSyaxhJ8kdfKctYG-W5e4FIowXM5Pt2xSGV4q1ICPKn-UBQ56mb5XI-MsQWzdVBSfQxYCUhX_YBFaRitzXRjAATaCbqZTS3VBQksz7bwhlLS6BjiJKNolS7mZxV8ddhMcXs3UN_-YUdupb8k6aQfnjyDzw5MMJLOweefPc2BDLEYXZIAu9hKNvWrlKiQ5pq4keK41DG4fkzSwPXLZVA3DTm-EzPCDlaUCEBi8o4k7xNOvEbvT4yFszHOXFn2qqd0duFDyN8fwpdAilJJMfMJAlnoNCS7flB3043M1vYVqakM26tK-cUu60dwGyqes_wJ5tH_X2BKeUk58dJ9MIlfg4l-8CNeij9nXsLjBEyd-2CybvPS4AYvfQYTBKMLmDpCwkvhPV76WTDBB2DykpjgBphgFCkZWTDBe2BKeSkDpvlEpLzUu_BSFkwXXrqA6Rd4SfhFXoqxhZLlmqS27_g-WbX27KEjEr_aUPWp7YzJ_qVUbbuImOGXZLVygldHM-wn1TJehWI7OBhPKt3wXpHBfPCBt8k5SLNzayvIGci2dsg_5Ajyd5aOSG7l-bmV5li2hQjj2L7Hs1q5tYVuT9XhxpAXot61feO5gbp2DbQcUlw12uNy_WOghIuDNlodHJU9zhAnj1tv8_EALzSzW3O11WxJOpzigmqDeLoZop5a7rRnxW9sUzHUjt8aHSeT5XxVXS1MufLhaePSO1GD2mQAxXV3PO9PnuWirzSXPUeO8yL8cnl8U_zNvEKqDD0fQTzHOL7O0wq_YNCXwRTTloRxq9Lp0RnS-Y0iXCjSJmKIrqmI7PgKy-oVVKlpWmlZLnIG4-DgsOFfOIa4Ps_9A96PbMU"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Top 25 Meal kit delivery services Worldwide",
+      "link": "https://revenuebase.ai/companies/browse/meal-kit-delivery-services",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVhc8DLOn-EEf2c6HEMGNAHEdwgzxvKFP9RE1u8nQoSxWbHl0dw-zht8LWYcgsnroADz8O21X_q4S-vfc1vCf4zle7CvAg5h861m6BIwNVkPk1zs9A6S63sk_Fm-P35aHwtGa74kfHOznPVMfOf-T-e6EX2o1Pkxll&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQFnoECCYQAQ&uoh=1",
+      "displayed_link": "https://revenuebase.ai › companies › browse › meal-kit-...",
+      "favicon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vsSQfnesGMAu0DeLyI5GVyVhUjudP_uX1CdFQFFeyO3CeNMloAAD-9hOYPPSSuQpAj3T5D3awly0mK8r_Z1iiOQNIaZQ4xTrdgBvvyLKzy0XTroxl7oTW7Hi-Zk3CZrAmc5DjnNKsMMSyeozCVcZqXrYWsj4YkSoC8R-t17P5I7PGL6jn-dhQcuhRFNt8ofclvQsntfoTMMvUYpF4sZwOdnjyCSxiYczU8Gu-1R-Zqtgtgj8BNSM03a0GslcRzp-_cfzKsw_uwCXunTkJQsZmh7v1Q6mtXC13uc87ZEsNir38C3e4fmV3h4Pz0jyAAA.webp",
+      "date": "6 days ago",
+      "snippet": "The 25 largest of 1109 meal kit delivery services worldwide, ranked by team size, each with its own description, match evidence and verified ...",
+      "snippet_highlighted_words": [
+        "meal kit delivery services"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The 25 largest of 1109 meal kit delivery services worldwide, ranked by team size, each with its own description, match evidence and verified ...",
+          "source_info_link": "https://revenuebase.ai/companies/browse/meal-kit-delivery-services",
+          "icon": "https://serpapi.com/images/i/UklGRhYBAABXRUJQVlA4IAoBAAAQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0vsSQfnesGMAu0DeLyI5GVyVhUjudP_uX1CdFQFFeyO3CeNMloAAD-9hOYPPSSuQpAj3T5D3awly0mK8r_Z1iiOQNIaZQ4xTrdgBvvyLKzy0XTroxl7oTW7Hi-Zk3CZrAmc5DjnNKsMMSyeozCVcZqXrYWsj4YkSoC8R-t17P5I7PGL6jn-dhQcuhRFNt8ofclvQsntfoTMMvUYpF4sZwOdnjyCSxiYczU8Gu-1R-Zqtgtgj8BNSM03a0GslcRzp-_cfzKsw_uwCXunTkJQsZmh7v1Q6mtXC13uc87ZEsNir38C3e4fmV3h4Pz0jyAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmhjOERMT24tRUVmMmM2SEVNR05BSEVkd2d6eHZLRlA5UkUxdThuUW9TeFdiSGwwZHctemh0OExXWWNnc25yb0FEejhPMjFYX3E0Uy12ZmMxdkNmNHpsZTdDdkFnNWg4NjFtNkJJd05Wa1BrMXpzOUE2UzYzc2tfRm0tUDM1YUh3dEdhNzRrZkhPem5QVk1mT2YtVC1lNkVYMm8xUGt4bGwSBBoCCAAaywYSABoAIgIIASoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkClBggAEAAYACAAKiIKA3RvcBXk45NAGgRiZXN0Ggdjb21wYXJlGgd0b3BtZWFsKkoKBG1lYWwVVpTmQBoGZGlubmVyGgRmb29kGgVmb29kcxoFbWVhbHMaB3RvcG1lYWwaB21lYWxraXQaD21lYWxraXRkZWxpdmVyeSo3CgNraXQVpjflQBoEa2l0cxoHbWVhbGtpdBoPbWVhbGtpdGRlbGl2ZXJ5GgtraXRkZWxpdmVyeSo_CghkZWxpdmVyeRXSdOVAGg9tZWFsa2l0ZGVsaXZlcnkaC2tpdGRlbGl2ZXJ5GhBkZWxpdmVyeXNlcnZpY2VzKkwKCHNlcnZpY2VzFe7r5EAaCWNvbXBhbmllcxoKZmFjaWxpdGllcxoJcmVzb3VyY2VzGgdzZXJ2aWNlGhBkZWxpdmVyeXNlcnZpY2VzKgoKA2ZvchUAAAAAKisKCGZhbWlsaWVzFQAAAAAaBmZhbWlseRoDa2lkGgRraWRzGgdwYXJlbnRzMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmhjOERMT24tRUVmMmM2SEVNR05BSEVkd2d6eHZLRlA5UkUxdThuUW9TeFdiSGwwZHctemh0OExXWWNnc25yb0FEejhPMjFYX3E0Uy12ZmMxdkNmNHpsZTdDdkFnNWg4NjFtNkJJd05Wa1BrMXpzOUE2UzYzc2tfRm0tUDM1YUh3dEdhNzRrZkhPem5QVk1mT2YtVC1lNkVYMm8xUGt4bGw6RzxiPlRvcDwvYj4gMjUgPGI-TWVhbCBraXQgZGVsaXZlcnkgc2VydmljZXM8L2I-IFdvcmxkd2lkZSAtIFJldmVudWVCYXNlQpwBVGhlIDI1IGxhcmdlc3Qgb2YgMTEwOSA8Yj5tZWFsIGtpdCBkZWxpdmVyeSBzZXJ2aWNlczwvYj4gd29ybGR3aWRlLCByYW5rZWQgYnkgdGVhbSBzaXplLCBlYWNoIHdpdGggaXRzIG93biBkZXNjcmlwdGlvbiwgbWF0Y2ggZXZpZGVuY2UgYW5kIHZlcmlmaWVkJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmhjOERMT24tRUVmMmM2SEVNR05BSEVkd2d6eHZLRlA5UkUxdThuUW9TeFdiSGwwZHctemh0OExXWWNnc25yb0FEejhPMjFYX3E0Uy12ZmMxdkNmNHpsZTdDdkFnNWg4NjFtNkJJd05Wa1BrMXpzOUE2UzYzc2tfRm0tUDM1YUh3dEdhNzRrZkhPem5QVk1mT2YtVC1lNkVYMm8xUGt4bGwSBBoCCAAaywYSABoAIgIIASoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkClBggAEAAYACAAKiIKA3RvcBXk45NAGgRiZXN0Ggdjb21wYXJlGgd0b3BtZWFsKkoKBG1lYWwVVpTmQBoGZGlubmVyGgRmb29kGgVmb29kcxoFbWVhbHMaB3RvcG1lYWwaB21lYWxraXQaD21lYWxraXRkZWxpdmVyeSo3CgNraXQVpjflQBoEa2l0cxoHbWVhbGtpdBoPbWVhbGtpdGRlbGl2ZXJ5GgtraXRkZWxpdmVyeSo_CghkZWxpdmVyeRXSdOVAGg9tZWFsa2l0ZGVsaXZlcnkaC2tpdGRlbGl2ZXJ5GhBkZWxpdmVyeXNlcnZpY2VzKkwKCHNlcnZpY2VzFe7r5EAaCWNvbXBhbmllcxoKZmFjaWxpdGllcxoJcmVzb3VyY2VzGgdzZXJ2aWNlGhBkZWxpdmVyeXNlcnZpY2VzKgoKA2ZvchUAAAAAKisKCGZhbWlsaWVzFQAAAAAaBmZhbWlseRoDa2lkGgRraWRzGgdwYXJlbnRzMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmhjOERMT24tRUVmMmM2SEVNR05BSEVkd2d6eHZLRlA5UkUxdThuUW9TeFdiSGwwZHctemh0OExXWWNnc25yb0FEejhPMjFYX3E0Uy12ZmMxdkNmNHpsZTdDdkFnNWg4NjFtNkJJd05Wa1BrMXpzOUE2UzYzc2tfRm0tUDM1YUh3dEdhNzRrZkhPem5QVk1mT2YtVC1lNkVYMm8xUGt4bGw6RzxiPlRvcDwvYj4gMjUgPGI-TWVhbCBraXQgZGVsaXZlcnkgc2VydmljZXM8L2I-IFdvcmxkd2lkZSAtIFJldmVudWVCYXNlQpwBVGhlIDI1IGxhcmdlc3Qgb2YgMTEwOSA8Yj5tZWFsIGtpdCBkZWxpdmVyeSBzZXJ2aWNlczwvYj4gd29ybGR3aWRlLCByYW5rZWQgYnkgdGVhbSBzaXplLCBlYWNoIHdpdGggaXRzIG93biBkZXNjcmlwdGlvbiwgbWF0Y2ggZXZpZGVuY2UgYW5kIHZlcmlmaWVkJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "RevenueBase"
+    },
+    {
+      "position": 2,
+      "title": "The Top Four Meal Kits to Try",
+      "link": "https://www.jessicabrigham.com/the-top-four-meal-kits/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAV0YojwB-JGYRVoFKUVvvNKQsVnpn-VFiHNHugCNT8arZlltvZ3bXsyd0q61xxXIOvz_9fHFkfHqsnjBLa1-3jUcen4vZyAJZ9pAnTjte9Sail4lit_-iwc6CAd9pXbqTQoZxRQHNwp8o9CS1y&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQFnoECCEQAQ&uoh=1",
+      "displayed_link": "https://www.jessicabrigham.com › Blog",
+      "favicon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAABQBgCdASocABwAPtEutFooIagoGAEAGglsAKXlwLgE8AegB0nhELpN1x74UVqrGZir50pXaqh1e0lQAAD-82p78N_p4fJob6n0CN-qW-wc6KCnYQXD-_yb1LJMtP6YP9-KaG6a5IQ9Hq1-1of_Wns9P6f8QFnIT_9O7TXw_3X_t_3gPkElL7CwCpk_8lYF8npf7aq-z7KOck0Z7qqOh93mih-VSi4pf8329rKWPEC7EWlGj9bG6K7i98sBwAh2o9XiifSySXz8EkjTYbEd3AiH1tlNjbnGSDZEYMQkbqq51tiuNUx8xFjNAoQLOAYe1IlQD88oOzGb2QWqHPqTsM1dPoub2lAaOEnkm7iYaHd2JdwjZmeteCG0Ev_rj_Cvx9sn7HL9yTAAAA.webp",
+      "snippet": "1) Hello Fresh. Highly recommended and our current provider! · 2) Green Chef. This service was delicious, and almost my favorite, but the customer service ...",
+      "snippet_highlighted_words": [
+        "1) Hello Fresh"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "1) Hello Fresh. Highly recommended and our current provider! · 2) Green Chef. This service was delicious, and almost my favorite, but the customer service ...",
+          "source_info_link": "https://www.jessicabrigham.com/the-top-four-meal-kits/",
+          "icon": "https://serpapi.com/images/i/UklGRjQBAABXRUJQVlA4ICgBAABQBgCdASocABwAPtEutFooIagoGAEAGglsAKXlwLgE8AegB0nhELpN1x74UVqrGZir50pXaqh1e0lQAAD-82p78N_p4fJob6n0CN-qW-wc6KCnYQXD-_yb1LJMtP6YP9-KaG6a5IQ9Hq1-1of_Wns9P6f8QFnIT_9O7TXw_3X_t_3gPkElL7CwCpk_8lYF8npf7aq-z7KOck0Z7qqOh93mih-VSi4pf8329rKWPEC7EWlGj9bG6K7i98sBwAh2o9XiifSySXz8EkjTYbEd3AiH1tlNjbnGSDZEYMQkbqq51tiuNUx8xFjNAoQLOAYe1IlQD88oOzGb2QWqHPqTsM1dPoub2lAaOEnkm7iYaHd2JdwjZmeteCG0Ev_rj_Cvx9sn7HL9yTAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVjBZb2p3Qi1KR1lSVm9GS1VWdnZOS1FzVm5wbi1WRmlITkh1Z0NOVDhhclpsbHR2WjNiWHN5ZDBxNjF4eFhJT3Z6XzlmSEZrZkhxc25qQkxhMS0zalVjZW40dlp5QUpaOXBBblRqdGU5U2FpbDRsaXRfLWl3YzZDQWQ5cFhicVRRb1p4UlFITndwOG85Q1MxeRIEGgIIABrEBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCgBggAEAAYACAAKiIKA3RvcBVASIhAGgRiZXN0Ggdjb21wYXJlGgd0b3BtZWFsKkoKBG1lYWwVlu60QBoGZGlubmVyGgRmb29kGgVmb29kcxoFbWVhbHMaB3RvcG1lYWwaB21lYWxraXQaD21lYWxraXRkZWxpdmVyeSo3CgNraXQVJBOlPxoEa2l0cxoHbWVhbGtpdBoPbWVhbGtpdGRlbGl2ZXJ5GgtraXRkZWxpdmVyeSo_CghkZWxpdmVyeRWBEu0-Gg9tZWFsa2l0ZGVsaXZlcnkaC2tpdGRlbGl2ZXJ5GhBkZWxpdmVyeXNlcnZpY2VzKkwKCHNlcnZpY2VzFbkIkD8aCWNvbXBhbmllcxoKZmFjaWxpdGllcxoJcmVzb3VyY2VzGgdzZXJ2aWNlGhBkZWxpdmVyeXNlcnZpY2VzKgoKA2ZvchUAAAAAKisKCGZhbWlsaWVzFQAAAAAaBmZhbWlseRoDa2lkGgRraWRzGgdwYXJlbnRzMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVjBZb2p3Qi1KR1lSVm9GS1VWdnZOS1FzVm5wbi1WRmlITkh1Z0NOVDhhclpsbHR2WjNiWHN5ZDBxNjF4eFhJT3Z6XzlmSEZrZkhxc25qQkxhMS0zalVjZW40dlp5QUpaOXBBblRqdGU5U2FpbDRsaXRfLWl3YzZDQWQ5cFhicVRRb1p4UlFITndwOG85Q1MxeTo9VGhlIDxiPlRvcDwvYj4gRm91ciA8Yj5NZWFsIEtpdHM8L2I-IHRvIFRyeSAtIEplc3NpY2EgQnJpZ2hhbUKxATxiPjEpIEhlbGxvIEZyZXNoPC9iPi4gSGlnaGx5IHJlY29tbWVuZGVkIGFuZCBvdXIgY3VycmVudCBwcm92aWRlciEgJm1pZGRvdDsgMikgR3JlZW4gQ2hlZi4gVGhpcyBzZXJ2aWNlIHdhcyBkZWxpY2lvdXMsIGFuZCBhbG1vc3QgbXkgZmF2b3JpdGUsIGJ1dCB0aGUgY3VzdG9tZXIgc2VydmljZSZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVjBZb2p3Qi1KR1lSVm9GS1VWdnZOS1FzVm5wbi1WRmlITkh1Z0NOVDhhclpsbHR2WjNiWHN5ZDBxNjF4eFhJT3Z6XzlmSEZrZkhxc25qQkxhMS0zalVjZW40dlp5QUpaOXBBblRqdGU5U2FpbDRsaXRfLWl3YzZDQWQ5cFhicVRRb1p4UlFITndwOG85Q1MxeRIEGgIIABrEBhIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCgBggAEAAYACAAKiIKA3RvcBVASIhAGgRiZXN0Ggdjb21wYXJlGgd0b3BtZWFsKkoKBG1lYWwVlu60QBoGZGlubmVyGgRmb29kGgVmb29kcxoFbWVhbHMaB3RvcG1lYWwaB21lYWxraXQaD21lYWxraXRkZWxpdmVyeSo3CgNraXQVJBOlPxoEa2l0cxoHbWVhbGtpdBoPbWVhbGtpdGRlbGl2ZXJ5GgtraXRkZWxpdmVyeSo_CghkZWxpdmVyeRWBEu0-Gg9tZWFsa2l0ZGVsaXZlcnkaC2tpdGRlbGl2ZXJ5GhBkZWxpdmVyeXNlcnZpY2VzKkwKCHNlcnZpY2VzFbkIkD8aCWNvbXBhbmllcxoKZmFjaWxpdGllcxoJcmVzb3VyY2VzGgdzZXJ2aWNlGhBkZWxpdmVyeXNlcnZpY2VzKgoKA2ZvchUAAAAAKisKCGZhbWlsaWVzFQAAAAAaBmZhbWlseRoDa2lkGgRraWRzGgdwYXJlbnRzMqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVjBZb2p3Qi1KR1lSVm9GS1VWdnZOS1FzVm5wbi1WRmlITkh1Z0NOVDhhclpsbHR2WjNiWHN5ZDBxNjF4eFhJT3Z6XzlmSEZrZkhxc25qQkxhMS0zalVjZW40dlp5QUpaOXBBblRqdGU5U2FpbDRsaXRfLWl3YzZDQWQ5cFhicVRRb1p4UlFITndwOG85Q1MxeTo9VGhlIDxiPlRvcDwvYj4gRm91ciA8Yj5NZWFsIEtpdHM8L2I-IHRvIFRyeSAtIEplc3NpY2EgQnJpZ2hhbUKxATxiPjEpIEhlbGxvIEZyZXNoPC9iPi4gSGlnaGx5IHJlY29tbWVuZGVkIGFuZCBvdXIgY3VycmVudCBwcm92aWRlciEgJm1pZGRvdDsgMikgR3JlZW4gQ2hlZi4gVGhpcyBzZXJ2aWNlIHdhcyBkZWxpY2lvdXMsIGFuZCBhbG1vc3QgbXkgZmF2b3JpdGUsIGJ1dCB0aGUgY3VzdG9tZXIgc2VydmljZSZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Jessica Brigham",
+      "read_more_link": "https://www.jessicabrigham.com/the-top-four-meal-kits/#:~:text=1)%20Hello%20Fresh,recommended%20and%20our%20current%20provider!&text=2)%20Green%20Chef,customer%20service%20experience%20was%20lacking."
+    },
+    {
+      "position": 3,
+      "title": "Meal delivery kits to help with weight loss?? - Large Families",
+      "link": "https://community.whattoexpect.com/forums/large-families/topic/meal-dery-kits-to-help-with-weight-loss-174364044.html",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESsAEB6zswFWEAqvzJgI65QR5noXBt9m7FHTFJE9NE-0HRl_IyP7XXZLy53OJ_4pvniZq4j_3q5yZzSfoycXPiluBRIWToE2yk2dyBWu18HlSaFJ_oaT2BSlrldnykdECDMtOKWkL-ySbCp3yx6P1VnIS0zfJ2kyK8j4jG16Frgs61AvbnsClgfT1Ntd1SL9_4hGAX8xhTK_koVKEvK4BKvSNjPLb9jruyk9c21Y5HV2mYQQ&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQFnoECCIQAQ&uoh=1",
+      "displayed_link": "https://community.whattoexpect.com › ... › Families",
+      "favicon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADwBgCdASocABwAPtEwtFooIigoGAEAGglsAJ0y3rjdph6JBXsW2Mx2u37aEB03f_gfpue1qCEmshWyXJsTUIAAAP72E0Jvaz_qrBVg_VJglcIPUYwxXZbZQtIQzNiOPgOqi2F4lYS87CcT_zOSTFF7D-3Bxpq0OTSep4_lQa_NBdWOrJocK9PiEFi75NPwzc4Cu0akY_-u1l4C7EdxE_CN0jHSsn_6gIK0dO0G7s4kedUdevq0rN3agiCFz6VEw6p32j3bR9RhHAUdb7uSLyA5uzO_q0RsD8VhnpN9W-iuqK9cI_NcFeRW8WMhGNOrt1QOKtGXwZCXxyEuu7k_U2Y3BbZ3UMa8l57d03Qv-kjR0ZrWiFYFusISOYfeFnbF3j209JFkXPDnaihf3ye81Ztk1mkyuZdir0y3yM8-we5TQkz2c0QgkN0nW7QHUL8N_gj3AAAA.webp",
+      "date": "Jan 30, 2026",
+      "snippet": "I've used meal kits like hello fresh and home chef. Those are just kits where you still have to prepare/cook the meal—they just package all ...",
+      "snippet_highlighted_words": [
+        "hello fresh and home chef"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I've used meal kits like hello fresh and home chef. Those are just kits where you still have to prepare/cook the meal—they just package all ...",
+          "source_info_link": "https://community.whattoexpect.com/forums/large-families/topic/meal-dery-kits-to-help-with-weight-loss-174364044.html",
+          "icon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADwBgCdASocABwAPtEwtFooIigoGAEAGglsAJ0y3rjdph6JBXsW2Mx2u37aEB03f_gfpue1qCEmshWyXJsTUIAAAP72E0Jvaz_qrBVg_VJglcIPUYwxXZbZQtIQzNiOPgOqi2F4lYS87CcT_zOSTFF7D-3Bxpq0OTSep4_lQa_NBdWOrJocK9PiEFi75NPwzc4Cu0akY_-u1l4C7EdxE_CN0jHSsn_6gIK0dO0G7s4kedUdevq0rN3agiCFz6VEw6p32j3bR9RhHAUdb7uSLyA5uzO_q0RsD8VhnpN9W-iuqK9cI_NcFeRW8WMhGNOrt1QOKtGXwZCXxyEuu7k_U2Y3BbZ3UMa8l57d03Qv-kjR0ZrWiFYFusISOYfeFnbF3j209JFkXPDnaihf3ye81Ztk1mkyuZdir0y3yM8-we5TQkz2c0QgkN0nW7QHUL8N_gj3AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZXRUFxdnpKZ0k2NVFSNW5vWEJ0OW03RkhURkpFOU5FLTBIUmxfSXlQN1hYWkx5NTNPSl80cHZuaVpxNGpfM3E1eVp6U2ZveWNYUGlsdUJSSVdUb0UyeWsyZHlCV3UxOEhsU2FGSl9vYVQyQlNscmxkbnlrZEVDRE10T0tXa0wteVNiQ3AzeXg2UDFWbklTMHpmSjJreUs4ajRqRzE2RnJnczYxQXZibnNDbGdmVDFOdGQxU0w5XzRoR0FYOHhoVEtfa29WS0V2SzRCS3ZTTmpQTGI5anJ1eWs5YzIxWTVIVjJtWVFREgQaAggAGpkHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPUGCAAQABgAIAAqIgoDdG9wFYvAUz8aBGJlc3QaB2NvbXBhcmUaB3RvcG1lYWwqSgoEbWVhbBUob2tAGgZkaW5uZXIaBGZvb2QaBWZvb2RzGgVtZWFscxoHdG9wbWVhbBoHbWVhbGtpdBoPbWVhbGtpdGRlbGl2ZXJ5KjcKA2tpdBXKhdA-GgRraXRzGgdtZWFsa2l0Gg9tZWFsa2l0ZGVsaXZlcnkaC2tpdGRlbGl2ZXJ5Kj8KCGRlbGl2ZXJ5FVgqYUAaD21lYWxraXRkZWxpdmVyeRoLa2l0ZGVsaXZlcnkaEGRlbGl2ZXJ5c2VydmljZXMqTAoIc2VydmljZXMV9-SOPxoJY29tcGFuaWVzGgpmYWNpbGl0aWVzGglyZXNvdXJjZXMaB3NlcnZpY2UaEGRlbGl2ZXJ5c2VydmljZXMqCgoDZm9yFQAAAAAqKwoIZmFtaWxpZXMVbx4yQBoGZmFtaWx5GgNraWQaBGtpZHMaB3BhcmVudHMy_AEvZ290bz91cmw9Q0FFU3NBRUI2enN3RldFQXF2ekpnSTY1UVI1bm9YQnQ5bTdGSFRGSkU5TkUtMEhSbF9JeVA3WFhaTHk1M09KXzRwdm5pWnE0al8zcTV5WnpTZm95Y1hQaWx1QlJJV1RvRTJ5azJkeUJXdTE4SGxTYUZKX29hVDJCU2xybGRueWtkRUNETXRPS1drTC15U2JDcDN5eDZQMVZuSVMwemZKMmt5SzhqNGpHMTZGcmdzNjFBdmJuc0NsZ2ZUMU50ZDFTTDlfNGhHQVg4eGhUS19rb1ZLRXZLNEJLdlNOalBMYjlqcnV5azljMjFZNUhWMm1ZUVE6TDxiPk1lYWwgZGVsaXZlcnkga2l0czwvYj4gdG8gaGVscCB3aXRoIHdlaWdodCBsb3NzPz8gLSBMYXJnZSA8Yj5GYW1pbGllczwvYj5CoQFJJiMzOTt2ZSB1c2VkIG1lYWwga2l0cyBsaWtlIDxiPmhlbGxvIGZyZXNoIGFuZCBob21lIGNoZWY8L2I-LiBUaG9zZSBhcmUganVzdCBraXRzIHdoZXJlIHlvdSBzdGlsbCBoYXZlIHRvIHByZXBhcmUvY29vayB0aGUgbWVhbOKAlHRoZXkganVzdCBwYWNrYWdlIGFsbCZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvwBL2dvdG8_dXJsPUNBRVNzQUVCNnpzd0ZXRUFxdnpKZ0k2NVFSNW5vWEJ0OW03RkhURkpFOU5FLTBIUmxfSXlQN1hYWkx5NTNPSl80cHZuaVpxNGpfM3E1eVp6U2ZveWNYUGlsdUJSSVdUb0UyeWsyZHlCV3UxOEhsU2FGSl9vYVQyQlNscmxkbnlrZEVDRE10T0tXa0wteVNiQ3AzeXg2UDFWbklTMHpmSjJreUs4ajRqRzE2RnJnczYxQXZibnNDbGdmVDFOdGQxU0w5XzRoR0FYOHhoVEtfa29WS0V2SzRCS3ZTTmpQTGI5anJ1eWs5YzIxWTVIVjJtWVFREgQaAggAGpkHEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQPUGCAAQABgAIAAqIgoDdG9wFYvAUz8aBGJlc3QaB2NvbXBhcmUaB3RvcG1lYWwqSgoEbWVhbBUob2tAGgZkaW5uZXIaBGZvb2QaBWZvb2RzGgVtZWFscxoHdG9wbWVhbBoHbWVhbGtpdBoPbWVhbGtpdGRlbGl2ZXJ5KjcKA2tpdBXKhdA-GgRraXRzGgdtZWFsa2l0Gg9tZWFsa2l0ZGVsaXZlcnkaC2tpdGRlbGl2ZXJ5Kj8KCGRlbGl2ZXJ5FVgqYUAaD21lYWxraXRkZWxpdmVyeRoLa2l0ZGVsaXZlcnkaEGRlbGl2ZXJ5c2VydmljZXMqTAoIc2VydmljZXMV9-SOPxoJY29tcGFuaWVzGgpmYWNpbGl0aWVzGglyZXNvdXJjZXMaB3NlcnZpY2UaEGRlbGl2ZXJ5c2VydmljZXMqCgoDZm9yFQAAAAAqKwoIZmFtaWxpZXMVbx4yQBoGZmFtaWx5GgNraWQaBGtpZHMaB3BhcmVudHMy_AEvZ290bz91cmw9Q0FFU3NBRUI2enN3RldFQXF2ekpnSTY1UVI1bm9YQnQ5bTdGSFRGSkU5TkUtMEhSbF9JeVA3WFhaTHk1M09KXzRwdm5pWnE0al8zcTV5WnpTZm95Y1hQaWx1QlJJV1RvRTJ5azJkeUJXdTE4SGxTYUZKX29hVDJCU2xybGRueWtkRUNETXRPS1drTC15U2JDcDN5eDZQMVZuSVMwemZKMmt5SzhqNGpHMTZGcmdzNjFBdmJuc0NsZ2ZUMU50ZDFTTDlfNGhHQVg4eGhUS19rb1ZLRXZLNEJLdlNOalBMYjlqcnV5azljMjFZNUhWMm1ZUVE6TDxiPk1lYWwgZGVsaXZlcnkga2l0czwvYj4gdG8gaGVscCB3aXRoIHdlaWdodCBsb3NzPz8gLSBMYXJnZSA8Yj5GYW1pbGllczwvYj5CoQFJJiMzOTt2ZSB1c2VkIG1lYWwga2l0cyBsaWtlIDxiPmhlbGxvIGZyZXNoIGFuZCBob21lIGNoZWY8L2I-LiBUaG9zZSBhcmUganVzdCBraXRzIHdoZXJlIHlvdSBzdGlsbCBoYXZlIHRvIHByZXBhcmUvY29vayB0aGUgbWVhbOKAlHRoZXkganVzdCBwYWNrYWdlIGFsbCZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "What to Expect",
+      "read_more_link": "https://community.whattoexpect.com/forums/large-families/topic/meal-dery-kits-to-help-with-weight-loss-174364044.html#:~:text=I've%20used%20meal%20kits%20like,all%20ingredients%20and%20include%20instructions."
+    },
+    {
+      "position": 4,
+      "title": "Father's Day 2023: The best meal kit delivery plans for Dad",
+      "link": "https://www.reviewed.com/gift-guides/features/best-fathers-day-meal-kit-delivery-plans",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFT0eNwgX7F8TdQeQMyUW3cF7u3SB_V4uK3Uxds0Hfxp_Qiccg4zkWwTG1zCQBkavAjtGvOiLXXdn7x_JdOKdLy7oZf8z3wQRYG2F5skUi2Jvmvu2OCHGk5RCxtrbB6JaeT0iv3cxCzQJQLt39jhVN1vrfNy1SrJA4ORUsJy45adfbWRIXEeTMZLDO14c&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQFnoECEYQAQ&uoh=1",
+      "displayed_link": "https://www.reviewed.com › gift-guides › features › bes...",
+      "favicon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHA3qsmAiyAD2QEJlKIrf0GV8cXegzNqgAD-rhU8JVVATrq1XLNmpetieNwR9FaZudFAPyGYxiA8Vc1__v2V2gZyC4GY4zhsWOYclH_uDREwk2ZZNalAB2xgApac7IK63aM3VvqFaTsZp8hS6miEFzxGsJXos-nfYw8wBdzk_HDdpjahBxAAAA.webp",
+      "date": "Jun 9, 2023",
+      "snippet": "We've rounded up the five best meal kit delivery services to gift a subscription to this Father's Day. Shop meal kits from HelloFresh, Green",
+      "snippet_highlighted_words": [
+        "HelloFresh"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "We've rounded up the five best meal kit delivery services to gift a subscription to this Father's Day. Shop meal kits from HelloFresh, Green",
+          "source_info_link": "https://www.reviewed.com/gift-guides/features/best-fathers-day-meal-kit-delivery-plans",
+          "icon": "https://serpapi.com/images/i/UklGRrAAAABXRUJQVlA4IKQAAACQBQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHA3qsmAiyAD2QEJlKIrf0GV8cXegzNqgAD-rhU8JVVATrq1XLNmpetieNwR9FaZudFAPyGYxiA8Vc1__v2V2gZyC4GY4zhsWOYclH_uDREwk2ZZNalAB2xgApac7IK63aM3VvqFaTsZp8hS6miEFzxGsJXos-nfYw8wBdzk_HDdpjahBxAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZUMGVOd2dYN0Y4VGRRZVFNeVVXM2NGN3UzU0JfVjR1SzNVeGRzMEhmeHBfUWljY2c0emtXd1RHMXpDUUJrYXZBanRHdk9pTFhYZG43eF9KZE9LZEx5N29aZjh6M3dRUllHMkY1c2tVaTJKdm12dTJPQ0hHazVSQ3h0cmJCNkphZVQwaXYzY3hDelFKUUx0MzlqaFZOMXZyZk55MVNySkE0T1JVc0p5NDVhZGZiV1JJWEVlVE1aTERPMTRjEgQaAggAGuUGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAvwYIABAAGAAgACoiCgN0b3AVq3UVPxoEYmVzdBoHY29tcGFyZRoHdG9wbWVhbCpKCgRtZWFsFY6o30AaBmRpbm5lchoEZm9vZBoFZm9vZHMaBW1lYWxzGgd0b3BtZWFsGgdtZWFsa2l0Gg9tZWFsa2l0ZGVsaXZlcnkqNwoDa2l0FTAkvUAaBGtpdHMaB21lYWxraXQaD21lYWxraXRkZWxpdmVyeRoLa2l0ZGVsaXZlcnkqPwoIZGVsaXZlcnkVKLmVQBoPbWVhbGtpdGRlbGl2ZXJ5GgtraXRkZWxpdmVyeRoQZGVsaXZlcnlzZXJ2aWNlcypMCghzZXJ2aWNlcxW5Ag5AGgljb21wYW5pZXMaCmZhY2lsaXRpZXMaCXJlc291cmNlcxoHc2VydmljZRoQZGVsaXZlcnlzZXJ2aWNlcyoKCgNmb3IVAAAAACorCghmYW1pbGllcxUAAAAAGgZmYW1pbHkaA2tpZBoEa2lkcxoHcGFyZW50czLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGVDBlTndnWDdGOFRkUWVRTXlVVzNjRjd1M1NCX1Y0dUszVXhkczBIZnhwX1FpY2NnNHprV3dURzF6Q1FCa2F2QWp0R3ZPaUxYWGRuN3hfSmRPS2RMeTdvWmY4ejN3UVJZRzJGNXNrVWkySnZtdnUyT0NIR2s1UkN4dHJiQjZKYWVUMGl2M2N4Q3pRSlFMdDM5amhWTjF2cmZOeTFTckpBNE9SVXNKeTQ1YWRmYldSSVhFZVRNWkxETzE0YzpGRmF0aGVyJiMzOTtzIERheSAyMDIzOiBUaGUgPGI-YmVzdCBtZWFsIGtpdCBkZWxpdmVyeTwvYj4gcGxhbnMgZm9yIERhZEKbAVdlJiMzOTt2ZSByb3VuZGVkIHVwIHRoZSBmaXZlIGJlc3QgbWVhbCBraXQgZGVsaXZlcnkgc2VydmljZXMgdG8gZ2lmdCBhIHN1YnNjcmlwdGlvbiB0byB0aGlzIEZhdGhlciYjMzk7cyBEYXkuIFNob3AgbWVhbCBraXRzIGZyb20gPGI-SGVsbG9GcmVzaDwvYj4sIEdyZWVuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZUMGVOd2dYN0Y4VGRRZVFNeVVXM2NGN3UzU0JfVjR1SzNVeGRzMEhmeHBfUWljY2c0emtXd1RHMXpDUUJrYXZBanRHdk9pTFhYZG43eF9KZE9LZEx5N29aZjh6M3dRUllHMkY1c2tVaTJKdm12dTJPQ0hHazVSQ3h0cmJCNkphZVQwaXYzY3hDelFKUUx0MzlqaFZOMXZyZk55MVNySkE0T1JVc0p5NDVhZGZiV1JJWEVlVE1aTERPMTRjEgQaAggAGuUGEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAvwYIABAAGAAgACoiCgN0b3AVq3UVPxoEYmVzdBoHY29tcGFyZRoHdG9wbWVhbCpKCgRtZWFsFY6o30AaBmRpbm5lchoEZm9vZBoFZm9vZHMaBW1lYWxzGgd0b3BtZWFsGgdtZWFsa2l0Gg9tZWFsa2l0ZGVsaXZlcnkqNwoDa2l0FTAkvUAaBGtpdHMaB21lYWxraXQaD21lYWxraXRkZWxpdmVyeRoLa2l0ZGVsaXZlcnkqPwoIZGVsaXZlcnkVKLmVQBoPbWVhbGtpdGRlbGl2ZXJ5GgtraXRkZWxpdmVyeRoQZGVsaXZlcnlzZXJ2aWNlcypMCghzZXJ2aWNlcxW5Ag5AGgljb21wYW5pZXMaCmZhY2lsaXRpZXMaCXJlc291cmNlcxoHc2VydmljZRoQZGVsaXZlcnlzZXJ2aWNlcyoKCgNmb3IVAAAAACorCghmYW1pbGllcxUAAAAAGgZmYW1pbHkaA2tpZBoEa2lkcxoHcGFyZW50czLSAS9nb3RvP3VybD1DQUVTa1FFQjZ6c3dGVDBlTndnWDdGOFRkUWVRTXlVVzNjRjd1M1NCX1Y0dUszVXhkczBIZnhwX1FpY2NnNHprV3dURzF6Q1FCa2F2QWp0R3ZPaUxYWGRuN3hfSmRPS2RMeTdvWmY4ejN3UVJZRzJGNXNrVWkySnZtdnUyT0NIR2s1UkN4dHJiQjZKYWVUMGl2M2N4Q3pRSlFMdDM5amhWTjF2cmZOeTFTckpBNE9SVXNKeTQ1YWRmYldSSVhFZVRNWkxETzE0YzpGRmF0aGVyJiMzOTtzIERheSAyMDIzOiBUaGUgPGI-YmVzdCBtZWFsIGtpdCBkZWxpdmVyeTwvYj4gcGxhbnMgZm9yIERhZEKbAVdlJiMzOTt2ZSByb3VuZGVkIHVwIHRoZSBmaXZlIGJlc3QgbWVhbCBraXQgZGVsaXZlcnkgc2VydmljZXMgdG8gZ2lmdCBhIHN1YnNjcmlwdGlvbiB0byB0aGlzIEZhdGhlciYjMzk7cyBEYXkuIFNob3AgbWVhbCBraXRzIGZyb20gPGI-SGVsbG9GcmVzaDwvYj4sIEdyZWVuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Reviewed"
+    },
+    {
+      "position": 5,
+      "title": "What are the best home food meal kit delivery services with ...",
+      "link": "https://www.facebook.com/groups/390780083943424/posts/795412440146851/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFQRqj5h6IEPE-97KRktn7YEj0qrM-HUc4zZsba2QNMvHiGV3hgkY0sMEmPXglNDupr7KuW10zosbZkS1F7n049L3YN0Aa4cAZwBuGMZV8rM039G4o6y-hEp_aioIUD07XrAoyqw9VsXGB5E2QnPsw3eoIcVlp5xfyHnyNso&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQFnoECEkQAQ&uoh=1",
+      "displayed_link": "8 comments · 11 months ago",
+      "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+      "snippet": "Recommendations for best home food meal kit delivery service. The ones I have tried the box comes and ingredients are not very cold. Prefer the ones that ...",
+      "about_this_result": {
+        "source": {
+          "description": "Tempo by Home Chef Good Luck|ReBuilt Meals delicious and flexible.",
+          "source_info_link": "https://www.facebook.com/groups/390780083943424/posts/795412440146851/",
+          "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZRUnFqNWg2SUVQRS05N0tSa3RuN1lFajBxck0tSFVjNHpac2JhMlFOTXZIaUdWM2hna1kwc01FbVBYZ2xORHVwcjdLdVcxMHpvc2Jaa1MxRjduMDQ5TDNZTjBBYTRjQVp3QnVHTVpWOHJNMDM5RzRvNnktaEVwX2Fpb0lVRDA3WHJBb3lxdzlWc1hHQjVFMlFuUHN3M2VvSWNWbHA1eGZ5SG55TnNvEgQaAggAGoIGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQN4FCAAQABgAIAAqIgoDdG9wFQAAAAAaBGJlc3QaB2NvbXBhcmUaB3RvcG1lYWwqSgoEbWVhbBWuosJAGgZkaW5uZXIaBGZvb2QaBWZvb2RzGgVtZWFscxoHdG9wbWVhbBoHbWVhbGtpdBoPbWVhbGtpdGRlbGl2ZXJ5KjcKA2tpdBUv37FAGgRraXRzGgdtZWFsa2l0Gg9tZWFsa2l0ZGVsaXZlcnkaC2tpdGRlbGl2ZXJ5Kj8KCGRlbGl2ZXJ5Fd7CskAaD21lYWxraXRkZWxpdmVyeRoLa2l0ZGVsaXZlcnkaEGRlbGl2ZXJ5c2VydmljZXMqTAoIc2VydmljZXMVfPy7QBoJY29tcGFuaWVzGgpmYWNpbGl0aWVzGglyZXNvdXJjZXMaB3NlcnZpY2UaEGRlbGl2ZXJ5c2VydmljZXMqCgoDZm9yFQAAAAAqKwoIZmFtaWxpZXMVAAAAABoGZmFtaWx5GgNraWQaBGtpZHMaB3BhcmVudHMyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RlFScWo1aDZJRVBFLTk3S1JrdG43WUVqMHFyTS1IVWM0elpzYmEyUU5NdkhpR1YzaGdrWTBzTUVtUFhnbE5EdXByN0t1VzEwem9zYlprUzFGN24wNDlMM1lOMEFhNGNBWndCdUdNWlY4ck0wMzlHNG82eS1oRXBfYWlvSVVEMDdYckFveXF3OVZzWEdCNUUyUW5Qc3czZW9JY1ZscDV4ZnlIbnlOc286TVdoYXQgYXJlIHRoZSA8Yj5iZXN0PC9iPiBob21lIGZvb2QgPGI-bWVhbCBraXQgZGVsaXZlcnkgc2VydmljZXM8L2I-IHdpdGggLi4uQkk8Yj5UZW1wbyBieSBIb21lIENoZWYgR29vZCBMdWNrPC9iPnxSZUJ1aWx0IE1lYWxzIGRlbGljaW91cyBhbmQgZmxleGlibGUuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZRUnFqNWg2SUVQRS05N0tSa3RuN1lFajBxck0tSFVjNHpac2JhMlFOTXZIaUdWM2hna1kwc01FbVBYZ2xORHVwcjdLdVcxMHpvc2Jaa1MxRjduMDQ5TDNZTjBBYTRjQVp3QnVHTVpWOHJNMDM5RzRvNnktaEVwX2Fpb0lVRDA3WHJBb3lxdzlWc1hHQjVFMlFuUHN3M2VvSWNWbHA1eGZ5SG55TnNvEgQaAggAGoIGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQN4FCAAQABgAIAAqIgoDdG9wFQAAAAAaBGJlc3QaB2NvbXBhcmUaB3RvcG1lYWwqSgoEbWVhbBWuosJAGgZkaW5uZXIaBGZvb2QaBWZvb2RzGgVtZWFscxoHdG9wbWVhbBoHbWVhbGtpdBoPbWVhbGtpdGRlbGl2ZXJ5KjcKA2tpdBUv37FAGgRraXRzGgdtZWFsa2l0Gg9tZWFsa2l0ZGVsaXZlcnkaC2tpdGRlbGl2ZXJ5Kj8KCGRlbGl2ZXJ5Fd7CskAaD21lYWxraXRkZWxpdmVyeRoLa2l0ZGVsaXZlcnkaEGRlbGl2ZXJ5c2VydmljZXMqTAoIc2VydmljZXMVfPy7QBoJY29tcGFuaWVzGgpmYWNpbGl0aWVzGglyZXNvdXJjZXMaB3NlcnZpY2UaEGRlbGl2ZXJ5c2VydmljZXMqCgoDZm9yFQAAAAAqKwoIZmFtaWxpZXMVAAAAABoGZmFtaWx5GgNraWQaBGtpZHMaB3BhcmVudHMyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3RlFScWo1aDZJRVBFLTk3S1JrdG43WUVqMHFyTS1IVWM0elpzYmEyUU5NdkhpR1YzaGdrWTBzTUVtUFhnbE5EdXByN0t1VzEwem9zYlprUzFGN24wNDlMM1lOMEFhNGNBWndCdUdNWlY4ck0wMzlHNG82eS1oRXBfYWlvSVVEMDdYckFveXF3OVZzWEdCNUUyUW5Qc3czZW9JY1ZscDV4ZnlIbnlOc286TVdoYXQgYXJlIHRoZSA8Yj5iZXN0PC9iPiBob21lIGZvb2QgPGI-bWVhbCBraXQgZGVsaXZlcnkgc2VydmljZXM8L2I-IHdpdGggLi4uQkk8Yj5UZW1wbyBieSBIb21lIENoZWYgR29vZCBMdWNrPC9iPnxSZUJ1aWx0IE1lYWxzIGRlbGljaW91cyBhbmQgZmxleGlibGUuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Facebook · Bradenton Word of Mouth"
+    },
+    {
+      "position": 6,
+      "title": "4 Best Vegan Meal Delivery Services 2026",
+      "link": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-vegan-meal-delivery-services",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESoQEB6zswFdHyCQpFp1E3uTU8w8ZDspspq3bu_b-9ZxAJ6AYQWVBBhYHalzKNieUlbJ5Y-PahKz4phsraRLGwpSH8dMVMu3oQEJiCR9DygBhsT3Qy3BnhqzEhBt0bql1-HUUEa93x8rQsqAD4oubDlLV1h0f34zBvK9frneGismKR9dqtO1B_3Qjiib3wl0iLD-YeL78kTleyjZL0R7ubMdEdqg&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQFnoECEUQAQ&uoh=1",
+      "displayed_link": "https://www.foodnetwork.com › ... › Product Reviews",
+      "favicon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAAAQCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhH93YeGBZKP_AmagwFaDLA0gU0HxfagYwqEztogWYk2difhhnOHX4WFSAPgwCOBEXz8P7oAA_vYTRMleT-av6ZCiJWfKqP_3Zkcn-9f4FngZCXpKndE2-85s8QkIMFf0UHMP6haWeDsiTpS6XMa8SH__qCOIQIuqWJ5I3H0Z71_C_immWPyzcRwh81e3uj4y-xJ86ivPyLoA1v2gA-zXiqnoWJ0b1X681wTpdpCzyfaDJh1Uu-bLW3XSga8f21LXRGhAsElGuz-Vn_-TSfo_EZbcLoF_-6_0DMkfmj5_gn-Tb9O6hPse7JY7HRFPn1Xmxev8NxZf_cShvsff-UQpEoHLPXE5s0wrxyGjLHBs2i0Rok70_fT8vT8z_JxQzVOSus_7ALI-VtYx6Mh8OpuPcfOW_wB6L0Yti25Nux_9AVyP-jXMb1jZ_zuGpYVPdYSXxdKO-ci4q4XvKr0PmSa4mpykDY8Y1vufzs28P58R1jqhTuFSIhWADX5nq7QS8FfzgpcgrAwskraCiY5Nur4fhS7qWs7ijNQGuXlEUj5Sq269emXzFHIfOYAA.webp",
+      "date": "Feb 5, 2026",
+      "snippet": "Green Chef provides vegan meals delivered straight to your doorstep. Every week customers can browse through 80+ meal options in categories ...",
+      "snippet_highlighted_words": [
+        "Green Chef provides vegan meals delivered straight to your doorstep"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Green Chef provides vegan meals delivered straight to your doorstep. Every week customers can browse through 80+ meal options in categories ...",
+          "source_info_link": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-vegan-meal-delivery-services",
+          "icon": "https://serpapi.com/images/i/UklGRtIBAABXRUJQVlA4IMYBAAAQCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhH93YeGBZKP_AmagwFaDLA0gU0HxfagYwqEztogWYk2difhhnOHX4WFSAPgwCOBEXz8P7oAA_vYTRMleT-av6ZCiJWfKqP_3Zkcn-9f4FngZCXpKndE2-85s8QkIMFf0UHMP6haWeDsiTpS6XMa8SH__qCOIQIuqWJ5I3H0Z71_C_immWPyzcRwh81e3uj4y-xJ86ivPyLoA1v2gA-zXiqnoWJ0b1X681wTpdpCzyfaDJh1Uu-bLW3XSga8f21LXRGhAsElGuz-Vn_-TSfo_EZbcLoF_-6_0DMkfmj5_gn-Tb9O6hPse7JY7HRFPn1Xmxev8NxZf_cShvsff-UQpEoHLPXE5s0wrxyGjLHBs2i0Rok70_fT8vT8z_JxQzVOSus_7ALI-VtYx6Mh8OpuPcfOW_wB6L0Yti25Nux_9AVyP-jXMb1jZ_zuGpYVPdYSXxdKO-ci4q4XvKr0PmSa4mpykDY8Y1vufzs28P58R1jqhTuFSIhWADX5nq7QS8FfzgpcgrAwskraCiY5Nur4fhS7qWs7ijNQGuXlEUj5Sq269emXzFHIfOYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZkSHlDUXBGcDFFM3VUVTh3OFpEc3BzcHEzYnVfYi05WnhBSjZBWVFXVkJCaFlIYWx6S05pZVVsYko1WS1QYWhLejRwaHNyYVJMR3dwU0g4ZE1WTXUzb1FFSmlDUjlEeWdCaHNUM1F5M0JuaHF6RWhCdDBicWwxLUhVVUVhOTN4OHJRc3FBRDRvdWJEbExWMWgwZjM0ekJ2Szlmcm5lR2lzbUtSOWRxdE8xQl8zUWppaWIzd2wwaUxELVllTDc4a1RsZXlqWkwwUjd1Yk1kRWRxZxIEGgIIABqBBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsGCAAQABgAIAAqIgoDdG9wFasPHz8aBGJlc3QaB2NvbXBhcmUaB3RvcG1lYWwqSgoEbWVhbBV-dItAGgZkaW5uZXIaBGZvb2QaBWZvb2RzGgVtZWFscxoHdG9wbWVhbBoHbWVhbGtpdBoPbWVhbGtpdGRlbGl2ZXJ5KjcKA2tpdBXt4AE_GgRraXRzGgdtZWFsa2l0Gg9tZWFsa2l0ZGVsaXZlcnkaC2tpdGRlbGl2ZXJ5Kj8KCGRlbGl2ZXJ5FZ1sjUAaD21lYWxraXRkZWxpdmVyeRoLa2l0ZGVsaXZlcnkaEGRlbGl2ZXJ5c2VydmljZXMqTAoIc2VydmljZXMV9r6OQBoJY29tcGFuaWVzGgpmYWNpbGl0aWVzGglyZXNvdXJjZXMaB3NlcnZpY2UaEGRlbGl2ZXJ5c2VydmljZXMqCgoDZm9yFQAAAAAqKwoIZmFtaWxpZXMVrG2uPhoGZmFtaWx5GgNraWQaBGtpZHMaB3BhcmVudHMy6AEvZ290bz91cmw9Q0FFU29RRUI2enN3RmRIeUNRcEZwMUUzdVRVOHc4WkRzcHNwcTNidV9iLTlaeEFKNkFZUVdWQkJoWUhhbHpLTmllVWxiSjVZLVBhaEt6NHBoc3JhUkxHd3BTSDhkTVZNdTNvUUVKaUNSOUR5Z0Joc1QzUXkzQm5ocXpFaEJ0MGJxbDEtSFVVRWE5M3g4clFzcUFENG91YkRsTFYxaDBmMzR6QnZLOWZybmVHaXNtS1I5ZHF0TzFCXzNRamlpYjN3bDBpTEQtWWVMNzhrVGxleWpaTDBSN3ViTWRFZHFnOkw0IDxiPkJlc3Q8L2I-IFZlZ2FuIDxiPk1lYWwgRGVsaXZlcnkgU2VydmljZXM8L2I-IDIwMjYgLSA8Yj5Gb29kPC9iPiBOZXR3b3JrQpsBPGI-R3JlZW4gQ2hlZiBwcm92aWRlcyB2ZWdhbiBtZWFscyBkZWxpdmVyZWQgc3RyYWlnaHQgdG8geW91ciBkb29yc3RlcDwvYj4uIEV2ZXJ5IHdlZWsgY3VzdG9tZXJzIGNhbiBicm93c2UgdGhyb3VnaCA4MCsgbWVhbCBvcHRpb25zIGluIGNhdGVnb3JpZXMmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CugBL2dvdG8_dXJsPUNBRVNvUUVCNnpzd0ZkSHlDUXBGcDFFM3VUVTh3OFpEc3BzcHEzYnVfYi05WnhBSjZBWVFXVkJCaFlIYWx6S05pZVVsYko1WS1QYWhLejRwaHNyYVJMR3dwU0g4ZE1WTXUzb1FFSmlDUjlEeWdCaHNUM1F5M0JuaHF6RWhCdDBicWwxLUhVVUVhOTN4OHJRc3FBRDRvdWJEbExWMWgwZjM0ekJ2Szlmcm5lR2lzbUtSOWRxdE8xQl8zUWppaWIzd2wwaUxELVllTDc4a1RsZXlqWkwwUjd1Yk1kRWRxZxIEGgIIABqBBxICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNsGCAAQABgAIAAqIgoDdG9wFasPHz8aBGJlc3QaB2NvbXBhcmUaB3RvcG1lYWwqSgoEbWVhbBV-dItAGgZkaW5uZXIaBGZvb2QaBWZvb2RzGgVtZWFscxoHdG9wbWVhbBoHbWVhbGtpdBoPbWVhbGtpdGRlbGl2ZXJ5KjcKA2tpdBXt4AE_GgRraXRzGgdtZWFsa2l0Gg9tZWFsa2l0ZGVsaXZlcnkaC2tpdGRlbGl2ZXJ5Kj8KCGRlbGl2ZXJ5FZ1sjUAaD21lYWxraXRkZWxpdmVyeRoLa2l0ZGVsaXZlcnkaEGRlbGl2ZXJ5c2VydmljZXMqTAoIc2VydmljZXMV9r6OQBoJY29tcGFuaWVzGgpmYWNpbGl0aWVzGglyZXNvdXJjZXMaB3NlcnZpY2UaEGRlbGl2ZXJ5c2VydmljZXMqCgoDZm9yFQAAAAAqKwoIZmFtaWxpZXMVrG2uPhoGZmFtaWx5GgNraWQaBGtpZHMaB3BhcmVudHMy6AEvZ290bz91cmw9Q0FFU29RRUI2enN3RmRIeUNRcEZwMUUzdVRVOHc4WkRzcHNwcTNidV9iLTlaeEFKNkFZUVdWQkJoWUhhbHpLTmllVWxiSjVZLVBhaEt6NHBoc3JhUkxHd3BTSDhkTVZNdTNvUUVKaUNSOUR5Z0Joc1QzUXkzQm5ocXpFaEJ0MGJxbDEtSFVVRWE5M3g4clFzcUFENG91YkRsTFYxaDBmMzR6QnZLOWZybmVHaXNtS1I5ZHF0TzFCXzNRamlpYjN3bDBpTEQtWWVMNzhrVGxleWpaTDBSN3ViTWRFZHFnOkw0IDxiPkJlc3Q8L2I-IFZlZ2FuIDxiPk1lYWwgRGVsaXZlcnkgU2VydmljZXM8L2I-IDIwMjYgLSA8Yj5Gb29kPC9iPiBOZXR3b3JrQpsBPGI-R3JlZW4gQ2hlZiBwcm92aWRlcyB2ZWdhbiBtZWFscyBkZWxpdmVyZWQgc3RyYWlnaHQgdG8geW91ciBkb29yc3RlcDwvYj4uIEV2ZXJ5IHdlZWsgY3VzdG9tZXJzIGNhbiBicm93c2UgdGhyb3VnaCA4MCsgbWVhbCBvcHRpb25zIGluIGNhdGVnb3JpZXMmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "Food Network",
+      "read_more_link": "https://www.foodnetwork.com/how-to/packages/shopping/product-reviews/best-vegan-meal-delivery-services#:~:text=Green%20Chef%20provides%20vegan%20meals,80%2B%20meal%20options%20in%20categories"
+    },
+    {
+      "position": 7,
+      "title": "Best meal prep delivery services and cooking kits",
+      "link": "https://www.myimperfectlife.com/buying-guides/best-meal-prep-delivery-services",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFR18XUB5XB82OLRtGpMR7t7g-QRAP2eoj2WhXrmLglAioY5T0L3WZfVQP--kAtjwwnYQLsnMR4jo3XxrzjvWqClFn_raXnmDFJWoT-sRN1VFw7p2-yB3TgtCnrU5f7UNT8L5rxbAMrK4CQz9rSZL0khzZjZdrkemDasc_ksPNZJQSmFm8g&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQFnoECEcQAQ&uoh=1",
+      "displayed_link": "https://www.myimperfectlife.com › buying-guides › be...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA7ElEQVR4AXXSIWzDMBCF4QcPGYQUPDISGFY2MjgSzkbLpZCy0ELjSCGDpaaDZUFF4yoPsxR0jdUmrRz7p590fsBgPoJEpoDihmROCFjNZAF0OexW_NVXvo2wqVeb2ER4xKK-xDFGwffTjMTYgPgK9mGI-OxYFJRPVTE0pY9Q_W7WvQ4wpf7HZ2_TfNBUeqWeD5u1Ny1n5ahuuxa4amVQ6wWJtfjRqapVLTZrnbVn1TDzYq1bsddMPSBtDk8C4tQvdX4B51wHghSsjQ8a98s3eeuJAwqGUthjxxweQCbRh-eYRmn_UDCDFJA5jLsD6WyenR3xnqgAAAAASUVORK5CYII.png",
+      "date": "Oct 6, 2022",
+      "snippet": "Our pick of the best meal prep delivery services on the market. We've done the testing so you can order and cook delicious, easy meals with ...",
+      "snippet_highlighted_words": [
+        "best meal prep delivery services on the market"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our pick of the best meal prep delivery services on the market. We've done the testing so you can order and cook delicious, easy meals with ...",
+          "source_info_link": "https://www.myimperfectlife.com/buying-guides/best-meal-prep-delivery-services",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA7ElEQVR4AXXSIWzDMBCF4QcPGYQUPDISGFY2MjgSzkbLpZCy0ELjSCGDpaaDZUFF4yoPsxR0jdUmrRz7p590fsBgPoJEpoDihmROCFjNZAF0OexW_NVXvo2wqVeb2ER4xKK-xDFGwffTjMTYgPgK9mGI-OxYFJRPVTE0pY9Q_W7WvQ4wpf7HZ2_TfNBUeqWeD5u1Ny1n5ahuuxa4amVQ6wWJtfjRqapVLTZrnbVn1TDzYq1bsddMPSBtDk8C4tQvdX4B51wHghSsjQ8a98s3eeuJAwqGUthjxxweQCbRh-eYRmn_UDCDFJA5jLsD6WyenR3xnqgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZSMThYVUI1WEI4Mk9MUnRHcE1SN3Q3Zy1RUkFQMmVvajJXaFhybUxnbEFpb1k1VDBMM1daZlZRUC0ta0F0and3bllRTHNuTVI0am8zWHhyemp2V3FDbEZuX3JhWG5tREZKV29ULXNSTjFWRnc3cDIteUIzVGd0Q25yVTVmN1VOVDhMNXJ4YkFNcks0Q1F6OXJTWkwwa2h6WmpaZHJrZW1EYXNjX2tzUE5aSlFTbUZtOGcSBBoCCAAa3wYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC5BggAEAAYACAAKiIKA3RvcBVCBZA9GgRiZXN0Ggdjb21wYXJlGgd0b3BtZWFsKkoKBG1lYWwVrtzSQBoGZGlubmVyGgRmb29kGgVmb29kcxoFbWVhbHMaB3RvcG1lYWwaB21lYWxraXQaD21lYWxraXRkZWxpdmVyeSo3CgNraXQVAAAAABoEa2l0cxoHbWVhbGtpdBoPbWVhbGtpdGRlbGl2ZXJ5GgtraXRkZWxpdmVyeSo_CghkZWxpdmVyeRVsFdBAGg9tZWFsa2l0ZGVsaXZlcnkaC2tpdGRlbGl2ZXJ5GhBkZWxpdmVyeXNlcnZpY2VzKkwKCHNlcnZpY2VzFXjRwEAaCWNvbXBhbmllcxoKZmFjaWxpdGllcxoJcmVzb3VyY2VzGgdzZXJ2aWNlGhBkZWxpdmVyeXNlcnZpY2VzKgoKA2ZvchUAAAAAKisKCGZhbWlsaWVzFTmDrTwaBmZhbWlseRoDa2lkGgRraWRzGgdwYXJlbnRzMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZSMThYVUI1WEI4Mk9MUnRHcE1SN3Q3Zy1RUkFQMmVvajJXaFhybUxnbEFpb1k1VDBMM1daZlZRUC0ta0F0and3bllRTHNuTVI0am8zWHhyemp2V3FDbEZuX3JhWG5tREZKV29ULXNSTjFWRnc3cDIteUIzVGd0Q25yVTVmN1VOVDhMNXJ4YkFNcks0Q1F6OXJTWkwwa2h6WmpaZHJrZW1EYXNjX2tzUE5aSlFTbUZtOGc6RjxiPkJlc3QgbWVhbDwvYj4gcHJlcCA8Yj5kZWxpdmVyeSBzZXJ2aWNlczwvYj4gYW5kIGNvb2tpbmcgPGI-a2l0czwvYj5CnwFPdXIgcGljayBvZiB0aGUgPGI-YmVzdCBtZWFsIHByZXAgZGVsaXZlcnkgc2VydmljZXMgb24gdGhlIG1hcmtldDwvYj4uIFdlJiMzOTt2ZSBkb25lIHRoZSB0ZXN0aW5nIHNvIHlvdSBjYW4gb3JkZXIgYW5kIGNvb2sgZGVsaWNpb3VzLCBlYXN5IG1lYWxzIHdpdGgmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZSMThYVUI1WEI4Mk9MUnRHcE1SN3Q3Zy1RUkFQMmVvajJXaFhybUxnbEFpb1k1VDBMM1daZlZRUC0ta0F0and3bllRTHNuTVI0am8zWHhyemp2V3FDbEZuX3JhWG5tREZKV29ULXNSTjFWRnc3cDIteUIzVGd0Q25yVTVmN1VOVDhMNXJ4YkFNcks0Q1F6OXJTWkwwa2h6WmpaZHJrZW1EYXNjX2tzUE5aSlFTbUZtOGcSBBoCCAAa3wYSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkC5BggAEAAYACAAKiIKA3RvcBVCBZA9GgRiZXN0Ggdjb21wYXJlGgd0b3BtZWFsKkoKBG1lYWwVrtzSQBoGZGlubmVyGgRmb29kGgVmb29kcxoFbWVhbHMaB3RvcG1lYWwaB21lYWxraXQaD21lYWxraXRkZWxpdmVyeSo3CgNraXQVAAAAABoEa2l0cxoHbWVhbGtpdBoPbWVhbGtpdGRlbGl2ZXJ5GgtraXRkZWxpdmVyeSo_CghkZWxpdmVyeRVsFdBAGg9tZWFsa2l0ZGVsaXZlcnkaC2tpdGRlbGl2ZXJ5GhBkZWxpdmVyeXNlcnZpY2VzKkwKCHNlcnZpY2VzFXjRwEAaCWNvbXBhbmllcxoKZmFjaWxpdGllcxoJcmVzb3VyY2VzGgdzZXJ2aWNlGhBkZWxpdmVyeXNlcnZpY2VzKgoKA2ZvchUAAAAAKisKCGZhbWlsaWVzFTmDrTwaBmZhbWlseRoDa2lkGgRraWRzGgdwYXJlbnRzMsgBL2dvdG8_dXJsPUNBRVNpUUVCNnpzd0ZSMThYVUI1WEI4Mk9MUnRHcE1SN3Q3Zy1RUkFQMmVvajJXaFhybUxnbEFpb1k1VDBMM1daZlZRUC0ta0F0and3bllRTHNuTVI0am8zWHhyemp2V3FDbEZuX3JhWG5tREZKV29ULXNSTjFWRnc3cDIteUIzVGd0Q25yVTVmN1VOVDhMNXJ4YkFNcks0Q1F6OXJTWkwwa2h6WmpaZHJrZW1EYXNjX2tzUE5aSlFTbUZtOGc6RjxiPkJlc3QgbWVhbDwvYj4gcHJlcCA8Yj5kZWxpdmVyeSBzZXJ2aWNlczwvYj4gYW5kIGNvb2tpbmcgPGI-a2l0czwvYj5CnwFPdXIgcGljayBvZiB0aGUgPGI-YmVzdCBtZWFsIHByZXAgZGVsaXZlcnkgc2VydmljZXMgb24gdGhlIG1hcmtldDwvYj4uIFdlJiMzOTt2ZSBkb25lIHRoZSB0ZXN0aW5nIHNvIHlvdSBjYW4gb3JkZXIgYW5kIGNvb2sgZGVsaWNpb3VzLCBlYXN5IG1lYWxzIHdpdGgmbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAFgAaAA",
+      "source": "My Imperfect Life"
+    }
+  ],
+  "perspectives": [
+    {
+      "author": "Mili Godio",
+      "source": "NBC News",
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab7ed95a68855b268585ec5/images/Q23Zgqz8GgiwaNt5WtJdTAgTHWu0-tQJwpZSawnGi_4.jpeg"
+      ],
+      "title": "We tested more than a dozen meal delivery services — these are the ones we recommend",
+      "link": "https://www.nbcnews.com/select/shopping/best-meal-delivery-services-rcna224305",
+      "date": "1 week ago"
+    },
+    {
+      "author": "Matthew Korfhage",
+      "source": "WIRED",
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab7ed95a68855b268585ec5/images/qJ9Y1OfQGvdvquSQ2YgM2gqSe2nUK6Qcb_rFoGio8po.jpeg"
+      ],
+      "title": "I Tried Two Dozen Meal Kits This Year. These Are the Best Ones",
+      "link": "https://www.wired.com/gallery/best-meal-kit-services-1/",
+      "date": "1 week ago"
+    },
+    {
+      "author": "David Watsky",
+      "source": "CNET",
+      "thumbnails": [
+        "https://serpapi.com/searches/6ab7ed95a68855b268585ec5/images/LPgcGifqZk8qvvpg55XTSHiVmUO2AX-TSZuQ7ggxThg.jpeg"
+      ],
+      "title": "The Best Meal Kit Delivery Services Out of More Than 30 Tested",
+      "link": "https://www.cnet.com/health/nutrition/best-meal-kit-delivery-service/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Stefani Sassos",
+      "source": "Good Housekeeping",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ESnVPCVoccPE_5aT-XvHv3gfAX3ocBNickEq0jb98Y5KqJ1uhcAEhh6zVQ&usqp=CAI&s"
+      ],
+      "title": "I Test Meal Delivery Services for a Living—Here Are the Ones Worth Your Money",
+      "link": "https://www.goodhousekeeping.com/what-to-buy/g32056950/best-meal-delivery-services/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Kelli McGrane",
+      "source": "Yahoo Health",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7PCB3Ae5IfxqsTOvR5sWxb_H4mhAl7xRnWGOPRT5j6t8A0ZxsFWR5AyoBpg&usqp=CAI&s"
+      ],
+      "title": "6 best prepared meal delivery services in 2026, tested and reviewed by a dietitian",
+      "link": "https://health.yahoo.com/wellness/nutrition/meal-kits/article/best-prepared-meal-delivery-service-183520548.html",
+      "date": "2 weeks ago"
+    },
+    {
+      "author": "AI Model Rankings",
+      "source": "LinkedIn",
+      "extensions": [
+        "190+ reactions "
+      ],
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7x9Q2jBKvQCLoOicYJ-MPDPzIvbJcc0fV-aoACY29w3Q36bcgh6Lxzo3omA&usqp=CAI&s"
+      ],
+      "title": "Best Meal-Kit Delivery Services of 2026 in USA",
+      "link": "https://www.linkedin.com/pulse/best-meal-kit-delivery-services-2026-usa-llmrecommend-rankings-kx8wc",
+      "date": "Jul 29, 2026"
+    },
+    {
+      "author": "Annamarie Higley",
+      "source": "Taste of Home",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAM5rPR-350NGW3EE5CyvZ520anDWWeJ12sIQYGDf7AVBPlT3IOPhpPYcx-g&usqp=CAI&s"
+      ],
+      "title": "The 7 Best Family-Friendly Meal Kits: We Taste-Tested & Reviewed Them",
+      "link": "https://www.tasteofhome.com/collection/best-meal-delivery-services-for-families/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Smart Spending",
+      "source": "YouTube",
+      "duration": "8:48",
+      "extensions": [
+        "780+ views "
+      ],
+      "thumbnails": [
+        "https://img.youtube.com/vi/dDretLNyddY/hqdefault.jpg"
+      ],
+      "title": "Best Home Meal Delivery Service | Fresh vs Frozen: Which Is Better at Home",
+      "link": "https://www.youtube.com/watch?v=dDretLNyddY",
+      "date": "1 week ago",
+      "video": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTuhwkWK7G0JhwUKO7rx0ra1a3DevCsWMKP6g"
+    },
+    {
+      "author": "Alaina Chou",
+      "source": "Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDOkTVYiufByS4fDjDIVGBzSzSqzvrd3RQ3vvoZpxppTKYXvyNMmtkq8fOiA&usqp=CAI&s"
+      ],
+      "title": "I've Tried Every Meal Delivery Service and, Honestly, Only a Few Are Worth Your Money",
+      "link": "https://www.bonappetit.com/story/best-meal-delivery-services",
+      "date": "1 month ago"
+    },
+    {
+      "author": "USA TODAY 10BEST",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwUVt9Ismn5rlX_uuPSroqUfZ5kFyqIu6fsKq6DzjDICCyNl2e3U8TZpDMgQ&usqp=CAI&s"
+      ],
+      "title": "Mealtime is made easy with 10 best meal delivery services of 2026",
+      "link": "https://10best.usatoday.com/awards/best-meal-delivery-service/",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Monica Petrucci, Madison Trapkin, Danielle DeSiato",
+      "source": "Reviewed",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX4PKJHkMXGNJ2wbM_OmsI0YHQWZdo7UgesLmir2aYL3aSGn6Aaod9aTXZrQ&usqp=CAI&s"
+      ],
+      "title": "The Best Meal Kit Delivery Services of 2026",
+      "link": "https://www.reviewed.com/cooking/best-right-now/the-best-meal-kit-delivery-services",
+      "date": "1 month ago"
+    },
+    {
+      "author": "Soumya Kumar",
+      "source": "Mashable",
+      "thumbnails": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6qzgs3YoF_joF8OLhY73P--Jgtt1KypujZ-96Di39j8WMBY_kWlf2bQmSgQ&usqp=CAI&s"
+      ],
+      "title": "The best meal kit delivery deals in 2026: Save on HelloFresh, Home Chef, and more",
+      "link": "https://mashable.com/life/best-meal-kit-delivery-deals-2026",
+      "date": "1 month ago"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Meal Kit Service For Family",
+      "link": "https://www.reddit.com/r/ReadyMeals/comments/vhnooy/meal_kit_service_for_family/",
+      "date": "4 years ago",
+      "extensions": [
+        "r/ReadyMeals",
+        "3 comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/ReadyMeals/comments/vhnooy/meal_kit_service_for_family/"
+        }
+      ]
+    },
+    {
+      "title": "What are the best meal delivery kits?",
+      "link": "https://www.facebook.com/groups/lowerpaxtoncommunity/posts/24618951551111301/",
+      "date": "9 months ago",
+      "extensions": [
+        "Lower Paxton Township Communit…",
+        "10+ comments"
+      ],
+      "source": "Facebook",
+      "answers": [
+        {
+          "link": "https://www.facebook.com/groups/lowerpaxtoncommunity/posts/24618951551111301/",
+          "extensions": [
+            "Top answer",
+            "2 votes",
+            "9 months ago"
+          ]
+        },
+        {
+          "link": "https://www.facebook.com/groups/lowerpaxtoncommunity/posts/24618951551111301/",
+          "extensions": [
+            "9 months ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Meal delivery that is high in taste and quality?",
+      "link": "https://www.reddit.com/r/mealkits/comments/1m2pntc/meal_delivery_that_is_high_in_taste_and_quality/",
+      "date": "1 year ago",
+      "extensions": [
+        "r/mealkits",
+        "4 comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/mealkits/comments/1m2pntc/comment/n3qwwxi/",
+          "extensions": [
+            "Top answer",
+            "5 votes",
+            "a year ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/mealkits/comments/1m2pntc/comment/n40pnqc/",
+          "extensions": [
+            "2 votes",
+            "a year ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/mealkits/comments/1m2pntc/meal_delivery_that_is_high_in_taste_and_quality/n3qwfqc/",
+          "extensions": [
+            "2 votes",
+            "a year ago"
+          ]
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+meal+kit+delivery+services+for+families&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnt0LAFTjqhE1Wi8C6NIENJ7WeGoog:1790438805717&ei=le23aviiK8ns1e8P4J_9uAE&start=10&sa=N&sstk=AS6-VmJdmPuNDtbF6fabqVGlrUhJVYQsqU5bWsLuvNWMBMowuQB-8ThKyRjH3ib7kYJddtgGsfaC0zXeLj1kVqPJcgdBKRnVEFBf4w&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQ8NMDegQIRBAM",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+meal+kit+delivery+services+for+families&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnt0LAFTjqhE1Wi8C6NIENJ7WeGoog:1790438805717&ei=le23aviiK8ns1e8P4J_9uAE&start=10&sa=N&sstk=AS6-VmJdmPuNDtbF6fabqVGlrUhJVYQsqU5bWsLuvNWMBMowuQB-8ThKyRjH3ib7kYJddtgGsfaC0zXeLj1kVqPJcgdBKRnVEFBf4w&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQ8tMDegQIRBAE",
+      "3": "https://www.google.com/search?q=top+meal+kit+delivery+services+for+families&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnt0LAFTjqhE1Wi8C6NIENJ7WeGoog:1790438805717&ei=le23aviiK8ns1e8P4J_9uAE&start=20&sa=N&sstk=AS6-VmJdmPuNDtbF6fabqVGlrUhJVYQsqU5bWsLuvNWMBMowuQB-8ThKyRjH3ib7kYJddtgGsfaC0zXeLj1kVqPJcgdBKRnVEFBf4w&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQ8tMDegQIRBAG",
+      "4": "https://www.google.com/search?q=top+meal+kit+delivery+services+for+families&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnt0LAFTjqhE1Wi8C6NIENJ7WeGoog:1790438805717&ei=le23aviiK8ns1e8P4J_9uAE&start=30&sa=N&sstk=AS6-VmJdmPuNDtbF6fabqVGlrUhJVYQsqU5bWsLuvNWMBMowuQB-8ThKyRjH3ib7kYJddtgGsfaC0zXeLj1kVqPJcgdBKRnVEFBf4w&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQ8tMDegQIRBAI",
+      "5": "https://www.google.com/search?q=top+meal+kit+delivery+services+for+families&sca_esv=700c7e79aa3b521d&hl=en&gl=us&sxsrf=APpeQnt0LAFTjqhE1Wi8C6NIENJ7WeGoog:1790438805717&ei=le23aviiK8ns1e8P4J_9uAE&start=40&sa=N&sstk=AS6-VmJdmPuNDtbF6fabqVGlrUhJVYQsqU5bWsLuvNWMBMowuQB-8ThKyRjH3ib7kYJddtgGsfaC0zXeLj1kVqPJcgdBKRnVEFBf4w&ved=2ahUKEwi4wYao0IyXAxVJdvUHHeBPHxcQ8tMDegQIRBAK"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+meal+kit+delivery+services+for+families&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+meal+kit+delivery+services+for+families&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+meal+kit+delivery+services+for+families&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+meal+kit+delivery+services+for+families&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+meal+kit+delivery+services+for+families&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+meal+kit+delivery+services+for+families&start=40"
+    }
+  }
+}

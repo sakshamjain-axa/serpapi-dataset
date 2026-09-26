@@ -1,0 +1,857 @@
+{
+  "search_metadata": {
+    "id": "6ab809e3a39c28583f98de18",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/073WUpfL-CxQztGYy803rCnFeTy-08SXRFGVpYR6NVs/6ab809e3a39c28583f98de18.json",
+    "markdown_endpoint": "https://serpapi.com/searches/073WUpfL-CxQztGYy803rCnFeTy-08SXRFGVpYR6NVs/6ab809e3a39c28583f98de18.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/073WUpfL-CxQztGYy803rCnFeTy-08SXRFGVpYR6NVs/6ab809e3a39c28583f98de18.json_with_pixel_position",
+    "created_at": "2026-09-26 18:07:31 UTC",
+    "processed_at": "2026-09-26 18:07:31 UTC",
+    "google_url": "https://www.google.com/search?q=top+facemasks+for+dry+skin&oq=top+facemasks+for+dry+skin&uule=w+CAIQICIrV2FzaGluZ3RvbixEQyAoSGFnZXJzdG93bixNRCksVW5pdGVkIFN0YXRlcw&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/073WUpfL-CxQztGYy803rCnFeTy-08SXRFGVpYR6NVs/6ab809e3a39c28583f98de18.html",
+    "total_time_taken": 0.67
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top facemasks for dry skin",
+    "location_requested": "Washington, DC (Hagerstown, MD), United States",
+    "location_used": "Washington,DC (Hagerstown,MD),United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top facemasks for dry skin",
+    "total_results": 161000,
+    "time_taken_displayed": 0.29,
+    "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+    "spelling_fix": "top face masks for dry skin",
+    "showing_results_for": "top face masks for dry skin"
+  },
+  "immersive_products": [
+    {
+      "category": "More products",
+      "thumbnail": "https://serpapi.com/searches/6ab809e3a39c28583f98de18/images/DwjN9IZXMGWs62pqd_xNy6dnEIhWqckgLgCYTm_S6vI.webp",
+      "source_logo": "https://serpapi.com/searches/6ab809e3a39c28583f98de18/images/DwjN9IZXMGWs62pqd_xNy8Ps3sCsv9PpUsqtIds893tnQh6bJbNJYdohrPqvacUz.png",
+      "source": "Sephora",
+      "title": "Dr. Jart+ Cryo Rubber Moisturizing Mask",
+      "rating": 4.7,
+      "reviews": 817,
+      "price": "$16.50",
+      "extracted_price": 16.5,
+      "original_price": "$0.55/ml",
+      "extracted_original_price": 0.55,
+      "delivery": "Free delivery on $50+",
+      "immersive_product_page_token": "BSdd5XicbVNJjuNGEAT8Bv9CaKCquPsmiixKarHULJLF5TIgVZRIcasRqdYC_8FvsHrGwPg4Y8CAf9J-jTk-zzUjIzIyE_Hbo6j-li-tnPWB-7yrWjF6L63efjzM3S_i1PPzbqz4N0PWEdChoRhI1jVFkjT4ZZeNWdMfKv4XVJAMDVWSNVWTVQSBoaKvZZHxpuqK7X5fnKx-971PM5AKgK5qQJGhpBqarP1Ztdmh-B__piCgIF3TwdSgIklCAL2d-PCOXhYfZKAYQEMS0CZ5zZAMWfn1hW6tDz_GPn88F6fbP2MvZvtsV7TZUA-zfX-a8dNtNtRV9_kgvo_8AfWtrfhXRVOnTXRDV6ECAQRAexOv4-_Zp_O5Kd6ty2wxX3mrxerEEL5nTnNOJfqaV1fbu81738FdGq_v3DGkqUbooh5YpAjusHqFCUhi2uwuj0PzOA-PsnkU3R99Jl73u39_-tnuL9ZiuCy8UAhmURDY4BJZWCTgAFnNBA3hc3RM15SJzu04yCJOs2Xq-VgsWMdHYq83m0hB8b28saWJPNjULGDlJt4h99jIpMOY1akZ1WmbR6FE0bhynbTkDk-SWrnyo0mSyTm7r0OOWJovYEs70ywcsffqGlJmZtxOrgFIa7fGd78dl5uI3YJwtFmAa4Ya14_xZmtfF8zpoYuEIEAIbuFNGtPIA43sO2yTgHEfHFNpZ5lltlxfgno0A9w8J4G58hjFvt1IMTzceczaTVieiyUdilDUYWQ01Bk7P27UdEnSBAqHgDIgEkkzaDAXUTufWFsbioKVQ4L4c1GLO0HlkTasypn5whx9-hk5BiFU0hYvyJLcwyOevPZjKJHWDdJ92Oi3HAwoatk66kpnZ81vPO7lsMGCBesxD3BQ2MNIrLSbrugEoRK7EKd57Pr4TqU8oGUOKfEREXlsgpCZ49aB1xRg4lRrky7JbRulftK5I-1WkNlU3kQkcW0FTTqv22WJODNtL1ybn67Daf8O5lgZ_a32BJ7yTNOdcLtc0Wm_ij1djmZ1itHllylhQJbVKUYAgf8AME9FkA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=BSdd5XicbVNJjuNGEAT8Bv9CaKCquPsmiixKarHULJLF5TIgVZRIcasRqdYC_8FvsHrGwPg4Y8CAf9J-jTk-zzUjIzIyE_Hbo6j-li-tnPWB-7yrWjF6L63efjzM3S_i1PPzbqz4N0PWEdChoRhI1jVFkjT4ZZeNWdMfKv4XVJAMDVWSNVWTVQSBoaKvZZHxpuqK7X5fnKx-971PM5AKgK5qQJGhpBqarP1Ztdmh-B__piCgIF3TwdSgIklCAL2d-PCOXhYfZKAYQEMS0CZ5zZAMWfn1hW6tDz_GPn88F6fbP2MvZvtsV7TZUA-zfX-a8dNtNtRV9_kgvo_8AfWtrfhXRVOnTXRDV6ECAQRAexOv4-_Zp_O5Kd6ty2wxX3mrxerEEL5nTnNOJfqaV1fbu81738FdGq_v3DGkqUbooh5YpAjusHqFCUhi2uwuj0PzOA-PsnkU3R99Jl73u39_-tnuL9ZiuCy8UAhmURDY4BJZWCTgAFnNBA3hc3RM15SJzu04yCJOs2Xq-VgsWMdHYq83m0hB8b28saWJPNjULGDlJt4h99jIpMOY1akZ1WmbR6FE0bhynbTkDk-SWrnyo0mSyTm7r0OOWJovYEs70ywcsffqGlJmZtxOrgFIa7fGd78dl5uI3YJwtFmAa4Ya14_xZmtfF8zpoYuEIEAIbuFNGtPIA43sO2yTgHEfHFNpZ5lltlxfgno0A9w8J4G58hjFvt1IMTzceczaTVieiyUdilDUYWQ01Bk7P27UdEnSBAqHgDIgEkkzaDAXUTufWFsbioKVQ4L4c1GLO0HlkTasypn5whx9-hk5BiFU0hYvyJLcwyOevPZjKJHWDdJ92Oi3HAwoatk66kpnZ81vPO7lsMGCBesxD3BQ2MNIrLSbrugEoRK7EKd57Pr4TqU8oGUOKfEREXlsgpCZ49aB1xRg4lRrky7JbRulftK5I-1WkNlU3kQkcW0FTTqv22WJODNtL1ybn67Daf8O5lgZ_a32BJ7yTNOdcLtc0Wm_ij1djmZ1itHllylhQJbVKUYAgf8AME9FkA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://serpapi.com/searches/6ab809e3a39c28583f98de18/images/DwjN9IZXMGWs62pqd_xNy1iwn350ysf4JYRR0Llo4UY.webp",
+      "source_logo": "https://serpapi.com/searches/6ab809e3a39c28583f98de18/images/DwjN9IZXMGWs62pqd_xNywrd52DymPG2UGdEuObHaS4lpxbOBiGodVxHYvLAnN5E.png",
+      "source": "Song of Skin",
+      "title": "Beauty of Joseon Ground Rice and Honey Glow Mask",
+      "rating": 4.7,
+      "reviews": 4800,
+      "price": "$18.00",
+      "extracted_price": 18.0,
+      "immersive_product_page_token": "oKwoy3icdY1LjqNGAIalnCG3sCLVAzDOrjGUbRyX21VQPDYjoLDBFKYa4_ZDc4ecIe6ZSJPlJFKk3KRzmjhRlsni3_zf__jxXta_G-fWyLpgtSzqVg-b59ZuX3ZPqy-67-SpGGr5qw3RBJgAQgBNbBuWYaMvRTZkqts9qAEnljWemHg8toFtW3BsfK3KTKr6UK6327J3u6KWv0EExxhBAyJgP6bQGJv2L3Wb7cp_ufl3YAwtgCwLYvSI4bdeHt-N5-kHaENgYGCYyISWbSFsQ_PjM1u7H_4Hfn45lf31j6HTo21WlG12bI6jbdePZH8dHZv68Hmn_3n9j-5bW8uv5tgyLGSb2MTWGD4getOvw0_Zp9NJle_ueTR9WmwW00UvELllM3VKMXvN64u3uT51fEYOaezf5GyCHx5l0-YoIlPLmWgWhIIkZqo433fqfjreK3UvDz93mX7dFn9-863Xnd3p8TzdhFoLlwEeOMlDm3BPhWxMnQAC0z2Js_0GhZ6cFZ4poogNSUMvmwPTISZT2jYoESmnEUt5nMYlhyJRNipauRbYBwyJJm3lQbaDWTQsLZB8CZGcrrCzjGJH5M1lGu6dIUYskUots5he8pm6hkEK5Y26HC-QBDRLI8I32PfWRKdcVTiB-rz2Vji_OTU_VGEZXhreVice6z5Apo6C1Iix4NK7DOVB3ARULFT-czZvjBB113yurHXg4eJGG4arZu1WZ9FUOCfkNVf6SLHwuVAJ95Qhsb9Yuc4ijRiT-4qLmX_j4dCEofBkuLsyz4TUq0QWVLoQlOZ71ZaN0JvYcR4dLweLayR0n9TwmbY6ywFZxcCnGdFV0oihQCouW9gGxJnnbZpKMJxjLOvMJTWPjrAM6Ja1ZMjFZLWCSomYGdm8g6myObkxnAesyiGjHFGdxw4IhTOsZ_CSAkJnte-wOb2uozSI0cTKiQyYYP5KCBgDkhSRFIWr_HBmcomJ8-ly7Lfv4ImYA19b1x_kUiz9-XdOX-yyM72htp5Ye2Prbb6H4wkwDAuYCCD4F-E_R7g",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=oKwoy3icdY1LjqNGAIalnCG3sCLVAzDOrjGUbRyX21VQPDYjoLDBFKYa4_ZDc4ecIe6ZSJPlJFKk3KRzmjhRlsni3_zf__jxXta_G-fWyLpgtSzqVg-b59ZuX3ZPqy-67-SpGGr5qw3RBJgAQgBNbBuWYaMvRTZkqts9qAEnljWemHg8toFtW3BsfK3KTKr6UK6327J3u6KWv0EExxhBAyJgP6bQGJv2L3Wb7cp_ufl3YAwtgCwLYvSI4bdeHt-N5-kHaENgYGCYyISWbSFsQ_PjM1u7H_4Hfn45lf31j6HTo21WlG12bI6jbdePZH8dHZv68Hmn_3n9j-5bW8uv5tgyLGSb2MTWGD4getOvw0_Zp9NJle_ueTR9WmwW00UvELllM3VKMXvN64u3uT51fEYOaezf5GyCHx5l0-YoIlPLmWgWhIIkZqo433fqfjreK3UvDz93mX7dFn9-863Xnd3p8TzdhFoLlwEeOMlDm3BPhWxMnQAC0z2Js_0GhZ6cFZ4poogNSUMvmwPTISZT2jYoESmnEUt5nMYlhyJRNipauRbYBwyJJm3lQbaDWTQsLZB8CZGcrrCzjGJH5M1lGu6dIUYskUots5he8pm6hkEK5Y26HC-QBDRLI8I32PfWRKdcVTiB-rz2Vji_OTU_VGEZXhreVice6z5Apo6C1Iix4NK7DOVB3ARULFT-czZvjBB113yurHXg4eJGG4arZu1WZ9FUOCfkNVf6SLHwuVAJ95Qhsb9Yuc4ijRiT-4qLmX_j4dCEofBkuLsyz4TUq0QWVLoQlOZ71ZaN0JvYcR4dLweLayR0n9TwmbY6ywFZxcCnGdFV0oihQCouW9gGxJnnbZpKMJxjLOvMJTWPjrAM6Ja1ZMjFZLWCSomYGdm8g6myObkxnAesyiGjHFGdxw4IhTOsZ_CSAkJnte-wOb2uozSI0cTKiQyYYP5KCBgDkhSRFIWr_HBmcomJ8-ly7Lfv4ImYA19b1x_kUiz9-XdOX-yyM72htp5Ye2Prbb6H4wkwDAuYCCD4F-E_R7g"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://serpapi.com/searches/6ab809e3a39c28583f98de18/images/DwjN9IZXMGWs62pqd_xNyzMEzEfeSq1ds-XGWAkEeWw.webp",
+      "source_logo": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8lJT0tMS0rLkY0Ix9GUDMuNyg9Mi4BCgoKDQwNGg8PGzclHyU1Ny41Kzc1Nzc3Nzc3Nys3Nzc3KzctNTUtKzUtLTU1KzIyKysrKzcrKys3KysrKysrN__AABEIACAAIAMBIgACEQEDEQH_xAAYAAEBAQEBAAAAAAAAAAAAAAAHBgUEA__EACcQAAEDBAECBgMAAAAAAAAAAAECAwQABQYRIQcxEhMyUWFxIkGx_8QAFgEBAQEAAAAAAAAAAAAAAAAAAAMB_8QAFxEBAQEBAAAAAAAAAAAAAAAAAQBBEf_aAAwDAQACEQMRAD8AO6sonTPI5cVmSy3GLTzYcQS-AdEAjjXsajaTep0qRFsGImLIdZKoitltZTvSGvY1rQA51oe-43d7AtIusJbKVnSHNhSVH28QOt_HesqlTp3eXMthzsYyFapaFMFxl5zlaQCAee5IJCgTzRfIZVHkOsLIKm1lBI7bB5_lBiaXnSd1MhyplhxBMOK8-oRFbDSCoj8GtcAfFGNWEbqXkkaGzFYejpbZbDaD5AJAAAH2dCjBNqXALM5h0Cdk2RIMXTPlMML4WdkHt-iSAADz6t0WyHlSH3H168Tiis67bJ5rvvWQXa_Opcus12QU-lJ0Ep-kgaB-dVm0CLhf_9k.jpeg",
+      "source": "drmtlgy.com",
+      "title": "DRMTLGY Barrier Repair Mask",
+      "rating": 4.6,
+      "reviews": 657,
+      "price": "$35.42",
+      "extracted_price": 35.42,
+      "original_price": "Usually $46",
+      "extracted_original_price": 46,
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "rAGl0HicbZNNjqNGFMelnCG3aEWqgqrCZNfYFDY9QFMUBWYzwhR201CGNtjYKHfIGdI9E2mynBkpUm7SOU1Q1rN7ej-9_8fi_f5aVn-jUaG85d5DUaluCB_VQr0c7r0v3amV52Ko5DdNQwTqEBo6MUzTMHVsfinyIW_aQyW_Qww0ExCIMSQGWhgGJvDrU5nLpjqWwX5fnlZtUcmv5mKBZkaAQRYa0ADU_6pUfij_p98hIBpBCGsIaWQWMjXNeDvJ_l17XH5ExAA6WCwARrO5sVgQ_bdHFqw-_ph9fjmXp9s_Q9vd7fOiVHlf93f79nQnT7e7vq6Onw_d7PntB6dvak6KDYKINsc0CZ4rGyZ56y7DH_mn87kp31fj3fJ-E26Wm5PQ6JQ7zTnT2WVXXe3wdt9GDj1mqTtJx9Tnnc-WdS8S3ElH1Bvqg23KmmJ8PTSv5_71qXktj3-2eXfZF__-9LPdjqtlPy7DuOvEioFISJVOMhKCoWDVqB2wr57mruTa1aJ59ONsk4JhTOKB-DycstqtuIIstt06hV2wFZbIE_jiT8LJeD3xiTUZl06sOjd6zsJQuSSxcbw70pWAbJ2rZhtE0CqpdWHUX-ZxrxURHEKAYx4PYS7qkQtReUlzyZ4LnXN229lmFNhYibW7jtZWWBy3OKOdHsawzijLvLX0vFqs_Njde4L2kfDtHGwnKWLAQX2TCb75egFSKLt02qAkyUb2LB59RfO5B_NqfImADZizHcNJZvEklaQZ8RqLJqnAjMpAiEztmoZEjbksFD7nGt0HthtyKnrJt0jore4r7CSUshQsrhF0V7FmX-cuJx7bM7daQcVR6E_oA89Gn5qPBbTHiIqaQRvM-oTb_TVZZ2ibyGt5tDjTBQoVwoJuYHH0hqKm9rZuIzoxfcfZ0w4yP9L8bpdaIBbWEDjwmgHqO5VrsbV_C5IsynmWS6fzE-5eojSzOXjCu2Q4l-vG4aqJdgk-frr2p_07uKd4iAJy-yAfxIO7_sU6FYd89CdNVSZ5Rns7_BUaJkCIADx_F_wP3pBE_Q",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=rAGl0HicbZNNjqNGFMelnCG3aEWqgqrCZNfYFDY9QFMUBWYzwhR201CGNtjYKHfIGdI9E2mynBkpUm7SOU1Q1rN7ej-9_8fi_f5aVn-jUaG85d5DUaluCB_VQr0c7r0v3amV52Ko5DdNQwTqEBo6MUzTMHVsfinyIW_aQyW_Qww0ExCIMSQGWhgGJvDrU5nLpjqWwX5fnlZtUcmv5mKBZkaAQRYa0ADU_6pUfij_p98hIBpBCGsIaWQWMjXNeDvJ_l17XH5ExAA6WCwARrO5sVgQ_bdHFqw-_ph9fjmXp9s_Q9vd7fOiVHlf93f79nQnT7e7vq6Onw_d7PntB6dvak6KDYKINsc0CZ4rGyZ56y7DH_mn87kp31fj3fJ-E26Wm5PQ6JQ7zTnT2WVXXe3wdt9GDj1mqTtJx9Tnnc-WdS8S3ElH1Bvqg23KmmJ8PTSv5_71qXktj3-2eXfZF__-9LPdjqtlPy7DuOvEioFISJVOMhKCoWDVqB2wr57mruTa1aJ59ONsk4JhTOKB-DycstqtuIIstt06hV2wFZbIE_jiT8LJeD3xiTUZl06sOjd6zsJQuSSxcbw70pWAbJ2rZhtE0CqpdWHUX-ZxrxURHEKAYx4PYS7qkQtReUlzyZ4LnXN229lmFNhYibW7jtZWWBy3OKOdHsawzijLvLX0vFqs_Njde4L2kfDtHGwnKWLAQX2TCb75egFSKLt02qAkyUb2LB59RfO5B_NqfImADZizHcNJZvEklaQZ8RqLJqnAjMpAiEztmoZEjbksFD7nGt0HthtyKnrJt0jore4r7CSUshQsrhF0V7FmX-cuJx7bM7daQcVR6E_oA89Gn5qPBbTHiIqaQRvM-oTb_TVZZ2ibyGt5tDjTBQoVwoJuYHH0hqKm9rZuIzoxfcfZ0w4yP9L8bpdaIBbWEDjwmgHqO5VrsbV_C5IsynmWS6fzE-5eojSzOXjCu2Q4l-vG4aqJdgk-frr2p_07uKd4iAJy-yAfxIO7_sU6FYd89CdNVSZ5Rns7_BUaJkCIADx_F_wP3pBE_Q"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://serpapi.com/searches/6ab809e3a39c28583f98de18/images/DwjN9IZXMGWs62pqd_xNyz1LzpvbF86I2EFh2xprjOc.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAB8AAAAgCAMAAADdXFNzAAAAP1BMVEUAAAAxMTGLi4t1dXWhoaEhISFBQUEAAAAAAADGxsatra1kZGROTk75-fm3t7dYWFiWlpbY2NgTExPk5OTs7Ox7ApccAAAACHRSTlPh________w7XfDUoAAADKSURBVCiR5ZDJbgNBCEQNDbjofZn__9bMKLE0cbzcnXdrnkQ1dbm-5oLX_DPfHnoamydm2PD4M0_55EOHicMW-j6mDahe7bQ_EBbyUD4eHsAxZtFzvpQuOmky2gpYQWB-8lpoIxTzmkYsaUVQvPm5Z-7_Ksaxi0gNsQ80b0O_faoICyhS2Dcp4BpqTeZ821-jHKfv0SAltZZJdd71Q0nch1cRDgftl1cvq6f5vN-pb_onSXkYSwIHltz_eFM1mBmUKEPv_RM-3r_hCy7hHphvSa0NAAAAAElFTkSuQmCC.png",
+      "source": "Kiehl's US",
+      "title": "Kiehl's Ultra Facial Overnight Hydrating Mask",
+      "rating": 4.3,
+      "reviews": 2100,
+      "price": "$33.75",
+      "extracted_price": 33.75,
+      "original_price": "$45",
+      "extracted_original_price": 45,
+      "delivery": "Free delivery on $50+",
+      "extensions": [
+        "25% OFF"
+      ],
+      "immersive_product_page_token": "Ph9FPnicdVNLbuNGEAVyhtzCGKA__Ck7S_yYHKtlNtktujcGxaZMiU2yLVKmJMwdcobIMwEmy5kAAXIT5zQhMMsgqFXVq6r3qlD167Xc_WWMjZF36fJjsWv0ED80TvPyfLv8qg-dPBbDTn63AEYIGcB2sGGjGQIm-lrkQ6665538E9rmhFsYAGwZBkK2acNvVZlLtWvL1XZbHtyumLogGxgTPsOmgRzkQAPbf-ya_Ln8AduOgUzs2Mi0bAtiYJnw7SD7d-Nh8TRRwJnlQDhJsA0HWlPmpwe6cp_-B_zyciwP57-HTt9s86Js8r7ub7bd4UYezjd9vWu_POvih_b_1L41O_nNtC1jchA2LWjPJnPe9OvwW_75eFTluzveLG7DOFyEB478Sx6oo8D0dbM7efH5tksCvxVZdJHBDE8xQhd1z9emlgGvQ5-Ax4yqYrw-q-uxv1bqWra_d7l-3Rb__PSz143uoh8XMdOauxSkHulyLEfiz1fLO_kgcdTHSBmrjLB4Pz_TrEo3UEDRCrxpGSxbHfB91DHlnXkgOgrMZgMdWO7roXTFC71TMUGyzi9Ryzy-ZI2pCk_B-7VomKdDipenGHKD1FLzZhblYBB5LR5Ipo40C4ciOI2Cz9tVEFlFwKOynb9yQLYJO2mWVV7JZiDmc0wySlMgQ4H4Oa6jZbGAkNb-VK-MOKumnVHGU2EkrY850Ils-SjWzrjE2iOeFLGKUD7NVrhyvfHliYHuJM8wyoDJJl5S-PO9ALpN7kSU1P6R8lkl93IgvnLjNbXKdG5KNrxsamgxpWnid5DjaCFAJYRXdYmvfZoqlyF1oPUIGC6MxJNe3uowx_Xpfi3jR9WNlA3hI4sum8A7E7fCCfN9CqIqB-rjck_ie6YG0vL7opktCkzWMYwT_0LxJqXVBlKSIKI32RwwPh9WATwJ4JNgF83pHTmv1iKddGdFq_AjlxVP6SoNxpHX3nm5Hvq18sOCa_r51B-27-DWN4dkZe2T6sNopINkIXsi1WF5Eb3lbhcVHH-ZbnV6Mmt6UIDQvxr1SHg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Ph9FPnicdVNLbuNGEAVyhtzCGKA__Ck7S_yYHKtlNtktujcGxaZMiU2yLVKmJMwdcobIMwEmy5kAAXIT5zQhMMsgqFXVq6r3qlD167Xc_WWMjZF36fJjsWv0ED80TvPyfLv8qg-dPBbDTn63AEYIGcB2sGGjGQIm-lrkQ6665538E9rmhFsYAGwZBkK2acNvVZlLtWvL1XZbHtyumLogGxgTPsOmgRzkQAPbf-ya_Ln8AduOgUzs2Mi0bAtiYJnw7SD7d-Nh8TRRwJnlQDhJsA0HWlPmpwe6cp_-B_zyciwP57-HTt9s86Js8r7ub7bd4UYezjd9vWu_POvih_b_1L41O_nNtC1jchA2LWjPJnPe9OvwW_75eFTluzveLG7DOFyEB478Sx6oo8D0dbM7efH5tksCvxVZdJHBDE8xQhd1z9emlgGvQ5-Ax4yqYrw-q-uxv1bqWra_d7l-3Rb__PSz143uoh8XMdOauxSkHulyLEfiz1fLO_kgcdTHSBmrjLB4Pz_TrEo3UEDRCrxpGSxbHfB91DHlnXkgOgrMZgMdWO7roXTFC71TMUGyzi9Ryzy-ZI2pCk_B-7VomKdDipenGHKD1FLzZhblYBB5LR5Ipo40C4ciOI2Cz9tVEFlFwKOynb9yQLYJO2mWVV7JZiDmc0wySlMgQ4H4Oa6jZbGAkNb-VK-MOKumnVHGU2EkrY850Ils-SjWzrjE2iOeFLGKUD7NVrhyvfHliYHuJM8wyoDJJl5S-PO9ALpN7kSU1P6R8lkl93IgvnLjNbXKdG5KNrxsamgxpWnid5DjaCFAJYRXdYmvfZoqlyF1oPUIGC6MxJNe3uowx_Xpfi3jR9WNlA3hI4sum8A7E7fCCfN9CqIqB-rjck_ie6YG0vL7opktCkzWMYwT_0LxJqXVBlKSIKI32RwwPh9WATwJ4JNgF83pHTmv1iKddGdFq_AjlxVP6SoNxpHX3nm5Hvq18sOCa_r51B-27-DWN4dkZe2T6sNopINkIXsi1WF5Eb3lbhcVHH-ZbnV6Mmt6UIDQvxr1SHg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://serpapi.com/searches/6ab809e3a39c28583f98de18/images/DwjN9IZXMGWs62pqd_xNywTXb58pBucA5lwSJmFHV5s.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACBElEQVRYhc2X4W3CMBCFP6IOkBFggyB5AJigdAJgg24AbJANKBPQDegAkeoNYISM0B--QJTcJYYi4EkISM7vns_n83nAlSggBTL5pPK4BDzgXfgdjUGk0yGwAN7FcRc8sAO-HZz-JUBmuwI-I3RqyIFNV1RMAQVMgD2XMN-KEvhw8KO9TAznC-BwB-cIx0E4W2hFQAy3keRevvvyosLSwZcpQMJ-6CA4cUkwX39RBBEzYE5IWgvT-nKcBUjCHbHDvnGw7iCui1kTkldDCYyqxKznwMpwXorqKOcAYjtFz_5qZwESAdnnR4NvamVwH3qWdOTgVEVgZhhtLOcFZAUs5KMmoYzdGNwzuETglzbJycFIc0zYJU17T8hyr4w50k5M72Cc1Gp7EzvD-cGwzwj7PYqLEME0McgAvpVnW7qLU4peQzQugMwUYOzzmIKTNaOgLUtdgDYjbUBstbNsNc5UPQseiQS9WMTOwEJsBMvEIjbWMUaEN_JHtTUFoBenJd0tVyk2MVxBgLv0c03Mmw9kZlPD3hPKdhQX0j--yZ8d7TANC1g3DyFxMG5sy1bYK8jJOFRe7eBVDiPpXnPDcC9EtzjfG6_zqmO-qiGRgb19_zUNyeu0ZDWiBc9qSm8UEYuWc1OAiJjwrIsJnNupEfbuiEFOSDjVOVx3Oa0S7HGXU0PMXa_nf7VPriUMEUfkAAAAAElFTkSuQmCC.png",
+      "source": "Target",
+      "title": "Neutrogena Hydro Boost Hydrating Hydrogel Mask",
+      "rating": 4.4,
+      "reviews": 5700,
+      "price": "$2.79",
+      "extracted_price": 2.79,
+      "location": "Nearby, 4 mi",
+      "delivery": "Free delivery on $100+",
+      "immersive_product_page_token": "shzv1nicbZBLrqNGFIalrCG7uJMqqjCQmW1c2LgpXx5VPCYtXjYYCjDgB1bvIWuIb3ekzrATKVJ2crOauDPuyRn833-O_v_8-sjLv_FV4Lj1rG1aim60X4UqToe59bXr2-ycjmX2p4zhDGsylDGSZG2GZKR8TeMxrtvDk6pgpqmKBAFCGpYkBKD6rcjjrC6bfLff573ept9tUFVUWcVAwzMEnyZF-aMU8SH_H_8FZYCUGcAIYllVIFKwBt76bHiXXpcfFSDhGdTU54Ay1BRJkz-9Ojv944_Zl9M576d_xrZ72cdpLuKhGl72bf-S9dPLUJXNl0P3PdIPVt9EmX2TlRmeSbKiaZqCgaRg9NZdxt_iz-dznb_r15flfGNvlpueS-QeG_U5Qs4lKW8re5q3rkGaKDDvmaGhp0adZTVwX-4yg1cbQkEYOHV6fRzqx3l4FPUjb35v4-6yT__96edVe9WXw3Vps67jugNcRnlCVphy3rsGH1Ih02RViB3X9NSgPedRaXN7oqubzpAjLDS_hwAubGRidjzIkei2tkcDy-Nh2iyOHoxOCbid8lW0Dn17ikGNo2pzD2EUpaLbJ_64TYQ9OSgb_YaeLUSIzQs7IYtT2mTHjJOFazhHF4Yybcw-EqbxwcuuETBpKDQ3YXxHCRlDMEDX24Dnja3HKfjAOteWiMlL6FLe9fmaIRpksSWBWyrdmNMUnkscJ70XzPFqL9dJF96fmcFhSkR4j2uuJ6IDfgmjuKqfTeu9F5iC6XzKggq4Qr1Zq3FmramfGLRla_OYrfgxFUWZeAuJiQPK-MLgQaFn_hgkBp_CEg6hiBobcjNkxTKEi6XPnYtVZXLO4D7RCYj9yGDixoI7qWyJMq9x8I50S6uJjgHIGGs63SJa5bFiYxnFxeOVS-4OSjynSKBDXYl2SbAAjC_GnQFvESDUKM2Fs6bTzo9YLJzeEhl1iHnP184UCU4s3YTxqlvzajz5Qms-34Z-_w7mRB7dnSLmg2rsj2pwXD3fefTDZNiStrJei_kvUNEAxjMgS0BC_wE-IEkb",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=shzv1nicbZBLrqNGFIalrCG7uJMqqjCQmW1c2LgpXx5VPCYtXjYYCjDgB1bvIWuIb3ekzrATKVJ2crOauDPuyRn833-O_v_8-sjLv_FV4Lj1rG1aim60X4UqToe59bXr2-ycjmX2p4zhDGsylDGSZG2GZKR8TeMxrtvDk6pgpqmKBAFCGpYkBKD6rcjjrC6bfLff573ept9tUFVUWcVAwzMEnyZF-aMU8SH_H_8FZYCUGcAIYllVIFKwBt76bHiXXpcfFSDhGdTU54Ay1BRJkz-9Ojv944_Zl9M576d_xrZ72cdpLuKhGl72bf-S9dPLUJXNl0P3PdIPVt9EmX2TlRmeSbKiaZqCgaRg9NZdxt_iz-dznb_r15flfGNvlpueS-QeG_U5Qs4lKW8re5q3rkGaKDDvmaGhp0adZTVwX-4yg1cbQkEYOHV6fRzqx3l4FPUjb35v4-6yT__96edVe9WXw3Vps67jugNcRnlCVphy3rsGH1Ih02RViB3X9NSgPedRaXN7oqubzpAjLDS_hwAubGRidjzIkei2tkcDy-Nh2iyOHoxOCbid8lW0Dn17ikGNo2pzD2EUpaLbJ_64TYQ9OSgb_YaeLUSIzQs7IYtT2mTHjJOFazhHF4Yybcw-EqbxwcuuETBpKDQ3YXxHCRlDMEDX24Dnja3HKfjAOteWiMlL6FLe9fmaIRpksSWBWyrdmNMUnkscJ70XzPFqL9dJF96fmcFhSkR4j2uuJ6IDfgmjuKqfTeu9F5iC6XzKggq4Qr1Zq3FmramfGLRla_OYrfgxFUWZeAuJiQPK-MLgQaFn_hgkBp_CEg6hiBobcjNkxTKEi6XPnYtVZXLO4D7RCYj9yGDixoI7qWyJMq9x8I50S6uJjgHIGGs63SJa5bFiYxnFxeOVS-4OSjynSKBDXYl2SbAAjC_GnQFvESDUKM2Fs6bTzo9YLJzeEhl1iHnP184UCU4s3YTxqlvzajz5Qms-34Z-_w7mRB7dnSLmg2rsj2pwXD3fefTDZNiStrJei_kvUNEAxjMgS0BC_wE-IEkb"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://serpapi.com/searches/6ab809e3a39c28583f98de18/images/DwjN9IZXMGWs62pqd_xNy00uafu_0zReHnNtRrFGseQ.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEVHcEwdHRsdHRsdHRsdHRsdHRsdHRsdHRsdHRsdHRsdHRsdHRsdHRsdHRsdHRsdHRthjtpDAAAAD3RSTlMAlRiOmh508UrhDLbQNWAf5qERAAAA-klEQVQ4jX2SRxLEIAwEyTn8_7cLIgiBa-dmq1EclvgjheKJcSaotGaHOOOiUql8AuoGZGDsDyDZLQIk_cQJYPB3NjH5phSOJt2Kuog1BQIzfZCkZwTmbOaaeQMjf_YrYC0F5Pk8FtE-hDkAO7YKT6UzKirT9hXsBkqPQ3c-zty1EW4DMNzVXn-0AKhgL6C37SfgPxLU8QhLlI8Eu0T_CmsBEXYBcxccsw8F0zkJvSg229qbNLCbMs807irpsewew4-7OHos1LRFrt_A8qSuX0As2zQVgTDMFY1DQ29bNEC9RtWp_gVO073A60kCZHXN3Jsk1W-1cJJ_lX6jex2voQx8iQAAAABJRU5ErkJggg.png",
+      "source": "SkinCeuticals US",
+      "title": "SkinCeuticals Biocellulose Restorative Masque",
+      "rating": 4.5,
+      "reviews": 172,
+      "price": "$130.00",
+      "extracted_price": 130.0,
+      "original_price": "$22/ct",
+      "extracted_original_price": 22,
+      "immersive_product_page_token": "ZnXvpXicbVBbjqNWFJSyhuyif-6DyyN_xnCx6QE3F7hgfkbAxQbMqw0eYzR7yBrSPRNp8jmJFCk76awm7nzPR0lHp-qcKtWvL0X1t3RtpbQPnMe8aofJe2rV9vm4cr4N515c8qkSfxJNBRABVSKYAKgBWZW-5emUNv2xEn9BWVFUKEGCZQlqGgaESN_LIhVN1RW7w6E4G33-rlOwhCHAGCsY3KFADf9Rtemx-J9_dyEYSgpECpIRkogqv57F-Iae1h8VCamAKEAhikYUGaga-PzEdsbHH3Nfny_F-fbP1A8PhzQv2nQ8jQ-H_vwgzreH8VR1X4_Du-UPTl_bSny_z5KMNIiRKquQAIm8Dp-m39Ivl0tTvBnXh_Vq623X2zNHdEmt5pJg9imrZtO7rXrfol0S24uwNHzfuWx9GnlEBmHx05a6YB-zJr--HJuXy_hSNi9F93ufDp8O-b8__Wz2V2M9XtdeOAzcYMCPeJqYwvKQCSLOL7lFAQ_zZR_1N2fhQ9SOJGrLkLdzH4V2vaPumCBI_NC9FgHX86ihHwKxD-Km9pby4Kxhl5iTwdFMvFqfMkPokSGaEIpNaCXbDGlODkyyb91TiO2OmZzcM1QcDE2CXTs9zYZoNX-PqHH_txGGmBJKvRyxmG_Y7HM3SdD25neMBkuOXVr2PmS7DEwfgkZ3hZnfdpHd77Hb5p25OEvC3Y49h4HeZwYL46UpnU2CRchqYcGIWUMd8ERmht7mlkpS6kqMr24eGurMmi-7eAh8VD66gR6k7RxkAFrcomsWJnPRuWMAPCkJB5s1TZMu7ilFUC9CB_uRbUfUW9yQ-GIzPDvLSoqC0uBU6CKc9iFgY87L0oU2iIykDqBdBZTdfHS8BlBUu4hIORDXPGJOjKjvowG6UbhkZu_TheEsYGUGmesjd8hiHYRcn3YWnBNAXauydbZx7z0koRNTOURkzaB6zbnofUTMorWvPGZA1OHMb7D7Mo_nwxtYUTL5O6Vdjap1qNW4NqnN62ifjY-0PzlP5eoXqGhAkmRAEED4P4rORo0",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=ZnXvpXicbVBbjqNWFJSyhuyif-6DyyN_xnCx6QE3F7hgfkbAxQbMqw0eYzR7yBrSPRNp8jmJFCk76awm7nzPR0lHp-qcKtWvL0X1t3RtpbQPnMe8aofJe2rV9vm4cr4N515c8qkSfxJNBRABVSKYAKgBWZW-5emUNv2xEn9BWVFUKEGCZQlqGgaESN_LIhVN1RW7w6E4G33-rlOwhCHAGCsY3KFADf9Rtemx-J9_dyEYSgpECpIRkogqv57F-Iae1h8VCamAKEAhikYUGaga-PzEdsbHH3Nfny_F-fbP1A8PhzQv2nQ8jQ-H_vwgzreH8VR1X4_Du-UPTl_bSny_z5KMNIiRKquQAIm8Dp-m39Ivl0tTvBnXh_Vq623X2zNHdEmt5pJg9imrZtO7rXrfol0S24uwNHzfuWx9GnlEBmHx05a6YB-zJr--HJuXy_hSNi9F93ufDp8O-b8__Wz2V2M9XtdeOAzcYMCPeJqYwvKQCSLOL7lFAQ_zZR_1N2fhQ9SOJGrLkLdzH4V2vaPumCBI_NC9FgHX86ihHwKxD-Km9pby4Kxhl5iTwdFMvFqfMkPokSGaEIpNaCXbDGlODkyyb91TiO2OmZzcM1QcDE2CXTs9zYZoNX-PqHH_txGGmBJKvRyxmG_Y7HM3SdD25neMBkuOXVr2PmS7DEwfgkZ3hZnfdpHd77Hb5p25OEvC3Y49h4HeZwYL46UpnU2CRchqYcGIWUMd8ERmht7mlkpS6kqMr24eGurMmi-7eAh8VD66gR6k7RxkAFrcomsWJnPRuWMAPCkJB5s1TZMu7ilFUC9CB_uRbUfUW9yQ-GIzPDvLSoqC0uBU6CKc9iFgY87L0oU2iIykDqBdBZTdfHS8BlBUu4hIORDXPGJOjKjvowG6UbhkZu_TheEsYGUGmesjd8hiHYRcn3YWnBNAXauydbZx7z0koRNTOURkzaB6zbnofUTMorWvPGZA1OHMb7D7Mo_nwxtYUTL5O6Vdjap1qNW4NqnN62ifjY-0PzlP5eoXqGhAkmRAEED4P4rORo0"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://serpapi.com/searches/6ab809e3a39c28583f98de18/images/DwjN9IZXMGWs62pqd_xNy-yoigzGpOJljFwB8gEtG-Y.webp",
+      "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAASFBMVEUAAAAQEBD___-wsLAMDAwfHx-EhIRvb29MTEz39_c2Njbu7u4pKSnj4-O8vLwVFRXKysqgoKB5eXlbW1u2trba2tpAQEBgYGB6WKHhAAAAgUlEQVQ4jc3TyRKDMAwDUKE4hRDWluX__7QdZqCXYF3RJZ7JO_ggI1rlxCJkKvX9LPC6pncIJcD6nAJZBPwokBoBmFoBmDsB2EcPLAO5jg4INpGTOQDjSg7mAMT-9ywOQJePZe8B2iwAtiQAGgWwK4C6COb5KsS_PE9r9Q2QUef_BenUA2PTq5_4AAAAAElFTkSuQmCC.png",
+      "source": "nordstrom.com",
+      "title": "Sublimage Essential Regenerating Mask – Chanel",
+      "rating": 4.8,
+      "reviews": 87,
+      "price": "$250.00",
+      "extracted_price": 250.0,
+      "original_price": "Usually $268",
+      "extracted_original_price": 268,
+      "delivery": "Free delivery",
+      "extensions": [
+        "LOW PRICE"
+      ],
+      "immersive_product_page_token": "dsTcc3icbVNbjqNGFJWyhuyiFYkqCnDlzw-Ktrsp7AKqgJ8RpsDGPA24baPsIWuIeybS5HMmUqTspLOauPs3-bu659yje3Tu_fWW5n-hc4XixrOfkrxqh826mlTH3dT-2naNPCVDLr_rUMdIVzRFMyAyNAXo-tckHuKy2eXyG9QVMMHYMIA6wUjTJ-q3fRrLMq9TJ8vSbtEkufwTKLpqYF2DAKpwYhgIT8AfeRXv0g_8O0LKRJuoOjLuUneWgtBrJ_s3uJ5_0iGGCEENqzqEE3yfBr-smbP49P_Yl-Mp7a5_D037kMVJWsV90T9kTfcgu-tDX-T1l12bfNj6z-hrdTekGTrSoYqAgRWkYozwa_sy_BZ_Pp3K9G1xfphPl5vlfNlxSMbYKk-Ryl62-cXcXKeNa5E6ClajtLB671E2L3outFZavFgSqoQBK5PzbVfeTv1tX97S-vcmbl-y5J8ffjSb82Len-cbv235ginugesup3NaMZv7jWYTe-C-1oReOTj-7hyqMy2xBtfm3LTLneo9lqNftZn0yCGs3-uI2cUSeJ5UuNVcPAuU2-JieZw9x2PUC8G7-DBrtlZ4pfUsCoDso1ICIVZHX-U09AFyzVWTwPIivWjGoT8mHrcp50_-oRx8RT4nAK8TsSIRkI0EdKALYrmkGG3Chzvn6JW02NSso-ISpgFxEs8e44pGAcTvO-ouxMxVQ2SDfeMLTYSCZb6PLgy0IzXPIDH5Ol4Q5pp0ED7u0gNpt5xXXiDPm3t89AqetsJGfJwdo0CakmOLmiwSBRoij3i-1Wgs4Htac29raWpiFSoFeHwO9ogp94xq4oighMFoXoORrcOKP1FLXhyOG3qgKIY8cwTLPbAvucWYtIBul62IAqIlKrlrsdO2lJtkMduHZeiSkalbj-23gFEX0nYbzBSfzwbHApdIIdTKVzP2SK-OiLxoYY6iiI6eQFBU7CUR5OAE-yqCpHTIbBM_7tXPl77L3pQp0QbXMcwNjos669dB9rQUunTrzTnFPyWJNf3541zf3xQqEP0LC0NHIA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dsTcc3icbVNbjqNGFJWyhuyiFYkqCnDlzw-Ktrsp7AKqgJ8RpsDGPA24baPsIWuIeybS5HMmUqTspLOauPs3-bu659yje3Tu_fWW5n-hc4XixrOfkrxqh826mlTH3dT-2naNPCVDLr_rUMdIVzRFMyAyNAXo-tckHuKy2eXyG9QVMMHYMIA6wUjTJ-q3fRrLMq9TJ8vSbtEkufwTKLpqYF2DAKpwYhgIT8AfeRXv0g_8O0LKRJuoOjLuUneWgtBrJ_s3uJ5_0iGGCEENqzqEE3yfBr-smbP49P_Yl-Mp7a5_D037kMVJWsV90T9kTfcgu-tDX-T1l12bfNj6z-hrdTekGTrSoYqAgRWkYozwa_sy_BZ_Pp3K9G1xfphPl5vlfNlxSMbYKk-Ryl62-cXcXKeNa5E6ClajtLB671E2L3outFZavFgSqoQBK5PzbVfeTv1tX97S-vcmbl-y5J8ffjSb82Len-cbv235ginugesup3NaMZv7jWYTe-C-1oReOTj-7hyqMy2xBtfm3LTLneo9lqNftZn0yCGs3-uI2cUSeJ5UuNVcPAuU2-JieZw9x2PUC8G7-DBrtlZ4pfUsCoDso1ICIVZHX-U09AFyzVWTwPIivWjGoT8mHrcp50_-oRx8RT4nAK8TsSIRkI0EdKALYrmkGG3Chzvn6JW02NSso-ISpgFxEs8e44pGAcTvO-ouxMxVQ2SDfeMLTYSCZb6PLgy0IzXPIDH5Ol4Q5pp0ED7u0gNpt5xXXiDPm3t89AqetsJGfJwdo0CakmOLmiwSBRoij3i-1Wgs4Htac29raWpiFSoFeHwO9ogp94xq4oighMFoXoORrcOKP1FLXhyOG3qgKIY8cwTLPbAvucWYtIBul62IAqIlKrlrsdO2lJtkMduHZeiSkalbj-23gFEX0nYbzBSfzwbHApdIIdTKVzP2SK-OiLxoYY6iiI6eQFBU7CUR5OAE-yqCpHTIbBM_7tXPl77L3pQp0QbXMcwNjos669dB9rQUunTrzTnFPyWJNf3541zf3xQqEP0LC0NHIA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://serpapi.com/searches/6ab809e3a39c28583f98de18/images/DwjN9IZXMGWs62pqd_xNy8HAQNW65508i5bicjXMKLs.webp",
+      "source_logo": "https://serpapi.com/searches/6ab809e3a39c28583f98de18/images/DwjN9IZXMGWs62pqd_xNy3H4RqaprEe6w1ZWbfmX4aTUcWwj70fWVc-VJjza5WS7.png",
+      "source": "Sephora",
+      "title": "Summer Fridays Jet Lag Mask",
+      "rating": 4.3,
+      "reviews": 11000,
+      "price": "$49.00",
+      "extracted_price": 49.0,
+      "original_price": "$22/oz",
+      "extracted_original_price": 22,
+      "delivery": "Free delivery on $50+",
+      "immersive_product_page_token": "4RLxZHicbVDLjqNGFJXyDfmL3tSDhyu7tqGw6aZsF1RBsxkBhW1MgRkbt2mUf8g3pHsm0mQ5EylS_qTzNWGyntWVzrn3PO5vr2X1t3FrjOwUBQ9F1XT9dtPMmo_7--BLdz6pa9FX6i9oWwTbtmUSAxPTwiYi8EuR9Zk-7Sv1bWaYNpxZhm0ge2ZjZCPw9VBmSldtud7tyrNzKr6rYGSgGcLQNozva8Qk5p9Vk-3L__mvBEJi2TM0wRaxAbDtt7O6vKPN4gOxTAwtgyDDtm0w6Zjk1w1fOx9-zH3-eC3PL__0p-5ulxVlk13qy93udL5T55e7S121n_fd5PjtB6dvzZTEtC3DQjNizUxiY2NGwFv33P-efbpedfnu3O4W96vtarE6S0THzNPXFPPnvBrc7cv9KfRomyb-qDyCJ4zxRX2RsdkpT9YrysBTwnVxe93r1-vl9aBfy_aPU9Y974p_f_rZPd2cxeW22Iqukw4HYeQfi1EfQo_E25q4WcQgW_J4m6Q8q_3btlUBg-Q5rX03QScUABUl42p4jDvGY-ZHMTmEI61U47PA0bps1cBoMDwm82MEBiiFXJSCtTGtYaC7Kq8HNxXkWLhdyj3ZppJ4ueti5lEZIA63kla86c_RKM3SlRs-OWYRvwbx4RC0dDHNOBQMqyblArMFq6EXIiZyAUUoyBBo-hy4fZePxcjd4SFAPSpiCMOEHuNI0SjRfuYNTxmQ1lPLcQL5TgGlQ9qxcDkfE8x6eVQb5simoP6GiQALp0b5qGuBfL5ecpO7qRHi9CjQ05ijNIscumQePIt4BfPlHIfo8BBFWkeQgEDQKIPFixI8kzHVQdyHUdwnKU7xU6RXeQMGJaZc-LAuYl0FiQ6ipXRCwOeF5mFR94GYMrOIL6VkWZEUIR05ziN-yCFnU_cuT-ZAyHm_9uCQAsq8yp_zJXtZx6mQLj-mDr0IGBgFDUCqu1RG059juVoLVqUtw5-Gy3n3Du6p2Ydru1Q3tdn7FVAPrdk9zkJ1c3Sdx3S1_QXaBBiGBUwEkPkfq3RFVw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=4RLxZHicbVDLjqNGFJXyDfmL3tSDhyu7tqGw6aZsF1RBsxkBhW1MgRkbt2mUf8g3pHsm0mQ5EylS_qTzNWGyntWVzrn3PO5vr2X1t3FrjOwUBQ9F1XT9dtPMmo_7--BLdz6pa9FX6i9oWwTbtmUSAxPTwiYi8EuR9Zk-7Sv1bWaYNpxZhm0ge2ZjZCPw9VBmSldtud7tyrNzKr6rYGSgGcLQNozva8Qk5p9Vk-3L__mvBEJi2TM0wRaxAbDtt7O6vKPN4gOxTAwtgyDDtm0w6Zjk1w1fOx9-zH3-eC3PL__0p-5ulxVlk13qy93udL5T55e7S121n_fd5PjtB6dvzZTEtC3DQjNizUxiY2NGwFv33P-efbpedfnu3O4W96vtarE6S0THzNPXFPPnvBrc7cv9KfRomyb-qDyCJ4zxRX2RsdkpT9YrysBTwnVxe93r1-vl9aBfy_aPU9Y974p_f_rZPd2cxeW22Iqukw4HYeQfi1EfQo_E25q4WcQgW_J4m6Q8q_3btlUBg-Q5rX03QScUABUl42p4jDvGY-ZHMTmEI61U47PA0bps1cBoMDwm82MEBiiFXJSCtTGtYaC7Kq8HNxXkWLhdyj3ZppJ4ueti5lEZIA63kla86c_RKM3SlRs-OWYRvwbx4RC0dDHNOBQMqyblArMFq6EXIiZyAUUoyBBo-hy4fZePxcjd4SFAPSpiCMOEHuNI0SjRfuYNTxmQ1lPLcQL5TgGlQ9qxcDkfE8x6eVQb5simoP6GiQALp0b5qGuBfL5ecpO7qRHi9CjQ05ijNIscumQePIt4BfPlHIfo8BBFWkeQgEDQKIPFixI8kzHVQdyHUdwnKU7xU6RXeQMGJaZc-LAuYl0FiQ6ipXRCwOeF5mFR94GYMrOIL6VkWZEUIR05ziN-yCFnU_cuT-ZAyHm_9uCQAsq8yp_zJXtZx6mQLj-mDr0IGBgFDUCqu1RG059juVoLVqUtw5-Gy3n3Du6p2Ydru1Q3tdn7FVAPrdk9zkJ1c3Sdx3S1_QXaBBiGBUwEkPkfq3RFVw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRjQaa4Gk3Ph8nwvtg5GdgUZGXcv5c_O1BQgUgeGK0HY4-8QsU3rJSvSJaUCfB2yn037GxIRx-OPXCV1-Wzabf-GA9WB2w_RP6Zdgta52aOvhjw5QCPrN7t",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Vitamasques Sheet Mask Aloe Vera",
+      "rating": 4.8,
+      "reviews": 26,
+      "price": "$2.97",
+      "extracted_price": 2.97,
+      "location": "Nearby, 3 mi",
+      "delivery": "1 hour delivery $20",
+      "immersive_product_page_token": "1U03InicbZBNrqNGFIWlrCG78KSqoMBkZpsfmzSFKYriZ_KEKWwwYGgbG4yyh6whft2RuofdkSJlJy-riZ8y7en5dO75dH9_5OXf8tDIacucX7Oy6Xpv28ybj4eF86U7t-Ka9aX4CypgjqAKZFWTFVVT8VzRvmRpn9bt4R3LQEUSwIqiSiqWsaRI6FuRp6IuT7m73-dnvc1K8R1CAIGsYTDHGoJzgND8a9mkh_x_rMkIzDWsYVWFKlSeg-j1LC5vaLt6kZ4ZfO7KEGuyDOTnqd-21NVffsw-f7zm5_s_fdvN9mmWN-mlusz27XkmzvfZpSpPnw_d--QPqq9NKb5hVZEVJL-LqnNFkiXltbv1f6Sfrtc6f9OH2Wqx8TarzZkjc0qt-ppI9LYrR8O7L1rfMk9JZE_C0qRnRuiquvAQd8Li1cYkII5onQ2PQ_24Xh5F_chPf7Zpd9tn__70s9EO-uoyrLyg67hOAdNt25kKN7DMYsdEL6AdZ0jc2CQGotP9DpKWnZIp5ibPQtv2gHnLUKHknKwZj6XwxDsnKmI3xFxAQgJWKM66m4Ko6j1O2uxYp5QVbhrW5zBskQBaHT87KSKKqxMvmZLR48Lw62qi3A6YRLDHCpo1ZEvg0kyqhIZNX7lGNjho7FKLpD4qYh_Y96wu2rShkFpdEejxwI62FTcbibDazMNaSq3uxquEMZ0c3YgQp3bQ03cUrEioWXDO6o4CaFCU3DhcjK5RGPFkNrtwvLPogLIo-UD4YRAN1_NAu4YGL3wD-oEuHKIvIQll5Jrco5UdcZSUAXw6mQ5kiEeBxFc-ggaRbOCvxZFEAosAcyec3x3d3Gf6Zoi5CMSpW1FQs0QigNc242HnJEdRUa75O14EvkVZYNGrv146QqojPxh8c6LSjtFiBynxEel20RIEfNm7FhwTYBKrtJd0Te5umFAnSsqcxcgB2KKnjUxCUrHaQ8Sy-5xX779ffhov5_0bWJi4911ZiFjDH5SX0_albNvVuKSoc6cxmHvDL1DVgCwrACOApf8Ah2hHEw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=1U03InicbZBNrqNGFIWlrCG78KSqoMBkZpsfmzSFKYriZ_KEKWwwYGgbG4yyh6whft2RuofdkSJlJy-riZ8y7en5dO75dH9_5OXf8tDIacucX7Oy6Xpv28ybj4eF86U7t-Ka9aX4CypgjqAKZFWTFVVT8VzRvmRpn9bt4R3LQEUSwIqiSiqWsaRI6FuRp6IuT7m73-dnvc1K8R1CAIGsYTDHGoJzgND8a9mkh_x_rMkIzDWsYVWFKlSeg-j1LC5vaLt6kZ4ZfO7KEGuyDOTnqd-21NVffsw-f7zm5_s_fdvN9mmWN-mlusz27XkmzvfZpSpPnw_d--QPqq9NKb5hVZEVJL-LqnNFkiXltbv1f6Sfrtc6f9OH2Wqx8TarzZkjc0qt-ppI9LYrR8O7L1rfMk9JZE_C0qRnRuiquvAQd8Li1cYkII5onQ2PQ_24Xh5F_chPf7Zpd9tn__70s9EO-uoyrLyg67hOAdNt25kKN7DMYsdEL6AdZ0jc2CQGotP9DpKWnZIp5ibPQtv2gHnLUKHknKwZj6XwxDsnKmI3xFxAQgJWKM66m4Ko6j1O2uxYp5QVbhrW5zBskQBaHT87KSKKqxMvmZLR48Lw62qi3A6YRLDHCpo1ZEvg0kyqhIZNX7lGNjho7FKLpD4qYh_Y96wu2rShkFpdEejxwI62FTcbibDazMNaSq3uxquEMZ0c3YgQp3bQ03cUrEioWXDO6o4CaFCU3DhcjK5RGPFkNrtwvLPogLIo-UD4YRAN1_NAu4YGL3wD-oEuHKIvIQll5Jrco5UdcZSUAXw6mQ5kiEeBxFc-ggaRbOCvxZFEAosAcyec3x3d3Gf6Zoi5CMSpW1FQs0QigNc242HnJEdRUa75O14EvkVZYNGrv146QqojPxh8c6LSjtFiBynxEel20RIEfNm7FhwTYBKrtJd0Te5umFAnSsqcxcgB2KKnjUxCUrHaQ8Sy-5xX779ffhov5_0bWJi4911ZiFjDH5SX0_albNvVuKSoc6cxmHvDL1DVgCwrACOApf8Ah2hHEw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQTKcy0Ewhb-BfW2B3fMDQ1qBE90YyawWMogbeXhPcmqwvx9b29BPaywdpcwzEOXsjS841sZQ_x2BYUHePQxfDRBhEUTZ1heDuCB2dcb2sOOb2kxNd_01D3",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQUScE_9hvIYcNZtV6JgXWbOlD8rmY_ZzjtufbCypdwpHPcujpE1bVKoREqaiuTTFccMV63jsfNT3GVd7fk-NDvA5csBg",
+      "source": "Sephora",
+      "title": "REJURAN Turnover Mask",
+      "rating": 4.7,
+      "reviews": 2200,
+      "price": "$23.00",
+      "extracted_price": 23.0,
+      "original_price": "$4.60/ct",
+      "extracted_original_price": 4.6,
+      "delivery": "Free delivery on $50+",
+      "immersive_product_page_token": "L8Oqn3icbZNLjuM2FEWBrCG7KAQgKVKfzMqWKH9KcokWSVuTgiRKlizKUvlvIXvIGlLVHaAz7A4QIDuprCYOkGG_4b334N03eL--FfVf-NLitIuDeV63_TF6bu32dfMYfOn3nTrlx1p9M6FhYIdYhkkc28IYYvQlT4-p7ja1-hNaDrKhYRrERMZ9TGLhr1WRKl3vikVZFnu3y__LEQAtbAFoI8fGxAI2hn_Ubbop_vcth2ACTNM2DOBA03Ic8L5Xhw_0PH6xbHiHHMO0beIgBxMMf3lmC_fl-97n11Oxv_197PqHMs2LNj00h4ey2z-o_e3h0NS7z5v-vvPbd9D3tlZfiWVi834VMfC9D8QWeu_Px9_ST6eTLj7cy8P4cRpNx9O9QHRIfX1KDHbO6qsX3R67pU93yWo2KN8x7lrIxs1BSNIrXzRTGoL1iun88rbRb6fDW6Xfit3vXdqfy_yfH370uos7PlzGEe974TKwFMlBAdatUGWGXn9OPL3jWpt8K3iI4JA3qmXoWsatQonPSQKOs2KijWCXzJJYzHl7pYlMJoEPMKP5UdIRUdtmiND6omAPOGejGJFnFSsoQH5dyL6TrUDSC5t1k-AnHk7CbTDk4AKLRkexbG5rCY3MqxZcdkBIMVUguWYG3WfbsM5AlYhYUdk6pXRHZ46u87xl8yfes6Bl3VLQSSQ7nPhquY5HVTqMLkFLI6mrfs3pEHviNRazp0D0ceofiDLYOgJVHes-SFeszHXPxZZy5s7ihZ-cU9hjoZWZg1Aut8xQ0ikDoBu-6y4R7Lui2ZB4Irw8nlHlJzyTOl2vKA0Hb8hRMwRwVMpdh1MjlDnSMNLBlccjV8RsnXgkFvdiaSvWXE6HGFEQ-KqLd7TNfH3LuZ7xncaiTRbKZa6azNJgmy_pwIwsZlUGWbhEYZ-tRoCL0XHhw2sCaOjXsxGbhLeFTFjc9JMc0atcUc0BIEwni9xjbsEFFzs6yyRjn66HffkBHik5LhfkpxDYL1ESzMMK1n5lKTa0w3zJtXj8-f5CAGMTEAQI_hfEcEif",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=L8Oqn3icbZNLjuM2FEWBrCG7KAQgKVKfzMqWKH9KcokWSVuTgiRKlizKUvlvIXvIGlLVHaAz7A4QIDuprCYOkGG_4b334N03eL--FfVf-NLitIuDeV63_TF6bu32dfMYfOn3nTrlx1p9M6FhYIdYhkkc28IYYvQlT4-p7ja1-hNaDrKhYRrERMZ9TGLhr1WRKl3vikVZFnu3y__LEQAtbAFoI8fGxAI2hn_Ubbop_vcth2ACTNM2DOBA03Ic8L5Xhw_0PH6xbHiHHMO0beIgBxMMf3lmC_fl-97n11Oxv_197PqHMs2LNj00h4ey2z-o_e3h0NS7z5v-vvPbd9D3tlZfiWVi834VMfC9D8QWeu_Px9_ST6eTLj7cy8P4cRpNx9O9QHRIfX1KDHbO6qsX3R67pU93yWo2KN8x7lrIxs1BSNIrXzRTGoL1iun88rbRb6fDW6Xfit3vXdqfy_yfH370uos7PlzGEe974TKwFMlBAdatUGWGXn9OPL3jWpt8K3iI4JA3qmXoWsatQonPSQKOs2KijWCXzJJYzHl7pYlMJoEPMKP5UdIRUdtmiND6omAPOGejGJFnFSsoQH5dyL6TrUDSC5t1k-AnHk7CbTDk4AKLRkexbG5rCY3MqxZcdkBIMVUguWYG3WfbsM5AlYhYUdk6pXRHZ46u87xl8yfes6Bl3VLQSSQ7nPhquY5HVTqMLkFLI6mrfs3pEHviNRazp0D0ceofiDLYOgJVHes-SFeszHXPxZZy5s7ihZ-cU9hjoZWZg1Aut8xQ0ikDoBu-6y4R7Lui2ZB4Irw8nlHlJzyTOl2vKA0Hb8hRMwRwVMpdh1MjlDnSMNLBlccjV8RsnXgkFvdiaSvWXE6HGFEQ-KqLd7TNfH3LuZ7xncaiTRbKZa6azNJgmy_pwIwsZlUGWbhEYZ-tRoCL0XHhw2sCaOjXsxGbhLeFTFjc9JMc0atcUc0BIEwni9xjbsEFFzs6yyRjn66HffkBHik5LhfkpxDYL1ESzMMK1n5lKTa0w3zJtXj8-f5CAGMTEAQI_hfEcEif"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSklnhoqjZhguHMKRiYmMfrNR4ZOb5mGxgS1Sd9EKsI0BWPtMtR9bgFdCYOeXTlSRlQuP0Lwg73o9l6hQipP8gOHFlDzga2rKV0fzQMjMuObiVrkq3G1EcQ",
+      "source_logo": "https://encrypted-tbn1.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSAEVvvB8-vty32FqfIet5K3rcJZCStbTlxbjeIn6H2xXv8dB42RKyYBk8qUujgDxLP_Dtq2uSRzjIC9cQr0P8CyYKnNLRnrNc",
+      "source": "Jomashop.com",
+      "title": "Yon-Ka Hydra No. 1 Masque",
+      "rating": 4.6,
+      "reviews": 350,
+      "price": "$34.99",
+      "extracted_price": 34.99,
+      "original_price": "$19/oz",
+      "extracted_original_price": 19,
+      "delivery": "Free delivery on $100+",
+      "immersive_product_page_token": "F9MHkHicbZPLjqNGFIalPEPeojdVRRWX7BpzsXEbN0VVYdi0cBW2MWBog9s2mnfIM8Q9E2mynESKlDfpPE08yna25zv_-XQW_6-3ovwbnxuct2wxl2XTDdFzYzav28fF1-7YqpMcSvUXRJYBANR1omFsaSa0CPkq8yGv222p_kSGaViGBTSTQIQ1bAHybVfkqi4PxXKzKY5OK-9rBCFCDGIhoIH7CWhZxh9lk2-L_7GFdKIjQADUCDSxgSzt_aj6D_Q8ebkrDYw0A5vfiWbpCH96pkvn5cfsy-upOF7_GdruYZPLosn7qn_YtMcHdbw-9FV5-LLtvit_EH1vSvWNGDrW718hU9MxgAAZ793b8Fv--XSqiw_n_DB5nEWzyewokDfmfn3KNPq2Li9udH1sY987ZKtgVL6l3WchnVS9SEinfFHNvBCkK1rL821b3079bVffisPvbd69beS_P_3stmdn0p8nEe864VDAnGxa1FbAYxjlvPNCBGEsVC-hx8Kpd6VueokSi_N9dooac4z3maOaLEimAohRlbGfXhhQx5AprWi8kjZkpw5qxQ9dqmBns4PiCwBf05qfF_5gS1hvKLOhqOucVt40G9NLweyzXHkoZnWWVhRzUPdLvqulQ0_S9Z7luBii5JJwt-Nr5OXx1Hu75wBzzSHjQxy7nhMdAp432ROL4ZlPQ1swmrNVey32tAqr8IlBq1MahWzcjoUr3CQhg-LWK-XwmO-Djif8nO1dIPwgXO8lzlCdL5LLIMCwi4QdqAR2IQ9YPtLpCnXzqOqe0qq9ymqBZWXNi4RUiWNrzDPBAi4u8YHqTyu7jxIaSRSmMiFtynZ6wrOeswwlEwDEygVZCd0UqFXs4gsVFV779TRnGeGjfchFkFFEhnhf-7QO3EUSjLKuYm-k2prR3RrSMEZht17ZgAt7WPrwkgEv9MvAptPwukwy_pQIXjQEp7VATLjXaHRH7u9GyYeycHZe4mX250t_3HyAR--uWmLNfPWbkzXfz1wvql7cQr68zZ_X1Si2v8B7BzHWAbm3iPwHlyNITg",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=F9MHkHicbZPLjqNGFIalPEPeojdVRRWX7BpzsXEbN0VVYdi0cBW2MWBog9s2mnfIM8Q9E2mynESKlDfpPE08yna25zv_-XQW_6-3ovwbnxuct2wxl2XTDdFzYzav28fF1-7YqpMcSvUXRJYBANR1omFsaSa0CPkq8yGv222p_kSGaViGBTSTQIQ1bAHybVfkqi4PxXKzKY5OK-9rBCFCDGIhoIH7CWhZxh9lk2-L_7GFdKIjQADUCDSxgSzt_aj6D_Q8ebkrDYw0A5vfiWbpCH96pkvn5cfsy-upOF7_GdruYZPLosn7qn_YtMcHdbw-9FV5-LLtvit_EH1vSvWNGDrW718hU9MxgAAZ793b8Fv--XSqiw_n_DB5nEWzyewokDfmfn3KNPq2Li9udH1sY987ZKtgVL6l3WchnVS9SEinfFHNvBCkK1rL821b3079bVffisPvbd69beS_P_3stmdn0p8nEe864VDAnGxa1FbAYxjlvPNCBGEsVC-hx8Kpd6VueokSi_N9dooac4z3maOaLEimAohRlbGfXhhQx5AprWi8kjZkpw5qxQ9dqmBns4PiCwBf05qfF_5gS1hvKLOhqOucVt40G9NLweyzXHkoZnWWVhRzUPdLvqulQ0_S9Z7luBii5JJwt-Nr5OXx1Hu75wBzzSHjQxy7nhMdAp432ROL4ZlPQ1swmrNVey32tAqr8IlBq1MahWzcjoUr3CQhg-LWK-XwmO-Djif8nO1dIPwgXO8lzlCdL5LLIMCwi4QdqAR2IQ9YPtLpCnXzqOqe0qq9ymqBZWXNi4RUiWNrzDPBAi4u8YHqTyu7jxIaSRSmMiFtynZ6wrOeswwlEwDEygVZCd0UqFXs4gsVFV779TRnGeGjfchFkFFEhnhf-7QO3EUSjLKuYm-k2prR3RrSMEZht17ZgAt7WPrwkgEv9MvAptPwukwy_pQIXjQEp7VATLjXaHRH7u9GyYeycHZe4mX250t_3HyAR--uWmLNfPWbkzXfz1wvql7cQr68zZ_X1Si2v8B7BzHWAbm3iPwHlyNITg"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRWmTR_Z3MhThgn_VOqxHaCpnJjRF2DUyxb8DeI_IaYCq57bFnRj_NKg5rX1rrI8Z797KnEk59_c1o_Gar5tMGMowrnDCsMgusJSKu0p8XXkIhLZcQ2bZHI",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTnP5ISNmbEt5sfd-d6O77v8eZaWxR-UtwYkk865osEjKrS0r8udsVsfLPjH1VQBQizWhrYkhO2STFk8WaMhokVgFUhjn2NoxU",
+      "source": "Walmart",
+      "title": "Loops Double Take Glow Face Mask",
+      "rating": 4.3,
+      "reviews": 157,
+      "price": "$5.97",
+      "extracted_price": 5.97,
+      "original_price": "$5.64/oz",
+      "extracted_original_price": 5.64,
+      "location": "Nearby, 13 mi",
+      "immersive_product_page_token": "Na6S2nicdVJbjqNGFJWyhuyif6oonvkzGLCZpmyKogrz08IUtrGLR9u4DVb2kDWkeybS5HMmUqTspLOakP5OpHukq3t0zj1Xur-8ltWf6q1W85aGn4qq7vpoXZv1834Wfu3OrbgWfSX-gMDUDEU3gD41SIEW1KyvRd7nst1X4rupK6ZhQmgBRdctcyr126HMhayacrXbled5W_zrohgQGshEOpygmqqK9N-rOt-XH_x3QzcsRTctU5mWQahPbm9ncXlX184ThB9SFZqapgHFAiayfl6T1fzpf8gvz9fyPP7Vt93DLi_KOr-cLg-79vwgzuPD5VQ1X_bdR6j_0L7VlfimGbqqK6qGDGvKqRum-ta99L_mn69XWb7Pbw_ObBktneWZKd499-U1Q-RlWw1uNM7a2PeaLA3uwrfQNMPEOV0Y1zrhs9PSw2CTElncXvfy9Xp5PcjXsvmtzbuXXfH3Dz-67W3uXG5OlHQdmxNAXezx06HGR9yUaQvxcQZTBT8zFz5mFYw3CAdiblN86iWv-8cMDEmUwHOZaFAoZFPypUrc7kjhDBX8pIVUVquFO8SNDAtlM2xZoG1kN4S1Cyf0WypuGduouQPD6MgaweEnJhkKGwwFDxCREiUjvG49b4e5lWW-p1AH9MndzgljlUgwyFkGcx8-Y5esxNG7ZNLVMn5oC5eM29S-xAx_wgiPBZBOXJtKudiALTw0W5SgR2aOKcz4lnVrsTiEpZeR_CjTTRKolNoD57CmJ9aEMuCEay9JQxD1vCprlqgAByX2rXNxut1yFIDsztaUW2E8l48szZZkIRCdMsaekDkKAQXiKPjQ82TQYwBH4Q9X4eM1TRilni2zhd2u3GCVp9kYwULLmG3zNBhSZBOa4JcCBoSAyxAhzy4STX9MicPum9i7E7Sl5LCFBMcK7qabQcLsfuXDIQMe9qvAJgs8rnhGo9NypHdvQRIyciaquDm4MchoAk0l4rLn84B8Hi7n3TuYeVofr3SN17WQ00sJZ19tmnwVsUVb2osnO_oJGhZQVR1oCtD0fwBSoEXh",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=Na6S2nicdVJbjqNGFJWyhuyif6oonvkzGLCZpmyKogrz08IUtrGLR9u4DVb2kDWkeybS5HMmUqTspLOakP5OpHukq3t0zj1Xur-8ltWf6q1W85aGn4qq7vpoXZv1834Wfu3OrbgWfSX-gMDUDEU3gD41SIEW1KyvRd7nst1X4rupK6ZhQmgBRdctcyr126HMhayacrXbled5W_zrohgQGshEOpygmqqK9N-rOt-XH_x3QzcsRTctU5mWQahPbm9ncXlX184ThB9SFZqapgHFAiayfl6T1fzpf8gvz9fyPP7Vt93DLi_KOr-cLg-79vwgzuPD5VQ1X_bdR6j_0L7VlfimGbqqK6qGDGvKqRum-ta99L_mn69XWb7Pbw_ObBktneWZKd499-U1Q-RlWw1uNM7a2PeaLA3uwrfQNMPEOV0Y1zrhs9PSw2CTElncXvfy9Xp5PcjXsvmtzbuXXfH3Dz-67W3uXG5OlHQdmxNAXezx06HGR9yUaQvxcQZTBT8zFz5mFYw3CAdiblN86iWv-8cMDEmUwHOZaFAoZFPypUrc7kjhDBX8pIVUVquFO8SNDAtlM2xZoG1kN4S1Cyf0WypuGduouQPD6MgaweEnJhkKGwwFDxCREiUjvG49b4e5lWW-p1AH9MndzgljlUgwyFkGcx8-Y5esxNG7ZNLVMn5oC5eM29S-xAx_wgiPBZBOXJtKudiALTw0W5SgR2aOKcz4lnVrsTiEpZeR_CjTTRKolNoD57CmJ9aEMuCEay9JQxD1vCprlqgAByX2rXNxut1yFIDsztaUW2E8l48szZZkIRCdMsaekDkKAQXiKPjQ82TQYwBH4Q9X4eM1TRilni2zhd2u3GCVp9kYwULLmG3zNBhSZBOa4JcCBoSAyxAhzy4STX9MicPum9i7E7Sl5LCFBMcK7qabQcLsfuXDIQMe9qvAJgs8rnhGo9NypHdvQRIyciaquDm4MchoAk0l4rLn84B8Hi7n3TuYeVofr3SN17WQ00sJZ19tmnwVsUVb2osnO_oJGhZQVR1oCtD0fwBSoEXh"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRCoZYfENz-nhMa7yhM270eF3GtBuTA20eut1rxZczD7HTm_4zabE6iM6so1ViLzE-oJsn9LoeZ3Gs7T2optnpMhdL6frdt75JfvocL4-hZHDg0S2gdr6mJ",
+      "source_logo": "https://encrypted-tbn0.gstatic.com/favicon-tbn?q=tbn%3AANd9GcRykb5lKLLKrPcDO-fCAtOMSZSSXqC4itjM_QfBCzT_v-4thktiZLuL9t5tXhMRuDHklNgHa8u4aV6_LZ8bLiTZRKk0Uz1o",
+      "source": "nordstrom.com",
+      "title": "TONYMOLY Mask Melt PDRN + Hyaluronic Acid Overnight Hydrogel Mask",
+      "rating": 4.6,
+      "reviews": 57,
+      "price": "$4.20",
+      "extracted_price": 4.2,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "dr0kPXicdZNLjuJGAIalnCG3aEWqhx9Udg1-AMEFLrv82ozKLoONy2CwaQOaO-QM6Z6JNFlOIkXKTTqnCYmyTLb_c_X9-FrWv2tjq4lj6P1Q1G03-Jt20p52z96X7nyUl2Ko5a-mbmo6QBhghHVAJkDTvhRiEOq4q-VvEJrEIObEQDoxJgCZEIOvVSmkqg_lerstz9ax-DuHCDGRDgHUNYAmGBqY_FK3Ylf-6xs6NqGmAf0xgQwNYY28nWX_rm1mH-AEa9rENDEyCUaaAUwAP27Y2vrwP-bn06U83_4Yjt3TVhRlK_qmf9oez0_yfHvqm_rwedf98_of3be2ll9109AMNNEInhAdGASit-5l-El8ulxU-W6NT7Pnhb-YLc4Rcu7CVZcMs5e8vtr-7fkYuM4hS5Z36RL80CibNX0U6510o2bhUJAmTBXj6069XvrXSr2Wh5-PonvZFn9-8619HK1ZP8583nWRxUDQsrGISe21NBUuveZOV_Om4gkis6h10vRuawLaoDhMfZpQJZNpGLcErjk08hj6XkxOnpMtfaTmcaNDsY9O_qG7hcnUX3EVUJf4DKlriJ-HuIE-Rc2VtSn02uG6SqgRohQnWIngUNyEYqOHWLrm5Bra2Tk9LNcB8O8UShYg1ofutU8btkhxtBQutErexWULtZKrJA_lGNrVqZhXDbWred4S22uKYcX1M48iKJRc5Idl7Le7m-csHX6IKqmolsUjpLCioSoGytnmodMslpy7vc5VtPT21IoQOQaWtEU7Ym-fbTO-A9m9wFw5K6kkCABp_D07cUe1UVytGFyAuGEbv9FH5vYaS1JQOpVT2kNUJM61DLkeAmatApiKBuq5y6rwQEUZ0UhGai7cyijnVVDsK1s00UZY07TYZ-PaqVyJisC5M5yHrMohowGiXZ5MAY-mw9qF1ww41K2XUzant3WchZmqRJxEsZxzlDVOxG0KygbaHmBZbqkhSCL26dqft-_g2dGHYG2C3PDuurf4rpAtrvl0NboZcl6Cjbb7_gHjA0_jARHQzb8AeSpHZw",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=dr0kPXicdZNLjuJGAIalnCG3aEWqhx9Udg1-AMEFLrv82ozKLoONy2CwaQOaO-QM6Z6JNFlOIkXKTTqnCYmyTLb_c_X9-FrWv2tjq4lj6P1Q1G03-Jt20p52z96X7nyUl2Ko5a-mbmo6QBhghHVAJkDTvhRiEOq4q-VvEJrEIObEQDoxJgCZEIOvVSmkqg_lerstz9ax-DuHCDGRDgHUNYAmGBqY_FK3Ylf-6xs6NqGmAf0xgQwNYY28nWX_rm1mH-AEa9rENDEyCUaaAUwAP27Y2vrwP-bn06U83_4Yjt3TVhRlK_qmf9oez0_yfHvqm_rwedf98_of3be2ll9109AMNNEInhAdGASit-5l-El8ulxU-W6NT7Pnhb-YLc4Rcu7CVZcMs5e8vtr-7fkYuM4hS5Z36RL80CibNX0U6510o2bhUJAmTBXj6069XvrXSr2Wh5-PonvZFn9-8619HK1ZP8583nWRxUDQsrGISe21NBUuveZOV_Om4gkis6h10vRuawLaoDhMfZpQJZNpGLcErjk08hj6XkxOnpMtfaTmcaNDsY9O_qG7hcnUX3EVUJf4DKlriJ-HuIE-Rc2VtSn02uG6SqgRohQnWIngUNyEYqOHWLrm5Bra2Tk9LNcB8O8UShYg1ofutU8btkhxtBQutErexWULtZKrJA_lGNrVqZhXDbWred4S22uKYcX1M48iKJRc5Idl7Le7m-csHX6IKqmolsUjpLCioSoGytnmodMslpy7vc5VtPT21IoQOQaWtEU7Ym-fbTO-A9m9wFw5K6kkCABp_D07cUe1UVytGFyAuGEbv9FH5vYaS1JQOpVT2kNUJM61DLkeAmatApiKBuq5y6rwQEUZ0UhGai7cyijnVVDsK1s00UZY07TYZ-PaqVyJisC5M5yHrMohowGiXZ5MAY-mw9qF1ww41K2XUzant3WchZmqRJxEsZxzlDVOxG0KygbaHmBZbqkhSCL26dqft-_g2dGHYG2C3PDuurf4rpAtrvl0NboZcl6Cjbb7_gHjA0_jARHQzb8AeSpHZw"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcThh7-nk6o9rfHiSp6M_On55nUkDDjjOTMngHdBu_PgiPB3YEfm8U6NY54qgLWkm1_z1ExBh7JV78UYvJewtPWymus9_8YAhAvpqifpmlBbpXZJ5SnSbAoC2w",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcTOkxtX8Q5me90yzc_zfM4Q4tYaTQq9DaRMPN1rV01pxUOIdrhx8XDjbfoe_AKWcOHa0Pj64N0cVPtcVrc1NwLrLwRP4QQr_jFeRA",
+      "source": "LovelySkin.com",
+      "title": "Dr. Hauschka Hydrating Cream Mask",
+      "rating": 4.8,
+      "reviews": 45,
+      "price": "$36.00",
+      "extracted_price": 36.0,
+      "delivery": "Free delivery",
+      "immersive_product_page_token": "7KMPM3icbZJdjqNGFIWlrCG7sCLVDxjIm_8K7LbLpgxVwMsIKGwwhaFt3MYoe8ga4p6JNHmcRIqUnXRWE1vKW_J6z3fuuUe6P9-z4k_tWmlx7a1e0qJqWndTmdXrfrT62pxqeUnbQv4ONUuDGsKGBREyjSEyra9p3Maq3hfyj4dq6MgyTKRhDUCoW0P4Lc9iqYpjtt7tstO0Tp-cAZ6MZkJsPCnNAtZvRRXvs391gE0Lm8g0saUPHwzWjfeTPH-AzeQTHloYGBaAeGggBLFp_LRh6-mn_5W-vF6y0-2vtm4GuzjNqvhcnge7-jSQp9vgXBbHL_vmkfjtv8736jHWjaH27GgCqAGgPe5-b97aX-LPl4vKPqbXwWQ0d-eT-Ykj0se2ukSYvSVFN3Nvo3prk2MULHppW_gxo2xSnrnQG2nzck4oCAOm0ut9r-6X8z1X9-z4ax03b7v07---n9XX6eR8nbh-0_ApA1tRdgngvRuQVw58nXoUh6I5-UhutqXEvp0XKzi68aoTtHexD1NI-7DP7A4nnEYByP3YJq-JsIKYRILhhkhnvEnKvEoq6vm26oRoX0JUa9zOl24VBdTJD9xpxp7N4lU1b8OyFRFKe9fnz54HJqyjZ1tFTGielaSmNnxJlEQRXIHMb8sUk1VY6Q4lZJVMo0viuF3CozgW1mYbRH2AlGAzErioyxmpOw81ne8rJzuEIO5VkXgrnNgkDpE-E1PphUI9di4uHlqgsFIsq9iazehk7ZBj6DHXFXol1WJFnUXpina7tZvGU3kt0bUPwP6aOHnp8XHLFdeSmZUzxSnj46MMFpBXWpeqGZQ-XEo7J6syLyVkOZ1BNwpUzgroxke2Xgp1XgZqIQ_5UGLipcSyxVQF24cnc_KlqPJhcvBb2c-3pGc48VieQEa3iDZJMAb-I39twy4ChNrFYswceluLyE-mkstqcfSJmrlcwaXgt4TvezaVcxfBFwYo_tydT7sPMCJ6u10P-yuC5uIwQm-947f7ponyxjJO9ugH90f4-GRNGwIdAd38B7LjSC8",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=7KMPM3icbZJdjqNGFIWlrCG7sCLVDxjIm_8K7LbLpgxVwMsIKGwwhaFt3MYoe8ga4p6JNHmcRIqUnXRWE1vKW_J6z3fuuUe6P9-z4k_tWmlx7a1e0qJqWndTmdXrfrT62pxqeUnbQv4ONUuDGsKGBREyjSEyra9p3Maq3hfyj4dq6MgyTKRhDUCoW0P4Lc9iqYpjtt7tstO0Tp-cAZ6MZkJsPCnNAtZvRRXvs391gE0Lm8g0saUPHwzWjfeTPH-AzeQTHloYGBaAeGggBLFp_LRh6-mn_5W-vF6y0-2vtm4GuzjNqvhcnge7-jSQp9vgXBbHL_vmkfjtv8736jHWjaH27GgCqAGgPe5-b97aX-LPl4vKPqbXwWQ0d-eT-Ykj0se2ukSYvSVFN3Nvo3prk2MULHppW_gxo2xSnrnQG2nzck4oCAOm0ut9r-6X8z1X9-z4ax03b7v07---n9XX6eR8nbh-0_ApA1tRdgngvRuQVw58nXoUh6I5-UhutqXEvp0XKzi68aoTtHexD1NI-7DP7A4nnEYByP3YJq-JsIKYRILhhkhnvEnKvEoq6vm26oRoX0JUa9zOl24VBdTJD9xpxp7N4lU1b8OyFRFKe9fnz54HJqyjZ1tFTGielaSmNnxJlEQRXIHMb8sUk1VY6Q4lZJVMo0viuF3CozgW1mYbRH2AlGAzErioyxmpOw81ne8rJzuEIO5VkXgrnNgkDpE-E1PphUI9di4uHlqgsFIsq9iazehk7ZBj6DHXFXol1WJFnUXpina7tZvGU3kt0bUPwP6aOHnp8XHLFdeSmZUzxSnj46MMFpBXWpeqGZQ-XEo7J6syLyVkOZ1BNwpUzgroxke2Xgp1XgZqIQ_5UGLipcSyxVQF24cnc_KlqPJhcvBb2c-3pGc48VieQEa3iDZJMAb-I39twy4ChNrFYswceluLyE-mkstqcfSJmrlcwaXgt4TvezaVcxfBFwYo_tydT7sPMCJ6u10P-yuC5uIwQm-947f7ponyxjJO9ugH90f4-GRNGwIdAd38B7LjSC8"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcShDFA3UEaC0sYBTiUE2TVihAMhOL0CE0bZBoYrPlJuFvBQguGPi-Q50QjdgoIInvVoyZpJJ3O7QzN6ziEcVDlc-pK24ClM979Z081syoOffAREGci3pIQDdQ",
+      "source_logo": "https://encrypted-tbn2.gstatic.com/favicon-tbn?q=tbn%3AANd9GcSPumlK8dx0R_nFkVgackibHs_98dgsADQEYGykmhXp6f1Ws6X6b31QbyzZNL6P_e5rga2oPXulTpaKQkxuTbZvC6p4-Q",
+      "source": "spacenk.com",
+      "title": "Fresh Rose Face Mask",
+      "rating": 4.3,
+      "reviews": 19000,
+      "price": "$25.44",
+      "extracted_price": 25.44,
+      "original_price": "Was $24",
+      "extracted_original_price": 24,
+      "extensions": [
+        "20% OFF"
+      ],
+      "immersive_product_page_token": "iEsRz3icdVNbjqNGFJWyhuzCikRRVTzy1zxtT1NuCiigfkYYsMGAoQ22Ac0esoa4ZyJNPieRImUnndUEzXfycXV1z9E9OjpX95dHXv6F7g1KWt_5kJZNN7gvjdK8Hp-cr92lza7pUGZ_KAoGgoygogIJKRCLIvqaJkNSt8eFlTEEWFYxlBVVEmUFIvVbkSdZXZ7z3eGQX4w2LbM_gSxLkiwpYGmSKiBFRervZZMc8-_8IiNhCUoqkDGSkCCrEnq7ZP07etE_AqQAUcGKApC4GEEAAPnTC90ZH_-H_PJ6zS_T30PbrQ5JmjdJX_WrQ3tZZZdp1Vfl-cux-27qP3bfmjL7hmUJSeLiU1CWwhjht-42_Jp8vl7r_N24r_SnjbvRNxcmWnNi11cO6W1fjqY7PbWebZ15tJ0zW4ULRqhe9SzEXWazamMRIY5ond4fx_px7R9F_cjPv7VJdzuk__zwo9neDb2_627Qdcyggm-qWsa2mPr1Nq6I7UzgwqoO08jB0XwEzOoOVGAREdnaPW0LlxV2agMtOWc3Dgrmz4X-HGT3hNWUhOYYmgUnAa5cEAh-yM244S4za9trBjueeejb5piu6ysVaz032JTXpPIic3R99kwqZ3ZPFY4b_OyLpAhgd6frWnOa7BqBdErmwknOTKAnZrpAdVxxdOipZnFglTEkL7uQbwKxQ3tf2_k2ECgMptAoNn5V2G7UDdxUP3jm0O4YS6hJIhJRizfdzjG2untmMTeskZrqCw1V5vpauBfBbR8WMIYb6MGMB1FGmVW_ug0_BxarHKg1Meyq1ByXWQVkZqJ_5h4NuO80JGaGRT3D8rzQxE5oQT9EdyJ2zF9vvUyoxgB0vhvWzBeo49uDtV_XxoItGsTNmu0pN1XgmVxL1rynZoHcUza4wdGzZgr3Pi32gBJPJN0-0oSAacPOBiMXLGKXW42uybTkQSlLpwDUU3giOx4uNw67Mpi3hwTGIhOIR2eLfh77y-FdeLLw4O0Qp7DtT0gffhLn3n69xQdRvp45n_r7z0BePgtJAhYFrP4Le8lHCA",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=iEsRz3icdVNbjqNGFJWyhuzCikRRVTzy1zxtT1NuCiigfkYYsMGAoQ22Ac0esoa4ZyJNPieRImUnndUEzXfycXV1z9E9OjpX95dHXv6F7g1KWt_5kJZNN7gvjdK8Hp-cr92lza7pUGZ_KAoGgoygogIJKRCLIvqaJkNSt8eFlTEEWFYxlBVVEmUFIvVbkSdZXZ7z3eGQX4w2LbM_gSxLkiwpYGmSKiBFRervZZMc8-_8IiNhCUoqkDGSkCCrEnq7ZP07etE_AqQAUcGKApC4GEEAAPnTC90ZH_-H_PJ6zS_T30PbrQ5JmjdJX_WrQ3tZZZdp1Vfl-cux-27qP3bfmjL7hmUJSeLiU1CWwhjht-42_Jp8vl7r_N24r_SnjbvRNxcmWnNi11cO6W1fjqY7PbWebZ15tJ0zW4ULRqhe9SzEXWazamMRIY5ond4fx_px7R9F_cjPv7VJdzuk__zwo9neDb2_627Qdcyggm-qWsa2mPr1Nq6I7UzgwqoO08jB0XwEzOoOVGAREdnaPW0LlxV2agMtOWc3Dgrmz4X-HGT3hNWUhOYYmgUnAa5cEAh-yM244S4za9trBjueeejb5piu6ysVaz032JTXpPIic3R99kwqZ3ZPFY4b_OyLpAhgd6frWnOa7BqBdErmwknOTKAnZrpAdVxxdOipZnFglTEkL7uQbwKxQ3tf2_k2ECgMptAoNn5V2G7UDdxUP3jm0O4YS6hJIhJRizfdzjG2untmMTeskZrqCw1V5vpauBfBbR8WMIYb6MGMB1FGmVW_ug0_BxarHKg1Meyq1ByXWQVkZqJ_5h4NuO80JGaGRT3D8rzQxE5oQT9EdyJ2zF9vvUyoxgB0vhvWzBeo49uDtV_XxoItGsTNmu0pN1XgmVxL1rynZoHcUza4wdGzZgr3Pi32gBJPJN0-0oSAacPOBiMXLGKXW42uybTkQSlLpwDUU3giOx4uNw67Mpi3hwTGIhOIR2eLfh77y-FdeLLw4O0Qp7DtT0gffhLn3n69xQdRvp45n_r7z0BePgtJAhYFrP4Le8lHCA"
+    },
+    {
+      "category": "More products",
+      "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTy6c76C4hYHJDOCHdO_gpxEyev5UCpre6u2HhboXoqpfphEkoMYs9HXrQ7L_wA4ZdfcTr1Ay4J-Yf6nGOR5OtRwf-E-lcAzSWhslOXssdgjHCmexFT66ae0A",
+      "source_logo": "https://encrypted-tbn3.gstatic.com/favicon-tbn?q=tbn%3AANd9GcQAdGOcIEknNy1iGT8IGtmvwfX4uX_WVS4Dg4qsq42oGP5LYGQaN067P9zcHRtkXy5t4L3Bco02CUuUAOj-Lfe4QQ6Nu960VZE",
+      "source": "REVOLVE",
+      "title": "OSEA Red Algae Mask",
+      "rating": 4.3,
+      "reviews": 376,
+      "price": "$48.00",
+      "extracted_price": 48.0,
+      "delivery": "Free delivery by Wed",
+      "immersive_product_page_token": "bNhriHicdVBLkqNGEI3wGXwLbaqKn_BOCApJLYqmoACxmQAKAeLbCLWQYu7gM1g944jxcjwRjvBN2qcxM2t7kxGZ7718me_XR1b-JV4bMe486yktm350nptl85KvrC_90PFLOpb8G4SKoKoILCVZUEVRQTISv6TxGNdd_h0GoiQCBSmqjICkqvJSFL8WWczrss3s4zEb9C4t-Z8zD8oigkhQgCoLsgDAH2UT59kP-BuUoDwvRnNBUFoCGUL1beDnd_F5_QGKqiQrEKjCDEFlObfw4zO19Q__A35-uWTD7e-x6xfHOM2a-FydF8duWPDhtjhXZfs573-4_of2rSn5V0mRRRnJqiIjYX4JqMpb_zr-Fn-6XOrsXb8u1quts11vBx_he2zWl0igr0k5Gc5t1bkmbqNwd-emKswzQtfV2Q-knpt-tcUEHEJap9dHXj8u50dRP7L29y7uX4_pPz_9bHRXfX2-rh3W975OgRsU5Z7VWogKlnnF3fd2lhfgwPLza9xMN8awyfzIt1AuxCGuY4F0vKrjtM6BhYqIQzpmTXTLDMwcr2AcjCdqkJGGpM3YVBMUbfchPTGdbzKPyumdj57Z3VKYjgefuyHYTfsQy06bS_twK0SCpu0ZdyKTVxG2QFapfuD5axuTinr0RvUUxpt8cvHq7t6LUwTGKTB2kBtFQUpIqdl3SUDElEVDgqRNcOI7Ulk3pldj6kVlxojmQhKlei6ktXX1anVtnbZTEq6EQ1WHHopky-BSCiTkYXK2fTy4xqQ7DTlEgD6zutCSTSqw1tfTjeYlaEQe3HleCe6ETe7MfXJ8UvrGTpjvbS0D61nQQ8rqA8P-1mF0tBmmEZtOcYM3rN6J6cxhvrb2hGiI_Vpz6sLlSDKi1pJsbyUdQkItPerSDZMYPrj4ToXEo0UCKXER6ZNQA7N-tE04RQATs9xpdENudhBRC3DHBf3L9yycFoOkpU-HavY0JeZUvA1aon2azsPxHaywNLq2aJ-SZUUvNpO5wv11l2yOQXicLpQ4v0BFBaIoz9kAGfwL0bNHRQ",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_immersive_product&page_token=bNhriHicdVBLkqNGEI3wGXwLbaqKn_BOCApJLYqmoACxmQAKAeLbCLWQYu7gM1g944jxcjwRjvBN2qcxM2t7kxGZ7718me_XR1b-JV4bMe486yktm350nptl85KvrC_90PFLOpb8G4SKoKoILCVZUEVRQTISv6TxGNdd_h0GoiQCBSmqjICkqvJSFL8WWczrss3s4zEb9C4t-Z8zD8oigkhQgCoLsgDAH2UT59kP-BuUoDwvRnNBUFoCGUL1beDnd_F5_QGKqiQrEKjCDEFlObfw4zO19Q__A35-uWTD7e-x6xfHOM2a-FydF8duWPDhtjhXZfs573-4_of2rSn5V0mRRRnJqiIjYX4JqMpb_zr-Fn-6XOrsXb8u1quts11vBx_he2zWl0igr0k5Gc5t1bkmbqNwd-emKswzQtfV2Q-knpt-tcUEHEJap9dHXj8u50dRP7L29y7uX4_pPz_9bHRXfX2-rh3W975OgRsU5Z7VWogKlnnF3fd2lhfgwPLza9xMN8awyfzIt1AuxCGuY4F0vKrjtM6BhYqIQzpmTXTLDMwcr2AcjCdqkJGGpM3YVBMUbfchPTGdbzKPyumdj57Z3VKYjgefuyHYTfsQy06bS_twK0SCpu0ZdyKTVxG2QFapfuD5axuTinr0RvUUxpt8cvHq7t6LUwTGKTB2kBtFQUpIqdl3SUDElEVDgqRNcOI7Ulk3pldj6kVlxojmQhKlei6ktXX1anVtnbZTEq6EQ1WHHopky-BSCiTkYXK2fTy4xqQ7DTlEgD6zutCSTSqw1tfTjeYlaEQe3HleCe6ETe7MfXJ8UvrGTpjvbS0D61nQQ8rqA8P-1mF0tBmmEZtOcYM3rN6J6cxhvrb2hGiI_Vpz6sLlSDKi1pJsbyUdQkItPerSDZMYPrj4ToXEo0UCKXER6ZNQA7N-tE04RQATs9xpdENudhBRC3DHBf3L9yycFoOkpU-HavY0JeZUvA1aon2azsPxHaywNLq2aJ-SZUUvNpO5wv11l2yOQXicLpQ4v0BFBaIoz9kAGfwL0bNHRQ"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What face mask is good for dry skin?",
+      "type": "ai_overview",
+      "page_token": "fxTo0HicHdBdboIwAADg7DI-CgV0mYlZhlK0myUWW2pflvJvWi0bOH7edpedaqdZsu8I3_ePvtzU7wOvu65pV5bV9_28MqbSxTwzV0u24y2zMql1KjO1Wj4uwXOZrYO29zem94-0adiW2LGLPgql3ZTmHoV-Q2wRngBuY9oO2AYldnB0dmqVbZEXcS3P9uIuOJySsBljGyQpexnprhm4c5wi5rci6GKiDx5zSECCvSfDJyB4Dui2rkWQewea7zkgnXAEKmjOUooWOa2mhAIjb7h_47AVijix1hDrfCNVP2QJkoKyV6ERybmJ4UTc9ETqFBAcO7hJuW9T5ndRCAZhQxxekE92eIwSQU4T3OEEdWdFRHHCd6EGhgGEh5D2hUamgNidldnX2p39j63fy2u3aj5N9QeRHHfz",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fxTo0HicHdBdboIwAADg7DI-CgV0mYlZhlK0myUWW2pflvJvWi0bOH7edpedaqdZsu8I3_ePvtzU7wOvu65pV5bV9_28MqbSxTwzV0u24y2zMql1KjO1Wj4uwXOZrYO29zem94-0adiW2LGLPgql3ZTmHoV-Q2wRngBuY9oO2AYldnB0dmqVbZEXcS3P9uIuOJySsBljGyQpexnprhm4c5wi5rci6GKiDx5zSECCvSfDJyB4Dui2rkWQewea7zkgnXAEKmjOUooWOa2mhAIjb7h_47AVijix1hDrfCNVP2QJkoKyV6ERybmJ4UTc9ETqFBAcO7hJuW9T5ndRCAZhQxxekE92eIwSQU4T3OEEdWdFRHHCd6EGhgGEh5D2hUamgNidldnX2p39j63fy2u3aj5N9QeRHHfz",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVuaDBaaTFhZHpZNFVHbHdRV2xOZDJKd01HTldibm96WDBWdlZUSlJNVU56Y1ZwNU1rdHBPV3hpWDB0RFZ6VXdjbFYxTWpWUGNXYzBSV3czZHpkeFpIQTRTVzlXWlhKaWFUQnlSR3RPVUcxUVRsbzBXVGN5Y0hwNGR4SVhOSGR0TkdGdlZFMUxZMmx0Y0hSUlVHMDRiWEZuUVUwYUlrRkVjM0k1WmxOYWFYaFBaamxWTmpSalkwY3pSRGgzT1hCbldFNUNZWE0wUlZFIiwiZmN2IjoiMyIsImVpIjoiNHdtNGFvVE1LY2ltcHRRUG04bXFnQU0iLCJxYyI6IkNodDBiM0FnWm1GalpTQnRZWE5yY3lCbWIzSWdaSEo1SUhOcmFXNFFBSDA4cV80LSIsInF1ZXN0aW9uIjoiV2hhdCBmYWNlIG1hc2sgaXMgZ29vZCBmb3IgZHJ5IHNraW4/IiwibGsiOiJHaHBtWVdObElHMWhjMnNnZEc4Z2FHVnNjQ0JrY25rZ2MydHBiZyIsImJzIjoiYzQyUHV3ckNRQlJFc2QwcVdDNFdVMFJTLU1Da3RFbmpGOWhZV2F6Wm13Zko1b2JkbGVEZkt5RkVJd2kyTTRmaGpEaUo4RklxajF4bEJLTmNqY3FoWU5iSTJVTGJCMXhkdFdteWt2S05lRVpKVFRmVjRpcTI4eFVIemRCa2pmTGNjRkU1NzJBcFkyT28xV215azV2LWYxNmNSVFRNdjlSOFNXaDVqeGlkWlgzUF9KZG5KTmY5RFAxQml1TjRYRmthU004ZDRnTnU1RDYxMG1RcGc3R2EwbUR4QkEiLCJpZCI6ImZjXzR3bTRhb1RNS2NpbXB0UVBtOG1xZ0FNXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVuaDBaaTFhZHpZNFVHbHdRV2xOZDJKd01HTldibm96WDBWdlZUSlJNVU56Y1ZwNU1rdHBPV3hpWDB0RFZ6VXdjbFYxTWpWUGNXYzBSV3czZHpkeFpIQTRTVzlXWlhKaWFUQnlSR3RPVUcxUVRsbzBXVGN5Y0hwNGR4SVhOSGR0TkdGdlZFMUxZMmx0Y0hSUlVHMDRiWEZuUVUwYUlrRkVjM0k1WmxOYWFYaFBaamxWTmpSalkwY3pSRGgzT1hCbldFNUNZWE0wUlZFIiwiZmN2IjoiMyIsImVpIjoiNHdtNGFvVE1LY2ltcHRRUG04bXFnQU0iLCJxYyI6IkNodDBiM0FnWm1GalpTQnRZWE5yY3lCbWIzSWdaSEo1SUhOcmFXNFFBSDA4cV80LSIsInF1ZXN0aW9uIjoiV2hhdCBmYWNlIG1hc2sgaXMgZ29vZCBmb3IgZHJ5IHNraW4%2FIiwibGsiOiJHaHBtWVdObElHMWhjMnNnZEc4Z2FHVnNjQ0JrY25rZ2MydHBiZyIsImJzIjoiYzQyUHV3ckNRQlJFc2QwcVdDNFdVMFJTLU1Da3RFbmpGOWhZV2F6Wm13Zko1b2JkbGVEZkt5RkVJd2kyTTRmaGpEaUo4RklxajF4bEJLTmNqY3FoWU5iSTJVTGJCMXhkdFdteWt2S05lRVpKVFRmVjRpcTI4eFVIemRCa2pmTGNjRkU1NzJBcFkyT28xV215azV2LWYxNmNSVFRNdjlSOFNXaDVqeGlkWlgzUF9KZG5KTmY5RFAxQml1TjRYRmthU004ZDRnTnU1RDYxMG1RcGc3R2EwbUR4QkEiLCJpZCI6ImZjXzR3bTRhb1RNS2NpbXB0UVBtOG1xZ0FNXzUifQ%3D%3D"
+    },
+    {
+      "question": "What face masks do dermatologists recommend?",
+      "type": "ai_overview",
+      "page_token": "pAVPpHicHdDdUoJAGADQ6WW8TBbKwhmnmRUWbYTadX-UmwY-0hU-BItAu-tdeqqepqY3OHO-vvFwrH6uett17ft0PB6G4XrfNHt8vYamHmfvlyOMIUPMM6imk7sJedjBLPxY0vlpSblqWx0IZ01YaSosk4A24IhUIm64Sg-pQiZNuxDMD2ChLyK08UolQ4xpD5H1VEQQgnQnjR_m6B8FoStN_JPS_iZnNk6jpRsj3er6XBpN6zSgzwXRnZbCyUxyY9j9OY-S08ZLGnkUPA8TnjO8vCrMwCXzQlsv3WCkvTZbGaJhUTBd3UZS2R4U6WNzjsF9fCui26oILdVu-2fqaGjBKVzH2RpfSdWVmSFDwRjPpe3AFFSK5sCV-IQSa-Wx01qRp61jY2Mal7t-CFIclOm2MVqZaZpwPtpBP_NG_5-zl13dTdu3Zv8LSgCBvA",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pAVPpHicHdDdUoJAGADQ6WW8TBbKwhmnmRUWbYTadX-UmwY-0hU-BItAu-tdeqqepqY3OHO-vvFwrH6uett17ft0PB6G4XrfNHt8vYamHmfvlyOMIUPMM6imk7sJedjBLPxY0vlpSblqWx0IZ01YaSosk4A24IhUIm64Sg-pQiZNuxDMD2ChLyK08UolQ4xpD5H1VEQQgnQnjR_m6B8FoStN_JPS_iZnNk6jpRsj3er6XBpN6zSgzwXRnZbCyUxyY9j9OY-S08ZLGnkUPA8TnjO8vCrMwCXzQlsv3WCkvTZbGaJhUTBd3UZS2R4U6WNzjsF9fCui26oILdVu-2fqaGjBKVzH2RpfSdWVmSFDwRjPpe3AFFSK5sCV-IQSa-Wx01qRp61jY2Mal7t-CFIclOm2MVqZaZpwPtpBP_NG_5-zl13dTdu3Zv8LSgCBvA",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVuaDBaaTFhZHpZNFVHbHdRV2xOZDJKd01HTldibm96WDBWdlZUSlJNVU56Y1ZwNU1rdHBPV3hpWDB0RFZ6VXdjbFYxTWpWUGNXYzBSV3czZHpkeFpIQTRTVzlXWlhKaWFUQnlSR3RPVUcxUVRsbzBXVGN5Y0hwNGR4SVhOSGR0TkdGdlZFMUxZMmx0Y0hSUlVHMDRiWEZuUVUwYUlrRkVjM0k1WmxOYWFYaFBaamxWTmpSalkwY3pSRGgzT1hCbldFNUNZWE0wUlZFIiwiZmN2IjoiMyIsImVpIjoiNHdtNGFvVE1LY2ltcHRRUG04bXFnQU0iLCJxYyI6IkNodDBiM0FnWm1GalpTQnRZWE5yY3lCbWIzSWdaSEo1SUhOcmFXNFFBSDA4cV80LSIsInF1ZXN0aW9uIjoiV2hhdCBmYWNlIG1hc2tzIGRvIGRlcm1hdG9sb2dpc3RzIHJlY29tbWVuZD8iLCJsayI6IkdpdDNhR0YwSUdaaFkyVWdiV0Z6YTNNZ1pHOGdaR1Z5YldGMGIyeHZaMmx6ZEhNZ2NtVmpiMjF0Wlc1ayIsImJzIjoiYzQyUHV3ckNRQlJFc2QwcVdDNFdVMFJTLU1Da3RFbmpGOWhZV2F6Wm13Zko1b2JkbGVEZkt5RkVJd2kyTTRmaGpEaUo4RklxajF4bEJLTmNqY3FoWU5iSTJVTGJCMXhkdFdteWt2S05lRVpKVFRmVjRpcTI4eFVIemRCa2pmTGNjRkU1NzJBcFkyT28xV215azV2LWYxNmNSVFRNdjlSOFNXaDVqeGlkWlgzUF9KZG5KTmY5RFAxQml1TjRYRmthU004ZDRnTnU1RDYxMG1RcGc3R2EwbUR4QkEiLCJpZCI6ImZjXzR3bTRhb1RNS2NpbXB0UVBtOG1xZ0FNXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVuaDBaaTFhZHpZNFVHbHdRV2xOZDJKd01HTldibm96WDBWdlZUSlJNVU56Y1ZwNU1rdHBPV3hpWDB0RFZ6VXdjbFYxTWpWUGNXYzBSV3czZHpkeFpIQTRTVzlXWlhKaWFUQnlSR3RPVUcxUVRsbzBXVGN5Y0hwNGR4SVhOSGR0TkdGdlZFMUxZMmx0Y0hSUlVHMDRiWEZuUVUwYUlrRkVjM0k1WmxOYWFYaFBaamxWTmpSalkwY3pSRGgzT1hCbldFNUNZWE0wUlZFIiwiZmN2IjoiMyIsImVpIjoiNHdtNGFvVE1LY2ltcHRRUG04bXFnQU0iLCJxYyI6IkNodDBiM0FnWm1GalpTQnRZWE5yY3lCbWIzSWdaSEo1SUhOcmFXNFFBSDA4cV80LSIsInF1ZXN0aW9uIjoiV2hhdCBmYWNlIG1hc2tzIGRvIGRlcm1hdG9sb2dpc3RzIHJlY29tbWVuZD8iLCJsayI6IkdpdDNhR0YwSUdaaFkyVWdiV0Z6YTNNZ1pHOGdaR1Z5YldGMGIyeHZaMmx6ZEhNZ2NtVmpiMjF0Wlc1ayIsImJzIjoiYzQyUHV3ckNRQlJFc2QwcVdDNFdVMFJTLU1Da3RFbmpGOWhZV2F6Wm13Zko1b2JkbGVEZkt5RkVJd2kyTTRmaGpEaUo4RklxajF4bEJLTmNqY3FoWU5iSTJVTGJCMXhkdFdteWt2S05lRVpKVFRmVjRpcTI4eFVIemRCa2pmTGNjRkU1NzJBcFkyT28xV215azV2LWYxNmNSVFRNdjlSOFNXaDVqeGlkWlgzUF9KZG5KTmY5RFAxQml1TjRYRmthU004ZDRnTnU1RDYxMG1RcGc3R2EwbUR4QkEiLCJpZCI6ImZjXzR3bTRhb1RNS2NpbXB0UVBtOG1xZ0FNXzUifQ%3D%3D"
+    },
+    {
+      "question": "What is the no. 1 product for dry skin?",
+      "type": "ai_overview",
+      "page_token": "5vyeM3icHdBfboIwHADg7DI-asHMRROzyKD-mdRQ2h_QlwVbEaQFNjtR33aXnWqn2bIbfPm-vnXV1D8Pl9La7jwbjfq-Hx7b9qgPQ9maUX6-NXIkc633uaxnk6eJ81zIefC59l7e117Euw58imIgk5xpFAbiSnzP0nQTqLHC3DiGr8CEd1JFMB0fGsiyGus9XiCSkJCmmXsA2MQMN6Ep6Y6pSKViJzjWmUs_RVDaECkUBw4IH9b8jrd7hu_yVF6yE2wVqCpGojjUNmFAT8myJHGDNfFJyJ1NJBFJqcFncl9cVVqy3Exx7HTr3BV-AlAxVqOdrwq-oq-wnFphHi_M2XhBKZFyEcqSKWfcnvLE6RXG0Z6VVibKY7StIk7_HNpwlvXALWE-9Dmur7Cqb1umr9xwV47pMuTEE_2gkJf5ePD_OX8rjJ11H-3xF7CFgzM",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5vyeM3icHdBfboIwHADg7DI-asHMRROzyKD-mdRQ2h_QlwVbEaQFNjtR33aXnWqn2bIbfPm-vnXV1D8Pl9La7jwbjfq-Hx7b9qgPQ9maUX6-NXIkc633uaxnk6eJ81zIefC59l7e117Euw58imIgk5xpFAbiSnzP0nQTqLHC3DiGr8CEd1JFMB0fGsiyGus9XiCSkJCmmXsA2MQMN6Ep6Y6pSKViJzjWmUs_RVDaECkUBw4IH9b8jrd7hu_yVF6yE2wVqCpGojjUNmFAT8myJHGDNfFJyJ1NJBFJqcFncl9cVVqy3Exx7HTr3BV-AlAxVqOdrwq-oq-wnFphHi_M2XhBKZFyEcqSKWfcnvLE6RXG0Z6VVibKY7StIk7_HNpwlvXALWE-9Dmur7Cqb1umr9xwV47pMuTEE_2gkJf5ePD_OX8rjJ11H-3xF7CFgzM",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVuaDBaaTFhZHpZNFVHbHdRV2xOZDJKd01HTldibm96WDBWdlZUSlJNVU56Y1ZwNU1rdHBPV3hpWDB0RFZ6VXdjbFYxTWpWUGNXYzBSV3czZHpkeFpIQTRTVzlXWlhKaWFUQnlSR3RPVUcxUVRsbzBXVGN5Y0hwNGR4SVhOSGR0TkdGdlZFMUxZMmx0Y0hSUlVHMDRiWEZuUVUwYUlrRkVjM0k1WmxOYWFYaFBaamxWTmpSalkwY3pSRGgzT1hCbldFNUNZWE0wUlZFIiwiZmN2IjoiMyIsImVpIjoiNHdtNGFvVE1LY2ltcHRRUG04bXFnQU0iLCJxYyI6IkNodDBiM0FnWm1GalpTQnRZWE5yY3lCbWIzSWdaSEo1SUhOcmFXNFFBSDA4cV80LSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbm8uIDEgcHJvZHVjdCBmb3IgZHJ5IHNraW4/IiwibGsiOiJHaVYzYUdGMElHbHpJSFJvWlNCdWJ5QXhJSEJ5YjJSMVkzUWdabTl5SUdSeWVTQnphMmx1IiwiYnMiOiJjNDJQdXdyQ1FCUkVzZDBxV0M0V1UwUlMtTUNrdEVuakY5aFlXYXpabXdmSjVvYmRsZURmS3lGRUl3aTJNNGZoakRpSjhGSXFqMXhsQktOY2pjcWhZTmJJMlVMYkIxeGR0V215a3ZLTmVFWkpUVGZWNGlxMjh4VUh6ZEJramZMY2NGRTU3MkFwWTJPbzFXbXlrNXYtZjE2Y1JUVE12OVI4U1doNWp4aWRaWDNQX0pkbkpOZjlEUDFCaXVONFhGa2FTTThkNGdOdTVENjEwbVFwZzdHYTBtRHhCQSIsImlkIjoiZmNfNHdtNGFvVE1LY2ltcHRRUG04bXFnQU1fNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVuaDBaaTFhZHpZNFVHbHdRV2xOZDJKd01HTldibm96WDBWdlZUSlJNVU56Y1ZwNU1rdHBPV3hpWDB0RFZ6VXdjbFYxTWpWUGNXYzBSV3czZHpkeFpIQTRTVzlXWlhKaWFUQnlSR3RPVUcxUVRsbzBXVGN5Y0hwNGR4SVhOSGR0TkdGdlZFMUxZMmx0Y0hSUlVHMDRiWEZuUVUwYUlrRkVjM0k1WmxOYWFYaFBaamxWTmpSalkwY3pSRGgzT1hCbldFNUNZWE0wUlZFIiwiZmN2IjoiMyIsImVpIjoiNHdtNGFvVE1LY2ltcHRRUG04bXFnQU0iLCJxYyI6IkNodDBiM0FnWm1GalpTQnRZWE5yY3lCbWIzSWdaSEo1SUhOcmFXNFFBSDA4cV80LSIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgbm8uIDEgcHJvZHVjdCBmb3IgZHJ5IHNraW4%2FIiwibGsiOiJHaVYzYUdGMElHbHpJSFJvWlNCdWJ5QXhJSEJ5YjJSMVkzUWdabTl5SUdSeWVTQnphMmx1IiwiYnMiOiJjNDJQdXdyQ1FCUkVzZDBxV0M0V1UwUlMtTUNrdEVuakY5aFlXYXpabXdmSjVvYmRsZURmS3lGRUl3aTJNNGZoakRpSjhGSXFqMXhsQktOY2pjcWhZTmJJMlVMYkIxeGR0V215a3ZLTmVFWkpUVGZWNGlxMjh4VUh6ZEJramZMY2NGRTU3MkFwWTJPbzFXbXlrNXYtZjE2Y1JUVE12OVI4U1doNWp4aWRaWDNQX0pkbkpOZjlEUDFCaXVONFhGa2FTTThkNGdOdTVENjEwbVFwZzdHYTBtRHhCQSIsImlkIjoiZmNfNHdtNGFvVE1LY2ltcHRRUG04bXFnQU1fNSJ9"
+    },
+    {
+      "question": "What are the top 10 best face masks?",
+      "type": "ai_overview",
+      "page_token": "WAbDNnicHdDbTsIwGADg-DJeSruBCgkxATq2RUbW9W-33ZiuFXboDsJksDvfxafyaTS-wZfv69sUTfVzd8n7vjsvJpNhGB6ObXs07w-qrSfyfGvUREljMqmqxePTI345qCX59FbrD28VQtfxDUWMXBPpPM8C0k3BNWsQ5kJjv9oTNEbE4Qrns8gxU4X93W5LhWbOnhleyNi7Ri4dYxuGpHISbSd9fMOd2Kw8XfEGrEDyNf6QlT5zC5f7rV--QjsLeODBJqgEp7cA-002UptxeoLGQ2GsLEAwZiglgphbts0LRdJTZHeONPM_E6DQgkGz4By5vpuIqZ2iNOT1_CqbVCTGpyRXSFsIJWIODPpSCjxoxwkzlvdK6BWjbRECHVVpasDzHa3zIDKa7aCLqVtdoeZYIerKTepBaYp0uD-oy9K-__9cvh3qftGd2uMvHyqCZg",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=WAbDNnicHdDbTsIwGADg-DJeSruBCgkxATq2RUbW9W-33ZiuFXboDsJksDvfxafyaTS-wZfv69sUTfVzd8n7vjsvJpNhGB6ObXs07w-qrSfyfGvUREljMqmqxePTI345qCX59FbrD28VQtfxDUWMXBPpPM8C0k3BNWsQ5kJjv9oTNEbE4Qrns8gxU4X93W5LhWbOnhleyNi7Ri4dYxuGpHISbSd9fMOd2Kw8XfEGrEDyNf6QlT5zC5f7rV--QjsLeODBJqgEp7cA-002UptxeoLGQ2GsLEAwZiglgphbts0LRdJTZHeONPM_E6DQgkGz4By5vpuIqZ2iNOT1_CqbVCTGpyRXSFsIJWIODPpSCjxoxwkzlvdK6BWjbRECHVVpasDzHa3zIDKa7aCLqVtdoeZYIerKTepBaYp0uD-oy9K-__9cvh3qftGd2uMvHyqCZg",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVuaDBaaTFhZHpZNFVHbHdRV2xOZDJKd01HTldibm96WDBWdlZUSlJNVU56Y1ZwNU1rdHBPV3hpWDB0RFZ6VXdjbFYxTWpWUGNXYzBSV3czZHpkeFpIQTRTVzlXWlhKaWFUQnlSR3RPVUcxUVRsbzBXVGN5Y0hwNGR4SVhOSGR0TkdGdlZFMUxZMmx0Y0hSUlVHMDRiWEZuUVUwYUlrRkVjM0k1WmxOYWFYaFBaamxWTmpSalkwY3pSRGgzT1hCbldFNUNZWE0wUlZFIiwiZmN2IjoiMyIsImVpIjoiNHdtNGFvVE1LY2ltcHRRUG04bXFnQU0iLCJxYyI6IkNodDBiM0FnWm1GalpTQnRZWE5yY3lCbWIzSWdaSEo1SUhOcmFXNFFBSDA4cV80LSIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAxMCBiZXN0IGZhY2UgbWFza3M/IiwibGsiOiJHaEIwYjNBZ01UQWdabUZqWlNCdFlYTnIiLCJicyI6ImM0MlB1d3JDUUJSRXNkMHFXQzRXVTBSUy1NQ2t0RW5qRjloWVdhelptd2ZKNW9iZGxlRGZLeUZFSXdpMk00ZmhqRGlKOEZJcWoxeGxCS05jamNxaFlOYkkyVUxiQjF4ZHRXbXlrdktOZUVaSlRUZlY0aXEyOHhVSHpkQmtqZkxjY0ZFNTcyQXBZMk9vMVdteWs1di1mMTZjUlRUTXY5UjhTV2g1anhpZFpYM1BfSmRuSk5mOURQMUJpdU40WEZrYVNNOGQ0Z051NUQ2MTBtUXBnN0dhMG1EeEJBIiwiaWQiOiJmY180d200YW9UTUtjaW1wdFFQbThtcWdBTV81In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTFVuaDBaaTFhZHpZNFVHbHdRV2xOZDJKd01HTldibm96WDBWdlZUSlJNVU56Y1ZwNU1rdHBPV3hpWDB0RFZ6VXdjbFYxTWpWUGNXYzBSV3czZHpkeFpIQTRTVzlXWlhKaWFUQnlSR3RPVUcxUVRsbzBXVGN5Y0hwNGR4SVhOSGR0TkdGdlZFMUxZMmx0Y0hSUlVHMDRiWEZuUVUwYUlrRkVjM0k1WmxOYWFYaFBaamxWTmpSalkwY3pSRGgzT1hCbldFNUNZWE0wUlZFIiwiZmN2IjoiMyIsImVpIjoiNHdtNGFvVE1LY2ltcHRRUG04bXFnQU0iLCJxYyI6IkNodDBiM0FnWm1GalpTQnRZWE5yY3lCbWIzSWdaSEo1SUhOcmFXNFFBSDA4cV80LSIsInF1ZXN0aW9uIjoiV2hhdCBhcmUgdGhlIHRvcCAxMCBiZXN0IGZhY2UgbWFza3M%2FIiwibGsiOiJHaEIwYjNBZ01UQWdabUZqWlNCdFlYTnIiLCJicyI6ImM0MlB1d3JDUUJSRXNkMHFXQzRXVTBSUy1NQ2t0RW5qRjloWVdhelptd2ZKNW9iZGxlRGZLeUZFSXdpMk00ZmhqRGlKOEZJcWoxeGxCS05jamNxaFlOYkkyVUxiQjF4ZHRXbXlrdktOZUVaSlRUZlY0aXEyOHhVSHpkQmtqZkxjY0ZFNTcyQXBZMk9vMVdteWs1di1mMTZjUlRUTXY5UjhTV2g1anhpZFpYM1BfSmRuSk5mOURQMUJpdU40WEZrYVNNOGQ0Z051NUQ2MTBtUXBnN0dhMG1EeEJBIiwiaWQiOiJmY180d200YW9UTUtjaW1wdFFQbThtcWdBTV81In0%3D"
+    }
+  ],
+  "ai_overview": {
+    "text_blocks": [
+      {
+        "type": "paragraph",
+        "snippet": "The best face masks for dry skin are rich, hydrating overnight or cream formulas packed with moisture-locking ingredients like hyaluronic acid, ceramides, and natural plant oils.",
+        "snippet_highlighted_words": [
+          "rich, hydrating overnight or cream formulas packed with moisture-locking ingredients like hyaluronic acid, ceramides, and natural plant oils"
+        ],
+        "reference_indexes": [
+          4,
+          5
+        ]
+      },
+      {
+        "type": "heading",
+        "snippet": "Top Face Masks for Dry Skin"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Origins Drink Up Intensive Overnight Hydrating MaskGo to product viewer dialog for this item. (~$20): A rich overnight mask combining avocado oil, apricot kernel oil, and hyaluronic acid to deeply soften and maintain moisture for up to 72 hours.",
+            "snippet_links": [
+              {
+                "text": "Origins Drink Up Intensive Overnight Hydrating MaskGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462687511096839,imageDocid:17766138465593758294,gpcid:12949444127440024053,headlineOfferDocid:1890354597974192287,catalogid:2911928414404419817,productDocid:11566824285953497982,rds:PC_12949444127440024053%7CPROD_PC_12949444127440024053&q=product&sa=X&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQxa4PegoIAggACAAIAxAN"
+              }
+            ]
+          },
+          {
+            "snippet": "DRMTLGY Barrier Repair MaskGo to product viewer dialog for this item. (~$46): An ultra-nourishing leave-on sleep mask formulated with ceramides, peptides, and hyaluronic acid to repair a damaged skin barrier.",
+            "snippet_links": [
+              {
+                "text": "DRMTLGY Barrier Repair MaskGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462768965367796,imageDocid:10626445244261679227,gpcid:4670308805493578863,headlineOfferDocid:988475660768202013,catalogid:15029061551674877561,productDocid:2246131173679979359,rds:PC_4670308805493578863%7CPROD_PC_4670308805493578863&q=product&sa=X&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQxa4PegoIAggACAAIAxAT"
+              }
+            ]
+          },
+          {
+            "snippet": "Neutrogena Hydro Boost Hydrating Hydrogel MaskGo to product viewer dialog for this item. (~$3): A budget-friendly, single-use sheet mask packed with hyaluronic acid to instantly quench dehydrated skin in 15 to 30 minutes.",
+            "snippet_links": [
+              {
+                "text": "Neutrogena Hydro Boost Hydrating Hydrogel MaskGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462579997402743,imageDocid:15037604314587137490,gpcid:7024619846115197295,headlineOfferDocid:8187858409463101877,catalogid:8069872103394223018,productDocid:5416495154325963537,rds:PC_7024619846115197295%7CPROD_PC_7024619846115197295&q=product&sa=X&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQxa4PegoIAggACAAIAxAZ"
+              }
+            ]
+          },
+          {
+            "snippet": "Users on Reddit r/SkincareAddiction also note a consensus that the First Aid Beauty Ultra Repair Instant Oatmeal MaskGo to product viewer dialog for this item. and Caudalie Moisturizing MaskGo to product viewer dialog for this item. work exceptionally well for extreme, desert-like dryness and irritation.",
+            "snippet_links": [
+              {
+                "text": "Reddit r/SkincareAddiction",
+                "link": "https://www.reddit.com/r/SkincareAddiction/comments/bjesp8/misc_people_with_desertdry_skin_what_are_some/"
+              },
+              {
+                "text": "First Aid Beauty Ultra Repair Instant Oatmeal MaskGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,imageDocid:13201442614366720006,headlineOfferDocid:15509561780222616146,productDocid:15509561780222616146,rds:PC_10477216165177785004%7CPROD_PC_10477216165177785004&q=product&sa=X&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQxa4PegoIAggACAAIFRAE"
+              },
+              {
+                "text": "Caudalie Moisturizing MaskGo to product viewer dialog for this item.",
+                "link": "https://www.google.com/search?ibp=oshop&prds=pvt:hg,pvo:48,mid:576462427723294883,imageDocid:2853979020259965027,gpcid:12537098656329264038,headlineOfferDocid:10680092148473584947,catalogid:16653173771764353974,productDocid:3834288986866906974,rds:PC_12537098656329264038%7CPROD_PC_12537098656329264038&q=product&sa=X&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQxa4PegoIAggACAAIFRAG"
+              }
+            ]
+          }
+        ],
+        "reference_indexes": [
+          4
+        ]
+      },
+      {
+        "type": "paragraph",
+        "snippet": "If you want to narrow down the right choice, tell me:"
+      },
+      {
+        "type": "list",
+        "list": [
+          {
+            "snippet": "Is your skin just dry or also sensitive/red?"
+          },
+          {
+            "snippet": "Do you prefer a wash-off mask or an overnight leave-on cream?"
+          },
+          {
+            "snippet": "What is your budget range?"
+          }
+        ]
+      }
+    ],
+    "references": [
+      {
+        "link": "https://www.ulta.com/shop/skin-care/treatment-serums/face-masks?concern=dryness",
+        "source": "ulta.com",
+        "index": 0
+      },
+      {
+        "link": "https://www.google.com/",
+        "source": "Google",
+        "index": 1
+      },
+      {
+        "link": "https://www.reddit.com/r/SkincareAddiction/comments/bjesp8/misc_people_with_desertdry_skin_what_are_some/",
+        "source": "reddit.com",
+        "index": 2
+      },
+      {
+        "title": "Dryness Face Masks - 115 Products | Ulta Beauty",
+        "link": "https://www.ulta.com/shop/skin-care/treatment-serums/face-masks?concern=dryness",
+        "snippet": "Selecting the appropriate face mask for your skin type is essential for achieving the best results. For dry skin, opt for hydrating masks that contain ingredients ...",
+        "source": "Ulta",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3fRwUERpdu0u3TImvTtKIzV0tRxwM5DnpyI_Hk-yKkO8pXfMV76VocMcmtEIMG-dfJzElZcTh-7eKyAboaEEGzUjfpq9-abylWK5a",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ulta.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 3
+      },
+      {
+        "title": "Drink Up Intensive Overnight Mask Origins",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:12052669759244513667,catalogid:10902272640595289189,gpcid:12949444127440024053,mid:576462687511096839&ibp=oshop",
+        "snippet": "The nightly rest phase often provides the ideal setting for an extensive skincare routine that allows the skin to recover. With Drink Up Intensive Overnight Hydrating Mask with Avocado, Origins has developed a rich formulation that specifically addresses the needs of normal to dry skin. Glacier water from the Swiss Alps is combined with hyaluronic acid in this mask to intensively hydrate the skin's surface. In addition, avocado oil and apricot kernel oil provide nourishing care components that can make the skin feel soft and supple. Japanese seaweed and niacinamide round off the active ingredient complex and can help to strengthen the skin's natural barrier. During sleep, the creamy texture remains on the face and can thus continuously release moisture. Such a care experience aims to support the skin's moisture balance for up to 72 hours. The sulphate-free formula is ideal for use twice a week or according to individual needs. Excess product can be easily removed in the morning with a cloth, leaving a visually refreshed complexion.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJQ7UsE_cKfqb8HOpGQhitJbjBCFcutegecahYUQAitYMS68b0qlsKXGIvZPKKYQKe68zDqw_yU8yOD5U",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 4
+      },
+      {
+        "title": "DRMTLGY Barrier Repair Mask",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:2246131173679979359,catalogid:15029061551674877561,gpcid:4670308805493578863,mid:576462768965367796&ibp=oshop",
+        "snippet": "DRMTLGY Barrier Repair Facial Mask is an overnight hydrating face mask designed specifically for those with dry and sensitive skin. Enriched with hyaluronic acid, peptides, and ceramides, this mask provides moisture locking and deeply nourishes the skin as you sleep. Users have noted tremendous improvements in hydration and skin texture after just a few weeks of use, often pairing it with serums for enhanced effects. The lightweight formula absorbs quickly, making it a delightful addition to any skincare routine. While some users mention a slight pilling issue, especially when applied solo, others find that it effectively restores their skin barrier and enhances overall glow without irritating sensitive faces.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSevhiUXWLmJsmtbTPapcc0zbzAnc2MpTxelfaA9BKD7AJg2I4ewmuz7U9pu307PJAiz1D9Cj7A32ilyK4",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 5
+      },
+      {
+        "title": "Neutrogena Hydro Boost Hydrating Hydrogel Mask",
+        "link": "https://www.google.com/search?q=product&prds=pvt:hg,productid:5416495154325963537,catalogid:8069872103394223018,gpcid:7024619846115197295,mid:576462579997402743&ibp=oshop",
+        "snippet": "Deeply moisturize dry skin with Neutrogena Hydro Boost Hydrating 100% Hydrogel Mask. This innovative hydrogel mask instantly quenches dry skin, leaving it hydrated, smooth, and supple. Made from a unique 100 percent hydrogel material, this moisturizing face mask sheet holds up to 50 percent more essence than a paper face mask. The formula contains hyaluronic acid. Once applied, the face mask contours to your skin and seals in its hydrating formula for optimal absorption to deliver clinically proven results. To use, apply the face mask after cleansing and before applying serum and leave on for 15 to 30 minutes to give your skin an extra boost of hydration. Neutrogena Hydro Boost Hydrating 100% Hydrogel Mask is gentle to skin and non-comedogenic, so it won't clog pores.",
+        "source": "Google",
+        "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR7HijAzgzCKVzozHTAHF64JIR-YYsqgxyo5MWLgCFsTCiZrozd5m3n_xYeVtSLUHZDfK6FdHufg8G0flw",
+        "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.google.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 6
+      },
+      {
+        "title": "[misc] People with desert-dry skin, what are some must-have masks in ...",
+        "link": "https://www.reddit.com/r/SkincareAddiction/comments/bjesp8/misc_people_with_desertdry_skin_what_are_some/",
+        "snippet": "Selecting the appropriate face mask for your skin type is essential for achieving the best results. For dry skin, opt for hydrating masks that contain ingredients ...",
+        "source": "Reddit",
+        "thumbnail": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.ulta.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reddit.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "index": 7
+      }
+    ]
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Hydrating Face Masks for Every Skin Type",
+      "link": "https://www.urbanoutfitters.com/face-masks?benefit=Moisturizing",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESegHrOzAV3wya5izjkF-rRj0bX_m73VXRGZrKf2UNuNDW_czS5LXrMA1nbCuOU_v1bdDqKpcK4z0azsXyQ87nt7KvDfDOezQ6IrQzN9Ew5yBWr0SkkpU5BcFqnq0USePWRUPlM8TWWXg_mGJhQFx1f8DFrwNJ9wP6Hzln&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQFnoECCkQAQ&uoh=1",
+      "displayed_link": "https://www.urbanoutfitters.com › ... › Face Masks",
+      "favicon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAQBQCdASocABwAPtFAtFooIqgoFAEAGglpAAQ_fyUU5CiWJRRQCFc-WKF8nxbj-8AAAP781P_0wM8Czc8hwPEeq5dH_hC-Ww_xgA4s1qQRa4VOfTbX13yTzb_-f3H-vXZ8v5PQkn-_JzbwPNiWrkEGtUPnRbX1X7CoNfxYSneW2_duSNTKjLcmEtYSt9vnm_cHDq1vW6UvH2eqewJ3PACqJLyA8oXz2v4pfL6gwOy_8AvPOlShfdwP843bKmCrYHlxqt2Kpma2BXFVPRAAAA.webp",
+      "snippet": "Discover at UO moisturizing face masks for deep hydration. Learn benefits, key ingredients, & how to choose the right formula for your skin type.",
+      "snippet_highlighted_words": [
+        "moisturizing face masks for deep hydration"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "store_rating": 224,
+            "price_from": 3,
+            "price_to": 45,
+            "currency": "$",
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.5",
+            "store rating (224)",
+            "$3 to $45",
+            "Free delivery over $60",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Discover at UO moisturizing face masks for deep hydration. Learn benefits, key ingredients, & how to choose the right formula for your skin type.",
+          "source_info_link": "https://www.urbanoutfitters.com/face-masks?benefit=Moisturizing",
+          "icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAQBQCdASocABwAPtFAtFooIqgoFAEAGglpAAQ_fyUU5CiWJRRQCFc-WKF8nxbj-8AAAP781P_0wM8Czc8hwPEeq5dH_hC-Ww_xgA4s1qQRa4VOfTbX13yTzb_-f3H-vXZ8v5PQkn-_JzbwPNiWrkEGtUPnRbX1X7CoNfxYSneW2_duSNTKjLcmEtYSt9vnm_cHDq1vW6UvH2eqewJ3PACqJLyA8oXz2v4pfL6gwOy_8AvPOlShfdwP843bKmCrYHlxqt2Kpma2BXFVPRAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjN3eWE1aXpqa0YtclJqMGJYX203M1ZYUkdacktmMlVOdU5EV19jelM1TFhyTUExbmJDdU9VX3YxYmREcUtwY0s0ejBhenNYeVE4N250N0t2RGZET2V6UTZJclF6TjlFdzV5QldyMFNra3BVNUJjRnFucTBVU2VQV1JVUGxNOFRXV1hnX21HSmhRRngxZjhERnJ3Tko5d1A2SHpsbhIEGgIIABrRBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCtBQgAEAAYACAAKiwKA3RvcBU-OP8_GgRiZXN0GgtyZWNvbW1lbmRlZBoEdG9wcxoHdG9wZmFjZSouCgRmYWNlFesImEAaBmZhY2lhbBoFc2hlZXQaB3RvcGZhY2UaCWZhY2VtYXNrcyopCgVtYXNrcxXkeItAGgRtYXNrGglmYWNlbWFza3MaCml2O3A7bWFza3MqCgoDZm9yFQAAAAAqLQoDZHJ5FW2WYD4aB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoHZHJ5c2tpbio1CgRza2luFQ6Wc0AaB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoFc2tpbnMaB2RyeXNraW4ysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWM3d5YTVpemprRi1yUmowYlhfbTczVlhSR1pyS2YyVU51TkRXX2N6UzVMWHJNQTFuYkN1T1VfdjFiZERxS3BjSzR6MGF6c1h5UTg3bnQ3S3ZEZkRPZXpRNklyUXpOOUV3NXlCV3IwU2trcFU1QmNGcW5xMFVTZVBXUlVQbE04VFdXWGdfbUdKaFFGeDFmOERGcndOSjl3UDZIemxuOklIeWRyYXRpbmcgPGI-RmFjZSBNYXNrczwvYj4gZm9yIEV2ZXJ5IDxiPlNraW48L2I-IFR5cGUgLSBVcmJhbiBPdXRmaXR0ZXJzQpwBRGlzY292ZXIgYXQgVU8gPGI-bW9pc3R1cml6aW5nIGZhY2UgbWFza3MgZm9yIGRlZXAgaHlkcmF0aW9uPC9iPi4gTGVhcm4gYmVuZWZpdHMsIGtleSBpbmdyZWRpZW50cywgJmFtcDsgaG93IHRvIGNob29zZSB0aGUgcmlnaHQgZm9ybXVsYSBmb3IgeW91ciBza2luIHR5cGUuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrIBL2dvdG8_dXJsPUNBRVNlZ0hyT3pBVjN3eWE1aXpqa0YtclJqMGJYX203M1ZYUkdacktmMlVOdU5EV19jelM1TFhyTUExbmJDdU9VX3YxYmREcUtwY0s0ejBhenNYeVE4N250N0t2RGZET2V6UTZJclF6TjlFdzV5QldyMFNra3BVNUJjRnFucTBVU2VQV1JVUGxNOFRXV1hnX21HSmhRRngxZjhERnJ3Tko5d1A2SHpsbhIEGgIIABrRBRIAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCtBQgAEAAYACAAKiwKA3RvcBU-OP8_GgRiZXN0GgtyZWNvbW1lbmRlZBoEdG9wcxoHdG9wZmFjZSouCgRmYWNlFesImEAaBmZhY2lhbBoFc2hlZXQaB3RvcGZhY2UaCWZhY2VtYXNrcyopCgVtYXNrcxXkeItAGgRtYXNrGglmYWNlbWFza3MaCml2O3A7bWFza3MqCgoDZm9yFQAAAAAqLQoDZHJ5FW2WYD4aB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoHZHJ5c2tpbio1CgRza2luFQ6Wc0AaB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoFc2tpbnMaB2RyeXNraW4ysgEvZ290bz91cmw9Q0FFU2VnSHJPekFWM3d5YTVpemprRi1yUmowYlhfbTczVlhSR1pyS2YyVU51TkRXX2N6UzVMWHJNQTFuYkN1T1VfdjFiZERxS3BjSzR6MGF6c1h5UTg3bnQ3S3ZEZkRPZXpRNklyUXpOOUV3NXlCV3IwU2trcFU1QmNGcW5xMFVTZVBXUlVQbE04VFdXWGdfbUdKaFFGeDFmOERGcndOSjl3UDZIemxuOklIeWRyYXRpbmcgPGI-RmFjZSBNYXNrczwvYj4gZm9yIEV2ZXJ5IDxiPlNraW48L2I-IFR5cGUgLSBVcmJhbiBPdXRmaXR0ZXJzQpwBRGlzY292ZXIgYXQgVU8gPGI-bW9pc3R1cml6aW5nIGZhY2UgbWFza3MgZm9yIGRlZXAgaHlkcmF0aW9uPC9iPi4gTGVhcm4gYmVuZWZpdHMsIGtleSBpbmdyZWRpZW50cywgJmFtcDsgaG93IHRvIGNob29zZSB0aGUgcmlnaHQgZm9ybXVsYSBmb3IgeW91ciBza2luIHR5cGUuSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Urban Outfitters"
+    },
+    {
+      "position": 2,
+      "title": "The Best Hydrating Sheet Masks for Dull and Tired Skin",
+      "link": "https://www.caretobeauty.com/en/blog/best-hydrating-sheet-masks/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVGtXMkHqfl3tB9eGkAuYgXzacRNc8qgUO68QpqH6VzTr1zrIYwU2shRBO8P61Ii6zL5GUDsX3DiwWCdngSZ68p5UnFqMQuCKY4AnyAEYAFM8WUjw1rGDdcngUy3m2gnAq1ANtlIFiYA3ghbAyOsVTgl6OXoNCBA&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQFnoECDQQAQ&uoh=1",
+      "displayed_link": "https://www.caretobeauty.com › Home › Best Of Skincare",
+      "thumbnail": "https://serpapi.com/searches/6ab809e3a39c28583f98de18/images/qT5rQwveOQ4OYmbakatcHlFm_UvAJVuSckcJ5dkl8V4.jpeg",
+      "favicon": "https://serpapi.com/images/i/UklGRtYAAABXRUJQVlA4IMoAAACQBQCdASocABwAPtEutFooIagoGAEAGglnAMoBp4OapM93ysdWvjuJz4gFbuj37gkhAfO0AAD-6LY8kEh6hP6XpEl5KRW9yjOLLfSr6LEZTf0fToTnvEp89UW6lrzw0lzDG7804SUMt_K_2vpAHXKdpkYdj2_6nafzM7C_8GXhZHVWNgNvG-_Te2sLHtEVDnhrPGhq_p9qwqFpBy2RTd_hpZhmSIOXjtb2KQsVXYib9BuS7pULOxOLbK2NA78MksxvymncDqCHOAAA.webp",
+      "date": "Sep 11, 2025",
+      "snippet": "Our favorite sheet masks for dull and tired skin · Garnier Skin Active Moisture Bomb Sheet Mask Pomegranate · Mad Beauty Disney The Lion King ...",
+      "snippet_highlighted_words": [
+        "Garnier Skin Active Moisture Bomb Sheet Mask Pomegranate"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Our favorite sheet masks for dull and tired skin · Garnier Skin Active Moisture Bomb Sheet Mask Pomegranate · Mad Beauty Disney The Lion King ...",
+          "source_info_link": "https://www.caretobeauty.com/en/blog/best-hydrating-sheet-masks/",
+          "icon": "https://serpapi.com/images/i/UklGRtYAAABXRUJQVlA4IMoAAACQBQCdASocABwAPtEutFooIagoGAEAGglnAMoBp4OapM93ysdWvjuJz4gFbuj37gkhAfO0AAD-6LY8kEh6hP6XpEl5KRW9yjOLLfSr6LEZTf0fToTnvEp89UW6lrzw0lzDG7804SUMt_K_2vpAHXKdpkYdj2_6nafzM7C_8GXhZHVWNgNvG-_Te2sLHtEVDnhrPGhq_p9qwqFpBy2RTd_hpZhmSIOXjtb2KQsVXYib9BuS7pULOxOLbK2NA78MksxvymncDqCHOAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVkd0WE1rSHFmbDN0QjllR2tBdVlnWHphY1JOYzhxZ1VPNjhRcHFINlZ6VHIxenJJWXdVMnNoUkJPOFA2MUlpNnpMNUdVRHNYM0Rpd1dDZG5nU1o2OHA1VW5GcU1RdUNLWTRBbnlBRVlBRk04V1VqdzFyR0RkY25nVXkzbTJnbkFxMUFOdGxJRmlZQTNnaGJBeU9zVlRnbDZPWG9OQ0JBEgQaAggAGu0FEgAaAggBIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxwUIABAAGAAgACosCgN0b3AVeHxiPhoEYmVzdBoLcmVjb21tZW5kZWQaBHRvcHMaB3RvcGZhY2UqLgoEZmFjZRVRryZAGgZmYWNpYWwaBXNoZWV0Ggd0b3BmYWNlGglmYWNlbWFza3MqKQoFbWFza3MV1li2QBoEbWFzaxoJZmFjZW1hc2tzGgppdjtwO21hc2tzKgoKA2ZvchUAAAAAKi0KA2RyeRWwh_Y-GgdkcnluZXNzGgZyZWNpcGUaB3JlY2lwZXMaB2RyeXNraW4qNQoEc2tpbhXdy8dAGgdkcnluZXNzGgZyZWNpcGUaB3JlY2lwZXMaBXNraW5zGgdkcnlza2luMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVkd0WE1rSHFmbDN0QjllR2tBdVlnWHphY1JOYzhxZ1VPNjhRcHFINlZ6VHIxenJJWXdVMnNoUkJPOFA2MUlpNnpMNUdVRHNYM0Rpd1dDZG5nU1o2OHA1VW5GcU1RdUNLWTRBbnlBRVlBRk04V1VqdzFyR0RkY25nVXkzbTJnbkFxMUFOdGxJRmlZQTNnaGJBeU9zVlRnbDZPWG9OQ0JBOlJUaGUgPGI-QmVzdDwvYj4gSHlkcmF0aW5nIDxiPlNoZWV0IE1hc2tzPC9iPiBmb3IgRHVsbCA8Yj5Ta2luPC9iPiAtIENhcmUgdG8gQmVhdXR5QqsBT3VyIGZhdm9yaXRlIHNoZWV0IG1hc2tzIGZvciBkdWxsIGFuZCB0aXJlZCBza2luICZtaWRkb3Q7IDxiPkdhcm5pZXIgU2tpbiBBY3RpdmUgTW9pc3R1cmUgQm9tYiBTaGVldCBNYXNrIFBvbWVncmFuYXRlPC9iPiAmbWlkZG90OyBNYWQgQmVhdXR5IERpc25leSBUaGUgTGlvbiBLaW5nJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVkd0WE1rSHFmbDN0QjllR2tBdVlnWHphY1JOYzhxZ1VPNjhRcHFINlZ6VHIxenJJWXdVMnNoUkJPOFA2MUlpNnpMNUdVRHNYM0Rpd1dDZG5nU1o2OHA1VW5GcU1RdUNLWTRBbnlBRVlBRk04V1VqdzFyR0RkY25nVXkzbTJnbkFxMUFOdGxJRmlZQTNnaGJBeU9zVlRnbDZPWG9OQ0JBEgQaAggAGu0FEgAaAggBIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJAxwUIABAAGAAgACosCgN0b3AVeHxiPhoEYmVzdBoLcmVjb21tZW5kZWQaBHRvcHMaB3RvcGZhY2UqLgoEZmFjZRVRryZAGgZmYWNpYWwaBXNoZWV0Ggd0b3BmYWNlGglmYWNlbWFza3MqKQoFbWFza3MV1li2QBoEbWFzaxoJZmFjZW1hc2tzGgppdjtwO21hc2tzKgoKA2ZvchUAAAAAKi0KA2RyeRWwh_Y-GgdkcnluZXNzGgZyZWNpcGUaB3JlY2lwZXMaB2RyeXNraW4qNQoEc2tpbhXdy8dAGgdkcnluZXNzGgZyZWNpcGUaB3JlY2lwZXMaBXNraW5zGgdkcnlza2luMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVkd0WE1rSHFmbDN0QjllR2tBdVlnWHphY1JOYzhxZ1VPNjhRcHFINlZ6VHIxenJJWXdVMnNoUkJPOFA2MUlpNnpMNUdVRHNYM0Rpd1dDZG5nU1o2OHA1VW5GcU1RdUNLWTRBbnlBRVlBRk04V1VqdzFyR0RkY25nVXkzbTJnbkFxMUFOdGxJRmlZQTNnaGJBeU9zVlRnbDZPWG9OQ0JBOlJUaGUgPGI-QmVzdDwvYj4gSHlkcmF0aW5nIDxiPlNoZWV0IE1hc2tzPC9iPiBmb3IgRHVsbCA8Yj5Ta2luPC9iPiAtIENhcmUgdG8gQmVhdXR5QqsBT3VyIGZhdm9yaXRlIHNoZWV0IG1hc2tzIGZvciBkdWxsIGFuZCB0aXJlZCBza2luICZtaWRkb3Q7IDxiPkdhcm5pZXIgU2tpbiBBY3RpdmUgTW9pc3R1cmUgQm9tYiBTaGVldCBNYXNrIFBvbWVncmFuYXRlPC9iPiAmbWlkZG90OyBNYWQgQmVhdXR5IERpc25leSBUaGUgTGlvbiBLaW5nJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Care to Beauty",
+      "read_more_link": "https://www.caretobeauty.com/en/blog/best-hydrating-sheet-masks/#:~:text=Our%20favorite%20sheet%20masks%20for,dull%20and%20tired%20skin&text=Garnier%20Skin%20Active%20Moisture%20Bomb,Sheet%20Mask%20Pomegranate&text=Mad%20Beauty%20Disney%20The%20Lion,King%20Cosmetic%20Sheet%20Mask%20Pumba"
+    },
+    {
+      "position": 3,
+      "title": "The 8 Best Sheet Masks For Dry Skin",
+      "link": "https://www.elle.com.au/beauty/beauty-news/best-sheet-masks-for-dry-skin-21335/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFRyY_XsboBdNVm4lZawPq6MWuAXc1Qfch4TWV16GgfcWrmL_REQVDMx-P58KNoEGY0O-9Wp2hWG-Bc0HHPe5ZprsbGYH_JTMVHpcLLrCsjKG1MHYFy7Riuzen3abyaxf5s9gvba3GPuZq1BaJcZdpsIJLRFBmsoLkFNsqsQMNG9Hupq3HBM&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQFnoECEcQAQ&uoh=1",
+      "displayed_link": "https://www.elle.com.au › Beauty › Beauty News",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzHozz1DxLlK02cblV_gbGex8-lkLOtLzu2C0O-rn9CCnrA7HwBlu6OM4&s",
+      "favicon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAADwBACdASocABwAPtEytFooIigoGAEAGglpAAPhw90G-1nXVR0U4pFGohvOhGhmxAAA_vYBcw27_Odk2eOSn_5Ftl3odkz85_RKTDo-f1EABD2rS6EvaRv7d_7KJC_-1XqldU1zA3cj9CeZdXM_f_-rl69qsOWkGZQpbeYXU_OfPbM4cmOLgZBAW1kMTsfU1HQ3r2RZF-WFbvBsIXMfBf_L380cWkTGIap_j7grd9_bb6r_qc1QP1vI2Ao2wAAA.webp",
+      "date": "Jan 20, 2020",
+      "snippet": "The 8 Best Sheet Masks For Dry Skin ; Olay. Olay Magnemask Advanced Brightening Sheet Mask ; Tatcha. Luminous Dewy Skin Mask by Tatcha ; Olay 2.",
+      "snippet_highlighted_words": [
+        "Olay Magnemask Advanced Brightening Sheet Mask"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzHozz1DxLlK02cblV_gbGex8-lkLOtLzu2C0O-rn9CCnrA7HwBlu6OM4&s"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "The 8 Best Sheet Masks For Dry Skin ; Olay. Olay Magnemask Advanced Brightening Sheet Mask ; Tatcha. Luminous Dewy Skin Mask by Tatcha ; Olay 2.",
+          "source_info_link": "https://www.elle.com.au/beauty/beauty-news/best-sheet-masks-for-dry-skin-21335/",
+          "icon": "https://serpapi.com/images/i/UklGRsoAAABXRUJQVlA4IL4AAADwBACdASocABwAPtEytFooIigoGAEAGglpAAPhw90G-1nXVR0U4pFGohvOhGhmxAAA_vYBcw27_Odk2eOSn_5Ftl3odkz85_RKTDo-f1EABD2rS6EvaRv7d_7KJC_-1XqldU1zA3cj9CeZdXM_f_-rl69qsOWkGZQpbeYXU_OfPbM4cmOLgZBAW1kMTsfU1HQ3r2RZF-WFbvBsIXMfBf_L380cWkTGIap_j7grd9_bb6r_qc1QP1vI2Ao2wAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZSeVlfWHNib0JkTlZtNGxaYXdQcTZNV3VBWGMxUWZjaDRUV1YxNkdnZmNXcm1MX1JFUVZETXgtUDU4S05vRUdZME8tOVdwMmhXRy1CYzBISFBlNVpwcnNiR1lIX0pUTVZIcGNMTHJDc2pLRzFNSFlGeTdSaXV6ZW4zYWJ5YXhmNXM5Z3ZiYTNHUHVacTFCYUpjWmRwc0lKTFJGQm1zb0xrRk5zcXNRTU5HOUh1cHEzSEJNEgQaAggAGtkFEgIIABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCxBQgAEAAYACAAKiwKA3RvcBVVVQdAGgRiZXN0GgtyZWNvbW1lbmRlZBoEdG9wcxoHdG9wZmFjZSouCgRmYWNlFYPtHEAaBmZhY2lhbBoFc2hlZXQaB3RvcGZhY2UaCWZhY2VtYXNrcyopCgVtYXNrcxWiDLdAGgRtYXNrGglmYWNlbWFza3MaCml2O3A7bWFza3MqCgoDZm9yFQAAAAAqLQoDZHJ5Fdq3r0AaB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoHZHJ5c2tpbio1CgRza2luFXyi2EAaB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoFc2tpbnMaB2RyeXNraW4yyQEvZ290bz91cmw9Q0FFU2lnRUI2enN3RlJ5WV9Yc2JvQmROVm00bFphd1BxNk1XdUFYYzFRZmNoNFRXVjE2R2dmY1dybUxfUkVRVkRNeC1QNThLTm9FR1kwTy05V3AyaFdHLUJjMEhIUGU1WnByc2JHWUhfSlRNVkhwY0xMckNzaktHMU1IWUZ5N1JpdXplbjNhYnlheGY1czlndmJhM0dQdVpxMUJhSmNaZHBzSUpMUkZCbXNvTGtGTnNxc1FNTkc5SHVwcTNIQk06O1RoZSA4IDxiPkJlc3QgU2hlZXQgTWFza3MgRm9yIERyeSBTa2luPC9iPiAtIEVMTEUgQXVzdHJhbGlhQpcBVGhlIDggQmVzdCBTaGVldCBNYXNrcyBGb3IgRHJ5IFNraW4gOyBPbGF5LiA8Yj5PbGF5IE1hZ25lbWFzayBBZHZhbmNlZCBCcmlnaHRlbmluZyBTaGVldCBNYXNrPC9iPiA7IFRhdGNoYS4gTHVtaW5vdXMgRGV3eSBTa2luIE1hc2sgYnkgVGF0Y2hhIDsgT2xheSAyLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZSeVlfWHNib0JkTlZtNGxaYXdQcTZNV3VBWGMxUWZjaDRUV1YxNkdnZmNXcm1MX1JFUVZETXgtUDU4S05vRUdZME8tOVdwMmhXRy1CYzBISFBlNVpwcnNiR1lIX0pUTVZIcGNMTHJDc2pLRzFNSFlGeTdSaXV6ZW4zYWJ5YXhmNXM5Z3ZiYTNHUHVacTFCYUpjWmRwc0lKTFJGQm1zb0xrRk5zcXNRTU5HOUh1cHEzSEJNEgQaAggAGtkFEgIIABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkCxBQgAEAAYACAAKiwKA3RvcBVVVQdAGgRiZXN0GgtyZWNvbW1lbmRlZBoEdG9wcxoHdG9wZmFjZSouCgRmYWNlFYPtHEAaBmZhY2lhbBoFc2hlZXQaB3RvcGZhY2UaCWZhY2VtYXNrcyopCgVtYXNrcxWiDLdAGgRtYXNrGglmYWNlbWFza3MaCml2O3A7bWFza3MqCgoDZm9yFQAAAAAqLQoDZHJ5Fdq3r0AaB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoHZHJ5c2tpbio1CgRza2luFXyi2EAaB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoFc2tpbnMaB2RyeXNraW4yyQEvZ290bz91cmw9Q0FFU2lnRUI2enN3RlJ5WV9Yc2JvQmROVm00bFphd1BxNk1XdUFYYzFRZmNoNFRXVjE2R2dmY1dybUxfUkVRVkRNeC1QNThLTm9FR1kwTy05V3AyaFdHLUJjMEhIUGU1WnByc2JHWUhfSlRNVkhwY0xMckNzaktHMU1IWUZ5N1JpdXplbjNhYnlheGY1czlndmJhM0dQdVpxMUJhSmNaZHBzSUpMUkZCbXNvTGtGTnNxc1FNTkc5SHVwcTNIQk06O1RoZSA4IDxiPkJlc3QgU2hlZXQgTWFza3MgRm9yIERyeSBTa2luPC9iPiAtIEVMTEUgQXVzdHJhbGlhQpcBVGhlIDggQmVzdCBTaGVldCBNYXNrcyBGb3IgRHJ5IFNraW4gOyBPbGF5LiA8Yj5PbGF5IE1hZ25lbWFzayBBZHZhbmNlZCBCcmlnaHRlbmluZyBTaGVldCBNYXNrPC9iPiA7IFRhdGNoYS4gTHVtaW5vdXMgRGV3eSBTa2luIE1hc2sgYnkgVGF0Y2hhIDsgT2xheSAyLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "ELLE Australia",
+      "read_more_link": "https://www.elle.com.au/beauty/beauty-news/best-sheet-masks-for-dry-skin-21335/#:~:text=The%208%20Best%20Sheet%20Masks,For%20Dry%20Skin&text=Olay,Magnemask%20Advanced%20Brightening%20Sheet%20Mask&text=Tatcha,Dewy%20Skin%20Mask%20by%20Tatcha&text=Olay%202"
+    },
+    {
+      "position": 4,
+      "title": "Best Hydrating Face Masks For Dry Winter Skin",
+      "link": "https://www.makeup.com/en-ca/product-and-reviews/all-products-and-reviews/winter-skincare-moisturizing-face-masks",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESrAEB6zswFXgOrssCw0m1qMiGyHLDC1-cXKhhj8-RPlFiIbPOVDPLruje7MjPd3wzz5aXuzyipZRetVV8Tlg6sapZQVywB6XRTGeiINmA95rwzhro42BmTXfahG2rHv0gw4le7cfe4EDhKWit0-dA8kSKoq_tPV4hlJavUg3XdlXfadqTgiCWp1KMJmwD6I1e26gVwzCT0QLXglzc-Te0m0oabaKIbHIyrbECZWQV&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQFnoECDAQAQ&uoh=1",
+      "displayed_link": "https://www.makeup.com › Home › Products and Reviews",
+      "favicon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACwBgCdASogACAAPsEusFgnoaenm_DwGAlpABPLHeANBgAOfN0IqUf0tgx9QBo7w90D-TNvK-Prq8BUzYbrAAD-9wKn7dMiaDIcdVXYZnQ96iFdRLz2913AbAbWgcHgiMzD-G1M24nNlibv8tY_7FI26O7IOJBKuoDFFutA0mcRqdwP2j-VeXKIpkRqkvxKQ7tI3oeSDhjcf8sVdi3_690NRvHw97JHglfgPzGPF3Z7gSf4NfsgbzKDSCw5Smzd_l-L4K___F7YLpCoa__z4JtlErOvSZY-eZ8h7p39CVE_s_U294e6G9onWI2e1qjnrXffTuRo8tOy-Rr8dX9rYJqQ4dq3_vd_Bbmpoe7X7ppUDGAAAAA.webp",
+      "snippet": "Struggling with dry skin this winter? We've rounded up our favorite hydrating face masks to hydrate your skin and prep it for seamless makeup application.",
+      "snippet_highlighted_words": [
+        "hydrating face masks"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Struggling with dry skin this winter? We've rounded up our favorite hydrating face masks to hydrate your skin and prep it for seamless makeup application.",
+          "source_info_link": "https://www.makeup.com/en-ca/product-and-reviews/all-products-and-reviews/winter-skincare-moisturizing-face-masks",
+          "icon": "https://serpapi.com/images/i/UklGRiABAABXRUJQVlA4IBQBAACwBgCdASogACAAPsEusFgnoaenm_DwGAlpABPLHeANBgAOfN0IqUf0tgx9QBo7w90D-TNvK-Prq8BUzYbrAAD-9wKn7dMiaDIcdVXYZnQ96iFdRLz2913AbAbWgcHgiMzD-G1M24nNlibv8tY_7FI26O7IOJBKuoDFFutA0mcRqdwP2j-VeXKIpkRqkvxKQ7tI3oeSDhjcf8sVdi3_690NRvHw97JHglfgPzGPF3Z7gSf4NfsgbzKDSCw5Smzd_l-L4K___F7YLpCoa__z4JtlErOvSZY-eZ8h7p39CVE_s_U294e6G9onWI2e1qjnrXffTuRo8tOy-Rr8dX9rYJqQ4dq3_vd_Bbmpoe7X7ppUDGAAAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CvYBL2dvdG8_dXJsPUNBRVNyQUVCNnpzd0ZYZ09yc3NDdzBtMXFNaUd5SExEQzEtY1hLaGhqOC1SUGxGaUliUE9WRFBMcnVqZTdNalBkM3d6ejVhWHV6eWlwWlJldFZWOFRsZzZzYXBaUVZ5d0I2WFJUR2VpSU5tQTk1cnd6aHJvNDJCbVRYZmFoRzJySHYwZ3c0bGU3Y2ZlNEVEaEtXaXQwLWRBOGtTS29xX3RQVjRobEphdlVnM1hkbFhmYWRxVGdpQ1dwMUtNSm13RDZJMWUyNmdWd3pDVDBRTFhnbHpjLVRlMG0wb2FiYUtJYkhJeXJiRUNaV1FWEgQaAggAGqQGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIAGCAAQABgAIAAqLAoDdG9wFbYLkD4aBGJlc3QaC3JlY29tbWVuZGVkGgR0b3BzGgd0b3BmYWNlKi4KBGZhY2UV6sDkQBoGZmFjaWFsGgVzaGVldBoHdG9wZmFjZRoJZmFjZW1hc2tzKikKBW1hc2tzFTKVw0AaBG1hc2saCWZhY2VtYXNrcxoKaXY7cDttYXNrcyoKCgNmb3IVAAAAACotCgNkcnkVovGvQBoHZHJ5bmVzcxoGcmVjaXBlGgdyZWNpcGVzGgdkcnlza2luKjUKBHNraW4Vm23eQBoHZHJ5bmVzcxoGcmVjaXBlGgdyZWNpcGVzGgVza2lucxoHZHJ5c2tpbjL2AS9nb3RvP3VybD1DQUVTckFFQjZ6c3dGWGdPcnNzQ3cwbTFxTWlHeUhMREMxLWNYS2hoajgtUlBsRmlJYlBPVkRQTHJ1amU3TWpQZDN3eno1YVh1enlpcFpSZXRWVjhUbGc2c2FwWlFWeXdCNlhSVEdlaUlObUE5NXJ3emhybzQyQm1UWGZhaEcyckh2MGd3NGxlN2NmZTRFRGhLV2l0MC1kQThrU0tvcV90UFY0aGxKYXZVZzNYZGxYZmFkcVRnaUNXcDFLTUptd0Q2STFlMjZnVnd6Q1QwUUxYZ2x6Yy1UZTBtMG9hYmFLSWJISXlyYkVDWldRVjpPPGI-QmVzdDwvYj4gSHlkcmF0aW5nIDxiPkZhY2UgTWFza3MgRm9yIERyeTwvYj4gV2ludGVyIDxiPlNraW48L2I-IC0gTWFrZXVwLmNvbUKlAVN0cnVnZ2xpbmcgd2l0aCBkcnkgc2tpbiB0aGlzIHdpbnRlcj8gV2UmIzM5O3ZlIHJvdW5kZWQgdXAgb3VyIGZhdm9yaXRlIDxiPmh5ZHJhdGluZyBmYWNlIG1hc2tzPC9iPiB0byBoeWRyYXRlIHlvdXIgc2tpbiBhbmQgcHJlcCBpdCBmb3Igc2VhbWxlc3MgbWFrZXVwIGFwcGxpY2F0aW9uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CvYBL2dvdG8_dXJsPUNBRVNyQUVCNnpzd0ZYZ09yc3NDdzBtMXFNaUd5SExEQzEtY1hLaGhqOC1SUGxGaUliUE9WRFBMcnVqZTdNalBkM3d6ejVhWHV6eWlwWlJldFZWOFRsZzZzYXBaUVZ5d0I2WFJUR2VpSU5tQTk1cnd6aHJvNDJCbVRYZmFoRzJySHYwZ3c0bGU3Y2ZlNEVEaEtXaXQwLWRBOGtTS29xX3RQVjRobEphdlVnM1hkbFhmYWRxVGdpQ1dwMUtNSm13RDZJMWUyNmdWd3pDVDBRTFhnbHpjLVRlMG0wb2FiYUtJYkhJeXJiRUNaV1FWEgQaAggAGqQGEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQIAGCAAQABgAIAAqLAoDdG9wFbYLkD4aBGJlc3QaC3JlY29tbWVuZGVkGgR0b3BzGgd0b3BmYWNlKi4KBGZhY2UV6sDkQBoGZmFjaWFsGgVzaGVldBoHdG9wZmFjZRoJZmFjZW1hc2tzKikKBW1hc2tzFTKVw0AaBG1hc2saCWZhY2VtYXNrcxoKaXY7cDttYXNrcyoKCgNmb3IVAAAAACotCgNkcnkVovGvQBoHZHJ5bmVzcxoGcmVjaXBlGgdyZWNpcGVzGgdkcnlza2luKjUKBHNraW4Vm23eQBoHZHJ5bmVzcxoGcmVjaXBlGgdyZWNpcGVzGgVza2lucxoHZHJ5c2tpbjL2AS9nb3RvP3VybD1DQUVTckFFQjZ6c3dGWGdPcnNzQ3cwbTFxTWlHeUhMREMxLWNYS2hoajgtUlBsRmlJYlBPVkRQTHJ1amU3TWpQZDN3eno1YVh1enlpcFpSZXRWVjhUbGc2c2FwWlFWeXdCNlhSVEdlaUlObUE5NXJ3emhybzQyQm1UWGZhaEcyckh2MGd3NGxlN2NmZTRFRGhLV2l0MC1kQThrU0tvcV90UFY0aGxKYXZVZzNYZGxYZmFkcVRnaUNXcDFLTUptd0Q2STFlMjZnVnd6Q1QwUUxYZ2x6Yy1UZTBtMG9hYmFLSWJISXlyYkVDWldRVjpPPGI-QmVzdDwvYj4gSHlkcmF0aW5nIDxiPkZhY2UgTWFza3MgRm9yIERyeTwvYj4gV2ludGVyIDxiPlNraW48L2I-IC0gTWFrZXVwLmNvbUKlAVN0cnVnZ2xpbmcgd2l0aCBkcnkgc2tpbiB0aGlzIHdpbnRlcj8gV2UmIzM5O3ZlIHJvdW5kZWQgdXAgb3VyIGZhdm9yaXRlIDxiPmh5ZHJhdGluZyBmYWNlIG1hc2tzPC9iPiB0byBoeWRyYXRlIHlvdXIgc2tpbiBhbmQgcHJlcCBpdCBmb3Igc2VhbWxlc3MgbWFrZXVwIGFwcGxpY2F0aW9uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Makeup.com"
+    },
+    {
+      "position": 5,
+      "title": "Best Protective Face Masks For Every Skin Type | PS Beauty",
+      "link": "https://www.popsugar.com/beauty/best-protective-face-masks-every-skin-type-48129233",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESjgEB6zswFelZSdziHLXIZNwJwWBhVZ0lln0Kyqb55FoRki3swfq-HIdgCoVal9aORzlhMYJYlEe4XufgSE4DPG_fu2ZKOf3hu9YV3R8GHCxWp1njFA30NvjeD5BlzWUZr58KZMrwKZJZwMhoKix-eGYoiAnjG8YLuQ1dc5AElwwJQOe0Vg9eHEISfQcGxW6f&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQFnoECDoQAQ&uoh=1",
+      "displayed_link": "https://www.popsugar.com › Beauty › Face Masks",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYlh4IYEPQ3KusDatcV5TYPi8dYFHXqXOG5Xa6ygr0Qe0Lw1UWyLQvXwvtKx5zfVDEORD0&s",
+      "favicon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAABwBQCdASocABwAPtFAtFooIqgoFAEAGglsAJ0zNDlrwAStsUv1P79brXcpb1cI1O1w88AQAP7S36Bnzn6O1SdC5YDUwv1U4S1_D0HeyJbAOMoGxT_7FjT_3NJs0Zpf9f_maPy37l5lKjv8EDjhHzJe5xKrP6jbuVe_H8pPgwmXKm5Prwz70aHdTWMQVyAluyJqq5361k7BWBHSZV2XAy8qjLlmG2P_ScfOIX-hgjZ2Lxxgs2AAAA.webp",
+      "date": "Jan 26, 2021",
+      "snippet": "Dry Skin: 100% Cotton Protective Face Masks. Caraa Universal Adult Masks ($25 for five) are dual-layer masks that are 100 percent cotton on the ...",
+      "snippet_highlighted_words": [
+        "100% Cotton Protective Face Masks"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYlh4IYEPQ3KusDatcV5TYPi8dYFHXqXOG5Xa6ygr0Qe0Lw1UWyLQvXwvtKx5zfVDEORD0&s"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Dry Skin: 100% Cotton Protective Face Masks. Caraa Universal Adult Masks ($25 for five) are dual-layer masks that are 100 percent cotton on the ...",
+          "source_info_link": "https://www.popsugar.com/beauty/best-protective-face-masks-every-skin-type-48129233",
+          "icon": "https://serpapi.com/images/i/UklGRsIAAABXRUJQVlA4ILYAAABwBQCdASocABwAPtFAtFooIqgoFAEAGglsAJ0zNDlrwAStsUv1P79brXcpb1cI1O1w88AQAP7S36Bnzn6O1SdC5YDUwv1U4S1_D0HeyJbAOMoGxT_7FjT_3NJs0Zpf9f_maPy37l5lKjv8EDjhHzJe5xKrP6jbuVe_H8pPgwmXKm5Prwz70aHdTWMQVyAluyJqq5361k7BWBHSZV2XAy8qjLlmG2P_ScfOIX-hgjZ2Lxxgs2AAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZlbFpTZHppSExYSVpOd0p3V0JoVlowbGxuMEt5cWI1NUZvUmtpM3N3ZnEtSElkZ0NvVmFsOWFPUnpsaE1ZSllsRWU0WHVmZ1NFNERQR19mdTJaS09mM2h1OVlWM1I4R0hDeFdwMW5qRkEzME52amVENUJseldVWnI1OEtaTXJ3S1pKWndNaG9LaXgtZUdZb2lBbmpHOFlMdVExZGM1QUVsd3dKUU9lMFZnOWVIRUlTZlFjR3hXNmYSBBoCCAAa-gUSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNIFCAAQABgAIAAqLAoDdG9wFQAAAAAaBGJlc3QaC3JlY29tbWVuZGVkGgR0b3BzGgd0b3BmYWNlKi4KBGZhY2UV54bBQBoGZmFjaWFsGgVzaGVldBoHdG9wZmFjZRoJZmFjZW1hc2tzKikKBW1hc2tzFTjOv0AaBG1hc2saCWZhY2VtYXNrcxoKaXY7cDttYXNrcyoKCgNmb3IVAAAAACotCgNkcnkVgUIlQBoHZHJ5bmVzcxoGcmVjaXBlGgdyZWNpcGVzGgdkcnlza2luKjUKBHNraW4VoZzOQBoHZHJ5bmVzcxoGcmVjaXBlGgdyZWNpcGVzGgVza2lucxoHZHJ5c2tpbjLOAS9nb3RvP3VybD1DQUVTamdFQjZ6c3dGZWxaU2R6aUhMWElaTndKd1dCaFZaMGxsbjBLeXFiNTVGb1JraTNzd2ZxLUhJZGdDb1ZhbDlhT1J6bGhNWUpZbEVlNFh1ZmdTRTREUEdfZnUyWktPZjNodTlZVjNSOEdIQ3hXcDFuakZBMzBOdmplRDVCbHpXVVpyNThLWk1yd0taSlp3TWhvS2l4LWVHWW9pQW5qRzhZTHVRMWRjNUFFbHd3SlFPZTBWZzllSEVJU2ZRY0d4VzZmOk88Yj5CZXN0PC9iPiBQcm90ZWN0aXZlIDxiPkZhY2UgTWFza3M8L2I-IEZvciBFdmVyeSA8Yj5Ta2luPC9iPiBUeXBlIHwgUFMgQmVhdXR5Qp8BRHJ5IFNraW46IDxiPjEwMCUgQ290dG9uIFByb3RlY3RpdmUgRmFjZSBNYXNrczwvYj4uIENhcmFhIFVuaXZlcnNhbCBBZHVsdCBNYXNrcyAoJDI1IGZvciBmaXZlKSBhcmUgZHVhbC1sYXllciBtYXNrcyB0aGF0IGFyZSAxMDAgcGVyY2VudCBjb3R0b24gb24gdGhlJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cs4BL2dvdG8_dXJsPUNBRVNqZ0VCNnpzd0ZlbFpTZHppSExYSVpOd0p3V0JoVlowbGxuMEt5cWI1NUZvUmtpM3N3ZnEtSElkZ0NvVmFsOWFPUnpsaE1ZSllsRWU0WHVmZ1NFNERQR19mdTJaS09mM2h1OVlWM1I4R0hDeFdwMW5qRkEzME52amVENUJseldVWnI1OEtaTXJ3S1pKWndNaG9LaXgtZUdZb2lBbmpHOFlMdVExZGM1QUVsd3dKUU9lMFZnOWVIRUlTZlFjR3hXNmYSBBoCCAAa-gUSAggAGgIIASIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQNIFCAAQABgAIAAqLAoDdG9wFQAAAAAaBGJlc3QaC3JlY29tbWVuZGVkGgR0b3BzGgd0b3BmYWNlKi4KBGZhY2UV54bBQBoGZmFjaWFsGgVzaGVldBoHdG9wZmFjZRoJZmFjZW1hc2tzKikKBW1hc2tzFTjOv0AaBG1hc2saCWZhY2VtYXNrcxoKaXY7cDttYXNrcyoKCgNmb3IVAAAAACotCgNkcnkVgUIlQBoHZHJ5bmVzcxoGcmVjaXBlGgdyZWNpcGVzGgdkcnlza2luKjUKBHNraW4VoZzOQBoHZHJ5bmVzcxoGcmVjaXBlGgdyZWNpcGVzGgVza2lucxoHZHJ5c2tpbjLOAS9nb3RvP3VybD1DQUVTamdFQjZ6c3dGZWxaU2R6aUhMWElaTndKd1dCaFZaMGxsbjBLeXFiNTVGb1JraTNzd2ZxLUhJZGdDb1ZhbDlhT1J6bGhNWUpZbEVlNFh1ZmdTRTREUEdfZnUyWktPZjNodTlZVjNSOEdIQ3hXcDFuakZBMzBOdmplRDVCbHpXVVpyNThLWk1yd0taSlp3TWhvS2l4LWVHWW9pQW5qRzhZTHVRMWRjNUFFbHd3SlFPZTBWZzllSEVJU2ZRY0d4VzZmOk88Yj5CZXN0PC9iPiBQcm90ZWN0aXZlIDxiPkZhY2UgTWFza3M8L2I-IEZvciBFdmVyeSA8Yj5Ta2luPC9iPiBUeXBlIHwgUFMgQmVhdXR5Qp8BRHJ5IFNraW46IDxiPjEwMCUgQ290dG9uIFByb3RlY3RpdmUgRmFjZSBNYXNrczwvYj4uIENhcmFhIFVuaXZlcnNhbCBBZHVsdCBNYXNrcyAoJDI1IGZvciBmaXZlKSBhcmUgZHVhbC1sYXllciBtYXNrcyB0aGF0IGFyZSAxMDAgcGVyY2VudCBjb3R0b24gb24gdGhlJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSABYAGgA",
+      "source": "Popsugar",
+      "read_more_link": "https://www.popsugar.com/beauty/best-protective-face-masks-every-skin-type-48129233#:~:text=Dry%20Skin%3A%20100%25%20Cotton%20Protective,on%20the%20inside%20and%20outside."
+    },
+    {
+      "position": 6,
+      "title": "[Product Question] Suggestions on Best Hydrating Face ...",
+      "link": "https://www.reddit.com/r/SkincareAddiction/comments/45z03k/product_question_suggestions_on_best_hydrating/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpQEB6zswFUWGmztTfUuWA42hs756swytVTndXuJwL-Sv2GyTQUj_SXmR3HqfWULAFvdvFw7fOrum4fEzIKB2iUdpFx-UBkHPkPmFF7i4_QhDPlzZpR2PbsgmACbvOFmhyyWb2f2De0xfpp1fS8M2pXLPS9CHQSZaZivptfD2YrQqrOfEqEXPBMZUDP5n0wzl7qLpojHu03jK4V3BN4D5TKUnLeUdXSM&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQFnoECDIQAQ&uoh=1",
+      "displayed_link": "7 comments · 10 years ago",
+      "favicon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp",
+      "snippet": "I like using sheet masks a couple nights a week, the Hada Labo Tokyo Ultimate Anti-Aging Facial Mask is very hydrating. Then I also like to use ...",
+      "snippet_highlighted_words": [
+        "Hada Labo Tokyo Ultimate Anti-Aging Facial Mask"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I like using sheet masks a couple nights a week, the Hada Labo Tokyo Ultimate Anti-Aging Facial Mask is very hydrating. Then I also like to use ...",
+          "source_info_link": "https://www.reddit.com/r/SkincareAddiction/comments/45z03k/product_question_suggestions_on_best_hydrating/",
+          "icon": "https://serpapi.com/images/i/UklGRsgBAABXRUJQVlA4ILwBAABwCQCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHmfjXFVOG9mcZ4QDxYP1m7Cm8NegB0qRXs-2xc_4RyNjKICSZ0GQliSROqR1wWiqSCHqbbO0wAA_vfwH4_riQbrKqktUHZQIXSB7cgfDG2XxRU1t3H2qzarEsy1mUvxybokwYpSVKzHnZ-izG5PYwBHsc1GtRcEZoZGf_6u28fsi_cWb4W-9i2bp_kRTmnuqM-BBD2L8-VOJcPOsfd1DB1l8_s_3IvanbQ3-krp22uWGcFAQ0Qx0IVfaFDbMfkeuTg04P8lvHyLNiFX4K-OPAt_D6D2n53jjz9MP6rCcImkST0rmUe510C8p7V5A03Xqh32Q8S4mUzVbW_5VoXr0-sfR4z_zJaQkvouwq_D_r7Egp_FPrFkVJXi7GPrP-f_IsNcCBvRKHMAM5dgcrzXOCJypnNnfv_oVmPx-9Y2rFO8yR1NQl_md3OtZBDsOZKkRFnfCN7_-XVBD4_74J8CFdRTTBZ4SXohYcnVS4zEUUs-SViDs_npDYUK3i7eDykmgeM2Y6cC5MAMXkzfFaXcRuCDi0lv5PSzrZbCDAqNAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZVV0dtenRUZlV1V0E0MmhzNzU2c3d5dFZUbmRYdUp3TC1TdjJHeVRRVWpfU1htUjNIcWZXVUxBRnZkdkZ3N2ZPcnVtNGZFeklLQjJpVWRwRngtVUJrSFBrUG1GRjdpNF9RaERQbHpacFIyUGJzZ21BQ2J2T0ZtaHl5V2IyZjJEZTB4ZnBwMWZTOE0ycFhMUFM5Q0hRU1phWml2cHRmRDJZclFxck9mRXFFWFBCTVpVRFA1bjB3emw3cUxwb2pIdTAzaks0VjNCTjRENVRLVW5MZVVkWFNNEgQaAggAGo8GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOsFCAAQABgAIAAqLAoDdG9wFTALZD4aBGJlc3QaC3JlY29tbWVuZGVkGgR0b3BzGgd0b3BmYWNlKi4KBGZhY2UViBnaQBoGZmFjaWFsGgVzaGVldBoHdG9wZmFjZRoJZmFjZW1hc2tzKikKBW1hc2tzFc3UjEAaBG1hc2saCWZhY2VtYXNrcxoKaXY7cDttYXNrcyoKCgNmb3IVAAAAACotCgNkcnkVvVhJQBoHZHJ5bmVzcxoGcmVjaXBlGgdyZWNpcGVzGgdkcnlza2luKjUKBHNraW4V1Y59QBoHZHJ5bmVzcxoGcmVjaXBlGgdyZWNpcGVzGgVza2lucxoHZHJ5c2tpbjLtAS9nb3RvP3VybD1DQUVTcFFFQjZ6c3dGVVdHbXp0VGZVdVdBNDJoczc1NnN3eXRWVG5kWHVKd0wtU3YyR3lUUVVqX1NYbVIzSHFmV1VMQUZ2ZHZGdzdmT3J1bTRmRXpJS0IyaVVkcEZ4LVVCa0hQa1BtRkY3aTRfUWhEUGx6WnBSMlBic2dtQUNidk9GbWh5eVdiMmYyRGUweGZwcDFmUzhNMnBYTFBTOUNIUVNaYVppdnB0ZkQyWXJRcXJPZkVxRVhQQk1aVURQNW4wd3psN3FMcG9qSHUwM2pLNFYzQk40RDVUS1VuTGVVZFhTTTpJW1Byb2R1Y3QgUXVlc3Rpb25dIFN1Z2dlc3Rpb25zIG9uIDxiPkJlc3Q8L2I-IEh5ZHJhdGluZyA8Yj5GYWNlIE1hc2s8L2I-P0KfAUkgbGlrZSB1c2luZyBzaGVldCBtYXNrcyBhIGNvdXBsZSBuaWdodHMgYSB3ZWVrLCB0aGUgPGI-SGFkYSBMYWJvIFRva3lvIFVsdGltYXRlIEFudGktQWdpbmcgRmFjaWFsIE1hc2s8L2I-IGlzIHZlcnkgaHlkcmF0aW5nLiBUaGVuIEkgYWxzbyBsaWtlIHRvIHVzZSZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu0BL2dvdG8_dXJsPUNBRVNwUUVCNnpzd0ZVV0dtenRUZlV1V0E0MmhzNzU2c3d5dFZUbmRYdUp3TC1TdjJHeVRRVWpfU1htUjNIcWZXVUxBRnZkdkZ3N2ZPcnVtNGZFeklLQjJpVWRwRngtVUJrSFBrUG1GRjdpNF9RaERQbHpacFIyUGJzZ21BQ2J2T0ZtaHl5V2IyZjJEZTB4ZnBwMWZTOE0ycFhMUFM5Q0hRU1phWml2cHRmRDJZclFxck9mRXFFWFBCTVpVRFA1bjB3emw3cUxwb2pIdTAzaks0VjNCTjRENVRLVW5MZVVkWFNNEgQaAggAGo8GEgAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQOsFCAAQABgAIAAqLAoDdG9wFTALZD4aBGJlc3QaC3JlY29tbWVuZGVkGgR0b3BzGgd0b3BmYWNlKi4KBGZhY2UViBnaQBoGZmFjaWFsGgVzaGVldBoHdG9wZmFjZRoJZmFjZW1hc2tzKikKBW1hc2tzFc3UjEAaBG1hc2saCWZhY2VtYXNrcxoKaXY7cDttYXNrcyoKCgNmb3IVAAAAACotCgNkcnkVvVhJQBoHZHJ5bmVzcxoGcmVjaXBlGgdyZWNpcGVzGgdkcnlza2luKjUKBHNraW4V1Y59QBoHZHJ5bmVzcxoGcmVjaXBlGgdyZWNpcGVzGgVza2lucxoHZHJ5c2tpbjLtAS9nb3RvP3VybD1DQUVTcFFFQjZ6c3dGVVdHbXp0VGZVdVdBNDJoczc1NnN3eXRWVG5kWHVKd0wtU3YyR3lUUVVqX1NYbVIzSHFmV1VMQUZ2ZHZGdzdmT3J1bTRmRXpJS0IyaVVkcEZ4LVVCa0hQa1BtRkY3aTRfUWhEUGx6WnBSMlBic2dtQUNidk9GbWh5eVdiMmYyRGUweGZwcDFmUzhNMnBYTFBTOUNIUVNaYVppdnB0ZkQyWXJRcXJPZkVxRVhQQk1aVURQNW4wd3psN3FMcG9qSHUwM2pLNFYzQk40RDVUS1VuTGVVZFhTTTpJW1Byb2R1Y3QgUXVlc3Rpb25dIFN1Z2dlc3Rpb25zIG9uIDxiPkJlc3Q8L2I-IEh5ZHJhdGluZyA8Yj5GYWNlIE1hc2s8L2I-P0KfAUkgbGlrZSB1c2luZyBzaGVldCBtYXNrcyBhIGNvdXBsZSBuaWdodHMgYSB3ZWVrLCB0aGUgPGI-SGFkYSBMYWJvIFRva3lvIFVsdGltYXRlIEFudGktQWdpbmcgRmFjaWFsIE1hc2s8L2I-IGlzIHZlcnkgaHlkcmF0aW5nLiBUaGVuIEkgYWxzbyBsaWtlIHRvIHVzZSZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Reddit · r/SkincareAddiction",
+      "read_more_link": "https://www.reddit.com/r/SkincareAddiction/comments/45z03k/product_question_suggestions_on_best_hydrating/#:~:text=I%20like%20using%20sheet%20masks,overnight%20mask%20or%20something%20similar."
+    },
+    {
+      "position": 7,
+      "title": "Top Face Masks — Best Face Masks For Your Skin",
+      "link": "https://www.gameelaskin.com/skincare-blog/face-masks-i-love",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVbwBdk7OAFnpjhBN0ICwAu61slONtLtP9IPjLzgoiId-9Y3K_4LOlI2yUMzH6T3oxVDCydzLI3pahLGosucQLwMt3TdoSjnXs2W58YCOz0BgNgX8K2e90RKqrrNA8qjl7u4kWk7DBe00S6C0dLi-vyzY&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQFnoECDMQAQ&uoh=1",
+      "displayed_link": "https://www.gameelaskin.com › skincare-blog › face-m...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8c6rgrPiMqz-WCydTPowR-c5BTLENRcWbi22275lqToU1moBbkMBZ&usqp=CAE&s=10",
+      "favicon": "https://serpapi.com/images/i/UklGRoQAAABXRUJQVlA4IHgAAADwAwCdASocAAsAPtEwtFooIigoGAEAGglpAAPiI8rG_vZedUN6hYAAAP72Et_ravTZ1LZGczLbZw8fo9RpadmJ-FWTCOLQ3kAnMBenrwEkGTH4AaM6CxHzWfK8CVpHQXeQfe0W_-EE6tBabY1aOZpPGxNFrmWeAAA.webp",
+      "date": "Feb 27, 2023",
+      "snippet": "I'm sharing my favorite face masks tp help calm irritated skin, dry skin, and promote healthy skin. Shop online with Gameela Skin!",
+      "snippet_highlighted_words": [
+        "face masks",
+        "dry skin"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "I'm sharing my favorite face masks tp help calm irritated skin, dry skin, and promote healthy skin. Shop online with Gameela Skin!",
+          "source_info_link": "https://www.gameelaskin.com/skincare-blog/face-masks-i-love",
+          "icon": "https://serpapi.com/images/i/UklGRoQAAABXRUJQVlA4IHgAAADwAwCdASocAAsAPtEwtFooIigoGAEAGglpAAPiI8rG_vZedUN6hYAAAP72Et_ravTZ1LZGczLbZw8fo9RpadmJ-FWTCOLQ3kAnMBenrwEkGTH4AaM6CxHzWfK8CVpHQXeQfe0W_-EE6tBabY1aOZpPGxNFrmWeAAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVmJ3QmRrN09BRm5wamhCTjBJQ3dBdTYxc2xPTnRMdFA5SVBqTHpnb2lJZC05WTNLXzRMT2xJMnlVTXpINlQzb3hWREN5ZHpMSTNwYWhMR29zdWNRTHdNdDNUZG9Tam5YczJXNThZQ096MEJnTmdYOEsyZTkwUktxcnJOQThxamw3dTRrV2s3REJlMDBTNkMwZExpLXZ5elkSBBoCCAAapAUSABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD-BAgAEAAYACAAKiwKA3RvcBWji-I_GgRiZXN0GgtyZWNvbW1lbmRlZBoEdG9wcxoHdG9wZmFjZSouCgRmYWNlFfX9z0AaBmZhY2lhbBoFc2hlZXQaB3RvcGZhY2UaCWZhY2VtYXNrcyopCgVtYXNrcxVfdrBAGgRtYXNrGglmYWNlbWFza3MaCml2O3A7bWFza3MqCgoDZm9yFQAAAAAqLQoDZHJ5FRdNAz8aB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoHZHJ5c2tpbio1CgRza2luFbKq8EAaB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoFc2tpbnMaB2RyeXNraW4yrQEvZ290bz91cmw9Q0FFU2RnSHJPekFWYndCZGs3T0FGbnBqaEJOMElDd0F1NjFzbE9OdEx0UDlJUGpMemdvaUlkLTlZM0tfNExPbEkyeVVNekg2VDNveFZEQ3lkekxJM3BhaExHb3N1Y1FMd010M1Rkb1NqblhzMlc1OFlDT3owQmdOZ1g4SzJlOTBSS3Fyck5BOHFqbDd1NGtXazdEQmUwMFM2QzBkTGktdnl6WTonPGI-RmFjZSBNYXNrczwvYj4gSSBMb3ZlIC0gR2FtZWVsYSBTa2luQpQBSSYjMzk7bSBzaGFyaW5nIG15IGZhdm9yaXRlIDxiPmZhY2UgbWFza3M8L2I-IHRwIGhlbHAgY2FsbSBpcnJpdGF0ZWQgc2tpbiwgPGI-ZHJ5IHNraW48L2I-LCBhbmQgcHJvbW90ZSBoZWFsdGh5IHNraW4uIFNob3Agb25saW5lIHdpdGggR2FtZWVsYSBTa2luIUoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVmJ3QmRrN09BRm5wamhCTjBJQ3dBdTYxc2xPTnRMdFA5SVBqTHpnb2lJZC05WTNLXzRMT2xJMnlVTXpINlQzb3hWREN5ZHpMSTNwYWhMR29zdWNRTHdNdDNUZG9Tam5YczJXNThZQ096MEJnTmdYOEsyZTkwUktxcnJOQThxamw3dTRrV2s3REJlMDBTNkMwZExpLXZ5elkSBBoCCAAapAUSABoCCAEiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkD-BAgAEAAYACAAKiwKA3RvcBWji-I_GgRiZXN0GgtyZWNvbW1lbmRlZBoEdG9wcxoHdG9wZmFjZSouCgRmYWNlFfX9z0AaBmZhY2lhbBoFc2hlZXQaB3RvcGZhY2UaCWZhY2VtYXNrcyopCgVtYXNrcxVfdrBAGgRtYXNrGglmYWNlbWFza3MaCml2O3A7bWFza3MqCgoDZm9yFQAAAAAqLQoDZHJ5FRdNAz8aB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoHZHJ5c2tpbio1CgRza2luFbKq8EAaB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoFc2tpbnMaB2RyeXNraW4yrQEvZ290bz91cmw9Q0FFU2RnSHJPekFWYndCZGs3T0FGbnBqaEJOMElDd0F1NjFzbE9OdEx0UDlJUGpMemdvaUlkLTlZM0tfNExPbEkyeVVNekg2VDNveFZEQ3lkekxJM3BhaExHb3N1Y1FMd010M1Rkb1NqblhzMlc1OFlDT3owQmdOZ1g4SzJlOTBSS3Fyck5BOHFqbDd1NGtXazdEQmUwMFM2QzBkTGktdnl6WTonPGI-RmFjZSBNYXNrczwvYj4gSSBMb3ZlIC0gR2FtZWVsYSBTa2luQpQBSSYjMzk7bSBzaGFyaW5nIG15IGZhdm9yaXRlIDxiPmZhY2UgbWFza3M8L2I-IHRwIGhlbHAgY2FsbSBpcnJpdGF0ZWQgc2tpbiwgPGI-ZHJ5IHNraW48L2I-LCBhbmQgcHJvbW90ZSBoZWFsdGh5IHNraW4uIFNob3Agb25saW5lIHdpdGggR2FtZWVsYSBTa2luIUoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Gameela Skin"
+    },
+    {
+      "position": 8,
+      "title": "$50 To $100 / Facial Masks / Facial Treatments & Masks",
+      "link": "https://www.amazon.com/Facial-Masks-50-100-Treatments/s?keywords=Facial+Masks&rh=n%3A11061121%2Cp_36%3A1253952011&c=ts&ts_id=11061121",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESwQEB6zswFTDf2_c6IBc6W__qDf1GcFfkKEUp5Y2D5Xxh3eAAm1kYJITQ7LIbHvMXYy8eawz6xGsMtNKwRMGjj_xo0R2FtYCWHEc8i-GWaGXWqNtz88GbQH2UsHHy9pBQYnyoBSPRX6KjGQUdGiW7kEMREZzV9U9CmQnCF0EwGqTtlb2kbDgRcTLBJ_c79-5__xOikzIMDSWRBbTPdYlYIkzY5nC3v6NfWgwDJfyr4dmOuIhW92lNElDARdLCNtdPC_Sz&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQFnoECDEQAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › Facial-Masks-50-100-Treatm...",
+      "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+      "snippet": "BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Plumping, Elasticity Improvement, Korean Skin Care, ...",
+      "snippet_highlighted_words": [
+        "BIODANCE Bio-Collagen Real Deep Mask"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "day_returns": 30
+          },
+          "extensions": [
+            "4.5",
+            "store rating (9.1K)",
+            "Free delivery",
+            "30-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "BIODANCE Bio-Collagen Real Deep Mask, Hydrating Overnight Hydrogel Face Mask, Pore Minimizing, Plumping, Elasticity Improvement, Korean Skin Care, ...",
+          "source_info_link": "https://www.amazon.com/Facial-Masks-50-100-Treatments/s?keywords=Facial+Masks&rh=n%3A11061121%2Cp_36%3A1253952011&c=ts&ts_id=11061121",
+          "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZURGYyX2M2SUJjNldfX3FEZjFHY0Zma0tFVXA1WTJENVh4aDNlQUFtMWtZSklUUTdMSWJIdk1YWXk4ZWF3ejZ4R3NNdE5Ld1JNR2pqX3hvMFIyRnRZQ1dIRWM4aS1HV2FHWFdxTnR6ODhHYlFIMlVzSEh5OXBCUVlueW9CU1BSWDZLakdRVWRHaVc3a0VNUkVaelY5VTlDbVFuQ0YwRXdHcVR0bGIya2JEZ1JjVExCSl9jNzktNV9feE9pa3pJTURTV1JCYlRQZFlsWUlrelk1bkMzdjZOZldnd0RKZnlyNGRtT3VJaFc5MmxORWxEQVJkTENOdGRQQ19TehIEGgIIABqvBhIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCLBggAEAAYACAAKiwKA3RvcBWoid8-GgRiZXN0GgtyZWNvbW1lbmRlZBoEdG9wcxoHdG9wZmFjZSouCgRmYWNlFYFSJUAaBmZhY2lhbBoFc2hlZXQaB3RvcGZhY2UaCWZhY2VtYXNrcyopCgVtYXNrcxVSs4lAGgRtYXNrGglmYWNlbWFza3MaCml2O3A7bWFza3MqCgoDZm9yFQAAAAAqLQoDZHJ5FVGiJz8aB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoHZHJ5c2tpbio1CgRza2luFX1JGkAaB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoFc2tpbnMaB2RyeXNraW4ykgIvZ290bz91cmw9Q0FFU3dRRUI2enN3RlREZjJfYzZJQmM2V19fcURmMUdjRmZrS0VVcDVZMkQ1WHhoM2VBQW0xa1lKSVRRN0xJYkh2TVhZeThlYXd6NnhHc010Tkt3Uk1HampfeG8wUjJGdFlDV0hFYzhpLUdXYUdYV3FOdHo4OEdiUUgyVXNISHk5cEJRWW55b0JTUFJYNktqR1FVZEdpVzdrRU1SRVp6VjlVOUNtUW5DRjBFd0dxVHRsYjJrYkRnUmNUTEJKX2M3OS01X194T2lreklNRFNXUkJiVFBkWWxZSWt6WTVuQzN2Nk5mV2d3REpmeXI0ZG1PdUloVzkybE5FbERBUmRMQ050ZFBDX1N6OkEkNTAgVG8gJDEwMCAvIDxiPkZhY2lhbCBNYXNrczwvYj4gLyBGYWNpYWwgVHJlYXRtZW50cyAmYW1wOyBNYXNrc0KiATxiPkJJT0RBTkNFIEJpby1Db2xsYWdlbiBSZWFsIERlZXAgTWFzazwvYj4sIEh5ZHJhdGluZyBPdmVybmlnaHQgSHlkcm9nZWwgRmFjZSBNYXNrLCBQb3JlIE1pbmltaXppbmcsIFBsdW1waW5nLCBFbGFzdGljaXR5IEltcHJvdmVtZW50LCBLb3JlYW4gU2tpbiBDYXJlLCZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpICL2dvdG8_dXJsPUNBRVN3UUVCNnpzd0ZURGYyX2M2SUJjNldfX3FEZjFHY0Zma0tFVXA1WTJENVh4aDNlQUFtMWtZSklUUTdMSWJIdk1YWXk4ZWF3ejZ4R3NNdE5Ld1JNR2pqX3hvMFIyRnRZQ1dIRWM4aS1HV2FHWFdxTnR6ODhHYlFIMlVzSEh5OXBCUVlueW9CU1BSWDZLakdRVWRHaVc3a0VNUkVaelY5VTlDbVFuQ0YwRXdHcVR0bGIya2JEZ1JjVExCSl9jNzktNV9feE9pa3pJTURTV1JCYlRQZFlsWUlrelk1bkMzdjZOZldnd0RKZnlyNGRtT3VJaFc5MmxORWxEQVJkTENOdGRQQ19TehIEGgIIABqvBhIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCLBggAEAAYACAAKiwKA3RvcBWoid8-GgRiZXN0GgtyZWNvbW1lbmRlZBoEdG9wcxoHdG9wZmFjZSouCgRmYWNlFYFSJUAaBmZhY2lhbBoFc2hlZXQaB3RvcGZhY2UaCWZhY2VtYXNrcyopCgVtYXNrcxVSs4lAGgRtYXNrGglmYWNlbWFza3MaCml2O3A7bWFza3MqCgoDZm9yFQAAAAAqLQoDZHJ5FVGiJz8aB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoHZHJ5c2tpbio1CgRza2luFX1JGkAaB2RyeW5lc3MaBnJlY2lwZRoHcmVjaXBlcxoFc2tpbnMaB2RyeXNraW4ykgIvZ290bz91cmw9Q0FFU3dRRUI2enN3RlREZjJfYzZJQmM2V19fcURmMUdjRmZrS0VVcDVZMkQ1WHhoM2VBQW0xa1lKSVRRN0xJYkh2TVhZeThlYXd6NnhHc010Tkt3Uk1HampfeG8wUjJGdFlDV0hFYzhpLUdXYUdYV3FOdHo4OEdiUUgyVXNISHk5cEJRWW55b0JTUFJYNktqR1FVZEdpVzdrRU1SRVp6VjlVOUNtUW5DRjBFd0dxVHRsYjJrYkRnUmNUTEJKX2M3OS01X194T2lreklNRFNXUkJiVFBkWWxZSWt6WTVuQzN2Nk5mV2d3REpmeXI0ZG1PdUloVzkybE5FbERBUmRMQ050ZFBDX1N6OkEkNTAgVG8gJDEwMCAvIDxiPkZhY2lhbCBNYXNrczwvYj4gLyBGYWNpYWwgVHJlYXRtZW50cyAmYW1wOyBNYXNrc0KiATxiPkJJT0RBTkNFIEJpby1Db2xsYWdlbiBSZWFsIERlZXAgTWFzazwvYj4sIEh5ZHJhdGluZyBPdmVybmlnaHQgSHlkcm9nZWwgRmFjZSBNYXNrLCBQb3JlIE1pbmltaXppbmcsIFBsdW1waW5nLCBFbGFzdGljaXR5IEltcHJvdmVtZW50LCBLb3JlYW4gU2tpbiBDYXJlLCZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgAWABoAA",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/Facial-Masks-50-100-Treatments/s?keywords=Facial+Masks&rh=n:11061121,p_36:1253952011&c=ts&ts_id=11061121#:~:text=BIODANCE%20Bio%2DCollagen%20Real%20Deep%20Mask%2C,Women%20%7C%201.19oz(34g)%20x%2016ea"
+    }
+  ],
+  "discussions_and_forums": [
+    {
+      "title": "Top sheet masks for dry skin?",
+      "link": "https://www.reddit.com/r/KoreanBeauty/comments/1vl2csf/top_sheet_masks_for_dry_skin/",
+      "date": "1 month ago",
+      "extensions": [
+        "r/KoreanBeauty",
+        "20+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/KoreanBeauty/comments/1vl2csf/top_sheet_masks_for_dry_skin/p2ywbm0/",
+          "extensions": [
+            "Top answer",
+            "4 votes",
+            "a month ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/KoreanBeauty/comments/1vl2csf/top_sheet_masks_for_dry_skin/p2znqnn/",
+          "extensions": [
+            "4 votes",
+            "a month ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/KoreanBeauty/comments/1vl2csf/top_sheet_masks_for_dry_skin/p2y3kyz/",
+          "extensions": [
+            "3 votes",
+            "a month ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Best hydrating masks?",
+      "link": "https://www.reddit.com/r/30PlusSkinCare/comments/1777ty1/best_hydrating_masks/",
+      "date": "2 years ago",
+      "extensions": [
+        "r/30PlusSkinCare",
+        "10+ comments"
+      ],
+      "source": "Reddit",
+      "answers": [
+        {
+          "link": "https://www.reddit.com/r/30PlusSkinCare/comments/1777ty1/best_hydrating_masks/k4sosm4/",
+          "extensions": [
+            "Top answer",
+            "4 votes",
+            "2 years ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/30PlusSkinCare/comments/1777ty1/best_hydrating_masks/k4slnkc/",
+          "extensions": [
+            "2 votes",
+            "2 years ago"
+          ]
+        },
+        {
+          "link": "https://www.reddit.com/r/30PlusSkinCare/comments/1777ty1/best_hydrating_masks/k4ra964/",
+          "extensions": [
+            "2 years ago"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Best Mask for Dry Skin",
+      "link": "https://community.sephora.com/t5/Dry-Skin/Best-Mask-for-Dry-Skin/m-p/4628834",
+      "date": "7 years ago",
+      "source": "Sephora Beauty Insider Community",
+      "answers": [
+        {
+          "link": "https://community.sephora.com/t5/Dry-Skin/Best-Mask-for-Dry-Skin/m-p/4628834"
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+face+masks+for+dry+skin&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQntn4qu3AboXiG0Y-Jfw9cL590GpTQ:1790446051697&ei=4wm4aoTMKcimptQPm8mqgAM&start=10&sa=N&sstk=AS6-VmL9WylqxdmyQWTZEV1B0-My1rwCuymlBgl5pUVEJILYb2wvBh9ptwoU0NxZ28WMsUJJjByjzu6IBPhGGerQcMo1Be5xw4hfxA&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQ8NMDegQITRAQ",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+face+masks+for+dry+skin&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQntn4qu3AboXiG0Y-Jfw9cL590GpTQ:1790446051697&ei=4wm4aoTMKcimptQPm8mqgAM&start=10&sa=N&sstk=AS6-VmL9WylqxdmyQWTZEV1B0-My1rwCuymlBgl5pUVEJILYb2wvBh9ptwoU0NxZ28WMsUJJjByjzu6IBPhGGerQcMo1Be5xw4hfxA&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQ8tMDegQITRAE",
+      "3": "https://www.google.com/search?q=top+face+masks+for+dry+skin&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQntn4qu3AboXiG0Y-Jfw9cL590GpTQ:1790446051697&ei=4wm4aoTMKcimptQPm8mqgAM&start=20&sa=N&sstk=AS6-VmL9WylqxdmyQWTZEV1B0-My1rwCuymlBgl5pUVEJILYb2wvBh9ptwoU0NxZ28WMsUJJjByjzu6IBPhGGerQcMo1Be5xw4hfxA&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQ8tMDegQITRAG",
+      "4": "https://www.google.com/search?q=top+face+masks+for+dry+skin&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQntn4qu3AboXiG0Y-Jfw9cL590GpTQ:1790446051697&ei=4wm4aoTMKcimptQPm8mqgAM&start=30&sa=N&sstk=AS6-VmL9WylqxdmyQWTZEV1B0-My1rwCuymlBgl5pUVEJILYb2wvBh9ptwoU0NxZ28WMsUJJjByjzu6IBPhGGerQcMo1Be5xw4hfxA&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQ8tMDegQITRAI",
+      "5": "https://www.google.com/search?q=top+face+masks+for+dry+skin&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQntn4qu3AboXiG0Y-Jfw9cL590GpTQ:1790446051697&ei=4wm4aoTMKcimptQPm8mqgAM&start=40&sa=N&sstk=AS6-VmL9WylqxdmyQWTZEV1B0-My1rwCuymlBgl5pUVEJILYb2wvBh9ptwoU0NxZ28WMsUJJjByjzu6IBPhGGerQcMo1Be5xw4hfxA&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQ8tMDegQITRAK",
+      "6": "https://www.google.com/search?q=top+face+masks+for+dry+skin&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQntn4qu3AboXiG0Y-Jfw9cL590GpTQ:1790446051697&ei=4wm4aoTMKcimptQPm8mqgAM&start=50&sa=N&sstk=AS6-VmL9WylqxdmyQWTZEV1B0-My1rwCuymlBgl5pUVEJILYb2wvBh9ptwoU0NxZ28WMsUJJjByjzu6IBPhGGerQcMo1Be5xw4hfxA&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQ8tMDegQITRAM",
+      "7": "https://www.google.com/search?q=top+face+masks+for+dry+skin&sca_esv=72ab3b0da61ae678&hl=en&gl=us&sxsrf=APpeQntn4qu3AboXiG0Y-Jfw9cL590GpTQ:1790446051697&ei=4wm4aoTMKcimptQPm8mqgAM&start=60&sa=N&sstk=AS6-VmL9WylqxdmyQWTZEV1B0-My1rwCuymlBgl5pUVEJILYb2wvBh9ptwoU0NxZ28WMsUJJjByjzu6IBPhGGerQcMo1Be5xw4hfxA&ved=2ahUKEwjEyZmn64yXAxVIk4kEHZukCjAQ8tMDegQITRAO"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+face+masks+for+dry+skin&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+face+masks+for+dry+skin&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+face+masks+for+dry+skin&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+face+masks+for+dry+skin&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+face+masks+for+dry+skin&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+face+masks+for+dry+skin&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+face+masks+for+dry+skin&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Washington%2C+DC+%28Hagerstown%2C+MD%29%2C+United+States&q=top+face+masks+for+dry+skin&start=60"
+    }
+  }
+}

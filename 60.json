@@ -1,0 +1,533 @@
+{
+  "search_metadata": {
+    "id": "6ab80f2fd3c512ac6fb00c8f",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/M_rLMCn_MH5Rk8HdJwfNf1q5gex_luUf2iX2vJmUppk/6ab80f2fd3c512ac6fb00c8f.json",
+    "markdown_endpoint": "https://serpapi.com/searches/M_rLMCn_MH5Rk8HdJwfNf1q5gex_luUf2iX2vJmUppk/6ab80f2fd3c512ac6fb00c8f.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/M_rLMCn_MH5Rk8HdJwfNf1q5gex_luUf2iX2vJmUppk/6ab80f2fd3c512ac6fb00c8f.json_with_pixel_position",
+    "created_at": "2026-09-26 18:30:07 UTC",
+    "processed_at": "2026-09-26 18:30:07 UTC",
+    "google_url": "https://www.google.com/search?q=top+collagen+peptide+powders+for+joint+health&oq=top+collagen+peptide+powders+for+joint+health&uule=w+CAIQICIeREMgUmFuY2gsQXJpem9uYSxVbml0ZWQgU3RhdGVz&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/M_rLMCn_MH5Rk8HdJwfNf1q5gex_luUf2iX2vJmUppk/6ab80f2fd3c512ac6fb00c8f.html",
+    "total_time_taken": 35.16
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "top collagen peptide powders for joint health",
+    "location_requested": "DC Ranch, Arizona, United States",
+    "location_used": "DC Ranch,Arizona,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "top collagen peptide powders for joint health",
+    "total_results": 153,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "related_questions": [
+    {
+      "question": "Can I take a collagen supplement with citalopram?",
+      "type": "ai_overview",
+      "page_token": "bnXjwXicHdBbbqMwGEBhzWb62BgQvUSKqlJwJrQ4Mvg3xC8VmCYONpchTEj81i10DbOqWc1Us4Ejfefzjzl2-u-PLzVNw2m5WMzzfHvo-4P5uJV9uyhP104uZGlMVUq9vLu_c572chWdZfAyyoDCMPAwRSyMWYUfe9mISJogy_BQskadeYfxlqlLZsGnHjlCJK6JjTmEQSG0X1Su31RWTVtWIwqJJ_Dmui1EuwOh8nwIMm1ewTw7oni2TE-WwCPZYuOS3AlZLrKSyYnhus_WZILowUmRs6m42vCf6lV6JGKtL2hXu4CMhtyEVXNwKeJFtvZz1kmPt2IkbhyLVsWQT79kpxFFw1saUkvh5HysyW-y5qOIUg86ckxeHB6pmosrQrsivtQo1YAe0BtwmjTftgKnu0t_pJBa2ZgWNDaJpVbg-JSZfq6R78smGGusopynIKLv1nyzl-eVd_P_9ep9307LYewP_wBU5Yz_",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=bnXjwXicHdBbbqMwGEBhzWb62BgQvUSKqlJwJrQ4Mvg3xC8VmCYONpchTEj81i10DbOqWc1Us4Ejfefzjzl2-u-PLzVNw2m5WMzzfHvo-4P5uJV9uyhP104uZGlMVUq9vLu_c572chWdZfAyyoDCMPAwRSyMWYUfe9mISJogy_BQskadeYfxlqlLZsGnHjlCJK6JjTmEQSG0X1Su31RWTVtWIwqJJ_Dmui1EuwOh8nwIMm1ewTw7oni2TE-WwCPZYuOS3AlZLrKSyYnhus_WZILowUmRs6m42vCf6lV6JGKtL2hXu4CMhtyEVXNwKeJFtvZz1kmPt2IkbhyLVsWQT79kpxFFw1saUkvh5HysyW-y5qOIUg86ckxeHB6pmosrQrsivtQo1YAe0BtwmjTftgKnu0t_pJBa2ZgWNDaJpVbg-JSZfq6R78smGGusopynIKLv1nyzl-eVd_P_9ep9307LYewP_wBU5Yz_",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmREQkdaelp1VnpGeFZHeHJiSGhJVTBKM1NGUlZhRU5hVVhSR1RrRTRVbEJJUVRoTFZqVnVWMnBKTFdobU5tOXpRbU5yVVhKallWRTRTRWxrUVZkb1RqZ3lZVFV3VFU5SFdGUlpPSEZKVUZsWk5GRjJTSFZUYUVSM1VSSVhWV2N0TkdGeWNYZEVaRk5QTkMxRlVESTJjakZ4VVdNYUlrRkVjM0k1WmxJek55MXhaelpHZEZoeWFIaGxaMlpSV0ZOaWNucGFaVkY2TkZFIiwiZmN2IjoiMyIsImVpIjoiVWctNGFycXdEZFNPNC1FUDI2cjFxUWMiLCJxYyI6IkNpMTBiM0FnWTI5c2JHRm5aVzRnY0dWd2RHbGtaU0J3YjNka1pYSnpJR1p2Y2lCcWIybHVkQ0JvWldGc2RHZ1FBSDJiT3pFXyIsInF1ZXN0aW9uIjoiQ2FuIEkgdGFrZSBhIGNvbGxhZ2VuIHN1cHBsZW1lbnQgd2l0aCBjaXRhbG9wcmFtPyIsImxrIjoiR2pCallXNGdhU0IwWVd0bElHRWdZMjlzYkdGblpXNGdjM1Z3Y0d4bGJXVnVkQ0IzYVhSb0lHTnBkR0ZzYjNCeVlXMCIsImJzIjoiYzVXT3ZRNkNNQlJHNDlySm1jUjRSeVh4cnlfQW9JdURNX08xWEtGU2FOTmUwdmoyR2hoRVhXUV81X3VPS01YaGlDMmNnYkVtUUZEV0dDeXBoZEE1WjZpaGxpRnFya0JwUm1PZHh5YVRNdG1ybDZRblNDSVg2N3pTcW5yRHpzYUNQT2dBVndvTU4tdmhiblhMSVpOcHNvcF93Z0xGOW1SSElEbldCUVZBeFIwYTg0Qm9mZjJ4dmtzMnhSUkRYRVQ2M1Q0NG95eXVxRV9MNURKWjlJMl9Cd005bnowQiIsImlkIjoiZmNfVWctNGFycXdEZFNPNC1FUDI2cjFxUWNfNSJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmREQkdaelp1VnpGeFZHeHJiSGhJVTBKM1NGUlZhRU5hVVhSR1RrRTRVbEJJUVRoTFZqVnVWMnBKTFdobU5tOXpRbU5yVVhKallWRTRTRWxrUVZkb1RqZ3lZVFV3VFU5SFdGUlpPSEZKVUZsWk5GRjJTSFZUYUVSM1VSSVhWV2N0TkdGeWNYZEVaRk5QTkMxRlVESTJjakZ4VVdNYUlrRkVjM0k1WmxJek55MXhaelpHZEZoeWFIaGxaMlpSV0ZOaWNucGFaVkY2TkZFIiwiZmN2IjoiMyIsImVpIjoiVWctNGFycXdEZFNPNC1FUDI2cjFxUWMiLCJxYyI6IkNpMTBiM0FnWTI5c2JHRm5aVzRnY0dWd2RHbGtaU0J3YjNka1pYSnpJR1p2Y2lCcWIybHVkQ0JvWldGc2RHZ1FBSDJiT3pFXyIsInF1ZXN0aW9uIjoiQ2FuIEkgdGFrZSBhIGNvbGxhZ2VuIHN1cHBsZW1lbnQgd2l0aCBjaXRhbG9wcmFtPyIsImxrIjoiR2pCallXNGdhU0IwWVd0bElHRWdZMjlzYkdGblpXNGdjM1Z3Y0d4bGJXVnVkQ0IzYVhSb0lHTnBkR0ZzYjNCeVlXMCIsImJzIjoiYzVXT3ZRNkNNQlJHNDlySm1jUjRSeVh4cnlfQW9JdURNX08xWEtGU2FOTmUwdmoyR2hoRVhXUV81X3VPS01YaGlDMmNnYkVtUUZEV0dDeXBoZEE1WjZpaGxpRnFya0JwUm1PZHh5YVRNdG1ybDZRblNDSVg2N3pTcW5yRHpzYUNQT2dBVndvTU4tdmhiblhMSVpOcHNvcF93Z0xGOW1SSElEbldCUVZBeFIwYTg0Qm9mZjJ4dmtzMnhSUkRYRVQ2M1Q0NG95eXVxRV9MNURKWjlJMl9Cd005bnowQiIsImlkIjoiZmNfVWctNGFycXdEZFNPNC1FUDI2cjFxUWNfNSJ9"
+    },
+    {
+      "question": "Which collagen powder is best for joints?",
+      "type": "ai_overview",
+      "page_token": "5_zIc3icHdBdboIwAADg7DI-zrYEt5iYRRH8idQUWqB9WbBVEQplrhs_b7vLTrXTbNkJvuT7-ta3pvp5-Cysbd_n02nXdY9XY676_ChNPc3fh0ZOZa71KZfVfPY0gy8XufA_divvbbcirG2TdQToRqURCuwhuTosU4ekiUY1qpCAqCBwBTgtOpbi8sjaD-y7oQBkOMZgIA6u5baIcSIcynCfbwNyrqzBleuyBkO2LlhcCag2YU-TFhxY4Knaao7aFdfBjmoxpJvCCB1a0SyRRFCkqTInKLtzDJB02nsEteF07_Fy2WXIIFpXY-jvPUE1PG40zsv9mCC4pinscx_3saMbv1CJGADg2b5XIKoYeP6zExKWYgizIOK9uREWjbLUNWPuLEfQi2noxpn2OLKUAFvyNBjEFl9Sn1lCJhf5uXAm_5-L10tt5-3dXH8B2yeCcw",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=5_zIc3icHdBdboIwAADg7DI-zrYEt5iYRRH8idQUWqB9WbBVEQplrhs_b7vLTrXTbNkJvuT7-ta3pvp5-Cysbd_n02nXdY9XY676_ChNPc3fh0ZOZa71KZfVfPY0gy8XufA_divvbbcirG2TdQToRqURCuwhuTosU4ekiUY1qpCAqCBwBTgtOpbi8sjaD-y7oQBkOMZgIA6u5baIcSIcynCfbwNyrqzBleuyBkO2LlhcCag2YU-TFhxY4Knaao7aFdfBjmoxpJvCCB1a0SyRRFCkqTInKLtzDJB02nsEteF07_Fy2WXIIFpXY-jvPUE1PG40zsv9mCC4pinscx_3saMbv1CJGADg2b5XIKoYeP6zExKWYgizIOK9uREWjbLUNWPuLEfQi2noxpn2OLKUAFvyNBjEFl9Sn1lCJhf5uXAm_5-L10tt5-3dXH8B2yeCcw",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmREQkdaelp1VnpGeFZHeHJiSGhJVTBKM1NGUlZhRU5hVVhSR1RrRTRVbEJJUVRoTFZqVnVWMnBKTFdobU5tOXpRbU5yVVhKallWRTRTRWxrUVZkb1RqZ3lZVFV3VFU5SFdGUlpPSEZKVUZsWk5GRjJTSFZUYUVSM1VSSVhWV2N0TkdGeWNYZEVaRk5QTkMxRlVESTJjakZ4VVdNYUlrRkVjM0k1WmxJek55MXhaelpHZEZoeWFIaGxaMlpSV0ZOaWNucGFaVkY2TkZFIiwiZmN2IjoiMyIsImVpIjoiVWctNGFycXdEZFNPNC1FUDI2cjFxUWMiLCJxYyI6IkNpMTBiM0FnWTI5c2JHRm5aVzRnY0dWd2RHbGtaU0J3YjNka1pYSnpJR1p2Y2lCcWIybHVkQ0JvWldGc2RHZ1FBSDJiT3pFXyIsInF1ZXN0aW9uIjoiV2hpY2ggY29sbGFnZW4gcG93ZGVyIGlzIGJlc3QgZm9yIGpvaW50cz8iLCJsayI6IkdpaDNhR2xqYUNCamIyeHNZV2RsYmlCd2IzZGtaWElnYVhNZ1ltVnpkQ0JtYjNJZ2FtOXBiblJ6IiwiYnMiOiJjNVdPdlE2Q01CUkc0OXJKbWNSNFJ5WHhyeV9Bb0l1RE1fTzFYS0ZTYU5OZTB2ajJHaGhFWFdRXzVfdU9LTVhoaUMyY2diRW1RRkRXR0N5cGhkQTVaNmlobGlGcXJrQnBSbU9keHlhVE10bXJsNlFuU0NJWDY3elNxbnJEenNhQ1BPZ0FWd29NTi12aGJuWExJWk5wc29wX3dnTEY5bVJISURuV0JRVkF4UjBhODRCb2ZmMnh2a3MyeFJSRFhFVDYzVDQ0b3l5dXFFX0w1REpaOUkyX0J3TTluejBCIiwiaWQiOiJmY19VZy00YXJxd0RkU080LUVQMjZyMXFRY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmREQkdaelp1VnpGeFZHeHJiSGhJVTBKM1NGUlZhRU5hVVhSR1RrRTRVbEJJUVRoTFZqVnVWMnBKTFdobU5tOXpRbU5yVVhKallWRTRTRWxrUVZkb1RqZ3lZVFV3VFU5SFdGUlpPSEZKVUZsWk5GRjJTSFZUYUVSM1VSSVhWV2N0TkdGeWNYZEVaRk5QTkMxRlVESTJjakZ4VVdNYUlrRkVjM0k1WmxJek55MXhaelpHZEZoeWFIaGxaMlpSV0ZOaWNucGFaVkY2TkZFIiwiZmN2IjoiMyIsImVpIjoiVWctNGFycXdEZFNPNC1FUDI2cjFxUWMiLCJxYyI6IkNpMTBiM0FnWTI5c2JHRm5aVzRnY0dWd2RHbGtaU0J3YjNka1pYSnpJR1p2Y2lCcWIybHVkQ0JvWldGc2RHZ1FBSDJiT3pFXyIsInF1ZXN0aW9uIjoiV2hpY2ggY29sbGFnZW4gcG93ZGVyIGlzIGJlc3QgZm9yIGpvaW50cz8iLCJsayI6IkdpaDNhR2xqYUNCamIyeHNZV2RsYmlCd2IzZGtaWElnYVhNZ1ltVnpkQ0JtYjNJZ2FtOXBiblJ6IiwiYnMiOiJjNVdPdlE2Q01CUkc0OXJKbWNSNFJ5WHhyeV9Bb0l1RE1fTzFYS0ZTYU5OZTB2ajJHaGhFWFdRXzVfdU9LTVhoaUMyY2diRW1RRkRXR0N5cGhkQTVaNmlobGlGcXJrQnBSbU9keHlhVE10bXJsNlFuU0NJWDY3elNxbnJEenNhQ1BPZ0FWd29NTi12aGJuWExJWk5wc29wX3dnTEY5bVJISURuV0JRVkF4UjBhODRCb2ZmMnh2a3MyeFJSRFhFVDYzVDQ0b3l5dXFFX0w1REpaOUkyX0J3TTluejBCIiwiaWQiOiJmY19VZy00YXJxd0RkU080LUVQMjZyMXFRY181In0%3D"
+    },
+    {
+      "question": "Do collagen peptides actually work for joints?",
+      "type": "ai_overview",
+      "page_token": "fR2r9nicHdBfbpswHABg9TJ9bAxZWBMpmkTBqVBwi7F_gF8m1yahxvxZoIHw1iv0DD3VTjNp3xG-z2_73tZ_776qceyH3Wo1TdPDuevOtnxQXbOSw61VKyWtfZOq3nk_PefXSe3Dq_KfLspPeN9DQFHazKfUiIHZfpDuOEA9e7LZuPywEfFztwaeILDVEjNdJc7W1RgsCUgOACEcIE5b_cGZBuKAAUSOfImEMGqSh3As3GkB5s-p87gu6u3tzSSOciLMrO8Vma5kQwe9kJmZEGlGMr2ITi2VfMHaUDReKEQGFvtKMHZ1I17FM445s512t1fuhi5HY5M9OfzI8SYzvowD8Mo8nBLrhyWf-zJDP3QDfxIOPuU0CisN4oZQkUezRrTm6BEdOSSxEbc4x7SYu_eE00UZ23B3pmUQYd3iFlrdcqcqWBBtXhhhxBKShjrX0_1JXffr-__X-9-nZtz1l-78Dz9pjZY",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fR2r9nicHdBfbpswHABg9TJ9bAxZWBMpmkTBqVBwi7F_gF8m1yahxvxZoIHw1iv0DD3VTjNp3xG-z2_73tZ_776qceyH3Wo1TdPDuevOtnxQXbOSw61VKyWtfZOq3nk_PefXSe3Dq_KfLspPeN9DQFHazKfUiIHZfpDuOEA9e7LZuPywEfFztwaeILDVEjNdJc7W1RgsCUgOACEcIE5b_cGZBuKAAUSOfImEMGqSh3As3GkB5s-p87gu6u3tzSSOciLMrO8Vma5kQwe9kJmZEGlGMr2ITi2VfMHaUDReKEQGFvtKMHZ1I17FM445s512t1fuhi5HY5M9OfzI8SYzvowD8Mo8nBLrhyWf-zJDP3QDfxIOPuU0CisN4oZQkUezRrTm6BEdOSSxEbc4x7SYu_eE00UZ23B3pmUQYd3iFlrdcqcqWBBtXhhhxBKShjrX0_1JXffr-__X-9-nZtz1l-78Dz9pjZY",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmREQkdaelp1VnpGeFZHeHJiSGhJVTBKM1NGUlZhRU5hVVhSR1RrRTRVbEJJUVRoTFZqVnVWMnBKTFdobU5tOXpRbU5yVVhKallWRTRTRWxrUVZkb1RqZ3lZVFV3VFU5SFdGUlpPSEZKVUZsWk5GRjJTSFZUYUVSM1VSSVhWV2N0TkdGeWNYZEVaRk5QTkMxRlVESTJjakZ4VVdNYUlrRkVjM0k1WmxJek55MXhaelpHZEZoeWFIaGxaMlpSV0ZOaWNucGFaVkY2TkZFIiwiZmN2IjoiMyIsImVpIjoiVWctNGFycXdEZFNPNC1FUDI2cjFxUWMiLCJxYyI6IkNpMTBiM0FnWTI5c2JHRm5aVzRnY0dWd2RHbGtaU0J3YjNka1pYSnpJR1p2Y2lCcWIybHVkQ0JvWldGc2RHZ1FBSDJiT3pFXyIsInF1ZXN0aW9uIjoiRG8gY29sbGFnZW4gcGVwdGlkZXMgYWN0dWFsbHkgd29yayBmb3Igam9pbnRzPyIsImxrIjoiR2kxa2J5QmpiMnhzWVdkbGJpQndaWEIwYVdSbGN5QmhZM1IxWVd4c2VTQjNiM0pySUdadmNpQnFiMmx1ZEhNIiwiYnMiOiJjNVdPdlE2Q01CUkc0OXJKbWNSNFJ5WHhyeV9Bb0l1RE1fTzFYS0ZTYU5OZTB2ajJHaGhFWFdRXzVfdU9LTVhoaUMyY2diRW1RRkRXR0N5cGhkQTVaNmlobGlGcXJrQnBSbU9keHlhVE10bXJsNlFuU0NJWDY3elNxbnJEenNhQ1BPZ0FWd29NTi12aGJuWExJWk5wc29wX3dnTEY5bVJISURuV0JRVkF4UjBhODRCb2ZmMnh2a3MyeFJSRFhFVDYzVDQ0b3l5dXFFX0w1REpaOUkyX0J3TTluejBCIiwiaWQiOiJmY19VZy00YXJxd0RkU080LUVQMjZyMXFRY181In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmREQkdaelp1VnpGeFZHeHJiSGhJVTBKM1NGUlZhRU5hVVhSR1RrRTRVbEJJUVRoTFZqVnVWMnBKTFdobU5tOXpRbU5yVVhKallWRTRTRWxrUVZkb1RqZ3lZVFV3VFU5SFdGUlpPSEZKVUZsWk5GRjJTSFZUYUVSM1VSSVhWV2N0TkdGeWNYZEVaRk5QTkMxRlVESTJjakZ4VVdNYUlrRkVjM0k1WmxJek55MXhaelpHZEZoeWFIaGxaMlpSV0ZOaWNucGFaVkY2TkZFIiwiZmN2IjoiMyIsImVpIjoiVWctNGFycXdEZFNPNC1FUDI2cjFxUWMiLCJxYyI6IkNpMTBiM0FnWTI5c2JHRm5aVzRnY0dWd2RHbGtaU0J3YjNka1pYSnpJR1p2Y2lCcWIybHVkQ0JvWldGc2RHZ1FBSDJiT3pFXyIsInF1ZXN0aW9uIjoiRG8gY29sbGFnZW4gcGVwdGlkZXMgYWN0dWFsbHkgd29yayBmb3Igam9pbnRzPyIsImxrIjoiR2kxa2J5QmpiMnhzWVdkbGJpQndaWEIwYVdSbGN5QmhZM1IxWVd4c2VTQjNiM0pySUdadmNpQnFiMmx1ZEhNIiwiYnMiOiJjNVdPdlE2Q01CUkc0OXJKbWNSNFJ5WHhyeV9Bb0l1RE1fTzFYS0ZTYU5OZTB2ajJHaGhFWFdRXzVfdU9LTVhoaUMyY2diRW1RRkRXR0N5cGhkQTVaNmlobGlGcXJrQnBSbU9keHlhVE10bXJsNlFuU0NJWDY3elNxbnJEenNhQ1BPZ0FWd29NTi12aGJuWExJWk5wc29wX3dnTEY5bVJISURuV0JRVkF4UjBhODRCb2ZmMnh2a3MyeFJSRFhFVDYzVDQ0b3l5dXFFX0w1REpaOUkyX0J3TTluejBCIiwiaWQiOiJmY19VZy00YXJxd0RkU080LUVQMjZyMXFRY181In0%3D"
+    },
+    {
+      "question": "Which collagen peptide powder is the best?",
+      "type": "ai_overview",
+      "page_token": "wePs2XicHdBdbpswAABg7TJ9bGzIsiZSVI2CEyIww9gG_DIRO3_GgLPSQHjbXXqqnqZVT_BJ3_93c2nrjx-3c9_b19VsNgzD46nrTubwKLtmVr3eWzmTlTH7Starxa8FfD7KdfAWei_X0EuZtdwnIIMI4g28Vs6yj4rQZYYzGtg_KVjO4_xpojlpFBKcbhFl-TiqFzAprXjFdheZq0XEcEcnLPZmhyUM3X2Ao4SKRd5yL-HoemCkJdC6vP6p-QbPY2eZRRRr5ZOtCGyUFYhn7W-YMFtShrSkuPkSDXPMLcmhrXwxMCeYs5aEeWsTWZg2mwjhRT2KrQC04VWqvUw1JEld7AVnxcUdgLLYjQqQmoEnEDGexlrc4wKRcuwuKSOT1KZhTCUHtCsPPiYi56HwvTiusY61QgRhWDp9I4aHo7yt3Yfvz_XfY9Ov7L_u9Am7LIHl",
+      "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=wePs2XicHdBdbpswAABg7TJ9bGzIsiZSVI2CEyIww9gG_DIRO3_GgLPSQHjbXXqqnqZVT_BJ3_93c2nrjx-3c9_b19VsNgzD46nrTubwKLtmVr3eWzmTlTH7Starxa8FfD7KdfAWei_X0EuZtdwnIIMI4g28Vs6yj4rQZYYzGtg_KVjO4_xpojlpFBKcbhFl-TiqFzAprXjFdheZq0XEcEcnLPZmhyUM3X2Ao4SKRd5yL-HoemCkJdC6vP6p-QbPY2eZRRRr5ZOtCGyUFYhn7W-YMFtShrSkuPkSDXPMLcmhrXwxMCeYs5aEeWsTWZg2mwjhRT2KrQC04VWqvUw1JEld7AVnxcUdgLLYjQqQmoEnEDGexlrc4wKRcuwuKSOT1KZhTCUHtCsPPiYi56HwvTiusY61QgRhWDp9I4aHo7yt3Yfvz_XfY9Ov7L_u9Am7LIHl",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmREQkdaelp1VnpGeFZHeHJiSGhJVTBKM1NGUlZhRU5hVVhSR1RrRTRVbEJJUVRoTFZqVnVWMnBKTFdobU5tOXpRbU5yVVhKallWRTRTRWxrUVZkb1RqZ3lZVFV3VFU5SFdGUlpPSEZKVUZsWk5GRjJTSFZUYUVSM1VSSVhWV2N0TkdGeWNYZEVaRk5QTkMxRlVESTJjakZ4VVdNYUlrRkVjM0k1WmxJek55MXhaelpHZEZoeWFIaGxaMlpSV0ZOaWNucGFaVkY2TkZFIiwiZmN2IjoiMyIsImVpIjoiVWctNGFycXdEZFNPNC1FUDI2cjFxUWMiLCJxYyI6IkNpMTBiM0FnWTI5c2JHRm5aVzRnY0dWd2RHbGtaU0J3YjNka1pYSnpJR1p2Y2lCcWIybHVkQ0JvWldGc2RHZ1FBSDJiT3pFXyIsInF1ZXN0aW9uIjoiV2hpY2ggY29sbGFnZW4gcGVwdGlkZSBwb3dkZXIgaXMgdGhlIGJlc3Q/IiwibGsiOiJHaDFpWlhOMElHTnZiR3hoWjJWdUlIQmxjSFJwWkdWeklIQnZkMlJsY2ciLCJicyI6ImM1V092UTZDTUJSRzQ5ckptY1I0UnlYeHJ5X0FvSXVETV9PMVhLRlNhTk5lMHZqMkdoaEVYV1FfNV91T0tNWGhpQzJjZ2JFbVFGRFdHQ3lwaGRBNVo2aWhsaUZxcmtCcFJtT2R4eWFUTXRtcmw2UW5TQ0lYNjd6U3FuckR6c2FDUE9nQVZ3b01OLXZoYm5YTElaTnBzb3Bfd2dMRjltUkhJRG5XQlFWQXhSMGE4NEJvZmYyeHZrczJ4UlJEWEVUNjNUNDRveXl1cUVfTDVESlo5STJfQndNOW56MEIiLCJpZCI6ImZjX1VnLTRhcnF3RGRTTzQtRVAyNnIxcVFjXzUifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmREQkdaelp1VnpGeFZHeHJiSGhJVTBKM1NGUlZhRU5hVVhSR1RrRTRVbEJJUVRoTFZqVnVWMnBKTFdobU5tOXpRbU5yVVhKallWRTRTRWxrUVZkb1RqZ3lZVFV3VFU5SFdGUlpPSEZKVUZsWk5GRjJTSFZUYUVSM1VSSVhWV2N0TkdGeWNYZEVaRk5QTkMxRlVESTJjakZ4VVdNYUlrRkVjM0k1WmxJek55MXhaelpHZEZoeWFIaGxaMlpSV0ZOaWNucGFaVkY2TkZFIiwiZmN2IjoiMyIsImVpIjoiVWctNGFycXdEZFNPNC1FUDI2cjFxUWMiLCJxYyI6IkNpMTBiM0FnWTI5c2JHRm5aVzRnY0dWd2RHbGtaU0J3YjNka1pYSnpJR1p2Y2lCcWIybHVkQ0JvWldGc2RHZ1FBSDJiT3pFXyIsInF1ZXN0aW9uIjoiV2hpY2ggY29sbGFnZW4gcGVwdGlkZSBwb3dkZXIgaXMgdGhlIGJlc3Q%2FIiwibGsiOiJHaDFpWlhOMElHTnZiR3hoWjJWdUlIQmxjSFJwWkdWeklIQnZkMlJsY2ciLCJicyI6ImM1V092UTZDTUJSRzQ5ckptY1I0UnlYeHJ5X0FvSXVETV9PMVhLRlNhTk5lMHZqMkdoaEVYV1FfNV91T0tNWGhpQzJjZ2JFbVFGRFdHQ3lwaGRBNVo2aWhsaUZxcmtCcFJtT2R4eWFUTXRtcmw2UW5TQ0lYNjd6U3FuckR6c2FDUE9nQVZ3b01OLXZoYm5YTElaTnBzb3Bfd2dMRjltUkhJRG5XQlFWQXhSMGE4NEJvZmYyeHZrczJ4UlJEWEVUNjNUNDRveXl1cUVfTDVESlo5STJfQndNOW56MEIiLCJpZCI6ImZjX1VnLTRhcnF3RGRTTzQtRVAyNnIxcVFjXzUifQ%3D%3D"
+    }
+  ],
+  "ai_overview": {
+    "page_token": "N7b3qXiczZZZcuI4GIAPMOcYv9AsxmxOlatLFoYohAQDJjEvlLGFbPACtsGBt77LnGouMVcYeWNrSKr7YWpUyELyv0n6P35-_GVb7urvP_4xw3AdPJTLURSViOcRG5d0zylrwd7VywvPDnzd_E5sYRswgbf1dWwZgm76noOZ7dbGQlSAAMkIIjyU-kRxOlu1SgL5_WmNHX6rjj4mc8euTN9konBD0-hODoxpC9hl9juBY_RAYBlsCQop1jR_E7WN0WutKA2qDZ_dyDqThCHM5lqAlzTKj2VQnpXpY_Un16aTUlDCbum5Kx1C1H_hhq1StcLypdey5lAB8B82WQIIiHRMh3sNAtAFIPrCmBQbBFAG_eMSgadXaWun9mKfJFno3XUpEQSo4DCxIQMwgIO-0Yo1slCpq_sRixeTWJJai_dAzYmidE_xZpOzTeQ24Sey6PaylKqRbHp-y3etiVRcupgDtQ3ae5q52Qq5kI_P43QkKLEcJQ4eARyIRSBH8icbpwo9BOormhX3DzYP5d3s5UIvRKORlA1Ck7dSnvt0YMuWburJFz-IcxqO-Yr3OFGbyodawQddsgN2Xic6r4W2jDscKetzKmd7moGNmTmrfE_mbJWtV3iu2fqWwKQHR5qCc5pGCNbklTJ_fwKl55LI5ijB43VcnbFE5_DWTYkwE715KfCUyWfKFjy_ByUbaXpXEEAX-UAkNIitdBOU6Pm9ApFmgm6eh5bLJhIpSjU6EnhDKEt0SNKI4hGd1I8iRIIJSllkp1f9G9Q__bQiP-bfEMrko8wyuDZggiE6OlevLalAhkSKD0mEz8RKF_WLkOgkP7LUDEr8UsP5nUjpeu64fToMaqZDO1RFEmsTRSFUKf6Niz-SlNwKyZTlSxbIFUx5e6OqTfhzPtyWvmrilyDFoeTMXCFwjo6EPppFrjE_7Co-0vHQ3I-KvV5LG4x5chsVz5n_QuXR_18w5XVJyerSfZi6X8NEH-SsLp3DJB0fp7o0SmHq3YfJul2XXm_UpWuYIBieYOqJaV2K7tWlX4UJfgKTl_oEN2CCsae0ncME78EkInINkzqWLuvSOR6nunSC6TfqkvibdSlhC6fDZZHaLsn9YtVWV89t9W27PIidIbuvrasto-aSuoujL4vVwgkfHM2wv80s40GsPoV749uMLngP2GA2QuitC7pn2xrBbmGN16Fl4MLaiwzsB4WF5xeWnuWGBRNrdmgyju17QkVrPPYNczMeGtNlcTLu7FoK23gadezxpFqrh1xD74iqxXGWyvLNprKL2tF7UScAOXWxzm3G0fSjoS_2Y8ccbOqD7WFW3L2jESmSl9f6egrct2C3RU9zjfc4GfpsS7HdUdCvuZNgrYJdW2rABYYN6Iy77LSKkqACwarx9rM67kxXOkO3F2D6v9jxdYFecI2AFxm8EZqRMMlU2j3aI9obFHCxSnOJCXRthoOd0OAXbGuO-QbPai2NqzAOCfdrocozgesL7L9gtGQp",
+    "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=N7b3qXiczZZZcuI4GIAPMOcYv9AsxmxOlatLFoYohAQDJjEvlLGFbPACtsGBt77LnGouMVcYeWNrSKr7YWpUyELyv0n6P35-_GVb7urvP_4xw3AdPJTLURSViOcRG5d0zylrwd7VywvPDnzd_E5sYRswgbf1dWwZgm76noOZ7dbGQlSAAMkIIjyU-kRxOlu1SgL5_WmNHX6rjj4mc8euTN9konBD0-hODoxpC9hl9juBY_RAYBlsCQop1jR_E7WN0WutKA2qDZ_dyDqThCHM5lqAlzTKj2VQnpXpY_Un16aTUlDCbum5Kx1C1H_hhq1StcLypdey5lAB8B82WQIIiHRMh3sNAtAFIPrCmBQbBFAG_eMSgadXaWun9mKfJFno3XUpEQSo4DCxIQMwgIO-0Yo1slCpq_sRixeTWJJai_dAzYmidE_xZpOzTeQ24Sey6PaylKqRbHp-y3etiVRcupgDtQ3ae5q52Qq5kI_P43QkKLEcJQ4eARyIRSBH8icbpwo9BOormhX3DzYP5d3s5UIvRKORlA1Ck7dSnvt0YMuWburJFz-IcxqO-Yr3OFGbyodawQddsgN2Xic6r4W2jDscKetzKmd7moGNmTmrfE_mbJWtV3iu2fqWwKQHR5qCc5pGCNbklTJ_fwKl55LI5ijB43VcnbFE5_DWTYkwE715KfCUyWfKFjy_ByUbaXpXEEAX-UAkNIitdBOU6Pm9ApFmgm6eh5bLJhIpSjU6EnhDKEt0SNKI4hGd1I8iRIIJSllkp1f9G9Q__bQiP-bfEMrko8wyuDZggiE6OlevLalAhkSKD0mEz8RKF_WLkOgkP7LUDEr8UsP5nUjpeu64fToMaqZDO1RFEmsTRSFUKf6Niz-SlNwKyZTlSxbIFUx5e6OqTfhzPtyWvmrilyDFoeTMXCFwjo6EPppFrjE_7Co-0vHQ3I-KvV5LG4x5chsVz5n_QuXR_18w5XVJyerSfZi6X8NEH-SsLp3DJB0fp7o0SmHq3YfJul2XXm_UpWuYIBieYOqJaV2K7tWlX4UJfgKTl_oEN2CCsae0ncME78EkInINkzqWLuvSOR6nunSC6TfqkvibdSlhC6fDZZHaLsn9YtVWV89t9W27PIidIbuvrasto-aSuoujL4vVwgkfHM2wv80s40GsPoV749uMLngP2GA2QuitC7pn2xrBbmGN16Fl4MLaiwzsB4WF5xeWnuWGBRNrdmgyju17QkVrPPYNczMeGtNlcTLu7FoK23gadezxpFqrh1xD74iqxXGWyvLNprKL2tF7UScAOXWxzm3G0fSjoS_2Y8ccbOqD7WFW3L2jESmSl9f6egrct2C3RU9zjfc4GfpsS7HdUdCvuZNgrYJdW2rABYYN6Iy77LSKkqACwarx9rM67kxXOkO3F2D6v9jxdYFecI2AFxm8EZqRMMlU2j3aI9obFHCxSnOJCXRthoOd0OAXbGuO-QbPai2NqzAOCfdrocozgesL7L9gtGQp"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Vital Proteins Collagen Peptides Powder, Unflavored, 9.33oz",
+      "link": "https://www.amazon.com/Vital-Proteins-Collagen-Peptides-Unflavored/dp/B09RQBHRCT",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiwEB6zswFaDRULFU_Ca5oisI81W-MRTCjYv_sQ8DH2LdAvaRUUECPFrDPetPT5x_Z1H8v-tVUPv8XX1hh6ZTptmqfF1YWWeCR4wibnrvvrS5Eanbi241asH2HcybuwZmDMzqyNBSfA0NumHfSgWK1H_KIwUrZcdK2eUYRHj9BXDjVZaUW4Mnz2ELqPsU&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQFnoECCQQAQ&uoh=1",
+      "displayed_link": "https://www.amazon.com › Vital-Proteins-Collagen-Pepti...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png",
+      "snippet": "Vital Proteins Collagen Peptides Powder, Unflavored, 9.33oz. Grass-Fed Collagen Peptides, Supports Hair Skin & Nails, Bones & Joints, 13 Servings.",
+      "snippet_highlighted_words": [
+        "Collagen Peptides Powder",
+        "Collagen Peptides",
+        "Joints"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "extensions": [
+            "Free delivery",
+            "30-day returns"
+          ],
+          "detected_extensions": {
+            "day_returns": 30
+          }
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Vital Proteins Collagen Peptides Powder, Unflavored, 9.33oz. Grass-Fed Collagen Peptides, Supports Hair Skin & Nails, Bones & Joints, 13 Servings.",
+          "source_info_link": "https://www.amazon.com/Vital-Proteins-Collagen-Peptides-Unflavored/dp/B09RQBHRCT",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAJ1BMVEUAAAD_aAD_YgD_YgD_YgD_YgD_YAD_YgD_sYD_2L______iUD_ZAB0ug3qAAAADXRSTlMAFoDQ_P9a8_____8X3rnsgQAAAJFJREFUeAFjYGBUdg2FghAjAQYGhvRQJFDGwMAWigISGMRRBQoZVFEFghhMUQWCGVxRBUIYQtEAjQQiEJzOVa0ggRVwgd07l4K0dHXABHbuaAUJRKxa0Q3iRs9aEbUVbOiOVatWzZg5a9XKrR1gW0BqgADIR1gbvaOzeysN_YIRhBiBjBEN6BFVgxGVGJGNkRwAxx6woDFROxgAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZhRFJVTEZVX0NhNW9pc0k4MVctTVJUQ2pZdl9zUThESDJMZEF2YVJVVUVDUEZyRFBldFBUNXhfWjFIOHYtdFZVUHY4WFgxaGg2WlRwdG1xZkYxWVdXZUNSNHdpYm5ydnZyUzVFYW5iaTI0MWFzSDJIY3lidXdabURNenF5TkJTZkEwTnVtSGZTZ1dLMUhfS0l3VXJaY2RLMmVVWVJIajlCWERqVlphVVc0TW56MkVMcVBzVRIEGgIIABqdBhICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQPcFCAAQABgAIAAqJAoDdG9wFdDZHz8aBGJlc3QaBWJyYW5kGgtyZWNvbW1lbmRlZCovCghjb2xsYWdlbhUHVqJAGg9jb2xsYWdlbnBlcHRpZGUaDWl2O3A7Y29sbGFnZW4qNwoHcGVwdGlkZRUAAAAAGghwZXB0aWRlcxoPY29sbGFnZW5wZXB0aWRlGgxpdjtwO3BlcHRpZGUqLgoHcG93ZGVycxUAAAAAGgZwb3dkZXIaCHBvd2RlcmVkGgxpdjtwO3Bvd2RlcnMqCgoDZm9yFQAAAAAqLAoFam9pbnQVniKMPxoJYXJ0aHJpdGlzGgZqb2ludHMaC2pvaW50aGVhbHRoKiUKBmhlYWx0aBXXFuQ_GglhcnRocml0aXMaC2pvaW50aGVhbHRoMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZhRFJVTEZVX0NhNW9pc0k4MVctTVJUQ2pZdl9zUThESDJMZEF2YVJVVUVDUEZyRFBldFBUNXhfWjFIOHYtdFZVUHY4WFgxaGg2WlRwdG1xZkYxWVdXZUNSNHdpYm5ydnZyUzVFYW5iaTI0MWFzSDJIY3lidXdabURNenF5TkJTZkEwTnVtSGZTZ1dLMUhfS0l3VXJaY2RLMmVVWVJIajlCWERqVlphVVc0TW56MkVMcVBzVTpCVml0YWwgUHJvdGVpbnMgPGI-Q29sbGFnZW4gUGVwdGlkZXMgUG93ZGVyPC9iPiwgVW5mbGF2b3JlZCwgOS4zM296Qq8BVml0YWwgUHJvdGVpbnMgPGI-Q29sbGFnZW4gUGVwdGlkZXMgUG93ZGVyPC9iPiwgVW5mbGF2b3JlZCwgOS4zM296LiBHcmFzcy1GZWQgPGI-Q29sbGFnZW4gUGVwdGlkZXM8L2I-LCBTdXBwb3J0cyBIYWlyIFNraW4gJmFtcDsgTmFpbHMsIEJvbmVzICZhbXA7IDxiPkpvaW50czwvYj4sIDEzIFNlcnZpbmdzLkoDZm9yUgRiZXN0IgIQAUgBWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZhRFJVTEZVX0NhNW9pc0k4MVctTVJUQ2pZdl9zUThESDJMZEF2YVJVVUVDUEZyRFBldFBUNXhfWjFIOHYtdFZVUHY4WFgxaGg2WlRwdG1xZkYxWVdXZUNSNHdpYm5ydnZyUzVFYW5iaTI0MWFzSDJIY3lidXdabURNenF5TkJTZkEwTnVtSGZTZ1dLMUhfS0l3VXJaY2RLMmVVWVJIajlCWERqVlphVVc0TW56MkVMcVBzVRIEGgIIABqdBhICCAEaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQPcFCAAQABgAIAAqJAoDdG9wFdDZHz8aBGJlc3QaBWJyYW5kGgtyZWNvbW1lbmRlZCovCghjb2xsYWdlbhUHVqJAGg9jb2xsYWdlbnBlcHRpZGUaDWl2O3A7Y29sbGFnZW4qNwoHcGVwdGlkZRUAAAAAGghwZXB0aWRlcxoPY29sbGFnZW5wZXB0aWRlGgxpdjtwO3BlcHRpZGUqLgoHcG93ZGVycxUAAAAAGgZwb3dkZXIaCHBvd2RlcmVkGgxpdjtwO3Bvd2RlcnMqCgoDZm9yFQAAAAAqLAoFam9pbnQVniKMPxoJYXJ0aHJpdGlzGgZqb2ludHMaC2pvaW50aGVhbHRoKiUKBmhlYWx0aBXXFuQ_GglhcnRocml0aXMaC2pvaW50aGVhbHRoMsoBL2dvdG8_dXJsPUNBRVNpd0VCNnpzd0ZhRFJVTEZVX0NhNW9pc0k4MVctTVJUQ2pZdl9zUThESDJMZEF2YVJVVUVDUEZyRFBldFBUNXhfWjFIOHYtdFZVUHY4WFgxaGg2WlRwdG1xZkYxWVdXZUNSNHdpYm5ydnZyUzVFYW5iaTI0MWFzSDJIY3lidXdabURNenF5TkJTZkEwTnVtSGZTZ1dLMUhfS0l3VXJaY2RLMmVVWVJIajlCWERqVlphVVc0TW56MkVMcVBzVTpCVml0YWwgUHJvdGVpbnMgPGI-Q29sbGFnZW4gUGVwdGlkZXMgUG93ZGVyPC9iPiwgVW5mbGF2b3JlZCwgOS4zM296Qq8BVml0YWwgUHJvdGVpbnMgPGI-Q29sbGFnZW4gUGVwdGlkZXMgUG93ZGVyPC9iPiwgVW5mbGF2b3JlZCwgOS4zM296LiBHcmFzcy1GZWQgPGI-Q29sbGFnZW4gUGVwdGlkZXM8L2I-LCBTdXBwb3J0cyBIYWlyIFNraW4gJmFtcDsgTmFpbHMsIEJvbmVzICZhbXA7IDxiPkpvaW50czwvYj4sIDEzIFNlcnZpbmdzLkoDZm9yUgRiZXN0IgIQAUgBWABoAA",
+      "source": "Amazon.com",
+      "read_more_link": "https://www.amazon.com/Vital-Proteins-Collagen-Peptides-Unflavored/dp/B09RQBHRCT#:~:text=Vital%20Proteins%20Collagen%20Peptides%20Powder%2C,Bones%20%26%20Joints%2C%2013%20Servings"
+    },
+    {
+      "position": 2,
+      "title": "The 10 Best Collagen Supplements of 2026, Tested & ...",
+      "link": "https://www.health.com/nutrition/best-collagen-supplements",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAVzIoHkEVYUbV7KXlU3FxY0C2WddzOA7DdqVRk4uERlf9niuMvc3MmT6cIx96xr849dqBp0goBhTZ0hiOXMd3tpC2osWPc96ps1H2t1pjpoH5QsF0mjnSNGPYFz5SpMreoKggjpnDQ8DFklOeiaFcqYQ&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQFnoECEUQAQ&uoh=1",
+      "displayed_link": "https://www.health.com › nutrition › best-collagen-supp...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUArRoAqgAAqQAAqw-KzYi74LW43rK_4rpfw2XD473_______mE0Yj__fX___yAz4S247R6zn7s9-Xh89sArBiK040OEVOgAAAAdElEQVR4Ac3QiwqAIAyF4ZyVuTW7v_-rNiaBwYAQAn9uBz9us_s1BwA-Ty_TvawfxjCp-imMQ18qRCSc9cXNMiOUGIjTg4kpNIELaIuFtG7aSgYyJY3YQiaNTdwPbeeKU04pY9t_GxHxynjJjIrfkguNWd0NWfYLgx2p0MkAAAAASUVORK5CYII.png",
+      "date": "Aug 19, 2026",
+      "snippet": "Vital Proteins Collagen Peptides earns our Best Overall spot for its simple, research-aligned formulation and ease of use. This powder contains ...",
+      "snippet_highlighted_words": [
+        "Vital Proteins Collagen Peptides"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Top Picks",
+            "link": "https://www.health.com/nutrition/best-collagen-supplements#toc-top-picks"
+          },
+          {
+            "title": "Reviews",
+            "link": "https://www.health.com/nutrition/best-collagen-supplements#toc-reviews"
+          },
+          {
+            "title": "More to Consider",
+            "link": "https://www.health.com/nutrition/best-collagen-supplements#toc-more-to-consider"
+          },
+          {
+            "title": "Should I Take Collagen...",
+            "link": "https://www.health.com/nutrition/best-collagen-supplements#toc-should-i-take-collagen-supplements"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Vital Proteins Collagen Peptides earns our Best Overall spot for its simple, research-aligned formulation and ease of use. This powder contains ...",
+          "source_info_link": "https://www.health.com/nutrition/best-collagen-supplements",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAQlBMVEUArRoAqgAAqQAAqw-KzYi74LW43rK_4rpfw2XD473_______mE0Yj__fX___yAz4S247R6zn7s9-Xh89sArBiK040OEVOgAAAAdElEQVR4Ac3QiwqAIAyF4ZyVuTW7v_-rNiaBwYAQAn9uBz9us_s1BwA-Ty_TvawfxjCp-imMQ18qRCSc9cXNMiOUGIjTg4kpNIELaIuFtG7aSgYyJY3YQiaNTdwPbeeKU04pY9t_GxHxynjJjIrfkguNWd0NWfYLgx2p0MkAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVnpJb0hrRVZZVWJWN0tYbFUzRnhZMEMyV2Rkek9BN0RkcVZSazR1RVJsZjluaXVNdmMzTW1UNmNJeDk2eHI4NDlkcUJwMGdvQmhUWjBoaU9YTWQzdHBDMm9zV1BjOTZwczFIMnQxcGpwb0g1UXNGMG1qblNOR1BZRno1U3BNcmVvS2dnanBuRFE4REZrbE9laWFGY3FZURIEGgIIABrzBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQM0FCAAQABgAIAAqJAoDdG9wFS5Tpz8aBGJlc3QaBWJyYW5kGgtyZWNvbW1lbmRlZCovCghjb2xsYWdlbhXqGLNAGg9jb2xsYWdlbnBlcHRpZGUaDWl2O3A7Y29sbGFnZW4qNwoHcGVwdGlkZRUAAAAAGghwZXB0aWRlcxoPY29sbGFnZW5wZXB0aWRlGgxpdjtwO3BlcHRpZGUqLgoHcG93ZGVycxUWOLs_GgZwb3dkZXIaCHBvd2RlcmVkGgxpdjtwO3Bvd2RlcnMqCgoDZm9yFQAAAAAqLAoFam9pbnQVeTv6PxoJYXJ0aHJpdGlzGgZqb2ludHMaC2pvaW50aGVhbHRoKiUKBmhlYWx0aBX9zVZAGglhcnRocml0aXMaC2pvaW50aGVhbHRoMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVnpJb0hrRVZZVWJWN0tYbFUzRnhZMEMyV2Rkek9BN0RkcVZSazR1RVJsZjluaXVNdmMzTW1UNmNJeDk2eHI4NDlkcUJwMGdvQmhUWjBoaU9YTWQzdHBDMm9zV1BjOTZwczFIMnQxcGpwb0g1UXNGMG1qblNOR1BZRno1U3BNcmVvS2dnanBuRFE4REZrbE9laWFGY3FZUTpGVGhlIDEwIDxiPkJlc3QgQ29sbGFnZW48L2I-IFN1cHBsZW1lbnRzIG9mIDIwMjYsIFRlc3RlZCAmYW1wOyBSZXZpZXdlZEKfATxiPlZpdGFsIFByb3RlaW5zIENvbGxhZ2VuIFBlcHRpZGVzPC9iPiBlYXJucyBvdXIgQmVzdCBPdmVyYWxsIHNwb3QgZm9yIGl0cyBzaW1wbGUsIHJlc2VhcmNoLWFsaWduZWQgZm9ybXVsYXRpb24gYW5kIGVhc2Ugb2YgdXNlLiBUaGlzIHBvd2RlciBjb250YWlucyZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgBWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVnpJb0hrRVZZVWJWN0tYbFUzRnhZMEMyV2Rkek9BN0RkcVZSazR1RVJsZjluaXVNdmMzTW1UNmNJeDk2eHI4NDlkcUJwMGdvQmhUWjBoaU9YTWQzdHBDMm9zV1BjOTZwczFIMnQxcGpwb0g1UXNGMG1qblNOR1BZRno1U3BNcmVvS2dnanBuRFE4REZrbE9laWFGY3FZURIEGgIIABrzBRICCAEaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQM0FCAAQABgAIAAqJAoDdG9wFS5Tpz8aBGJlc3QaBWJyYW5kGgtyZWNvbW1lbmRlZCovCghjb2xsYWdlbhXqGLNAGg9jb2xsYWdlbnBlcHRpZGUaDWl2O3A7Y29sbGFnZW4qNwoHcGVwdGlkZRUAAAAAGghwZXB0aWRlcxoPY29sbGFnZW5wZXB0aWRlGgxpdjtwO3BlcHRpZGUqLgoHcG93ZGVycxUWOLs_GgZwb3dkZXIaCHBvd2RlcmVkGgxpdjtwO3Bvd2RlcnMqCgoDZm9yFQAAAAAqLAoFam9pbnQVeTv6PxoJYXJ0aHJpdGlzGgZqb2ludHMaC2pvaW50aGVhbHRoKiUKBmhlYWx0aBX9zVZAGglhcnRocml0aXMaC2pvaW50aGVhbHRoMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVnpJb0hrRVZZVWJWN0tYbFUzRnhZMEMyV2Rkek9BN0RkcVZSazR1RVJsZjluaXVNdmMzTW1UNmNJeDk2eHI4NDlkcUJwMGdvQmhUWjBoaU9YTWQzdHBDMm9zV1BjOTZwczFIMnQxcGpwb0g1UXNGMG1qblNOR1BZRno1U3BNcmVvS2dnanBuRFE4REZrbE9laWFGY3FZUTpGVGhlIDEwIDxiPkJlc3QgQ29sbGFnZW48L2I-IFN1cHBsZW1lbnRzIG9mIDIwMjYsIFRlc3RlZCAmYW1wOyBSZXZpZXdlZEKfATxiPlZpdGFsIFByb3RlaW5zIENvbGxhZ2VuIFBlcHRpZGVzPC9iPiBlYXJucyBvdXIgQmVzdCBPdmVyYWxsIHNwb3QgZm9yIGl0cyBzaW1wbGUsIHJlc2VhcmNoLWFsaWduZWQgZm9ybXVsYXRpb24gYW5kIGVhc2Ugb2YgdXNlLiBUaGlzIHBvd2RlciBjb250YWlucyZuYnNwOy4uLkoDZm9yUgRiZXN0IgIQAUgBWABoAA",
+      "source": "Health.com",
+      "read_more_link": "https://www.health.com/nutrition/best-collagen-supplements#:~:text=Vital%20Proteins%20Collagen%20Peptides%20earns,abundant%20types%20in%20the%20body."
+    },
+    {
+      "position": 3,
+      "title": "Best Collagen Supplements: Which Type Should You ...",
+      "link": "https://www.goodrx.com/well-being/supplements-herbs/best-collagen-supplements?srsltid=AU7gw4X_YruwbGMXDSb-ciO0xOxOvCpOSYN1Hyrc6nU2EAvVIV9hv9fD",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESygEB6zswFSc9S3dYsmWlhvCkE8nDO1n6bbAdu1_-8g3d4j-w61MW7LjA7OIknBC6-ETObNW10fpJk5A8X9B5cJe-kW9gCGgaIEeFhTnOGuHGpA0Sfeo7at5lahMe-_1dtau2Qag0NMBR2zzM4Vw4QXRq_vCHHfDkoAxdlAKFXIreTNvu3Z1qyKAMfYI_YFHG_tMgy3ZI5-HclZk6cLDgmkH-IOosRQZCHDVDijWjpJxCupITKS6Qnj-bis79-XhuCrHxkZ62xS8LyrtP&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQFnoECDoQAQ&uoh=1",
+      "displayed_link": "https://www.goodrx.com › well-being › supplements-herbs",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABNUlEQVR4Ae2XIWgDQRBFv6iujC8UKlLv6lVEVb33VBbqZe2JepfW15sSqrqZa110PNnZyX1YQmBJSI7sDYEMfJGIfU_czf1FnzHBtbZ4VUHoErXFMgmmFvCA2mO_uEmCVgVWBqnLcz34F65UMCNsT1IUTFBjYsBTCSyTBN-oMSpoCDgk1mKEU08UfBwhcI9TTxpC4CLAh8cEYx6wldseAo_bZ-QzR_sesAlfnx0H_pQC_UJGsSe4vfIWs8oC5cbk_i7g9QWYtOrYPHTKPxwEjGzwS-YlQDZUEL0EyKZAcBQIYLHwEiAbbDcsGEMLkEn2puWwaAwoMCOzaDu5cDQExTk-GUb_8JYX1gt_90mWb8ggC2c5KnjXORaHxP5xd-kD7gK-pVQwdq_lrhcT96vZ2VxO3a_na60_9oUHCv6SAAAAAElFTkSuQmCC.png",
+      "snippet": "Collagen supplements may help with skin elasticity, improve joint pain, and more. Read on to learn how to choose the best collagen supplements for you.",
+      "snippet_highlighted_words": [
+        "may help with skin elasticity, improve joint pain"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Collagen supplements may help with skin elasticity, improve joint pain, and more. Read on to learn how to choose the best collagen supplements for you.",
+          "source_info_link": "https://www.goodrx.com/well-being/supplements-herbs/best-collagen-supplements?srsltid=AU7gw4X_YruwbGMXDSb-ciO0xOxOvCpOSYN1Hyrc6nU2EAvVIV9hv9fD",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAABNUlEQVR4Ae2XIWgDQRBFv6iujC8UKlLv6lVEVb33VBbqZe2JepfW15sSqrqZa110PNnZyX1YQmBJSI7sDYEMfJGIfU_czf1FnzHBtbZ4VUHoErXFMgmmFvCA2mO_uEmCVgVWBqnLcz34F65UMCNsT1IUTFBjYsBTCSyTBN-oMSpoCDgk1mKEU08UfBwhcI9TTxpC4CLAh8cEYx6wldseAo_bZ-QzR_sesAlfnx0H_pQC_UJGsSe4vfIWs8oC5cbk_i7g9QWYtOrYPHTKPxwEjGzwS-YlQDZUEL0EyKZAcBQIYLHwEiAbbDcsGEMLkEn2puWwaAwoMCOzaDu5cDQExTk-GUb_8JYX1gt_90mWb8ggC2c5KnjXORaHxP5xd-kD7gK-pVQwdq_lrhcT96vZ2VxO3a_na60_9oUHCv6SAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZTYzlTM2RZc21XbGh2Q2tFOG5ETzFuNmJiQWR1MV8tOGczZDRqLXc2MU1XN0xqQTdPSWtuQkM2LUVUT2JOVzEwZnBKazVBOFg5QjVjSmUta1c5Z0NHZ2FJRWVGaFRuT0d1SEdwQTBTZmVvN2F0NWxhaE1lLV8xZHRhdTJRYWcwTk1CUjJ6ek00Vnc0UVhScV92Q0hIZkRrb0F4ZGxBS0ZYSXJlVE52dTNaMXF5S0FNZllJX1lGSEdfdE1neTNaSTUtSGNsWms2Y0xEZ21rSC1JT29zUlFaQ0hEVkRpaldqcEp4Q3VwSVRLUzZRbmotYmlzNzktWGh1Q3JIeGtaNjJ4UzhMeXJ0UBIEGgIIABqFBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQN8FCAAQABgAIAAqJAoDdG9wFQAAAAAaBGJlc3QaBWJyYW5kGgtyZWNvbW1lbmRlZCovCghjb2xsYWdlbhWmgqxAGg9jb2xsYWdlbnBlcHRpZGUaDWl2O3A7Y29sbGFnZW4qNwoHcGVwdGlkZRUAAAAAGghwZXB0aWRlcxoPY29sbGFnZW5wZXB0aWRlGgxpdjtwO3BlcHRpZGUqLgoHcG93ZGVycxWK2KQ9GgZwb3dkZXIaCHBvd2RlcmVkGgxpdjtwO3Bvd2RlcnMqCgoDZm9yFQAAAAAqLAoFam9pbnQVBsGPPxoJYXJ0aHJpdGlzGgZqb2ludHMaC2pvaW50aGVhbHRoKiUKBmhlYWx0aBVw9QhAGglhcnRocml0aXMaC2pvaW50aGVhbHRoMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZiQnVTbUNhd3hrbmZkMzBMTXVoUFc3VHdXaE5NbndGbkRCTmh2RWg3NHZLeXBQempwUG1VRWFpd0x0a19lS2h4bTNvd1R1Q1g3R0c4eU5FMEhaUnVUMWJsbkN3Nm5YNnhQdV9welllaWd2QkVMWTd1YU8yX3BiaHo2WTU4T1AtdGZYdy1udm5XZ1ZCakhyUnlFcXg2aVhwN182X1NQZnpZVURhSFdzZGJod3Ytb0pWOj88Yj5CZXN0IENvbGxhZ2VuPC9iPiBTdXBwbGVtZW50czogV2hpY2ggVHlwZSBTaG91bGQgWW91IENob29zZT9CngFDb2xsYWdlbiBzdXBwbGVtZW50cyA8Yj5tYXkgaGVscCB3aXRoIHNraW4gZWxhc3RpY2l0eSwgaW1wcm92ZSBqb2ludCBwYWluPC9iPiwgYW5kIG1vcmUuIFJlYWQgb24gdG8gbGVhcm4gaG93IHRvIGNob29zZSB0aGUgYmVzdCBjb2xsYWdlbiBzdXBwbGVtZW50cyBmb3IgeW91LkoDZm9yUgRiZXN0IgIQAUgBWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZTYzlTM2RZc21XbGh2Q2tFOG5ETzFuNmJiQWR1MV8tOGczZDRqLXc2MU1XN0xqQTdPSWtuQkM2LUVUT2JOVzEwZnBKazVBOFg5QjVjSmUta1c5Z0NHZ2FJRWVGaFRuT0d1SEdwQTBTZmVvN2F0NWxhaE1lLV8xZHRhdTJRYWcwTk1CUjJ6ek00Vnc0UVhScV92Q0hIZkRrb0F4ZGxBS0ZYSXJlVE52dTNaMXF5S0FNZllJX1lGSEdfdE1neTNaSTUtSGNsWms2Y0xEZ21rSC1JT29zUlFaQ0hEVkRpaldqcEp4Q3VwSVRLUzZRbmotYmlzNzktWGh1Q3JIeGtaNjJ4UzhMeXJ0UBIEGgIIABqFBhICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHIAegCCQN8FCAAQABgAIAAqJAoDdG9wFQAAAAAaBGJlc3QaBWJyYW5kGgtyZWNvbW1lbmRlZCovCghjb2xsYWdlbhWmgqxAGg9jb2xsYWdlbnBlcHRpZGUaDWl2O3A7Y29sbGFnZW4qNwoHcGVwdGlkZRUAAAAAGghwZXB0aWRlcxoPY29sbGFnZW5wZXB0aWRlGgxpdjtwO3BlcHRpZGUqLgoHcG93ZGVycxWK2KQ9GgZwb3dkZXIaCHBvd2RlcmVkGgxpdjtwO3Bvd2RlcnMqCgoDZm9yFQAAAAAqLAoFam9pbnQVBsGPPxoJYXJ0aHJpdGlzGgZqb2ludHMaC2pvaW50aGVhbHRoKiUKBmhlYWx0aBVw9QhAGglhcnRocml0aXMaC2pvaW50aGVhbHRoMsYBL2dvdG8_dXJsPUNBRVNpQUVCNnpzd0ZiQnVTbUNhd3hrbmZkMzBMTXVoUFc3VHdXaE5NbndGbkRCTmh2RWg3NHZLeXBQempwUG1VRWFpd0x0a19lS2h4bTNvd1R1Q1g3R0c4eU5FMEhaUnVUMWJsbkN3Nm5YNnhQdV9welllaWd2QkVMWTd1YU8yX3BiaHo2WTU4T1AtdGZYdy1udm5XZ1ZCakhyUnlFcXg2aVhwN182X1NQZnpZVURhSFdzZGJod3Ytb0pWOj88Yj5CZXN0IENvbGxhZ2VuPC9iPiBTdXBwbGVtZW50czogV2hpY2ggVHlwZSBTaG91bGQgWW91IENob29zZT9CngFDb2xsYWdlbiBzdXBwbGVtZW50cyA8Yj5tYXkgaGVscCB3aXRoIHNraW4gZWxhc3RpY2l0eSwgaW1wcm92ZSBqb2ludCBwYWluPC9iPiwgYW5kIG1vcmUuIFJlYWQgb24gdG8gbGVhcm4gaG93IHRvIGNob29zZSB0aGUgYmVzdCBjb2xsYWdlbiBzdXBwbGVtZW50cyBmb3IgeW91LkoDZm9yUgRiZXN0IgIQAUgBWABoAA",
+      "source": "GoodRx"
+    },
+    {
+      "position": 4,
+      "title": "Bone & Joint Support - Bioactive Collagen Powder",
+      "link": "https://www.vitalproteins.com/products/bone-joint-support?srsltid=AU7gw4WXHUdOpGKrFBVouu8E9YF2pAi3R4gLwiW2vG7aNtVL0hMSMSo6",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEStQEB6zswFfj753iDyAdI13CUPFjVCvryBMGIZ0oWI0r9_F9nJVn-tBfLcVvqmG0XVT1zo3y7bFyNTs9HLz956fAM1fx8xnoA_F8JaHPjvb4LNjVtA71tHOjx81Vr5wqSSfXIT42IVVK5-ucroAZxvlIUCLL-vZT0DHjGugeVY0ru9bKozHuEPYCbb31vtip9xH914njsT7KztVLisdQfDXwlzngfdB4QpWaORhVdmmP7LnN0Q4bx&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQFnoECD8QAQ&uoh=1",
+      "displayed_link": "https://www.vitalproteins.com › Products",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwRq-MSq-MSq-MSq-MSq-MSq-MRq-MRq-MRq-MUquISq-MRq-MRq-MSq-MRq-OT0IiwAAAAEHRSTlMAKF9LEnjP__GdB7_84K6MlROOlQAAAQ1JREFUeAFiIAYImQCaoAeYjOIgAODZxpBdQxyybcxqzBh7Fy4bY7aNOdf8XduyPcQxY-5p7d34--MklXFGo49E6wAX4r2GQeo5AMJpO38w3kIIrHFbpsfSFAm4wG1K4ok3dFOXVw9oxTIBtm0bPO71f2GLYzRsJ6cn9qREYKkby2mgts2JtvwFgboAq4Nqn5sLyHCZlbfpOMXsM39aoEI9Vrs7vtpqYkkQS8Wz7dqYn1d9JygbYimfAUUaS5_PhHt8z0_bJcFnn0uA1fwMXsQY1r8-Ea3y1MHCDbo9A3TjqXTGz4AF4vRRSIQIryLlcwGIakWxU9QjyKz-qeFSz7xJNqkUmDwk3eyYRJL4AxCsbwbPK3vKAAAAAElFTkSuQmCC.png",
+      "snippet": "Bioactive Collagen Complex Bone and Joint Support optimizes joint functionality to support mobility and comfort. It provides joints, bones and muscles with ...",
+      "snippet_highlighted_words": [
+        "Bioactive Collagen Complex Bone and Joint Support"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.0,
+            "reviews": 7,
+            "price": 59.0,
+            "currency": "$"
+          },
+          "extensions": [
+            "4.0(7)",
+            "$59.00",
+            "In stock",
+            "$5.95 delivery"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Bioactive Collagen Complex Bone and Joint Support optimizes joint functionality to support mobility and comfort. It provides joints, bones and muscles with ...",
+          "source_info_link": "https://www.vitalproteins.com/products/bone-joint-support?srsltid=AU7gw4WXHUdOpGKrFBVouu8E9YF2pAi3R4gLwiW2vG7aNtVL0hMSMSo6",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAMFBMVEVHcEwRq-MSq-MSq-MSq-MSq-MSq-MRq-MRq-MRq-MUquISq-MRq-MRq-MSq-MRq-OT0IiwAAAAEHRSTlMAKF9LEnjP__GdB7_84K6MlROOlQAAAQ1JREFUeAFiIAYImQCaoAeYjOIgAODZxpBdQxyybcxqzBh7Fy4bY7aNOdf8XduyPcQxY-5p7d34--MklXFGo49E6wAX4r2GQeo5AMJpO38w3kIIrHFbpsfSFAm4wG1K4ok3dFOXVw9oxTIBtm0bPO71f2GLYzRsJ6cn9qREYKkby2mgts2JtvwFgboAq4Nqn5sLyHCZlbfpOMXsM39aoEI9Vrs7vtpqYkkQS8Wz7dqYn1d9JygbYimfAUUaS5_PhHt8z0_bJcFnn0uA1fwMXsQY1r8-Ea3y1MHCDbo9A3TjqXTGz4AF4vRRSIQIryLlcwGIakWxU9QjyKz-qeFSz7xJNqkUmDwk3eyYRJL4AxCsbwbPK3vKAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0Zmajc1M2lEeUFkSTEzQ1VQRmpWQ3ZyeUJNR0laMG9XSTByOV9GOW5KVm4tdEJmTGNWdnFtRzBYVlQxem8zeTdiRnlOVHM5SEx6OTU2ZkFNMWZ4OHhub0FfRjhKYUhQanZiNExOalZ0QTcxdEhPang4MVZyNXdxU1NmWElUNDJJVlZLNS11Y3JvQVp4dmxJVUNMTC12WlQwREhqR3VnZVZZMHJ1OWJLb3pIdUVQWUNiYjMxdnRpcDl4SDkxNG5qc1Q3S3p0Vkxpc2RRZkRYd2x6bmdmZEI0UXBXYU9SaFZkbW1QN0xuTjBRNGJ4EgQaAggAGvkFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0wUIABAAGAAgACokCgN0b3AVAAAAABoEYmVzdBoFYnJhbmQaC3JlY29tbWVuZGVkKi8KCGNvbGxhZ2VuFVQ6TUAaD2NvbGxhZ2VucGVwdGlkZRoNaXY7cDtjb2xsYWdlbio3CgdwZXB0aWRlFfKybT4aCHBlcHRpZGVzGg9jb2xsYWdlbnBlcHRpZGUaDGl2O3A7cGVwdGlkZSouCgdwb3dkZXJzFUzRrT4aBnBvd2RlchoIcG93ZGVyZWQaDGl2O3A7cG93ZGVycyoKCgNmb3IVAAAAACosCgVqb2ludBWyALRAGglhcnRocml0aXMaBmpvaW50cxoLam9pbnRoZWFsdGgqJQoGaGVhbHRoFWkshD8aCWFydGhyaXRpcxoLam9pbnRoZWFsdGgyqgEvZ290bz91cmw9Q0FFU2RBSHJPekFWNXF3QmlPcDYzYTNTejBwOUcxWXdhUDFGbm5zcFNRdkhRZ3Z1RGJhU2ZVa0xXN0RnLVpFdjlpYjFLTzdYT0Z5WXZGNjRvWFo2UnhtSnhScTRXWUxObzdsdEUtLU5QT3Z4QV93cGx0cTlfSTF2bW5aX3hNMXg1b2toc19qMWEyN2lBcFVxeVdrY1U3Z1VxLURkX3AzXzpCQm9uZSAmYW1wOyA8Yj5Kb2ludDwvYj4gU3VwcG9ydCAtIEJpb2FjdGl2ZSA8Yj5Db2xsYWdlbiBQb3dkZXI8L2I-QqsBPGI-QmlvYWN0aXZlIENvbGxhZ2VuIENvbXBsZXggQm9uZSBhbmQgSm9pbnQgU3VwcG9ydDwvYj4gb3B0aW1pemVzIGpvaW50IGZ1bmN0aW9uYWxpdHkgdG8gc3VwcG9ydCBtb2JpbGl0eSBhbmQgY29tZm9ydC4gSXQgcHJvdmlkZXMgam9pbnRzLCBib25lcyBhbmQgbXVzY2xlcyB3aXRoJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSAFYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoICL2dvdG8_dXJsPUNBRVN0UUVCNnpzd0Zmajc1M2lEeUFkSTEzQ1VQRmpWQ3ZyeUJNR0laMG9XSTByOV9GOW5KVm4tdEJmTGNWdnFtRzBYVlQxem8zeTdiRnlOVHM5SEx6OTU2ZkFNMWZ4OHhub0FfRjhKYUhQanZiNExOalZ0QTcxdEhPang4MVZyNXdxU1NmWElUNDJJVlZLNS11Y3JvQVp4dmxJVUNMTC12WlQwREhqR3VnZVZZMHJ1OWJLb3pIdUVQWUNiYjMxdnRpcDl4SDkxNG5qc1Q3S3p0Vkxpc2RRZkRYd2x6bmdmZEI0UXBXYU9SaFZkbW1QN0xuTjBRNGJ4EgQaAggAGvkFEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA0wUIABAAGAAgACokCgN0b3AVAAAAABoEYmVzdBoFYnJhbmQaC3JlY29tbWVuZGVkKi8KCGNvbGxhZ2VuFVQ6TUAaD2NvbGxhZ2VucGVwdGlkZRoNaXY7cDtjb2xsYWdlbio3CgdwZXB0aWRlFfKybT4aCHBlcHRpZGVzGg9jb2xsYWdlbnBlcHRpZGUaDGl2O3A7cGVwdGlkZSouCgdwb3dkZXJzFUzRrT4aBnBvd2RlchoIcG93ZGVyZWQaDGl2O3A7cG93ZGVycyoKCgNmb3IVAAAAACosCgVqb2ludBWyALRAGglhcnRocml0aXMaBmpvaW50cxoLam9pbnRoZWFsdGgqJQoGaGVhbHRoFWkshD8aCWFydGhyaXRpcxoLam9pbnRoZWFsdGgyqgEvZ290bz91cmw9Q0FFU2RBSHJPekFWNXF3QmlPcDYzYTNTejBwOUcxWXdhUDFGbm5zcFNRdkhRZ3Z1RGJhU2ZVa0xXN0RnLVpFdjlpYjFLTzdYT0Z5WXZGNjRvWFo2UnhtSnhScTRXWUxObzdsdEUtLU5QT3Z4QV93cGx0cTlfSTF2bW5aX3hNMXg1b2toc19qMWEyN2lBcFVxeVdrY1U3Z1VxLURkX3AzXzpCQm9uZSAmYW1wOyA8Yj5Kb2ludDwvYj4gU3VwcG9ydCAtIEJpb2FjdGl2ZSA8Yj5Db2xsYWdlbiBQb3dkZXI8L2I-QqsBPGI-QmlvYWN0aXZlIENvbGxhZ2VuIENvbXBsZXggQm9uZSBhbmQgSm9pbnQgU3VwcG9ydDwvYj4gb3B0aW1pemVzIGpvaW50IGZ1bmN0aW9uYWxpdHkgdG8gc3VwcG9ydCBtb2JpbGl0eSBhbmQgY29tZm9ydC4gSXQgcHJvdmlkZXMgam9pbnRzLCBib25lcyBhbmQgbXVzY2xlcyB3aXRoJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSAFYAGgA",
+      "source": "Vital Proteins"
+    },
+    {
+      "position": 5,
+      "title": "Best Collagen for Joint Health | Top Picks & Reviews",
+      "link": "https://www.target.com/s/best+collagen+for+joint+health",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVmf0q9pEI4eifNaRyUNY7-t6O5V9wC0S2UNLvmoVl1l3DpoVNV8enqaTOifg9xo9LmOXgzuYeu_KKe4hdnhe7MopFh905T7SdSAeeYGOTAnorKPYwqtKwI7ir8C6pjX6jZq1nmAQp8jE8670Biw&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQFnoECEIQAQ&uoh=1",
+      "displayed_link": "https://www.target.com › Health",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXMAADLAADKAADJAADIAADSPDzkmZnvw8P02dnWVFT34OD____rs7Pyz8_56enYXV3hiIjfgoLwyMgzbyPyAAAAsUlEQVR4Aa1ShQGAMAyrzHH-P5YOdw-6ZU0V_gASCwj3KKWNdc4arTY0-5D0CJ6XnEqTGVK14LJuN8-7bzZjubVzhRIUrrUdldHHddkFgqqMK4-DaIicnCVmEp3IBtVxqKOmLLiq60rOqKisO1My8l8gcNbGwoCFfA114Vj5V0BVF2lFoORjuSNFJVfAdUfWDEoycufkuex5QOepnBfhvHznhT9v2Xmzz8fkfMDOR_MxGoruDjVyTTuYAAAAAElFTkSuQmCC.png",
+      "snippet": "#1 · $19.99 - $31.99. Vital Proteins Collagen Peptides Unflavored Powder ; #2 · $19.99 - $31.99. Vital Proteins Collagen Peptides Supplement Powder ; #3 · $23.99.",
+      "snippet_highlighted_words": [
+        "Vital Proteins Collagen Peptides Unflavored Powder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.5,
+            "price_from": 18,
+            "price_to": 66,
+            "currency": "$",
+            "store_nearby_mi": 3.3,
+            "day_delivery": "2–7",
+            "day_returns": 90
+          },
+          "extensions": [
+            "4.5",
+            "store rating (2.1K)",
+            "$18 to $66",
+            "Store nearby (3.3 mi)",
+            "2–7 day delivery",
+            "90-day returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "#1 · $19.99 - $31.99. Vital Proteins Collagen Peptides Unflavored Powder ; #2 · $19.99 - $31.99. Vital Proteins Collagen Peptides Supplement Powder ; #3 · $23.99.",
+          "source_info_link": "https://www.target.com/s/best+collagen+for+joint+health",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEXMAADLAADKAADJAADIAADSPDzkmZnvw8P02dnWVFT34OD____rs7Pyz8_56enYXV3hiIjfgoLwyMgzbyPyAAAAsUlEQVR4Aa1ShQGAMAyrzHH-P5YOdw-6ZU0V_gASCwj3KKWNdc4arTY0-5D0CJ6XnEqTGVK14LJuN8-7bzZjubVzhRIUrrUdldHHddkFgqqMK4-DaIicnCVmEp3IBtVxqKOmLLiq60rOqKisO1My8l8gcNbGwoCFfA114Vj5V0BVF2lFoORjuSNFJVfAdUfWDEoycufkuex5QOepnBfhvHznhT9v2Xmzz8fkfMDOR_MxGoruDjVyTTuYAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVm1mMHE5cEVJNGVpZk5hUnlVTlk3LXQ2TzVWOXdDMFMyVU5Mdm1vVmwxbDNEcG9WTlY4ZW5xYVRPaWZnOXhvOUxtT1hnenVZZXVfS0tlNGhkbmhlN01vcEZoOTA1VDdTZFNBZWVZR09UQW5vcktQWXdxdEt3STdpcjhDNnBqWDZqWnExbm1BUXA4akU4NjcwQml3EgQaAggAGpUGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQPEFCAAQABgAIAAqJAoDdG9wFU6GUUAaBGJlc3QaBWJyYW5kGgtyZWNvbW1lbmRlZCovCghjb2xsYWdlbhWfYtxAGg9jb2xsYWdlbnBlcHRpZGUaDWl2O3A7Y29sbGFnZW4qNwoHcGVwdGlkZRUjQn0_GghwZXB0aWRlcxoPY29sbGFnZW5wZXB0aWRlGgxpdjtwO3BlcHRpZGUqLgoHcG93ZGVycxUAAAAAGgZwb3dkZXIaCHBvd2RlcmVkGgxpdjtwO3Bvd2RlcnMqCgoDZm9yFQAAAAAqLAoFam9pbnQVcCe3QBoJYXJ0aHJpdGlzGgZqb2ludHMaC2pvaW50aGVhbHRoKiUKBmhlYWx0aBUY3LpAGglhcnRocml0aXMaC2pvaW50aGVhbHRoMqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVm1mMHE5cEVJNGVpZk5hUnlVTlk3LXQ2TzVWOXdDMFMyVU5Mdm1vVmwxbDNEcG9WTlY4ZW5xYVRPaWZnOXhvOUxtT1hnenVZZXVfS0tlNGhkbmhlN01vcEZoOTA1VDdTZFNBZWVZR09UQW5vcktQWXdxdEt3STdpcjhDNnBqWDZqWnExbm1BUXA4akU4NjcwQml3Ok88Yj5CZXN0IENvbGxhZ2VuPC9iPiBmb3IgPGI-Sm9pbnQgSGVhbHRoPC9iPiB8IFRvcCBQaWNrcyAmYW1wOyBSZXZpZXdzIC0gVGFyZ2V0Qr4BIzEgJm1pZGRvdDsgJDE5Ljk5IC0gJDMxLjk5LiA8Yj5WaXRhbCBQcm90ZWlucyBDb2xsYWdlbiBQZXB0aWRlcyBVbmZsYXZvcmVkIFBvd2RlcjwvYj4gOyAjMiAmbWlkZG90OyAkMTkuOTkgLSAkMzEuOTkuIFZpdGFsIFByb3RlaW5zIENvbGxhZ2VuIFBlcHRpZGVzIFN1cHBsZW1lbnQgUG93ZGVyIDsgIzMgJm1pZGRvdDsgJDIzLjk5LkoDZm9yUgRiZXN0IgIQAUgBWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVm1mMHE5cEVJNGVpZk5hUnlVTlk3LXQ2TzVWOXdDMFMyVU5Mdm1vVmwxbDNEcG9WTlY4ZW5xYVRPaWZnOXhvOUxtT1hnenVZZXVfS0tlNGhkbmhlN01vcEZoOTA1VDdTZFNBZWVZR09UQW5vcktQWXdxdEt3STdpcjhDNnBqWDZqWnExbm1BUXA4akU4NjcwQml3EgQaAggAGpUGEgAaACIAKgAyBggBEgJ1czoAQgQIARAASgBaAHIAegCCQPEFCAAQABgAIAAqJAoDdG9wFU6GUUAaBGJlc3QaBWJyYW5kGgtyZWNvbW1lbmRlZCovCghjb2xsYWdlbhWfYtxAGg9jb2xsYWdlbnBlcHRpZGUaDWl2O3A7Y29sbGFnZW4qNwoHcGVwdGlkZRUjQn0_GghwZXB0aWRlcxoPY29sbGFnZW5wZXB0aWRlGgxpdjtwO3BlcHRpZGUqLgoHcG93ZGVycxUAAAAAGgZwb3dkZXIaCHBvd2RlcmVkGgxpdjtwO3Bvd2RlcnMqCgoDZm9yFQAAAAAqLAoFam9pbnQVcCe3QBoJYXJ0aHJpdGlzGgZqb2ludHMaC2pvaW50aGVhbHRoKiUKBmhlYWx0aBUY3LpAGglhcnRocml0aXMaC2pvaW50aGVhbHRoMqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVm1mMHE5cEVJNGVpZk5hUnlVTlk3LXQ2TzVWOXdDMFMyVU5Mdm1vVmwxbDNEcG9WTlY4ZW5xYVRPaWZnOXhvOUxtT1hnenVZZXVfS0tlNGhkbmhlN01vcEZoOTA1VDdTZFNBZWVZR09UQW5vcktQWXdxdEt3STdpcjhDNnBqWDZqWnExbm1BUXA4akU4NjcwQml3Ok88Yj5CZXN0IENvbGxhZ2VuPC9iPiBmb3IgPGI-Sm9pbnQgSGVhbHRoPC9iPiB8IFRvcCBQaWNrcyAmYW1wOyBSZXZpZXdzIC0gVGFyZ2V0Qr4BIzEgJm1pZGRvdDsgJDE5Ljk5IC0gJDMxLjk5LiA8Yj5WaXRhbCBQcm90ZWlucyBDb2xsYWdlbiBQZXB0aWRlcyBVbmZsYXZvcmVkIFBvd2RlcjwvYj4gOyAjMiAmbWlkZG90OyAkMTkuOTkgLSAkMzEuOTkuIFZpdGFsIFByb3RlaW5zIENvbGxhZ2VuIFBlcHRpZGVzIFN1cHBsZW1lbnQgUG93ZGVyIDsgIzMgJm1pZGRvdDsgJDIzLjk5LkoDZm9yUgRiZXN0IgIQAUgBWABoAA",
+      "source": "Target",
+      "read_more_link": "https://www.target.com/s/best+collagen+for+joint+health#:~:text=%231&text=%2419.99%20%2D%20%2431.99,Proteins%20Collagen%20Peptides%20Unflavored%20Powder&text=%232&text=%2419.99%20%2D%20%2431.99,Proteins%20Collagen%20Peptides%20Supplement%20Powder&text=%233&text=%2423.99"
+    },
+    {
+      "position": 6,
+      "title": "Benefits of Collagen for Joints (Plus Best Types to Use)",
+      "link": "https://draxe.com/nutrition/collagen-for-joints/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAV9FvD4tMeSNHe4VDR8P1NijbBKC3iWyfP66pYxvSwG-clDlBUzA-Qx8lz3Mp1iwu_4PM7-7HmiKKZW1LGzAta5VfCBv_RuEJIiZwBHQirO-KPeMJ6mJhhI2bv9-ZrhPtQa1RRiiwW&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQFnoECEcQAQ&uoh=1",
+      "displayed_link": "https://draxe.com › Nutrition",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEUUMiwALSkcNi4LLysVMy16ZkqmgVmvh101QDSoglqshFulgVlYo-SaAAAAT0lEQVR4AWOgL2AUUhRA8Jhd08tCDOBci1kzZ65shnM9ZwLBFLjOKBB3qQCMmwnizoZxmSpB3OkKGFxMxQijUC3C5Qxm1-3VIQZoXqArAAAd9SYYnrNcBAAAAABJRU5ErkJggg.png",
+      "date": "Jul 3, 2026",
+      "snippet": "The best collagen for joints is usually type II collagen or hydrolyzed collagen peptides. Type II collagen is most specific to cartilage, while ...",
+      "snippet_highlighted_words": [
+        "type II collagen or hydrolyzed collagen peptides"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "What is the connection...",
+            "link": "https://draxe.com/nutrition/collagen-for-joints/#s-archive-28"
+          },
+          {
+            "title": "Benefits of collagen for joints",
+            "link": "https://draxe.com/nutrition/collagen-for-joints/#s-archive-73"
+          },
+          {
+            "title": "Best collagen for joints",
+            "link": "https://draxe.com/nutrition/collagen-for-joints/#s-archive-200"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "The best collagen for joints is usually type II collagen or hydrolyzed collagen peptides. Type II collagen is most specific to cartilage, while ...",
+          "source_info_link": "https://draxe.com/nutrition/collagen-for-joints/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcBAMAAACAI8KnAAAAJFBMVEUUMiwALSkcNi4LLysVMy16ZkqmgVmvh101QDSoglqshFulgVlYo-SaAAAAT0lEQVR4AWOgL2AUUhRA8Jhd08tCDOBci1kzZ65shnM9ZwLBFLjOKBB3qQCMmwnizoZxmSpB3OkKGFxMxQijUC3C5Qxm1-3VIQZoXqArAAAd9SYYnrNcBAAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVjlGdkQ0dE1lU05IZTRWRFI4UDFOaWpiQktDM2lXeWZQNjZwWXh2U3dHLWNsRGxCVXpBLVF4OGx6M01wMWl3dV80UE03LTdIbWlLS1pXMUxHekF0YTVWZkNCdl9SdUVKSWlad0JIUWlyTy1LUGVNSjZtSmhoSTJidjktWnJoUHRRYTFSUmlpd1cSBBoCCAAa6wUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDFBQgAEAAYACAAKiQKA3RvcBUECtA-GgRiZXN0GgVicmFuZBoLcmVjb21tZW5kZWQqLwoIY29sbGFnZW4VK1DWQBoPY29sbGFnZW5wZXB0aWRlGg1pdjtwO2NvbGxhZ2VuKjcKB3BlcHRpZGUVNF_zPhoIcGVwdGlkZXMaD2NvbGxhZ2VucGVwdGlkZRoMaXY7cDtwZXB0aWRlKi4KB3Bvd2RlcnMVk-KkPRoGcG93ZGVyGghwb3dkZXJlZBoMaXY7cDtwb3dkZXJzKgoKA2ZvchUAAAAAKiwKBWpvaW50FWYxN0AaCWFydGhyaXRpcxoGam9pbnRzGgtqb2ludGhlYWx0aColCgZoZWFsdGgVBTQvQBoJYXJ0aHJpdGlzGgtqb2ludGhlYWx0aDKeAS9nb3RvP3VybD1DQUVTYXdIck96QVY5RnZENHRNZVNOSGU0VkRSOFAxTmlqYkJLQzNpV3lmUDY2cFl4dlN3Ry1jbERsQlV6QS1ReDhsejNNcDFpd3VfNFBNNy03SG1pS0taVzFMR3pBdGE1VmZDQnZfUnVFSklpWndCSFFpck8tS1BlTUo2bUpoaEkyYnY5LVpyaFB0UWExUlJpaXdXOkw8Yj5CZXN0IENvbGxhZ2VuPC9iPiBmb3IgPGI-Sm9pbnRzPC9iPjogQmVuZWZpdHMsIFR5cGVzLCBIb3cgdG8gVXNlIGFuZCBGQVFzQp8BVGhlIGJlc3QgY29sbGFnZW4gZm9yIGpvaW50cyBpcyB1c3VhbGx5IDxiPnR5cGUgSUkgY29sbGFnZW4gb3IgaHlkcm9seXplZCBjb2xsYWdlbiBwZXB0aWRlczwvYj4uIFR5cGUgSUkgY29sbGFnZW4gaXMgbW9zdCBzcGVjaWZpYyB0byBjYXJ0aWxhZ2UsIHdoaWxlJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSAFYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVjlGdkQ0dE1lU05IZTRWRFI4UDFOaWpiQktDM2lXeWZQNjZwWXh2U3dHLWNsRGxCVXpBLVF4OGx6M01wMWl3dV80UE03LTdIbWlLS1pXMUxHekF0YTVWZkNCdl9SdUVKSWlad0JIUWlyTy1LUGVNSjZtSmhoSTJidjktWnJoUHRRYTFSUmlpd1cSBBoCCAAa6wUSAggAGgAiACoAMgYIAxICdXM6AEIECAEQAEoAWgByAHoAgkDFBQgAEAAYACAAKiQKA3RvcBUECtA-GgRiZXN0GgVicmFuZBoLcmVjb21tZW5kZWQqLwoIY29sbGFnZW4VK1DWQBoPY29sbGFnZW5wZXB0aWRlGg1pdjtwO2NvbGxhZ2VuKjcKB3BlcHRpZGUVNF_zPhoIcGVwdGlkZXMaD2NvbGxhZ2VucGVwdGlkZRoMaXY7cDtwZXB0aWRlKi4KB3Bvd2RlcnMVk-KkPRoGcG93ZGVyGghwb3dkZXJlZBoMaXY7cDtwb3dkZXJzKgoKA2ZvchUAAAAAKiwKBWpvaW50FWYxN0AaCWFydGhyaXRpcxoGam9pbnRzGgtqb2ludGhlYWx0aColCgZoZWFsdGgVBTQvQBoJYXJ0aHJpdGlzGgtqb2ludGhlYWx0aDKeAS9nb3RvP3VybD1DQUVTYXdIck96QVY5RnZENHRNZVNOSGU0VkRSOFAxTmlqYkJLQzNpV3lmUDY2cFl4dlN3Ry1jbERsQlV6QS1ReDhsejNNcDFpd3VfNFBNNy03SG1pS0taVzFMR3pBdGE1VmZDQnZfUnVFSklpWndCSFFpck8tS1BlTUo2bUpoaEkyYnY5LVpyaFB0UWExUlJpaXdXOkw8Yj5CZXN0IENvbGxhZ2VuPC9iPiBmb3IgPGI-Sm9pbnRzPC9iPjogQmVuZWZpdHMsIFR5cGVzLCBIb3cgdG8gVXNlIGFuZCBGQVFzQp8BVGhlIGJlc3QgY29sbGFnZW4gZm9yIGpvaW50cyBpcyB1c3VhbGx5IDxiPnR5cGUgSUkgY29sbGFnZW4gb3IgaHlkcm9seXplZCBjb2xsYWdlbiBwZXB0aWRlczwvYj4uIFR5cGUgSUkgY29sbGFnZW4gaXMgbW9zdCBzcGVjaWZpYyB0byBjYXJ0aWxhZ2UsIHdoaWxlJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSAFYAGgA",
+      "source": "Dr. Axe",
+      "read_more_link": "https://draxe.com/nutrition/collagen-for-joints/#:~:text=The%20best%20collagen%20for%20joints,ligaments%20and%20other%20connective%20tissues."
+    },
+    {
+      "position": 7,
+      "title": "The 6 Best Collagen Peptides, Reviewed By A Dietitian",
+      "link": "https://www.womenshealthmag.com/health/g44787992/best-collagen-peptides/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFcuCAYHXchZmAZImXZRTyt5km0TJ0FKysjEUWv0HHxDoMEIOYC7LCfkpRyo1HBOPrrwFnxLh1WrtJ8miUXVwZQqDWxaNTARQTfNRnwbjDmv1DBVddWrCivIVIMH6fVPXRLtXFHJpfcjtcZH3b-PLQ7Tk7Cd4t_gHOQOGSMIcdg&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQFnoECDsQAQ&uoh=1",
+      "displayed_link": "https://www.womenshealthmag.com › ... › Supplements",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVHcEzcFzvbFjrbFjrbFzvaAS3ZAB_0xMv____smaTmeYf86-7-9vfphJH42NzXAAThSWDjYHHxs7veL0zvrLW3_OoZAAAABXRSTlMAUsn_pH-O9tQAAADrSURBVHgBfdMHcsQgDEBRl5X0KYal3P-sMU5PWIvOGzFNLMuybvsktnU547G_iMeZt7-Mddle47ack6jq59DP_dATxQAH-ABAPIA09MoEy4GgT4qHoga6f6BGUrYLdw_PE-M3JkKuRCnoPxQjZgf7Qf6PFXKF5sIk04EYlJ4meEBLcJhdmH9hgRLApTqwu_QTn-CBGtzAZOEH7g0cEcPLv2d3AcMIlAv1F2okhg60GSZIDpAJioF5iFOs0AsEnaED1yBN8QAvYDJ2RRPINxYoGujSiDEeREwGbpeOohlj_1lD221p3hb17Xd4AyrEEzS5sy9vAAAAAElFTkSuQmCC.png",
+      "snippet": "Best Collagen Peptides · Best Overall: Vital Proteins Collagen Peptides · Best Value: Garden of Life Grass-Fed Collagen Peptides · Best For ...",
+      "snippet_highlighted_words": [
+        "Best Overall: Vital Proteins Collagen Peptides"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Best Collagen Peptides · Best Overall: Vital Proteins Collagen Peptides · Best Value: Garden of Life Grass-Fed Collagen Peptides · Best For ...",
+          "source_info_link": "https://www.womenshealthmag.com/health/g44787992/best-collagen-peptides/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAP1BMVEVHcEzcFzvbFjrbFjrbFzvaAS3ZAB_0xMv____smaTmeYf86-7-9vfphJH42NzXAAThSWDjYHHxs7veL0zvrLW3_OoZAAAABXRSTlMAUsn_pH-O9tQAAADrSURBVHgBfdMHcsQgDEBRl5X0KYal3P-sMU5PWIvOGzFNLMuybvsktnU547G_iMeZt7-Mddle47ack6jq59DP_dATxQAH-ABAPIA09MoEy4GgT4qHoga6f6BGUrYLdw_PE-M3JkKuRCnoPxQjZgf7Qf6PFXKF5sIk04EYlJ4meEBLcJhdmH9hgRLApTqwu_QTn-CBGtzAZOEH7g0cEcPLv2d3AcMIlAv1F2okhg60GSZIDpAJioF5iFOs0AsEnaED1yBN8QAvYDJ2RRPINxYoGujSiDEeREwGbpeOohlj_1lD221p3hb17Xd4AyrEEzS5sy9vAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZjdUNBWUhYY2habUFaSW1YWlJUeXQ1a20wVEowRkt5c2pFVVd2MEhIeERvTUVJT1lDN0xDZmtwUnlvMUhCT1BycndGbnhMaDFXcnRKOG1pVVhWd1pRcURXeGFOVEFSUVRmTlJud2JqRG12MURCVmRkV3JDaXZJVklNSDZmVlBYUkx0WEZISnBmY2p0Y1pIM2ItUExRN1RrN0NkNHRfZ0hPUU9HU01JY2RnEgQaAggAGo4GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6AUIABAAGAAgACokCgN0b3AVdJuXPxoEYmVzdBoFYnJhbmQaC3JlY29tbWVuZGVkKi8KCGNvbGxhZ2VuFU4ijEAaD2NvbGxhZ2VucGVwdGlkZRoNaXY7cDtjb2xsYWdlbio3CgdwZXB0aWRlFRa4sD4aCHBlcHRpZGVzGg9jb2xsYWdlbnBlcHRpZGUaDGl2O3A7cGVwdGlkZSouCgdwb3dkZXJzFeNrwT8aBnBvd2RlchoIcG93ZGVyZWQaDGl2O3A7cG93ZGVycyoKCgNmb3IVAAAAACosCgVqb2ludBUA-Ec_GglhcnRocml0aXMaBmpvaW50cxoLam9pbnRoZWFsdGgqJQoGaGVhbHRoFVLQoEAaCWFydGhyaXRpcxoLam9pbnRoZWFsdGgywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmN1Q0FZSFhjaFptQVpJbVhaUlR5dDVrbTBUSjBGS3lzakVVV3YwSEh4RG9NRUlPWUM3TENma3BSeW8xSEJPUHJyd0ZueExoMVdydEo4bWlVWFZ3WlFxRFd4YU5UQVJRVGZOUm53YmpEbXYxREJWZGRXckNpdklWSU1INmZWUFhSTHRYRkhKcGZjanRjWkgzYi1QTFE3VGs3Q2Q0dF9nSE9RT0dTTUljZGc6PFRoZSA2IDxiPkJlc3QgQ29sbGFnZW4gUGVwdGlkZXM8L2I-LCBSZXZpZXdlZCBCeSBBIERpZXRpdGlhbkKwAUJlc3QgQ29sbGFnZW4gUGVwdGlkZXMgJm1pZGRvdDsgPGI-QmVzdCBPdmVyYWxsOiBWaXRhbCBQcm90ZWlucyBDb2xsYWdlbiBQZXB0aWRlczwvYj4gJm1pZGRvdDsgQmVzdCBWYWx1ZTogR2FyZGVuIG9mIExpZmUgR3Jhc3MtRmVkIENvbGxhZ2VuIFBlcHRpZGVzICZtaWRkb3Q7IEJlc3QgRm9yJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSAFYAGgA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZjdUNBWUhYY2habUFaSW1YWlJUeXQ1a20wVEowRkt5c2pFVVd2MEhIeERvTUVJT1lDN0xDZmtwUnlvMUhCT1BycndGbnhMaDFXcnRKOG1pVVhWd1pRcURXeGFOVEFSUVRmTlJud2JqRG12MURCVmRkV3JDaXZJVklNSDZmVlBYUkx0WEZISnBmY2p0Y1pIM2ItUExRN1RrN0NkNHRfZ0hPUU9HU01JY2RnEgQaAggAGo4GEgIIABoAIgAqADIGCAMSAnVzOgBCBAgBEABKAFoAcgB6AIJA6AUIABAAGAAgACokCgN0b3AVdJuXPxoEYmVzdBoFYnJhbmQaC3JlY29tbWVuZGVkKi8KCGNvbGxhZ2VuFU4ijEAaD2NvbGxhZ2VucGVwdGlkZRoNaXY7cDtjb2xsYWdlbio3CgdwZXB0aWRlFRa4sD4aCHBlcHRpZGVzGg9jb2xsYWdlbnBlcHRpZGUaDGl2O3A7cGVwdGlkZSouCgdwb3dkZXJzFeNrwT8aBnBvd2RlchoIcG93ZGVyZWQaDGl2O3A7cG93ZGVycyoKCgNmb3IVAAAAACosCgVqb2ludBUA-Ec_GglhcnRocml0aXMaBmpvaW50cxoLam9pbnRoZWFsdGgqJQoGaGVhbHRoFVLQoEAaCWFydGhyaXRpcxoLam9pbnRoZWFsdGgywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RmN1Q0FZSFhjaFptQVpJbVhaUlR5dDVrbTBUSjBGS3lzakVVV3YwSEh4RG9NRUlPWUM3TENma3BSeW8xSEJPUHJyd0ZueExoMVdydEo4bWlVWFZ3WlFxRFd4YU5UQVJRVGZOUm53YmpEbXYxREJWZGRXckNpdklWSU1INmZWUFhSTHRYRkhKcGZjanRjWkgzYi1QTFE3VGs3Q2Q0dF9nSE9RT0dTTUljZGc6PFRoZSA2IDxiPkJlc3QgQ29sbGFnZW4gUGVwdGlkZXM8L2I-LCBSZXZpZXdlZCBCeSBBIERpZXRpdGlhbkKwAUJlc3QgQ29sbGFnZW4gUGVwdGlkZXMgJm1pZGRvdDsgPGI-QmVzdCBPdmVyYWxsOiBWaXRhbCBQcm90ZWlucyBDb2xsYWdlbiBQZXB0aWRlczwvYj4gJm1pZGRvdDsgQmVzdCBWYWx1ZTogR2FyZGVuIG9mIExpZmUgR3Jhc3MtRmVkIENvbGxhZ2VuIFBlcHRpZGVzICZtaWRkb3Q7IEJlc3QgRm9yJm5ic3A7Li4uSgNmb3JSBGJlc3QiAhABSAFYAGgA",
+      "source": "Women's Health",
+      "read_more_link": "https://www.womenshealthmag.com/health/g44787992/best-collagen-peptides/#:~:text=Best%20Collagen%20Peptides&text=Best%20Overall%3A%20Vital%20Proteins%20Collagen,Peptides&text=Best%20Value%3A%20Garden%20of%20Life,Grass%2DFed%20Collagen%20Peptides&text=Best%20For%20Athletes%3A%20Thorne%20Collagen,Fit"
+    },
+    {
+      "position": 8,
+      "title": "Top Rated Collagen",
+      "link": "https://www.gnc.com/buy/top-rated-collagen?srsltid=AU7gw4X-84am-iupIY_puCzJiRZ6QKLJ0CNYlyIqr6E8eTu93fw_39ag",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFRerymJg57WOMN4O055w9wVUgSqhZCxpsWisjsIV7dv3NTUZR0Q42wl8eX1E9o3fS-32yu-If9nfLGGMECBjHSTcf8JMxcMeqsqWrgSoQLTEbv_ggnUrYhUtjmbNvujphncN7BAeanvoN4T_E9HPfeym0-YWp30Fz3nRjnMsvjupynS-dgEQ3W3QBlXj5jl4GbhwHQwXB-jPHfOQwXqQ6SZ9&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQFnoECEEQAQ&uoh=1",
+      "displayed_link": "https://www.gnc.com › buy › top-rated-collagen",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEX_____ycn_ubn_sbD_2Nj_0dH_oqL_pKT_5OP_trb_vr3_q6r_t7X_AAD_e3n_7Ov_VVT_ZmT_DA__eXb_8vL_hYP_fXz_lJH_MS__TUr_c3L_QkH_z8j_ior_bWv_Kyf_Hh7_Xl7_WVn_YGH_h4bMyGcOAAAAfUlEQVR4AWIgBEYBgEVpMAAYCGJ51fnaxv4r1sdISCW0FgIwjqsAz9dAoMJQqQj8y4W9L-L7JOmvgczyQpIlKpJ1w_aRA7zFjDkM2d1mH5AcxvuY3yTfcIOJJSTJ-d6ltOm6oa6n3Y77WqFOBBBs66FUtaed7bprtAuGUQAAx-gIcoEQ4MYAAAAASUVORK5CYII.png",
+      "snippet": "Shop top rated collagen at GNC—explore powders, gummies, and more ... Multi Collagen Peptides Powder Hydrolyzed Collagen + Biotin & Keratin - 11.50 oz.",
+      "snippet_highlighted_words": [
+        "Multi Collagen Peptides Powder"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.4,
+            "price_from": 27,
+            "price_to": 55,
+            "currency": "$",
+            "store_nearby_mi": 13.9
+          },
+          "extensions": [
+            "4.4",
+            "store rating (1.3K)",
+            "$27 to $55",
+            "Store nearby (13.9 mi)",
+            "Free delivery",
+            "Free in-store returns"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Shop top rated collagen at GNC—explore powders, gummies, and more ... Multi Collagen Peptides Powder Hydrolyzed Collagen + Biotin & Keratin - 11.50 oz.",
+          "source_info_link": "https://www.gnc.com/buy/top-rated-collagen?srsltid=AU7gw4X-84am-iupIY_puCzJiRZ6QKLJ0CNYlyIqr6E8eTu93fw_39ag",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAb1BMVEX_____ycn_ubn_sbD_2Nj_0dH_oqL_pKT_5OP_trb_vr3_q6r_t7X_AAD_e3n_7Ov_VVT_ZmT_DA__eXb_8vL_hYP_fXz_lJH_MS__TUr_c3L_QkH_z8j_ior_bWv_Kyf_Hh7_Xl7_WVn_YGH_h4bMyGcOAAAAfUlEQVR4AWIgBEYBgEVpMAAYCGJ51fnaxv4r1sdISCW0FgIwjqsAz9dAoMJQqQj8y4W9L-L7JOmvgczyQpIlKpJ1w_aRA7zFjDkM2d1mH5AcxvuY3yTfcIOJJSTJ-d6ltOm6oa6n3Y77WqFOBBBs66FUtaed7bprtAuGUQAAx-gIcoEQ4MYAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZSZXJ5bUpnNTdXT01ONE8wNTV3OXdWVWdTcWhaQ3hwc1dpc2pzSVY3ZHYzTlRVWlIwUTQyd2w4ZVgxRTlvM2ZTLTMyeXUtSWY5bmZMR0dNRUNCakhTVGNmOEpNeGNNZXFzcVdyZ1NvUUxURWJ2X2dnblVyWWhVdGptYk52dWpwaG5jTjdCQWVhbnZvTjRUX0U5SFBmZXltMC1ZV3AzMEZ6M25Sam5Nc3ZqdXB5blMtZGdFUTNXM1FCbFhqNWpsNEdiaHdIUXdYQi1qUEhmT1F3WHFRNlNaORIEGgIIABrABRIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCcBQgAEAAYACAAKiQKA3RvcBU-OXNAGgRiZXN0GgVicmFuZBoLcmVjb21tZW5kZWQqLwoIY29sbGFnZW4V9lWLQBoPY29sbGFnZW5wZXB0aWRlGg1pdjtwO2NvbGxhZ2VuKjcKB3BlcHRpZGUV9t4iPxoIcGVwdGlkZXMaD2NvbGxhZ2VucGVwdGlkZRoMaXY7cDtwZXB0aWRlKi4KB3Bvd2RlcnMVqLhOPxoGcG93ZGVyGghwb3dkZXJlZBoMaXY7cDtwb3dkZXJzKgoKA2ZvchUAAAAAKiwKBWpvaW50Ff25tz4aCWFydGhyaXRpcxoGam9pbnRzGgtqb2ludGhlYWx0aColCgZoZWFsdGgVW6hUPxoJYXJ0aHJpdGlzGgtqb2ludGhlYWx0aDKWAS9nb3RvP3VybD1DQUVTWlFIck96QVZ5WDc3WDhVWWQ5RHBUQlowVWE4dlFveTFsWEJqVVljOFZTNklKSTNVR2VKSHNqNExBU3lLYnRYOHFlcm10OUZQMUlRNl9vV2pSVUFKcnp6VVNCZU9lU0t4c1lyanNFQ1Q3V0hSeF9kNWV2N2R5RHlMUGVQeHFteXpqYi1UZGl4UDomPGI-VG9wPC9iPiBSYXRlZCA8Yj5Db2xsYWdlbjwvYj4gLSBHTkNCpAFTaG9wIHRvcCByYXRlZCBjb2xsYWdlbiBhdCBHTkPigJRleHBsb3JlIHBvd2RlcnMsIGd1bW1pZXMsIGFuZCBtb3JlIC4uLiA8Yj5NdWx0aSBDb2xsYWdlbiBQZXB0aWRlcyBQb3dkZXI8L2I-IEh5ZHJvbHl6ZWQgQ29sbGFnZW4gKyBCaW90aW4gJmFtcDsgS2VyYXRpbiAtIDExLjUwIG96LkoDZm9yUgRiZXN0IgIQAUgBWABoAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZSZXJ5bUpnNTdXT01ONE8wNTV3OXdWVWdTcWhaQ3hwc1dpc2pzSVY3ZHYzTlRVWlIwUTQyd2w4ZVgxRTlvM2ZTLTMyeXUtSWY5bmZMR0dNRUNCakhTVGNmOEpNeGNNZXFzcVdyZ1NvUUxURWJ2X2dnblVyWWhVdGptYk52dWpwaG5jTjdCQWVhbnZvTjRUX0U5SFBmZXltMC1ZV3AzMEZ6M25Sam5Nc3ZqdXB5blMtZGdFUTNXM1FCbFhqNWpsNEdiaHdIUXdYQi1qUEhmT1F3WHFRNlNaORIEGgIIABrABRIAGgAiACoAMgYIARICdXM6AEIECAEQAEoAWgByAHoAgkCcBQgAEAAYACAAKiQKA3RvcBU-OXNAGgRiZXN0GgVicmFuZBoLcmVjb21tZW5kZWQqLwoIY29sbGFnZW4V9lWLQBoPY29sbGFnZW5wZXB0aWRlGg1pdjtwO2NvbGxhZ2VuKjcKB3BlcHRpZGUV9t4iPxoIcGVwdGlkZXMaD2NvbGxhZ2VucGVwdGlkZRoMaXY7cDtwZXB0aWRlKi4KB3Bvd2RlcnMVqLhOPxoGcG93ZGVyGghwb3dkZXJlZBoMaXY7cDtwb3dkZXJzKgoKA2ZvchUAAAAAKiwKBWpvaW50Ff25tz4aCWFydGhyaXRpcxoGam9pbnRzGgtqb2ludGhlYWx0aColCgZoZWFsdGgVW6hUPxoJYXJ0aHJpdGlzGgtqb2ludGhlYWx0aDKWAS9nb3RvP3VybD1DQUVTWlFIck96QVZ5WDc3WDhVWWQ5RHBUQlowVWE4dlFveTFsWEJqVVljOFZTNklKSTNVR2VKSHNqNExBU3lLYnRYOHFlcm10OUZQMUlRNl9vV2pSVUFKcnp6VVNCZU9lU0t4c1lyanNFQ1Q3V0hSeF9kNWV2N2R5RHlMUGVQeHFteXpqYi1UZGl4UDomPGI-VG9wPC9iPiBSYXRlZCA8Yj5Db2xsYWdlbjwvYj4gLSBHTkNCpAFTaG9wIHRvcCByYXRlZCBjb2xsYWdlbiBhdCBHTkPigJRleHBsb3JlIHBvd2RlcnMsIGd1bW1pZXMsIGFuZCBtb3JlIC4uLiA8Yj5NdWx0aSBDb2xsYWdlbiBQZXB0aWRlcyBQb3dkZXI8L2I-IEh5ZHJvbHl6ZWQgQ29sbGFnZW4gKyBCaW90aW4gJmFtcDsgS2VyYXRpbiAtIDExLjUwIG96LkoDZm9yUgRiZXN0IgIQAUgBWABoAA",
+      "source": "GNC",
+      "read_more_link": "https://www.gnc.com/buy/top-rated-collagen?srsltid=AU7gw4X-84am-iupIY_puCzJiRZ6QKLJ0CNYlyIqr6E8eTu93fw_39ag#:~:text=Codeage"
+    },
+    {
+      "position": 9,
+      "title": "How To Find The Best Collagen Peptides - Supplements",
+      "link": "https://www.forbes.com/health/supplements/best-collagen-peptides/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVuBjQVlqPL5TMd7HB4uGJ7ZFyPE9wKzbwqXlzm9N_gbolZA2Vugn_sTZn3MrXnAW2byB-J2G2aqhablYeCvUoIrKbc7WtBNFaIp2uZsHsFe3d4zzdW4UUBup1cRwYDhPRH5uGyB4HVvK-8zMkFadkh8QBt8JfgTI&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQFnoECEQQAQ&uoh=1",
+      "displayed_link": "https://www.forbes.com › health › best-collagen-peptides",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEUYFxYQDg0GBAALCggVFBNTUlF0dHRqamlubm5mZmYdHBu-vr3____v7-_s7Ow1NTQSERAAAACUlJRBQD_MzMz19fRPT048OzsiISDV1NTq6uovLi2ioaHg4OAtLCsoJiVHRkWMjItuM4hgAAAAyUlEQVR4AcXQBRKDMBBA0YQYThZ3uf8lu6nvkPHKx3lo2FfjwXtCElPauEIMN1H8jiJKUleW55nbFpYolM4qAKHqtEEk2iLmHWcS-qHpKPIKnzde74CoqSjabkScLJNC9nMhKRYL4mrlpmN0RnFyuAnQdY9Ek9uA2FbRUsdn7BHTYchSRP-d3bYPFN_euXIw9J1vX1tY2d8GlsTdf-YVZ5Kf7DZCWSuYL6HwY5sIvAZzis0QeEwPSNhw2BPKYq-u7ZVkZ-X3LPtzF3mnDlewk4KhAAAAAElFTkSuQmCC.png",
+      "date": "Aug 6, 2026",
+      "snippet": "Premium grass-fed collagen peptides formulated with vitamin C and hyaluronic acid to complement healthy skin, hair, nails, and joint health in ...",
+      "snippet_highlighted_words": [
+        "collagen peptides",
+        "joint health"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Table Of Contents",
+            "link": "https://www.forbes.com/health/supplements/best-collagen-peptides/#:~:text=Table%20of%20Contents"
+          },
+          {
+            "title": "How Do Collagen Peptides...",
+            "link": "https://www.forbes.com/health/supplements/best-collagen-peptides/#:~:text=How%20Do%20Collagen%20Peptides%20Work%3F,-To%20understand%20how%20collagen%20peptides"
+          },
+          {
+            "title": "Collagen Peptide Supplements",
+            "link": "https://www.forbes.com/health/supplements/best-collagen-peptides/#:~:text=Collagen%20Peptide%20Supplements,-Collagen%20peptide%20supplements%20are%20sold"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Premium grass-fed collagen peptides formulated with vitamin C and hyaluronic acid to complement healthy skin, hair, nails, and joint health in ...",
+          "source_info_link": "https://www.forbes.com/health/supplements/best-collagen-peptides/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAZlBMVEUYFxYQDg0GBAALCggVFBNTUlF0dHRqamlubm5mZmYdHBu-vr3____v7-_s7Ow1NTQSERAAAACUlJRBQD_MzMz19fRPT048OzsiISDV1NTq6uovLi2ioaHg4OAtLCsoJiVHRkWMjItuM4hgAAAAyUlEQVR4AcXQBRKDMBBA0YQYThZ3uf8lu6nvkPHKx3lo2FfjwXtCElPauEIMN1H8jiJKUleW55nbFpYolM4qAKHqtEEk2iLmHWcS-qHpKPIKnzde74CoqSjabkScLJNC9nMhKRYL4mrlpmN0RnFyuAnQdY9Ek9uA2FbRUsdn7BHTYchSRP-d3bYPFN_euXIw9J1vX1tY2d8GlsTdf-YVZ5Kf7DZCWSuYL6HwY5sIvAZzis0QeEwPSNhw2BPKYq-u7ZVkZ-X3LPtzF3mnDlewk4KhAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnVCalFWbHFQTDVUTWQ3SEI0dUdKN1pGeVBFOXdLemJ3cVhsem05Tl9nYm9sWkEyVnVnbl9zVFpuM01yWG5BVzJieUItSjJHMmFxaGFibFllQ3ZVb0lyS2JjN1d0Qk5GYUlwMnVac0hzRmUzZDR6emRXNFVVQnVwMWNSd1lEaFBSSDV1R3lCNEhWdkstOHpNa0ZhZGtoOFFCdDhKZmdUSRIEGgIIABr0BRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHICCAF6AIJAzAUIABAAGAAgACokCgN0b3AVdRyyPxoEYmVzdBoFYnJhbmQaC3JlY29tbWVuZGVkKi8KCGNvbGxhZ2VuFYBAlUAaD2NvbGxhZ2VucGVwdGlkZRoNaXY7cDtjb2xsYWdlbio3CgdwZXB0aWRlFWySkD8aCHBlcHRpZGVzGg9jb2xsYWdlbnBlcHRpZGUaDGl2O3A7cGVwdGlkZSouCgdwb3dkZXJzFR7tPz8aBnBvd2RlchoIcG93ZGVyZWQaDGl2O3A7cG93ZGVycyoKCgNmb3IVAAAAACosCgVqb2ludBX2GEE_GglhcnRocml0aXMaBmpvaW50cxoLam9pbnRoZWFsdGgqJQoGaGVhbHRoFTL0gkAaCWFydGhyaXRpcxoLam9pbnRoZWFsdGgytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWdUJqUVZscVBMNVRNZDdIQjR1R0o3WkZ5UEU5d0t6YndxWGx6bTlOX2dib2xaQTJWdWduX3NUWm4zTXJYbkFXMmJ5Qi1KMkcyYXFoYWJsWWVDdlVvSXJLYmM3V3RCTkZhSXAydVpzSHNGZTNkNHp6ZFc0VVVCdXAxY1J3WURoUFJINXVHeUI0SFZ2Sy04ek1rRmFka2g4UUJ0OEpmZ1RJOjZIb3cgVG8gRmluZCBUaGUgPGI-QmVzdCBDb2xsYWdlbiBQZXB0aWRlczwvYj4gLSBGb3JiZXNCpQFQcmVtaXVtIGdyYXNzLWZlZCA8Yj5jb2xsYWdlbiBwZXB0aWRlczwvYj4gZm9ybXVsYXRlZCB3aXRoIHZpdGFtaW4gQyBhbmQgaHlhbHVyb25pYyBhY2lkIHRvIGNvbXBsZW1lbnQgaGVhbHRoeSBza2luLCBoYWlyLCBuYWlscywgYW5kIDxiPmpvaW50IGhlYWx0aDwvYj4gaW4mbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAVgAaAA",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnVCalFWbHFQTDVUTWQ3SEI0dUdKN1pGeVBFOXdLemJ3cVhsem05Tl9nYm9sWkEyVnVnbl9zVFpuM01yWG5BVzJieUItSjJHMmFxaGFibFllQ3ZVb0lyS2JjN1d0Qk5GYUlwMnVac0hzRmUzZDR6emRXNFVVQnVwMWNSd1lEaFBSSDV1R3lCNEhWdkstOHpNa0ZhZGtoOFFCdDhKZmdUSRIEGgIIABr0BRICCAAaACIAKgAyBggDEgJ1czoAQgQIARAASgBaAHICCAF6AIJAzAUIABAAGAAgACokCgN0b3AVdRyyPxoEYmVzdBoFYnJhbmQaC3JlY29tbWVuZGVkKi8KCGNvbGxhZ2VuFYBAlUAaD2NvbGxhZ2VucGVwdGlkZRoNaXY7cDtjb2xsYWdlbio3CgdwZXB0aWRlFWySkD8aCHBlcHRpZGVzGg9jb2xsYWdlbnBlcHRpZGUaDGl2O3A7cGVwdGlkZSouCgdwb3dkZXJzFR7tPz8aBnBvd2RlchoIcG93ZGVyZWQaDGl2O3A7cG93ZGVycyoKCgNmb3IVAAAAACosCgVqb2ludBX2GEE_GglhcnRocml0aXMaBmpvaW50cxoLam9pbnRoZWFsdGgqJQoGaGVhbHRoFTL0gkAaCWFydGhyaXRpcxoLam9pbnRoZWFsdGgytQEvZ290bz91cmw9Q0FFU2ZBSHJPekFWdUJqUVZscVBMNVRNZDdIQjR1R0o3WkZ5UEU5d0t6YndxWGx6bTlOX2dib2xaQTJWdWduX3NUWm4zTXJYbkFXMmJ5Qi1KMkcyYXFoYWJsWWVDdlVvSXJLYmM3V3RCTkZhSXAydVpzSHNGZTNkNHp6ZFc0VVVCdXAxY1J3WURoUFJINXVHeUI0SFZ2Sy04ek1rRmFka2g4UUJ0OEpmZ1RJOjZIb3cgVG8gRmluZCBUaGUgPGI-QmVzdCBDb2xsYWdlbiBQZXB0aWRlczwvYj4gLSBGb3JiZXNCpQFQcmVtaXVtIGdyYXNzLWZlZCA8Yj5jb2xsYWdlbiBwZXB0aWRlczwvYj4gZm9ybXVsYXRlZCB3aXRoIHZpdGFtaW4gQyBhbmQgaHlhbHVyb25pYyBhY2lkIHRvIGNvbXBsZW1lbnQgaGVhbHRoeSBza2luLCBoYWlyLCBuYWlscywgYW5kIDxiPmpvaW50IGhlYWx0aDwvYj4gaW4mbmJzcDsuLi5KA2ZvclIEYmVzdCICEAFIAVgAaAA",
+      "source": "Forbes",
+      "read_more_link": "https://www.forbes.com/health/supplements/best-collagen-peptides/#:~:text=Premium%20grass%2Dfed%20collagen%20peptides%20formulated,in%20one%20convenient%20daily%20supplement."
+    }
+  ],
+  "related_searches": [
+    {
+      "block_position": 1,
+      "query": "Beyond Collagen",
+      "link": "https://www.google.com/search?sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&q=Beyond+Collagen&sa=X&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ1QJ6BAg4EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=Beyond+Collagen"
+    },
+    {
+      "block_position": 1,
+      "query": "Top 10 best collagen supplements",
+      "link": "https://www.google.com/search?sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&q=Top+10+best+collagen+supplements&sa=X&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ1QJ6BAhbEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=Top+10+best+collagen+supplements"
+    },
+    {
+      "block_position": 1,
+      "query": "Best collagen powder without heavy metals",
+      "link": "https://www.google.com/search?sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&q=Best+collagen+powder+without+heavy+metals&sa=X&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ1QJ6BAhTEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=Best+collagen+powder+without+heavy+metals"
+    },
+    {
+      "block_position": 1,
+      "query": "Best collagen type 2 supplements for joints",
+      "link": "https://www.google.com/search?sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&q=Best+collagen+type+2+supplements+for+joints&sa=X&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ1QJ6BAhNEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=Best+collagen+type+2+supplements+for+joints"
+    },
+    {
+      "block_position": 1,
+      "query": "Best collagen peptides for women",
+      "link": "https://www.google.com/search?sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&q=Best+collagen+peptides+for+women&sa=X&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ1QJ6BAhGEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=Best+collagen+peptides+for+women"
+    },
+    {
+      "block_position": 1,
+      "query": "Best collagen for belly fat",
+      "link": "https://www.google.com/search?sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&q=Best+collagen+for+belly+fat&sa=X&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ1QJ6BAhDEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=Best+collagen+for+belly+fat"
+    },
+    {
+      "block_position": 1,
+      "query": "Best collagen for weight loss female",
+      "link": "https://www.google.com/search?sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&q=Best+collagen+for+weight+loss+female&sa=X&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ1QJ6BAhAEAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=Best+collagen+for+weight+loss+female"
+    },
+    {
+      "block_position": 1,
+      "query": "Best collagen powder for weight loss",
+      "link": "https://www.google.com/search?sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&q=Best+collagen+powder+for+weight+loss&sa=X&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ1QJ6BAg5EAE",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=Best+collagen+powder+for+weight+loss"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=top+collagen+peptide+powders+for+joint+health&sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&ei=Ug-4arqwDdSO4-EP26r1qQc&start=10&sa=N&sstk=AS6-VmIooyLX5e5-EaYSk2YeI1jnXNis7uhbnqM5qN8Vrc3UW-NoAdokMLi8cl5k_fZ0QUCVXGFAhfw8ozUfOPYwslItrHiVXSYvew&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ8NMDegQIXBAU",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=top+collagen+peptide+powders+for+joint+health&sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&ei=Ug-4arqwDdSO4-EP26r1qQc&start=10&sa=N&sstk=AS6-VmIooyLX5e5-EaYSk2YeI1jnXNis7uhbnqM5qN8Vrc3UW-NoAdokMLi8cl5k_fZ0QUCVXGFAhfw8ozUfOPYwslItrHiVXSYvew&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ8tMDegQIXBAE",
+      "3": "https://www.google.com/search?q=top+collagen+peptide+powders+for+joint+health&sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&ei=Ug-4arqwDdSO4-EP26r1qQc&start=20&sa=N&sstk=AS6-VmIooyLX5e5-EaYSk2YeI1jnXNis7uhbnqM5qN8Vrc3UW-NoAdokMLi8cl5k_fZ0QUCVXGFAhfw8ozUfOPYwslItrHiVXSYvew&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ8tMDegQIXBAG",
+      "4": "https://www.google.com/search?q=top+collagen+peptide+powders+for+joint+health&sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&ei=Ug-4arqwDdSO4-EP26r1qQc&start=30&sa=N&sstk=AS6-VmIooyLX5e5-EaYSk2YeI1jnXNis7uhbnqM5qN8Vrc3UW-NoAdokMLi8cl5k_fZ0QUCVXGFAhfw8ozUfOPYwslItrHiVXSYvew&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ8tMDegQIXBAI",
+      "5": "https://www.google.com/search?q=top+collagen+peptide+powders+for+joint+health&sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&ei=Ug-4arqwDdSO4-EP26r1qQc&start=40&sa=N&sstk=AS6-VmIooyLX5e5-EaYSk2YeI1jnXNis7uhbnqM5qN8Vrc3UW-NoAdokMLi8cl5k_fZ0QUCVXGFAhfw8ozUfOPYwslItrHiVXSYvew&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ8tMDegQIXBAK",
+      "6": "https://www.google.com/search?q=top+collagen+peptide+powders+for+joint+health&sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&ei=Ug-4arqwDdSO4-EP26r1qQc&start=50&sa=N&sstk=AS6-VmIooyLX5e5-EaYSk2YeI1jnXNis7uhbnqM5qN8Vrc3UW-NoAdokMLi8cl5k_fZ0QUCVXGFAhfw8ozUfOPYwslItrHiVXSYvew&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ8tMDegQIXBAM",
+      "7": "https://www.google.com/search?q=top+collagen+peptide+powders+for+joint+health&sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&ei=Ug-4arqwDdSO4-EP26r1qQc&start=60&sa=N&sstk=AS6-VmIooyLX5e5-EaYSk2YeI1jnXNis7uhbnqM5qN8Vrc3UW-NoAdokMLi8cl5k_fZ0QUCVXGFAhfw8ozUfOPYwslItrHiVXSYvew&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ8tMDegQIXBAO",
+      "8": "https://www.google.com/search?q=top+collagen+peptide+powders+for+joint+health&sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&ei=Ug-4arqwDdSO4-EP26r1qQc&start=70&sa=N&sstk=AS6-VmIooyLX5e5-EaYSk2YeI1jnXNis7uhbnqM5qN8Vrc3UW-NoAdokMLi8cl5k_fZ0QUCVXGFAhfw8ozUfOPYwslItrHiVXSYvew&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ8tMDegQIXBAQ",
+      "9": "https://www.google.com/search?q=top+collagen+peptide+powders+for+joint+health&sca_esv=69f18be9691a8a30&gl=us&hl=en&sxsrf=APpeQnv1yujbzz1YyD4bwtXl1E25_1BGRg:1790447442226&ei=Ug-4arqwDdSO4-EP26r1qQc&start=80&sa=N&sstk=AS6-VmIooyLX5e5-EaYSk2YeI1jnXNis7uhbnqM5qN8Vrc3UW-NoAdokMLi8cl5k_fZ0QUCVXGFAhfw8ozUfOPYwslItrHiVXSYvew&ved=2ahUKEwi6oaG-8IyXAxVUxzgGHVtVPXUQ8tMDegQIXBAS"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=top+collagen+peptide+powders+for+joint+health&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=top+collagen+peptide+powders+for+joint+health&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=top+collagen+peptide+powders+for+joint+health&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=top+collagen+peptide+powders+for+joint+health&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=top+collagen+peptide+powders+for+joint+health&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=top+collagen+peptide+powders+for+joint+health&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=top+collagen+peptide+powders+for+joint+health&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=top+collagen+peptide+powders+for+joint+health&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=top+collagen+peptide+powders+for+joint+health&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=DC+Ranch%2C+Arizona%2C+United+States&q=top+collagen+peptide+powders+for+joint+health&start=80"
+    }
+  }
+}
